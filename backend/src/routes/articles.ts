@@ -1,47 +1,48 @@
 import { FastifyInstance } from 'fastify';
+import { articleRepository } from '../repositories/article.repository.js';
 
 export async function articleRoutes(fastify: FastifyInstance) {
   // GET /api/articles
   fastify.get('/', async () => {
-    return {
-      data: [
-        {
-          id: '1',
-          title: 'Статья 1',
-          slug: 'article-1',
-          excerpt: 'Краткое описание статьи',
-          content: 'Полное содержание статьи',
-          category: 'Аналитика',
-          tags: ['прогнозы', 'анализ'],
-          isPublished: true,
-          publishedAt: new Date().toISOString(),
-          views: 0,
-          readingTime: 5,
-        },
-      ],
-      message: 'Articles retrieved successfully',
-    };
+    try {
+      const articles = await articleRepository.findAll();
+      return {
+        data: articles,
+        message: 'Articles retrieved successfully',
+      };
+    } catch (error) {
+      fastify.log.error(error);
+      return {
+        data: [],
+        message: 'Error retrieving articles',
+        error: error instanceof Error ? error.message : 'Unknown error',
+      };
+    }
   });
 
   // GET /api/articles/:id
-  fastify.get('/:id', async (request) => {
-    const { id } = request.params as { id: string };
-    return {
-      data: {
-        id,
-        title: 'Статья 1',
-        slug: 'article-1',
-        excerpt: 'Краткое описание статьи',
-        content: 'Полное содержание статьи',
-        category: 'Аналитика',
-        tags: ['прогнозы', 'анализ'],
-        isPublished: true,
-        publishedAt: new Date().toISOString(),
-        views: 0,
-        readingTime: 5,
-      },
-      message: 'Article retrieved successfully',
-    };
+  fastify.get('/:id', async (request, reply) => {
+    try {
+      const { id } = request.params as { id: string };
+      const article = await articleRepository.findById(id);
+      
+      if (!article) {
+        return reply.code(404).send({
+          message: 'Article not found',
+        });
+      }
+
+      return {
+        data: article,
+        message: 'Article retrieved successfully',
+      };
+    } catch (error) {
+      fastify.log.error(error);
+      return reply.code(500).send({
+        message: 'Error retrieving article',
+        error: error instanceof Error ? error.message : 'Unknown error',
+      });
+    }
   });
 }
 

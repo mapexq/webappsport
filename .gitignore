@@ -38,3 +38,9 @@ frontend/.vite/
 # Fastify
 backend/.fastify/
 
+# Database
+*.db
+*.db-journal
+backend/prisma/dev.db
+backend/prisma/dev.db-journal
+

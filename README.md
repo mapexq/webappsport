@@ -25,6 +25,8 @@ betpro/
 - TypeScript
 - Fastify
 - @fastify/cors
+- Prisma ORM
+- SQLite (для разработки, можно переключиться на PostgreSQL)
 
 ### Shared
 - TypeScript типы для общих сущностей
@@ -84,6 +86,64 @@ npm run dev
 
 Backend API доступен на http://localhost:3001
 
+#### База данных
+
+Проект использует Prisma ORM с SQLite для разработки.
+
+**Первоначальная настройка:**
+
+1. Установите зависимости (если еще не установлены):
+```bash
+cd backend
+npm install
+```
+
+2. Создайте файл `.env` в папке `backend` (если его нет):
+```bash
+DATABASE_URL="file:./dev.db"
+```
+
+3. Сгенерируйте Prisma клиент:
+```bash
+cd backend
+npm run db:generate
+```
+
+4. Примените миграции (создаст базу данных и таблицы):
+```bash
+cd backend
+npm run db:migrate
+```
+
+Или используйте `db:push` для быстрой синхронизации схемы без миграций:
+```bash
+cd backend
+npm run db:push
+```
+
+5. Заполните базу данных тестовыми данными:
+```bash
+cd backend
+npm run db:seed
+```
+
+**Полезные команды:**
+
+- `npm run db:generate` - Генерация Prisma клиента
+- `npm run db:migrate` - Создание и применение миграций
+- `npm run db:push` - Быстрая синхронизация схемы (без миграций)
+- `npm run db:seed` - Заполнение БД тестовыми данными
+- `npm run db:studio` - Открыть Prisma Studio (GUI для просмотра данных)
+
+**Модели базы данных:**
+
+- `Bookmaker` - Букмекерские конторы (name, rating, bonusAmount, tags, features)
+- `Forecast` - Прогнозы на спорт (eventName, sport, tournament, expertName, odds, pick, comment)
+- `News` - Новости (title, sport, category, imageUrl, teaser, sourceName, sourceUrl)
+- `Article` - Статьи (title, level, tags, readTimeMinutes, contentShort, contentUrl)
+
+Все модели включают стандартные поля: `id`, `createdAt`, `updatedAt`.
+
 ### API Endpoints
 
 - `GET /api/bookmakers` - Список букмекеров
@@ -119,7 +179,7 @@ cd backend && npm run build
 ## Следующие шаги
 
 1. ✅ Скелет монорепо
-2. ⏳ Настройка базы данных (PostgreSQL + Prisma)
+2. ✅ Настройка базы данных (SQLite + Prisma)
 3. ⏳ Реализация парсинга данных
 4. ⏳ Полная реализация API
 5. ⏳ Интеграция Frontend с Backend

@@ -1,0 +1,75 @@
+// This is your Prisma schema file,
+// learn more about it in the docs: https://pris.ly/d/prisma-schema
+
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "sqlite"
+  url      = env("DATABASE_URL")
+}
+
+model Bookmaker {
+  id          String   @id @default(uuid())
+  name        String
+  rating      Float
+  bonusAmount String?
+  tags        String   // JSON array as string
+  features    String   // JSON array as string
+  createdAt   DateTime @default(now())
+  updatedAt   DateTime @updatedAt
+
+  @@map("bookmakers")
+}
+
+model Forecast {
+  id              String    @id @default(uuid())
+  eventName       String
+  sport           String
+  tournament      String?
+  expertName      String
+  expertAvatarUrl String?
+  expertLevel     String?
+  odds            Float
+  pick            String
+  comment         String?
+  sourceName      String?
+  sourceUrl       String?
+  publishedAt     DateTime?
+  createdAt       DateTime  @default(now())
+  updatedAt       DateTime  @updatedAt
+
+  @@map("forecasts")
+}
+
+model News {
+  id          String    @id @default(uuid())
+  title       String
+  sport       String?
+  category    String?
+  imageUrl    String?
+  teaser      String?
+  sourceName  String?
+  sourceUrl   String?
+  publishedAt DateTime?
+  createdAt   DateTime  @default(now())
+  updatedAt   DateTime  @updatedAt
+
+  @@map("news")
+}
+
+model Article {
+  id              String   @id @default(uuid())
+  title           String
+  level           String?
+  tags            String   // JSON array as string
+  readTimeMinutes Int?
+  contentShort    String?
+  contentUrl      String?
+  createdAt       DateTime @default(now())
+  updatedAt       DateTime @updatedAt
+
+  @@map("articles")
+}
+
