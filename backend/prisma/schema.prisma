@@ -28,12 +28,17 @@ model Forecast {
   eventName       String
   sport           String
   tournament      String?
+  match           String?  // команда1 vs команда2
   expertName      String
   expertAvatarUrl String?
   expertLevel     String?
-  odds            Float
+  expertStatus    String?   // "эксперт" или "любитель"
+  odds            Float?
   pick            String
+  prediction      String?   // тип ставки, например "Ф1 (-1,5)"
+  winrate         Float?    // винрейт эксперта 60-85%
   comment         String?
+  fullText        String?   // полный текст анализа
   sourceName      String?
   sourceUrl       String?
   publishedAt     DateTime?
@@ -50,6 +55,7 @@ model News {
   category    String?
   imageUrl    String?
   teaser      String?
+  fullContent String?   // полный текст новости (опционально, для детальной страницы)
   sourceName  String?
   sourceUrl   String?
   publishedAt DateTime?

@@ -20,6 +20,7 @@ export class NewsRepository {
     category?: string;
     imageUrl?: string;
     teaser?: string;
+    fullContent?: string;
     sourceName?: string;
     sourceUrl?: string;
     publishedAt?: Date;
@@ -37,6 +38,7 @@ export class NewsRepository {
       category: string;
       imageUrl: string;
       teaser: string;
+      fullContent: string;
       sourceName: string;
       sourceUrl: string;
       publishedAt: Date;
@@ -52,6 +54,37 @@ export class NewsRepository {
     await prisma.news.delete({
       where: { id },
     });
+  }
+
+  async deleteAll(): Promise<void> {
+    await prisma.news.deleteMany({});
+  }
+
+  async createMany(data: Array<{
+    id?: string;
+    title: string;
+    sport?: string;
+    category?: string;
+    imageUrl?: string;
+    teaser?: string;
+    fullContent?: string;
+    sourceName?: string;
+    sourceUrl?: string;
+    publishedAt?: Date;
+  }>): Promise<number> {
+    const result = await prisma.news.createMany({
+      data,
+      skipDuplicates: true,
+    });
+    return result.count;
+  }
+
+  async getLastUpdate(): Promise<Date | null> {
+    const lastNews = await prisma.news.findFirst({
+      orderBy: { updatedAt: 'desc' },
+      select: { updatedAt: true },
+    });
+    return lastNews?.updatedAt || null;
   }
 }
 
