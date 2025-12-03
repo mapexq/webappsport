@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<network-security-config>
+    <!-- Разрешаем загрузку с Unsplash и других внешних источников -->
+    <domain-config cleartextTrafficPermitted="true">
+        <domain includeSubdomains="true">images.unsplash.com</domain>
+        <domain includeSubdomains="true">unsplash.com</domain>
+    </domain-config>
+    
+    <!-- Разрешаем загрузку с GitHub -->
+    <domain-config cleartextTrafficPermitted="false">
+        <domain includeSubdomains="true">raw.githubusercontent.com</domain>
+        <domain includeSubdomains="true">github.com</domain>
+    </domain-config>
+    
+    <!-- Разрешаем загрузку с других источников -->
+    <base-config cleartextTrafficPermitted="true">
+        <trust-anchors>
+            <certificates src="system" />
+        </trust-anchors>
+    </base-config>
+</network-security-config>
+

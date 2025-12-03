@@ -6,6 +6,16 @@ import { useState } from 'react';
 import { Dialog, DialogContent, DialogTitle, DialogDescription } from './ui/dialog';
 import * as VisuallyHidden from '@radix-ui/react-visually-hidden';
 
+// Импорт локальных обложек статей
+import articleCover1 from '../assets/articles/article-1.svg';
+import articleCover2 from '../assets/articles/article-2.svg';
+import articleCover3 from '../assets/articles/article-3.svg';
+import articleCover4 from '../assets/articles/article-4.svg';
+import articleCover5 from '../assets/articles/article-5.svg';
+import articleCover6 from '../assets/articles/article-6.svg';
+import articleCover7 from '../assets/articles/article-7.svg';
+import articleCover8 from '../assets/articles/article-8.svg';
+
 export interface Article {
   id: number;
   title: string;
@@ -22,7 +32,7 @@ const articles: Article[] = [
     id: 1,
     title: 'Как правильно выбрать букмекерскую контору',
     description: 'Подробное руководство по выбору надёжного букмекера. Разбираем критерии оценки: лицензия, коэффициенты, линия, бонусы и скорость выплат.',
-    cover: 'https://images.unsplash.com/photo-1754301706345-3db2b505674a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&w=800&h=500',
+    cover: articleCover1,
     readTime: 4,
     category: 'Основы',
     difficulty: 'beginner',
@@ -39,7 +49,7 @@ const articles: Article[] = [
     id: 2,
     title: 'Что такое маржа букмекера и как она влияет на ставки',
     description: 'Разбираемся в понятии маржи, учимся её рассчитывать и понимать, как она влияет на вашу прибыль в долгосрочной перспективе.',
-    cover: 'https://images.unsplash.com/photo-1709880945165-d2208c6ad2ec?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&w=800&h=500',
+    cover: articleCover2,
     readTime: 3,
     category: 'Основы',
     difficulty: 'beginner',
@@ -55,7 +65,7 @@ const articles: Article[] = [
     id: 3,
     title: 'Управление банкроллом: стратегии и правила',
     description: 'Как правильно управлять своим бюджетом для ставок. Фиксированные ставки, проценты от банка, критерий Келли и другие методы.',
-    cover: 'https://images.unsplash.com/photo-1563212034-a3c52118cce2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&w=800&h=500',
+    cover: articleCover3,
     readTime: 5,
     category: 'Стратегии',
     difficulty: 'intermediate',
@@ -72,7 +82,7 @@ const articles: Article[] = [
     id: 4,
     title: 'Value betting: поиск ценных коэффициентов',
     description: 'Продвинутая стратегия поиска переоценённых событий. Учимся находить расхождения между реальной вероятностью и коэффициентами букмекера.',
-    cover: 'https://images.unsplash.com/photo-1758873271740-f1fd6c6f1524?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&w=800&h=500',
+    cover: articleCover4,
     readTime: 5,
     category: 'Стратегии',
     difficulty: 'advanced',
@@ -89,7 +99,7 @@ const articles: Article[] = [
     id: 5,
     title: 'Анализ статистики в ставках на футбол',
     description: 'Какие метрики важны при анализе футбольных матчей: xG, владение мячом, удары в створ, форма команды и другие показатели.',
-    cover: 'https://images.unsplash.com/photo-1473976345543-9ffc928e648d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&w=800&h=500',
+    cover: articleCover5,
     readTime: 4,
     category: 'Анализ',
     difficulty: 'intermediate',
@@ -106,7 +116,7 @@ const articles: Article[] = [
     id: 6,
     title: 'Психология беттинга: как избежать типичных ошибок',
     description: 'Разбираем психологические ловушки: погоня за проигрышем, ставки на любимую команду, влияние эмоций и способы их контроля.',
-    cover: 'https://images.unsplash.com/photo-1646255946369-7514716d7a21?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&w=800&h=500',
+    cover: articleCover6,
     readTime: 4,
     category: 'Психология',
     difficulty: 'intermediate',
@@ -123,7 +133,7 @@ const articles: Article[] = [
     id: 7,
     title: 'Live-ставки: особенности и стратегии',
     description: 'Как делать ставки в режиме реального времени. Преимущества лайв-беттинга, инструменты анализа и эффективные тактики.',
-    cover: 'https://images.unsplash.com/photo-1642506539297-6021bf65badc?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&w=800&h=500',
+    cover: articleCover7,
     readTime: 5,
     category: 'Стратегии',
     difficulty: 'advanced',
@@ -140,7 +150,7 @@ const articles: Article[] = [
     id: 8,
     title: 'Экспресс-ставки: риски и возможности',
     description: 'Всё об экспрессах: как их составлять, какие события выбирать, как рассчитывать вероятность прохода и управлять рисками.',
-    cover: 'https://images.unsplash.com/photo-1730933900185-6bf7eeefe23f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&w=800&h=500',
+    cover: articleCover8,
     readTime: 4,
     category: 'Основы',
     difficulty: 'beginner',

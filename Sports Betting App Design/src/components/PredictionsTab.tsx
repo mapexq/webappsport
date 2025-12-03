@@ -4,6 +4,7 @@ import { Filter, Trophy, Zap, ChevronDown, ChevronUp, RefreshCw } from 'lucide-r
 import { useState, useEffect } from 'react';
 import { toast } from 'sonner@2.0.3';
 import { apiService } from '../services/api';
+import { ImageWithFallback } from './figma/ImageWithFallback';
 
 export interface Prediction {
   id: number;
@@ -208,7 +209,7 @@ export function PredictionsTab() {
             </div>
 
             <div className="flex items-center gap-3 mb-6 p-4 bg-zinc-900/50 rounded-lg border border-zinc-800">
-              <img
+              <ImageWithFallback
                 src={featuredPrediction.expert.avatar}
                 alt={featuredPrediction.expert.name}
                 className="size-12 rounded-full object-cover"

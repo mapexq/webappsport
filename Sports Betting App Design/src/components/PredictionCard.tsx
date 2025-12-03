@@ -2,6 +2,7 @@ import { BadgeCheck, ChevronDown, ChevronUp } from 'lucide-react';
 import { Badge } from './ui/badge';
 import type { Prediction } from './PredictionsTab';
 import { useState } from 'react';
+import { ImageWithFallback } from './figma/ImageWithFallback';
 
 interface PredictionCardProps {
   prediction: Prediction;
@@ -37,7 +38,7 @@ export function PredictionCard({ prediction }: PredictionCardProps) {
 
       {/* Expert Profile */}
       <div className="flex items-center gap-3 mb-6 p-4 bg-zinc-900/50 rounded-lg border border-zinc-800">
-        <img
+        <ImageWithFallback
           src={prediction.expert.avatar}
           alt={prediction.expert.name}
           className="size-12 rounded-full object-cover"

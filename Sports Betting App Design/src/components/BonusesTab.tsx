@@ -1,5 +1,6 @@
 import { BookmakerCard } from './BookmakerCard';
 import { TrendingUp, Star, Gift, Award } from 'lucide-react';
+import { ImageWithFallback } from './figma/ImageWithFallback';
 import pariLogo from 'figma:asset/eadd68338a1836c8882d99a00020ab22178df278.png';
 import winlineLogo from 'figma:asset/cd63b9d71bf80f99da220730e2da2673c51aca65.png';
 import betboomLogo from 'figma:asset/ff03a49e58d99ea263b44492a657d8f8a102fd37.png';
@@ -175,7 +176,7 @@ export function BonusesTab() {
                 <div className="flex items-center gap-4">
                   {topBookmaker.logoImage ? (
                     <div className="size-16 rounded-xl flex items-center justify-center overflow-hidden">
-                      <img src={topBookmaker.logoImage} alt={topBookmaker.name} className="w-full h-full object-cover" />
+                      <ImageWithFallback src={topBookmaker.logoImage} alt={topBookmaker.name} className="w-full h-full object-cover" />
                     </div>
                   ) : (
                     <div className="size-16 bg-gradient-to-br from-green-400 to-emerald-500 rounded-xl flex items-center justify-center text-2xl text-zinc-900 text-[24px]">

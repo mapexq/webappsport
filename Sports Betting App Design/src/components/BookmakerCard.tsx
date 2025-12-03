@@ -1,5 +1,6 @@
 import { Star } from 'lucide-react';
 import type { Bookmaker } from './BonusesTab';
+import { ImageWithFallback } from './figma/ImageWithFallback';
 
 interface BookmakerCardProps {
   bookmaker: Bookmaker;
@@ -12,7 +13,7 @@ export function BookmakerCard({ bookmaker }: BookmakerCardProps) {
       <div className="flex items-center gap-3 mb-6">
         {bookmaker.logoImage ? (
           <div className="flex items-center justify-center size-16 rounded-xl overflow-hidden">
-            <img src={bookmaker.logoImage} alt={bookmaker.name} className="w-full h-full object-cover" />
+            <ImageWithFallback src={bookmaker.logoImage} alt={bookmaker.name} className="w-full h-full object-cover" />
           </div>
         ) : (
           <div className="flex items-center justify-center size-16 bg-gradient-to-br from-green-400 to-emerald-500 rounded-xl text-lg text-zinc-900 font-bold text-[24px]">
