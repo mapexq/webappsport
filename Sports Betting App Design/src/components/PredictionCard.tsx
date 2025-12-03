@@ -2,7 +2,6 @@ import { BadgeCheck, ChevronDown, ChevronUp } from 'lucide-react';
 import { Badge } from './ui/badge';
 import type { Prediction } from './PredictionsTab';
 import { useState } from 'react';
-import { formatTimeAgo } from '../utils/timeUtils';
 
 interface PredictionCardProps {
   prediction: Prediction;
@@ -27,8 +26,6 @@ export function PredictionCard({ prediction }: PredictionCardProps) {
             <Badge className="bg-zinc-900/50 text-zinc-400 border-zinc-700 h-8 px-3 text-xs">
               {prediction.discipline}
             </Badge>
-            <span className="text-zinc-600">•</span>
-            <span className="text-sm text-zinc-500 font-bold">{prediction.tournament}</span>
           </div>
           <h3 className="text-lg text-white font-bold text-[20px]">{prediction.eventName}</h3>
         </div>
@@ -91,29 +88,7 @@ export function PredictionCard({ prediction }: PredictionCardProps) {
       </div>
 
       {/* Footer */}
-      <div className="flex items-center justify-between text-xs text-zinc-500">
-        <span className="font-bold text-[14px]">
-          {(() => {
-            if (prediction.publishedAt) {
-              try {
-                const formatted = formatTimeAgo(prediction.publishedAt);
-                // Отладочное логирование (можно убрать после проверки)
-                if (formatted === '0' || formatted === 'NaN' || isNaN(Number(formatted))) {
-                  console.warn('⚠️ formatTimeAgo вернул некорректное значение:', {
-                    publishedAt: prediction.publishedAt,
-                    formatted,
-                    predictionId: prediction.id
-                  });
-                }
-                return formatted;
-              } catch (error) {
-                console.error('Ошибка в formatTimeAgo:', error, prediction.publishedAt);
-                return prediction.timestamp;
-              }
-            }
-            return prediction.timestamp;
-          })()}
-        </span>
+      <div className="flex items-center justify-start text-xs text-zinc-500">
         <span className="font-bold text-[14px]">{prediction.source}</span>
       </div>
     </div>

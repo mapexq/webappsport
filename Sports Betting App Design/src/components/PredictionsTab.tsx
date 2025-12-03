@@ -198,8 +198,6 @@ export function PredictionsTab() {
                   <Badge className="bg-zinc-900/50 text-zinc-400 border-zinc-700 h-8 px-3 text-xs text-[14px]">
                     {featuredPrediction.discipline}
                   </Badge>
-                  <span className="text-zinc-600">•</span>
-                  <span className="text-sm text-zinc-500 font-bold text-[14px]">{featuredPrediction.tournament}</span>
                 </div>
                 <h3 className="text-lg text-white font-bold text-[20px]">{featuredPrediction.eventName}</h3>
               </div>
@@ -254,8 +252,7 @@ export function PredictionsTab() {
               )}
             </div>
 
-            <div className="flex items-center justify-between text-xs text-zinc-500">
-              <span className="font-bold text-[14px]">{featuredPrediction.timestamp}</span>
+            <div className="flex items-center justify-start text-xs text-zinc-500">
               <span className="font-bold text-[14px]">{featuredPrediction.source}</span>
             </div>
           </div>

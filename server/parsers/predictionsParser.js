@@ -1,6 +1,5 @@
 import axios from 'axios';
 import * as cheerio from 'cheerio';
-import { findTimestampInCard, parseTimestampToDate } from './timestampUtils.js';
 
 /**
  * Парсер прогнозов с сайта bookmaker-ratings.ru/forecast_homepage/
@@ -53,7 +52,6 @@ export class PredictionsParser {
         }
 
         const expertName = this.findExpertName($card, $);
-        const timestamp = this.findTimestamp($card, $);
         const title = this.findTitle($card, $);
         const comment = this.findComment($card, $);
         const matchInfo = this.findMatchInfo($card, $);
@@ -73,7 +71,6 @@ export class PredictionsParser {
           if (!isDuplicate) {
             predictions.push({
               expertName,
-              timestamp,
               title,
               comment,
               matchInfo,
@@ -100,7 +97,6 @@ export class PredictionsParser {
           }
           
           const expertName = this.findExpertName($card, $);
-          const timestamp = this.findTimestamp($card, $);
           const title = this.findTitle($card, $);
           const comment = this.findComment($card, $);
           const matchInfo = this.findMatchInfo($card, $);
@@ -120,7 +116,6 @@ export class PredictionsParser {
             if (!isDuplicate) {
               predictions.push({
                 expertName,
-                timestamp,
                 title,
                 comment,
                 matchInfo,
@@ -151,14 +146,12 @@ export class PredictionsParser {
     // Ищем карточки с временем публикации (time элементы)
     $('time').each((index, element) => {
       const $time = $(element);
-        const timestamp = this.findTimestamp($time.closest('div'), $) || 'Недавно';
       
       // Ищем родительский контейнер карточки
       const $card = $time.closest('div').parent().parent();
       
       if ($card.length > 0) {
         const expertName = this.findExpertName($card, $);
-        const timestamp = this.findTimestamp($card, $);
         const title = this.findTitle($card, $);
         const comment = this.findComment($card, $);
         const matchInfo = this.findMatchInfo($card, $);
@@ -169,7 +162,6 @@ export class PredictionsParser {
         if (expertName && prediction && odds) {
           predictions.push({
             expertName,
-            timestamp,
             title,
             comment,
             matchInfo,
@@ -272,9 +264,7 @@ export class PredictionsParser {
     return 'Недавно';
   }
 
-  findTimestamp($card, $) {
-    return findTimestampInCard($card, $);
-  }
+
 
   /**
    * Извлекает заголовок прогноза
@@ -499,50 +489,8 @@ export class PredictionsParser {
       }
     }
     
-    // Если нашли текст прогноза, ищем в нем все отдельные прогнозы
+    // Если нашли текст прогноза, возвращаем его целиком
     if (predictionText) {
-      const predictions = [];
-      
-      // Паттерны для поиска отдельных прогнозов (в порядке приоритета)
-      const predictionPatterns = [
-        // Сложные прогнозы с периодом и форой
-        /\d+[-яя]\s+половина\s*-\s*Ф\d+\s*\([^)]+\)/gi,
-        /\d+[-яя]\s+четверть\s*-\s*Ф\d+\s*\([^)]+\)/gi,
-        /\d+[-йя]\s+гол\s*-\s*[^.]*/gi,
-        // Форы с полным описанием (например, "Ф1 (0) по угловым")
-        /Ф\d+\s*\([^)]+\)\s+по\s+[А-ЯЁа-яё]+/gi,
-        // Форы с коэффициентами в скобках
-        /Ф\d+\s*\([^)]+\)/gi,
-        // Тоталы
-        /(ТБ|ТМ)\s*\([^)]+\)/gi,
-        // Исходы (П1, П2, Х, 1X, X2, 12)
-        /(П\d+|Х\d*|1X|X2|12)/gi,
-        // Обе забьют
-        /Обе\s+забьют[^:]*:[^.]*/gi,
-        // Индивидуальные тоталы
-        /(ИТБ\d+\s*\([^)]+\)|ИТМ\d+\s*\([^)]+\))/gi,
-        // Форы без скобок (fallback)
-        /Ф\d+\s*[+-]?\d*/gi,
-      ];
-      
-      // Ищем все прогнозы в тексте
-      for (const pattern of predictionPatterns) {
-        const matches = predictionText.matchAll(pattern);
-        for (const match of matches) {
-          const pred = match[0].trim();
-          // Проверяем, что это не часть другого прогноза
-          if (pred.length > 0 && !predictions.includes(pred)) {
-            predictions.push(pred);
-          }
-        }
-      }
-      
-      // Если нашли несколько прогнозов, объединяем их через "и"
-      if (predictions.length > 0) {
-        return predictions.join(' и ');
-      }
-      
-      // Если не нашли отдельные прогнозы, возвращаем весь текст
       return predictionText;
     }
 
@@ -763,47 +711,11 @@ export class PredictionsParser {
       // Просто используем его без агрессивной очистки
       let eventName = pred.matchInfo?.teams || pred.title?.split(':')[0] || 'Матч';
       
-      // Очищаем лигу от лишнего текста
-      let tournament = pred.matchInfo?.league || 'Чемпионат';
-      tournament = tournament.replace(/[ПХ12]\d*.*$/, '').trim(); // Удаляем прогноз если попал
-      tournament = tournament.replace(/^\s*•\s*/, '').trim(); // Удаляем начальный разделитель
-      tournament = tournament.replace(/^[А-ЯЁа-яё]+\s*-\s*[А-ЯЁа-яё]+.*$/, '').trim(); // Удаляем название матча если попал
-      
-      // Если лига слишком короткая или пустая, определяем по URL или другим признакам
-      if (!tournament || tournament.length < 2 || tournament === 'Н') {
-        // Пытаемся определить по названию матча или другим признакам
-        const eventLower = eventName.toLowerCase();
-        if (eventLower.includes('нхл') || eventLower.includes('айлендерс') || eventLower.includes('рейнджерс') || 
-            eventLower.includes('флорида') || eventLower.includes('торонто') || eventLower.includes('колорадо') ||
-            eventLower.includes('ванкувер') || eventLower.includes('эдмонтон') || eventLower.includes('миннесота') ||
-            eventLower.includes('вегас') || eventLower.includes('чикаго') || eventLower.includes('тампа')) {
-          tournament = 'НХЛ';
-        } else if (eventLower.includes('нба') || eventLower.includes('филадельфия') || eventLower.includes('вашингтон') ||
-                   eventLower.includes('сан-антонио') || eventLower.includes('мемфис') || eventLower.includes('бостон') ||
-                   eventLower.includes('нью-йорк') || eventLower.includes('селтикс') || eventLower.includes('никс') ||
-                   eventLower.includes('голден стэйт') || eventLower.includes('оклахома')) {
-          tournament = 'НБА';
-        } else if (eventLower.includes('ла лига') || eventLower.includes('атлетик') || eventLower.includes('реал')) {
-          tournament = 'Ла Лига';
-        } else if (eventLower.includes('апл') || eventLower.includes('вулверхэмптон') || eventLower.includes('ноттингем')) {
-          tournament = 'АПЛ';
-        } else {
-          tournament = 'Чемпионат';
-        }
-      }
-      
-      // Определяем дисциплину по турниру (если еще не определена правильно)
-      if (discipline === 'Футбол' && (tournament === 'НХЛ' || tournament === 'КХЛ')) {
-        discipline = 'Хоккей';
-      } else if (discipline === 'Футбол' && tournament === 'НБА') {
-        discipline = 'Баскетбол';
-      }
-      
       return {
         id: Date.now() + index,
         eventName: eventName,
         discipline: discipline,
-        tournament: tournament || 'Чемпионат',
+        tournament: '',
         expert: {
           name: pred.expertName || 'Эксперт',
           avatar: pred.avatar || 'https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=100&h=100&fit=crop',
@@ -814,23 +726,6 @@ export class PredictionsParser {
         odds: pred.odds || 1.85,
         comment: pred.comment || pred.title || 'Комментарий к прогнозу',
         source: 'Sports Analytics Pro',
-        timestamp: pred.timestamp || 'Недавно',
-        publishedAt: (() => {
-          try {
-            if (!pred.timestamp || pred.timestamp === 'Недавно') {
-              return new Date().toISOString();
-            }
-            const date = parseTimestampToDate(pred.timestamp);
-            if (isNaN(date.getTime())) {
-              console.warn(`Не удалось распарсить время: "${pred.timestamp}"`);
-              return new Date().toISOString();
-            }
-            return date.toISOString();
-          } catch (error) {
-            console.error(`Ошибка при парсинге времени "${pred.timestamp}":`, error);
-            return new Date().toISOString();
-          }
-        })()
       };
     });
   }
@@ -873,10 +768,10 @@ export class PredictionsParser {
   /**
    * Получает винрейт эксперта по его имени
    * @param {string} expertName - Имя эксперта
-   * @returns {number} - Винрейт от 60 до 80
+   * @returns {number} - Винрейт от 68 до 91
    */
   getWinRateForExpert(expertName) {
-    if (!expertName) return 65;
+    if (!expertName) return 75;
     
     // Простая хеш-функция для стабильного винрейта для одного эксперта
     let hash = 0;
@@ -885,8 +780,8 @@ export class PredictionsParser {
       hash = hash & hash; // Convert to 32bit integer
     }
     
-    // Генерируем винрейт от 60 до 80 на основе хеша
-    const winRate = 60 + (Math.abs(hash) % 21);
+    // Генерируем винрейт от 68 до 91 на основе хеша
+    const winRate = 68 + (Math.abs(hash) % 24);
     return winRate;
   }
 }
