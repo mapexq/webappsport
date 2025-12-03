@@ -44,7 +44,7 @@ npm run dev
    - Аватар эксперта (expert.avatar)
    - Имя эксперта (expert.name)
    - Статус "Эксперт" (expert.status)
-   - Винрейт (expert.winRate) - генерируется случайно от 60 до 80
+   - Винрейт (expert.winRate) - генерируется случайно от 68 до 89
    - Прогноз (prediction)
    - Комментарий (comment)
 3. **Обновление**: 

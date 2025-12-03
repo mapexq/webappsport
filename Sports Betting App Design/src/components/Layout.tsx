@@ -3,6 +3,7 @@ import { Gift, TrendingUp, Newspaper, BookOpen } from 'lucide-react';
 import { ConnectionStatus } from './ConnectionStatus';
 import { Toaster } from './ui/sonner';
 import { useAppStore } from '../store/appStore';
+import { useNewsRefresh } from '../hooks/useNewsRefresh';
 
 type TabType = 'bonuses' | 'predictions' | 'news' | 'articles';
 
@@ -17,6 +18,9 @@ export function Layout() {
   const navigate = useNavigate();
   const location = useLocation();
   const { connectionIssue, setConnectionIssue } = useAppStore();
+  
+  // Автоматическое обновление новостей при заходе в приложение
+  useNewsRefresh();
 
   const handleRetry = () => {
     console.log('Повторная проверка запущена');

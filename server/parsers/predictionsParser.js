@@ -468,56 +468,124 @@ export class PredictionsParser {
   }
 
   findPrediction($card, $) {
-    const text = $card.text();
+    // Метод 1: Ищем элемент с SVG часов (эмодзи часов) и берем весь текст после него
+    // SVG имеет href="/static/sprite-group/bet.svg#time" или похожий
+    const $timeIcon = $card.find('svg use[href*="bet.svg#time"], svg use[href*="time"], svg[class*="time"], use[href*="bet.svg#time"], use[href*="time"]');
     
-        // Метод 1: Ищем полный текст после "Моя ставка:" или "Мой прогноз:"
+    if ($timeIcon.length > 0) {
+      // Находим родительский элемент, содержащий SVG и текст прогноза
+      let $predictionContainer = $timeIcon.closest('div, span, p, a');
+      
+      if ($predictionContainer.length > 0) {
+        // Получаем весь HTML контейнера
+        const html = $predictionContainer.html() || '';
+        
+        // Удаляем SVG из HTML, оставляя только текст
+        const textWithoutSvg = html
+          .replace(/<svg[^>]*>[\s\S]*?<\/svg>/gi, '') // Удаляем SVG теги
+          .replace(/<use[^>]*>/gi, '') // Удаляем use теги
+          .replace(/<[^>]+>/g, ' ') // Удаляем все остальные HTML теги
+          .replace(/\s+/g, ' ') // Нормализуем пробелы
+          .trim();
+        
+        // Если нашли текст, возвращаем его целиком
+        if (textWithoutSvg && textWithoutSvg.length > 0) {
+          // Убираем возможные лишние части (коэффициент, если он есть в конце)
+          // Но оставляем весь текст прогноза, включая сложные варианты
+          let prediction = textWithoutSvg;
+          
+          // Удаляем коэффициент в конце, если он есть (формат: "1.80" или "коэф. 1.80")
+          prediction = prediction.replace(/\s*(?:коэф\.?|коэффициентом)\s*\d+\.\d+\s*$/i, '').trim();
+          prediction = prediction.replace(/\s+\d+\.\d{2}\s*$/, '').trim();
+          
+          if (prediction.length > 0) {
+            return prediction;
+          }
+        }
+        
+        // Альтернативный способ: берем весь текстовый контент элемента
+        const fullText = $predictionContainer.text().trim();
+        if (fullText && fullText.length > 0) {
+          // Удаляем время из начала, если оно есть
+          let prediction = fullText.replace(/^Через\s+\d+\s+(?:минут|час|часа|часов)[^•]*•\s*[^•]*•\s*/i, '').trim();
+          
+          // Удаляем коэффициент в конце
+          prediction = prediction.replace(/\s*(?:коэф\.?|коэффициентом)\s*\d+\.\d+\s*$/i, '').trim();
+          prediction = prediction.replace(/\s+\d+\.\d{2}\s*$/, '').trim();
+          
+          if (prediction.length > 0) {
+            return prediction;
+          }
+        }
+      }
+    }
+    
+    // Метод 2: Ищем элемент, который идет после элемента с временем "Через X минут"
+    const $timeElements = $card.find('*').filter((i, el) => {
+      const text = $(el).text() || '';
+      return text.includes('Через') && (text.includes('минут') || text.includes('час'));
+    });
+    
+    if ($timeElements.length > 0) {
+      // Берем первый элемент с временем
+      const $timeEl = $($timeElements[0]);
+      
+      // Ищем следующий элемент с прогнозом
+      let $next = $timeEl.next();
+      let attempts = 0;
+      
+      while ($next.length > 0 && attempts < 5) {
+        const nextText = $next.text().trim();
+        
+        // Проверяем, содержит ли элемент прогноз
+        if (nextText && (nextText.includes('П') || nextText.includes('ТБ') || nextText.includes('ТМ') || 
+            nextText.includes('Ф') || nextText.includes('Обе') || nextText.includes('ИТБ') || nextText.includes('ИТМ'))) {
+          // Удаляем коэффициент, если он есть
+          let prediction = nextText.replace(/\s+\d+\.\d{2}\s*$/, '').trim();
+          if (prediction.length > 0) {
+            return prediction;
+          }
+        }
+        
+        $next = $next.next();
+        attempts++;
+      }
+      
+      // Если не нашли в следующем элементе, ищем в родителе
+      let $parent = $timeEl.parent();
+      for (let i = 0; i < 3 && $parent.length > 0; i++) {
+        const parentText = $parent.text() || '';
+        
+        // Ищем прогноз после времени в тексте родителя
+        const match = parentText.match(/Через\s+\d+\s+(?:минут|час|часа|часов)[^•]*•\s*[^•]*•\s*([А-ЯЁа-яё\s\d\(\)\-\+ПХ12ТБМ,\.иилиили]+?)(?:\s+\d+\.\d{2})?/i);
+        if (match && match[1]) {
+          let prediction = match[1].trim();
+          // Удаляем коэффициент в конце
+          prediction = prediction.replace(/\s+\d+\.\d{2}\s*$/, '').trim();
+          if (prediction.length > 0) {
+            return prediction;
+          }
+        }
+        
+        $parent = $parent.parent();
+      }
+    }
+    
+    // Метод 3: Fallback - ищем полный текст после "Моя ставка:" или "Мой прогноз:"
+    const text = $card.text();
     const fullTextPatterns = [
       /(?:Моя\s+ставка|Мой\s+прогноз):\s*([^с]+?)(?:\s+с\s+коэффициентом|\s+за\s+\d+\.\d+)/i,
       /(?:Моя\s+ставка|Мой\s+прогноз):\s*([^.]{1,200})/i,
     ];
     
-    let predictionText = null;
     for (const pattern of fullTextPatterns) {
       const match = text.match(pattern);
       if (match && match[1]) {
-        predictionText = match[1].trim();
-        // Очищаем от лишнего
+        let predictionText = match[1].trim();
         predictionText = predictionText.replace(/\s+с\s+коэффициентом.*$/i, '').trim();
         if (predictionText.length > 1) {
-          break;
+          return predictionText;
         }
-      }
-    }
-    
-    // Если нашли текст прогноза, возвращаем его целиком
-    if (predictionText) {
-      return predictionText;
-    }
-
-    // Ищем стандартные типы прогнозов (включая сложные)
-    const standardPatterns = [
-      // Сложные прогнозы с периодом
-      /(\d+[-яя]\s+половина\s*-\s*Ф\d+\s*\([^)]+\))/i,
-      /(\d+[-яя]\s+четверть\s*-\s*Ф\d+\s*\([^)]+\))/i,
-      /(\d+[-йя]\s+гол\s*-\s*[^.]*)/i,
-      // Тоталы с периодом
-      /(ТБ|ТМ)\s*\([^)]+\)/i,
-      // Исходы
-      /(П\d+|Х\d+|1X|X2|12)/i,
-      // Обе забьют
-      /(Обе\s+забьют[^:]*:[^.]*)/i,
-      // Форы с коэффициентами в скобках (например, "Ф1 (+2,0)")
-      /(Ф\d+\s*\([^)]+\))/i,
-      // Форы без скобок (fallback)
-      /(Ф\d+\s*[+-]?\d*)/i,
-      // Индивидуальные тоталы
-      /(ИТБ\d+\s*\([^)]+\)|ИТМ\d+\s*\([^)]+\))/i,
-    ];
-    
-    for (const pattern of standardPatterns) {
-      const match = text.match(pattern);
-      if (match) {
-        return match[0].trim();
       }
     }
     
@@ -711,11 +779,47 @@ export class PredictionsParser {
       // Просто используем его без агрессивной очистки
       let eventName = pred.matchInfo?.teams || pred.title?.split(':')[0] || 'Матч';
       
+      // Очищаем лигу от лишнего текста
+      let tournament = pred.matchInfo?.league || 'Чемпионат';
+      tournament = tournament.replace(/[ПХ12]\d*.*$/, '').trim(); // Удаляем прогноз если попал
+      tournament = tournament.replace(/^\s*•\s*/, '').trim(); // Удаляем начальный разделитель
+      tournament = tournament.replace(/^[А-ЯЁа-яё]+\s*-\s*[А-ЯЁа-яё]+.*$/, '').trim(); // Удаляем название матча если попал
+      
+      // Если лига слишком короткая или пустая, определяем по URL или другим признакам
+      if (!tournament || tournament.length < 2 || tournament === 'Н') {
+        // Пытаемся определить по названию матча или другим признакам
+        const eventLower = eventName.toLowerCase();
+        if (eventLower.includes('нхл') || eventLower.includes('айлендерс') || eventLower.includes('рейнджерс') || 
+            eventLower.includes('флорида') || eventLower.includes('торонто') || eventLower.includes('колорадо') ||
+            eventLower.includes('ванкувер') || eventLower.includes('эдмонтон') || eventLower.includes('миннесота') ||
+            eventLower.includes('вегас') || eventLower.includes('чикаго') || eventLower.includes('тампа')) {
+          tournament = 'НХЛ';
+        } else if (eventLower.includes('нба') || eventLower.includes('филадельфия') || eventLower.includes('вашингтон') ||
+                   eventLower.includes('сан-антонио') || eventLower.includes('мемфис') || eventLower.includes('бостон') ||
+                   eventLower.includes('нью-йорк') || eventLower.includes('селтикс') || eventLower.includes('никс') ||
+                   eventLower.includes('голден стэйт') || eventLower.includes('оклахома')) {
+          tournament = 'НБА';
+        } else if (eventLower.includes('ла лига') || eventLower.includes('атлетик') || eventLower.includes('реал')) {
+          tournament = 'Ла Лига';
+        } else if (eventLower.includes('апл') || eventLower.includes('вулверхэмптон') || eventLower.includes('ноттингем')) {
+          tournament = 'АПЛ';
+        } else {
+          tournament = 'Чемпионат';
+        }
+      }
+      
+      // Определяем дисциплину по турниру (если еще не определена правильно)
+      if (discipline === 'Футбол' && (tournament === 'НХЛ' || tournament === 'КХЛ')) {
+        discipline = 'Хоккей';
+      } else if (discipline === 'Футбол' && tournament === 'НБА') {
+        discipline = 'Баскетбол';
+      }
+      
       return {
         id: Date.now() + index,
         eventName: eventName,
         discipline: discipline,
-        tournament: '',
+        tournament: tournament || 'Чемпионат',
         expert: {
           name: pred.expertName || 'Эксперт',
           avatar: pred.avatar || 'https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=100&h=100&fit=crop',
@@ -768,7 +872,7 @@ export class PredictionsParser {
   /**
    * Получает винрейт эксперта по его имени
    * @param {string} expertName - Имя эксперта
-   * @returns {number} - Винрейт от 68 до 91
+   * @returns {number} - Винрейт от 68 до 89
    */
   getWinRateForExpert(expertName) {
     if (!expertName) return 75;
@@ -780,8 +884,8 @@ export class PredictionsParser {
       hash = hash & hash; // Convert to 32bit integer
     }
     
-    // Генерируем винрейт от 68 до 91 на основе хеша
-    const winRate = 68 + (Math.abs(hash) % 24);
+    // Генерируем винрейт от 68 до 89 на основе хеша
+    const winRate = 68 + (Math.abs(hash) % 22);
     return winRate;
   }
 }

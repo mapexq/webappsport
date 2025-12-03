@@ -104,15 +104,62 @@ export const apiService = {
     }
   },
 
-  // News
-  async getNews(): Promise<News[]> {
-    await new Promise((resolve) => setTimeout(resolve, 300));
-    return mockNews;
+  // News - использует backend API
+  async getNews(): Promise<any[]> {
+    try {
+      const response = await fetch(`${API_BASE_URL}/news`);
+      if (!response.ok) {
+        throw new Error('Ошибка при получении новостей');
+      }
+      const data = await response.json();
+      return data;
+    } catch (error) {
+      console.error('Ошибка при получении новостей:', error);
+      return [];
+    }
+  },
+
+  async refreshNews(): Promise<{ success: boolean; count: number; news: any[]; updated?: boolean }> {
+    try {
+      const response = await fetch(`${API_BASE_URL}/news/refresh`, {
+        method: 'POST',
+        headers: {
+          'Content-Type': 'application/json',
+        },
+      });
+      if (!response.ok) {
+        throw new Error('Ошибка при обновлении новостей');
+      }
+      const data = await response.json();
+      return data;
+    } catch (error) {
+      console.error('Ошибка при обновлении новостей:', error);
+      throw error;
+    }
+  },
+
+  async getNewsLastUpdate(): Promise<{ lastUpdate: string }> {
+    try {
+      const response = await fetch(`${API_BASE_URL}/news/last-update`);
+      if (!response.ok) {
+        throw new Error('Ошибка при получении времени обновления');
+      }
+      const data = await response.json();
+      return data;
+    } catch (error) {
+      console.error('Ошибка при получении времени обновления:', error);
+      return { lastUpdate: new Date().toISOString() };
+    }
   },
 
   async getNewsById(id: number): Promise<News | null> {
-    await new Promise((resolve) => setTimeout(resolve, 300));
-    return mockNews.find((n) => n.id === id) || null;
+    try {
+      const news = await this.getNews();
+      return news.find((n) => n.id === id) || null;
+    } catch (error) {
+      console.error('Ошибка при получении новости:', error);
+      return null;
+    }
   },
 
   // Articles
