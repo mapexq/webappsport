@@ -53,7 +53,7 @@ export function Layout() {
       {/* Header */}
       <header className="sticky top-0 z-40 bg-zinc-900/95 backdrop-blur-sm border-b border-zinc-800">
         <div className="px-4 py-4">
-          <h1 className="text-center bg-gradient-to-r from-green-400 via-emerald-400 to-green-500 bg-clip-text text-transparent text-[36px] font-[Open_Sans] font-bold no-underline">
+          <h1 className="text-center text-green-400 text-[36px] font-bold no-underline">
             BETPRO
           </h1>
         </div>

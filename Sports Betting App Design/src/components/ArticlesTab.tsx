@@ -1,8 +1,8 @@
+import React, { useState } from 'react';
 import { ArticleCard } from './ArticleCard';
 import { Badge } from './ui/badge';
 import { BookOpen, GraduationCap, ArrowRight, Star, Sparkles, Library, X, Clock } from 'lucide-react';
 import { ImageWithFallback } from './figma/ImageWithFallback';
-import { useState } from 'react';
 import { Dialog, DialogContent, DialogTitle, DialogDescription } from './ui/dialog';
 import * as VisuallyHidden from '@radix-ui/react-visually-hidden';
 
@@ -276,7 +276,7 @@ export function ArticlesTab() {
 
       {/* Article Modal */}
       <Dialog open={!!selectedArticle} onOpenChange={(open) => !open && setSelectedArticle(null)}>
-        <DialogContent className="max-w-4xl max-h-[90vh] overflow-y-auto bg-zinc-900 border-zinc-800 p-0">
+        <DialogContent className="max-w-4xl max-h-[90vh] overflow-y-auto bg-zinc-900 border-zinc-800 p-0 [&>button]:hidden">
           <VisuallyHidden.Root>
             <DialogTitle>Article</DialogTitle>
             <DialogDescription>Article content</DialogDescription>

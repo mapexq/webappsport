@@ -1,4 +1,4 @@
-import { Clock, ExternalLink, Newspaper } from 'lucide-react';
+import { Clock, ExternalLink } from 'lucide-react';
 import { Button } from './ui/button';
 import { Badge } from './ui/badge';
 import { ImageWithFallback } from './figma/ImageWithFallback';
@@ -56,16 +56,9 @@ export function NewsCard({ news }: NewsCardProps) {
 
           {/* Footer */}
           <div className="flex items-center justify-between pt-4 border-t border-zinc-800">
-            <div className="flex items-center gap-2 text-xs text-zinc-500">
-              <div className="flex items-center gap-1">
-                <Newspaper className="size-3" />
-                <span className="font-bold text-[14px]">{news.source}</span>
-              </div>
-              <span className="font-bold text-[14px]">•</span>
-              <div className="flex items-center gap-1">
-                <Clock className="size-3" />
-                <span className="font-bold text-[14px]">{news.timestamp}</span>
-              </div>
+            <div className="flex items-center gap-1 text-xs text-zinc-500">
+              <Clock className="size-3" />
+              <span className="font-bold text-[14px]">{news.timestamp}</span>
             </div>
             <button
               className="px-6 h-10 bg-green-400 text-zinc-900 text-sm rounded-lg hover:bg-green-500 transition-colors flex items-center gap-2 font-bold text-[16px]"
