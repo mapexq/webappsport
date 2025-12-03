@@ -21,6 +21,7 @@ export interface Prediction {
   comment: string;
   source: string;
   timestamp: string;
+  publishedAt?: string; // ISO строка даты публикации
 }
 
 // Прогнозы теперь загружаются через API

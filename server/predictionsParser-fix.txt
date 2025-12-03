@@ -1,0 +1,22 @@
+ИСПРАВЛЕНИЯ ДЛЯ predictionsParser.js:
+
+1. Строка 80: Замените:
+   let $card = $el.closest('div');
+   
+   На:
+   // Сначала пробуем найти карточку по классу (более надежный способ)
+   let $card = $el.closest('div[class*="rounded-xl"]');
+   if ($card.length === 0) {
+     $card = $el.closest('div[class*="bg-white"]');
+   }
+   if ($card.length === 0) {
+     $card = $el.closest('div');
+
+2. Строки 97-169: УДАЛИТЕ весь блок поиска времени в родительских элементах и замените на:
+   // Теперь ищем время в карточке (используем метод findTimestamp)
+   if (timestamp === 'Недавно') {
+     timestamp = this.findTimestamp($card, $);
+   }
+
+Эти изменения обеспечат правильное определение карточки и поиск времени внутри неё.
+

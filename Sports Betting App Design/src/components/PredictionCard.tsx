@@ -2,6 +2,7 @@ import { BadgeCheck, ChevronDown, ChevronUp } from 'lucide-react';
 import { Badge } from './ui/badge';
 import type { Prediction } from './PredictionsTab';
 import { useState } from 'react';
+import { formatTimeAgo } from '../utils/timeUtils';
 
 interface PredictionCardProps {
   prediction: Prediction;
@@ -91,7 +92,28 @@ export function PredictionCard({ prediction }: PredictionCardProps) {
 
       {/* Footer */}
       <div className="flex items-center justify-between text-xs text-zinc-500">
-        <span className="font-bold text-[14px]">{prediction.timestamp}</span>
+        <span className="font-bold text-[14px]">
+          {(() => {
+            if (prediction.publishedAt) {
+              try {
+                const formatted = formatTimeAgo(prediction.publishedAt);
+                // Отладочное логирование (можно убрать после проверки)
+                if (formatted === '0' || formatted === 'NaN' || isNaN(Number(formatted))) {
+                  console.warn('⚠️ formatTimeAgo вернул некорректное значение:', {
+                    publishedAt: prediction.publishedAt,
+                    formatted,
+                    predictionId: prediction.id
+                  });
+                }
+                return formatted;
+              } catch (error) {
+                console.error('Ошибка в formatTimeAgo:', error, prediction.publishedAt);
+                return prediction.timestamp;
+              }
+            }
+            return prediction.timestamp;
+          })()}
+        </span>
         <span className="font-bold text-[14px]">{prediction.source}</span>
       </div>
     </div>

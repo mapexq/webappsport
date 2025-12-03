@@ -1,5 +1,6 @@
 import axios from 'axios';
 import * as cheerio from 'cheerio';
+import { findTimestampInCard, parseTimestampToDate } from './timestampUtils.js';
 
 /**
  * Парсер прогнозов с сайта bookmaker-ratings.ru/forecast_homepage/
@@ -33,8 +34,6 @@ export class PredictionsParser {
         if (predictions.length >= this.maxPredictions) return false;
         
         const $time = $(element);
-        const timestamp = $time.text().trim();
-        
         // Находим родительский контейнер карточки
         let $card = $time.closest('div');
         
@@ -54,6 +53,7 @@ export class PredictionsParser {
         }
 
         const expertName = this.findExpertName($card, $);
+        const timestamp = this.findTimestamp($card, $);
         const title = this.findTitle($card, $);
         const comment = this.findComment($card, $);
         const matchInfo = this.findMatchInfo($card, $);
@@ -152,13 +152,14 @@ export class PredictionsParser {
     // Ищем карточки с временем публикации (time элементы)
     $('time').each((index, element) => {
       const $time = $(element);
-      const timestamp = $time.text().trim();
+        const timestamp = this.findTimestamp($time.closest('div'), $) || 'Недавно';
       
       // Ищем родительский контейнер карточки
       const $card = $time.closest('div').parent().parent();
       
       if ($card.length > 0) {
         const expertName = this.findExpertName($card, $);
+        const timestamp = this.findTimestamp($card, $);
         const title = this.findTitle($card, $);
         const comment = this.findComment($card, $);
         const matchInfo = this.findMatchInfo($card, $);
@@ -273,11 +274,7 @@ export class PredictionsParser {
   }
 
   findTimestamp($card, $) {
-    const $time = $card.find('time');
-    if ($time.length > 0) {
-      return $time.text().trim();
-    }
-    return 'Недавно';
+    return findTimestampInCard($card, $);
   }
 
   /**
@@ -294,20 +291,35 @@ export class PredictionsParser {
   }
 
   findTitle($card, $) {
-    // Ищем заголовок в структурированных элементах
+    // Метод 1: Ищем заголовок по паттерну "Команда1 — Команда2: прогноз и ставка"
+    // Ищем во всех элементах карточки
+    const allElements = $card.find('*');
+    for (let i = 0; i < allElements.length; i++) {
+      const $el = $(allElements[i]);
+      const text = $el.text().trim();
+      // Проверяем, что текст содержит паттерн заголовка
+      if (text.match(/^[^—]+—[^:]+:\s*прогноз\s+и\s+ставка/)) {
+        // Проверяем, что это не весь текст карточки (должен быть относительно коротким)
+        if (text.length < 200) {
+          return text;
+        }
+      }
+    }
+    
+    // Метод 2: Ищем в структурированных элементах
     const $headings = $card.find('h1, h2, h3, h4, h5, h6');
     for (let i = 0; i < $headings.length; i++) {
       const text = $($headings[i]).text();
-      if (text.includes('прогноз') || text.includes('ставка')) {
+      if (text.includes('прогноз') && text.includes('ставка')) {
         return text.trim();
       }
     }
     
-    // Ищем в параграфах
+    // Метод 3: Ищем в параграфах
     const $paragraphs = $card.find('p');
     for (let i = 0; i < $paragraphs.length; i++) {
       const text = $($paragraphs[i]).text();
-      if (text.includes('прогноз') && text.includes('ставка')) {
+      if (text.includes('прогноз') && text.includes('ставка') && text.includes('—')) {
         return text.trim();
       }
     }
@@ -365,104 +377,50 @@ export class PredictionsParser {
   }
 
   findMatchInfo($card, $) {
-    // Метод 1: Ищем ссылку на матч
-    const $matchLink = $card.find('a[href*="/tips/event-"]');
-    if ($matchLink.length > 0) {
-      const text = $matchLink.text().trim();
-      
-      // Очищаем от дубликатов - ищем последнее правильное вхождение "Команда1 - Команда2"
-      // Используем более агрессивную очистку
-      let teams = '';
-      
-      // Ищем все вхождения паттерна "Команда1 - Команда2"
-      const allMatches = Array.from(text.matchAll(/([А-ЯЁа-яё]+?)\s*-\s*([А-ЯЁа-яё]+?)(?:\s+Через|\s+Сегодня|\s+Вчера|•|$)/g));
-      
-      if (allMatches.length > 0) {
-        // Берем последнее вхождение (обычно самое правильное)
-        const lastMatch = allMatches[allMatches.length - 1];
-        teams = `${lastMatch[1].trim()} - ${lastMatch[2].trim()}`;
-      } else {
-        // Если паттерн не найден, пытаемся извлечь из текста
-        // Ищем часть до "Через" или "•"
-        const beforeSeparator = text.split(/Через|•/)[0].trim();
+    // Ищем заголовок (черный жирный текст) и извлекаем название матча из него
+    // Заголовок имеет формат: "Команда1 — Команда2: прогноз и ставка. ..."
+    const title = this.findTitle($card, $);
+    if (title) {
+      // Извлекаем название матча до двоеточия
+      const colonIndex = title.indexOf(':');
+      if (colonIndex > 0) {
+        let matchName = title.substring(0, colonIndex).trim();
         
-        // Пытаемся найти команды вручную
-        const teamMatch = beforeSeparator.match(/([А-ЯЁа-яё]+)\s*-\s*([А-ЯЁа-яё]+)/);
-        if (teamMatch) {
-          teams = `${teamMatch[1].trim()} - ${teamMatch[2].trim()}`;
-        } else {
-          // Последняя попытка - берем последние два слова перед "-"
-          const words = beforeSeparator.split(/\s+/);
-          const dashIndex = words.findIndex(w => w === '-');
-          if (dashIndex > 0 && dashIndex < words.length - 1) {
-            teams = `${words[dashIndex - 1]} - ${words[dashIndex + 1]}`;
+        // Убираем время из начала (например, "Через 53 минуты", "Сегодня", "Вчера")
+        matchName = matchName.replace(/^(Через\s+\d+\s+(?:минут|час|часа|часов)(?:ы|а|ов)?|Сегодня|Вчера|Завтра)/i, '').trim();
+        
+        // Проверяем, что это действительно название матча (содержит " — ")
+        if (matchName.includes(' — ')) {
+          // Извлекаем команды (оставляем длинное тире)
+          const teams = matchName.trim();
+          
+          // Извлекаем лигу из ссылки, если есть (только для определения лиги, не для названия матча)
+          const $matchLink = $card.find('a[href*="/tips/event-"]');
+          const href = $matchLink.attr('href') || '';
+          let league = '';
+          
+          if (href.includes('hockey')) {
+            league = 'НХЛ';
+          } else if (href.includes('basketball') || href.includes('basketbol')) {
+            league = 'НБА';
+          } else if (href.includes('football') || href.includes('futbol')) {
+            if (href.includes('la-liga')) league = 'Ла Лига';
+            else if (href.includes('premier-league') || href.includes('english')) league = 'АПЛ';
+            else league = 'Чемпионат';
           }
+          
+          // Время не извлекаем из заголовка, так как оно там не всегда есть
+          return {
+            teams: teams,
+            time: '', // Время не извлекаем из заголовка
+            league: league || ''
+          };
         }
       }
-      
-      // Финальная очистка - удаляем дубликаты в названии
-      if (teams) {
-        const parts = teams.split('-');
-        if (parts.length === 2) {
-          const team1 = parts[0].trim().split(/\s+/).filter((w, i, arr) => {
-            // Удаляем дубликаты в первой команде
-            return i === 0 || w !== arr[i-1];
-          }).join(' ');
-          const team2 = parts[1].trim().split(/\s+/).filter((w, i, arr) => {
-            // Удаляем дубликаты во второй команде
-            return i === 0 || w !== arr[i-1];
-          }).join(' ');
-          teams = `${team1} - ${team2}`;
-        }
-      }
-      
-      // Извлекаем лигу - сначала из URL (самый надежный способ)
-      const href = $matchLink.attr('href') || '';
-      let league = '';
-      
-      if (href.includes('hockey')) {
-        league = 'НХЛ';
-      } else if (href.includes('basketball') || href.includes('basketbol')) {
-        league = 'НБА';
-      } else if (href.includes('football') || href.includes('futbol')) {
-        if (href.includes('la-liga')) league = 'Ла Лига';
-        else if (href.includes('premier-league') || href.includes('english')) league = 'АПЛ';
-        else league = 'Чемпионат';
-      } else {
-        // Если не нашли в URL, ищем в тексте
-        const parts = text.split('•').map(p => p.trim());
-        if (parts.length >= 2) {
-          league = parts[parts.length - 1]
-            .replace(/[ПХ12]\d*.*$/, '') // Удаляем прогноз если попал
-            .replace(/^\s*[А-ЯЁа-яё]+\s*-\s*[А-ЯЁа-яё]+.*$/, '') // Удаляем название матча если попал
-            .trim();
-        }
-      }
-      
-      // Извлекаем время
-      const timeMatch = text.match(/(Через\s+\d+\s+час|Сегодня|Вчера|\d+\s+Дек)/);
-      const time = timeMatch ? timeMatch[1] : '';
-      
-      return {
-        teams: teams || '',
-        time: time || '',
-        league: league || ''
-      };
     }
     
-    // Метод 2: Ищем в тексте карточки паттерн "Команда1 - Команда2"
-    const cardText = $card.text();
-    const matchPattern = /([А-ЯЁа-яё\s-]+?)\s*-\s*([А-ЯЁа-яё\s-]+?)\s*(?:Через\s+\d+\s+час|Сегодня|Вчера)[^•]*•\s*([А-ЯЁа-яё]+)/;
-    const match = cardText.match(matchPattern);
-    
-    if (match) {
-      return {
-        teams: `${match[1].trim()} - ${match[2].trim()}`,
-        time: match[3]?.trim() || '',
-        league: match[4]?.trim() || ''
-      };
-    }
-    
+    // Если заголовок не найден, возвращаем null
+    // Название матча парсится ТОЛЬКО из черного жирного текста (заголовка)
     return null;
   }
 
@@ -523,7 +481,9 @@ export class PredictionsParser {
       /(П\d+|Х\d+|1X|X2|12)/i,
       // Обе забьют
       /(Обе\s+забьют[^:]*:[^.]*)/i,
-      // Форы
+      // Форы с коэффициентами в скобках (например, "Ф1 (+2,0)")
+      /(Ф\d+\s*\([^)]+\))/i,
+      // Форы без скобок (fallback)
       /(Ф\d+\s*[+-]?\d*)/i,
       // Индивидуальные тоталы
       /(ИТБ\d+\s*\([^)]+\)|ИТМ\d+\s*\([^)]+\))/i,
@@ -622,26 +582,9 @@ export class PredictionsParser {
       // Определяем дисциплину из лиги
       const discipline = this.getDisciplineFromLeague(pred.matchInfo?.league || '');
       
-      // Очищаем название матча от дубликатов
+      // Название матча уже извлечено из заголовка в формате "Команда1 - Команда2"
+      // Просто используем его без агрессивной очистки
       let eventName = pred.matchInfo?.teams || pred.title?.split(':')[0] || 'Матч';
-      // Удаляем дубликаты в названии (например, "АйлендерсТампа-БэйАйлендерс - Тампа-Бэй" -> "Айлендерс - Тампа-Бэй")
-      // Ищем последнее правильное вхождение "Команда1 - Команда2"
-      const allMatches = eventName.matchAll(/([А-ЯЁа-яё]+?)\s*-\s*([А-ЯЁа-яё]+?)(?:\s*[А-ЯЁа-яё\s-]*-\s*[А-ЯЁа-яё\s-]*)*$/g);
-      const matches = Array.from(allMatches);
-      if (matches.length > 0) {
-        const lastMatch = matches[matches.length - 1];
-        eventName = `${lastMatch[1].trim()} - ${lastMatch[2].trim()}`;
-      } else {
-        // Если паттерн не найден, пытаемся очистить вручную
-        const parts = eventName.split('-');
-        if (parts.length >= 2) {
-          const team1 = parts[parts.length - 2].trim().split(/\s+/).pop(); // Берем последнее слово
-          const team2 = parts[parts.length - 1].trim().split(/\s+/)[0]; // Берем первое слово
-          if (team1 && team2) {
-            eventName = `${team1} - ${team2}`;
-          }
-        }
-      }
       
       // Очищаем лигу от лишнего текста
       let tournament = pred.matchInfo?.league || 'Чемпионат';
@@ -688,13 +631,29 @@ export class PredictionsParser {
           name: pred.expertName || 'Эксперт',
           avatar: pred.avatar || 'https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=100&h=100&fit=crop',
           status: 'expert',
-          winRate: Math.floor(Math.random() * 20) + 60 // Генерируем винрейт от 60 до 80
+          winRate: this.getWinRateForExpert(pred.expertName || 'Эксперт')
         },
         prediction: pred.prediction || 'Прогноз',
         odds: pred.odds || 1.85,
         comment: pred.comment || pred.title || 'Комментарий к прогнозу',
         source: 'Sports Analytics Pro',
-        timestamp: pred.timestamp || 'Недавно'
+        timestamp: pred.timestamp || 'Недавно',
+        publishedAt: (() => {
+          try {
+            if (!pred.timestamp || pred.timestamp === 'Недавно') {
+              return new Date().toISOString();
+            }
+            const date = parseTimestampToDate(pred.timestamp);
+            if (isNaN(date.getTime())) {
+              console.warn(`Не удалось распарсить время: "${pred.timestamp}"`);
+              return new Date().toISOString();
+            }
+            return date.toISOString();
+          } catch (error) {
+            console.error(`Ошибка при парсинге времени "${pred.timestamp}":`, error);
+            return new Date().toISOString();
+          }
+        })()
       };
     });
   }
@@ -732,6 +691,26 @@ export class PredictionsParser {
     }
     
     return 'Футбол'; // По умолчанию
+  }
+
+  /**
+   * Получает винрейт эксперта по его имени
+   * @param {string} expertName - Имя эксперта
+   * @returns {number} - Винрейт от 60 до 80
+   */
+  getWinRateForExpert(expertName) {
+    if (!expertName) return 65;
+    
+    // Простая хеш-функция для стабильного винрейта для одного эксперта
+    let hash = 0;
+    for (let i = 0; i < expertName.length; i++) {
+      hash = ((hash << 5) - hash) + expertName.charCodeAt(i);
+      hash = hash & hash; // Convert to 32bit integer
+    }
+    
+    // Генерируем винрейт от 60 до 80 на основе хеша
+    const winRate = 60 + (Math.abs(hash) % 21);
+    return winRate;
   }
 }
 

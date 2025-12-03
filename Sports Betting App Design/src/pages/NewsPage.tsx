@@ -4,3 +4,4 @@ export function NewsPage() {
   return <NewsTab />;
 }
 
+

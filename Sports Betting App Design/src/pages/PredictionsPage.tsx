@@ -4,3 +4,4 @@ export function PredictionsPage() {
   return <PredictionsTab />;
 }
 
+
