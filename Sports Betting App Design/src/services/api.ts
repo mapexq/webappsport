@@ -1,6 +1,7 @@
 // API Service layer for the Sports Betting App
 // Currently using mock data, but structured for easy API integration
 
+/// <reference types="../vite-env" />
 import type { Bookmaker, Prediction, News, Article } from '../types';
 
 // Mock data - in production, these would be API calls
@@ -44,11 +45,10 @@ const mockArticles: Article[] = [];
 
 // GitHub репозиторий для данных (можно настроить через переменные окружения)
 // Формат: username/repo-name или полный URL
-const GITHUB_REPO = import.meta.env.VITE_GITHUB_REPO || '';
+// Fallback на ваш репозиторий для работы в APK
+const GITHUB_REPO = import.meta.env.VITE_GITHUB_REPO || 'mapexq/webappsport';
 const GITHUB_BRANCH = import.meta.env.VITE_GITHUB_BRANCH || 'main';
-const GITHUB_DATA_URL = GITHUB_REPO 
-  ? `https://raw.githubusercontent.com/${GITHUB_REPO}/${GITHUB_BRANCH}/data`
-  : null;
+const GITHUB_DATA_URL = `https://raw.githubusercontent.com/${GITHUB_REPO}/${GITHUB_BRANCH}/data`;
 
 // Логирование для отладки
 console.log('🔧 API Configuration:', {
