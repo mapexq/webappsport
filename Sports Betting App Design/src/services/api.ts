@@ -50,6 +50,14 @@ const GITHUB_DATA_URL = GITHUB_REPO
   ? `https://raw.githubusercontent.com/${GITHUB_REPO}/${GITHUB_BRANCH}/data`
   : null;
 
+// Логирование для отладки
+console.log('🔧 API Configuration:', {
+  GITHUB_REPO,
+  GITHUB_BRANCH,
+  GITHUB_DATA_URL,
+  hasEnv: !!import.meta.env.VITE_GITHUB_REPO,
+});
+
 // API base URL для локального сервера (fallback)
 const API_BASE_URL = import.meta.env.VITE_API_URL || 'http://localhost:3001/api';
 
@@ -72,24 +80,35 @@ export const apiService = {
     try {
       // Приоритет: GitHub > API > Mock
       if (GITHUB_DATA_URL) {
-        const response = await fetch(`${GITHUB_DATA_URL}/predictions.json`);
+        const url = `${GITHUB_DATA_URL}/predictions.json`;
+        console.log('📡 Загрузка прогнозов с GitHub:', url);
+        const response = await fetch(url);
+        console.log('📡 Ответ GitHub:', { status: response.status, ok: response.ok, url });
         if (response.ok) {
           const data = await response.json();
+          console.log('✅ Прогнозы загружены с GitHub:', data.length, 'шт.');
           return data;
+        } else {
+          console.warn('⚠️ GitHub недоступен, статус:', response.status, response.statusText);
         }
         // Если GitHub недоступен, пробуем API
+      } else {
+        console.warn('⚠️ GITHUB_DATA_URL не настроен, используем fallback');
       }
       
       // Fallback на API сервер
+      console.log('📡 Попытка загрузки с локального API:', API_BASE_URL);
       const response = await fetch(`${API_BASE_URL}/predictions`);
       if (response.ok) {
         const data = await response.json();
+        console.log('✅ Прогнозы загружены с API:', data.length, 'шт.');
         return data;
       }
       
       throw new Error('Ошибка при получении прогнозов');
     } catch (error) {
-      console.error('Ошибка при получении прогнозов:', error);
+      console.error('❌ Ошибка при получении прогнозов:', error);
+      console.log('🔄 Используем моковые данные');
       // Fallback на моковые данные при ошибке
       return mockPredictions;
     }
@@ -140,24 +159,34 @@ export const apiService = {
     try {
       // Приоритет: GitHub > API > Mock
       if (GITHUB_DATA_URL) {
-        const response = await fetch(`${GITHUB_DATA_URL}/news.json`);
+        const url = `${GITHUB_DATA_URL}/news.json`;
+        console.log('📡 Загрузка новостей с GitHub:', url);
+        const response = await fetch(url);
+        console.log('📡 Ответ GitHub:', { status: response.status, ok: response.ok, url });
         if (response.ok) {
           const data = await response.json();
+          console.log('✅ Новости загружены с GitHub:', data.length, 'шт.');
           return data;
+        } else {
+          console.warn('⚠️ GitHub недоступен, статус:', response.status, response.statusText);
         }
         // Если GitHub недоступен, пробуем API
+      } else {
+        console.warn('⚠️ GITHUB_DATA_URL не настроен, используем fallback');
       }
       
       // Fallback на API сервер
+      console.log('📡 Попытка загрузки с локального API:', API_BASE_URL);
       const response = await fetch(`${API_BASE_URL}/news`);
       if (response.ok) {
         const data = await response.json();
+        console.log('✅ Новости загружены с API:', data.length, 'шт.');
         return data;
       }
       
       throw new Error('Ошибка при получении новостей');
     } catch (error) {
-      console.error('Ошибка при получении новостей:', error);
+      console.error('❌ Ошибка при получении новостей:', error);
       return [];
     }
   },
