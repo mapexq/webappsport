@@ -2,11 +2,8 @@ name: Update Sports Data
 
 on:
   schedule:
-    # Запускается каждый час
     - cron: '0 * * * *'
-  # Ручной запуск через GitHub UI
   workflow_dispatch:
-  # Запуск при push в main (опционально)
   push:
     branches:
       - main
@@ -18,12 +15,13 @@ jobs:
   update-data:
     runs-on: ubuntu-latest
     
+    permissions:
+      contents: write
+    
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
         with:
-          # Нужно для коммита обратно в репозиторий
-          token: ${{ secrets.GITHUB_TOKEN }}
           fetch-depth: 0
       
       - name: Setup Node.js
@@ -37,28 +35,36 @@ jobs:
         run: |
           cd server
           npm ci
+        continue-on-error: false
       
       - name: Parse and save data
+        id: parse
         run: |
           cd server
           node scripts/parse-and-save-to-github.js
         env:
-          # Увеличиваем таймаут для парсинга
           NODE_OPTIONS: '--max-old-space-size=4096'
+        continue-on-error: false
       
       - name: Commit and push changes
+        if: steps.parse.outcome == 'success'
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
-          git add data/*.json
           
-          # Проверяем, есть ли изменения
-          if git diff --staged --quiet; then
-            echo "Нет изменений для коммита"
+          # Проверяем существование файлов перед добавлением
+          if [ -f data/predictions.json ] || [ -f data/news.json ] || [ -f data/metadata.json ]; then
+            git add data/*.json
+            
+            if ! git diff --staged --quiet; then
+              git commit -m "🤖 Auto-update data: $(date +'%Y-%m-%d %H:%M:%S UTC')"
+              git push
+              echo "✅ Данные обновлены и отправлены в репозиторий"
+            else
+              echo "ℹ️ Нет изменений для коммита"
+            fi
           else
-            git commit -m "🤖 Auto-update data: $(date +'%Y-%m-%d %H:%M:%S UTC')"
-            git push
-            echo "✅ Данные обновлены и отправлены в репозиторий"
+            echo "⚠️ Файлы данных не найдены"
           fi
       
       - name: Summary
@@ -66,7 +72,11 @@ jobs:
         run: |
           echo "## 📊 Результат обновления данных" >> $GITHUB_STEP_SUMMARY
           echo "" >> $GITHUB_STEP_SUMMARY
-          echo "- ✅ Workflow выполнен" >> $GITHUB_STEP_SUMMARY
-          echo "- 📁 Данные сохранены в папку `data/`" >> $GITHUB_STEP_SUMMARY
-          echo "- 🌐 Доступны через GitHub Pages или raw.githubusercontent.com" >> $GITHUB_STEP_SUMMARY
-
+          if [ "${{ steps.parse.outcome }}" == "success" ]; then
+            echo "- ✅ Workflow выполнен успешно" >> $GITHUB_STEP_SUMMARY
+            echo "- 📁 Данные сохранены в папку \`data/\`" >> $GITHUB_STEP_SUMMARY
+            echo "- 🌐 Доступны через raw.githubusercontent.com" >> $GITHUB_STEP_SUMMARY
+          else
+            echo "- ❌ Ошибка при выполнении workflow" >> $GITHUB_STEP_SUMMARY
+            echo "- Проверьте логи выше для деталей" >> $GITHUB_STEP_SUMMARY
+          fi
