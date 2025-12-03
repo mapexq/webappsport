@@ -42,7 +42,15 @@ const mockPredictions: Prediction[] = [
 const mockNews: News[] = [];
 const mockArticles: Article[] = [];
 
-// API base URL - можно настроить через переменные окружения
+// GitHub репозиторий для данных (можно настроить через переменные окружения)
+// Формат: username/repo-name или полный URL
+const GITHUB_REPO = import.meta.env.VITE_GITHUB_REPO || '';
+const GITHUB_BRANCH = import.meta.env.VITE_GITHUB_BRANCH || 'main';
+const GITHUB_DATA_URL = GITHUB_REPO 
+  ? `https://raw.githubusercontent.com/${GITHUB_REPO}/${GITHUB_BRANCH}/data`
+  : null;
+
+// API base URL для локального сервера (fallback)
 const API_BASE_URL = import.meta.env.VITE_API_URL || 'http://localhost:3001/api';
 
 // API Service functions
@@ -59,15 +67,27 @@ export const apiService = {
     return mockBookmakers.find((b) => b.id === id) || null;
   },
 
-  // Predictions - теперь использует backend API
+  // Predictions - использует GitHub или backend API
   async getPredictions(): Promise<Prediction[]> {
     try {
-      const response = await fetch(`${API_BASE_URL}/predictions`);
-      if (!response.ok) {
-        throw new Error('Ошибка при получении прогнозов');
+      // Приоритет: GitHub > API > Mock
+      if (GITHUB_DATA_URL) {
+        const response = await fetch(`${GITHUB_DATA_URL}/predictions.json`);
+        if (response.ok) {
+          const data = await response.json();
+          return data;
+        }
+        // Если GitHub недоступен, пробуем API
       }
-      const data = await response.json();
-      return data;
+      
+      // Fallback на API сервер
+      const response = await fetch(`${API_BASE_URL}/predictions`);
+      if (response.ok) {
+        const data = await response.json();
+        return data;
+      }
+      
+      throw new Error('Ошибка при получении прогнозов');
     } catch (error) {
       console.error('Ошибка при получении прогнозов:', error);
       // Fallback на моковые данные при ошибке
@@ -77,6 +97,17 @@ export const apiService = {
 
   async refreshPredictions(): Promise<Prediction[]> {
     try {
+      // Если используем GitHub, просто перезагружаем данные
+      if (GITHUB_DATA_URL) {
+        // Добавляем timestamp для обхода кэша
+        const response = await fetch(`${GITHUB_DATA_URL}/predictions.json?t=${Date.now()}`);
+        if (response.ok) {
+          const data = await response.json();
+          return data;
+        }
+      }
+      
+      // Fallback на API сервер
       const response = await fetch(`${API_BASE_URL}/predictions/refresh`, {
         method: 'POST',
         headers: {
@@ -104,15 +135,27 @@ export const apiService = {
     }
   },
 
-  // News - использует backend API
+  // News - использует GitHub или backend API
   async getNews(): Promise<any[]> {
     try {
-      const response = await fetch(`${API_BASE_URL}/news`);
-      if (!response.ok) {
-        throw new Error('Ошибка при получении новостей');
+      // Приоритет: GitHub > API > Mock
+      if (GITHUB_DATA_URL) {
+        const response = await fetch(`${GITHUB_DATA_URL}/news.json`);
+        if (response.ok) {
+          const data = await response.json();
+          return data;
+        }
+        // Если GitHub недоступен, пробуем API
       }
-      const data = await response.json();
-      return data;
+      
+      // Fallback на API сервер
+      const response = await fetch(`${API_BASE_URL}/news`);
+      if (response.ok) {
+        const data = await response.json();
+        return data;
+      }
+      
+      throw new Error('Ошибка при получении новостей');
     } catch (error) {
       console.error('Ошибка при получении новостей:', error);
       return [];
@@ -121,6 +164,22 @@ export const apiService = {
 
   async refreshNews(): Promise<{ success: boolean; count: number; news: any[]; updated?: boolean }> {
     try {
+      // Если используем GitHub, просто перезагружаем данные
+      if (GITHUB_DATA_URL) {
+        // Добавляем timestamp для обхода кэша
+        const response = await fetch(`${GITHUB_DATA_URL}/news.json?t=${Date.now()}`);
+        if (response.ok) {
+          const data = await response.json();
+          return {
+            success: true,
+            count: data.length,
+            news: data,
+            updated: true,
+          };
+        }
+      }
+      
+      // Fallback на API сервер
       const response = await fetch(`${API_BASE_URL}/news/refresh`, {
         method: 'POST',
         headers: {
@@ -140,12 +199,23 @@ export const apiService = {
 
   async getNewsLastUpdate(): Promise<{ lastUpdate: string }> {
     try {
-      const response = await fetch(`${API_BASE_URL}/news/last-update`);
-      if (!response.ok) {
-        throw new Error('Ошибка при получении времени обновления');
+      // Если используем GitHub, читаем метаданные
+      if (GITHUB_DATA_URL) {
+        const response = await fetch(`${GITHUB_DATA_URL}/metadata.json`);
+        if (response.ok) {
+          const data = await response.json();
+          return { lastUpdate: data.lastUpdate || new Date().toISOString() };
+        }
       }
-      const data = await response.json();
-      return data;
+      
+      // Fallback на API сервер
+      const response = await fetch(`${API_BASE_URL}/news/last-update`);
+      if (response.ok) {
+        const data = await response.json();
+        return data;
+      }
+      
+      throw new Error('Ошибка при получении времени обновления');
     } catch (error) {
       console.error('Ошибка при получении времени обновления:', error);
       return { lastUpdate: new Date().toISOString() };

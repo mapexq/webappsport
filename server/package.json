@@ -7,7 +7,8 @@
   "scripts": {
     "start": "node server.js",
     "dev": "node --watch server.js",
-    "scrape:news": "node scripts/scrape-news.js"
+    "scrape:news": "node scripts/scrape-news.js",
+    "parse:github": "node scripts/parse-and-save-to-github.js"
   },
   "dependencies": {
     "express": "^4.18.2",
