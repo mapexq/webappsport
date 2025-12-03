@@ -1,716 +1,65 @@
-import axios from 'axios';
-import * as cheerio from 'cheerio';
-import { findTimestampInCard, parseTimestampToDate } from './timestampUtils.js';
-
-/**
- * Парсер прогнозов с сайта bookmaker-ratings.ru/forecast_homepage/
- * Извлекает последние 10 прогнозов с сохранением всей структуры
- */
-export class PredictionsParser {
-  constructor() {
-    this.baseUrl = 'https://bookmaker-ratings.ru/forecast_homepage/';
-    this.maxPredictions = 10;
-  }
-
-  /**
-   * Парсит страницу и извлекает прогнозы
-   */
-  async parsePredictions() {
-    try {
-      const response = await axios.get(this.baseUrl, {
-        headers: {
-          'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
-          'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
-          'Accept-Language': 'ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7'
-        }
-      });
-
-      const $ = cheerio.load(response.data);
-      const predictions = [];
-
-      // Метод 1: Ищем через time элементы (время публикации)
-      // Пропускаем экспрессы - ищем только ординары
-      $('time').each((index, element) => {
-        if (predictions.length >= this.maxPredictions) return false;
-        
-        const $time = $(element);
-        // Находим родительский контейнер карточки
-        let $card = $time.closest('div');
-        
-        // Поднимаемся выше, если нужно
-        for (let i = 0; i < 5; i++) {
-          const cardText = $card.text();
-          if (cardText.includes('прогноз') && cardText.includes('ставка')) {
-            break;
-          }
-          $card = $card.parent();
-        }
-
-        // Пропускаем экспрессы
-        const cardText = $card.text();
-        if (cardText.includes('Экспресс') || cardText.includes('экспресс')) {
-          return; // Пропускаем этот элемент
-        }
-
-        const expertName = this.findExpertName($card, $);
-        const timestamp = this.findTimestamp($card, $);
-        const title = this.findTitle($card, $);
-        const comment = this.findComment($card, $);
-        const matchInfo = this.findMatchInfo($card, $);
-        const prediction = this.findPrediction($card, $);
-        const odds = this.findOdds($card, $);
-        const avatar = this.findAvatar($card, $);
-
-        // Проверяем, что это валидный прогноз (не экспресс, есть название матча)
-        if (expertName && prediction && odds && matchInfo?.teams && matchInfo.teams.length > 5) {
-          // Проверяем, что это не дубликат
-          const isDuplicate = predictions.some(p => 
-            p.expertName === expertName && 
-            p.prediction === prediction && 
-            Math.abs(p.odds - odds) < 0.01 &&
-            p.matchInfo?.teams === matchInfo.teams
-          );
-          
-          if (!isDuplicate) {
-            predictions.push({
-              expertName,
-              timestamp,
-              title,
-              comment,
-              matchInfo,
-              prediction,
-              odds,
-              avatar
-            });
-          }
-        }
-      });
-
-      // Метод 2: Если не нашли достаточно, ищем через ссылки на матчи
-      if (predictions.length < this.maxPredictions) {
-        $('a[href*="/tips/event-"]').each((index, element) => {
-          if (predictions.length >= this.maxPredictions) return false;
-          
-          const $link = $(element);
-          const $card = $link.closest('div').parent().parent();
-          
-          // Пропускаем экспрессы
-          const cardText = $card.text();
-          if (cardText.includes('Экспресс') || cardText.includes('экспресс')) {
-            return; // Пропускаем этот элемент
-          }
-          
-          const expertName = this.findExpertName($card, $);
-          const timestamp = this.findTimestamp($card, $);
-          const title = this.findTitle($card, $);
-          const comment = this.findComment($card, $);
-          const matchInfo = this.findMatchInfo($card, $);
-          const prediction = this.findPrediction($card, $);
-          const odds = this.findOdds($card, $);
-          const avatar = this.findAvatar($card, $);
-
-          // Проверяем, что это валидный прогноз (не экспресс, есть название матча)
-          if (expertName && prediction && odds && matchInfo?.teams && matchInfo.teams.length > 5) {
-            const isDuplicate = predictions.some(p => 
-              p.expertName === expertName && 
-              p.prediction === prediction && 
-              Math.abs(p.odds - odds) < 0.01 &&
-              p.matchInfo?.teams === matchInfo.teams
-            );
-            
-            if (!isDuplicate) {
-              predictions.push({
-                expertName,
-                timestamp,
-                title,
-                comment,
-                matchInfo,
-                prediction,
-                odds,
-                avatar
-              });
-            }
-          }
-        });
-      }
-
-      // Возвращаем первые 10 прогнозов в порядке появления на странице
-      // Первый прогноз на странице = первый в массиве (для "Прогноз дня")
-      return predictions.slice(0, this.maxPredictions);
-    } catch (error) {
-      console.error('Ошибка при парсинге прогнозов:', error);
-      throw error;
-    }
-  }
-
-  /**
-   * Альтернативный метод парсинга через более специфичные селекторы
-   */
-  parseAlternative($) {
-    const predictions = [];
-    
-    // Ищем карточки с временем публикации (time элементы)
-    $('time').each((index, element) => {
-      const $time = $(element);
-        const timestamp = this.findTimestamp($time.closest('div'), $) || 'Недавно';
-      
-      // Ищем родительский контейнер карточки
-      const $card = $time.closest('div').parent().parent();
-      
-      if ($card.length > 0) {
-        const expertName = this.findExpertName($card, $);
-        const timestamp = this.findTimestamp($card, $);
-        const title = this.findTitle($card, $);
-        const comment = this.findComment($card, $);
-        const matchInfo = this.findMatchInfo($card, $);
-        const prediction = this.findPrediction($card, $);
-        const odds = this.findOdds($card, $);
-        const avatar = this.findAvatar($card, $);
-
-        if (expertName && prediction && odds) {
-          predictions.push({
-            expertName,
-            timestamp,
-            title,
-            comment,
-            matchInfo,
-            prediction,
-            odds,
-            avatar
-          });
-        }
-      }
-    });
-
-    return predictions.slice(0, this.maxPredictions);
-  }
-
-  /**
-   * Извлекает имя эксперта
-   */
-  extractExpertName($el, $) {
-    // Ищем текст, который выглядит как имя (обычно перед кнопкой "Подписаться")
-    const text = $el.text();
-    const match = text.match(/([А-ЯЁ][а-яё]+\s+[А-ЯЁ][а-яё]+)/);
-    if (match) {
-      // Проверяем, что это не название команды
-      const name = match[1];
-      if (!name.includes('Сити') && !name.includes('Мадрид') && !name.includes('Барселона')) {
-        return name;
-      }
-    }
-    return null;
-  }
-
-  findExpertName($card, $) {
-    // Метод 1: Ищем ссылку на автора
-    const $authorLink = $card.find('a[href*="/author/"]');
-    if ($authorLink.length > 0) {
-      const name = $authorLink.text().trim();
-      if (name && name.length > 3) {
-        return name;
-      }
-    }
-    
-    // Метод 2: Ищем текст перед кнопкой "Подписаться"
-    const $subscribeBtn = $card.find('button').filter((i, el) => {
-      return $(el).text().includes('Подписаться');
-    });
-    
-    if ($subscribeBtn.length > 0) {
-      // Ищем в родительских элементах
-      let $parent = $subscribeBtn.parent();
-      for (let i = 0; i < 3; i++) {
-        const text = $parent.text();
-        // Ищем паттерн имени (2 слова с заглавными буквами)
-        const match = text.match(/([А-ЯЁ][а-яё]+\s+[А-ЯЁ][а-яё]+)/);
-        if (match) {
-          const name = match[1];
-          // Проверяем, что это не название команды
-          if (!name.includes('Сити') && !name.includes('Мадрид') && 
-              !name.includes('Барселона') && !name.includes('Ливерпуль') &&
-              !name.includes('Арсенал') && !name.includes('Челси')) {
-            return name;
-          }
-        }
-        $parent = $parent.parent();
-      }
-    }
-    
-    // Метод 3: Ищем в тексте карточки
-    const cardText = $card.text();
-    const nameMatches = cardText.match(/([А-ЯЁ][а-яё]+\s+[А-ЯЁ][а-яё]+)/g);
-    if (nameMatches) {
-      for (const match of nameMatches) {
-        const name = match.trim();
-        if (name.length > 5 && name.length < 30 && 
-            !name.includes('прогноз') && !name.includes('ставка') &&
-            !name.includes('Подписаться') && !name.includes('Ординар')) {
-          return name;
-        }
-      }
-    }
-    
-    return null;
-  }
-
-  /**
-   * Извлекает время публикации
-   */
-  extractTimestamp($el, $) {
-    const $time = $el.find('time');
-    if ($time.length > 0) {
-      return $time.text().trim();
-    }
-    
-    // Ищем текст с временем (формат: "Вчера • 11:35" или "Сегодня • 20:00")
-    const text = $el.text();
-    const match = text.match(/(Вчера|Сегодня|Вчера|1\s+Дек|2\s+Дек|3\s+Дек)\s*•\s*(\d{1,2}:\d{2})/);
-    if (match) {
-      return `${match[1]} • ${match[2]}`;
-    }
-    
-    return 'Недавно';
-  }
-
-  findTimestamp($card, $) {
-    return findTimestampInCard($card, $);
-  }
-
-  /**
-   * Извлекает заголовок прогноза
-   */
-  extractTitle($el, $) {
-    // Ищем заголовок (обычно содержит "прогноз и ставка")
-    const text = $el.text();
-    const match = text.match(/([^:]+:\s*прогноз\s+и\s+ставка[^.]*)/);
-    if (match) {
-      return match[1].trim();
-    }
-    return null;
-  }
-
-  findTitle($card, $) {
-    // Метод 1: Ищем заголовок по паттерну "Команда1 — Команда2: прогноз и ставка"
-    // Ищем во всех элементах карточки
-    const allElements = $card.find('*');
-    for (let i = 0; i < allElements.length; i++) {
-      const $el = $(allElements[i]);
-      const text = $el.text().trim();
-      // Проверяем, что текст содержит паттерн заголовка
-      if (text.match(/^[^—]+—[^:]+:\s*прогноз\s+и\s+ставка/)) {
-        // Проверяем, что это не весь текст карточки (должен быть относительно коротким)
-        if (text.length < 200) {
-          return text;
-        }
-      }
-    }
-    
-    // Метод 2: Ищем в структурированных элементах
-    const $headings = $card.find('h1, h2, h3, h4, h5, h6');
-    for (let i = 0; i < $headings.length; i++) {
-      const text = $($headings[i]).text();
-      if (text.includes('прогноз') && text.includes('ставка')) {
-        return text.trim();
-      }
-    }
-    
-    // Метод 3: Ищем в параграфах
-    const $paragraphs = $card.find('p');
-    for (let i = 0; i < $paragraphs.length; i++) {
-      const text = $($paragraphs[i]).text();
-      if (text.includes('прогноз') && text.includes('ставка') && text.includes('—')) {
-        return text.trim();
-      }
-    }
-    
-    return null;
-  }
-
-  /**
-   * Извлекает комментарий к прогнозу
-   */
-  extractComment($el, $) {
-    const $paragraphs = $el.find('p');
-    let comment = '';
-    
-    $paragraphs.each((index, p) => {
-      const text = $(p).text().trim();
-      // Пропускаем заголовки и короткие тексты
-      if (text.length > 50 && !text.includes('Моя ставка:') && !text.includes('Мой прогноз:')) {
-        comment += text + ' ';
-      }
-    });
-    
-    return comment.trim() || null;
-  }
-
-  findComment($card, $) {
-    const $paragraphs = $card.find('p');
-    let comment = '';
-    
-    $paragraphs.each((index, p) => {
-      const text = $(p).text().trim();
-      if (text.length > 50 && !text.includes('Моя ставка:') && !text.includes('Мой прогноз:')) {
-        comment += text + ' ';
-      }
-    });
-    
-    return comment.trim() || null;
-  }
-
-  /**
-   * Извлекает информацию о матче
-   */
-  extractMatchInfo($el, $) {
-    // Ищем информацию о матче (команды, лига, время)
-    const text = $el.text();
-    const match = text.match(/([А-ЯЁа-яё\s-]+)\s*-\s*([А-ЯЁа-яё\s-]+)\s*(Через\s+\d+\s+час|Сегодня|Вчера)[^•]*•\s*([А-ЯЁа-яё]+)/);
-    if (match) {
-      return {
-        teams: `${match[1].trim()} - ${match[2].trim()}`,
-        time: match[3].trim(),
-        league: match[4].trim()
-      };
-    }
-    return null;
-  }
-
-  findMatchInfo($card, $) {
-    // Ищем заголовок (черный жирный текст) и извлекаем название матча из него
-    // Заголовок имеет формат: "Команда1 — Команда2: прогноз и ставка. ..."
-    const title = this.findTitle($card, $);
-    if (title) {
-      // Извлекаем название матча до двоеточия
-      const colonIndex = title.indexOf(':');
-      if (colonIndex > 0) {
-        let matchName = title.substring(0, colonIndex).trim();
-        
-        // Убираем время из начала (например, "Через 53 минуты", "Сегодня", "Вчера")
-        matchName = matchName.replace(/^(Через\s+\d+\s+(?:минут|час|часа|часов)(?:ы|а|ов)?|Сегодня|Вчера|Завтра)/i, '').trim();
-        
-        // Проверяем, что это действительно название матча (содержит " — ")
-        if (matchName.includes(' — ')) {
-          // Извлекаем команды (оставляем длинное тире)
-          const teams = matchName.trim();
-          
-          // Извлекаем лигу из ссылки, если есть (только для определения лиги, не для названия матча)
-          const $matchLink = $card.find('a[href*="/tips/event-"]');
-          const href = $matchLink.attr('href') || '';
-          let league = '';
-          
-          if (href.includes('hockey')) {
-            league = 'НХЛ';
-          } else if (href.includes('basketball') || href.includes('basketbol')) {
-            league = 'НБА';
-          } else if (href.includes('football') || href.includes('futbol')) {
-            if (href.includes('la-liga')) league = 'Ла Лига';
-            else if (href.includes('premier-league') || href.includes('english')) league = 'АПЛ';
-            else league = 'Чемпионат';
-          }
-          
-          // Время не извлекаем из заголовка, так как оно там не всегда есть
-          return {
-            teams: teams,
-            time: '', // Время не извлекаем из заголовка
-            league: league || ''
-          };
-        }
-      }
-    }
-    
-    // Если заголовок не найден, возвращаем null
-    // Название матча парсится ТОЛЬКО из черного жирного текста (заголовка)
-    return null;
-  }
-
-  /**
-   * Извлекает прогноз (например, "П2", "ТБ (6)", "Обе забьют: Да")
-   */
-  extractPrediction($el, $) {
-    const text = $el.text();
-    // Ищем паттерны прогнозов
-    const patterns = [
-      /Моя\s+ставка:\s*([^с]+?)(?:\s+с\s+коэффициентом|\s+за\s+\d+\.\d+)/,
-      /Мой\s+прогноз:\s*([^с]+?)(?:\s+с\s+коэффициентом|\s+за\s+\d+\.\d+)/,
-      /([ПХ12]\d*|ТБ|ТМ|Обе\s+забьют[^:]*:[^.]*|Ф\d+\s*[+-]?\d*)/i
+import axios from 'axios';\nimport * as cheerio from 'cheerio';\nimport { findTimestampInCard, parseTimestampToDate } from './timestampUtils.js';\n\n/**\n * Парсер прогнозов с сайта bookmaker-ratings.ru/forecast_homepage/\n * Извлекает последние 10 прогнозов с сохранением всей структуры\n */\nexport class PredictionsParser {\n  constructor() {\n    this.baseUrl = 'https://bookmaker-ratings.ru/forecast_homepage/';\n    this.maxPredictions = 10;\n  }\n\n  /**\n   * Парсит страницу и извлекает прогнозы\n   */\n  async parsePredictions() {\n    try {\n      const response = await axios.get(this.baseUrl, {\n        headers: {\n          'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',\n          'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',\n          'Accept-Language': 'ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7'\n        }\n      });\n\n      const $ = cheerio.load(response.data);\n      const predictions = [];\n\n      // Метод 1: Ищем через time элементы (время публикации)\n      // Пропускаем экспрессы - ищем только ординары\n      $('time').each((index, element) => {\n        if (predictions.length >= this.maxPredictions) return false;\n        \n        const $time = $(element);\n        // Находим родительский контейнер карточки\n        let $card = $time.closest('div');\n        \n        // Поднимаемся выше, если нужно\n        for (let i = 0; i < 5; i++) {\n          const cardText = $card.text();\n          if (cardText.includes('прогноз') && cardText.includes('ставка')) {\n            break;\n          }\n          $card = $card.parent();\n        }\n\n        // Пропускаем экспрессы\n        const cardText = $card.text();\n        if (cardText.includes('Экспресс') || cardText.includes('экспресс')) {\n          return; // Пропускаем этот элемент\n        }\n\n        const expertName = this.findExpertName($card, $);\n        const timestamp = this.findTimestamp($card, $);\n        const title = this.findTitle($card, $);\n        const comment = this.findComment($card, $);\n        const matchInfo = this.findMatchInfo($card, $);\n  findPrediction($card, $) {\n    const text = $card.text();\n    \n    // Метод 1: Ищем полный текст после "Моя ставка:" или "Мой прогноз:"\n    const fullTextPatterns = [\n      /(?:Моя\s+ставка|Мой\s+прогноз):\s*([^с]+?)(?:\s+с\s+коэффициентом|\s+за\s+\d+\.\d+)/i,\n      /(?:Моя\s+ставка|Мой\s+прогноз):\s*([^.]{1,200})/i,\n    ];\n    \n    let predictionText = null;\n    for (const pattern of fullTextPatterns) {\n      const match = text.match(pattern);\n      if (match && match[1]) {\n        predictionText = match[1].trim();\n        // Очищаем от лишнего\n        predictionText = predictionText.replace(/\s+с\s+коэффициентом.*$/i, '').trim();\n        if (predictionText.length > 1) {\n          break;\n        }\n      }\n    }\n    \n    // Если нашли текст прогноза, ищем в нем все отдельные прогнозы\n    if (predictionText) {\n      const predictions = [];\n      \n      // Паттерны для поиска отдельных прогнозов (в порядке приоритета)\n      const predictionPatterns = [\n        // Сложные прогнозы с периодом и форой\n        /\d+[-яя]\s+половина\s*-\s*Ф\d+\s*\([^)]+\)/gi,\n        /\d+[-яя]\s+четверть\s*-\s*Ф\d+\s*\([^)]+\)/gi,\n        /\d+[-йя]\s+гол\s*-\s*[^.]*/gi,\n        // Форы с полным описанием (например, "Ф1 (0) по угловым")\n        /Ф\d+\s*\([^)]+\)\s+по\s+[А-ЯЁа-яё]+/gi,\n        // Форы с коэффициентами в скобках\n        /Ф\d+\s*\([^)]+\)/gi,\n        // Тоталы\n        /(ТБ|ТМ)\s*\([^)]+\)/gi,\n        // Исходы (П1, П2, Х, 1X, X2, 12)\n        /(П\d+|Х\d*|1X|X2|12)/gi,\n        // Обе забьют\n        /Обе\s+забьют[^:]*:[^.]*/gi,\n        // Индивидуальные тоталы\n        /(ИТБ\d+\s*\([^)]+\)|ИТМ\d+\s*\([^)]+\))/gi,\n        // Форы без скобок (fallback)\n        /Ф\d+\s*[+-]?\d*/gi,\n      ];\n      \n      // Ищем все прогнозы в тексте\n      for (const pattern of predictionPatterns) {\n        const matches = predictionText.matchAll(pattern);\n        for (const match of matches) {\n          const pred = match[0].trim();\n          // Проверяем, что это не часть другого прогноза\n          if (pred.length > 0 && !predictions.includes(pred)) {\n            predictions.push(pred);\n          }\n        }\n      }\n      \n      // Если нашли несколько прогнозов, объединяем их через "и"\n      if (predictions.length > 0) {\n        return predictions.join(' и ');\n      }\n      \n      // Если не нашли отдельные прогнозы, возвращаем весь текст\n      return predictionText;\n    }\n    \n    // Метод 2: Fallback - ищем стандартные типы прогнозов (если первый метод не сработал)\n    const standardPatterns = [\n      /(\d+[-яя]\s+половина\s*-\s*Ф\d+\s*\([^)]+\))/i,\n      /(\d+[-яя]\s+четверть\s*-\s*Ф\d+\s*\([^)]+\))/i,\n      /(\d+[-йя]\s+гол\s*-\s*[^.]*)/i,\n      /(ТБ|ТМ)\s*\([^)]+\)/i,\n      /(П\d+|Х\d+|1X|X2|12)/i,\n      /(Обе\s+забьют[^:]*:[^.]*)/i,\n      /(Ф\d+\s*\([^)]+\))/i,\n      /(Ф\d+\s*[+-]?\d*)/i,\n      /(ИТБ\d+\s*\([^)]+\)|ИТМ\d+\s*\([^)]+\))/i,\n    ];\n    \n    for (const pattern of standardPatterns) {\n      const match = text.match(pattern);\n      if (match) {\n        return match[0].trim();\n      }\n    }\n    \n    return null;\n  }\n\n      // Метод 2: Если не нашли достаточно, ищем через ссылки на матчи\n      if (predictions.length < this.maxPredictions) {\n        $('a[href*="/tips/event-"]').each((index, element) => {\n          if (predictions.length >= this.maxPredictions) return false;\n          \n          const $link = $(element);\n          const $card = $link.closest('div').parent().parent();\n          \n          // Пропускаем экспрессы\n          const cardText = $card.text();\n          if (cardText.includes('Экспресс') || cardText.includes('экспресс')) {\n            return; // Пропускаем этот элемент\n          }\n          \n          const expertName = this.findExpertName($card, $);\n          const timestamp = this.findTimestamp($card, $);\n          const title = this.findTitle($card, $);\n          const comment = this.findComment($card, $);\n          const matchInfo = this.findMatchInfo($card, $);\n          const prediction = this.findPrediction($card, $);\n          const odds = this.findOdds($card, $);\n          const avatar = this.findAvatar($card, $);\n\n          // Проверяем, что это валидный прогноз (не экспресс, есть название матча)\n          if (expertName && prediction && odds && matchInfo?.teams && matchInfo.teams.length > 5) {\n            const isDuplicate = predictions.some(p => \n              p.expertName === expertName && \n              p.prediction === prediction && \n              Math.abs(p.odds - odds) < 0.01 &&\n              p.matchInfo?.teams === matchInfo.teams\n            );\n            \n            if (!isDuplicate) {\n              predictions.push({\n                expertName,\n                timestamp,\n                title,\n                comment,\n                matchInfo,\n                prediction,\n                odds,\n                avatar\n              });\n            }\n          }\n        });\n      }\n\n      // Возвращаем первые 10 прогнозов в порядке появления на странице\n      // Первый прогноз на странице = первый в массиве (для "Прогноз дня")\n      return predictions.slice(0, this.maxPredictions);\n    } catch (error) {\n      console.error('Ошибка при парсинге прогнозов:', error);\n      throw error;\n    }\n  }\n\n  /**\n   * Альтернативный метод парсинга через более специфичные селекторы\n   */\n  parseAlternative($) {\n    const predictions = [];\n    \n    // Ищем карточки с временем публикации (time элементы)\n    $('time').each((index, element) => {\n      const $time = $(element);\n        const timestamp = this.findTimestamp($time.closest('div'), $) || 'Недавно';\n      \n      // Ищем родительский контейнер карточки\n      const $card = $time.closest('div').parent().parent();\n      \n      if ($card.length > 0) {\n        const expertName = this.findExpertName($card, $);\n        const timestamp = this.findTimestamp($card, $);\n        const title = this.findTitle($card, $);\n        const comment = this.findComment($card, $);\n        const matchInfo = this.findMatchInfo($card, $);\n        const prediction = this.findPrediction($card, $);\n        const odds = this.findOdds($card, $);\n        const avatar = this.findAvatar($card, $);\n\n        if (expertName && prediction && odds) {\n          predictions.push({\n            expertName,\n            timestamp,\n            title,\n            comment,\n            matchInfo,\n            prediction,\n            odds,\n            avatar\n          });\n        }\n      }\n    });\n\n    return predictions.slice(0, this.maxPredictions);\n  }\n\n  /**\n   * Извлекает имя эксперта\n   */\n  extractExpertName($el, $) {\n    // Ищем текст, который выглядит как имя (обычно перед кнопкой "Подписаться")\n    const text = $el.text();\n    const match = text.match(/([А-ЯЁ][а-яё]+\s+[А-ЯЁ][а-яё]+)/);\n    if (match) {\n      // Проверяем, что это не название команды\n      const name = match[1];\n      if (!name.includes('Сити') && !name.includes('Мадрид') && !name.includes('Барселона')) {\n        return name;\n      }\n    }\n    return null;\n  }\n\n  findExpertName($card, $) {\n    // Метод 1: Ищем ссылку на автора\n    const $authorLink = $card.find('a[href*="/author/"]');\n    if ($authorLink.length > 0) {\n      const name = $authorLink.text().trim();\n      if (name && name.length > 3) {\n        return name;\n      }\n    }\n    \n    // Метод 2: Ищем текст перед кнопкой "Подписаться"\n    const $subscribeBtn = $card.find('button').filter((i, el) => {\n      return $(el).text().includes('Подписаться');\n    });\n    \n    if ($subscribeBtn.length > 0) {\n      // Ищем в родительских элементах\n      let $parent = $subscribeBtn.parent();\n      for (let i = 0; i < 3; i++) {\n        const text = $parent.text();\n        // Ищем паттерн имени (2 слова с заглавными буквами)\n        const match = text.match(/([А-ЯЁ][а-яё]+\s+[А-ЯЁ][а-яё]+)/);\n        if (match) {\n          const name = match[1];\n          // Проверяем, что это не название команды\n          if (!name.includes('Сити') && !name.includes('Мадрид') && \n              !name.includes('Барселона') && !name.includes('Ливерпуль') &&\n              !name.includes('Арсенал') && !name.includes('Челси')) {\n            return name;\n          }\n        }\n        $parent = $parent.parent();\n      }\n    }\n    \n    // Метод 3: Ищем в тексте карточки\n    const cardText = $card.text();\n    const nameMatches = cardText.match(/([А-ЯЁ][а-яё]+\s+[А-ЯЁ][а-яё]+)/g);\n    if (nameMatches) {\n      for (const match of nameMatches) {\n        const name = match.trim();\n        if (name.length > 5 && name.length < 30 && \n            !name.includes('прогноз') && !name.includes('ставка') &&\n            !name.includes('Подписаться') && !name.includes('Ординар')) {\n          return name;\n        }\n      }\n    }\n    \n    return null;\n  }\n\n  /**\n   * Извлекает время публикации\n   */\n  extractTimestamp($el, $) {\n    const $time = $el.find('time');\n    if ($time.length > 0) {\n      return $time.text().trim();\n    }\n    \n    // Ищем текст с временем (формат: "Вчера • 11:35" или "Сегодня • 20:00")\n    const text = $el.text();\n    const match = text.match(/(Вчера|Сегодня|Вчера|1\s+Дек|2\s+Дек|3\s+Дек)\s*•\s*(\d{1,2}:\d{2})/);\n    if (match) {\n      return `${match[1]} • ${match[2]}`;\n    }\n    \n    return 'Недавно';\n  }\n\n  findTimestamp($card, $) {\n    return findTimestampInCard($card, $);\n  }\n\n  /**\n   * Извлекает заголовок прогноза\n   */\n  extractTitle($el, $) {\n    // Ищем заголовок (обычно содержит "прогноз и ставка")\n    const text = $el.text();\n    const match = text.match(/([^:]+:\s*прогноз\s+и\s+ставка[^.]*)/);\n    if (match) {\n      return match[1].trim();\n    }\n    return null;\n  }\n\n  findTitle($card, $) {\n    // Метод 1: Ищем заголовок по паттерну "Команда1 — Команда2: прогноз и ставка"\n    // Ищем во всех элементах карточки\n    const allElements = $card.find('*');\n    for (let i = 0; i < allElements.length; i++) {\n      const $el = $(allElements[i]);\n      const text = $el.text().trim();\n      // Проверяем, что текст содержит паттерн заголовка\n      if (text.match(/^[^—]+—[^:]+:\s*прогноз\s+и\s+ставка/)) {\n        // Проверяем, что это не весь текст карточки (должен быть относительно коротким)\n        if (text.length < 200) {\n          return text;\n        }\n      }\n    }\n    \n    // Метод 2: Ищем в структурированных элементах\n    const $headings = $card.find('h1, h2, h3, h4, h5, h6');\n    for (let i = 0; i < $headings.length; i++) {\n      const text = $($headings[i]).text();\n      if (text.includes('прогноз') && text.includes('ставка')) {\n        return text.trim();\n      }\n    }\n    \n    // Метод 3: Ищем в параграфах\n    const $paragraphs = $card.find('p');\n    for (let i = 0; i < $paragraphs.length; i++) {\n      const text = $($paragraphs[i]).text();\n      if (text.includes('прогноз') && text.includes('ставка') && text.includes('—')) {\n        return text.trim();\n      }\n    }\n    \n    return null;\n  }\n\n  /**\n   * Извлекает комментарий к прогнозу\n   */\n  extractComment($el, $) {\n    const $paragraphs = $el.find('p');\n    let comment = '';\n    \n    $paragraphs.each((index, p) => {\n      const text = $(p).text().trim();\n      // Пропускаем заголовки и короткие тексты\n      if (text.length > 50 && !text.includes('Моя ставка:') && !text.includes('Мой прогноз:')) {\n        comment += text + ' ';\n      }\n    });\n    \n    return comment.trim() || null;\n  }\n\n  findComment($card, $) {\n    const $paragraphs = $card.find('p');\n    let comment = '';\n    \n    $paragraphs.each((index, p) => {\n      const text = $(p).text().trim();\n      if (text.length > 50 && !text.includes('Моя ставка:') && !text.includes('Мой прогноз:')) {\n        comment += text + ' ';\n      }\n    });\n    \n    return comment.trim() || null;\n  }\n\n  /**\n   * Извлекает информацию о матче\n   */\n  extractMatchInfo($el, $) {\n    // Ищем информацию о матче (команды, лига, время)\n    const text = $el.text();\n    const match = text.match(/([А-ЯЁа-яё\s-]+)\s*-\s*([А-ЯЁа-яё\s-]+)\s*(Через\s+\d+\s+час|Сегодня|Вчера)[^•]*•\s*([А-ЯЁа-яё]+)/);\n    if (match) {\n      return {\n        teams: `${match[1].trim()} - ${match[2].trim()}`,\n        time: match[3].trim(),\n        league: match[4].trim()\n      };\n    }\n    return null;\n  }\n\n  findMatchInfo($card, $) {\n    // Ищем заголовок (черный жирный текст) и извлекаем название матча из него\n    // Заголовок имеет формат: "Команда1 — Команда2: прогноз и ставка. ..."\n    const title = this.findTitle($card, $);\n    if (title) {\n      // Извлекаем название матча до двоеточия\n      const colonIndex = title.indexOf(':');\n      if (colonIndex > 0) {\n        let matchName = title.substring(0, colonIndex).trim();\n        \n        // Убираем время из начала (например, "Через 53 минуты", "Сегодня", "Вчера")\n        matchName = matchName.replace(/^(Через\s+\d+\s+(?:минут|час|часа|часов)(?:ы|а|ов)?|Сегодня|Вчера|Завтра)/i, '').trim();\n        \n        // Проверяем, что это действительно название матча (содержит " — ")\n        if (matchName.includes(' — ')) {\n          // Извлекаем команды (оставляем длинное тире)\n          const teams = matchName.trim();\n          \n          // Извлекаем лигу из ссылки, если есть (только для определения лиги, не для названия матча)\n          const $matchLink = $card.find('a[href*="/tips/event-"]');\n          const href = $matchLink.attr('href') || '';\n          let league = '';\n          \n          if (href.includes('hockey')) {\n            league = 'НХЛ';\n          } else if (href.includes('basketball') || href.includes('basketbol')) {\n            league = 'НБА';\n          } else if (href.includes('football') || href.includes('futbol')) {\n            if (href.includes('la-liga')) league = 'Ла Лига';\n            else if (href.includes('premier-league') || href.includes('english')) league = 'АПЛ';\n            else league = 'Чемпионат';\n          }\n          \n          // Время не извлекаем из заголовка, так как оно там не всегда есть\n          return {\n            teams: teams,\n            time: '', // Время не извлекаем из заголовка\n            league: league || ''\n          };\n        }\n      }\n    }\n    \n    // Если заголовок не найден, возвращаем null\n    // Название матча парсится ТОЛЬКО из черного жирного текста (заголовка)\n    return null;\n  }\n\n  /**\n   * Извлекает прогноз (например, "П2", "ТБ (6)", "Обе забьют: Да")\n   */\n  extractPrediction($el, $) {\n    const text = $el.text();\n    // Ищем паттерны прогнозов\n    const patterns = [\n      /Моя\s+ставка:\s*([^с]+?)(?:\s+с\s+коэффициентом|\s+за\s+\d+\.\d+)/,\n      /Мой\s+прогноз:\s*([^с]+?)(?:\s+с\s+коэффициентом|\s+за\s+\d+\.\d+)/,\n      /([ПХ12]\d*|ТБ|ТМ|Обе\s+забьют[^:]*:[^.]*|Ф\d+\s*[+-]?\d*)/i\n    ];\n    \n    for (const pattern of patterns) {\n      const match = text.match(pattern);\n      if (match) {\n        return match[1]?.trim() || match[0].trim();\n      }\n    }\n    \n    return null;\n  }\n\n  findPrediction($card, $) {\n    const text = $card.text();\n    \n        // Метод 1: Ищем полный текст после "Моя ставка:" или "Мой прогноз:"
+    const fullTextPatterns = [
+      /(?:Моя\s+ставка|Мой\s+прогноз):\s*([^с]+?)(?:\s+с\s+коэффициентом|\s+за\s+\d+\.\d+)/i,
+      /(?:Моя\s+ставка|Мой\s+прогноз):\s*([^.]{1,200})/i,
     ];
     
-    for (const pattern of patterns) {
-      const match = text.match(pattern);
-      if (match) {
-        return match[1]?.trim() || match[0].trim();
-      }
-    }
-    
-    return null;
-  }
-
-  findPrediction($card, $) {
-    const text = $card.text();
-    
-    // Паттерны для поиска прогноза (приоритет сложным прогнозам)
-    const patterns = [
-      // Сложные прогнозы с периодом (например, "1-я половина - Ф1 (-2)")
-      /(?:Моя\s+ставка|Мой\s+прогноз):\s*([^с]+?)(?:\s+с\s+коэффициентом|\s+за\s+\d+\.\d+)/,
-      // Простые прогнозы
-      /(?:Моя\s+ставка|Мой\s+прогноз):\s*([^.]{2,80})/,
-    ];
-    
-    for (const pattern of patterns) {
+    let predictionText = null;
+    for (const pattern of fullTextPatterns) {
       const match = text.match(pattern);
       if (match && match[1]) {
-        let prediction = match[1].trim();
+        predictionText = match[1].trim();
         // Очищаем от лишнего
-        prediction = prediction.replace(/\s+с\s+коэффициентом.*$/i, '').trim();
-        if (prediction.length > 1 && prediction.length < 100) {
-          return prediction;
+        predictionText = predictionText.replace(/\s+с\s+коэффициентом.*$/i, '').trim();
+        if (predictionText.length > 1) {
+          break;
         }
       }
     }
     
-    // Ищем стандартные типы прогнозов (включая сложные)
-    const standardPatterns = [
-      // Сложные прогнозы с периодом
-      /(\d+[-яя]\s+половина\s*-\s*Ф\d+\s*\([^)]+\))/i,
-      /(\d+[-яя]\s+четверть\s*-\s*Ф\d+\s*\([^)]+\))/i,
-      /(\d+[-йя]\s+гол\s*-\s*[^.]*)/i,
-      // Тоталы с периодом
-      /(ТБ|ТМ)\s*\([^)]+\)/i,
-      // Исходы
-      /(П\d+|Х\d+|1X|X2|12)/i,
-      // Обе забьют
-      /(Обе\s+забьют[^:]*:[^.]*)/i,
-      // Форы с коэффициентами в скобках (например, "Ф1 (+2,0)")
-      /(Ф\d+\s*\([^)]+\))/i,
-      // Форы без скобок (fallback)
-      /(Ф\d+\s*[+-]?\d*)/i,
-      // Индивидуальные тоталы
-      /(ИТБ\d+\s*\([^)]+\)|ИТМ\d+\s*\([^)]+\))/i,
-    ];
-    
-    for (const pattern of standardPatterns) {
-      const match = text.match(pattern);
-      if (match) {
-        return match[0].trim();
-      }
-    }
-    
-    return null;
-  }
-
-  /**
-   * Извлекает коэффициент
-   */
-  extractOdds($el, $) {
-    const text = $el.text();
-    // Ищем коэффициент (формат: число с точкой, например 1.85, 2.20)
-    const match = text.match(/(?:коэффициентом|коэф\.?)\s*(\d+\.\d+)/);
-    if (match) {
-      return parseFloat(match[1]);
-    }
-    
-    // Ищем просто число с точкой
-    const oddsMatch = text.match(/\b(\d+\.\d{2})\b/);
-    if (oddsMatch) {
-      return parseFloat(oddsMatch[1]);
-    }
-    
-    return null;
-  }
-
-  findOdds($card, $) {
-    const text = $card.text();
-    
-    // Метод 1: Ищем "коэффициентом X.XX" или "коэф. X.XX"
-    const match = text.match(/(?:коэффициентом|коэф\.?)\s*(\d+\.\d{2})/);
-    if (match) {
-      return parseFloat(match[1]);
-    }
-    
-    // Метод 2: Ищем число после прогноза
-    const oddsAfterPrediction = text.match(/(?:П\d+|ТБ|ТМ|Обе\s+забьют|Ф\d+)[^.]*(\d+\.\d{2})/);
-    if (oddsAfterPrediction) {
-      return parseFloat(oddsAfterPrediction[1]);
-    }
-    
-    // Метод 3: Ищем все числа с форматом X.XX и берем первое разумное
-    const allOdds = text.match(/\b(\d+\.\d{2})\b/g);
-    if (allOdds) {
-      for (const oddsStr of allOdds) {
-        const odds = parseFloat(oddsStr);
-        // Коэффициенты обычно от 1.10 до 10.00
-        if (odds >= 1.10 && odds <= 10.00) {
-          return odds;
-        }
-      }
-    }
-    
-    return null;
-  }
-
-  /**
-   * Извлекает аватар эксперта
-   */
-  extractAvatar($el, $) {
-    const $img = $el.find('img');
-    for (let i = 0; i < $img.length; i++) {
-      const src = $($img[i]).attr('src') || $($img[i]).attr('data-src');
-      if (src && (src.includes('author') || src.includes('avatar') || src.includes('user'))) {
-        return src.startsWith('http') ? src : `https://bookmaker-ratings.ru${src}`;
-      }
-    }
-    return 'https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=100&h=100&fit=crop';
-  }
-
-  findAvatar($card, $) {
-    const $img = $card.find('img');
-    for (let i = 0; i < $img.length; i++) {
-      const src = $($img[i]).attr('src') || $($img[i]).attr('data-src');
-      if (src && (src.includes('author') || src.includes('avatar') || src.includes('user'))) {
-        return src.startsWith('http') ? src : `https://bookmaker-ratings.ru${src}`;
-      }
-    }
-    return 'https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=100&h=100&fit=crop';
-  }
-
-  /**
-   * Преобразует распарсенные данные в формат приложения
-   */
-  formatPredictions(rawPredictions) {
-    return rawPredictions.map((pred, index) => {
-      // Определяем дисциплину из лиги
-      const discipline = this.getDisciplineFromLeague(pred.matchInfo?.league || '');
+    // Если нашли текст прогноза, ищем в нем все отдельные прогнозы
+    if (predictionText) {
+      const predictions = [];
       
-      // Название матча уже извлечено из заголовка в формате "Команда1 - Команда2"
-      // Просто используем его без агрессивной очистки
-      let eventName = pred.matchInfo?.teams || pred.title?.split(':')[0] || 'Матч';
+      // Паттерны для поиска отдельных прогнозов (в порядке приоритета)
+      const predictionPatterns = [
+        // Сложные прогнозы с периодом и форой
+        /\d+[-яя]\s+половина\s*-\s*Ф\d+\s*\([^)]+\)/gi,
+        /\d+[-яя]\s+четверть\s*-\s*Ф\d+\s*\([^)]+\)/gi,
+        /\d+[-йя]\s+гол\s*-\s*[^.]*/gi,
+        // Форы с полным описанием (например, "Ф1 (0) по угловым")
+        /Ф\d+\s*\([^)]+\)\s+по\s+[А-ЯЁа-яё]+/gi,
+        // Форы с коэффициентами в скобках
+        /Ф\d+\s*\([^)]+\)/gi,
+        // Тоталы
+        /(ТБ|ТМ)\s*\([^)]+\)/gi,
+        // Исходы (П1, П2, Х, 1X, X2, 12)
+        /(П\d+|Х\d*|1X|X2|12)/gi,
+        // Обе забьют
+        /Обе\s+забьют[^:]*:[^.]*/gi,
+        // Индивидуальные тоталы
+        /(ИТБ\d+\s*\([^)]+\)|ИТМ\d+\s*\([^)]+\))/gi,
+        // Форы без скобок (fallback)
+        /Ф\d+\s*[+-]?\d*/gi,
+      ];
       
-      // Очищаем лигу от лишнего текста
-      let tournament = pred.matchInfo?.league || 'Чемпионат';
-      tournament = tournament.replace(/[ПХ12]\d*.*$/, '').trim(); // Удаляем прогноз если попал
-      tournament = tournament.replace(/^\s*•\s*/, '').trim(); // Удаляем начальный разделитель
-      tournament = tournament.replace(/^[А-ЯЁа-яё]+\s*-\s*[А-ЯЁа-яё]+.*$/, '').trim(); // Удаляем название матча если попал
-      
-      // Если лига слишком короткая или пустая, определяем по URL или другим признакам
-      if (!tournament || tournament.length < 2 || tournament === 'Н') {
-        // Пытаемся определить по названию матча или другим признакам
-        const eventLower = eventName.toLowerCase();
-        if (eventLower.includes('нхл') || eventLower.includes('айлендерс') || eventLower.includes('рейнджерс') || 
-            eventLower.includes('флорида') || eventLower.includes('торонто') || eventLower.includes('колорадо') ||
-            eventLower.includes('ванкувер') || eventLower.includes('эдмонтон') || eventLower.includes('миннесота') ||
-            eventLower.includes('вегас') || eventLower.includes('чикаго') || eventLower.includes('тампа')) {
-          tournament = 'НХЛ';
-        } else if (eventLower.includes('нба') || eventLower.includes('филадельфия') || eventLower.includes('вашингтон') ||
-                   eventLower.includes('сан-антонио') || eventLower.includes('мемфис') || eventLower.includes('бостон') ||
-                   eventLower.includes('нью-йорк') || eventLower.includes('селтикс') || eventLower.includes('никс') ||
-                   eventLower.includes('голден стэйт') || eventLower.includes('оклахома')) {
-          tournament = 'НБА';
-        } else if (eventLower.includes('ла лига') || eventLower.includes('атлетик') || eventLower.includes('реал')) {
-          tournament = 'Ла Лига';
-        } else if (eventLower.includes('апл') || eventLower.includes('вулверхэмптон') || eventLower.includes('ноттингем')) {
-          tournament = 'АПЛ';
-        } else {
-          tournament = 'Чемпионат';
-        }
-      }
-      
-      // Определяем дисциплину по турниру (если еще не определена правильно)
-      if (discipline === 'Футбол' && (tournament === 'НХЛ' || tournament === 'КХЛ')) {
-        discipline = 'Хоккей';
-      } else if (discipline === 'Футбол' && tournament === 'НБА') {
-        discipline = 'Баскетбол';
-      }
-      
-      return {
-        id: Date.now() + index,
-        eventName: eventName,
-        discipline: discipline,
-        tournament: tournament || 'Чемпионат',
-        expert: {
-          name: pred.expertName || 'Эксперт',
-          avatar: pred.avatar || 'https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=100&h=100&fit=crop',
-          status: 'expert',
-          winRate: this.getWinRateForExpert(pred.expertName || 'Эксперт')
-        },
-        prediction: pred.prediction || 'Прогноз',
-        odds: pred.odds || 1.85,
-        comment: pred.comment || pred.title || 'Комментарий к прогнозу',
-        source: 'Sports Analytics Pro',
-        timestamp: pred.timestamp || 'Недавно',
-        publishedAt: (() => {
-          try {
-            if (!pred.timestamp || pred.timestamp === 'Недавно') {
-              return new Date().toISOString();
-            }
-            const date = parseTimestampToDate(pred.timestamp);
-            if (isNaN(date.getTime())) {
-              console.warn(`Не удалось распарсить время: "${pred.timestamp}"`);
-              return new Date().toISOString();
-            }
-            return date.toISOString();
-          } catch (error) {
-            console.error(`Ошибка при парсинге времени "${pred.timestamp}":`, error);
-            return new Date().toISOString();
+      // Ищем все прогнозы в тексте
+      for (const pattern of predictionPatterns) {
+        const matches = predictionText.matchAll(pattern);
+        for (const match of matches) {
+          const pred = match[0].trim();
+          // Проверяем, что это не часть другого прогноза
+          if (pred.length > 0 && !predictions.includes(pred)) {
+            predictions.push(pred);
           }
-        })()
-      };
-    });
-  }
-
-  /**
-   * Определяет дисциплину по названию лиги
-   */
-  getDisciplineFromLeague(league) {
-    if (!league) return 'Футбол';
-    
-    const leagueLower = league.toLowerCase().trim();
-    
-    // Хоккей
-    if (leagueLower.includes('нхл') || leagueLower.includes('кхл') || leagueLower.includes('хоккей')) {
-      return 'Хоккей';
-    }
-    // Баскетбол
-    if (leagueLower.includes('нба') || leagueLower.includes('баскетбол')) {
-      return 'Баскетбол';
-    }
-    // Теннис
-    if (leagueLower.includes('теннис') || leagueLower.includes('atp') || leagueLower.includes('wta')) {
-      return 'Теннис';
-    }
-    // Футбол
-    if (leagueLower.includes('лига') || leagueLower.includes('премьер') || 
-        leagueLower.includes('апл') || leagueLower.includes('ла лига') ||
-        leagueLower.includes('серия а') || leagueLower.includes('бундеслига') ||
-        leagueLower.includes('лига 1') || leagueLower.includes('футбол')) {
-      return 'Футбол';
-    }
-    // Киберспорт
-    if (leagueLower.includes('кибер') || leagueLower.includes('esports')) {
-      return 'Киберспорт';
-    }
-    
-    return 'Футбол'; // По умолчанию
-  }
-
-  /**
-   * Получает винрейт эксперта по его имени
-   * @param {string} expertName - Имя эксперта
-   * @returns {number} - Винрейт от 60 до 80
-   */
-  getWinRateForExpert(expertName) {
-    if (!expertName) return 65;
-    
-    // Простая хеш-функция для стабильного винрейта для одного эксперта
-    let hash = 0;
-    for (let i = 0; i < expertName.length; i++) {
-      hash = ((hash << 5) - hash) + expertName.charCodeAt(i);
-      hash = hash & hash; // Convert to 32bit integer
-    }
-    
-    // Генерируем винрейт от 60 до 80 на основе хеша
-    const winRate = 60 + (Math.abs(hash) % 21);
-    return winRate;
-  }
-}
-
+        }
+      }
+      
+      // Если нашли несколько прогнозов, объединяем их через "и"
+      if (predictions.length > 0) {
+        return predictions.join(' и ');
+      }
+      
+      // Если не нашли отдельные прогнозы, возвращаем весь текст
+      return predictionText;
+    }\n        }\n      }\n    }\n    \n    // Ищем стандартные типы прогнозов (включая сложные)\n    const standardPatterns = [\n      // Сложные прогнозы с периодом\n      /(\d+[-яя]\s+половина\s*-\s*Ф\d+\s*\([^)]+\))/i,\n      /(\d+[-яя]\s+четверть\s*-\s*Ф\d+\s*\([^)]+\))/i,\n      /(\d+[-йя]\s+гол\s*-\s*[^.]*)/i,\n      // Тоталы с периодом\n      /(ТБ|ТМ)\s*\([^)]+\)/i,\n      // Исходы\n      /(П\d+|Х\d+|1X|X2|12)/i,\n      // Обе забьют\n      /(Обе\s+забьют[^:]*:[^.]*)/i,\n      // Форы с коэффициентами в скобках (например, "Ф1 (+2,0)")\n      /(Ф\d+\s*\([^)]+\))/i,\n      // Форы без скобок (fallback)\n      /(Ф\d+\s*[+-]?\d*)/i,\n      // Индивидуальные тоталы\n      /(ИТБ\d+\s*\([^)]+\)|ИТМ\d+\s*\([^)]+\))/i,\n    ];\n    \n    for (const pattern of standardPatterns) {\n      const match = text.match(pattern);\n      if (match) {\n        return match[0].trim();\n      }\n    }\n    \n    return null;\n  }\n\n  /**\n   * Извлекает коэффициент\n   */\n  extractOdds($el, $) {\n    const text = $el.text();\n    // Ищем коэффициент (формат: число с точкой, например 1.85, 2.20)\n    const match = text.match(/(?:коэффициентом|коэф\.?)\s*(\d+\.\d+)/);\n    if (match) {\n      return parseFloat(match[1]);\n    }\n    \n    // Ищем просто число с точкой\n    const oddsMatch = text.match(/\b(\d+\.\d{2})\b/);\n    if (oddsMatch) {\n      return parseFloat(oddsMatch[1]);\n    }\n    \n    return null;\n  }\n\n  findOdds($card, $) {\n    const text = $card.text();\n    \n    // Метод 1: Ищем "коэффициентом X.XX" или "коэф. X.XX"\n    const match = text.match(/(?:коэффициентом|коэф\.?)\s*(\d+\.\d{2})/);\n    if (match) {\n      return parseFloat(match[1]);\n    }\n    \n    // Метод 2: Ищем число после прогноза\n    const oddsAfterPrediction = text.match(/(?:П\d+|ТБ|ТМ|Обе\s+забьют|Ф\d+)[^.]*(\d+\.\d{2})/);\n    if (oddsAfterPrediction) {\n      return parseFloat(oddsAfterPrediction[1]);\n    }\n    \n    // Метод 3: Ищем все числа с форматом X.XX и берем первое разумное\n    const allOdds = text.match(/\b(\d+\.\d{2})\b/g);\n    if (allOdds) {\n      for (const oddsStr of allOdds) {\n        const odds = parseFloat(oddsStr);\n        // Коэффициенты обычно от 1.10 до 10.00\n        if (odds >= 1.10 && odds <= 10.00) {\n          return odds;\n        }\n      }\n    }\n    \n    return null;\n  }\n\n  /**\n   * Извлекает аватар эксперта\n   */\n  extractAvatar($el, $) {\n    const $img = $el.find('img');\n    for (let i = 0; i < $img.length; i++) {\n      const src = $($img[i]).attr('src') || $($img[i]).attr('data-src');\n      if (src && (src.includes('author') || src.includes('avatar') || src.includes('user'))) {\n        return src.startsWith('http') ? src : `https://bookmaker-ratings.ru${src}`;\n      }\n    }\n    return 'https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=100&h=100&fit=crop';\n  }\n\n  findAvatar($card, $) {\n    const $img = $card.find('img');\n    for (let i = 0; i < $img.length; i++) {\n      const src = $($img[i]).attr('src') || $($img[i]).attr('data-src');\n      if (src && (src.includes('author') || src.includes('avatar') || src.includes('user'))) {\n        return src.startsWith('http') ? src : `https://bookmaker-ratings.ru${src}`;\n      }\n    }\n    return 'https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=100&h=100&fit=crop';\n  }\n\n  /**\n   * Преобразует распарсенные данные в формат приложения\n   */\n  formatPredictions(rawPredictions) {\n    return rawPredictions.map((pred, index) => {\n      // Определяем дисциплину из лиги\n      const discipline = this.getDisciplineFromLeague(pred.matchInfo?.league || '');\n      \n      // Название матча уже извлечено из заголовка в формате "Команда1 - Команда2"\n      // Просто используем его без агрессивной очистки\n      let eventName = pred.matchInfo?.teams || pred.title?.split(':')[0] || 'Матч';\n      \n      // Очищаем лигу от лишнего текста\n      let tournament = pred.matchInfo?.league || 'Чемпионат';\n      tournament = tournament.replace(/[ПХ12]\d*.*$/, '').trim(); // Удаляем прогноз если попал\n      tournament = tournament.replace(/^\s*•\s*/, '').trim(); // Удаляем начальный разделитель\n      tournament = tournament.replace(/^[А-ЯЁа-яё]+\s*-\s*[А-ЯЁа-яё]+.*$/, '').trim(); // Удаляем название матча если попал\n      \n      // Если лига слишком короткая или пустая, определяем по URL или другим признакам\n      if (!tournament || tournament.length < 2 || tournament === 'Н') {\n        // Пытаемся определить по названию матча или другим признакам\n        const eventLower = eventName.toLowerCase();\n        if (eventLower.includes('нхл') || eventLower.includes('айлендерс') || eventLower.includes('рейнджерс') || \n            eventLower.includes('флорида') || eventLower.includes('торонто') || eventLower.includes('колорадо') ||\n            eventLower.includes('ванкувер') || eventLower.includes('эдмонтон') || eventLower.includes('миннесота') ||\n            eventLower.includes('вегас') || eventLower.includes('чикаго') || eventLower.includes('тампа')) {\n          tournament = 'НХЛ';\n        } else if (eventLower.includes('нба') || eventLower.includes('филадельфия') || eventLower.includes('вашингтон') ||\n                   eventLower.includes('сан-антонио') || eventLower.includes('мемфис') || eventLower.includes('бостон') ||\n                   eventLower.includes('нью-йорк') || eventLower.includes('селтикс') || eventLower.includes('никс') ||\n                   eventLower.includes('голден стэйт') || eventLower.includes('оклахома')) {\n          tournament = 'НБА';\n        } else if (eventLower.includes('ла лига') || eventLower.includes('атлетик') || eventLower.includes('реал')) {\n          tournament = 'Ла Лига';\n        } else if (eventLower.includes('апл') || eventLower.includes('вулверхэмптон') || eventLower.includes('ноттингем')) {\n          tournament = 'АПЛ';\n        } else {\n          tournament = 'Чемпионат';\n        }\n      }\n      \n      // Определяем дисциплину по турниру (если еще не определена правильно)\n      if (discipline === 'Футбол' && (tournament === 'НХЛ' || tournament === 'КХЛ')) {\n        discipline = 'Хоккей';\n      } else if (discipline === 'Футбол' && tournament === 'НБА') {\n        discipline = 'Баскетбол';\n      }\n      \n      return {\n        id: Date.now() + index,\n        eventName: eventName,\n        discipline: discipline,\n        tournament: tournament || 'Чемпионат',\n        expert: {\n          name: pred.expertName || 'Эксперт',\n          avatar: pred.avatar || 'https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=100&h=100&fit=crop',\n          status: 'expert',\n          winRate: this.getWinRateForExpert(pred.expertName || 'Эксперт')\n        },\n        prediction: pred.prediction || 'Прогноз',\n        odds: pred.odds || 1.85,\n        comment: pred.comment || pred.title || 'Комментарий к прогнозу',\n        source: 'Sports Analytics Pro',\n        timestamp: pred.timestamp || 'Недавно',\n        publishedAt: (() => {\n          try {\n            if (!pred.timestamp || pred.timestamp === 'Недавно') {\n              return new Date().toISOString();\n            }\n            const date = parseTimestampToDate(pred.timestamp);\n            if (isNaN(date.getTime())) {\n              console.warn(`Не удалось распарсить время: "${pred.timestamp}"`);\n              return new Date().toISOString();\n            }\n            return date.toISOString();\n          } catch (error) {\n            console.error(`Ошибка при парсинге времени "${pred.timestamp}":`, error);\n            return new Date().toISOString();\n          }\n        })()\n      };\n    });\n  }\n\n  /**\n   * Определяет дисциплину по названию лиги\n   */\n  getDisciplineFromLeague(league) {\n    if (!league) return 'Футбол';\n    \n    const leagueLower = league.toLowerCase().trim();\n    \n    // Хоккей\n    if (leagueLower.includes('нхл') || leagueLower.includes('кхл') || leagueLower.includes('хоккей')) {\n      return 'Хоккей';\n    }\n    // Баскетбол\n    if (leagueLower.includes('нба') || leagueLower.includes('баскетбол')) {\n      return 'Баскетбол';\n    }\n    // Теннис\n    if (leagueLower.includes('теннис') || leagueLower.includes('atp') || leagueLower.includes('wta')) {\n      return 'Теннис';\n    }\n    // Футбол\n    if (leagueLower.includes('лига') || leagueLower.includes('премьер') || \n        leagueLower.includes('апл') || leagueLower.includes('ла лига') ||\n        leagueLower.includes('серия а') || leagueLower.includes('бундеслига') ||\n        leagueLower.includes('лига 1') || leagueLower.includes('футбол')) {\n      return 'Футбол';\n    }\n    // Киберспорт\n    if (leagueLower.includes('кибер') || leagueLower.includes('esports')) {\n      return 'Киберспорт';\n    }\n    \n    return 'Футбол'; // По умолчанию\n  }\n\n  /**\n   * Получает винрейт эксперта по его имени\n   * @param {string} expertName - Имя эксперта\n   * @returns {number} - Винрейт от 60 до 80\n   */\n  getWinRateForExpert(expertName) {\n    if (!expertName) return 65;\n    \n    // Простая хеш-функция для стабильного винрейта для одного эксперта\n    let hash = 0;\n    for (let i = 0; i < expertName.length; i++) {\n      hash = ((hash << 5) - hash) + expertName.charCodeAt(i);\n      hash = hash & hash; // Convert to 32bit integer\n    }\n    \n    // Генерируем винрейт от 60 до 80 на основе хеша\n    const winRate = 60 + (Math.abs(hash) % 21);\n    return winRate;\n  }\n}\n\n
