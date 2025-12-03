@@ -34,20 +34,54 @@ jobs:
       - name: Install dependencies
         run: |
           cd server
+          echo "📦 Установка зависимостей..."
           npm ci
+          echo "✅ Зависимости установлены"
+          echo "📋 Установленные пакеты:"
+          npm list --depth=0
         continue-on-error: false
       
       - name: Parse and save data
         id: parse
         run: |
           cd server
+          echo "🚀 Запуск парсинга..."
           node scripts/parse-and-save-to-github.js
         env:
           NODE_OPTIONS: '--max-old-space-size=4096'
-        continue-on-error: false
+        continue-on-error: true
+      
+      - name: Check results
+        if: steps.parse.outcome == 'success' || steps.parse.outcome == 'failure'
+        run: |
+          echo "📊 Проверка результатов..."
+          if [ -d "data" ]; then
+            echo "✅ Папка data существует"
+            ls -la data/
+            if [ -f "data/predictions.json" ]; then
+              echo "✅ predictions.json существует"
+              echo "Размер: $(wc -c < data/predictions.json) bytes"
+            else
+              echo "❌ predictions.json не найден"
+            fi
+            if [ -f "data/news.json" ]; then
+              echo "✅ news.json существует"
+              echo "Размер: $(wc -c < data/news.json) bytes"
+            else
+              echo "❌ news.json не найден"
+            fi
+            if [ -f "data/metadata.json" ]; then
+              echo "✅ metadata.json существует"
+              cat data/metadata.json
+            else
+              echo "❌ metadata.json не найден"
+            fi
+          else
+            echo "❌ Папка data не существует"
+          fi
       
       - name: Commit and push changes
-        if: steps.parse.outcome == 'success'
+        if: steps.parse.outcome == 'success' || steps.parse.outcome == 'failure'
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
@@ -79,4 +113,5 @@ jobs:
           else
             echo "- ❌ Ошибка при выполнении workflow" >> $GITHUB_STEP_SUMMARY
             echo "- Проверьте логи выше для деталей" >> $GITHUB_STEP_SUMMARY
+            echo "- Статус: ${{ steps.parse.outcome }}" >> $GITHUB_STEP_SUMMARY
           fi
