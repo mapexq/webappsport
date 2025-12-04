@@ -14,5 +14,10 @@
       "androidScaleType": "CENTER_CROP",
       "showSpinner": false
     }
+  },
+  "android": {
+    "allowMixedContent": false,
+    "captureInput": true,
+    "webContentsDebuggingEnabled": false
   }
 }

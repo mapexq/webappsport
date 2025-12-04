@@ -1,7 +1,22 @@
 <?xml version='1.0' encoding='utf-8'?>
 <resources>
+    <!-- Основные строки приложения -->
     <string name="app_name">BETPRO</string>
     <string name="title_activity_main">BETPRO</string>
     <string name="package_name">com.betpro.app</string>
     <string name="custom_url_scheme">com.betpro.app</string>
+    
+    <!-- Версия приложения -->
+    <string name="app_version">1.0.0</string>
+    <string name="app_version_code">1</string>
+    
+    <!-- Описание приложения -->
+    <string name="app_description">Лучшие бонусы, прогнозы и новости от топовых букмекеров. Экспертные анализы, актуальные коэффициенты и эксклюзивные предложения.</string>
+    <string name="app_short_description">Бонусы, прогнозы и новости от экспертов</string>
+    
+    <!-- Категория -->
+    <string name="app_category">Спорт</string>
+    
+    <!-- Разработчик -->
+    <string name="app_developer">BETPRO Team</string>
 </resources>

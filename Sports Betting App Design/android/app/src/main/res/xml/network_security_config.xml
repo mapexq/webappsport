@@ -12,6 +12,18 @@
         <domain includeSubdomains="true">github.com</domain>
     </domain-config>
     
+    <!-- Разрешаем загрузку аватарок экспертов с bookmaker-ratings.ru -->
+    <!-- includeSubdomains="true" покрывает все поддомены, включая wp0, wp1 и т.д. -->
+    <domain-config cleartextTrafficPermitted="false">
+        <domain includeSubdomains="true">bookmaker-ratings.ru</domain>
+    </domain-config>
+    
+    <!-- Разрешаем загрузку изображений новостей с sportrbc.ru -->
+    <domain-config cleartextTrafficPermitted="false">
+        <domain includeSubdomains="true">sportrbc.ru</domain>
+        <domain includeSubdomains="true">rbc.ru</domain>
+    </domain-config>
+    
     <!-- Базовая конфигурация: запрещаем незашифрованный трафик по умолчанию -->
     <!-- Для конкретных доменов используйте domain-config выше -->
     <base-config cleartextTrafficPermitted="false">
