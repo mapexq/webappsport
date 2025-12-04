@@ -1,5 +1,47 @@
 [
   {
+    "id": "a01503012a60aae0",
+    "title": "Американский баскетболист сбежал из российского клуба спустя три месяца",
+    "sport": "Баскетбол",
+    "category": "Баскетбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/3/82/347648392321823.png",
+    "teaser": "Американский баскетболист сбежал из российского клуба спустя три месяца",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69314eff9a79478044e7d2a4",
+    "publishedAt": "2025-12-04T09:20:46.000Z",
+    "createdAt": "2025-12-04T09:31:08.074Z",
+    "updatedAt": "2025-12-04T09:31:08.074Z"
+  },
+  {
+    "id": "076becea449e4043",
+    "title": "Российский новичок побил рекорд самого титулованного клуба НХЛ",
+    "sport": "Хоккей",
+    "category": "Хоккей",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/2/47/347648270079472.jpeg",
+    "teaser": "Российский новичок побил рекорд самого титулованного клуба НХЛ",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69311d1c9a79475dfd9a35f0",
+    "publishedAt": "2025-12-04T05:56:43.000Z",
+    "createdAt": "2025-12-04T09:31:09.266Z",
+    "updatedAt": "2025-12-04T09:31:09.266Z"
+  },
+  {
+    "id": "c4406568f0b268a2",
+    "title": "Овечкин сделал дубль и вошел в топ-2 лучших снайперов года в НХЛ",
+    "sport": "Хоккей",
+    "category": "Хоккей",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/0/13/347648235851130.jpeg",
+    "teaser": "Овечкин сделал дубль и вошел в топ-2 лучших снайперов года в НХЛ",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/693110ba9a794785f99e67fa",
+    "publishedAt": "2025-12-04T05:09:25.000Z",
+    "createdAt": "2025-12-04T09:31:10.522Z",
+    "updatedAt": "2025-12-04T09:31:10.522Z"
+  },
+  {
     "id": "b3d4fccb9971fc5a",
     "title": "Международная федерация гандбола собралась допустить россиян в 2026 году",
     "sport": "Другое",
@@ -10,8 +52,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6930803a9a79479d3069f906",
     "publishedAt": "2025-12-03T18:47:06.000Z",
-    "createdAt": "2025-12-04T08:36:17.130Z",
-    "updatedAt": "2025-12-04T08:36:17.130Z"
+    "createdAt": "2025-12-04T09:31:12.798Z",
+    "updatedAt": "2025-12-04T09:31:12.798Z"
   },
   {
     "id": "7ecd608635b66fd7",
@@ -24,8 +66,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69307c019a79475ce4408269",
     "publishedAt": "2025-12-03T18:22:20.000Z",
-    "createdAt": "2025-12-04T08:36:18.090Z",
-    "updatedAt": "2025-12-04T08:36:18.090Z"
+    "createdAt": "2025-12-04T09:31:13.881Z",
+    "updatedAt": "2025-12-04T09:31:13.881Z"
   },
   {
     "id": "f38b605b515619c8",
@@ -38,8 +80,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6930786f9a79476b9708dc0c",
     "publishedAt": "2025-12-03T18:17:57.000Z",
-    "createdAt": "2025-12-04T08:36:16.106Z",
-    "updatedAt": "2025-12-04T08:36:16.106Z"
+    "createdAt": "2025-12-04T09:31:11.656Z",
+    "updatedAt": "2025-12-04T09:31:11.656Z"
   },
   {
     "id": "f19c76ce64377c8e",
@@ -52,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/693069499a79475c17a91cb7",
     "publishedAt": "2025-12-03T16:57:10.000Z",
-    "createdAt": "2025-12-04T08:36:19.122Z",
-    "updatedAt": "2025-12-04T08:36:19.122Z"
+    "createdAt": "2025-12-04T09:31:15.182Z",
+    "updatedAt": "2025-12-04T09:31:15.182Z"
   },
   {
     "id": "af6c026d71596ca2",
@@ -66,8 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/693064889a7947b59a9e161b",
     "publishedAt": "2025-12-03T16:49:06.000Z",
-    "createdAt": "2025-12-04T08:36:20.147Z",
-    "updatedAt": "2025-12-04T08:36:20.147Z"
+    "createdAt": "2025-12-04T09:31:16.403Z",
+    "updatedAt": "2025-12-04T09:31:16.403Z"
   },
   {
     "id": "92ead57b61576fd9",
@@ -80,22 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69305bc99a7947628f508831",
     "publishedAt": "2025-12-03T16:11:32.000Z",
-    "createdAt": "2025-12-04T08:36:21.100Z",
-    "updatedAt": "2025-12-04T08:36:21.100Z"
-  },
-  {
-    "id": "3bc22135772831db",
-    "title": "Умер чемпион НБА и бывший игрок «Лейкерс» Элден Кэмпбелл",
-    "sport": "Хоккей",
-    "category": "Хоккей",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/3/68/347647735117683.jpeg",
-    "teaser": "Умер чемпион НБА и бывший игрок «Лейкерс» Элден Кэмпбелл",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69304c6e9a794775a78e2851",
-    "publishedAt": "2025-12-03T15:09:04.000Z",
-    "createdAt": "2025-12-04T08:36:23.311Z",
-    "updatedAt": "2025-12-04T08:36:23.311Z"
+    "createdAt": "2025-12-04T09:31:17.558Z",
+    "updatedAt": "2025-12-04T09:31:17.558Z"
   },
   {
     "id": "ae252b755eac0a70",
@@ -108,35 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69304ca29a7947b1736b61eb",
     "publishedAt": "2025-12-03T15:02:33.000Z",
-    "createdAt": "2025-12-04T08:36:22.177Z",
-    "updatedAt": "2025-12-04T08:36:22.177Z"
-  },
-  {
-    "id": "b89239fc2f255aec",
-    "title": "Звонарева вышла в 1/4 финала турнира ITF после полуторагодового перерыва",
-    "sport": "Теннис",
-    "category": "Теннис",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/3/97/347647715385973.jpeg",
-    "teaser": "Звонарева вышла в 1/4 финала турнира ITF после полуторагодового перерыва",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/693046bd9a794755ea3c5fb1",
-    "publishedAt": "2025-12-03T14:41:01.000Z",
-    "createdAt": "2025-12-04T08:36:24.336Z",
-    "updatedAt": "2025-12-04T08:36:24.336Z"
-  },
-  {
-    "id": "f6210a25f28bf846",
-    "title": "Форвард «Зенита» перенес операцию на колене и выбыл на полгода",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/3/87/347647699617873.jpeg",
-    "teaser": "Форвард «Зенита» перенес операцию на колене и выбыл на полгода",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/693040899a79474a1d7c625c",
-    "publishedAt": "2025-12-03T14:04:23.000Z",
-    "createdAt": "2025-12-04T08:36:25.442Z",
-    "updatedAt": "2025-12-04T08:36:25.442Z"
+    "createdAt": "2025-12-04T09:31:18.746Z",
+    "updatedAt": "2025-12-04T09:31:18.746Z"
   }
 ]
