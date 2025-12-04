@@ -5,6 +5,7 @@ import { useState, useEffect } from 'react';
 import { toast } from 'sonner@2.0.3';
 import { apiService } from '../services/api';
 import { ImageWithFallback } from './figma/ImageWithFallback';
+import { logger } from '../utils/logger';
 
 export interface Prediction {
   id: number;
@@ -45,7 +46,7 @@ export function PredictionsTab() {
       const data = await apiService.getPredictions();
       setPredictions(data);
     } catch (error) {
-      console.error('Ошибка при загрузке прогнозов:', error);
+      logger.error('Ошибка при загрузке прогнозов:', error);
       toast.error('Ошибка загрузки прогнозов', {
         description: 'Не удалось загрузить прогнозы. Используются данные по умолчанию.',
         duration: 3000,
@@ -69,7 +70,7 @@ export function PredictionsTab() {
         duration: 3000,
       });
     } catch (error) {
-      console.error('Ошибка при обновлении прогнозов:', error);
+      logger.error('Ошибка при обновлении прогнозов:', error);
       toast.error('Ошибка обновления', {
         description: 'Не удалось обновить прогнозы',
         duration: 3000,

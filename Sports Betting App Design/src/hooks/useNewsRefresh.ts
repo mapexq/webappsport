@@ -1,5 +1,6 @@
 import { useEffect, useRef } from 'react';
 import { apiService } from '../services/api';
+import { logger } from '../utils/logger';
 
 /**
  * Хук для автоматического обновления новостей при заходе в приложение
@@ -24,18 +25,18 @@ export function useNewsRefresh() {
 
           // Если прошло больше 30 минут, обновляем автоматически
           if (diffMinutes > 30) {
-            console.log('Автоматическое обновление новостей при заходе в приложение');
+            logger.log('Автоматическое обновление новостей при заходе в приложение');
             await apiService.refreshNews();
           }
         } else {
           // Если нет данных о последнем обновлении, обновляем
-          console.log('Автоматическое обновление новостей (нет данных о последнем обновлении)');
+          logger.log('Автоматическое обновление новостей (нет данных о последнем обновлении)');
           await apiService.refreshNews();
         }
         
         hasRefreshed.current = true;
       } catch (error) {
-        console.error('Ошибка при автоматическом обновлении новостей:', error);
+        logger.error('Ошибка при автоматическом обновлении новостей:', error);
         // Не показываем ошибку пользователю, просто логируем
       }
     };

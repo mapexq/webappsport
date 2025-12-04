@@ -23,7 +23,6 @@ export function Layout() {
   useNewsRefresh();
 
   const handleRetry = () => {
-    console.log('Повторная проверка запущена');
     // Здесь будет ваша логика повторной проверки
     // setConnectionIssue(null);
   };

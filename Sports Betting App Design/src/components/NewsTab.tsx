@@ -5,6 +5,7 @@ import { useState, useEffect } from 'react';
 import { ImageWithFallback } from './figma/ImageWithFallback';
 import { toast } from 'sonner@2.0.3';
 import { apiService } from '../services/api';
+import { logger } from '../utils/logger';
 import {
   AlertDialog,
   AlertDialogAction,
@@ -105,7 +106,7 @@ export function NewsTab() {
       const transformedNews = news.map(transformNewsItem);
       setNewsItems(transformedNews);
     } catch (error) {
-      console.error('Ошибка загрузки новостей:', error);
+      logger.error('Ошибка загрузки новостей:', error);
       toast.error('Не удалось загрузить новости', {
         description: 'Попробуйте обновить страницу позже',
         duration: 5000,
@@ -127,7 +128,7 @@ export function NewsTab() {
       if (result.success) {
         // Если новости не изменились (updated: false), не обновляем UI
         if (result.updated === false) {
-          console.log('Новости не изменились, UI не обновляется');
+          // Новости не изменились, UI не обновляется
           if (!silent) {
             toast.info('Новости актуальны', {
               description: 'Новых материалов нет',
@@ -161,7 +162,7 @@ export function NewsTab() {
         }
       }
     } catch (error: any) {
-      console.error('Ошибка обновления новостей:', error);
+      logger.error('Ошибка обновления новостей:', error);
       
       if (!silent) {
         toast.error('Не удалось обновить новости', {

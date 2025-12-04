@@ -1,40 +1,210 @@
+# ============================================
+# Единый .gitignore для всего проекта
+# ============================================
+
+# ============================================
 # Dependencies
+# ============================================
 node_modules/
 **/node_modules/
+package-lock.json
+yarn.lock
+pnpm-lock.yaml
 
-# Environment variables
+# ============================================
+# Environment variables & Secrets
+# ============================================
 .env
 .env.local
 .env.*.local
+.env.production
+.env.development
 
+# ============================================
+# Android Keystore & Signing (КРИТИЧНО!)
+# ============================================
+*.jks
+*.keystore
+keystore.properties
+**/keystore.properties
+**/*.jks
+**/*.keystore
+
+# ============================================
 # Logs
+# ============================================
 *.log
 npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
 logs/
+**/logs/
+server/logs/
+server/cache/
 
+# ============================================
 # OS files
+# ============================================
 .DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
 Thumbs.db
+Desktop.ini
 
-# IDE
+# ============================================
+# IDE & Editors
+# ============================================
 .vscode/
 .idea/
 *.swp
 *.swo
+*~
+*.sublime-project
+*.sublime-workspace
+*.code-workspace
 
+# IntelliJ IDEA
+*.iml
+.idea/workspace.xml
+.idea/tasks.xml
+.idea/gradle.xml
+.idea/assetWizardSettings.xml
+.idea/dictionaries
+.idea/libraries
+.idea/caches
+.idea/modules.xml
+.idea/navEditor.xml
+
+# ============================================
 # Build outputs
+# ============================================
 build/
 dist/
 *.tsbuildinfo
+*.buildinfo
 
-# Server specific (но НЕ data/ в корне!)
+# Frontend builds
+"Sports Betting App Design"/dist/
+"Sports Betting App Design"/build/
+
+# ============================================
+# Android Build Files
+# ============================================
+# Built application files
+*.apk
+*.aar
+*.ap_
+*.aab
+
+# Files for the ART/Dalvik VM
+*.dex
+
+# Java class files
+*.class
+
+# Generated files
+bin/
+gen/
+out/
+release/
+
+# Gradle files
+.gradle/
+**/build/
+**/.gradle/
+local.properties
+
+# Proguard
+proguard/
+proguard-rules.txt
+
+# Android Studio Navigation editor temp files
+.navigation/
+
+# Android Studio captures folder
+captures/
+
+# External native build folder
+.externalNativeBuild
+.cxx/
+
+# Google Services (Firebase)
+google-services.json
+google-services.json.bak
+
+# Freeline
+freeline.py
+freeline/
+freeline_project_description.json
+
+# fastlane
+fastlane/report.xml
+fastlane/Preview.html
+fastlane/screenshots
+fastlane/test_output
+fastlane/readme.md
+
+# Version control
+vcs.xml
+
+# lint
+lint/intermediates/
+lint/generated/
+lint/outputs/
+lint/tmp/
+
+# Android Profiling
+*.hprof
+
+# Cordova plugins for Capacitor
+capacitor-cordova-android-plugins
+
+# Copied web assets
+app/src/main/assets/public
+
+# Generated Config files
+app/src/main/assets/capacitor.config.json
+app/src/main/assets/capacitor.plugins.json
+app/src/main/res/xml/config.xml
+
+# ============================================
+# Server specific
+# ============================================
 server/cache/
 server/logs/
 server/data/
 
-# Frontend specific
-"Sports Betting App Design"/dist/
-"Sports Betting App Design"/build/
+# ============================================
+# Data files (НО: data/ в корне НЕ игнорируем - она нужна для GitHub!)
+# ============================================
+# data/ - закомментировано, так как нужна для GitHub Actions
 
-# НО: data/ в корне НЕ игнорируем - она нужна для GitHub!
-# data/
+# ============================================
+# Temporary files
+# ============================================
+*.tmp
+*.temp
+*.cache
+.cache/
+.temp/
+
+# ============================================
+# Testing
+# ============================================
+coverage/
+.nyc_output/
+*.lcov
+.jest/
+
+# ============================================
+# Misc
+# ============================================
+*.pid
+*.seed
+*.pid.lock
+.npm
+.eslintcache
+.stylelintcache

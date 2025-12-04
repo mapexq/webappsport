@@ -3,6 +3,7 @@
 
 /// <reference types="../vite-env" />
 import type { Bookmaker, Prediction, News, Article } from '../types';
+import { logger } from '../utils/logger';
 
 // Mock data - in production, these would be API calls
 const mockBookmakers: Bookmaker[] = [
@@ -50,13 +51,15 @@ const GITHUB_REPO = import.meta.env.VITE_GITHUB_REPO || 'mapexq/webappsport';
 const GITHUB_BRANCH = import.meta.env.VITE_GITHUB_BRANCH || 'main';
 const GITHUB_DATA_URL = `https://raw.githubusercontent.com/${GITHUB_REPO}/${GITHUB_BRANCH}/data`;
 
-// Логирование для отладки
-console.log('🔧 API Configuration:', {
-  GITHUB_REPO,
-  GITHUB_BRANCH,
-  GITHUB_DATA_URL,
-  hasEnv: !!import.meta.env.VITE_GITHUB_REPO,
-});
+// Логирование только в режиме разработки
+if (import.meta.env.DEV) {
+  console.log('🔧 API Configuration:', {
+    GITHUB_REPO,
+    GITHUB_BRANCH,
+    GITHUB_DATA_URL,
+    hasEnv: !!import.meta.env.VITE_GITHUB_REPO,
+  });
+}
 
 // API base URL для локального сервера (fallback)
 const API_BASE_URL = import.meta.env.VITE_API_URL || 'http://localhost:3001/api';
@@ -81,34 +84,34 @@ export const apiService = {
       // Приоритет: GitHub > API > Mock
       if (GITHUB_DATA_URL) {
         const url = `${GITHUB_DATA_URL}/predictions.json`;
-        console.log('📡 Загрузка прогнозов с GitHub:', url);
+        logger.log('📡 Загрузка прогнозов с GitHub:', url);
         const response = await fetch(url);
-        console.log('📡 Ответ GitHub:', { status: response.status, ok: response.ok, url });
+        logger.log('📡 Ответ GitHub:', { status: response.status, ok: response.ok, url });
         if (response.ok) {
           const data = await response.json();
-          console.log('✅ Прогнозы загружены с GitHub:', data.length, 'шт.');
+          logger.log('✅ Прогнозы загружены с GitHub:', data.length, 'шт.');
           return data;
         } else {
-          console.warn('⚠️ GitHub недоступен, статус:', response.status, response.statusText);
+          logger.warn('⚠️ GitHub недоступен, статус:', response.status, response.statusText);
         }
         // Если GitHub недоступен, пробуем API
       } else {
-        console.warn('⚠️ GITHUB_DATA_URL не настроен, используем fallback');
+        logger.warn('⚠️ GITHUB_DATA_URL не настроен, используем fallback');
       }
       
       // Fallback на API сервер
-      console.log('📡 Попытка загрузки с локального API:', API_BASE_URL);
+      logger.log('📡 Попытка загрузки с локального API:', API_BASE_URL);
       const response = await fetch(`${API_BASE_URL}/predictions`);
       if (response.ok) {
         const data = await response.json();
-        console.log('✅ Прогнозы загружены с API:', data.length, 'шт.');
+        logger.log('✅ Прогнозы загружены с API:', data.length, 'шт.');
         return data;
       }
       
       throw new Error('Ошибка при получении прогнозов');
     } catch (error) {
-      console.error('❌ Ошибка при получении прогнозов:', error);
-      console.log('🔄 Используем моковые данные');
+      logger.error('❌ Ошибка при получении прогнозов:', error);
+      logger.log('🔄 Используем моковые данные');
       // Fallback на моковые данные при ошибке
       return mockPredictions;
     }
@@ -139,7 +142,7 @@ export const apiService = {
       const data = await response.json();
       return data.predictions || data;
     } catch (error) {
-      console.error('Ошибка при обновлении прогнозов:', error);
+      logger.error('Ошибка при обновлении прогнозов:', error);
       throw error;
     }
   },
@@ -149,7 +152,7 @@ export const apiService = {
       const predictions = await this.getPredictions();
       return predictions.find((p) => p.id === id) || null;
     } catch (error) {
-      console.error('Ошибка при получении прогноза:', error);
+      logger.error('Ошибка при получении прогноза:', error);
       return null;
     }
   },
@@ -160,33 +163,33 @@ export const apiService = {
       // Приоритет: GitHub > API > Mock
       if (GITHUB_DATA_URL) {
         const url = `${GITHUB_DATA_URL}/news.json`;
-        console.log('📡 Загрузка новостей с GitHub:', url);
+        logger.log('📡 Загрузка новостей с GitHub:', url);
         const response = await fetch(url);
-        console.log('📡 Ответ GitHub:', { status: response.status, ok: response.ok, url });
+        logger.log('📡 Ответ GitHub:', { status: response.status, ok: response.ok, url });
         if (response.ok) {
           const data = await response.json();
-          console.log('✅ Новости загружены с GitHub:', data.length, 'шт.');
+          logger.log('✅ Новости загружены с GitHub:', data.length, 'шт.');
           return data;
         } else {
-          console.warn('⚠️ GitHub недоступен, статус:', response.status, response.statusText);
+          logger.warn('⚠️ GitHub недоступен, статус:', response.status, response.statusText);
         }
         // Если GitHub недоступен, пробуем API
       } else {
-        console.warn('⚠️ GITHUB_DATA_URL не настроен, используем fallback');
+        logger.warn('⚠️ GITHUB_DATA_URL не настроен, используем fallback');
       }
       
       // Fallback на API сервер
-      console.log('📡 Попытка загрузки с локального API:', API_BASE_URL);
+      logger.log('📡 Попытка загрузки с локального API:', API_BASE_URL);
       const response = await fetch(`${API_BASE_URL}/news`);
       if (response.ok) {
         const data = await response.json();
-        console.log('✅ Новости загружены с API:', data.length, 'шт.');
+        logger.log('✅ Новости загружены с API:', data.length, 'шт.');
         return data;
       }
       
       throw new Error('Ошибка при получении новостей');
     } catch (error) {
-      console.error('❌ Ошибка при получении новостей:', error);
+      logger.error('❌ Ошибка при получении новостей:', error);
       return [];
     }
   },
@@ -221,7 +224,7 @@ export const apiService = {
       const data = await response.json();
       return data;
     } catch (error) {
-      console.error('Ошибка при обновлении новостей:', error);
+      logger.error('Ошибка при обновлении новостей:', error);
       throw error;
     }
   },
@@ -246,7 +249,7 @@ export const apiService = {
       
       throw new Error('Ошибка при получении времени обновления');
     } catch (error) {
-      console.error('Ошибка при получении времени обновления:', error);
+      logger.error('Ошибка при получении времени обновления:', error);
       return { lastUpdate: new Date().toISOString() };
     }
   },
@@ -256,7 +259,7 @@ export const apiService = {
       const news = await this.getNews();
       return news.find((n) => n.id === id) || null;
     } catch (error) {
-      console.error('Ошибка при получении новости:', error);
+      logger.error('Ошибка при получении новости:', error);
       return null;
     }
   },
