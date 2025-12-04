@@ -4,6 +4,9 @@ import { ConnectionStatus } from './ConnectionStatus';
 import { Toaster } from './ui/sonner';
 import { useAppStore } from '../store/appStore';
 import { useNewsRefresh } from '../hooks/useNewsRefresh';
+import { useConnectionCheck } from '../hooks/useConnectionCheck';
+import { checkConnection } from '../services/connectionCheck';
+import { logger } from '../utils/logger';
 
 type TabType = 'bonuses' | 'predictions' | 'news' | 'articles';
 
@@ -21,10 +24,27 @@ export function Layout() {
   
   // Автоматическое обновление новостей при заходе в приложение
   useNewsRefresh();
+  
+  // Проверка подключения к интернету при загрузке
+  useConnectionCheck();
 
-  const handleRetry = () => {
-    // Здесь будет ваша логика повторной проверки
-    // setConnectionIssue(null);
+  const handleRetry = async () => {
+    try {
+      logger.log('🔄 Повторная проверка подключения...');
+      const issue = await checkConnection();
+      
+      if (issue) {
+        logger.log(`⚠️ Проблема все еще присутствует: ${issue}`);
+        setConnectionIssue(issue);
+      } else {
+        logger.log('✅ Подключение восстановлено');
+        setConnectionIssue(null);
+      }
+    } catch (error) {
+      logger.error('Ошибка при повторной проверке подключения:', error);
+      // В случае ошибки не блокируем доступ
+      setConnectionIssue(null);
+    }
   };
 
   const handleTabClick = (path: string) => {

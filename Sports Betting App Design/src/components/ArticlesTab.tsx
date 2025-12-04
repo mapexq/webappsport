@@ -194,7 +194,7 @@ export function ArticlesTab() {
               <GraduationCap className="size-6 text-green-400" />
             </div>
             <div>
-              <h2 className="text-xl text-white text-[24px] font-bold">Обучающие материалы</h2>
+              <h2 className="text-xl text-white text-[24px] font-bold">Материалы</h2>
               <p className="text-sm text-zinc-400 text-[15px] font-bold">Путь к профессиональным ставкам начинается здесь</p>
             </div>
           </div>

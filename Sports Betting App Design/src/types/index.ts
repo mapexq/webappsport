@@ -53,6 +53,6 @@ export interface Article {
 }
 
 export type TabType = 'bonuses' | 'predictions' | 'news' | 'articles';
-export type ConnectionIssue = 'offline' | 'vpn' | 'region' | null;
+export type ConnectionIssue = 'offline' | null;
 
 

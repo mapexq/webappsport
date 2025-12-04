@@ -239,7 +239,7 @@ export function NewsTab() {
               <Newspaper className="size-6 text-green-400" />
             </div>
             <div>
-              <h2 className="text-xl text-white text-[24px] font-bold">Спортивные новости</h2>
+              <h2 className="text-xl text-white text-[24px] font-bold">Новости</h2>
               <p className="text-sm text-zinc-400 text-[15px] font-bold">Актуальные события из мира спорта и беттинга</p>
             </div>
           </div>
@@ -338,12 +338,11 @@ export function NewsTab() {
 
       {/* Recent News Section */}
       <div>
-        <div className="flex items-center justify-between mb-4">
+        <div className="flex items-center mb-4">
           <h3 className="flex items-center gap-2 text-lg text-white text-[24px] font-bold">
             <Radio className="size-5 text-green-400" />
             Последние новости
           </h3>
-          <span className="text-sm text-zinc-500 font-bold">{otherNews.length} материалов</span>
         </div>
         
         {isLoading ? (
