@@ -49,20 +49,20 @@ export function ImageWithFallback(props: React.ImgHTMLAttributes<HTMLImageElemen
     ...rest,
   };
 
-  // Добавляем crossOrigin только если явно указан или для локальных ресурсов
+  // Не устанавливаем crossOrigin для внешних изображений в WebView
+  // чтобы избежать CORS проблем
   if (crossOrigin !== undefined) {
     imageProps.crossOrigin = crossOrigin;
-  } else if (!isExternalImage) {
-    // Для локальных изображений можно использовать crossOrigin
+  }
+  // Для локальных изображений можно использовать crossOrigin
+  else if (!isExternalImage) {
     imageProps.crossOrigin = 'anonymous';
   }
 
-  // Добавляем referrerPolicy для внешних изображений
+  // Не устанавливаем referrerPolicy для внешних изображений
+  // чтобы избежать проблем с загрузкой в WebView
   if (referrerPolicy !== undefined) {
     imageProps.referrerPolicy = referrerPolicy;
-  } else if (isExternalImage) {
-    // Для внешних изображений используем no-referrer для лучшей совместимости
-    imageProps.referrerPolicy = 'no-referrer';
   }
 
   return didError ? (

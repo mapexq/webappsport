@@ -3,7 +3,7 @@
 	"appName": "BETPRO",
 	"webDir": "build",
 	"server": {
-		"androidScheme": "https"
+		"androidScheme": "http"
 	},
 	"plugins": {
 		"SplashScreen": {
@@ -16,7 +16,7 @@
 		}
 	},
 	"android": {
-		"allowMixedContent": false,
+		"allowMixedContent": true,
 		"captureInput": true,
 		"webContentsDebuggingEnabled": false
 	}

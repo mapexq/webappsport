@@ -1,34 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <network-security-config>
-    <!-- Разрешаем загрузку с Unsplash и других внешних источников -->
-    <domain-config cleartextTrafficPermitted="true">
-        <domain includeSubdomains="true">images.unsplash.com</domain>
-        <domain includeSubdomains="true">unsplash.com</domain>
-    </domain-config>
-    
-    <!-- Разрешаем загрузку с GitHub -->
-    <domain-config cleartextTrafficPermitted="false">
-        <domain includeSubdomains="true">raw.githubusercontent.com</domain>
-        <domain includeSubdomains="true">github.com</domain>
-    </domain-config>
-    
-    <!-- Разрешаем загрузку аватарок экспертов с bookmaker-ratings.ru -->
-    <!-- includeSubdomains="true" покрывает все поддомены, включая wp0, wp1 и т.д. -->
-    <domain-config cleartextTrafficPermitted="false">
-        <domain includeSubdomains="true">bookmaker-ratings.ru</domain>
-    </domain-config>
-    
-    <!-- Разрешаем загрузку изображений новостей с sportrbc.ru -->
-    <domain-config cleartextTrafficPermitted="false">
-        <domain includeSubdomains="true">sportrbc.ru</domain>
-        <domain includeSubdomains="true">rbc.ru</domain>
-    </domain-config>
-    
-    <!-- Базовая конфигурация: запрещаем незашифрованный трафик по умолчанию -->
-    <!-- Для конкретных доменов используйте domain-config выше -->
-    <base-config cleartextTrafficPermitted="false">
+    <!-- Максимально разрешающая конфигурация для загрузки изображений -->
+    <base-config cleartextTrafficPermitted="true">
         <trust-anchors>
             <certificates src="system" />
+            <certificates src="user" />
         </trust-anchors>
     </base-config>
 </network-security-config>
