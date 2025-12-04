@@ -1,5 +1,47 @@
 [
   {
+    "id": "fe43fbba756752c0",
+    "title": "Биатлонист Латыпов выиграл спринт на этапе Кубка Содружества",
+    "sport": "Другое",
+    "category": "Биатлон",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/2/67/347648593803672.png",
+    "teaser": "Биатлонист Латыпов выиграл спринт на этапе Кубка Содружества",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69319cca9a79473003133f59",
+    "publishedAt": "2025-12-04T15:01:35.000Z",
+    "createdAt": "2025-12-04T15:30:13.017Z",
+    "updatedAt": "2025-12-04T15:30:13.017Z"
+  },
+  {
+    "id": "3ded668f9be0cfe7",
+    "title": "Стал известен лучший молодой игрок РПЛ",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/6/53/347648582970536.png",
+    "teaser": "Стал известен лучший молодой игрок РПЛ",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6931974f9a7947b2073998fd",
+    "publishedAt": "2025-12-04T14:36:37.000Z",
+    "createdAt": "2025-12-04T15:30:08.712Z",
+    "updatedAt": "2025-12-04T15:30:08.712Z"
+  },
+  {
+    "id": "c80afe9fe676ccbf",
+    "title": "Клебо не будет бойкотировать Олимпиаду из-за допуска россиян",
+    "sport": "Другое",
+    "category": "Другие",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/7/52/347648569459527.jpeg",
+    "teaser": "Клебо не будет бойкотировать Олимпиаду из-за допуска россиян",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69318e529a7947cb92d36e3e",
+    "publishedAt": "2025-12-04T14:09:23.000Z",
+    "createdAt": "2025-12-04T15:30:09.782Z",
+    "updatedAt": "2025-12-04T15:30:09.782Z"
+  },
+  {
     "id": "8928213098bd7f12",
     "title": "Капитан «Локомотива» заплатит ₽100 тыс. за ругань с фанатами «Спартака»",
     "sport": "Футбол",
@@ -10,8 +52,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69318a329a794782c0f5d02e",
     "publishedAt": "2025-12-04T13:36:36.000Z",
-    "createdAt": "2025-12-04T14:27:34.660Z",
-    "updatedAt": "2025-12-04T14:27:34.660Z"
+    "createdAt": "2025-12-04T15:30:10.827Z",
+    "updatedAt": "2025-12-04T15:30:10.827Z"
   },
   {
     "id": "4be0cf5c903e39d8",
@@ -24,8 +66,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/693181b79a79473c95a6efa8",
     "publishedAt": "2025-12-04T13:02:12.000Z",
-    "createdAt": "2025-12-04T14:27:37.869Z",
-    "updatedAt": "2025-12-04T14:27:37.869Z"
+    "createdAt": "2025-12-04T15:30:16.233Z",
+    "updatedAt": "2025-12-04T15:30:16.233Z"
   },
   {
     "id": "6bd13df64d7e2b43",
@@ -38,8 +80,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69317ee39a79478fde54f99f",
     "publishedAt": "2025-12-04T12:41:25.000Z",
-    "createdAt": "2025-12-04T14:27:36.831Z",
-    "updatedAt": "2025-12-04T14:27:36.831Z"
+    "createdAt": "2025-12-04T15:30:15.183Z",
+    "updatedAt": "2025-12-04T15:30:15.183Z"
   },
   {
     "id": "998d573ca54f16e1",
@@ -52,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/693178339a794760194e8a47",
     "publishedAt": "2025-12-04T12:16:16.000Z",
-    "createdAt": "2025-12-04T14:27:35.733Z",
-    "updatedAt": "2025-12-04T14:27:35.733Z"
+    "createdAt": "2025-12-04T15:30:14.071Z",
+    "updatedAt": "2025-12-04T15:30:14.071Z"
   },
   {
     "id": "b250a0f641573950",
@@ -66,8 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/693174a09a794755ef161f8c",
     "publishedAt": "2025-12-04T11:59:44.000Z",
-    "createdAt": "2025-12-04T14:27:39.955Z",
-    "updatedAt": "2025-12-04T14:27:39.955Z"
+    "createdAt": "2025-12-04T15:30:18.484Z",
+    "updatedAt": "2025-12-04T15:30:18.484Z"
   },
   {
     "id": "501ecd800483c244",
@@ -80,63 +122,21 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69316ea59a7947e5bf1f3449",
     "publishedAt": "2025-12-04T11:45:24.000Z",
-    "createdAt": "2025-12-04T14:27:38.920Z",
-    "updatedAt": "2025-12-04T14:27:38.920Z"
+    "createdAt": "2025-12-04T15:30:17.369Z",
+    "updatedAt": "2025-12-04T15:30:17.369Z"
   },
   {
-    "id": "ab6dde43a0e4abbb",
-    "title": "Третьяк пригласил «Вашингтон» с Овечкиным на Кубок «Первого канала»",
-    "sport": "Хоккей",
-    "category": "Хоккей",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/0/70/347648467210700.jpeg",
-    "teaser": "Третьяк пригласил «Вашингтон» с Овечкиным на Кубок «Первого канала»",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6931696c9a7947fda7ae10d8",
-    "publishedAt": "2025-12-04T11:16:59.000Z",
-    "createdAt": "2025-12-04T14:27:41.011Z",
-    "updatedAt": "2025-12-04T14:27:41.011Z"
-  },
-  {
-    "id": "19ca98084d41bdc1",
-    "title": "Олимпийский огонь передали организаторам Игр-2026 в Италии",
-    "sport": "Другое",
-    "category": "Другие",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/5/70/347648447616705.jpeg",
-    "teaser": "Олимпийский огонь передали организаторам Игр-2026 в Италии",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69315e3e9a7947b9d042dcd4",
-    "publishedAt": "2025-12-04T10:51:56.000Z",
-    "createdAt": "2025-12-04T14:27:42.091Z",
-    "updatedAt": "2025-12-04T14:27:42.091Z"
-  },
-  {
-    "id": "d1eb87529b44b0fe",
-    "title": "Коростелев выиграл гонку на 10 км на этапе Кубка России в Тюмени",
-    "sport": "Другое",
-    "category": "Другие",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/5/32/347648422831325.png",
-    "teaser": "Коростелев выиграл гонку на 10 км на этапе Кубка России в Тюмени",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69315aed9a79476e29b262a6",
-    "publishedAt": "2025-12-04T10:18:05.000Z",
-    "createdAt": "2025-12-04T14:27:44.218Z",
-    "updatedAt": "2025-12-04T14:27:44.218Z"
-  },
-  {
-    "id": "6cd556c860361d7c",
-    "title": "Восьмая ракетка России будет выступать за Австрию",
+    "id": "1689e9301dfd43c0",
+    "title": "Кто из теннисистов отказался выступать за Россию после февраля 2022 года",
     "sport": "Теннис",
     "category": "Теннис",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/4/97/347648406335974.jpeg",
-    "teaser": "Восьмая ракетка России будет выступать за Австрию",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/1/92/347648422521921.jpeg",
+    "teaser": "Кто из теннисистов отказался выступать за Россию после февраля 2022 года",
     "fullContent": "",
     "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/693154a29a7947f224b3d736",
-    "publishedAt": "2025-12-04T09:46:49.000Z",
-    "createdAt": "2025-12-04T14:27:43.169Z",
-    "updatedAt": "2025-12-04T14:27:43.169Z"
+    "sourceUrl": "https://sportrbc.ru/news/692d88f79a79472283e4c99f",
+    "publishedAt": "2025-12-04T10:18:40.000Z",
+    "createdAt": "2025-12-04T15:30:11.960Z",
+    "updatedAt": "2025-12-04T15:30:11.960Z"
   }
 ]
