@@ -119,3 +119,4 @@ if (!newLines.some(l => l.includes("import { findTimestampInCard"))) {
 fs.writeFileSync(filePath, newLines.join('\n'), 'utf8');
 console.log('✅ Все изменения применены успешно!');
 
+

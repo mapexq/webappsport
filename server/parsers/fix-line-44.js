@@ -54,3 +54,4 @@ content = content.replace(
 fs.writeFileSync(parserPath, content, 'utf8');
 console.log('✅ Исправлена строка 44 и обработка publishedAt');
 
+

@@ -27,3 +27,4 @@ content = content.replace(
 fs.writeFileSync(parserPath, content, 'utf8');
 console.log('✅ Исправлены финальные проблемы');
 
+

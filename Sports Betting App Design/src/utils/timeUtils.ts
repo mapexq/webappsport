@@ -100,3 +100,4 @@ function getHoursWord(count: number): string {
   return 'часов';
 }
 
+

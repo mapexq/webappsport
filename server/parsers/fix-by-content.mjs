@@ -32,3 +32,4 @@ if (pattern.test(content)) {
   }
 }
 
+

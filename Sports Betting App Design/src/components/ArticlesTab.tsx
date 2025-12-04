@@ -276,7 +276,7 @@ export function ArticlesTab() {
 
       {/* Article Modal */}
       <Dialog open={!!selectedArticle} onOpenChange={(open) => !open && setSelectedArticle(null)}>
-        <DialogContent className="max-w-4xl max-h-[90vh] overflow-y-auto bg-zinc-900 border-zinc-800 p-0 [&>button]:hidden">
+        <DialogContent className="max-w-4xl max-h-[90vh] overflow-y-auto bg-zinc-900 border-zinc-800 p-0 hide-dialog-close">
           <VisuallyHidden.Root>
             <DialogTitle>Article</DialogTitle>
             <DialogDescription>Article content</DialogDescription>

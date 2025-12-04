@@ -16,3 +16,4 @@ if (lines[1193] && lines[1193].includes("timestamp: pred.timestamp || 'Неда�
   console.log('Строка 1195:', JSON.stringify(lines[1194]));
 }
 
+

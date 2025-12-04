@@ -109,3 +109,4 @@ if (!content.includes('getWinRateForExpert')) {
 fs.writeFileSync(filePath, content, 'utf8');
 console.log('✅ Файл исправлен успешно!');
 
+

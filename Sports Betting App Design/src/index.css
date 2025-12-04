@@ -2264,6 +2264,12 @@ html {
   font-size: var(--font-size);
 }
 
+/* Скрытие встроенной кнопки закрытия Dialog в ArticlesTab */
+.hide-dialog-close > button[data-slot="dialog-close"],
+.hide-dialog-close > button:last-child {
+  display: none !important;
+}
+
 @property --tw-translate-x {
   syntax: "*";
   inherits: false;
