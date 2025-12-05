@@ -1,5 +1,47 @@
 [
   {
+    "id": "0d5cb397afb0e32c",
+    "title": "Малкин вошел в число звезд дня в НХЛ после дубля и передачи",
+    "sport": "Хоккей",
+    "category": "Хоккей",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/3/06/347649202703063.jpeg",
+    "teaser": "Малкин вошел в число звезд дня в НХЛ после дубля и передачи",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69328b689a7947eeedfdbd54",
+    "publishedAt": "2025-12-05T07:54:45.000Z",
+    "createdAt": "2025-12-05T08:34:41.577Z",
+    "updatedAt": "2025-12-05T08:34:41.577Z"
+  },
+  {
+    "id": "56ad03aaf6f3c8e8",
+    "title": "Леброн Джеймс впервые за 18 лет набрал меньше 10 очков в матче НБА",
+    "sport": "Баскетбол",
+    "category": "Баскетбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/0/71/347649191493710.jpeg",
+    "teaser": "Леброн Джеймс впервые за 18 лет набрал меньше 10 очков в матче НБА",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/693287319a79471adbee2c53",
+    "publishedAt": "2025-12-05T07:45:30.000Z",
+    "createdAt": "2025-12-05T08:34:42.700Z",
+    "updatedAt": "2025-12-05T08:34:42.700Z"
+  },
+  {
+    "id": "4a47fb7fdc9af18f",
+    "title": "Что не так с вручаемой Трампу премией мира ФИФА",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/8/27/347648560208278.jpeg",
+    "teaser": "Что не так с вручаемой Трампу премией мира ФИФА",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/693180fd9a79473c95a6ef91",
+    "publishedAt": "2025-12-05T07:32:04.000Z",
+    "createdAt": "2025-12-05T08:34:44.214Z",
+    "updatedAt": "2025-12-05T08:34:44.214Z"
+  },
+  {
     "id": "e47c91768eeaaceb",
     "title": "Панарин стал восьмым россиянином в истории НХЛ, набравшим 900 очков",
     "sport": "Хоккей",
@@ -10,22 +52,22 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/693283d79a79478e54a31642",
     "publishedAt": "2025-12-05T07:14:36.000Z",
-    "createdAt": "2025-12-05T07:26:54.518Z",
-    "updatedAt": "2025-12-05T07:26:54.518Z"
+    "createdAt": "2025-12-05T08:34:45.338Z",
+    "updatedAt": "2025-12-05T08:34:45.338Z"
   },
   {
     "id": "6bebc1d48c5c6381",
     "title": "Кто завершит год первым. Что важно знать о последнем туре РПЛ в 2025-м",
     "sport": "Футбол",
     "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/9/12/347649183344129.jpeg",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/3/06/347649202703063.jpeg",
     "teaser": "Кто завершит год первым. Что важно знать о последнем туре РПЛ в 2025-м",
     "fullContent": "",
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/692f374c9a79471c434a1e75",
     "publishedAt": "2025-12-04T21:02:46.000Z",
-    "createdAt": "2025-12-05T07:26:55.804Z",
-    "updatedAt": "2025-12-05T07:26:55.804Z"
+    "createdAt": "2025-12-05T08:34:46.682Z",
+    "updatedAt": "2025-12-05T08:34:46.682Z"
   },
   {
     "id": "3aab6f609f8f350e",
@@ -38,8 +80,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6931d4729a7947d8c4143be2",
     "publishedAt": "2025-12-04T18:54:55.000Z",
-    "createdAt": "2025-12-05T07:26:56.907Z",
-    "updatedAt": "2025-12-05T07:26:56.907Z"
+    "createdAt": "2025-12-05T08:34:47.804Z",
+    "updatedAt": "2025-12-05T08:34:47.804Z"
   },
   {
     "id": "655158b8933bb67b",
@@ -52,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6931cd529a79477012ea0a44",
     "publishedAt": "2025-12-04T18:31:08.000Z",
-    "createdAt": "2025-12-05T07:26:57.996Z",
-    "updatedAt": "2025-12-05T07:26:57.996Z"
+    "createdAt": "2025-12-05T08:34:48.967Z",
+    "updatedAt": "2025-12-05T08:34:48.967Z"
   },
   {
     "id": "7cc5c671721d70fb",
@@ -66,50 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6931c5cc9a79471a1b0dfc98",
     "publishedAt": "2025-12-04T17:48:28.000Z",
-    "createdAt": "2025-12-05T07:26:59.129Z",
-    "updatedAt": "2025-12-05T07:26:59.129Z"
-  },
-  {
-    "id": "c66a2c85ee922236",
-    "title": "Стал известен новый тренер российских борцов после неудачи на ЧМ",
-    "sport": "Единоборства",
-    "category": "Единоборства",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/2/47/347648675623472.png",
-    "teaser": "Стал известен новый тренер российских борцов после неудачи на ЧМ",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6931baa09a7947d8837c9135",
-    "publishedAt": "2025-12-04T17:05:26.000Z",
-    "createdAt": "2025-12-05T07:27:03.653Z",
-    "updatedAt": "2025-12-05T07:27:03.653Z"
-  },
-  {
-    "id": "f09413a80c1b8c60",
-    "title": "Месси допустил, что будет смотреть ЧМ-2026 как зритель",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/5/60/347648660041605.jpeg",
-    "teaser": "Месси допустил, что будет смотреть ЧМ-2026 как зритель",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6931b7849a7947353238a867",
-    "publishedAt": "2025-12-04T16:49:02.000Z",
-    "createdAt": "2025-12-05T07:27:02.538Z",
-    "updatedAt": "2025-12-05T07:27:02.538Z"
-  },
-  {
-    "id": "1c6eebee681890ef",
-    "title": "«Авангард» одержал волевую победу над аутсайдером КХЛ",
-    "sport": "Хоккей",
-    "category": "Хоккей",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/3/39/347648640134393.png",
-    "teaser": "«Авангард» одержал волевую победу над аутсайдером КХЛ",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6931aef09a79471012ac947e",
-    "publishedAt": "2025-12-04T16:16:19.000Z",
-    "createdAt": "2025-12-05T07:27:04.767Z",
-    "updatedAt": "2025-12-05T07:27:04.767Z"
+    "createdAt": "2025-12-05T08:34:49.975Z",
+    "updatedAt": "2025-12-05T08:34:49.975Z"
   },
   {
     "id": "e69d713d1e685c80",
@@ -122,8 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6931a5a49a79475d0283c747",
     "publishedAt": "2025-12-04T15:49:56.000Z",
-    "createdAt": "2025-12-05T07:27:00.360Z",
-    "updatedAt": "2025-12-05T07:27:00.360Z"
+    "createdAt": "2025-12-05T08:34:51.036Z",
+    "updatedAt": "2025-12-05T08:34:51.036Z"
   },
   {
     "id": "1689e9301dfd43c0",
@@ -136,7 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/692d88f79a79472283e4c99f",
     "publishedAt": "2025-12-04T10:18:40.000Z",
-    "createdAt": "2025-12-05T07:27:01.456Z",
-    "updatedAt": "2025-12-05T07:27:01.456Z"
+    "createdAt": "2025-12-05T08:34:51.955Z",
+    "updatedAt": "2025-12-05T08:34:51.955Z"
   }
 ]
