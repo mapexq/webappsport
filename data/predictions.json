@@ -1,12 +1,12 @@
 [
   {
-    "id": 1764969802613,
+    "id": 1764971139788,
     "eventName": "Нью-Джерси — Вегас",
     "discipline": "Хоккей",
     "tournament": "НХЛ",
     "expert": {
-      "name": "Максим Огузович",
-      "avatar": "/maxim-oguzovich-avatar.jpg",
+      "name": "Николай Чегорский",
+      "avatar": "https://wp2.bookmaker-ratings.ru/bookmaker-ratings.ru/wp-content/uploads/2025/02/Ava-67bc5517f35d5.png?ssl=1&w=60",
       "status": "expert",
       "winRate": 70
     },
@@ -16,7 +16,7 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1764969802614,
+    "id": 1764971139789,
     "eventName": "Виннипег — Баффало",
     "discipline": "Хоккей",
     "tournament": "Чемпионат",
@@ -32,7 +32,7 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1764969802615,
+    "id": 1764971139790,
     "eventName": "Орландо — Майами",
     "discipline": "Баскетбол",
     "tournament": "НБА",
@@ -48,7 +48,7 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1764969802616,
+    "id": 1764971139791,
     "eventName": "Детройт — Портленд",
     "discipline": "Баскетбол",
     "tournament": "НБА",
@@ -64,7 +64,7 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1764969802617,
+    "id": 1764971139792,
     "eventName": "Торонто — Шарлотт",
     "discipline": "Баскетбол",
     "tournament": "НБА",
@@ -80,7 +80,7 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1764969802618,
+    "id": 1764971139793,
     "eventName": "Даллас — Сан-Хосе",
     "discipline": "Хоккей",
     "tournament": "Чемпионат",
@@ -96,7 +96,7 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1764969802619,
+    "id": 1764971139794,
     "eventName": "Ванкувер — Юта",
     "discipline": "Хоккей",
     "tournament": "НХЛ",
@@ -112,7 +112,7 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1764969802620,
+    "id": 1764971139795,
     "eventName": "Анахайм — Вашингтон",
     "discipline": "Хоккей",
     "tournament": "НБА",
@@ -128,7 +128,7 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1764969802621,
+    "id": 1764971139796,
     "eventName": "Адмирал — Локомотив",
     "discipline": "Хоккей",
     "tournament": "Чемпионат",
@@ -144,7 +144,7 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1764969802622,
+    "id": 1764971139797,
     "eventName": "Амур — СКА",
     "discipline": "Хоккей",
     "tournament": "Чемпионат",
