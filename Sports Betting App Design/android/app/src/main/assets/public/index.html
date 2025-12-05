@@ -5,21 +5,40 @@
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover" />
     
+    <!-- Отключение копирования -->
+    <style>
+      * {
+        -webkit-user-select: none !important;
+        -moz-user-select: none !important;
+        -ms-user-select: none !important;
+        user-select: none !important;
+        -webkit-touch-callout: none !important;
+        -webkit-tap-highlight-color: transparent !important;
+      }
+      
+      input, textarea {
+        -webkit-user-select: text !important;
+        -moz-user-select: text !important;
+        -ms-user-select: text !important;
+        user-select: text !important;
+      }
+    </style>
+    
     <!-- Основные метаданные -->
-    <title>BETPRO - Бонусы, прогнозы и новости от экспертов</title>
+    <title>MapexBet - Бонусы, прогнозы и новости от экспертов</title>
     <meta name="description" content="Лучшие бонусы, прогнозы и новости от топовых букмекеров. Экспертные анализы, актуальные коэффициенты и эксклюзивные предложения." />
     <meta name="keywords" content="букмекер, ставки, прогнозы, бонусы, спорт, беттинг, эксперты" />
-    <meta name="author" content="BETPRO Team" />
+    <meta name="author" content="MapexBet Team" />
     
     <!-- Open Graph / Facebook -->
     <meta property="og:type" content="website" />
-    <meta property="og:title" content="BETPRO - Бонусы, прогнозы и новости от экспертов" />
+    <meta property="og:title" content="MapexBet - Бонусы, прогнозы и новости от экспертов" />
     <meta property="og:description" content="Лучшие бонусы, прогнозы и новости от топовых букмекеров" />
-    <meta property="og:site_name" content="BETPRO" />
+    <meta property="og:site_name" content="MapexBet" />
     
     <!-- Twitter -->
     <meta name="twitter:card" content="summary" />
-    <meta name="twitter:title" content="BETPRO - Бонусы, прогнозы и новости от экспертов" />
+    <meta name="twitter:title" content="MapexBet - Бонусы, прогнозы и новости от экспертов" />
     <meta name="twitter:description" content="Лучшие бонусы, прогнозы и новости от топовых букмекеров" />
     
     <!-- Мобильные метаданные -->
@@ -27,19 +46,57 @@
     <meta name="mobile-web-app-capable" content="yes" />
     <meta name="apple-mobile-web-app-capable" content="yes" />
     <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
-    <meta name="apple-mobile-web-app-title" content="BETPRO" />
+    <meta name="apple-mobile-web-app-title" content="MapexBet" />
     <meta name="format-detection" content="telephone=no" />
     
     <!-- PWA -->
     <link rel="manifest" href="/manifest.json" />
     <link rel="icon" type="image/png" href="/favicon.png" />
     <link rel="apple-touch-icon" href="/pwa-192x192.png" />
-    <script type="module" crossorigin src="/assets/index-Dmubou39.js"></script>
-    <link rel="stylesheet" crossorigin href="/assets/index-D8604Ayk.css">
+    <script type="module" crossorigin src="/assets/index-DlgbSRuf.js"></script>
+    <link rel="stylesheet" crossorigin href="/assets/index-CCVHbT9l.css">
   <link rel="manifest" href="/manifest.webmanifest"><script id="vite-plugin-pwa:register-sw" src="/registerSW.js"></script></head>
 
   <body>
     <div id="root"></div>
+    <script>
+      // Блокировка контекстного меню
+      document.addEventListener('contextmenu', function(e) {
+        e.preventDefault();
+        return false;
+      });
+      
+      // Блокировка выделения текста
+      document.addEventListener('selectstart', function(e) {
+        e.preventDefault();
+        return false;
+      });
+      
+      // Блокировка копирования через клавиатуру
+      document.addEventListener('keydown', function(e) {
+        // Блокируем Ctrl+C, Ctrl+A, Ctrl+X, Ctrl+V
+        if ((e.ctrlKey || e.metaKey) && (e.key === 'c' || e.key === 'C' || 
+            e.key === 'x' || e.key === 'X' || 
+            e.key === 'v' || e.key === 'V' || 
+            e.key === 'a' || e.key === 'A')) {
+          e.preventDefault();
+          return false;
+        }
+      });
+      
+      // Блокировка копирования через события
+      document.addEventListener('copy', function(e) {
+        e.preventDefault();
+        e.clipboardData.setData('text/plain', '');
+        return false;
+      });
+      
+      document.addEventListener('cut', function(e) {
+        e.preventDefault();
+        e.clipboardData.setData('text/plain', '');
+        return false;
+      });
+    </script>
   </body>
 </html>
   

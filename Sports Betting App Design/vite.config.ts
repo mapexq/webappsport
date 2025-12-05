@@ -11,8 +11,8 @@ export default defineConfig({
       registerType: 'autoUpdate',
       includeAssets: ['favicon.ico', 'apple-touch-icon.png', 'mask-icon.svg'],
       manifest: {
-        name: 'BETPRO - Sports Betting App',
-        short_name: 'BETPRO',
+        name: 'MapexBet - Sports Betting App',
+        short_name: 'MapexBet',
         description: 'Лучшие бонусы, прогнозы и новости от топовых букмекеров',
         theme_color: '#4ade80',
         background_color: '#09090b',

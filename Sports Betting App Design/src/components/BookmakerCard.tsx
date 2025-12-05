@@ -6,6 +6,12 @@ interface BookmakerCardProps {
   bookmaker: Bookmaker;
 }
 
+// Функция для открытия ссылки (в Capacitor приложении откроется в том же WebView)
+const openBookmakerUrl = (url: string) => {
+  // В Capacitor приложении window.location.href откроет ссылку в том же WebView
+  window.location.href = url;
+};
+
 export function BookmakerCard({ bookmaker }: BookmakerCardProps) {
   return (
     <div className="bg-zinc-900/50 border border-zinc-800 rounded-xl p-6 hover:border-green-400/30 transition-all">
@@ -45,7 +51,10 @@ export function BookmakerCard({ bookmaker }: BookmakerCardProps) {
       </div>
 
       {/* Button */}
-      <button className="w-full bg-green-400 hover:bg-green-500 text-zinc-900 text-sm h-12 rounded-lg transition-colors font-bold text-[18px]">
+      <button 
+        onClick={() => openBookmakerUrl(bookmaker.url)}
+        className="w-full bg-green-400 hover:bg-green-500 text-zinc-900 text-sm h-12 rounded-lg transition-colors font-bold text-[18px]"
+      >
         Получить бонус
       </button>
     </div>

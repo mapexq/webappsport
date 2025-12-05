@@ -73,7 +73,7 @@ export function Layout() {
       <header className="sticky top-0 z-40 bg-zinc-900/95 backdrop-blur-sm border-b border-zinc-800">
         <div className="px-4 py-4">
           <h1 className="text-center text-green-400 text-[36px] font-bold no-underline">
-            BETPRO
+            MAPEXBET
           </h1>
         </div>
       </header>
@@ -104,7 +104,7 @@ export function Layout() {
                     isActive ? 'drop-shadow-[0_0_8px_rgba(74,222,128,0.5)]' : ''
                   }`} 
                 />
-                <span className="text-xs">{tab.label}</span>
+                <span className="text-xs font-bold">{tab.label}</span>
               </button>
             );
           })}

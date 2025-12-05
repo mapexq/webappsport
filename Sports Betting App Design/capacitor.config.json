@@ -1,10 +1,7 @@
 {
   "appId": "com.betpro.app",
-  "appName": "BETPRO",
+  "appName": "MapexBet",
   "webDir": "build",
-  "server": {
-    "androidScheme": "http"
-  },
   "plugins": {
     "SplashScreen": {
       "launchShowDuration": 2000,

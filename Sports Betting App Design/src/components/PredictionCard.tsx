@@ -64,7 +64,7 @@ export function PredictionCard({ prediction }: PredictionCardProps) {
       </div>
 
       {/* Comment */}
-      <div className="mb-6">
+      <div>
         <p className="text-zinc-400 leading-relaxed font-bold text-[15px]">
           {displayedComment}
         </p>
@@ -86,11 +86,6 @@ export function PredictionCard({ prediction }: PredictionCardProps) {
             )}
           </button>
         )}
-      </div>
-
-      {/* Footer */}
-      <div className="flex items-center justify-start text-xs text-zinc-500">
-        <span className="font-bold text-[14px]">{prediction.source}</span>
       </div>
     </div>
   );

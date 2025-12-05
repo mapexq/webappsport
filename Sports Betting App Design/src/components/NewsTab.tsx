@@ -235,9 +235,7 @@ export function NewsTab() {
         <div className="absolute top-0 right-0 w-64 h-64 bg-green-400/5 rounded-full blur-3xl" />
         <div className="relative z-10">
           <div className="flex items-center gap-3">
-            <div className="size-12 rounded-xl bg-green-400/20 flex items-center justify-center">
-              <Newspaper className="size-6 text-green-400" />
-            </div>
+            <Newspaper className="size-12 text-green-400" />
             <div>
               <h2 className="text-xl text-white text-[24px] font-bold">Новости</h2>
               <p className="text-sm text-zinc-400 text-[15px] font-bold">Актуальные события из мира спорта и беттинга</p>

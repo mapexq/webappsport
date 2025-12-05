@@ -1,6 +1,6 @@
 import { PredictionCard } from './PredictionCard';
 import { Badge } from './ui/badge';
-import { Filter, Trophy, Zap, ChevronDown, ChevronUp, RefreshCw } from 'lucide-react';
+import { Filter, Trophy, Zap, ChevronDown, ChevronUp, RefreshCw, Rocket } from 'lucide-react';
 import { useState, useEffect } from 'react';
 import { toast } from 'sonner@2.0.3';
 import { apiService } from '../services/api';
@@ -140,9 +140,7 @@ export function PredictionsTab() {
         <div className="absolute top-0 right-0 w-64 h-64 bg-green-400/5 rounded-full blur-3xl" />
         <div className="relative z-10">
           <div className="flex items-center gap-3">
-            <div className="size-12 rounded-xl bg-green-400/20 flex items-center justify-center">
-              <Trophy className="size-6 text-green-400" />
-            </div>
+            <Trophy className="size-12 text-green-400" />
             <div>
               <h2 className="text-xl text-white text-[24px] font-bold">Прогнозы экспертов</h2>
               <p className="text-sm text-zinc-400 text-[15px] font-bold">Аналитика от профессионалов спортивного беттинга</p>
@@ -180,7 +178,7 @@ export function PredictionsTab() {
         <div>
           <div className="flex items-center justify-between mb-4">
             <h3 className="flex items-center gap-2 text-lg text-white font-bold text-[24px]">
-              <Trophy className="size-5 text-green-400" />
+              <Rocket className="size-5 text-green-400" />
               Прогноз дня
             </h3>
             <button
@@ -230,7 +228,7 @@ export function PredictionsTab() {
               <div className="text-base text-green-400 font-bold">{featuredPrediction.prediction}</div>
             </div>
 
-            <div className="mb-6">
+            <div>
               <p className="text-zinc-400 leading-relaxed font-bold text-[14px]">
                 {displayedFeaturedComment}
               </p>
@@ -252,10 +250,6 @@ export function PredictionsTab() {
                   )}
                 </button>
               )}
-            </div>
-
-            <div className="flex items-center justify-start text-xs text-zinc-500">
-              <span className="font-bold text-[14px]">{featuredPrediction.source}</span>
             </div>
           </div>
 

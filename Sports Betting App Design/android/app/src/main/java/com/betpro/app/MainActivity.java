@@ -2,6 +2,10 @@ package com.betpro.app;
 
 import android.webkit.WebSettings;
 import android.webkit.WebView;
+import android.webkit.WebChromeClient;
+import android.webkit.WebViewClient;
+import android.view.ActionMode;
+import android.view.Menu;
 import com.getcapacitor.BridgeActivity;
 
 public class MainActivity extends BridgeActivity {
@@ -29,6 +33,11 @@ public class MainActivity extends BridgeActivity {
             
             // Включаем кэширование
             settings.setCacheMode(WebSettings.LOAD_DEFAULT);
+            
+            // Отключаем возможность копирования через блокировку ActionMode
+            webView.setWebChromeClient(new WebChromeClient());
+            webView.setLongClickable(false);
+            webView.setOnLongClickListener(v -> true);
         }
     }
 }

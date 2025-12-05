@@ -1,5 +1,5 @@
 import { BookmakerCard } from './BookmakerCard';
-import { TrendingUp, Star, Gift, Award } from 'lucide-react';
+import { TrendingUp, Star, Award, DollarSign, Gem } from 'lucide-react';
 import { ImageWithFallback } from './figma/ImageWithFallback';
 import pariLogo from 'figma:asset/eadd68338a1836c8882d99a00020ab22178df278.png';
 import winlineLogo from 'figma:asset/cd63b9d71bf80f99da220730e2da2673c51aca65.png';
@@ -22,6 +22,7 @@ export interface Bookmaker {
   bonusAmount: number;
   features: string[];
   license: string;
+  url: string;
 }
 
 const bookmakers: Bookmaker[] = [
@@ -35,6 +36,7 @@ const bookmakers: Bookmaker[] = [
     bonusAmount: 5000,
     features: ['Быстрая регистрация', 'Программа лояльности', 'Киберспорт линии'],
     license: 'Лицензия ФНС России',
+    url: 'https://pari.ru/',
   },
   {
     id: 2,
@@ -46,6 +48,7 @@ const bookmakers: Bookmaker[] = [
     bonusAmount: 15000,
     features: ['Моментальные выплаты', 'Высокие коэффициенты', 'Широкая линия событий'],
     license: 'Лицензия ФНС России',
+    url: 'https://fon.bet/',
   },
   {
     id: 3,
@@ -57,6 +60,7 @@ const bookmakers: Bookmaker[] = [
     bonusAmount: 3000,
     features: ['Быстрая верификация', 'Cashback программа', 'Live ставки'],
     license: 'Лицензия ФНС России',
+    url: 'https://winline.ru/',
   },
   {
     id: 4,
@@ -68,6 +72,7 @@ const bookmakers: Bookmaker[] = [
     bonusAmount: 10000,
     features: ['Быстрые выплаты', 'Щедрые бонусы', 'Статистика и аналитика'],
     license: 'Лицензия ФНС России',
+    url: 'https://betboom.ru/',
   },
   {
     id: 5,
@@ -79,6 +84,7 @@ const bookmakers: Bookmaker[] = [
     bonusAmount: 2000,
     features: ['Более 20 лет на рынке', 'Множество акций', 'Круглосуточная поддержка'],
     license: 'Лицензия ФНС России',
+    url: 'https://m.betcity.ru/ru',
   },
   {
     id: 6,
@@ -90,6 +96,7 @@ const bookmakers: Bookmaker[] = [
     bonusAmount: 25000,
     features: ['Простая регистрация', 'Хорошие коэффициенты', 'Кэшаут live-ставок'],
     license: 'Лицензия ФНС России',
+    url: 'https://leon.ru/',
   },
   {
     id: 7,
@@ -101,6 +108,7 @@ const bookmakers: Bookmaker[] = [
     bonusAmount: 25000,
     features: ['Высокие коэффициенты', 'Широкая линия событий', 'Профессиональная поддержка'],
     license: 'Лицензия ФНС России',
+    url: 'https://www.marathonbet.ru/',
   },
   {
     id: 8,
@@ -112,6 +120,7 @@ const bookmakers: Bookmaker[] = [
     bonusAmount: 8000,
     features: ['Высокие лимиты', 'Широкая линия', 'Удобный интерфейс'],
     license: 'Лицензия ФНС России',
+    url: 'https://www.olimp.bet/',
   },
   {
     id: 9,
@@ -123,6 +132,7 @@ const bookmakers: Bookmaker[] = [
     bonusAmount: 8000,
     features: ['Неплохие выплаты', 'Кэшбэк до 8%', 'Хорошие коэффициенты'],
     license: 'Лицензия ФНС России',
+    url: 'https://baltbet.ru/',
   },
   {
     id: 10,
@@ -134,8 +144,15 @@ const bookmakers: Bookmaker[] = [
     bonusAmount: 15000,
     features: ['Огромная линия', 'Круглосуточная поддержка', 'Высокие коэффициенты'],
     license: 'Международная лицензия',
+    url: 'https://melbet.ru/',
   },
 ];
+
+// Функция для открытия ссылки (в Capacitor приложении откроется в том же WebView)
+const openBookmakerUrl = (url: string) => {
+  // В Capacitor приложении window.location.href откроет ссылку в том же WebView
+  window.location.href = url;
+};
 
 export function BonusesTab() {
   const topBookmaker = bookmakers[0];
@@ -148,9 +165,7 @@ export function BonusesTab() {
         <div className="absolute top-0 right-0 w-64 h-64 bg-green-400/5 rounded-full blur-3xl" />
         <div className="relative z-10">
           <div className="flex items-center gap-3">
-            <div className="size-12 rounded-xl bg-green-400/20 flex items-center justify-center">
-              <Gift className="size-6 text-green-400" />
-            </div>
+            <DollarSign className="size-12 text-green-400" />
             <div>
               <h2 className="text-xl text-white text-[24px] font-bold">Лучшие бонусы</h2>
               <p className="text-sm text-zinc-400 text-[15px] font-bold">Эксклюзивные предложения от топовых букмекеров</p>
@@ -163,7 +178,7 @@ export function BonusesTab() {
       <div>
         <div className="flex items-center justify-between mb-4">
           <h3 className="flex items-center gap-2 text-lg text-white font-bold text-[24px]">
-            <TrendingUp className="size-5 text-green-400" />
+            <Gem className="size-5 text-green-400" />
             Лучшее предложение
           </h3>
         </div>
@@ -206,7 +221,10 @@ export function BonusesTab() {
                 ))}
               </div>
               
-              <button className="w-full bg-green-400 hover:bg-green-500 text-zinc-900 text-base h-12 rounded-lg transition-colors font-bold">
+              <button 
+                onClick={() => openBookmakerUrl(topBookmaker.url)}
+                className="w-full bg-green-400 hover:bg-green-500 text-zinc-900 text-base h-12 rounded-lg transition-colors font-bold"
+              >
                 Получить бонус
               </button>
             </div>
