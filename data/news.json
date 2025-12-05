@@ -1,5 +1,47 @@
 [
   {
+    "id": "80db58c3d6a9dacb",
+    "title": "Звонарева в 41 год вышла в полуфинал крупного турнира ITF",
+    "sport": "Теннис",
+    "category": "Теннис",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/7/15/347649386721157.jpeg",
+    "teaser": "Звонарева в 41 год вышла в полуфинал крупного турнира ITF",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6932d3809a794797e5b4d793",
+    "publishedAt": "2025-12-05T12:58:18.000Z",
+    "createdAt": "2025-12-05T13:36:22.021Z",
+    "updatedAt": "2025-12-05T13:36:22.021Z"
+  },
+  {
+    "id": "15c262b3c68c2295",
+    "title": "Украинская триатлонистка оскорбила решившую выступать за Россию Лыскун",
+    "sport": "Другое",
+    "category": "Другие",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/5/29/347649356285295.jpeg",
+    "teaser": "Украинская триатлонистка оскорбила решившую выступать за Россию Лыскун",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6932c7a29a794701ce92ad8f",
+    "publishedAt": "2025-12-05T12:58:06.000Z",
+    "createdAt": "2025-12-05T13:36:19.721Z",
+    "updatedAt": "2025-12-05T13:36:19.721Z"
+  },
+  {
+    "id": "bbd53be1874d9fba",
+    "title": "Власти США назвали ожидаемое число иностранных гостей на ЧМ-2026",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/3/70/347649374843703.jpeg",
+    "teaser": "Власти США назвали ожидаемое число иностранных гостей на ЧМ-2026",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6932ce919a7947941ae0a812",
+    "publishedAt": "2025-12-05T12:55:15.000Z",
+    "createdAt": "2025-12-05T13:36:20.872Z",
+    "updatedAt": "2025-12-05T13:36:20.872Z"
+  },
+  {
     "id": "edd8e482bf556c8e",
     "title": "Бронзовый призер Евро-2008 получил работу в клубе РПЛ",
     "sport": "Футбол",
@@ -10,8 +52,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6932c0ea9a7947262d4fa8fc",
     "publishedAt": "2025-12-05T11:40:26.000Z",
-    "createdAt": "2025-12-05T12:53:19.719Z",
-    "updatedAt": "2025-12-05T12:53:19.719Z"
+    "createdAt": "2025-12-05T13:36:23.159Z",
+    "updatedAt": "2025-12-05T13:36:23.159Z"
   },
   {
     "id": "e32827a58072ee2e",
@@ -24,8 +66,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/693034449a7947b8d138b645",
     "publishedAt": "2025-12-05T11:15:16.000Z",
-    "createdAt": "2025-12-05T12:53:25.414Z",
-    "updatedAt": "2025-12-05T12:53:25.414Z"
+    "createdAt": "2025-12-05T13:36:28.855Z",
+    "updatedAt": "2025-12-05T13:36:28.855Z"
   },
   {
     "id": "c676d7287d9109a6",
@@ -38,8 +80,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6932b8cf9a794729ee9aefd8",
     "publishedAt": "2025-12-05T10:58:36.000Z",
-    "createdAt": "2025-12-05T12:53:22.000Z",
-    "updatedAt": "2025-12-05T12:53:22.000Z"
+    "createdAt": "2025-12-05T13:36:25.441Z",
+    "updatedAt": "2025-12-05T13:36:25.441Z"
   },
   {
     "id": "1f21b52753192745",
@@ -52,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6932b3f89a79473cb6e46101",
     "publishedAt": "2025-12-05T10:43:31.000Z",
-    "createdAt": "2025-12-05T12:53:20.836Z",
-    "updatedAt": "2025-12-05T12:53:20.836Z"
+    "createdAt": "2025-12-05T13:36:24.294Z",
+    "updatedAt": "2025-12-05T13:36:24.294Z"
   },
   {
     "id": "b1d2a07d54447e63",
@@ -66,8 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6932abb49a79470c4846b818",
     "publishedAt": "2025-12-05T10:06:00.000Z",
-    "createdAt": "2025-12-05T12:53:24.265Z",
-    "updatedAt": "2025-12-05T12:53:24.265Z"
+    "createdAt": "2025-12-05T13:36:27.755Z",
+    "updatedAt": "2025-12-05T13:36:27.755Z"
   },
   {
     "id": "09491958ef95ce33",
@@ -80,50 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6932a4a99a79478293ba23e6",
     "publishedAt": "2025-12-05T09:37:45.000Z",
-    "createdAt": "2025-12-05T12:53:26.569Z",
-    "updatedAt": "2025-12-05T12:53:26.569Z"
-  },
-  {
-    "id": "5bf569bbb3675267",
-    "title": "Кучеров повторил рекорд Курри в НХЛ среди европейцев",
-    "sport": "Хоккей",
-    "category": "Хоккей",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/3/33/347649234033333.jpeg",
-    "teaser": "Кучеров повторил рекорд Курри в НХЛ среди европейцев",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/693297e29a794772a7934edc",
-    "publishedAt": "2025-12-05T08:43:30.000Z",
-    "createdAt": "2025-12-05T12:53:27.767Z",
-    "updatedAt": "2025-12-05T12:53:27.767Z"
-  },
-  {
-    "id": "3a709afa4a538fe9",
-    "title": "Трехлетний индиец стал самым юным шахматистом в истории с рейтингом FIDE",
-    "sport": "Другое",
-    "category": "Другие",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/9/89/347649212889899.jpeg",
-    "teaser": "Трехлетний индиец стал самым юным шахматистом в истории с рейтингом FIDE",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69328f8a9a794752e8d57af1",
-    "publishedAt": "2025-12-05T08:32:46.000Z",
-    "createdAt": "2025-12-05T12:53:28.878Z",
-    "updatedAt": "2025-12-05T12:53:28.878Z"
-  },
-  {
-    "id": "0d5cb397afb0e32c",
-    "title": "Малкин вошел в число звезд дня в НХЛ после дубля и передачи",
-    "sport": "Хоккей",
-    "category": "Хоккей",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/3/06/347649202703063.jpeg",
-    "teaser": "Малкин вошел в число звезд дня в НХЛ после дубля и передачи",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69328b689a7947eeedfdbd54",
-    "publishedAt": "2025-12-05T07:54:45.000Z",
-    "createdAt": "2025-12-05T12:53:30.051Z",
-    "updatedAt": "2025-12-05T12:53:30.051Z"
+    "createdAt": "2025-12-05T13:36:30.032Z",
+    "updatedAt": "2025-12-05T13:36:30.032Z"
   },
   {
     "id": "4a47fb7fdc9af18f",
@@ -136,7 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/693180fd9a79473c95a6ef91",
     "publishedAt": "2025-12-05T07:32:04.000Z",
-    "createdAt": "2025-12-05T12:53:23.192Z",
-    "updatedAt": "2025-12-05T12:53:23.192Z"
+    "createdAt": "2025-12-05T13:36:26.598Z",
+    "updatedAt": "2025-12-05T13:36:26.598Z"
   }
 ]
