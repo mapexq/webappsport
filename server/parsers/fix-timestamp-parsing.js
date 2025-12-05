@@ -36,3 +36,4 @@ fs.writeFileSync(parserPath, content, 'utf8');
 console.log(`✅ Исправлено ${changesCount} проблем с парсингом времени`);
 
 
+

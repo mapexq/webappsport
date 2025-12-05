@@ -39,3 +39,4 @@ fs.writeFileSync(parserPath, lines.join('\n'), 'utf8');
 console.log('✅ Все исправления применены');
 
 
+

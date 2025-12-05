@@ -8,3 +8,4 @@ fs.writeFileSync('parsers/predictionsParser.js', fixed, 'utf8');
 console.log('✅ Исправлено');
 
 
+

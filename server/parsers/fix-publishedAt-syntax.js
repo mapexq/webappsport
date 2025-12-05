@@ -29,3 +29,4 @@ fs.writeFileSync(parserPath, lines.join('\n'), 'utf8');
 console.log('✅ Синтаксическая ошибка исправлена');
 
 
+
