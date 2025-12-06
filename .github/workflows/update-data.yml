@@ -88,6 +88,15 @@ jobs:
           
           # Проверяем существование файлов перед добавлением
           if [ -f data/predictions.json ] || [ -f data/news.json ] || [ -f data/metadata.json ]; then
+            # Проверяем, что predictions.json не пустой
+            if [ -f data/predictions.json ]; then
+              PREDICTIONS_SIZE=$(wc -c < data/predictions.json | tr -d ' ')
+              if [ "$PREDICTIONS_SIZE" -lt 10 ]; then
+                echo "⚠️ predictions.json пустой или слишком маленький ($PREDICTIONS_SIZE bytes), пропускаем обновление"
+                git restore data/predictions.json || true
+              fi
+            fi
+            
             git add data/*.json
             
             if ! git diff --staged --quiet; then
