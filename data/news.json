@@ -1,5 +1,19 @@
 [
   {
+    "id": "c0a6a265636c8865",
+    "title": "Американская фигуристка Алиса Лью выиграла финал Гран-при",
+    "sport": "Другое",
+    "category": "Фигурное катание",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/7/37/347650279597377.jpeg",
+    "teaser": "Американская фигуристка Алиса Лью выиграла финал Гран-при",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6934304b9a7947b820a74ff1",
+    "publishedAt": "2025-12-06T13:38:07.000Z",
+    "createdAt": "2025-12-06T14:21:30.078Z",
+    "updatedAt": "2025-12-06T14:21:30.078Z"
+  },
+  {
     "id": "6715b659f6d9f835",
     "title": "«Спартак» открыл трибуну в честь Никиты Симоняна",
     "sport": "Футбол",
@@ -10,8 +24,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69342d479a79470450c572a4",
     "publishedAt": "2025-12-06T13:24:49.000Z",
-    "createdAt": "2025-12-06T13:30:48.682Z",
-    "updatedAt": "2025-12-06T13:30:48.682Z"
+    "createdAt": "2025-12-06T14:21:31.121Z",
+    "updatedAt": "2025-12-06T14:21:31.121Z"
   },
   {
     "id": "57c03a77316fb181",
@@ -24,8 +38,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69341d039a7947c2b2a83d0c",
     "publishedAt": "2025-12-06T12:57:31.000Z",
-    "createdAt": "2025-12-06T13:30:49.802Z",
-    "updatedAt": "2025-12-06T13:30:49.802Z"
+    "createdAt": "2025-12-06T14:21:32.248Z",
+    "updatedAt": "2025-12-06T14:21:32.248Z"
   },
   {
     "id": "6e01ff8f477658a0",
@@ -38,8 +52,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/693419bf9a79477b36a92523",
     "publishedAt": "2025-12-06T12:03:09.000Z",
-    "createdAt": "2025-12-06T13:30:50.943Z",
-    "updatedAt": "2025-12-06T13:30:50.943Z"
+    "createdAt": "2025-12-06T14:21:34.428Z",
+    "updatedAt": "2025-12-06T14:21:34.428Z"
   },
   {
     "id": "a5ee22d65701a908",
@@ -52,8 +66,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/693416529a7947b71ed39c34",
     "publishedAt": "2025-12-06T11:49:15.000Z",
-    "createdAt": "2025-12-06T13:30:53.219Z",
-    "updatedAt": "2025-12-06T13:30:53.219Z"
+    "createdAt": "2025-12-06T14:21:35.513Z",
+    "updatedAt": "2025-12-06T14:21:35.513Z"
   },
   {
     "id": "1c56831f7e6b7912",
@@ -66,8 +80,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6934120a9a79477698b7c428",
     "publishedAt": "2025-12-06T11:28:28.000Z",
-    "createdAt": "2025-12-06T13:30:54.334Z",
-    "updatedAt": "2025-12-06T13:30:54.334Z"
+    "createdAt": "2025-12-06T14:21:36.605Z",
+    "updatedAt": "2025-12-06T14:21:36.605Z"
   },
   {
     "id": "4fdb491da3588565",
@@ -80,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/693409a39a794742e0226618",
     "publishedAt": "2025-12-06T10:55:06.000Z",
-    "createdAt": "2025-12-06T13:30:55.484Z",
-    "updatedAt": "2025-12-06T13:30:55.484Z"
+    "createdAt": "2025-12-06T14:21:37.729Z",
+    "updatedAt": "2025-12-06T14:21:37.729Z"
   },
   {
     "id": "72a9e06a5958e175",
@@ -94,8 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/693405749a79478345e57d9c",
     "publishedAt": "2025-12-06T10:34:18.000Z",
-    "createdAt": "2025-12-06T13:30:56.750Z",
-    "updatedAt": "2025-12-06T13:30:56.750Z"
+    "createdAt": "2025-12-06T14:21:38.731Z",
+    "updatedAt": "2025-12-06T14:21:38.731Z"
   },
   {
     "id": "5a5228e1ae27f28b",
@@ -108,22 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6933fc919a7947228541c4c6",
     "publishedAt": "2025-12-06T10:21:04.000Z",
-    "createdAt": "2025-12-06T13:30:57.901Z",
-    "updatedAt": "2025-12-06T13:30:57.901Z"
-  },
-  {
-    "id": "7dd1cd3ca3bd1409",
-    "title": "Звонарева в 41 год вышла в финал крупного турнира ITF",
-    "sport": "Теннис",
-    "category": "Теннис",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/1/56/347650148725561.jpeg",
-    "teaser": "Звонарева в 41 год вышла в финал крупного турнира ITF",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6933fd4c9a794778409703fe",
-    "publishedAt": "2025-12-06T09:59:46.000Z",
-    "createdAt": "2025-12-06T13:30:59.034Z",
-    "updatedAt": "2025-12-06T13:30:59.034Z"
+    "createdAt": "2025-12-06T14:21:39.797Z",
+    "updatedAt": "2025-12-06T14:21:39.797Z"
   },
   {
     "id": "dcd8178ea0425e46",
@@ -136,7 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/693145e29a794728414d340f",
     "publishedAt": "2025-12-06T07:30:58.000Z",
-    "createdAt": "2025-12-06T13:30:52.127Z",
-    "updatedAt": "2025-12-06T13:30:52.127Z"
+    "createdAt": "2025-12-06T14:21:33.323Z",
+    "updatedAt": "2025-12-06T14:21:33.323Z"
   }
 ]
