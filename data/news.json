@@ -1,5 +1,47 @@
 [
   {
+    "id": "6e01ff8f477658a0",
+    "title": "Фигурист с русскими корнями выиграл финал Гран-при с мировым рекордом",
+    "sport": "Другое",
+    "category": "Фигурное катание",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/8/22/347650221802228.jpeg",
+    "teaser": "Фигурист с русскими корнями выиграл финал Гран-при с мировым рекордом",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/693419bf9a79477b36a92523",
+    "publishedAt": "2025-12-06T12:03:09.000Z",
+    "createdAt": "2025-12-06T12:48:41.523Z",
+    "updatedAt": "2025-12-06T12:48:41.523Z"
+  },
+  {
+    "id": "a5ee22d65701a908",
+    "title": "Хэмилтон врезался в отбойник во время тренировки на Гран-при Абу-Даби",
+    "sport": "Другое",
+    "category": "Формула-1",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/1/91/347650213080911.jpeg",
+    "teaser": "Хэмилтон врезался в отбойник во время тренировки на Гран-при Абу-Даби",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/693416529a7947b71ed39c34",
+    "publishedAt": "2025-12-06T11:49:15.000Z",
+    "createdAt": "2025-12-06T12:48:42.623Z",
+    "updatedAt": "2025-12-06T12:48:42.623Z"
+  },
+  {
+    "id": "1c56831f7e6b7912",
+    "title": "Норвежские лыжники заняли первые 8 мест в скиатлоне на этапе Кубка мира",
+    "sport": "Другое",
+    "category": "Другие",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/4/44/347650202264444.jpeg",
+    "teaser": "Норвежские лыжники заняли первые 8 мест в скиатлоне на этапе Кубка мира",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6934120a9a79477698b7c428",
+    "publishedAt": "2025-12-06T11:28:28.000Z",
+    "createdAt": "2025-12-06T12:48:43.780Z",
+    "updatedAt": "2025-12-06T12:48:43.780Z"
+  },
+  {
     "id": "4fdb491da3588565",
     "title": "Макгрегор заявил о желании провести чемпионский бой в UFC с Махачевым",
     "sport": "Единоборства",
@@ -10,22 +52,22 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/693409a39a794742e0226618",
     "publishedAt": "2025-12-06T10:55:06.000Z",
-    "createdAt": "2025-12-06T11:19:54.962Z",
-    "updatedAt": "2025-12-06T11:19:54.962Z"
+    "createdAt": "2025-12-06T12:48:46.120Z",
+    "updatedAt": "2025-12-06T12:48:46.120Z"
   },
   {
-    "id": "2566f38d288e67cc",
-    "title": "Клуб КХЛ уволил тренера после шести поражений в семи последних матчах",
+    "id": "72a9e06a5958e175",
+    "title": "Клуб КХЛ уволил лучшего тренера в своей истории",
     "sport": "Хоккей",
     "category": "Хоккей",
     "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/9/19/347650169780199.jpeg",
-    "teaser": "Клуб КХЛ уволил тренера после шести поражений в семи последних матчах",
+    "teaser": "Клуб КХЛ уволил лучшего тренера в своей истории",
     "fullContent": "",
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/693405749a79478345e57d9c",
     "publishedAt": "2025-12-06T10:34:18.000Z",
-    "createdAt": "2025-12-06T11:19:56.050Z",
-    "updatedAt": "2025-12-06T11:19:56.050Z"
+    "createdAt": "2025-12-06T12:48:47.345Z",
+    "updatedAt": "2025-12-06T12:48:47.345Z"
   },
   {
     "id": "5a5228e1ae27f28b",
@@ -38,8 +80,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6933fc919a7947228541c4c6",
     "publishedAt": "2025-12-06T10:21:04.000Z",
-    "createdAt": "2025-12-06T11:19:57.190Z",
-    "updatedAt": "2025-12-06T11:19:57.190Z"
+    "createdAt": "2025-12-06T12:48:48.483Z",
+    "updatedAt": "2025-12-06T12:48:48.483Z"
   },
   {
     "id": "7dd1cd3ca3bd1409",
@@ -52,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6933fd4c9a794778409703fe",
     "publishedAt": "2025-12-06T09:59:46.000Z",
-    "createdAt": "2025-12-06T11:19:59.433Z",
-    "updatedAt": "2025-12-06T11:19:59.433Z"
+    "createdAt": "2025-12-06T12:48:49.745Z",
+    "updatedAt": "2025-12-06T12:48:49.745Z"
   },
   {
     "id": "d8515062aa749862",
@@ -66,22 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6933f5d39a79472b9fd327fd",
     "publishedAt": "2025-12-06T09:30:03.000Z",
-    "createdAt": "2025-12-06T11:20:00.573Z",
-    "updatedAt": "2025-12-06T11:20:00.573Z"
-  },
-  {
-    "id": "85d072ca0cc16005",
-    "title": "Лыжники Ардашев и Фалеева выиграли спринты на этапе Кубка России в Тюмени",
-    "sport": "Другое",
-    "category": "Другие",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/0/20/347650122069200.jpeg",
-    "teaser": "Лыжники Ардашев и Фалеева выиграли спринты на этапе Кубка России в Тюмени",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6933f2ce9a7947d07c9ce936",
-    "publishedAt": "2025-12-06T09:16:32.000Z",
-    "createdAt": "2025-12-06T11:20:03.060Z",
-    "updatedAt": "2025-12-06T11:20:03.060Z"
+    "createdAt": "2025-12-06T12:48:50.897Z",
+    "updatedAt": "2025-12-06T12:48:50.897Z"
   },
   {
     "id": "baf94a582eac96f5",
@@ -94,36 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6933eefb9a7947567a1822c6",
     "publishedAt": "2025-12-06T09:06:23.000Z",
-    "createdAt": "2025-12-06T11:20:01.979Z",
-    "updatedAt": "2025-12-06T11:20:01.979Z"
-  },
-  {
-    "id": "ae507641d59ac1c6",
-    "title": "Стала известна дата первого боя Ивана Емельяненко после выхода из тюрьмы",
-    "sport": "Единоборства",
-    "category": "Единоборства",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/7/74/347650089938747.jpeg",
-    "teaser": "Стала известна дата первого боя Ивана Емельяненко после выхода из тюрьмы",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6933e6259a7947da83ffa0df",
-    "publishedAt": "2025-12-06T08:21:29.000Z",
-    "createdAt": "2025-12-06T11:20:04.242Z",
-    "updatedAt": "2025-12-06T11:20:04.242Z"
-  },
-  {
-    "id": "2297f16c63bb0bf6",
-    "title": "Тренер сборной Норвегии назвал «шоу уродов» жеребьевку ЧМ-2026",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/3/24/347650066781243.jpeg",
-    "teaser": "Тренер сборной Норвегии назвал «шоу уродов» жеребьевку ЧМ-2026",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6933dcc49a79476302bb2c1e",
-    "publishedAt": "2025-12-06T07:46:38.000Z",
-    "createdAt": "2025-12-06T11:20:05.315Z",
-    "updatedAt": "2025-12-06T11:20:05.315Z"
+    "createdAt": "2025-12-06T12:48:52.368Z",
+    "updatedAt": "2025-12-06T12:48:52.368Z"
   },
   {
     "id": "dcd8178ea0425e46",
@@ -136,7 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/693145e29a794728414d340f",
     "publishedAt": "2025-12-06T07:30:58.000Z",
-    "createdAt": "2025-12-06T11:19:58.289Z",
-    "updatedAt": "2025-12-06T11:19:58.289Z"
+    "createdAt": "2025-12-06T12:48:44.925Z",
+    "updatedAt": "2025-12-06T12:48:44.925Z"
   }
 ]
