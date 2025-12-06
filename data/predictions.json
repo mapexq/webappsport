@@ -1,6 +1,6 @@
 [
   {
-    "id": 1765045994980,
+    "id": 1765048733651,
     "eventName": "Верона — Аталанта",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -16,7 +16,7 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1765045994981,
+    "id": 1765048733652,
     "eventName": "Атлетик Бильбао — Атлетико Мадрид",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -32,7 +32,7 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1765045994982,
+    "id": 1765048733653,
     "eventName": "Флорида — Коламбус",
     "discipline": "Хоккей",
     "tournament": "НХЛ",
@@ -48,7 +48,7 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1765045994983,
+    "id": 1765048733654,
     "eventName": "Каролина — Нэшвилл",
     "discipline": "Хоккей",
     "tournament": "Чемпионат",
@@ -64,7 +64,23 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1765045994984,
+    "id": 1765048733655,
+    "eventName": "Тампа-Бэй — Айлендерс",
+    "discipline": "Хоккей",
+    "tournament": "НХЛ",
+    "expert": {
+      "name": "Николай Чегорский",
+      "avatar": "https://wp2.bookmaker-ratings.ru/bookmaker-ratings.ru/wp-content/uploads/2025/02/Ava-67bc5517f35d5.png?ssl=1&w=60",
+      "status": "expert",
+      "winRate": 70
+    },
+    "prediction": "П1 в 1-м периоде",
+    "odds": 2.4,
+    "comment": "«Тампа-Бэй» — лучшая команда ноября по игре в стартовых периодах. За последний месяц «Лайтнинг» забросила в 1-х периодах 20 шайб и это самый высокий показатель в НХЛ. Пропускает «Лайтнинг» на старте матча меньше, чем во 2-х и 3-х периодах (11 голов). «Айлендерс» в стартовых отрезках сезона действуют куда скромнее. У «островитян» минимальный баланс заброшенных и пропущенных шайб в 1-х периодах с 6 ноября.",
+    "source": "Sports Analytics Pro"
+  },
+  {
+    "id": 1765048733656,
     "eventName": "Бостон — Нью-Джерси",
     "discipline": "Хоккей",
     "tournament": "НБА",
@@ -80,7 +96,7 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1765045994985,
+    "id": 1765048733657,
     "eventName": "Калгари — Юта",
     "discipline": "Хоккей",
     "tournament": "Чемпионат",
@@ -96,7 +112,7 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1765045994986,
+    "id": 1765048733658,
     "eventName": "Кливленд — Голден Стэйт",
     "discipline": "Баскетбол",
     "tournament": "НБА",
@@ -112,7 +128,7 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1765045994987,
+    "id": 1765048733659,
     "eventName": "Майами — Сакраменто",
     "discipline": "Баскетбол",
     "tournament": "НБА",
