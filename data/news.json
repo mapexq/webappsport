@@ -1,5 +1,61 @@
 [
   {
+    "id": "ae507641d59ac1c6",
+    "title": "Стала известна дата первого боя Ивана Емельяненко после выхода из тюрьмы",
+    "sport": "Единоборства",
+    "category": "Единоборства",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/7/74/347650089938747.jpeg",
+    "teaser": "Стала известна дата первого боя Ивана Емельяненко после выхода из тюрьмы",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6933e6259a7947da83ffa0df",
+    "publishedAt": "2025-12-06T08:21:29.000Z",
+    "createdAt": "2025-12-06T08:31:16.429Z",
+    "updatedAt": "2025-12-06T08:31:16.429Z"
+  },
+  {
+    "id": "79776af7ea0b58b3",
+    "title": "Тренер Шары Буллета предсказал победу нокаутом Петра Яна в UFC",
+    "sport": "Единоборства",
+    "category": "Единоборства",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/3/53/347648547723533.jpeg",
+    "teaser": "Тренер Шары Буллета предсказал победу нокаутом Петра Яна в UFC",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/693187fd9a7947ae278040ca",
+    "publishedAt": "2025-12-06T08:01:01.000Z",
+    "createdAt": "2025-12-06T08:31:18.551Z",
+    "updatedAt": "2025-12-06T08:31:18.551Z"
+  },
+  {
+    "id": "2297f16c63bb0bf6",
+    "title": "Тренер сборной Норвегии назвал «шоу уродов» жеребьевку ЧМ-2026",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/3/24/347650066781243.jpeg",
+    "teaser": "Тренер сборной Норвегии назвал «шоу уродов» жеребьевку ЧМ-2026",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6933dcc49a79476302bb2c1e",
+    "publishedAt": "2025-12-06T07:46:38.000Z",
+    "createdAt": "2025-12-06T08:31:17.521Z",
+    "updatedAt": "2025-12-06T08:31:17.521Z"
+  },
+  {
+    "id": "dcd8178ea0425e46",
+    "title": "«Эта победа нужна всей России». Сможет ли Ян вновь стать чемпионом UFC",
+    "sport": "Единоборства",
+    "category": "Единоборства",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/4/95/347648534611954.jpeg",
+    "teaser": "«Эта победа нужна всей России». Сможет ли Ян вновь стать чемпионом UFC",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/693145e29a794728414d340f",
+    "publishedAt": "2025-12-06T07:30:58.000Z",
+    "createdAt": "2025-12-06T08:31:19.625Z",
+    "updatedAt": "2025-12-06T08:31:19.625Z"
+  },
+  {
     "id": "68cba9324846b578",
     "title": "У Овечкина прервалась лучшая в сезоне НХЛ серия с набранными очками",
     "sport": "Хоккей",
@@ -10,8 +66,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6933d66b9a79471c0c490501",
     "publishedAt": "2025-12-06T07:19:02.000Z",
-    "createdAt": "2025-12-06T07:22:58.005Z",
-    "updatedAt": "2025-12-06T07:22:58.005Z"
+    "createdAt": "2025-12-06T08:31:20.666Z",
+    "updatedAt": "2025-12-06T08:31:20.666Z"
   },
   {
     "id": "ce9bbe0688bae9fa",
@@ -24,8 +80,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/693187f29a794740d6860861",
     "publishedAt": "2025-12-05T21:05:50.000Z",
-    "createdAt": "2025-12-06T07:22:59.053Z",
-    "updatedAt": "2025-12-06T07:22:59.053Z"
+    "createdAt": "2025-12-06T08:31:21.737Z",
+    "updatedAt": "2025-12-06T08:31:21.737Z"
   },
   {
     "id": "b58078b01db79cba",
@@ -38,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/693336ef9a79472b72e13975",
     "publishedAt": "2025-12-05T20:10:22.000Z",
-    "createdAt": "2025-12-06T07:23:00.072Z",
-    "updatedAt": "2025-12-06T07:23:00.072Z"
+    "createdAt": "2025-12-06T08:31:22.803Z",
+    "updatedAt": "2025-12-06T08:31:22.803Z"
   },
   {
     "id": "26371d71544b0cad",
@@ -52,8 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6933000a9a79471fb40c9bf6",
     "publishedAt": "2025-12-05T19:07:22.000Z",
-    "createdAt": "2025-12-06T07:23:01.094Z",
-    "updatedAt": "2025-12-06T07:23:01.094Z"
+    "createdAt": "2025-12-06T08:31:23.867Z",
+    "updatedAt": "2025-12-06T08:31:23.867Z"
   },
   {
     "id": "ae6bee941103f6dd",
@@ -66,22 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/693329bf9a79475d4509c607",
     "publishedAt": "2025-12-05T18:53:13.000Z",
-    "createdAt": "2025-12-06T07:23:02.173Z",
-    "updatedAt": "2025-12-06T07:23:02.173Z"
-  },
-  {
-    "id": "31625a8c5f7bf2c7",
-    "title": "«Ахмат» победил «Оренбург» в стартовом матче 18-го тура РПЛ",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/6/29/347649580367296.jpeg",
-    "teaser": "«Ахмат» победил «Оренбург» в стартовом матче 18-го тура РПЛ",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69331f389a79471966d817ed",
-    "publishedAt": "2025-12-05T18:10:00.000Z",
-    "createdAt": "2025-12-06T07:23:05.157Z",
-    "updatedAt": "2025-12-06T07:23:05.157Z"
+    "createdAt": "2025-12-06T08:31:24.860Z",
+    "updatedAt": "2025-12-06T08:31:24.860Z"
   },
   {
     "id": "c00271f02ef45157",
@@ -94,49 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/693180fd9a79473c95a6ef91",
     "publishedAt": "2025-12-05T18:06:03.000Z",
-    "createdAt": "2025-12-06T07:23:03.179Z",
-    "updatedAt": "2025-12-06T07:23:03.179Z"
-  },
-  {
-    "id": "382fe137db1fb36a",
-    "title": "Московское «Динамо» впервые с 2015 года выиграло в Тольятти в матче КХЛ",
-    "sport": "Хоккей",
-    "category": "Хоккей",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/2/21/347649555106212.jpeg",
-    "teaser": "Московское «Динамо» впервые с 2015 года выиграло в Тольятти в матче КХЛ",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/693315469a79474cbf4c7196",
-    "publishedAt": "2025-12-05T17:43:58.000Z",
-    "createdAt": "2025-12-06T07:23:06.183Z",
-    "updatedAt": "2025-12-06T07:23:06.183Z"
-  },
-  {
-    "id": "33b1cd5b043d5776",
-    "title": "Инфантино наградил Трампа премией мира от ФИФА",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/1/20/347649562489201.jpeg",
-    "teaser": "Инфантино наградил Трампа премией мира от ФИФА",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6932f0a69a79478723f23777",
-    "publishedAt": "2025-12-05T17:31:58.000Z",
-    "createdAt": "2025-12-06T07:23:04.207Z",
-    "updatedAt": "2025-12-06T07:23:04.207Z"
-  },
-  {
-    "id": "0f7a544b038af37e",
-    "title": "Трамп прибыл на жеребьевку ЧМ-2026",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/4/56/347649537382564.jpeg",
-    "teaser": "Трамп прибыл на жеребьевку ЧМ-2026",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69330e739a7947af353975c4",
-    "publishedAt": "2025-12-05T17:19:41.000Z",
-    "createdAt": "2025-12-06T07:23:07.201Z",
-    "updatedAt": "2025-12-06T07:23:07.201Z"
+    "createdAt": "2025-12-06T08:31:25.940Z",
+    "updatedAt": "2025-12-06T08:31:25.940Z"
   }
 ]
