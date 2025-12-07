@@ -1,5 +1,33 @@
 [
   {
+    "id": "c0341a870cd82128",
+    "title": "Решившая выступать за Узбекистан россиянка выиграла турнир WTA 125 в Анже",
+    "sport": "Теннис",
+    "category": "Теннис",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/4/63/347651188264634.jpeg",
+    "teaser": "Решившая выступать за Узбекистан россиянка выиграла турнир WTA 125 в Анже",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6935a6319a794785b08049ff",
+    "publishedAt": "2025-12-07T16:15:43.000Z",
+    "createdAt": "2025-12-07T16:28:43.151Z",
+    "updatedAt": "2025-12-07T16:28:43.151Z"
+  },
+  {
+    "id": "6b1f3088b737cb24",
+    "title": "«Локомотив» крупно обыграл аутсайдера РПЛ",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/7/41/347651200793417.png",
+    "teaser": "«Локомотив» крупно обыграл аутсайдера РПЛ",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/693597b49a7947e5b1b22467",
+    "publishedAt": "2025-12-07T15:28:28.000Z",
+    "createdAt": "2025-12-07T16:28:42.335Z",
+    "updatedAt": "2025-12-07T16:28:42.335Z"
+  },
+  {
     "id": "981a0b4f8fa0b92f",
     "title": "В «Формуле-1» впервые с 2021 года появился новый чемпион",
     "sport": "Другое",
@@ -10,8 +38,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/693589d29a79474690e988d3",
     "publishedAt": "2025-12-07T14:30:52.000Z",
-    "createdAt": "2025-12-07T15:22:09.660Z",
-    "updatedAt": "2025-12-07T15:22:09.660Z"
+    "createdAt": "2025-12-07T16:28:41.309Z",
+    "updatedAt": "2025-12-07T16:28:41.309Z"
   },
   {
     "id": "f92af8be160bafa4",
@@ -24,8 +52,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/693586919a79473e33e2c72d",
     "publishedAt": "2025-12-07T13:55:50.000Z",
-    "createdAt": "2025-12-07T15:22:10.766Z",
-    "updatedAt": "2025-12-07T15:22:10.766Z"
+    "createdAt": "2025-12-07T16:28:44.161Z",
+    "updatedAt": "2025-12-07T16:28:44.161Z"
   },
   {
     "id": "0dd839f2d8d5c224",
@@ -38,8 +66,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69357f4b9a794714fbd1e8ed",
     "publishedAt": "2025-12-07T13:37:09.000Z",
-    "createdAt": "2025-12-07T15:22:11.685Z",
-    "updatedAt": "2025-12-07T15:22:11.685Z"
+    "createdAt": "2025-12-07T16:28:46.853Z",
+    "updatedAt": "2025-12-07T16:28:46.853Z"
   },
   {
     "id": "3b3401813bdbe8b0",
@@ -52,22 +80,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69357c369a794721a2b6cc8a",
     "publishedAt": "2025-12-07T13:24:20.000Z",
-    "createdAt": "2025-12-07T15:22:13.662Z",
-    "updatedAt": "2025-12-07T15:22:13.662Z"
-  },
-  {
-    "id": "38d75fca1d922e55",
-    "title": "«Пари НН» покинул зону вылета из РПЛ, обыграв махачкалинское «Динамо»",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/2/42/347651126168422.png",
-    "teaser": "«Пари НН» покинул зону вылета из РПЛ, обыграв махачкалинское «Динамо»",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/693569919a79473b250b4a57",
-    "publishedAt": "2025-12-07T13:04:07.000Z",
-    "createdAt": "2025-12-07T15:22:16.686Z",
-    "updatedAt": "2025-12-07T15:22:16.686Z"
+    "createdAt": "2025-12-07T16:28:49.843Z",
+    "updatedAt": "2025-12-07T16:28:49.843Z"
   },
   {
     "id": "19d19406a4d53536",
@@ -80,22 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/693571499a79479db8ae1e44",
     "publishedAt": "2025-12-07T12:43:34.000Z",
-    "createdAt": "2025-12-07T15:22:12.704Z",
-    "updatedAt": "2025-12-07T15:22:12.704Z"
-  },
-  {
-    "id": "d721291f16a19b2b",
-    "title": "Звонарева в 41 год проиграла финал крупного турнира ITF в Дубае",
-    "sport": "Теннис",
-    "category": "Теннис",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/3/03/347651070470033.png",
-    "teaser": "Звонарева в 41 год проиграла финал крупного турнира ITF в Дубае",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/693565299a79470b0914af9a",
-    "publishedAt": "2025-12-07T11:38:27.000Z",
-    "createdAt": "2025-12-07T15:22:18.689Z",
-    "updatedAt": "2025-12-07T15:22:18.689Z"
+    "createdAt": "2025-12-07T16:28:48.872Z",
+    "updatedAt": "2025-12-07T16:28:48.872Z"
   },
   {
     "id": "fef8ec72c1938c2f",
@@ -108,8 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/693525939a7947e74be52f07",
     "publishedAt": "2025-12-07T11:35:54.000Z",
-    "createdAt": "2025-12-07T15:22:14.669Z",
-    "updatedAt": "2025-12-07T15:22:14.669Z"
+    "createdAt": "2025-12-07T16:28:44.986Z",
+    "updatedAt": "2025-12-07T16:28:44.986Z"
   },
   {
     "id": "98d270bb4289948f",
@@ -122,8 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6915b7e99a7947736a1c51c2",
     "publishedAt": "2025-12-07T10:04:04.000Z",
-    "createdAt": "2025-12-07T15:22:17.668Z",
-    "updatedAt": "2025-12-07T15:22:17.668Z"
+    "createdAt": "2025-12-07T16:28:47.876Z",
+    "updatedAt": "2025-12-07T16:28:47.876Z"
   },
   {
     "id": "386029cec7bcabbc",
@@ -136,7 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69351d599a79475db0e08d28",
     "publishedAt": "2025-12-07T09:13:51.000Z",
-    "createdAt": "2025-12-07T15:22:15.721Z",
-    "updatedAt": "2025-12-07T15:22:15.721Z"
+    "createdAt": "2025-12-07T16:28:46.032Z",
+    "updatedAt": "2025-12-07T16:28:46.032Z"
   }
 ]
