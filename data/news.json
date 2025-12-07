@@ -1,5 +1,33 @@
 [
   {
+    "id": "f92af8be160bafa4",
+    "title": "Главный тренер махачкалинского «Динамо» подал в отставку после проигрыша",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/9/88/347651156025889.png",
+    "teaser": "Главный тренер махачкалинского «Динамо» подал в отставку после проигрыша",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/693586919a79473e33e2c72d",
+    "publishedAt": "2025-12-07T13:55:50.000Z",
+    "createdAt": "2025-12-07T14:21:48.191Z",
+    "updatedAt": "2025-12-07T14:21:48.191Z"
+  },
+  {
+    "id": "0dd839f2d8d5c224",
+    "title": "Гусев повторил рекорд КХЛ в победном матче «Динамо» с «Трактором»",
+    "sport": "Хоккей",
+    "category": "Хоккей",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/2/57/347651137913572.png",
+    "teaser": "Гусев повторил рекорд КХЛ в победном матче «Динамо» с «Трактором»",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69357f4b9a794714fbd1e8ed",
+    "publishedAt": "2025-12-07T13:37:09.000Z",
+    "createdAt": "2025-12-07T14:21:49.142Z",
+    "updatedAt": "2025-12-07T14:21:49.142Z"
+  },
+  {
     "id": "3b3401813bdbe8b0",
     "title": "«Спартак» проиграл «Авангарду» в матче с 12 шайбами",
     "sport": "Хоккей",
@@ -10,8 +38,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69357c369a794721a2b6cc8a",
     "publishedAt": "2025-12-07T13:24:20.000Z",
-    "createdAt": "2025-12-07T13:29:22.962Z",
-    "updatedAt": "2025-12-07T13:29:22.962Z"
+    "createdAt": "2025-12-07T14:21:51.102Z",
+    "updatedAt": "2025-12-07T14:21:51.102Z"
   },
   {
     "id": "38d75fca1d922e55",
@@ -24,8 +52,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/693569919a79473b250b4a57",
     "publishedAt": "2025-12-07T13:04:07.000Z",
-    "createdAt": "2025-12-07T13:29:26.465Z",
-    "updatedAt": "2025-12-07T13:29:26.465Z"
+    "createdAt": "2025-12-07T14:21:54.041Z",
+    "updatedAt": "2025-12-07T14:21:54.041Z"
   },
   {
     "id": "19d19406a4d53536",
@@ -38,8 +66,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/693571499a79479db8ae1e44",
     "publishedAt": "2025-12-07T12:43:34.000Z",
-    "createdAt": "2025-12-07T13:29:23.896Z",
-    "updatedAt": "2025-12-07T13:29:23.896Z"
+    "createdAt": "2025-12-07T14:21:50.155Z",
+    "updatedAt": "2025-12-07T14:21:50.155Z"
   },
   {
     "id": "d721291f16a19b2b",
@@ -52,8 +80,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/693565299a79470b0914af9a",
     "publishedAt": "2025-12-07T11:38:27.000Z",
-    "createdAt": "2025-12-07T13:29:28.784Z",
-    "updatedAt": "2025-12-07T13:29:28.784Z"
+    "createdAt": "2025-12-07T14:21:56.230Z",
+    "updatedAt": "2025-12-07T14:21:56.230Z"
   },
   {
     "id": "fef8ec72c1938c2f",
@@ -66,22 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/693525939a7947e74be52f07",
     "publishedAt": "2025-12-07T11:35:54.000Z",
-    "createdAt": "2025-12-07T13:29:25.391Z",
-    "updatedAt": "2025-12-07T13:29:25.391Z"
-  },
-  {
-    "id": "d38231f19bdfa6b9",
-    "title": "Большунов проиграл 0,1 секунды Коростелеву на финише масс-старта в Тюмени",
-    "sport": "Другое",
-    "category": "Другие",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/9/44/347651024009449.png",
-    "teaser": "Большунов проиграл 0,1 секунды Коростелеву на финише масс-старта в Тюмени",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69354fd29a794732a467cfc2",
-    "publishedAt": "2025-12-07T10:17:37.000Z",
-    "createdAt": "2025-12-07T13:29:32.232Z",
-    "updatedAt": "2025-12-07T13:29:32.232Z"
+    "createdAt": "2025-12-07T14:21:52.002Z",
+    "updatedAt": "2025-12-07T14:21:52.002Z"
   },
   {
     "id": "98d270bb4289948f",
@@ -94,36 +108,22 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6915b7e99a7947736a1c51c2",
     "publishedAt": "2025-12-07T10:04:04.000Z",
-    "createdAt": "2025-12-07T13:29:29.954Z",
-    "updatedAt": "2025-12-07T13:29:29.954Z"
-  },
-  {
-    "id": "5139d1d40036aac7",
-    "title": "«Амур» прервал шестиматчевую серию поражений в КХЛ победой над СКА",
-    "sport": "Хоккей",
-    "category": "Хоккей",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/2/29/347651007370292.png",
-    "teaser": "«Амур» прервал шестиматчевую серию поражений в КХЛ победой над СКА",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69354cb09a7947a680111aa0",
-    "publishedAt": "2025-12-07T09:54:47.000Z",
-    "createdAt": "2025-12-07T13:29:33.305Z",
-    "updatedAt": "2025-12-07T13:29:33.305Z"
+    "createdAt": "2025-12-07T14:21:55.099Z",
+    "updatedAt": "2025-12-07T14:21:55.099Z"
   },
   {
     "id": "386029cec7bcabbc",
     "title": "«Невероятный Ян». Как россиянин вернул титул чемпиона UFC спустя 4,5 года",
     "sport": "Единоборства",
     "category": "Единоборства",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/7/92/347651129460927.png",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/9/88/347651156025889.png",
     "teaser": "«Невероятный Ян». Как россиянин вернул титул чемпиона UFC спустя 4,5 года",
     "fullContent": "",
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69351d599a79475db0e08d28",
     "publishedAt": "2025-12-07T09:13:51.000Z",
-    "createdAt": "2025-12-07T13:29:27.619Z",
-    "updatedAt": "2025-12-07T13:29:27.619Z"
+    "createdAt": "2025-12-07T14:21:53.084Z",
+    "updatedAt": "2025-12-07T14:21:53.084Z"
   },
   {
     "id": "97802d4789efb049",
@@ -136,7 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/692e97429a7947a056fc790e",
     "publishedAt": "2025-12-07T08:00:19.000Z",
-    "createdAt": "2025-12-07T13:29:31.100Z",
-    "updatedAt": "2025-12-07T13:29:31.100Z"
+    "createdAt": "2025-12-07T14:21:57.250Z",
+    "updatedAt": "2025-12-07T14:21:57.250Z"
   }
 ]
