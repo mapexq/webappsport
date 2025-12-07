@@ -1,17 +1,59 @@
 [
   {
+    "id": "57c356b04e0da61d",
+    "title": "«Краснодар» победил ЦСКА и третий раз подряд завершил год лидером РПЛ",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/8/49/347651306098498.png",
+    "teaser": "«Краснодар» победил ЦСКА и третий раз подряд завершил год лидером РПЛ",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6935b32b9a79477e96fa7c8b",
+    "publishedAt": "2025-12-07T17:59:49.000Z",
+    "createdAt": "2025-12-07T18:33:31.095Z",
+    "updatedAt": "2025-12-07T18:33:31.095Z"
+  },
+  {
+    "id": "8eeecd4339eccc75",
+    "title": "«Балтика» без Талалаева победила «Крылья Советов»",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/8/31/347651302963318.png",
+    "teaser": "«Балтика» без Талалаева победила «Крылья Советов»",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6935aab19a794710bdda4be1",
+    "publishedAt": "2025-12-07T17:56:37.000Z",
+    "createdAt": "2025-12-07T18:33:32.158Z",
+    "updatedAt": "2025-12-07T18:33:32.158Z"
+  },
+  {
+    "id": "1f8e4f149045683f",
+    "title": "Защитник «Краснодара» пожаловался на расистское оскорбление в игре с ЦСКА",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/6/10/347651283219106.png",
+    "teaser": "Защитник «Краснодара» пожаловался на расистское оскорбление в игре с ЦСКА",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6935b86d9a79476d247d3017",
+    "publishedAt": "2025-12-07T17:39:13.000Z",
+    "createdAt": "2025-12-07T18:33:33.153Z",
+    "updatedAt": "2025-12-07T18:33:33.153Z"
+  },
+  {
     "id": "c0341a870cd82128",
     "title": "Решившая выступать за Узбекистан россиянка выиграла турнир WTA 125 в Анже",
     "sport": "Теннис",
     "category": "Теннис",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/4/63/347651188264634.jpeg",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/8/49/347651306098498.png",
     "teaser": "Решившая выступать за Узбекистан россиянка выиграла турнир WTA 125 в Анже",
     "fullContent": "",
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6935a6319a794785b08049ff",
     "publishedAt": "2025-12-07T16:15:43.000Z",
-    "createdAt": "2025-12-07T17:20:00.310Z",
-    "updatedAt": "2025-12-07T17:20:00.310Z"
+    "createdAt": "2025-12-07T18:33:34.143Z",
+    "updatedAt": "2025-12-07T18:33:34.143Z"
   },
   {
     "id": "6b1f3088b737cb24",
@@ -24,8 +66,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/693597b49a7947e5b1b22467",
     "publishedAt": "2025-12-07T15:28:28.000Z",
-    "createdAt": "2025-12-07T17:19:59.207Z",
-    "updatedAt": "2025-12-07T17:19:59.207Z"
+    "createdAt": "2025-12-07T18:33:38.500Z",
+    "updatedAt": "2025-12-07T18:33:38.500Z"
   },
   {
     "id": "981a0b4f8fa0b92f",
@@ -38,8 +80,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/693589d29a79474690e988d3",
     "publishedAt": "2025-12-07T14:30:52.000Z",
-    "createdAt": "2025-12-07T17:19:58.207Z",
-    "updatedAt": "2025-12-07T17:19:58.207Z"
+    "createdAt": "2025-12-07T18:33:35.181Z",
+    "updatedAt": "2025-12-07T18:33:35.181Z"
   },
   {
     "id": "f92af8be160bafa4",
@@ -52,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/693586919a79473e33e2c72d",
     "publishedAt": "2025-12-07T13:55:50.000Z",
-    "createdAt": "2025-12-07T17:20:01.377Z",
-    "updatedAt": "2025-12-07T17:20:01.377Z"
+    "createdAt": "2025-12-07T18:33:39.551Z",
+    "updatedAt": "2025-12-07T18:33:39.551Z"
   },
   {
     "id": "0dd839f2d8d5c224",
@@ -66,36 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69357f4b9a794714fbd1e8ed",
     "publishedAt": "2025-12-07T13:37:09.000Z",
-    "createdAt": "2025-12-07T17:20:05.271Z",
-    "updatedAt": "2025-12-07T17:20:05.271Z"
-  },
-  {
-    "id": "3b3401813bdbe8b0",
-    "title": "«Спартак» проиграл «Авангарду» в матче с 12 шайбами",
-    "sport": "Хоккей",
-    "category": "Хоккей",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/7/92/347651129460927.png",
-    "teaser": "«Спартак» проиграл «Авангарду» в матче с 12 шайбами",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69357c369a794721a2b6cc8a",
-    "publishedAt": "2025-12-07T13:24:20.000Z",
-    "createdAt": "2025-12-07T17:20:08.705Z",
-    "updatedAt": "2025-12-07T17:20:08.705Z"
-  },
-  {
-    "id": "19d19406a4d53536",
-    "title": "Большунов пропустил церемонию награждения после проигрыша на финише",
-    "sport": "Другое",
-    "category": "Другие",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/6/25/347651110709256.png",
-    "teaser": "Большунов пропустил церемонию награждения после проигрыша на финише",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/693571499a79479db8ae1e44",
-    "publishedAt": "2025-12-07T12:43:34.000Z",
-    "createdAt": "2025-12-07T17:20:07.699Z",
-    "updatedAt": "2025-12-07T17:20:07.699Z"
+    "createdAt": "2025-12-07T18:33:40.617Z",
+    "updatedAt": "2025-12-07T18:33:40.617Z"
   },
   {
     "id": "fef8ec72c1938c2f",
@@ -108,35 +122,21 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/693525939a7947e74be52f07",
     "publishedAt": "2025-12-07T11:35:54.000Z",
-    "createdAt": "2025-12-07T17:20:02.652Z",
-    "updatedAt": "2025-12-07T17:20:02.652Z"
-  },
-  {
-    "id": "98d270bb4289948f",
-    "title": "Кто из россиян становился чемпионом UFC",
-    "sport": "Единоборства",
-    "category": "Единоборства",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/8/23/347632844663238.jpeg",
-    "teaser": "Кто из россиян становился чемпионом UFC",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6915b7e99a7947736a1c51c2",
-    "publishedAt": "2025-12-07T10:04:04.000Z",
-    "createdAt": "2025-12-07T17:20:06.630Z",
-    "updatedAt": "2025-12-07T17:20:06.630Z"
+    "createdAt": "2025-12-07T18:33:36.432Z",
+    "updatedAt": "2025-12-07T18:33:36.432Z"
   },
   {
     "id": "386029cec7bcabbc",
     "title": "«Невероятный Ян». Как россиянин вернул титул чемпиона UFC спустя 4,5 года",
     "sport": "Единоборства",
     "category": "Единоборства",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/4/63/347651188264634.jpeg",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/8/49/347651306098498.png",
     "teaser": "«Невероятный Ян». Как россиянин вернул титул чемпиона UFC спустя 4,5 года",
     "fullContent": "",
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69351d599a79475db0e08d28",
     "publishedAt": "2025-12-07T09:13:51.000Z",
-    "createdAt": "2025-12-07T17:20:04.211Z",
-    "updatedAt": "2025-12-07T17:20:04.211Z"
+    "createdAt": "2025-12-07T18:33:37.460Z",
+    "updatedAt": "2025-12-07T18:33:37.460Z"
   }
 ]
