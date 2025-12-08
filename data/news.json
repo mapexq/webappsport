@@ -1,5 +1,19 @@
 [
   {
+    "id": "8d3e3d454109486d",
+    "title": "Рублев получил награду ATP за благотворительность",
+    "sport": "Теннис",
+    "category": "Теннис",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/4/83/347652109520834.png",
+    "teaser": "Рублев получил награду ATP за благотворительность",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6936fac69a79479308ee5f3e",
+    "publishedAt": "2025-12-08T16:34:27.000Z",
+    "createdAt": "2025-12-08T17:25:14.579Z",
+    "updatedAt": "2025-12-08T17:25:14.579Z"
+  },
+  {
     "id": "34df6a1d5214abbe",
     "title": "«Ливерпуль» не взял критиковавшего клуб Салаха на матч Лиги чемпионов",
     "sport": "Футбол",
@@ -10,8 +24,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6936f52a9a7947d7de2b33f1",
     "publishedAt": "2025-12-08T16:19:01.000Z",
-    "createdAt": "2025-12-08T16:34:43.788Z",
-    "updatedAt": "2025-12-08T16:34:43.788Z"
+    "createdAt": "2025-12-08T17:25:13.560Z",
+    "updatedAt": "2025-12-08T17:25:13.560Z"
   },
   {
     "id": "973831a5265003a1",
@@ -24,8 +38,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6936ecd59a79470af944716c",
     "publishedAt": "2025-12-08T15:36:54.000Z",
-    "createdAt": "2025-12-08T16:34:44.801Z",
-    "updatedAt": "2025-12-08T16:34:44.801Z"
+    "createdAt": "2025-12-08T17:25:15.627Z",
+    "updatedAt": "2025-12-08T17:25:15.627Z"
   },
   {
     "id": "46101c9ea171cd64",
@@ -38,8 +52,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6936e2219a79475ac50df426",
     "publishedAt": "2025-12-08T15:07:42.000Z",
-    "createdAt": "2025-12-08T16:34:45.745Z",
-    "updatedAt": "2025-12-08T16:34:45.745Z"
+    "createdAt": "2025-12-08T17:25:16.615Z",
+    "updatedAt": "2025-12-08T17:25:16.615Z"
   },
   {
     "id": "28f2cb3b9a05aa44",
@@ -52,8 +66,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6936e6979a79471aa29368a2",
     "publishedAt": "2025-12-08T15:06:22.000Z",
-    "createdAt": "2025-12-08T16:34:46.752Z",
-    "updatedAt": "2025-12-08T16:34:46.752Z"
+    "createdAt": "2025-12-08T17:25:17.620Z",
+    "updatedAt": "2025-12-08T17:25:17.620Z"
   },
   {
     "id": "c7f55f83e270303e",
@@ -66,8 +80,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6936daeb9a794737961a60d5",
     "publishedAt": "2025-12-08T14:26:18.000Z",
-    "createdAt": "2025-12-08T16:34:49.781Z",
-    "updatedAt": "2025-12-08T16:34:49.781Z"
+    "createdAt": "2025-12-08T17:25:20.689Z",
+    "updatedAt": "2025-12-08T17:25:20.689Z"
   },
   {
     "id": "d9cd9df9a78bbb9e",
@@ -80,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6936d1699a79472bb1e27199",
     "publishedAt": "2025-12-08T13:34:26.000Z",
-    "createdAt": "2025-12-08T16:34:47.756Z",
-    "updatedAt": "2025-12-08T16:34:47.756Z"
+    "createdAt": "2025-12-08T17:25:18.636Z",
+    "updatedAt": "2025-12-08T17:25:18.636Z"
   },
   {
     "id": "3c7f235f14814e3b",
@@ -94,8 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6936ca699a7947cbadf05e50",
     "publishedAt": "2025-12-08T13:08:23.000Z",
-    "createdAt": "2025-12-08T16:34:50.797Z",
-    "updatedAt": "2025-12-08T16:34:50.797Z"
+    "createdAt": "2025-12-08T17:25:21.672Z",
+    "updatedAt": "2025-12-08T17:25:21.672Z"
   },
   {
     "id": "3fea91923ab0b3ed",
@@ -108,8 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6936c2d79a794718cb7f13cf",
     "publishedAt": "2025-12-08T13:00:54.000Z",
-    "createdAt": "2025-12-08T16:34:48.769Z",
-    "updatedAt": "2025-12-08T16:34:48.769Z"
+    "createdAt": "2025-12-08T17:25:19.621Z",
+    "updatedAt": "2025-12-08T17:25:19.621Z"
   },
   {
     "id": "06ec398aa740cdcc",
@@ -122,21 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6936bfb59a7947414d7ca170",
     "publishedAt": "2025-12-08T12:22:31.000Z",
-    "createdAt": "2025-12-08T16:34:51.981Z",
-    "updatedAt": "2025-12-08T16:34:51.981Z"
-  },
-  {
-    "id": "d337b2f752e663a5",
-    "title": "Бойца ММА отправили в СИЗО за отработку ударов на памятнике МЧС",
-    "sport": "Единоборства",
-    "category": "Единоборства",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/3/23/347652094269233.jpeg",
-    "teaser": "Бойца ММА отправили в СИЗО за отработку ударов на памятнике МЧС",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6936acc69a79475ea1e3e117",
-    "publishedAt": "2025-12-08T11:16:43.000Z",
-    "createdAt": "2025-12-08T16:34:52.995Z",
-    "updatedAt": "2025-12-08T16:34:52.995Z"
+    "createdAt": "2025-12-08T17:25:22.730Z",
+    "updatedAt": "2025-12-08T17:25:22.730Z"
   }
 ]
