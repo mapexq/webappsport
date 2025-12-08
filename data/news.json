@@ -1,5 +1,33 @@
 [
   {
+    "id": "3c7f235f14814e3b",
+    "title": "Российская теннисистка объяснила амбициями переход под флаг Узбекистана",
+    "sport": "Теннис",
+    "category": "Теннис",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/6/83/347651988428836.jpeg",
+    "teaser": "Российская теннисистка объяснила амбициями переход под флаг Узбекистана",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6936ca699a7947cbadf05e50",
+    "publishedAt": "2025-12-08T13:08:23.000Z",
+    "createdAt": "2025-12-08T13:38:39.296Z",
+    "updatedAt": "2025-12-08T13:38:39.296Z"
+  },
+  {
+    "id": "3fea91923ab0b3ed",
+    "title": "В Испании 17-летний чемпион по мотокроссу погиб во время тренировки",
+    "sport": "Другое",
+    "category": "Другие",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/1/17/347651965644171.png",
+    "teaser": "В Испании 17-летний чемпион по мотокроссу погиб во время тренировки",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6936c2d79a794718cb7f13cf",
+    "publishedAt": "2025-12-08T13:00:54.000Z",
+    "createdAt": "2025-12-08T13:38:37.623Z",
+    "updatedAt": "2025-12-08T13:38:37.623Z"
+  },
+  {
     "id": "06ec398aa740cdcc",
     "title": "Финалист Кубка Гагарина остался без второго тренера за месяц",
     "sport": "Хоккей",
@@ -10,8 +38,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6936bfb59a7947414d7ca170",
     "publishedAt": "2025-12-08T12:22:31.000Z",
-    "createdAt": "2025-12-08T12:54:26.854Z",
-    "updatedAt": "2025-12-08T12:54:26.854Z"
+    "createdAt": "2025-12-08T13:38:40.433Z",
+    "updatedAt": "2025-12-08T13:38:40.433Z"
   },
   {
     "id": "02b3afee17ca9b2c",
@@ -24,22 +52,22 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6936b3929a79471863143bcc",
     "publishedAt": "2025-12-08T11:51:06.000Z",
-    "createdAt": "2025-12-08T12:54:30.269Z",
-    "updatedAt": "2025-12-08T12:54:30.269Z"
+    "createdAt": "2025-12-08T13:38:42.861Z",
+    "updatedAt": "2025-12-08T13:38:42.861Z"
   },
   {
     "id": "d337b2f752e663a5",
     "title": "Бойца ММА отправили в СИЗО за отработку ударов на памятнике МЧС",
     "sport": "Единоборства",
     "category": "Единоборства",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/7/94/347651962118947.png",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/1/17/347651965644171.png",
     "teaser": "Бойца ММА отправили в СИЗО за отработку ударов на памятнике МЧС",
     "fullContent": "",
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6936acc69a79475ea1e3e117",
     "publishedAt": "2025-12-08T11:16:43.000Z",
-    "createdAt": "2025-12-08T12:54:27.965Z",
-    "updatedAt": "2025-12-08T12:54:27.965Z"
+    "createdAt": "2025-12-08T13:38:41.732Z",
+    "updatedAt": "2025-12-08T13:38:41.732Z"
   },
   {
     "id": "fa9bfdd3dabc2ebc",
@@ -52,8 +80,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6936a3e99a79473546493596",
     "publishedAt": "2025-12-08T10:29:19.000Z",
-    "createdAt": "2025-12-08T12:54:29.218Z",
-    "updatedAt": "2025-12-08T12:54:29.218Z"
+    "createdAt": "2025-12-08T13:38:44.079Z",
+    "updatedAt": "2025-12-08T13:38:44.079Z"
   },
   {
     "id": "8f2854a571b6c9e0",
@@ -66,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69369dd49a79473bc0c2b27c",
     "publishedAt": "2025-12-08T10:03:18.000Z",
-    "createdAt": "2025-12-08T12:54:31.371Z",
-    "updatedAt": "2025-12-08T12:54:31.371Z"
+    "createdAt": "2025-12-08T13:38:46.319Z",
+    "updatedAt": "2025-12-08T13:38:46.319Z"
   },
   {
     "id": "922929e825dd5ae7",
@@ -80,8 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/693698999a79478dc7322fcc",
     "publishedAt": "2025-12-08T09:45:58.000Z",
-    "createdAt": "2025-12-08T12:54:32.268Z",
-    "updatedAt": "2025-12-08T12:54:32.268Z"
+    "createdAt": "2025-12-08T13:38:45.193Z",
+    "updatedAt": "2025-12-08T13:38:45.193Z"
   },
   {
     "id": "8c80ec1a3f8ed82b",
@@ -94,8 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6936954f9a794723d151611f",
     "publishedAt": "2025-12-08T09:22:24.000Z",
-    "createdAt": "2025-12-08T12:54:33.316Z",
-    "updatedAt": "2025-12-08T12:54:33.316Z"
+    "createdAt": "2025-12-08T13:38:47.462Z",
+    "updatedAt": "2025-12-08T13:38:47.462Z"
   },
   {
     "id": "cc4c12647d053ff4",
@@ -108,35 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6936796e9a7947442c0b85e6",
     "publishedAt": "2025-12-08T09:16:41.000Z",
-    "createdAt": "2025-12-08T12:54:34.214Z",
-    "updatedAt": "2025-12-08T12:54:34.214Z"
-  },
-  {
-    "id": "1bbf7bd5d8a631b2",
-    "title": "Овечкин вошел в топ-9 по победам в НХЛ",
-    "sport": "Хоккей",
-    "category": "Хоккей",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/0/91/347651748279910.jpeg",
-    "teaser": "Овечкин вошел в топ-9 по победам в НХЛ",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69366d8b9a7947977466c4de",
-    "publishedAt": "2025-12-08T07:07:14.000Z",
-    "createdAt": "2025-12-08T12:54:35.439Z",
-    "updatedAt": "2025-12-08T12:54:35.439Z"
-  },
-  {
-    "id": "d2591487763c4908",
-    "title": "Овечкин впервые за месяц не смог набрать очки в двух играх подряд",
-    "sport": "Хоккей",
-    "category": "Хоккей",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/0/17/347651762624170.jpeg",
-    "teaser": "Овечкин впервые за месяц не смог набрать очки в двух играх подряд",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/693672bc9a79474682afec43",
-    "publishedAt": "2025-12-08T07:05:22.000Z",
-    "createdAt": "2025-12-08T12:54:36.579Z",
-    "updatedAt": "2025-12-08T12:54:36.579Z"
+    "createdAt": "2025-12-08T13:38:48.548Z",
+    "updatedAt": "2025-12-08T13:38:48.548Z"
   }
 ]
