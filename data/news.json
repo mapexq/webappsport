@@ -1,5 +1,47 @@
 [
   {
+    "id": "1bbf7bd5d8a631b2",
+    "title": "Овечкин вошел в топ-9 по победам в НХЛ",
+    "sport": "Хоккей",
+    "category": "Хоккей",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/0/91/347651748279910.jpeg",
+    "teaser": "Овечкин вошел в топ-9 по победам в НХЛ",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69366d8b9a7947977466c4de",
+    "publishedAt": "2025-12-08T07:07:14.000Z",
+    "createdAt": "2025-12-08T09:34:32.840Z",
+    "updatedAt": "2025-12-08T09:34:32.840Z"
+  },
+  {
+    "id": "d2591487763c4908",
+    "title": "Овечкин впервые за месяц не смог набрать очки в двух играх подряд",
+    "sport": "Хоккей",
+    "category": "Хоккей",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/0/17/347651762624170.jpeg",
+    "teaser": "Овечкин впервые за месяц не смог набрать очки в двух играх подряд",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/693672bc9a79474682afec43",
+    "publishedAt": "2025-12-08T07:05:22.000Z",
+    "createdAt": "2025-12-08T09:34:33.696Z",
+    "updatedAt": "2025-12-08T09:34:33.696Z"
+  },
+  {
+    "id": "9618c5a1b60ab22c",
+    "title": "Клуб КХЛ объявил о назначении тренера после увольнения отца звезды",
+    "sport": "Хоккей",
+    "category": "Хоккей",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/4/37/347651735552374.jpeg",
+    "teaser": "Клуб КХЛ объявил о назначении тренера после увольнения отца звезды",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/693668d19a7947de4bd4a6d4",
+    "publishedAt": "2025-12-08T06:39:37.000Z",
+    "createdAt": "2025-12-08T09:34:34.848Z",
+    "updatedAt": "2025-12-08T09:34:34.848Z"
+  },
+  {
     "id": "56617638eedc4500",
     "title": "Ферстаппен фразой «не так уж и плохо» оценил второе место в «Формуле-1»",
     "sport": "Другое",
@@ -10,8 +52,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6935caad9a79473625e59ab0",
     "publishedAt": "2025-12-07T18:59:33.000Z",
-    "createdAt": "2025-12-08T08:38:14.934Z",
-    "updatedAt": "2025-12-08T08:38:14.934Z"
+    "createdAt": "2025-12-08T09:34:36.907Z",
+    "updatedAt": "2025-12-08T09:34:36.907Z"
   },
   {
     "id": "57c356b04e0da61d",
@@ -24,8 +66,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6935b32b9a79477e96fa7c8b",
     "publishedAt": "2025-12-07T17:59:49.000Z",
-    "createdAt": "2025-12-08T08:38:13.864Z",
-    "updatedAt": "2025-12-08T08:38:13.864Z"
+    "createdAt": "2025-12-08T09:34:35.884Z",
+    "updatedAt": "2025-12-08T09:34:35.884Z"
   },
   {
     "id": "8eeecd4339eccc75",
@@ -38,8 +80,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6935aab19a794710bdda4be1",
     "publishedAt": "2025-12-07T17:56:37.000Z",
-    "createdAt": "2025-12-08T08:38:15.944Z",
-    "updatedAt": "2025-12-08T08:38:15.944Z"
+    "createdAt": "2025-12-08T09:34:37.980Z",
+    "updatedAt": "2025-12-08T09:34:37.980Z"
   },
   {
     "id": "1f8e4f149045683f",
@@ -52,64 +94,22 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6935b86d9a79476d247d3017",
     "publishedAt": "2025-12-07T17:39:13.000Z",
-    "createdAt": "2025-12-08T08:38:16.937Z",
-    "updatedAt": "2025-12-08T08:38:16.937Z"
+    "createdAt": "2025-12-08T09:34:38.995Z",
+    "updatedAt": "2025-12-08T09:34:38.995Z"
   },
   {
     "id": "c0341a870cd82128",
     "title": "Решившая выступать за Узбекистан россиянка выиграла турнир WTA 125 в Анже",
     "sport": "Теннис",
     "category": "Теннис",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/8/49/347651306098498.png",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/0/91/347651748279910.jpeg",
     "teaser": "Решившая выступать за Узбекистан россиянка выиграла турнир WTA 125 в Анже",
     "fullContent": "",
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6935a6319a794785b08049ff",
     "publishedAt": "2025-12-07T16:15:43.000Z",
-    "createdAt": "2025-12-08T08:38:17.928Z",
-    "updatedAt": "2025-12-08T08:38:17.928Z"
-  },
-  {
-    "id": "6b1f3088b737cb24",
-    "title": "«Локомотив» крупно обыграл аутсайдера РПЛ",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/7/41/347651200793417.png",
-    "teaser": "«Локомотив» крупно обыграл аутсайдера РПЛ",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/693597b49a7947e5b1b22467",
-    "publishedAt": "2025-12-07T15:28:28.000Z",
-    "createdAt": "2025-12-08T08:38:22.080Z",
-    "updatedAt": "2025-12-08T08:38:22.080Z"
-  },
-  {
-    "id": "981a0b4f8fa0b92f",
-    "title": "В «Формуле-1» впервые с 2021 года появился новый чемпион",
-    "sport": "Другое",
-    "category": "Формула-1",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/4/63/347651188264634.jpeg",
-    "teaser": "В «Формуле-1» впервые с 2021 года появился новый чемпион",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/693589d29a79474690e988d3",
-    "publishedAt": "2025-12-07T14:30:52.000Z",
-    "createdAt": "2025-12-08T08:38:21.078Z",
-    "updatedAt": "2025-12-08T08:38:21.078Z"
-  },
-  {
-    "id": "f92af8be160bafa4",
-    "title": "Главный тренер махачкалинского «Динамо» подал в отставку после проигрыша",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/9/88/347651156025889.png",
-    "teaser": "Главный тренер махачкалинского «Динамо» подал в отставку после проигрыша",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/693586919a79473e33e2c72d",
-    "publishedAt": "2025-12-07T13:55:50.000Z",
-    "createdAt": "2025-12-08T08:38:23.096Z",
-    "updatedAt": "2025-12-08T08:38:23.096Z"
+    "createdAt": "2025-12-08T09:34:40.018Z",
+    "updatedAt": "2025-12-08T09:34:40.018Z"
   },
   {
     "id": "fef8ec72c1938c2f",
@@ -122,21 +122,21 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/693525939a7947e74be52f07",
     "publishedAt": "2025-12-07T11:35:54.000Z",
-    "createdAt": "2025-12-08T08:38:19.067Z",
-    "updatedAt": "2025-12-08T08:38:19.067Z"
+    "createdAt": "2025-12-08T09:34:40.986Z",
+    "updatedAt": "2025-12-08T09:34:40.986Z"
   },
   {
     "id": "386029cec7bcabbc",
     "title": "«Невероятный Ян». Как россиянин вернул титул чемпиона UFC спустя 4,5 года",
     "sport": "Единоборства",
     "category": "Единоборства",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/8/49/347651306098498.png",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/0/91/347651748279910.jpeg",
     "teaser": "«Невероятный Ян». Как россиянин вернул титул чемпиона UFC спустя 4,5 года",
     "fullContent": "",
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69351d599a79475db0e08d28",
     "publishedAt": "2025-12-07T09:13:51.000Z",
-    "createdAt": "2025-12-08T08:38:20.091Z",
-    "updatedAt": "2025-12-08T08:38:20.091Z"
+    "createdAt": "2025-12-08T09:34:42.056Z",
+    "updatedAt": "2025-12-08T09:34:42.056Z"
   }
 ]
