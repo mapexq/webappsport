@@ -218,6 +218,93 @@ export class RbcNewsScraper {
   }
 
   /**
+   * Получает изображение с детальной страницы новости
+   */
+  async fetchImageFromDetailPage(url) {
+    try {
+      // Добавляем небольшую задержку, чтобы не выглядеть как бот
+      await new Promise(resolve => setTimeout(resolve, 500));
+      
+      const response = await axios.get(url, {
+        headers: {
+          'User-Agent': this.getRandomUserAgent(),
+          'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8',
+          'Accept-Language': 'ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7',
+          'Accept-Encoding': 'gzip, deflate, br',
+          'Referer': 'https://sportrbc.ru/',
+        },
+        timeout: 10000,
+        maxRedirects: 5,
+      });
+
+      if (response.status !== 200) {
+        return null;
+      }
+
+      const $ = cheerio.load(response.data);
+      
+      // Ищем изображение в разных местах на детальной странице
+      const imageSelectors = [
+        '.article__image img',
+        '.article-image img',
+        '.news-image img',
+        'article img',
+        '.content img',
+        'main img',
+        'img[class*="article"]',
+        'img[class*="news"]',
+        '.item__image img',
+        'picture img'
+      ];
+
+      for (const selector of imageSelectors) {
+        const $img = $(selector).first();
+        if ($img.length > 0) {
+          let src = $img.attr('src') || 
+                    $img.attr('data-src') || 
+                    $img.attr('data-lazy-src') ||
+                    $img.attr('data-original');
+          
+          if (src) {
+            src = src.split('?')[0].split(' ')[0].trim();
+            
+            // Пропускаем placeholder изображения
+            if (src.includes('placeholder') || src.includes('default') || 
+                src.includes('no-image') || src.includes('spacer')) {
+              continue;
+            }
+            
+            // Нормализуем URL
+            if (src.startsWith('//')) {
+              src = 'https:' + src;
+            } else if (src.startsWith('/')) {
+              src = this.baseUrl + src;
+            } else if (!src.startsWith('http')) {
+              continue;
+            }
+            
+            // Проверяем, что это валидный URL изображения
+            if (src.match(/\.(jpg|jpeg|png|gif|webp|svg|bmp|avif)(\?|$)/i) || 
+                src.includes('/image') || 
+                src.includes('/photo') ||
+                src.includes('/img') ||
+                src.includes('/media') ||
+                src.includes('/pics') ||
+                src.includes('rbc.ru')) {
+              return src;
+            }
+          }
+        }
+      }
+      
+      return null;
+    } catch (error) {
+      console.error(`Ошибка при получении изображения с детальной страницы ${url}:`, error.message);
+      return null;
+    }
+  }
+
+  /**
    * Получает полный контент новости (опционально)
    */
   async fetchFullContent(url) {
@@ -436,6 +523,27 @@ export class RbcNewsScraper {
                 }
               }
             }
+          }
+        }
+        
+        // Если все еще не нашли изображение, пытаемся получить его с детальной страницы новости
+        // Это последний резервный вариант для новостей из ленты, у которых нет изображений на главной
+        if (!imageUrl && url) {
+          try {
+            console.log(`Попытка получить изображение с детальной страницы: ${url}`);
+            const detailImage = await this.fetchImageFromDetailPage(url);
+            if (detailImage) {
+              // Проверяем уникальность
+              const isDuplicate = news.some(n => n.imageUrl === detailImage);
+              if (!isDuplicate) {
+                imageUrl = detailImage;
+                console.log(`✅ Изображение получено с детальной страницы: ${imageUrl}`);
+              } else {
+                console.log(`⚠️ Изображение с детальной страницы уже используется другой новостью`);
+              }
+            }
+          } catch (error) {
+            console.warn(`Не удалось получить изображение с детальной страницы: ${error.message}`);
           }
         }
         
