@@ -380,27 +380,9 @@ export class RbcNewsScraper {
         // Извлекаем данные
         const title = this.extractTitle($el, $link, $);
         
-        // Улучшенное извлечение изображения - ищем в более широком контексте
+        // Извлекаем изображение ТОЛЬКО из контейнера новости
+        // Убрали поиск в родительских и соседних элементах, чтобы избежать дублирования обложек
         let imageUrl = this.extractImage($el, $);
-        
-        // Если не нашли в контейнере, ищем в родительских элементах (для первой новости)
-        if (!imageUrl) {
-          let $parent = $el.parent();
-          for (let j = 0; j < 3 && $parent.length > 0; j++) {
-            imageUrl = this.extractImage($parent, $);
-            if (imageUrl) break;
-            $parent = $parent.parent();
-          }
-        }
-        
-        // Если все еще не нашли, ищем в соседних элементах
-        if (!imageUrl) {
-          const $siblings = $el.siblings();
-          for (let j = 0; j < $siblings.length && j < 5; j++) {
-            imageUrl = this.extractImage($($siblings[j]), $);
-            if (imageUrl) break;
-          }
-        }
         
         const category = this.extractCategoryFromElement($el, $);
         const sport = this.normalizeSport(category);
@@ -702,57 +684,94 @@ export class RbcNewsScraper {
     // Ищем все изображения в контейнере
     const $images = $el.find('img');
     
+    // Собираем все возможные изображения с приоритетами
+    const candidates = [];
+    
     for (let i = 0; i < $images.length; i++) {
       const $img = $($images[i]);
       
-      // Пропускаем маленькие изображения (иконки, аватары)
-      const width = parseInt($img.attr('width')) || 0;
-      const height = parseInt($img.attr('height')) || 0;
-      if (width > 0 && width < 100) continue;
-      if (height > 0 && height < 100) continue;
-      
-      // Пропускаем изображения с подозрительными классами
-      const imgClass = $img.attr('class') || '';
-      if (imgClass.includes('icon') || imgClass.includes('avatar') || imgClass.includes('logo')) {
+      // Пропускаем изображения с подозрительными классами (иконки, аватары, логотипы)
+      const imgClass = ($img.attr('class') || '').toLowerCase();
+      if (imgClass.includes('icon') || imgClass.includes('avatar') || imgClass.includes('logo') || 
+          imgClass.includes('emoji') || imgClass.includes('badge')) {
         continue;
       }
       
-      // Пробуем разные атрибуты
+      // Пробуем разные атрибуты для src (расширенный список)
       let src = $img.attr('src') || 
                 $img.attr('data-src') || 
                 $img.attr('data-lazy-src') ||
                 $img.attr('data-original') ||
                 $img.attr('data-url') ||
+                $img.attr('data-image') ||
+                $img.attr('data-image-src') ||
+                $img.attr('data-lazy') ||
                 $img.attr('srcset')?.split(' ')[0];
       
-      if (src) {
-        // Убираем параметры размеров если есть
-        src = src.split('?')[0].split(' ')[0];
-        
-        // Пропускаем placeholder изображения
-        if (src.includes('placeholder') || src.includes('default') || src.includes('no-image')) {
-          continue;
-        }
-        
-        // Нормализуем URL
-        if (src.startsWith('//')) {
-          src = 'https:' + src;
-        } else if (src.startsWith('/')) {
-          src = this.baseUrl + src;
-        } else if (!src.startsWith('http')) {
-          continue; // Пропускаем относительные пути без /
-        }
-        
-        // Проверяем, что это валидный URL изображения (расширение не обязательно)
-        // Многие CDN используют URL без расширения
-        if (src.match(/\.(jpg|jpeg|png|gif|webp|svg|bmp)(\?|$)/i) || 
-            src.includes('image') || 
-            src.includes('photo') ||
-            src.includes('img') ||
-            src.match(/\/\d+\/\d+\//)) { // Паттерн типа /123/456/ для изображений
-          return src;
-        }
+      if (!src) continue;
+      
+      // Убираем параметры размеров если есть
+      src = src.split('?')[0].split(' ')[0].trim();
+      
+      // Пропускаем placeholder изображения
+      if (src.includes('placeholder') || src.includes('default') || 
+          src.includes('no-image') || src.includes('spacer') || 
+          src.includes('blank') || src.includes('1x1')) {
+        continue;
       }
+      
+      // Нормализуем URL
+      if (src.startsWith('//')) {
+        src = 'https:' + src;
+      } else if (src.startsWith('/')) {
+        src = this.baseUrl + src;
+      } else if (!src.startsWith('http')) {
+        // Пропускаем относительные пути без / (например, "image.jpg")
+        continue;
+      }
+      
+      // Проверяем размер изображения (если указан)
+      const width = parseInt($img.attr('width')) || 0;
+      const height = parseInt($img.attr('height')) || 0;
+      
+      // Приоритет: большие изображения важнее
+      let priority = 1;
+      
+      // Если размер указан и маленький - понижаем приоритет, но не исключаем полностью
+      if (width > 0 && width < 100) priority = 0.5;
+      if (height > 0 && height < 100) priority = 0.5;
+      
+      // Проверяем, что это похоже на URL изображения
+      // Более мягкая проверка - принимаем любые URL с расширениями изображений
+      // или URL с типичными путями для изображений
+      const isImageUrl = src.match(/\.(jpg|jpeg|png|gif|webp|svg|bmp|avif)(\?|$)/i) || 
+                         src.includes('/image') || 
+                         src.includes('/photo') ||
+                         src.includes('/img') ||
+                         src.includes('/media') ||
+                         src.includes('/pics') ||
+                         src.includes('/picture') ||
+                         src.match(/\/\d+\/\d+\//) || // Паттерн типа /123/456/
+                         src.match(/\/v\d+\//) || // Паттерн типа /v6/
+                         src.includes('rbc.ru'); // Доверяем домену rbc.ru
+      
+      if (isImageUrl) {
+        candidates.push({ src, priority, width, height });
+      }
+    }
+    
+    // Сортируем кандидатов по приоритету и размеру
+    if (candidates.length > 0) {
+      candidates.sort((a, b) => {
+        // Сначала по приоритету
+        if (a.priority !== b.priority) return b.priority - a.priority;
+        // Затем по размеру (больше = лучше)
+        const aSize = a.width * a.height;
+        const bSize = b.width * b.height;
+        return bSize - aSize;
+      });
+      
+      return candidates[0].src;
     }
     
     // Если не нашли img, ищем background-image
@@ -761,12 +780,26 @@ export class RbcNewsScraper {
       const style = $withBg.attr('style') || '';
       const bgMatch = style.match(/url\(['"]?([^'")]+)['"]?\)/);
       if (bgMatch && bgMatch[1]) {
-        let bgSrc = bgMatch[1];
+        let bgSrc = bgMatch[1].trim();
         if (bgSrc.startsWith('//')) {
           bgSrc = 'https:' + bgSrc;
         } else if (bgSrc.startsWith('/')) {
           bgSrc = this.baseUrl + bgSrc;
+        } else if (bgSrc.startsWith('http')) {
+          return bgSrc;
         }
+      }
+    }
+    
+    // Также проверяем data-атрибуты контейнера для background-image
+    const bgDataSrc = $el.attr('data-bg') || $el.attr('data-background') || $el.attr('data-image');
+    if (bgDataSrc) {
+      let bgSrc = bgDataSrc.trim();
+      if (bgSrc.startsWith('//')) {
+        bgSrc = 'https:' + bgSrc;
+      } else if (bgSrc.startsWith('/')) {
+        bgSrc = this.baseUrl + bgSrc;
+      } else if (bgSrc.startsWith('http')) {
         return bgSrc;
       }
     }
