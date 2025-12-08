@@ -1,5 +1,61 @@
 [
   {
+    "id": "8f2854a571b6c9e0",
+    "title": "Один из лидеров Первой лиги объявил об уходе главного тренера",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/4/98/347651872942984.png",
+    "teaser": "Один из лидеров Первой лиги объявил об уходе главного тренера",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69369dd49a79473bc0c2b27c",
+    "publishedAt": "2025-12-08T10:03:18.000Z",
+    "createdAt": "2025-12-08T10:30:14.953Z",
+    "updatedAt": "2025-12-08T10:30:14.953Z"
+  },
+  {
+    "id": "922929e825dd5ae7",
+    "title": "Два хоккеиста «Динамо» попали в число лучших игроков недели в КХЛ",
+    "sport": "Хоккей",
+    "category": "Хоккей",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/2/51/347651863862512.png",
+    "teaser": "Два хоккеиста «Динамо» попали в число лучших игроков недели в КХЛ",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/693698999a79478dc7322fcc",
+    "publishedAt": "2025-12-08T09:45:58.000Z",
+    "createdAt": "2025-12-08T10:30:15.987Z",
+    "updatedAt": "2025-12-08T10:30:15.987Z"
+  },
+  {
+    "id": "8c80ec1a3f8ed82b",
+    "title": "Суперкомпьютер назвал двух главных претендентов на чемпионство в РПЛ",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/6/74/347651849486746.png",
+    "teaser": "Суперкомпьютер назвал двух главных претендентов на чемпионство в РПЛ",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6936954f9a794723d151611f",
+    "publishedAt": "2025-12-08T09:22:24.000Z",
+    "createdAt": "2025-12-08T10:30:17.049Z",
+    "updatedAt": "2025-12-08T10:30:17.049Z"
+  },
+  {
+    "id": "cc4c12647d053ff4",
+    "title": "«Реал» обвинил судей в историческом поражении",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/5/12/347651779693125.jpeg",
+    "teaser": "«Реал» обвинил судей в историческом поражении",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6936796e9a7947442c0b85e6",
+    "publishedAt": "2025-12-08T09:16:41.000Z",
+    "createdAt": "2025-12-08T10:30:18.036Z",
+    "updatedAt": "2025-12-08T10:30:18.036Z"
+  },
+  {
     "id": "1bbf7bd5d8a631b2",
     "title": "Овечкин вошел в топ-9 по победам в НХЛ",
     "sport": "Хоккей",
@@ -10,8 +66,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69366d8b9a7947977466c4de",
     "publishedAt": "2025-12-08T07:07:14.000Z",
-    "createdAt": "2025-12-08T09:34:32.840Z",
-    "updatedAt": "2025-12-08T09:34:32.840Z"
+    "createdAt": "2025-12-08T10:30:19.042Z",
+    "updatedAt": "2025-12-08T10:30:19.042Z"
   },
   {
     "id": "d2591487763c4908",
@@ -24,8 +80,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/693672bc9a79474682afec43",
     "publishedAt": "2025-12-08T07:05:22.000Z",
-    "createdAt": "2025-12-08T09:34:33.696Z",
-    "updatedAt": "2025-12-08T09:34:33.696Z"
+    "createdAt": "2025-12-08T10:30:20.028Z",
+    "updatedAt": "2025-12-08T10:30:20.028Z"
   },
   {
     "id": "9618c5a1b60ab22c",
@@ -38,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/693668d19a7947de4bd4a6d4",
     "publishedAt": "2025-12-08T06:39:37.000Z",
-    "createdAt": "2025-12-08T09:34:34.848Z",
-    "updatedAt": "2025-12-08T09:34:34.848Z"
+    "createdAt": "2025-12-08T10:30:20.977Z",
+    "updatedAt": "2025-12-08T10:30:20.977Z"
   },
   {
     "id": "56617638eedc4500",
@@ -52,8 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6935caad9a79473625e59ab0",
     "publishedAt": "2025-12-07T18:59:33.000Z",
-    "createdAt": "2025-12-08T09:34:36.907Z",
-    "updatedAt": "2025-12-08T09:34:36.907Z"
+    "createdAt": "2025-12-08T10:30:23.058Z",
+    "updatedAt": "2025-12-08T10:30:23.058Z"
   },
   {
     "id": "57c356b04e0da61d",
@@ -66,8 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6935b32b9a79477e96fa7c8b",
     "publishedAt": "2025-12-07T17:59:49.000Z",
-    "createdAt": "2025-12-08T09:34:35.884Z",
-    "updatedAt": "2025-12-08T09:34:35.884Z"
+    "createdAt": "2025-12-08T10:30:22.017Z",
+    "updatedAt": "2025-12-08T10:30:22.017Z"
   },
   {
     "id": "8eeecd4339eccc75",
@@ -80,63 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6935aab19a794710bdda4be1",
     "publishedAt": "2025-12-07T17:56:37.000Z",
-    "createdAt": "2025-12-08T09:34:37.980Z",
-    "updatedAt": "2025-12-08T09:34:37.980Z"
-  },
-  {
-    "id": "1f8e4f149045683f",
-    "title": "Защитник «Краснодара» пожаловался на расистское оскорбление в игре с ЦСКА",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/6/10/347651283219106.png",
-    "teaser": "Защитник «Краснодара» пожаловался на расистское оскорбление в игре с ЦСКА",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6935b86d9a79476d247d3017",
-    "publishedAt": "2025-12-07T17:39:13.000Z",
-    "createdAt": "2025-12-08T09:34:38.995Z",
-    "updatedAt": "2025-12-08T09:34:38.995Z"
-  },
-  {
-    "id": "c0341a870cd82128",
-    "title": "Решившая выступать за Узбекистан россиянка выиграла турнир WTA 125 в Анже",
-    "sport": "Теннис",
-    "category": "Теннис",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/0/91/347651748279910.jpeg",
-    "teaser": "Решившая выступать за Узбекистан россиянка выиграла турнир WTA 125 в Анже",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6935a6319a794785b08049ff",
-    "publishedAt": "2025-12-07T16:15:43.000Z",
-    "createdAt": "2025-12-08T09:34:40.018Z",
-    "updatedAt": "2025-12-08T09:34:40.018Z"
-  },
-  {
-    "id": "fef8ec72c1938c2f",
-    "title": "«Это жесть». Реакция звезд ММА на победу россиянина над лучшим бойцом UFС",
-    "sport": "Единоборства",
-    "category": "Единоборства",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/7/22/347650926468227.jpeg",
-    "teaser": "«Это жесть». Реакция звезд ММА на победу россиянина над лучшим бойцом UFС",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/693525939a7947e74be52f07",
-    "publishedAt": "2025-12-07T11:35:54.000Z",
-    "createdAt": "2025-12-08T09:34:40.986Z",
-    "updatedAt": "2025-12-08T09:34:40.986Z"
-  },
-  {
-    "id": "386029cec7bcabbc",
-    "title": "«Невероятный Ян». Как россиянин вернул титул чемпиона UFC спустя 4,5 года",
-    "sport": "Единоборства",
-    "category": "Единоборства",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/0/91/347651748279910.jpeg",
-    "teaser": "«Невероятный Ян». Как россиянин вернул титул чемпиона UFC спустя 4,5 года",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69351d599a79475db0e08d28",
-    "publishedAt": "2025-12-07T09:13:51.000Z",
-    "createdAt": "2025-12-08T09:34:42.056Z",
-    "updatedAt": "2025-12-08T09:34:42.056Z"
+    "createdAt": "2025-12-08T10:30:24.152Z",
+    "updatedAt": "2025-12-08T10:30:24.152Z"
   }
 ]
