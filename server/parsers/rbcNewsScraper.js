@@ -415,6 +415,30 @@ export class RbcNewsScraper {
           }
         }
         
+        // Если все еще не нашли, ищем в основном блоке новостей по data-id
+        // Для новостей из ленты (news-feed) изображения находятся в основном блоке выше
+        if (!imageUrl) {
+          // Извлекаем ID новости из URL (например, из /news/693187f29a794740d6860861 извлекаем 693187f29a794740d6860861)
+          const newsIdMatch = url.match(/\/news\/([^\/\?]+)/);
+          if (newsIdMatch && newsIdMatch[1]) {
+            const newsId = newsIdMatch[1];
+            
+            // Ищем элемент с data-id, соответствующий этой новости
+            const $newsItem = $(`.js-rm-central-column-item[data-id="${newsId}"]`);
+            if ($newsItem.length > 0) {
+              imageUrl = this.extractImage($newsItem, $);
+              
+              // Проверяем уникальность
+              if (imageUrl) {
+                const isDuplicate = news.some(n => n.imageUrl === imageUrl);
+                if (isDuplicate) {
+                  imageUrl = null;
+                }
+              }
+            }
+          }
+        }
+        
         const category = this.extractCategoryFromElement($el, $);
         const sport = this.normalizeSport(category);
         
