@@ -380,9 +380,40 @@ export class RbcNewsScraper {
         // Извлекаем данные
         const title = this.extractTitle($el, $link, $);
         
-        // Извлекаем изображение ТОЛЬКО из контейнера новости
-        // Убрали поиск в родительских и соседних элементах, чтобы избежать дублирования обложек
+        // Извлекаем изображение из контейнера новости
         let imageUrl = this.extractImage($el, $);
+        
+        // Если не нашли в контейнере, ищем в родительском элементе
+        // но только в ближайшем родителе, который содержит ссылку на эту новость
+        if (!imageUrl) {
+          // Находим ближайший родитель, который содержит ссылку на эту новость
+          let $parent = $el.parent();
+          let $parentWithLink = null;
+          
+          // Ищем родителя, который содержит ссылку на эту новость (максимум 2 уровня вверх)
+          for (let j = 0; j < 2 && $parent.length > 0; j++) {
+            // Проверяем, содержит ли родитель ссылку на эту новость
+            const $linkInParent = $parent.find(`a[href="${url}"]`);
+            if ($linkInParent.length > 0) {
+              $parentWithLink = $parent;
+              break;
+            }
+            $parent = $parent.parent();
+          }
+          
+          // Если нашли родителя с ссылкой, ищем изображение только в нем
+          if ($parentWithLink && $parentWithLink.length > 0) {
+            imageUrl = this.extractImage($parentWithLink, $);
+            
+            // Проверяем уникальность - не используется ли это изображение другими новостями
+            if (imageUrl) {
+              const isDuplicate = news.some(n => n.imageUrl === imageUrl);
+              if (isDuplicate) {
+                imageUrl = null;
+              }
+            }
+          }
+        }
         
         const category = this.extractCategoryFromElement($el, $);
         const sport = this.normalizeSport(category);
