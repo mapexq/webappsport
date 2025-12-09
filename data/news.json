@@ -1,5 +1,47 @@
 [
   {
+    "id": "c1cf4d80fbedfce9",
+    "title": "Малкин выбыл на несколько недель из-за травмы",
+    "sport": "Хоккей",
+    "category": "Хоккей",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/9/89/347652929072899.jpeg",
+    "teaser": "Малкин выбыл на несколько недель из-за травмы",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69383b329a79477ef4f1c878",
+    "publishedAt": "2025-12-09T15:25:59.000Z",
+    "createdAt": "2025-12-09T15:31:03.555Z",
+    "updatedAt": "2025-12-09T15:31:03.555Z"
+  },
+  {
+    "id": "b8736b6674e3444e",
+    "title": "Гендиректор «Спартака» ответил на вопрос о поиске нового тренера",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/4/28/347652922269284.jpeg",
+    "teaser": "Гендиректор «Спартака» ответил на вопрос о поиске нового тренера",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/693838869a7947016dd38178",
+    "publishedAt": "2025-12-09T15:18:58.000Z",
+    "createdAt": "2025-12-09T15:31:04.591Z",
+    "updatedAt": "2025-12-09T15:31:04.591Z"
+  },
+  {
+    "id": "27f510cad05d99a2",
+    "title": "Холанд догнал Ямаля в списке самых дорогих футболистов мира",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/6/97/347652897813976.jpeg",
+    "teaser": "Холанд догнал Ямаля в списке самых дорогих футболистов мира",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69382efa9a794772a6ebec71",
+    "publishedAt": "2025-12-09T14:34:39.000Z",
+    "createdAt": "2025-12-09T15:31:05.679Z",
+    "updatedAt": "2025-12-09T15:31:05.679Z"
+  },
+  {
     "id": "4e6be2f2e36ca7af",
     "title": "Петросян и Гуменник вошли в число участников ЧР по фигурному катанию",
     "sport": "Другое",
@@ -10,8 +52,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/693827069a794727ff1d719c",
     "publishedAt": "2025-12-09T13:53:59.000Z",
-    "createdAt": "2025-12-09T14:29:22.732Z",
-    "updatedAt": "2025-12-09T14:29:22.732Z"
+    "createdAt": "2025-12-09T15:31:07.767Z",
+    "updatedAt": "2025-12-09T15:31:07.767Z"
   },
   {
     "id": "97102417fa2b8d33",
@@ -24,8 +66,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69381c9f9a7947865cd0b88b",
     "publishedAt": "2025-12-09T13:46:14.000Z",
-    "createdAt": "2025-12-09T14:29:21.680Z",
-    "updatedAt": "2025-12-09T14:29:21.680Z"
+    "createdAt": "2025-12-09T15:31:06.707Z",
+    "updatedAt": "2025-12-09T15:31:06.707Z"
   },
   {
     "id": "0c707bcfb0c86185",
@@ -38,8 +80,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/693821819a7947e68bb47b87",
     "publishedAt": "2025-12-09T13:36:09.000Z",
-    "createdAt": "2025-12-09T14:29:24.580Z",
-    "updatedAt": "2025-12-09T14:29:24.580Z"
+    "createdAt": "2025-12-09T15:31:09.648Z",
+    "updatedAt": "2025-12-09T15:31:09.648Z"
   },
   {
     "id": "f570fd4c63cd7077",
@@ -52,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/693814ea9a79470a7450837b",
     "publishedAt": "2025-12-09T12:43:44.000Z",
-    "createdAt": "2025-12-09T14:29:25.627Z",
-    "updatedAt": "2025-12-09T14:29:25.627Z"
+    "createdAt": "2025-12-09T15:31:10.678Z",
+    "updatedAt": "2025-12-09T15:31:10.678Z"
   },
   {
     "id": "c49b208a7c010350",
@@ -66,8 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/693812d79a7947689a51717d",
     "publishedAt": "2025-12-09T12:24:19.000Z",
-    "createdAt": "2025-12-09T14:29:26.592Z",
-    "updatedAt": "2025-12-09T14:29:26.592Z"
+    "createdAt": "2025-12-09T15:31:11.669Z",
+    "updatedAt": "2025-12-09T15:31:11.669Z"
   },
   {
     "id": "6eb6365b1d4fb268",
@@ -80,8 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6938068f9a79477cb8df094a",
     "publishedAt": "2025-12-09T11:51:37.000Z",
-    "createdAt": "2025-12-09T14:29:28.501Z",
-    "updatedAt": "2025-12-09T14:29:28.501Z"
+    "createdAt": "2025-12-09T15:31:13.830Z",
+    "updatedAt": "2025-12-09T15:31:13.830Z"
   },
   {
     "id": "275d3dfb9559d236",
@@ -94,49 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6938090c9a79474c1f5bb3fc",
     "publishedAt": "2025-12-09T11:43:24.000Z",
-    "createdAt": "2025-12-09T14:29:27.550Z",
-    "updatedAt": "2025-12-09T14:29:27.550Z"
-  },
-  {
-    "id": "d217d43d3769cd64",
-    "title": "Лучший защитник-бомбардир КХЛ пропустит Кубок «Первого канала»",
-    "sport": "Хоккей",
-    "category": "Хоккей",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/2/34/347652772835342.jpeg",
-    "teaser": "Лучший защитник-бомбардир КХЛ пропустит Кубок «Первого канала»",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6937fe3e9a7947dd4a12e675",
-    "publishedAt": "2025-12-09T10:54:28.000Z",
-    "createdAt": "2025-12-09T14:29:29.522Z",
-    "updatedAt": "2025-12-09T14:29:29.522Z"
-  },
-  {
-    "id": "b7932f61b64828f2",
-    "title": "Лучший бомбардир в истории футбольного «Зенита» перешла в «Спартак»",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/3/31/347652754339313.jpeg",
-    "teaser": "Лучший бомбардир в истории футбольного «Зенита» перешла в «Спартак»",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6937f7169a79479085a28df2",
-    "publishedAt": "2025-12-09T10:28:13.000Z",
-    "createdAt": "2025-12-09T14:29:30.548Z",
-    "updatedAt": "2025-12-09T14:29:30.548Z"
-  },
-  {
-    "id": "1dd6f12a02818c78",
-    "title": "Легенда «Спартака» Андрей Тихонов покинул клуб Первой лиги",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/0/09/347652749054090.jpeg",
-    "teaser": "Легенда «Спартака» Андрей Тихонов покинул клуб Первой лиги",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6937f4fa9a79472c4dc7751d",
-    "publishedAt": "2025-12-09T10:17:43.000Z",
-    "createdAt": "2025-12-09T14:29:31.581Z",
-    "updatedAt": "2025-12-09T14:29:31.581Z"
+    "createdAt": "2025-12-09T15:31:12.716Z",
+    "updatedAt": "2025-12-09T15:31:12.716Z"
   }
 ]
