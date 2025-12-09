@@ -1,5 +1,61 @@
 [
   {
+    "id": "f570fd4c63cd7077",
+    "title": "ЦСКА подал жалобу на удаление Мойзеса в матче с «Краснодаром»",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/9/75/347652831204759.jpeg",
+    "teaser": "ЦСКА подал жалобу на удаление Мойзеса в матче с «Краснодаром»",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/693814ea9a79470a7450837b",
+    "publishedAt": "2025-12-09T12:43:44.000Z",
+    "createdAt": "2025-12-09T12:56:03.257Z",
+    "updatedAt": "2025-12-09T12:56:03.257Z"
+  },
+  {
+    "id": "c49b208a7c010350",
+    "title": "Двух российских баскетболистов дисквалифицировали за ставки",
+    "sport": "Баскетбол",
+    "category": "Баскетбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/2/41/347652825894412.jpeg",
+    "teaser": "Двух российских баскетболистов дисквалифицировали за ставки",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/693812d79a7947689a51717d",
+    "publishedAt": "2025-12-09T12:24:19.000Z",
+    "createdAt": "2025-12-09T12:56:04.232Z",
+    "updatedAt": "2025-12-09T12:56:04.232Z"
+  },
+  {
+    "id": "67c13aa88d8ab374",
+    "title": "Глава КХЛ назвал странной организацию олимпийского турнира в Италии",
+    "sport": "Хоккей",
+    "category": "Хоккей",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/4/34/347652795092344.jpeg",
+    "teaser": "Глава КХЛ назвал странной организацию олимпийского турнира в Италии",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6938068f9a79477cb8df094a",
+    "publishedAt": "2025-12-09T11:51:37.000Z",
+    "createdAt": "2025-12-09T12:56:06.124Z",
+    "updatedAt": "2025-12-09T12:56:06.124Z"
+  },
+  {
+    "id": "275d3dfb9559d236",
+    "title": "Лыжник Коростелев сам заплатил ₽200 тыс. за заявку на нейтральный статус",
+    "sport": "Другое",
+    "category": "Другие",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/0/63/347652800647630.jpeg",
+    "teaser": "Лыжник Коростелев сам заплатил ₽200 тыс. за заявку на нейтральный статус",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6938090c9a79474c1f5bb3fc",
+    "publishedAt": "2025-12-09T11:43:24.000Z",
+    "createdAt": "2025-12-09T12:56:05.154Z",
+    "updatedAt": "2025-12-09T12:56:05.154Z"
+  },
+  {
     "id": "d217d43d3769cd64",
     "title": "Лучший защитник-бомбардир КХЛ пропустит Кубок «Первого канала»",
     "sport": "Хоккей",
@@ -10,8 +66,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6937fe3e9a7947dd4a12e675",
     "publishedAt": "2025-12-09T10:54:28.000Z",
-    "createdAt": "2025-12-09T11:24:38.139Z",
-    "updatedAt": "2025-12-09T11:24:38.139Z"
+    "createdAt": "2025-12-09T12:56:07.143Z",
+    "updatedAt": "2025-12-09T12:56:07.143Z"
   },
   {
     "id": "b7932f61b64828f2",
@@ -24,8 +80,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6937f7169a79479085a28df2",
     "publishedAt": "2025-12-09T10:28:13.000Z",
-    "createdAt": "2025-12-09T11:24:39.228Z",
-    "updatedAt": "2025-12-09T11:24:39.228Z"
+    "createdAt": "2025-12-09T12:56:08.167Z",
+    "updatedAt": "2025-12-09T12:56:08.167Z"
   },
   {
     "id": "1dd6f12a02818c78",
@@ -38,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6937f4fa9a79472c4dc7751d",
     "publishedAt": "2025-12-09T10:17:43.000Z",
-    "createdAt": "2025-12-09T11:24:40.382Z",
-    "updatedAt": "2025-12-09T11:24:40.382Z"
+    "createdAt": "2025-12-09T12:56:09.269Z",
+    "updatedAt": "2025-12-09T12:56:09.269Z"
   },
   {
     "id": "beddf738613cea07",
@@ -52,8 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6937ece19a7947d0990344fd",
     "publishedAt": "2025-12-09T09:51:27.000Z",
-    "createdAt": "2025-12-09T11:24:41.844Z",
-    "updatedAt": "2025-12-09T11:24:41.844Z"
+    "createdAt": "2025-12-09T12:56:10.293Z",
+    "updatedAt": "2025-12-09T12:56:10.293Z"
   },
   {
     "id": "de23fbf2286159c2",
@@ -66,8 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6937ea929a79472d85f4f572",
     "publishedAt": "2025-12-09T09:33:04.000Z",
-    "createdAt": "2025-12-09T11:24:45.124Z",
-    "updatedAt": "2025-12-09T11:24:45.124Z"
+    "createdAt": "2025-12-09T12:56:13.254Z",
+    "updatedAt": "2025-12-09T12:56:13.254Z"
   },
   {
     "id": "ed30503435648603",
@@ -80,63 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6937e7e29a79475bb7b82504",
     "publishedAt": "2025-12-09T09:21:15.000Z",
-    "createdAt": "2025-12-09T11:24:43.003Z",
-    "updatedAt": "2025-12-09T11:24:43.003Z"
-  },
-  {
-    "id": "abb847b42c3786d4",
-    "title": "Петр Ян вошел в рейтинг лучших бойцов UFC после завоевания титула",
-    "sport": "Единоборства",
-    "category": "Единоборства",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/4/66/347652702037664.jpeg",
-    "teaser": "Петр Ян вошел в рейтинг лучших бойцов UFC после завоевания титула",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6937e28d9a79476822f8d07f",
-    "publishedAt": "2025-12-09T09:03:07.000Z",
-    "createdAt": "2025-12-09T11:24:46.564Z",
-    "updatedAt": "2025-12-09T11:24:46.564Z"
-  },
-  {
-    "id": "2da9e14ddf1ec2bf",
-    "title": "Лыжник Коростелев прибыл в Европу в ожидании решения по допуску на КМ",
-    "sport": "Другое",
-    "category": "Другие",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/4/29/347652692402294.jpeg",
-    "teaser": "Лыжник Коростелев прибыл в Европу в ожидании решения по допуску на КМ",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6937decc9a7947f5a6222cb3",
-    "publishedAt": "2025-12-09T08:57:32.000Z",
-    "createdAt": "2025-12-09T11:24:47.726Z",
-    "updatedAt": "2025-12-09T11:24:47.726Z"
-  },
-  {
-    "id": "7bef1e688fbaf294",
-    "title": "12 российских теннисистов заявились на Australian Open",
-    "sport": "Теннис",
-    "category": "Теннис",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/6/66/347652669902666.jpeg",
-    "teaser": "12 российских теннисистов заявились на Australian Open",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6937d6039a7947d0355ad14b",
-    "publishedAt": "2025-12-09T08:19:33.000Z",
-    "createdAt": "2025-12-09T11:24:48.926Z",
-    "updatedAt": "2025-12-09T11:24:48.926Z"
-  },
-  {
-    "id": "bafd0edbdca264ae",
-    "title": "Радулов не сыграет на Кубке «Первого канала»",
-    "sport": "Хоккей",
-    "category": "Хоккей",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/8/24/347652646087248.jpeg",
-    "teaser": "Радулов не сыграет на Кубке «Первого канала»",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6937cca99a7947606fd845e8",
-    "publishedAt": "2025-12-09T07:31:20.000Z",
-    "createdAt": "2025-12-09T11:24:50.092Z",
-    "updatedAt": "2025-12-09T11:24:50.092Z"
+    "createdAt": "2025-12-09T12:56:11.355Z",
+    "updatedAt": "2025-12-09T12:56:11.355Z"
   }
 ]
