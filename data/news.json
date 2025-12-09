@@ -1,5 +1,33 @@
 [
   {
+    "id": "1f39fd4bab74711c",
+    "title": "Российский новичок «Калгари» забросил победную шайбу в матче НХЛ",
+    "sport": "Хоккей",
+    "category": "Хоккей",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/1/22/347652639168221.jpeg",
+    "teaser": "Российский новичок «Калгари» забросил победную шайбу в матче НХЛ",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6937c9f19a79476c661c3373",
+    "publishedAt": "2025-12-09T07:19:57.000Z",
+    "createdAt": "2025-12-09T07:27:22.681Z",
+    "updatedAt": "2025-12-09T07:27:22.681Z"
+  },
+  {
+    "id": "deaff8146aef44e5",
+    "title": "Конец эры в «Формуле-1». Почему гонщики опасаются нового сезона",
+    "sport": "Другое",
+    "category": "Формула-1",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/3/45/347645143283453.jpeg",
+    "teaser": "Конец эры в «Формуле-1». Почему гонщики опасаются нового сезона",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/692c58da9a79477ecd467434",
+    "publishedAt": "2025-12-08T21:30:14.000Z",
+    "createdAt": "2025-12-09T07:27:23.673Z",
+    "updatedAt": "2025-12-09T07:27:23.673Z"
+  },
+  {
     "id": "33fd62be1a2fdbbc",
     "title": "Российского вратаря признали лучшим игроком недели в НХЛ",
     "sport": "Хоккей",
@@ -10,8 +38,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/693719c39a794706fea1b096",
     "publishedAt": "2025-12-08T18:44:47.000Z",
-    "createdAt": "2025-12-09T06:40:17.156Z",
-    "updatedAt": "2025-12-09T06:40:17.156Z"
+    "createdAt": "2025-12-09T07:27:25.769Z",
+    "updatedAt": "2025-12-09T07:27:25.769Z"
   },
   {
     "id": "3a423d45470e5d98",
@@ -24,8 +52,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6937127d9a7947ae35cd2c07",
     "publishedAt": "2025-12-08T18:36:50.000Z",
-    "createdAt": "2025-12-09T06:40:16.048Z",
-    "updatedAt": "2025-12-09T06:40:16.048Z"
+    "createdAt": "2025-12-09T07:27:24.699Z",
+    "updatedAt": "2025-12-09T07:27:24.699Z"
   },
   {
     "id": "22dcf0179e49ec2c",
@@ -38,8 +66,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6937093d9a79470ad51c9b27",
     "publishedAt": "2025-12-08T17:44:54.000Z",
-    "createdAt": "2025-12-09T06:40:18.418Z",
-    "updatedAt": "2025-12-09T06:40:18.418Z"
+    "createdAt": "2025-12-09T07:27:26.783Z",
+    "updatedAt": "2025-12-09T07:27:26.783Z"
   },
   {
     "id": "7119d4df8a503cb5",
@@ -52,8 +80,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/693702389a79478277a3c4c7",
     "publishedAt": "2025-12-08T17:19:47.000Z",
-    "createdAt": "2025-12-09T06:40:20.583Z",
-    "updatedAt": "2025-12-09T06:40:20.583Z"
+    "createdAt": "2025-12-09T07:27:28.772Z",
+    "updatedAt": "2025-12-09T07:27:28.772Z"
   },
   {
     "id": "8d3e3d454109486d",
@@ -66,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6936fac69a79479308ee5f3e",
     "publishedAt": "2025-12-08T16:34:27.000Z",
-    "createdAt": "2025-12-09T06:40:22.476Z",
-    "updatedAt": "2025-12-09T06:40:22.476Z"
+    "createdAt": "2025-12-09T07:27:30.844Z",
+    "updatedAt": "2025-12-09T07:27:30.844Z"
   },
   {
     "id": "34df6a1d5214abbe",
@@ -80,8 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6936f52a9a7947d7de2b33f1",
     "publishedAt": "2025-12-08T16:19:01.000Z",
-    "createdAt": "2025-12-09T06:40:21.638Z",
-    "updatedAt": "2025-12-09T06:40:21.638Z"
+    "createdAt": "2025-12-09T07:27:29.789Z",
+    "updatedAt": "2025-12-09T07:27:29.789Z"
   },
   {
     "id": "973831a5265003a1",
@@ -94,36 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6936ecd59a79470af944716c",
     "publishedAt": "2025-12-08T15:36:54.000Z",
-    "createdAt": "2025-12-09T06:40:23.610Z",
-    "updatedAt": "2025-12-09T06:40:23.610Z"
-  },
-  {
-    "id": "46101c9ea171cd64",
-    "title": "Экс-защитник сборной Бельгии Де Бук умер в 54 года",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/5/19/347652046408195.png",
-    "teaser": "Экс-защитник сборной Бельгии Де Бук умер в 54 года",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6936e2219a79475ac50df426",
-    "publishedAt": "2025-12-08T15:07:42.000Z",
-    "createdAt": "2025-12-09T06:40:25.484Z",
-    "updatedAt": "2025-12-09T06:40:25.484Z"
-  },
-  {
-    "id": "28f2cb3b9a05aa44",
-    "title": "У волейболиста «Локомотива» обнаружили онкологическое заболевание",
-    "sport": "Другое",
-    "category": "Другие",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/9/60/347652057425609.png",
-    "teaser": "У волейболиста «Локомотива» обнаружили онкологическое заболевание",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6936e6979a79471aa29368a2",
-    "publishedAt": "2025-12-08T15:06:22.000Z",
-    "createdAt": "2025-12-09T06:40:26.550Z",
-    "updatedAt": "2025-12-09T06:40:26.550Z"
+    "createdAt": "2025-12-09T07:27:31.866Z",
+    "updatedAt": "2025-12-09T07:27:31.866Z"
   },
   {
     "id": "cf051e35d86bd137",
@@ -136,7 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6932bf1a9a7947705a3c4784",
     "publishedAt": "2025-12-08T11:29:29.000Z",
-    "createdAt": "2025-12-09T06:40:19.540Z",
-    "updatedAt": "2025-12-09T06:40:19.540Z"
+    "createdAt": "2025-12-09T07:27:27.816Z",
+    "updatedAt": "2025-12-09T07:27:27.816Z"
   }
 ]
