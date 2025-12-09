@@ -1,5 +1,19 @@
 [
   {
+    "id": "0c707bcfb0c86185",
+    "title": "Объявлен окончательный состав участников Матча звезд КХЛ",
+    "sport": "Хоккей",
+    "category": "Хоккей",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/4/87/756678354777874.jpg",
+    "teaser": "Объявлен окончательный состав участников Матча звезд КХЛ",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/693821819a7947e68bb47b87",
+    "publishedAt": "2025-12-09T13:36:09.000Z",
+    "createdAt": "2025-12-09T13:40:41.312Z",
+    "updatedAt": "2025-12-09T13:40:41.312Z"
+  },
+  {
     "id": "f570fd4c63cd7077",
     "title": "ЦСКА подал жалобу на удаление Мойзеса в матче с «Краснодаром»",
     "sport": "Футбол",
@@ -10,8 +24,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/693814ea9a79470a7450837b",
     "publishedAt": "2025-12-09T12:43:44.000Z",
-    "createdAt": "2025-12-09T12:56:03.257Z",
-    "updatedAt": "2025-12-09T12:56:03.257Z"
+    "createdAt": "2025-12-09T13:40:42.455Z",
+    "updatedAt": "2025-12-09T13:40:42.455Z"
   },
   {
     "id": "c49b208a7c010350",
@@ -24,8 +38,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/693812d79a7947689a51717d",
     "publishedAt": "2025-12-09T12:24:19.000Z",
-    "createdAt": "2025-12-09T12:56:04.232Z",
-    "updatedAt": "2025-12-09T12:56:04.232Z"
+    "createdAt": "2025-12-09T13:40:43.604Z",
+    "updatedAt": "2025-12-09T13:40:43.604Z"
   },
   {
     "id": "67c13aa88d8ab374",
@@ -38,8 +52,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6938068f9a79477cb8df094a",
     "publishedAt": "2025-12-09T11:51:37.000Z",
-    "createdAt": "2025-12-09T12:56:06.124Z",
-    "updatedAt": "2025-12-09T12:56:06.124Z"
+    "createdAt": "2025-12-09T13:40:45.773Z",
+    "updatedAt": "2025-12-09T13:40:45.773Z"
   },
   {
     "id": "275d3dfb9559d236",
@@ -52,8 +66,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6938090c9a79474c1f5bb3fc",
     "publishedAt": "2025-12-09T11:43:24.000Z",
-    "createdAt": "2025-12-09T12:56:05.154Z",
-    "updatedAt": "2025-12-09T12:56:05.154Z"
+    "createdAt": "2025-12-09T13:40:44.641Z",
+    "updatedAt": "2025-12-09T13:40:44.641Z"
   },
   {
     "id": "d217d43d3769cd64",
@@ -66,8 +80,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6937fe3e9a7947dd4a12e675",
     "publishedAt": "2025-12-09T10:54:28.000Z",
-    "createdAt": "2025-12-09T12:56:07.143Z",
-    "updatedAt": "2025-12-09T12:56:07.143Z"
+    "createdAt": "2025-12-09T13:40:46.914Z",
+    "updatedAt": "2025-12-09T13:40:46.914Z"
   },
   {
     "id": "b7932f61b64828f2",
@@ -80,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6937f7169a79479085a28df2",
     "publishedAt": "2025-12-09T10:28:13.000Z",
-    "createdAt": "2025-12-09T12:56:08.167Z",
-    "updatedAt": "2025-12-09T12:56:08.167Z"
+    "createdAt": "2025-12-09T13:40:48.068Z",
+    "updatedAt": "2025-12-09T13:40:48.068Z"
   },
   {
     "id": "1dd6f12a02818c78",
@@ -94,8 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6937f4fa9a79472c4dc7751d",
     "publishedAt": "2025-12-09T10:17:43.000Z",
-    "createdAt": "2025-12-09T12:56:09.269Z",
-    "updatedAt": "2025-12-09T12:56:09.269Z"
+    "createdAt": "2025-12-09T13:40:49.144Z",
+    "updatedAt": "2025-12-09T13:40:49.144Z"
   },
   {
     "id": "beddf738613cea07",
@@ -108,22 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6937ece19a7947d0990344fd",
     "publishedAt": "2025-12-09T09:51:27.000Z",
-    "createdAt": "2025-12-09T12:56:10.293Z",
-    "updatedAt": "2025-12-09T12:56:10.293Z"
-  },
-  {
-    "id": "de23fbf2286159c2",
-    "title": "Большинство россиян поддержали ужесточение лимита на легионеров в футболе",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/0/64/347652723380640.jpeg",
-    "teaser": "Большинство россиян поддержали ужесточение лимита на легионеров в футболе",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6937ea929a79472d85f4f572",
-    "publishedAt": "2025-12-09T09:33:04.000Z",
-    "createdAt": "2025-12-09T12:56:13.254Z",
-    "updatedAt": "2025-12-09T12:56:13.254Z"
+    "createdAt": "2025-12-09T13:40:50.292Z",
+    "updatedAt": "2025-12-09T13:40:50.292Z"
   },
   {
     "id": "ed30503435648603",
@@ -136,7 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6937e7e29a79475bb7b82504",
     "publishedAt": "2025-12-09T09:21:15.000Z",
-    "createdAt": "2025-12-09T12:56:11.355Z",
-    "updatedAt": "2025-12-09T12:56:11.355Z"
+    "createdAt": "2025-12-09T13:40:51.422Z",
+    "updatedAt": "2025-12-09T13:40:51.422Z"
   }
 ]
