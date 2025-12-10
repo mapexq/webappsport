@@ -1,5 +1,61 @@
 [
   {
+    "id": "b84eb420a57f6ec7",
+    "title": "Российского футболиста признали игроком месяца в чемпионате Греции",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/2/25/347653812526252.jpeg",
+    "teaser": "Российского футболиста признали игроком месяца в чемпионате Греции",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/693993639a7947177a667e92",
+    "publishedAt": "2025-12-10T16:04:14.000Z",
+    "createdAt": "2025-12-10T16:38:21.159Z",
+    "updatedAt": "2025-12-10T16:38:21.159Z"
+  },
+  {
+    "id": "c9a459855d0d7eef",
+    "title": "В Британии разрешили однополые дуэты в танцах на льду",
+    "sport": "Другое",
+    "category": "Фигурное катание",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/5/99/347653804111995.png",
+    "teaser": "В Британии разрешили однополые дуэты в танцах на льду",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69398e019a79475095809241",
+    "publishedAt": "2025-12-10T15:46:18.000Z",
+    "createdAt": "2025-12-10T16:38:20.193Z",
+    "updatedAt": "2025-12-10T16:38:20.193Z"
+  },
+  {
+    "id": "a383f81578ba070f",
+    "title": "Возвращение Bosco. Как компания 15 лет одевала российских олимпийцев",
+    "sport": "Другое",
+    "category": "Другие",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/3/07/347653604656073.jpeg",
+    "teaser": "Возвращение Bosco. Как компания 15 лет одевала российских олимпийцев",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/693940319a7947474afcfb50",
+    "publishedAt": "2025-12-10T15:18:14.000Z",
+    "createdAt": "2025-12-10T16:38:24.220Z",
+    "updatedAt": "2025-12-10T16:38:24.220Z"
+  },
+  {
+    "id": "fa93804b9cd0583e",
+    "title": "Камбоджа снялась с Игр ЮВА в Таиланде на фоне конфликта на границе",
+    "sport": "Другое",
+    "category": "Другие",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/9/41/347653790261419.jpeg",
+    "teaser": "Камбоджа снялась с Игр ЮВА в Таиланде на фоне конфликта на границе",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6939879e9a794779f34f8a95",
+    "publishedAt": "2025-12-10T15:09:52.000Z",
+    "createdAt": "2025-12-10T16:38:22.166Z",
+    "updatedAt": "2025-12-10T16:38:22.166Z"
+  },
+  {
     "id": "3045510e23736881",
     "title": "Путин наградил орденом вратаря сборной СССР Мышкина",
     "sport": "Хоккей",
@@ -10,8 +66,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/693976ea9a79474881e89d44",
     "publishedAt": "2025-12-10T13:49:42.000Z",
-    "createdAt": "2025-12-10T15:31:05.682Z",
-    "updatedAt": "2025-12-10T15:31:05.682Z"
+    "createdAt": "2025-12-10T16:38:25.274Z",
+    "updatedAt": "2025-12-10T16:38:25.274Z"
   },
   {
     "id": "91e818341f3289d0",
@@ -24,8 +80,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/693970f29a79473dcea7913c",
     "publishedAt": "2025-12-10T13:23:21.000Z",
-    "createdAt": "2025-12-10T15:31:04.632Z",
-    "updatedAt": "2025-12-10T15:31:04.632Z"
+    "createdAt": "2025-12-10T16:38:23.215Z",
+    "updatedAt": "2025-12-10T16:38:23.215Z"
   },
   {
     "id": "335e1f4ef945d6e0",
@@ -38,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69396c7b9a794701e8e039fc",
     "publishedAt": "2025-12-10T13:08:57.000Z",
-    "createdAt": "2025-12-10T15:31:06.706Z",
-    "updatedAt": "2025-12-10T15:31:06.706Z"
+    "createdAt": "2025-12-10T16:38:26.402Z",
+    "updatedAt": "2025-12-10T16:38:26.402Z"
   },
   {
     "id": "aceaef85f8c3b513",
@@ -52,8 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/693962e89a79474bdad8b01f",
     "publishedAt": "2025-12-10T12:59:10.000Z",
-    "createdAt": "2025-12-10T15:31:08.559Z",
-    "updatedAt": "2025-12-10T15:31:08.559Z"
+    "createdAt": "2025-12-10T16:38:28.268Z",
+    "updatedAt": "2025-12-10T16:38:28.268Z"
   },
   {
     "id": "c2f12fc8d3e4e186",
@@ -66,8 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/693959309a79477b88390082",
     "publishedAt": "2025-12-10T12:33:44.000Z",
-    "createdAt": "2025-12-10T15:31:11.467Z",
-    "updatedAt": "2025-12-10T15:31:11.467Z"
+    "createdAt": "2025-12-10T16:38:31.140Z",
+    "updatedAt": "2025-12-10T16:38:31.140Z"
   },
   {
     "id": "423537cda7c7ebdb",
@@ -80,63 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69394f5e9a7947e6308a56ea",
     "publishedAt": "2025-12-10T11:57:38.000Z",
-    "createdAt": "2025-12-10T15:31:09.577Z",
-    "updatedAt": "2025-12-10T15:31:09.577Z"
-  },
-  {
-    "id": "27c524dce16e3336",
-    "title": "Союз биатлонистов России подаст иск в CAS на отстранение спортсменов",
-    "sport": "Другое",
-    "category": "Биатлон",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/2/06/347653643205062.png",
-    "teaser": "Союз биатлонистов России подаст иск в CAS на отстранение спортсменов",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6939521f9a79475d5cd3060b",
-    "publishedAt": "2025-12-10T11:25:48.000Z",
-    "createdAt": "2025-12-10T15:31:13.567Z",
-    "updatedAt": "2025-12-10T15:31:13.567Z"
-  },
-  {
-    "id": "111f5658c3db6a49",
-    "title": "Впервые набравшего три очка россиянина признали одной из звезд дня в НХЛ",
-    "sport": "Хоккей",
-    "category": "Хоккей",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/3/21/347653621545213.jpeg",
-    "teaser": "Впервые набравшего три очка россиянина признали одной из звезд дня в НХЛ",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/693948a19a79470ade7e3468",
-    "publishedAt": "2025-12-10T11:07:58.000Z",
-    "createdAt": "2025-12-10T15:31:14.602Z",
-    "updatedAt": "2025-12-10T15:31:14.602Z"
-  },
-  {
-    "id": "7e22eb5753113e5c",
-    "title": "Двух российских лыжников и фристайлистку допустили к отбору на Олимпиаду",
-    "sport": "Другое",
-    "category": "Другие",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/4/19/347653630774194.png",
-    "teaser": "Двух российских лыжников и фристайлистку допустили к отбору на Олимпиаду",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69394d279a79479bb4d065bd",
-    "publishedAt": "2025-12-10T10:42:55.000Z",
-    "createdAt": "2025-12-10T15:31:12.508Z",
-    "updatedAt": "2025-12-10T15:31:12.508Z"
-  },
-  {
-    "id": "d47166327edf0e05",
-    "title": "Дегтярев заявил, что талисманом олимпийцев будет «нормальный мишка»",
-    "sport": "Другое",
-    "category": "Другие",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/6/30/347653602283306.png",
-    "teaser": "Дегтярев заявил, что талисманом олимпийцев будет «нормальный мишка»",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69393e999a7947bcb60360fb",
-    "publishedAt": "2025-12-10T10:15:01.000Z",
-    "createdAt": "2025-12-10T15:31:15.666Z",
-    "updatedAt": "2025-12-10T15:31:15.666Z"
+    "createdAt": "2025-12-10T16:38:29.385Z",
+    "updatedAt": "2025-12-10T16:38:29.385Z"
   }
 ]
