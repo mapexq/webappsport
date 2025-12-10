@@ -1,5 +1,19 @@
 [
   {
+    "id": "f7de8aae159a641d",
+    "title": "Сафонов впервые за год сыграет в Лиге чемпионов",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/5/17/347653929541175.png",
+    "teaser": "Сафонов впервые за год сыграет в Лиге чемпионов",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6939c1f79a79472357761911",
+    "publishedAt": "2025-12-10T19:08:29.000Z",
+    "createdAt": "2025-12-10T19:22:37.314Z",
+    "updatedAt": "2025-12-10T19:22:37.314Z"
+  },
+  {
     "id": "07c8314267408ce2",
     "title": "Овечкин заявил, что с пропуском хоккеистами Олимпиады ничего не поделать",
     "sport": "Хоккей",
@@ -10,8 +24,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6939b28f9a794768ae0457d7",
     "publishedAt": "2025-12-10T18:10:21.000Z",
-    "createdAt": "2025-12-10T18:37:15.742Z",
-    "updatedAt": "2025-12-10T18:37:15.743Z"
+    "createdAt": "2025-12-10T19:22:38.307Z",
+    "updatedAt": "2025-12-10T19:22:38.307Z"
   },
   {
     "id": "bd79654fe46376e9",
@@ -24,8 +38,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6939a54a9a7947e1bfc08426",
     "publishedAt": "2025-12-10T17:18:05.000Z",
-    "createdAt": "2025-12-10T18:37:17.878Z",
-    "updatedAt": "2025-12-10T18:37:17.878Z"
+    "createdAt": "2025-12-10T19:22:40.147Z",
+    "updatedAt": "2025-12-10T19:22:40.147Z"
   },
   {
     "id": "5097b000070b0404",
@@ -38,8 +52,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6939995b9a794701332c5b43",
     "publishedAt": "2025-12-10T16:31:27.000Z",
-    "createdAt": "2025-12-10T18:37:16.847Z",
-    "updatedAt": "2025-12-10T18:37:16.847Z"
+    "createdAt": "2025-12-10T19:22:39.302Z",
+    "updatedAt": "2025-12-10T19:22:39.302Z"
   },
   {
     "id": "b84eb420a57f6ec7",
@@ -52,8 +66,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/693993639a7947177a667e92",
     "publishedAt": "2025-12-10T16:04:14.000Z",
-    "createdAt": "2025-12-10T18:37:18.944Z",
-    "updatedAt": "2025-12-10T18:37:18.944Z"
+    "createdAt": "2025-12-10T19:22:41.085Z",
+    "updatedAt": "2025-12-10T19:22:41.085Z"
   },
   {
     "id": "c9a459855d0d7eef",
@@ -66,8 +80,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69398e019a79475095809241",
     "publishedAt": "2025-12-10T15:46:18.000Z",
-    "createdAt": "2025-12-10T18:37:19.992Z",
-    "updatedAt": "2025-12-10T18:37:19.992Z"
+    "createdAt": "2025-12-10T19:22:42.027Z",
+    "updatedAt": "2025-12-10T19:22:42.027Z"
   },
   {
     "id": "a383f81578ba070f",
@@ -80,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/693940319a7947474afcfb50",
     "publishedAt": "2025-12-10T15:18:14.000Z",
-    "createdAt": "2025-12-10T18:37:21.092Z",
-    "updatedAt": "2025-12-10T18:37:21.092Z"
+    "createdAt": "2025-12-10T19:22:43.037Z",
+    "updatedAt": "2025-12-10T19:22:43.037Z"
   },
   {
     "id": "fa93804b9cd0583e",
@@ -94,8 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6939879e9a794779f34f8a95",
     "publishedAt": "2025-12-10T15:09:52.000Z",
-    "createdAt": "2025-12-10T18:37:22.133Z",
-    "updatedAt": "2025-12-10T18:37:22.133Z"
+    "createdAt": "2025-12-10T19:22:44.026Z",
+    "updatedAt": "2025-12-10T19:22:44.026Z"
   },
   {
     "id": "3045510e23736881",
@@ -108,8 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/693976ea9a79474881e89d44",
     "publishedAt": "2025-12-10T13:49:42.000Z",
-    "createdAt": "2025-12-10T18:37:24.223Z",
-    "updatedAt": "2025-12-10T18:37:24.223Z"
+    "createdAt": "2025-12-10T19:22:46.183Z",
+    "updatedAt": "2025-12-10T19:22:46.183Z"
   },
   {
     "id": "91e818341f3289d0",
@@ -122,21 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/693970f29a79473dcea7913c",
     "publishedAt": "2025-12-10T13:23:21.000Z",
-    "createdAt": "2025-12-10T18:37:23.234Z",
-    "updatedAt": "2025-12-10T18:37:23.234Z"
-  },
-  {
-    "id": "335e1f4ef945d6e0",
-    "title": "Гонку Кубка России по биатлону перенесли из-за аварии на электросети",
-    "sport": "Другое",
-    "category": "Биатлон",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/9/66/347653718437669.png",
-    "teaser": "Гонку Кубка России по биатлону перенесли из-за аварии на электросети",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69396c7b9a794701e8e039fc",
-    "publishedAt": "2025-12-10T13:08:57.000Z",
-    "createdAt": "2025-12-10T18:37:25.293Z",
-    "updatedAt": "2025-12-10T18:37:25.293Z"
+    "createdAt": "2025-12-10T19:22:45.117Z",
+    "updatedAt": "2025-12-10T19:22:45.117Z"
   }
 ]
