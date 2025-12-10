@@ -1,17 +1,45 @@
 [
   {
+    "id": "335e1f4ef945d6e0",
+    "title": "Гонку Кубка России по биатлону перенесли из-за аварии на электросети",
+    "sport": "Другое",
+    "category": "Биатлон",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/9/66/347653718437669.png",
+    "teaser": "Гонку Кубка России по биатлону перенесли из-за аварии на электросети",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69396c7b9a794701e8e039fc",
+    "publishedAt": "2025-12-10T13:08:57.000Z",
+    "createdAt": "2025-12-10T13:41:49.200Z",
+    "updatedAt": "2025-12-10T13:41:49.200Z"
+  },
+  {
+    "id": "aceaef85f8c3b513",
+    "title": "Чемпиону России по тяжелой атлетике удвоили дисквалификацию",
+    "sport": "Другое",
+    "category": "Другие",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/2/35/347346014321352.png",
+    "teaser": "Чемпиону России по тяжелой атлетике удвоили дисквалификацию",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/693962e89a79474bdad8b01f",
+    "publishedAt": "2025-12-10T12:59:10.000Z",
+    "createdAt": "2025-12-10T13:41:51.149Z",
+    "updatedAt": "2025-12-10T13:41:51.149Z"
+  },
+  {
     "id": "c2f12fc8d3e4e186",
     "title": "В США футболистка студенческой команды умерла в 19 лет",
     "sport": "Футбол",
     "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/2/35/347346014321352.png",
+    "imageUrl": "/images/news-placeholder.jpg",
     "teaser": "В США футболистка студенческой команды умерла в 19 лет",
     "fullContent": "",
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/693959309a79477b88390082",
     "publishedAt": "2025-12-10T12:33:44.000Z",
-    "createdAt": "2025-12-10T12:56:26.545Z",
-    "updatedAt": "2025-12-10T12:56:26.545Z"
+    "createdAt": "2025-12-10T13:41:54.166Z",
+    "updatedAt": "2025-12-10T13:41:54.166Z"
   },
   {
     "id": "d21d4d03a4dcd13a",
@@ -24,8 +52,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6937fa709a79474f08a355c2",
     "publishedAt": "2025-12-10T12:03:51.000Z",
-    "createdAt": "2025-12-10T12:56:31.835Z",
-    "updatedAt": "2025-12-10T12:56:31.835Z"
+    "createdAt": "2025-12-10T13:41:59.672Z",
+    "updatedAt": "2025-12-10T13:41:59.672Z"
   },
   {
     "id": "423537cda7c7ebdb",
@@ -38,8 +66,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69394f5e9a7947e6308a56ea",
     "publishedAt": "2025-12-10T11:57:38.000Z",
-    "createdAt": "2025-12-10T12:56:24.688Z",
-    "updatedAt": "2025-12-10T12:56:24.689Z"
+    "createdAt": "2025-12-10T13:41:52.261Z",
+    "updatedAt": "2025-12-10T13:41:52.261Z"
   },
   {
     "id": "27c524dce16e3336",
@@ -52,8 +80,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6939521f9a79475d5cd3060b",
     "publishedAt": "2025-12-10T11:25:48.000Z",
-    "createdAt": "2025-12-10T12:56:28.749Z",
-    "updatedAt": "2025-12-10T12:56:28.749Z"
+    "createdAt": "2025-12-10T13:41:56.379Z",
+    "updatedAt": "2025-12-10T13:41:56.379Z"
   },
   {
     "id": "111f5658c3db6a49",
@@ -66,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/693948a19a79470ade7e3468",
     "publishedAt": "2025-12-10T11:07:58.000Z",
-    "createdAt": "2025-12-10T12:56:29.633Z",
-    "updatedAt": "2025-12-10T12:56:29.633Z"
+    "createdAt": "2025-12-10T13:41:57.419Z",
+    "updatedAt": "2025-12-10T13:41:57.419Z"
   },
   {
     "id": "400ce87a4845ba4b",
@@ -80,8 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6937cfd79a7947648e324f99",
     "publishedAt": "2025-12-10T11:04:03.000Z",
-    "createdAt": "2025-12-10T12:56:32.961Z",
-    "updatedAt": "2025-12-10T12:56:32.961Z"
+    "createdAt": "2025-12-10T13:42:00.743Z",
+    "updatedAt": "2025-12-10T13:42:00.743Z"
   },
   {
     "id": "7e22eb5753113e5c",
@@ -94,8 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69394d279a79479bb4d065bd",
     "publishedAt": "2025-12-10T10:42:55.000Z",
-    "createdAt": "2025-12-10T12:56:27.650Z",
-    "updatedAt": "2025-12-10T12:56:27.650Z"
+    "createdAt": "2025-12-10T13:41:55.196Z",
+    "updatedAt": "2025-12-10T13:41:55.196Z"
   },
   {
     "id": "d47166327edf0e05",
@@ -108,35 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69393e999a7947bcb60360fb",
     "publishedAt": "2025-12-10T10:15:01.000Z",
-    "createdAt": "2025-12-10T12:56:30.730Z",
-    "updatedAt": "2025-12-10T12:56:30.730Z"
-  },
-  {
-    "id": "a63fcf02a7b3982e",
-    "title": "РПЛ назвала дату первого матча после зимнего перерыва",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/2/05/347653583775052.png",
-    "teaser": "РПЛ назвала дату первого матча после зимнего перерыва",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6939390c9a7947d7ce555528",
-    "publishedAt": "2025-12-10T09:53:53.000Z",
-    "createdAt": "2025-12-10T12:56:34.960Z",
-    "updatedAt": "2025-12-10T12:56:34.960Z"
-  },
-  {
-    "id": "cdd2eea37600a0d8",
-    "title": "Bosco снова станет поставщиком формы для российских олимпийцев",
-    "sport": "Другое",
-    "category": "Другие",
-    "imageUrl": "/images/news-placeholder.jpg",
-    "teaser": "Bosco снова станет поставщиком формы для российских олимпийцев",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/693933de9a7947629adc06f8",
-    "publishedAt": "2025-12-10T09:04:59.000Z",
-    "createdAt": "2025-12-10T12:56:36.940Z",
-    "updatedAt": "2025-12-10T12:56:36.940Z"
+    "createdAt": "2025-12-10T13:41:58.579Z",
+    "updatedAt": "2025-12-10T13:41:58.579Z"
   }
 ]
