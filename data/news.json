@@ -1,5 +1,61 @@
 [
   {
+    "id": "c2f12fc8d3e4e186",
+    "title": "В США футболистка студенческой команды умерла в 19 лет",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/2/35/347346014321352.png",
+    "teaser": "В США футболистка студенческой команды умерла в 19 лет",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/693959309a79477b88390082",
+    "publishedAt": "2025-12-10T12:33:44.000Z",
+    "createdAt": "2025-12-10T12:56:26.545Z",
+    "updatedAt": "2025-12-10T12:56:26.545Z"
+  },
+  {
+    "id": "d21d4d03a4dcd13a",
+    "title": "Жителю Тольятти подарили ремонт мечты от Александра Овечкина",
+    "sport": "Хоккей",
+    "category": "Хоккей",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/0/28/347652763074280.jpeg",
+    "teaser": "Жителю Тольятти подарили ремонт мечты от Александра Овечкина",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6937fa709a79474f08a355c2",
+    "publishedAt": "2025-12-10T12:03:51.000Z",
+    "createdAt": "2025-12-10T12:56:31.835Z",
+    "updatedAt": "2025-12-10T12:56:31.835Z"
+  },
+  {
+    "id": "423537cda7c7ebdb",
+    "title": "Призер Олимпиады оценил шансы Коростелева и Непряевой попасть на Игры",
+    "sport": "Другое",
+    "category": "Другие",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/9/85/347653652060859.jpeg",
+    "teaser": "Призер Олимпиады оценил шансы Коростелева и Непряевой попасть на Игры",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69394f5e9a7947e6308a56ea",
+    "publishedAt": "2025-12-10T11:57:38.000Z",
+    "createdAt": "2025-12-10T12:56:24.688Z",
+    "updatedAt": "2025-12-10T12:56:24.689Z"
+  },
+  {
+    "id": "27c524dce16e3336",
+    "title": "Союз биатлонистов России подаст иск в CAS на отстранение спортсменов",
+    "sport": "Другое",
+    "category": "Биатлон",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/2/06/347653643205062.png",
+    "teaser": "Союз биатлонистов России подаст иск в CAS на отстранение спортсменов",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6939521f9a79475d5cd3060b",
+    "publishedAt": "2025-12-10T11:25:48.000Z",
+    "createdAt": "2025-12-10T12:56:28.749Z",
+    "updatedAt": "2025-12-10T12:56:28.749Z"
+  },
+  {
     "id": "111f5658c3db6a49",
     "title": "Впервые набравшего три очка россиянина признали одной из звезд дня в НХЛ",
     "sport": "Хоккей",
@@ -10,8 +66,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/693948a19a79470ade7e3468",
     "publishedAt": "2025-12-10T11:07:58.000Z",
-    "createdAt": "2025-12-10T11:24:14.909Z",
-    "updatedAt": "2025-12-10T11:24:14.909Z"
+    "createdAt": "2025-12-10T12:56:29.633Z",
+    "updatedAt": "2025-12-10T12:56:29.633Z"
   },
   {
     "id": "400ce87a4845ba4b",
@@ -24,8 +80,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6937cfd79a7947648e324f99",
     "publishedAt": "2025-12-10T11:04:03.000Z",
-    "createdAt": "2025-12-10T11:24:17.112Z",
-    "updatedAt": "2025-12-10T11:24:17.112Z"
+    "createdAt": "2025-12-10T12:56:32.961Z",
+    "updatedAt": "2025-12-10T12:56:32.961Z"
   },
   {
     "id": "7e22eb5753113e5c",
@@ -38,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69394d279a79479bb4d065bd",
     "publishedAt": "2025-12-10T10:42:55.000Z",
-    "createdAt": "2025-12-10T11:24:13.703Z",
-    "updatedAt": "2025-12-10T11:24:13.703Z"
+    "createdAt": "2025-12-10T12:56:27.650Z",
+    "updatedAt": "2025-12-10T12:56:27.650Z"
   },
   {
     "id": "d47166327edf0e05",
@@ -52,8 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69393e999a7947bcb60360fb",
     "publishedAt": "2025-12-10T10:15:01.000Z",
-    "createdAt": "2025-12-10T11:24:16.078Z",
-    "updatedAt": "2025-12-10T11:24:16.078Z"
+    "createdAt": "2025-12-10T12:56:30.730Z",
+    "updatedAt": "2025-12-10T12:56:30.730Z"
   },
   {
     "id": "a63fcf02a7b3982e",
@@ -66,77 +122,21 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6939390c9a7947d7ce555528",
     "publishedAt": "2025-12-10T09:53:53.000Z",
-    "createdAt": "2025-12-10T11:24:19.194Z",
-    "updatedAt": "2025-12-10T11:24:19.194Z"
+    "createdAt": "2025-12-10T12:56:34.960Z",
+    "updatedAt": "2025-12-10T12:56:34.960Z"
   },
   {
     "id": "cdd2eea37600a0d8",
     "title": "Bosco снова станет поставщиком формы для российских олимпийцев",
     "sport": "Другое",
     "category": "Другие",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/2/35/347346014321352.png",
+    "imageUrl": "/images/news-placeholder.jpg",
     "teaser": "Bosco снова станет поставщиком формы для российских олимпийцев",
     "fullContent": "",
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/693933de9a7947629adc06f8",
     "publishedAt": "2025-12-10T09:04:59.000Z",
-    "createdAt": "2025-12-10T11:24:21.301Z",
-    "updatedAt": "2025-12-10T11:24:21.301Z"
-  },
-  {
-    "id": "4f838c7872df5b4b",
-    "title": "Петр Ян рассказал о запрете UFC выходить на бои с флагом России",
-    "sport": "Единоборства",
-    "category": "Единоборства",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/8/63/347653545185638.jpeg",
-    "teaser": "Петр Ян рассказал о запрете UFC выходить на бои с флагом России",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69392be29a79474a8e21f236",
-    "publishedAt": "2025-12-10T08:37:07.000Z",
-    "createdAt": "2025-12-10T11:24:22.485Z",
-    "updatedAt": "2025-12-10T11:24:22.485Z"
-  },
-  {
-    "id": "9316069b0f670374",
-    "title": "Сборная Египта выступила против акции в поддержку ЛГБТ на ЧМ-26",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/1/35/347653523670351.jpeg",
-    "teaser": "Сборная Египта выступила против акции в поддержку ЛГБТ на ЧМ-26",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/693922bc9a79472b6a08eac8",
-    "publishedAt": "2025-12-10T08:29:04.000Z",
-    "createdAt": "2025-12-10T11:24:23.726Z",
-    "updatedAt": "2025-12-10T11:24:23.726Z"
-  },
-  {
-    "id": "29a68aad5942850b",
-    "title": "Гол и две передачи Грицюка помогли «Нью-Джерси» обыграть «Оттаву»",
-    "sport": "Хоккей",
-    "category": "Хоккей",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/1/00/347653502088001.jpeg",
-    "teaser": "Гол и две передачи Грицюка помогли «Нью-Джерси» обыграть «Оттаву»",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6939188e9a7947b459911e63",
-    "publishedAt": "2025-12-10T07:35:04.000Z",
-    "createdAt": "2025-12-10T11:24:26.155Z",
-    "updatedAt": "2025-12-10T11:24:26.155Z"
-  },
-  {
-    "id": "6d68c79226950b78",
-    "title": "Кучеров вошел в топ-5 лучших российских бомбардиров в истории НХЛ",
-    "sport": "Хоккей",
-    "category": "Хоккей",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/5/00/347653491046005.jpeg",
-    "teaser": "Кучеров вошел в топ-5 лучших российских бомбардиров в истории НХЛ",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/693914339a794784aa13fec6",
-    "publishedAt": "2025-12-10T07:15:33.000Z",
-    "createdAt": "2025-12-10T11:24:24.919Z",
-    "updatedAt": "2025-12-10T11:24:24.919Z"
+    "createdAt": "2025-12-10T12:56:36.940Z",
+    "updatedAt": "2025-12-10T12:56:36.940Z"
   }
 ]
