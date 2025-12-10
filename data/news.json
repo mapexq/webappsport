@@ -1,5 +1,61 @@
 [
   {
+    "id": "6d68c79226950b78",
+    "title": "Кучеров вошел в топ-5 лучших российских бомбардиров в истории НХЛ",
+    "sport": "Хоккей",
+    "category": "Хоккей",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/5/00/347653491046005.jpeg",
+    "teaser": "Кучеров вошел в топ-5 лучших российских бомбардиров в истории НХЛ",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/693914339a794784aa13fec6",
+    "publishedAt": "2025-12-10T07:15:33.000Z",
+    "createdAt": "2025-12-10T07:28:10.109Z",
+    "updatedAt": "2025-12-10T07:28:10.109Z"
+  },
+  {
+    "id": "24f04b9a880ffdca",
+    "title": "Ямаль обошел Мбаппе и установил новый рекорд в Лиге чемпионов",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/1/39/347653474138391.jpeg",
+    "teaser": "Ямаль обошел Мбаппе и установил новый рекорд в Лиге чемпионов",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69390e3c9a79476b29d7c903",
+    "publishedAt": "2025-12-10T07:11:46.000Z",
+    "createdAt": "2025-12-10T07:28:11.123Z",
+    "updatedAt": "2025-12-10T07:28:11.123Z"
+  },
+  {
+    "id": "68bc17af672f1551",
+    "title": "Россиянин в деле. Кто из медалистов выступит на «Олимпиаде на стероидах»",
+    "sport": "Другое",
+    "category": "Другие",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/7/16/347652883657167.jpeg",
+    "teaser": "Россиянин в деле. Кто из медалистов выступит на «Олимпиаде на стероидах»",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/68e8df259a7947ce151da787",
+    "publishedAt": "2025-12-10T07:00:47.000Z",
+    "createdAt": "2025-12-10T07:28:14.465Z",
+    "updatedAt": "2025-12-10T07:28:14.465Z"
+  },
+  {
+    "id": "0e5534e184f40001",
+    "title": "Стали известны 20 участников плей-офф Лиги чемпионов",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/0/29/347653183570290.jpeg",
+    "teaser": "Стали известны 20 участников плей-офф Лиги чемпионов",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6938975c9a79474f979a11db",
+    "publishedAt": "2025-12-09T22:20:34.000Z",
+    "createdAt": "2025-12-10T07:28:12.261Z",
+    "updatedAt": "2025-12-10T07:28:12.261Z"
+  },
+  {
     "id": "9022a82e98a5d6c3",
     "title": "Международная федерация гимнастики решила сменить название",
     "sport": "Другое",
@@ -10,8 +66,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69386b939a7947820e530b83",
     "publishedAt": "2025-12-09T18:44:13.000Z",
-    "createdAt": "2025-12-10T06:40:34.840Z",
-    "updatedAt": "2025-12-10T06:40:34.840Z"
+    "createdAt": "2025-12-10T07:28:15.553Z",
+    "updatedAt": "2025-12-10T07:28:15.553Z"
   },
   {
     "id": "4f0d6e5bb212f722",
@@ -24,8 +80,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6938675d9a7947728ebb052d",
     "publishedAt": "2025-12-09T18:27:10.000Z",
-    "createdAt": "2025-12-10T06:40:33.780Z",
-    "updatedAt": "2025-12-10T06:40:33.780Z"
+    "createdAt": "2025-12-10T07:28:13.384Z",
+    "updatedAt": "2025-12-10T07:28:13.384Z"
   },
   {
     "id": "920f663137b3afe7",
@@ -38,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69385eea9a79478fb6043b0e",
     "publishedAt": "2025-12-09T17:47:39.000Z",
-    "createdAt": "2025-12-10T06:40:35.860Z",
-    "updatedAt": "2025-12-10T06:40:35.860Z"
+    "createdAt": "2025-12-10T07:28:16.686Z",
+    "updatedAt": "2025-12-10T07:28:16.686Z"
   },
   {
     "id": "fcdd6c3e58525f5e",
@@ -52,8 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6938570f9a7947640d7a0621",
     "publishedAt": "2025-12-09T17:23:42.000Z",
-    "createdAt": "2025-12-10T06:40:36.874Z",
-    "updatedAt": "2025-12-10T06:40:36.874Z"
+    "createdAt": "2025-12-10T07:28:17.735Z",
+    "updatedAt": "2025-12-10T07:28:17.735Z"
   },
   {
     "id": "72141afc2a077349",
@@ -66,8 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/693850839a79474f9974c12b",
     "publishedAt": "2025-12-09T16:46:14.000Z",
-    "createdAt": "2025-12-10T06:40:37.885Z",
-    "updatedAt": "2025-12-10T06:40:37.885Z"
+    "createdAt": "2025-12-10T07:28:18.817Z",
+    "updatedAt": "2025-12-10T07:28:18.817Z"
   },
   {
     "id": "fc2715cac146ed3e",
@@ -80,63 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/693849fa9a794746bf6d693c",
     "publishedAt": "2025-12-09T16:37:57.000Z",
-    "createdAt": "2025-12-10T06:40:38.896Z",
-    "updatedAt": "2025-12-10T06:40:38.896Z"
-  },
-  {
-    "id": "c1cf4d80fbedfce9",
-    "title": "Малкин выбыл на несколько недель из-за травмы",
-    "sport": "Хоккей",
-    "category": "Хоккей",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/9/89/347652929072899.jpeg",
-    "teaser": "Малкин выбыл на несколько недель из-за травмы",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69383b329a79477ef4f1c878",
-    "publishedAt": "2025-12-09T15:25:59.000Z",
-    "createdAt": "2025-12-10T06:40:39.913Z",
-    "updatedAt": "2025-12-10T06:40:39.913Z"
-  },
-  {
-    "id": "b8736b6674e3444e",
-    "title": "Гендиректор «Спартака» ответил на вопрос о поиске нового тренера",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/4/28/347652922269284.jpeg",
-    "teaser": "Гендиректор «Спартака» ответил на вопрос о поиске нового тренера",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/693838869a7947016dd38178",
-    "publishedAt": "2025-12-09T15:18:58.000Z",
-    "createdAt": "2025-12-10T06:40:40.932Z",
-    "updatedAt": "2025-12-10T06:40:40.932Z"
-  },
-  {
-    "id": "27f510cad05d99a2",
-    "title": "Холанд догнал Ямаля в списке самых дорогих футболистов мира",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/6/97/347652897813976.jpeg",
-    "teaser": "Холанд догнал Ямаля в списке самых дорогих футболистов мира",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69382efa9a794772a6ebec71",
-    "publishedAt": "2025-12-09T14:34:39.000Z",
-    "createdAt": "2025-12-10T06:40:41.948Z",
-    "updatedAt": "2025-12-10T06:40:41.948Z"
-  },
-  {
-    "id": "97102417fa2b8d33",
-    "title": "Федерация отреагировала на заявку россиянина на «Олимпиаду на стероидах»",
-    "sport": "Другое",
-    "category": "Другие",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/3/79/347652850636793.jpeg",
-    "teaser": "Федерация отреагировала на заявку россиянина на «Олимпиаду на стероидах»",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69381c9f9a7947865cd0b88b",
-    "publishedAt": "2025-12-09T13:46:14.000Z",
-    "createdAt": "2025-12-10T06:40:42.979Z",
-    "updatedAt": "2025-12-10T06:40:42.979Z"
+    "createdAt": "2025-12-10T07:28:19.939Z",
+    "updatedAt": "2025-12-10T07:28:19.939Z"
   }
 ]
