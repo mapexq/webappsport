@@ -1,5 +1,47 @@
 [
   {
+    "id": "54a318fec5e07c80",
+    "title": "МОК разрешил проводить международные турниры в Белоруссии",
+    "sport": "Другое",
+    "category": "Другие",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/6/01/347654736211016.jpeg",
+    "teaser": "МОК разрешил проводить международные турниры в Белоруссии",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/693afac29a7947b24bb6cbcf",
+    "publishedAt": "2025-12-11T17:23:54.000Z",
+    "createdAt": "2025-12-11T17:31:28.175Z",
+    "updatedAt": "2025-12-11T17:31:28.175Z"
+  },
+  {
+    "id": "6523708a3612ab8b",
+    "title": "МОК снял ограничения на участие россиян в юношеских турнирах",
+    "sport": "Другое",
+    "category": "Другие",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/3/97/347654722408973.jpeg",
+    "teaser": "МОК снял ограничения на участие россиян в юношеских турнирах",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/693af6999a7947cd65ba7311",
+    "publishedAt": "2025-12-11T16:57:41.000Z",
+    "createdAt": "2025-12-11T17:31:27.138Z",
+    "updatedAt": "2025-12-11T17:31:27.138Z"
+  },
+  {
+    "id": "49cb2429e515035a",
+    "title": "Чемпионат России по BMX-фристайлу в аэропорту Домодедово отменили",
+    "sport": "Другое",
+    "category": "Другие",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/6/38/347654703928386.png",
+    "teaser": "Чемпионат России по BMX-фристайлу в аэропорту Домодедово отменили",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/693aee4a9a7947908a5e3c2e",
+    "publishedAt": "2025-12-11T16:36:16.000Z",
+    "createdAt": "2025-12-11T17:31:29.200Z",
+    "updatedAt": "2025-12-11T17:31:29.200Z"
+  },
+  {
     "id": "241aa500e90f6a31",
     "title": "Сборная «Россия 25» выиграла Кубок «Первого канала» по хоккею 3х3",
     "sport": "Хоккей",
@@ -10,8 +52,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/693ae8059a79477d0256fcdd",
     "publishedAt": "2025-12-11T16:14:58.000Z",
-    "createdAt": "2025-12-11T16:38:13.031Z",
-    "updatedAt": "2025-12-11T16:38:13.031Z"
+    "createdAt": "2025-12-11T17:31:31.462Z",
+    "updatedAt": "2025-12-11T17:31:31.462Z"
   },
   {
     "id": "0fbc6344b747a2cc",
@@ -24,8 +66,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/693ae5079a79475c2a277e35",
     "publishedAt": "2025-12-11T16:06:55.000Z",
-    "createdAt": "2025-12-11T16:38:17.929Z",
-    "updatedAt": "2025-12-11T16:38:17.929Z"
+    "createdAt": "2025-12-11T17:31:35.761Z",
+    "updatedAt": "2025-12-11T17:31:35.761Z"
   },
   {
     "id": "a197b87e3ddf0674",
@@ -38,8 +80,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/693ad1979a794723e52f12bf",
     "publishedAt": "2025-12-11T15:45:53.000Z",
-    "createdAt": "2025-12-11T16:38:14.070Z",
-    "updatedAt": "2025-12-11T16:38:14.070Z"
+    "createdAt": "2025-12-11T17:31:32.563Z",
+    "updatedAt": "2025-12-11T17:31:32.563Z"
   },
   {
     "id": "a3673d0fbdd409be",
@@ -52,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/693acb169a79473dd528edb0",
     "publishedAt": "2025-12-11T15:15:32.000Z",
-    "createdAt": "2025-12-11T16:38:15.967Z",
-    "updatedAt": "2025-12-11T16:38:15.967Z"
+    "createdAt": "2025-12-11T17:31:34.664Z",
+    "updatedAt": "2025-12-11T17:31:34.664Z"
   },
   {
     "id": "74bd8a878c929344",
@@ -66,8 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69384ca29a79475cd3b00ced",
     "publishedAt": "2025-12-11T15:04:22.000Z",
-    "createdAt": "2025-12-11T16:38:16.992Z",
-    "updatedAt": "2025-12-11T16:38:16.992Z"
+    "createdAt": "2025-12-11T17:31:30.376Z",
+    "updatedAt": "2025-12-11T17:31:30.376Z"
   },
   {
     "id": "bc20689c368022ec",
@@ -80,8 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/693ac6909a79476330784bef",
     "publishedAt": "2025-12-11T14:56:17.000Z",
-    "createdAt": "2025-12-11T16:38:19.978Z",
-    "updatedAt": "2025-12-11T16:38:19.978Z"
+    "createdAt": "2025-12-11T17:31:37.979Z",
+    "updatedAt": "2025-12-11T17:31:37.979Z"
   },
   {
     "id": "4da48c161e9496cb",
@@ -94,49 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/693ac5489a7947331342fec9",
     "publishedAt": "2025-12-11T14:05:11.000Z",
-    "createdAt": "2025-12-11T16:38:18.921Z",
-    "updatedAt": "2025-12-11T16:38:18.921Z"
-  },
-  {
-    "id": "259bb2f843e44b2e",
-    "title": "RMC Sport узнал, что автобус ПСЖ забросали камнями в Бильбао после матча",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/6/91/347654586058916.png",
-    "teaser": "RMC Sport узнал, что автобус ПСЖ забросали камнями в Бильбао после матча",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/693abfc19a7947d05b719e8c",
-    "publishedAt": "2025-12-11T13:35:03.000Z",
-    "createdAt": "2025-12-11T16:38:21.183Z",
-    "updatedAt": "2025-12-11T16:38:21.183Z"
-  },
-  {
-    "id": "cdc4df7259caa140",
-    "title": "Коростелев рассказал о встрече с выступавшим против допуска россиян Клебо",
-    "sport": "Другое",
-    "category": "Другие",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/9/99/347654563201999.png",
-    "teaser": "Коростелев рассказал о встрече с выступавшим против допуска россиян Клебо",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/693ab9799a79477411cda676",
-    "publishedAt": "2025-12-11T12:51:35.000Z",
-    "createdAt": "2025-12-11T16:38:22.168Z",
-    "updatedAt": "2025-12-11T16:38:22.168Z"
-  },
-  {
-    "id": "538623be607fe5c5",
-    "title": "Суперкомпьютер назвал главных претендентов на победу в Лиге чемпионов",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/7/78/347654550398787.jpeg",
-    "teaser": "Суперкомпьютер назвал главных претендентов на победу в Лиге чемпионов",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/693ab4979a79473bff875a0b",
-    "publishedAt": "2025-12-11T12:42:53.000Z",
-    "createdAt": "2025-12-11T16:38:23.296Z",
-    "updatedAt": "2025-12-11T16:38:23.296Z"
+    "createdAt": "2025-12-11T17:31:36.883Z",
+    "updatedAt": "2025-12-11T17:31:36.883Z"
   }
 ]
