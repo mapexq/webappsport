@@ -1,5 +1,47 @@
 [
   {
+    "id": "241aa500e90f6a31",
+    "title": "Сборная «Россия 25» выиграла Кубок «Первого канала» по хоккею 3х3",
+    "sport": "Хоккей",
+    "category": "Хоккей",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/6/17/347654682722176.png",
+    "teaser": "Сборная «Россия 25» выиграла Кубок «Первого канала» по хоккею 3х3",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/693ae8059a79477d0256fcdd",
+    "publishedAt": "2025-12-11T16:14:58.000Z",
+    "createdAt": "2025-12-11T16:38:13.031Z",
+    "updatedAt": "2025-12-11T16:38:13.031Z"
+  },
+  {
+    "id": "0fbc6344b747a2cc",
+    "title": "«Спартак» проведет зимние сборы в ОАЭ",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/1/35/347654674550351.png",
+    "teaser": "«Спартак» проведет зимние сборы в ОАЭ",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/693ae5079a79475c2a277e35",
+    "publishedAt": "2025-12-11T16:06:55.000Z",
+    "createdAt": "2025-12-11T16:38:17.929Z",
+    "updatedAt": "2025-12-11T16:38:17.929Z"
+  },
+  {
+    "id": "a197b87e3ddf0674",
+    "title": "Чемпионку Игр увезли на вертолете с горнолыжной трассы после падения",
+    "sport": "Другое",
+    "category": "Другие",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/9/35/347654655257359.jpeg",
+    "teaser": "Чемпионку Игр увезли на вертолете с горнолыжной трассы после падения",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/693ad1979a794723e52f12bf",
+    "publishedAt": "2025-12-11T15:45:53.000Z",
+    "createdAt": "2025-12-11T16:38:14.070Z",
+    "updatedAt": "2025-12-11T16:38:14.070Z"
+  },
+  {
     "id": "a3673d0fbdd409be",
     "title": "Фанаты подожгли стадион собственного клуба после вылета из элиты",
     "sport": "Футбол",
@@ -10,8 +52,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/693acb169a79473dd528edb0",
     "publishedAt": "2025-12-11T15:15:32.000Z",
-    "createdAt": "2025-12-11T15:31:48.181Z",
-    "updatedAt": "2025-12-11T15:31:48.181Z"
+    "createdAt": "2025-12-11T16:38:15.967Z",
+    "updatedAt": "2025-12-11T16:38:15.967Z"
   },
   {
     "id": "74bd8a878c929344",
@@ -24,8 +66,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69384ca29a79475cd3b00ced",
     "publishedAt": "2025-12-11T15:04:22.000Z",
-    "createdAt": "2025-12-11T15:31:51.087Z",
-    "updatedAt": "2025-12-11T15:31:51.087Z"
+    "createdAt": "2025-12-11T16:38:16.992Z",
+    "updatedAt": "2025-12-11T16:38:16.992Z"
   },
   {
     "id": "bc20689c368022ec",
@@ -38,8 +80,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/693ac6909a79476330784bef",
     "publishedAt": "2025-12-11T14:56:17.000Z",
-    "createdAt": "2025-12-11T15:31:50.149Z",
-    "updatedAt": "2025-12-11T15:31:50.149Z"
+    "createdAt": "2025-12-11T16:38:19.978Z",
+    "updatedAt": "2025-12-11T16:38:19.978Z"
   },
   {
     "id": "4da48c161e9496cb",
@@ -52,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/693ac5489a7947331342fec9",
     "publishedAt": "2025-12-11T14:05:11.000Z",
-    "createdAt": "2025-12-11T15:31:49.184Z",
-    "updatedAt": "2025-12-11T15:31:49.184Z"
+    "createdAt": "2025-12-11T16:38:18.921Z",
+    "updatedAt": "2025-12-11T16:38:18.921Z"
   },
   {
     "id": "259bb2f843e44b2e",
@@ -66,8 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/693abfc19a7947d05b719e8c",
     "publishedAt": "2025-12-11T13:35:03.000Z",
-    "createdAt": "2025-12-11T15:31:52.059Z",
-    "updatedAt": "2025-12-11T15:31:52.059Z"
+    "createdAt": "2025-12-11T16:38:21.183Z",
+    "updatedAt": "2025-12-11T16:38:21.183Z"
   },
   {
     "id": "cdc4df7259caa140",
@@ -80,8 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/693ab9799a79477411cda676",
     "publishedAt": "2025-12-11T12:51:35.000Z",
-    "createdAt": "2025-12-11T15:31:53.039Z",
-    "updatedAt": "2025-12-11T15:31:53.039Z"
+    "createdAt": "2025-12-11T16:38:22.168Z",
+    "updatedAt": "2025-12-11T16:38:22.168Z"
   },
   {
     "id": "538623be607fe5c5",
@@ -94,49 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/693ab4979a79473bff875a0b",
     "publishedAt": "2025-12-11T12:42:53.000Z",
-    "createdAt": "2025-12-11T15:31:54.142Z",
-    "updatedAt": "2025-12-11T15:31:54.142Z"
-  },
-  {
-    "id": "b608ce40ac3ce5bd",
-    "title": "Российские саночники успеют только на один из двух этапов КМ в США",
-    "sport": "Другое",
-    "category": "Другие",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/7/48/347654514015487.png",
-    "teaser": "Российские саночники успеют только на один из двух этапов КМ в США",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/693aa54b9a7947394647527a",
-    "publishedAt": "2025-12-11T11:46:24.000Z",
-    "createdAt": "2025-12-11T15:31:57.260Z",
-    "updatedAt": "2025-12-11T15:31:57.260Z"
-  },
-  {
-    "id": "0f52efbec0845466",
-    "title": "Умер президент Федерации хоккея с мячом России Борис Скрынник",
-    "sport": "Другое",
-    "category": "Другие",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/4/62/347654500217624.png",
-    "teaser": "Умер президент Федерации хоккея с мячом России Борис Скрынник",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/693aa07b9a794791816efc3c",
-    "publishedAt": "2025-12-11T11:00:16.000Z",
-    "createdAt": "2025-12-11T15:31:56.225Z",
-    "updatedAt": "2025-12-11T15:31:56.225Z"
-  },
-  {
-    "id": "f256bcfdb4278694",
-    "title": "Каковы шансы российских лыжников отобраться на Олимпиаду-2026",
-    "sport": "Другое",
-    "category": "Другие",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/5/02/347653706688025.jpeg",
-    "teaser": "Каковы шансы российских лыжников отобраться на Олимпиаду-2026",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69395f519a7947ff1755da9c",
-    "publishedAt": "2025-12-11T06:31:56.000Z",
-    "createdAt": "2025-12-11T15:31:55.184Z",
-    "updatedAt": "2025-12-11T15:31:55.184Z"
+    "createdAt": "2025-12-11T16:38:23.296Z",
+    "updatedAt": "2025-12-11T16:38:23.296Z"
   }
 ]
