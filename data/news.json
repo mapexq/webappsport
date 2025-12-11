@@ -1,5 +1,61 @@
 [
   {
+    "id": "0f52efbec0845466",
+    "title": "Умер президент Федерации хоккея с мячом России Борис Скрынник",
+    "sport": "Другое",
+    "category": "Другие",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/4/62/347654500217624.png",
+    "teaser": "Умер президент Федерации хоккея с мячом России Борис Скрынник",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/693aa07b9a794791816efc3c",
+    "publishedAt": "2025-12-11T11:00:16.000Z",
+    "createdAt": "2025-12-11T11:24:40.691Z",
+    "updatedAt": "2025-12-11T11:24:40.691Z"
+  },
+  {
+    "id": "dbc005f46c451b43",
+    "title": "Авербух назвал «категорией Б» уровень финала Гран-при ISU без россиянок",
+    "sport": "Другое",
+    "category": "Фигурное катание",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/8/27/347654487802278.png",
+    "teaser": "Авербух назвал «категорией Б» уровень финала Гран-при ISU без россиянок",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/693a99879a794724dfa44295",
+    "publishedAt": "2025-12-11T10:52:56.000Z",
+    "createdAt": "2025-12-11T11:24:41.789Z",
+    "updatedAt": "2025-12-11T11:24:41.789Z"
+  },
+  {
+    "id": "cbced9aec58d85d3",
+    "title": "Сафонов эмодзи с огоньком оценил сухую игру в первом за год матче ЛЧ",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/7/66/347654449328667.png",
+    "teaser": "Сафонов эмодзи с огоньком оценил сухую игру в первом за год матче ЛЧ",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/693a8c419a7947d36f3ea9b5",
+    "publishedAt": "2025-12-11T10:29:23.000Z",
+    "createdAt": "2025-12-11T11:24:42.792Z",
+    "updatedAt": "2025-12-11T11:24:42.792Z"
+  },
+  {
+    "id": "8088be8a64bf92c2",
+    "title": "Крянин назвал «реальным шагом вперед» допуск российским лыжникам от FIS",
+    "sport": "Другое",
+    "category": "Другие",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/6/94/347654455861946.jpeg",
+    "teaser": "Крянин назвал «реальным шагом вперед» допуск российским лыжникам от FIS",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/693a79289a79478d1fef731d",
+    "publishedAt": "2025-12-11T10:27:52.000Z",
+    "createdAt": "2025-12-11T11:24:45.684Z",
+    "updatedAt": "2025-12-11T11:24:45.684Z"
+  },
+  {
     "id": "bebaddf827de881f",
     "title": "Большунов стал пятым в гонке на 15 км на этапе Кубка России в Чусовом",
     "sport": "Другое",
@@ -10,8 +66,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/693a8e779a7947da92ad790f",
     "publishedAt": "2025-12-11T09:44:01.000Z",
-    "createdAt": "2025-12-11T10:31:20.389Z",
-    "updatedAt": "2025-12-11T10:31:20.389Z"
+    "createdAt": "2025-12-11T11:24:46.757Z",
+    "updatedAt": "2025-12-11T11:24:46.757Z"
   },
   {
     "id": "ec7310b5d3182156",
@@ -24,8 +80,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/693a84039a79471a5cbad0fd",
     "publishedAt": "2025-12-11T09:29:55.000Z",
-    "createdAt": "2025-12-11T10:31:19.324Z",
-    "updatedAt": "2025-12-11T10:31:19.324Z"
+    "createdAt": "2025-12-11T11:24:44.642Z",
+    "updatedAt": "2025-12-11T11:24:44.642Z"
   },
   {
     "id": "be68ee9fefed4c76",
@@ -38,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/693a77b79a794734bafe1067",
     "publishedAt": "2025-12-11T08:48:33.000Z",
-    "createdAt": "2025-12-11T10:31:21.535Z",
-    "updatedAt": "2025-12-11T10:31:21.535Z"
+    "createdAt": "2025-12-11T11:24:47.827Z",
+    "updatedAt": "2025-12-11T11:24:47.827Z"
   },
   {
     "id": "478a2918a6c70c92",
@@ -52,8 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/693a6ef99a7947485af67b02",
     "publishedAt": "2025-12-11T08:42:38.000Z",
-    "createdAt": "2025-12-11T10:31:22.650Z",
-    "updatedAt": "2025-12-11T10:31:22.650Z"
+    "createdAt": "2025-12-11T11:24:48.894Z",
+    "updatedAt": "2025-12-11T11:24:48.894Z"
   },
   {
     "id": "7bf33da1b76fdeae",
@@ -66,8 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/693a663c9a79478db16d7793",
     "publishedAt": "2025-12-11T07:17:23.000Z",
-    "createdAt": "2025-12-11T10:31:23.711Z",
-    "updatedAt": "2025-12-11T10:31:23.711Z"
+    "createdAt": "2025-12-11T11:24:49.960Z",
+    "updatedAt": "2025-12-11T11:24:49.960Z"
   },
   {
     "id": "4e3527e8b36fd03a",
@@ -80,63 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/693a69e39a7947d6b43bae37",
     "publishedAt": "2025-12-11T07:09:54.000Z",
-    "createdAt": "2025-12-11T10:31:24.739Z",
-    "updatedAt": "2025-12-11T10:31:24.739Z"
-  },
-  {
-    "id": "7c0c95d65cdd424c",
-    "title": "Бобровский отразил 27 бросков и помог «Флориде» победить «Юту» в НХЛ",
-    "sport": "Хоккей",
-    "category": "Хоккей",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/1/59/347654344129591.jpeg",
-    "teaser": "Бобровский отразил 27 бросков и помог «Флориде» победить «Юту» в НХЛ",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/693a61989a7947b1f8287b5b",
-    "publishedAt": "2025-12-11T07:04:28.000Z",
-    "createdAt": "2025-12-11T10:31:30.457Z",
-    "updatedAt": "2025-12-11T10:31:30.457Z"
-  },
-  {
-    "id": "f256bcfdb4278694",
-    "title": "Каковы шансы российских лыжников отобраться на Олимпиаду-2026",
-    "sport": "Другое",
-    "category": "Другие",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/5/02/347653706688025.jpeg",
-    "teaser": "Каковы шансы российских лыжников отобраться на Олимпиаду-2026",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69395f519a7947ff1755da9c",
-    "publishedAt": "2025-12-11T06:31:56.000Z",
-    "createdAt": "2025-12-11T10:31:26.137Z",
-    "updatedAt": "2025-12-11T10:31:26.137Z"
-  },
-  {
-    "id": "27a33885514c942a",
-    "title": "Стали известны 15 участников плей-офф Лиги чемпионов",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/0/29/347653183570290.jpeg",
-    "teaser": "Стали известны 15 участников плей-офф Лиги чемпионов",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6938975c9a79474f979a11db",
-    "publishedAt": "2025-12-10T22:20:34.000Z",
-    "createdAt": "2025-12-11T10:31:29.289Z",
-    "updatedAt": "2025-12-11T10:31:29.289Z"
-  },
-  {
-    "id": "9f4e36bbf43cf7d2",
-    "title": "Глава МОК ответила украинцу на вопрос об отзыве допуска на Игры у россиян",
-    "sport": "Другое",
-    "category": "Другие",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/5/54/347653923415545.jpeg",
-    "teaser": "Глава МОК ответила украинцу на вопрос об отзыве допуска на Игры у россиян",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6939ba8c9a79478639f5ff88",
-    "publishedAt": "2025-12-10T21:34:54.000Z",
-    "createdAt": "2025-12-11T10:31:28.184Z",
-    "updatedAt": "2025-12-11T10:31:28.184Z"
+    "createdAt": "2025-12-11T11:24:50.983Z",
+    "updatedAt": "2025-12-11T11:24:50.983Z"
   }
 ]
