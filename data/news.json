@@ -1,5 +1,33 @@
 [
   {
+    "id": "db133a3dd082e517",
+    "title": "Лучшему российскому лыжнику сезона отказали в нейтральном статусе",
+    "sport": "Другое",
+    "category": "Другие",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/2/79/347654760418792.png",
+    "teaser": "Лучшему российскому лыжнику сезона отказали в нейтральном статусе",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/693b06959a7947990bff41bf",
+    "publishedAt": "2025-12-11T18:18:37.000Z",
+    "createdAt": "2025-12-11T18:38:02.123Z",
+    "updatedAt": "2025-12-11T18:38:02.123Z"
+  },
+  {
+    "id": "4f59d55b92dce8ff",
+    "title": "Дегтярев поблагодарил МОК за снятие ограничений на юношеские турниры",
+    "sport": "Другое",
+    "category": "Другие",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/3/94/347654739607943.png",
+    "teaser": "Дегтярев поблагодарил МОК за снятие ограничений на юношеские турниры",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/693afe999a79471abacb8628",
+    "publishedAt": "2025-12-11T17:42:00.000Z",
+    "createdAt": "2025-12-11T18:38:03.871Z",
+    "updatedAt": "2025-12-11T18:38:03.871Z"
+  },
+  {
     "id": "54a318fec5e07c80",
     "title": "МОК разрешил проводить международные турниры в Белоруссии",
     "sport": "Другое",
@@ -10,8 +38,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/693afac29a7947b24bb6cbcf",
     "publishedAt": "2025-12-11T17:23:54.000Z",
-    "createdAt": "2025-12-11T17:31:28.175Z",
-    "updatedAt": "2025-12-11T17:31:28.175Z"
+    "createdAt": "2025-12-11T18:38:06.843Z",
+    "updatedAt": "2025-12-11T18:38:06.843Z"
   },
   {
     "id": "6523708a3612ab8b",
@@ -24,8 +52,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/693af6999a7947cd65ba7311",
     "publishedAt": "2025-12-11T16:57:41.000Z",
-    "createdAt": "2025-12-11T17:31:27.138Z",
-    "updatedAt": "2025-12-11T17:31:27.138Z"
+    "createdAt": "2025-12-11T18:38:04.868Z",
+    "updatedAt": "2025-12-11T18:38:04.868Z"
   },
   {
     "id": "49cb2429e515035a",
@@ -38,8 +66,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/693aee4a9a7947908a5e3c2e",
     "publishedAt": "2025-12-11T16:36:16.000Z",
-    "createdAt": "2025-12-11T17:31:29.200Z",
-    "updatedAt": "2025-12-11T17:31:29.200Z"
+    "createdAt": "2025-12-11T18:38:07.852Z",
+    "updatedAt": "2025-12-11T18:38:07.852Z"
   },
   {
     "id": "241aa500e90f6a31",
@@ -52,8 +80,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/693ae8059a79477d0256fcdd",
     "publishedAt": "2025-12-11T16:14:58.000Z",
-    "createdAt": "2025-12-11T17:31:31.462Z",
-    "updatedAt": "2025-12-11T17:31:31.462Z"
+    "createdAt": "2025-12-11T18:38:08.834Z",
+    "updatedAt": "2025-12-11T18:38:08.834Z"
   },
   {
     "id": "0fbc6344b747a2cc",
@@ -66,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/693ae5079a79475c2a277e35",
     "publishedAt": "2025-12-11T16:06:55.000Z",
-    "createdAt": "2025-12-11T17:31:35.761Z",
-    "updatedAt": "2025-12-11T17:31:35.761Z"
+    "createdAt": "2025-12-11T18:38:12.613Z",
+    "updatedAt": "2025-12-11T18:38:12.613Z"
   },
   {
     "id": "a197b87e3ddf0674",
@@ -80,8 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/693ad1979a794723e52f12bf",
     "publishedAt": "2025-12-11T15:45:53.000Z",
-    "createdAt": "2025-12-11T17:31:32.563Z",
-    "updatedAt": "2025-12-11T17:31:32.563Z"
+    "createdAt": "2025-12-11T18:38:09.896Z",
+    "updatedAt": "2025-12-11T18:38:09.896Z"
   },
   {
     "id": "a3673d0fbdd409be",
@@ -94,8 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/693acb169a79473dd528edb0",
     "publishedAt": "2025-12-11T15:15:32.000Z",
-    "createdAt": "2025-12-11T17:31:34.664Z",
-    "updatedAt": "2025-12-11T17:31:34.664Z"
+    "createdAt": "2025-12-11T18:38:11.658Z",
+    "updatedAt": "2025-12-11T18:38:11.658Z"
   },
   {
     "id": "74bd8a878c929344",
@@ -108,35 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69384ca29a79475cd3b00ced",
     "publishedAt": "2025-12-11T15:04:22.000Z",
-    "createdAt": "2025-12-11T17:31:30.376Z",
-    "updatedAt": "2025-12-11T17:31:30.376Z"
-  },
-  {
-    "id": "bc20689c368022ec",
-    "title": "IBU заявил, что уверен в своей позиции перед слушанием в CAS по россиянам",
-    "sport": "Другое",
-    "category": "Биатлон",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/2/00/347654638692002.png",
-    "teaser": "IBU заявил, что уверен в своей позиции перед слушанием в CAS по россиянам",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/693ac6909a79476330784bef",
-    "publishedAt": "2025-12-11T14:56:17.000Z",
-    "createdAt": "2025-12-11T17:31:37.979Z",
-    "updatedAt": "2025-12-11T17:31:37.979Z"
-  },
-  {
-    "id": "4da48c161e9496cb",
-    "title": "Месси откроет 20-метровый памятник самому себе в Индии",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/9/06/347654593313069.png",
-    "teaser": "Месси откроет 20-метровый памятник самому себе в Индии",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/693ac5489a7947331342fec9",
-    "publishedAt": "2025-12-11T14:05:11.000Z",
-    "createdAt": "2025-12-11T17:31:36.883Z",
-    "updatedAt": "2025-12-11T17:31:36.883Z"
+    "createdAt": "2025-12-11T18:38:05.894Z",
+    "updatedAt": "2025-12-11T18:38:05.894Z"
   }
 ]
