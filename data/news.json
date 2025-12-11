@@ -1,5 +1,33 @@
 [
   {
+    "id": "be68ee9fefed4c76",
+    "title": "Канадец перешел в «Авангард» спустя три дня после ухода из «Трактора»",
+    "sport": "Хоккей",
+    "category": "Хоккей",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/2/42/347654407134422.jpeg",
+    "teaser": "Канадец перешел в «Авангард» спустя три дня после ухода из «Трактора»",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/693a77b79a794734bafe1067",
+    "publishedAt": "2025-12-11T08:48:33.000Z",
+    "createdAt": "2025-12-11T09:32:14.471Z",
+    "updatedAt": "2025-12-11T09:32:14.471Z"
+  },
+  {
+    "id": "478a2918a6c70c92",
+    "title": "Соболенко заявила, что не хочет менять спортивное гражданство",
+    "sport": "Теннис",
+    "category": "Теннис",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/0/02/347654379127020.jpeg",
+    "teaser": "Соболенко заявила, что не хочет менять спортивное гражданство",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/693a6ef99a7947485af67b02",
+    "publishedAt": "2025-12-11T08:42:38.000Z",
+    "createdAt": "2025-12-11T09:32:15.510Z",
+    "updatedAt": "2025-12-11T09:32:15.510Z"
+  },
+  {
     "id": "7bf33da1b76fdeae",
     "title": "Россиянка начала поиск спонсоров для участия в квалификации Олимпиады",
     "sport": "Другое",
@@ -10,8 +38,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/693a663c9a79478db16d7793",
     "publishedAt": "2025-12-11T07:17:23.000Z",
-    "createdAt": "2025-12-11T08:36:50.784Z",
-    "updatedAt": "2025-12-11T08:36:50.784Z"
+    "createdAt": "2025-12-11T09:32:16.609Z",
+    "updatedAt": "2025-12-11T09:32:16.609Z"
   },
   {
     "id": "4e3527e8b36fd03a",
@@ -24,8 +52,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/693a69e39a7947d6b43bae37",
     "publishedAt": "2025-12-11T07:09:54.000Z",
-    "createdAt": "2025-12-11T08:36:51.818Z",
-    "updatedAt": "2025-12-11T08:36:51.818Z"
+    "createdAt": "2025-12-11T09:32:17.699Z",
+    "updatedAt": "2025-12-11T09:32:17.699Z"
   },
   {
     "id": "7c0c95d65cdd424c",
@@ -38,8 +66,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/693a61989a7947b1f8287b5b",
     "publishedAt": "2025-12-11T07:04:28.000Z",
-    "createdAt": "2025-12-11T08:36:53.966Z",
-    "updatedAt": "2025-12-11T08:36:53.966Z"
+    "createdAt": "2025-12-11T09:32:23.024Z",
+    "updatedAt": "2025-12-11T09:32:23.024Z"
   },
   {
     "id": "f256bcfdb4278694",
@@ -52,8 +80,36 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69395f519a7947ff1755da9c",
     "publishedAt": "2025-12-11T06:31:56.000Z",
-    "createdAt": "2025-12-11T08:36:52.915Z",
-    "updatedAt": "2025-12-11T08:36:52.915Z"
+    "createdAt": "2025-12-11T09:32:18.775Z",
+    "updatedAt": "2025-12-11T09:32:18.775Z"
+  },
+  {
+    "id": "27a33885514c942a",
+    "title": "Стали известны 15 участников плей-офф Лиги чемпионов",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/0/29/347653183570290.jpeg",
+    "teaser": "Стали известны 15 участников плей-офф Лиги чемпионов",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6938975c9a79474f979a11db",
+    "publishedAt": "2025-12-10T22:20:34.000Z",
+    "createdAt": "2025-12-11T09:32:21.890Z",
+    "updatedAt": "2025-12-11T09:32:21.890Z"
+  },
+  {
+    "id": "9f4e36bbf43cf7d2",
+    "title": "Глава МОК ответила украинцу на вопрос об отзыве допуска на Игры у россиян",
+    "sport": "Другое",
+    "category": "Другие",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/5/54/347653923415545.jpeg",
+    "teaser": "Глава МОК ответила украинцу на вопрос об отзыве допуска на Игры у россиян",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6939ba8c9a79478639f5ff88",
+    "publishedAt": "2025-12-10T21:34:54.000Z",
+    "createdAt": "2025-12-11T09:32:20.726Z",
+    "updatedAt": "2025-12-11T09:32:20.726Z"
   },
   {
     "id": "f7de8aae159a641d",
@@ -66,8 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6939c1f79a79472357761911",
     "publishedAt": "2025-12-10T19:08:29.000Z",
-    "createdAt": "2025-12-11T08:36:55.169Z",
-    "updatedAt": "2025-12-11T08:36:55.169Z"
+    "createdAt": "2025-12-11T09:32:24.124Z",
+    "updatedAt": "2025-12-11T09:32:24.124Z"
   },
   {
     "id": "07c8314267408ce2",
@@ -80,63 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6939b28f9a794768ae0457d7",
     "publishedAt": "2025-12-10T18:10:21.000Z",
-    "createdAt": "2025-12-11T08:36:56.306Z",
-    "updatedAt": "2025-12-11T08:36:56.306Z"
-  },
-  {
-    "id": "bd79654fe46376e9",
-    "title": "Один из лучших российских волейболистов ушел из «Динамо» в «Белогорье»",
-    "sport": "Другое",
-    "category": "Другие",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/7/49/347653858583497.png",
-    "teaser": "Один из лучших российских волейболистов ушел из «Динамо» в «Белогорье»",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6939a54a9a7947e1bfc08426",
-    "publishedAt": "2025-12-10T17:18:05.000Z",
-    "createdAt": "2025-12-11T08:36:58.494Z",
-    "updatedAt": "2025-12-11T08:36:58.494Z"
-  },
-  {
-    "id": "5097b000070b0404",
-    "title": "Организаторы Олимпиады пообещали идеальный лед для игроков НХЛ",
-    "sport": "Хоккей",
-    "category": "Хоккей",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/3/71/347653831322713.jpeg",
-    "teaser": "Организаторы Олимпиады пообещали идеальный лед для игроков НХЛ",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6939995b9a794701332c5b43",
-    "publishedAt": "2025-12-10T16:31:27.000Z",
-    "createdAt": "2025-12-11T08:36:57.391Z",
-    "updatedAt": "2025-12-11T08:36:57.391Z"
-  },
-  {
-    "id": "b84eb420a57f6ec7",
-    "title": "Российского футболиста признали игроком месяца в чемпионате Греции",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/2/25/347653812526252.jpeg",
-    "teaser": "Российского футболиста признали игроком месяца в чемпионате Греции",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/693993639a7947177a667e92",
-    "publishedAt": "2025-12-10T16:04:14.000Z",
-    "createdAt": "2025-12-11T08:36:59.610Z",
-    "updatedAt": "2025-12-11T08:36:59.610Z"
-  },
-  {
-    "id": "c9a459855d0d7eef",
-    "title": "В Британии разрешили однополые дуэты в танцах на льду",
-    "sport": "Другое",
-    "category": "Фигурное катание",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/5/99/347653804111995.png",
-    "teaser": "В Британии разрешили однополые дуэты в танцах на льду",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69398e019a79475095809241",
-    "publishedAt": "2025-12-10T15:46:18.000Z",
-    "createdAt": "2025-12-11T08:37:00.712Z",
-    "updatedAt": "2025-12-11T08:37:00.712Z"
+    "createdAt": "2025-12-11T09:32:25.279Z",
+    "updatedAt": "2025-12-11T09:32:25.279Z"
   }
 ]
