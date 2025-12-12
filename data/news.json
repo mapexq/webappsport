@@ -1,5 +1,75 @@
 [
   {
+    "id": "869a3d7137ec2730",
+    "title": "Что такое машинное обучение и как оно меняет букмекерский бизнес",
+    "sport": "Другое",
+    "category": "Другие",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/3/76/347653815636763.jpeg",
+    "teaser": "Что такое машинное обучение и как оно меняет букмекерский бизнес",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6936d87e9a794706b71bff97",
+    "publishedAt": "2025-12-12T08:28:22.000Z",
+    "createdAt": "2025-12-12T08:37:04.142Z",
+    "updatedAt": "2025-12-12T08:37:04.142Z"
+  },
+  {
+    "id": "fda8c7987438642e",
+    "title": "Cнуп Догг стал почетным тренером сборной США на Олимпиаде",
+    "sport": "Другое",
+    "category": "Другие",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/3/41/347655265280413.jpeg",
+    "teaser": "Cнуп Догг стал почетным тренером сборной США на Олимпиаде",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/693bcbc99a794726a98fff3d",
+    "publishedAt": "2025-12-12T08:13:12.000Z",
+    "createdAt": "2025-12-12T08:37:01.250Z",
+    "updatedAt": "2025-12-12T08:37:01.250Z"
+  },
+  {
+    "id": "86f81ae6b84bed2e",
+    "title": "Кремлев не увидел выбора у МОК при отмене ограничений для юношей",
+    "sport": "Единоборства",
+    "category": "Единоборства",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/8/39/347655258680398.jpeg",
+    "teaser": "Кремлев не увидел выбора у МОК при отмене ограничений для юношей",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/693bc8c29a7947740cfb7bf0",
+    "publishedAt": "2025-12-12T08:12:35.000Z",
+    "createdAt": "2025-12-12T08:37:02.150Z",
+    "updatedAt": "2025-12-12T08:37:02.150Z"
+  },
+  {
+    "id": "60873181253e18d9",
+    "title": "В FIDE предложили допустить россиян к командным соревнованиям",
+    "sport": "Другое",
+    "category": "Другие",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/1/62/347655245515621.jpeg",
+    "teaser": "В FIDE предложили допустить россиян к командным соревнованиям",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/693bc42d9a7947eb83ed7ca2",
+    "publishedAt": "2025-12-12T07:51:32.000Z",
+    "createdAt": "2025-12-12T08:37:03.178Z",
+    "updatedAt": "2025-12-12T08:37:03.178Z"
+  },
+  {
+    "id": "16af3e382c1aa87f",
+    "title": "Кучеров сделал ассистентский покер в матче НХЛ",
+    "sport": "Хоккей",
+    "category": "Хоккей",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/2/85/347655238343852.jpeg",
+    "teaser": "Кучеров сделал ассистентский покер в матче НХЛ",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/693bc1439a794764e63b9acc",
+    "publishedAt": "2025-12-12T07:31:23.000Z",
+    "createdAt": "2025-12-12T08:37:05.104Z",
+    "updatedAt": "2025-12-12T08:37:05.104Z"
+  },
+  {
     "id": "9b19d4d7e76e4821",
     "title": "Овечкин набрал 1800 очков в НХЛ",
     "sport": "Хоккей",
@@ -10,8 +80,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/693bbedf9a79474f5b0c7d00",
     "publishedAt": "2025-12-12T07:22:46.000Z",
-    "createdAt": "2025-12-12T07:27:54.267Z",
-    "updatedAt": "2025-12-12T07:27:54.267Z"
+    "createdAt": "2025-12-12T08:37:06.177Z",
+    "updatedAt": "2025-12-12T08:37:06.177Z"
   },
   {
     "id": "66ae539eec804348",
@@ -24,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/693b51fb9a7947d074ccf6ac",
     "publishedAt": "2025-12-11T23:35:29.000Z",
-    "createdAt": "2025-12-12T07:27:56.279Z",
-    "updatedAt": "2025-12-12T07:27:56.279Z"
+    "createdAt": "2025-12-12T08:37:07.921Z",
+    "updatedAt": "2025-12-12T08:37:07.921Z"
   },
   {
     "id": "5ec9e5b5210ae20f",
@@ -38,8 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/693b35d79a7947ad060a3536",
     "publishedAt": "2025-12-11T22:38:07.000Z",
-    "createdAt": "2025-12-12T07:27:57.391Z",
-    "updatedAt": "2025-12-12T07:27:57.391Z"
+    "createdAt": "2025-12-12T08:37:09.023Z",
+    "updatedAt": "2025-12-12T08:37:09.023Z"
   },
   {
     "id": "6e169ea8e56e5e31",
@@ -52,8 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/693b0dff9a7947348d004c82",
     "publishedAt": "2025-12-11T18:44:40.000Z",
-    "createdAt": "2025-12-12T07:27:58.540Z",
-    "updatedAt": "2025-12-12T07:27:58.540Z"
+    "createdAt": "2025-12-12T08:37:10.055Z",
+    "updatedAt": "2025-12-12T08:37:10.055Z"
   },
   {
     "id": "db133a3dd082e517",
@@ -66,77 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/693b06959a7947990bff41bf",
     "publishedAt": "2025-12-11T18:18:37.000Z",
-    "createdAt": "2025-12-12T07:27:59.807Z",
-    "updatedAt": "2025-12-12T07:27:59.807Z"
-  },
-  {
-    "id": "4f59d55b92dce8ff",
-    "title": "Дегтярев поблагодарил МОК за снятие ограничений на юношеские турниры",
-    "sport": "Другое",
-    "category": "Другие",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/3/94/347654739607943.png",
-    "teaser": "Дегтярев поблагодарил МОК за снятие ограничений на юношеские турниры",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/693afe999a79471abacb8628",
-    "publishedAt": "2025-12-11T17:42:00.000Z",
-    "createdAt": "2025-12-12T07:28:04.379Z",
-    "updatedAt": "2025-12-12T07:28:04.379Z"
-  },
-  {
-    "id": "54a318fec5e07c80",
-    "title": "МОК разрешил проводить международные турниры в Белоруссии",
-    "sport": "Другое",
-    "category": "Другие",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/6/01/347654736211016.jpeg",
-    "teaser": "МОК разрешил проводить международные турниры в Белоруссии",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/693afac29a7947b24bb6cbcf",
-    "publishedAt": "2025-12-11T17:23:54.000Z",
-    "createdAt": "2025-12-12T07:28:05.560Z",
-    "updatedAt": "2025-12-12T07:28:05.560Z"
-  },
-  {
-    "id": "6523708a3612ab8b",
-    "title": "МОК снял ограничения на участие россиян в юношеских турнирах",
-    "sport": "Другое",
-    "category": "Другие",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/3/97/347654722408973.jpeg",
-    "teaser": "МОК снял ограничения на участие россиян в юношеских турнирах",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/693af6999a7947cd65ba7311",
-    "publishedAt": "2025-12-11T16:57:41.000Z",
-    "createdAt": "2025-12-12T07:28:00.966Z",
-    "updatedAt": "2025-12-12T07:28:00.966Z"
-  },
-  {
-    "id": "74bd8a878c929344",
-    "title": "Что такое социальная сеть «Сигнал» и как она работает",
-    "sport": "Другое",
-    "category": "Другие",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/8/82/347653816322828.jpeg",
-    "teaser": "Что такое социальная сеть «Сигнал» и как она работает",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69384ca29a79475cd3b00ced",
-    "publishedAt": "2025-12-11T15:04:22.000Z",
-    "createdAt": "2025-12-12T07:28:02.244Z",
-    "updatedAt": "2025-12-12T07:28:02.244Z"
-  },
-  {
-    "id": "f256bcfdb4278694",
-    "title": "Каковы шансы российских лыжников отобраться на Олимпиаду-2026",
-    "sport": "Другое",
-    "category": "Другие",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/5/02/347653706688025.jpeg",
-    "teaser": "Каковы шансы российских лыжников отобраться на Олимпиаду-2026",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69395f519a7947ff1755da9c",
-    "publishedAt": "2025-12-11T06:31:56.000Z",
-    "createdAt": "2025-12-12T07:28:06.722Z",
-    "updatedAt": "2025-12-12T07:28:06.722Z"
+    "createdAt": "2025-12-12T08:37:11.069Z",
+    "updatedAt": "2025-12-12T08:37:11.069Z"
   }
 ]
