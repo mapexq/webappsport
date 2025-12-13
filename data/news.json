@@ -1,5 +1,61 @@
 [
   {
+    "id": "575efd50d37b5c2b",
+    "title": "Болельщики устроили погром на стадионе в Индии из-за Месси",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/1/11/347656203054111.jpeg",
+    "teaser": "Болельщики устроили погром на стадионе в Индии из-за Месси",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/693d39f99a794704f279a497",
+    "publishedAt": "2025-12-13T10:18:49.000Z",
+    "createdAt": "2025-12-13T10:25:39.427Z",
+    "updatedAt": "2025-12-13T10:25:39.427Z"
+  },
+  {
+    "id": "dd2577da48a685eb",
+    "title": "Ардашев выиграл спринт на этапе Кубка России, Большунов не вышел в финал",
+    "sport": "Другое",
+    "category": "Другие",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/0/63/347656195511630.jpeg",
+    "teaser": "Ардашев выиграл спринт на этапе Кубка России, Большунов не вышел в финал",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/693d371e9a794761255542ef",
+    "publishedAt": "2025-12-13T09:57:36.000Z",
+    "createdAt": "2025-12-13T10:25:40.548Z",
+    "updatedAt": "2025-12-13T10:25:40.548Z"
+  },
+  {
+    "id": "902f8730c6317bf5",
+    "title": "Биатлонист Латыпов выиграл спринт на этапе Кубка России в Тюмени",
+    "sport": "Другое",
+    "category": "Биатлон",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/5/28/347656185695285.jpeg",
+    "teaser": "Биатлонист Латыпов выиграл спринт на этапе Кубка России в Тюмени",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/693d333e9a79476853c4f556",
+    "publishedAt": "2025-12-13T09:41:29.000Z",
+    "createdAt": "2025-12-13T10:25:42.856Z",
+    "updatedAt": "2025-12-13T10:25:42.856Z"
+  },
+  {
+    "id": "2634e06c5a32b537",
+    "title": "Аршавин подтвердил информацию об урезании бюджета в «Зените»",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/7/21/347656179338217.jpeg",
+    "teaser": "Аршавин подтвердил информацию об урезании бюджета в «Зените»",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/693d30d69a7947ea9650181d",
+    "publishedAt": "2025-12-13T09:33:04.000Z",
+    "createdAt": "2025-12-13T10:25:41.691Z",
+    "updatedAt": "2025-12-13T10:25:41.691Z"
+  },
+  {
     "id": "685942d513b4aa57",
     "title": "Вин Дизель сообщил, что для Криштиану Роналду написана роль в «Форсаже»",
     "sport": "Футбол",
@@ -10,8 +66,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/693d25b29a79478349120e61",
     "publishedAt": "2025-12-13T09:19:22.000Z",
-    "createdAt": "2025-12-13T09:25:28.562Z",
-    "updatedAt": "2025-12-13T09:25:28.562Z"
+    "createdAt": "2025-12-13T10:25:43.922Z",
+    "updatedAt": "2025-12-13T10:25:43.922Z"
   },
   {
     "id": "a0409cb47cc23ca2",
@@ -24,8 +80,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/693d2c829a79471e83f3ddd8",
     "publishedAt": "2025-12-13T09:13:01.000Z",
-    "createdAt": "2025-12-13T09:25:29.514Z",
-    "updatedAt": "2025-12-13T09:25:29.514Z"
+    "createdAt": "2025-12-13T10:25:45.037Z",
+    "updatedAt": "2025-12-13T10:25:45.037Z"
   },
   {
     "id": "6bc38a22fddce216",
@@ -38,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/693d22c89a794750a226b796",
     "publishedAt": "2025-12-13T08:32:43.000Z",
-    "createdAt": "2025-12-13T09:25:30.537Z",
-    "updatedAt": "2025-12-13T09:25:30.537Z"
+    "createdAt": "2025-12-13T10:25:46.178Z",
+    "updatedAt": "2025-12-13T10:25:46.178Z"
   },
   {
     "id": "b3b38580f8659df3",
@@ -52,8 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/693d13af9a7947de227987ef",
     "publishedAt": "2025-12-13T08:02:28.000Z",
-    "createdAt": "2025-12-13T09:25:31.668Z",
-    "updatedAt": "2025-12-13T09:25:31.668Z"
+    "createdAt": "2025-12-13T10:25:47.345Z",
+    "updatedAt": "2025-12-13T10:25:47.345Z"
   },
   {
     "id": "a5affb4709544b78",
@@ -66,8 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/693d105b9a79473dd03c217b",
     "publishedAt": "2025-12-13T07:15:22.000Z",
-    "createdAt": "2025-12-13T09:25:32.608Z",
-    "updatedAt": "2025-12-13T09:25:32.608Z"
+    "createdAt": "2025-12-13T10:25:48.479Z",
+    "updatedAt": "2025-12-13T10:25:48.479Z"
   },
   {
     "id": "42095f0a25e5db7d",
@@ -80,63 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/693c5e009a794781058d7e64",
     "publishedAt": "2025-12-12T20:56:14.000Z",
-    "createdAt": "2025-12-13T09:25:33.645Z",
-    "updatedAt": "2025-12-13T09:25:33.645Z"
-  },
-  {
-    "id": "a088a7f7ac5d3d30",
-    "title": "Главный тренер ПСЖ похвалил Сафонова после двух сухих матчей",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/9/60/347655630579609.jpeg",
-    "teaser": "Главный тренер ПСЖ похвалил Сафонова после двух сухих матчей",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/693c5a719a79474e3380359e",
-    "publishedAt": "2025-12-12T18:18:44.000Z",
-    "createdAt": "2025-12-13T09:25:35.720Z",
-    "updatedAt": "2025-12-13T09:25:35.720Z"
-  },
-  {
-    "id": "a27517f41e4fc53b",
-    "title": "Семь скелетонистов и две бобслеистки из России допущены к отбору на Игры",
-    "sport": "Другое",
-    "category": "Другие",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/1/19/347655627001191.jpeg",
-    "teaser": "Семь скелетонистов и две бобслеистки из России допущены к отбору на Игры",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/693c55fc9a794773009b7ff6",
-    "publishedAt": "2025-12-12T17:57:52.000Z",
-    "createdAt": "2025-12-13T09:25:34.655Z",
-    "updatedAt": "2025-12-13T09:25:34.655Z"
-  },
-  {
-    "id": "d2e446ea86ea3ac1",
-    "title": "Отобравшийся на Игры российский ски-альпинист получил нейтральный статус",
-    "sport": "Другое",
-    "category": "Другие",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/4/87/756678354777874.jpg",
-    "teaser": "Отобравшийся на Игры российский ски-альпинист получил нейтральный статус",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/693c46329a79473c636b077a",
-    "publishedAt": "2025-12-12T16:53:18.000Z",
-    "createdAt": "2025-12-13T09:25:38.617Z",
-    "updatedAt": "2025-12-13T09:25:38.617Z"
-  },
-  {
-    "id": "43b19d9324311558",
-    "title": "Российского двоеборца допустили к отбору на Олимпиаду",
-    "sport": "Другое",
-    "category": "Другие",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/4/53/347655539476534.jpeg",
-    "teaser": "Российского двоеборца допустили к отбору на Олимпиаду",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/693c36fc9a794740730716cf",
-    "publishedAt": "2025-12-12T16:18:39.000Z",
-    "createdAt": "2025-12-13T09:25:36.767Z",
-    "updatedAt": "2025-12-13T09:25:36.767Z"
+    "createdAt": "2025-12-13T10:25:49.605Z",
+    "updatedAt": "2025-12-13T10:25:49.605Z"
   }
 ]
