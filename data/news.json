@@ -1,5 +1,33 @@
 [
   {
+    "id": "71ce1ad69bca962f",
+    "title": "Российские боксеры завоевали семь золотых медалей на чемпионате мира",
+    "sport": "Единоборства",
+    "category": "Единоборства",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/3/19/347656451625193.jpeg",
+    "teaser": "Российские боксеры завоевали семь золотых медалей на чемпионате мира",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/693d9b0d9a794701007daf71",
+    "publishedAt": "2025-12-13T17:06:56.000Z",
+    "createdAt": "2025-12-13T17:21:25.426Z",
+    "updatedAt": "2025-12-13T17:21:25.426Z"
+  },
+  {
+    "id": "055dd21465300098",
+    "title": "Клебо впервые с января 2024 года не победил в спринте на Кубке мира",
+    "sport": "Другое",
+    "category": "Другие",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/3/39/347656427629393.jpeg",
+    "teaser": "Клебо впервые с января 2024 года не победил в спринте на Кубке мира",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/693d91e09a7947213d934e4a",
+    "publishedAt": "2025-12-13T16:29:57.000Z",
+    "createdAt": "2025-12-13T17:21:26.625Z",
+    "updatedAt": "2025-12-13T17:21:26.625Z"
+  },
+  {
     "id": "4c9904405c0a1b84",
     "title": "Бывший футболист «Краснодара» Маурисио Перейра завершил карьеру",
     "sport": "Футбол",
@@ -10,8 +38,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/693d8a1d9a79473b7bcb829e",
     "publishedAt": "2025-12-13T15:50:27.000Z",
-    "createdAt": "2025-12-13T16:30:16.347Z",
-    "updatedAt": "2025-12-13T16:30:16.347Z"
+    "createdAt": "2025-12-13T17:21:27.832Z",
+    "updatedAt": "2025-12-13T17:21:27.832Z"
   },
   {
     "id": "65483062b6a420c3",
@@ -24,8 +52,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/693d84cb9a79476b81ebf1c4",
     "publishedAt": "2025-12-13T15:30:47.000Z",
-    "createdAt": "2025-12-13T16:30:17.442Z",
-    "updatedAt": "2025-12-13T16:30:17.442Z"
+    "createdAt": "2025-12-13T17:21:29.349Z",
+    "updatedAt": "2025-12-13T17:21:29.349Z"
   },
   {
     "id": "44f96d55bf168adf",
@@ -38,8 +66,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/693d7b7a9a79471088dfb01f",
     "publishedAt": "2025-12-13T14:54:30.000Z",
-    "createdAt": "2025-12-13T16:30:18.501Z",
-    "updatedAt": "2025-12-13T16:30:18.501Z"
+    "createdAt": "2025-12-13T17:21:30.553Z",
+    "updatedAt": "2025-12-13T17:21:30.553Z"
   },
   {
     "id": "c9b588483db5bda4",
@@ -52,8 +80,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/693d778c9a79478672c6a58a",
     "publishedAt": "2025-12-13T14:34:31.000Z",
-    "createdAt": "2025-12-13T16:30:19.568Z",
-    "updatedAt": "2025-12-13T16:30:19.568Z"
+    "createdAt": "2025-12-13T17:21:31.712Z",
+    "updatedAt": "2025-12-13T17:21:31.712Z"
   },
   {
     "id": "698ca88eb96194eb",
@@ -66,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/693d66949a7947f9d7f766aa",
     "publishedAt": "2025-12-13T13:52:10.000Z",
-    "createdAt": "2025-12-13T16:30:20.468Z",
-    "updatedAt": "2025-12-13T16:30:20.468Z"
+    "createdAt": "2025-12-13T17:21:32.860Z",
+    "updatedAt": "2025-12-13T17:21:32.860Z"
   },
   {
     "id": "90e4652ec0f0c4ec",
@@ -80,8 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/693d67099a794747fcdf3456",
     "publishedAt": "2025-12-13T13:40:56.000Z",
-    "createdAt": "2025-12-13T16:30:21.531Z",
-    "updatedAt": "2025-12-13T16:30:21.531Z"
+    "createdAt": "2025-12-13T17:21:33.976Z",
+    "updatedAt": "2025-12-13T17:21:33.976Z"
   },
   {
     "id": "d9c4008e5d35c45f",
@@ -94,8 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/693d603b9a79470a2d38e723",
     "publishedAt": "2025-12-13T13:08:54.000Z",
-    "createdAt": "2025-12-13T16:30:22.584Z",
-    "updatedAt": "2025-12-13T16:30:22.584Z"
+    "createdAt": "2025-12-13T17:21:35.171Z",
+    "updatedAt": "2025-12-13T17:21:35.171Z"
   },
   {
     "id": "8cf1dff91530a0ca",
@@ -108,35 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/693d5bdf9a7947799df230e1",
     "publishedAt": "2025-12-13T12:40:46.000Z",
-    "createdAt": "2025-12-13T16:30:23.560Z",
-    "updatedAt": "2025-12-13T16:30:23.560Z"
-  },
-  {
-    "id": "11db76c529e4cf4b",
-    "title": "Чемпионка мира заявила, что недовольна допуском российских лыжников",
-    "sport": "Другое",
-    "category": "Другие",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/5/22/347656265778225.jpeg",
-    "teaser": "Чемпионка мира заявила, что недовольна допуском российских лыжников",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/693d52b29a79470c97b27b66",
-    "publishedAt": "2025-12-13T12:03:53.000Z",
-    "createdAt": "2025-12-13T16:30:24.637Z",
-    "updatedAt": "2025-12-13T16:30:24.637Z"
-  },
-  {
-    "id": "9240bf792671f990",
-    "title": "В Астрахани избили тренера гандбольного «Динамо» Заикина",
-    "sport": "Другое",
-    "category": "Другие",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/0/48/347656246585480.jpeg",
-    "teaser": "В Астрахани избили тренера гандбольного «Динамо» Заикина",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/693d4b429a794778c1d2d129",
-    "publishedAt": "2025-12-13T11:53:12.000Z",
-    "createdAt": "2025-12-13T16:30:25.695Z",
-    "updatedAt": "2025-12-13T16:30:25.695Z"
+    "createdAt": "2025-12-13T17:21:36.331Z",
+    "updatedAt": "2025-12-13T17:21:36.331Z"
   }
 ]
