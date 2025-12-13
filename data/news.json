@@ -1,5 +1,19 @@
 [
   {
+    "id": "b3b38580f8659df3",
+    "title": "Трамп наградил чемпионов Олимпиады 1980 года по хоккею",
+    "sport": "Хоккей",
+    "category": "Хоккей",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/8/37/347656105327378.jpeg",
+    "teaser": "Трамп наградил чемпионов Олимпиады 1980 года по хоккею",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/693d13af9a7947de227987ef",
+    "publishedAt": "2025-12-13T08:02:28.000Z",
+    "createdAt": "2025-12-13T08:31:20.915Z",
+    "updatedAt": "2025-12-13T08:31:20.915Z"
+  },
+  {
     "id": "a5affb4709544b78",
     "title": "В НХЛ произошел самый громкий обмен сезона",
     "sport": "Хоккей",
@@ -10,8 +24,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/693d105b9a79473dd03c217b",
     "publishedAt": "2025-12-13T07:15:22.000Z",
-    "createdAt": "2025-12-13T07:26:14.183Z",
-    "updatedAt": "2025-12-13T07:26:14.183Z"
+    "createdAt": "2025-12-13T08:31:21.939Z",
+    "updatedAt": "2025-12-13T08:31:21.939Z"
   },
   {
     "id": "42095f0a25e5db7d",
@@ -24,8 +38,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/693c5e009a794781058d7e64",
     "publishedAt": "2025-12-12T20:56:14.000Z",
-    "createdAt": "2025-12-13T07:26:15.271Z",
-    "updatedAt": "2025-12-13T07:26:15.271Z"
+    "createdAt": "2025-12-13T08:31:22.958Z",
+    "updatedAt": "2025-12-13T08:31:22.958Z"
   },
   {
     "id": "a088a7f7ac5d3d30",
@@ -38,8 +52,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/693c5a719a79474e3380359e",
     "publishedAt": "2025-12-12T18:18:44.000Z",
-    "createdAt": "2025-12-13T07:26:17.569Z",
-    "updatedAt": "2025-12-13T07:26:17.569Z"
+    "createdAt": "2025-12-13T08:31:25.014Z",
+    "updatedAt": "2025-12-13T08:31:25.014Z"
   },
   {
     "id": "a27517f41e4fc53b",
@@ -52,8 +66,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/693c55fc9a794773009b7ff6",
     "publishedAt": "2025-12-12T17:57:52.000Z",
-    "createdAt": "2025-12-13T07:26:16.421Z",
-    "updatedAt": "2025-12-13T07:26:16.421Z"
+    "createdAt": "2025-12-13T08:31:23.988Z",
+    "updatedAt": "2025-12-13T08:31:23.988Z"
   },
   {
     "id": "d2e446ea86ea3ac1",
@@ -66,8 +80,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/693c46329a79473c636b077a",
     "publishedAt": "2025-12-12T16:53:18.000Z",
-    "createdAt": "2025-12-13T07:26:20.802Z",
-    "updatedAt": "2025-12-13T07:26:20.802Z"
+    "createdAt": "2025-12-13T08:31:27.857Z",
+    "updatedAt": "2025-12-13T08:31:27.857Z"
   },
   {
     "id": "43b19d9324311558",
@@ -80,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/693c36fc9a794740730716cf",
     "publishedAt": "2025-12-12T16:18:39.000Z",
-    "createdAt": "2025-12-13T07:26:18.730Z",
-    "updatedAt": "2025-12-13T07:26:18.730Z"
+    "createdAt": "2025-12-13T08:31:26.024Z",
+    "updatedAt": "2025-12-13T08:31:26.024Z"
   },
   {
     "id": "1937671a317cc021",
@@ -94,8 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/693c2f2c9a7947f10a6e5130",
     "publishedAt": "2025-12-12T15:51:52.000Z",
-    "createdAt": "2025-12-13T07:26:22.055Z",
-    "updatedAt": "2025-12-13T07:26:22.055Z"
+    "createdAt": "2025-12-13T08:31:29.484Z",
+    "updatedAt": "2025-12-13T08:31:29.484Z"
   },
   {
     "id": "490310cb5898133b",
@@ -108,8 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/693c18b19a7947a1b0b2fcf2",
     "publishedAt": "2025-12-12T15:46:14.000Z",
-    "createdAt": "2025-12-13T07:26:23.279Z",
-    "updatedAt": "2025-12-13T07:26:23.279Z"
+    "createdAt": "2025-12-13T08:31:30.511Z",
+    "updatedAt": "2025-12-13T08:31:30.511Z"
   },
   {
     "id": "931bb5104982b42f",
@@ -122,21 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/693c2a779a7947dc3229e5ee",
     "publishedAt": "2025-12-12T14:59:03.000Z",
-    "createdAt": "2025-12-13T07:26:24.491Z",
-    "updatedAt": "2025-12-13T07:26:24.491Z"
-  },
-  {
-    "id": "13b2c29b8d321fc2",
-    "title": "Дегтярев спрогнозировал восстановление ОКР в МОК в марте 2026 года",
-    "sport": "Другое",
-    "category": "Другие",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/3/59/347655492490593.jpeg",
-    "teaser": "Дегтярев спрогнозировал восстановление ОКР в МОК в марте 2026 года",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/693c246e9a7947502101da63",
-    "publishedAt": "2025-12-12T14:45:37.000Z",
-    "createdAt": "2025-12-13T07:26:25.648Z",
-    "updatedAt": "2025-12-13T07:26:25.648Z"
+    "createdAt": "2025-12-13T08:31:31.538Z",
+    "updatedAt": "2025-12-13T08:31:31.538Z"
   }
 ]
