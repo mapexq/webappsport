@@ -1,5 +1,33 @@
 [
   {
+    "id": "a5affb4709544b78",
+    "title": "В НХЛ произошел самый громкий обмен сезона",
+    "sport": "Хоккей",
+    "category": "Хоккей",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/6/78/347656095980786.jpeg",
+    "teaser": "В НХЛ произошел самый громкий обмен сезона",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/693d105b9a79473dd03c217b",
+    "publishedAt": "2025-12-13T07:15:22.000Z",
+    "createdAt": "2025-12-13T07:26:14.183Z",
+    "updatedAt": "2025-12-13T07:26:14.183Z"
+  },
+  {
+    "id": "42095f0a25e5db7d",
+    "title": "Российский боксер Гассиев завоевал чемпионский титул WBA",
+    "sport": "Единоборства",
+    "category": "Единоборства",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/7/00/347655639555007.jpeg",
+    "teaser": "Российский боксер Гассиев завоевал чемпионский титул WBA",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/693c5e009a794781058d7e64",
+    "publishedAt": "2025-12-12T20:56:14.000Z",
+    "createdAt": "2025-12-13T07:26:15.271Z",
+    "updatedAt": "2025-12-13T07:26:15.271Z"
+  },
+  {
     "id": "a088a7f7ac5d3d30",
     "title": "Главный тренер ПСЖ похвалил Сафонова после двух сухих матчей",
     "sport": "Футбол",
@@ -10,8 +38,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/693c5a719a79474e3380359e",
     "publishedAt": "2025-12-12T18:18:44.000Z",
-    "createdAt": "2025-12-13T06:36:59.790Z",
-    "updatedAt": "2025-12-13T06:36:59.790Z"
+    "createdAt": "2025-12-13T07:26:17.569Z",
+    "updatedAt": "2025-12-13T07:26:17.569Z"
   },
   {
     "id": "a27517f41e4fc53b",
@@ -24,8 +52,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/693c55fc9a794773009b7ff6",
     "publishedAt": "2025-12-12T17:57:52.000Z",
-    "createdAt": "2025-12-13T06:36:58.823Z",
-    "updatedAt": "2025-12-13T06:36:58.823Z"
+    "createdAt": "2025-12-13T07:26:16.421Z",
+    "updatedAt": "2025-12-13T07:26:16.421Z"
   },
   {
     "id": "d2e446ea86ea3ac1",
@@ -38,8 +66,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/693c46329a79473c636b077a",
     "publishedAt": "2025-12-12T16:53:18.000Z",
-    "createdAt": "2025-12-13T06:37:02.632Z",
-    "updatedAt": "2025-12-13T06:37:02.632Z"
+    "createdAt": "2025-12-13T07:26:20.802Z",
+    "updatedAt": "2025-12-13T07:26:20.802Z"
   },
   {
     "id": "43b19d9324311558",
@@ -52,8 +80,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/693c36fc9a794740730716cf",
     "publishedAt": "2025-12-12T16:18:39.000Z",
-    "createdAt": "2025-12-13T06:37:00.807Z",
-    "updatedAt": "2025-12-13T06:37:00.807Z"
+    "createdAt": "2025-12-13T07:26:18.730Z",
+    "updatedAt": "2025-12-13T07:26:18.730Z"
   },
   {
     "id": "1937671a317cc021",
@@ -66,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/693c2f2c9a7947f10a6e5130",
     "publishedAt": "2025-12-12T15:51:52.000Z",
-    "createdAt": "2025-12-13T06:37:03.797Z",
-    "updatedAt": "2025-12-13T06:37:03.797Z"
+    "createdAt": "2025-12-13T07:26:22.055Z",
+    "updatedAt": "2025-12-13T07:26:22.055Z"
   },
   {
     "id": "490310cb5898133b",
@@ -80,8 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/693c18b19a7947a1b0b2fcf2",
     "publishedAt": "2025-12-12T15:46:14.000Z",
-    "createdAt": "2025-12-13T06:37:04.802Z",
-    "updatedAt": "2025-12-13T06:37:04.802Z"
+    "createdAt": "2025-12-13T07:26:23.279Z",
+    "updatedAt": "2025-12-13T07:26:23.279Z"
   },
   {
     "id": "931bb5104982b42f",
@@ -94,8 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/693c2a779a7947dc3229e5ee",
     "publishedAt": "2025-12-12T14:59:03.000Z",
-    "createdAt": "2025-12-13T06:37:05.839Z",
-    "updatedAt": "2025-12-13T06:37:05.839Z"
+    "createdAt": "2025-12-13T07:26:24.491Z",
+    "updatedAt": "2025-12-13T07:26:24.491Z"
   },
   {
     "id": "13b2c29b8d321fc2",
@@ -108,35 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/693c246e9a7947502101da63",
     "publishedAt": "2025-12-12T14:45:37.000Z",
-    "createdAt": "2025-12-13T06:37:06.868Z",
-    "updatedAt": "2025-12-13T06:37:06.868Z"
-  },
-  {
-    "id": "0721a1768d604fa0",
-    "title": "Ардашев назвал причины отказа FIS в нейтральном статусе",
-    "sport": "Другое",
-    "category": "Другие",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/6/57/347655463878576.jpeg",
-    "teaser": "Ардашев назвал причины отказа FIS в нейтральном статусе",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/693c18269a7947015d5d4224",
-    "publishedAt": "2025-12-12T14:09:23.000Z",
-    "createdAt": "2025-12-13T06:37:07.886Z",
-    "updatedAt": "2025-12-13T06:37:07.886Z"
-  },
-  {
-    "id": "6640458fbb69c95c",
-    "title": "Мбаппе догнал Холанда и Ямаля в списке самых дорогих футболистов мира",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/2/82/347655453016822.jpeg",
-    "teaser": "Мбаппе догнал Холанда и Ямаля в списке самых дорогих футболистов мира",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/693c151a9a794711555775b5",
-    "publishedAt": "2025-12-12T14:04:58.000Z",
-    "createdAt": "2025-12-13T06:37:09.348Z",
-    "updatedAt": "2025-12-13T06:37:09.348Z"
+    "createdAt": "2025-12-13T07:26:25.648Z",
+    "updatedAt": "2025-12-13T07:26:25.648Z"
   }
 ]
