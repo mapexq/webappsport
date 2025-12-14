@@ -1,5 +1,19 @@
 [
   {
+    "id": "c2732969758be53a",
+    "title": "Джон Сина закончил карьеру в рестлинге поражением",
+    "sport": "Единоборства",
+    "category": "Единоборства",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/0/82/347657144937820.png",
+    "teaser": "Джон Сина закончил карьеру в рестлинге поражением",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/693ea9d29a794785f7c17ed8",
+    "publishedAt": "2025-12-14T12:43:10.000Z",
+    "createdAt": "2025-12-14T12:49:32.505Z",
+    "updatedAt": "2025-12-14T12:49:32.505Z"
+  },
+  {
     "id": "4bf0c880c33a7c59",
     "title": "Клуб Захаряна уволил главного тренера",
     "sport": "Футбол",
@@ -10,8 +24,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/693e972d9a79475fdc3a1f5b",
     "publishedAt": "2025-12-14T11:13:31.000Z",
-    "createdAt": "2025-12-14T11:21:01.033Z",
-    "updatedAt": "2025-12-14T11:21:01.033Z"
+    "createdAt": "2025-12-14T12:49:34.899Z",
+    "updatedAt": "2025-12-14T12:49:34.899Z"
   },
   {
     "id": "a3b043c04dd9ed20",
@@ -24,8 +38,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/693e8fa69a7947312edc691a",
     "publishedAt": "2025-12-14T10:52:11.000Z",
-    "createdAt": "2025-12-14T11:20:59.735Z",
-    "updatedAt": "2025-12-14T11:20:59.735Z"
+    "createdAt": "2025-12-14T12:49:33.726Z",
+    "updatedAt": "2025-12-14T12:49:33.726Z"
   },
   {
     "id": "5ebb8deb139fd014",
@@ -38,8 +52,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/693e89bc9a79472a9b40b201",
     "publishedAt": "2025-12-14T10:08:34.000Z",
-    "createdAt": "2025-12-14T11:21:03.051Z",
-    "updatedAt": "2025-12-14T11:21:03.051Z"
+    "createdAt": "2025-12-14T12:49:37.205Z",
+    "updatedAt": "2025-12-14T12:49:37.205Z"
   },
   {
     "id": "66c32c7debf86a7c",
@@ -52,8 +66,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/693e81aa9a794792d40f1a1e",
     "publishedAt": "2025-12-14T09:47:38.000Z",
-    "createdAt": "2025-12-14T11:21:02.033Z",
-    "updatedAt": "2025-12-14T11:21:02.033Z"
+    "createdAt": "2025-12-14T12:49:36.046Z",
+    "updatedAt": "2025-12-14T12:49:36.046Z"
   },
   {
     "id": "59ce755b9d22e248",
@@ -66,8 +80,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/693e7e689a794792d40f1a0d",
     "publishedAt": "2025-12-14T09:19:34.000Z",
-    "createdAt": "2025-12-14T11:21:05.107Z",
-    "updatedAt": "2025-12-14T11:21:05.107Z"
+    "createdAt": "2025-12-14T12:49:39.518Z",
+    "updatedAt": "2025-12-14T12:49:39.518Z"
   },
   {
     "id": "3ac782d73d2370c6",
@@ -80,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/693da9b49a7947fa09be0d48",
     "publishedAt": "2025-12-13T21:38:41.000Z",
-    "createdAt": "2025-12-14T11:21:04.084Z",
-    "updatedAt": "2025-12-14T11:21:04.084Z"
+    "createdAt": "2025-12-14T12:49:38.357Z",
+    "updatedAt": "2025-12-14T12:49:38.357Z"
   },
   {
     "id": "a0ce789b04a7d544",
@@ -94,8 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/693dadf39a79472c7aa5e865",
     "publishedAt": "2025-12-13T18:36:38.000Z",
-    "createdAt": "2025-12-14T11:21:06.117Z",
-    "updatedAt": "2025-12-14T11:21:06.117Z"
+    "createdAt": "2025-12-14T12:49:40.687Z",
+    "updatedAt": "2025-12-14T12:49:40.687Z"
   },
   {
     "id": "085f87a80d269e81",
@@ -108,8 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/693d9de79a79476075dec308",
     "publishedAt": "2025-12-13T17:21:06.000Z",
-    "createdAt": "2025-12-14T11:21:07.198Z",
-    "updatedAt": "2025-12-14T11:21:07.198Z"
+    "createdAt": "2025-12-14T12:49:41.812Z",
+    "updatedAt": "2025-12-14T12:49:41.812Z"
   },
   {
     "id": "71ce1ad69bca962f",
@@ -122,21 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/693d9b0d9a794701007daf71",
     "publishedAt": "2025-12-13T17:06:56.000Z",
-    "createdAt": "2025-12-14T11:21:08.258Z",
-    "updatedAt": "2025-12-14T11:21:08.258Z"
-  },
-  {
-    "id": "055dd21465300098",
-    "title": "Клебо впервые с января 2024 года не победил в спринте на Кубке мира",
-    "sport": "Другое",
-    "category": "Другие",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/3/39/347656427629393.jpeg",
-    "teaser": "Клебо впервые с января 2024 года не победил в спринте на Кубке мира",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/693d91e09a7947213d934e4a",
-    "publishedAt": "2025-12-13T16:29:57.000Z",
-    "createdAt": "2025-12-14T11:21:09.265Z",
-    "updatedAt": "2025-12-14T11:21:09.265Z"
+    "createdAt": "2025-12-14T12:49:42.994Z",
+    "updatedAt": "2025-12-14T12:49:42.994Z"
   }
 ]
