@@ -1,5 +1,89 @@
 [
   {
+    "id": "66a76475a772548a",
+    "title": "Экс-капитан футбольной сборной России рассказал о борьбе с раком",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/3/39/347658148191393.jpeg",
+    "teaser": "Экс-капитан футбольной сборной России рассказал о борьбе с раком",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69402fc09a7947a2f997c54c",
+    "publishedAt": "2025-12-15T16:31:57.000Z",
+    "createdAt": "2025-12-15T17:29:39.395Z",
+    "updatedAt": "2025-12-15T17:29:39.395Z"
+  },
+  {
+    "id": "1894c068d9cb6317",
+    "title": "Рублев фразой «Сафин меня убивает» рассказал о предсезонной подготовке",
+    "sport": "Теннис",
+    "category": "Теннис",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/6/25/347658109410256.jpeg",
+    "teaser": "Рублев фразой «Сафин меня убивает» рассказал о предсезонной подготовке",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/694021259a7947d6aecea5f0",
+    "publishedAt": "2025-12-15T15:43:03.000Z",
+    "createdAt": "2025-12-15T17:29:40.408Z",
+    "updatedAt": "2025-12-15T17:29:40.408Z"
+  },
+  {
+    "id": "1dbbbd68386ce404",
+    "title": "Ведущие российские легионеры вошли в число самых подешевевших во Франции",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/7/07/347658055303077.jpeg",
+    "teaser": "Ведущие российские легионеры вошли в число самых подешевевших во Франции",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69400c9c9a7947091620dd60",
+    "publishedAt": "2025-12-15T15:23:12.000Z",
+    "createdAt": "2025-12-15T17:29:41.363Z",
+    "updatedAt": "2025-12-15T17:29:41.363Z"
+  },
+  {
+    "id": "86c74af7485ed562",
+    "title": "Плющенко фразой «такого ада не встречал» описал конфликт с Костылевой",
+    "sport": "Другое",
+    "category": "Фигурное катание",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/8/18/347658062184188.jpeg",
+    "teaser": "Плющенко фразой «такого ада не встречал» описал конфликт с Костылевой",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69400af99a79476f30ef6dc8",
+    "publishedAt": "2025-12-15T14:34:01.000Z",
+    "createdAt": "2025-12-15T17:29:42.501Z",
+    "updatedAt": "2025-12-15T17:29:42.501Z"
+  },
+  {
+    "id": "5c8df70702459bfa",
+    "title": "Российский вратарь прокомментировал свое исчезновение с фото ПСЖ",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/7/98/347657995681987.jpeg",
+    "teaser": "Российский вратарь прокомментировал свое исчезновение с фото ПСЖ",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/693ff5b99a79476c6b858794",
+    "publishedAt": "2025-12-15T13:45:13.000Z",
+    "createdAt": "2025-12-15T17:29:44.687Z",
+    "updatedAt": "2025-12-15T17:29:44.687Z"
+  },
+  {
+    "id": "ca5e0df7f6a6b28f",
+    "title": "IBA объявила о проведении командного Кубка мира по боксу с 2026 года",
+    "sport": "Единоборства",
+    "category": "Единоборства",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/7/16/347658036238167.jpeg",
+    "teaser": "IBA объявила о проведении командного Кубка мира по боксу с 2026 года",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/694006199a7947b64a1b52ca",
+    "publishedAt": "2025-12-15T13:39:37.000Z",
+    "createdAt": "2025-12-15T17:29:46.718Z",
+    "updatedAt": "2025-12-15T17:29:46.718Z"
+  },
+  {
     "id": "a51fa503bcdbae31",
     "title": "В России шахматиста лишили всех званий после критики военной операции",
     "sport": "Другое",
@@ -10,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/693feb729a7947214f6afa43",
     "publishedAt": "2025-12-15T11:58:47.000Z",
-    "createdAt": "2025-12-15T16:38:36.321Z",
-    "updatedAt": "2025-12-15T16:38:36.321Z"
+    "createdAt": "2025-12-15T17:29:45.695Z",
+    "updatedAt": "2025-12-15T17:29:45.695Z"
   },
   {
     "id": "30891596f58dffa6",
@@ -24,8 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/693fda599a79471635753526",
     "publishedAt": "2025-12-15T10:51:50.000Z",
-    "createdAt": "2025-12-15T16:38:37.359Z",
-    "updatedAt": "2025-12-15T16:38:37.359Z"
+    "createdAt": "2025-12-15T17:29:47.750Z",
+    "updatedAt": "2025-12-15T17:29:47.750Z"
   },
   {
     "id": "38ea1bb85645e431",
@@ -38,50 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/693fe3b59a79476158938175",
     "publishedAt": "2025-12-15T10:46:39.000Z",
-    "createdAt": "2025-12-15T16:38:39.606Z",
-    "updatedAt": "2025-12-15T16:38:39.606Z"
-  },
-  {
-    "id": "e0284514aebcc366",
-    "title": "Дегтярев обвинил Запад в лишении Овечкина шансов на золото Олимпиады",
-    "sport": "Хоккей",
-    "category": "Хоккей",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/2/35/347346014321352.png",
-    "teaser": "Дегтярев обвинил Запад в лишении Овечкина шансов на золото Олимпиады",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/693fdb1a9a794773b8bb4da8",
-    "publishedAt": "2025-12-15T10:21:54.000Z",
-    "createdAt": "2025-12-15T16:38:41.421Z",
-    "updatedAt": "2025-12-15T16:38:41.421Z"
-  },
-  {
-    "id": "920f53cb2510c082",
-    "title": "В Федерации шахмат России выразили сожаление из-за обращения FIDE в МОК",
-    "sport": "Другое",
-    "category": "Другие",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/6/78/347657879217786.jpeg",
-    "teaser": "В Федерации шахмат России выразили сожаление из-за обращения FIDE в МОК",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/693fc7fe9a794728ec21c37f",
-    "publishedAt": "2025-12-15T10:13:50.000Z",
-    "createdAt": "2025-12-15T16:38:43.459Z",
-    "updatedAt": "2025-12-15T16:38:43.459Z"
-  },
-  {
-    "id": "6d785b65267cf9b6",
-    "title": "Клуб Малкина установил уникальное достижение в НХЛ",
-    "sport": "Хоккей",
-    "category": "Хоккей",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/2/64/347657823677642.jpeg",
-    "teaser": "Клуб Малкина установил уникальное достижение в НХЛ",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/693fb1419a794760e160ae0b",
-    "publishedAt": "2025-12-15T08:48:37.000Z",
-    "createdAt": "2025-12-15T16:38:42.436Z",
-    "updatedAt": "2025-12-15T16:38:42.436Z"
+    "createdAt": "2025-12-15T17:29:49.143Z",
+    "updatedAt": "2025-12-15T17:29:49.143Z"
   },
   {
     "id": "134f9bb5b4bd0ee6",
@@ -94,49 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/692d88f79a79472283e4c99f",
     "publishedAt": "2025-12-15T08:47:21.000Z",
-    "createdAt": "2025-12-15T16:38:38.576Z",
-    "updatedAt": "2025-12-15T16:38:38.576Z"
-  },
-  {
-    "id": "4d88327e40eba49a",
-    "title": "Впервые за 10 лет россиянин дважды стал лучшим снайпером клуба НБА",
-    "sport": "Баскетбол",
-    "category": "Баскетбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/8/82/347657836652828.jpeg",
-    "teaser": "Впервые за 10 лет россиянин дважды стал лучшим снайпером клуба НБА",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/693fb7369a7947777bc13842",
-    "publishedAt": "2025-12-15T08:00:21.000Z",
-    "createdAt": "2025-12-15T16:38:44.487Z",
-    "updatedAt": "2025-12-15T16:38:44.487Z"
-  },
-  {
-    "id": "886df7033a7cd285",
-    "title": "Третья теннисистка за полмесяца отказалась выступать за Россию",
-    "sport": "Теннис",
-    "category": "Теннис",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/3/80/347657800676803.jpeg",
-    "teaser": "Третья теннисистка за полмесяца отказалась выступать за Россию",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/693fa8d69a794765c3223380",
-    "publishedAt": "2025-12-15T07:54:26.000Z",
-    "createdAt": "2025-12-15T16:38:45.551Z",
-    "updatedAt": "2025-12-15T16:38:45.551Z"
-  },
-  {
-    "id": "1e10c36d69bc9eab",
-    "title": "FIDE отложила вопрос допуска россиян из-за путаницы при голосовании",
-    "sport": "Другое",
-    "category": "Другие",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/9/33/347657363316339.png",
-    "teaser": "FIDE отложила вопрос допуска россиян из-за путаницы при голосовании",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/693efdf79a794724c8346ed7",
-    "publishedAt": "2025-12-14T18:54:21.000Z",
-    "createdAt": "2025-12-15T16:38:46.613Z",
-    "updatedAt": "2025-12-15T16:38:46.613Z"
+    "createdAt": "2025-12-15T17:29:43.665Z",
+    "updatedAt": "2025-12-15T17:29:43.665Z"
   }
 ]
