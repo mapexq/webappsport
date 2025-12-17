@@ -1,5 +1,47 @@
 [
   {
+    "id": "0eb0513ddf069892",
+    "title": "Ягудин заявил о деградации российского женского фигурного катания",
+    "sport": "Другое",
+    "category": "Фигурное катание",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/2/49/347659649393492.jpeg",
+    "teaser": "Ягудин заявил о деградации российского женского фигурного катания",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69427c6b9a79474c4a5c9c7a",
+    "publishedAt": "2025-12-17T10:16:17.000Z",
+    "createdAt": "2025-12-17T10:30:45.763Z",
+    "updatedAt": "2025-12-17T10:30:45.763Z"
+  },
+  {
+    "id": "ce344a6fdca74df6",
+    "title": "Гуляев заявил, что отказ от Олимпиады отбросит россиян назад",
+    "sport": "Другое",
+    "category": "Другие",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/7/78/347659475397787.jpeg",
+    "teaser": "Гуляев заявил, что отказ от Олимпиады отбросит россиян назад",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/693abc949a7947871fd5eabb",
+    "publishedAt": "2025-12-17T09:53:21.000Z",
+    "createdAt": "2025-12-17T10:30:47.929Z",
+    "updatedAt": "2025-12-17T10:30:47.929Z"
+  },
+  {
+    "id": "15a943a62c60c0df",
+    "title": "На Украине не будут бойкотировать турниры из-за допуска юниоров из России",
+    "sport": "Другое",
+    "category": "Другие",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/6/64/347659640433646.jpeg",
+    "teaser": "На Украине не будут бойкотировать турниры из-за допуска юниоров из России",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/694278b59a7947593776f1da",
+    "publishedAt": "2025-12-17T09:50:13.000Z",
+    "createdAt": "2025-12-17T10:30:46.844Z",
+    "updatedAt": "2025-12-17T10:30:46.844Z"
+  },
+  {
     "id": "7f078b45dfa67f4d",
     "title": "Российского бойца отчислили из UFC после трех поражений подряд",
     "sport": "Единоборства",
@@ -10,8 +52,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/694270c39a7947b25a53cda1",
     "publishedAt": "2025-12-17T09:20:03.000Z",
-    "createdAt": "2025-12-17T09:33:45.665Z",
-    "updatedAt": "2025-12-17T09:33:45.665Z"
+    "createdAt": "2025-12-17T10:30:49.106Z",
+    "updatedAt": "2025-12-17T10:30:49.106Z"
   },
   {
     "id": "74c4560fc39ff4a4",
@@ -24,8 +66,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/694269d69a79478d62ef55e5",
     "publishedAt": "2025-12-17T09:08:59.000Z",
-    "createdAt": "2025-12-17T09:33:46.768Z",
-    "updatedAt": "2025-12-17T09:33:46.768Z"
+    "createdAt": "2025-12-17T10:30:52.838Z",
+    "updatedAt": "2025-12-17T10:30:52.838Z"
   },
   {
     "id": "bab9611779a9ecf0",
@@ -38,8 +80,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69426dec9a7947548d3069dc",
     "publishedAt": "2025-12-17T08:57:27.000Z",
-    "createdAt": "2025-12-17T09:33:48.173Z",
-    "updatedAt": "2025-12-17T09:33:48.173Z"
+    "createdAt": "2025-12-17T10:30:54.191Z",
+    "updatedAt": "2025-12-17T10:30:54.191Z"
   },
   {
     "id": "bb2f1b4e3f0b2594",
@@ -52,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/694269349a7947226f576632",
     "publishedAt": "2025-12-17T08:40:46.000Z",
-    "createdAt": "2025-12-17T09:33:49.372Z",
-    "updatedAt": "2025-12-17T09:33:49.372Z"
+    "createdAt": "2025-12-17T10:30:55.301Z",
+    "updatedAt": "2025-12-17T10:30:55.301Z"
   },
   {
     "id": "110ff96878eaccd5",
@@ -66,8 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/693ad4ec9a794781a798908b",
     "publishedAt": "2025-12-17T08:39:39.000Z",
-    "createdAt": "2025-12-17T09:33:53.055Z",
-    "updatedAt": "2025-12-17T09:33:53.055Z"
+    "createdAt": "2025-12-17T10:30:56.389Z",
+    "updatedAt": "2025-12-17T10:30:56.389Z"
   },
   {
     "id": "1d80950d905a0e4e",
@@ -80,50 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6942661b9a7947dab3867712",
     "publishedAt": "2025-12-17T08:26:43.000Z",
-    "createdAt": "2025-12-17T09:33:54.329Z",
-    "updatedAt": "2025-12-17T09:33:54.329Z"
-  },
-  {
-    "id": "2c9f14cd73f17dff",
-    "title": "Рекордсмен «Динамо» сделал голевую передачу в дебютном матче в НХЛ",
-    "sport": "Хоккей",
-    "category": "Хоккей",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/1/58/347659579129581.jpeg",
-    "teaser": "Рекордсмен «Динамо» сделал голевую передачу в дебютном матче в НХЛ",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/694260ac9a794713c355fb38",
-    "publishedAt": "2025-12-17T08:01:12.000Z",
-    "createdAt": "2025-12-17T09:33:55.496Z",
-    "updatedAt": "2025-12-17T09:33:55.496Z"
-  },
-  {
-    "id": "4d099f5722812ffe",
-    "title": "«Нью-Йорк Никс» впервые за 52 года завоевал трофей НБА",
-    "sport": "Баскетбол",
-    "category": "Баскетбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/8/44/347659557089448.jpeg",
-    "teaser": "«Нью-Йорк Никс» впервые за 52 года завоевал трофей НБА",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6942571a9a7947c3289b6f00",
-    "publishedAt": "2025-12-17T07:57:12.000Z",
-    "createdAt": "2025-12-17T09:33:57.869Z",
-    "updatedAt": "2025-12-17T09:33:57.869Z"
-  },
-  {
-    "id": "6a8cf432b87cc065",
-    "title": "«Миннесота» разгромила «Вашингтон» Овечкина благодаря 7 очкам россиян",
-    "sport": "Хоккей",
-    "category": "Хоккей",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/8/57/347659561378578.jpeg",
-    "teaser": "«Миннесота» разгромила «Вашингтон» Овечкина благодаря 7 очкам россиян",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6942598c9a794738924c1a23",
-    "publishedAt": "2025-12-17T07:49:50.000Z",
-    "createdAt": "2025-12-17T09:33:56.669Z",
-    "updatedAt": "2025-12-17T09:33:56.669Z"
+    "createdAt": "2025-12-17T10:30:57.428Z",
+    "updatedAt": "2025-12-17T10:30:57.428Z"
   },
   {
     "id": "013a48fb4f0bc0db",
@@ -136,7 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/693810d29a7947a26c494fe3",
     "publishedAt": "2025-12-17T04:02:50.000Z",
-    "createdAt": "2025-12-17T09:33:51.881Z",
-    "updatedAt": "2025-12-17T09:33:51.881Z"
+    "createdAt": "2025-12-17T10:30:51.693Z",
+    "updatedAt": "2025-12-17T10:30:51.693Z"
   }
 ]
