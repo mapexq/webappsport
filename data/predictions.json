@@ -1,22 +1,6 @@
 [
   {
-    "id": 1765936750199,
-    "eventName": "Миннесота — Вашингтон",
-    "discipline": "Хоккей",
-    "tournament": "НХЛ",
-    "expert": {
-      "name": "Николай Чегорский",
-      "avatar": "https://wp2.bookmaker-ratings.ru/bookmaker-ratings.ru/wp-content/uploads/2025/02/Ava-67bc5517f35d5.png?ssl=1&w=60",
-      "status": "expert",
-      "winRate": 70
-    },
-    "prediction": "ТБ (56,5) бросков в створ",
-    "odds": 1.85,
-    "comment": "«Вашингтон» традиционно много бросает в створ ворот. В среднем за матч в этом сезоне у «Кэпиатлз» больше 29 выстрелов - это 9-й показатель в НХЛ. «Миннесота» отстаёт совсем немного от «Вашингтона» по этой метрике. У «Уайлд» 28,1 бросок в створ в среднем за игру. В единственной пока личной встрече в этой регулярке команды нанесли в общей сложности 59 бросков, хотя в том матче был явный перекос в пользу «Вашингтона» (45-14).",
-    "source": "Sports Analytics Pro"
-  },
-  {
-    "id": 1765936750200,
+    "id": 1765942536171,
     "eventName": "Сан-Хосе — Калгари",
     "discipline": "Хоккей",
     "tournament": "Чемпионат",
@@ -32,7 +16,7 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1765936750201,
+    "id": 1765942536172,
     "eventName": "Сиэтл — Колорадо",
     "discipline": "Хоккей",
     "tournament": "НХЛ",
@@ -48,7 +32,7 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1765936750202,
+    "id": 1765942536173,
     "eventName": "Атлетико Балеарес — Атлетико Мадрид",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -64,7 +48,7 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1765936750203,
+    "id": 1765942536174,
     "eventName": "Расинг — Вильярреал",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -80,7 +64,7 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1765936750204,
+    "id": 1765942536175,
     "eventName": "Манчестер Сити — Брентфорд",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -96,7 +80,7 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1765936750205,
+    "id": 1765942536176,
     "eventName": "Талавера — Реал Мадрид",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -112,7 +96,7 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1765936750206,
+    "id": 1765942536177,
     "eventName": "Ньюкасл — Фулхэм",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -128,7 +112,7 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1765936750207,
+    "id": 1765942536178,
     "eventName": "Наполи — Милан",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
