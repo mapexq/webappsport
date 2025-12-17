@@ -1,5 +1,33 @@
 [
   {
+    "id": "c5e9a11cfd4e0107",
+    "title": "Впервые в истории россиянин сыграет в финале Межконтинентального кубка",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/8/21/347659864281218.jpeg",
+    "teaser": "Впервые в истории россиянин сыграет в финале Межконтинентального кубка",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6942cffc9a79472647fbd3f1",
+    "publishedAt": "2025-12-17T16:01:37.000Z",
+    "createdAt": "2025-12-17T16:36:10.616Z",
+    "updatedAt": "2025-12-17T16:36:10.616Z"
+  },
+  {
+    "id": "4378d1b0107d349a",
+    "title": "Первую российскую горнолыжницу допустили к отбору на Олимпиаду",
+    "sport": "Другое",
+    "category": "Другие",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/9/17/347659841773179.jpeg",
+    "teaser": "Первую российскую горнолыжницу допустили к отбору на Олимпиаду",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6942c76b9a7947a3a9186796",
+    "publishedAt": "2025-12-17T15:22:03.000Z",
+    "createdAt": "2025-12-17T16:36:12.957Z",
+    "updatedAt": "2025-12-17T16:36:12.957Z"
+  },
+  {
     "id": "387acbc37f7903a4",
     "title": "Карлсен заявил, что ему было стыдно «срубить флаг» россиянину на турнире",
     "sport": "Другое",
@@ -10,8 +38,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6942c00c9a7947a14e6fb4de",
     "publishedAt": "2025-12-17T15:00:07.000Z",
-    "createdAt": "2025-12-17T15:30:30.557Z",
-    "updatedAt": "2025-12-17T15:30:30.557Z"
+    "createdAt": "2025-12-17T16:36:11.773Z",
+    "updatedAt": "2025-12-17T16:36:11.773Z"
   },
   {
     "id": "188f1c5d0df30a25",
@@ -24,8 +52,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6942b2f89a79470d1b078155",
     "publishedAt": "2025-12-17T14:05:43.000Z",
-    "createdAt": "2025-12-17T15:30:31.612Z",
-    "updatedAt": "2025-12-17T15:30:31.612Z"
+    "createdAt": "2025-12-17T16:36:15.754Z",
+    "updatedAt": "2025-12-17T16:36:15.754Z"
   },
   {
     "id": "614d9a058178a24e",
@@ -38,8 +66,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6942ae1f9a794750815d02a7",
     "publishedAt": "2025-12-17T13:45:44.000Z",
-    "createdAt": "2025-12-17T15:30:32.750Z",
-    "updatedAt": "2025-12-17T15:30:32.750Z"
+    "createdAt": "2025-12-17T16:36:16.902Z",
+    "updatedAt": "2025-12-17T16:36:16.902Z"
   },
   {
     "id": "93bb835e2a0de8db",
@@ -52,8 +80,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6942a2fb9a7947782594d9b9",
     "publishedAt": "2025-12-17T12:46:08.000Z",
-    "createdAt": "2025-12-17T15:30:35.232Z",
-    "updatedAt": "2025-12-17T15:30:35.232Z"
+    "createdAt": "2025-12-17T16:36:18.051Z",
+    "updatedAt": "2025-12-17T16:36:18.051Z"
   },
   {
     "id": "b97a5f7b13dcc5d6",
@@ -66,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69429ff49a79475209359408",
     "publishedAt": "2025-12-17T12:31:23.000Z",
-    "createdAt": "2025-12-17T15:30:36.391Z",
-    "updatedAt": "2025-12-17T15:30:36.391Z"
+    "createdAt": "2025-12-17T16:36:19.291Z",
+    "updatedAt": "2025-12-17T16:36:19.291Z"
   },
   {
     "id": "4ccaa9882500f2c1",
@@ -80,8 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69429d5b9a7947085a71236e",
     "publishedAt": "2025-12-17T12:26:17.000Z",
-    "createdAt": "2025-12-17T15:30:37.512Z",
-    "updatedAt": "2025-12-17T15:30:37.512Z"
+    "createdAt": "2025-12-17T16:36:20.466Z",
+    "updatedAt": "2025-12-17T16:36:20.466Z"
   },
   {
     "id": "ad91d6fc8a5d0404",
@@ -94,36 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69428f8a9a79472ae94de083",
     "publishedAt": "2025-12-17T12:23:20.000Z",
-    "createdAt": "2025-12-17T15:30:38.643Z",
-    "updatedAt": "2025-12-17T15:30:38.643Z"
-  },
-  {
-    "id": "41f8d82e8bca6783",
-    "title": "Тарасова отреагировала на слова Ягудина о деградации женского катания",
-    "sport": "Другое",
-    "category": "Другие",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/7/05/347659702575057.jpeg",
-    "teaser": "Тарасова отреагировала на слова Ягудина о деградации женского катания",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69428c799a7947d4cbec0d19",
-    "publishedAt": "2025-12-17T11:41:34.000Z",
-    "createdAt": "2025-12-17T15:30:39.797Z",
-    "updatedAt": "2025-12-17T15:30:39.797Z"
-  },
-  {
-    "id": "14150604552a73f7",
-    "title": "Киевское «Динамо» назначило нового главного тренера",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/6/61/347659693465616.jpeg",
-    "teaser": "Киевское «Динамо» назначило нового главного тренера",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69428d9e9a7947af2e665454",
-    "publishedAt": "2025-12-17T11:31:00.000Z",
-    "createdAt": "2025-12-17T15:30:40.927Z",
-    "updatedAt": "2025-12-17T15:30:40.927Z"
+    "createdAt": "2025-12-17T16:36:21.653Z",
+    "updatedAt": "2025-12-17T16:36:21.653Z"
   },
   {
     "id": "013a48fb4f0bc0db",
@@ -136,7 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/693810d29a7947a26c494fe3",
     "publishedAt": "2025-12-17T04:02:50.000Z",
-    "createdAt": "2025-12-17T15:30:34.121Z",
-    "updatedAt": "2025-12-17T15:30:34.121Z"
+    "createdAt": "2025-12-17T16:36:14.309Z",
+    "updatedAt": "2025-12-17T16:36:14.309Z"
   }
 ]
