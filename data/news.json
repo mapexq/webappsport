@@ -1,5 +1,89 @@
 [
   {
+    "id": "8cc5c846a731c5f3",
+    "title": "Кто из российских чемпионов попадал в тюрьму",
+    "sport": "Другое",
+    "category": "Другие",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/9/30/347659895515309.jpeg",
+    "teaser": "Кто из российских чемпионов попадал в тюрьму",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/694294459a7947b6fa8d17c7",
+    "publishedAt": "2025-12-17T22:01:50.000Z",
+    "createdAt": "2025-12-17T22:25:45.166Z",
+    "updatedAt": "2025-12-17T22:25:45.166Z"
+  },
+  {
+    "id": "71fa6df3eb294799",
+    "title": "Сколько заработают участники чемпионата мира по футболу",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/0/29/347659818420290.jpeg",
+    "teaser": "Сколько заработают участники чемпионата мира по футболу",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6942b8449a7947e25e81aec3",
+    "publishedAt": "2025-12-17T21:30:26.000Z",
+    "createdAt": "2025-12-17T22:25:46.256Z",
+    "updatedAt": "2025-12-17T22:25:46.256Z"
+  },
+  {
+    "id": "783fe24b6ddf8b5f",
+    "title": "Сафонов двумя словами отреагировал на свой рекорд и победу",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/7/05/347660052470057.jpeg",
+    "teaser": "Сафонов двумя словами отреагировал на свой рекорд и победу",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/694319839a794755623a4173",
+    "publishedAt": "2025-12-17T21:23:36.000Z",
+    "createdAt": "2025-12-17T22:25:42.791Z",
+    "updatedAt": "2025-12-17T22:25:42.791Z"
+  },
+  {
+    "id": "64300a2f2aaf2378",
+    "title": "Матвей Сафонов установил два рекорда в Межконтинентальном кубке",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/1/87/347660041872871.jpeg",
+    "teaser": "Матвей Сафонов установил два рекорда в Межконтинентальном кубке",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/694315aa9a7947979f4ea357",
+    "publishedAt": "2025-12-17T20:58:18.000Z",
+    "createdAt": "2025-12-17T22:25:44.081Z",
+    "updatedAt": "2025-12-17T22:25:44.081Z"
+  },
+  {
+    "id": "b882b99e491e0723",
+    "title": "Сафонова признали лучшим игроком Межконтинентального кубка",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/9/36/347660027868369.jpeg",
+    "teaser": "Сафонова признали лучшим игроком Межконтинентального кубка",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69430eeb9a7947fd2c887658",
+    "publishedAt": "2025-12-17T20:30:15.000Z",
+    "createdAt": "2025-12-17T22:25:47.630Z",
+    "updatedAt": "2025-12-17T22:25:47.630Z"
+  },
+  {
+    "id": "a887d4a19700d94e",
+    "title": "Сафонов отбил четыре пенальти и выиграл Межконтинентальный кубок",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/3/12/347659942077123.jpeg",
+    "teaser": "Сафонов отбил четыре пенальти и выиграл Межконтинентальный кубок",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6942ee2e9a79476312f1a98e",
+    "publishedAt": "2025-12-17T20:13:47.000Z",
+    "createdAt": "2025-12-17T22:25:48.706Z",
+    "updatedAt": "2025-12-17T22:25:48.706Z"
+  },
+  {
     "id": "a114104be176ef48",
     "title": "Обладатель Кубка Стэнли Кузнецов впервые забил за «Металлург»",
     "sport": "Хоккей",
@@ -10,22 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6942f6829a794766bd03e5a4",
     "publishedAt": "2025-12-17T18:45:04.000Z",
-    "createdAt": "2025-12-17T21:26:50.975Z",
-    "updatedAt": "2025-12-17T21:26:50.975Z"
-  },
-  {
-    "id": "1154f25c08411f7d",
-    "title": "«Локомотив» объявил о переходе аргентинца Лукаса Веры",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/4/08/347659934231084.jpeg",
-    "teaser": "«Локомотив» объявил о переходе аргентинца Лукаса Веры",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6942ebb19a7947bff4ff79df",
-    "publishedAt": "2025-12-17T17:50:34.000Z",
-    "createdAt": "2025-12-17T21:26:52.019Z",
-    "updatedAt": "2025-12-17T21:26:52.019Z"
+    "createdAt": "2025-12-17T22:25:49.765Z",
+    "updatedAt": "2025-12-17T22:25:49.765Z"
   },
   {
     "id": "88c96d3bf8dc9d69",
@@ -38,36 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6942df519a79470e20fd2055",
     "publishedAt": "2025-12-17T17:16:13.000Z",
-    "createdAt": "2025-12-17T21:26:53.047Z",
-    "updatedAt": "2025-12-17T21:26:53.047Z"
-  },
-  {
-    "id": "c5e9a11cfd4e0107",
-    "title": "Впервые в истории россиянин сыграет в финале Межконтинентального кубка",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/8/21/347659864281218.jpeg",
-    "teaser": "Впервые в истории россиянин сыграет в финале Межконтинентального кубка",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6942cffc9a79472647fbd3f1",
-    "publishedAt": "2025-12-17T16:01:37.000Z",
-    "createdAt": "2025-12-17T21:26:55.271Z",
-    "updatedAt": "2025-12-17T21:26:55.271Z"
-  },
-  {
-    "id": "4378d1b0107d349a",
-    "title": "Первую российскую горнолыжницу допустили к отбору на Олимпиаду",
-    "sport": "Другое",
-    "category": "Другие",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/9/17/347659841773179.jpeg",
-    "teaser": "Первую российскую горнолыжницу допустили к отбору на Олимпиаду",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6942c76b9a7947a3a9186796",
-    "publishedAt": "2025-12-17T15:22:03.000Z",
-    "createdAt": "2025-12-17T21:26:57.274Z",
-    "updatedAt": "2025-12-17T21:26:57.274Z"
+    "createdAt": "2025-12-17T22:25:50.831Z",
+    "updatedAt": "2025-12-17T22:25:50.831Z"
   },
   {
     "id": "387acbc37f7903a4",
@@ -80,50 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6942c00c9a7947a14e6fb4de",
     "publishedAt": "2025-12-17T15:00:07.000Z",
-    "createdAt": "2025-12-17T21:26:56.282Z",
-    "updatedAt": "2025-12-17T21:26:56.282Z"
-  },
-  {
-    "id": "188f1c5d0df30a25",
-    "title": "ФИФА объявила о рекордном призовом фонде ЧМ-2026",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/2/00/347659790098002.jpeg",
-    "teaser": "ФИФА объявила о рекордном призовом фонде ЧМ-2026",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6942b2f89a79470d1b078155",
-    "publishedAt": "2025-12-17T14:05:43.000Z",
-    "createdAt": "2025-12-17T21:26:58.317Z",
-    "updatedAt": "2025-12-17T21:26:58.317Z"
-  },
-  {
-    "id": "614d9a058178a24e",
-    "title": "Первая ракетка мира расстался с тренером после семи лет работы",
-    "sport": "Теннис",
-    "category": "Теннис",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/5/47/347659778679475.jpeg",
-    "teaser": "Первая ракетка мира расстался с тренером после семи лет работы",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6942ae1f9a794750815d02a7",
-    "publishedAt": "2025-12-17T13:45:44.000Z",
-    "createdAt": "2025-12-17T21:26:59.389Z",
-    "updatedAt": "2025-12-17T21:26:59.389Z"
-  },
-  {
-    "id": "93bb835e2a0de8db",
-    "title": "Сын Цзю нанес американскому боксеру Веласкесу первое в карьере поражение",
-    "sport": "Единоборства",
-    "category": "Единоборства",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/4/58/347659748479584.jpeg",
-    "teaser": "Сын Цзю нанес американскому боксеру Веласкесу первое в карьере поражение",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6942a2fb9a7947782594d9b9",
-    "publishedAt": "2025-12-17T12:46:08.000Z",
-    "createdAt": "2025-12-17T21:27:00.420Z",
-    "updatedAt": "2025-12-17T21:27:00.420Z"
+    "createdAt": "2025-12-17T22:25:53.280Z",
+    "updatedAt": "2025-12-17T22:25:53.280Z"
   },
   {
     "id": "013a48fb4f0bc0db",
@@ -136,7 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/693810d29a7947a26c494fe3",
     "publishedAt": "2025-12-17T04:02:50.000Z",
-    "createdAt": "2025-12-17T21:26:54.231Z",
-    "updatedAt": "2025-12-17T21:26:54.231Z"
+    "createdAt": "2025-12-17T22:25:52.173Z",
+    "updatedAt": "2025-12-17T22:25:52.173Z"
   }
 ]
