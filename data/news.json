@@ -1,5 +1,19 @@
 [
   {
+    "id": "1154f25c08411f7d",
+    "title": "«Локомотив» объявил о переходе аргентинца Лукаса Веры",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/4/08/347659934231084.jpeg",
+    "teaser": "«Локомотив» объявил о переходе аргентинца Лукаса Веры",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6942ebb19a7947bff4ff79df",
+    "publishedAt": "2025-12-17T17:50:34.000Z",
+    "createdAt": "2025-12-17T18:40:31.552Z",
+    "updatedAt": "2025-12-17T18:40:31.552Z"
+  },
+  {
     "id": "88c96d3bf8dc9d69",
     "title": "Луис Суарес продлил контракт с клубом Месси",
     "sport": "Футбол",
@@ -10,8 +24,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6942df519a79470e20fd2055",
     "publishedAt": "2025-12-17T17:16:13.000Z",
-    "createdAt": "2025-12-17T17:27:48.438Z",
-    "updatedAt": "2025-12-17T17:27:48.438Z"
+    "createdAt": "2025-12-17T18:40:32.591Z",
+    "updatedAt": "2025-12-17T18:40:32.591Z"
   },
   {
     "id": "c5e9a11cfd4e0107",
@@ -24,8 +38,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6942cffc9a79472647fbd3f1",
     "publishedAt": "2025-12-17T16:01:37.000Z",
-    "createdAt": "2025-12-17T17:27:49.407Z",
-    "updatedAt": "2025-12-17T17:27:49.407Z"
+    "createdAt": "2025-12-17T18:40:33.681Z",
+    "updatedAt": "2025-12-17T18:40:33.681Z"
   },
   {
     "id": "4378d1b0107d349a",
@@ -38,8 +52,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6942c76b9a7947a3a9186796",
     "publishedAt": "2025-12-17T15:22:03.000Z",
-    "createdAt": "2025-12-17T17:27:52.695Z",
-    "updatedAt": "2025-12-17T17:27:52.695Z"
+    "createdAt": "2025-12-17T18:40:37.204Z",
+    "updatedAt": "2025-12-17T18:40:37.204Z"
   },
   {
     "id": "387acbc37f7903a4",
@@ -52,8 +66,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6942c00c9a7947a14e6fb4de",
     "publishedAt": "2025-12-17T15:00:07.000Z",
-    "createdAt": "2025-12-17T17:27:50.416Z",
-    "updatedAt": "2025-12-17T17:27:50.416Z"
+    "createdAt": "2025-12-17T18:40:36.083Z",
+    "updatedAt": "2025-12-17T18:40:36.083Z"
   },
   {
     "id": "188f1c5d0df30a25",
@@ -66,8 +80,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6942b2f89a79470d1b078155",
     "publishedAt": "2025-12-17T14:05:43.000Z",
-    "createdAt": "2025-12-17T17:27:53.747Z",
-    "updatedAt": "2025-12-17T17:27:53.747Z"
+    "createdAt": "2025-12-17T18:40:38.292Z",
+    "updatedAt": "2025-12-17T18:40:38.292Z"
   },
   {
     "id": "614d9a058178a24e",
@@ -80,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6942ae1f9a794750815d02a7",
     "publishedAt": "2025-12-17T13:45:44.000Z",
-    "createdAt": "2025-12-17T17:27:54.773Z",
-    "updatedAt": "2025-12-17T17:27:54.773Z"
+    "createdAt": "2025-12-17T18:40:39.389Z",
+    "updatedAt": "2025-12-17T18:40:39.389Z"
   },
   {
     "id": "93bb835e2a0de8db",
@@ -94,8 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6942a2fb9a7947782594d9b9",
     "publishedAt": "2025-12-17T12:46:08.000Z",
-    "createdAt": "2025-12-17T17:27:55.849Z",
-    "updatedAt": "2025-12-17T17:27:55.849Z"
+    "createdAt": "2025-12-17T18:40:40.506Z",
+    "updatedAt": "2025-12-17T18:40:40.506Z"
   },
   {
     "id": "b97a5f7b13dcc5d6",
@@ -108,22 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69429ff49a79475209359408",
     "publishedAt": "2025-12-17T12:31:23.000Z",
-    "createdAt": "2025-12-17T17:27:56.921Z",
-    "updatedAt": "2025-12-17T17:27:56.921Z"
-  },
-  {
-    "id": "4ccaa9882500f2c1",
-    "title": "В Норвегии задумались об обращении в CAS из-за решения FIDE по россиянам",
-    "sport": "Другое",
-    "category": "Другие",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/0/45/347659736538450.jpeg",
-    "teaser": "В Норвегии задумались об обращении в CAS из-за решения FIDE по россиянам",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69429d5b9a7947085a71236e",
-    "publishedAt": "2025-12-17T12:26:17.000Z",
-    "createdAt": "2025-12-17T17:27:57.967Z",
-    "updatedAt": "2025-12-17T17:27:57.967Z"
+    "createdAt": "2025-12-17T18:40:41.620Z",
+    "updatedAt": "2025-12-17T18:40:41.620Z"
   },
   {
     "id": "013a48fb4f0bc0db",
@@ -136,7 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/693810d29a7947a26c494fe3",
     "publishedAt": "2025-12-17T04:02:50.000Z",
-    "createdAt": "2025-12-17T17:27:51.627Z",
-    "updatedAt": "2025-12-17T17:27:51.627Z"
+    "createdAt": "2025-12-17T18:40:34.989Z",
+    "updatedAt": "2025-12-17T18:40:34.989Z"
   }
 ]
