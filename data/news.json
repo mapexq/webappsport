@@ -1,5 +1,61 @@
 [
   {
+    "id": "43dfc6abd54c0729",
+    "title": "Медведев проиграл 524-й ракетке мира из Индии на выставочном турнире",
+    "sport": "Теннис",
+    "category": "Теннис",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/5/00/347661612254005.jpeg",
+    "teaser": "Медведев проиграл 524-й ракетке мира из Индии на выставочном турнире",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69457b049a79474a0fb4c66a",
+    "publishedAt": "2025-12-19T16:30:11.000Z",
+    "createdAt": "2025-12-19T16:33:48.078Z",
+    "updatedAt": "2025-12-19T16:33:48.078Z"
+  },
+  {
+    "id": "3ea70c9d614ba583",
+    "title": "FIS допустила еще троих российских горнолыжников к отбору на Олимпиаду",
+    "sport": "Другое",
+    "category": "Другие",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/9/59/347661605696599.jpeg",
+    "teaser": "FIS допустила еще троих российских горнолыжников к отбору на Олимпиаду",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/694578699a7947861fa44b19",
+    "publishedAt": "2025-12-19T16:14:39.000Z",
+    "createdAt": "2025-12-19T16:33:49.072Z",
+    "updatedAt": "2025-12-19T16:33:49.072Z"
+  },
+  {
+    "id": "c0c72483d36b3b46",
+    "title": "Арбитр КХЛ извинился перед тренером «Локомотива» за оскорбления",
+    "sport": "Хоккей",
+    "category": "Хоккей",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/7/25/347661597340257.jpeg",
+    "teaser": "Арбитр КХЛ извинился перед тренером «Локомотива» за оскорбления",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69456f609a7947bc2651fb01",
+    "publishedAt": "2025-12-19T16:04:39.000Z",
+    "createdAt": "2025-12-19T16:33:50.127Z",
+    "updatedAt": "2025-12-19T16:33:50.127Z"
+  },
+  {
+    "id": "cd87f6fe1f313e7c",
+    "title": "Капитан «Локомотива» получил награду за лучший гол РПЛ в ноябре—декабре",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/0/91/347661573803910.jpeg",
+    "teaser": "Капитан «Локомотива» получил награду за лучший гол РПЛ в ноябре—декабре",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69456adb9a79475617b8a8f0",
+    "publishedAt": "2025-12-19T15:48:22.000Z",
+    "createdAt": "2025-12-19T16:33:51.196Z",
+    "updatedAt": "2025-12-19T16:33:51.196Z"
+  },
+  {
     "id": "979e4dcb38cb7c10",
     "title": "Отобравшийся на Олимпиаду Гуменник выиграл короткую программу на ЧР",
     "sport": "Другое",
@@ -10,8 +66,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/694567a69a7947462be89ff8",
     "publishedAt": "2025-12-19T15:10:11.000Z",
-    "createdAt": "2025-12-19T15:28:59.246Z",
-    "updatedAt": "2025-12-19T15:28:59.246Z"
+    "createdAt": "2025-12-19T16:33:52.258Z",
+    "updatedAt": "2025-12-19T16:33:52.258Z"
   },
   {
     "id": "61d9302fa536a75c",
@@ -24,8 +80,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69455e739a794702f1948669",
     "publishedAt": "2025-12-19T14:51:45.000Z",
-    "createdAt": "2025-12-19T15:29:00.519Z",
-    "updatedAt": "2025-12-19T15:29:00.519Z"
+    "createdAt": "2025-12-19T16:33:53.245Z",
+    "updatedAt": "2025-12-19T16:33:53.245Z"
   },
   {
     "id": "8d1a64000f886145",
@@ -38,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69455cb29a7947327a0ef31f",
     "publishedAt": "2025-12-19T14:23:48.000Z",
-    "createdAt": "2025-12-19T15:29:01.591Z",
-    "updatedAt": "2025-12-19T15:29:01.591Z"
+    "createdAt": "2025-12-19T16:33:54.399Z",
+    "updatedAt": "2025-12-19T16:33:54.399Z"
   },
   {
     "id": "93f2d3686d031571",
@@ -52,8 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69454d3a9a794741a8dfe501",
     "publishedAt": "2025-12-19T13:56:51.000Z",
-    "createdAt": "2025-12-19T15:29:04.779Z",
-    "updatedAt": "2025-12-19T15:29:04.779Z"
+    "createdAt": "2025-12-19T16:33:57.594Z",
+    "updatedAt": "2025-12-19T16:33:57.594Z"
   },
   {
     "id": "3c9661107994c8c0",
@@ -66,8 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/694551dd9a794705269c90f5",
     "publishedAt": "2025-12-19T13:42:21.000Z",
-    "createdAt": "2025-12-19T15:29:02.658Z",
-    "updatedAt": "2025-12-19T15:29:02.658Z"
+    "createdAt": "2025-12-19T16:33:55.460Z",
+    "updatedAt": "2025-12-19T16:33:55.460Z"
   },
   {
     "id": "8be12e0675ac8ad4",
@@ -80,63 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/694550069a794789d7c4cc73",
     "publishedAt": "2025-12-19T13:16:19.000Z",
-    "createdAt": "2025-12-19T15:29:03.677Z",
-    "updatedAt": "2025-12-19T15:29:03.677Z"
-  },
-  {
-    "id": "1476fb09646d157f",
-    "title": "Липецкий клуб чемпионата России по футзалу приостановил деятельность",
-    "sport": "Другое",
-    "category": "Другие",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/4/31/347661459730314.jpeg",
-    "teaser": "Липецкий клуб чемпионата России по футзалу приостановил деятельность",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69453f1d9a79477681b24eaa",
-    "publishedAt": "2025-12-19T12:18:19.000Z",
-    "createdAt": "2025-12-19T15:29:06.912Z",
-    "updatedAt": "2025-12-19T15:29:06.912Z"
-  },
-  {
-    "id": "3bfb8e276f9db243",
-    "title": "Сафонов сломал руку в финале Межконтинентального кубка",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/2/61/347661466554612.jpeg",
-    "teaser": "Сафонов сломал руку в финале Межконтинентального кубка",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69453f699a79477681b24ebd",
-    "publishedAt": "2025-12-19T12:06:17.000Z",
-    "createdAt": "2025-12-19T15:29:05.856Z",
-    "updatedAt": "2025-12-19T15:29:05.856Z"
-  },
-  {
-    "id": "33e3235804a35f27",
-    "title": "Клуб Дзюбы досрочно прервал аренду футболиста ЦСКА",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/7/01/347661436677017.jpeg",
-    "teaser": "Клуб Дзюбы досрочно прервал аренду футболиста ЦСКА",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/694533779a7947724fbca9ac",
-    "publishedAt": "2025-12-19T11:43:13.000Z",
-    "createdAt": "2025-12-19T15:29:07.991Z",
-    "updatedAt": "2025-12-19T15:29:07.991Z"
-  },
-  {
-    "id": "52af61f70ee23747",
-    "title": "Российский баскетболист сломал ногу в матче Единой лиги ВТБ",
-    "sport": "Баскетбол",
-    "category": "Баскетбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/2/59/347661413908592.jpeg",
-    "teaser": "Российский баскетболист сломал ногу в матче Единой лиги ВТБ",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69452d489a7947a35eea002a",
-    "publishedAt": "2025-12-19T11:03:30.000Z",
-    "createdAt": "2025-12-19T15:29:09.095Z",
-    "updatedAt": "2025-12-19T15:29:09.095Z"
+    "createdAt": "2025-12-19T16:33:56.533Z",
+    "updatedAt": "2025-12-19T16:33:56.533Z"
   }
 ]
