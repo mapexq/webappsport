@@ -1,17 +1,45 @@
 [
   {
-    "id": "247b5a658fffc5b4",
-    "title": "Получивший травму Сафонов обратился к фанатам фразой «меня не сломать»",
+    "id": "979e4dcb38cb7c10",
+    "title": "Отобравшийся на Олимпиаду Гуменник выиграл короткую программу на ЧР",
+    "sport": "Другое",
+    "category": "Фигурное катание",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/2/69/347661562899692.jpeg",
+    "teaser": "Отобравшийся на Олимпиаду Гуменник выиграл короткую программу на ЧР",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/694567a69a7947462be89ff8",
+    "publishedAt": "2025-12-19T15:10:11.000Z",
+    "createdAt": "2025-12-19T15:28:59.246Z",
+    "updatedAt": "2025-12-19T15:28:59.246Z"
+  },
+  {
+    "id": "61d9302fa536a75c",
+    "title": "Тренер ПСЖ заявил, что Сафонов отразил два пенальти со сломанной рукой",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/7/93/347661546502937.jpeg",
+    "teaser": "Тренер ПСЖ заявил, что Сафонов отразил два пенальти со сломанной рукой",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69455e739a794702f1948669",
+    "publishedAt": "2025-12-19T14:51:45.000Z",
+    "createdAt": "2025-12-19T15:29:00.519Z",
+    "updatedAt": "2025-12-19T15:29:00.519Z"
+  },
+  {
+    "id": "8d1a64000f886145",
+    "title": "Сломавший руку Матвей Сафонов обратился к болельщикам",
     "sport": "Футбол",
     "category": "Футбол",
     "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/2/43/347661535543432.jpeg",
-    "teaser": "Получивший травму Сафонов обратился к фанатам фразой «меня не сломать»",
+    "teaser": "Сломавший руку Матвей Сафонов обратился к болельщикам",
     "fullContent": "",
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69455cb29a7947327a0ef31f",
     "publishedAt": "2025-12-19T14:23:48.000Z",
-    "createdAt": "2025-12-19T14:27:11.126Z",
-    "updatedAt": "2025-12-19T14:27:11.126Z"
+    "createdAt": "2025-12-19T15:29:01.591Z",
+    "updatedAt": "2025-12-19T15:29:01.591Z"
   },
   {
     "id": "93f2d3686d031571",
@@ -24,8 +52,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69454d3a9a794741a8dfe501",
     "publishedAt": "2025-12-19T13:56:51.000Z",
-    "createdAt": "2025-12-19T14:27:14.615Z",
-    "updatedAt": "2025-12-19T14:27:14.615Z"
+    "createdAt": "2025-12-19T15:29:04.779Z",
+    "updatedAt": "2025-12-19T15:29:04.779Z"
   },
   {
     "id": "3c9661107994c8c0",
@@ -38,8 +66,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/694551dd9a794705269c90f5",
     "publishedAt": "2025-12-19T13:42:21.000Z",
-    "createdAt": "2025-12-19T14:27:12.370Z",
-    "updatedAt": "2025-12-19T14:27:12.370Z"
+    "createdAt": "2025-12-19T15:29:02.658Z",
+    "updatedAt": "2025-12-19T15:29:02.658Z"
   },
   {
     "id": "8be12e0675ac8ad4",
@@ -52,8 +80,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/694550069a794789d7c4cc73",
     "publishedAt": "2025-12-19T13:16:19.000Z",
-    "createdAt": "2025-12-19T14:27:13.450Z",
-    "updatedAt": "2025-12-19T14:27:13.450Z"
+    "createdAt": "2025-12-19T15:29:03.677Z",
+    "updatedAt": "2025-12-19T15:29:03.677Z"
   },
   {
     "id": "1476fb09646d157f",
@@ -66,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69453f1d9a79477681b24eaa",
     "publishedAt": "2025-12-19T12:18:19.000Z",
-    "createdAt": "2025-12-19T14:27:16.683Z",
-    "updatedAt": "2025-12-19T14:27:16.683Z"
+    "createdAt": "2025-12-19T15:29:06.912Z",
+    "updatedAt": "2025-12-19T15:29:06.912Z"
   },
   {
     "id": "3bfb8e276f9db243",
@@ -80,8 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69453f699a79477681b24ebd",
     "publishedAt": "2025-12-19T12:06:17.000Z",
-    "createdAt": "2025-12-19T14:27:15.551Z",
-    "updatedAt": "2025-12-19T14:27:15.551Z"
+    "createdAt": "2025-12-19T15:29:05.856Z",
+    "updatedAt": "2025-12-19T15:29:05.856Z"
   },
   {
     "id": "33e3235804a35f27",
@@ -94,22 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/694533779a7947724fbca9ac",
     "publishedAt": "2025-12-19T11:43:13.000Z",
-    "createdAt": "2025-12-19T14:27:17.834Z",
-    "updatedAt": "2025-12-19T14:27:17.834Z"
-  },
-  {
-    "id": "bec09c9865da050e",
-    "title": "Латыпов и Казакевич победили в спринтах на Кубке Содружества по биатлону",
-    "sport": "Другое",
-    "category": "Биатлон",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/1/02/347661424818021.jpeg",
-    "teaser": "Латыпов и Казакевич победили в спринтах на Кубке Содружества по биатлону",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/694530a49a7947ba4ebcd686",
-    "publishedAt": "2025-12-19T11:14:51.000Z",
-    "createdAt": "2025-12-19T14:27:20.143Z",
-    "updatedAt": "2025-12-19T14:27:20.143Z"
+    "createdAt": "2025-12-19T15:29:07.991Z",
+    "updatedAt": "2025-12-19T15:29:07.991Z"
   },
   {
     "id": "52af61f70ee23747",
@@ -122,21 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69452d489a7947a35eea002a",
     "publishedAt": "2025-12-19T11:03:30.000Z",
-    "createdAt": "2025-12-19T14:27:18.982Z",
-    "updatedAt": "2025-12-19T14:27:18.982Z"
-  },
-  {
-    "id": "68f39d2db7790697",
-    "title": "IBU отказался рассматривать иск о недопуске россиян в ускоренном порядке",
-    "sport": "Другое",
-    "category": "Биатлон",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/8/71/347661388038718.jpeg",
-    "teaser": "IBU отказался рассматривать иск о недопуске россиян в ускоренном порядке",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/694521b39a79476eddb215d0",
-    "publishedAt": "2025-12-19T10:20:29.000Z",
-    "createdAt": "2025-12-19T14:27:21.287Z",
-    "updatedAt": "2025-12-19T14:27:21.287Z"
+    "createdAt": "2025-12-19T15:29:09.095Z",
+    "updatedAt": "2025-12-19T15:29:09.095Z"
   }
 ]
