@@ -1,5 +1,61 @@
 [
   {
+    "id": "61b0c5efca9b2e25",
+    "title": "Российского фигуриста пожизненно отстранили в США за домогательства",
+    "sport": "Другое",
+    "category": "Фигурное катание",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/7/01/347662178703017.jpeg",
+    "teaser": "Российского фигуриста пожизненно отстранили в США за домогательства",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/694658419a794765c8cee03d",
+    "publishedAt": "2025-12-20T08:25:32.000Z",
+    "createdAt": "2025-12-20T08:32:11.088Z",
+    "updatedAt": "2025-12-20T08:32:11.088Z"
+  },
+  {
+    "id": "c95d97cd52821095",
+    "title": "Впервые за 21 год двое россиян дебютировали в НБА",
+    "sport": "Баскетбол",
+    "category": "Баскетбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/5/09/347662164421095.jpeg",
+    "teaser": "Впервые за 21 год двое россиян дебютировали в НБА",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/694652979a79475dfa2fcca1",
+    "publishedAt": "2025-12-20T08:00:30.000Z",
+    "createdAt": "2025-12-20T08:32:12.445Z",
+    "updatedAt": "2025-12-20T08:32:12.445Z"
+  },
+  {
+    "id": "10f6d23d7a1c7525",
+    "title": "Джейк Пол получил двойной перелом челюсти в бою с Энтони Джошуа",
+    "sport": "Единоборства",
+    "category": "Единоборства",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/6/39/347662156921396.jpeg",
+    "teaser": "Джейк Пол получил двойной перелом челюсти в бою с Энтони Джошуа",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69464fde9a79472b87616381",
+    "publishedAt": "2025-12-20T07:37:07.000Z",
+    "createdAt": "2025-12-20T08:32:13.402Z",
+    "updatedAt": "2025-12-20T08:32:13.402Z"
+  },
+  {
+    "id": "efab10ac18624590",
+    "title": "Российский форвард в 20 лет забросил дебютную шайбу в НХЛ",
+    "sport": "Хоккей",
+    "category": "Хоккей",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/4/90/347662148501904.jpeg",
+    "teaser": "Российский форвард в 20 лет забросил дебютную шайбу в НХЛ",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69464c8e9a79471b75d54ee5",
+    "publishedAt": "2025-12-20T07:19:39.000Z",
+    "createdAt": "2025-12-20T08:32:14.211Z",
+    "updatedAt": "2025-12-20T08:32:14.211Z"
+  },
+  {
     "id": "ba413a6ba97ca310",
     "title": "Экс-чемпион мира Энтони Джошуа нокаутировал блогера Джейка Пола",
     "sport": "Единоборства",
@@ -10,8 +66,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69464a539a7947fa4a2ba76b",
     "publishedAt": "2025-12-20T07:10:23.000Z",
-    "createdAt": "2025-12-20T07:22:54.986Z",
-    "updatedAt": "2025-12-20T07:22:54.986Z"
+    "createdAt": "2025-12-20T08:32:15.170Z",
+    "updatedAt": "2025-12-20T08:32:15.170Z"
   },
   {
     "id": "08e1abaf2c8862dd",
@@ -24,8 +80,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/694521149a79474e96791729",
     "publishedAt": "2025-12-20T06:30:26.000Z",
-    "createdAt": "2025-12-20T07:22:55.986Z",
-    "updatedAt": "2025-12-20T07:22:55.986Z"
+    "createdAt": "2025-12-20T08:32:16.183Z",
+    "updatedAt": "2025-12-20T08:32:16.183Z"
   },
   {
     "id": "3b34cdb1d5311c64",
@@ -38,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/694599479a7947c0ceec2cdc",
     "publishedAt": "2025-12-19T18:41:46.000Z",
-    "createdAt": "2025-12-20T07:22:56.971Z",
-    "updatedAt": "2025-12-20T07:22:56.971Z"
+    "createdAt": "2025-12-20T08:32:17.196Z",
+    "updatedAt": "2025-12-20T08:32:17.196Z"
   },
   {
     "id": "2bdaccf9883d1e70",
@@ -52,8 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69458f8e9a794717eb1c8efb",
     "publishedAt": "2025-12-19T18:09:16.000Z",
-    "createdAt": "2025-12-20T07:22:58.048Z",
-    "updatedAt": "2025-12-20T07:22:58.048Z"
+    "createdAt": "2025-12-20T08:32:18.206Z",
+    "updatedAt": "2025-12-20T08:32:18.206Z"
   },
   {
     "id": "a68901ab5ab29641",
@@ -66,8 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69458bb49a794796014d09a6",
     "publishedAt": "2025-12-19T18:03:13.000Z",
-    "createdAt": "2025-12-20T07:22:59.119Z",
-    "updatedAt": "2025-12-20T07:22:59.119Z"
+    "createdAt": "2025-12-20T08:32:19.249Z",
+    "updatedAt": "2025-12-20T08:32:19.249Z"
   },
   {
     "id": "308184db0637ab43",
@@ -80,63 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69458daa9a794760428b06e7",
     "publishedAt": "2025-12-19T17:48:19.000Z",
-    "createdAt": "2025-12-20T07:23:00.193Z",
-    "updatedAt": "2025-12-20T07:23:00.193Z"
-  },
-  {
-    "id": "8b555585e4d98099",
-    "title": "КХЛ дисквалифицировала игрока «Нефтехимика» за удар судье в лицо",
-    "sport": "Хоккей",
-    "category": "Хоккей",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/3/15/347661643478153.jpeg",
-    "teaser": "КХЛ дисквалифицировала игрока «Нефтехимика» за удар судье в лицо",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/694586ec9a79478e49da0814",
-    "publishedAt": "2025-12-19T17:23:04.000Z",
-    "createdAt": "2025-12-20T07:23:02.389Z",
-    "updatedAt": "2025-12-20T07:23:02.389Z"
-  },
-  {
-    "id": "006a3e08f709d1a0",
-    "title": "Судью РПЛ допросили по делу «Торпедо» о подкупе арбитров",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/1/58/347661621594581.jpeg",
-    "teaser": "Судью РПЛ допросили по делу «Торпедо» о подкупе арбитров",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69457eb99a79470e578e4084",
-    "publishedAt": "2025-12-19T17:19:35.000Z",
-    "createdAt": "2025-12-20T07:23:01.236Z",
-    "updatedAt": "2025-12-20T07:23:01.236Z"
-  },
-  {
-    "id": "43dfc6abd54c0729",
-    "title": "Медведев проиграл 524-й ракетке мира из Индии на выставочном турнире",
-    "sport": "Теннис",
-    "category": "Теннис",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/5/00/347661612254005.jpeg",
-    "teaser": "Медведев проиграл 524-й ракетке мира из Индии на выставочном турнире",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69457b049a79474a0fb4c66a",
-    "publishedAt": "2025-12-19T16:30:11.000Z",
-    "createdAt": "2025-12-20T07:23:03.665Z",
-    "updatedAt": "2025-12-20T07:23:03.665Z"
-  },
-  {
-    "id": "3ea70c9d614ba583",
-    "title": "FIS допустила еще троих российских горнолыжников к отбору на Олимпиаду",
-    "sport": "Другое",
-    "category": "Другие",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/9/59/347661605696599.jpeg",
-    "teaser": "FIS допустила еще троих российских горнолыжников к отбору на Олимпиаду",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/694578699a7947861fa44b19",
-    "publishedAt": "2025-12-19T16:14:39.000Z",
-    "createdAt": "2025-12-20T07:23:04.767Z",
-    "updatedAt": "2025-12-20T07:23:04.767Z"
+    "createdAt": "2025-12-20T08:32:20.273Z",
+    "updatedAt": "2025-12-20T08:32:20.273Z"
   }
 ]
