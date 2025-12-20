@@ -1,5 +1,61 @@
 [
   {
+    "id": "6a4e9e3f7ee4a342",
+    "title": "Овечкин вошел в топ-20 игроков в истории по числу матчей в НХЛ",
+    "sport": "Хоккей",
+    "category": "Хоккей",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/6/92/347662545517926.jpeg",
+    "teaser": "Овечкин вошел в топ-20 игроков в истории по числу матчей в НХЛ",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6946e7a49a7947d86944f02f",
+    "publishedAt": "2025-12-20T18:20:20.000Z",
+    "createdAt": "2025-12-20T18:33:09.936Z",
+    "updatedAt": "2025-12-20T18:33:09.936Z"
+  },
+  {
+    "id": "6d3c8a8f690670e7",
+    "title": "Фигуристка Аделия Петросян третий год подряд выиграла чемпионат России",
+    "sport": "Другое",
+    "category": "Фигурное катание",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/5/26/347662524987265.jpeg",
+    "teaser": "Фигуристка Аделия Петросян третий год подряд выиграла чемпионат России",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6946db339a794758caf472eb",
+    "publishedAt": "2025-12-20T18:02:54.000Z",
+    "createdAt": "2025-12-20T18:33:10.985Z",
+    "updatedAt": "2025-12-20T18:33:10.985Z"
+  },
+  {
+    "id": "2403d6fd2c1113f1",
+    "title": "Хоккеисты СКА и «Спартака» подрались после финальной сирены в матче КХЛ",
+    "sport": "Хоккей",
+    "category": "Хоккей",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/4/87/756678354777874.jpg",
+    "teaser": "Хоккеисты СКА и «Спартака» подрались после финальной сирены в матче КХЛ",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6946dd939a7947824ab6a75b",
+    "publishedAt": "2025-12-20T17:38:52.000Z",
+    "createdAt": "2025-12-20T18:33:14.909Z",
+    "updatedAt": "2025-12-20T18:33:14.909Z"
+  },
+  {
+    "id": "d51be74135b4984b",
+    "title": "Холанд обошел Роналду по голам в Английской премьер-лиге",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/3/95/347662508846953.jpeg",
+    "teaser": "Холанд обошел Роналду по голам в Английской премьер-лиге",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6946d9639a7947113cc1eb8f",
+    "publishedAt": "2025-12-20T17:18:55.000Z",
+    "createdAt": "2025-12-20T18:33:11.900Z",
+    "updatedAt": "2025-12-20T18:33:11.900Z"
+  },
+  {
     "id": "76a1d4f061e1b6e8",
     "title": "«Спартак» прервал серию поражений и второй раз в сезоне КХЛ обыграл СКА",
     "sport": "Хоккей",
@@ -10,8 +66,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6946c9869a7947f8526bf303",
     "publishedAt": "2025-12-20T16:13:31.000Z",
-    "createdAt": "2025-12-20T17:20:30.288Z",
-    "updatedAt": "2025-12-20T17:20:30.288Z"
+    "createdAt": "2025-12-20T18:33:15.904Z",
+    "updatedAt": "2025-12-20T18:33:15.904Z"
   },
   {
     "id": "a9fef541bc9cd1d9",
@@ -24,8 +80,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6946c3de9a79474e32cd5c52",
     "publishedAt": "2025-12-20T15:50:48.000Z",
-    "createdAt": "2025-12-20T17:20:31.179Z",
-    "updatedAt": "2025-12-20T17:20:31.179Z"
+    "createdAt": "2025-12-20T18:33:12.973Z",
+    "updatedAt": "2025-12-20T18:33:12.973Z"
   },
   {
     "id": "ff45e539fbf3b1ca",
@@ -38,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6946beb99a79475d88ad3188",
     "publishedAt": "2025-12-20T15:34:15.000Z",
-    "createdAt": "2025-12-20T17:20:32.396Z",
-    "updatedAt": "2025-12-20T17:20:32.396Z"
+    "createdAt": "2025-12-20T18:33:16.972Z",
+    "updatedAt": "2025-12-20T18:33:16.972Z"
   },
   {
     "id": "3182c586571680fe",
@@ -52,8 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6946ae0d9a7947d197be8cf5",
     "publishedAt": "2025-12-20T15:00:48.000Z",
-    "createdAt": "2025-12-20T17:20:33.489Z",
-    "updatedAt": "2025-12-20T17:20:33.489Z"
+    "createdAt": "2025-12-20T18:33:18.072Z",
+    "updatedAt": "2025-12-20T18:33:18.072Z"
   },
   {
     "id": "bb43f203cb9b864d",
@@ -66,8 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6946b3889a7947d0d2a084e4",
     "publishedAt": "2025-12-20T14:41:59.000Z",
-    "createdAt": "2025-12-20T17:20:35.752Z",
-    "updatedAt": "2025-12-20T17:20:35.752Z"
+    "createdAt": "2025-12-20T18:33:20.282Z",
+    "updatedAt": "2025-12-20T18:33:20.282Z"
   },
   {
     "id": "9b6acb2f02fc0023",
@@ -80,63 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6946b0c49a79470373358cf0",
     "publishedAt": "2025-12-20T14:28:21.000Z",
-    "createdAt": "2025-12-20T17:20:34.644Z",
-    "updatedAt": "2025-12-20T17:20:34.644Z"
-  },
-  {
-    "id": "7e0783f89b2541d4",
-    "title": "«Ак Барс» 4-й раз в сезоне обыграл «Салават Юлаев» в «зеленом дерби» КХЛ",
-    "sport": "Хоккей",
-    "category": "Хоккей",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/0/39/347662373604390.jpeg",
-    "teaser": "«Ак Барс» 4-й раз в сезоне обыграл «Салават Юлаев» в «зеленом дерби» КХЛ",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6946a4739a79476f8e7c076d",
-    "publishedAt": "2025-12-20T13:50:44.000Z",
-    "createdAt": "2025-12-20T17:20:36.746Z",
-    "updatedAt": "2025-12-20T17:20:36.746Z"
-  },
-  {
-    "id": "0274727f7ac1a51f",
-    "title": "Дзюба выразил готовность вернуться в сборную России",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/5/68/347662368605685.jpeg",
-    "teaser": "Дзюба выразил готовность вернуться в сборную России",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6946a1869a7947b5d434ceb1",
-    "publishedAt": "2025-12-20T13:23:14.000Z",
-    "createdAt": "2025-12-20T17:20:37.779Z",
-    "updatedAt": "2025-12-20T17:20:37.779Z"
-  },
-  {
-    "id": "c1f4ced5b501c164",
-    "title": "Финалист Кубка Гагарина обменял в «Динамо» одного из лучших бомбардиров",
-    "sport": "Хоккей",
-    "category": "Хоккей",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/1/71/347662347416711.jpeg",
-    "teaser": "Финалист Кубка Гагарина обменял в «Динамо» одного из лучших бомбардиров",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69469a319a794760bea49c59",
-    "publishedAt": "2025-12-20T12:52:00.000Z",
-    "createdAt": "2025-12-20T17:20:40.351Z",
-    "updatedAt": "2025-12-20T17:20:40.351Z"
-  },
-  {
-    "id": "93cb20184386298f",
-    "title": "Степанова и Букин пятый раз стали чемпионами России в танцах на льду",
-    "sport": "Другое",
-    "category": "Фигурное катание",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/7/68/347662330796687.jpeg",
-    "teaser": "Степанова и Букин пятый раз стали чемпионами России в танцах на льду",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69468b089a794700d0339d7c",
-    "publishedAt": "2025-12-20T12:34:10.000Z",
-    "createdAt": "2025-12-20T17:20:39.250Z",
-    "updatedAt": "2025-12-20T17:20:39.250Z"
+    "createdAt": "2025-12-20T18:33:19.177Z",
+    "updatedAt": "2025-12-20T18:33:19.177Z"
   }
 ]
