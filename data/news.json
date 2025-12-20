@@ -1,5 +1,47 @@
 [
   {
+    "id": "76a1d4f061e1b6e8",
+    "title": "«Спартак» прервал серию поражений и второй раз в сезоне КХЛ обыграл СКА",
+    "sport": "Хоккей",
+    "category": "Хоккей",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/7/13/347662468869137.jpeg",
+    "teaser": "«Спартак» прервал серию поражений и второй раз в сезоне КХЛ обыграл СКА",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6946c9869a7947f8526bf303",
+    "publishedAt": "2025-12-20T16:13:31.000Z",
+    "createdAt": "2025-12-20T16:29:51.975Z",
+    "updatedAt": "2025-12-20T16:29:51.975Z"
+  },
+  {
+    "id": "a9fef541bc9cd1d9",
+    "title": "Помощник Карпина рассказал, в какой момент Сафонов получил перелом руки",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/0/12/347662453909120.jpeg",
+    "teaser": "Помощник Карпина рассказал, в какой момент Сафонов получил перелом руки",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6946c3de9a79474e32cd5c52",
+    "publishedAt": "2025-12-20T15:50:48.000Z",
+    "createdAt": "2025-12-20T16:29:53.184Z",
+    "updatedAt": "2025-12-20T16:29:53.184Z"
+  },
+  {
+    "id": "ff45e539fbf3b1ca",
+    "title": "Большунов отказал в интервью журналисту, обвинив его в желании хайпануть",
+    "sport": "Другое",
+    "category": "Другие",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/5/60/347662440683605.jpeg",
+    "teaser": "Большунов отказал в интервью журналисту, обвинив его в желании хайпануть",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6946beb99a79475d88ad3188",
+    "publishedAt": "2025-12-20T15:34:15.000Z",
+    "createdAt": "2025-12-20T16:29:54.296Z",
+    "updatedAt": "2025-12-20T16:29:54.296Z"
+  },
+  {
     "id": "3182c586571680fe",
     "title": "Бойкова и Козловский выиграли чемпионат России в парном катании",
     "sport": "Другое",
@@ -10,8 +52,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6946ae0d9a7947d197be8cf5",
     "publishedAt": "2025-12-20T15:00:48.000Z",
-    "createdAt": "2025-12-20T15:24:14.755Z",
-    "updatedAt": "2025-12-20T15:24:14.755Z"
+    "createdAt": "2025-12-20T16:29:55.361Z",
+    "updatedAt": "2025-12-20T16:29:55.361Z"
   },
   {
     "id": "bb43f203cb9b864d",
@@ -24,8 +66,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6946b3889a7947d0d2a084e4",
     "publishedAt": "2025-12-20T14:41:59.000Z",
-    "createdAt": "2025-12-20T15:24:17.215Z",
-    "updatedAt": "2025-12-20T15:24:17.215Z"
+    "createdAt": "2025-12-20T16:29:57.741Z",
+    "updatedAt": "2025-12-20T16:29:57.741Z"
   },
   {
     "id": "9b6acb2f02fc0023",
@@ -38,8 +80,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6946b0c49a79470373358cf0",
     "publishedAt": "2025-12-20T14:28:21.000Z",
-    "createdAt": "2025-12-20T15:24:16.117Z",
-    "updatedAt": "2025-12-20T15:24:16.117Z"
+    "createdAt": "2025-12-20T16:29:56.544Z",
+    "updatedAt": "2025-12-20T16:29:56.544Z"
   },
   {
     "id": "7e0783f89b2541d4",
@@ -52,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6946a4739a79476f8e7c076d",
     "publishedAt": "2025-12-20T13:50:44.000Z",
-    "createdAt": "2025-12-20T15:24:18.364Z",
-    "updatedAt": "2025-12-20T15:24:18.364Z"
+    "createdAt": "2025-12-20T16:29:58.883Z",
+    "updatedAt": "2025-12-20T16:29:58.883Z"
   },
   {
     "id": "0274727f7ac1a51f",
@@ -66,8 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6946a1869a7947b5d434ceb1",
     "publishedAt": "2025-12-20T13:23:14.000Z",
-    "createdAt": "2025-12-20T15:24:19.433Z",
-    "updatedAt": "2025-12-20T15:24:19.433Z"
+    "createdAt": "2025-12-20T16:30:00.043Z",
+    "updatedAt": "2025-12-20T16:30:00.043Z"
   },
   {
     "id": "c1f4ced5b501c164",
@@ -80,8 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69469a319a794760bea49c59",
     "publishedAt": "2025-12-20T12:52:00.000Z",
-    "createdAt": "2025-12-20T15:24:21.716Z",
-    "updatedAt": "2025-12-20T15:24:21.716Z"
+    "createdAt": "2025-12-20T16:30:02.329Z",
+    "updatedAt": "2025-12-20T16:30:02.329Z"
   },
   {
     "id": "93cb20184386298f",
@@ -94,49 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69468b089a794700d0339d7c",
     "publishedAt": "2025-12-20T12:34:10.000Z",
-    "createdAt": "2025-12-20T15:24:20.613Z",
-    "updatedAt": "2025-12-20T15:24:20.613Z"
-  },
-  {
-    "id": "ef1f49e295b90cb6",
-    "title": "ФИФА запретила клубу Роналду регистрировать новых футболистов",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/3/87/347662313661873.jpeg",
-    "teaser": "ФИФА запретила клубу Роналду регистрировать новых футболистов",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69468cfa9a7947756f70191f",
-    "publishedAt": "2025-12-20T11:57:27.000Z",
-    "createdAt": "2025-12-20T15:24:22.881Z",
-    "updatedAt": "2025-12-20T15:24:22.881Z"
-  },
-  {
-    "id": "90c0dd3e9f3d1a9b",
-    "title": "Большунов остался без наград в спринте на этапе Кубка России в Ижевске",
-    "sport": "Другое",
-    "category": "Другие",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/7/35/347662303322357.jpeg",
-    "teaser": "Большунов остался без наград в спринте на этапе Кубка России в Ижевске",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/694689159a79478608cd14d0",
-    "publishedAt": "2025-12-20T11:38:29.000Z",
-    "createdAt": "2025-12-20T15:24:25.078Z",
-    "updatedAt": "2025-12-20T15:24:25.078Z"
-  },
-  {
-    "id": "74093f54aec8421e",
-    "title": "Кержаков обратился к Карпину и заявил, что готов к вызову в сборную",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/0/65/347662286848650.jpeg",
-    "teaser": "Кержаков обратился к Карпину и заявил, что готов к вызову в сборную",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6946827f9a7947798da8ef32",
-    "publishedAt": "2025-12-20T11:25:28.000Z",
-    "createdAt": "2025-12-20T15:24:23.976Z",
-    "updatedAt": "2025-12-20T15:24:23.976Z"
+    "createdAt": "2025-12-20T16:30:01.215Z",
+    "updatedAt": "2025-12-20T16:30:01.215Z"
   }
 ]
