@@ -1,5 +1,61 @@
 [
   {
+    "id": "620caef9a7ca7ad3",
+    "title": "Олимпийская чемпионка Степанова из-за травмы сошла с гонки Кубка России",
+    "sport": "Другое",
+    "category": "Другие",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/2/23/347663077402232.jpeg",
+    "teaser": "Олимпийская чемпионка Степанова из-за травмы сошла с гонки Кубка России",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6947b66c9a794765a0318eb7",
+    "publishedAt": "2025-12-21T09:23:40.000Z",
+    "createdAt": "2025-12-21T11:20:41.322Z",
+    "updatedAt": "2025-12-21T11:20:41.322Z"
+  },
+  {
+    "id": "1f713ecf08bfeb83",
+    "title": "Мбаппе повторил рекорд Роналду по числу голов за «Реал» за один год",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/8/70/347663053484708.jpeg",
+    "teaser": "Мбаппе повторил рекорд Роналду по числу голов за «Реал» за один год",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6947abfa9a7947572099b3c0",
+    "publishedAt": "2025-12-21T08:46:37.000Z",
+    "createdAt": "2025-12-21T11:20:42.381Z",
+    "updatedAt": "2025-12-21T11:20:42.381Z"
+  },
+  {
+    "id": "c96321048b6f3ca2",
+    "title": "Серохвостов выиграл масс-старт на этапе Кубка Содружества по биатлону",
+    "sport": "Другое",
+    "category": "Биатлон",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/3/69/347663031630693.jpeg",
+    "teaser": "Серохвостов выиграл масс-старт на этапе Кубка Содружества по биатлону",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6947a50b9a7947f05c686f1f",
+    "publishedAt": "2025-12-21T08:34:45.000Z",
+    "createdAt": "2025-12-21T11:20:43.445Z",
+    "updatedAt": "2025-12-21T11:20:43.445Z"
+  },
+  {
+    "id": "b7fee451d7789187",
+    "title": "Плющенко завершил работу с Костылевой после конфликта с ее матерью",
+    "sport": "Другое",
+    "category": "Фигурное катание",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/2/92/347663014981922.jpeg",
+    "teaser": "Плющенко завершил работу с Костылевой после конфликта с ее матерью",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69479d709a79479fa8d947e5",
+    "publishedAt": "2025-12-21T07:47:54.000Z",
+    "createdAt": "2025-12-21T11:20:44.513Z",
+    "updatedAt": "2025-12-21T11:20:44.513Z"
+  },
+  {
     "id": "6a4e9e3f7ee4a342",
     "title": "Овечкин вошел в топ-20 игроков в истории по числу матчей в НХЛ",
     "sport": "Хоккей",
@@ -10,8 +66,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6946e7a49a7947d86944f02f",
     "publishedAt": "2025-12-20T18:20:20.000Z",
-    "createdAt": "2025-12-21T10:26:08.041Z",
-    "updatedAt": "2025-12-21T10:26:08.041Z"
+    "createdAt": "2025-12-21T11:20:45.579Z",
+    "updatedAt": "2025-12-21T11:20:45.579Z"
   },
   {
     "id": "6d3c8a8f690670e7",
@@ -24,8 +80,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6946db339a794758caf472eb",
     "publishedAt": "2025-12-20T18:02:54.000Z",
-    "createdAt": "2025-12-21T10:26:09.171Z",
-    "updatedAt": "2025-12-21T10:26:09.171Z"
+    "createdAt": "2025-12-21T11:20:46.633Z",
+    "updatedAt": "2025-12-21T11:20:46.633Z"
   },
   {
     "id": "2403d6fd2c1113f1",
@@ -38,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6946dd939a7947824ab6a75b",
     "publishedAt": "2025-12-20T17:38:52.000Z",
-    "createdAt": "2025-12-21T10:26:13.186Z",
-    "updatedAt": "2025-12-21T10:26:13.186Z"
+    "createdAt": "2025-12-21T11:20:50.871Z",
+    "updatedAt": "2025-12-21T11:20:50.871Z"
   },
   {
     "id": "d51be74135b4984b",
@@ -52,8 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6946d9639a7947113cc1eb8f",
     "publishedAt": "2025-12-20T17:18:55.000Z",
-    "createdAt": "2025-12-21T10:26:10.197Z",
-    "updatedAt": "2025-12-21T10:26:10.197Z"
+    "createdAt": "2025-12-21T11:20:47.687Z",
+    "updatedAt": "2025-12-21T11:20:47.687Z"
   },
   {
     "id": "76a1d4f061e1b6e8",
@@ -66,8 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6946c9869a7947f8526bf303",
     "publishedAt": "2025-12-20T16:13:31.000Z",
-    "createdAt": "2025-12-21T10:26:14.199Z",
-    "updatedAt": "2025-12-21T10:26:14.199Z"
+    "createdAt": "2025-12-21T11:20:51.940Z",
+    "updatedAt": "2025-12-21T11:20:51.940Z"
   },
   {
     "id": "a9fef541bc9cd1d9",
@@ -80,63 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6946c3de9a79474e32cd5c52",
     "publishedAt": "2025-12-20T15:50:48.000Z",
-    "createdAt": "2025-12-21T10:26:11.292Z",
-    "updatedAt": "2025-12-21T10:26:11.292Z"
-  },
-  {
-    "id": "ff45e539fbf3b1ca",
-    "title": "Большунов отказал в интервью журналисту, обвинив его в желании хайпануть",
-    "sport": "Другое",
-    "category": "Другие",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/5/60/347662440683605.jpeg",
-    "teaser": "Большунов отказал в интервью журналисту, обвинив его в желании хайпануть",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6946beb99a79475d88ad3188",
-    "publishedAt": "2025-12-20T15:34:15.000Z",
-    "createdAt": "2025-12-21T10:26:15.233Z",
-    "updatedAt": "2025-12-21T10:26:15.233Z"
-  },
-  {
-    "id": "3182c586571680fe",
-    "title": "Бойкова и Козловский выиграли чемпионат России в парном катании",
-    "sport": "Другое",
-    "category": "Фигурное катание",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/7/95/347662429356957.jpeg",
-    "teaser": "Бойкова и Козловский выиграли чемпионат России в парном катании",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6946ae0d9a7947d197be8cf5",
-    "publishedAt": "2025-12-20T15:00:48.000Z",
-    "createdAt": "2025-12-21T10:26:16.250Z",
-    "updatedAt": "2025-12-21T10:26:16.250Z"
-  },
-  {
-    "id": "bb43f203cb9b864d",
-    "title": "Норвежец Ботн выиграл третью в сезоне гонку на Кубке мира по биатлону",
-    "sport": "Другое",
-    "category": "Биатлон",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/7/87/347662412881877.jpeg",
-    "teaser": "Норвежец Ботн выиграл третью в сезоне гонку на Кубке мира по биатлону",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6946b3889a7947d0d2a084e4",
-    "publishedAt": "2025-12-20T14:41:59.000Z",
-    "createdAt": "2025-12-21T10:26:18.542Z",
-    "updatedAt": "2025-12-21T10:26:18.542Z"
-  },
-  {
-    "id": "9b6acb2f02fc0023",
-    "title": "«Челси» отыгрался с 0:2 и вырвал ничью в матче АПЛ с «Ньюкаслом»",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/0/05/347662405060050.jpeg",
-    "teaser": "«Челси» отыгрался с 0:2 и вырвал ничью в матче АПЛ с «Ньюкаслом»",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6946b0c49a79470373358cf0",
-    "publishedAt": "2025-12-20T14:28:21.000Z",
-    "createdAt": "2025-12-21T10:26:17.388Z",
-    "updatedAt": "2025-12-21T10:26:17.388Z"
+    "createdAt": "2025-12-21T11:20:48.761Z",
+    "updatedAt": "2025-12-21T11:20:48.761Z"
   }
 ]
