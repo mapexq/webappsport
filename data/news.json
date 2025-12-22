@@ -1,5 +1,33 @@
 [
   {
+    "id": "e02e3228818787bf",
+    "title": "FIS дала нейтральный статус российскому вице-чемпиону Олимпиады",
+    "sport": "Другое",
+    "category": "Другие",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/4/69/347664249068694.jpeg",
+    "teaser": "FIS дала нейтральный статус российскому вице-чемпиону Олимпиады",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69496fff9a79472650dd9fdd",
+    "publishedAt": "2025-12-22T17:44:33.000Z",
+    "createdAt": "2025-12-22T18:38:11.037Z",
+    "updatedAt": "2025-12-22T18:38:11.037Z"
+  },
+  {
+    "id": "807caf81754ac6df",
+    "title": "Лидер КХЛ вырвал победу у «Нефтехимика» в серии буллитов",
+    "sport": "Хоккей",
+    "category": "Хоккей",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/4/56/347664234868564.png",
+    "teaser": "Лидер КХЛ вырвал победу у «Нефтехимика» в серии буллитов",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/694976bf9a7947103b8bea4c",
+    "publishedAt": "2025-12-22T17:29:58.000Z",
+    "createdAt": "2025-12-22T18:38:14.180Z",
+    "updatedAt": "2025-12-22T18:38:14.180Z"
+  },
+  {
     "id": "ba601b6622e38ca9",
     "title": "Карим Бензема приобрел картину Пикассо",
     "sport": "Футбол",
@@ -10,8 +38,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69496abd9a7947d97b98d9c2",
     "publishedAt": "2025-12-22T17:11:31.000Z",
-    "createdAt": "2025-12-22T17:23:44.351Z",
-    "updatedAt": "2025-12-22T17:23:44.351Z"
+    "createdAt": "2025-12-22T18:38:12.095Z",
+    "updatedAt": "2025-12-22T18:38:12.095Z"
   },
   {
     "id": "dbd6bf9af0e5c4c6",
@@ -24,8 +52,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/694956949a79473f6436f3fc",
     "publishedAt": "2025-12-22T16:49:58.000Z",
-    "createdAt": "2025-12-22T17:23:45.464Z",
-    "updatedAt": "2025-12-22T17:23:45.464Z"
+    "createdAt": "2025-12-22T18:38:13.164Z",
+    "updatedAt": "2025-12-22T18:38:13.164Z"
   },
   {
     "id": "11b8877911e13b70",
@@ -38,8 +66,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/694958789a794720208b020f",
     "publishedAt": "2025-12-22T16:10:02.000Z",
-    "createdAt": "2025-12-22T17:23:46.556Z",
-    "updatedAt": "2025-12-22T17:23:46.556Z"
+    "createdAt": "2025-12-22T18:38:15.242Z",
+    "updatedAt": "2025-12-22T18:38:15.243Z"
   },
   {
     "id": "84fcea4378abbfd4",
@@ -52,8 +80,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/694962f59a7947f54f2c6e82",
     "publishedAt": "2025-12-22T15:44:06.000Z",
-    "createdAt": "2025-12-22T17:23:47.539Z",
-    "updatedAt": "2025-12-22T17:23:47.539Z"
+    "createdAt": "2025-12-22T18:38:16.236Z",
+    "updatedAt": "2025-12-22T18:38:16.236Z"
   },
   {
     "id": "8d7917ed50534439",
@@ -66,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/694955479a794756b70312e8",
     "publishedAt": "2025-12-22T15:42:11.000Z",
-    "createdAt": "2025-12-22T17:23:48.612Z",
-    "updatedAt": "2025-12-22T17:23:48.612Z"
+    "createdAt": "2025-12-22T18:38:17.085Z",
+    "updatedAt": "2025-12-22T18:38:17.085Z"
   },
   {
     "id": "57cc63efe41264ea",
@@ -80,8 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69494b1e9a7947ff8d588efa",
     "publishedAt": "2025-12-22T15:19:11.000Z",
-    "createdAt": "2025-12-22T17:23:49.669Z",
-    "updatedAt": "2025-12-22T17:23:49.669Z"
+    "createdAt": "2025-12-22T18:38:18.147Z",
+    "updatedAt": "2025-12-22T18:38:18.147Z"
   },
   {
     "id": "6f81ffa6a90aeb73",
@@ -94,22 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/694940c69a79475ed40200de",
     "publishedAt": "2025-12-22T13:35:43.000Z",
-    "createdAt": "2025-12-22T17:23:52.561Z",
-    "updatedAt": "2025-12-22T17:23:52.561Z"
-  },
-  {
-    "id": "d3d40fd1853478a3",
-    "title": "Щелково — победитель международного командного турнира «Битва городов»",
-    "sport": "Единоборства",
-    "category": "Единоборства",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/8/66/347664015369668.png",
-    "teaser": "Щелково — победитель международного командного турнира «Битва городов»",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6949239b9a79475e177f97bb",
-    "publishedAt": "2025-12-22T13:21:19.000Z",
-    "createdAt": "2025-12-22T17:23:54.900Z",
-    "updatedAt": "2025-12-22T17:23:54.900Z"
+    "createdAt": "2025-12-22T18:38:21.182Z",
+    "updatedAt": "2025-12-22T18:38:21.183Z"
   },
   {
     "id": "ebddc7f1b5d53503",
@@ -122,21 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/692456929a79471296e6a429",
     "publishedAt": "2025-12-21T21:40:06.000Z",
-    "createdAt": "2025-12-22T17:23:51.490Z",
-    "updatedAt": "2025-12-22T17:23:51.490Z"
-  },
-  {
-    "id": "ebc4cdc373d5e7ec",
-    "title": "Плющенко отказался от фигуристки после «ада». Чем известна Костылева",
-    "sport": "Другое",
-    "category": "Фигурное катание",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/0/41/347658954560410.jpeg",
-    "teaser": "Плющенко отказался от фигуристки после «ада». Чем известна Костылева",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/694145b49a79477a8829111d",
-    "publishedAt": "2025-12-21T21:38:24.000Z",
-    "createdAt": "2025-12-22T17:23:53.627Z",
-    "updatedAt": "2025-12-22T17:23:53.627Z"
+    "createdAt": "2025-12-22T18:38:20.022Z",
+    "updatedAt": "2025-12-22T18:38:20.022Z"
   }
 ]
