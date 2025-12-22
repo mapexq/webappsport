@@ -1,5 +1,47 @@
 [
   {
+    "id": "ba601b6622e38ca9",
+    "title": "Карим Бензема приобрел картину Пикассо",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/8/26/347664240049268.jpeg",
+    "teaser": "Карим Бензема приобрел картину Пикассо",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69496abd9a7947d97b98d9c2",
+    "publishedAt": "2025-12-22T17:11:31.000Z",
+    "createdAt": "2025-12-22T17:23:44.351Z",
+    "updatedAt": "2025-12-22T17:23:44.351Z"
+  },
+  {
+    "id": "dbd6bf9af0e5c4c6",
+    "title": "Игроку попали в лицо холодным фейерверком в матче Кубка лиги по футзалу",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/1/16/347664193207161.png",
+    "teaser": "Игроку попали в лицо холодным фейерверком в матче Кубка лиги по футзалу",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/694956949a79473f6436f3fc",
+    "publishedAt": "2025-12-22T16:49:58.000Z",
+    "createdAt": "2025-12-22T17:23:45.464Z",
+    "updatedAt": "2025-12-22T17:23:45.464Z"
+  },
+  {
+    "id": "11b8877911e13b70",
+    "title": "Тарасова фразой «это норма» оценила падение Петросян на чемпионате России",
+    "sport": "Другое",
+    "category": "Фигурное катание",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/1/61/347664167721611.jpeg",
+    "teaser": "Тарасова фразой «это норма» оценила падение Петросян на чемпионате России",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/694958789a794720208b020f",
+    "publishedAt": "2025-12-22T16:10:02.000Z",
+    "createdAt": "2025-12-22T17:23:46.556Z",
+    "updatedAt": "2025-12-22T17:23:46.556Z"
+  },
+  {
     "id": "84fcea4378abbfd4",
     "title": "Уволенный из «Спартака» Станкович возглавил «Црвену Звезду»",
     "sport": "Футбол",
@@ -10,8 +52,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/694962f59a7947f54f2c6e82",
     "publishedAt": "2025-12-22T15:44:06.000Z",
-    "createdAt": "2025-12-22T16:33:40.352Z",
-    "updatedAt": "2025-12-22T16:33:40.352Z"
+    "createdAt": "2025-12-22T17:23:47.539Z",
+    "updatedAt": "2025-12-22T17:23:47.539Z"
   },
   {
     "id": "8d7917ed50534439",
@@ -24,8 +66,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/694955479a794756b70312e8",
     "publishedAt": "2025-12-22T15:42:11.000Z",
-    "createdAt": "2025-12-22T16:33:41.394Z",
-    "updatedAt": "2025-12-22T16:33:41.394Z"
+    "createdAt": "2025-12-22T17:23:48.612Z",
+    "updatedAt": "2025-12-22T17:23:48.612Z"
   },
   {
     "id": "57cc63efe41264ea",
@@ -38,22 +80,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69494b1e9a7947ff8d588efa",
     "publishedAt": "2025-12-22T15:19:11.000Z",
-    "createdAt": "2025-12-22T16:33:42.418Z",
-    "updatedAt": "2025-12-22T16:33:42.418Z"
-  },
-  {
-    "id": "b93c23872abd3d67",
-    "title": "Тарасова назвала главную задачу Петросян и Гуменника перед Олимпиадой",
-    "sport": "Другое",
-    "category": "Фигурное катание",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/8/76/347664092758768.jpeg",
-    "teaser": "Тарасова назвала главную задачу Петросян и Гуменника перед Олимпиадой",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6949419f9a794775b88d50e0",
-    "publishedAt": "2025-12-22T14:27:25.000Z",
-    "createdAt": "2025-12-22T16:33:43.445Z",
-    "updatedAt": "2025-12-22T16:33:43.445Z"
+    "createdAt": "2025-12-22T17:23:49.669Z",
+    "updatedAt": "2025-12-22T17:23:49.669Z"
   },
   {
     "id": "6f81ffa6a90aeb73",
@@ -66,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/694940c69a79475ed40200de",
     "publishedAt": "2025-12-22T13:35:43.000Z",
-    "createdAt": "2025-12-22T16:33:44.512Z",
-    "updatedAt": "2025-12-22T16:33:44.512Z"
+    "createdAt": "2025-12-22T17:23:52.561Z",
+    "updatedAt": "2025-12-22T17:23:52.561Z"
   },
   {
     "id": "d3d40fd1853478a3",
@@ -80,22 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6949239b9a79475e177f97bb",
     "publishedAt": "2025-12-22T13:21:19.000Z",
-    "createdAt": "2025-12-22T16:33:46.100Z",
-    "updatedAt": "2025-12-22T16:33:46.100Z"
-  },
-  {
-    "id": "1e0f039afc65fc89",
-    "title": "Российского боксера не стали лишать победы на ЧМ за укус соперника за ухо",
-    "sport": "Единоборства",
-    "category": "Единоборства",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/2/43/347664083152432.png",
-    "teaser": "Российского боксера не стали лишать победы на ЧМ за укус соперника за ухо",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69493a099a7947407b134a8a",
-    "publishedAt": "2025-12-22T13:19:24.000Z",
-    "createdAt": "2025-12-22T16:33:51.072Z",
-    "updatedAt": "2025-12-22T16:33:51.072Z"
+    "createdAt": "2025-12-22T17:23:54.900Z",
+    "updatedAt": "2025-12-22T17:23:54.900Z"
   },
   {
     "id": "ebddc7f1b5d53503",
@@ -108,8 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/692456929a79471296e6a429",
     "publishedAt": "2025-12-21T21:40:06.000Z",
-    "createdAt": "2025-12-22T16:33:47.931Z",
-    "updatedAt": "2025-12-22T16:33:47.931Z"
+    "createdAt": "2025-12-22T17:23:51.490Z",
+    "updatedAt": "2025-12-22T17:23:51.490Z"
   },
   {
     "id": "ebc4cdc373d5e7ec",
@@ -122,21 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/694145b49a79477a8829111d",
     "publishedAt": "2025-12-21T21:38:24.000Z",
-    "createdAt": "2025-12-22T16:33:48.952Z",
-    "updatedAt": "2025-12-22T16:33:48.952Z"
-  },
-  {
-    "id": "b4e07ea721cbfe8d",
-    "title": "Самые яркие образы в карьере Туктамышевой",
-    "sport": "Другое",
-    "category": "Фигурное катание",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/0/95/347639912336950.jpeg",
-    "teaser": "Самые яркие образы в карьере Туктамышевой",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/692458859a79473a7c1b3cf0",
-    "publishedAt": "2025-12-21T21:30:30.000Z",
-    "createdAt": "2025-12-22T16:33:50.039Z",
-    "updatedAt": "2025-12-22T16:33:50.039Z"
+    "createdAt": "2025-12-22T17:23:53.627Z",
+    "updatedAt": "2025-12-22T17:23:53.627Z"
   }
 ]
