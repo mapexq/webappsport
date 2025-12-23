@@ -1,5 +1,47 @@
 [
   {
+    "id": "5a92ad152707ad13",
+    "title": "Решение CAS по делу Валиевой пропало с официального сайта",
+    "sport": "Другое",
+    "category": "Фигурное катание",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/0/18/347664726816180.jpeg",
+    "teaser": "Решение CAS по делу Валиевой пропало с официального сайта",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/694a35349a7947c5be50094e",
+    "publishedAt": "2025-12-23T07:20:11.000Z",
+    "createdAt": "2025-12-23T07:28:53.896Z",
+    "updatedAt": "2025-12-23T07:28:53.896Z"
+  },
+  {
+    "id": "6be31c86a5213645",
+    "title": "Кучеров набрал два очка в победном матче «Тампы» в НХЛ",
+    "sport": "Хоккей",
+    "category": "Хоккей",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/1/08/347664694906081.jpeg",
+    "teaser": "Кучеров набрал два очка в победном матче «Тампы» в НХЛ",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/694a280e9a79471aba6b12d1",
+    "publishedAt": "2025-12-23T07:05:29.000Z",
+    "createdAt": "2025-12-23T07:28:55.010Z",
+    "updatedAt": "2025-12-23T07:28:55.010Z"
+  },
+  {
+    "id": "abe52ff2fab56b91",
+    "title": "Непобежденного российского бойца UFC исключили из организации",
+    "sport": "Единоборства",
+    "category": "Единоборства",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/8/04/347664669047048.jpeg",
+    "teaser": "Непобежденного российского бойца UFC исключили из организации",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/694a242c9a794752de74bc10",
+    "publishedAt": "2025-12-23T05:39:32.000Z",
+    "createdAt": "2025-12-23T07:28:56.108Z",
+    "updatedAt": "2025-12-23T07:28:56.108Z"
+  },
+  {
     "id": "d1e20927907cb0a9",
     "title": "Российский вратарь Сорокин пропустит ближайший матч НХЛ из-за травмы",
     "sport": "Хоккей",
@@ -10,8 +52,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/694991789a7947844169d38c",
     "publishedAt": "2025-12-22T18:57:30.000Z",
-    "createdAt": "2025-12-23T06:41:34.871Z",
-    "updatedAt": "2025-12-23T06:41:34.871Z"
+    "createdAt": "2025-12-23T07:28:59.499Z",
+    "updatedAt": "2025-12-23T07:28:59.499Z"
   },
   {
     "id": "9d6b5e996e652b35",
@@ -24,8 +66,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69498f009a79474ff83b575b",
     "publishedAt": "2025-12-22T18:45:19.000Z",
-    "createdAt": "2025-12-23T06:41:33.536Z",
-    "updatedAt": "2025-12-23T06:41:33.536Z"
+    "createdAt": "2025-12-23T07:28:58.345Z",
+    "updatedAt": "2025-12-23T07:28:58.345Z"
   },
   {
     "id": "e02e3228818787bf",
@@ -38,8 +80,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69496fff9a79472650dd9fdd",
     "publishedAt": "2025-12-22T17:44:33.000Z",
-    "createdAt": "2025-12-23T06:41:32.501Z",
-    "updatedAt": "2025-12-23T06:41:32.501Z"
+    "createdAt": "2025-12-23T07:28:57.237Z",
+    "updatedAt": "2025-12-23T07:28:57.237Z"
   },
   {
     "id": "807caf81754ac6df",
@@ -52,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/694976bf9a7947103b8bea4c",
     "publishedAt": "2025-12-22T17:29:58.000Z",
-    "createdAt": "2025-12-23T06:41:37.943Z",
-    "updatedAt": "2025-12-23T06:41:37.943Z"
+    "createdAt": "2025-12-23T07:29:02.881Z",
+    "updatedAt": "2025-12-23T07:29:02.881Z"
   },
   {
     "id": "ba601b6622e38ca9",
@@ -66,8 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69496abd9a7947d97b98d9c2",
     "publishedAt": "2025-12-22T17:11:31.000Z",
-    "createdAt": "2025-12-23T06:41:35.894Z",
-    "updatedAt": "2025-12-23T06:41:35.894Z"
+    "createdAt": "2025-12-23T07:29:00.632Z",
+    "updatedAt": "2025-12-23T07:29:00.632Z"
   },
   {
     "id": "dbd6bf9af0e5c4c6",
@@ -80,36 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/694956949a79473f6436f3fc",
     "publishedAt": "2025-12-22T16:49:58.000Z",
-    "createdAt": "2025-12-23T06:41:36.905Z",
-    "updatedAt": "2025-12-23T06:41:36.905Z"
-  },
-  {
-    "id": "11b8877911e13b70",
-    "title": "Тарасова фразой «это норма» оценила падение Петросян на чемпионате России",
-    "sport": "Другое",
-    "category": "Фигурное катание",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/1/61/347664167721611.jpeg",
-    "teaser": "Тарасова фразой «это норма» оценила падение Петросян на чемпионате России",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/694958789a794720208b020f",
-    "publishedAt": "2025-12-22T16:10:02.000Z",
-    "createdAt": "2025-12-23T06:41:40.880Z",
-    "updatedAt": "2025-12-23T06:41:40.880Z"
-  },
-  {
-    "id": "84fcea4378abbfd4",
-    "title": "Уволенный из «Спартака» Станкович возглавил «Црвену Звезду»",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/3/13/347664172576133.png",
-    "teaser": "Уволенный из «Спартака» Станкович возглавил «Црвену Звезду»",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/694962f59a7947f54f2c6e82",
-    "publishedAt": "2025-12-22T15:44:06.000Z",
-    "createdAt": "2025-12-23T06:41:42.963Z",
-    "updatedAt": "2025-12-23T06:41:42.963Z"
+    "createdAt": "2025-12-23T07:29:01.763Z",
+    "updatedAt": "2025-12-23T07:29:01.763Z"
   },
   {
     "id": "ebddc7f1b5d53503",
@@ -122,21 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/692456929a79471296e6a429",
     "publishedAt": "2025-12-21T21:40:06.000Z",
-    "createdAt": "2025-12-23T06:41:39.851Z",
-    "updatedAt": "2025-12-23T06:41:39.851Z"
-  },
-  {
-    "id": "ebc4cdc373d5e7ec",
-    "title": "Плющенко отказался от фигуристки после «ада». Чем известна Костылева",
-    "sport": "Другое",
-    "category": "Фигурное катание",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/0/41/347658954560410.jpeg",
-    "teaser": "Плющенко отказался от фигуристки после «ада». Чем известна Костылева",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/694145b49a79477a8829111d",
-    "publishedAt": "2025-12-21T21:38:24.000Z",
-    "createdAt": "2025-12-23T06:41:41.921Z",
-    "updatedAt": "2025-12-23T06:41:41.921Z"
+    "createdAt": "2025-12-23T07:29:05.014Z",
+    "updatedAt": "2025-12-23T07:29:05.014Z"
   }
 ]
