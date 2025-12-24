@@ -1,5 +1,61 @@
 [
   {
+    "id": "d11de1e942d0af09",
+    "title": "Ски-альпинист Филиппов заявил, что может выиграть медаль Олимпиады-2026",
+    "sport": "Другое",
+    "category": "Другие",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/7/26/347665760492267.jpeg",
+    "teaser": "Ски-альпинист Филиппов заявил, что может выиграть медаль Олимпиады-2026",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/694bcbe39a7947da44451e04",
+    "publishedAt": "2025-12-24T12:28:35.000Z",
+    "createdAt": "2025-12-24T12:53:41.328Z",
+    "updatedAt": "2025-12-24T12:53:41.328Z"
+  },
+  {
+    "id": "f9502175399eb137",
+    "title": "Гарт заявила, что Латвия сразу отказалась принимать российских саночников",
+    "sport": "Другое",
+    "category": "Другие",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/0/05/347665767632050.png",
+    "teaser": "Гарт заявила, что Латвия сразу отказалась принимать российских саночников",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/694bcefc9a7947f29e474a32",
+    "publishedAt": "2025-12-24T11:59:59.000Z",
+    "createdAt": "2025-12-24T12:53:40.368Z",
+    "updatedAt": "2025-12-24T12:53:40.368Z"
+  },
+  {
+    "id": "614cecea6c9f3a0b",
+    "title": "Семь российских теннисисток выступят в квалификации Australian Open",
+    "sport": "Теннис",
+    "category": "Теннис",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/3/67/347665723800673.jpeg",
+    "teaser": "Семь российских теннисисток выступят в квалификации Australian Open",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/694bbaf39a794760fcf525ef",
+    "publishedAt": "2025-12-24T10:58:12.000Z",
+    "createdAt": "2025-12-24T12:53:42.396Z",
+    "updatedAt": "2025-12-24T12:53:42.396Z"
+  },
+  {
+    "id": "46f852ae80c45b82",
+    "title": "В кипрском клубе опровергли информацию о переходе их тренера в «Спартак»",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/9/78/347665711108789.jpeg",
+    "teaser": "В кипрском клубе опровергли информацию о переходе их тренера в «Спартак»",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/694bb8a89a79472e0d34a1cd",
+    "publishedAt": "2025-12-24T10:55:29.000Z",
+    "createdAt": "2025-12-24T12:53:39.334Z",
+    "updatedAt": "2025-12-24T12:53:39.334Z"
+  },
+  {
     "id": "d394dbf2f0b90180",
     "title": "Немецкий футболист погиб в 34 года, упав с горнолыжного подъемника",
     "sport": "Футбол",
@@ -10,8 +66,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/694bbb3a9a79476334d6d594",
     "publishedAt": "2025-12-24T10:32:40.000Z",
-    "createdAt": "2025-12-24T11:24:01.897Z",
-    "updatedAt": "2025-12-24T11:24:01.897Z"
+    "createdAt": "2025-12-24T12:53:43.447Z",
+    "updatedAt": "2025-12-24T12:53:43.447Z"
   },
   {
     "id": "a870777fbbc5913c",
@@ -24,8 +80,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/694bafe59a79477b3470cae7",
     "publishedAt": "2025-12-24T10:08:22.000Z",
-    "createdAt": "2025-12-24T11:24:02.933Z",
-    "updatedAt": "2025-12-24T11:24:02.933Z"
+    "createdAt": "2025-12-24T12:53:44.461Z",
+    "updatedAt": "2025-12-24T12:53:44.461Z"
   },
   {
     "id": "fd5349dd58063a34",
@@ -38,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/694b9e8f9a794749dfb4be9b",
     "publishedAt": "2025-12-24T09:00:18.000Z",
-    "createdAt": "2025-12-24T11:24:04.957Z",
-    "updatedAt": "2025-12-24T11:24:04.957Z"
+    "createdAt": "2025-12-24T12:53:46.482Z",
+    "updatedAt": "2025-12-24T12:53:46.482Z"
   },
   {
     "id": "e2c907560e26887f",
@@ -52,8 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/694b9aab9a7947ffd0c63fed",
     "publishedAt": "2025-12-24T08:49:29.000Z",
-    "createdAt": "2025-12-24T11:24:03.957Z",
-    "updatedAt": "2025-12-24T11:24:03.957Z"
+    "createdAt": "2025-12-24T12:53:45.440Z",
+    "updatedAt": "2025-12-24T12:53:45.440Z"
   },
   {
     "id": "8fe40eb90e994f92",
@@ -66,8 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/694b9ee09a794749dfb4bea5",
     "publishedAt": "2025-12-24T08:36:43.000Z",
-    "createdAt": "2025-12-24T11:24:06.772Z",
-    "updatedAt": "2025-12-24T11:24:06.772Z"
+    "createdAt": "2025-12-24T12:53:48.240Z",
+    "updatedAt": "2025-12-24T12:53:48.240Z"
   },
   {
     "id": "2177ef3109dcc54e",
@@ -80,63 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/694b854c9a794748c34b30a3",
     "publishedAt": "2025-12-24T06:58:06.000Z",
-    "createdAt": "2025-12-24T11:24:07.901Z",
-    "updatedAt": "2025-12-24T11:24:07.901Z"
-  },
-  {
-    "id": "8a0d78d084c4d19a",
-    "title": "Овечкин столкнулся с рекордной за три года серией без очков",
-    "sport": "Хоккей",
-    "category": "Хоккей",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/7/23/347665525499237.jpeg",
-    "teaser": "Овечкин столкнулся с рекордной за три года серией без очков",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/694b71a49a7947f158f7a6ce",
-    "publishedAt": "2025-12-24T05:16:24.000Z",
-    "createdAt": "2025-12-24T11:24:08.972Z",
-    "updatedAt": "2025-12-24T11:24:08.972Z"
-  },
-  {
-    "id": "af6b7f4f3dfe976b",
-    "title": "Хоккеист КХЛ получил травму, врезавшись в борт в шпагате",
-    "sport": "Хоккей",
-    "category": "Хоккей",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/9/92/347665122100929.jpeg",
-    "teaser": "Хоккеист КХЛ получил травму, врезавшись в борт в шпагате",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/694ad1f09a794791e7251b2d",
-    "publishedAt": "2025-12-23T18:01:28.000Z",
-    "createdAt": "2025-12-24T11:24:10.039Z",
-    "updatedAt": "2025-12-24T11:24:10.039Z"
-  },
-  {
-    "id": "509aa2052946a813",
-    "title": "Трехкратный чемпион Европы по биатлону умер в 27 лет",
-    "sport": "Другое",
-    "category": "Биатлон",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/8/46/347665090485468.jpeg",
-    "teaser": "Трехкратный чемпион Европы по биатлону умер в 27 лет",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/694ac8979a79477cbd72008a",
-    "publishedAt": "2025-12-23T17:10:23.000Z",
-    "createdAt": "2025-12-24T11:24:11.090Z",
-    "updatedAt": "2025-12-24T11:24:11.090Z"
-  },
-  {
-    "id": "196c857bf47d577c",
-    "title": "Ротенберг поздравил Гусева с назначением на пост тренера «Динамо»",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/0/30/347665068596300.jpeg",
-    "teaser": "Ротенберг поздравил Гусева с назначением на пост тренера «Динамо»",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/694abfee9a79474a4c111a82",
-    "publishedAt": "2025-12-23T16:55:50.000Z",
-    "createdAt": "2025-12-24T11:24:12.149Z",
-    "updatedAt": "2025-12-24T11:24:12.149Z"
+    "createdAt": "2025-12-24T12:53:49.259Z",
+    "updatedAt": "2025-12-24T12:53:49.259Z"
   }
 ]
