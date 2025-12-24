@@ -1,5 +1,61 @@
 [
   {
+    "id": "1ccd473fe582cbe4",
+    "title": "Форвард «Авангарда» получил перелом из-за попадания шайбы в лицо",
+    "sport": "Хоккей",
+    "category": "Хоккей",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/5/56/347665871361565.jpeg",
+    "teaser": "Форвард «Авангарда» получил перелом из-за попадания шайбы в лицо",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/694bf7829a79478afd05eb43",
+    "publishedAt": "2025-12-24T15:06:39.000Z",
+    "createdAt": "2025-12-24T15:27:22.505Z",
+    "updatedAt": "2025-12-24T15:27:22.505Z"
+  },
+  {
+    "id": "22e823e4ba5b85cf",
+    "title": "«РИА Новости» узнало о планах ISU обсудить допуск российских фигуристов",
+    "sport": "Другое",
+    "category": "Фигурное катание",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/3/28/347665864224283.png",
+    "teaser": "«РИА Новости» узнало о планах ISU обсудить допуск российских фигуристов",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/694bf6c39a7947556534fe06",
+    "publishedAt": "2025-12-24T14:36:22.000Z",
+    "createdAt": "2025-12-24T15:27:23.622Z",
+    "updatedAt": "2025-12-24T15:27:23.622Z"
+  },
+  {
+    "id": "c56330ac18f1189a",
+    "title": "Нападающий «Зенита» вошел в пятерку лучших молодых игроков мира до 20 лет",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/2/61/347665850984612.jpeg",
+    "teaser": "Нападающий «Зенита» вошел в пятерку лучших молодых игроков мира до 20 лет",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/694bf1849a79477066f47024",
+    "publishedAt": "2025-12-24T14:31:01.000Z",
+    "createdAt": "2025-12-24T15:27:24.673Z",
+    "updatedAt": "2025-12-24T15:27:24.673Z"
+  },
+  {
+    "id": "af4ee6e3d8d27fec",
+    "title": "Матч чемпионата России по бенди оказался под угрозой срыва из-за трещин",
+    "sport": "Хоккей",
+    "category": "Хоккей",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/3/69/347665843860693.jpeg",
+    "teaser": "Матч чемпионата России по бенди оказался под угрозой срыва из-за трещин",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/694bee419a79473f2cf55a10",
+    "publishedAt": "2025-12-24T14:21:30.000Z",
+    "createdAt": "2025-12-24T15:27:25.768Z",
+    "updatedAt": "2025-12-24T15:27:25.768Z"
+  },
+  {
     "id": "7f37e6b6141044ae",
     "title": "Собиравшийся выступить на «Тур де Ски» лыжник Волков вернулся в Россию",
     "sport": "Другое",
@@ -10,8 +66,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/694bdbc79a79479d90220c21",
     "publishedAt": "2025-12-24T13:26:43.000Z",
-    "createdAt": "2025-12-24T14:25:29.879Z",
-    "updatedAt": "2025-12-24T14:25:29.879Z"
+    "createdAt": "2025-12-24T15:27:26.850Z",
+    "updatedAt": "2025-12-24T15:27:26.850Z"
   },
   {
     "id": "bb0b2948c61b54c3",
@@ -24,8 +80,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/694bd5249a7947e318d1a23a",
     "publishedAt": "2025-12-24T13:10:02.000Z",
-    "createdAt": "2025-12-24T14:25:31.002Z",
-    "updatedAt": "2025-12-24T14:25:31.002Z"
+    "createdAt": "2025-12-24T15:27:27.994Z",
+    "updatedAt": "2025-12-24T15:27:27.994Z"
   },
   {
     "id": "8c5f1cb8b50cedf3",
@@ -38,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/694bcee39a79473a8183980f",
     "publishedAt": "2025-12-24T12:50:29.000Z",
-    "createdAt": "2025-12-24T14:25:32.086Z",
-    "updatedAt": "2025-12-24T14:25:32.086Z"
+    "createdAt": "2025-12-24T15:27:29.098Z",
+    "updatedAt": "2025-12-24T15:27:29.098Z"
   },
   {
     "id": "d11de1e942d0af09",
@@ -52,8 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/694bcbe39a7947da44451e04",
     "publishedAt": "2025-12-24T12:28:35.000Z",
-    "createdAt": "2025-12-24T14:25:35.320Z",
-    "updatedAt": "2025-12-24T14:25:35.320Z"
+    "createdAt": "2025-12-24T15:27:31.304Z",
+    "updatedAt": "2025-12-24T15:27:31.304Z"
   },
   {
     "id": "f9502175399eb137",
@@ -66,22 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/694bcefc9a7947f29e474a32",
     "publishedAt": "2025-12-24T11:59:59.000Z",
-    "createdAt": "2025-12-24T14:25:34.228Z",
-    "updatedAt": "2025-12-24T14:25:34.228Z"
-  },
-  {
-    "id": "614cecea6c9f3a0b",
-    "title": "Семь российских теннисисток выступят в квалификации Australian Open",
-    "sport": "Теннис",
-    "category": "Теннис",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/3/67/347665723800673.jpeg",
-    "teaser": "Семь российских теннисисток выступят в квалификации Australian Open",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/694bbaf39a794760fcf525ef",
-    "publishedAt": "2025-12-24T10:58:12.000Z",
-    "createdAt": "2025-12-24T14:25:36.388Z",
-    "updatedAt": "2025-12-24T14:25:36.388Z"
+    "createdAt": "2025-12-24T15:27:30.199Z",
+    "updatedAt": "2025-12-24T15:27:30.199Z"
   },
   {
     "id": "46f852ae80c45b82",
@@ -94,49 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/694bb8a89a79472e0d34a1cd",
     "publishedAt": "2025-12-24T10:55:29.000Z",
-    "createdAt": "2025-12-24T14:25:33.159Z",
-    "updatedAt": "2025-12-24T14:25:33.159Z"
-  },
-  {
-    "id": "d394dbf2f0b90180",
-    "title": "Немецкий футболист погиб в 34 года, упав с горнолыжного подъемника",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/0/66/347665718268660.png",
-    "teaser": "Немецкий футболист погиб в 34 года, упав с горнолыжного подъемника",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/694bbb3a9a79476334d6d594",
-    "publishedAt": "2025-12-24T10:32:40.000Z",
-    "createdAt": "2025-12-24T14:25:37.433Z",
-    "updatedAt": "2025-12-24T14:25:37.433Z"
-  },
-  {
-    "id": "a870777fbbc5913c",
-    "title": "Стал известен преемник Андрея Тихонова в «Енисее»",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/5/60/347665687250605.jpeg",
-    "teaser": "Стал известен преемник Андрея Тихонова в «Енисее»",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/694bafe59a79477b3470cae7",
-    "publishedAt": "2025-12-24T10:08:22.000Z",
-    "createdAt": "2025-12-24T14:25:38.522Z",
-    "updatedAt": "2025-12-24T14:25:38.522Z"
-  },
-  {
-    "id": "e2c907560e26887f",
-    "title": "Латвия запретила въезд российским спортсменам перед квалификацией ОИ",
-    "sport": "Другое",
-    "category": "Другие",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/2/82/347665628857822.jpeg",
-    "teaser": "Латвия запретила въезд российским спортсменам перед квалификацией ОИ",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/694b9aab9a7947ffd0c63fed",
-    "publishedAt": "2025-12-24T08:49:29.000Z",
-    "createdAt": "2025-12-24T14:25:39.549Z",
-    "updatedAt": "2025-12-24T14:25:39.549Z"
+    "createdAt": "2025-12-24T15:27:32.399Z",
+    "updatedAt": "2025-12-24T15:27:32.399Z"
   }
 ]
