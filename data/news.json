@@ -1,17 +1,45 @@
 [
   {
-    "id": "1ccd473fe582cbe4",
-    "title": "Форвард «Авангарда» получил перелом из-за попадания шайбы в лицо",
+    "id": "8c9ac2f47e6a82e7",
+    "title": "Le Parisien впервые назвала Сафонова лучшим игроком месяца в ПСЖ",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/7/25/347665877774257.png",
+    "teaser": "Le Parisien впервые назвала Сафонова лучшим игроком месяца в ПСЖ",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/694bfcf49a794702d970a425",
+    "publishedAt": "2025-12-24T16:00:09.000Z",
+    "createdAt": "2025-12-24T16:32:24.238Z",
+    "updatedAt": "2025-12-24T16:32:24.238Z"
+  },
+  {
+    "id": "c5b6a72874aebf44",
+    "title": "Фигуристка Горбачева поедет в Германию из-за травмы",
+    "sport": "Другое",
+    "category": "Фигурное катание",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/0/43/347665891666430.jpeg",
+    "teaser": "Фигуристка Горбачева поедет в Германию из-за травмы",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/694c022d9a794768a57b95aa",
+    "publishedAt": "2025-12-24T15:37:55.000Z",
+    "createdAt": "2025-12-24T16:32:25.317Z",
+    "updatedAt": "2025-12-24T16:32:25.317Z"
+  },
+  {
+    "id": "83f7d82428ce37fe",
+    "title": "Хоккеист «Авангарда» получил перелом из-за попадания шайбы в лицо",
     "sport": "Хоккей",
     "category": "Хоккей",
     "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/5/56/347665871361565.jpeg",
-    "teaser": "Форвард «Авангарда» получил перелом из-за попадания шайбы в лицо",
+    "teaser": "Хоккеист «Авангарда» получил перелом из-за попадания шайбы в лицо",
     "fullContent": "",
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/694bf7829a79478afd05eb43",
     "publishedAt": "2025-12-24T15:06:39.000Z",
-    "createdAt": "2025-12-24T15:27:22.505Z",
-    "updatedAt": "2025-12-24T15:27:22.505Z"
+    "createdAt": "2025-12-24T16:32:26.456Z",
+    "updatedAt": "2025-12-24T16:32:26.456Z"
   },
   {
     "id": "22e823e4ba5b85cf",
@@ -24,8 +52,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/694bf6c39a7947556534fe06",
     "publishedAt": "2025-12-24T14:36:22.000Z",
-    "createdAt": "2025-12-24T15:27:23.622Z",
-    "updatedAt": "2025-12-24T15:27:23.622Z"
+    "createdAt": "2025-12-24T16:32:27.601Z",
+    "updatedAt": "2025-12-24T16:32:27.601Z"
   },
   {
     "id": "c56330ac18f1189a",
@@ -38,8 +66,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/694bf1849a79477066f47024",
     "publishedAt": "2025-12-24T14:31:01.000Z",
-    "createdAt": "2025-12-24T15:27:24.673Z",
-    "updatedAt": "2025-12-24T15:27:24.673Z"
+    "createdAt": "2025-12-24T16:32:28.732Z",
+    "updatedAt": "2025-12-24T16:32:28.732Z"
   },
   {
     "id": "af4ee6e3d8d27fec",
@@ -52,8 +80,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/694bee419a79473f2cf55a10",
     "publishedAt": "2025-12-24T14:21:30.000Z",
-    "createdAt": "2025-12-24T15:27:25.768Z",
-    "updatedAt": "2025-12-24T15:27:25.768Z"
+    "createdAt": "2025-12-24T16:32:29.892Z",
+    "updatedAt": "2025-12-24T16:32:29.892Z"
   },
   {
     "id": "7f37e6b6141044ae",
@@ -66,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/694bdbc79a79479d90220c21",
     "publishedAt": "2025-12-24T13:26:43.000Z",
-    "createdAt": "2025-12-24T15:27:26.850Z",
-    "updatedAt": "2025-12-24T15:27:26.850Z"
+    "createdAt": "2025-12-24T16:32:31.024Z",
+    "updatedAt": "2025-12-24T16:32:31.024Z"
   },
   {
     "id": "bb0b2948c61b54c3",
@@ -80,8 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/694bd5249a7947e318d1a23a",
     "publishedAt": "2025-12-24T13:10:02.000Z",
-    "createdAt": "2025-12-24T15:27:27.994Z",
-    "updatedAt": "2025-12-24T15:27:27.994Z"
+    "createdAt": "2025-12-24T16:32:32.164Z",
+    "updatedAt": "2025-12-24T16:32:32.164Z"
   },
   {
     "id": "8c5f1cb8b50cedf3",
@@ -94,22 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/694bcee39a79473a8183980f",
     "publishedAt": "2025-12-24T12:50:29.000Z",
-    "createdAt": "2025-12-24T15:27:29.098Z",
-    "updatedAt": "2025-12-24T15:27:29.098Z"
-  },
-  {
-    "id": "d11de1e942d0af09",
-    "title": "Ски-альпинист Филиппов заявил, что может выиграть медаль Олимпиады-2026",
-    "sport": "Другое",
-    "category": "Другие",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/7/26/347665760492267.jpeg",
-    "teaser": "Ски-альпинист Филиппов заявил, что может выиграть медаль Олимпиады-2026",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/694bcbe39a7947da44451e04",
-    "publishedAt": "2025-12-24T12:28:35.000Z",
-    "createdAt": "2025-12-24T15:27:31.304Z",
-    "updatedAt": "2025-12-24T15:27:31.304Z"
+    "createdAt": "2025-12-24T16:32:33.310Z",
+    "updatedAt": "2025-12-24T16:32:33.310Z"
   },
   {
     "id": "f9502175399eb137",
@@ -122,21 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/694bcefc9a7947f29e474a32",
     "publishedAt": "2025-12-24T11:59:59.000Z",
-    "createdAt": "2025-12-24T15:27:30.199Z",
-    "updatedAt": "2025-12-24T15:27:30.199Z"
-  },
-  {
-    "id": "46f852ae80c45b82",
-    "title": "В кипрском клубе опровергли информацию о переходе их тренера в «Спартак»",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/9/78/347665711108789.jpeg",
-    "teaser": "В кипрском клубе опровергли информацию о переходе их тренера в «Спартак»",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/694bb8a89a79472e0d34a1cd",
-    "publishedAt": "2025-12-24T10:55:29.000Z",
-    "createdAt": "2025-12-24T15:27:32.399Z",
-    "updatedAt": "2025-12-24T15:27:32.399Z"
+    "createdAt": "2025-12-24T16:32:34.446Z",
+    "updatedAt": "2025-12-24T16:32:34.446Z"
   }
 ]
