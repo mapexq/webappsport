@@ -1,5 +1,47 @@
 [
   {
+    "id": "7f37e6b6141044ae",
+    "title": "Собиравшийся выступить на «Тур де Ски» лыжник Волков вернулся в Россию",
+    "sport": "Другое",
+    "category": "Другие",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/1/09/347665804411091.jpeg",
+    "teaser": "Собиравшийся выступить на «Тур де Ски» лыжник Волков вернулся в Россию",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/694bdbc79a79479d90220c21",
+    "publishedAt": "2025-12-24T13:26:43.000Z",
+    "createdAt": "2025-12-24T13:35:42.704Z",
+    "updatedAt": "2025-12-24T13:35:42.704Z"
+  },
+  {
+    "id": "bb0b2948c61b54c3",
+    "title": "Плющенко заявил, что тратил ₽5 млн в год на Костылеву",
+    "sport": "Другое",
+    "category": "Фигурное катание",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/0/93/347665788804930.jpeg",
+    "teaser": "Плющенко заявил, что тратил ₽5 млн в год на Костылеву",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/694bd5249a7947e318d1a23a",
+    "publishedAt": "2025-12-24T13:10:02.000Z",
+    "createdAt": "2025-12-24T13:35:43.677Z",
+    "updatedAt": "2025-12-24T13:35:43.677Z"
+  },
+  {
+    "id": "8c5f1cb8b50cedf3",
+    "title": "В сборной пожаловались на нехватку персонала для лыжников на Кубке мира",
+    "sport": "Другое",
+    "category": "Другие",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/0/90/347665766388900.jpeg",
+    "teaser": "В сборной пожаловались на нехватку персонала для лыжников на Кубке мира",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/694bcee39a79473a8183980f",
+    "publishedAt": "2025-12-24T12:50:29.000Z",
+    "createdAt": "2025-12-24T13:35:44.494Z",
+    "updatedAt": "2025-12-24T13:35:44.494Z"
+  },
+  {
     "id": "d11de1e942d0af09",
     "title": "Ски-альпинист Филиппов заявил, что может выиграть медаль Олимпиады-2026",
     "sport": "Другое",
@@ -10,8 +52,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/694bcbe39a7947da44451e04",
     "publishedAt": "2025-12-24T12:28:35.000Z",
-    "createdAt": "2025-12-24T12:53:41.328Z",
-    "updatedAt": "2025-12-24T12:53:41.328Z"
+    "createdAt": "2025-12-24T13:35:47.747Z",
+    "updatedAt": "2025-12-24T13:35:47.747Z"
   },
   {
     "id": "f9502175399eb137",
@@ -24,8 +66,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/694bcefc9a7947f29e474a32",
     "publishedAt": "2025-12-24T11:59:59.000Z",
-    "createdAt": "2025-12-24T12:53:40.368Z",
-    "updatedAt": "2025-12-24T12:53:40.368Z"
+    "createdAt": "2025-12-24T13:35:46.462Z",
+    "updatedAt": "2025-12-24T13:35:46.462Z"
   },
   {
     "id": "614cecea6c9f3a0b",
@@ -38,8 +80,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/694bbaf39a794760fcf525ef",
     "publishedAt": "2025-12-24T10:58:12.000Z",
-    "createdAt": "2025-12-24T12:53:42.396Z",
-    "updatedAt": "2025-12-24T12:53:42.396Z"
+    "createdAt": "2025-12-24T13:35:48.556Z",
+    "updatedAt": "2025-12-24T13:35:48.556Z"
   },
   {
     "id": "46f852ae80c45b82",
@@ -52,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/694bb8a89a79472e0d34a1cd",
     "publishedAt": "2025-12-24T10:55:29.000Z",
-    "createdAt": "2025-12-24T12:53:39.334Z",
-    "updatedAt": "2025-12-24T12:53:39.334Z"
+    "createdAt": "2025-12-24T13:35:45.454Z",
+    "updatedAt": "2025-12-24T13:35:45.454Z"
   },
   {
     "id": "d394dbf2f0b90180",
@@ -66,8 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/694bbb3a9a79476334d6d594",
     "publishedAt": "2025-12-24T10:32:40.000Z",
-    "createdAt": "2025-12-24T12:53:43.447Z",
-    "updatedAt": "2025-12-24T12:53:43.447Z"
+    "createdAt": "2025-12-24T13:35:49.378Z",
+    "updatedAt": "2025-12-24T13:35:49.378Z"
   },
   {
     "id": "a870777fbbc5913c",
@@ -80,22 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/694bafe59a79477b3470cae7",
     "publishedAt": "2025-12-24T10:08:22.000Z",
-    "createdAt": "2025-12-24T12:53:44.461Z",
-    "updatedAt": "2025-12-24T12:53:44.461Z"
-  },
-  {
-    "id": "fd5349dd58063a34",
-    "title": "Умер олимпийский чемпион по метанию молота Анатолий Бондарчук",
-    "sport": "Другое",
-    "category": "Другие",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/7/17/347665655187177.jpeg",
-    "teaser": "Умер олимпийский чемпион по метанию молота Анатолий Бондарчук",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/694b9e8f9a794749dfb4be9b",
-    "publishedAt": "2025-12-24T09:00:18.000Z",
-    "createdAt": "2025-12-24T12:53:46.482Z",
-    "updatedAt": "2025-12-24T12:53:46.482Z"
+    "createdAt": "2025-12-24T13:35:50.405Z",
+    "updatedAt": "2025-12-24T13:35:50.405Z"
   },
   {
     "id": "e2c907560e26887f",
@@ -108,35 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/694b9aab9a7947ffd0c63fed",
     "publishedAt": "2025-12-24T08:49:29.000Z",
-    "createdAt": "2025-12-24T12:53:45.440Z",
-    "updatedAt": "2025-12-24T12:53:45.440Z"
-  },
-  {
-    "id": "8fe40eb90e994f92",
-    "title": "Россиянин Демин во второй раз в карьере набрал 20 очков в матче НБА",
-    "sport": "Баскетбол",
-    "category": "Баскетбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/2/35/347346014321352.png",
-    "teaser": "Россиянин Демин во второй раз в карьере набрал 20 очков в матче НБА",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/694b9ee09a794749dfb4bea5",
-    "publishedAt": "2025-12-24T08:36:43.000Z",
-    "createdAt": "2025-12-24T12:53:48.240Z",
-    "updatedAt": "2025-12-24T12:53:48.240Z"
-  },
-  {
-    "id": "2177ef3109dcc54e",
-    "title": "Иван Демидов стал лучшим бомбардиром среди новичков в НХЛ",
-    "sport": "Хоккей",
-    "category": "Хоккей",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/3/28/347665592209283.jpeg",
-    "teaser": "Иван Демидов стал лучшим бомбардиром среди новичков в НХЛ",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/694b854c9a794748c34b30a3",
-    "publishedAt": "2025-12-24T06:58:06.000Z",
-    "createdAt": "2025-12-24T12:53:49.259Z",
-    "updatedAt": "2025-12-24T12:53:49.259Z"
+    "createdAt": "2025-12-24T13:35:51.445Z",
+    "updatedAt": "2025-12-24T13:35:51.445Z"
   }
 ]
