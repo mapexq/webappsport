@@ -1,5 +1,19 @@
 [
   {
+    "id": "a870777fbbc5913c",
+    "title": "Стал известен преемник Андрея Тихонова в «Енисее»",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/5/60/347665687250605.jpeg",
+    "teaser": "Стал известен преемник Андрея Тихонова в «Енисее»",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/694bafe59a79477b3470cae7",
+    "publishedAt": "2025-12-24T10:08:22.000Z",
+    "createdAt": "2025-12-24T10:28:35.666Z",
+    "updatedAt": "2025-12-24T10:28:35.666Z"
+  },
+  {
     "id": "fd5349dd58063a34",
     "title": "Умер олимпийский чемпион по метанию молота Анатолий Бондарчук",
     "sport": "Другое",
@@ -10,8 +24,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/694b9e8f9a794749dfb4be9b",
     "publishedAt": "2025-12-24T09:00:18.000Z",
-    "createdAt": "2025-12-24T09:30:13.304Z",
-    "updatedAt": "2025-12-24T09:30:13.304Z"
+    "createdAt": "2025-12-24T10:28:37.806Z",
+    "updatedAt": "2025-12-24T10:28:37.806Z"
   },
   {
     "id": "e2c907560e26887f",
@@ -24,8 +38,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/694b9aab9a7947ffd0c63fed",
     "publishedAt": "2025-12-24T08:49:29.000Z",
-    "createdAt": "2025-12-24T09:30:12.266Z",
-    "updatedAt": "2025-12-24T09:30:12.266Z"
+    "createdAt": "2025-12-24T10:28:36.766Z",
+    "updatedAt": "2025-12-24T10:28:36.766Z"
   },
   {
     "id": "8fe40eb90e994f92",
@@ -38,8 +52,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/694b9ee09a794749dfb4bea5",
     "publishedAt": "2025-12-24T08:36:43.000Z",
-    "createdAt": "2025-12-24T09:30:15.761Z",
-    "updatedAt": "2025-12-24T09:30:15.761Z"
+    "createdAt": "2025-12-24T10:28:39.866Z",
+    "updatedAt": "2025-12-24T10:28:39.866Z"
   },
   {
     "id": "2177ef3109dcc54e",
@@ -52,8 +66,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/694b854c9a794748c34b30a3",
     "publishedAt": "2025-12-24T06:58:06.000Z",
-    "createdAt": "2025-12-24T09:30:16.949Z",
-    "updatedAt": "2025-12-24T09:30:16.949Z"
+    "createdAt": "2025-12-24T10:28:40.967Z",
+    "updatedAt": "2025-12-24T10:28:40.967Z"
   },
   {
     "id": "8a0d78d084c4d19a",
@@ -66,8 +80,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/694b71a49a7947f158f7a6ce",
     "publishedAt": "2025-12-24T05:16:24.000Z",
-    "createdAt": "2025-12-24T09:30:18.167Z",
-    "updatedAt": "2025-12-24T09:30:18.167Z"
+    "createdAt": "2025-12-24T10:28:42.219Z",
+    "updatedAt": "2025-12-24T10:28:42.219Z"
   },
   {
     "id": "af6b7f4f3dfe976b",
@@ -80,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/694ad1f09a794791e7251b2d",
     "publishedAt": "2025-12-23T18:01:28.000Z",
-    "createdAt": "2025-12-24T09:30:19.326Z",
-    "updatedAt": "2025-12-24T09:30:19.326Z"
+    "createdAt": "2025-12-24T10:28:43.317Z",
+    "updatedAt": "2025-12-24T10:28:43.317Z"
   },
   {
     "id": "509aa2052946a813",
@@ -94,8 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/694ac8979a79477cbd72008a",
     "publishedAt": "2025-12-23T17:10:23.000Z",
-    "createdAt": "2025-12-24T09:30:20.467Z",
-    "updatedAt": "2025-12-24T09:30:20.467Z"
+    "createdAt": "2025-12-24T10:28:44.444Z",
+    "updatedAt": "2025-12-24T10:28:44.444Z"
   },
   {
     "id": "196c857bf47d577c",
@@ -108,8 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/694abfee9a79474a4c111a82",
     "publishedAt": "2025-12-23T16:55:50.000Z",
-    "createdAt": "2025-12-24T09:30:21.609Z",
-    "updatedAt": "2025-12-24T09:30:21.609Z"
+    "createdAt": "2025-12-24T10:28:45.615Z",
+    "updatedAt": "2025-12-24T10:28:45.615Z"
   },
   {
     "id": "13435543d8520ed2",
@@ -122,21 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/694ab6ed9a7947c577b471f3",
     "publishedAt": "2025-12-23T16:17:49.000Z",
-    "createdAt": "2025-12-24T09:30:22.748Z",
-    "updatedAt": "2025-12-24T09:30:22.748Z"
-  },
-  {
-    "id": "b522a6d265674e9e",
-    "title": "Степашин заявил, что Газзаев будет помогать главному тренеру «Динамо»",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/7/20/347664991401207.jpeg",
-    "teaser": "Степашин заявил, что Газзаев будет помогать главному тренеру «Динамо»",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/694a97169a79474b8dc67024",
-    "publishedAt": "2025-12-23T16:03:54.000Z",
-    "createdAt": "2025-12-24T09:30:23.855Z",
-    "updatedAt": "2025-12-24T09:30:23.855Z"
+    "createdAt": "2025-12-24T10:28:46.742Z",
+    "updatedAt": "2025-12-24T10:28:46.742Z"
   }
 ]
