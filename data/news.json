@@ -1,5 +1,61 @@
 [
   {
+    "id": "d238a7e779807fb4",
+    "title": "Чемпионка Бразилии по гимнастике среди юниорок умерла от рака в 18 лет",
+    "sport": "Другое",
+    "category": "Другие",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/4/38/347666751493384.jpeg",
+    "teaser": "Чемпионка Бразилии по гимнастике среди юниорок умерла от рака в 18 лет",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/694d527f9a7947384b6e794d",
+    "publishedAt": "2025-12-25T15:58:52.000Z",
+    "createdAt": "2025-12-25T16:32:40.437Z",
+    "updatedAt": "2025-12-25T16:32:40.437Z"
+  },
+  {
+    "id": "2fea4623d0b5ea77",
+    "title": "Российский борец сменил спортивное гражданство и стал чемпионом Киргизии",
+    "sport": "Единоборства",
+    "category": "Единоборства",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/2/43/347666755633432.jpeg",
+    "teaser": "Российский борец сменил спортивное гражданство и стал чемпионом Киргизии",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/694d4fe59a794722ea417a8e",
+    "publishedAt": "2025-12-25T15:45:57.000Z",
+    "createdAt": "2025-12-25T16:32:41.400Z",
+    "updatedAt": "2025-12-25T16:32:41.400Z"
+  },
+  {
+    "id": "a1e360964d20c798",
+    "title": "Футболист ЦСКА упрекнул пресс-службу сборной за ошибку в его имени",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/3/12/347666734667123.jpeg",
+    "teaser": "Футболист ЦСКА упрекнул пресс-службу сборной за ошибку в его имени",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/694d49569a7947444fc1309e",
+    "publishedAt": "2025-12-25T15:37:51.000Z",
+    "createdAt": "2025-12-25T16:32:42.423Z",
+    "updatedAt": "2025-12-25T16:32:42.423Z"
+  },
+  {
+    "id": "7a27b24b67930e44",
+    "title": "Порванную футболку Марадоны продали на аукционе за $179 тыс",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/9/42/347666722243429.jpeg",
+    "teaser": "Порванную футболку Марадоны продали на аукционе за $179 тыс",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/694d3cc69a7947e9bef980a3",
+    "publishedAt": "2025-12-25T15:36:01.000Z",
+    "createdAt": "2025-12-25T16:32:43.382Z",
+    "updatedAt": "2025-12-25T16:32:43.382Z"
+  },
+  {
     "id": "257c63c5cb4ac41a",
     "title": "Тренер назвал задачи Коростелева и Непряевой на «Тур де Ски»",
     "sport": "Другое",
@@ -10,8 +66,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/694d42409a79476e4ff2266d",
     "publishedAt": "2025-12-25T14:40:07.000Z",
-    "createdAt": "2025-12-25T15:26:29.536Z",
-    "updatedAt": "2025-12-25T15:26:29.536Z"
+    "createdAt": "2025-12-25T16:32:46.457Z",
+    "updatedAt": "2025-12-25T16:32:46.457Z"
   },
   {
     "id": "5e8e22207ebc492f",
@@ -24,8 +80,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/694d390f9a79476e4f2520c8",
     "publishedAt": "2025-12-25T14:25:23.000Z",
-    "createdAt": "2025-12-25T15:26:31.779Z",
-    "updatedAt": "2025-12-25T15:26:31.779Z"
+    "createdAt": "2025-12-25T16:32:48.525Z",
+    "updatedAt": "2025-12-25T16:32:48.525Z"
   },
   {
     "id": "e31278a8ffe6e48b",
@@ -38,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/694d23859a7947a0e2d68f06",
     "publishedAt": "2025-12-25T13:12:53.000Z",
-    "createdAt": "2025-12-25T15:26:28.489Z",
-    "updatedAt": "2025-12-25T15:26:28.489Z"
+    "createdAt": "2025-12-25T16:32:44.388Z",
+    "updatedAt": "2025-12-25T16:32:44.388Z"
   },
   {
     "id": "32f5742eb320360d",
@@ -52,8 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/694d20609a79474ff587c4cb",
     "publishedAt": "2025-12-25T12:52:37.000Z",
-    "createdAt": "2025-12-25T15:26:33.989Z",
-    "updatedAt": "2025-12-25T15:26:33.989Z"
+    "createdAt": "2025-12-25T16:32:49.630Z",
+    "updatedAt": "2025-12-25T16:32:49.630Z"
   },
   {
     "id": "15c56e9007e9b4a6",
@@ -66,64 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/694d216e9a7947f82c26ed74",
     "publishedAt": "2025-12-25T12:24:17.000Z",
-    "createdAt": "2025-12-25T15:26:30.681Z",
-    "updatedAt": "2025-12-25T15:26:30.681Z"
-  },
-  {
-    "id": "8343f4df2f116ca2",
-    "title": "Глава ФШР назвал штаны Карлсена одной из главных интриг чемпионата мира",
-    "sport": "Другое",
-    "category": "Другие",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/9/64/347666607615649.jpeg",
-    "teaser": "Глава ФШР назвал штаны Карлсена одной из главных интриг чемпионата мира",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/694d16af9a7947b14c64e8a6",
-    "publishedAt": "2025-12-25T11:38:46.000Z",
-    "createdAt": "2025-12-25T15:26:35.073Z",
-    "updatedAt": "2025-12-25T15:26:35.073Z"
-  },
-  {
-    "id": "f26d54346008e824",
-    "title": "Мяус решил не соперничать с Дерипаской за пост главы российского бенди",
-    "sport": "Другое",
-    "category": "Другие",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/2/65/347666600172652.png",
-    "teaser": "Мяус решил не соперничать с Дерипаской за пост главы российского бенди",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/694d0fdc9a79475fcaef4bb7",
-    "publishedAt": "2025-12-25T11:18:42.000Z",
-    "createdAt": "2025-12-25T15:26:36.158Z",
-    "updatedAt": "2025-12-25T15:26:36.158Z"
-  },
-  {
-    "id": "69cd32424ffe3fdb",
-    "title": "«Зенит» и «Спартак» вошли в топ-100 клубов мира по стоимости составов",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/5/38/347666599763385.jpeg",
-    "teaser": "«Зенит» и «Спартак» вошли в топ-100 клубов мира по стоимости составов",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/694d0ebc9a79476965d7f757",
-    "publishedAt": "2025-12-25T11:11:38.000Z",
-    "createdAt": "2025-12-25T15:26:37.299Z",
-    "updatedAt": "2025-12-25T15:26:37.299Z"
-  },
-  {
-    "id": "14af705b91e5123e",
-    "title": "Плющенко заявил, что Трусова сможет восстановить четверные прыжки",
-    "sport": "Другое",
-    "category": "Фигурное катание",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/0/29/347666564026290.jpeg",
-    "teaser": "Плющенко заявил, что Трусова сможет восстановить четверные прыжки",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/694d033b9a79474a93d256f7",
-    "publishedAt": "2025-12-25T10:31:38.000Z",
-    "createdAt": "2025-12-25T15:26:38.341Z",
-    "updatedAt": "2025-12-25T15:26:38.341Z"
+    "createdAt": "2025-12-25T16:32:47.497Z",
+    "updatedAt": "2025-12-25T16:32:47.497Z"
   },
   {
     "id": "3b2e87be33c3b667",
@@ -136,7 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/68dd102c9a7947379ea452bd",
     "publishedAt": "2025-12-25T05:00:59.000Z",
-    "createdAt": "2025-12-25T15:26:32.881Z",
-    "updatedAt": "2025-12-25T15:26:32.881Z"
+    "createdAt": "2025-12-25T16:32:45.399Z",
+    "updatedAt": "2025-12-25T16:32:45.399Z"
   }
 ]
