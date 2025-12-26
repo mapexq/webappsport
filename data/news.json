@@ -1,5 +1,61 @@
 [
   {
+    "id": "5f123e8ccc659e8c",
+    "title": "Советский конькобежец Юрий Ивашкин умер на 100-м году жизни",
+    "sport": "Другое",
+    "category": "Другие",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/7/34/347667456598347.jpeg",
+    "teaser": "Советский конькобежец Юрий Ивашкин умер на 100-м году жизни",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/694e63a79a7947637adbab6d",
+    "publishedAt": "2025-12-26T11:11:56.000Z",
+    "createdAt": "2025-12-26T11:23:32.922Z",
+    "updatedAt": "2025-12-26T11:23:32.922Z"
+  },
+  {
+    "id": "813375bc4472db10",
+    "title": "На матче ВХЛ в Пензе умер 41-летний болельщик",
+    "sport": "Хоккей",
+    "category": "Хоккей",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/4/75/347667438919754.jpeg",
+    "teaser": "На матче ВХЛ в Пензе умер 41-летний болельщик",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/694e5ed69a79472c4474a7e2",
+    "publishedAt": "2025-12-26T10:52:27.000Z",
+    "createdAt": "2025-12-26T11:23:34.860Z",
+    "updatedAt": "2025-12-26T11:23:34.860Z"
+  },
+  {
+    "id": "28fcfb031896d14b",
+    "title": "Дерипаску избрали президентом Федерации хоккея с мячом России",
+    "sport": "Другое",
+    "category": "Другие",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/8/56/347667344081568.jpeg",
+    "teaser": "Дерипаску избрали президентом Федерации хоккея с мячом России",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/694e3a0e9a79473dd46f5835",
+    "publishedAt": "2025-12-26T10:46:42.000Z",
+    "createdAt": "2025-12-26T11:23:33.910Z",
+    "updatedAt": "2025-12-26T11:23:33.910Z"
+  },
+  {
+    "id": "726010544c7c781a",
+    "title": "Чемпион мира по хоккею рассказал о зарплатах детских тренеров в США",
+    "sport": "Хоккей",
+    "category": "Хоккей",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/9/02/347667440222029.jpeg",
+    "teaser": "Чемпион мира по хоккею рассказал о зарплатах детских тренеров в США",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/694e59509a79473137cbefd0",
+    "publishedAt": "2025-12-26T10:36:55.000Z",
+    "createdAt": "2025-12-26T11:23:35.924Z",
+    "updatedAt": "2025-12-26T11:23:35.924Z"
+  },
+  {
     "id": "f4e07382440670b0",
     "title": "В РФС назвали, чьего разрешения ждет ФИФА для допуска России",
     "sport": "Футбол",
@@ -10,8 +66,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/694e56479a794709347b931c",
     "publishedAt": "2025-12-26T10:06:48.000Z",
-    "createdAt": "2025-12-26T10:28:09.050Z",
-    "updatedAt": "2025-12-26T10:28:09.050Z"
+    "createdAt": "2025-12-26T11:23:36.908Z",
+    "updatedAt": "2025-12-26T11:23:36.908Z"
   },
   {
     "id": "12b69cb557916210",
@@ -24,8 +80,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/694e49469a79472224af3a67",
     "publishedAt": "2025-12-26T09:49:29.000Z",
-    "createdAt": "2025-12-26T10:28:10.153Z",
-    "updatedAt": "2025-12-26T10:28:10.153Z"
+    "createdAt": "2025-12-26T11:23:38.033Z",
+    "updatedAt": "2025-12-26T11:23:38.033Z"
   },
   {
     "id": "49e73cc0a8a39c25",
@@ -38,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/694e4ba19a7947fb60a04ac5",
     "publishedAt": "2025-12-26T09:18:41.000Z",
-    "createdAt": "2025-12-26T10:28:11.275Z",
-    "updatedAt": "2025-12-26T10:28:11.275Z"
+    "createdAt": "2025-12-26T11:23:39.080Z",
+    "updatedAt": "2025-12-26T11:23:39.080Z"
   },
   {
     "id": "d91f48fb9919e368",
@@ -52,8 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/694e4f939a7947590e7e8bba",
     "publishedAt": "2025-12-26T09:09:26.000Z",
-    "createdAt": "2025-12-26T10:28:12.365Z",
-    "updatedAt": "2025-12-26T10:28:12.365Z"
+    "createdAt": "2025-12-26T11:23:40.088Z",
+    "updatedAt": "2025-12-26T11:23:40.088Z"
   },
   {
     "id": "9f43ae0937a04d62",
@@ -66,8 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/694e40049a794749d055c870",
     "publishedAt": "2025-12-26T08:43:56.000Z",
-    "createdAt": "2025-12-26T10:28:13.451Z",
-    "updatedAt": "2025-12-26T10:28:13.451Z"
+    "createdAt": "2025-12-26T11:23:41.084Z",
+    "updatedAt": "2025-12-26T11:23:41.084Z"
   },
   {
     "id": "ae19893a75c3367b",
@@ -80,63 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/694e3a119a794738fd6438b3",
     "publishedAt": "2025-12-26T08:09:55.000Z",
-    "createdAt": "2025-12-26T10:28:14.759Z",
-    "updatedAt": "2025-12-26T10:28:14.759Z"
-  },
-  {
-    "id": "fdf20fc420960911",
-    "title": "Андрей Шевченко призвал отстранить от Игр поддерживающие Россию страны",
-    "sport": "Другое",
-    "category": "Другие",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/0/04/347667331872040.jpeg",
-    "teaser": "Андрей Шевченко призвал отстранить от Игр поддерживающие Россию страны",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/694e35319a7947accf272614",
-    "publishedAt": "2025-12-26T07:34:14.000Z",
-    "createdAt": "2025-12-26T10:28:15.879Z",
-    "updatedAt": "2025-12-26T10:28:15.879Z"
-  },
-  {
-    "id": "e3214cbdf2c93849",
-    "title": "Валиева показала подарки в честь завершения дисквалификации",
-    "sport": "Другое",
-    "category": "Фигурное катание",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/3/51/347667325895513.jpeg",
-    "teaser": "Валиева показала подарки в честь завершения дисквалификации",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/694e33089a794750977f56ea",
-    "publishedAt": "2025-12-26T07:13:12.000Z",
-    "createdAt": "2025-12-26T10:28:16.941Z",
-    "updatedAt": "2025-12-26T10:28:16.941Z"
-  },
-  {
-    "id": "28b9519da5b864b9",
-    "title": "«Динамо» вырвало победу у чемпиона КХЛ в концовке матча",
-    "sport": "Хоккей",
-    "category": "Хоккей",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/0/97/347666886408970.png",
-    "teaser": "«Динамо» вырвало победу у чемпиона КХЛ в концовке матча",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/694d857c9a794741bc721158",
-    "publishedAt": "2025-12-25T18:57:32.000Z",
-    "createdAt": "2025-12-26T10:28:19.133Z",
-    "updatedAt": "2025-12-26T10:28:19.133Z"
-  },
-  {
-    "id": "1535b5752f126546",
-    "title": "Тутберидзе назвала проблемы, которые ждут Петросян на Олимпиаде",
-    "sport": "Другое",
-    "category": "Фигурное катание",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/9/16/347666854493169.png",
-    "teaser": "Тутберидзе назвала проблемы, которые ждут Петросян на Олимпиаде",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/694d79559a794781bc2de338",
-    "publishedAt": "2025-12-25T18:34:25.000Z",
-    "createdAt": "2025-12-26T10:28:18.027Z",
-    "updatedAt": "2025-12-26T10:28:18.027Z"
+    "createdAt": "2025-12-26T11:23:42.057Z",
+    "updatedAt": "2025-12-26T11:23:42.057Z"
   }
 ]
