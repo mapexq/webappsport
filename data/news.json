@@ -1,5 +1,19 @@
 [
   {
+    "id": "e40bd134aae5c250",
+    "title": "Левандовски подтвердил, что в «Барселоне» просили его не забивать голы",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/3/10/347668245930103.jpeg",
+    "teaser": "Левандовски подтвердил, что в «Барселоне» просили его не забивать голы",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/694f9a6e9a7947560449cb24",
+    "publishedAt": "2025-12-27T08:46:13.000Z",
+    "createdAt": "2025-12-27T09:26:47.149Z",
+    "updatedAt": "2025-12-27T09:26:47.149Z"
+  },
+  {
     "id": "281fdcb91ff88500",
     "title": "Тренер сообщил, что Большунов лечится от вирусного заболевания",
     "sport": "Другое",
@@ -10,8 +24,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/694f95c49a7947560449cb14",
     "publishedAt": "2025-12-27T08:21:42.000Z",
-    "createdAt": "2025-12-27T08:33:28.838Z",
-    "updatedAt": "2025-12-27T08:33:28.838Z"
+    "createdAt": "2025-12-27T09:26:48.183Z",
+    "updatedAt": "2025-12-27T09:26:48.183Z"
   },
   {
     "id": "a0cf962601dbc9fb",
@@ -24,8 +38,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/694f8b1b9a79475e24eb720f",
     "publishedAt": "2025-12-27T07:44:44.000Z",
-    "createdAt": "2025-12-27T08:33:29.860Z",
-    "updatedAt": "2025-12-27T08:33:29.860Z"
+    "createdAt": "2025-12-27T09:26:49.237Z",
+    "updatedAt": "2025-12-27T09:26:49.237Z"
   },
   {
     "id": "382454804d018e34",
@@ -38,8 +52,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/694f88809a79473bf443ab23",
     "publishedAt": "2025-12-27T07:26:26.000Z",
-    "createdAt": "2025-12-27T08:33:31.024Z",
-    "updatedAt": "2025-12-27T08:33:31.024Z"
+    "createdAt": "2025-12-27T09:26:50.326Z",
+    "updatedAt": "2025-12-27T09:26:50.326Z"
   },
   {
     "id": "1489a79ffc29d3bf",
@@ -52,8 +66,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/694f85349a794731d356f8b3",
     "publishedAt": "2025-12-27T07:15:19.000Z",
-    "createdAt": "2025-12-27T08:33:32.163Z",
-    "updatedAt": "2025-12-27T08:33:32.163Z"
+    "createdAt": "2025-12-27T09:26:51.401Z",
+    "updatedAt": "2025-12-27T09:26:51.401Z"
   },
   {
     "id": "cf2cc62b5c426e75",
@@ -66,8 +80,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/694ed5309a7947b1a6281a2d",
     "publishedAt": "2025-12-26T18:46:20.000Z",
-    "createdAt": "2025-12-27T08:33:33.251Z",
-    "updatedAt": "2025-12-27T08:33:33.251Z"
+    "createdAt": "2025-12-27T09:26:52.436Z",
+    "updatedAt": "2025-12-27T09:26:52.436Z"
   },
   {
     "id": "427ad54d75df5497",
@@ -80,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/694ec8999a794769bd0176a0",
     "publishedAt": "2025-12-26T17:48:50.000Z",
-    "createdAt": "2025-12-27T08:33:34.276Z",
-    "updatedAt": "2025-12-27T08:33:34.276Z"
+    "createdAt": "2025-12-27T09:26:53.605Z",
+    "updatedAt": "2025-12-27T09:26:53.605Z"
   },
   {
     "id": "250f5e4c8d4c875c",
@@ -94,8 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/694ebfcb9a79475d2044c806",
     "publishedAt": "2025-12-26T17:06:40.000Z",
-    "createdAt": "2025-12-27T08:33:35.303Z",
-    "updatedAt": "2025-12-27T08:33:35.303Z"
+    "createdAt": "2025-12-27T09:26:54.710Z",
+    "updatedAt": "2025-12-27T09:26:54.710Z"
   },
   {
     "id": "a82497ce1de45555",
@@ -108,8 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/694eb5ac9a79475f14873a05",
     "publishedAt": "2025-12-26T16:53:42.000Z",
-    "createdAt": "2025-12-27T08:33:36.344Z",
-    "updatedAt": "2025-12-27T08:33:36.344Z"
+    "createdAt": "2025-12-27T09:26:55.775Z",
+    "updatedAt": "2025-12-27T09:26:55.775Z"
   },
   {
     "id": "14f850d62794d524",
@@ -122,21 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/694eb02d9a794737a645bbd0",
     "publishedAt": "2025-12-26T16:20:13.000Z",
-    "createdAt": "2025-12-27T08:33:37.423Z",
-    "updatedAt": "2025-12-27T08:33:37.423Z"
-  },
-  {
-    "id": "466fc5827cb120ff",
-    "title": "Президент РФС заявил о надежде на допуск России на турниры в 2026 году",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/8/76/347667606852768.jpeg",
-    "teaser": "Президент РФС заявил о надежде на допуск России на турниры в 2026 году",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/694e9e8e9a79475f007007d4",
-    "publishedAt": "2025-12-26T15:52:11.000Z",
-    "createdAt": "2025-12-27T08:33:38.488Z",
-    "updatedAt": "2025-12-27T08:33:38.488Z"
+    "createdAt": "2025-12-27T09:26:56.791Z",
+    "updatedAt": "2025-12-27T09:26:56.791Z"
   }
 ]
