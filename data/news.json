@@ -1,5 +1,47 @@
 [
   {
+    "id": "967799bfccaa4fc7",
+    "title": "Касаткина заявила, что гордится выступать за Австралию",
+    "sport": "Теннис",
+    "category": "Теннис",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/1/46/347670103570461.jpeg",
+    "teaser": "Касаткина заявила, что гордится выступать за Австралию",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69526d409a7947124a60c22d",
+    "publishedAt": "2025-12-29T14:25:09.000Z",
+    "createdAt": "2025-12-29T14:27:48.556Z",
+    "updatedAt": "2025-12-29T14:27:48.556Z"
+  },
+  {
+    "id": "b4442a455377a83d",
+    "title": "Экс-чемпион мира по боксу Энтони Джошуа попал в ДТП с двумя погибшими",
+    "sport": "Единоборства",
+    "category": "Единоборства",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/5/63/347670172801635.jpeg",
+    "teaser": "Экс-чемпион мира по боксу Энтони Джошуа попал в ДТП с двумя погибшими",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69528ac39a794736f81a6f46",
+    "publishedAt": "2025-12-29T14:24:02.000Z",
+    "createdAt": "2025-12-29T14:27:46.199Z",
+    "updatedAt": "2025-12-29T14:27:46.199Z"
+  },
+  {
+    "id": "c6d4ad90c60b2a37",
+    "title": "12-летний россиянин обыграл чемпиона мира по шахматам на ЧМ по блицу",
+    "sport": "Другое",
+    "category": "Другие",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/2/16/347670160439162.jpeg",
+    "teaser": "12-летний россиянин обыграл чемпиона мира по шахматам на ЧМ по блицу",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69527eb69a7947d301667293",
+    "publishedAt": "2025-12-29T14:08:52.000Z",
+    "createdAt": "2025-12-29T14:27:47.343Z",
+    "updatedAt": "2025-12-29T14:27:47.343Z"
+  },
+  {
     "id": "71005611d2f6bce0",
     "title": "Мельникова вошла в топ-10 лучших спортсменок 2025 года по версии L'Equipe",
     "sport": "Другое",
@@ -10,8 +52,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/695270249a79477f68a586a9",
     "publishedAt": "2025-12-29T13:02:43.000Z",
-    "createdAt": "2025-12-29T13:41:47.378Z",
-    "updatedAt": "2025-12-29T13:41:47.378Z"
+    "createdAt": "2025-12-29T14:27:49.677Z",
+    "updatedAt": "2025-12-29T14:27:49.678Z"
   },
   {
     "id": "ff91d7f35aedf747",
@@ -24,8 +66,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/695265bf9a79479c9457f786",
     "publishedAt": "2025-12-29T11:58:42.000Z",
-    "createdAt": "2025-12-29T13:41:51.187Z",
-    "updatedAt": "2025-12-29T13:41:51.187Z"
+    "createdAt": "2025-12-29T14:27:51.779Z",
+    "updatedAt": "2025-12-29T14:27:51.779Z"
   },
   {
     "id": "19555efc80340ac0",
@@ -38,8 +80,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6952567b9a794766b7edb1c9",
     "publishedAt": "2025-12-29T11:35:32.000Z",
-    "createdAt": "2025-12-29T13:41:48.483Z",
-    "updatedAt": "2025-12-29T13:41:48.483Z"
+    "createdAt": "2025-12-29T14:27:50.734Z",
+    "updatedAt": "2025-12-29T14:27:50.734Z"
   },
   {
     "id": "8459098311c35717",
@@ -52,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/695254309a7947b12faaedf2",
     "publishedAt": "2025-12-29T11:29:31.000Z",
-    "createdAt": "2025-12-29T13:41:52.361Z",
-    "updatedAt": "2025-12-29T13:41:52.361Z"
+    "createdAt": "2025-12-29T14:27:52.825Z",
+    "updatedAt": "2025-12-29T14:27:52.825Z"
   },
   {
     "id": "d452e2e30aefc673",
@@ -66,8 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/695251f29a79470f10f98ed1",
     "publishedAt": "2025-12-29T10:41:31.000Z",
-    "createdAt": "2025-12-29T13:41:53.635Z",
-    "updatedAt": "2025-12-29T13:41:53.635Z"
+    "createdAt": "2025-12-29T14:27:53.878Z",
+    "updatedAt": "2025-12-29T14:27:53.878Z"
   },
   {
     "id": "0e24ab4aa10d7ad4",
@@ -80,8 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6952472c9a7947fc5f8f121a",
     "publishedAt": "2025-12-29T09:54:49.000Z",
-    "createdAt": "2025-12-29T13:41:56.029Z",
-    "updatedAt": "2025-12-29T13:41:56.029Z"
+    "createdAt": "2025-12-29T14:27:56.019Z",
+    "updatedAt": "2025-12-29T14:27:56.019Z"
   },
   {
     "id": "56c350d50d34449b",
@@ -94,49 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/695246dd9a7947fdf566aef3",
     "publishedAt": "2025-12-29T09:47:38.000Z",
-    "createdAt": "2025-12-29T13:41:54.815Z",
-    "updatedAt": "2025-12-29T13:41:54.815Z"
-  },
-  {
-    "id": "961802251aee2b2f",
-    "title": "Дерипаска поручил добиться возвращения на международные турниры FIB",
-    "sport": "Другое",
-    "category": "Другие",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/6/21/347669986494216.jpeg",
-    "teaser": "Дерипаска поручил добиться возвращения на международные турниры FIB",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/695239289a7947a13f58f9f0",
-    "publishedAt": "2025-12-29T09:31:59.000Z",
-    "createdAt": "2025-12-29T13:41:57.292Z",
-    "updatedAt": "2025-12-29T13:41:57.292Z"
-  },
-  {
-    "id": "d019dd12f6b6c1bb",
-    "title": "Два россиянина вошли в топ-3 звезд дня в НХЛ",
-    "sport": "Хоккей",
-    "category": "Хоккей",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/9/10/347669946302109.jpeg",
-    "teaser": "Два россиянина вошли в топ-3 звезд дня в НХЛ",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/695228ac9a79472216404ddd",
-    "publishedAt": "2025-12-29T08:14:49.000Z",
-    "createdAt": "2025-12-29T13:41:58.549Z",
-    "updatedAt": "2025-12-29T13:41:58.549Z"
-  },
-  {
-    "id": "260458dc69ce6f61",
-    "title": "Демидов закрепил лидерство в гонке лучших новичков НХЛ",
-    "sport": "Хоккей",
-    "category": "Хоккей",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/0/31/347669908847310.jpeg",
-    "teaser": "Демидов закрепил лидерство в гонке лучших новичков НХЛ",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69521d859a79470dc913bfc5",
-    "publishedAt": "2025-12-29T07:30:58.000Z",
-    "createdAt": "2025-12-29T13:41:59.791Z",
-    "updatedAt": "2025-12-29T13:41:59.791Z"
+    "createdAt": "2025-12-29T14:27:54.961Z",
+    "updatedAt": "2025-12-29T14:27:54.961Z"
   }
 ]
