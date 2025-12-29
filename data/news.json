@@ -1,5 +1,33 @@
 [
   {
+    "id": "bea6a9ec1071787c",
+    "title": "Карлсен ударил кулаком по столу после неожиданного проигрыша на ЧМ",
+    "sport": "Другое",
+    "category": "Другие",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/3/22/347670332321223.png",
+    "teaser": "Карлсен ударил кулаком по столу после неожиданного проигрыша на ЧМ",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6952c86b9a79472329a16e35",
+    "publishedAt": "2025-12-29T19:08:08.000Z",
+    "createdAt": "2025-12-29T19:20:36.023Z",
+    "updatedAt": "2025-12-29T19:20:36.023Z"
+  },
+  {
+    "id": "a4aca58bb53f089c",
+    "title": "Кучерова признали лучшим игроком недели в НХЛ",
+    "sport": "Хоккей",
+    "category": "Хоккей",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/9/34/347670319048349.jpeg",
+    "teaser": "Кучерова признали лучшим игроком недели в НХЛ",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6952c4329a79471e91afc78b",
+    "publishedAt": "2025-12-29T18:29:24.000Z",
+    "createdAt": "2025-12-29T19:20:37.161Z",
+    "updatedAt": "2025-12-29T19:20:37.161Z"
+  },
+  {
     "id": "d1d5ba8fe04b2351",
     "title": "Путин назвал яркой и уверенной победу Горячкиной на ЧМ по рапиду",
     "sport": "Другое",
@@ -10,8 +38,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6952bfdf9a794709bd07cb87",
     "publishedAt": "2025-12-29T18:06:10.000Z",
-    "createdAt": "2025-12-29T18:37:43.642Z",
-    "updatedAt": "2025-12-29T18:37:43.642Z"
+    "createdAt": "2025-12-29T19:20:38.164Z",
+    "updatedAt": "2025-12-29T19:20:38.164Z"
   },
   {
     "id": "6799a99a82b5426a",
@@ -24,8 +52,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6952bada9a794747462bf15f",
     "publishedAt": "2025-12-29T17:46:38.000Z",
-    "createdAt": "2025-12-29T18:37:45.800Z",
-    "updatedAt": "2025-12-29T18:37:45.800Z"
+    "createdAt": "2025-12-29T19:20:40.090Z",
+    "updatedAt": "2025-12-29T19:20:40.090Z"
   },
   {
     "id": "157b3cd0561b1ba8",
@@ -38,8 +66,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6952a9cf9a7947f412de352f",
     "publishedAt": "2025-12-29T17:34:06.000Z",
-    "createdAt": "2025-12-29T18:37:44.754Z",
-    "updatedAt": "2025-12-29T18:37:44.754Z"
+    "createdAt": "2025-12-29T19:20:39.154Z",
+    "updatedAt": "2025-12-29T19:20:39.154Z"
   },
   {
     "id": "1e5dabe6ede5f9fb",
@@ -52,8 +80,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6952ac5b9a79474a195bc659",
     "publishedAt": "2025-12-29T17:09:56.000Z",
-    "createdAt": "2025-12-29T18:37:42.587Z",
-    "updatedAt": "2025-12-29T18:37:42.587Z"
+    "createdAt": "2025-12-29T19:20:35.033Z",
+    "updatedAt": "2025-12-29T19:20:35.033Z"
   },
   {
     "id": "b41a6cad725d79c2",
@@ -66,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6952a5f79a79478d61e6ef1d",
     "publishedAt": "2025-12-29T16:37:30.000Z",
-    "createdAt": "2025-12-29T18:37:46.862Z",
-    "updatedAt": "2025-12-29T18:37:46.862Z"
+    "createdAt": "2025-12-29T19:20:41.138Z",
+    "updatedAt": "2025-12-29T19:20:41.138Z"
   },
   {
     "id": "5a3851d28d744588",
@@ -80,22 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69528be19a7947667f28af5a",
     "publishedAt": "2025-12-29T15:45:45.000Z",
-    "createdAt": "2025-12-29T18:37:50.000Z",
-    "updatedAt": "2025-12-29T18:37:50.000Z"
-  },
-  {
-    "id": "fa860d5654235861",
-    "title": "ЦСКА продлил контракт с Обляковым",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/7/07/347670190086077.jpeg",
-    "teaser": "ЦСКА продлил контракт с Обляковым",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/695291289a7947423f7a81cf",
-    "publishedAt": "2025-12-29T15:38:29.000Z",
-    "createdAt": "2025-12-29T18:37:50.944Z",
-    "updatedAt": "2025-12-29T18:37:50.944Z"
+    "createdAt": "2025-12-29T19:20:44.245Z",
+    "updatedAt": "2025-12-29T19:20:44.245Z"
   },
   {
     "id": "09f7c06816d3992f",
@@ -108,8 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/695291d19a79474791237ee4",
     "publishedAt": "2025-12-29T15:35:03.000Z",
-    "createdAt": "2025-12-29T18:37:47.904Z",
-    "updatedAt": "2025-12-29T18:37:47.904Z"
+    "createdAt": "2025-12-29T19:20:42.201Z",
+    "updatedAt": "2025-12-29T19:20:42.201Z"
   },
   {
     "id": "aaebe9deb82a2515",
@@ -122,21 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/695296799a7947d5311e0349",
     "publishedAt": "2025-12-29T15:22:24.000Z",
-    "createdAt": "2025-12-29T18:37:48.949Z",
-    "updatedAt": "2025-12-29T18:37:48.949Z"
-  },
-  {
-    "id": "c0feb8960c7f27b8",
-    "title": "Экс-чемпион мира по боксу Джошуа попал в ДТП, двое погибших",
-    "sport": "Единоборства",
-    "category": "Единоборства",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/5/63/347670172801635.jpeg",
-    "teaser": "Экс-чемпион мира по боксу Джошуа попал в ДТП, двое погибших",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69528ac39a794736f81a6f46",
-    "publishedAt": "2025-12-29T14:24:02.000Z",
-    "createdAt": "2025-12-29T18:37:52.084Z",
-    "updatedAt": "2025-12-29T18:37:52.084Z"
+    "createdAt": "2025-12-29T19:20:43.195Z",
+    "updatedAt": "2025-12-29T19:20:43.195Z"
   }
 ]
