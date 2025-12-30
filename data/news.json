@@ -1,5 +1,61 @@
 [
   {
+    "id": "333645a96e9224c7",
+    "title": "IBU не отреагировал на запрос СБР о допуске российских юниоров",
+    "sport": "Другое",
+    "category": "Биатлон",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/2/38/347670887895382.jpeg",
+    "teaser": "IBU не отреагировал на запрос СБР о допуске российских юниоров",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69539a699a79471f265df786",
+    "publishedAt": "2025-12-30T10:14:00.000Z",
+    "createdAt": "2025-12-30T10:30:16.890Z",
+    "updatedAt": "2025-12-30T10:30:16.890Z"
+  },
+  {
+    "id": "32ea7b0bcb2a6654",
+    "title": "Тренер китайского клуба КХЛ пропустит матч со СКА по состоянию здоровья",
+    "sport": "Хоккей",
+    "category": "Хоккей",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/1/42/347670881655421.jpeg",
+    "teaser": "Тренер китайского клуба КХЛ пропустит матч со СКА по состоянию здоровья",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6953a0159a7947df098adf5d",
+    "publishedAt": "2025-12-30T09:59:24.000Z",
+    "createdAt": "2025-12-30T10:30:17.908Z",
+    "updatedAt": "2025-12-30T10:30:17.908Z"
+  },
+  {
+    "id": "6143d3ae54261dfa",
+    "title": "Фигурист Галлямов грубо отреагировал на критику со стороны Губерниева",
+    "sport": "Другое",
+    "category": "Фигурное катание",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/3/34/347670860852343.jpeg",
+    "teaser": "Фигурист Галлямов грубо отреагировал на критику со стороны Губерниева",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/695396c89a7947572ed1f63f",
+    "publishedAt": "2025-12-30T09:40:48.000Z",
+    "createdAt": "2025-12-30T10:30:18.970Z",
+    "updatedAt": "2025-12-30T10:30:18.970Z"
+  },
+  {
+    "id": "354f94547f6d71eb",
+    "title": "«Спартак» не попал в число участников Зимнего кубка РПЛ в Абу-Даби",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/2/70/347670863187702.jpeg",
+    "teaser": "«Спартак» не попал в число участников Зимнего кубка РПЛ в Абу-Даби",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/695396d69a79477a22de8852",
+    "publishedAt": "2025-12-30T09:30:43.000Z",
+    "createdAt": "2025-12-30T10:30:19.976Z",
+    "updatedAt": "2025-12-30T10:30:19.976Z"
+  },
+  {
     "id": "1c78e377d091b588",
     "title": "Карпов высоко оценил победу 12-летнего шахматиста над чемпионом мира",
     "sport": "Другое",
@@ -10,8 +66,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69538eea9a79472b7f1e9ae8",
     "publishedAt": "2025-12-30T09:21:44.000Z",
-    "createdAt": "2025-12-30T09:31:10.621Z",
-    "updatedAt": "2025-12-30T09:31:10.621Z"
+    "createdAt": "2025-12-30T10:30:21.047Z",
+    "updatedAt": "2025-12-30T10:30:21.047Z"
   },
   {
     "id": "eee6ac6068ff7f27",
@@ -24,8 +80,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69538e509a79472de066ee46",
     "publishedAt": "2025-12-30T09:01:49.000Z",
-    "createdAt": "2025-12-30T09:31:11.693Z",
-    "updatedAt": "2025-12-30T09:31:11.693Z"
+    "createdAt": "2025-12-30T10:30:22.111Z",
+    "updatedAt": "2025-12-30T10:30:22.111Z"
   },
   {
     "id": "607689d27b539db0",
@@ -38,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69538af59a794759eb1fedea",
     "publishedAt": "2025-12-30T08:30:17.000Z",
-    "createdAt": "2025-12-30T09:31:12.912Z",
-    "updatedAt": "2025-12-30T09:31:12.912Z"
+    "createdAt": "2025-12-30T10:30:23.221Z",
+    "updatedAt": "2025-12-30T10:30:23.221Z"
   },
   {
     "id": "7a47cd53d556a9d5",
@@ -52,8 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69537fd49a794720501185e5",
     "publishedAt": "2025-12-30T07:54:14.000Z",
-    "createdAt": "2025-12-30T09:31:14.298Z",
-    "updatedAt": "2025-12-30T09:31:14.298Z"
+    "createdAt": "2025-12-30T10:30:24.286Z",
+    "updatedAt": "2025-12-30T10:30:24.286Z"
   },
   {
     "id": "900192b119d8ae99",
@@ -66,8 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69537cf49a7947e392ecf766",
     "publishedAt": "2025-12-30T07:33:25.000Z",
-    "createdAt": "2025-12-30T09:31:15.436Z",
-    "updatedAt": "2025-12-30T09:31:15.436Z"
+    "createdAt": "2025-12-30T10:30:26.365Z",
+    "updatedAt": "2025-12-30T10:30:26.365Z"
   },
   {
     "id": "18f613d4cd234d94",
@@ -80,63 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69537a739a794723aa18d187",
     "publishedAt": "2025-12-30T07:31:44.000Z",
-    "createdAt": "2025-12-30T09:31:16.565Z",
-    "updatedAt": "2025-12-30T09:31:16.565Z"
-  },
-  {
-    "id": "bea6a9ec1071787c",
-    "title": "Карлсен ударил кулаком по столу после неожиданного проигрыша на ЧМ",
-    "sport": "Другое",
-    "category": "Другие",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/3/22/347670332321223.png",
-    "teaser": "Карлсен ударил кулаком по столу после неожиданного проигрыша на ЧМ",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6952c86b9a79472329a16e35",
-    "publishedAt": "2025-12-29T19:08:08.000Z",
-    "createdAt": "2025-12-30T09:31:18.828Z",
-    "updatedAt": "2025-12-30T09:31:18.828Z"
-  },
-  {
-    "id": "a4aca58bb53f089c",
-    "title": "Кучерова признали лучшим игроком недели в НХЛ",
-    "sport": "Хоккей",
-    "category": "Хоккей",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/9/34/347670319048349.jpeg",
-    "teaser": "Кучерова признали лучшим игроком недели в НХЛ",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6952c4329a79471e91afc78b",
-    "publishedAt": "2025-12-29T18:29:24.000Z",
-    "createdAt": "2025-12-30T09:31:19.940Z",
-    "updatedAt": "2025-12-30T09:31:19.940Z"
-  },
-  {
-    "id": "d1d5ba8fe04b2351",
-    "title": "Путин назвал яркой и уверенной победу Горячкиной на ЧМ по рапиду",
-    "sport": "Другое",
-    "category": "Другие",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/7/65/347670308216657.png",
-    "teaser": "Путин назвал яркой и уверенной победу Горячкиной на ЧМ по рапиду",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6952bfdf9a794709bd07cb87",
-    "publishedAt": "2025-12-29T18:06:10.000Z",
-    "createdAt": "2025-12-30T09:31:20.982Z",
-    "updatedAt": "2025-12-30T09:31:20.982Z"
-  },
-  {
-    "id": "1e5dabe6ede5f9fb",
-    "title": "Норвежский чемпион Игр возмутился приездом тренера Сорина на «Тур де Ски»",
-    "sport": "Другое",
-    "category": "Другие",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/7/24/347670258244247.jpeg",
-    "teaser": "Норвежский чемпион Игр возмутился приездом тренера Сорина на «Тур де Ски»",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6952ac5b9a79474a195bc659",
-    "publishedAt": "2025-12-29T17:09:56.000Z",
-    "createdAt": "2025-12-30T09:31:17.702Z",
-    "updatedAt": "2025-12-30T09:31:17.702Z"
+    "createdAt": "2025-12-30T10:30:25.295Z",
+    "updatedAt": "2025-12-30T10:30:25.295Z"
   }
 ]
