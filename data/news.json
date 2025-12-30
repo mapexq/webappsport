@@ -1,5 +1,47 @@
 [
   {
+    "id": "ec2ccf15d268a80e",
+    "title": "Лидер махачкалинского «Динамо» рассказал, что мог перейти в «Зенит»",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/3/34/347671042124343.jpeg",
+    "teaser": "Лидер махачкалинского «Динамо» рассказал, что мог перейти в «Зенит»",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6953db3f9a7947eeb83be43b",
+    "publishedAt": "2025-12-30T14:22:34.000Z",
+    "createdAt": "2025-12-30T14:27:12.845Z",
+    "updatedAt": "2025-12-30T14:27:12.845Z"
+  },
+  {
+    "id": "0c6167ba83c1e915",
+    "title": "Миллиардер Колесников сообщил о предложении возглавить союз биатлонистов",
+    "sport": "Другое",
+    "category": "Биатлон",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/9/59/347669941859599.jpeg",
+    "teaser": "Миллиардер Колесников сообщил о предложении возглавить союз биатлонистов",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69522dc69a79473d0f4b14f6",
+    "publishedAt": "2025-12-30T14:07:06.000Z",
+    "createdAt": "2025-12-30T14:27:11.738Z",
+    "updatedAt": "2025-12-30T14:27:11.738Z"
+  },
+  {
+    "id": "f25e2aa56371c58f",
+    "title": "Игравший на Олимпиаде канадец вернулся в «Салават Юлаев»",
+    "sport": "Хоккей",
+    "category": "Хоккей",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/6/23/347671015467236.jpeg",
+    "teaser": "Игравший на Олимпиаде канадец вернулся в «Салават Юлаев»",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6953cf059a79473f19216928",
+    "publishedAt": "2025-12-30T13:45:18.000Z",
+    "createdAt": "2025-12-30T14:27:13.839Z",
+    "updatedAt": "2025-12-30T14:27:13.839Z"
+  },
+  {
     "id": "65a9998504e42a12",
     "title": "Карпин назвал 2025 год лучшим для сборной России после отстранения",
     "sport": "Футбол",
@@ -10,8 +52,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6953c7389a79474ca56353e8",
     "publishedAt": "2025-12-30T13:06:37.000Z",
-    "createdAt": "2025-12-30T13:40:11.447Z",
-    "updatedAt": "2025-12-30T13:40:11.447Z"
+    "createdAt": "2025-12-30T14:27:16.461Z",
+    "updatedAt": "2025-12-30T14:27:16.461Z"
   },
   {
     "id": "7cce2ba4a79435bb",
@@ -24,8 +66,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6953c80c9a7947a8ac24b253",
     "publishedAt": "2025-12-30T12:59:02.000Z",
-    "createdAt": "2025-12-30T13:40:13.496Z",
-    "updatedAt": "2025-12-30T13:40:13.496Z"
+    "createdAt": "2025-12-30T14:27:18.559Z",
+    "updatedAt": "2025-12-30T14:27:18.559Z"
   },
   {
     "id": "32e95ba2af5b9511",
@@ -38,8 +80,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6953c09d9a7947391b5373a0",
     "publishedAt": "2025-12-30T12:29:23.000Z",
-    "createdAt": "2025-12-30T13:40:12.501Z",
-    "updatedAt": "2025-12-30T13:40:12.501Z"
+    "createdAt": "2025-12-30T14:27:17.514Z",
+    "updatedAt": "2025-12-30T14:27:17.514Z"
   },
   {
     "id": "71c41fe347762f86",
@@ -52,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/694d1d7a9a794719f9fdad0e",
     "publishedAt": "2025-12-30T12:27:40.000Z",
-    "createdAt": "2025-12-30T13:40:14.710Z",
-    "updatedAt": "2025-12-30T13:40:14.710Z"
+    "createdAt": "2025-12-30T14:27:19.800Z",
+    "updatedAt": "2025-12-30T14:27:19.800Z"
   },
   {
     "id": "013e7b4975760265",
@@ -66,8 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/694bb7fc9a7947600159f969",
     "publishedAt": "2025-12-30T12:10:35.000Z",
-    "createdAt": "2025-12-30T13:40:16.996Z",
-    "updatedAt": "2025-12-30T13:40:16.996Z"
+    "createdAt": "2025-12-30T14:27:21.917Z",
+    "updatedAt": "2025-12-30T14:27:21.917Z"
   },
   {
     "id": "5e4ddffde79d871a",
@@ -80,63 +122,21 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6953bc359a79473e84f3bde5",
     "publishedAt": "2025-12-30T12:05:30.000Z",
-    "createdAt": "2025-12-30T13:40:15.709Z",
-    "updatedAt": "2025-12-30T13:40:15.710Z"
+    "createdAt": "2025-12-30T14:27:20.886Z",
+    "updatedAt": "2025-12-30T14:27:20.886Z"
   },
   {
-    "id": "af9184b604596645",
-    "title": "Победитель Лиги Европы выбыл из строя из-за паралича лица",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/3/54/347670946576543.jpeg",
-    "teaser": "Победитель Лиги Европы выбыл из строя из-за паралича лица",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6953b6c49a794751c4df0093",
-    "publishedAt": "2025-12-30T11:43:04.000Z",
-    "createdAt": "2025-12-30T13:40:19.176Z",
-    "updatedAt": "2025-12-30T13:40:19.176Z"
-  },
-  {
-    "id": "b94b3ed6d4744f2d",
-    "title": "Владимир Крамник подал в суд на FIDE",
+    "id": "95353de65bd6c333",
+    "title": "«Мы всегда держим руку на пульсе»",
     "sport": "Другое",
     "category": "Другие",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/5/51/347670911075515.jpeg",
-    "teaser": "Владимир Крамник подал в суд на FIDE",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/4/86/347670931034864.jpeg",
+    "teaser": "«Мы всегда держим руку на пульсе»",
     "fullContent": "",
     "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6953a6389a794719236ae216",
-    "publishedAt": "2025-12-30T11:39:15.000Z",
-    "createdAt": "2025-12-30T13:40:18.101Z",
-    "updatedAt": "2025-12-30T13:40:18.101Z"
-  },
-  {
-    "id": "12cf0b9c76b65ab5",
-    "title": "Призер чемпионата Италии назвал Валиеву величайшей фигуристкой в истории",
-    "sport": "Другое",
-    "category": "Фигурное катание",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/0/74/347670916392740.jpeg",
-    "teaser": "Призер чемпионата Италии назвал Валиеву величайшей фигуристкой в истории",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6953a9429a79473799a27fbc",
-    "publishedAt": "2025-12-30T11:15:54.000Z",
-    "createdAt": "2025-12-30T13:40:20.240Z",
-    "updatedAt": "2025-12-30T13:40:20.240Z"
-  },
-  {
-    "id": "1bddb02fa1d81949",
-    "title": "В «Динамо» назвали причины назначения Гусева главным тренером",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/3/63/347670898826633.jpeg",
-    "teaser": "В «Динамо» назвали причины назначения Гусева главным тренером",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6953a2a69a794722aadaf300",
-    "publishedAt": "2025-12-30T10:39:23.000Z",
-    "createdAt": "2025-12-30T13:40:21.359Z",
-    "updatedAt": "2025-12-30T13:40:21.359Z"
+    "sourceUrl": "https://sportrbc.ru/news/6953b34c9a7947ea3a966465",
+    "publishedAt": "2025-12-30T11:14:28.000Z",
+    "createdAt": "2025-12-30T14:27:15.443Z",
+    "updatedAt": "2025-12-30T14:27:15.443Z"
   }
 ]
