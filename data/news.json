@@ -1,5 +1,33 @@
 [
   {
+    "id": "63e0b8b4c76f8747",
+    "title": "FIS отказала российской лыжнице в выдаче нейтрального статуса",
+    "sport": "Другое",
+    "category": "Другие",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/4/87/347671653483874.jpeg",
+    "teaser": "FIS отказала российской лыжнице в выдаче нейтрального статуса",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6954cd979a794765077fb79f",
+    "publishedAt": "2025-12-31T07:26:05.000Z",
+    "createdAt": "2025-12-31T07:28:19.619Z",
+    "updatedAt": "2025-12-31T07:28:19.619Z"
+  },
+  {
+    "id": "84864c23f4973ab5",
+    "title": "Роналду впервые за 16 лет не сделал ни одного хет-трика в течение года",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/8/68/347671645785688.jpeg",
+    "teaser": "Роналду впервые за 16 лет не сделал ни одного хет-трика в течение года",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6954ca5c9a79474eac87e8d2",
+    "publishedAt": "2025-12-31T07:10:59.000Z",
+    "createdAt": "2025-12-31T07:28:20.806Z",
+    "updatedAt": "2025-12-31T07:28:20.806Z"
+  },
+  {
     "id": "e264ffcb06db53af",
     "title": "Радулов третьим в истории КХЛ сделал 500 результативных передач",
     "sport": "Хоккей",
@@ -10,8 +38,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/695419829a79473cc772fc76",
     "publishedAt": "2025-12-30T18:36:18.000Z",
-    "createdAt": "2025-12-31T06:41:23.192Z",
-    "updatedAt": "2025-12-31T06:41:23.192Z"
+    "createdAt": "2025-12-31T07:28:21.998Z",
+    "updatedAt": "2025-12-31T07:28:21.998Z"
   },
   {
     "id": "4081be427b724f56",
@@ -24,8 +52,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6953f9149a7947b53d2ba6e7",
     "publishedAt": "2025-12-30T17:45:54.000Z",
-    "createdAt": "2025-12-31T06:41:24.240Z",
-    "updatedAt": "2025-12-31T06:41:24.240Z"
+    "createdAt": "2025-12-31T07:28:23.196Z",
+    "updatedAt": "2025-12-31T07:28:23.196Z"
   },
   {
     "id": "8a8eec7694e5bf9b",
@@ -38,8 +66,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69540a799a7947385e601442",
     "publishedAt": "2025-12-30T17:29:02.000Z",
-    "createdAt": "2025-12-31T06:41:28.909Z",
-    "updatedAt": "2025-12-31T06:41:28.909Z"
+    "createdAt": "2025-12-31T07:28:28.656Z",
+    "updatedAt": "2025-12-31T07:28:28.656Z"
   },
   {
     "id": "18b9fe442158685b",
@@ -52,8 +80,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/695404b19a7947b3574be5aa",
     "publishedAt": "2025-12-30T17:05:47.000Z",
-    "createdAt": "2025-12-31T06:41:25.593Z",
-    "updatedAt": "2025-12-31T06:41:25.593Z"
+    "createdAt": "2025-12-31T07:28:24.454Z",
+    "updatedAt": "2025-12-31T07:28:24.454Z"
   },
   {
     "id": "7766a2b26f5fb81f",
@@ -66,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6953f47a9a7947085dd47a00",
     "publishedAt": "2025-12-30T16:29:43.000Z",
-    "createdAt": "2025-12-31T06:41:29.948Z",
-    "updatedAt": "2025-12-31T06:41:29.948Z"
+    "createdAt": "2025-12-31T07:28:29.927Z",
+    "updatedAt": "2025-12-31T07:28:29.927Z"
   },
   {
     "id": "5f4b5ac98e33490f",
@@ -80,36 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6953ef359a7947328e79aafa",
     "publishedAt": "2025-12-30T15:43:52.000Z",
-    "createdAt": "2025-12-31T06:41:30.990Z",
-    "updatedAt": "2025-12-31T06:41:30.990Z"
-  },
-  {
-    "id": "50b8af8a6cad6aee",
-    "title": "Хабиб Нурмагомедов рассказал о несправедливости в UFC",
-    "sport": "Единоборства",
-    "category": "Единоборства",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/8/32/347671075692328.jpeg",
-    "teaser": "Хабиб Нурмагомедов рассказал о несправедливости в UFC",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6953df129a7947c2cf42bb8a",
-    "publishedAt": "2025-12-30T15:27:00.000Z",
-    "createdAt": "2025-12-31T06:41:32.149Z",
-    "updatedAt": "2025-12-31T06:41:32.149Z"
-  },
-  {
-    "id": "71bd27980517f0eb",
-    "title": "«Ливерпуль» уволил тренера по стандартным положениям",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/5/79/347671076197795.jpeg",
-    "teaser": "«Ливерпуль» уволил тренера по стандартным положениям",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6953ebc59a79479a9762faf7",
-    "publishedAt": "2025-12-30T15:21:37.000Z",
-    "createdAt": "2025-12-31T06:41:33.190Z",
-    "updatedAt": "2025-12-31T06:41:33.190Z"
+    "createdAt": "2025-12-31T07:28:31.151Z",
+    "updatedAt": "2025-12-31T07:28:31.151Z"
   },
   {
     "id": "71c41fe347762f86",
@@ -122,8 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/694d1d7a9a794719f9fdad0e",
     "publishedAt": "2025-12-30T12:27:40.000Z",
-    "createdAt": "2025-12-31T06:41:27.869Z",
-    "updatedAt": "2025-12-31T06:41:27.869Z"
+    "createdAt": "2025-12-31T07:28:27.467Z",
+    "updatedAt": "2025-12-31T07:28:27.467Z"
   },
   {
     "id": "95353de65bd6c333",
@@ -136,7 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6953b34c9a7947ea3a966465",
     "publishedAt": "2025-12-30T11:14:28.000Z",
-    "createdAt": "2025-12-31T06:41:26.662Z",
-    "updatedAt": "2025-12-31T06:41:26.662Z"
+    "createdAt": "2025-12-31T07:28:25.652Z",
+    "updatedAt": "2025-12-31T07:28:25.652Z"
   }
 ]
