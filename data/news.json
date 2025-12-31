@@ -1,5 +1,61 @@
 [
   {
+    "id": "895dbfde7aeac547",
+    "title": "ЦСКА объявил о переходе 18-летнего нападающего Воронова из «Урала»",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/9/15/347671686087159.jpeg",
+    "teaser": "ЦСКА объявил о переходе 18-летнего нападающего Воронова из «Урала»",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6954da409a7947693b68b808",
+    "publishedAt": "2025-12-31T08:15:26.000Z",
+    "createdAt": "2025-12-31T08:36:32.709Z",
+    "updatedAt": "2025-12-31T08:36:32.709Z"
+  },
+  {
+    "id": "25d48f37532c429c",
+    "title": "Клуб КХЛ вернул из Швейцарии своего лучшего снайпера двух прошлых сезонов",
+    "sport": "Хоккей",
+    "category": "Хоккей",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/5/07/347671679670075.jpeg",
+    "teaser": "Клуб КХЛ вернул из Швейцарии своего лучшего снайпера двух прошлых сезонов",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6954d7ad9a79470377db931e",
+    "publishedAt": "2025-12-31T08:05:14.000Z",
+    "createdAt": "2025-12-31T08:36:33.722Z",
+    "updatedAt": "2025-12-31T08:36:33.722Z"
+  },
+  {
+    "id": "74e5837294479462",
+    "title": "Россиянин укрепился в лидерах среди лучших бомбардиров-новичков в НХЛ",
+    "sport": "Хоккей",
+    "category": "Хоккей",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/8/45/347671663008458.jpeg",
+    "teaser": "Россиянин укрепился в лидерах среди лучших бомбардиров-новичков в НХЛ",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6954d1199a794703b1ccbd88",
+    "publishedAt": "2025-12-31T07:40:11.000Z",
+    "createdAt": "2025-12-31T08:36:37.061Z",
+    "updatedAt": "2025-12-31T08:36:37.061Z"
+  },
+  {
+    "id": "867f3fc10a7873fd",
+    "title": "Рекорд Овечкина и возвращение россиян. Чем запомнился 2025 год в спорте",
+    "sport": "Другое",
+    "category": "Другие",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/0/58/347666619164580.jpeg",
+    "teaser": "Рекорд Овечкина и возвращение россиян. Чем запомнился 2025 год в спорте",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69492fe29a7947914e8fbf0c",
+    "publishedAt": "2025-12-31T07:30:19.000Z",
+    "createdAt": "2025-12-31T08:36:34.955Z",
+    "updatedAt": "2025-12-31T08:36:34.955Z"
+  },
+  {
     "id": "63e0b8b4c76f8747",
     "title": "FIS отказала российской лыжнице в выдаче нейтрального статуса",
     "sport": "Другое",
@@ -10,8 +66,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6954cd979a794765077fb79f",
     "publishedAt": "2025-12-31T07:26:05.000Z",
-    "createdAt": "2025-12-31T07:28:19.619Z",
-    "updatedAt": "2025-12-31T07:28:19.619Z"
+    "createdAt": "2025-12-31T08:36:35.984Z",
+    "updatedAt": "2025-12-31T08:36:35.984Z"
   },
   {
     "id": "84864c23f4973ab5",
@@ -24,8 +80,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6954ca5c9a79474eac87e8d2",
     "publishedAt": "2025-12-31T07:10:59.000Z",
-    "createdAt": "2025-12-31T07:28:20.806Z",
-    "updatedAt": "2025-12-31T07:28:20.806Z"
+    "createdAt": "2025-12-31T08:36:38.015Z",
+    "updatedAt": "2025-12-31T08:36:38.015Z"
   },
   {
     "id": "e264ffcb06db53af",
@@ -38,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/695419829a79473cc772fc76",
     "publishedAt": "2025-12-30T18:36:18.000Z",
-    "createdAt": "2025-12-31T07:28:21.998Z",
-    "updatedAt": "2025-12-31T07:28:21.998Z"
+    "createdAt": "2025-12-31T08:36:39.078Z",
+    "updatedAt": "2025-12-31T08:36:39.078Z"
   },
   {
     "id": "4081be427b724f56",
@@ -52,22 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6953f9149a7947b53d2ba6e7",
     "publishedAt": "2025-12-30T17:45:54.000Z",
-    "createdAt": "2025-12-31T07:28:23.196Z",
-    "updatedAt": "2025-12-31T07:28:23.196Z"
-  },
-  {
-    "id": "8a8eec7694e5bf9b",
-    "title": "FIS дала нейтральный статус еще пяти российским спортсменам",
-    "sport": "Другое",
-    "category": "Другие",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/7/33/347671154470337.jpeg",
-    "teaser": "FIS дала нейтральный статус еще пяти российским спортсменам",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69540a799a7947385e601442",
-    "publishedAt": "2025-12-30T17:29:02.000Z",
-    "createdAt": "2025-12-31T07:28:28.656Z",
-    "updatedAt": "2025-12-31T07:28:28.656Z"
+    "createdAt": "2025-12-31T08:36:40.183Z",
+    "updatedAt": "2025-12-31T08:36:40.183Z"
   },
   {
     "id": "18b9fe442158685b",
@@ -80,50 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/695404b19a7947b3574be5aa",
     "publishedAt": "2025-12-30T17:05:47.000Z",
-    "createdAt": "2025-12-31T07:28:24.454Z",
-    "updatedAt": "2025-12-31T07:28:24.454Z"
-  },
-  {
-    "id": "7766a2b26f5fb81f",
-    "title": "ЦСКА второй раз в сезоне обыграл «Динамо» в московском дерби КХЛ",
-    "sport": "Хоккей",
-    "category": "Хоккей",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/4/35/347671109571354.jpeg",
-    "teaser": "ЦСКА второй раз в сезоне обыграл «Динамо» в московском дерби КХЛ",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6953f47a9a7947085dd47a00",
-    "publishedAt": "2025-12-30T16:29:43.000Z",
-    "createdAt": "2025-12-31T07:28:29.927Z",
-    "updatedAt": "2025-12-31T07:28:29.927Z"
-  },
-  {
-    "id": "5f4b5ac98e33490f",
-    "title": "Российская шахматистка раскритиковала формат чемпионата мира по блицу",
-    "sport": "Другое",
-    "category": "Другие",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/4/51/347671088762514.jpeg",
-    "teaser": "Российская шахматистка раскритиковала формат чемпионата мира по блицу",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6953ef359a7947328e79aafa",
-    "publishedAt": "2025-12-30T15:43:52.000Z",
-    "createdAt": "2025-12-31T07:28:31.151Z",
-    "updatedAt": "2025-12-31T07:28:31.151Z"
-  },
-  {
-    "id": "71c41fe347762f86",
-    "title": "С какими проблемами столкнулся российский биатлон из-за изоляции",
-    "sport": "Другое",
-    "category": "Биатлон",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/4/33/347670027512334.jpeg",
-    "teaser": "С какими проблемами столкнулся российский биатлон из-за изоляции",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/694d1d7a9a794719f9fdad0e",
-    "publishedAt": "2025-12-30T12:27:40.000Z",
-    "createdAt": "2025-12-31T07:28:27.467Z",
-    "updatedAt": "2025-12-31T07:28:27.467Z"
+    "createdAt": "2025-12-31T08:36:41.277Z",
+    "updatedAt": "2025-12-31T08:36:41.277Z"
   },
   {
     "id": "95353de65bd6c333",
@@ -136,7 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6953b34c9a7947ea3a966465",
     "publishedAt": "2025-12-30T11:14:28.000Z",
-    "createdAt": "2025-12-31T07:28:25.652Z",
-    "updatedAt": "2025-12-31T07:28:25.652Z"
+    "createdAt": "2025-12-31T08:36:42.349Z",
+    "updatedAt": "2025-12-31T08:36:42.349Z"
   }
 ]
