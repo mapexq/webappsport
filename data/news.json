@@ -1,5 +1,33 @@
 [
   {
+    "id": "2a92ba7fb9721e66",
+    "title": "Лучший лыжник сезона пропустит «Гонку чемпионов»",
+    "sport": "Другое",
+    "category": "Другие",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/7/66/347673719151667.png",
+    "teaser": "Лучший лыжник сезона пропустит «Гонку чемпионов»",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6957ef089a7947eaf270cc08",
+    "publishedAt": "2026-01-02T16:41:39.000Z",
+    "createdAt": "2026-01-02T17:23:08.191Z",
+    "updatedAt": "2026-01-02T17:23:08.191Z"
+  },
+  {
+    "id": "12381cf5d92ab0cf",
+    "title": "В Италии сообщили о смерти 16-летнего гольфиста в швейцарском баре",
+    "sport": "Другое",
+    "category": "Другие",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/4/78/347673650497784.jpeg",
+    "teaser": "В Италии сообщили о смерти 16-летнего гольфиста в швейцарском баре",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6957c41f9a794703f679257b",
+    "publishedAt": "2026-01-02T16:13:04.000Z",
+    "createdAt": "2026-01-02T17:23:07.375Z",
+    "updatedAt": "2026-01-02T17:23:07.375Z"
+  },
+  {
     "id": "0000b948394fe245",
     "title": "Роднина призвала «не поднимать мыльную пену» из-за условий допуска МОК",
     "sport": "Другое",
@@ -10,8 +38,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6957e3d59a794757e34f3d58",
     "publishedAt": "2026-01-02T15:50:06.000Z",
-    "createdAt": "2026-01-02T16:32:36.843Z",
-    "updatedAt": "2026-01-02T16:32:36.843Z"
+    "createdAt": "2026-01-02T17:23:09.170Z",
+    "updatedAt": "2026-01-02T17:23:09.170Z"
   },
   {
     "id": "4986ddc8c3e4dd82",
@@ -24,8 +52,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6957cf659a7947bb0b554c47",
     "publishedAt": "2026-01-02T14:31:37.000Z",
-    "createdAt": "2026-01-02T16:32:37.987Z",
-    "updatedAt": "2026-01-02T16:32:37.987Z"
+    "createdAt": "2026-01-02T17:23:10.323Z",
+    "updatedAt": "2026-01-02T17:23:10.323Z"
   },
   {
     "id": "21882114aec1d562",
@@ -38,8 +66,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6957b7a39a79471befe658a2",
     "publishedAt": "2026-01-02T14:03:20.000Z",
-    "createdAt": "2026-01-02T16:32:39.273Z",
-    "updatedAt": "2026-01-02T16:32:39.273Z"
+    "createdAt": "2026-01-02T17:23:11.278Z",
+    "updatedAt": "2026-01-02T17:23:11.278Z"
   },
   {
     "id": "86ffb32d32608d16",
@@ -52,8 +80,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6957be719a7947b167e46b92",
     "publishedAt": "2026-01-02T13:10:35.000Z",
-    "createdAt": "2026-01-02T16:32:40.352Z",
-    "updatedAt": "2026-01-02T16:32:40.352Z"
+    "createdAt": "2026-01-02T17:23:12.298Z",
+    "updatedAt": "2026-01-02T17:23:12.298Z"
   },
   {
     "id": "7243ed71ecd7fcc0",
@@ -66,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6957adfd9a794747c8966849",
     "publishedAt": "2026-01-02T12:33:34.000Z",
-    "createdAt": "2026-01-02T16:32:41.430Z",
-    "updatedAt": "2026-01-02T16:32:41.430Z"
+    "createdAt": "2026-01-02T17:23:13.346Z",
+    "updatedAt": "2026-01-02T17:23:13.346Z"
   },
   {
     "id": "aa018ec143377498",
@@ -80,8 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6957a7db9a79472011a3cac1",
     "publishedAt": "2026-01-02T12:20:59.000Z",
-    "createdAt": "2026-01-02T16:32:43.583Z",
-    "updatedAt": "2026-01-02T16:32:43.583Z"
+    "createdAt": "2026-01-02T17:23:15.388Z",
+    "updatedAt": "2026-01-02T17:23:15.388Z"
   },
   {
     "id": "107ffdc299401355",
@@ -94,8 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6957a4509a7947162440e78c",
     "publishedAt": "2026-01-02T11:30:35.000Z",
-    "createdAt": "2026-01-02T16:32:42.537Z",
-    "updatedAt": "2026-01-02T16:32:42.537Z"
+    "createdAt": "2026-01-02T17:23:14.337Z",
+    "updatedAt": "2026-01-02T17:23:14.337Z"
   },
   {
     "id": "80a25a4d4d55603d",
@@ -108,35 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69569a3b9a79470b094922f4",
     "publishedAt": "2026-01-01T16:35:17.000Z",
-    "createdAt": "2026-01-02T16:32:45.410Z",
-    "updatedAt": "2026-01-02T16:32:45.410Z"
-  },
-  {
-    "id": "6d34119c0342d735",
-    "title": "Непряева заняла восьмое место в масс-старте на этапе «Тур де Ски»",
-    "sport": "Другое",
-    "category": "Другие",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/6/37/347671889469376.jpeg",
-    "teaser": "Непряева заняла восьмое место в масс-старте на этапе «Тур де Ски»",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/695529a09a794746d97e6d02",
-    "publishedAt": "2025-12-31T14:48:19.000Z",
-    "createdAt": "2026-01-02T16:32:46.448Z",
-    "updatedAt": "2026-01-02T16:32:46.448Z"
-  },
-  {
-    "id": "e7bb4d07da54fe59",
-    "title": "Тренер Сорин рассказал о конфликте с украинским коллегой на «Тур де Ски»",
-    "sport": "Другое",
-    "category": "Другие",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/1/84/347671893358841.jpeg",
-    "teaser": "Тренер Сорин рассказал о конфликте с украинским коллегой на «Тур де Ски»",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69552aa89a7947ee44b28064",
-    "publishedAt": "2025-12-31T14:15:25.000Z",
-    "createdAt": "2026-01-02T16:32:47.497Z",
-    "updatedAt": "2026-01-02T16:32:47.497Z"
+    "createdAt": "2026-01-02T17:23:17.327Z",
+    "updatedAt": "2026-01-02T17:23:17.327Z"
   }
 ]
