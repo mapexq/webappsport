@@ -1,5 +1,61 @@
 [
   {
+    "id": "c157d5710695b26b",
+    "title": "Мирра Андреева сыграет в паре с Александровой на турнире в Брисбене",
+    "sport": "Теннис",
+    "category": "Теннис",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/8/38/347673770390388.jpeg",
+    "teaser": "Мирра Андреева сыграет в паре с Александровой на турнире в Брисбене",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/695802c69a79472dfba6cc85",
+    "publishedAt": "2026-01-02T18:34:11.000Z",
+    "createdAt": "2026-01-02T18:37:07.231Z",
+    "updatedAt": "2026-01-02T18:37:07.231Z"
+  },
+  {
+    "id": "aad7871e2d9a0f83",
+    "title": "Сборная США заявила на Игры почти весь состав с Турнира четырех наций",
+    "sport": "Хоккей",
+    "category": "Хоккей",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/3/53/347673775416533.jpeg",
+    "teaser": "Сборная США заявила на Игры почти весь состав с Турнира четырех наций",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/695801719a79471e1734a4e5",
+    "publishedAt": "2026-01-02T18:17:13.000Z",
+    "createdAt": "2026-01-02T18:37:08.395Z",
+    "updatedAt": "2026-01-02T18:37:08.395Z"
+  },
+  {
+    "id": "8319d2151264ff17",
+    "title": "Российская рапиристка выиграла первое золото после возвращения флага",
+    "sport": "Другое",
+    "category": "Другие",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/1/37/347673742628371.jpeg",
+    "teaser": "Российская рапиристка выиграла первое золото после возвращения флага",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6957f1cd9a7947dfc27b9f95",
+    "publishedAt": "2026-01-02T17:48:32.000Z",
+    "createdAt": "2026-01-02T18:37:10.679Z",
+    "updatedAt": "2026-01-02T18:37:10.679Z"
+  },
+  {
+    "id": "4ab4aeba3e85b17a",
+    "title": "Федерация керлинга в январе подаст иск в CAS из-за отстранения россиян",
+    "sport": "Другое",
+    "category": "Другие",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/8/80/347673702220808.jpeg",
+    "teaser": "Федерация керлинга в январе подаст иск в CAS из-за отстранения россиян",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6957e5f39a7947a34ff54e75",
+    "publishedAt": "2026-01-02T17:16:21.000Z",
+    "createdAt": "2026-01-02T18:37:09.550Z",
+    "updatedAt": "2026-01-02T18:37:09.550Z"
+  },
+  {
     "id": "2a92ba7fb9721e66",
     "title": "Лучший лыжник сезона пропустит «Гонку чемпионов»",
     "sport": "Другое",
@@ -10,8 +66,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6957ef089a7947eaf270cc08",
     "publishedAt": "2026-01-02T16:41:39.000Z",
-    "createdAt": "2026-01-02T17:23:08.191Z",
-    "updatedAt": "2026-01-02T17:23:08.191Z"
+    "createdAt": "2026-01-02T18:37:12.952Z",
+    "updatedAt": "2026-01-02T18:37:12.952Z"
   },
   {
     "id": "12381cf5d92ab0cf",
@@ -24,8 +80,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6957c41f9a794703f679257b",
     "publishedAt": "2026-01-02T16:13:04.000Z",
-    "createdAt": "2026-01-02T17:23:07.375Z",
-    "updatedAt": "2026-01-02T17:23:07.375Z"
+    "createdAt": "2026-01-02T18:37:11.814Z",
+    "updatedAt": "2026-01-02T18:37:11.814Z"
   },
   {
     "id": "0000b948394fe245",
@@ -38,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6957e3d59a794757e34f3d58",
     "publishedAt": "2026-01-02T15:50:06.000Z",
-    "createdAt": "2026-01-02T17:23:09.170Z",
-    "updatedAt": "2026-01-02T17:23:09.170Z"
+    "createdAt": "2026-01-02T18:37:14.079Z",
+    "updatedAt": "2026-01-02T18:37:14.079Z"
   },
   {
     "id": "4986ddc8c3e4dd82",
@@ -52,8 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6957cf659a7947bb0b554c47",
     "publishedAt": "2026-01-02T14:31:37.000Z",
-    "createdAt": "2026-01-02T17:23:10.323Z",
-    "updatedAt": "2026-01-02T17:23:10.323Z"
+    "createdAt": "2026-01-02T18:37:15.246Z",
+    "updatedAt": "2026-01-02T18:37:15.246Z"
   },
   {
     "id": "21882114aec1d562",
@@ -66,8 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6957b7a39a79471befe658a2",
     "publishedAt": "2026-01-02T14:03:20.000Z",
-    "createdAt": "2026-01-02T17:23:11.278Z",
-    "updatedAt": "2026-01-02T17:23:11.278Z"
+    "createdAt": "2026-01-02T18:37:16.406Z",
+    "updatedAt": "2026-01-02T18:37:16.406Z"
   },
   {
     "id": "86ffb32d32608d16",
@@ -80,63 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6957be719a7947b167e46b92",
     "publishedAt": "2026-01-02T13:10:35.000Z",
-    "createdAt": "2026-01-02T17:23:12.298Z",
-    "updatedAt": "2026-01-02T17:23:12.298Z"
-  },
-  {
-    "id": "7243ed71ecd7fcc0",
-    "title": "Дани Алвес стал совладельцем аутсайдера третьего дивизиона Португалии",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/7/20/347673567247207.png",
-    "teaser": "Дани Алвес стал совладельцем аутсайдера третьего дивизиона Португалии",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6957adfd9a794747c8966849",
-    "publishedAt": "2026-01-02T12:33:34.000Z",
-    "createdAt": "2026-01-02T17:23:13.346Z",
-    "updatedAt": "2026-01-02T17:23:13.346Z"
-  },
-  {
-    "id": "aa018ec143377498",
-    "title": "Российский призер юношеских Игр рассказал о трех операциях на коленях",
-    "sport": "Другое",
-    "category": "Фигурное катание",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/6/12/347673537437126.jpeg",
-    "teaser": "Российский призер юношеских Игр рассказал о трех операциях на коленях",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6957a7db9a79472011a3cac1",
-    "publishedAt": "2026-01-02T12:20:59.000Z",
-    "createdAt": "2026-01-02T17:23:15.388Z",
-    "updatedAt": "2026-01-02T17:23:15.388Z"
-  },
-  {
-    "id": "107ffdc299401355",
-    "title": "МОК заявил, что мирное соглашение не повлияет на допуск россиян на Игры",
-    "sport": "Другое",
-    "category": "Другие",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/7/13/347673515276137.jpeg",
-    "teaser": "МОК заявил, что мирное соглашение не повлияет на допуск россиян на Игры",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6957a4509a7947162440e78c",
-    "publishedAt": "2026-01-02T11:30:35.000Z",
-    "createdAt": "2026-01-02T17:23:14.337Z",
-    "updatedAt": "2026-01-02T17:23:14.337Z"
-  },
-  {
-    "id": "80a25a4d4d55603d",
-    "title": "Энцо Мареска покинул пост главного тренера «Челси»",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/2/35/347346014321352.png",
-    "teaser": "Энцо Мареска покинул пост главного тренера «Челси»",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69569a3b9a79470b094922f4",
-    "publishedAt": "2026-01-01T16:35:17.000Z",
-    "createdAt": "2026-01-02T17:23:17.327Z",
-    "updatedAt": "2026-01-02T17:23:17.327Z"
+    "createdAt": "2026-01-02T18:37:17.563Z",
+    "updatedAt": "2026-01-02T18:37:17.563Z"
   }
 ]
