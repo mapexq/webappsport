@@ -1,5 +1,75 @@
 [
   {
+    "id": "40a6522157fbc094",
+    "title": "Клуб КХЛ объявил о назначении нового главного тренера",
+    "sport": "Хоккей",
+    "category": "Хоккей",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/6/33/347675202404336.jpeg",
+    "teaser": "Клуб КХЛ объявил о назначении нового главного тренера",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/695a36f99a794783edaa7a9d",
+    "publishedAt": "2026-01-04T13:04:30.000Z",
+    "createdAt": "2026-01-04T13:33:30.409Z",
+    "updatedAt": "2026-01-04T13:33:30.409Z"
+  },
+  {
+    "id": "ba50e2f455b862b5",
+    "title": "Команда Степановой выиграла лыжно-биатлонную «Гонку чемпионов»",
+    "sport": "Другое",
+    "category": "Биатлон",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/4/66/347675272004664.jpeg",
+    "teaser": "Команда Степановой выиграла лыжно-биатлонную «Гонку чемпионов»",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/695a515a9a79472cb9c90f56",
+    "publishedAt": "2026-01-04T11:55:13.000Z",
+    "createdAt": "2026-01-04T13:33:31.387Z",
+    "updatedAt": "2026-01-04T13:33:31.387Z"
+  },
+  {
+    "id": "835e905be74d1f3f",
+    "title": "Коростелев показал лучший результат в гонке после допуска под эгидой FIS",
+    "sport": "Другое",
+    "category": "Другие",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/8/83/347675262557838.jpeg",
+    "teaser": "Коростелев показал лучший результат в гонке после допуска под эгидой FIS",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/695a4e859a794724259c147e",
+    "publishedAt": "2026-01-04T11:40:56.000Z",
+    "createdAt": "2026-01-04T13:33:32.520Z",
+    "updatedAt": "2026-01-04T13:33:32.520Z"
+  },
+  {
+    "id": "403f379f8778d1fc",
+    "title": "Кучерова признали второй звездой дня в НХЛ",
+    "sport": "Хоккей",
+    "category": "Хоккей",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/7/02/347675220033027.jpeg",
+    "teaser": "Кучерова признали второй звездой дня в НХЛ",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/695a3e489a7947738d48fc5b",
+    "publishedAt": "2026-01-04T10:27:18.000Z",
+    "createdAt": "2026-01-04T13:33:33.506Z",
+    "updatedAt": "2026-01-04T13:33:33.506Z"
+  },
+  {
+    "id": "33b73b1cf265c951",
+    "title": "Овечкин получил удар клюшкой в лицо и потерял зуб во время матча НХЛ",
+    "sport": "Хоккей",
+    "category": "Хоккей",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/7/68/347675188148687.jpeg",
+    "teaser": "Овечкин получил удар клюшкой в лицо и потерял зуб во время матча НХЛ",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/695a2ea19a79470dbbf2d026",
+    "publishedAt": "2026-01-04T09:50:54.000Z",
+    "createdAt": "2026-01-04T13:33:34.572Z",
+    "updatedAt": "2026-01-04T13:33:34.572Z"
+  },
+  {
     "id": "3ede07c26391db6f",
     "title": "Тренер «Металлурга» объяснил, почему Кузнецову не нашлось места в команде",
     "sport": "Хоккей",
@@ -10,8 +80,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/695950059a79476dfa7241fc",
     "publishedAt": "2026-01-03T18:03:59.000Z",
-    "createdAt": "2026-01-04T12:52:08.068Z",
-    "updatedAt": "2026-01-04T12:52:08.068Z"
+    "createdAt": "2026-01-04T13:33:35.661Z",
+    "updatedAt": "2026-01-04T13:33:35.661Z"
   },
   {
     "id": "1b56453d6a5d2c4b",
@@ -24,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/695944f29a7947f9e54b8cf5",
     "publishedAt": "2026-01-03T17:26:04.000Z",
-    "createdAt": "2026-01-04T12:52:09.131Z",
-    "updatedAt": "2026-01-04T12:52:09.131Z"
+    "createdAt": "2026-01-04T13:33:36.745Z",
+    "updatedAt": "2026-01-04T13:33:36.745Z"
   },
   {
     "id": "3b3c36589eb8747f",
@@ -38,8 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69592d049a79476896db11e1",
     "publishedAt": "2026-01-03T15:08:22.000Z",
-    "createdAt": "2026-01-04T12:52:10.191Z",
-    "updatedAt": "2026-01-04T12:52:10.191Z"
+    "createdAt": "2026-01-04T13:33:37.797Z",
+    "updatedAt": "2026-01-04T13:33:37.797Z"
   },
   {
     "id": "7ef3ecaad4f4a47c",
@@ -52,8 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/695920cc9a7947f66be8036d",
     "publishedAt": "2026-01-03T14:46:41.000Z",
-    "createdAt": "2026-01-04T12:52:11.241Z",
-    "updatedAt": "2026-01-04T12:52:11.241Z"
+    "createdAt": "2026-01-04T13:33:38.880Z",
+    "updatedAt": "2026-01-04T13:33:38.880Z"
   },
   {
     "id": "6b28ff5187df7a98",
@@ -66,77 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6959007c9a7947353b82813b",
     "publishedAt": "2026-01-03T13:48:00.000Z",
-    "createdAt": "2026-01-04T12:52:13.117Z",
-    "updatedAt": "2026-01-04T12:52:13.117Z"
-  },
-  {
-    "id": "a0c9a70fcb18c197",
-    "title": "Чемпиона UFC Илию Топурию вызвали в суд по делу о домашнем насилии",
-    "sport": "Единоборства",
-    "category": "Единоборства",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/8/07/347674434003078.jpeg",
-    "teaser": "Чемпиона UFC Илию Топурию вызвали в суд по делу о домашнем насилии",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/695900e79a79475c420e4341",
-    "publishedAt": "2026-01-03T12:56:00.000Z",
-    "createdAt": "2026-01-04T12:52:14.215Z",
-    "updatedAt": "2026-01-04T12:52:14.215Z"
-  },
-  {
-    "id": "081770bfd278ad2e",
-    "title": "В Эстонии предупредили о риске потерять ЧЕ по фехтованию",
-    "sport": "Другое",
-    "category": "Другие",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/1/15/347674380070151.jpeg",
-    "teaser": "В Эстонии предупредили о риске потерять ЧЕ по фехтованию",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6958e8139a7947622c89af60",
-    "publishedAt": "2026-01-03T11:53:04.000Z",
-    "createdAt": "2026-01-04T12:52:15.264Z",
-    "updatedAt": "2026-01-04T12:52:15.264Z"
-  },
-  {
-    "id": "d95f633bb77716f2",
-    "title": "В ПСЖ сообщили о ходе восстановления Сафонова после перелома руки",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/5/55/347674392099555.jpeg",
-    "teaser": "В ПСЖ сообщили о ходе восстановления Сафонова после перелома руки",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6958ef389a794710cc31e1a8",
-    "publishedAt": "2026-01-03T11:30:46.000Z",
-    "createdAt": "2026-01-04T12:52:16.324Z",
-    "updatedAt": "2026-01-04T12:52:16.324Z"
-  },
-  {
-    "id": "ecc0d1b96ad0fbad",
-    "title": "Панарина признали второй звездой дня НХЛ после дубля в «Зимней классике»",
-    "sport": "Хоккей",
-    "category": "Хоккей",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/9/44/347674329147449.jpeg",
-    "teaser": "Панарина признали второй звездой дня НХЛ после дубля в «Зимней классике»",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6958d8cc9a794733f8d5fb8a",
-    "publishedAt": "2026-01-03T10:39:05.000Z",
-    "createdAt": "2026-01-04T12:52:17.391Z",
-    "updatedAt": "2026-01-04T12:52:17.391Z"
-  },
-  {
-    "id": "e6568992ddcbbb96",
-    "title": "Бобровский установил уникальный рекорд НХЛ в матче «Зимней классики»",
-    "sport": "Хоккей",
-    "category": "Хоккей",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/0/83/347674328449830.jpeg",
-    "teaser": "Бобровский установил уникальный рекорд НХЛ в матче «Зимней классики»",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6958d43b9a79470ff2c1851b",
-    "publishedAt": "2026-01-03T10:10:33.000Z",
-    "createdAt": "2026-01-04T12:52:18.446Z",
-    "updatedAt": "2026-01-04T12:52:18.446Z"
+    "createdAt": "2026-01-04T13:33:40.809Z",
+    "updatedAt": "2026-01-04T13:33:40.809Z"
   }
 ]
