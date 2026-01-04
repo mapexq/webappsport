@@ -1,5 +1,61 @@
 [
   {
+    "id": "81351e5ee97f14ef",
+    "title": "Непряева заняла десятое место в общем зачете «Тур де Ски»",
+    "sport": "Другое",
+    "category": "Другие",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/0/58/347675430849580.jpeg",
+    "teaser": "Непряева заняла десятое место в общем зачете «Тур де Ски»",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/695a8d769a7947286218772a",
+    "publishedAt": "2026-01-04T16:20:33.000Z",
+    "createdAt": "2026-01-04T17:22:26.406Z",
+    "updatedAt": "2026-01-04T17:22:26.406Z"
+  },
+  {
+    "id": "b8a39ba17adcb039",
+    "title": "Олимпийский чемпион по хоккею из России завершил карьеру",
+    "sport": "Хоккей",
+    "category": "Хоккей",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/1/57/347675214538571.jpeg",
+    "teaser": "Олимпийский чемпион по хоккею из России завершил карьеру",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/695a3b4e9a79473f8655d0ca",
+    "publishedAt": "2026-01-04T15:25:46.000Z",
+    "createdAt": "2026-01-04T17:22:27.505Z",
+    "updatedAt": "2026-01-04T17:22:27.505Z"
+  },
+  {
+    "id": "a882a91ed791a982",
+    "title": "«Трактор» обыграл минское «Динамо» в матче КХЛ с девятью голами",
+    "sport": "Хоккей",
+    "category": "Хоккей",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/6/80/347675345235806.jpeg",
+    "teaser": "«Трактор» обыграл минское «Динамо» в матче КХЛ с девятью голами",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/695a6f049a794718abb71e64",
+    "publishedAt": "2026-01-04T14:15:22.000Z",
+    "createdAt": "2026-01-04T17:22:30.984Z",
+    "updatedAt": "2026-01-04T17:22:30.984Z"
+  },
+  {
+    "id": "ed4119c9030424ce",
+    "title": "Клебо установил рекорд по количеству побед на «Тур де Ски»",
+    "sport": "Другое",
+    "category": "Другие",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/8/73/347675329363738.jpeg",
+    "teaser": "Клебо установил рекорд по количеству побед на «Тур де Ски»",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/695a64ac9a7947d866d01612",
+    "publishedAt": "2026-01-04T14:14:59.000Z",
+    "createdAt": "2026-01-04T17:22:28.644Z",
+    "updatedAt": "2026-01-04T17:22:28.644Z"
+  },
+  {
     "id": "40a6522157fbc094",
     "title": "Клуб КХЛ объявил о назначении нового главного тренера",
     "sport": "Хоккей",
@@ -10,8 +66,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/695a36f99a794783edaa7a9d",
     "publishedAt": "2026-01-04T13:04:30.000Z",
-    "createdAt": "2026-01-04T16:31:14.626Z",
-    "updatedAt": "2026-01-04T16:31:14.626Z"
+    "createdAt": "2026-01-04T17:22:32.146Z",
+    "updatedAt": "2026-01-04T17:22:32.146Z"
   },
   {
     "id": "ba50e2f455b862b5",
@@ -24,8 +80,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/695a515a9a79472cb9c90f56",
     "publishedAt": "2026-01-04T11:55:13.000Z",
-    "createdAt": "2026-01-04T16:31:15.755Z",
-    "updatedAt": "2026-01-04T16:31:15.755Z"
+    "createdAt": "2026-01-04T17:22:33.218Z",
+    "updatedAt": "2026-01-04T17:22:33.218Z"
   },
   {
     "id": "835e905be74d1f3f",
@@ -38,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/695a4e859a794724259c147e",
     "publishedAt": "2026-01-04T11:40:56.000Z",
-    "createdAt": "2026-01-04T16:31:16.898Z",
-    "updatedAt": "2026-01-04T16:31:16.898Z"
+    "createdAt": "2026-01-04T17:22:29.816Z",
+    "updatedAt": "2026-01-04T17:22:29.816Z"
   },
   {
     "id": "403f379f8778d1fc",
@@ -52,8 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/695a3e489a7947738d48fc5b",
     "publishedAt": "2026-01-04T10:27:18.000Z",
-    "createdAt": "2026-01-04T16:31:17.991Z",
-    "updatedAt": "2026-01-04T16:31:17.991Z"
+    "createdAt": "2026-01-04T17:22:34.477Z",
+    "updatedAt": "2026-01-04T17:22:34.477Z"
   },
   {
     "id": "33b73b1cf265c951",
@@ -66,8 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/695a2ea19a79470dbbf2d026",
     "publishedAt": "2026-01-04T09:50:54.000Z",
-    "createdAt": "2026-01-04T16:31:19.099Z",
-    "updatedAt": "2026-01-04T16:31:19.099Z"
+    "createdAt": "2026-01-04T17:22:35.589Z",
+    "updatedAt": "2026-01-04T17:22:35.589Z"
   },
   {
     "id": "3ede07c26391db6f",
@@ -80,63 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/695950059a79476dfa7241fc",
     "publishedAt": "2026-01-03T18:03:59.000Z",
-    "createdAt": "2026-01-04T16:31:20.197Z",
-    "updatedAt": "2026-01-04T16:31:20.197Z"
-  },
-  {
-    "id": "1b56453d6a5d2c4b",
-    "title": "«Северсталь» в третий раз за сезон обыграла аутсайдера КХЛ",
-    "sport": "Хоккей",
-    "category": "Хоккей",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/1/04/347674598462041.jpeg",
-    "teaser": "«Северсталь» в третий раз за сезон обыграла аутсайдера КХЛ",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/695944f29a7947f9e54b8cf5",
-    "publishedAt": "2026-01-03T17:26:04.000Z",
-    "createdAt": "2026-01-04T16:31:21.324Z",
-    "updatedAt": "2026-01-04T16:31:21.324Z"
-  },
-  {
-    "id": "3b3c36589eb8747f",
-    "title": "Умер заслуженный тренер СССР по гребле Юрий Сурков",
-    "sport": "Другое",
-    "category": "Другие",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/2/50/347674526628502.jpeg",
-    "teaser": "Умер заслуженный тренер СССР по гребле Юрий Сурков",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69592d049a79476896db11e1",
-    "publishedAt": "2026-01-03T15:08:22.000Z",
-    "createdAt": "2026-01-04T16:31:22.433Z",
-    "updatedAt": "2026-01-04T16:31:22.433Z"
-  },
-  {
-    "id": "7ef3ecaad4f4a47c",
-    "title": "Умер тренер сборной Болгарии на ЧМ-1994 Димитар Пенев",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/5/21/347674508563215.jpeg",
-    "teaser": "Умер тренер сборной Болгарии на ЧМ-1994 Димитар Пенев",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/695920cc9a7947f66be8036d",
-    "publishedAt": "2026-01-03T14:46:41.000Z",
-    "createdAt": "2026-01-04T16:31:23.562Z",
-    "updatedAt": "2026-01-04T16:31:23.562Z"
-  },
-  {
-    "id": "6b28ff5187df7a98",
-    "title": "Коростелев и Непряева не прошли квалификацию спринта на «Тур де Ски»",
-    "sport": "Другое",
-    "category": "Другие",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/0/64/347674452311640.jpeg",
-    "teaser": "Коростелев и Непряева не прошли квалификацию спринта на «Тур де Ски»",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6959007c9a7947353b82813b",
-    "publishedAt": "2026-01-03T13:48:00.000Z",
-    "createdAt": "2026-01-04T16:31:25.550Z",
-    "updatedAt": "2026-01-04T16:31:25.550Z"
+    "createdAt": "2026-01-04T17:22:36.793Z",
+    "updatedAt": "2026-01-04T17:22:36.793Z"
   }
 ]
