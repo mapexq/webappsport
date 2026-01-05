@@ -20,7 +20,7 @@ export interface Prediction {
   expert: {
     name: string;
     avatar: string;
-    status: 'amateur' | 'expert';
+    status: 'amateur' | 'expert' | 'capper';
     winRate: number;
   };
   prediction: string;

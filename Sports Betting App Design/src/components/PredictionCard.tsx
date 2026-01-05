@@ -9,7 +9,16 @@ interface PredictionCardProps {
 }
 
 export function PredictionCard({ prediction }: PredictionCardProps) {
-  const isExpert = prediction.expert.status === 'expert';
+  const getStatusLabel = () => {
+    switch (prediction.expert.status) {
+      case 'expert':
+        return 'Эксперт';
+      case 'capper':
+        return 'Каппер';
+      default:
+        return 'Любитель';
+    }
+  };
   const [isExpanded, setIsExpanded] = useState(false);
   
   const MAX_LENGTH = 130;
@@ -47,7 +56,7 @@ export function PredictionCard({ prediction }: PredictionCardProps) {
           <div className="text-base text-white mb-1 font-bold">{prediction.expert.name}</div>
           <div className="flex items-center gap-2 text-sm">
             <span className="text-zinc-500 font-bold">
-              {isExpert ? 'Эксперт' : 'Любитель'}
+              {getStatusLabel()}
             </span>
             <span className="text-zinc-600 font-bold">•</span>
             <span className="text-green-400 font-bold">

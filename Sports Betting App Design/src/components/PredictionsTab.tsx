@@ -15,7 +15,7 @@ export interface Prediction {
   expert: {
     name: string;
     avatar: string;
-    status: 'amateur' | 'expert';
+    status: 'amateur' | 'expert' | 'capper';
     winRate: number;
   };
   prediction: string;
@@ -216,7 +216,10 @@ export function PredictionsTab() {
               <div>
                 <div className="text-base text-white mb-1 font-bold text-[16px]">{featuredPrediction.expert.name}</div>
                 <div className="flex items-center gap-2 text-sm">
-                  <span className="text-zinc-500 font-bold text-[14px]">Эксперт</span>
+                  <span className="text-zinc-500 font-bold text-[14px]">
+                    {featuredPrediction.expert.status === 'capper' ? 'Каппер' : 
+                     featuredPrediction.expert.status === 'expert' ? 'Эксперт' : 'Любитель'}
+                  </span>
                   <span className="text-zinc-600 font-bold">•</span>
                   <span className="text-green-400 font-bold text-[15px]">{featuredPrediction.expert.winRate}%</span>
                 </div>

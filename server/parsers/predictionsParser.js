@@ -63,6 +63,7 @@ export class PredictionsParser {
         const prediction = this.findPrediction($card, $);
         const odds = this.findOdds($card, $);
         const avatar = this.findAvatar($card, $);
+        const expertStatus = this.findExpertStatus($card, $);
 
         // Проверяем, что это валидный прогноз
         // Ослабляем валидацию: matchInfo не обязателен, но если есть - проверяем длину
@@ -96,7 +97,8 @@ export class PredictionsParser {
               matchInfo: finalMatchInfo,
               prediction,
               odds,
-              avatar
+              avatar,
+              expertStatus
             });
           }
         }
@@ -125,6 +127,7 @@ export class PredictionsParser {
           const prediction = this.findPrediction($card, $);
           const odds = this.findOdds($card, $);
           const avatar = this.findAvatar($card, $);
+          const expertStatus = this.findExpertStatus($card, $);
 
           // Проверяем, что это валидный прогноз (не экспресс, есть название матча)
           // Ослабляем валидацию: matchInfo не обязателен, но если есть - проверяем длину
@@ -158,7 +161,8 @@ export class PredictionsParser {
                 matchInfo: finalMatchInfo,
                 prediction,
                 odds,
-                avatar
+                avatar,
+                expertStatus
               });
             }
           }
@@ -217,6 +221,7 @@ export class PredictionsParser {
           const comment = this.findComment($card, $);
           const matchInfo = this.findMatchInfo($card, $);
           const avatar = this.findAvatar($card, $);
+          const expertStatus = this.findExpertStatus($card, $);
           
           // Если matchInfo отсутствует, пытаемся извлечь из title
           let finalMatchInfo = matchInfo;
@@ -238,7 +243,8 @@ export class PredictionsParser {
             matchInfo: finalMatchInfo,
             prediction,
             odds,
-            avatar
+            avatar,
+            expertStatus
           });
         });
       }
@@ -801,6 +807,44 @@ export class PredictionsParser {
     return 'https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=100&h=100&fit=crop';
   }
 
+  /**
+   * Определяет статус эксперта (эксперт или каппер)
+   */
+  findExpertStatus($card, $) {
+    const cardText = $card.text();
+    
+    // Ищем текст "Каппер" или "каппер" в карточке
+    if (cardText.includes('Каппер') || cardText.includes('каппер') || 
+        cardText.includes('Capper') || cardText.includes('capper')) {
+      return 'capper';
+    }
+    
+    // Ищем текст "Эксперт" или "эксперт"
+    if (cardText.includes('Эксперт') || cardText.includes('эксперт') ||
+        cardText.includes('Expert') || cardText.includes('expert')) {
+      return 'expert';
+    }
+    
+    // Ищем в элементах рядом с именем эксперта
+    const $authorLink = $card.find('a[href*="/author/"]');
+    if ($authorLink.length > 0) {
+      let $container = $authorLink.closest('div');
+      for (let i = 0; i < 3; i++) {
+        const containerText = $container.text();
+        if (containerText.includes('Каппер') || containerText.includes('каппер')) {
+          return 'capper';
+        }
+        if (containerText.includes('Эксперт') || containerText.includes('эксперт')) {
+          return 'expert';
+        }
+        $container = $container.parent();
+      }
+    }
+    
+    // По умолчанию возвращаем 'expert' (для обратной совместимости)
+    return 'expert';
+  }
+
   findAvatar($card, $) {
     // Метод 1: Ищем аватар рядом с именем эксперта (в контейнере со ссылкой на автора)
     const $authorLink = $card.find('a[href*="/author/"]');
@@ -968,7 +1012,7 @@ export class PredictionsParser {
         expert: {
           name: pred.expertName || 'Эксперт',
           avatar: pred.avatar || 'https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=100&h=100&fit=crop',
-          status: 'expert',
+          status: pred.expertStatus || 'expert',
           winRate: this.getWinRateForExpert(pred.expertName || 'Эксперт')
         },
         prediction: pred.prediction || 'Прогноз',
