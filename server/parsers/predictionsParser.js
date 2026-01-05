@@ -811,33 +811,122 @@ export class PredictionsParser {
    * Определяет статус эксперта (эксперт или каппер)
    */
   findExpertStatus($card, $) {
-    const cardText = $card.text();
-    
-    // Ищем текст "Каппер" или "каппер" в карточке
-    if (cardText.includes('Каппер') || cardText.includes('каппер') || 
-        cardText.includes('Capper') || cardText.includes('capper')) {
-      return 'capper';
+    // Временно добавляем логирование для отладки
+    const debugExpertName = this.findExpertName($card, $);
+    if (debugExpertName) {
+      // Ищем все элементы, содержащие имя эксперта и статус
+      const $nameContainer = $card.find('*').filter((i, el) => {
+        return $(el).text().includes(debugExpertName);
+      }).first();
+      
+      if ($nameContainer.length > 0) {
+        const containerHtml = $nameContainer.html() || '';
+        const containerText = $nameContainer.text();
+        
+        // Логируем для первых нескольких карточек
+        if (debugExpertName && (debugExpertName.includes('Ткабладзе') || debugExpertName.includes('Леоненко') || debugExpertName.includes('Тимофеев'))) {
+          console.log(`\n[DEBUG] Эксперт: ${debugExpertName}`);
+          console.log(`[DEBUG] HTML контейнера (первые 500 символов):`, containerHtml.substring(0, 500));
+          console.log(`[DEBUG] Текст контейнера (первые 300 символов):`, containerText.substring(0, 300));
+        }
+      }
+    }
+    // Метод 1: Ищем статус рядом с именем эксперта (в контейнере с автором)
+    const $authorLink = $card.find('a[href*="/author/"]');
+    if ($authorLink.length > 0) {
+      // Ищем в родительских контейнерах автора
+      let $container = $authorLink.closest('div');
+      for (let i = 0; i < 5; i++) {
+        const containerText = $container.text();
+        
+        // Ищем статус "Каппер" (приоритет выше, так как он более специфичен)
+        if (containerText.match(/\bКаппер\b/i) || containerText.match(/\bкаппер\b/i)) {
+          return 'capper';
+        }
+        
+        // Ищем статус "Эксперт"
+        if (containerText.match(/\bЭксперт\b/i) || containerText.match(/\bэксперт\b/i)) {
+          return 'expert';
+        }
+        
+        // Ищем в дочерних элементах контейнера
+        const $statusElements = $container.find('span, div, p, label').filter((i, el) => {
+          const text = $(el).text().trim();
+          return text === 'Каппер' || text === 'каппер' || 
+                 text === 'Эксперт' || text === 'эксперт' ||
+                 text === 'Capper' || text === 'capper' ||
+                 text === 'Expert' || text === 'expert';
+        });
+        
+        if ($statusElements.length > 0) {
+          const statusText = $($statusElements[0]).text().trim().toLowerCase();
+          if (statusText.includes('каппер') || statusText.includes('capper')) {
+            return 'capper';
+          }
+          if (statusText.includes('эксперт') || statusText.includes('expert')) {
+            return 'expert';
+          }
+        }
+        
+        $container = $container.parent();
+      }
     }
     
-    // Ищем текст "Эксперт" или "эксперт"
-    if (cardText.includes('Эксперт') || cardText.includes('эксперт') ||
-        cardText.includes('Expert') || cardText.includes('expert')) {
+    // Метод 2: Ищем статус в элементах с классом или атрибутом, указывающим на статус
+    const $statusBadges = $card.find('[class*="status"], [class*="badge"], [class*="role"], [class*="type"]');
+    for (let i = 0; i < $statusBadges.length; i++) {
+      const $badge = $($statusBadges[i]);
+      const badgeText = $badge.text().trim().toLowerCase();
+      
+      if (badgeText.includes('каппер') || badgeText.includes('capper')) {
+        return 'capper';
+      }
+      if (badgeText.includes('эксперт') || badgeText.includes('expert')) {
+        return 'expert';
+      }
+    }
+    
+    // Метод 3: Ищем текст "Каппер" или "Эксперт" в карточке (более точный поиск)
+    const cardText = $card.text();
+    
+    // Используем регулярные выражения для более точного поиска
+    const capperMatch = cardText.match(/\b(Каппер|каппер|Capper|capper)\b/i);
+    const expertMatch = cardText.match(/\b(Эксперт|эксперт|Expert|expert)\b/i);
+    
+    // Приоритет капперу, так как он более специфичен
+    if (capperMatch) {
+      return 'capper';
+    }
+    if (expertMatch) {
       return 'expert';
     }
     
-    // Ищем в элементах рядом с именем эксперта
-    const $authorLink = $card.find('a[href*="/author/"]');
-    if ($authorLink.length > 0) {
-      let $container = $authorLink.closest('div');
-      for (let i = 0; i < 3; i++) {
-        const containerText = $container.text();
-        if (containerText.includes('Каппер') || containerText.includes('каппер')) {
-          return 'capper';
+    // Метод 4: Ищем в тексте рядом с именем эксперта (в пределах небольшого контекста)
+    const expertName = this.findExpertName($card, $);
+    if (expertName) {
+      // Ищем элементы, содержащие имя эксперта
+      const $nameElements = $card.find('*').filter((i, el) => {
+        return $(el).text().includes(expertName);
+      });
+      
+      for (let i = 0; i < $nameElements.length && i < 3; i++) {
+        const $nameEl = $($nameElements[i]);
+        const nameContext = $nameEl.text();
+        
+        // Ищем статус в контексте имени (в пределах 200 символов)
+        const nameIndex = nameContext.indexOf(expertName);
+        if (nameIndex >= 0) {
+          const contextBefore = nameContext.substring(Math.max(0, nameIndex - 100), nameIndex);
+          const contextAfter = nameContext.substring(nameIndex + expertName.length, nameIndex + expertName.length + 100);
+          const fullContext = contextBefore + contextAfter;
+          
+          if (fullContext.match(/\b(Каппер|каппер)\b/i)) {
+            return 'capper';
+          }
+          if (fullContext.match(/\b(Эксперт|эксперт)\b/i)) {
+            return 'expert';
+          }
         }
-        if (containerText.includes('Эксперт') || containerText.includes('эксперт')) {
-          return 'expert';
-        }
-        $container = $container.parent();
       }
     }
     
