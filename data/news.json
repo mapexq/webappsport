@@ -1,5 +1,61 @@
 [
   {
+    "id": "588d178297d5e41c",
+    "title": "Калинская вышла во второй круг турнира в Брисбене, где сыграет с Пегулой",
+    "sport": "Теннис",
+    "category": "Теннис",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/3/92/347676046711923.png",
+    "teaser": "Калинская вышла во второй круг турнира в Брисбене, где сыграет с Пегулой",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/695b81aa9a79470366dcd7f0",
+    "publishedAt": "2026-01-05T09:34:26.000Z",
+    "createdAt": "2026-01-05T09:38:40.175Z",
+    "updatedAt": "2026-01-05T09:38:40.175Z"
+  },
+  {
+    "id": "23bab6dfd529f4ca",
+    "title": "Кто из звезд мирового спорта ушел из жизни в 2025 году",
+    "sport": "Другое",
+    "category": "Другие",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/0/38/347665664025380.jpeg",
+    "teaser": "Кто из звезд мирового спорта ушел из жизни в 2025 году",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/694ba8009a7947673ff9603a",
+    "publishedAt": "2026-01-05T08:54:56.000Z",
+    "createdAt": "2026-01-05T09:38:41.444Z",
+    "updatedAt": "2026-01-05T09:38:41.444Z"
+  },
+  {
+    "id": "f488b8c1bb096149",
+    "title": "Стал известен новый клуб одного из главных ассистентов в карьере Овечкина",
+    "sport": "Хоккей",
+    "category": "Хоккей",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/2/35/347346014321352.png",
+    "teaser": "Стал известен новый клуб одного из главных ассистентов в карьере Овечкина",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/695b70969a7947c274ca021d",
+    "publishedAt": "2026-01-05T08:24:01.000Z",
+    "createdAt": "2026-01-05T09:38:43.317Z",
+    "updatedAt": "2026-01-05T09:38:43.317Z"
+  },
+  {
+    "id": "78d8226902af3081",
+    "title": "Стали известны финалисты молодежного чемпионата мира по хоккею",
+    "sport": "Хоккей",
+    "category": "Хоккей",
+    "imageUrl": "/images/news-placeholder.jpg",
+    "teaser": "Стали известны финалисты молодежного чемпионата мира по хоккею",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/695b6bd29a7947248ac3a6f7",
+    "publishedAt": "2026-01-05T08:12:07.000Z",
+    "createdAt": "2026-01-05T09:38:44.989Z",
+    "updatedAt": "2026-01-05T09:38:44.989Z"
+  },
+  {
     "id": "81351e5ee97f14ef",
     "title": "Непряева заняла десятое место в общем зачете «Тур де Ски»",
     "sport": "Другое",
@@ -10,8 +66,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/695a8d769a7947286218772a",
     "publishedAt": "2026-01-04T16:20:33.000Z",
-    "createdAt": "2026-01-05T08:41:03.723Z",
-    "updatedAt": "2026-01-05T08:41:03.723Z"
+    "createdAt": "2026-01-05T09:38:46.080Z",
+    "updatedAt": "2026-01-05T09:38:46.080Z"
   },
   {
     "id": "b8a39ba17adcb039",
@@ -24,8 +80,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/695a3b4e9a79473f8655d0ca",
     "publishedAt": "2026-01-04T15:25:46.000Z",
-    "createdAt": "2026-01-05T08:41:04.715Z",
-    "updatedAt": "2026-01-05T08:41:04.715Z"
+    "createdAt": "2026-01-05T09:38:47.152Z",
+    "updatedAt": "2026-01-05T09:38:47.152Z"
   },
   {
     "id": "a882a91ed791a982",
@@ -38,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/695a6f049a794718abb71e64",
     "publishedAt": "2026-01-04T14:15:22.000Z",
-    "createdAt": "2026-01-05T08:41:07.910Z",
-    "updatedAt": "2026-01-05T08:41:07.910Z"
+    "createdAt": "2026-01-05T09:38:50.420Z",
+    "updatedAt": "2026-01-05T09:38:50.420Z"
   },
   {
     "id": "ed4119c9030424ce",
@@ -52,8 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/695a64ac9a7947d866d01612",
     "publishedAt": "2026-01-04T14:14:59.000Z",
-    "createdAt": "2026-01-05T08:41:05.797Z",
-    "updatedAt": "2026-01-05T08:41:05.797Z"
+    "createdAt": "2026-01-05T09:38:48.262Z",
+    "updatedAt": "2026-01-05T09:38:48.262Z"
   },
   {
     "id": "40a6522157fbc094",
@@ -66,22 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/695a36f99a794783edaa7a9d",
     "publishedAt": "2026-01-04T13:04:30.000Z",
-    "createdAt": "2026-01-05T08:41:08.936Z",
-    "updatedAt": "2026-01-05T08:41:08.936Z"
-  },
-  {
-    "id": "ba50e2f455b862b5",
-    "title": "Команда Степановой выиграла лыжно-биатлонную «Гонку чемпионов»",
-    "sport": "Другое",
-    "category": "Биатлон",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/4/66/347675272004664.jpeg",
-    "teaser": "Команда Степановой выиграла лыжно-биатлонную «Гонку чемпионов»",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/695a515a9a79472cb9c90f56",
-    "publishedAt": "2026-01-04T11:55:13.000Z",
-    "createdAt": "2026-01-05T08:41:10.006Z",
-    "updatedAt": "2026-01-05T08:41:10.007Z"
+    "createdAt": "2026-01-05T09:38:51.518Z",
+    "updatedAt": "2026-01-05T09:38:51.518Z"
   },
   {
     "id": "835e905be74d1f3f",
@@ -94,49 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/695a4e859a794724259c147e",
     "publishedAt": "2026-01-04T11:40:56.000Z",
-    "createdAt": "2026-01-05T08:41:06.870Z",
-    "updatedAt": "2026-01-05T08:41:06.870Z"
-  },
-  {
-    "id": "403f379f8778d1fc",
-    "title": "Кучерова признали второй звездой дня в НХЛ",
-    "sport": "Хоккей",
-    "category": "Хоккей",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/7/02/347675220033027.jpeg",
-    "teaser": "Кучерова признали второй звездой дня в НХЛ",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/695a3e489a7947738d48fc5b",
-    "publishedAt": "2026-01-04T10:27:18.000Z",
-    "createdAt": "2026-01-05T08:41:11.086Z",
-    "updatedAt": "2026-01-05T08:41:11.086Z"
-  },
-  {
-    "id": "33b73b1cf265c951",
-    "title": "Овечкин получил удар клюшкой в лицо и потерял зуб во время матча НХЛ",
-    "sport": "Хоккей",
-    "category": "Хоккей",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/7/68/347675188148687.jpeg",
-    "teaser": "Овечкин получил удар клюшкой в лицо и потерял зуб во время матча НХЛ",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/695a2ea19a79470dbbf2d026",
-    "publishedAt": "2026-01-04T09:50:54.000Z",
-    "createdAt": "2026-01-05T08:41:12.174Z",
-    "updatedAt": "2026-01-05T08:41:12.174Z"
-  },
-  {
-    "id": "3ede07c26391db6f",
-    "title": "Тренер «Металлурга» объяснил, почему Кузнецову не нашлось места в команде",
-    "sport": "Хоккей",
-    "category": "Хоккей",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/2/84/347674621367842.jpeg",
-    "teaser": "Тренер «Металлурга» объяснил, почему Кузнецову не нашлось места в команде",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/695950059a79476dfa7241fc",
-    "publishedAt": "2026-01-03T18:03:59.000Z",
-    "createdAt": "2026-01-05T08:41:13.307Z",
-    "updatedAt": "2026-01-05T08:41:13.307Z"
+    "createdAt": "2026-01-05T09:38:49.366Z",
+    "updatedAt": "2026-01-05T09:38:49.366Z"
   }
 ]
