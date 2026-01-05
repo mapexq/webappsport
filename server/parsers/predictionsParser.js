@@ -27,6 +27,11 @@ export class PredictionsParser {
       const $ = cheerio.load(response.data);
       const predictions = [];
 
+      console.log('Начинаем парсинг прогнозов...');
+      const timeElementsCount = $('time').length;
+      const linkElementsCount = $('a[href*="/tips/event-"]').length;
+      console.log(`Найдено элементов: time=${timeElementsCount}, links=${linkElementsCount}`);
+
       // Метод 1: Ищем через time элементы (время публикации)
       // Пропускаем экспрессы - ищем только ординары
       $('time').each((index, element) => {
@@ -60,12 +65,27 @@ export class PredictionsParser {
         const avatar = this.findAvatar($card, $);
 
         // Проверяем, что это валидный прогноз
-        if (expertName && prediction && odds && matchInfo?.teams && matchInfo.teams.length > 5) {
+        // Ослабляем валидацию: matchInfo не обязателен, но если есть - проверяем длину
+        const hasValidMatchInfo = !matchInfo || (matchInfo.teams && matchInfo.teams.length > 5);
+        if (expertName && prediction && odds && hasValidMatchInfo) {
+          // Если matchInfo отсутствует, пытаемся извлечь из title
+          let finalMatchInfo = matchInfo;
+          if (!finalMatchInfo && title) {
+            const matchFromTitle = title.split(':')[0].trim();
+            if (matchFromTitle.includes(' — ') || matchFromTitle.includes(' - ')) {
+              finalMatchInfo = {
+                teams: matchFromTitle.replace(' - ', ' — '),
+                time: '',
+                league: ''
+              };
+            }
+          }
+          
           const isDuplicate = predictions.some(p => 
             p.expertName === expertName && 
             p.prediction === prediction && 
             Math.abs(p.odds - odds) < 0.01 &&
-            p.matchInfo?.teams === matchInfo.teams
+            (p.matchInfo?.teams === finalMatchInfo?.teams || (!p.matchInfo?.teams && !finalMatchInfo?.teams))
           );
           
           if (!isDuplicate) {
@@ -73,7 +93,7 @@ export class PredictionsParser {
               expertName,
               title,
               comment,
-              matchInfo,
+              matchInfo: finalMatchInfo,
               prediction,
               odds,
               avatar
@@ -81,6 +101,8 @@ export class PredictionsParser {
           }
         }
       });
+
+      console.log(`После метода 1 (time элементы): найдено ${predictions.length} прогнозов`);
 
       // Метод 2: Если не нашли достаточно, ищем через ссылки на матчи
       if (predictions.length < this.maxPredictions) {
@@ -105,12 +127,27 @@ export class PredictionsParser {
           const avatar = this.findAvatar($card, $);
 
           // Проверяем, что это валидный прогноз (не экспресс, есть название матча)
-          if (expertName && prediction && odds && matchInfo?.teams && matchInfo.teams.length > 5) {
+          // Ослабляем валидацию: matchInfo не обязателен, но если есть - проверяем длину
+          const hasValidMatchInfo = !matchInfo || (matchInfo.teams && matchInfo.teams.length > 5);
+          if (expertName && prediction && odds && hasValidMatchInfo) {
+            // Если matchInfo отсутствует, пытаемся извлечь из title
+            let finalMatchInfo = matchInfo;
+            if (!finalMatchInfo && title) {
+              const matchFromTitle = title.split(':')[0].trim();
+              if (matchFromTitle.includes(' — ') || matchFromTitle.includes(' - ')) {
+                finalMatchInfo = {
+                  teams: matchFromTitle.replace(' - ', ' — '),
+                  time: '',
+                  league: ''
+                };
+              }
+            }
+            
             const isDuplicate = predictions.some(p => 
               p.expertName === expertName && 
               p.prediction === prediction && 
               Math.abs(p.odds - odds) < 0.01 &&
-              p.matchInfo?.teams === matchInfo.teams
+              (p.matchInfo?.teams === finalMatchInfo?.teams || (!p.matchInfo?.teams && !finalMatchInfo?.teams))
             );
             
             if (!isDuplicate) {
@@ -118,7 +155,7 @@ export class PredictionsParser {
                 expertName,
                 title,
                 comment,
-                matchInfo,
+                matchInfo: finalMatchInfo,
                 prediction,
                 odds,
                 avatar
@@ -127,6 +164,86 @@ export class PredictionsParser {
           }
         });
       }
+
+      console.log(`После метода 2 (ссылки на матчи): найдено ${predictions.length} прогнозов`);
+
+      // Метод 3: Если все еще не нашли достаточно, ищем через карточки с прогнозами
+      // Ищем элементы, содержащие текст "прогноз" и "ставка" вместе
+      if (predictions.length < this.maxPredictions) {
+        $('div, article, section').each((index, element) => {
+          if (predictions.length >= this.maxPredictions) return false;
+          
+          const $card = $(element);
+          const cardText = $card.text();
+          
+          // Пропускаем экспрессы и слишком большие/маленькие контейнеры
+          if (cardText.includes('Экспресс') || cardText.includes('экспресс') || 
+              cardText.length > 3000 || cardText.length < 100) {
+            return;
+          }
+          
+          // Проверяем, что это карточка прогноза
+          if (!cardText.includes('прогноз') || !cardText.includes('ставка')) {
+            return;
+          }
+          
+          // Проверяем, что это не дубликат уже найденной карточки
+          const expertName = this.findExpertName($card, $);
+          const prediction = this.findPrediction($card, $);
+          const odds = this.findOdds($card, $);
+          
+          if (!expertName || !prediction || !odds) {
+            return;
+          }
+          
+          // Проверяем, что имя эксперта не содержит несколько имен (слишком длинное или содержит несколько заглавных букв подряд)
+          if (expertName.length > 50 || /[А-ЯЁ][а-яё]+[А-ЯЁ][а-яё]+[А-ЯЁ]/.test(expertName)) {
+            return;
+          }
+          
+          // Проверяем, что это не дубликат
+          const isDuplicate = predictions.some(p => 
+            p.expertName === expertName && 
+            p.prediction === prediction && 
+            Math.abs(p.odds - odds) < 0.01
+          );
+          
+          if (isDuplicate) {
+            return;
+          }
+          
+          // Извлекаем остальные данные
+          const title = this.findTitle($card, $);
+          const comment = this.findComment($card, $);
+          const matchInfo = this.findMatchInfo($card, $);
+          const avatar = this.findAvatar($card, $);
+          
+          // Если matchInfo отсутствует, пытаемся извлечь из title
+          let finalMatchInfo = matchInfo;
+          if (!finalMatchInfo && title) {
+            const matchFromTitle = title.split(':')[0].trim();
+            if (matchFromTitle.includes(' — ') || matchFromTitle.includes(' - ')) {
+              finalMatchInfo = {
+                teams: matchFromTitle.replace(' - ', ' — '),
+                time: '',
+                league: ''
+              };
+            }
+          }
+          
+          predictions.push({
+            expertName,
+            title,
+            comment,
+            matchInfo: finalMatchInfo,
+            prediction,
+            odds,
+            avatar
+          });
+        });
+      }
+
+      console.log(`После метода 3 (карточки с прогнозами): найдено ${predictions.length} прогнозов`);
 
       // Возвращаем первые 10 прогнозов в порядке появления на странице
       // Первый прогноз на странице = первый в массиве (для "Прогноз дня")
@@ -440,8 +557,36 @@ export class PredictionsParser {
       }
     }
     
-    // Если заголовок не найден, возвращаем null
-    // Название матча парсится ТОЛЬКО из черного жирного текста (заголовка)
+    // Метод 2: Если заголовок не найден, ищем название матча в тексте карточки
+    const cardText = $card.text();
+    // Ищем паттерн "Команда1 — Команда2" или "Команда1 - Команда2"
+    const matchPattern = cardText.match(/([А-ЯЁA-Z][А-ЯЁа-яёA-Za-z\s-]+?)\s*[—\-]\s*([А-ЯЁA-Z][А-ЯЁа-яёA-Za-z\s-]+?)(?:\s*:|$)/);
+    if (matchPattern && matchPattern[1] && matchPattern[2]) {
+      const teams = `${matchPattern[1].trim()} — ${matchPattern[2].trim()}`;
+      
+      // Извлекаем лигу из ссылки, если есть
+      const $matchLink = $card.find('a[href*="/tips/event-"]');
+      const href = $matchLink.attr('href') || '';
+      let league = '';
+      
+      if (href.includes('hockey')) {
+        league = 'НХЛ';
+      } else if (href.includes('basketball') || href.includes('basketbol')) {
+        league = 'НБА';
+      } else if (href.includes('football') || href.includes('futbol')) {
+        if (href.includes('la-liga')) league = 'Ла Лига';
+        else if (href.includes('premier-league') || href.includes('english')) league = 'АПЛ';
+        else league = 'Чемпионат';
+      }
+      
+      return {
+        teams: teams,
+        time: '',
+        league: league || ''
+      };
+    }
+    
+    // Если ничего не найдено, возвращаем null
     return null;
   }
 
