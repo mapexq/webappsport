@@ -1,5 +1,33 @@
 [
   {
+    "id": "9f5183f33fe99d9d",
+    "title": "В FIS ответили на вопрос о возможном отстранении лыжников из США",
+    "sport": "Другое",
+    "category": "Другие",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/5/19/347677125010195.jpeg",
+    "teaser": "В FIS ответили на вопрос о возможном отстранении лыжников из США",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/695d26bf9a7947ceadc176be",
+    "publishedAt": "2026-01-06T15:26:59.000Z",
+    "createdAt": "2026-01-06T15:29:46.635Z",
+    "updatedAt": "2026-01-06T15:29:46.635Z"
+  },
+  {
+    "id": "d711da1c29b4a572",
+    "title": "Шипачев первым в истории КХЛ сыграл 1100 матчей",
+    "sport": "Хоккей",
+    "category": "Хоккей",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/0/40/347677100078400.jpeg",
+    "teaser": "Шипачев первым в истории КХЛ сыграл 1100 матчей",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/695d1d0a9a794760597a8d5a",
+    "publishedAt": "2026-01-06T14:37:07.000Z",
+    "createdAt": "2026-01-06T15:29:48.847Z",
+    "updatedAt": "2026-01-06T15:29:48.847Z"
+  },
+  {
     "id": "4ad6faf89283df0c",
     "title": "Матч лидеров КХЛ завершился победой «Металлурга» в овертайме",
     "sport": "Хоккей",
@@ -10,8 +38,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/695d108c9a7947426bcb9dd3",
     "publishedAt": "2026-01-06T14:27:09.000Z",
-    "createdAt": "2026-01-06T14:28:47.235Z",
-    "updatedAt": "2026-01-06T14:28:47.235Z"
+    "createdAt": "2026-01-06T15:29:51.192Z",
+    "updatedAt": "2026-01-06T15:29:51.192Z"
   },
   {
     "id": "728fdcab1c397a29",
@@ -24,8 +52,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/695d16ff9a794763a5459e27",
     "publishedAt": "2026-01-06T14:17:18.000Z",
-    "createdAt": "2026-01-06T14:28:46.272Z",
-    "updatedAt": "2026-01-06T14:28:46.272Z"
+    "createdAt": "2026-01-06T15:29:47.710Z",
+    "updatedAt": "2026-01-06T15:29:47.710Z"
   },
   {
     "id": "88a004e0d9c57b6f",
@@ -38,8 +66,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/695d02da9a7947b0c413638a",
     "publishedAt": "2026-01-06T13:32:29.000Z",
-    "createdAt": "2026-01-06T14:28:48.317Z",
-    "updatedAt": "2026-01-06T14:28:48.317Z"
+    "createdAt": "2026-01-06T15:29:52.302Z",
+    "updatedAt": "2026-01-06T15:29:52.302Z"
   },
   {
     "id": "e6117fe66889d7c6",
@@ -52,8 +80,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/695cfa2d9a7947056768c156",
     "publishedAt": "2026-01-06T12:33:45.000Z",
-    "createdAt": "2026-01-06T14:28:51.223Z",
-    "updatedAt": "2026-01-06T14:28:51.223Z"
+    "createdAt": "2026-01-06T15:29:54.435Z",
+    "updatedAt": "2026-01-06T15:29:54.435Z"
   },
   {
     "id": "335ef1aac0c832d1",
@@ -66,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/695cfa779a7947080644ed51",
     "publishedAt": "2026-01-06T12:18:14.000Z",
-    "createdAt": "2026-01-06T14:28:50.191Z",
-    "updatedAt": "2026-01-06T14:28:50.191Z"
+    "createdAt": "2026-01-06T15:29:53.317Z",
+    "updatedAt": "2026-01-06T15:29:53.317Z"
   },
   {
     "id": "ecfb2736744f54d7",
@@ -80,8 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/695cef169a794736334061d0",
     "publishedAt": "2026-01-06T11:50:10.000Z",
-    "createdAt": "2026-01-06T14:28:52.191Z",
-    "updatedAt": "2026-01-06T14:28:52.191Z"
+    "createdAt": "2026-01-06T15:29:55.633Z",
+    "updatedAt": "2026-01-06T15:29:55.633Z"
   },
   {
     "id": "e551933ec8b8dc67",
@@ -94,36 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/695ce8309a79475a2831b259",
     "publishedAt": "2026-01-06T11:02:28.000Z",
-    "createdAt": "2026-01-06T14:28:53.373Z",
-    "updatedAt": "2026-01-06T14:28:53.373Z"
-  },
-  {
-    "id": "eaffc2d30a03b5db",
-    "title": "Хоккейный «Спартак» сменил главного тренера в молодежной команде",
-    "sport": "Хоккей",
-    "category": "Хоккей",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/9/35/347676955345359.jpeg",
-    "teaser": "Хоккейный «Спартак» сменил главного тренера в молодежной команде",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/695cde949a794708929d0a56",
-    "publishedAt": "2026-01-06T10:41:53.000Z",
-    "createdAt": "2026-01-06T14:28:55.229Z",
-    "updatedAt": "2026-01-06T14:28:55.229Z"
-  },
-  {
-    "id": "f451ce3367a088cc",
-    "title": "«Челси» назначил нового главного тренера",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/0/77/347676900782770.jpeg",
-    "teaser": "«Челси» назначил нового главного тренера",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/695ccf3c9a79477bfbe8fe58",
-    "publishedAt": "2026-01-06T10:23:10.000Z",
-    "createdAt": "2026-01-06T14:28:54.301Z",
-    "updatedAt": "2026-01-06T14:28:54.301Z"
+    "createdAt": "2026-01-06T15:29:56.768Z",
+    "updatedAt": "2026-01-06T15:29:56.768Z"
   },
   {
     "id": "db39927f4d8a8d64",
@@ -136,7 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/694e6a419a7947fd13e7a656",
     "publishedAt": "2026-01-06T03:00:09.000Z",
-    "createdAt": "2026-01-06T14:28:49.372Z",
-    "updatedAt": "2026-01-06T14:28:49.372Z"
+    "createdAt": "2026-01-06T15:29:50.027Z",
+    "updatedAt": "2026-01-06T15:29:50.027Z"
   }
 ]
