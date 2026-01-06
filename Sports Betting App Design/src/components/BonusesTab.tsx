@@ -108,7 +108,7 @@ const bookmakers: Bookmaker[] = [
     bonusAmount: 25000,
     features: ['Высокие коэффициенты', 'Широкая линия событий', 'Профессиональная поддержка'],
     license: 'Лицензия ФНС России',
-    url: 'https://trk.ppdu.ru/click?uid=251529&oid=b0df2a98-7fcf-4c60-9bf4-d0b778fd17d3&erid=2SDnjcvZvQm',
+    url: 'https://trk.ppdu.ru/click/mR8zseZl?erid=2SDnjcvZvQm',
   },
   {
     id: 8,
