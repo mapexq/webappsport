@@ -1,5 +1,47 @@
 [
   {
+    "id": "f451ce3367a088cc",
+    "title": "«Челси» назначил нового главного тренера",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/0/77/347676900782770.jpeg",
+    "teaser": "«Челси» назначил нового главного тренера",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/695ccf3c9a79477bfbe8fe58",
+    "publishedAt": "2026-01-06T10:23:10.000Z",
+    "createdAt": "2026-01-06T10:30:10.196Z",
+    "updatedAt": "2026-01-06T10:30:10.196Z"
+  },
+  {
+    "id": "0ac8c0b726797c45",
+    "title": "Двое россиян вошли в список фаворитов на приз лучшему новичку сезона НХЛ",
+    "sport": "Хоккей",
+    "category": "Хоккей",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/7/78/347676934483787.jpeg",
+    "teaser": "Двое россиян вошли в список фаворитов на приз лучшему новичку сезона НХЛ",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/695cd6899a794742b3ddb0b4",
+    "publishedAt": "2026-01-06T09:57:59.000Z",
+    "createdAt": "2026-01-06T10:30:12.195Z",
+    "updatedAt": "2026-01-06T10:30:12.195Z"
+  },
+  {
+    "id": "d709f6bb74fba007",
+    "title": "Бывший тренер ЦСКА Виктор Гончаренко возглавил сборную Белоруссии",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/5/61/347676922864615.jpeg",
+    "teaser": "Бывший тренер ЦСКА Виктор Гончаренко возглавил сборную Белоруссии",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/695cd7d89a79475442efd7b9",
+    "publishedAt": "2026-01-06T09:43:26.000Z",
+    "createdAt": "2026-01-06T10:30:11.253Z",
+    "updatedAt": "2026-01-06T10:30:11.253Z"
+  },
+  {
     "id": "4b9325220a2ae2b7",
     "title": "«Рубин» продал азербайджанскому «Сабаху» футболиста сборной Узбекистана",
     "sport": "Футбол",
@@ -10,8 +52,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/695cd2149a79471dd4d5e331",
     "publishedAt": "2026-01-06T09:23:48.000Z",
-    "createdAt": "2026-01-06T09:32:45.604Z",
-    "updatedAt": "2026-01-06T09:32:45.604Z"
+    "createdAt": "2026-01-06T10:30:14.255Z",
+    "updatedAt": "2026-01-06T10:30:14.255Z"
   },
   {
     "id": "e825c86f97dd9700",
@@ -24,8 +66,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/695cc1339a79472bea077e7e",
     "publishedAt": "2026-01-06T08:33:28.000Z",
-    "createdAt": "2026-01-06T09:32:46.659Z",
-    "updatedAt": "2026-01-06T09:32:46.659Z"
+    "createdAt": "2026-01-06T10:30:15.305Z",
+    "updatedAt": "2026-01-06T10:30:15.305Z"
   },
   {
     "id": "890e945fa35f69fe",
@@ -38,8 +80,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/695cc4609a79476fdcf3dea5",
     "publishedAt": "2026-01-06T08:24:17.000Z",
-    "createdAt": "2026-01-06T09:32:49.795Z",
-    "updatedAt": "2026-01-06T09:32:49.795Z"
+    "createdAt": "2026-01-06T10:30:17.787Z",
+    "updatedAt": "2026-01-06T10:30:17.787Z"
   },
   {
     "id": "ea04edafbee0278c",
@@ -52,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/695cbc259a7947b31e556ebb",
     "publishedAt": "2026-01-06T07:50:32.000Z",
-    "createdAt": "2026-01-06T09:32:47.706Z",
-    "updatedAt": "2026-01-06T09:32:47.706Z"
+    "createdAt": "2026-01-06T10:30:16.353Z",
+    "updatedAt": "2026-01-06T10:30:16.353Z"
   },
   {
     "id": "35ef3eb42f73515b",
@@ -66,8 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/695cb9ae9a7947be73754484",
     "publishedAt": "2026-01-06T07:35:55.000Z",
-    "createdAt": "2026-01-06T09:32:51.871Z",
-    "updatedAt": "2026-01-06T09:32:51.871Z"
+    "createdAt": "2026-01-06T10:30:19.927Z",
+    "updatedAt": "2026-01-06T10:30:19.927Z"
   },
   {
     "id": "a37fa41b1bd6c986",
@@ -80,36 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/695cb4279a794757e9a8d18a",
     "publishedAt": "2026-01-06T07:16:18.000Z",
-    "createdAt": "2026-01-06T09:32:50.831Z",
-    "updatedAt": "2026-01-06T09:32:50.831Z"
-  },
-  {
-    "id": "79232ee7352464b2",
-    "title": "Сборная Швеции впервые за 14 лет выиграла молодежный ЧМ по хоккею",
-    "sport": "Хоккей",
-    "category": "Хоккей",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/5/18/347676396700185.png",
-    "teaser": "Сборная Швеции впервые за 14 лет выиграла молодежный ЧМ по хоккею",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/695c09589a79477df1fa5f60",
-    "publishedAt": "2026-01-06T04:16:47.000Z",
-    "createdAt": "2026-01-06T09:32:52.908Z",
-    "updatedAt": "2026-01-06T09:32:52.908Z"
-  },
-  {
-    "id": "a35e3c37a1029b4d",
-    "title": "Канада впервые за три года попала в призеры молодежного ЧМ по хоккею",
-    "sport": "Хоккей",
-    "category": "Хоккей",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/2/17/347676356377172.jpeg",
-    "teaser": "Канада впервые за три года попала в призеры молодежного ЧМ по хоккею",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/695bfd269a79474bff13fe67",
-    "publishedAt": "2026-01-06T03:25:59.000Z",
-    "createdAt": "2026-01-06T09:32:53.978Z",
-    "updatedAt": "2026-01-06T09:32:53.978Z"
+    "createdAt": "2026-01-06T10:30:18.871Z",
+    "updatedAt": "2026-01-06T10:30:18.871Z"
   },
   {
     "id": "db39927f4d8a8d64",
@@ -122,21 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/694e6a419a7947fd13e7a656",
     "publishedAt": "2026-01-06T03:00:09.000Z",
-    "createdAt": "2026-01-06T09:32:48.707Z",
-    "updatedAt": "2026-01-06T09:32:48.707Z"
-  },
-  {
-    "id": "2566cfceefdd282c",
-    "title": "Россиянина второй раз подряд признали лучшим игроком недели в НХЛ",
-    "sport": "Хоккей",
-    "category": "Хоккей",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/8/08/347676370534088.png",
-    "teaser": "Россиянина второй раз подряд признали лучшим игроком недели в НХЛ",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/695bffa09a7947b78eec36e0",
-    "publishedAt": "2026-01-05T18:35:15.000Z",
-    "createdAt": "2026-01-06T09:32:55.038Z",
-    "updatedAt": "2026-01-06T09:32:55.038Z"
+    "createdAt": "2026-01-06T10:30:13.201Z",
+    "updatedAt": "2026-01-06T10:30:13.201Z"
   }
 ]
