@@ -1,5 +1,47 @@
 [
   {
+    "id": "4ad6faf89283df0c",
+    "title": "Матч лидеров КХЛ завершился победой «Металлурга» в овертайме",
+    "sport": "Хоккей",
+    "category": "Хоккей",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/2/49/347677090536492.jpeg",
+    "teaser": "Матч лидеров КХЛ завершился победой «Металлурга» в овертайме",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/695d108c9a7947426bcb9dd3",
+    "publishedAt": "2026-01-06T14:27:09.000Z",
+    "createdAt": "2026-01-06T14:28:47.235Z",
+    "updatedAt": "2026-01-06T14:28:47.235Z"
+  },
+  {
+    "id": "728fdcab1c397a29",
+    "title": "Эмери предрек своему экс-помощнику успешную работу во главе «Спартака»",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/1/82/347677084563821.jpeg",
+    "teaser": "Эмери предрек своему экс-помощнику успешную работу во главе «Спартака»",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/695d16ff9a794763a5459e27",
+    "publishedAt": "2026-01-06T14:17:18.000Z",
+    "createdAt": "2026-01-06T14:28:46.272Z",
+    "updatedAt": "2026-01-06T14:28:46.272Z"
+  },
+  {
+    "id": "88a004e0d9c57b6f",
+    "title": "FIS присвоила нейтральный статус еще трем российским сноубордистам",
+    "sport": "Другое",
+    "category": "Другие",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/6/10/347677058961106.jpeg",
+    "teaser": "FIS присвоила нейтральный статус еще трем российским сноубордистам",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/695d02da9a7947b0c413638a",
+    "publishedAt": "2026-01-06T13:32:29.000Z",
+    "createdAt": "2026-01-06T14:28:48.317Z",
+    "updatedAt": "2026-01-06T14:28:48.317Z"
+  },
+  {
     "id": "e6117fe66889d7c6",
     "title": "Российский шахматист вошел в топ-20 по призовым за 2025 год",
     "sport": "Другое",
@@ -10,8 +52,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/695cfa2d9a7947056768c156",
     "publishedAt": "2026-01-06T12:33:45.000Z",
-    "createdAt": "2026-01-06T13:42:31.559Z",
-    "updatedAt": "2026-01-06T13:42:31.559Z"
+    "createdAt": "2026-01-06T14:28:51.223Z",
+    "updatedAt": "2026-01-06T14:28:51.223Z"
   },
   {
     "id": "335ef1aac0c832d1",
@@ -24,22 +66,22 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/695cfa779a7947080644ed51",
     "publishedAt": "2026-01-06T12:18:14.000Z",
-    "createdAt": "2026-01-06T13:42:30.468Z",
-    "updatedAt": "2026-01-06T13:42:30.468Z"
+    "createdAt": "2026-01-06T14:28:50.191Z",
+    "updatedAt": "2026-01-06T14:28:50.191Z"
   },
   {
     "id": "ecfb2736744f54d7",
     "title": "На Australian Open выплатят рекордные призовые",
     "sport": "Теннис",
     "category": "Теннис",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/5/92/347676990201925.jpeg",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/0/02/347677079826020.jpeg",
     "teaser": "На Australian Open выплатят рекордные призовые",
     "fullContent": "",
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/695cef169a794736334061d0",
     "publishedAt": "2026-01-06T11:50:10.000Z",
-    "createdAt": "2026-01-06T13:42:32.642Z",
-    "updatedAt": "2026-01-06T13:42:32.642Z"
+    "createdAt": "2026-01-06T14:28:52.191Z",
+    "updatedAt": "2026-01-06T14:28:52.191Z"
   },
   {
     "id": "e551933ec8b8dc67",
@@ -52,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/695ce8309a79475a2831b259",
     "publishedAt": "2026-01-06T11:02:28.000Z",
-    "createdAt": "2026-01-06T13:42:34.767Z",
-    "updatedAt": "2026-01-06T13:42:34.767Z"
+    "createdAt": "2026-01-06T14:28:53.373Z",
+    "updatedAt": "2026-01-06T14:28:53.373Z"
   },
   {
     "id": "eaffc2d30a03b5db",
@@ -66,8 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/695cde949a794708929d0a56",
     "publishedAt": "2026-01-06T10:41:53.000Z",
-    "createdAt": "2026-01-06T13:42:36.939Z",
-    "updatedAt": "2026-01-06T13:42:36.939Z"
+    "createdAt": "2026-01-06T14:28:55.229Z",
+    "updatedAt": "2026-01-06T14:28:55.229Z"
   },
   {
     "id": "f451ce3367a088cc",
@@ -80,50 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/695ccf3c9a79477bfbe8fe58",
     "publishedAt": "2026-01-06T10:23:10.000Z",
-    "createdAt": "2026-01-06T13:42:35.850Z",
-    "updatedAt": "2026-01-06T13:42:35.850Z"
-  },
-  {
-    "id": "0ac8c0b726797c45",
-    "title": "Двое россиян вошли в список фаворитов на приз лучшему новичку сезона НХЛ",
-    "sport": "Хоккей",
-    "category": "Хоккей",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/7/78/347676934483787.jpeg",
-    "teaser": "Двое россиян вошли в список фаворитов на приз лучшему новичку сезона НХЛ",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/695cd6899a794742b3ddb0b4",
-    "publishedAt": "2026-01-06T09:57:59.000Z",
-    "createdAt": "2026-01-06T13:42:39.122Z",
-    "updatedAt": "2026-01-06T13:42:39.122Z"
-  },
-  {
-    "id": "d709f6bb74fba007",
-    "title": "Бывший тренер ЦСКА Виктор Гончаренко возглавил сборную Белоруссии",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/5/61/347676922864615.jpeg",
-    "teaser": "Бывший тренер ЦСКА Виктор Гончаренко возглавил сборную Белоруссии",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/695cd7d89a79475442efd7b9",
-    "publishedAt": "2026-01-06T09:43:26.000Z",
-    "createdAt": "2026-01-06T13:42:38.016Z",
-    "updatedAt": "2026-01-06T13:42:38.016Z"
-  },
-  {
-    "id": "4b9325220a2ae2b7",
-    "title": "«Рубин» продал азербайджанскому «Сабаху» футболиста сборной Узбекистана",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/2/61/347676908097612.jpeg",
-    "teaser": "«Рубин» продал азербайджанскому «Сабаху» футболиста сборной Узбекистана",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/695cd2149a79471dd4d5e331",
-    "publishedAt": "2026-01-06T09:23:48.000Z",
-    "createdAt": "2026-01-06T13:42:40.263Z",
-    "updatedAt": "2026-01-06T13:42:40.263Z"
+    "createdAt": "2026-01-06T14:28:54.301Z",
+    "updatedAt": "2026-01-06T14:28:54.301Z"
   },
   {
     "id": "db39927f4d8a8d64",
@@ -136,7 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/694e6a419a7947fd13e7a656",
     "publishedAt": "2026-01-06T03:00:09.000Z",
-    "createdAt": "2026-01-06T13:42:33.675Z",
-    "updatedAt": "2026-01-06T13:42:33.675Z"
+    "createdAt": "2026-01-06T14:28:49.372Z",
+    "updatedAt": "2026-01-06T14:28:49.372Z"
   }
 ]
