@@ -1,5 +1,19 @@
 [
   {
+    "id": "51c3ea7569c1c64b",
+    "title": "Один игрок из КХЛ вошел в состав сборной Франции на Олимпиаду-2026",
+    "sport": "Хоккей",
+    "category": "Хоккей",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/7/04/347677144448047.jpeg",
+    "teaser": "Один игрок из КХЛ вошел в состав сборной Франции на Олимпиаду-2026",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/695d2c569a7947eacafd24b2",
+    "publishedAt": "2026-01-06T15:59:30.000Z",
+    "createdAt": "2026-01-06T16:36:55.231Z",
+    "updatedAt": "2026-01-06T16:36:55.231Z"
+  },
+  {
     "id": "9f5183f33fe99d9d",
     "title": "В FIS ответили на вопрос о возможном отстранении лыжников из США",
     "sport": "Другое",
@@ -10,8 +24,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/695d26bf9a7947ceadc176be",
     "publishedAt": "2026-01-06T15:26:59.000Z",
-    "createdAt": "2026-01-06T15:29:46.635Z",
-    "updatedAt": "2026-01-06T15:29:46.635Z"
+    "createdAt": "2026-01-06T16:36:54.163Z",
+    "updatedAt": "2026-01-06T16:36:54.163Z"
   },
   {
     "id": "d711da1c29b4a572",
@@ -24,8 +38,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/695d1d0a9a794760597a8d5a",
     "publishedAt": "2026-01-06T14:37:07.000Z",
-    "createdAt": "2026-01-06T15:29:48.847Z",
-    "updatedAt": "2026-01-06T15:29:48.847Z"
+    "createdAt": "2026-01-06T16:36:58.539Z",
+    "updatedAt": "2026-01-06T16:36:58.539Z"
   },
   {
     "id": "4ad6faf89283df0c",
@@ -38,8 +52,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/695d108c9a7947426bcb9dd3",
     "publishedAt": "2026-01-06T14:27:09.000Z",
-    "createdAt": "2026-01-06T15:29:51.192Z",
-    "updatedAt": "2026-01-06T15:29:51.192Z"
+    "createdAt": "2026-01-06T16:36:59.617Z",
+    "updatedAt": "2026-01-06T16:36:59.617Z"
   },
   {
     "id": "728fdcab1c397a29",
@@ -52,8 +66,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/695d16ff9a794763a5459e27",
     "publishedAt": "2026-01-06T14:17:18.000Z",
-    "createdAt": "2026-01-06T15:29:47.710Z",
-    "updatedAt": "2026-01-06T15:29:47.710Z"
+    "createdAt": "2026-01-06T16:36:56.384Z",
+    "updatedAt": "2026-01-06T16:36:56.384Z"
   },
   {
     "id": "88a004e0d9c57b6f",
@@ -66,8 +80,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/695d02da9a7947b0c413638a",
     "publishedAt": "2026-01-06T13:32:29.000Z",
-    "createdAt": "2026-01-06T15:29:52.302Z",
-    "updatedAt": "2026-01-06T15:29:52.302Z"
+    "createdAt": "2026-01-06T16:37:00.710Z",
+    "updatedAt": "2026-01-06T16:37:00.710Z"
   },
   {
     "id": "e6117fe66889d7c6",
@@ -80,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/695cfa2d9a7947056768c156",
     "publishedAt": "2026-01-06T12:33:45.000Z",
-    "createdAt": "2026-01-06T15:29:54.435Z",
-    "updatedAt": "2026-01-06T15:29:54.435Z"
+    "createdAt": "2026-01-06T16:37:03.030Z",
+    "updatedAt": "2026-01-06T16:37:03.030Z"
   },
   {
     "id": "335ef1aac0c832d1",
@@ -94,8 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/695cfa779a7947080644ed51",
     "publishedAt": "2026-01-06T12:18:14.000Z",
-    "createdAt": "2026-01-06T15:29:53.317Z",
-    "updatedAt": "2026-01-06T15:29:53.317Z"
+    "createdAt": "2026-01-06T16:37:01.881Z",
+    "updatedAt": "2026-01-06T16:37:01.881Z"
   },
   {
     "id": "ecfb2736744f54d7",
@@ -108,22 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/695cef169a794736334061d0",
     "publishedAt": "2026-01-06T11:50:10.000Z",
-    "createdAt": "2026-01-06T15:29:55.633Z",
-    "updatedAt": "2026-01-06T15:29:55.633Z"
-  },
-  {
-    "id": "e551933ec8b8dc67",
-    "title": "Российскую фигуристку Горбачеву прооперировали в Германии",
-    "sport": "Другое",
-    "category": "Фигурное катание",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/9/21/347676967022219.jpeg",
-    "teaser": "Российскую фигуристку Горбачеву прооперировали в Германии",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/695ce8309a79475a2831b259",
-    "publishedAt": "2026-01-06T11:02:28.000Z",
-    "createdAt": "2026-01-06T15:29:56.768Z",
-    "updatedAt": "2026-01-06T15:29:56.768Z"
+    "createdAt": "2026-01-06T16:37:04.170Z",
+    "updatedAt": "2026-01-06T16:37:04.170Z"
   },
   {
     "id": "db39927f4d8a8d64",
@@ -136,7 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/694e6a419a7947fd13e7a656",
     "publishedAt": "2026-01-06T03:00:09.000Z",
-    "createdAt": "2026-01-06T15:29:50.027Z",
-    "updatedAt": "2026-01-06T15:29:50.027Z"
+    "createdAt": "2026-01-06T16:36:57.424Z",
+    "updatedAt": "2026-01-06T16:36:57.424Z"
   }
 ]
