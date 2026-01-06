@@ -1,5 +1,61 @@
 [
   {
+    "id": "a37fa41b1bd6c986",
+    "title": "Овечкин забросил две шайбы «Анахайму» и побил очередной рекорд в НХЛ",
+    "sport": "Хоккей",
+    "category": "Хоккей",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/8/70/347676831615708.jpeg",
+    "teaser": "Овечкин забросил две шайбы «Анахайму» и побил очередной рекорд в НХЛ",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/695cb4279a794757e9a8d18a",
+    "publishedAt": "2026-01-06T07:16:18.000Z",
+    "createdAt": "2026-01-06T07:31:25.099Z",
+    "updatedAt": "2026-01-06T07:31:25.099Z"
+  },
+  {
+    "id": "79232ee7352464b2",
+    "title": "Сборная Швеции впервые за 14 лет выиграла молодежный ЧМ по хоккею",
+    "sport": "Хоккей",
+    "category": "Хоккей",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/5/18/347676396700185.png",
+    "teaser": "Сборная Швеции впервые за 14 лет выиграла молодежный ЧМ по хоккею",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/695c09589a79477df1fa5f60",
+    "publishedAt": "2026-01-06T04:16:47.000Z",
+    "createdAt": "2026-01-06T07:31:26.094Z",
+    "updatedAt": "2026-01-06T07:31:26.094Z"
+  },
+  {
+    "id": "a35e3c37a1029b4d",
+    "title": "Канада впервые за три года попала в призеры молодежного ЧМ по хоккею",
+    "sport": "Хоккей",
+    "category": "Хоккей",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/2/17/347676356377172.jpeg",
+    "teaser": "Канада впервые за три года попала в призеры молодежного ЧМ по хоккею",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/695bfd269a79474bff13fe67",
+    "publishedAt": "2026-01-06T03:25:59.000Z",
+    "createdAt": "2026-01-06T07:31:27.056Z",
+    "updatedAt": "2026-01-06T07:31:27.056Z"
+  },
+  {
+    "id": "db39927f4d8a8d64",
+    "title": "Кто стал самым высокооплачиваемым российским спортсменом в 2025 году",
+    "sport": "Другое",
+    "category": "Другие",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/0/30/347670096649300.jpeg",
+    "teaser": "Кто стал самым высокооплачиваемым российским спортсменом в 2025 году",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/694e6a419a7947fd13e7a656",
+    "publishedAt": "2026-01-06T03:00:09.000Z",
+    "createdAt": "2026-01-06T07:31:28.125Z",
+    "updatedAt": "2026-01-06T07:31:28.125Z"
+  },
+  {
     "id": "2566cfceefdd282c",
     "title": "Россиянина второй раз подряд признали лучшим игроком недели в НХЛ",
     "sport": "Хоккей",
@@ -10,8 +66,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/695bffa09a7947b78eec36e0",
     "publishedAt": "2026-01-05T18:35:15.000Z",
-    "createdAt": "2026-01-06T06:42:15.658Z",
-    "updatedAt": "2026-01-06T06:42:15.658Z"
+    "createdAt": "2026-01-06T07:31:29.136Z",
+    "updatedAt": "2026-01-06T07:31:29.136Z"
   },
   {
     "id": "741e9b08783983c3",
@@ -24,8 +80,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/695bf2489a7947682c5b9c12",
     "publishedAt": "2026-01-05T17:27:52.000Z",
-    "createdAt": "2026-01-06T06:42:18.868Z",
-    "updatedAt": "2026-01-06T06:42:18.868Z"
+    "createdAt": "2026-01-06T07:31:31.167Z",
+    "updatedAt": "2026-01-06T07:31:31.167Z"
   },
   {
     "id": "3cfbb0b5f653f975",
@@ -38,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/695beb479a79474337d0337e",
     "publishedAt": "2026-01-05T17:12:10.000Z",
-    "createdAt": "2026-01-06T06:42:17.659Z",
-    "updatedAt": "2026-01-06T06:42:17.659Z"
+    "createdAt": "2026-01-06T07:31:30.151Z",
+    "updatedAt": "2026-01-06T07:31:30.151Z"
   },
   {
     "id": "1f0307f7d7d1ad03",
@@ -52,22 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/695bc9e49a79473ecd0bef3d",
     "publishedAt": "2026-01-05T16:28:23.000Z",
-    "createdAt": "2026-01-06T06:42:19.999Z",
-    "updatedAt": "2026-01-06T06:42:19.999Z"
-  },
-  {
-    "id": "a108244962696568",
-    "title": "«Салават Юлаев» назвал срок контракта с чемпионом НХЛ Кузнецовым",
-    "sport": "Хоккей",
-    "category": "Хоккей",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/5/87/347676260987875.jpeg",
-    "teaser": "«Салават Юлаев» назвал срок контракта с чемпионом НХЛ Кузнецовым",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/695bd4a89a794767cf963949",
-    "publishedAt": "2026-01-05T16:02:23.000Z",
-    "createdAt": "2026-01-06T06:42:24.699Z",
-    "updatedAt": "2026-01-06T06:42:24.699Z"
+    "createdAt": "2026-01-06T07:31:32.174Z",
+    "updatedAt": "2026-01-06T07:31:32.174Z"
   },
   {
     "id": "bfe21d47859cbecf",
@@ -80,8 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/695bd9af9a7947244e41fc6b",
     "publishedAt": "2026-01-05T15:48:53.000Z",
-    "createdAt": "2026-01-06T06:42:21.280Z",
-    "updatedAt": "2026-01-06T06:42:21.280Z"
+    "createdAt": "2026-01-06T07:31:33.197Z",
+    "updatedAt": "2026-01-06T07:31:33.197Z"
   },
   {
     "id": "a671b4e224872259",
@@ -94,49 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/695bcbab9a794745c762d9a6",
     "publishedAt": "2026-01-05T14:51:06.000Z",
-    "createdAt": "2026-01-06T06:42:23.436Z",
-    "updatedAt": "2026-01-06T06:42:23.436Z"
-  },
-  {
-    "id": "3cd7a0e6de2ca3ba",
-    "title": "Дебютант «Формулы-1» назвал резервного пилота",
-    "sport": "Другое",
-    "category": "Формула-1",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/2/73/347676170693732.jpeg",
-    "teaser": "Дебютант «Формулы-1» назвал резервного пилота",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/695bb1579a79473ab0991c9d",
-    "publishedAt": "2026-01-05T13:45:05.000Z",
-    "createdAt": "2026-01-06T06:42:26.888Z",
-    "updatedAt": "2026-01-06T06:42:26.888Z"
-  },
-  {
-    "id": "733b8f77deded910",
-    "title": "«Спартак» объявил о назначении Карседо главным тренером",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/6/62/347676187232626.png",
-    "teaser": "«Спартак» объявил о назначении Карседо главным тренером",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/695bb64e9a7947216d146021",
-    "publishedAt": "2026-01-05T13:03:31.000Z",
-    "createdAt": "2026-01-06T06:42:25.742Z",
-    "updatedAt": "2026-01-06T06:42:25.742Z"
-  },
-  {
-    "id": "4e88d597c5b1eb62",
-    "title": "Лыжник Коростелев заявил, что у него есть шансы на медаль Олимпиады",
-    "sport": "Другое",
-    "category": "Другие",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/8/89/347676167867898.png",
-    "teaser": "Лыжник Коростелев заявил, что у него есть шансы на медаль Олимпиады",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/695babb39a7947a96c727011",
-    "publishedAt": "2026-01-05T12:50:12.000Z",
-    "createdAt": "2026-01-06T06:42:27.990Z",
-    "updatedAt": "2026-01-06T06:42:27.990Z"
+    "createdAt": "2026-01-06T07:31:35.020Z",
+    "updatedAt": "2026-01-06T07:31:35.020Z"
   }
 ]
