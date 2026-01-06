@@ -133,8 +133,8 @@ export function NewsTab() {
         if (result.updated === false) {
           // Новости не изменились, UI не обновляется
           if (!silent) {
-            toast.info('Новости актуальны', {
-              description: 'Новых материалов нет',
+            toast.info(<span style={{ fontWeight: 'bold' }}>Новости актуальны</span>, {
+              description: <span style={{ fontWeight: 'bold' }}>Новых материалов нет</span>,
               duration: 2000,
             });
           }
@@ -145,8 +145,8 @@ export function NewsTab() {
         setNewsItems(transformedNews);
         
         if (!silent) {
-          toast.success('Новости обновлены', {
-            description: `Получено ${result.count} материалов`,
+          toast.success(<span style={{ fontWeight: 'bold' }}>Новости обновлены</span>, {
+            description: <span style={{ fontWeight: 'bold' }}>Получено {result.count} материалов</span>,
             duration: 3000,
           });
         }
@@ -158,8 +158,8 @@ export function NewsTab() {
         }
         
         if (!silent) {
-          toast.error('Не удалось обновить новости', {
-            description: result.message || 'Попробуйте позже',
+          toast.error(<span style={{ fontWeight: 'bold' }}>Не удалось обновить новости</span>, {
+            description: <span style={{ fontWeight: 'bold' }}>{result.message || 'Попробуйте позже'}</span>,
             duration: 5000,
           });
         }
@@ -168,8 +168,8 @@ export function NewsTab() {
       logger.error('Ошибка обновления новостей:', error);
       
       if (!silent) {
-        toast.error('Не удалось обновить новости', {
-          description: 'Попробуйте позже',
+        toast.error(<span style={{ fontWeight: 'bold' }}>Не удалось обновить новости</span>, {
+          description: <span style={{ fontWeight: 'bold' }}>Попробуйте позже</span>,
           duration: 5000,
         });
       }

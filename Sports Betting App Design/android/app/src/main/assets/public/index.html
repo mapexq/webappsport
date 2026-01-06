@@ -22,6 +22,26 @@
         -ms-user-select: text !important;
         user-select: text !important;
       }
+      
+      /* Скрытие scrollbar */
+      html, body {
+        scrollbar-width: none; /* Firefox */
+        -ms-overflow-style: none; /* IE и Edge */
+      }
+      
+      html::-webkit-scrollbar,
+      body::-webkit-scrollbar {
+        display: none; /* Chrome, Safari, Opera */
+      }
+      
+      * {
+        scrollbar-width: none; /* Firefox */
+        -ms-overflow-style: none; /* IE и Edge */
+      }
+      
+      *::-webkit-scrollbar {
+        display: none; /* Chrome, Safari, Opera */
+      }
     </style>
     
     <!-- Основные метаданные -->
@@ -53,7 +73,7 @@
     <link rel="manifest" href="/manifest.json" />
     <link rel="icon" type="image/png" href="/favicon.png" />
     <link rel="apple-touch-icon" href="/pwa-192x192.png" />
-    <script type="module" crossorigin src="/assets/index-DQCkMu_1.js"></script>
+    <script type="module" crossorigin src="/assets/index-2FnvUn-U.js"></script>
     <link rel="stylesheet" crossorigin href="/assets/index-CCidR8WC.css">
   <link rel="manifest" href="/manifest.webmanifest"><script id="vite-plugin-pwa:register-sw" src="/registerSW.js"></script></head>
 

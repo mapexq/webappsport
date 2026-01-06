@@ -84,7 +84,7 @@ const bookmakers: Bookmaker[] = [
     bonusAmount: 2000,
     features: ['Более 20 лет на рынке', 'Множество акций', 'Круглосуточная поддержка'],
     license: 'Лицензия ФНС России',
-    url: 'https://m.betcity.ru/ru',
+    url: 'https://betsxwin.pro/click?o=6&a=45502',
   },
   {
     id: 6,
@@ -96,7 +96,7 @@ const bookmakers: Bookmaker[] = [
     bonusAmount: 25000,
     features: ['Простая регистрация', 'Хорошие коэффициенты', 'Кэшаут live-ставок'],
     license: 'Лицензия ФНС России',
-    url: 'https://leon.ru/',
+    url: 'https://betsxwin.pro/click?o=227&a=45502',
   },
   {
     id: 7,
@@ -108,7 +108,7 @@ const bookmakers: Bookmaker[] = [
     bonusAmount: 25000,
     features: ['Высокие коэффициенты', 'Широкая линия событий', 'Профессиональная поддержка'],
     license: 'Лицензия ФНС России',
-    url: 'https://www.marathonbet.ru/',
+    url: 'https://trk.ppdu.ru/click?uid=251529&oid=b0df2a98-7fcf-4c60-9bf4-d0b778fd17d3&erid=2SDnjcvZvQm',
   },
   {
     id: 8,

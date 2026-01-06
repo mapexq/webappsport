@@ -68,14 +68,14 @@ export function PredictionsTab() {
       const data = await apiService.refreshPredictions();
       setPredictions(data);
       
-      toast.success('Прогнозы обновлены', {
-        description: 'Получены последние данные от экспертов',
+      toast.success(<span style={{ fontWeight: 'bold' }}>Прогнозы обновлены</span>, {
+        description: <span style={{ fontWeight: 'bold' }}>Получены последние данные от экспертов</span>,
         duration: 3000,
       });
     } catch (error) {
       logger.error('Ошибка при обновлении прогнозов:', error);
-      toast.error('Ошибка обновления', {
-        description: 'Не удалось обновить прогнозы',
+      toast.error(<span style={{ fontWeight: 'bold' }}>Ошибка обновления</span>, {
+        description: <span style={{ fontWeight: 'bold' }}>Не удалось обновить прогнозы</span>,
         duration: 3000,
       });
     } finally {
