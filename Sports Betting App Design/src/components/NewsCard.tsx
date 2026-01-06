@@ -28,7 +28,9 @@ export function NewsCard({ news }: NewsCardProps) {
   };
 
   const handleConfirm = () => {
-    window.open(news.url, '_blank');
+    // Открываем ссылку в том же WebView, а не в новом окне
+    // WebViewClient в MainActivity перехватит это и откроет в WebView
+    window.location.href = news.url;
     setShowDialog(false);
   };
 

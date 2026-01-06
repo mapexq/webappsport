@@ -8,7 +8,8 @@ interface BookmakerCardProps {
 
 // Функция для открытия ссылки (в Capacitor приложении откроется в том же WebView)
 const openBookmakerUrl = (url: string) => {
-  // В Capacitor приложении window.location.href откроет ссылку в том же WebView
+  // Используем window.location для открытия в том же WebView
+  // WebViewClient в MainActivity перехватит это и откроет в WebView
   window.location.href = url;
 };
 

@@ -62,7 +62,9 @@ if (import.meta.env.DEV) {
 }
 
 // API base URL для локального сервера (fallback)
-const API_BASE_URL = import.meta.env.VITE_API_URL || 'http://localhost:3001/api';
+// В production/Capacitor не используем localhost
+const API_BASE_URL = import.meta.env.VITE_API_URL || (import.meta.env.DEV ? 'http://localhost:3001/api' : null);
+const isLocalhost = API_BASE_URL?.includes('localhost') || API_BASE_URL?.includes('127.0.0.1');
 
 // API Service functions
 export const apiService = {
@@ -99,13 +101,19 @@ export const apiService = {
         logger.warn('⚠️ GITHUB_DATA_URL не настроен, используем fallback');
       }
       
-      // Fallback на API сервер
-      logger.log('📡 Попытка загрузки с локального API:', API_BASE_URL);
-      const response = await fetch(`${API_BASE_URL}/predictions`);
-      if (response.ok) {
-        const data = await response.json();
-        logger.log('✅ Прогнозы загружены с API:', data.length, 'шт.');
-        return data;
+      // Fallback на API сервер (только если не localhost)
+      if (API_BASE_URL && !isLocalhost) {
+        logger.log('📡 Попытка загрузки с API:', API_BASE_URL);
+        try {
+          const response = await fetch(`${API_BASE_URL}/predictions`);
+          if (response.ok) {
+            const data = await response.json();
+            logger.log('✅ Прогнозы загружены с API:', data.length, 'шт.');
+            return data;
+          }
+        } catch (apiError) {
+          logger.warn('⚠️ API недоступен, используем mock данные');
+        }
       }
       
       throw new Error('Ошибка при получении прогнозов');
@@ -129,18 +137,26 @@ export const apiService = {
         }
       }
       
-      // Fallback на API сервер
-      const response = await fetch(`${API_BASE_URL}/predictions/refresh`, {
-        method: 'POST',
-        headers: {
-          'Content-Type': 'application/json',
-        },
-      });
-      if (!response.ok) {
-        throw new Error('Ошибка при обновлении прогнозов');
+      // Fallback на API сервер (только если не localhost)
+      if (API_BASE_URL && !isLocalhost) {
+        try {
+          const response = await fetch(`${API_BASE_URL}/predictions/refresh`, {
+            method: 'POST',
+            headers: {
+              'Content-Type': 'application/json',
+            },
+          });
+          if (response.ok) {
+            const data = await response.json();
+            return data.predictions || data;
+          }
+        } catch (apiError) {
+          logger.warn('⚠️ API недоступен при обновлении');
+        }
       }
-      const data = await response.json();
-      return data.predictions || data;
+      
+      // Если API недоступен, возвращаем текущие данные из GitHub или mock
+      return await this.getPredictions();
     } catch (error) {
       logger.error('Ошибка при обновлении прогнозов:', error);
       throw error;
@@ -178,13 +194,19 @@ export const apiService = {
         logger.warn('⚠️ GITHUB_DATA_URL не настроен, используем fallback');
       }
       
-      // Fallback на API сервер
-      logger.log('📡 Попытка загрузки с локального API:', API_BASE_URL);
-      const response = await fetch(`${API_BASE_URL}/news`);
-      if (response.ok) {
-        const data = await response.json();
-        logger.log('✅ Новости загружены с API:', data.length, 'шт.');
-        return data;
+      // Fallback на API сервер (только если не localhost)
+      if (API_BASE_URL && !isLocalhost) {
+        logger.log('📡 Попытка загрузки с API:', API_BASE_URL);
+        try {
+          const response = await fetch(`${API_BASE_URL}/news`);
+          if (response.ok) {
+            const data = await response.json();
+            logger.log('✅ Новости загружены с API:', data.length, 'шт.');
+            return data;
+          }
+        } catch (apiError) {
+          logger.warn('⚠️ API недоступен, используем mock данные');
+        }
       }
       
       throw new Error('Ошибка при получении новостей');
@@ -211,18 +233,32 @@ export const apiService = {
         }
       }
       
-      // Fallback на API сервер
-      const response = await fetch(`${API_BASE_URL}/news/refresh`, {
-        method: 'POST',
-        headers: {
-          'Content-Type': 'application/json',
-        },
-      });
-      if (!response.ok) {
-        throw new Error('Ошибка при обновлении новостей');
+      // Fallback на API сервер (только если не localhost)
+      if (API_BASE_URL && !isLocalhost) {
+        try {
+          const response = await fetch(`${API_BASE_URL}/news/refresh`, {
+            method: 'POST',
+            headers: {
+              'Content-Type': 'application/json',
+            },
+          });
+          if (response.ok) {
+            const data = await response.json();
+            return data;
+          }
+        } catch (apiError) {
+          logger.warn('⚠️ API недоступен при обновлении');
+        }
       }
-      const data = await response.json();
-      return data;
+      
+      // Если API недоступен, возвращаем текущие данные из GitHub
+      const news = await this.getNews();
+      return {
+        success: true,
+        count: news.length,
+        news: news,
+        updated: false,
+      };
     } catch (error) {
       logger.error('Ошибка при обновлении новостей:', error);
       throw error;
@@ -240,14 +276,21 @@ export const apiService = {
         }
       }
       
-      // Fallback на API сервер
-      const response = await fetch(`${API_BASE_URL}/news/last-update`);
-      if (response.ok) {
-        const data = await response.json();
-        return data;
+      // Fallback на API сервер (только если не localhost)
+      if (API_BASE_URL && !isLocalhost) {
+        try {
+          const response = await fetch(`${API_BASE_URL}/news/last-update`);
+          if (response.ok) {
+            const data = await response.json();
+            return data;
+          }
+        } catch (apiError) {
+          logger.warn('⚠️ API недоступен при получении времени обновления');
+        }
       }
       
-      throw new Error('Ошибка при получении времени обновления');
+      // Возвращаем текущее время, если API недоступен
+      return { lastUpdate: new Date().toISOString() };
     } catch (error) {
       logger.error('Ошибка при получении времени обновления:', error);
       return { lastUpdate: new Date().toISOString() };

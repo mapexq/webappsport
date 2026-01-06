@@ -62,7 +62,7 @@ export function Layout() {
   const activeTab = getActiveTab();
 
   return (
-    <div className="min-h-screen bg-gradient-to-b from-zinc-950 via-zinc-900 to-zinc-950 text-white pb-20">
+    <div className="min-h-screen bg-gradient-to-b from-zinc-950 via-zinc-900 to-zinc-950 text-white pb-20 safe-area-container">
       {/* Toast Notifications */}
       <Toaster position="top-center" richColors />
       
@@ -84,7 +84,9 @@ export function Layout() {
       </main>
 
       {/* Bottom Navigation */}
-      <nav className="fixed bottom-0 left-0 right-0 bg-zinc-900/98 backdrop-blur-md border-t border-zinc-800 z-50">
+      <nav 
+        className="fixed bottom-0 left-0 right-0 bg-zinc-900/98 backdrop-blur-md border-t border-zinc-800 z-50 safe-area-bottom"
+      >
         <div className="grid grid-cols-4 max-w-7xl mx-auto">
           {tabs.map((tab) => {
             const Icon = tab.icon;

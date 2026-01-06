@@ -183,6 +183,52 @@ export function ArticlesTab() {
     }))
   ];
 
+  // Функция для форматирования текста: убирает ** ** и красит текст зеленым
+  const formatParagraph = (text: string) => {
+    // Сначала убираем все символы ** ** из текста
+    let cleanedText = text.replace(/\*\*/g, '');
+    
+    // Ищем паттерн для пунктов типа "1. Название пункта:" 
+    // Нужно найти номер пункта и текст до первого двоеточия, покрасить только текст с двоеточием зеленым
+    const regex = /(\d+\.\s*)([^:]+:)/g;
+    const parts: (string | JSX.Element)[] = [];
+    let lastIndex = 0;
+    let match;
+    let keyCounter = 0;
+
+    while ((match = regex.exec(cleanedText)) !== null) {
+      // Добавляем текст до совпадения
+      if (match.index > lastIndex) {
+        const beforeText = cleanedText.substring(lastIndex, match.index);
+        if (beforeText) {
+          parts.push(beforeText);
+        }
+      }
+      
+      // Добавляем номер пункта обычным цветом
+      const numberPart = match[1];
+      // Добавляем название пункта зеленым цветом (включая двоеточие)
+      const titlePart = match[2];
+      
+      parts.push(numberPart);
+      parts.push(
+        <span key={`green-${keyCounter++}`} className="text-green-400">
+          {titlePart}
+        </span>
+      );
+      
+      lastIndex = regex.lastIndex;
+    }
+    
+    // Добавляем оставшийся текст
+    if (lastIndex < cleanedText.length) {
+      parts.push(cleanedText.substring(lastIndex));
+    }
+    
+    // Если не было совпадений, просто возвращаем очищенный текст
+    return parts.length > 0 ? parts : cleanedText;
+  };
+
   return (
     <div className="space-y-8 px-4">
       {/* Hero Welcome Section */}
@@ -310,7 +356,7 @@ export function ArticlesTab() {
                 <div className="prose prose-invert prose-green max-w-none">
                   {selectedArticle.content.map((paragraph, index) => (
                     <p key={index} className="text-zinc-300 leading-relaxed mb-4 font-bold text-[16px]">
-                      {paragraph}
+                      {formatParagraph(paragraph)}
                     </p>
                   ))}
                 </div>

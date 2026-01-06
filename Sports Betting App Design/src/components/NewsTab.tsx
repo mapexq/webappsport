@@ -123,6 +123,9 @@ export function NewsTab() {
     setIsRefreshing(true);
     
     try {
+      // Ждем 3 секунды для анимации загрузки
+      await new Promise(resolve => setTimeout(resolve, 3000));
+      
       const result = await apiService.refreshNews();
       
       if (result.success) {
@@ -208,7 +211,9 @@ export function NewsTab() {
 
   const handleConfirm = () => {
     if (selectedNews) {
-      window.open(selectedNews.url, '_blank');
+      // Открываем ссылку в том же WebView, а не в новом окне
+      // WebViewClient в MainActivity перехватит это и откроет в WebView
+      window.location.href = selectedNews.url;
     }
     setShowDialog(false);
   };

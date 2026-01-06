@@ -1,7 +1,7 @@
 import { PredictionCard } from './PredictionCard';
 import { Badge } from './ui/badge';
 import { Filter, Trophy, Zap, ChevronDown, ChevronUp, RefreshCw, Rocket } from 'lucide-react';
-import { useState, useEffect } from 'react';
+import { useState, useEffect, useMemo } from 'react';
 import { toast } from 'sonner@2.0.3';
 import { apiService } from '../services/api';
 import { ImageWithFallback } from './figma/ImageWithFallback';
@@ -62,6 +62,9 @@ export function PredictionsTab() {
     setIsRefreshing(true);
     
     try {
+      // Ждем 3 секунды для анимации загрузки
+      await new Promise(resolve => setTimeout(resolve, 3000));
+      
       const data = await apiService.refreshPredictions();
       setPredictions(data);
       
@@ -79,6 +82,53 @@ export function PredictionsTab() {
       setIsRefreshing(false);
     }
   };
+
+  // ВСЕ ХУКИ ДОЛЖНЫ БЫТЬ ДО УСЛОВНЫХ ВОЗВРАТОВ!
+  // Мемоизируем фильтры для предотвращения лишних перерендеров
+  const filters = useMemo(() => {
+    if (!predictions || predictions.length === 0) {
+      return [{ id: 'all', label: 'Все прогнозы', count: 0 }];
+    }
+    const disciplines = Array.from(new Set(predictions.map(p => p.discipline).filter(Boolean)));
+    return [
+      { id: 'all', label: 'Все прогнозы', count: predictions.length },
+      ...disciplines.map(disc => ({
+        id: disc.toLowerCase(),
+        label: disc,
+        count: predictions.filter(p => p && p.discipline === disc).length
+      }))
+    ];
+  }, [predictions]);
+
+  // Filter predictions based on selected filter (мемоизировано для предотвращения лишних перерендеров)
+  const filteredPredictions = useMemo(() => {
+    if (!predictions || predictions.length === 0) return [];
+    return selectedFilter === 'all' 
+      ? predictions 
+      : predictions.filter(p => p && p.discipline && p.discipline.toLowerCase() === selectedFilter);
+  }, [selectedFilter, predictions]);
+  
+  // Первый прогноз = Прогноз дня, остальные 9 = Другие прогнозы (мемоизировано)
+  const featuredPrediction = useMemo(() => {
+    return filteredPredictions && filteredPredictions.length > 0 ? filteredPredictions[0] : null;
+  }, [filteredPredictions]);
+  const otherPredictions = useMemo(() => {
+    return filteredPredictions && filteredPredictions.length > 1 ? filteredPredictions.slice(1, 10) : [];
+  }, [filteredPredictions]);
+  
+  const MAX_LENGTH = 130;
+  const shouldTruncateFeatured = featuredPrediction?.comment && featuredPrediction.comment.length > MAX_LENGTH;
+  const displayedFeaturedComment = shouldTruncateFeatured && !isFeaturedExpanded && featuredPrediction
+    ? featuredPrediction.comment.slice(0, MAX_LENGTH) + '...' 
+    : featuredPrediction?.comment || '';
+
+  const expertPredictions = predictions.filter(p => p.expert.status === 'expert');
+  const avgWinRate = predictions.length > 0 
+    ? Math.round(predictions.reduce((sum, p) => sum + p.expert.winRate, 0) / predictions.length)
+    : 0;
+  const maxOdds = predictions.length > 0 
+    ? Math.max(...predictions.map(p => p.odds))
+    : 0;
   
   if (loading) {
     return (
@@ -99,39 +149,6 @@ export function PredictionsTab() {
       </div>
     );
   }
-
-  const expertPredictions = predictions.filter(p => p.expert.status === 'expert');
-  const avgWinRate = predictions.length > 0 
-    ? Math.round(predictions.reduce((sum, p) => sum + p.expert.winRate, 0) / predictions.length)
-    : 0;
-  const maxOdds = predictions.length > 0 
-    ? Math.max(...predictions.map(p => p.odds))
-    : 0;
-  
-  // Filter predictions based on selected filter
-  const filteredPredictions = selectedFilter === 'all' 
-    ? predictions 
-    : predictions.filter(p => p.discipline.toLowerCase() === selectedFilter);
-  
-  // Первый прогноз = Прогноз дня, остальные 9 = Другие прогнозы
-  const featuredPrediction = filteredPredictions[0];
-  const otherPredictions = filteredPredictions.slice(1, 10); // Берем только следующие 9
-  
-  const MAX_LENGTH = 130;
-  const shouldTruncateFeatured = featuredPrediction?.comment?.length > MAX_LENGTH;
-  const displayedFeaturedComment = shouldTruncateFeatured && !isFeaturedExpanded 
-    ? featuredPrediction.comment.slice(0, MAX_LENGTH) + '...' 
-    : featuredPrediction?.comment || '';
-
-  const disciplines = Array.from(new Set(predictions.map(p => p.discipline)));
-  const filters = [
-    { id: 'all', label: 'Все прогнозы', count: predictions.length },
-    ...disciplines.map(disc => ({
-      id: disc.toLowerCase(),
-      label: disc,
-      count: predictions.filter(p => p.discipline === disc).length
-    }))
-  ];
 
   return (
     <div className="space-y-8 px-4">
