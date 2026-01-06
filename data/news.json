@@ -1,5 +1,61 @@
 [
   {
+    "id": "e825c86f97dd9700",
+    "title": "Российский голкипер получил травму в матче НХЛ",
+    "sport": "Хоккей",
+    "category": "Хоккей",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/4/41/347676879764414.jpeg",
+    "teaser": "Российский голкипер получил травму в матче НХЛ",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/695cc1339a79472bea077e7e",
+    "publishedAt": "2026-01-06T08:33:28.000Z",
+    "createdAt": "2026-01-06T08:38:44.447Z",
+    "updatedAt": "2026-01-06T08:38:44.447Z"
+  },
+  {
+    "id": "890e945fa35f69fe",
+    "title": "Финалист Уимблдона проиграл в своем первом за год матче на турнире ATP",
+    "sport": "Теннис",
+    "category": "Теннис",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/2/92/347676873195922.jpeg",
+    "teaser": "Финалист Уимблдона проиграл в своем первом за год матче на турнире ATP",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/695cc4609a79476fdcf3dea5",
+    "publishedAt": "2026-01-06T08:24:17.000Z",
+    "createdAt": "2026-01-06T08:38:46.566Z",
+    "updatedAt": "2026-01-06T08:38:46.566Z"
+  },
+  {
+    "id": "ea04edafbee0278c",
+    "title": "Российская волейболистка пропустит матч ЛЧ в Польше из-за визовых проблем",
+    "sport": "Другое",
+    "category": "Другие",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/6/17/347676852221176.jpeg",
+    "teaser": "Российская волейболистка пропустит матч ЛЧ в Польше из-за визовых проблем",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/695cbc259a7947b31e556ebb",
+    "publishedAt": "2026-01-06T07:50:32.000Z",
+    "createdAt": "2026-01-06T08:38:45.534Z",
+    "updatedAt": "2026-01-06T08:38:45.534Z"
+  },
+  {
+    "id": "35ef3eb42f73515b",
+    "title": "Шнайдер обыграла сменившую гражданство россиянку на турнире в Брисбене",
+    "sport": "Теннис",
+    "category": "Теннис",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/7/24/347676845820247.jpeg",
+    "teaser": "Шнайдер обыграла сменившую гражданство россиянку на турнире в Брисбене",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/695cb9ae9a7947be73754484",
+    "publishedAt": "2026-01-06T07:35:55.000Z",
+    "createdAt": "2026-01-06T08:38:49.618Z",
+    "updatedAt": "2026-01-06T08:38:49.618Z"
+  },
+  {
     "id": "a37fa41b1bd6c986",
     "title": "Овечкин забросил две шайбы «Анахайму» и побил очередной рекорд в НХЛ",
     "sport": "Хоккей",
@@ -10,8 +66,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/695cb4279a794757e9a8d18a",
     "publishedAt": "2026-01-06T07:16:18.000Z",
-    "createdAt": "2026-01-06T07:31:25.099Z",
-    "updatedAt": "2026-01-06T07:31:25.099Z"
+    "createdAt": "2026-01-06T08:38:48.723Z",
+    "updatedAt": "2026-01-06T08:38:48.723Z"
   },
   {
     "id": "79232ee7352464b2",
@@ -24,8 +80,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/695c09589a79477df1fa5f60",
     "publishedAt": "2026-01-06T04:16:47.000Z",
-    "createdAt": "2026-01-06T07:31:26.094Z",
-    "updatedAt": "2026-01-06T07:31:26.094Z"
+    "createdAt": "2026-01-06T08:38:50.635Z",
+    "updatedAt": "2026-01-06T08:38:50.635Z"
   },
   {
     "id": "a35e3c37a1029b4d",
@@ -38,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/695bfd269a79474bff13fe67",
     "publishedAt": "2026-01-06T03:25:59.000Z",
-    "createdAt": "2026-01-06T07:31:27.056Z",
-    "updatedAt": "2026-01-06T07:31:27.056Z"
+    "createdAt": "2026-01-06T08:38:51.646Z",
+    "updatedAt": "2026-01-06T08:38:51.646Z"
   },
   {
     "id": "db39927f4d8a8d64",
@@ -52,8 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/694e6a419a7947fd13e7a656",
     "publishedAt": "2026-01-06T03:00:09.000Z",
-    "createdAt": "2026-01-06T07:31:28.125Z",
-    "updatedAt": "2026-01-06T07:31:28.125Z"
+    "createdAt": "2026-01-06T08:38:47.691Z",
+    "updatedAt": "2026-01-06T08:38:47.691Z"
   },
   {
     "id": "2566cfceefdd282c",
@@ -66,22 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/695bffa09a7947b78eec36e0",
     "publishedAt": "2026-01-05T18:35:15.000Z",
-    "createdAt": "2026-01-06T07:31:29.136Z",
-    "updatedAt": "2026-01-06T07:31:29.136Z"
-  },
-  {
-    "id": "741e9b08783983c3",
-    "title": "Клуб НХЛ «Сент-Луис» продлил контракт с российским нападающим",
-    "sport": "Хоккей",
-    "category": "Хоккей",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/1/39/347676335535391.jpeg",
-    "teaser": "Клуб НХЛ «Сент-Луис» продлил контракт с российским нападающим",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/695bf2489a7947682c5b9c12",
-    "publishedAt": "2026-01-05T17:27:52.000Z",
-    "createdAt": "2026-01-06T07:31:31.167Z",
-    "updatedAt": "2026-01-06T07:31:31.167Z"
+    "createdAt": "2026-01-06T08:38:52.709Z",
+    "updatedAt": "2026-01-06T08:38:52.709Z"
   },
   {
     "id": "3cfbb0b5f653f975",
@@ -94,49 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/695beb479a79474337d0337e",
     "publishedAt": "2026-01-05T17:12:10.000Z",
-    "createdAt": "2026-01-06T07:31:30.151Z",
-    "updatedAt": "2026-01-06T07:31:30.151Z"
-  },
-  {
-    "id": "1f0307f7d7d1ad03",
-    "title": "«Динамо» всухую проиграло аутсайдеру КХЛ",
-    "sport": "Хоккей",
-    "category": "Хоккей",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/5/18/347676300720185.png",
-    "teaser": "«Динамо» всухую проиграло аутсайдеру КХЛ",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/695bc9e49a79473ecd0bef3d",
-    "publishedAt": "2026-01-05T16:28:23.000Z",
-    "createdAt": "2026-01-06T07:31:32.174Z",
-    "updatedAt": "2026-01-06T07:31:32.174Z"
-  },
-  {
-    "id": "bfe21d47859cbecf",
-    "title": "Чемпион Шотландии уволил тренера через месяц после назначения",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/5/59/347676278947595.jpeg",
-    "teaser": "Чемпион Шотландии уволил тренера через месяц после назначения",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/695bd9af9a7947244e41fc6b",
-    "publishedAt": "2026-01-05T15:48:53.000Z",
-    "createdAt": "2026-01-06T07:31:33.197Z",
-    "updatedAt": "2026-01-06T07:31:33.197Z"
-  },
-  {
-    "id": "a671b4e224872259",
-    "title": "Умер спортивный журналист Владимир Гескин",
-    "sport": "Другое",
-    "category": "Другие",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/2/87/347676246602872.png",
-    "teaser": "Умер спортивный журналист Владимир Гескин",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/695bcbab9a794745c762d9a6",
-    "publishedAt": "2026-01-05T14:51:06.000Z",
-    "createdAt": "2026-01-06T07:31:35.020Z",
-    "updatedAt": "2026-01-06T07:31:35.020Z"
+    "createdAt": "2026-01-06T08:38:53.742Z",
+    "updatedAt": "2026-01-06T08:38:53.742Z"
   }
 ]
