@@ -1,5 +1,75 @@
 [
   {
+    "id": "fe53dcb6c8945d5a",
+    "title": "В Турции 212 функционеров были уличены в незаконных ставках на матчи",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/7/52/347677975286527.jpeg",
+    "teaser": "В Турции 212 функционеров были уличены в незаконных ставках на матчи",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/695e6f359a79472e6026c6fe",
+    "publishedAt": "2026-01-07T15:13:04.000Z",
+    "createdAt": "2026-01-07T16:37:46.227Z",
+    "updatedAt": "2026-01-07T16:37:46.227Z"
+  },
+  {
+    "id": "0766a5588c25aca1",
+    "title": "Московское «Динамо» впервые обыграло «Сочи» в текущем сезоне КХЛ",
+    "sport": "Хоккей",
+    "category": "Хоккей",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/0/43/347677928987430.jpeg",
+    "teaser": "Московское «Динамо» впервые обыграло «Сочи» в текущем сезоне КХЛ",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/695e5f639a7947185afb5034",
+    "publishedAt": "2026-01-07T13:54:46.000Z",
+    "createdAt": "2026-01-07T16:37:47.329Z",
+    "updatedAt": "2026-01-07T16:37:47.329Z"
+  },
+  {
+    "id": "f96dc66516ca4a3a",
+    "title": "Победитель «Дакара» 2025 года сошел с дистанции",
+    "sport": "Другое",
+    "category": "Формула-1",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/8/15/347677891114158.jpeg",
+    "teaser": "Победитель «Дакара» 2025 года сошел с дистанции",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/695e50b59a79471e6204a21b",
+    "publishedAt": "2026-01-07T12:52:15.000Z",
+    "createdAt": "2026-01-07T16:37:48.477Z",
+    "updatedAt": "2026-01-07T16:37:48.477Z"
+  },
+  {
+    "id": "c3da15df148904bf",
+    "title": "Умер двукратный олимпийский чемпион по гандболу Евтушенко",
+    "sport": "Другое",
+    "category": "Другие",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/5/14/347677862548145.jpeg",
+    "teaser": "Умер двукратный олимпийский чемпион по гандболу Евтушенко",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/695e455f9a79472471ba1740",
+    "publishedAt": "2026-01-07T12:14:48.000Z",
+    "createdAt": "2026-01-07T16:37:45.150Z",
+    "updatedAt": "2026-01-07T16:37:45.150Z"
+  },
+  {
+    "id": "d7130ae36c50022b",
+    "title": "Глава Суперлиги заявил, что причины смерти 32-летнего игрока неизвестны",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/0/51/347677819100510.jpeg",
+    "teaser": "Глава Суперлиги заявил, что причины смерти 32-летнего игрока неизвестны",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/695e34a99a7947bb803cb5e4",
+    "publishedAt": "2026-01-07T11:50:47.000Z",
+    "createdAt": "2026-01-07T16:37:49.565Z",
+    "updatedAt": "2026-01-07T16:37:49.565Z"
+  },
+  {
     "id": "439530431761656a",
     "title": "Олимпийский чемпион отказался называть Овечкина спортсменом года",
     "sport": "Другое",
@@ -10,8 +80,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/695e2adb9a79479ed9863323",
     "publishedAt": "2026-01-07T10:47:35.000Z",
-    "createdAt": "2026-01-07T15:31:48.808Z",
-    "updatedAt": "2026-01-07T15:31:48.809Z"
+    "createdAt": "2026-01-07T16:37:50.728Z",
+    "updatedAt": "2026-01-07T16:37:50.728Z"
   },
   {
     "id": "3f55bf9a5d39ccfd",
@@ -24,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/695e1eea9a79474b0271b5a2",
     "publishedAt": "2026-01-07T09:35:52.000Z",
-    "createdAt": "2026-01-07T15:31:49.871Z",
-    "updatedAt": "2026-01-07T15:31:49.871Z"
+    "createdAt": "2026-01-07T16:37:51.719Z",
+    "updatedAt": "2026-01-07T16:37:51.719Z"
   },
   {
     "id": "9c061e133a97d5c4",
@@ -38,8 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/695e182e9a7947427ac01f7a",
     "publishedAt": "2026-01-07T08:44:17.000Z",
-    "createdAt": "2026-01-07T15:31:52.002Z",
-    "updatedAt": "2026-01-07T15:31:52.002Z"
+    "createdAt": "2026-01-07T16:37:54.049Z",
+    "updatedAt": "2026-01-07T16:37:54.049Z"
   },
   {
     "id": "2062308ad3de1d2e",
@@ -52,50 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/695e0aa69a7947d64b7a258e",
     "publishedAt": "2026-01-07T08:09:12.000Z",
-    "createdAt": "2026-01-07T15:31:53.006Z",
-    "updatedAt": "2026-01-07T15:31:53.006Z"
-  },
-  {
-    "id": "216fcf4a5d16eed3",
-    "title": "Календарь спортивных событий на 2026 год",
-    "sport": "Другое",
-    "category": "Другие",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/6/24/347666567363246.jpeg",
-    "teaser": "Календарь спортивных событий на 2026 год",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/694d01d39a79474f982ae1e1",
-    "publishedAt": "2026-01-07T07:47:41.000Z",
-    "createdAt": "2026-01-07T15:31:54.255Z",
-    "updatedAt": "2026-01-07T15:31:54.255Z"
-  },
-  {
-    "id": "7ca4177bcf890635",
-    "title": "Российский нападающий набрал четыре очка в матче НХЛ",
-    "sport": "Хоккей",
-    "category": "Хоккей",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/7/07/347677699163077.jpeg",
-    "teaser": "Российский нападающий набрал четыре очка в матче НХЛ",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/695e04389a7947846929b74a",
-    "publishedAt": "2026-01-07T07:30:26.000Z",
-    "createdAt": "2026-01-07T15:31:55.307Z",
-    "updatedAt": "2026-01-07T15:31:55.307Z"
-  },
-  {
-    "id": "01e7244c83968dcc",
-    "title": "Матч баскетбольной ЛЧ продолжался , у «Трапани» осталось 2 игрока",
-    "sport": "Баскетбол",
-    "category": "Баскетбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/6/17/347677247066176.jpeg",
-    "teaser": "Матч баскетбольной ЛЧ продолжался , у «Трапани» осталось 2 игрока",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/695d56519a7947166439a6c1",
-    "publishedAt": "2026-01-06T18:50:57.000Z",
-    "createdAt": "2026-01-07T15:31:56.366Z",
-    "updatedAt": "2026-01-07T15:31:56.366Z"
+    "createdAt": "2026-01-07T16:37:55.165Z",
+    "updatedAt": "2026-01-07T16:37:55.165Z"
   },
   {
     "id": "06998ad835b5cf88",
@@ -108,35 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/695d4d209a7947c7f37e6129",
     "publishedAt": "2026-01-06T18:06:35.000Z",
-    "createdAt": "2026-01-07T15:31:50.934Z",
-    "updatedAt": "2026-01-07T15:31:50.934Z"
-  },
-  {
-    "id": "2cdae967a0574847",
-    "title": "Малкин вернулся к полноценным тренировкам с «Питтсбургом» после травмы",
-    "sport": "Хоккей",
-    "category": "Хоккей",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/9/65/347677215527659.jpeg",
-    "teaser": "Малкин вернулся к полноценным тренировкам с «Питтсбургом» после травмы",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/695d49d59a794775bacb98ba",
-    "publishedAt": "2026-01-06T17:50:11.000Z",
-    "createdAt": "2026-01-07T15:31:57.423Z",
-    "updatedAt": "2026-01-07T15:31:57.423Z"
-  },
-  {
-    "id": "db39927f4d8a8d64",
-    "title": "Кто стал самым высокооплачиваемым российским спортсменом в 2025 году",
-    "sport": "Другое",
-    "category": "Другие",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/0/30/347670096649300.jpeg",
-    "teaser": "Кто стал самым высокооплачиваемым российским спортсменом в 2025 году",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/694e6a419a7947fd13e7a656",
-    "publishedAt": "2026-01-06T03:00:09.000Z",
-    "createdAt": "2026-01-07T15:31:58.500Z",
-    "updatedAt": "2026-01-07T15:31:58.500Z"
+    "createdAt": "2026-01-07T16:37:52.829Z",
+    "updatedAt": "2026-01-07T16:37:52.829Z"
   }
 ]
