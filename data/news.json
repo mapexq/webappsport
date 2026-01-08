@@ -1,5 +1,61 @@
 [
   {
+    "id": "3cffbb2a93c3cbd5",
+    "title": "Костылева вернулась к Плющенко после конфликта тренера с ее матерью",
+    "sport": "Другое",
+    "category": "Другие",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/1/85/347678652981851.jpeg",
+    "teaser": "Костылева вернулась к Плющенко после конфликта тренера с ее матерью",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/695f78a39a794754c8ba43c4",
+    "publishedAt": "2026-01-08T10:01:11.000Z",
+    "createdAt": "2026-01-08T10:31:02.570Z",
+    "updatedAt": "2026-01-08T10:31:02.570Z"
+  },
+  {
+    "id": "9c257bf6e9c0ef58",
+    "title": "Демин рассказал о детской мечте после «невероятной» игры в матче НБА",
+    "sport": "Баскетбол",
+    "category": "Баскетбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/7/56/347678626690567.jpeg",
+    "teaser": "Демин рассказал о детской мечте после «невероятной» игры в матче НБА",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/695f6c669a7947c4f9e2a781",
+    "publishedAt": "2026-01-08T09:48:51.000Z",
+    "createdAt": "2026-01-08T10:31:04.524Z",
+    "updatedAt": "2026-01-08T10:31:04.524Z"
+  },
+  {
+    "id": "518ae1af59413975",
+    "title": "Российская теннисистка Самсонова вышла в четвертьфинал турнира в Брисбене",
+    "sport": "Теннис",
+    "category": "Теннис",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/2/98/347678611923982.jpeg",
+    "teaser": "Российская теннисистка Самсонова вышла в четвертьфинал турнира в Брисбене",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/695f69489a7947c4f9e2a77d",
+    "publishedAt": "2026-01-08T08:51:24.000Z",
+    "createdAt": "2026-01-08T10:31:05.552Z",
+    "updatedAt": "2026-01-08T10:31:05.552Z"
+  },
+  {
+    "id": "7620020fe795de66",
+    "title": "Главные победы российских спортсменов в 2025 году",
+    "sport": "Другое",
+    "category": "Другие",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/6/72/347666748647726.jpeg",
+    "teaser": "Главные победы российских спортсменов в 2025 году",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/694a4f4e9a794767e22c49c7",
+    "publishedAt": "2026-01-08T08:30:33.000Z",
+    "createdAt": "2026-01-08T10:31:06.763Z",
+    "updatedAt": "2026-01-08T10:31:06.763Z"
+  },
+  {
     "id": "20beebcfba4f349b",
     "title": "Россиянин повторил рекорд Леброна в НБА",
     "sport": "Баскетбол",
@@ -10,8 +66,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/695f59aa9a794725e5e413ad",
     "publishedAt": "2026-01-08T08:24:32.000Z",
-    "createdAt": "2026-01-08T09:34:20.964Z",
-    "updatedAt": "2026-01-08T09:34:20.964Z"
+    "createdAt": "2026-01-08T10:31:03.518Z",
+    "updatedAt": "2026-01-08T10:31:03.518Z"
   },
   {
     "id": "d3007d690f12f6b7",
@@ -24,8 +80,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/695f45199a7947647affe432",
     "publishedAt": "2026-01-08T06:49:15.000Z",
-    "createdAt": "2026-01-08T09:34:22.856Z",
-    "updatedAt": "2026-01-08T09:34:22.856Z"
+    "createdAt": "2026-01-08T10:31:08.577Z",
+    "updatedAt": "2026-01-08T10:31:08.577Z"
   },
   {
     "id": "c95843ca6b1d7301",
@@ -38,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/695f1a1d9a794774a6eacf61",
     "publishedAt": "2026-01-08T02:52:21.000Z",
-    "createdAt": "2026-01-08T09:34:24.698Z",
-    "updatedAt": "2026-01-08T09:34:24.698Z"
+    "createdAt": "2026-01-08T10:31:10.713Z",
+    "updatedAt": "2026-01-08T10:31:10.713Z"
   },
   {
     "id": "7eff504f5986cea0",
@@ -52,8 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/695ea91c9a79470ff8db2870",
     "publishedAt": "2026-01-07T20:02:14.000Z",
-    "createdAt": "2026-01-08T09:34:25.752Z",
-    "updatedAt": "2026-01-08T09:34:25.752Z"
+    "createdAt": "2026-01-08T10:31:11.686Z",
+    "updatedAt": "2026-01-08T10:31:11.686Z"
   },
   {
     "id": "ed8e2953b3e7a2a6",
@@ -66,22 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/695e8f5e9a79479d10e20469",
     "publishedAt": "2026-01-07T17:39:33.000Z",
-    "createdAt": "2026-01-08T09:34:26.673Z",
-    "updatedAt": "2026-01-08T09:34:26.673Z"
-  },
-  {
-    "id": "3d7e21bd8f116490",
-    "title": "Дубль Голдобина помог СКА обыграть «Ладу» в матче КХЛ",
-    "sport": "Хоккей",
-    "category": "Хоккей",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/1/77/347678040228771.jpeg",
-    "teaser": "Дубль Голдобина помог СКА обыграть «Ладу» в матче КХЛ",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/695e891e9a79470fca89176c",
-    "publishedAt": "2026-01-07T16:46:33.000Z",
-    "createdAt": "2026-01-08T09:34:29.752Z",
-    "updatedAt": "2026-01-08T09:34:29.752Z"
+    "createdAt": "2026-01-08T10:31:12.711Z",
+    "updatedAt": "2026-01-08T10:31:12.711Z"
   },
   {
     "id": "b745271877e99670",
@@ -94,49 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/695e78e09a794750f2bf3b8e",
     "publishedAt": "2026-01-07T16:45:12.000Z",
-    "createdAt": "2026-01-08T09:34:27.682Z",
-    "updatedAt": "2026-01-08T09:34:27.682Z"
-  },
-  {
-    "id": "fe53dcb6c8945d5a",
-    "title": "В Турции 212 функционеров были уличены в незаконных ставках на матчи",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/7/52/347677975286527.jpeg",
-    "teaser": "В Турции 212 функционеров были уличены в незаконных ставках на матчи",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/695e6f359a79472e6026c6fe",
-    "publishedAt": "2026-01-07T15:13:04.000Z",
-    "createdAt": "2026-01-08T09:34:30.781Z",
-    "updatedAt": "2026-01-08T09:34:30.781Z"
-  },
-  {
-    "id": "0766a5588c25aca1",
-    "title": "Московское «Динамо» впервые обыграло «Сочи» в текущем сезоне КХЛ",
-    "sport": "Хоккей",
-    "category": "Хоккей",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/0/43/347677928987430.jpeg",
-    "teaser": "Московское «Динамо» впервые обыграло «Сочи» в текущем сезоне КХЛ",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/695e5f639a7947185afb5034",
-    "publishedAt": "2026-01-07T13:54:46.000Z",
-    "createdAt": "2026-01-08T09:34:31.807Z",
-    "updatedAt": "2026-01-08T09:34:31.807Z"
-  },
-  {
-    "id": "c3da15df148904bf",
-    "title": "Умер двукратный олимпийский чемпион по гандболу Евтушенко",
-    "sport": "Другое",
-    "category": "Другие",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/5/14/347677862548145.jpeg",
-    "teaser": "Умер двукратный олимпийский чемпион по гандболу Евтушенко",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/695e455f9a79472471ba1740",
-    "publishedAt": "2026-01-07T12:14:48.000Z",
-    "createdAt": "2026-01-08T09:34:28.723Z",
-    "updatedAt": "2026-01-08T09:34:28.723Z"
+    "createdAt": "2026-01-08T10:31:13.731Z",
+    "updatedAt": "2026-01-08T10:31:13.731Z"
   }
 ]
