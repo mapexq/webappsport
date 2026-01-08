@@ -1,5 +1,19 @@
 [
   {
+    "id": "91bb5e036465b36c",
+    "title": "FIS дала нейтральный статус еще трем российским спортсменам",
+    "sport": "Другое",
+    "category": "Другие",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/2/86/347678860192862.jpeg",
+    "teaser": "FIS дала нейтральный статус еще трем российским спортсменам",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/695fca569a79471f54eee987",
+    "publishedAt": "2026-01-08T16:38:18.000Z",
+    "createdAt": "2026-01-08T17:31:56.885Z",
+    "updatedAt": "2026-01-08T17:31:56.885Z"
+  },
+  {
     "id": "0500118cc7884111",
     "title": "Гретцки заявил о жульничестве соперников Овечкина в НХЛ",
     "sport": "Хоккей",
@@ -10,8 +24,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/695fbdb79a79473e3880ddb2",
     "publishedAt": "2026-01-08T16:32:46.000Z",
-    "createdAt": "2026-01-08T16:37:32.327Z",
-    "updatedAt": "2026-01-08T16:37:32.327Z"
+    "createdAt": "2026-01-08T17:31:58.020Z",
+    "updatedAt": "2026-01-08T17:31:58.020Z"
   },
   {
     "id": "2d38c5e183a8a091",
@@ -24,8 +38,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/695f9a179a79474d5f514e98",
     "publishedAt": "2026-01-08T15:20:21.000Z",
-    "createdAt": "2026-01-08T16:37:34.546Z",
-    "updatedAt": "2026-01-08T16:37:34.546Z"
+    "createdAt": "2026-01-08T17:32:00.267Z",
+    "updatedAt": "2026-01-08T17:32:00.267Z"
   },
   {
     "id": "80dcd760bcb3ab43",
@@ -38,8 +52,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/695fb4a39a7947b2b02894fd",
     "publishedAt": "2026-01-08T14:54:17.000Z",
-    "createdAt": "2026-01-08T16:37:35.633Z",
-    "updatedAt": "2026-01-08T16:37:35.633Z"
+    "createdAt": "2026-01-08T17:32:01.361Z",
+    "updatedAt": "2026-01-08T17:32:01.361Z"
   },
   {
     "id": "3f64a5888b474c6f",
@@ -52,8 +66,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/695fa1289a79473fe310158e",
     "publishedAt": "2026-01-08T13:47:31.000Z",
-    "createdAt": "2026-01-08T16:37:33.438Z",
-    "updatedAt": "2026-01-08T16:37:33.438Z"
+    "createdAt": "2026-01-08T17:31:59.131Z",
+    "updatedAt": "2026-01-08T17:31:59.131Z"
   },
   {
     "id": "dc0559432c7ed6aa",
@@ -66,8 +80,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/695f8bf99a7947bd039306b5",
     "publishedAt": "2026-01-08T12:53:46.000Z",
-    "createdAt": "2026-01-08T16:37:36.732Z",
-    "updatedAt": "2026-01-08T16:37:36.732Z"
+    "createdAt": "2026-01-08T17:32:02.431Z",
+    "updatedAt": "2026-01-08T17:32:02.431Z"
   },
   {
     "id": "5cee3b46947d5548",
@@ -80,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/695f8a4a9a79472e8747aff4",
     "publishedAt": "2026-01-08T12:15:32.000Z",
-    "createdAt": "2026-01-08T16:37:37.722Z",
-    "updatedAt": "2026-01-08T16:37:37.722Z"
+    "createdAt": "2026-01-08T17:32:03.538Z",
+    "updatedAt": "2026-01-08T17:32:03.538Z"
   },
   {
     "id": "509e0ed131e9b273",
@@ -94,8 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/695f82c19a79473e91ec8b1b",
     "publishedAt": "2026-01-08T11:24:06.000Z",
-    "createdAt": "2026-01-08T16:37:38.812Z",
-    "updatedAt": "2026-01-08T16:37:38.812Z"
+    "createdAt": "2026-01-08T17:32:04.602Z",
+    "updatedAt": "2026-01-08T17:32:04.602Z"
   },
   {
     "id": "d548600b4c1d0a38",
@@ -108,8 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/695f7f369a7947a22b2eb101",
     "publishedAt": "2026-01-08T10:49:14.000Z",
-    "createdAt": "2026-01-08T16:37:39.893Z",
-    "updatedAt": "2026-01-08T16:37:39.893Z"
+    "createdAt": "2026-01-08T17:32:05.720Z",
+    "updatedAt": "2026-01-08T17:32:05.720Z"
   },
   {
     "id": "3cffbb2a93c3cbd5",
@@ -122,21 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/695f78a39a794754c8ba43c4",
     "publishedAt": "2026-01-08T10:01:11.000Z",
-    "createdAt": "2026-01-08T16:37:40.993Z",
-    "updatedAt": "2026-01-08T16:37:40.993Z"
-  },
-  {
-    "id": "20beebcfba4f349b",
-    "title": "Россиянин повторил рекорд Леброна в НБА",
-    "sport": "Баскетбол",
-    "category": "Баскетбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/6/83/347678580678836.jpeg",
-    "teaser": "Россиянин повторил рекорд Леброна в НБА",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/695f59aa9a794725e5e413ad",
-    "publishedAt": "2026-01-08T08:24:32.000Z",
-    "createdAt": "2026-01-08T16:37:42.112Z",
-    "updatedAt": "2026-01-08T16:37:42.112Z"
+    "createdAt": "2026-01-08T17:32:06.787Z",
+    "updatedAt": "2026-01-08T17:32:06.787Z"
   }
 ]
