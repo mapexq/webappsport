@@ -1,5 +1,47 @@
 [
   {
+    "id": "d3007d690f12f6b7",
+    "title": "Умер рекордсмен НХЛ вратарь Гленн Холл",
+    "sport": "Хоккей",
+    "category": "Хоккей",
+    "imageUrl": "/images/news-placeholder.jpg",
+    "teaser": "Умер рекордсмен НХЛ вратарь Гленн Холл",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/695f45199a7947647affe432",
+    "publishedAt": "2026-01-08T06:49:15.000Z",
+    "createdAt": "2026-01-08T08:38:22.768Z",
+    "updatedAt": "2026-01-08T08:38:22.768Z"
+  },
+  {
+    "id": "0516a9a8d8f75409",
+    "title": "Овечкин обновил рекорд в НХЛ 915-й заброшенной шайбой",
+    "sport": "Хоккей",
+    "category": "Хоккей",
+    "imageUrl": "/images/news-placeholder.jpg",
+    "teaser": "Овечкин обновил рекорд в НХЛ 915-й заброшенной шайбой",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/695f1a1d9a794774a6eacf61",
+    "publishedAt": "2026-01-08T02:52:21.000Z",
+    "createdAt": "2026-01-08T08:38:24.680Z",
+    "updatedAt": "2026-01-08T08:38:24.680Z"
+  },
+  {
+    "id": "7eff504f5986cea0",
+    "title": "У двукратного обладателя «Золотого мяча» Кигана обнаружили рак",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/9/97/347678115159979.jpeg",
+    "teaser": "У двукратного обладателя «Золотого мяча» Кигана обнаружили рак",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/695ea91c9a79470ff8db2870",
+    "publishedAt": "2026-01-07T20:02:14.000Z",
+    "createdAt": "2026-01-08T08:38:25.785Z",
+    "updatedAt": "2026-01-08T08:38:25.785Z"
+  },
+  {
     "id": "ed8e2953b3e7a2a6",
     "title": "МОК запретил проносить флаг России на трибуны на Олимпиаде-2026",
     "sport": "Другое",
@@ -10,8 +52,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/695e8f5e9a79479d10e20469",
     "publishedAt": "2026-01-07T17:39:33.000Z",
-    "createdAt": "2026-01-08T07:29:56.323Z",
-    "updatedAt": "2026-01-08T07:29:56.323Z"
+    "createdAt": "2026-01-08T08:38:27.144Z",
+    "updatedAt": "2026-01-08T08:38:27.144Z"
   },
   {
     "id": "3d7e21bd8f116490",
@@ -24,8 +66,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/695e891e9a79470fca89176c",
     "publishedAt": "2026-01-07T16:46:33.000Z",
-    "createdAt": "2026-01-08T07:29:59.551Z",
-    "updatedAt": "2026-01-08T07:29:59.552Z"
+    "createdAt": "2026-01-08T08:38:30.819Z",
+    "updatedAt": "2026-01-08T08:38:30.819Z"
   },
   {
     "id": "b745271877e99670",
@@ -38,8 +80,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/695e78e09a794750f2bf3b8e",
     "publishedAt": "2026-01-07T16:45:12.000Z",
-    "createdAt": "2026-01-08T07:29:57.448Z",
-    "updatedAt": "2026-01-08T07:29:57.448Z"
+    "createdAt": "2026-01-08T08:38:28.625Z",
+    "updatedAt": "2026-01-08T08:38:28.625Z"
   },
   {
     "id": "fe53dcb6c8945d5a",
@@ -52,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/695e6f359a79472e6026c6fe",
     "publishedAt": "2026-01-07T15:13:04.000Z",
-    "createdAt": "2026-01-08T07:30:00.572Z",
-    "updatedAt": "2026-01-08T07:30:00.572Z"
+    "createdAt": "2026-01-08T08:38:31.911Z",
+    "updatedAt": "2026-01-08T08:38:31.911Z"
   },
   {
     "id": "0766a5588c25aca1",
@@ -66,8 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/695e5f639a7947185afb5034",
     "publishedAt": "2026-01-07T13:54:46.000Z",
-    "createdAt": "2026-01-08T07:30:01.567Z",
-    "updatedAt": "2026-01-08T07:30:01.567Z"
+    "createdAt": "2026-01-08T08:38:33.059Z",
+    "updatedAt": "2026-01-08T08:38:33.059Z"
   },
   {
     "id": "f96dc66516ca4a3a",
@@ -80,8 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/695e50b59a79471e6204a21b",
     "publishedAt": "2026-01-07T12:52:15.000Z",
-    "createdAt": "2026-01-08T07:30:02.573Z",
-    "updatedAt": "2026-01-08T07:30:02.573Z"
+    "createdAt": "2026-01-08T08:38:34.196Z",
+    "updatedAt": "2026-01-08T08:38:34.196Z"
   },
   {
     "id": "c3da15df148904bf",
@@ -94,49 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/695e455f9a79472471ba1740",
     "publishedAt": "2026-01-07T12:14:48.000Z",
-    "createdAt": "2026-01-08T07:29:58.548Z",
-    "updatedAt": "2026-01-08T07:29:58.548Z"
-  },
-  {
-    "id": "d7130ae36c50022b",
-    "title": "Глава Суперлиги заявил, что причины смерти 32-летнего игрока неизвестны",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/0/51/347677819100510.jpeg",
-    "teaser": "Глава Суперлиги заявил, что причины смерти 32-летнего игрока неизвестны",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/695e34a99a7947bb803cb5e4",
-    "publishedAt": "2026-01-07T11:50:47.000Z",
-    "createdAt": "2026-01-08T07:30:03.656Z",
-    "updatedAt": "2026-01-08T07:30:03.656Z"
-  },
-  {
-    "id": "439530431761656a",
-    "title": "Олимпийский чемпион отказался называть Овечкина спортсменом года",
-    "sport": "Другое",
-    "category": "Другие",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/6/80/347677797626806.jpeg",
-    "teaser": "Олимпийский чемпион отказался называть Овечкина спортсменом года",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/695e2adb9a79479ed9863323",
-    "publishedAt": "2026-01-07T10:47:35.000Z",
-    "createdAt": "2026-01-08T07:30:05.083Z",
-    "updatedAt": "2026-01-08T07:30:05.083Z"
-  },
-  {
-    "id": "3f55bf9a5d39ccfd",
-    "title": "Защитника клуба НХЛ увезли на носилках после удара о борт во время матча",
-    "sport": "Хоккей",
-    "category": "Хоккей",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/9/29/347677765237299.jpeg",
-    "teaser": "Защитника клуба НХЛ увезли на носилках после удара о борт во время матча",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/695e1eea9a79474b0271b5a2",
-    "publishedAt": "2026-01-07T09:35:52.000Z",
-    "createdAt": "2026-01-08T07:30:06.178Z",
-    "updatedAt": "2026-01-08T07:30:06.178Z"
+    "createdAt": "2026-01-08T08:38:29.720Z",
+    "updatedAt": "2026-01-08T08:38:29.720Z"
   }
 ]
