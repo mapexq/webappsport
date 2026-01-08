@@ -1,5 +1,19 @@
 [
   {
+    "id": "20beebcfba4f349b",
+    "title": "Россиянин повторил рекорд Леброна в НБА",
+    "sport": "Баскетбол",
+    "category": "Баскетбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/6/83/347678580678836.jpeg",
+    "teaser": "Россиянин повторил рекорд Леброна в НБА",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/695f59aa9a794725e5e413ad",
+    "publishedAt": "2026-01-08T08:24:32.000Z",
+    "createdAt": "2026-01-08T09:34:20.964Z",
+    "updatedAt": "2026-01-08T09:34:20.964Z"
+  },
+  {
     "id": "d3007d690f12f6b7",
     "title": "Умер рекордсмен НХЛ вратарь Гленн Холл",
     "sport": "Хоккей",
@@ -10,22 +24,22 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/695f45199a7947647affe432",
     "publishedAt": "2026-01-08T06:49:15.000Z",
-    "createdAt": "2026-01-08T08:38:22.768Z",
-    "updatedAt": "2026-01-08T08:38:22.768Z"
+    "createdAt": "2026-01-08T09:34:22.856Z",
+    "updatedAt": "2026-01-08T09:34:22.856Z"
   },
   {
-    "id": "0516a9a8d8f75409",
-    "title": "Овечкин обновил рекорд в НХЛ 915-й заброшенной шайбой",
+    "id": "c95843ca6b1d7301",
+    "title": "Овечкин впервые с 20 ноября поразил ворота в двух матчах подряд",
     "sport": "Хоккей",
     "category": "Хоккей",
     "imageUrl": "/images/news-placeholder.jpg",
-    "teaser": "Овечкин обновил рекорд в НХЛ 915-й заброшенной шайбой",
+    "teaser": "Овечкин впервые с 20 ноября поразил ворота в двух матчах подряд",
     "fullContent": "",
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/695f1a1d9a794774a6eacf61",
     "publishedAt": "2026-01-08T02:52:21.000Z",
-    "createdAt": "2026-01-08T08:38:24.680Z",
-    "updatedAt": "2026-01-08T08:38:24.680Z"
+    "createdAt": "2026-01-08T09:34:24.698Z",
+    "updatedAt": "2026-01-08T09:34:24.698Z"
   },
   {
     "id": "7eff504f5986cea0",
@@ -38,8 +52,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/695ea91c9a79470ff8db2870",
     "publishedAt": "2026-01-07T20:02:14.000Z",
-    "createdAt": "2026-01-08T08:38:25.785Z",
-    "updatedAt": "2026-01-08T08:38:25.785Z"
+    "createdAt": "2026-01-08T09:34:25.752Z",
+    "updatedAt": "2026-01-08T09:34:25.752Z"
   },
   {
     "id": "ed8e2953b3e7a2a6",
@@ -52,8 +66,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/695e8f5e9a79479d10e20469",
     "publishedAt": "2026-01-07T17:39:33.000Z",
-    "createdAt": "2026-01-08T08:38:27.144Z",
-    "updatedAt": "2026-01-08T08:38:27.144Z"
+    "createdAt": "2026-01-08T09:34:26.673Z",
+    "updatedAt": "2026-01-08T09:34:26.673Z"
   },
   {
     "id": "3d7e21bd8f116490",
@@ -66,8 +80,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/695e891e9a79470fca89176c",
     "publishedAt": "2026-01-07T16:46:33.000Z",
-    "createdAt": "2026-01-08T08:38:30.819Z",
-    "updatedAt": "2026-01-08T08:38:30.819Z"
+    "createdAt": "2026-01-08T09:34:29.752Z",
+    "updatedAt": "2026-01-08T09:34:29.752Z"
   },
   {
     "id": "b745271877e99670",
@@ -80,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/695e78e09a794750f2bf3b8e",
     "publishedAt": "2026-01-07T16:45:12.000Z",
-    "createdAt": "2026-01-08T08:38:28.625Z",
-    "updatedAt": "2026-01-08T08:38:28.625Z"
+    "createdAt": "2026-01-08T09:34:27.682Z",
+    "updatedAt": "2026-01-08T09:34:27.682Z"
   },
   {
     "id": "fe53dcb6c8945d5a",
@@ -94,8 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/695e6f359a79472e6026c6fe",
     "publishedAt": "2026-01-07T15:13:04.000Z",
-    "createdAt": "2026-01-08T08:38:31.911Z",
-    "updatedAt": "2026-01-08T08:38:31.911Z"
+    "createdAt": "2026-01-08T09:34:30.781Z",
+    "updatedAt": "2026-01-08T09:34:30.781Z"
   },
   {
     "id": "0766a5588c25aca1",
@@ -108,22 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/695e5f639a7947185afb5034",
     "publishedAt": "2026-01-07T13:54:46.000Z",
-    "createdAt": "2026-01-08T08:38:33.059Z",
-    "updatedAt": "2026-01-08T08:38:33.059Z"
-  },
-  {
-    "id": "f96dc66516ca4a3a",
-    "title": "Победитель «Дакара» 2025 года сошел с дистанции",
-    "sport": "Другое",
-    "category": "Формула-1",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/8/15/347677891114158.jpeg",
-    "teaser": "Победитель «Дакара» 2025 года сошел с дистанции",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/695e50b59a79471e6204a21b",
-    "publishedAt": "2026-01-07T12:52:15.000Z",
-    "createdAt": "2026-01-08T08:38:34.196Z",
-    "updatedAt": "2026-01-08T08:38:34.196Z"
+    "createdAt": "2026-01-08T09:34:31.807Z",
+    "updatedAt": "2026-01-08T09:34:31.807Z"
   },
   {
     "id": "c3da15df148904bf",
@@ -136,7 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/695e455f9a79472471ba1740",
     "publishedAt": "2026-01-07T12:14:48.000Z",
-    "createdAt": "2026-01-08T08:38:29.720Z",
-    "updatedAt": "2026-01-08T08:38:29.720Z"
+    "createdAt": "2026-01-08T09:34:28.723Z",
+    "updatedAt": "2026-01-08T09:34:28.723Z"
   }
 ]
