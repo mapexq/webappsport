@@ -1,5 +1,47 @@
 [
   {
+    "id": "8db4f659abfe2a1e",
+    "title": "ЦСКА отыгрался с 0:2 и победил «Шанхай» в матче КХЛ",
+    "sport": "Хоккей",
+    "category": "Хоккей",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/2/50/347679758029502.jpeg",
+    "teaser": "ЦСКА отыгрался с 0:2 и победил «Шанхай» в матче КХЛ",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/696124909a7947450fb92419",
+    "publishedAt": "2026-01-09T16:28:37.000Z",
+    "createdAt": "2026-01-09T16:35:47.340Z",
+    "updatedAt": "2026-01-09T16:35:47.340Z"
+  },
+  {
+    "id": "eae6bce635d3a36c",
+    "title": "Стала известна предварительная причина смерти футзалиста «Норникеля»",
+    "sport": "Другое",
+    "category": "Другие",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/4/72/347679740764724.jpeg",
+    "teaser": "Стала известна предварительная причина смерти футзалиста «Норникеля»",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/696123f19a7947ee498b1ae7",
+    "publishedAt": "2026-01-09T15:58:32.000Z",
+    "createdAt": "2026-01-09T16:35:49.251Z",
+    "updatedAt": "2026-01-09T16:35:49.251Z"
+  },
+  {
+    "id": "6b0e157cd65304c3",
+    "title": "Агент сообщил об уходе Жерсона из «Зенита» спустя полгода после трансфера",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/9/81/347679724553819.jpeg",
+    "teaser": "Агент сообщил об уходе Жерсона из «Зенита» спустя полгода после трансфера",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/696118a49a7947f6b3308894",
+    "publishedAt": "2026-01-09T15:41:49.000Z",
+    "createdAt": "2026-01-09T16:35:48.243Z",
+    "updatedAt": "2026-01-09T16:35:48.243Z"
+  },
+  {
     "id": "2a32f472961052ff",
     "title": "Матч чемпионата Германии по футболу перенесли из-за снегопада",
     "sport": "Футбол",
@@ -10,8 +52,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69610df59a79476a8e7df200",
     "publishedAt": "2026-01-09T14:54:08.000Z",
-    "createdAt": "2026-01-09T15:30:19.994Z",
-    "updatedAt": "2026-01-09T15:30:19.994Z"
+    "createdAt": "2026-01-09T16:35:52.027Z",
+    "updatedAt": "2026-01-09T16:35:52.027Z"
   },
   {
     "id": "7575e5c70b4863d4",
@@ -24,8 +66,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/696105879a79476de1651d00",
     "publishedAt": "2026-01-09T14:08:15.000Z",
-    "createdAt": "2026-01-09T15:30:21.083Z",
-    "updatedAt": "2026-01-09T15:30:21.083Z"
+    "createdAt": "2026-01-09T16:35:52.926Z",
+    "updatedAt": "2026-01-09T16:35:52.926Z"
   },
   {
     "id": "375bcd6cab093bdd",
@@ -38,8 +80,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/696105349a7947eea8f31352",
     "publishedAt": "2026-01-09T13:45:50.000Z",
-    "createdAt": "2026-01-09T15:30:18.803Z",
-    "updatedAt": "2026-01-09T15:30:18.803Z"
+    "createdAt": "2026-01-09T16:35:51.072Z",
+    "updatedAt": "2026-01-09T16:35:51.072Z"
   },
   {
     "id": "6d6aae0294ce120c",
@@ -52,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6960f9d59a79470aac995c6d",
     "publishedAt": "2026-01-09T13:19:07.000Z",
-    "createdAt": "2026-01-09T15:30:23.254Z",
-    "updatedAt": "2026-01-09T15:30:23.254Z"
+    "createdAt": "2026-01-09T16:35:53.873Z",
+    "updatedAt": "2026-01-09T16:35:53.873Z"
   },
   {
     "id": "c20ee16869d10a81",
@@ -66,8 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6960f47b9a794732f8afd6dd",
     "publishedAt": "2026-01-09T12:36:43.000Z",
-    "createdAt": "2026-01-09T15:30:24.375Z",
-    "updatedAt": "2026-01-09T15:30:24.375Z"
+    "createdAt": "2026-01-09T16:35:54.894Z",
+    "updatedAt": "2026-01-09T16:35:54.894Z"
   },
   {
     "id": "8cb24b0fc6641be8",
@@ -80,50 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6960e72d9a79472dbc115349",
     "publishedAt": "2026-01-09T12:14:58.000Z",
-    "createdAt": "2026-01-09T15:30:25.508Z",
-    "updatedAt": "2026-01-09T15:30:25.508Z"
-  },
-  {
-    "id": "2c80db15de8e3747",
-    "title": "Пятая ракетка России снялась с Australian Open",
-    "sport": "Теннис",
-    "category": "Теннис",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/2/51/347679595214512.jpeg",
-    "teaser": "Пятая ракетка России снялась с Australian Open",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6960eb949a794706e7ec5d56",
-    "publishedAt": "2026-01-09T11:59:11.000Z",
-    "createdAt": "2026-01-09T15:30:26.630Z",
-    "updatedAt": "2026-01-09T15:30:26.630Z"
-  },
-  {
-    "id": "656ffaa7f99a10c8",
-    "title": "Кучеров вошел в топ-5 претендентов на приз лучшему игроку сезона НХЛ",
-    "sport": "Хоккей",
-    "category": "Хоккей",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/3/45/347679572898453.jpeg",
-    "teaser": "Кучеров вошел в топ-5 претендентов на приз лучшему игроку сезона НХЛ",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6960db899a79472728d08158",
-    "publishedAt": "2026-01-09T11:26:15.000Z",
-    "createdAt": "2026-01-09T15:30:27.799Z",
-    "updatedAt": "2026-01-09T15:30:27.799Z"
-  },
-  {
-    "id": "0242084c32158000",
-    "title": "Мирра Андреева проиграла второй ракетке Украины на турнире в Брисбене",
-    "sport": "Теннис",
-    "category": "Теннис",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/7/84/347679542575847.jpeg",
-    "teaser": "Мирра Андреева проиграла второй ракетке Украины на турнире в Брисбене",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6960d0389a7947b29e2b75a8",
-    "publishedAt": "2026-01-09T10:36:33.000Z",
-    "createdAt": "2026-01-09T15:30:28.917Z",
-    "updatedAt": "2026-01-09T15:30:28.917Z"
+    "createdAt": "2026-01-09T16:35:55.917Z",
+    "updatedAt": "2026-01-09T16:35:55.917Z"
   },
   {
     "id": "e34de008a2050df6",
@@ -136,7 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/694cde4f9a7947c76f1ec69c",
     "publishedAt": "2026-01-09T08:09:20.000Z",
-    "createdAt": "2026-01-09T15:30:22.184Z",
-    "updatedAt": "2026-01-09T15:30:22.184Z"
+    "createdAt": "2026-01-09T16:35:50.267Z",
+    "updatedAt": "2026-01-09T16:35:50.267Z"
   }
 ]
