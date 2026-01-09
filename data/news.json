@@ -1,5 +1,61 @@
 [
   {
+    "id": "c20ee16869d10a81",
+    "title": "Российский скелетонист победил на этапе Кубка Европы в Австрии",
+    "sport": "Другое",
+    "category": "Другие",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/9/20/347679617688209.jpeg",
+    "teaser": "Российский скелетонист победил на этапе Кубка Европы в Австрии",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6960f47b9a794732f8afd6dd",
+    "publishedAt": "2026-01-09T12:36:43.000Z",
+    "createdAt": "2026-01-09T12:56:44.293Z",
+    "updatedAt": "2026-01-09T12:56:44.293Z"
+  },
+  {
+    "id": "8cb24b0fc6641be8",
+    "title": "Талалаев рассказал, что мог стать главным тренером «Спартака»",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/4/29/347679603697294.jpeg",
+    "teaser": "Талалаев рассказал, что мог стать главным тренером «Спартака»",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6960e72d9a79472dbc115349",
+    "publishedAt": "2026-01-09T12:14:58.000Z",
+    "createdAt": "2026-01-09T12:56:45.331Z",
+    "updatedAt": "2026-01-09T12:56:45.331Z"
+  },
+  {
+    "id": "2c80db15de8e3747",
+    "title": "Пятая ракетка России снялась с Australian Open",
+    "sport": "Теннис",
+    "category": "Теннис",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/2/51/347679595214512.jpeg",
+    "teaser": "Пятая ракетка России снялась с Australian Open",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6960eb949a794706e7ec5d56",
+    "publishedAt": "2026-01-09T11:59:11.000Z",
+    "createdAt": "2026-01-09T12:56:46.422Z",
+    "updatedAt": "2026-01-09T12:56:46.422Z"
+  },
+  {
+    "id": "656ffaa7f99a10c8",
+    "title": "Кучеров вошел в топ-5 претендентов на приз лучшему игроку сезона НХЛ",
+    "sport": "Хоккей",
+    "category": "Хоккей",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/3/45/347679572898453.jpeg",
+    "teaser": "Кучеров вошел в топ-5 претендентов на приз лучшему игроку сезона НХЛ",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6960db899a79472728d08158",
+    "publishedAt": "2026-01-09T11:26:15.000Z",
+    "createdAt": "2026-01-09T12:56:48.591Z",
+    "updatedAt": "2026-01-09T12:56:48.591Z"
+  },
+  {
     "id": "e983ed1d1fe47c4a",
     "title": "Чемпион России в составе «Зенита» перешел в клуб Первой лиги",
     "sport": "Футбол",
@@ -10,8 +66,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6960e2d19a794759dfbdaea7",
     "publishedAt": "2026-01-09T11:19:08.000Z",
-    "createdAt": "2026-01-09T11:24:59.126Z",
-    "updatedAt": "2026-01-09T11:24:59.126Z"
+    "createdAt": "2026-01-09T12:56:50.697Z",
+    "updatedAt": "2026-01-09T12:56:50.697Z"
   },
   {
     "id": "0242084c32158000",
@@ -24,8 +80,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6960d0389a7947b29e2b75a8",
     "publishedAt": "2026-01-09T10:36:33.000Z",
-    "createdAt": "2026-01-09T11:24:58.065Z",
-    "updatedAt": "2026-01-09T11:24:58.065Z"
+    "createdAt": "2026-01-09T12:56:49.673Z",
+    "updatedAt": "2026-01-09T12:56:49.673Z"
   },
   {
     "id": "fffde5c956259f57",
@@ -38,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6960d2649a7947071fad10ec",
     "publishedAt": "2026-01-09T10:11:27.000Z",
-    "createdAt": "2026-01-09T11:25:00.170Z",
-    "updatedAt": "2026-01-09T11:25:00.170Z"
+    "createdAt": "2026-01-09T12:56:51.787Z",
+    "updatedAt": "2026-01-09T12:56:51.787Z"
   },
   {
     "id": "04cbe67ca7eeae06",
@@ -52,8 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6960c2be9a79477f95a9ac65",
     "publishedAt": "2026-01-09T09:47:02.000Z",
-    "createdAt": "2026-01-09T11:25:03.396Z",
-    "updatedAt": "2026-01-09T11:25:03.396Z"
+    "createdAt": "2026-01-09T12:56:53.983Z",
+    "updatedAt": "2026-01-09T12:56:53.983Z"
   },
   {
     "id": "c6ee27604d692a8f",
@@ -66,36 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6960c4cd9a7947ffe86fff5d",
     "publishedAt": "2026-01-09T09:14:28.000Z",
-    "createdAt": "2026-01-09T11:25:02.300Z",
-    "updatedAt": "2026-01-09T11:25:02.300Z"
-  },
-  {
-    "id": "d69f378a493e6a83",
-    "title": "Малкин забросил шайбу в первом матче НХЛ после травмы",
-    "sport": "Хоккей",
-    "category": "Хоккей",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/7/83/347679479017837.jpeg",
-    "teaser": "Малкин забросил шайбу в первом матче НХЛ после травмы",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6960b7079a79478e4de80887",
-    "publishedAt": "2026-01-09T08:46:41.000Z",
-    "createdAt": "2026-01-09T11:25:06.011Z",
-    "updatedAt": "2026-01-09T11:25:06.011Z"
-  },
-  {
-    "id": "8c29cfdc5ce0a6a9",
-    "title": "Рублев впервые с июля 2025 года вышел в полуфинал турнира ATP",
-    "sport": "Теннис",
-    "category": "Теннис",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/4/95/347679478510954.jpeg",
-    "teaser": "Рублев впервые с июля 2025 года вышел в полуфинал турнира ATP",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6960be2c9a7947a95029dba6",
-    "publishedAt": "2026-01-09T08:43:25.000Z",
-    "createdAt": "2026-01-09T11:25:04.450Z",
-    "updatedAt": "2026-01-09T11:25:04.450Z"
+    "createdAt": "2026-01-09T12:56:52.878Z",
+    "updatedAt": "2026-01-09T12:56:52.878Z"
   },
   {
     "id": "e34de008a2050df6",
@@ -108,35 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/694cde4f9a7947c76f1ec69c",
     "publishedAt": "2026-01-09T08:09:20.000Z",
-    "createdAt": "2026-01-09T11:25:01.234Z",
-    "updatedAt": "2026-01-09T11:25:01.234Z"
-  },
-  {
-    "id": "f87fe1ceb1163840",
-    "title": "Кросби обошел Гретцки по числу передач за один клуб НХЛ",
-    "sport": "Хоккей",
-    "category": "Хоккей",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/7/31/347679449575317.jpeg",
-    "teaser": "Кросби обошел Гретцки по числу передач за один клуб НХЛ",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6960ad509a79471ed70ad96b",
-    "publishedAt": "2026-01-09T08:02:42.000Z",
-    "createdAt": "2026-01-09T11:25:08.173Z",
-    "updatedAt": "2026-01-09T11:25:08.173Z"
-  },
-  {
-    "id": "e111c8482815a638",
-    "title": "Фигурист Малинин получил на чемпионате США баллы выше мирового рекорда",
-    "sport": "Другое",
-    "category": "Фигурное катание",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/1/13/347679440109131.jpeg",
-    "teaser": "Фигурист Малинин получил на чемпионате США баллы выше мирового рекорда",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6960af209a79474e1bc18b2a",
-    "publishedAt": "2026-01-09T07:42:05.000Z",
-    "createdAt": "2026-01-09T11:25:07.095Z",
-    "updatedAt": "2026-01-09T11:25:07.095Z"
+    "createdAt": "2026-01-09T12:56:47.510Z",
+    "updatedAt": "2026-01-09T12:56:47.510Z"
   }
 ]
