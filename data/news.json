@@ -1,5 +1,33 @@
 [
   {
+    "id": "7575e5c70b4863d4",
+    "title": "Черногорский легионер покинул клуб РПЛ",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/8/14/347679674637148.jpeg",
+    "teaser": "Черногорский легионер покинул клуб РПЛ",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/696105879a79476de1651d00",
+    "publishedAt": "2026-01-09T14:08:15.000Z",
+    "createdAt": "2026-01-09T14:30:17.976Z",
+    "updatedAt": "2026-01-09T14:30:17.976Z"
+  },
+  {
+    "id": "375bcd6cab093bdd",
+    "title": "Чемпион КХЛ расторг и заключил новое соглашение с Радуловым",
+    "sport": "Хоккей",
+    "category": "Хоккей",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/4/98/347679660409984.jpeg",
+    "teaser": "Чемпион КХЛ расторг и заключил новое соглашение с Радуловым",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/696105349a7947eea8f31352",
+    "publishedAt": "2026-01-09T13:45:50.000Z",
+    "createdAt": "2026-01-09T14:30:16.948Z",
+    "updatedAt": "2026-01-09T14:30:16.948Z"
+  },
+  {
     "id": "6d6aae0294ce120c",
     "title": "Даниил Медведев вышел в полуфинал турнира ATP в Брисбене",
     "sport": "Теннис",
@@ -10,8 +38,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6960f9d59a79470aac995c6d",
     "publishedAt": "2026-01-09T13:19:07.000Z",
-    "createdAt": "2026-01-09T13:42:24.940Z",
-    "updatedAt": "2026-01-09T13:42:24.940Z"
+    "createdAt": "2026-01-09T14:30:18.997Z",
+    "updatedAt": "2026-01-09T14:30:18.997Z"
   },
   {
     "id": "c20ee16869d10a81",
@@ -24,8 +52,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6960f47b9a794732f8afd6dd",
     "publishedAt": "2026-01-09T12:36:43.000Z",
-    "createdAt": "2026-01-09T13:42:25.963Z",
-    "updatedAt": "2026-01-09T13:42:25.963Z"
+    "createdAt": "2026-01-09T14:30:21.185Z",
+    "updatedAt": "2026-01-09T14:30:21.185Z"
   },
   {
     "id": "8cb24b0fc6641be8",
@@ -38,8 +66,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6960e72d9a79472dbc115349",
     "publishedAt": "2026-01-09T12:14:58.000Z",
-    "createdAt": "2026-01-09T13:42:26.985Z",
-    "updatedAt": "2026-01-09T13:42:26.985Z"
+    "createdAt": "2026-01-09T14:30:22.281Z",
+    "updatedAt": "2026-01-09T14:30:22.281Z"
   },
   {
     "id": "2c80db15de8e3747",
@@ -52,8 +80,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6960eb949a794706e7ec5d56",
     "publishedAt": "2026-01-09T11:59:11.000Z",
-    "createdAt": "2026-01-09T13:42:29.032Z",
-    "updatedAt": "2026-01-09T13:42:29.032Z"
+    "createdAt": "2026-01-09T14:30:23.348Z",
+    "updatedAt": "2026-01-09T14:30:23.348Z"
   },
   {
     "id": "656ffaa7f99a10c8",
@@ -66,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6960db899a79472728d08158",
     "publishedAt": "2026-01-09T11:26:15.000Z",
-    "createdAt": "2026-01-09T13:42:30.060Z",
-    "updatedAt": "2026-01-09T13:42:30.060Z"
+    "createdAt": "2026-01-09T14:30:24.431Z",
+    "updatedAt": "2026-01-09T14:30:24.431Z"
   },
   {
     "id": "e983ed1d1fe47c4a",
@@ -80,8 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6960e2d19a794759dfbdaea7",
     "publishedAt": "2026-01-09T11:19:08.000Z",
-    "createdAt": "2026-01-09T13:42:31.974Z",
-    "updatedAt": "2026-01-09T13:42:31.974Z"
+    "createdAt": "2026-01-09T14:30:26.632Z",
+    "updatedAt": "2026-01-09T14:30:26.632Z"
   },
   {
     "id": "0242084c32158000",
@@ -94,36 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6960d0389a7947b29e2b75a8",
     "publishedAt": "2026-01-09T10:36:33.000Z",
-    "createdAt": "2026-01-09T13:42:31.068Z",
-    "updatedAt": "2026-01-09T13:42:31.068Z"
-  },
-  {
-    "id": "fffde5c956259f57",
-    "title": "Фетисов заявил, что не станет смотреть Олимпиаду-2026",
-    "sport": "Другое",
-    "category": "Другие",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/0/07/347679530610070.jpeg",
-    "teaser": "Фетисов заявил, что не станет смотреть Олимпиаду-2026",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6960d2649a7947071fad10ec",
-    "publishedAt": "2026-01-09T10:11:27.000Z",
-    "createdAt": "2026-01-09T13:42:33.001Z",
-    "updatedAt": "2026-01-09T13:42:33.001Z"
-  },
-  {
-    "id": "c6ee27604d692a8f",
-    "title": "«Манчестер Сити» купил одного из лучших бомбардиров АПЛ за €72 млн",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/1/49/347679495470491.jpeg",
-    "teaser": "«Манчестер Сити» купил одного из лучших бомбардиров АПЛ за €72 млн",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6960c4cd9a7947ffe86fff5d",
-    "publishedAt": "2026-01-09T09:14:28.000Z",
-    "createdAt": "2026-01-09T13:42:33.988Z",
-    "updatedAt": "2026-01-09T13:42:33.988Z"
+    "createdAt": "2026-01-09T14:30:25.527Z",
+    "updatedAt": "2026-01-09T14:30:25.527Z"
   },
   {
     "id": "e34de008a2050df6",
@@ -136,7 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/694cde4f9a7947c76f1ec69c",
     "publishedAt": "2026-01-09T08:09:20.000Z",
-    "createdAt": "2026-01-09T13:42:28.003Z",
-    "updatedAt": "2026-01-09T13:42:28.003Z"
+    "createdAt": "2026-01-09T14:30:20.079Z",
+    "updatedAt": "2026-01-09T14:30:20.079Z"
   }
 ]
