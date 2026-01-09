@@ -1,5 +1,33 @@
 [
   {
+    "id": "fffde5c956259f57",
+    "title": "Фетисов заявил, что не станет смотреть Олимпиаду-2026",
+    "sport": "Другое",
+    "category": "Другие",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/0/07/347679530610070.jpeg",
+    "teaser": "Фетисов заявил, что не станет смотреть Олимпиаду-2026",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6960d2649a7947071fad10ec",
+    "publishedAt": "2026-01-09T10:11:27.000Z",
+    "createdAt": "2026-01-09T10:30:00.418Z",
+    "updatedAt": "2026-01-09T10:30:00.418Z"
+  },
+  {
+    "id": "04cbe67ca7eeae06",
+    "title": "АСА уволил трех бойцов из-за проваленного взвешивания перед турниром",
+    "sport": "Единоборства",
+    "category": "Единоборства",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/3/50/347679510539503.jpeg",
+    "teaser": "АСА уволил трех бойцов из-за проваленного взвешивания перед турниром",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6960c2be9a79477f95a9ac65",
+    "publishedAt": "2026-01-09T09:47:02.000Z",
+    "createdAt": "2026-01-09T10:30:02.358Z",
+    "updatedAt": "2026-01-09T10:30:02.358Z"
+  },
+  {
     "id": "c6ee27604d692a8f",
     "title": "«Манчестер Сити» купил одного из лучших бомбардиров АПЛ за €72 млн",
     "sport": "Футбол",
@@ -10,8 +38,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6960c4cd9a7947ffe86fff5d",
     "publishedAt": "2026-01-09T09:14:28.000Z",
-    "createdAt": "2026-01-09T09:34:01.384Z",
-    "updatedAt": "2026-01-09T09:34:01.384Z"
+    "createdAt": "2026-01-09T10:30:01.417Z",
+    "updatedAt": "2026-01-09T10:30:01.417Z"
   },
   {
     "id": "d69f378a493e6a83",
@@ -24,8 +52,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6960b7079a79478e4de80887",
     "publishedAt": "2026-01-09T08:46:41.000Z",
-    "createdAt": "2026-01-09T09:34:03.835Z",
-    "updatedAt": "2026-01-09T09:34:03.835Z"
+    "createdAt": "2026-01-09T10:30:05.274Z",
+    "updatedAt": "2026-01-09T10:30:05.274Z"
   },
   {
     "id": "8c29cfdc5ce0a6a9",
@@ -38,8 +66,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6960be2c9a7947a95029dba6",
     "publishedAt": "2026-01-09T08:43:25.000Z",
-    "createdAt": "2026-01-09T09:34:02.529Z",
-    "updatedAt": "2026-01-09T09:34:02.529Z"
+    "createdAt": "2026-01-09T10:30:04.247Z",
+    "updatedAt": "2026-01-09T10:30:04.247Z"
   },
   {
     "id": "e34de008a2050df6",
@@ -52,8 +80,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/694cde4f9a7947c76f1ec69c",
     "publishedAt": "2026-01-09T08:09:20.000Z",
-    "createdAt": "2026-01-09T09:34:04.981Z",
-    "updatedAt": "2026-01-09T09:34:04.981Z"
+    "createdAt": "2026-01-09T10:30:03.439Z",
+    "updatedAt": "2026-01-09T10:30:03.439Z"
   },
   {
     "id": "f87fe1ceb1163840",
@@ -66,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6960ad509a79471ed70ad96b",
     "publishedAt": "2026-01-09T08:02:42.000Z",
-    "createdAt": "2026-01-09T09:34:07.285Z",
-    "updatedAt": "2026-01-09T09:34:07.285Z"
+    "createdAt": "2026-01-09T10:30:07.403Z",
+    "updatedAt": "2026-01-09T10:30:07.403Z"
   },
   {
     "id": "e111c8482815a638",
@@ -80,8 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6960af209a79474e1bc18b2a",
     "publishedAt": "2026-01-09T07:42:05.000Z",
-    "createdAt": "2026-01-09T09:34:06.145Z",
-    "updatedAt": "2026-01-09T09:34:06.145Z"
+    "createdAt": "2026-01-09T10:30:06.288Z",
+    "updatedAt": "2026-01-09T10:30:06.288Z"
   },
   {
     "id": "b2dee15bb396e43a",
@@ -94,8 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6960ac7b9a7947831886438d",
     "publishedAt": "2026-01-09T07:30:28.000Z",
-    "createdAt": "2026-01-09T09:34:08.441Z",
-    "updatedAt": "2026-01-09T09:34:08.441Z"
+    "createdAt": "2026-01-09T10:30:08.441Z",
+    "updatedAt": "2026-01-09T10:30:08.442Z"
   },
   {
     "id": "8c28def36f50a0c9",
@@ -108,35 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6960a85e9a7947acd6b7727d",
     "publishedAt": "2026-01-09T07:14:29.000Z",
-    "createdAt": "2026-01-09T09:34:09.926Z",
-    "updatedAt": "2026-01-09T09:34:09.926Z"
-  },
-  {
-    "id": "7c2c7533bae322b5",
-    "title": "«Северсталь» третий раз за сезон обыграла минское «Динамо» в КХЛ",
-    "sport": "Хоккей",
-    "category": "Хоккей",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/7/25/347678922617257.jpeg",
-    "teaser": "«Северсталь» третий раз за сезон обыграла минское «Динамо» в КХЛ",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/695fe1f69a7947213f861671",
-    "publishedAt": "2026-01-08T18:28:22.000Z",
-    "createdAt": "2026-01-09T09:34:11.082Z",
-    "updatedAt": "2026-01-09T09:34:11.082Z"
-  },
-  {
-    "id": "8544332643014c47",
-    "title": "Номинанту на «Золотой мяч» предложили стать помощником тренера «Динамо»",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/3/41/347678909773413.jpeg",
-    "teaser": "Номинанту на «Золотой мяч» предложили стать помощником тренера «Динамо»",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/695fdcba9a79478b25dfa327",
-    "publishedAt": "2026-01-08T17:46:34.000Z",
-    "createdAt": "2026-01-09T09:34:12.236Z",
-    "updatedAt": "2026-01-09T09:34:12.236Z"
+    "createdAt": "2026-01-09T10:30:09.437Z",
+    "updatedAt": "2026-01-09T10:30:09.437Z"
   }
 ]
