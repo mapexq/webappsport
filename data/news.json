@@ -1,5 +1,33 @@
 [
   {
+    "id": "e983ed1d1fe47c4a",
+    "title": "Чемпион России в составе «Зенита» перешел в клуб Первой лиги",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/0/95/347679572268950.jpeg",
+    "teaser": "Чемпион России в составе «Зенита» перешел в клуб Первой лиги",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6960e2d19a794759dfbdaea7",
+    "publishedAt": "2026-01-09T11:19:08.000Z",
+    "createdAt": "2026-01-09T11:24:59.126Z",
+    "updatedAt": "2026-01-09T11:24:59.126Z"
+  },
+  {
+    "id": "0242084c32158000",
+    "title": "Мирра Андреева проиграла второй ракетке Украины на турнире в Брисбене",
+    "sport": "Теннис",
+    "category": "Теннис",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/7/84/347679542575847.jpeg",
+    "teaser": "Мирра Андреева проиграла второй ракетке Украины на турнире в Брисбене",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6960d0389a7947b29e2b75a8",
+    "publishedAt": "2026-01-09T10:36:33.000Z",
+    "createdAt": "2026-01-09T11:24:58.065Z",
+    "updatedAt": "2026-01-09T11:24:58.065Z"
+  },
+  {
     "id": "fffde5c956259f57",
     "title": "Фетисов заявил, что не станет смотреть Олимпиаду-2026",
     "sport": "Другое",
@@ -10,8 +38,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6960d2649a7947071fad10ec",
     "publishedAt": "2026-01-09T10:11:27.000Z",
-    "createdAt": "2026-01-09T10:30:00.418Z",
-    "updatedAt": "2026-01-09T10:30:00.418Z"
+    "createdAt": "2026-01-09T11:25:00.170Z",
+    "updatedAt": "2026-01-09T11:25:00.170Z"
   },
   {
     "id": "04cbe67ca7eeae06",
@@ -24,8 +52,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6960c2be9a79477f95a9ac65",
     "publishedAt": "2026-01-09T09:47:02.000Z",
-    "createdAt": "2026-01-09T10:30:02.358Z",
-    "updatedAt": "2026-01-09T10:30:02.358Z"
+    "createdAt": "2026-01-09T11:25:03.396Z",
+    "updatedAt": "2026-01-09T11:25:03.396Z"
   },
   {
     "id": "c6ee27604d692a8f",
@@ -38,8 +66,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6960c4cd9a7947ffe86fff5d",
     "publishedAt": "2026-01-09T09:14:28.000Z",
-    "createdAt": "2026-01-09T10:30:01.417Z",
-    "updatedAt": "2026-01-09T10:30:01.417Z"
+    "createdAt": "2026-01-09T11:25:02.300Z",
+    "updatedAt": "2026-01-09T11:25:02.300Z"
   },
   {
     "id": "d69f378a493e6a83",
@@ -52,8 +80,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6960b7079a79478e4de80887",
     "publishedAt": "2026-01-09T08:46:41.000Z",
-    "createdAt": "2026-01-09T10:30:05.274Z",
-    "updatedAt": "2026-01-09T10:30:05.274Z"
+    "createdAt": "2026-01-09T11:25:06.011Z",
+    "updatedAt": "2026-01-09T11:25:06.011Z"
   },
   {
     "id": "8c29cfdc5ce0a6a9",
@@ -66,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6960be2c9a7947a95029dba6",
     "publishedAt": "2026-01-09T08:43:25.000Z",
-    "createdAt": "2026-01-09T10:30:04.247Z",
-    "updatedAt": "2026-01-09T10:30:04.247Z"
+    "createdAt": "2026-01-09T11:25:04.450Z",
+    "updatedAt": "2026-01-09T11:25:04.450Z"
   },
   {
     "id": "e34de008a2050df6",
@@ -80,8 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/694cde4f9a7947c76f1ec69c",
     "publishedAt": "2026-01-09T08:09:20.000Z",
-    "createdAt": "2026-01-09T10:30:03.439Z",
-    "updatedAt": "2026-01-09T10:30:03.439Z"
+    "createdAt": "2026-01-09T11:25:01.234Z",
+    "updatedAt": "2026-01-09T11:25:01.234Z"
   },
   {
     "id": "f87fe1ceb1163840",
@@ -94,8 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6960ad509a79471ed70ad96b",
     "publishedAt": "2026-01-09T08:02:42.000Z",
-    "createdAt": "2026-01-09T10:30:07.403Z",
-    "updatedAt": "2026-01-09T10:30:07.403Z"
+    "createdAt": "2026-01-09T11:25:08.173Z",
+    "updatedAt": "2026-01-09T11:25:08.173Z"
   },
   {
     "id": "e111c8482815a638",
@@ -108,35 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6960af209a79474e1bc18b2a",
     "publishedAt": "2026-01-09T07:42:05.000Z",
-    "createdAt": "2026-01-09T10:30:06.288Z",
-    "updatedAt": "2026-01-09T10:30:06.288Z"
-  },
-  {
-    "id": "b2dee15bb396e43a",
-    "title": "Панарин стал седьмым россиянином с 600 результативными передачами в НХЛ",
-    "sport": "Хоккей",
-    "category": "Хоккей",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/1/53/347679438196531.jpeg",
-    "teaser": "Панарин стал седьмым россиянином с 600 результативными передачами в НХЛ",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6960ac7b9a7947831886438d",
-    "publishedAt": "2026-01-09T07:30:28.000Z",
-    "createdAt": "2026-01-09T10:30:08.441Z",
-    "updatedAt": "2026-01-09T10:30:08.442Z"
-  },
-  {
-    "id": "8c28def36f50a0c9",
-    "title": "Умерла двукратная олимпийская чемпионка по баскетболу Ульяна Семенова",
-    "sport": "Баскетбол",
-    "category": "Баскетбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/3/68/347679423037683.jpeg",
-    "teaser": "Умерла двукратная олимпийская чемпионка по баскетболу Ульяна Семенова",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6960a85e9a7947acd6b7727d",
-    "publishedAt": "2026-01-09T07:14:29.000Z",
-    "createdAt": "2026-01-09T10:30:09.437Z",
-    "updatedAt": "2026-01-09T10:30:09.437Z"
+    "createdAt": "2026-01-09T11:25:07.095Z",
+    "updatedAt": "2026-01-09T11:25:07.095Z"
   }
 ]
