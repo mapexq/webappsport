@@ -1,5 +1,61 @@
 [
   {
+    "id": "f1959adcaef2eb3b",
+    "title": "Футболисту ЦСКА вручили награду лучшему молодому игроку РПЛ",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/7/30/347680551890307.jpeg",
+    "teaser": "Футболисту ЦСКА вручили награду лучшему молодому игроку РПЛ",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69625f009a79474b98f79f80",
+    "publishedAt": "2026-01-10T14:30:07.000Z",
+    "createdAt": "2026-01-10T15:25:43.228Z",
+    "updatedAt": "2026-01-10T15:25:43.228Z"
+  },
+  {
+    "id": "38b6703251e9680c",
+    "title": "Дебютная шайба Кузнецова помогла «Салавату Юлаеву» обыграть клуб КХЛ",
+    "sport": "Хоккей",
+    "category": "Хоккей",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/5/23/347680535124235.jpeg",
+    "teaser": "Дебютная шайба Кузнецова помогла «Салавату Юлаеву» обыграть клуб КХЛ",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/696258829a79471b7fb99995",
+    "publishedAt": "2026-01-10T14:05:38.000Z",
+    "createdAt": "2026-01-10T15:25:44.288Z",
+    "updatedAt": "2026-01-10T15:25:44.288Z"
+  },
+  {
+    "id": "78e3c1fcc718cda3",
+    "title": "Хачанов и Рублев сыграют в финале парного разряда на турнире в Гонконге",
+    "sport": "Теннис",
+    "category": "Теннис",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/5/47/347680512347475.jpeg",
+    "teaser": "Хачанов и Рублев сыграют в финале парного разряда на турнире в Гонконге",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6962515c9a79475a6834d003",
+    "publishedAt": "2026-01-10T13:51:20.000Z",
+    "createdAt": "2026-01-10T15:25:45.356Z",
+    "updatedAt": "2026-01-10T15:25:45.356Z"
+  },
+  {
+    "id": "0ac3cd54f6d43bea",
+    "title": "Российский скелетонист выиграл этап Кубка Европы",
+    "sport": "Другое",
+    "category": "Другие",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/3/54/347680494972543.jpeg",
+    "teaser": "Российский скелетонист выиграл этап Кубка Европы",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69624a5b9a7947351b847012",
+    "publishedAt": "2026-01-10T13:36:55.000Z",
+    "createdAt": "2026-01-10T15:25:46.292Z",
+    "updatedAt": "2026-01-10T15:25:46.292Z"
+  },
+  {
     "id": "e79cfedb78fa117b",
     "title": "Российская фехтовальщица завоевала бронзу на этапе Кубка мира",
     "sport": "Другое",
@@ -10,8 +66,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/696244eb9a79473420c7f69e",
     "publishedAt": "2026-01-10T12:53:00.000Z",
-    "createdAt": "2026-01-10T14:24:22.257Z",
-    "updatedAt": "2026-01-10T14:24:22.257Z"
+    "createdAt": "2026-01-10T15:25:47.368Z",
+    "updatedAt": "2026-01-10T15:25:47.368Z"
   },
   {
     "id": "7c939bc9cbc6aed7",
@@ -24,8 +80,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69623dd29a7947355452ade0",
     "publishedAt": "2026-01-10T12:27:09.000Z",
-    "createdAt": "2026-01-10T14:24:23.419Z",
-    "updatedAt": "2026-01-10T14:24:23.419Z"
+    "createdAt": "2026-01-10T15:25:48.360Z",
+    "updatedAt": "2026-01-10T15:25:48.360Z"
   },
   {
     "id": "58daf0f220e9dc31",
@@ -38,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6962322e9a7947805b685b2f",
     "publishedAt": "2026-01-10T11:56:47.000Z",
-    "createdAt": "2026-01-10T14:24:24.566Z",
-    "updatedAt": "2026-01-10T14:24:24.566Z"
+    "createdAt": "2026-01-10T15:25:49.412Z",
+    "updatedAt": "2026-01-10T15:25:49.412Z"
   },
   {
     "id": "385172d064becf38",
@@ -52,8 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6962341b9a7947813c6c0912",
     "publishedAt": "2026-01-10T11:30:00.000Z",
-    "createdAt": "2026-01-10T14:24:25.651Z",
-    "updatedAt": "2026-01-10T14:24:25.651Z"
+    "createdAt": "2026-01-10T15:25:50.508Z",
+    "updatedAt": "2026-01-10T15:25:50.508Z"
   },
   {
     "id": "cbd33e962bbe257c",
@@ -66,8 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69622fbd9a7947861e22667d",
     "publishedAt": "2026-01-10T11:08:49.000Z",
-    "createdAt": "2026-01-10T14:24:26.797Z",
-    "updatedAt": "2026-01-10T14:24:26.797Z"
+    "createdAt": "2026-01-10T15:25:51.579Z",
+    "updatedAt": "2026-01-10T15:25:51.579Z"
   },
   {
     "id": "875b78e122dbfe70",
@@ -80,63 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69622c6d9a794762b0e8a0ab",
     "publishedAt": "2026-01-10T10:53:00.000Z",
-    "createdAt": "2026-01-10T14:24:28.798Z",
-    "updatedAt": "2026-01-10T14:24:28.798Z"
-  },
-  {
-    "id": "452c07705614b81d",
-    "title": "Франция перенесла саммит G7 ради турнира UFC в Белом доме",
-    "sport": "Единоборства",
-    "category": "Единоборства",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/9/45/347680405916459.jpeg",
-    "teaser": "Франция перенесла саммит G7 ради турнира UFC в Белом доме",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6962244e9a7947847d53f54f",
-    "publishedAt": "2026-01-10T10:44:08.000Z",
-    "createdAt": "2026-01-10T14:24:29.937Z",
-    "updatedAt": "2026-01-10T14:24:29.937Z"
-  },
-  {
-    "id": "9a174268b89b3086",
-    "title": "Украинка Костюк сыграет с Соболенко в финале турнира WTA в Брисбене",
-    "sport": "Теннис",
-    "category": "Теннис",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/4/59/347680378737594.jpeg",
-    "teaser": "Украинка Костюк сыграет с Соболенко в финале турнира WTA в Брисбене",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69621ca09a79478b85d89cfa",
-    "publishedAt": "2026-01-10T10:12:38.000Z",
-    "createdAt": "2026-01-10T14:24:31.099Z",
-    "updatedAt": "2026-01-10T14:24:31.099Z"
-  },
-  {
-    "id": "52db084bf68fc56a",
-    "title": "Россиянин Демин установил рекорд среди новичков «Бруклина» в НБА",
-    "sport": "Баскетбол",
-    "category": "Баскетбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/5/86/347680363682865.jpeg",
-    "teaser": "Россиянин Демин установил рекорд среди новичков «Бруклина» в НБА",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/696214139a79470c0251548e",
-    "publishedAt": "2026-01-10T09:20:50.000Z",
-    "createdAt": "2026-01-10T14:24:32.247Z",
-    "updatedAt": "2026-01-10T14:24:32.247Z"
-  },
-  {
-    "id": "f239e9e19ebaf26f",
-    "title": "Овечкин впервые за два месяца забросил шайбы в трех матчах подряд",
-    "sport": "Хоккей",
-    "category": "Хоккей",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/5/79/347680291618795.jpeg",
-    "teaser": "Овечкин впервые за два месяца забросил шайбы в трех матчах подряд",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6961faf79a7947344e0f5754",
-    "publishedAt": "2026-01-10T08:57:36.000Z",
-    "createdAt": "2026-01-10T14:24:33.409Z",
-    "updatedAt": "2026-01-10T14:24:33.409Z"
+    "createdAt": "2026-01-10T15:25:53.520Z",
+    "updatedAt": "2026-01-10T15:25:53.520Z"
   }
 ]
