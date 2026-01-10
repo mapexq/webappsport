@@ -1,5 +1,47 @@
 [
   {
+    "id": "5d6f7e0eb0fc923c",
+    "title": "Фетисов предложил провести хоккейный турнир Олимпиады-2026 в Сочи",
+    "sport": "Хоккей",
+    "category": "Хоккей",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/2/45/347680506351452.jpeg",
+    "teaser": "Фетисов предложил провести хоккейный турнир Олимпиады-2026 в Сочи",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69624d289a7947771ee5fbe3",
+    "publishedAt": "2026-01-10T17:55:55.000Z",
+    "createdAt": "2026-01-10T19:20:20.677Z",
+    "updatedAt": "2026-01-10T19:20:20.677Z"
+  },
+  {
+    "id": "d813faeb6be7a98b",
+    "title": "«Ахмат» подписал контракты с игроками сборных Казахстана и Албании",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/7/40/347680603966407.jpeg",
+    "teaser": "«Ахмат» подписал контракты с игроками сборных Казахстана и Албании",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/696275a79a7947d8c3b94b4f",
+    "publishedAt": "2026-01-10T17:23:47.000Z",
+    "createdAt": "2026-01-10T19:20:21.672Z",
+    "updatedAt": "2026-01-10T19:20:21.672Z"
+  },
+  {
+    "id": "29fffcccbf709bf7",
+    "title": "Клуб из шестого дивизиона Англии выбил «Кристал Пэлас» из Кубка страны",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/6/37/347680636451376.jpeg",
+    "teaser": "Клуб из шестого дивизиона Англии выбил «Кристал Пэлас» из Кубка страны",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/696281b19a7947396a9d17c0",
+    "publishedAt": "2026-01-10T17:21:55.000Z",
+    "createdAt": "2026-01-10T19:20:23.224Z",
+    "updatedAt": "2026-01-10T19:20:23.224Z"
+  },
+  {
     "id": "91dcf3bb80cf48cb",
     "title": "Российская саночница заняла десятое место на этапе Кубка мира в Германии",
     "sport": "Другое",
@@ -10,8 +52,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69626fe09a794706b47bda67",
     "publishedAt": "2026-01-10T16:42:54.000Z",
-    "createdAt": "2026-01-10T18:36:38.476Z",
-    "updatedAt": "2026-01-10T18:36:38.476Z"
+    "createdAt": "2026-01-10T19:20:24.264Z",
+    "updatedAt": "2026-01-10T19:20:24.264Z"
   },
   {
     "id": "3ebdb7fc2c6b4f3a",
@@ -24,8 +66,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/696268f59a794740eb23ed1c",
     "publishedAt": "2026-01-10T15:48:51.000Z",
-    "createdAt": "2026-01-10T18:36:39.689Z",
-    "updatedAt": "2026-01-10T18:36:39.689Z"
+    "createdAt": "2026-01-10T19:20:25.334Z",
+    "updatedAt": "2026-01-10T19:20:25.334Z"
   },
   {
     "id": "72ba19c5bc84a32b",
@@ -38,8 +80,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/696263499a79475c8d5b4b8c",
     "publishedAt": "2026-01-10T14:47:50.000Z",
-    "createdAt": "2026-01-10T18:36:40.759Z",
-    "updatedAt": "2026-01-10T18:36:40.759Z"
+    "createdAt": "2026-01-10T19:20:26.439Z",
+    "updatedAt": "2026-01-10T19:20:26.439Z"
   },
   {
     "id": "f1959adcaef2eb3b",
@@ -52,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69625f009a79474b98f79f80",
     "publishedAt": "2026-01-10T14:30:07.000Z",
-    "createdAt": "2026-01-10T18:36:41.866Z",
-    "updatedAt": "2026-01-10T18:36:41.866Z"
+    "createdAt": "2026-01-10T19:20:27.479Z",
+    "updatedAt": "2026-01-10T19:20:27.479Z"
   },
   {
     "id": "38b6703251e9680c",
@@ -66,8 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/696258829a79471b7fb99995",
     "publishedAt": "2026-01-10T14:05:38.000Z",
-    "createdAt": "2026-01-10T18:36:42.887Z",
-    "updatedAt": "2026-01-10T18:36:42.887Z"
+    "createdAt": "2026-01-10T19:20:28.529Z",
+    "updatedAt": "2026-01-10T19:20:28.529Z"
   },
   {
     "id": "78e3c1fcc718cda3",
@@ -80,8 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6962515c9a79475a6834d003",
     "publishedAt": "2026-01-10T13:51:20.000Z",
-    "createdAt": "2026-01-10T18:36:43.899Z",
-    "updatedAt": "2026-01-10T18:36:43.899Z"
+    "createdAt": "2026-01-10T19:20:29.621Z",
+    "updatedAt": "2026-01-10T19:20:29.621Z"
   },
   {
     "id": "0ac3cd54f6d43bea",
@@ -94,49 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69624a5b9a7947351b847012",
     "publishedAt": "2026-01-10T13:36:55.000Z",
-    "createdAt": "2026-01-10T18:36:44.915Z",
-    "updatedAt": "2026-01-10T18:36:44.915Z"
-  },
-  {
-    "id": "e79cfedb78fa117b",
-    "title": "Российская фехтовальщица завоевала бронзу на этапе Кубка мира",
-    "sport": "Другое",
-    "category": "Другие",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/6/48/347680484993486.jpeg",
-    "teaser": "Российская фехтовальщица завоевала бронзу на этапе Кубка мира",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/696244eb9a79473420c7f69e",
-    "publishedAt": "2026-01-10T12:53:00.000Z",
-    "createdAt": "2026-01-10T18:36:45.973Z",
-    "updatedAt": "2026-01-10T18:36:45.973Z"
-  },
-  {
-    "id": "7c939bc9cbc6aed7",
-    "title": "Биатлонистке Халили диагностировали астенический синдром",
-    "sport": "Другое",
-    "category": "Биатлон",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/3/56/347680472106563.jpeg",
-    "teaser": "Биатлонистке Халили диагностировали астенический синдром",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69623dd29a7947355452ade0",
-    "publishedAt": "2026-01-10T12:27:09.000Z",
-    "createdAt": "2026-01-10T18:36:47.079Z",
-    "updatedAt": "2026-01-10T18:36:47.079Z"
-  },
-  {
-    "id": "58daf0f220e9dc31",
-    "title": "Даниил Медведев вышел в финал турнира в Брисбене",
-    "sport": "Теннис",
-    "category": "Теннис",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/0/63/347680431706630.jpeg",
-    "teaser": "Даниил Медведев вышел в финал турнира в Брисбене",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6962322e9a7947805b685b2f",
-    "publishedAt": "2026-01-10T11:56:47.000Z",
-    "createdAt": "2026-01-10T18:36:48.139Z",
-    "updatedAt": "2026-01-10T18:36:48.139Z"
+    "createdAt": "2026-01-10T19:20:30.695Z",
+    "updatedAt": "2026-01-10T19:20:30.695Z"
   }
 ]
