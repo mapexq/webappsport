@@ -1,5 +1,47 @@
 [
   {
+    "id": "8f0d5f0279fdce48",
+    "title": "Виктория Метеля победила в масс-старте на чемпионате России по биатлону",
+    "sport": "Другое",
+    "category": "Биатлон",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/9/39/347681240331399.jpeg",
+    "teaser": "Виктория Метеля победила в масс-старте на чемпионате России по биатлону",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69636d419a79478281660978",
+    "publishedAt": "2026-01-11T10:37:44.000Z",
+    "createdAt": "2026-01-11T11:22:05.185Z",
+    "updatedAt": "2026-01-11T11:22:05.185Z"
+  },
+  {
+    "id": "bd0174bce9a81e6d",
+    "title": "Даниил Медведев выиграл первый турнир в сезоне",
+    "sport": "Теннис",
+    "category": "Теннис",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/2/05/347681252115052.jpeg",
+    "teaser": "Даниил Медведев выиграл первый турнир в сезоне",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/696372f89a79472b2ac8f9ae",
+    "publishedAt": "2026-01-11T10:20:02.000Z",
+    "createdAt": "2026-01-11T11:22:04.114Z",
+    "updatedAt": "2026-01-11T11:22:04.114Z"
+  },
+  {
+    "id": "7dbf89c87ea7ce22",
+    "title": "Соболенко обыграла украинку и защитила титул чемпионки турнира в Брисбене",
+    "sport": "Теннис",
+    "category": "Теннис",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/3/54/347681230575543.jpeg",
+    "teaser": "Соболенко обыграла украинку и защитила титул чемпионки турнира в Брисбене",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/696368759a794711049b0489",
+    "publishedAt": "2026-01-11T10:14:35.000Z",
+    "createdAt": "2026-01-11T11:22:06.293Z",
+    "updatedAt": "2026-01-11T11:22:06.293Z"
+  },
+  {
     "id": "e2d080f25cec506d",
     "title": "Россиянин впервые сделал покер и вошел в число лучших игроков дня в НХЛ",
     "sport": "Хоккей",
@@ -10,8 +52,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6963674c9a79474094fbc26f",
     "publishedAt": "2026-01-11T09:31:49.000Z",
-    "createdAt": "2026-01-11T10:27:16.303Z",
-    "updatedAt": "2026-01-11T10:27:16.303Z"
+    "createdAt": "2026-01-11T11:22:02.996Z",
+    "updatedAt": "2026-01-11T11:22:02.996Z"
   },
   {
     "id": "5d6f7e0eb0fc923c",
@@ -24,8 +66,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69624d289a7947771ee5fbe3",
     "publishedAt": "2026-01-10T17:55:55.000Z",
-    "createdAt": "2026-01-11T10:27:17.937Z",
-    "updatedAt": "2026-01-11T10:27:17.937Z"
+    "createdAt": "2026-01-11T11:22:07.339Z",
+    "updatedAt": "2026-01-11T11:22:07.339Z"
   },
   {
     "id": "d813faeb6be7a98b",
@@ -38,8 +80,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/696275a79a7947d8c3b94b4f",
     "publishedAt": "2026-01-10T17:23:47.000Z",
-    "createdAt": "2026-01-11T10:27:19.100Z",
-    "updatedAt": "2026-01-11T10:27:19.100Z"
+    "createdAt": "2026-01-11T11:22:08.493Z",
+    "updatedAt": "2026-01-11T11:22:08.493Z"
   },
   {
     "id": "29fffcccbf709bf7",
@@ -52,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/696281b19a7947396a9d17c0",
     "publishedAt": "2026-01-10T17:21:55.000Z",
-    "createdAt": "2026-01-11T10:27:20.245Z",
-    "updatedAt": "2026-01-11T10:27:20.245Z"
+    "createdAt": "2026-01-11T11:22:10.620Z",
+    "updatedAt": "2026-01-11T11:22:10.620Z"
   },
   {
     "id": "91dcf3bb80cf48cb",
@@ -66,8 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69626fe09a794706b47bda67",
     "publishedAt": "2026-01-10T16:42:54.000Z",
-    "createdAt": "2026-01-11T10:27:21.302Z",
-    "updatedAt": "2026-01-11T10:27:21.302Z"
+    "createdAt": "2026-01-11T11:22:09.590Z",
+    "updatedAt": "2026-01-11T11:22:09.590Z"
   },
   {
     "id": "3ebdb7fc2c6b4f3a",
@@ -80,8 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/696268f59a794740eb23ed1c",
     "publishedAt": "2026-01-10T15:48:51.000Z",
-    "createdAt": "2026-01-11T10:27:22.429Z",
-    "updatedAt": "2026-01-11T10:27:22.429Z"
+    "createdAt": "2026-01-11T11:22:11.780Z",
+    "updatedAt": "2026-01-11T11:22:11.780Z"
   },
   {
     "id": "72ba19c5bc84a32b",
@@ -94,49 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/696263499a79475c8d5b4b8c",
     "publishedAt": "2026-01-10T14:47:50.000Z",
-    "createdAt": "2026-01-11T10:27:23.683Z",
-    "updatedAt": "2026-01-11T10:27:23.683Z"
-  },
-  {
-    "id": "f1959adcaef2eb3b",
-    "title": "Футболисту ЦСКА вручили награду лучшему молодому игроку РПЛ",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/7/30/347680551890307.jpeg",
-    "teaser": "Футболисту ЦСКА вручили награду лучшему молодому игроку РПЛ",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69625f009a79474b98f79f80",
-    "publishedAt": "2026-01-10T14:30:07.000Z",
-    "createdAt": "2026-01-11T10:27:24.857Z",
-    "updatedAt": "2026-01-11T10:27:24.857Z"
-  },
-  {
-    "id": "38b6703251e9680c",
-    "title": "Дебютная шайба Кузнецова помогла «Салавату Юлаеву» обыграть клуб КХЛ",
-    "sport": "Хоккей",
-    "category": "Хоккей",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/5/23/347680535124235.jpeg",
-    "teaser": "Дебютная шайба Кузнецова помогла «Салавату Юлаеву» обыграть клуб КХЛ",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/696258829a79471b7fb99995",
-    "publishedAt": "2026-01-10T14:05:38.000Z",
-    "createdAt": "2026-01-11T10:27:26.097Z",
-    "updatedAt": "2026-01-11T10:27:26.097Z"
-  },
-  {
-    "id": "78e3c1fcc718cda3",
-    "title": "Хачанов и Рублев сыграют в финале парного разряда на турнире в Гонконге",
-    "sport": "Теннис",
-    "category": "Теннис",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/5/47/347680512347475.jpeg",
-    "teaser": "Хачанов и Рублев сыграют в финале парного разряда на турнире в Гонконге",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6962515c9a79475a6834d003",
-    "publishedAt": "2026-01-10T13:51:20.000Z",
-    "createdAt": "2026-01-11T10:27:27.258Z",
-    "updatedAt": "2026-01-11T10:27:27.258Z"
+    "createdAt": "2026-01-11T11:22:12.913Z",
+    "updatedAt": "2026-01-11T11:22:12.913Z"
   }
 ]
