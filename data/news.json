@@ -1,5 +1,47 @@
 [
   {
+    "id": "4b07f68b5d95cc85",
+    "title": "Лусиано Гонду перешел из «Зенита» в ЦСКА",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/2/59/347681477298592.png",
+    "teaser": "Лусиано Гонду перешел из «Зенита» в ЦСКА",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6963cacf9a79478edec3178b",
+    "publishedAt": "2026-01-11T16:23:22.000Z",
+    "createdAt": "2026-01-11T16:31:20.770Z",
+    "updatedAt": "2026-01-11T16:31:20.770Z"
+  },
+  {
+    "id": "42241d881e3c0e80",
+    "title": "Три американских бобслеиста выпали из саней на этапе Кубка мира",
+    "sport": "Другое",
+    "category": "Другие",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/9/02/347681469552029.png",
+    "teaser": "Три американских бобслеиста выпали из саней на этапе Кубка мира",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6963c2279a7947d2f9066984",
+    "publishedAt": "2026-01-11T15:58:58.000Z",
+    "createdAt": "2026-01-11T16:31:21.691Z",
+    "updatedAt": "2026-01-11T16:31:21.691Z"
+  },
+  {
+    "id": "0ffcc48a1da976bc",
+    "title": "Умер победитель первого чемпионата мира по хоккею с мячом Водянов",
+    "sport": "Другое",
+    "category": "Другие",
+    "imageUrl": "/images/news-placeholder.jpg",
+    "teaser": "Умер победитель первого чемпионата мира по хоккею с мячом Водянов",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6963afee9a7947816773d84b",
+    "publishedAt": "2026-01-11T15:20:16.000Z",
+    "createdAt": "2026-01-11T16:31:23.716Z",
+    "updatedAt": "2026-01-11T16:31:23.716Z"
+  },
+  {
     "id": "df4a513feaa487bd",
     "title": "Защитник сборной России перешел из ЦСКА в «Зенит»",
     "sport": "Футбол",
@@ -10,8 +52,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6963bcaa9a794764bfd6b48d",
     "publishedAt": "2026-01-11T15:18:03.000Z",
-    "createdAt": "2026-01-11T15:25:49.374Z",
-    "updatedAt": "2026-01-11T15:25:49.374Z"
+    "createdAt": "2026-01-11T16:31:24.859Z",
+    "updatedAt": "2026-01-11T16:31:24.859Z"
   },
   {
     "id": "da0228f6e2595b35",
@@ -24,8 +66,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6963a6469a7947a8f33682c9",
     "publishedAt": "2026-01-11T14:41:43.000Z",
-    "createdAt": "2026-01-11T15:25:50.457Z",
-    "updatedAt": "2026-01-11T15:25:50.457Z"
+    "createdAt": "2026-01-11T16:31:25.923Z",
+    "updatedAt": "2026-01-11T16:31:25.923Z"
   },
   {
     "id": "4e322156ad7b08b6",
@@ -38,8 +80,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69638fd89a7947925ecf8c3f",
     "publishedAt": "2026-01-11T13:36:43.000Z",
-    "createdAt": "2026-01-11T15:25:51.629Z",
-    "updatedAt": "2026-01-11T15:25:51.629Z"
+    "createdAt": "2026-01-11T16:31:28.036Z",
+    "updatedAt": "2026-01-11T16:31:28.036Z"
   },
   {
     "id": "a7290dca678562b8",
@@ -52,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/696399359a7947efe3bc0239",
     "publishedAt": "2026-01-11T13:34:48.000Z",
-    "createdAt": "2026-01-11T15:25:53.913Z",
-    "updatedAt": "2026-01-11T15:25:53.913Z"
+    "createdAt": "2026-01-11T16:31:29.164Z",
+    "updatedAt": "2026-01-11T16:31:29.164Z"
   },
   {
     "id": "aaa66bcf2ed28587",
@@ -66,8 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/696396789a7947b0626d00ed",
     "publishedAt": "2026-01-11T12:43:47.000Z",
-    "createdAt": "2026-01-11T15:25:52.773Z",
-    "updatedAt": "2026-01-11T15:25:52.773Z"
+    "createdAt": "2026-01-11T16:31:26.984Z",
+    "updatedAt": "2026-01-11T16:31:26.984Z"
   },
   {
     "id": "8d9f1c7469d1fc51",
@@ -80,36 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69638fb89a794727bb4cffe8",
     "publishedAt": "2026-01-11T12:09:00.000Z",
-    "createdAt": "2026-01-11T15:25:55.149Z",
-    "updatedAt": "2026-01-11T15:25:55.149Z"
-  },
-  {
-    "id": "31e0147ffe90b9cc",
-    "title": "КХЛ перенесла матч «Сочи» из-за проблем с вылетом в Санкт-Петербург",
-    "sport": "Хоккей",
-    "category": "Хоккей",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/3/47/347681313137473.png",
-    "teaser": "КХЛ перенесла матч «Сочи» из-за проблем с вылетом в Санкт-Петербург",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/696380fa9a794742911f2e6e",
-    "publishedAt": "2026-01-11T11:39:30.000Z",
-    "createdAt": "2026-01-11T15:25:58.400Z",
-    "updatedAt": "2026-01-11T15:25:58.400Z"
-  },
-  {
-    "id": "7527156b10bc471c",
-    "title": "Биатлонист Коновалов в 21 год выиграл масс-старт на чемпионате России",
-    "sport": "Другое",
-    "category": "Биатлон",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/2/97/347681298880972.jpeg",
-    "teaser": "Биатлонист Коновалов в 21 год выиграл масс-старт на чемпионате России",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69637dbe9a79472a840a05b3",
-    "publishedAt": "2026-01-11T11:37:49.000Z",
-    "createdAt": "2026-01-11T15:25:59.546Z",
-    "updatedAt": "2026-01-11T15:25:59.546Z"
+    "createdAt": "2026-01-11T16:31:30.315Z",
+    "updatedAt": "2026-01-11T16:31:30.315Z"
   },
   {
     "id": "fdb523bf58987f41",
@@ -122,21 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/696372ef9a79472ee936df68",
     "publishedAt": "2026-01-11T11:27:37.000Z",
-    "createdAt": "2026-01-11T15:25:56.300Z",
-    "updatedAt": "2026-01-11T15:25:56.300Z"
-  },
-  {
-    "id": "bd0174bce9a81e6d",
-    "title": "Даниил Медведев выиграл первый турнир в сезоне",
-    "sport": "Теннис",
-    "category": "Теннис",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/2/05/347681252115052.jpeg",
-    "teaser": "Даниил Медведев выиграл первый турнир в сезоне",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/696372f89a79472b2ac8f9ae",
-    "publishedAt": "2026-01-11T10:20:02.000Z",
-    "createdAt": "2026-01-11T15:26:00.632Z",
-    "updatedAt": "2026-01-11T15:26:00.632Z"
+    "createdAt": "2026-01-11T16:31:31.387Z",
+    "updatedAt": "2026-01-11T16:31:31.387Z"
   }
 ]
