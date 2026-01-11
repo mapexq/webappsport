@@ -1,5 +1,47 @@
 [
   {
+    "id": "df4a513feaa487bd",
+    "title": "Защитник сборной России перешел из ЦСКА в «Зенит»",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/5/56/347681440952565.png",
+    "teaser": "Защитник сборной России перешел из ЦСКА в «Зенит»",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6963bcaa9a794764bfd6b48d",
+    "publishedAt": "2026-01-11T15:18:03.000Z",
+    "createdAt": "2026-01-11T15:25:49.374Z",
+    "updatedAt": "2026-01-11T15:25:49.374Z"
+  },
+  {
+    "id": "da0228f6e2595b35",
+    "title": "«Ливерпуль» потерял защитника из-за серьезной травмы колена",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/6/96/347681393293966.jpeg",
+    "teaser": "«Ливерпуль» потерял защитника из-за серьезной травмы колена",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6963a6469a7947a8f33682c9",
+    "publishedAt": "2026-01-11T14:41:43.000Z",
+    "createdAt": "2026-01-11T15:25:50.457Z",
+    "updatedAt": "2026-01-11T15:25:50.457Z"
+  },
+  {
+    "id": "4e322156ad7b08b6",
+    "title": "Даниил Медведев посвятил победу в Брисбене годовалой дочери",
+    "sport": "Теннис",
+    "category": "Теннис",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/7/87/347681333976877.jpeg",
+    "teaser": "Даниил Медведев посвятил победу в Брисбене годовалой дочери",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69638fd89a7947925ecf8c3f",
+    "publishedAt": "2026-01-11T13:36:43.000Z",
+    "createdAt": "2026-01-11T15:25:51.629Z",
+    "updatedAt": "2026-01-11T15:25:51.629Z"
+  },
+  {
     "id": "a7290dca678562b8",
     "title": "«Трактор» обыграл «Сибирь» благодаря дублю Светлакова",
     "sport": "Хоккей",
@@ -10,8 +52,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/696399359a7947efe3bc0239",
     "publishedAt": "2026-01-11T13:34:48.000Z",
-    "createdAt": "2026-01-11T14:24:33.497Z",
-    "updatedAt": "2026-01-11T14:24:33.497Z"
+    "createdAt": "2026-01-11T15:25:53.913Z",
+    "updatedAt": "2026-01-11T15:25:53.913Z"
   },
   {
     "id": "aaa66bcf2ed28587",
@@ -24,8 +66,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/696396789a7947b0626d00ed",
     "publishedAt": "2026-01-11T12:43:47.000Z",
-    "createdAt": "2026-01-11T14:24:32.416Z",
-    "updatedAt": "2026-01-11T14:24:32.416Z"
+    "createdAt": "2026-01-11T15:25:52.773Z",
+    "updatedAt": "2026-01-11T15:25:52.773Z"
   },
   {
     "id": "8d9f1c7469d1fc51",
@@ -38,8 +80,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69638fb89a794727bb4cffe8",
     "publishedAt": "2026-01-11T12:09:00.000Z",
-    "createdAt": "2026-01-11T14:24:34.680Z",
-    "updatedAt": "2026-01-11T14:24:34.680Z"
+    "createdAt": "2026-01-11T15:25:55.149Z",
+    "updatedAt": "2026-01-11T15:25:55.149Z"
   },
   {
     "id": "31e0147ffe90b9cc",
@@ -52,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/696380fa9a794742911f2e6e",
     "publishedAt": "2026-01-11T11:39:30.000Z",
-    "createdAt": "2026-01-11T14:24:37.770Z",
-    "updatedAt": "2026-01-11T14:24:37.770Z"
+    "createdAt": "2026-01-11T15:25:58.400Z",
+    "updatedAt": "2026-01-11T15:25:58.400Z"
   },
   {
     "id": "7527156b10bc471c",
@@ -66,8 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69637dbe9a79472a840a05b3",
     "publishedAt": "2026-01-11T11:37:49.000Z",
-    "createdAt": "2026-01-11T14:24:38.920Z",
-    "updatedAt": "2026-01-11T14:24:38.920Z"
+    "createdAt": "2026-01-11T15:25:59.546Z",
+    "updatedAt": "2026-01-11T15:25:59.546Z"
   },
   {
     "id": "fdb523bf58987f41",
@@ -80,22 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/696372ef9a79472ee936df68",
     "publishedAt": "2026-01-11T11:27:37.000Z",
-    "createdAt": "2026-01-11T14:24:35.766Z",
-    "updatedAt": "2026-01-11T14:24:35.766Z"
-  },
-  {
-    "id": "8f0d5f0279fdce48",
-    "title": "Виктория Метеля победила в масс-старте на чемпионате России по биатлону",
-    "sport": "Другое",
-    "category": "Биатлон",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/9/39/347681240331399.jpeg",
-    "teaser": "Виктория Метеля победила в масс-старте на чемпионате России по биатлону",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69636d419a79478281660978",
-    "publishedAt": "2026-01-11T10:37:44.000Z",
-    "createdAt": "2026-01-11T14:24:42.358Z",
-    "updatedAt": "2026-01-11T14:24:42.358Z"
+    "createdAt": "2026-01-11T15:25:56.300Z",
+    "updatedAt": "2026-01-11T15:25:56.300Z"
   },
   {
     "id": "bd0174bce9a81e6d",
@@ -108,35 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/696372f89a79472b2ac8f9ae",
     "publishedAt": "2026-01-11T10:20:02.000Z",
-    "createdAt": "2026-01-11T14:24:40.051Z",
-    "updatedAt": "2026-01-11T14:24:40.051Z"
-  },
-  {
-    "id": "7dbf89c87ea7ce22",
-    "title": "Соболенко обыграла украинку и защитила титул чемпионки турнира в Брисбене",
-    "sport": "Теннис",
-    "category": "Теннис",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/3/54/347681230575543.jpeg",
-    "teaser": "Соболенко обыграла украинку и защитила титул чемпионки турнира в Брисбене",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/696368759a794711049b0489",
-    "publishedAt": "2026-01-11T10:14:35.000Z",
-    "createdAt": "2026-01-11T14:24:43.726Z",
-    "updatedAt": "2026-01-11T14:24:43.726Z"
-  },
-  {
-    "id": "e2d080f25cec506d",
-    "title": "Россиянин впервые сделал покер и вошел в число лучших игроков дня в НХЛ",
-    "sport": "Хоккей",
-    "category": "Хоккей",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/4/37/347681222031374.jpeg",
-    "teaser": "Россиянин впервые сделал покер и вошел в число лучших игроков дня в НХЛ",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6963674c9a79474094fbc26f",
-    "publishedAt": "2026-01-11T09:31:49.000Z",
-    "createdAt": "2026-01-11T14:24:41.197Z",
-    "updatedAt": "2026-01-11T14:24:41.197Z"
+    "createdAt": "2026-01-11T15:26:00.632Z",
+    "updatedAt": "2026-01-11T15:26:00.632Z"
   }
 ]
