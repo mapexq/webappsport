@@ -1,5 +1,75 @@
 [
   {
+    "id": "aaa66bcf2ed28587",
+    "title": "Рублев и Хачанов проиграли в финале турнира в Гонконге",
+    "sport": "Теннис",
+    "category": "Теннис",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/1/08/347681343820081.png",
+    "teaser": "Рублев и Хачанов проиграли в финале турнира в Гонконге",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/696396789a7947b0626d00ed",
+    "publishedAt": "2026-01-11T12:43:47.000Z",
+    "createdAt": "2026-01-11T12:52:38.039Z",
+    "updatedAt": "2026-01-11T12:52:38.039Z"
+  },
+  {
+    "id": "8d9f1c7469d1fc51",
+    "title": "Умер чемпион Олимпиады-1972 в тяжелой атлетике Киржинов",
+    "sport": "Другое",
+    "category": "Другие",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/7/80/347681326005807.png",
+    "teaser": "Умер чемпион Олимпиады-1972 в тяжелой атлетике Киржинов",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69638fb89a794727bb4cffe8",
+    "publishedAt": "2026-01-11T12:09:00.000Z",
+    "createdAt": "2026-01-11T12:52:39.144Z",
+    "updatedAt": "2026-01-11T12:52:39.144Z"
+  },
+  {
+    "id": "31e0147ffe90b9cc",
+    "title": "КХЛ перенесла матч «Сочи» из-за проблем с вылетом в Санкт-Петербург",
+    "sport": "Хоккей",
+    "category": "Хоккей",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/3/47/347681313137473.png",
+    "teaser": "КХЛ перенесла матч «Сочи» из-за проблем с вылетом в Санкт-Петербург",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/696380fa9a794742911f2e6e",
+    "publishedAt": "2026-01-11T11:39:30.000Z",
+    "createdAt": "2026-01-11T12:52:42.244Z",
+    "updatedAt": "2026-01-11T12:52:42.244Z"
+  },
+  {
+    "id": "7527156b10bc471c",
+    "title": "Биатлонист Коновалов в 21 год выиграл масс-старт на чемпионате России",
+    "sport": "Другое",
+    "category": "Биатлон",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/2/97/347681298880972.jpeg",
+    "teaser": "Биатлонист Коновалов в 21 год выиграл масс-старт на чемпионате России",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69637dbe9a79472a840a05b3",
+    "publishedAt": "2026-01-11T11:37:49.000Z",
+    "createdAt": "2026-01-11T12:52:43.332Z",
+    "updatedAt": "2026-01-11T12:52:43.332Z"
+  },
+  {
+    "id": "fdb523bf58987f41",
+    "title": "Бублик выиграл турнир в Гонконге и впервые войдет в топ-10 рейтинга ATP",
+    "sport": "Теннис",
+    "category": "Теннис",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/0/70/347681256193700.jpeg",
+    "teaser": "Бублик выиграл турнир в Гонконге и впервые войдет в топ-10 рейтинга ATP",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/696372ef9a79472ee936df68",
+    "publishedAt": "2026-01-11T11:27:37.000Z",
+    "createdAt": "2026-01-11T12:52:40.280Z",
+    "updatedAt": "2026-01-11T12:52:40.280Z"
+  },
+  {
     "id": "8f0d5f0279fdce48",
     "title": "Виктория Метеля победила в масс-старте на чемпионате России по биатлону",
     "sport": "Другое",
@@ -10,8 +80,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69636d419a79478281660978",
     "publishedAt": "2026-01-11T10:37:44.000Z",
-    "createdAt": "2026-01-11T11:22:05.185Z",
-    "updatedAt": "2026-01-11T11:22:05.185Z"
+    "createdAt": "2026-01-11T12:52:46.551Z",
+    "updatedAt": "2026-01-11T12:52:46.551Z"
   },
   {
     "id": "bd0174bce9a81e6d",
@@ -24,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/696372f89a79472b2ac8f9ae",
     "publishedAt": "2026-01-11T10:20:02.000Z",
-    "createdAt": "2026-01-11T11:22:04.114Z",
-    "updatedAt": "2026-01-11T11:22:04.114Z"
+    "createdAt": "2026-01-11T12:52:44.368Z",
+    "updatedAt": "2026-01-11T12:52:44.368Z"
   },
   {
     "id": "7dbf89c87ea7ce22",
@@ -38,8 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/696368759a794711049b0489",
     "publishedAt": "2026-01-11T10:14:35.000Z",
-    "createdAt": "2026-01-11T11:22:06.293Z",
-    "updatedAt": "2026-01-11T11:22:06.293Z"
+    "createdAt": "2026-01-11T12:52:47.587Z",
+    "updatedAt": "2026-01-11T12:52:47.587Z"
   },
   {
     "id": "e2d080f25cec506d",
@@ -52,8 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6963674c9a79474094fbc26f",
     "publishedAt": "2026-01-11T09:31:49.000Z",
-    "createdAt": "2026-01-11T11:22:02.996Z",
-    "updatedAt": "2026-01-11T11:22:02.996Z"
+    "createdAt": "2026-01-11T12:52:45.454Z",
+    "updatedAt": "2026-01-11T12:52:45.454Z"
   },
   {
     "id": "5d6f7e0eb0fc923c",
@@ -66,77 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69624d289a7947771ee5fbe3",
     "publishedAt": "2026-01-10T17:55:55.000Z",
-    "createdAt": "2026-01-11T11:22:07.339Z",
-    "updatedAt": "2026-01-11T11:22:07.339Z"
-  },
-  {
-    "id": "d813faeb6be7a98b",
-    "title": "«Ахмат» подписал контракты с игроками сборных Казахстана и Албании",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/7/40/347680603966407.jpeg",
-    "teaser": "«Ахмат» подписал контракты с игроками сборных Казахстана и Албании",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/696275a79a7947d8c3b94b4f",
-    "publishedAt": "2026-01-10T17:23:47.000Z",
-    "createdAt": "2026-01-11T11:22:08.493Z",
-    "updatedAt": "2026-01-11T11:22:08.493Z"
-  },
-  {
-    "id": "29fffcccbf709bf7",
-    "title": "Клуб из шестого дивизиона Англии выбил «Кристал Пэлас» из Кубка страны",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/6/37/347680636451376.jpeg",
-    "teaser": "Клуб из шестого дивизиона Англии выбил «Кристал Пэлас» из Кубка страны",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/696281b19a7947396a9d17c0",
-    "publishedAt": "2026-01-10T17:21:55.000Z",
-    "createdAt": "2026-01-11T11:22:10.620Z",
-    "updatedAt": "2026-01-11T11:22:10.620Z"
-  },
-  {
-    "id": "91dcf3bb80cf48cb",
-    "title": "Российская саночница заняла десятое место на этапе Кубка мира в Германии",
-    "sport": "Другое",
-    "category": "Другие",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/1/21/347680612578211.jpeg",
-    "teaser": "Российская саночница заняла десятое место на этапе Кубка мира в Германии",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69626fe09a794706b47bda67",
-    "publishedAt": "2026-01-10T16:42:54.000Z",
-    "createdAt": "2026-01-11T11:22:09.590Z",
-    "updatedAt": "2026-01-11T11:22:09.590Z"
-  },
-  {
-    "id": "3ebdb7fc2c6b4f3a",
-    "title": "Украинская гимнастка заявила, что без России соревнования «стали честнее»",
-    "sport": "Другое",
-    "category": "Другие",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/9/75/347680573530759.jpeg",
-    "teaser": "Украинская гимнастка заявила, что без России соревнования «стали честнее»",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/696268f59a794740eb23ed1c",
-    "publishedAt": "2026-01-10T15:48:51.000Z",
-    "createdAt": "2026-01-11T11:22:11.780Z",
-    "updatedAt": "2026-01-11T11:22:11.780Z"
-  },
-  {
-    "id": "72ba19c5bc84a32b",
-    "title": "Купленный за €25 млн бразилец ушел из «Зенита» спустя полгода в клубе",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/6/27/347680558661276.jpeg",
-    "teaser": "Купленный за €25 млн бразилец ушел из «Зенита» спустя полгода в клубе",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/696263499a79475c8d5b4b8c",
-    "publishedAt": "2026-01-10T14:47:50.000Z",
-    "createdAt": "2026-01-11T11:22:12.913Z",
-    "updatedAt": "2026-01-11T11:22:12.913Z"
+    "createdAt": "2026-01-11T12:52:48.694Z",
+    "updatedAt": "2026-01-11T12:52:48.694Z"
   }
 ]
