@@ -1,5 +1,33 @@
 [
   {
+    "id": "fcad6774e112a534",
+    "title": "«Манчестер Юнайтед» впервые за 44 года вылетел на старте обоих Кубков",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/1/03/347681575415031.jpeg",
+    "teaser": "«Манчестер Юнайтед» впервые за 44 года вылетел на старте обоих Кубков",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6963f1459a7947504d2ea713",
+    "publishedAt": "2026-01-11T19:04:26.000Z",
+    "createdAt": "2026-01-11T19:20:38.566Z",
+    "updatedAt": "2026-01-11T19:20:38.566Z"
+  },
+  {
+    "id": "e70ce560caeea545",
+    "title": "«Реал» включил Мбаппе в запас на финал Суперкубка Испании",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/8/13/347681560003138.jpeg",
+    "teaser": "«Реал» включил Мбаппе в запас на финал Суперкубка Испании",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6963eb369a7947991a02d4ce",
+    "publishedAt": "2026-01-11T18:46:24.000Z",
+    "createdAt": "2026-01-11T19:20:39.689Z",
+    "updatedAt": "2026-01-11T19:20:39.689Z"
+  },
+  {
     "id": "74eacea98fb0df02",
     "title": "ЦСКА победил «Спартак» в КХЛ благодаря дублю Полтапова",
     "sport": "Хоккей",
@@ -10,8 +38,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6963d17c9a7947553e724535",
     "publishedAt": "2026-01-11T17:47:52.000Z",
-    "createdAt": "2026-01-11T18:36:05.907Z",
-    "updatedAt": "2026-01-11T18:36:05.907Z"
+    "createdAt": "2026-01-11T19:20:42.355Z",
+    "updatedAt": "2026-01-11T19:20:42.355Z"
   },
   {
     "id": "d097f6166e14ed74",
@@ -24,8 +52,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6963d8fb9a79474efcf6ffa7",
     "publishedAt": "2026-01-11T17:28:18.000Z",
-    "createdAt": "2026-01-11T18:36:05.093Z",
-    "updatedAt": "2026-01-11T18:36:05.093Z"
+    "createdAt": "2026-01-11T19:20:41.210Z",
+    "updatedAt": "2026-01-11T19:20:41.210Z"
   },
   {
     "id": "4b07f68b5d95cc85",
@@ -38,8 +66,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6963cacf9a79478edec3178b",
     "publishedAt": "2026-01-11T16:23:22.000Z",
-    "createdAt": "2026-01-11T18:36:06.915Z",
-    "updatedAt": "2026-01-11T18:36:06.915Z"
+    "createdAt": "2026-01-11T19:20:44.595Z",
+    "updatedAt": "2026-01-11T19:20:44.595Z"
   },
   {
     "id": "42241d881e3c0e80",
@@ -52,8 +80,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6963c2279a7947d2f9066984",
     "publishedAt": "2026-01-11T15:58:58.000Z",
-    "createdAt": "2026-01-11T18:36:07.951Z",
-    "updatedAt": "2026-01-11T18:36:07.951Z"
+    "createdAt": "2026-01-11T19:20:43.478Z",
+    "updatedAt": "2026-01-11T19:20:43.478Z"
   },
   {
     "id": "0ffcc48a1da976bc",
@@ -66,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6963afee9a7947816773d84b",
     "publishedAt": "2026-01-11T15:20:16.000Z",
-    "createdAt": "2026-01-11T18:36:09.753Z",
-    "updatedAt": "2026-01-11T18:36:09.753Z"
+    "createdAt": "2026-01-11T19:20:46.614Z",
+    "updatedAt": "2026-01-11T19:20:46.614Z"
   },
   {
     "id": "df4a513feaa487bd",
@@ -80,8 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6963bcaa9a794764bfd6b48d",
     "publishedAt": "2026-01-11T15:18:03.000Z",
-    "createdAt": "2026-01-11T18:36:10.780Z",
-    "updatedAt": "2026-01-11T18:36:10.780Z"
+    "createdAt": "2026-01-11T19:20:47.824Z",
+    "updatedAt": "2026-01-11T19:20:47.824Z"
   },
   {
     "id": "da0228f6e2595b35",
@@ -94,36 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6963a6469a7947a8f33682c9",
     "publishedAt": "2026-01-11T14:41:43.000Z",
-    "createdAt": "2026-01-11T18:36:11.801Z",
-    "updatedAt": "2026-01-11T18:36:11.801Z"
-  },
-  {
-    "id": "4e322156ad7b08b6",
-    "title": "Даниил Медведев посвятил победу в Брисбене годовалой дочери",
-    "sport": "Теннис",
-    "category": "Теннис",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/7/87/347681333976877.jpeg",
-    "teaser": "Даниил Медведев посвятил победу в Брисбене годовалой дочери",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69638fd89a7947925ecf8c3f",
-    "publishedAt": "2026-01-11T13:36:43.000Z",
-    "createdAt": "2026-01-11T18:36:13.902Z",
-    "updatedAt": "2026-01-11T18:36:13.902Z"
-  },
-  {
-    "id": "a7290dca678562b8",
-    "title": "«Трактор» обыграл «Сибирь» благодаря дублю Светлакова",
-    "sport": "Хоккей",
-    "category": "Хоккей",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/4/99/347681375572994.jpeg",
-    "teaser": "«Трактор» обыграл «Сибирь» благодаря дублю Светлакова",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/696399359a7947efe3bc0239",
-    "publishedAt": "2026-01-11T13:34:48.000Z",
-    "createdAt": "2026-01-11T18:36:14.923Z",
-    "updatedAt": "2026-01-11T18:36:14.923Z"
+    "createdAt": "2026-01-11T19:20:49.008Z",
+    "updatedAt": "2026-01-11T19:20:49.008Z"
   },
   {
     "id": "aaa66bcf2ed28587",
@@ -136,7 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/696396789a7947b0626d00ed",
     "publishedAt": "2026-01-11T12:43:47.000Z",
-    "createdAt": "2026-01-11T18:36:12.870Z",
-    "updatedAt": "2026-01-11T18:36:12.870Z"
+    "createdAt": "2026-01-11T19:20:50.143Z",
+    "updatedAt": "2026-01-11T19:20:50.143Z"
   }
 ]
