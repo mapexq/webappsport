@@ -1,5 +1,47 @@
 [
   {
+    "id": "c2b2465def15989f",
+    "title": "«Автомобилист» прервал серию поражений в КХЛ",
+    "sport": "Хоккей",
+    "category": "Хоккей",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/1/60/347682358879601.png",
+    "teaser": "«Автомобилист» прервал серию поражений в КХЛ",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/696523419a794790766f3dc4",
+    "publishedAt": "2026-01-12T16:47:13.000Z",
+    "createdAt": "2026-01-12T17:28:16.923Z",
+    "updatedAt": "2026-01-12T17:28:16.923Z"
+  },
+  {
+    "id": "43067a62dd7e4d7e",
+    "title": "Сын Кадырова назвал раздутым инцидент с потасовкой на турнире в Грозном",
+    "sport": "Единоборства",
+    "category": "Единоборства",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/7/06/347682355739067.png",
+    "teaser": "Сын Кадырова назвал раздутым инцидент с потасовкой на турнире в Грозном",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69651b199a794709207e4d8a",
+    "publishedAt": "2026-01-12T16:41:27.000Z",
+    "createdAt": "2026-01-12T17:28:14.992Z",
+    "updatedAt": "2026-01-12T17:28:14.992Z"
+  },
+  {
+    "id": "4c78984b6db8e49b",
+    "title": "Тренер «Атлетико» извинился за насмешки над Винисиусом в матче Суперкубка",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/6/16/347682312191166.jpeg",
+    "teaser": "Тренер «Атлетико» извинился за насмешки над Винисиусом в матче Суперкубка",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69650ecd9a7947bb3a9a01cd",
+    "publishedAt": "2026-01-12T15:45:43.000Z",
+    "createdAt": "2026-01-12T17:28:15.996Z",
+    "updatedAt": "2026-01-12T17:28:15.996Z"
+  },
+  {
     "id": "34c60bb82db0a294",
     "title": "Семин назвал оправданным обмен игроков ЦСКА и «Зенита»",
     "sport": "Футбол",
@@ -10,8 +52,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6964f5da9a79471cec565396",
     "publishedAt": "2026-01-12T15:17:24.000Z",
-    "createdAt": "2026-01-12T16:34:25.042Z",
-    "updatedAt": "2026-01-12T16:34:25.042Z"
+    "createdAt": "2026-01-12T17:28:17.932Z",
+    "updatedAt": "2026-01-12T17:28:17.932Z"
   },
   {
     "id": "3bc855c59505d06e",
@@ -24,8 +66,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6964e95a9a79475d27ea1cba",
     "publishedAt": "2026-01-12T14:56:52.000Z",
-    "createdAt": "2026-01-12T16:34:26.627Z",
-    "updatedAt": "2026-01-12T16:34:26.627Z"
+    "createdAt": "2026-01-12T17:28:18.924Z",
+    "updatedAt": "2026-01-12T17:28:18.924Z"
   },
   {
     "id": "6cf159e42cac0473",
@@ -38,8 +80,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6964fdcd9a7947d8a1bb29ec",
     "publishedAt": "2026-01-12T14:54:30.000Z",
-    "createdAt": "2026-01-12T16:34:27.761Z",
-    "updatedAt": "2026-01-12T16:34:27.761Z"
+    "createdAt": "2026-01-12T17:28:19.978Z",
+    "updatedAt": "2026-01-12T17:28:19.978Z"
   },
   {
     "id": "2c45498058fb5f58",
@@ -52,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6964ee2f9a794795a9b95e3c",
     "publishedAt": "2026-01-12T13:48:57.000Z",
-    "createdAt": "2026-01-12T16:34:28.890Z",
-    "updatedAt": "2026-01-12T16:34:28.890Z"
+    "createdAt": "2026-01-12T17:28:20.977Z",
+    "updatedAt": "2026-01-12T17:28:20.977Z"
   },
   {
     "id": "5cd9ffa4e7df5325",
@@ -66,8 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6964e4b19a794791449d9e31",
     "publishedAt": "2026-01-12T13:11:07.000Z",
-    "createdAt": "2026-01-12T16:34:30.916Z",
-    "updatedAt": "2026-01-12T16:34:30.916Z"
+    "createdAt": "2026-01-12T17:28:22.897Z",
+    "updatedAt": "2026-01-12T17:28:22.897Z"
   },
   {
     "id": "b54110686d146a3d",
@@ -80,36 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6964e7979a7947526aada11a",
     "publishedAt": "2026-01-12T12:42:27.000Z",
-    "createdAt": "2026-01-12T16:34:32.185Z",
-    "updatedAt": "2026-01-12T16:34:32.185Z"
-  },
-  {
-    "id": "0aa515896baf5151",
-    "title": "Бывший капитан сборной России Смертин пробежит зимний марафон в Оймяконе",
-    "sport": "Другое",
-    "category": "Другие",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/3/83/347682196275833.jpeg",
-    "teaser": "Бывший капитан сборной России Смертин пробежит зимний марафон в Оймяконе",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6964d9099a794723af9d4805",
-    "publishedAt": "2026-01-12T12:35:41.000Z",
-    "createdAt": "2026-01-12T16:34:34.439Z",
-    "updatedAt": "2026-01-12T16:34:34.439Z"
-  },
-  {
-    "id": "785d794f3fbaee90",
-    "title": "Умер бывший тренер «Алании» Роллан Курбис",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/7/27/347682177675277.png",
-    "teaser": "Умер бывший тренер «Алании» Роллан Курбис",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6964dc989a7947f4cbd10bdf",
-    "publishedAt": "2026-01-12T12:00:43.000Z",
-    "createdAt": "2026-01-12T16:34:36.556Z",
-    "updatedAt": "2026-01-12T16:34:36.556Z"
+    "createdAt": "2026-01-12T17:28:23.955Z",
+    "updatedAt": "2026-01-12T17:28:23.955Z"
   },
   {
     "id": "46c93011d2332fcc",
@@ -122,21 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6964c3aa9a7947931d7e737f",
     "publishedAt": "2026-01-12T11:49:27.000Z",
-    "createdAt": "2026-01-12T16:34:33.324Z",
-    "updatedAt": "2026-01-12T16:34:33.324Z"
-  },
-  {
-    "id": "0f69d0f27c8bbfae",
-    "title": "В «Локомотиве» заявили об отказе капитана продлевать контракт",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/9/47/347682168253479.png",
-    "teaser": "В «Локомотиве» заявили об отказе капитана продлевать контракт",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6964cb9e9a79475bb1c10cac",
-    "publishedAt": "2026-01-12T11:25:21.000Z",
-    "createdAt": "2026-01-12T16:34:35.451Z",
-    "updatedAt": "2026-01-12T16:34:35.451Z"
+    "createdAt": "2026-01-12T17:28:24.930Z",
+    "updatedAt": "2026-01-12T17:28:24.930Z"
   }
 ]
