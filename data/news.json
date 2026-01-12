@@ -1,5 +1,61 @@
 [
   {
+    "id": "4a9272332e183349",
+    "title": "Алексей Березуцкий ушел из тренерского штаба ЦСКА",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/0/74/347682403269740.png",
+    "teaser": "Алексей Березуцкий ушел из тренерского штаба ЦСКА",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/696534879a7947a66bf76067",
+    "publishedAt": "2026-01-12T18:04:38.000Z",
+    "createdAt": "2026-01-12T18:40:42.794Z",
+    "updatedAt": "2026-01-12T18:40:42.794Z"
+  },
+  {
+    "id": "8ef758e6d384198a",
+    "title": "МОК допустил на Олимпиаду еще двух российских спортсменов",
+    "sport": "Другое",
+    "category": "Другие",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/7/64/347682398329647.png",
+    "teaser": "МОК допустил на Олимпиаду еще двух российских спортсменов",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6965314b9a794796d38e0593",
+    "publishedAt": "2026-01-12T17:48:57.000Z",
+    "createdAt": "2026-01-12T18:40:41.717Z",
+    "updatedAt": "2026-01-12T18:40:41.717Z"
+  },
+  {
+    "id": "adad2c92efcbe85b",
+    "title": "«Реал» объявил об отставке Хаби Алонсо после проигрыша «Барселоне»",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/7/50/347682384751507.jpeg",
+    "teaser": "«Реал» объявил об отставке Хаби Алонсо после проигрыша «Барселоне»",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69652cbb9a79473501c8f1c5",
+    "publishedAt": "2026-01-12T17:20:18.000Z",
+    "createdAt": "2026-01-12T18:40:43.791Z",
+    "updatedAt": "2026-01-12T18:40:43.791Z"
+  },
+  {
+    "id": "8fd217e7ee2ebdb2",
+    "title": "Аутсайдер РПЛ расстался с голкипером",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/8/17/347682363429178.jpeg",
+    "teaser": "Аутсайдер РПЛ расстался с голкипером",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6965238a9a7947972b663ea1",
+    "publishedAt": "2026-01-12T17:13:56.000Z",
+    "createdAt": "2026-01-12T18:40:45.749Z",
+    "updatedAt": "2026-01-12T18:40:45.749Z"
+  },
+  {
     "id": "c2b2465def15989f",
     "title": "«Автомобилист» прервал серию поражений в КХЛ",
     "sport": "Хоккей",
@@ -10,8 +66,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/696523419a794790766f3dc4",
     "publishedAt": "2026-01-12T16:47:13.000Z",
-    "createdAt": "2026-01-12T17:28:16.923Z",
-    "updatedAt": "2026-01-12T17:28:16.923Z"
+    "createdAt": "2026-01-12T18:40:48.915Z",
+    "updatedAt": "2026-01-12T18:40:48.915Z"
   },
   {
     "id": "43067a62dd7e4d7e",
@@ -24,8 +80,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69651b199a794709207e4d8a",
     "publishedAt": "2026-01-12T16:41:27.000Z",
-    "createdAt": "2026-01-12T17:28:14.992Z",
-    "updatedAt": "2026-01-12T17:28:14.992Z"
+    "createdAt": "2026-01-12T18:40:46.789Z",
+    "updatedAt": "2026-01-12T18:40:46.789Z"
   },
   {
     "id": "4c78984b6db8e49b",
@@ -38,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69650ecd9a7947bb3a9a01cd",
     "publishedAt": "2026-01-12T15:45:43.000Z",
-    "createdAt": "2026-01-12T17:28:15.996Z",
-    "updatedAt": "2026-01-12T17:28:15.996Z"
+    "createdAt": "2026-01-12T18:40:47.851Z",
+    "updatedAt": "2026-01-12T18:40:47.851Z"
   },
   {
     "id": "34c60bb82db0a294",
@@ -52,8 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6964f5da9a79471cec565396",
     "publishedAt": "2026-01-12T15:17:24.000Z",
-    "createdAt": "2026-01-12T17:28:17.932Z",
-    "updatedAt": "2026-01-12T17:28:17.932Z"
+    "createdAt": "2026-01-12T18:40:49.996Z",
+    "updatedAt": "2026-01-12T18:40:49.996Z"
   },
   {
     "id": "3bc855c59505d06e",
@@ -66,8 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6964e95a9a79475d27ea1cba",
     "publishedAt": "2026-01-12T14:56:52.000Z",
-    "createdAt": "2026-01-12T17:28:18.924Z",
-    "updatedAt": "2026-01-12T17:28:18.924Z"
+    "createdAt": "2026-01-12T18:40:52.169Z",
+    "updatedAt": "2026-01-12T18:40:52.169Z"
   },
   {
     "id": "6cf159e42cac0473",
@@ -80,63 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6964fdcd9a7947d8a1bb29ec",
     "publishedAt": "2026-01-12T14:54:30.000Z",
-    "createdAt": "2026-01-12T17:28:19.978Z",
-    "updatedAt": "2026-01-12T17:28:19.978Z"
-  },
-  {
-    "id": "2c45498058fb5f58",
-    "title": "Капитан клуба Дзюбы ушел в клуб Первой лиги",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/4/07/347682230165074.jpeg",
-    "teaser": "Капитан клуба Дзюбы ушел в клуб Первой лиги",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6964ee2f9a794795a9b95e3c",
-    "publishedAt": "2026-01-12T13:48:57.000Z",
-    "createdAt": "2026-01-12T17:28:20.977Z",
-    "updatedAt": "2026-01-12T17:28:20.977Z"
-  },
-  {
-    "id": "5cd9ffa4e7df5325",
-    "title": "Двух россиян включили в число лучших молодых футболистов мира",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/2/83/347682203244832.jpeg",
-    "teaser": "Двух россиян включили в число лучших молодых футболистов мира",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6964e4b19a794791449d9e31",
-    "publishedAt": "2026-01-12T13:11:07.000Z",
-    "createdAt": "2026-01-12T17:28:22.897Z",
-    "updatedAt": "2026-01-12T17:28:22.897Z"
-  },
-  {
-    "id": "b54110686d146a3d",
-    "title": "Аутсайдер РПЛ убрал информацию об участии в сборах Романа Еременко",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/4/75/347682213540754.png",
-    "teaser": "Аутсайдер РПЛ убрал информацию об участии в сборах Романа Еременко",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6964e7979a7947526aada11a",
-    "publishedAt": "2026-01-12T12:42:27.000Z",
-    "createdAt": "2026-01-12T17:28:23.955Z",
-    "updatedAt": "2026-01-12T17:28:23.955Z"
-  },
-  {
-    "id": "46c93011d2332fcc",
-    "title": "Доминик Гашек призвал отобрать у США чемпионат мира по футболу",
-    "sport": "Другое",
-    "category": "Другие",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/8/55/347682136982558.jpeg",
-    "teaser": "Доминик Гашек призвал отобрать у США чемпионат мира по футболу",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6964c3aa9a7947931d7e737f",
-    "publishedAt": "2026-01-12T11:49:27.000Z",
-    "createdAt": "2026-01-12T17:28:24.930Z",
-    "updatedAt": "2026-01-12T17:28:24.930Z"
+    "createdAt": "2026-01-12T18:40:51.058Z",
+    "updatedAt": "2026-01-12T18:40:51.058Z"
   }
 ]
