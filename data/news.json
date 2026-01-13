@@ -1,5 +1,33 @@
 [
   {
+    "id": "0214394d626bbb15",
+    "title": "Французский мотогонщик погиб после столкновения на соревнованиях",
+    "sport": "Другое",
+    "category": "Другие",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/5/51/347682936581515.jpeg",
+    "teaser": "Французский мотогонщик погиб после столкновения на соревнованиях",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6965fe309a7947edf0d89de3",
+    "publishedAt": "2026-01-13T09:05:45.000Z",
+    "createdAt": "2026-01-13T09:34:24.120Z",
+    "updatedAt": "2026-01-13T09:34:24.120Z"
+  },
+  {
+    "id": "0e7d08ca5b6d37c2",
+    "title": "Аутсайдер РПЛ купил колумбийского защитника",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/6/65/347682936521656.jpeg",
+    "teaser": "Аутсайдер РПЛ купил колумбийского защитника",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/696604fc9a7947d4c98b34f2",
+    "publishedAt": "2026-01-13T08:45:18.000Z",
+    "createdAt": "2026-01-13T09:34:25.238Z",
+    "updatedAt": "2026-01-13T09:34:25.238Z"
+  },
+  {
     "id": "dd5784b8fc77c0a8",
     "title": "Панарин установил рекорд клуба НХЛ по скорости достижения 600 очков",
     "sport": "Хоккей",
@@ -10,8 +38,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6965f02a9a7947d82ab58d89",
     "publishedAt": "2026-01-13T08:15:50.000Z",
-    "createdAt": "2026-01-13T08:38:17.361Z",
-    "updatedAt": "2026-01-13T08:38:17.361Z"
+    "createdAt": "2026-01-13T09:34:26.452Z",
+    "updatedAt": "2026-01-13T09:34:26.452Z"
   },
   {
     "id": "e8a75745286ff513",
@@ -24,8 +52,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6965f8539a794702892d5f4f",
     "publishedAt": "2026-01-13T08:00:32.000Z",
-    "createdAt": "2026-01-13T08:38:18.354Z",
-    "updatedAt": "2026-01-13T08:38:18.354Z"
+    "createdAt": "2026-01-13T09:34:27.561Z",
+    "updatedAt": "2026-01-13T09:34:27.561Z"
   },
   {
     "id": "9107abd31ec2e437",
@@ -38,8 +66,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6965d5859a7947032d6d2de9",
     "publishedAt": "2026-01-13T07:50:18.000Z",
-    "createdAt": "2026-01-13T08:38:20.497Z",
-    "updatedAt": "2026-01-13T08:38:20.497Z"
+    "createdAt": "2026-01-13T09:34:30.023Z",
+    "updatedAt": "2026-01-13T09:34:30.023Z"
   },
   {
     "id": "149262995b969c23",
@@ -52,8 +80,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6965ea629a79478b07395de1",
     "publishedAt": "2026-01-13T07:29:59.000Z",
-    "createdAt": "2026-01-13T08:38:21.460Z",
-    "updatedAt": "2026-01-13T08:38:21.460Z"
+    "createdAt": "2026-01-13T09:34:31.141Z",
+    "updatedAt": "2026-01-13T09:34:31.141Z"
   },
   {
     "id": "5e53c3202a1599a8",
@@ -66,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6965d5b49a7947d0d285d9e2",
     "publishedAt": "2026-01-13T07:25:28.000Z",
-    "createdAt": "2026-01-13T08:38:22.273Z",
-    "updatedAt": "2026-01-13T08:38:22.273Z"
+    "createdAt": "2026-01-13T09:34:32.293Z",
+    "updatedAt": "2026-01-13T09:34:32.293Z"
   },
   {
     "id": "c26e1bdee0bbf483",
@@ -80,8 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6965d3a89a794734adfa1ab7",
     "publishedAt": "2026-01-13T07:12:39.000Z",
-    "createdAt": "2026-01-13T08:38:23.551Z",
-    "updatedAt": "2026-01-13T08:38:23.551Z"
+    "createdAt": "2026-01-13T09:34:33.440Z",
+    "updatedAt": "2026-01-13T09:34:33.440Z"
   },
   {
     "id": "ac689516c29b199f",
@@ -94,22 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6965df789a79479f67f9c38a",
     "publishedAt": "2026-01-13T07:00:12.000Z",
-    "createdAt": "2026-01-13T08:38:24.584Z",
-    "updatedAt": "2026-01-13T08:38:24.584Z"
-  },
-  {
-    "id": "a039beba20e18b90",
-    "title": "Кто из россиян выступит на зимних Олимпийских играх 2026 года",
-    "sport": "Другое",
-    "category": "Другие",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/1/56/347657258224561.jpeg",
-    "teaser": "Кто из россиян выступит на зимних Олимпийских играх 2026 года",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/693ec5129a7947445fd83a5e",
-    "publishedAt": "2026-01-13T06:01:18.000Z",
-    "createdAt": "2026-01-13T08:38:26.763Z",
-    "updatedAt": "2026-01-13T08:38:26.763Z"
+    "createdAt": "2026-01-13T09:34:34.648Z",
+    "updatedAt": "2026-01-13T09:34:34.648Z"
   },
   {
     "id": "28818e83a2ded962",
@@ -122,21 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/696563779a794721b0aec2c7",
     "publishedAt": "2026-01-13T01:09:18.000Z",
-    "createdAt": "2026-01-13T08:38:25.655Z",
-    "updatedAt": "2026-01-13T08:38:25.655Z"
-  },
-  {
-    "id": "5e3f9720db3f5602",
-    "title": "ЦСКА и «Зенит» совершили крупный обмен. Кто от этого выиграл",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/6/18/347682102708186.jpeg",
-    "teaser": "ЦСКА и «Зенит» совершили крупный обмен. Кто от этого выиграл",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6964af129a7947eb5424e22a",
-    "publishedAt": "2026-01-12T21:01:44.000Z",
-    "createdAt": "2026-01-13T08:38:27.805Z",
-    "updatedAt": "2026-01-13T08:38:27.805Z"
+    "createdAt": "2026-01-13T09:34:35.737Z",
+    "updatedAt": "2026-01-13T09:34:35.737Z"
   }
 ]
