@@ -1,5 +1,75 @@
 [
   {
+    "id": "ac689516c29b199f",
+    "title": "Капитан «Локомотива» перешел в ЦСКА",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/9/74/347682842727749.jpeg",
+    "teaser": "Капитан «Локомотива» перешел в ЦСКА",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6965df789a79479f67f9c38a",
+    "publishedAt": "2026-01-13T07:00:12.000Z",
+    "createdAt": "2026-01-13T07:29:59.512Z",
+    "updatedAt": "2026-01-13T07:29:59.512Z"
+  },
+  {
+    "id": "a039beba20e18b90",
+    "title": "Кто из россиян выступит на зимних Олимпийских играх 2026 года",
+    "sport": "Другое",
+    "category": "Другие",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/1/56/347657258224561.jpeg",
+    "teaser": "Кто из россиян выступит на зимних Олимпийских играх 2026 года",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/693ec5129a7947445fd83a5e",
+    "publishedAt": "2026-01-13T06:01:18.000Z",
+    "createdAt": "2026-01-13T07:30:01.852Z",
+    "updatedAt": "2026-01-13T07:30:01.852Z"
+  },
+  {
+    "id": "28818e83a2ded962",
+    "title": "В НХЛ вывели номер легенды российского хоккея Сергея Федорова",
+    "sport": "Хоккей",
+    "category": "Хоккей",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/5/14/347682536528145.jpeg",
+    "teaser": "В НХЛ вывели номер легенды российского хоккея Сергея Федорова",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/696563779a794721b0aec2c7",
+    "publishedAt": "2026-01-13T01:09:18.000Z",
+    "createdAt": "2026-01-13T07:30:00.478Z",
+    "updatedAt": "2026-01-13T07:30:00.478Z"
+  },
+  {
+    "id": "5e3f9720db3f5602",
+    "title": "ЦСКА и «Зенит» совершили крупный обмен. Кто от этого выиграл",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/6/18/347682102708186.jpeg",
+    "teaser": "ЦСКА и «Зенит» совершили крупный обмен. Кто от этого выиграл",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6964af129a7947eb5424e22a",
+    "publishedAt": "2026-01-12T21:01:44.000Z",
+    "createdAt": "2026-01-13T07:30:04.336Z",
+    "updatedAt": "2026-01-13T07:30:04.336Z"
+  },
+  {
+    "id": "86d26c7914f6c575",
+    "title": "Российский баскетболист «Бруклина» пропустит матч НБА с «Далласом»",
+    "sport": "Баскетбол",
+    "category": "Баскетбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/0/43/347682430402430.jpeg",
+    "teaser": "Российский баскетболист «Бруклина» пропустит матч НБА с «Далласом»",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69653b5a9a794777979442c0",
+    "publishedAt": "2026-01-12T19:22:50.000Z",
+    "createdAt": "2026-01-13T07:30:08.404Z",
+    "updatedAt": "2026-01-13T07:30:08.404Z"
+  },
+  {
     "id": "ffba445a4673466d",
     "title": "Вадим Шипачев первым в истории КХЛ набрал 1000 очков",
     "sport": "Хоккей",
@@ -10,8 +80,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6953f1c59a7947830a8fb972",
     "publishedAt": "2026-01-12T19:02:53.000Z",
-    "createdAt": "2026-01-13T06:42:20.358Z",
-    "updatedAt": "2026-01-13T06:42:20.358Z"
+    "createdAt": "2026-01-13T07:30:05.365Z",
+    "updatedAt": "2026-01-13T07:30:05.365Z"
   },
   {
     "id": "d9017091c6758fa7",
@@ -24,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/696536209a79476679b0dbae",
     "publishedAt": "2026-01-12T18:58:37.000Z",
-    "createdAt": "2026-01-13T06:42:23.502Z",
-    "updatedAt": "2026-01-13T06:42:23.502Z"
+    "createdAt": "2026-01-13T07:30:09.471Z",
+    "updatedAt": "2026-01-13T07:30:09.471Z"
   },
   {
     "id": "cd6069dbdfff9524",
@@ -38,8 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/696530339a794706d646a74f",
     "publishedAt": "2026-01-12T18:45:26.000Z",
-    "createdAt": "2026-01-13T06:42:22.504Z",
-    "updatedAt": "2026-01-13T06:42:22.504Z"
+    "createdAt": "2026-01-13T07:30:07.388Z",
+    "updatedAt": "2026-01-13T07:30:07.388Z"
   },
   {
     "id": "4a9272332e183349",
@@ -52,8 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/696534879a7947a66bf76067",
     "publishedAt": "2026-01-12T18:04:38.000Z",
-    "createdAt": "2026-01-13T06:42:24.586Z",
-    "updatedAt": "2026-01-13T06:42:24.586Z"
+    "createdAt": "2026-01-13T07:30:10.489Z",
+    "updatedAt": "2026-01-13T07:30:10.489Z"
   },
   {
     "id": "8ef758e6d384198a",
@@ -66,77 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6965314b9a794796d38e0593",
     "publishedAt": "2026-01-12T17:48:57.000Z",
-    "createdAt": "2026-01-13T06:42:21.457Z",
-    "updatedAt": "2026-01-13T06:42:21.457Z"
-  },
-  {
-    "id": "adad2c92efcbe85b",
-    "title": "«Реал» объявил об отставке Хаби Алонсо после проигрыша «Барселоне»",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/7/50/347682384751507.jpeg",
-    "teaser": "«Реал» объявил об отставке Хаби Алонсо после проигрыша «Барселоне»",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69652cbb9a79473501c8f1c5",
-    "publishedAt": "2026-01-12T17:20:18.000Z",
-    "createdAt": "2026-01-13T06:42:25.576Z",
-    "updatedAt": "2026-01-13T06:42:25.576Z"
-  },
-  {
-    "id": "8fd217e7ee2ebdb2",
-    "title": "Аутсайдер РПЛ расстался с голкипером",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/8/17/347682363429178.jpeg",
-    "teaser": "Аутсайдер РПЛ расстался с голкипером",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6965238a9a7947972b663ea1",
-    "publishedAt": "2026-01-12T17:13:56.000Z",
-    "createdAt": "2026-01-13T06:42:27.395Z",
-    "updatedAt": "2026-01-13T06:42:27.395Z"
-  },
-  {
-    "id": "c2b2465def15989f",
-    "title": "«Автомобилист» прервал серию поражений в КХЛ",
-    "sport": "Хоккей",
-    "category": "Хоккей",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/1/60/347682358879601.png",
-    "teaser": "«Автомобилист» прервал серию поражений в КХЛ",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/696523419a794790766f3dc4",
-    "publishedAt": "2026-01-12T16:47:13.000Z",
-    "createdAt": "2026-01-13T06:42:30.921Z",
-    "updatedAt": "2026-01-13T06:42:30.921Z"
-  },
-  {
-    "id": "43067a62dd7e4d7e",
-    "title": "Сын Кадырова назвал раздутым инцидент с потасовкой на турнире в Грозном",
-    "sport": "Единоборства",
-    "category": "Единоборства",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/7/06/347682355739067.png",
-    "teaser": "Сын Кадырова назвал раздутым инцидент с потасовкой на турнире в Грозном",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69651b199a794709207e4d8a",
-    "publishedAt": "2026-01-12T16:41:27.000Z",
-    "createdAt": "2026-01-13T06:42:28.865Z",
-    "updatedAt": "2026-01-13T06:42:28.865Z"
-  },
-  {
-    "id": "4c78984b6db8e49b",
-    "title": "Тренер «Атлетико» извинился за насмешки над Винисиусом в матче Суперкубка",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/6/16/347682312191166.jpeg",
-    "teaser": "Тренер «Атлетико» извинился за насмешки над Винисиусом в матче Суперкубка",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69650ecd9a7947bb3a9a01cd",
-    "publishedAt": "2026-01-12T15:45:43.000Z",
-    "createdAt": "2026-01-13T06:42:29.914Z",
-    "updatedAt": "2026-01-13T06:42:29.914Z"
+    "createdAt": "2026-01-13T07:30:06.385Z",
+    "updatedAt": "2026-01-13T07:30:06.385Z"
   }
 ]
