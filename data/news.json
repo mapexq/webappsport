@@ -1,17 +1,45 @@
 [
   {
-    "id": "ea381a30d75a0edd",
-    "title": "РФС и УЕФА вложили более ₽240 млн в 13 новых футбольных полей",
+    "id": "6acf32953c9b930c",
+    "title": "Российские прыгуны на лыжах с трамплина не выступят на Олимпиаде",
+    "sport": "Другое",
+    "category": "Другие",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/1/60/347683085943601.jpeg",
+    "teaser": "Российские прыгуны на лыжах с трамплина не выступят на Олимпиаде",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69663e579a794763615c6cbd",
+    "publishedAt": "2026-01-13T13:09:57.000Z",
+    "createdAt": "2026-01-13T13:49:17.515Z",
+    "updatedAt": "2026-01-13T13:49:17.515Z"
+  },
+  {
+    "id": "e176adb47c8d9a3f",
+    "title": "Алонсо фразой «я сделал все, что мог» прокомментировал уход из «Реала»",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/2/00/347683064409002.jpeg",
+    "teaser": "Алонсо фразой «я сделал все, что мог» прокомментировал уход из «Реала»",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/696634c39a794755a786ca41",
+    "publishedAt": "2026-01-13T12:52:00.000Z",
+    "createdAt": "2026-01-13T13:49:18.508Z",
+    "updatedAt": "2026-01-13T13:49:18.508Z"
+  },
+  {
+    "id": "c8a0c61e20a25fcb",
+    "title": "РФС вложил более ₽240 млн в 13 новых футбольных полей",
     "sport": "Футбол",
     "category": "Футбол",
     "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/6/81/347683055988816.jpeg",
-    "teaser": "РФС и УЕФА вложили более ₽240 млн в 13 новых футбольных полей",
+    "teaser": "РФС вложил более ₽240 млн в 13 новых футбольных полей",
     "fullContent": "",
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/696633649a7947eaa28bb32d",
     "publishedAt": "2026-01-13T12:17:52.000Z",
-    "createdAt": "2026-01-13T12:59:27.822Z",
-    "updatedAt": "2026-01-13T12:59:27.822Z"
+    "createdAt": "2026-01-13T13:49:26.243Z",
+    "updatedAt": "2026-01-13T13:49:26.243Z"
   },
   {
     "id": "1071c54813ea3edf",
@@ -24,8 +52,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/696630519a79478d6735fffb",
     "publishedAt": "2026-01-13T11:59:54.000Z",
-    "createdAt": "2026-01-13T12:59:21.077Z",
-    "updatedAt": "2026-01-13T12:59:21.077Z"
+    "createdAt": "2026-01-13T13:49:19.541Z",
+    "updatedAt": "2026-01-13T13:49:19.541Z"
   },
   {
     "id": "088216742268f30c",
@@ -38,8 +66,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69662e809a794700ec3ddd9e",
     "publishedAt": "2026-01-13T11:54:48.000Z",
-    "createdAt": "2026-01-13T12:59:22.089Z",
-    "updatedAt": "2026-01-13T12:59:22.089Z"
+    "createdAt": "2026-01-13T13:49:20.598Z",
+    "updatedAt": "2026-01-13T13:49:20.598Z"
   },
   {
     "id": "483aee43fb800b1b",
@@ -52,8 +80,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69662b529a7947dfe843f56a",
     "publishedAt": "2026-01-13T11:32:17.000Z",
-    "createdAt": "2026-01-13T12:59:24.428Z",
-    "updatedAt": "2026-01-13T12:59:24.428Z"
+    "createdAt": "2026-01-13T13:49:25.104Z",
+    "updatedAt": "2026-01-13T13:49:25.104Z"
   },
   {
     "id": "a62617b2c16034ae",
@@ -66,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69661f109a7947203c5ec125",
     "publishedAt": "2026-01-13T11:28:17.000Z",
-    "createdAt": "2026-01-13T12:59:23.280Z",
-    "updatedAt": "2026-01-13T12:59:23.280Z"
+    "createdAt": "2026-01-13T13:49:24.078Z",
+    "updatedAt": "2026-01-13T13:49:24.078Z"
   },
   {
     "id": "aa43bf3fc54f73d8",
@@ -80,22 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6966240c9a79476c329481ef",
     "publishedAt": "2026-01-13T11:11:14.000Z",
-    "createdAt": "2026-01-13T12:59:28.900Z",
-    "updatedAt": "2026-01-13T12:59:28.900Z"
-  },
-  {
-    "id": "722cea790d83e346",
-    "title": "50-летняя гимнастка Чусовитина рассказала, когда завершит карьеру",
-    "sport": "Другое",
-    "category": "Другие",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/3/34/347683003988343.jpeg",
-    "teaser": "50-летняя гимнастка Чусовитина рассказала, когда завершит карьеру",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69661f459a7947bc171df25a",
-    "publishedAt": "2026-01-13T10:46:16.000Z",
-    "createdAt": "2026-01-13T12:59:31.132Z",
-    "updatedAt": "2026-01-13T12:59:31.132Z"
+    "createdAt": "2026-01-13T13:49:27.237Z",
+    "updatedAt": "2026-01-13T13:49:27.237Z"
   },
   {
     "id": "f48bfd9e0d3ff965",
@@ -108,22 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/696619a19a7947560d6c4fd7",
     "publishedAt": "2026-01-13T10:25:25.000Z",
-    "createdAt": "2026-01-13T12:59:30.032Z",
-    "updatedAt": "2026-01-13T12:59:30.032Z"
-  },
-  {
-    "id": "86d93dc779141b76",
-    "title": "Дерюгина отказалась назвать Винер выдающимся тренером",
-    "sport": "Другое",
-    "category": "Другие",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/5/30/347682961309305.jpeg",
-    "teaser": "Дерюгина отказалась назвать Винер выдающимся тренером",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69660e729a79470d03be3173",
-    "publishedAt": "2026-01-13T09:55:58.000Z",
-    "createdAt": "2026-01-13T12:59:32.256Z",
-    "updatedAt": "2026-01-13T12:59:32.256Z"
+    "createdAt": "2026-01-13T13:49:28.288Z",
+    "updatedAt": "2026-01-13T13:49:28.288Z"
   },
   {
     "id": "9107abd31ec2e437",
@@ -136,7 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6965d5859a7947032d6d2de9",
     "publishedAt": "2026-01-13T07:50:18.000Z",
-    "createdAt": "2026-01-13T12:59:26.736Z",
-    "updatedAt": "2026-01-13T12:59:26.736Z"
+    "createdAt": "2026-01-13T13:49:22.859Z",
+    "updatedAt": "2026-01-13T13:49:22.859Z"
   }
 ]
