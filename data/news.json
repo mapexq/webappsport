@@ -1,5 +1,89 @@
 [
   {
+    "id": "dd5784b8fc77c0a8",
+    "title": "Панарин установил рекорд клуба НХЛ по скорости достижения 600 очков",
+    "sport": "Хоккей",
+    "category": "Хоккей",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/7/72/347682899025727.jpeg",
+    "teaser": "Панарин установил рекорд клуба НХЛ по скорости достижения 600 очков",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6965f02a9a7947d82ab58d89",
+    "publishedAt": "2026-01-13T08:15:50.000Z",
+    "createdAt": "2026-01-13T08:38:17.361Z",
+    "updatedAt": "2026-01-13T08:38:17.361Z"
+  },
+  {
+    "id": "e8a75745286ff513",
+    "title": "Российский новичок провел лучший матч в НХЛ, сделав три голевые передачи",
+    "sport": "Хоккей",
+    "category": "Хоккей",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/2/82/347682904389822.jpeg",
+    "teaser": "Российский новичок провел лучший матч в НХЛ, сделав три голевые передачи",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6965f8539a794702892d5f4f",
+    "publishedAt": "2026-01-13T08:00:32.000Z",
+    "createdAt": "2026-01-13T08:38:18.354Z",
+    "updatedAt": "2026-01-13T08:38:18.354Z"
+  },
+  {
+    "id": "9107abd31ec2e437",
+    "title": "Как в НХЛ «на стиле» чествовали легенду российского хоккея Федорова",
+    "sport": "Хоккей",
+    "category": "Хоккей",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/0/50/347682822992500.jpeg",
+    "teaser": "Как в НХЛ «на стиле» чествовали легенду российского хоккея Федорова",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6965d5859a7947032d6d2de9",
+    "publishedAt": "2026-01-13T07:50:18.000Z",
+    "createdAt": "2026-01-13T08:38:20.497Z",
+    "updatedAt": "2026-01-13T08:38:20.497Z"
+  },
+  {
+    "id": "149262995b969c23",
+    "title": "Выходивший в финал Кубка Стэнли канадский тренер покинул клуб КХЛ",
+    "sport": "Хоккей",
+    "category": "Хоккей",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/6/58/347682874168586.jpeg",
+    "teaser": "Выходивший в финал Кубка Стэнли канадский тренер покинул клуб КХЛ",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6965ea629a79478b07395de1",
+    "publishedAt": "2026-01-13T07:29:59.000Z",
+    "createdAt": "2026-01-13T08:38:21.460Z",
+    "updatedAt": "2026-01-13T08:38:21.460Z"
+  },
+  {
+    "id": "5e53c3202a1599a8",
+    "title": "Карседо объяснил, почему согласился возглавить «Спартак»",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/6/64/347682831293646.jpeg",
+    "teaser": "Карседо объяснил, почему согласился возглавить «Спартак»",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6965d5b49a7947d0d285d9e2",
+    "publishedAt": "2026-01-13T07:25:28.000Z",
+    "createdAt": "2026-01-13T08:38:22.273Z",
+    "updatedAt": "2026-01-13T08:38:22.273Z"
+  },
+  {
+    "id": "c26e1bdee0bbf483",
+    "title": "Кучеров продлил результативную серию в НХЛ до десяти матчей",
+    "sport": "Хоккей",
+    "category": "Хоккей",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/1/86/347682812750861.jpeg",
+    "teaser": "Кучеров продлил результативную серию в НХЛ до десяти матчей",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6965d3a89a794734adfa1ab7",
+    "publishedAt": "2026-01-13T07:12:39.000Z",
+    "createdAt": "2026-01-13T08:38:23.551Z",
+    "updatedAt": "2026-01-13T08:38:23.551Z"
+  },
+  {
     "id": "ac689516c29b199f",
     "title": "Капитан «Локомотива» перешел в ЦСКА",
     "sport": "Футбол",
@@ -10,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6965df789a79479f67f9c38a",
     "publishedAt": "2026-01-13T07:00:12.000Z",
-    "createdAt": "2026-01-13T07:29:59.512Z",
-    "updatedAt": "2026-01-13T07:29:59.512Z"
+    "createdAt": "2026-01-13T08:38:24.584Z",
+    "updatedAt": "2026-01-13T08:38:24.584Z"
   },
   {
     "id": "a039beba20e18b90",
@@ -24,8 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/693ec5129a7947445fd83a5e",
     "publishedAt": "2026-01-13T06:01:18.000Z",
-    "createdAt": "2026-01-13T07:30:01.852Z",
-    "updatedAt": "2026-01-13T07:30:01.852Z"
+    "createdAt": "2026-01-13T08:38:26.763Z",
+    "updatedAt": "2026-01-13T08:38:26.763Z"
   },
   {
     "id": "28818e83a2ded962",
@@ -38,8 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/696563779a794721b0aec2c7",
     "publishedAt": "2026-01-13T01:09:18.000Z",
-    "createdAt": "2026-01-13T07:30:00.478Z",
-    "updatedAt": "2026-01-13T07:30:00.478Z"
+    "createdAt": "2026-01-13T08:38:25.655Z",
+    "updatedAt": "2026-01-13T08:38:25.655Z"
   },
   {
     "id": "5e3f9720db3f5602",
@@ -52,91 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6964af129a7947eb5424e22a",
     "publishedAt": "2026-01-12T21:01:44.000Z",
-    "createdAt": "2026-01-13T07:30:04.336Z",
-    "updatedAt": "2026-01-13T07:30:04.336Z"
-  },
-  {
-    "id": "86d26c7914f6c575",
-    "title": "Российский баскетболист «Бруклина» пропустит матч НБА с «Далласом»",
-    "sport": "Баскетбол",
-    "category": "Баскетбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/0/43/347682430402430.jpeg",
-    "teaser": "Российский баскетболист «Бруклина» пропустит матч НБА с «Далласом»",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69653b5a9a794777979442c0",
-    "publishedAt": "2026-01-12T19:22:50.000Z",
-    "createdAt": "2026-01-13T07:30:08.404Z",
-    "updatedAt": "2026-01-13T07:30:08.404Z"
-  },
-  {
-    "id": "ffba445a4673466d",
-    "title": "Вадим Шипачев первым в истории КХЛ набрал 1000 очков",
-    "sport": "Хоккей",
-    "category": "Хоккей",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/8/11/347671115565118.jpeg",
-    "teaser": "Вадим Шипачев первым в истории КХЛ набрал 1000 очков",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6953f1c59a7947830a8fb972",
-    "publishedAt": "2026-01-12T19:02:53.000Z",
-    "createdAt": "2026-01-13T07:30:05.365Z",
-    "updatedAt": "2026-01-13T07:30:05.365Z"
-  },
-  {
-    "id": "d9017091c6758fa7",
-    "title": "Капитан «Локомотива» не полетит на сборы из-за переговоров с ЦСКА",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/0/69/347682415985690.jpeg",
-    "teaser": "Капитан «Локомотива» не полетит на сборы из-за переговоров с ЦСКА",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/696536209a79476679b0dbae",
-    "publishedAt": "2026-01-12T18:58:37.000Z",
-    "createdAt": "2026-01-13T07:30:09.471Z",
-    "updatedAt": "2026-01-13T07:30:09.471Z"
-  },
-  {
-    "id": "cd6069dbdfff9524",
-    "title": "Победителя Нью-Йоркского марафона отстранили за допинг",
-    "sport": "Другое",
-    "category": "Другие",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/2/81/347682400696812.jpeg",
-    "teaser": "Победителя Нью-Йоркского марафона отстранили за допинг",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/696530339a794706d646a74f",
-    "publishedAt": "2026-01-12T18:45:26.000Z",
-    "createdAt": "2026-01-13T07:30:07.388Z",
-    "updatedAt": "2026-01-13T07:30:07.388Z"
-  },
-  {
-    "id": "4a9272332e183349",
-    "title": "Алексей Березуцкий ушел из тренерского штаба ЦСКА",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/0/74/347682403269740.png",
-    "teaser": "Алексей Березуцкий ушел из тренерского штаба ЦСКА",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/696534879a7947a66bf76067",
-    "publishedAt": "2026-01-12T18:04:38.000Z",
-    "createdAt": "2026-01-13T07:30:10.489Z",
-    "updatedAt": "2026-01-13T07:30:10.489Z"
-  },
-  {
-    "id": "8ef758e6d384198a",
-    "title": "МОК допустил на Олимпиаду еще двух российских спортсменов",
-    "sport": "Другое",
-    "category": "Другие",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/7/64/347682398329647.png",
-    "teaser": "МОК допустил на Олимпиаду еще двух российских спортсменов",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6965314b9a794796d38e0593",
-    "publishedAt": "2026-01-12T17:48:57.000Z",
-    "createdAt": "2026-01-13T07:30:06.385Z",
-    "updatedAt": "2026-01-13T07:30:06.385Z"
+    "createdAt": "2026-01-13T08:38:27.805Z",
+    "updatedAt": "2026-01-13T08:38:27.805Z"
   }
 ]
