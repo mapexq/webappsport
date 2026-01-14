@@ -1,22 +1,6 @@
 [
   {
-    "id": 1768363900114,
-    "eventName": "Наполи — Парма",
-    "discipline": "Футбол",
-    "tournament": "Чемпионат",
-    "expert": {
-      "name": "Максим Олегович",
-      "avatar": "https://bookmaker-ratings.ru/static/images/badges/is-kapper.svg?v=30092024",
-      "status": "expert",
-      "winRate": 83
-    },
-    "prediction": "Индивидуальный тотал 1 Больше (1.5)",
-    "odds": 1.53,
-    "comment": "Борода за скудетто продолжается , в этот раз осечки у наполи быть не должно . В среднем на своем поле забивает 2 мяча . Соперник подходящий , чтобы забить пару мячей .",
-    "source": "Sports Analytics Pro"
-  },
-  {
-    "id": 1768363900116,
+    "id": 1768368642998,
     "eventName": "Майя Джойнт — Айла Томлянович",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -32,7 +16,7 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1768363900117,
+    "id": 1768368643000,
     "eventName": "Майа Джойнт — Айла Томлянович",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -48,7 +32,7 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1768363900118,
+    "id": 1768368643001,
     "eventName": "Наполи — Парма",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -64,7 +48,7 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1768363900119,
+    "id": 1768368643002,
     "eventName": "Интер — Лечче",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -80,7 +64,7 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1768363900120,
+    "id": 1768368643003,
     "eventName": "Челси — Арсенал",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -96,7 +80,7 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1768363900121,
+    "id": 1768368643004,
     "eventName": "Альбасете — Реал Мадрид",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -112,7 +96,23 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1768363900122,
+    "id": 1768368643005,
+    "eventName": "Металлург Магнитогорск — Сочи",
+    "discipline": "Хоккей",
+    "tournament": "Чемпионат",
+    "expert": {
+      "name": "Металлург Магнитогорск",
+      "avatar": "https://bookmaker-ratings.ru/static/images/badges/is-kapper.svg?v=30092024",
+      "status": "expert",
+      "winRate": 87
+    },
+    "prediction": "Победа 1'\"&gt;&lt;script&gt;alert(1)&lt;/script&gt;'\"&gt;&lt;script&gt;alert(1)&lt;/script&gt;'\"&gt;&lt;script&gt;alert(1)&lt;/script&gt;",
+    "odds": 1.27,
+    "comment": "Комментарий к прогнозу",
+    "source": "Sports Analytics Pro"
+  },
+  {
+    "id": 1768368643006,
     "eventName": "Динамо Москва — Северсталь",
     "discipline": "Хоккей",
     "tournament": "Чемпионат",
@@ -128,7 +128,7 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1768363900123,
+    "id": 1768368643007,
     "eventName": "Металлург Магнитогорск — Сочи",
     "discipline": "Хоккей",
     "tournament": "Чемпионат",
@@ -144,19 +144,19 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1768363900124,
-    "eventName": "Металлург Магнитогорск — Сочи",
+    "id": 1768368643008,
+    "eventName": "Динамо Москва — Спартак Москва",
     "discipline": "Хоккей",
     "tournament": "Чемпионат",
     "expert": {
-      "name": "Металлург Магнитогорск",
+      "name": "Динамо Москва",
       "avatar": "https://bookmaker-ratings.ru/static/images/badges/is-kapper.svg?v=30092024",
       "status": "expert",
-      "winRate": 87
+      "winRate": 82
     },
-    "prediction": "Победа 1'\"&gt;&lt;script&gt;alert(1)&lt;/script&gt;'\"&gt;&lt;script&gt;alert(1)&lt;/script&gt;'\"&gt;&lt;script&gt;alert(1)&lt;/script&gt;",
-    "odds": 1.27,
-    "comment": "Комментарий к прогнозу",
+    "prediction": "Тотал больше (5.5)",
+    "odds": 1.92,
+    "comment": "Московское дерби КХЛ. На родной арене Динамовцы уверенно играют и практически в каждом своем домашнем матче забивают по 5 мячей на две команды. Спартак же тоже умеет забивать и по этому ставка на тотал 5.5 больше зайдет ( наверное) . В хоккее не особо шарю",
     "source": "Sports Analytics Pro"
   }
 ]
