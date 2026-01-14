@@ -1,5 +1,47 @@
 [
   {
+    "id": "9011e0963516c38c",
+    "title": "«Спартак» второй раз в сезоне обыграл «Динамо» в московском дерби КХЛ",
+    "sport": "Хоккей",
+    "category": "Хоккей",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/3/07/347684162904073.jpeg",
+    "teaser": "«Спартак» второй раз в сезоне обыграл «Динамо» в московском дерби КХЛ",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6967e19f9a794702a68c06dd",
+    "publishedAt": "2026-01-14T19:09:17.000Z",
+    "createdAt": "2026-01-14T19:24:33.102Z",
+    "updatedAt": "2026-01-14T19:24:33.102Z"
+  },
+  {
+    "id": "e9d4abbc6dd4deae",
+    "title": "В Подмосковье нашли тело воспитанника ЦСКА",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/5/44/347684155759445.jpeg",
+    "teaser": "В Подмосковье нашли тело воспитанника ЦСКА",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6967e1399a794777f2be7bf4",
+    "publishedAt": "2026-01-14T18:54:54.000Z",
+    "createdAt": "2026-01-14T19:24:31.894Z",
+    "updatedAt": "2026-01-14T19:24:31.894Z"
+  },
+  {
+    "id": "b20bde2ea4615bdd",
+    "title": "Фанат английского «Мидлсбро» посетил все матчи клуба за последние 30 лет",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/8/28/347684135152288.jpeg",
+    "teaser": "Фанат английского «Мидлсбро» посетил все матчи клуба за последние 30 лет",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6967d6e79a7947592d6090ea",
+    "publishedAt": "2026-01-14T18:34:32.000Z",
+    "createdAt": "2026-01-14T19:24:34.198Z",
+    "updatedAt": "2026-01-14T19:24:34.198Z"
+  },
+  {
     "id": "b31f7b67913c4106",
     "title": "«Тоттенхэм» купил футболиста сборной Англии Галлахера",
     "sport": "Футбол",
@@ -10,8 +52,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6967cf539a7947c5dfc521c6",
     "publishedAt": "2026-01-14T17:45:55.000Z",
-    "createdAt": "2026-01-14T18:40:46.959Z",
-    "updatedAt": "2026-01-14T18:40:46.959Z"
+    "createdAt": "2026-01-14T19:24:35.274Z",
+    "updatedAt": "2026-01-14T19:24:35.274Z"
   },
   {
     "id": "b5fa90328bede196",
@@ -24,8 +66,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6967c1529a7947fbc281e9f7",
     "publishedAt": "2026-01-14T16:32:47.000Z",
-    "createdAt": "2026-01-14T18:40:47.979Z",
-    "updatedAt": "2026-01-14T18:40:47.979Z"
+    "createdAt": "2026-01-14T19:24:36.452Z",
+    "updatedAt": "2026-01-14T19:24:36.452Z"
   },
   {
     "id": "cbfc9a9bf3f470a4",
@@ -38,8 +80,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6967b9749a7947d3db47a779",
     "publishedAt": "2026-01-14T16:10:44.000Z",
-    "createdAt": "2026-01-14T18:40:48.955Z",
-    "updatedAt": "2026-01-14T18:40:48.955Z"
+    "createdAt": "2026-01-14T19:24:37.732Z",
+    "updatedAt": "2026-01-14T19:24:37.732Z"
   },
   {
     "id": "660b43076ead21ce",
@@ -52,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6967b3c29a7947aa4700a578",
     "publishedAt": "2026-01-14T15:37:41.000Z",
-    "createdAt": "2026-01-14T18:40:50.956Z",
-    "updatedAt": "2026-01-14T18:40:50.956Z"
+    "createdAt": "2026-01-14T19:24:40.301Z",
+    "updatedAt": "2026-01-14T19:24:40.301Z"
   },
   {
     "id": "6493bb1052e929e9",
@@ -66,22 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6967a6cf9a7947853b9c9069",
     "publishedAt": "2026-01-14T15:26:12.000Z",
-    "createdAt": "2026-01-14T18:40:49.989Z",
-    "updatedAt": "2026-01-14T18:40:49.989Z"
-  },
-  {
-    "id": "cd93c907c5a6414b",
-    "title": "Аутсайдер РПЛ купил аргентинского полузащитника",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/7/66/347684032155667.jpeg",
-    "teaser": "Аутсайдер РПЛ купил аргентинского полузащитника",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6967b0439a79475801bc7c92",
-    "publishedAt": "2026-01-14T15:14:00.000Z",
-    "createdAt": "2026-01-14T18:40:53.812Z",
-    "updatedAt": "2026-01-14T18:40:53.812Z"
+    "createdAt": "2026-01-14T19:24:39.044Z",
+    "updatedAt": "2026-01-14T19:24:39.044Z"
   },
   {
     "id": "ddb0e5e468c34758",
@@ -94,8 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6967a8979a794724f81d7439",
     "publishedAt": "2026-01-14T14:50:27.000Z",
-    "createdAt": "2026-01-14T18:40:52.784Z",
-    "updatedAt": "2026-01-14T18:40:52.784Z"
+    "createdAt": "2026-01-14T19:24:42.784Z",
+    "updatedAt": "2026-01-14T19:24:42.784Z"
   },
   {
     "id": "f62ef0e18674cb0f",
@@ -108,35 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/696787129a79472a74e3b578",
     "publishedAt": "2026-01-14T14:35:11.000Z",
-    "createdAt": "2026-01-14T18:40:51.974Z",
-    "updatedAt": "2026-01-14T18:40:51.974Z"
-  },
-  {
-    "id": "f6ffb3ea4ed465de",
-    "title": "Гоночный болид Шумахера выставят на аукционе более чем за €5,5 млн",
-    "sport": "Другое",
-    "category": "Формула-1",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/6/20/347683988620206.jpeg",
-    "teaser": "Гоночный болид Шумахера выставят на аукционе более чем за €5,5 млн",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/696795db9a7947c16baba9c6",
-    "publishedAt": "2026-01-14T14:15:43.000Z",
-    "createdAt": "2026-01-14T18:40:54.838Z",
-    "updatedAt": "2026-01-14T18:40:54.838Z"
-  },
-  {
-    "id": "490800bcfd92eda8",
-    "title": "Трусова заявила, что не разрешает мужу кататься с другими фигуристками",
-    "sport": "Другое",
-    "category": "Фигурное катание",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/9/39/347683983052399.jpeg",
-    "teaser": "Трусова заявила, что не разрешает мужу кататься с другими фигуристками",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69679d939a7947420d300ab2",
-    "publishedAt": "2026-01-14T13:55:49.000Z",
-    "createdAt": "2026-01-14T18:40:55.917Z",
-    "updatedAt": "2026-01-14T18:40:55.917Z"
+    "createdAt": "2026-01-14T19:24:41.548Z",
+    "updatedAt": "2026-01-14T19:24:41.548Z"
   }
 ]
