@@ -1,5 +1,61 @@
 [
   {
+    "id": "6493bb1052e929e9",
+    "title": "Новый тренер «Спартака» Карседо назвал Дзюбу большим игроком",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/0/52/347684028812520.jpeg",
+    "teaser": "Новый тренер «Спартака» Карседо назвал Дзюбу большим игроком",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6967a6cf9a7947853b9c9069",
+    "publishedAt": "2026-01-14T15:26:12.000Z",
+    "createdAt": "2026-01-14T15:31:47.430Z",
+    "updatedAt": "2026-01-14T15:31:47.430Z"
+  },
+  {
+    "id": "cd93c907c5a6414b",
+    "title": "Аутсайдер РПЛ купил аргентинского полузащитника",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/7/66/347684032155667.jpeg",
+    "teaser": "Аутсайдер РПЛ купил аргентинского полузащитника",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6967b0439a79475801bc7c92",
+    "publishedAt": "2026-01-14T15:14:00.000Z",
+    "createdAt": "2026-01-14T15:31:51.513Z",
+    "updatedAt": "2026-01-14T15:31:51.513Z"
+  },
+  {
+    "id": "ddb0e5e468c34758",
+    "title": "«Динамо» продлило контракт с нападающим молодежной сборной России",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/3/80/347684017178803.jpeg",
+    "teaser": "«Динамо» продлило контракт с нападающим молодежной сборной России",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6967a8979a794724f81d7439",
+    "publishedAt": "2026-01-14T14:50:27.000Z",
+    "createdAt": "2026-01-14T15:31:50.421Z",
+    "updatedAt": "2026-01-14T15:31:50.421Z"
+  },
+  {
+    "id": "f62ef0e18674cb0f",
+    "title": "Вяльбе заявила, что у нее с Большуновым «какой-то контакт прервался»",
+    "sport": "Другое",
+    "category": "Другие",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/7/04/347683933214047.jpeg",
+    "teaser": "Вяльбе заявила, что у нее с Большуновым «какой-то контакт прервался»",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/696787129a79472a74e3b578",
+    "publishedAt": "2026-01-14T14:35:11.000Z",
+    "createdAt": "2026-01-14T15:31:49.296Z",
+    "updatedAt": "2026-01-14T15:31:49.296Z"
+  },
+  {
     "id": "f6ffb3ea4ed465de",
     "title": "Гоночный болид Шумахера выставят на аукционе более чем за €5,5 млн",
     "sport": "Другое",
@@ -10,8 +66,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/696795db9a7947c16baba9c6",
     "publishedAt": "2026-01-14T14:15:43.000Z",
-    "createdAt": "2026-01-14T14:31:25.861Z",
-    "updatedAt": "2026-01-14T14:31:25.861Z"
+    "createdAt": "2026-01-14T15:31:52.642Z",
+    "updatedAt": "2026-01-14T15:31:52.642Z"
   },
   {
     "id": "0fdeb4c37cce3bb6",
@@ -24,8 +80,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6967970e9a7947f55c35edd1",
     "publishedAt": "2026-01-14T14:07:29.000Z",
-    "createdAt": "2026-01-14T14:31:26.907Z",
-    "updatedAt": "2026-01-14T14:31:26.907Z"
+    "createdAt": "2026-01-14T15:31:54.987Z",
+    "updatedAt": "2026-01-14T15:31:54.987Z"
   },
   {
     "id": "490800bcfd92eda8",
@@ -38,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69679d939a7947420d300ab2",
     "publishedAt": "2026-01-14T13:55:49.000Z",
-    "createdAt": "2026-01-14T14:31:24.877Z",
-    "updatedAt": "2026-01-14T14:31:24.877Z"
+    "createdAt": "2026-01-14T15:31:53.817Z",
+    "updatedAt": "2026-01-14T15:31:53.817Z"
   },
   {
     "id": "d81381586ead7a83",
@@ -52,8 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/696794a49a7947abd7c34133",
     "publishedAt": "2026-01-14T13:11:42.000Z",
-    "createdAt": "2026-01-14T14:31:27.862Z",
-    "updatedAt": "2026-01-14T14:31:27.862Z"
+    "createdAt": "2026-01-14T15:31:56.118Z",
+    "updatedAt": "2026-01-14T15:31:56.118Z"
   },
   {
     "id": "480d38ab839535f8",
@@ -66,8 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69678faa9a7947588f8e3ebf",
     "publishedAt": "2026-01-14T13:01:05.000Z",
-    "createdAt": "2026-01-14T14:31:28.925Z",
-    "updatedAt": "2026-01-14T14:31:28.925Z"
+    "createdAt": "2026-01-14T15:31:57.254Z",
+    "updatedAt": "2026-01-14T15:31:57.254Z"
   },
   {
     "id": "01de24d2dfe5df31",
@@ -80,63 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/696780279a7947a7cac2f097",
     "publishedAt": "2026-01-14T12:06:46.000Z",
-    "createdAt": "2026-01-14T14:31:29.988Z",
-    "updatedAt": "2026-01-14T14:31:29.988Z"
-  },
-  {
-    "id": "945cd347598fe694",
-    "title": "Любитель выиграл турнир с профи на Australian Open и заработал $668 тыс",
-    "sport": "Теннис",
-    "category": "Теннис",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/9/65/347683894392659.jpeg",
-    "teaser": "Любитель выиграл турнир с профи на Australian Open и заработал $668 тыс",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/696773d39a794764b8f25273",
-    "publishedAt": "2026-01-14T11:23:39.000Z",
-    "createdAt": "2026-01-14T14:31:31.001Z",
-    "updatedAt": "2026-01-14T14:31:31.001Z"
-  },
-  {
-    "id": "d613f2a29a15131c",
-    "title": "17-летнего футболиста застрелили в ходе протестов в Иране",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/0/74/347683867327740.png",
-    "teaser": "17-летнего футболиста застрелили в ходе протестов в Иране",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6967708d9a79478a169415c9",
-    "publishedAt": "2026-01-14T10:48:44.000Z",
-    "createdAt": "2026-01-14T14:31:32.014Z",
-    "updatedAt": "2026-01-14T14:31:32.014Z"
-  },
-  {
-    "id": "4aba91813fa44dcb",
-    "title": "Форвард сборной Франции расторг контракт со СКА спустя два месяца",
-    "sport": "Хоккей",
-    "category": "Хоккей",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/0/97/347683847345970.jpeg",
-    "teaser": "Форвард сборной Франции расторг контракт со СКА спустя два месяца",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/696768a29a794724c05446cc",
-    "publishedAt": "2026-01-14T10:31:30.000Z",
-    "createdAt": "2026-01-14T14:31:33.072Z",
-    "updatedAt": "2026-01-14T14:31:33.072Z"
-  },
-  {
-    "id": "0b3b0203a2f79c3b",
-    "title": "Сын Ибрагимовича перешел из «Милана» в «Аякс»",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/9/27/347683839315279.jpeg",
-    "teaser": "Сын Ибрагимовича перешел из «Милана» в «Аякс»",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6967658a9a79471a22e32b58",
-    "publishedAt": "2026-01-14T09:58:26.000Z",
-    "createdAt": "2026-01-14T14:31:34.118Z",
-    "updatedAt": "2026-01-14T14:31:34.118Z"
+    "createdAt": "2026-01-14T15:31:58.770Z",
+    "updatedAt": "2026-01-14T15:31:58.770Z"
   }
 ]
