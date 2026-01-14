@@ -1,5 +1,61 @@
 [
   {
+    "id": "d78543323d4ba62c",
+    "title": "Александр Тарханов возглавил женский футбольный клуб",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/5/91/347683818300915.jpeg",
+    "teaser": "Александр Тарханов возглавил женский футбольный клуб",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69675d649a7947195b777aeb",
+    "publishedAt": "2026-01-14T09:17:10.000Z",
+    "createdAt": "2026-01-14T09:35:01.481Z",
+    "updatedAt": "2026-01-14T09:35:01.481Z"
+  },
+  {
+    "id": "f7520ec758672231",
+    "title": "Испанский тренер Артига возглавил «Рубин» вместо Рахимова",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/6/87/347682973246876.jpeg",
+    "teaser": "Испанский тренер Артига возглавил «Рубин» вместо Рахимова",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69660c9f9a7947cae3fc177c",
+    "publishedAt": "2026-01-14T09:04:36.000Z",
+    "createdAt": "2026-01-14T09:35:00.446Z",
+    "updatedAt": "2026-01-14T09:35:00.446Z"
+  },
+  {
+    "id": "8148aa46e8684ff5",
+    "title": "Российские шорт-трекисты приняли приглашение МОК выступить на Олимпиаде",
+    "sport": "Другое",
+    "category": "Другие",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/3/11/347683805520113.jpeg",
+    "teaser": "Российские шорт-трекисты приняли приглашение МОК выступить на Олимпиаде",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/696758349a794703076f8446",
+    "publishedAt": "2026-01-14T08:56:05.000Z",
+    "createdAt": "2026-01-14T09:35:02.586Z",
+    "updatedAt": "2026-01-14T09:35:02.586Z"
+  },
+  {
+    "id": "71c0ac055b8f72c7",
+    "title": "Великобритания не выдала визы армянским фигуристам на чемпионат Европы",
+    "sport": "Другое",
+    "category": "Фигурное катание",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/3/12/347683793754123.jpeg",
+    "teaser": "Великобритания не выдала визы армянским фигуристам на чемпионат Европы",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/696753ba9a79470daa6cbc9d",
+    "publishedAt": "2026-01-14T08:39:05.000Z",
+    "createdAt": "2026-01-14T09:35:03.689Z",
+    "updatedAt": "2026-01-14T09:35:03.689Z"
+  },
+  {
     "id": "944cdf1441743def",
     "title": "Украинская гимнастка раскритиковала выступающую за Германию россиянку",
     "sport": "Другое",
@@ -10,8 +66,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69674b599a79473ea9aa685c",
     "publishedAt": "2026-01-14T08:13:16.000Z",
-    "createdAt": "2026-01-14T08:38:11.027Z",
-    "updatedAt": "2026-01-14T08:38:11.027Z"
+    "createdAt": "2026-01-14T09:35:04.787Z",
+    "updatedAt": "2026-01-14T09:35:04.787Z"
   },
   {
     "id": "3836b3b94081189f",
@@ -24,8 +80,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6967365c9a7947957e6a102f",
     "publishedAt": "2026-01-14T07:40:55.000Z",
-    "createdAt": "2026-01-14T08:38:12.522Z",
-    "updatedAt": "2026-01-14T08:38:12.522Z"
+    "createdAt": "2026-01-14T09:35:05.899Z",
+    "updatedAt": "2026-01-14T09:35:05.899Z"
   },
   {
     "id": "46e07c8afdd50721",
@@ -38,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/696741939a79476b9bf7200d",
     "publishedAt": "2026-01-14T07:35:00.000Z",
-    "createdAt": "2026-01-14T08:38:13.645Z",
-    "updatedAt": "2026-01-14T08:38:13.645Z"
+    "createdAt": "2026-01-14T09:35:06.990Z",
+    "updatedAt": "2026-01-14T09:35:06.990Z"
   },
   {
     "id": "7e936025cb504e34",
@@ -52,8 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69673f9e9a79471850f0f690",
     "publishedAt": "2026-01-14T07:17:48.000Z",
-    "createdAt": "2026-01-14T08:38:14.764Z",
-    "updatedAt": "2026-01-14T08:38:14.764Z"
+    "createdAt": "2026-01-14T09:35:08.068Z",
+    "updatedAt": "2026-01-14T09:35:08.068Z"
   },
   {
     "id": "1a35aea9feaa6e30",
@@ -66,8 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/696727c89a7947a28c84f5cf",
     "publishedAt": "2026-01-14T07:10:05.000Z",
-    "createdAt": "2026-01-14T08:38:15.900Z",
-    "updatedAt": "2026-01-14T08:38:15.900Z"
+    "createdAt": "2026-01-14T09:35:09.169Z",
+    "updatedAt": "2026-01-14T09:35:09.169Z"
   },
   {
     "id": "69553c67ff9fd235",
@@ -80,63 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/696728ce9a7947fb4ee74b27",
     "publishedAt": "2026-01-14T06:22:19.000Z",
-    "createdAt": "2026-01-14T08:38:17.018Z",
-    "updatedAt": "2026-01-14T08:38:17.018Z"
-  },
-  {
-    "id": "e2f622da3b036b15",
-    "title": "Во главе «Манчестер Юнайтед» поставили бывшего игрока команды",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/2/95/347682334422952.jpeg",
-    "teaser": "Во главе «Манчестер Юнайтед» поставили бывшего игрока команды",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/696516c09a79470feb0ef5b9",
-    "publishedAt": "2026-01-13T19:56:36.000Z",
-    "createdAt": "2026-01-14T08:38:18.086Z",
-    "updatedAt": "2026-01-14T08:38:18.086Z"
-  },
-  {
-    "id": "d0a5701fada2afea",
-    "title": "Лидер Западной конференции КХЛ проиграл, пропустив на последней минуте",
-    "sport": "Хоккей",
-    "category": "Хоккей",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/3/10/347683295910103.jpeg",
-    "teaser": "Лидер Западной конференции КХЛ проиграл, пропустив на последней минуте",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69668f629a794710edcf126e",
-    "publishedAt": "2026-01-13T18:50:01.000Z",
-    "createdAt": "2026-01-14T08:38:20.343Z",
-    "updatedAt": "2026-01-14T08:38:20.343Z"
-  },
-  {
-    "id": "bc906f1d30f22772",
-    "title": "«Ахмат» расторг контракт с боснийским легионером",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/7/65/347683287306657.jpeg",
-    "teaser": "«Ахмат» расторг контракт с боснийским легионером",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69668df39a79479397dc6c09",
-    "publishedAt": "2026-01-13T18:32:31.000Z",
-    "createdAt": "2026-01-14T08:38:21.473Z",
-    "updatedAt": "2026-01-14T08:38:21.473Z"
-  },
-  {
-    "id": "911b25246e5f7e34",
-    "title": "Один из первых медалистов Олимпиады в сноуборде погиб из-за схода лавины",
-    "sport": "Другое",
-    "category": "Другие",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/8/93/347683270006938.jpeg",
-    "teaser": "Один из первых медалистов Олимпиады в сноуборде погиб из-за схода лавины",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6966842f9a79475bf5715df7",
-    "publishedAt": "2026-01-13T18:27:50.000Z",
-    "createdAt": "2026-01-14T08:38:19.205Z",
-    "updatedAt": "2026-01-14T08:38:19.205Z"
+    "createdAt": "2026-01-14T09:35:10.271Z",
+    "updatedAt": "2026-01-14T09:35:10.271Z"
   }
 ]
