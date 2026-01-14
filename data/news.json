@@ -1,5 +1,47 @@
 [
   {
+    "id": "945cd347598fe694",
+    "title": "Любитель выиграл турнир с профи на Australian Open и заработал $668 тыс",
+    "sport": "Теннис",
+    "category": "Теннис",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/9/65/347683894392659.jpeg",
+    "teaser": "Любитель выиграл турнир с профи на Australian Open и заработал $668 тыс",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/696773d39a794764b8f25273",
+    "publishedAt": "2026-01-14T11:23:39.000Z",
+    "createdAt": "2026-01-14T11:27:06.735Z",
+    "updatedAt": "2026-01-14T11:27:06.735Z"
+  },
+  {
+    "id": "d613f2a29a15131c",
+    "title": "17-летнего футболиста застрелили в ходе протестов в Иране",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/0/74/347683867327740.png",
+    "teaser": "17-летнего футболиста застрелили в ходе протестов в Иране",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6967708d9a79478a169415c9",
+    "publishedAt": "2026-01-14T10:48:44.000Z",
+    "createdAt": "2026-01-14T11:27:07.692Z",
+    "updatedAt": "2026-01-14T11:27:07.692Z"
+  },
+  {
+    "id": "4aba91813fa44dcb",
+    "title": "Форвард сборной Франции расторг контракт со СКА спустя два месяца",
+    "sport": "Хоккей",
+    "category": "Хоккей",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/0/97/347683847345970.jpeg",
+    "teaser": "Форвард сборной Франции расторг контракт со СКА спустя два месяца",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/696768a29a794724c05446cc",
+    "publishedAt": "2026-01-14T10:31:30.000Z",
+    "createdAt": "2026-01-14T11:27:08.636Z",
+    "updatedAt": "2026-01-14T11:27:08.636Z"
+  },
+  {
     "id": "0b3b0203a2f79c3b",
     "title": "Сын Ибрагимовича перешел из «Милана» в «Аякс»",
     "sport": "Футбол",
@@ -10,8 +52,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6967658a9a79471a22e32b58",
     "publishedAt": "2026-01-14T09:58:26.000Z",
-    "createdAt": "2026-01-14T10:31:44.959Z",
-    "updatedAt": "2026-01-14T10:31:44.959Z"
+    "createdAt": "2026-01-14T11:27:09.595Z",
+    "updatedAt": "2026-01-14T11:27:09.595Z"
   },
   {
     "id": "d78543323d4ba62c",
@@ -24,8 +66,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69675d649a7947195b777aeb",
     "publishedAt": "2026-01-14T09:17:10.000Z",
-    "createdAt": "2026-01-14T10:31:47.214Z",
-    "updatedAt": "2026-01-14T10:31:47.214Z"
+    "createdAt": "2026-01-14T11:27:11.496Z",
+    "updatedAt": "2026-01-14T11:27:11.496Z"
   },
   {
     "id": "f7520ec758672231",
@@ -38,8 +80,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69660c9f9a7947cae3fc177c",
     "publishedAt": "2026-01-14T09:04:36.000Z",
-    "createdAt": "2026-01-14T10:31:46.121Z",
-    "updatedAt": "2026-01-14T10:31:46.121Z"
+    "createdAt": "2026-01-14T11:27:10.538Z",
+    "updatedAt": "2026-01-14T11:27:10.538Z"
   },
   {
     "id": "8148aa46e8684ff5",
@@ -52,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/696758349a794703076f8446",
     "publishedAt": "2026-01-14T08:56:05.000Z",
-    "createdAt": "2026-01-14T10:31:48.362Z",
-    "updatedAt": "2026-01-14T10:31:48.362Z"
+    "createdAt": "2026-01-14T11:27:12.441Z",
+    "updatedAt": "2026-01-14T11:27:12.441Z"
   },
   {
     "id": "71c0ac055b8f72c7",
@@ -66,8 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/696753ba9a79470daa6cbc9d",
     "publishedAt": "2026-01-14T08:39:05.000Z",
-    "createdAt": "2026-01-14T10:31:49.507Z",
-    "updatedAt": "2026-01-14T10:31:49.507Z"
+    "createdAt": "2026-01-14T11:27:13.500Z",
+    "updatedAt": "2026-01-14T11:27:13.500Z"
   },
   {
     "id": "944cdf1441743def",
@@ -80,8 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69674b599a79473ea9aa685c",
     "publishedAt": "2026-01-14T08:13:16.000Z",
-    "createdAt": "2026-01-14T10:31:50.652Z",
-    "updatedAt": "2026-01-14T10:31:50.652Z"
+    "createdAt": "2026-01-14T11:27:14.524Z",
+    "updatedAt": "2026-01-14T11:27:14.524Z"
   },
   {
     "id": "3836b3b94081189f",
@@ -94,49 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6967365c9a7947957e6a102f",
     "publishedAt": "2026-01-14T07:40:55.000Z",
-    "createdAt": "2026-01-14T10:31:51.851Z",
-    "updatedAt": "2026-01-14T10:31:51.851Z"
-  },
-  {
-    "id": "46e07c8afdd50721",
-    "title": "Родионенко покинула пост старшего тренера сборной России по гимнастике",
-    "sport": "Другое",
-    "category": "Другие",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/6/37/347683765590376.jpeg",
-    "teaser": "Родионенко покинула пост старшего тренера сборной России по гимнастике",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/696741939a79476b9bf7200d",
-    "publishedAt": "2026-01-14T07:35:00.000Z",
-    "createdAt": "2026-01-14T10:31:53.019Z",
-    "updatedAt": "2026-01-14T10:31:53.019Z"
-  },
-  {
-    "id": "7e936025cb504e34",
-    "title": "Четвертая ракетка России вышла в четвертьфинал турнира в Аделаиде",
-    "sport": "Теннис",
-    "category": "Теннис",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/3/45/347683742477453.jpeg",
-    "teaser": "Четвертая ракетка России вышла в четвертьфинал турнира в Аделаиде",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69673f9e9a79471850f0f690",
-    "publishedAt": "2026-01-14T07:17:48.000Z",
-    "createdAt": "2026-01-14T10:31:54.194Z",
-    "updatedAt": "2026-01-14T10:31:54.194Z"
-  },
-  {
-    "id": "1a35aea9feaa6e30",
-    "title": "УЕФА не поддержал предложение о возможном изменении правила офсайда",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/8/33/347683701436338.jpeg",
-    "teaser": "УЕФА не поддержал предложение о возможном изменении правила офсайда",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/696727c89a7947a28c84f5cf",
-    "publishedAt": "2026-01-14T07:10:05.000Z",
-    "createdAt": "2026-01-14T10:31:55.364Z",
-    "updatedAt": "2026-01-14T10:31:55.364Z"
+    "createdAt": "2026-01-14T11:27:15.559Z",
+    "updatedAt": "2026-01-14T11:27:15.559Z"
   }
 ]
