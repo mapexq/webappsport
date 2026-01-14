@@ -1,5 +1,19 @@
 [
   {
+    "id": "0b3b0203a2f79c3b",
+    "title": "Сын Ибрагимовича перешел из «Милана» в «Аякс»",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/9/27/347683839315279.jpeg",
+    "teaser": "Сын Ибрагимовича перешел из «Милана» в «Аякс»",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6967658a9a79471a22e32b58",
+    "publishedAt": "2026-01-14T09:58:26.000Z",
+    "createdAt": "2026-01-14T10:31:44.959Z",
+    "updatedAt": "2026-01-14T10:31:44.959Z"
+  },
+  {
     "id": "d78543323d4ba62c",
     "title": "Александр Тарханов возглавил женский футбольный клуб",
     "sport": "Футбол",
@@ -10,8 +24,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69675d649a7947195b777aeb",
     "publishedAt": "2026-01-14T09:17:10.000Z",
-    "createdAt": "2026-01-14T09:35:01.481Z",
-    "updatedAt": "2026-01-14T09:35:01.481Z"
+    "createdAt": "2026-01-14T10:31:47.214Z",
+    "updatedAt": "2026-01-14T10:31:47.214Z"
   },
   {
     "id": "f7520ec758672231",
@@ -24,8 +38,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69660c9f9a7947cae3fc177c",
     "publishedAt": "2026-01-14T09:04:36.000Z",
-    "createdAt": "2026-01-14T09:35:00.446Z",
-    "updatedAt": "2026-01-14T09:35:00.446Z"
+    "createdAt": "2026-01-14T10:31:46.121Z",
+    "updatedAt": "2026-01-14T10:31:46.121Z"
   },
   {
     "id": "8148aa46e8684ff5",
@@ -38,8 +52,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/696758349a794703076f8446",
     "publishedAt": "2026-01-14T08:56:05.000Z",
-    "createdAt": "2026-01-14T09:35:02.586Z",
-    "updatedAt": "2026-01-14T09:35:02.586Z"
+    "createdAt": "2026-01-14T10:31:48.362Z",
+    "updatedAt": "2026-01-14T10:31:48.362Z"
   },
   {
     "id": "71c0ac055b8f72c7",
@@ -52,8 +66,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/696753ba9a79470daa6cbc9d",
     "publishedAt": "2026-01-14T08:39:05.000Z",
-    "createdAt": "2026-01-14T09:35:03.689Z",
-    "updatedAt": "2026-01-14T09:35:03.689Z"
+    "createdAt": "2026-01-14T10:31:49.507Z",
+    "updatedAt": "2026-01-14T10:31:49.507Z"
   },
   {
     "id": "944cdf1441743def",
@@ -66,8 +80,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69674b599a79473ea9aa685c",
     "publishedAt": "2026-01-14T08:13:16.000Z",
-    "createdAt": "2026-01-14T09:35:04.787Z",
-    "updatedAt": "2026-01-14T09:35:04.787Z"
+    "createdAt": "2026-01-14T10:31:50.652Z",
+    "updatedAt": "2026-01-14T10:31:50.652Z"
   },
   {
     "id": "3836b3b94081189f",
@@ -80,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6967365c9a7947957e6a102f",
     "publishedAt": "2026-01-14T07:40:55.000Z",
-    "createdAt": "2026-01-14T09:35:05.899Z",
-    "updatedAt": "2026-01-14T09:35:05.899Z"
+    "createdAt": "2026-01-14T10:31:51.851Z",
+    "updatedAt": "2026-01-14T10:31:51.851Z"
   },
   {
     "id": "46e07c8afdd50721",
@@ -94,8 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/696741939a79476b9bf7200d",
     "publishedAt": "2026-01-14T07:35:00.000Z",
-    "createdAt": "2026-01-14T09:35:06.990Z",
-    "updatedAt": "2026-01-14T09:35:06.990Z"
+    "createdAt": "2026-01-14T10:31:53.019Z",
+    "updatedAt": "2026-01-14T10:31:53.019Z"
   },
   {
     "id": "7e936025cb504e34",
@@ -108,8 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69673f9e9a79471850f0f690",
     "publishedAt": "2026-01-14T07:17:48.000Z",
-    "createdAt": "2026-01-14T09:35:08.068Z",
-    "updatedAt": "2026-01-14T09:35:08.068Z"
+    "createdAt": "2026-01-14T10:31:54.194Z",
+    "updatedAt": "2026-01-14T10:31:54.194Z"
   },
   {
     "id": "1a35aea9feaa6e30",
@@ -122,21 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/696727c89a7947a28c84f5cf",
     "publishedAt": "2026-01-14T07:10:05.000Z",
-    "createdAt": "2026-01-14T09:35:09.169Z",
-    "updatedAt": "2026-01-14T09:35:09.169Z"
-  },
-  {
-    "id": "69553c67ff9fd235",
-    "title": "Овечкин прервал голевую серию из четырех матчей в НХЛ",
-    "sport": "Хоккей",
-    "category": "Хоккей",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/1/23/347683693116231.jpeg",
-    "teaser": "Овечкин прервал голевую серию из четырех матчей в НХЛ",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/696728ce9a7947fb4ee74b27",
-    "publishedAt": "2026-01-14T06:22:19.000Z",
-    "createdAt": "2026-01-14T09:35:10.271Z",
-    "updatedAt": "2026-01-14T09:35:10.271Z"
+    "createdAt": "2026-01-14T10:31:55.364Z",
+    "updatedAt": "2026-01-14T10:31:55.364Z"
   }
 ]
