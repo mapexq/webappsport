@@ -1,5 +1,33 @@
 [
   {
+    "id": "d81381586ead7a83",
+    "title": "В «Ростове» объяснили трансферный запрет со стороны ФИФА",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/5/34/347683959569345.jpeg",
+    "teaser": "В «Ростове» объяснили трансферный запрет со стороны ФИФА",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/696794a49a7947abd7c34133",
+    "publishedAt": "2026-01-14T13:11:42.000Z",
+    "createdAt": "2026-01-14T13:47:53.995Z",
+    "updatedAt": "2026-01-14T13:47:53.995Z"
+  },
+  {
+    "id": "480d38ab839535f8",
+    "title": "ФИФА запретила «Ростову» регистрировать новых футболистов",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/3/56/347683947570563.jpeg",
+    "teaser": "ФИФА запретила «Ростову» регистрировать новых футболистов",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69678faa9a7947588f8e3ebf",
+    "publishedAt": "2026-01-14T13:01:05.000Z",
+    "createdAt": "2026-01-14T13:47:55.014Z",
+    "updatedAt": "2026-01-14T13:47:55.014Z"
+  },
+  {
     "id": "01de24d2dfe5df31",
     "title": "Гашек назвал недостаточным отказ от 17 тыс. билетов на ЧМ-2026 в США",
     "sport": "Футбол",
@@ -10,8 +38,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/696780279a7947a7cac2f097",
     "publishedAt": "2026-01-14T12:06:46.000Z",
-    "createdAt": "2026-01-14T12:59:07.756Z",
-    "updatedAt": "2026-01-14T12:59:07.756Z"
+    "createdAt": "2026-01-14T13:47:56.024Z",
+    "updatedAt": "2026-01-14T13:47:56.024Z"
   },
   {
     "id": "945cd347598fe694",
@@ -24,8 +52,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/696773d39a794764b8f25273",
     "publishedAt": "2026-01-14T11:23:39.000Z",
-    "createdAt": "2026-01-14T12:59:08.780Z",
-    "updatedAt": "2026-01-14T12:59:08.780Z"
+    "createdAt": "2026-01-14T13:47:57.066Z",
+    "updatedAt": "2026-01-14T13:47:57.066Z"
   },
   {
     "id": "d613f2a29a15131c",
@@ -38,8 +66,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6967708d9a79478a169415c9",
     "publishedAt": "2026-01-14T10:48:44.000Z",
-    "createdAt": "2026-01-14T12:59:09.869Z",
-    "updatedAt": "2026-01-14T12:59:09.869Z"
+    "createdAt": "2026-01-14T13:47:58.086Z",
+    "updatedAt": "2026-01-14T13:47:58.086Z"
   },
   {
     "id": "4aba91813fa44dcb",
@@ -52,8 +80,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/696768a29a794724c05446cc",
     "publishedAt": "2026-01-14T10:31:30.000Z",
-    "createdAt": "2026-01-14T12:59:10.932Z",
-    "updatedAt": "2026-01-14T12:59:10.932Z"
+    "createdAt": "2026-01-14T13:47:58.970Z",
+    "updatedAt": "2026-01-14T13:47:58.970Z"
   },
   {
     "id": "0b3b0203a2f79c3b",
@@ -66,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6967658a9a79471a22e32b58",
     "publishedAt": "2026-01-14T09:58:26.000Z",
-    "createdAt": "2026-01-14T12:59:12.000Z",
-    "updatedAt": "2026-01-14T12:59:12.000Z"
+    "createdAt": "2026-01-14T13:47:59.927Z",
+    "updatedAt": "2026-01-14T13:47:59.927Z"
   },
   {
     "id": "d78543323d4ba62c",
@@ -80,8 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69675d649a7947195b777aeb",
     "publishedAt": "2026-01-14T09:17:10.000Z",
-    "createdAt": "2026-01-14T12:59:14.130Z",
-    "updatedAt": "2026-01-14T12:59:14.130Z"
+    "createdAt": "2026-01-14T13:48:01.995Z",
+    "updatedAt": "2026-01-14T13:48:01.995Z"
   },
   {
     "id": "f7520ec758672231",
@@ -94,8 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69660c9f9a7947cae3fc177c",
     "publishedAt": "2026-01-14T09:04:36.000Z",
-    "createdAt": "2026-01-14T12:59:13.062Z",
-    "updatedAt": "2026-01-14T12:59:13.063Z"
+    "createdAt": "2026-01-14T13:48:00.977Z",
+    "updatedAt": "2026-01-14T13:48:00.977Z"
   },
   {
     "id": "8148aa46e8684ff5",
@@ -108,35 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/696758349a794703076f8446",
     "publishedAt": "2026-01-14T08:56:05.000Z",
-    "createdAt": "2026-01-14T12:59:15.189Z",
-    "updatedAt": "2026-01-14T12:59:15.189Z"
-  },
-  {
-    "id": "71c0ac055b8f72c7",
-    "title": "Великобритания не выдала визы армянским фигуристам на чемпионат Европы",
-    "sport": "Другое",
-    "category": "Фигурное катание",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/3/12/347683793754123.jpeg",
-    "teaser": "Великобритания не выдала визы армянским фигуристам на чемпионат Европы",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/696753ba9a79470daa6cbc9d",
-    "publishedAt": "2026-01-14T08:39:05.000Z",
-    "createdAt": "2026-01-14T12:59:16.278Z",
-    "updatedAt": "2026-01-14T12:59:16.278Z"
-  },
-  {
-    "id": "944cdf1441743def",
-    "title": "Украинская гимнастка раскритиковала выступающую за Германию россиянку",
-    "sport": "Другое",
-    "category": "Другие",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/8/30/347683772243308.jpeg",
-    "teaser": "Украинская гимнастка раскритиковала выступающую за Германию россиянку",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69674b599a79473ea9aa685c",
-    "publishedAt": "2026-01-14T08:13:16.000Z",
-    "createdAt": "2026-01-14T12:59:17.475Z",
-    "updatedAt": "2026-01-14T12:59:17.475Z"
+    "createdAt": "2026-01-14T13:48:02.988Z",
+    "updatedAt": "2026-01-14T13:48:02.988Z"
   }
 ]
