@@ -1,5 +1,61 @@
 [
   {
+    "id": "c000cd8ccf4d0f83",
+    "title": "Клуб КХЛ назначил третьего за сезон главного тренера",
+    "sport": "Хоккей",
+    "category": "Хоккей",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/0/39/347684670898390.jpeg",
+    "teaser": "Клуб КХЛ назначил третьего за сезон главного тренера",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6968a5509a79479ef740ebac",
+    "publishedAt": "2026-01-15T09:09:27.000Z",
+    "createdAt": "2026-01-15T09:34:14.442Z",
+    "updatedAt": "2026-01-15T09:34:14.442Z"
+  },
+  {
+    "id": "db585d3341e32833",
+    "title": "Эстонская фигуристка Петрыкина выиграла короткую программу на ЧЕ",
+    "sport": "Другое",
+    "category": "Фигурное катание",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/7/54/347684643823547.jpeg",
+    "teaser": "Эстонская фигуристка Петрыкина выиграла короткую программу на ЧЕ",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6968991f9a79475ed88e976f",
+    "publishedAt": "2026-01-15T08:19:57.000Z",
+    "createdAt": "2026-01-15T09:34:13.422Z",
+    "updatedAt": "2026-01-15T09:34:13.422Z"
+  },
+  {
+    "id": "407474b663e27ffc",
+    "title": "Россиянка Шнайдер вышла в полуфинал турнира WTA в Аделаиде",
+    "sport": "Теннис",
+    "category": "Теннис",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/9/80/347684618944809.jpeg",
+    "teaser": "Россиянка Шнайдер вышла в полуфинал турнира WTA в Аделаиде",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/696892e59a794764d4a46dba",
+    "publishedAt": "2026-01-15T07:38:26.000Z",
+    "createdAt": "2026-01-15T09:34:15.512Z",
+    "updatedAt": "2026-01-15T09:34:15.512Z"
+  },
+  {
+    "id": "ac28a01286a8e0f4",
+    "title": "Игрок или контрабандист. Чем известен герой Шаламе в «Марти Великолепный»",
+    "sport": "Другое",
+    "category": "Другие",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/6/91/347682253327916.jpeg",
+    "teaser": "Игрок или контрабандист. Чем известен герой Шаламе в «Марти Великолепный»",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6964cac89a79474dba28ea67",
+    "publishedAt": "2026-01-15T05:36:48.000Z",
+    "createdAt": "2026-01-15T09:34:12.427Z",
+    "updatedAt": "2026-01-15T09:34:12.427Z"
+  },
+  {
     "id": "9011e0963516c38c",
     "title": "«Спартак» второй раз в сезоне обыграл «Динамо» в московском дерби КХЛ",
     "sport": "Хоккей",
@@ -10,8 +66,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6967e19f9a794702a68c06dd",
     "publishedAt": "2026-01-14T19:09:17.000Z",
-    "createdAt": "2026-01-15T08:38:12.677Z",
-    "updatedAt": "2026-01-15T08:38:12.677Z"
+    "createdAt": "2026-01-15T09:34:17.626Z",
+    "updatedAt": "2026-01-15T09:34:17.626Z"
   },
   {
     "id": "e9d4abbc6dd4deae",
@@ -24,8 +80,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6967e1399a794777f2be7bf4",
     "publishedAt": "2026-01-14T18:54:54.000Z",
-    "createdAt": "2026-01-15T08:38:11.549Z",
-    "updatedAt": "2026-01-15T08:38:11.549Z"
+    "createdAt": "2026-01-15T09:34:16.580Z",
+    "updatedAt": "2026-01-15T09:34:16.580Z"
   },
   {
     "id": "b20bde2ea4615bdd",
@@ -38,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6967d6e79a7947592d6090ea",
     "publishedAt": "2026-01-14T18:34:32.000Z",
-    "createdAt": "2026-01-15T08:38:13.788Z",
-    "updatedAt": "2026-01-15T08:38:13.788Z"
+    "createdAt": "2026-01-15T09:34:18.693Z",
+    "updatedAt": "2026-01-15T09:34:18.693Z"
   },
   {
     "id": "b31f7b67913c4106",
@@ -52,8 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6967cf539a7947c5dfc521c6",
     "publishedAt": "2026-01-14T17:45:55.000Z",
-    "createdAt": "2026-01-15T08:38:14.877Z",
-    "updatedAt": "2026-01-15T08:38:14.877Z"
+    "createdAt": "2026-01-15T09:34:19.725Z",
+    "updatedAt": "2026-01-15T09:34:19.725Z"
   },
   {
     "id": "b5fa90328bede196",
@@ -66,8 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6967c1529a7947fbc281e9f7",
     "publishedAt": "2026-01-14T16:32:47.000Z",
-    "createdAt": "2026-01-15T08:38:15.980Z",
-    "updatedAt": "2026-01-15T08:38:15.980Z"
+    "createdAt": "2026-01-15T09:34:20.833Z",
+    "updatedAt": "2026-01-15T09:34:20.833Z"
   },
   {
     "id": "cbfc9a9bf3f470a4",
@@ -80,63 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6967b9749a7947d3db47a779",
     "publishedAt": "2026-01-14T16:10:44.000Z",
-    "createdAt": "2026-01-15T08:38:17.083Z",
-    "updatedAt": "2026-01-15T08:38:17.083Z"
-  },
-  {
-    "id": "660b43076ead21ce",
-    "title": "Капитан второй команды «Зенита» перешел в клуб РПЛ",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/9/30/347684044206309.jpeg",
-    "teaser": "Капитан второй команды «Зенита» перешел в клуб РПЛ",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6967b3c29a7947aa4700a578",
-    "publishedAt": "2026-01-14T15:37:41.000Z",
-    "createdAt": "2026-01-15T08:38:19.332Z",
-    "updatedAt": "2026-01-15T08:38:19.332Z"
-  },
-  {
-    "id": "6493bb1052e929e9",
-    "title": "Новый тренер «Спартака» Карседо назвал Дзюбу большим игроком",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/0/52/347684028812520.jpeg",
-    "teaser": "Новый тренер «Спартака» Карседо назвал Дзюбу большим игроком",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6967a6cf9a7947853b9c9069",
-    "publishedAt": "2026-01-14T15:26:12.000Z",
-    "createdAt": "2026-01-15T08:38:18.175Z",
-    "updatedAt": "2026-01-15T08:38:18.175Z"
-  },
-  {
-    "id": "ddb0e5e468c34758",
-    "title": "«Динамо» продлило контракт с нападающим молодежной сборной России",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/3/80/347684017178803.jpeg",
-    "teaser": "«Динамо» продлило контракт с нападающим молодежной сборной России",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6967a8979a794724f81d7439",
-    "publishedAt": "2026-01-14T14:50:27.000Z",
-    "createdAt": "2026-01-15T08:38:21.569Z",
-    "updatedAt": "2026-01-15T08:38:21.569Z"
-  },
-  {
-    "id": "f62ef0e18674cb0f",
-    "title": "Вяльбе заявила, что у нее с Большуновым «какой-то контакт прервался»",
-    "sport": "Другое",
-    "category": "Другие",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/7/04/347683933214047.jpeg",
-    "teaser": "Вяльбе заявила, что у нее с Большуновым «какой-то контакт прервался»",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/696787129a79472a74e3b578",
-    "publishedAt": "2026-01-14T14:35:11.000Z",
-    "createdAt": "2026-01-15T08:38:20.441Z",
-    "updatedAt": "2026-01-15T08:38:20.441Z"
+    "createdAt": "2026-01-15T09:34:21.856Z",
+    "updatedAt": "2026-01-15T09:34:21.856Z"
   }
 ]
