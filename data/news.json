@@ -1,5 +1,61 @@
 [
   {
+    "id": "b5731da456088b83",
+    "title": "В Латвии рекомендовали спортсменам избегать россиян на Олимпиаде в Италии",
+    "sport": "Другое",
+    "category": "Другие",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/7/53/347684805710537.jpeg",
+    "teaser": "В Латвии рекомендовали спортсменам избегать россиян на Олимпиаде в Италии",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6968c1249a79471a5ab31fa0",
+    "publishedAt": "2026-01-15T12:50:27.000Z",
+    "createdAt": "2026-01-15T12:58:04.303Z",
+    "updatedAt": "2026-01-15T12:58:04.303Z"
+  },
+  {
+    "id": "d6a13c6afa36cb6e",
+    "title": "Большунов одержал первую победу в сезоне",
+    "sport": "Другое",
+    "category": "Другие",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/6/98/347684774782986.jpeg",
+    "teaser": "Большунов одержал первую победу в сезоне",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6968ce5a9a7947601317a02d",
+    "publishedAt": "2026-01-15T12:05:14.000Z",
+    "createdAt": "2026-01-15T12:58:05.460Z",
+    "updatedAt": "2026-01-15T12:58:05.460Z"
+  },
+  {
+    "id": "aefdaa35a1e5415f",
+    "title": "«Ак Барс» продлил до пяти матчей серию поражений «Амура» в КХЛ",
+    "sport": "Хоккей",
+    "category": "Хоккей",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/9/29/347684775718299.png",
+    "teaser": "«Ак Барс» продлил до пяти матчей серию поражений «Амура» в КХЛ",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6968d1589a7947d185b4b34b",
+    "publishedAt": "2026-01-15T11:50:53.000Z",
+    "createdAt": "2026-01-15T12:58:07.843Z",
+    "updatedAt": "2026-01-15T12:58:07.843Z"
+  },
+  {
+    "id": "4c6e6e934f209b41",
+    "title": "Одной из лучших российских лыжниц отказали в нейтральном статусе",
+    "sport": "Другое",
+    "category": "Другие",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/8/01/347684738389018.jpeg",
+    "teaser": "Одной из лучших российских лыжниц отказали в нейтральном статусе",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6968bcd09a79471190567cbd",
+    "publishedAt": "2026-01-15T11:12:41.000Z",
+    "createdAt": "2026-01-15T12:58:06.790Z",
+    "updatedAt": "2026-01-15T12:58:06.790Z"
+  },
+  {
     "id": "c0e02d783b46dda3",
     "title": "Стали известны соперники россиян на старте Australian Open",
     "sport": "Теннис",
@@ -10,8 +66,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6968b13e9a7947c311317ead",
     "publishedAt": "2026-01-15T10:29:59.000Z",
-    "createdAt": "2026-01-15T11:26:15.124Z",
-    "updatedAt": "2026-01-15T11:26:15.124Z"
+    "createdAt": "2026-01-15T12:58:10.068Z",
+    "updatedAt": "2026-01-15T12:58:10.068Z"
   },
   {
     "id": "d0813d766e85ee1d",
@@ -24,8 +80,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6968af9d9a7947843791341d",
     "publishedAt": "2026-01-15T10:18:56.000Z",
-    "createdAt": "2026-01-15T11:26:17.431Z",
-    "updatedAt": "2026-01-15T11:26:17.431Z"
+    "createdAt": "2026-01-15T12:58:12.388Z",
+    "updatedAt": "2026-01-15T12:58:12.388Z"
   },
   {
     "id": "7b9ac54d65741750",
@@ -38,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6968afac9a79476cf2dcd8ec",
     "publishedAt": "2026-01-15T09:54:42.000Z",
-    "createdAt": "2026-01-15T11:26:16.271Z",
-    "updatedAt": "2026-01-15T11:26:16.271Z"
+    "createdAt": "2026-01-15T12:58:11.241Z",
+    "updatedAt": "2026-01-15T12:58:11.241Z"
   },
   {
     "id": "c000cd8ccf4d0f83",
@@ -52,8 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6968a5509a79479ef740ebac",
     "publishedAt": "2026-01-15T09:09:27.000Z",
-    "createdAt": "2026-01-15T11:26:20.823Z",
-    "updatedAt": "2026-01-15T11:26:20.823Z"
+    "createdAt": "2026-01-15T12:58:15.154Z",
+    "updatedAt": "2026-01-15T12:58:15.154Z"
   },
   {
     "id": "db585d3341e32833",
@@ -66,22 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6968991f9a79475ed88e976f",
     "publishedAt": "2026-01-15T08:19:57.000Z",
-    "createdAt": "2026-01-15T11:26:19.695Z",
-    "updatedAt": "2026-01-15T11:26:19.695Z"
-  },
-  {
-    "id": "407474b663e27ffc",
-    "title": "Россиянка Шнайдер вышла в полуфинал турнира WTA в Аделаиде",
-    "sport": "Теннис",
-    "category": "Теннис",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/9/80/347684618944809.jpeg",
-    "teaser": "Россиянка Шнайдер вышла в полуфинал турнира WTA в Аделаиде",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/696892e59a794764d4a46dba",
-    "publishedAt": "2026-01-15T07:38:26.000Z",
-    "createdAt": "2026-01-15T11:26:21.933Z",
-    "updatedAt": "2026-01-15T11:26:21.933Z"
+    "createdAt": "2026-01-15T12:58:13.727Z",
+    "updatedAt": "2026-01-15T12:58:13.727Z"
   },
   {
     "id": "ac28a01286a8e0f4",
@@ -94,49 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6964cac89a79474dba28ea67",
     "publishedAt": "2026-01-15T05:36:48.000Z",
-    "createdAt": "2026-01-15T11:26:18.539Z",
-    "updatedAt": "2026-01-15T11:26:18.539Z"
-  },
-  {
-    "id": "9011e0963516c38c",
-    "title": "«Спартак» второй раз в сезоне обыграл «Динамо» в московском дерби КХЛ",
-    "sport": "Хоккей",
-    "category": "Хоккей",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/3/07/347684162904073.jpeg",
-    "teaser": "«Спартак» второй раз в сезоне обыграл «Динамо» в московском дерби КХЛ",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6967e19f9a794702a68c06dd",
-    "publishedAt": "2026-01-14T19:09:17.000Z",
-    "createdAt": "2026-01-15T11:26:24.217Z",
-    "updatedAt": "2026-01-15T11:26:24.217Z"
-  },
-  {
-    "id": "e9d4abbc6dd4deae",
-    "title": "В Подмосковье нашли тело воспитанника ЦСКА",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/5/44/347684155759445.jpeg",
-    "teaser": "В Подмосковье нашли тело воспитанника ЦСКА",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6967e1399a794777f2be7bf4",
-    "publishedAt": "2026-01-14T18:54:54.000Z",
-    "createdAt": "2026-01-15T11:26:23.057Z",
-    "updatedAt": "2026-01-15T11:26:23.057Z"
-  },
-  {
-    "id": "b20bde2ea4615bdd",
-    "title": "Фанат английского «Мидлсбро» посетил все матчи клуба за последние 30 лет",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/8/28/347684135152288.jpeg",
-    "teaser": "Фанат английского «Мидлсбро» посетил все матчи клуба за последние 30 лет",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6967d6e79a7947592d6090ea",
-    "publishedAt": "2026-01-14T18:34:32.000Z",
-    "createdAt": "2026-01-15T11:26:25.387Z",
-    "updatedAt": "2026-01-15T11:26:25.387Z"
+    "createdAt": "2026-01-15T12:58:08.985Z",
+    "updatedAt": "2026-01-15T12:58:08.985Z"
   }
 ]
