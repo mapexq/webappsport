@@ -1,22 +1,6 @@
 [
   {
-    "id": 1768462247627,
-    "eventName": "Лос-Анджелес — Вегас",
-    "discipline": "Хоккей",
-    "tournament": "НХЛ",
-    "expert": {
-      "name": "Анатолий Улитенко",
-      "avatar": "https://wp1.bookmaker-ratings.ru/bookmaker-ratings.ru/wp-content/uploads/2025/12/D03A990E-2091-4D89-A6A2-D717AA24EBBB-6950359ad1530.jpg?ssl=1&w=60",
-      "status": "expert",
-      "winRate": 87
-    },
-    "prediction": "Ф2(0)",
-    "odds": 1.85,
-    "comment": "Вегас набрал ход и думаю,что как минимум наберут очки в этой встрече",
-    "source": "Sports Analytics Pro"
-  },
-  {
-    "id": 1768462247628,
+    "id": 1768466285279,
     "eventName": "Дубай — Виртус",
     "discipline": "Баскетбол",
     "tournament": "НБА",
@@ -32,7 +16,7 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1768462247629,
+    "id": 1768466285280,
     "eventName": "Маккаби — Жальгирис",
     "discipline": "Баскетбол",
     "tournament": "НБА",
@@ -48,7 +32,7 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1768462247630,
+    "id": 1768466285281,
     "eventName": "Комо — Милан",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -64,7 +48,7 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1768462247631,
+    "id": 1768466285282,
     "eventName": "Расинг — Барселона",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -80,7 +64,7 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1768462247632,
+    "id": 1768466285283,
     "eventName": "Верона — Болонья",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -96,7 +80,7 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1768462247633,
+    "id": 1768466285284,
     "eventName": "Пиза — Аталанта",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -112,7 +96,7 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1768462247634,
+    "id": 1768466285285,
     "eventName": "ПСЖ — Лилль",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -128,7 +112,7 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1768462247635,
+    "id": 1768466285286,
     "eventName": "Манчестер Юнайтед — Манчестер Сити",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -144,7 +128,23 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1768462247636,
+    "id": 1768466285287,
+    "eventName": "Амур — Ак Барс",
+    "discipline": "Хоккей",
+    "tournament": "Чемпионат",
+    "expert": {
+      "name": "Дмитрий Логвинов",
+      "avatar": "https://bookmaker-ratings.ru/static/images/badges/is-kapper.svg?v=30092024",
+      "status": "expert",
+      "winRate": 80
+    },
+    "prediction": "Индивидуальный тотал 2 Больше (2)",
+    "odds": 1.28,
+    "comment": "АК БАРС должен реабилитироваться после последнего поражения",
+    "source": "Sports Analytics Pro"
+  },
+  {
+    "id": 1768466285288,
     "eventName": "Амур — Ак Барс",
     "discipline": "Хоккей",
     "tournament": "Чемпионат",
