@@ -1,5 +1,61 @@
 [
   {
+    "id": "0c47f8bcb8f6032e",
+    "title": "Боксер Джошуа возобновил тренировки после ДТП со смертельным исходом",
+    "sport": "Единоборства",
+    "category": "Единоборства",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/1/21/347685660646211.jpeg",
+    "teaser": "Боксер Джошуа возобновил тренировки после ДТП со смертельным исходом",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/696a29c39a7947d3af4c6e0c",
+    "publishedAt": "2026-01-16T12:39:33.000Z",
+    "createdAt": "2026-01-16T12:56:50.152Z",
+    "updatedAt": "2026-01-16T12:56:50.152Z"
+  },
+  {
+    "id": "86181530eb696704",
+    "title": "Шевченко и Логинов выиграли спринты на этапе Кубка России по биатлону",
+    "sport": "Другое",
+    "category": "Биатлон",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/9/17/347685654779179.jpeg",
+    "teaser": "Шевченко и Логинов выиграли спринты на этапе Кубка России по биатлону",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/696a2a9d9a79474e98fc239a",
+    "publishedAt": "2026-01-16T12:28:51.000Z",
+    "createdAt": "2026-01-16T12:56:52.616Z",
+    "updatedAt": "2026-01-16T12:56:52.616Z"
+  },
+  {
+    "id": "6d92ba767f1a48d9",
+    "title": "Чемпионский бой сына Цзю признан несостоявшимся из-за травмы соперника",
+    "sport": "Единоборства",
+    "category": "Единоборства",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/3/46/347685630522463.jpeg",
+    "teaser": "Чемпионский бой сына Цзю признан несостоявшимся из-за травмы соперника",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/696a212b9a7947804629a21a",
+    "publishedAt": "2026-01-16T12:05:34.000Z",
+    "createdAt": "2026-01-16T12:56:51.281Z",
+    "updatedAt": "2026-01-16T12:56:51.281Z"
+  },
+  {
+    "id": "558c553cd6012328",
+    "title": "Российский скелетонист выиграл третий подряд этап Кубка Европы",
+    "sport": "Другое",
+    "category": "Другие",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/3/70/347685636503703.jpeg",
+    "teaser": "Российский скелетонист выиграл третий подряд этап Кубка Европы",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/696a1ed09a79473632e074d6",
+    "publishedAt": "2026-01-16T12:00:32.000Z",
+    "createdAt": "2026-01-16T12:56:53.741Z",
+    "updatedAt": "2026-01-16T12:56:53.741Z"
+  },
+  {
     "id": "e433d2a25885d2b3",
     "title": "Костылева получила разряд КМС через неделю после возвращения к Плющенко",
     "sport": "Другое",
@@ -10,8 +66,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/696a11f39a794733c4280d51",
     "publishedAt": "2026-01-16T11:19:33.000Z",
-    "createdAt": "2026-01-16T11:25:19.461Z",
-    "updatedAt": "2026-01-16T11:25:19.461Z"
+    "createdAt": "2026-01-16T12:56:54.871Z",
+    "updatedAt": "2026-01-16T12:56:54.871Z"
   },
   {
     "id": "1e402c87571fc88c",
@@ -24,8 +80,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/696a00bb9a794743704454e2",
     "publishedAt": "2026-01-16T10:19:20.000Z",
-    "createdAt": "2026-01-16T11:25:20.375Z",
-    "updatedAt": "2026-01-16T11:25:20.375Z"
+    "createdAt": "2026-01-16T12:56:55.952Z",
+    "updatedAt": "2026-01-16T12:56:55.952Z"
   },
   {
     "id": "c496bcc956b2ce64",
@@ -38,22 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/696a072b9a79476075d299f2",
     "publishedAt": "2026-01-16T09:58:35.000Z",
-    "createdAt": "2026-01-16T11:25:21.388Z",
-    "updatedAt": "2026-01-16T11:25:21.388Z"
-  },
-  {
-    "id": "9c6d18af176baa4c",
-    "title": "«Зимний Кубок РДС» по дрифту в Москве соберет пилотов из 12 регионов РФ",
-    "sport": "Другое",
-    "category": "Другие",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/2/04/347685558390042.jpeg",
-    "teaser": "«Зимний Кубок РДС» по дрифту в Москве соберет пилотов из 12 регионов РФ",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/696a00a89a794770b3ccffcc",
-    "publishedAt": "2026-01-16T09:33:17.000Z",
-    "createdAt": "2026-01-16T11:25:26.367Z",
-    "updatedAt": "2026-01-16T11:25:26.367Z"
+    "createdAt": "2026-01-16T12:56:57.089Z",
+    "updatedAt": "2026-01-16T12:56:57.089Z"
   },
   {
     "id": "4222c88a62070b96",
@@ -66,8 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6969f78c9a7947728cb7060e",
     "publishedAt": "2026-01-16T09:25:34.000Z",
-    "createdAt": "2026-01-16T11:25:22.383Z",
-    "updatedAt": "2026-01-16T11:25:22.383Z"
+    "createdAt": "2026-01-16T12:56:58.152Z",
+    "updatedAt": "2026-01-16T12:56:58.152Z"
   },
   {
     "id": "84221ce1eb7ae617",
@@ -80,8 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6969fd929a7947e1c56f510b",
     "publishedAt": "2026-01-16T09:18:17.000Z",
-    "createdAt": "2026-01-16T11:25:23.419Z",
-    "updatedAt": "2026-01-16T11:25:23.419Z"
+    "createdAt": "2026-01-16T12:56:59.287Z",
+    "updatedAt": "2026-01-16T12:56:59.287Z"
   },
   {
     "id": "edc6fdf0d1b1daa0",
@@ -94,49 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6969ee499a7947ada052ce28",
     "publishedAt": "2026-01-16T08:29:11.000Z",
-    "createdAt": "2026-01-16T11:25:24.325Z",
-    "updatedAt": "2026-01-16T11:25:24.325Z"
-  },
-  {
-    "id": "92fa92ead814fed6",
-    "title": "Россиянин первым среди новичков набрал 40 очков в сезоне НХЛ",
-    "sport": "Хоккей",
-    "category": "Хоккей",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/1/98/347685508450981.jpeg",
-    "teaser": "Россиянин первым среди новичков набрал 40 очков в сезоне НХЛ",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6969f1939a7947bfd9f6624a",
-    "publishedAt": "2026-01-16T08:17:57.000Z",
-    "createdAt": "2026-01-16T11:25:25.339Z",
-    "updatedAt": "2026-01-16T11:25:25.339Z"
-  },
-  {
-    "id": "9763f39fa2b49ba0",
-    "title": "Российский вратарь стал одной из звезд дня в НХЛ, сыграв «на ноль»",
-    "sport": "Хоккей",
-    "category": "Хоккей",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/0/06/347685500890060.jpeg",
-    "teaser": "Российский вратарь стал одной из звезд дня в НХЛ, сыграв «на ноль»",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6969eea39a79478bec6601a0",
-    "publishedAt": "2026-01-16T08:04:07.000Z",
-    "createdAt": "2026-01-16T11:25:27.335Z",
-    "updatedAt": "2026-01-16T11:25:27.335Z"
-  },
-  {
-    "id": "eba0a394fa0982a9",
-    "title": "Овечкин побил рекорд россиян по очкам в НХЛ в возрасте 40 лет",
-    "sport": "Хоккей",
-    "category": "Хоккей",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/0/77/347685490907770.jpeg",
-    "teaser": "Овечкин побил рекорд россиян по очкам в НХЛ в возрасте 40 лет",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6969e3d29a794785e57ba5da",
-    "publishedAt": "2026-01-16T07:48:40.000Z",
-    "createdAt": "2026-01-16T11:25:28.321Z",
-    "updatedAt": "2026-01-16T11:25:28.321Z"
+    "createdAt": "2026-01-16T12:57:00.408Z",
+    "updatedAt": "2026-01-16T12:57:00.408Z"
   }
 ]
