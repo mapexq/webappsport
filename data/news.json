@@ -1,5 +1,33 @@
 [
   {
+    "id": "97c93a0056da0bfa",
+    "title": "Авербух назвал уровень ЧЕ «катастрофически низким» без россиян",
+    "sport": "Другое",
+    "category": "Фигурное катание",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/9/49/347685862510499.jpeg",
+    "teaser": "Авербух назвал уровень ЧЕ «катастрофически низким» без россиян",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/696a790a9a7947cd2f4b9246",
+    "publishedAt": "2026-01-16T18:20:26.000Z",
+    "createdAt": "2026-01-16T18:40:38.025Z",
+    "updatedAt": "2026-01-16T18:40:38.025Z"
+  },
+  {
+    "id": "102d296f2761edd1",
+    "title": "Футболистка сборной России перешла в турецкий клуб",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/8/67/347685845679678.jpeg",
+    "teaser": "Футболистка сборной России перешла в турецкий клуб",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/696a74799a794712decd6930",
+    "publishedAt": "2026-01-16T17:44:27.000Z",
+    "createdAt": "2026-01-16T18:40:40.302Z",
+    "updatedAt": "2026-01-16T18:40:40.302Z"
+  },
+  {
     "id": "0ca4020b519de0aa",
     "title": "Дзюба объяснил «червячком внутри» мотивацию продолжать карьеру",
     "sport": "Футбол",
@@ -10,8 +38,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/696a6daf9a7947372ffc3d2d",
     "publishedAt": "2026-01-16T17:19:49.000Z",
-    "createdAt": "2026-01-16T17:28:39.843Z",
-    "updatedAt": "2026-01-16T17:28:39.843Z"
+    "createdAt": "2026-01-16T18:40:39.168Z",
+    "updatedAt": "2026-01-16T18:40:39.168Z"
   },
   {
     "id": "a3081da622c58095",
@@ -24,8 +52,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/696a5f459a7947c13e1a02d1",
     "publishedAt": "2026-01-16T16:27:01.000Z",
-    "createdAt": "2026-01-16T17:28:40.815Z",
-    "updatedAt": "2026-01-16T17:28:40.815Z"
+    "createdAt": "2026-01-16T18:40:41.419Z",
+    "updatedAt": "2026-01-16T18:40:41.419Z"
   },
   {
     "id": "013485b64300b236",
@@ -38,8 +66,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/696a4ae79a794754c15e7fd8",
     "publishedAt": "2026-01-16T16:00:09.000Z",
-    "createdAt": "2026-01-16T17:28:41.879Z",
-    "updatedAt": "2026-01-16T17:28:41.879Z"
+    "createdAt": "2026-01-16T18:40:42.560Z",
+    "updatedAt": "2026-01-16T18:40:42.560Z"
   },
   {
     "id": "d11012a436a847a7",
@@ -52,8 +80,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/696a4a719a79473124a4d7db",
     "publishedAt": "2026-01-16T15:51:47.000Z",
-    "createdAt": "2026-01-16T17:28:42.964Z",
-    "updatedAt": "2026-01-16T17:28:42.964Z"
+    "createdAt": "2026-01-16T18:40:43.696Z",
+    "updatedAt": "2026-01-16T18:40:43.696Z"
   },
   {
     "id": "36424061b90f1fde",
@@ -66,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/696a56aa9a7947b5d250282d",
     "publishedAt": "2026-01-16T15:43:50.000Z",
-    "createdAt": "2026-01-16T17:28:43.995Z",
-    "updatedAt": "2026-01-16T17:28:43.995Z"
+    "createdAt": "2026-01-16T18:40:44.815Z",
+    "updatedAt": "2026-01-16T18:40:44.815Z"
   },
   {
     "id": "19af5b9ed90e6a02",
@@ -80,8 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/696a3f069a79476aca5c6043",
     "publishedAt": "2026-01-16T15:23:49.000Z",
-    "createdAt": "2026-01-16T17:28:45.102Z",
-    "updatedAt": "2026-01-16T17:28:45.102Z"
+    "createdAt": "2026-01-16T18:40:45.967Z",
+    "updatedAt": "2026-01-16T18:40:45.967Z"
   },
   {
     "id": "491d19198ee2be88",
@@ -94,22 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/696a44659a794724fd23bce7",
     "publishedAt": "2026-01-16T14:48:50.000Z",
-    "createdAt": "2026-01-16T17:28:46.031Z",
-    "updatedAt": "2026-01-16T17:28:46.031Z"
-  },
-  {
-    "id": "be8d65d07c741b5f",
-    "title": "Впервые за 25 лет футболист «Лидс» стал игроком месяца в АПЛ",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/9/73/347685708641739.jpeg",
-    "teaser": "Впервые за 25 лет футболист «Лидс» стал игроком месяца в АПЛ",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/696a3c1d9a794742c8aa0134",
-    "publishedAt": "2026-01-16T14:13:47.000Z",
-    "createdAt": "2026-01-16T17:28:48.021Z",
-    "updatedAt": "2026-01-16T17:28:48.021Z"
+    "createdAt": "2026-01-16T18:40:47.131Z",
+    "updatedAt": "2026-01-16T18:40:47.131Z"
   },
   {
     "id": "d5a704822bccdfee",
@@ -122,21 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/696a34e19a79471ed7d511d3",
     "publishedAt": "2026-01-16T13:45:47.000Z",
-    "createdAt": "2026-01-16T17:28:47.097Z",
-    "updatedAt": "2026-01-16T17:28:47.097Z"
-  },
-  {
-    "id": "571e99081e832a2d",
-    "title": "Российский боксер проведет бой за титул чемпиона IBF",
-    "sport": "Единоборства",
-    "category": "Единоборства",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/3/21/347685682130213.jpeg",
-    "teaser": "Российский боксер проведет бой за титул чемпиона IBF",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/696a31ae9a7947368c585af9",
-    "publishedAt": "2026-01-16T13:37:22.000Z",
-    "createdAt": "2026-01-16T17:28:49.101Z",
-    "updatedAt": "2026-01-16T17:28:49.101Z"
+    "createdAt": "2026-01-16T18:40:48.298Z",
+    "updatedAt": "2026-01-16T18:40:48.298Z"
   }
 ]
