@@ -1,5 +1,47 @@
 [
   {
+    "id": "be8d65d07c741b5f",
+    "title": "Впервые за 25 лет футболист «Лидс» стал игроком месяца в АПЛ",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/9/73/347685708641739.jpeg",
+    "teaser": "Впервые за 25 лет футболист «Лидс» стал игроком месяца в АПЛ",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/696a3c1d9a794742c8aa0134",
+    "publishedAt": "2026-01-16T14:13:47.000Z",
+    "createdAt": "2026-01-16T14:30:12.696Z",
+    "updatedAt": "2026-01-16T14:30:12.696Z"
+  },
+  {
+    "id": "d5a704822bccdfee",
+    "title": "Экс-тренера «Спартака» признали лучшим в АПЛ в декабре",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/3/24/347685700170243.jpeg",
+    "teaser": "Экс-тренера «Спартака» признали лучшим в АПЛ в декабре",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/696a34e19a79471ed7d511d3",
+    "publishedAt": "2026-01-16T13:45:47.000Z",
+    "createdAt": "2026-01-16T14:30:11.800Z",
+    "updatedAt": "2026-01-16T14:30:11.800Z"
+  },
+  {
+    "id": "571e99081e832a2d",
+    "title": "Российский боксер проведет бой за титул чемпиона IBF",
+    "sport": "Единоборства",
+    "category": "Единоборства",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/3/21/347685682130213.jpeg",
+    "teaser": "Российский боксер проведет бой за титул чемпиона IBF",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/696a31ae9a7947368c585af9",
+    "publishedAt": "2026-01-16T13:37:22.000Z",
+    "createdAt": "2026-01-16T14:30:13.662Z",
+    "updatedAt": "2026-01-16T14:30:13.662Z"
+  },
+  {
     "id": "0c47f8bcb8f6032e",
     "title": "Боксер Джошуа возобновил тренировки после ДТП со смертельным исходом",
     "sport": "Единоборства",
@@ -10,8 +52,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/696a29c39a7947d3af4c6e0c",
     "publishedAt": "2026-01-16T12:39:33.000Z",
-    "createdAt": "2026-01-16T13:42:32.356Z",
-    "updatedAt": "2026-01-16T13:42:32.356Z"
+    "createdAt": "2026-01-16T14:30:14.680Z",
+    "updatedAt": "2026-01-16T14:30:14.680Z"
   },
   {
     "id": "86181530eb696704",
@@ -24,8 +66,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/696a2a9d9a79474e98fc239a",
     "publishedAt": "2026-01-16T12:28:51.000Z",
-    "createdAt": "2026-01-16T13:42:34.469Z",
-    "updatedAt": "2026-01-16T13:42:34.469Z"
+    "createdAt": "2026-01-16T14:30:16.699Z",
+    "updatedAt": "2026-01-16T14:30:16.699Z"
   },
   {
     "id": "6d92ba767f1a48d9",
@@ -38,8 +80,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/696a212b9a7947804629a21a",
     "publishedAt": "2026-01-16T12:05:34.000Z",
-    "createdAt": "2026-01-16T13:42:33.455Z",
-    "updatedAt": "2026-01-16T13:42:33.456Z"
+    "createdAt": "2026-01-16T14:30:15.719Z",
+    "updatedAt": "2026-01-16T14:30:15.719Z"
   },
   {
     "id": "558c553cd6012328",
@@ -52,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/696a1ed09a79473632e074d6",
     "publishedAt": "2026-01-16T12:00:32.000Z",
-    "createdAt": "2026-01-16T13:42:35.483Z",
-    "updatedAt": "2026-01-16T13:42:35.483Z"
+    "createdAt": "2026-01-16T14:30:17.731Z",
+    "updatedAt": "2026-01-16T14:30:17.731Z"
   },
   {
     "id": "e433d2a25885d2b3",
@@ -66,8 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/696a11f39a794733c4280d51",
     "publishedAt": "2026-01-16T11:19:33.000Z",
-    "createdAt": "2026-01-16T13:42:36.530Z",
-    "updatedAt": "2026-01-16T13:42:36.530Z"
+    "createdAt": "2026-01-16T14:30:18.753Z",
+    "updatedAt": "2026-01-16T14:30:18.753Z"
   },
   {
     "id": "1e402c87571fc88c",
@@ -80,8 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/696a00bb9a794743704454e2",
     "publishedAt": "2026-01-16T10:19:20.000Z",
-    "createdAt": "2026-01-16T13:42:37.566Z",
-    "updatedAt": "2026-01-16T13:42:37.566Z"
+    "createdAt": "2026-01-16T14:30:19.797Z",
+    "updatedAt": "2026-01-16T14:30:19.797Z"
   },
   {
     "id": "c496bcc956b2ce64",
@@ -94,49 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/696a072b9a79476075d299f2",
     "publishedAt": "2026-01-16T09:58:35.000Z",
-    "createdAt": "2026-01-16T13:42:38.599Z",
-    "updatedAt": "2026-01-16T13:42:38.599Z"
-  },
-  {
-    "id": "4222c88a62070b96",
-    "title": "Мамиашвили назвал печальным переход Садулаева в американскую лигу",
-    "sport": "Единоборства",
-    "category": "Единоборства",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/4/45/347685540305454.jpeg",
-    "teaser": "Мамиашвили назвал печальным переход Садулаева в американскую лигу",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6969f78c9a7947728cb7060e",
-    "publishedAt": "2026-01-16T09:25:34.000Z",
-    "createdAt": "2026-01-16T13:42:39.645Z",
-    "updatedAt": "2026-01-16T13:42:39.645Z"
-  },
-  {
-    "id": "84221ce1eb7ae617",
-    "title": "Мирра Андреева рассказала о дружбе с соперницей по финалу в Аделаиде",
-    "sport": "Теннис",
-    "category": "Теннис",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/0/99/347685539240990.jpeg",
-    "teaser": "Мирра Андреева рассказала о дружбе с соперницей по финалу в Аделаиде",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6969fd929a7947e1c56f510b",
-    "publishedAt": "2026-01-16T09:18:17.000Z",
-    "createdAt": "2026-01-16T13:42:40.552Z",
-    "updatedAt": "2026-01-16T13:42:40.552Z"
-  },
-  {
-    "id": "edc6fdf0d1b1daa0",
-    "title": "Грузинская фигуристка на русском языке заявила о надежде выиграть ОИ-2026",
-    "sport": "Другое",
-    "category": "Фигурное катание",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/0/98/347685514160980.jpeg",
-    "teaser": "Грузинская фигуристка на русском языке заявила о надежде выиграть ОИ-2026",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6969ee499a7947ada052ce28",
-    "publishedAt": "2026-01-16T08:29:11.000Z",
-    "createdAt": "2026-01-16T13:42:41.648Z",
-    "updatedAt": "2026-01-16T13:42:41.648Z"
+    "createdAt": "2026-01-16T14:30:20.862Z",
+    "updatedAt": "2026-01-16T14:30:20.862Z"
   }
 ]
