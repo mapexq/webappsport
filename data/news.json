@@ -1,5 +1,33 @@
 [
   {
+    "id": "19af5b9ed90e6a02",
+    "title": "Онопко рассказал, что его не взяли в «Барселону» из-за внешности",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/1/01/347685723936011.jpeg",
+    "teaser": "Онопко рассказал, что его не взяли в «Барселону» из-за внешности",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/696a3f069a79476aca5c6043",
+    "publishedAt": "2026-01-16T15:23:49.000Z",
+    "createdAt": "2026-01-16T15:30:15.266Z",
+    "updatedAt": "2026-01-16T15:30:15.266Z"
+  },
+  {
+    "id": "491d19198ee2be88",
+    "title": "Попавшего в реанимацию сына баскетболиста ЦСКА выписали из больницы",
+    "sport": "Баскетбол",
+    "category": "Баскетбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/1/04/347685724396041.jpeg",
+    "teaser": "Попавшего в реанимацию сына баскетболиста ЦСКА выписали из больницы",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/696a44659a794724fd23bce7",
+    "publishedAt": "2026-01-16T14:48:50.000Z",
+    "createdAt": "2026-01-16T15:30:16.297Z",
+    "updatedAt": "2026-01-16T15:30:16.297Z"
+  },
+  {
     "id": "be8d65d07c741b5f",
     "title": "Впервые за 25 лет футболист «Лидс» стал игроком месяца в АПЛ",
     "sport": "Футбол",
@@ -10,8 +38,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/696a3c1d9a794742c8aa0134",
     "publishedAt": "2026-01-16T14:13:47.000Z",
-    "createdAt": "2026-01-16T14:30:12.696Z",
-    "updatedAt": "2026-01-16T14:30:12.696Z"
+    "createdAt": "2026-01-16T15:30:18.303Z",
+    "updatedAt": "2026-01-16T15:30:18.303Z"
   },
   {
     "id": "d5a704822bccdfee",
@@ -24,8 +52,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/696a34e19a79471ed7d511d3",
     "publishedAt": "2026-01-16T13:45:47.000Z",
-    "createdAt": "2026-01-16T14:30:11.800Z",
-    "updatedAt": "2026-01-16T14:30:11.800Z"
+    "createdAt": "2026-01-16T15:30:17.270Z",
+    "updatedAt": "2026-01-16T15:30:17.270Z"
   },
   {
     "id": "571e99081e832a2d",
@@ -38,8 +66,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/696a31ae9a7947368c585af9",
     "publishedAt": "2026-01-16T13:37:22.000Z",
-    "createdAt": "2026-01-16T14:30:13.662Z",
-    "updatedAt": "2026-01-16T14:30:13.662Z"
+    "createdAt": "2026-01-16T15:30:19.319Z",
+    "updatedAt": "2026-01-16T15:30:19.319Z"
   },
   {
     "id": "0c47f8bcb8f6032e",
@@ -52,8 +80,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/696a29c39a7947d3af4c6e0c",
     "publishedAt": "2026-01-16T12:39:33.000Z",
-    "createdAt": "2026-01-16T14:30:14.680Z",
-    "updatedAt": "2026-01-16T14:30:14.680Z"
+    "createdAt": "2026-01-16T15:30:20.352Z",
+    "updatedAt": "2026-01-16T15:30:20.352Z"
   },
   {
     "id": "86181530eb696704",
@@ -66,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/696a2a9d9a79474e98fc239a",
     "publishedAt": "2026-01-16T12:28:51.000Z",
-    "createdAt": "2026-01-16T14:30:16.699Z",
-    "updatedAt": "2026-01-16T14:30:16.699Z"
+    "createdAt": "2026-01-16T15:30:22.556Z",
+    "updatedAt": "2026-01-16T15:30:22.556Z"
   },
   {
     "id": "6d92ba767f1a48d9",
@@ -80,8 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/696a212b9a7947804629a21a",
     "publishedAt": "2026-01-16T12:05:34.000Z",
-    "createdAt": "2026-01-16T14:30:15.719Z",
-    "updatedAt": "2026-01-16T14:30:15.719Z"
+    "createdAt": "2026-01-16T15:30:21.374Z",
+    "updatedAt": "2026-01-16T15:30:21.374Z"
   },
   {
     "id": "558c553cd6012328",
@@ -94,8 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/696a1ed09a79473632e074d6",
     "publishedAt": "2026-01-16T12:00:32.000Z",
-    "createdAt": "2026-01-16T14:30:17.731Z",
-    "updatedAt": "2026-01-16T14:30:17.731Z"
+    "createdAt": "2026-01-16T15:30:23.929Z",
+    "updatedAt": "2026-01-16T15:30:23.929Z"
   },
   {
     "id": "e433d2a25885d2b3",
@@ -108,35 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/696a11f39a794733c4280d51",
     "publishedAt": "2026-01-16T11:19:33.000Z",
-    "createdAt": "2026-01-16T14:30:18.753Z",
-    "updatedAt": "2026-01-16T14:30:18.753Z"
-  },
-  {
-    "id": "1e402c87571fc88c",
-    "title": "Пападакис отстранили от комментирования ОИ-2026 после обвинения Сизерона",
-    "sport": "Другое",
-    "category": "Фигурное катание",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/2/34/347685574591342.jpeg",
-    "teaser": "Пападакис отстранили от комментирования ОИ-2026 после обвинения Сизерона",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/696a00bb9a794743704454e2",
-    "publishedAt": "2026-01-16T10:19:20.000Z",
-    "createdAt": "2026-01-16T14:30:19.797Z",
-    "updatedAt": "2026-01-16T14:30:19.797Z"
-  },
-  {
-    "id": "c496bcc956b2ce64",
-    "title": "Легендарный биатлонист пожаловался на олимпийскую пенсию в ₽52 тыс",
-    "sport": "Другое",
-    "category": "Биатлон",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/3/73/347685564000733.jpeg",
-    "teaser": "Легендарный биатлонист пожаловался на олимпийскую пенсию в ₽52 тыс",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/696a072b9a79476075d299f2",
-    "publishedAt": "2026-01-16T09:58:35.000Z",
-    "createdAt": "2026-01-16T14:30:20.862Z",
-    "updatedAt": "2026-01-16T14:30:20.862Z"
+    "createdAt": "2026-01-16T15:30:24.967Z",
+    "updatedAt": "2026-01-16T15:30:24.967Z"
   }
 ]
