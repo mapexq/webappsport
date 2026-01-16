@@ -1,5 +1,89 @@
 [
   {
+    "id": "edc6fdf0d1b1daa0",
+    "title": "Грузинская фигуристка на русском языке заявила о надежде выиграть ОИ-2026",
+    "sport": "Другое",
+    "category": "Фигурное катание",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/0/98/347685514160980.jpeg",
+    "teaser": "Грузинская фигуристка на русском языке заявила о надежде выиграть ОИ-2026",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6969ee499a7947ada052ce28",
+    "publishedAt": "2026-01-16T08:29:11.000Z",
+    "createdAt": "2026-01-16T08:37:16.199Z",
+    "updatedAt": "2026-01-16T08:37:16.199Z"
+  },
+  {
+    "id": "92fa92ead814fed6",
+    "title": "Россиянин первым среди новичков набрал 40 очков в сезоне НХЛ",
+    "sport": "Хоккей",
+    "category": "Хоккей",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/1/98/347685508450981.jpeg",
+    "teaser": "Россиянин первым среди новичков набрал 40 очков в сезоне НХЛ",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6969f1939a7947bfd9f6624a",
+    "publishedAt": "2026-01-16T08:17:57.000Z",
+    "createdAt": "2026-01-16T08:37:17.501Z",
+    "updatedAt": "2026-01-16T08:37:17.501Z"
+  },
+  {
+    "id": "9763f39fa2b49ba0",
+    "title": "Российский вратарь стал одной из звезд дня в НХЛ, сыграв «на ноль»",
+    "sport": "Хоккей",
+    "category": "Хоккей",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/0/06/347685500890060.jpeg",
+    "teaser": "Российский вратарь стал одной из звезд дня в НХЛ, сыграв «на ноль»",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6969eea39a79478bec6601a0",
+    "publishedAt": "2026-01-16T08:04:07.000Z",
+    "createdAt": "2026-01-16T08:37:18.675Z",
+    "updatedAt": "2026-01-16T08:37:18.675Z"
+  },
+  {
+    "id": "eba0a394fa0982a9",
+    "title": "Овечкин побил рекорд россиян по очкам в НХЛ в возрасте 40 лет",
+    "sport": "Хоккей",
+    "category": "Хоккей",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/0/77/347685490907770.jpeg",
+    "teaser": "Овечкин побил рекорд россиян по очкам в НХЛ в возрасте 40 лет",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6969e3d29a794785e57ba5da",
+    "publishedAt": "2026-01-16T07:48:40.000Z",
+    "createdAt": "2026-01-16T08:37:19.770Z",
+    "updatedAt": "2026-01-16T08:37:19.770Z"
+  },
+  {
+    "id": "dc03a067c21e668d",
+    "title": "Глава НХЛ выразил надежду, что Овечкин продолжит карьеру в лиге",
+    "sport": "Хоккей",
+    "category": "Хоккей",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/0/23/347685484216230.jpeg",
+    "teaser": "Глава НХЛ выразил надежду, что Овечкин продолжит карьеру в лиге",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6969e8159a794787248293f2",
+    "publishedAt": "2026-01-16T07:47:33.000Z",
+    "createdAt": "2026-01-16T08:37:20.941Z",
+    "updatedAt": "2026-01-16T08:37:20.941Z"
+  },
+  {
+    "id": "97941051b80f9835",
+    "title": "Трамп назвал российского хоккеиста Бобровского легендарным",
+    "sport": "Хоккей",
+    "category": "Хоккей",
+    "imageUrl": "/images/news-placeholder.jpg",
+    "teaser": "Трамп назвал российского хоккеиста Бобровского легендарным",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6969df7a9a7947c3bd62d5bf",
+    "publishedAt": "2026-01-16T07:29:12.000Z",
+    "createdAt": "2026-01-16T08:37:22.949Z",
+    "updatedAt": "2026-01-16T08:37:22.949Z"
+  },
+  {
     "id": "1c28383028722f6f",
     "title": "Бывший футболист «Зенита» Акимов умер в 45 лет",
     "sport": "Футбол",
@@ -10,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6969e50f9a794775e75983a9",
     "publishedAt": "2026-01-16T07:21:15.000Z",
-    "createdAt": "2026-01-16T07:30:03.197Z",
-    "updatedAt": "2026-01-16T07:30:03.197Z"
+    "createdAt": "2026-01-16T08:37:25.278Z",
+    "updatedAt": "2026-01-16T08:37:25.278Z"
   },
   {
     "id": "ae7d789154f490a9",
@@ -24,8 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6969e2df9a794764fe635953",
     "publishedAt": "2026-01-16T07:13:46.000Z",
-    "createdAt": "2026-01-16T07:30:02.147Z",
-    "updatedAt": "2026-01-16T07:30:02.147Z"
+    "createdAt": "2026-01-16T08:37:24.174Z",
+    "updatedAt": "2026-01-16T08:37:24.174Z"
   },
   {
     "id": "a4d877e396cf6de2",
@@ -38,8 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69692cdc9a79472e7ba95d53",
     "publishedAt": "2026-01-15T19:22:57.000Z",
-    "createdAt": "2026-01-16T07:30:04.364Z",
-    "updatedAt": "2026-01-16T07:30:04.364Z"
+    "createdAt": "2026-01-16T08:37:26.458Z",
+    "updatedAt": "2026-01-16T08:37:26.458Z"
   },
   {
     "id": "32cbd0b820938f86",
@@ -52,91 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/696930359a794755cd81c546",
     "publishedAt": "2026-01-15T19:04:54.000Z",
-    "createdAt": "2026-01-16T07:30:05.448Z",
-    "updatedAt": "2026-01-16T07:30:05.449Z"
-  },
-  {
-    "id": "698239a9226c3717",
-    "title": "Ученик Тутберидзе выиграл короткую программу на чемпионате Европы",
-    "sport": "Другое",
-    "category": "Фигурное катание",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/7/94/347685016867947.jpeg",
-    "teaser": "Ученик Тутберидзе выиграл короткую программу на чемпионате Европы",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6969317c9a79473f3e4c2781",
-    "publishedAt": "2026-01-15T18:43:49.000Z",
-    "createdAt": "2026-01-16T07:30:06.585Z",
-    "updatedAt": "2026-01-16T07:30:06.585Z"
-  },
-  {
-    "id": "b299ed85be752914",
-    "title": "Дегтярев объяснил приход бизнесменов в руководство спортивных федераций",
-    "sport": "Другое",
-    "category": "Другие",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/5/43/347684979139435.png",
-    "teaser": "Дегтярев объяснил приход бизнесменов в руководство спортивных федераций",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/696922469a79475f8251ed59",
-    "publishedAt": "2026-01-15T18:04:47.000Z",
-    "createdAt": "2026-01-16T07:30:12.121Z",
-    "updatedAt": "2026-01-16T07:30:12.121Z"
-  },
-  {
-    "id": "d4fa24516f627ce6",
-    "title": "Олимпийский чемпион Садулаев подписал контракт с американской лигой",
-    "sport": "Единоборства",
-    "category": "Единоборства",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/7/45/347684964680457.jpeg",
-    "teaser": "Олимпийский чемпион Садулаев подписал контракт с американской лигой",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/696919ba9a7947011124b4cf",
-    "publishedAt": "2026-01-15T17:31:25.000Z",
-    "createdAt": "2026-01-16T07:30:08.805Z",
-    "updatedAt": "2026-01-16T07:30:08.805Z"
-  },
-  {
-    "id": "4a7c6374ac48a04f",
-    "title": "Дегтярев заявил, что сторонники изоляции спорта в России «потеряли вес»",
-    "sport": "Другое",
-    "category": "Другие",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/6/38/347684973026386.png",
-    "teaser": "Дегтярев заявил, что сторонники изоляции спорта в России «потеряли вес»",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69691a939a794729aa50efed",
-    "publishedAt": "2026-01-15T17:27:29.000Z",
-    "createdAt": "2026-01-16T07:30:09.903Z",
-    "updatedAt": "2026-01-16T07:30:09.903Z"
-  },
-  {
-    "id": "b8ed7b83e3ff7ad9",
-    "title": "Плющенко заявил о деградации женского фигурного катания в Европе",
-    "sport": "Другое",
-    "category": "Фигурное катание",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/0/93/347684941553930.jpeg",
-    "teaser": "Плющенко заявил о деградации женского фигурного катания в Европе",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69690ed89a79470e8a7dc36f",
-    "publishedAt": "2026-01-15T16:57:07.000Z",
-    "createdAt": "2026-01-16T07:30:07.697Z",
-    "updatedAt": "2026-01-16T07:30:07.697Z"
-  },
-  {
-    "id": "36393eecedddf680",
-    "title": "Леонид Слуцкий ответил на вопрос о возможности возглавить «Спартак»",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/8/23/347684931822238.jpeg",
-    "teaser": "Леонид Слуцкий ответил на вопрос о возможности возглавить «Спартак»",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69690c399a7947ee8a61ea8c",
-    "publishedAt": "2026-01-15T16:29:03.000Z",
-    "createdAt": "2026-01-16T07:30:11.029Z",
-    "updatedAt": "2026-01-16T07:30:11.029Z"
+    "createdAt": "2026-01-16T08:37:27.572Z",
+    "updatedAt": "2026-01-16T08:37:27.572Z"
   }
 ]
