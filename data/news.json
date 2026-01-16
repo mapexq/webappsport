@@ -1,5 +1,61 @@
 [
   {
+    "id": "1e402c87571fc88c",
+    "title": "Пападакис отстранили от комментирования ОИ-2026 после обвинения Сизерона",
+    "sport": "Другое",
+    "category": "Фигурное катание",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/2/34/347685574591342.jpeg",
+    "teaser": "Пападакис отстранили от комментирования ОИ-2026 после обвинения Сизерона",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/696a00bb9a794743704454e2",
+    "publishedAt": "2026-01-16T10:19:20.000Z",
+    "createdAt": "2026-01-16T10:30:51.966Z",
+    "updatedAt": "2026-01-16T10:30:51.966Z"
+  },
+  {
+    "id": "c496bcc956b2ce64",
+    "title": "Легендарный биатлонист пожаловался на олимпийскую пенсию в ₽52 тыс",
+    "sport": "Другое",
+    "category": "Биатлон",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/3/73/347685564000733.jpeg",
+    "teaser": "Легендарный биатлонист пожаловался на олимпийскую пенсию в ₽52 тыс",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/696a072b9a79476075d299f2",
+    "publishedAt": "2026-01-16T09:58:35.000Z",
+    "createdAt": "2026-01-16T10:30:53.065Z",
+    "updatedAt": "2026-01-16T10:30:53.065Z"
+  },
+  {
+    "id": "9c6d18af176baa4c",
+    "title": "«Зимний Кубок РДС» по дрифту в Москве соберет пилотов из 12 регионов РФ",
+    "sport": "Другое",
+    "category": "Другие",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/2/04/347685558390042.jpeg",
+    "teaser": "«Зимний Кубок РДС» по дрифту в Москве соберет пилотов из 12 регионов РФ",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/696a00a89a794770b3ccffcc",
+    "publishedAt": "2026-01-16T09:33:17.000Z",
+    "createdAt": "2026-01-16T10:30:58.476Z",
+    "updatedAt": "2026-01-16T10:30:58.476Z"
+  },
+  {
+    "id": "4222c88a62070b96",
+    "title": "Мамиашвили назвал печальным переход Садулаева в американскую лигу",
+    "sport": "Единоборства",
+    "category": "Единоборства",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/4/45/347685540305454.jpeg",
+    "teaser": "Мамиашвили назвал печальным переход Садулаева в американскую лигу",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6969f78c9a7947728cb7060e",
+    "publishedAt": "2026-01-16T09:25:34.000Z",
+    "createdAt": "2026-01-16T10:30:54.176Z",
+    "updatedAt": "2026-01-16T10:30:54.176Z"
+  },
+  {
     "id": "84221ce1eb7ae617",
     "title": "Мирра Андреева рассказала о дружбе с соперницей по финалу в Аделаиде",
     "sport": "Теннис",
@@ -10,8 +66,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6969fd929a7947e1c56f510b",
     "publishedAt": "2026-01-16T09:18:17.000Z",
-    "createdAt": "2026-01-16T09:32:59.858Z",
-    "updatedAt": "2026-01-16T09:32:59.858Z"
+    "createdAt": "2026-01-16T10:30:55.219Z",
+    "updatedAt": "2026-01-16T10:30:55.219Z"
   },
   {
     "id": "edc6fdf0d1b1daa0",
@@ -24,8 +80,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6969ee499a7947ada052ce28",
     "publishedAt": "2026-01-16T08:29:11.000Z",
-    "createdAt": "2026-01-16T09:33:00.979Z",
-    "updatedAt": "2026-01-16T09:33:00.979Z"
+    "createdAt": "2026-01-16T10:30:56.308Z",
+    "updatedAt": "2026-01-16T10:30:56.308Z"
   },
   {
     "id": "92fa92ead814fed6",
@@ -38,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6969f1939a7947bfd9f6624a",
     "publishedAt": "2026-01-16T08:17:57.000Z",
-    "createdAt": "2026-01-16T09:33:02.062Z",
-    "updatedAt": "2026-01-16T09:33:02.062Z"
+    "createdAt": "2026-01-16T10:30:57.413Z",
+    "updatedAt": "2026-01-16T10:30:57.413Z"
   },
   {
     "id": "9763f39fa2b49ba0",
@@ -52,8 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6969eea39a79478bec6601a0",
     "publishedAt": "2026-01-16T08:04:07.000Z",
-    "createdAt": "2026-01-16T09:33:03.139Z",
-    "updatedAt": "2026-01-16T09:33:03.139Z"
+    "createdAt": "2026-01-16T10:30:59.586Z",
+    "updatedAt": "2026-01-16T10:30:59.586Z"
   },
   {
     "id": "eba0a394fa0982a9",
@@ -66,8 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6969e3d29a794785e57ba5da",
     "publishedAt": "2026-01-16T07:48:40.000Z",
-    "createdAt": "2026-01-16T09:33:04.078Z",
-    "updatedAt": "2026-01-16T09:33:04.078Z"
+    "createdAt": "2026-01-16T10:31:00.782Z",
+    "updatedAt": "2026-01-16T10:31:00.782Z"
   },
   {
     "id": "dc03a067c21e668d",
@@ -80,63 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6969e8159a794787248293f2",
     "publishedAt": "2026-01-16T07:47:33.000Z",
-    "createdAt": "2026-01-16T09:33:05.249Z",
-    "updatedAt": "2026-01-16T09:33:05.249Z"
-  },
-  {
-    "id": "97941051b80f9835",
-    "title": "Трамп назвал российского хоккеиста Бобровского легендарным",
-    "sport": "Хоккей",
-    "category": "Хоккей",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/1/45/347685551877451.jpeg",
-    "teaser": "Трамп назвал российского хоккеиста Бобровского легендарным",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6969df7a9a7947c3bd62d5bf",
-    "publishedAt": "2026-01-16T07:29:12.000Z",
-    "createdAt": "2026-01-16T09:33:07.320Z",
-    "updatedAt": "2026-01-16T09:33:07.320Z"
-  },
-  {
-    "id": "1c28383028722f6f",
-    "title": "Бывший футболист «Зенита» Акимов умер в 45 лет",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/8/03/347685476208038.jpeg",
-    "teaser": "Бывший футболист «Зенита» Акимов умер в 45 лет",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6969e50f9a794775e75983a9",
-    "publishedAt": "2026-01-16T07:21:15.000Z",
-    "createdAt": "2026-01-16T09:33:09.618Z",
-    "updatedAt": "2026-01-16T09:33:09.618Z"
-  },
-  {
-    "id": "ae7d789154f490a9",
-    "title": "Мирра Андреева вышла в финал пятого турнира WTA в карьере",
-    "sport": "Теннис",
-    "category": "Теннис",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/3/66/347685471046663.jpeg",
-    "teaser": "Мирра Андреева вышла в финал пятого турнира WTA в карьере",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6969e2df9a794764fe635953",
-    "publishedAt": "2026-01-16T07:13:46.000Z",
-    "createdAt": "2026-01-16T09:33:08.423Z",
-    "updatedAt": "2026-01-16T09:33:08.423Z"
-  },
-  {
-    "id": "a4d877e396cf6de2",
-    "title": "Хет-трик Лишки помог «Северстали» в 4-й раз победить минское «Динамо»",
-    "sport": "Хоккей",
-    "category": "Хоккей",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/2/36/347685019765362.jpeg",
-    "teaser": "Хет-трик Лишки помог «Северстали» в 4-й раз победить минское «Динамо»",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69692cdc9a79472e7ba95d53",
-    "publishedAt": "2026-01-15T19:22:57.000Z",
-    "createdAt": "2026-01-16T09:33:10.792Z",
-    "updatedAt": "2026-01-16T09:33:10.792Z"
+    "createdAt": "2026-01-16T10:31:01.974Z",
+    "updatedAt": "2026-01-16T10:31:01.974Z"
   }
 ]
