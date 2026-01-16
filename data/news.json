@@ -1,5 +1,47 @@
 [
   {
+    "id": "1c28383028722f6f",
+    "title": "Бывший футболист «Зенита» Акимов умер в 45 лет",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/8/03/347685476208038.jpeg",
+    "teaser": "Бывший футболист «Зенита» Акимов умер в 45 лет",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6969e50f9a794775e75983a9",
+    "publishedAt": "2026-01-16T07:21:15.000Z",
+    "createdAt": "2026-01-16T07:30:03.197Z",
+    "updatedAt": "2026-01-16T07:30:03.197Z"
+  },
+  {
+    "id": "ae7d789154f490a9",
+    "title": "Мирра Андреева вышла в финал пятого турнира WTA в карьере",
+    "sport": "Теннис",
+    "category": "Теннис",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/3/66/347685471046663.jpeg",
+    "teaser": "Мирра Андреева вышла в финал пятого турнира WTA в карьере",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6969e2df9a794764fe635953",
+    "publishedAt": "2026-01-16T07:13:46.000Z",
+    "createdAt": "2026-01-16T07:30:02.147Z",
+    "updatedAt": "2026-01-16T07:30:02.147Z"
+  },
+  {
+    "id": "a4d877e396cf6de2",
+    "title": "Хет-трик Лишки помог «Северстали» в 4-й раз победить минское «Динамо»",
+    "sport": "Хоккей",
+    "category": "Хоккей",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/2/36/347685019765362.jpeg",
+    "teaser": "Хет-трик Лишки помог «Северстали» в 4-й раз победить минское «Динамо»",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69692cdc9a79472e7ba95d53",
+    "publishedAt": "2026-01-15T19:22:57.000Z",
+    "createdAt": "2026-01-16T07:30:04.364Z",
+    "updatedAt": "2026-01-16T07:30:04.364Z"
+  },
+  {
     "id": "32cbd0b820938f86",
     "title": "Платини заявил, что Инфантино не был причастен к его уходу из УЕФА",
     "sport": "Футбол",
@@ -10,8 +52,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/696930359a794755cd81c546",
     "publishedAt": "2026-01-15T19:04:54.000Z",
-    "createdAt": "2026-01-16T06:42:11.949Z",
-    "updatedAt": "2026-01-16T06:42:11.949Z"
+    "createdAt": "2026-01-16T07:30:05.448Z",
+    "updatedAt": "2026-01-16T07:30:05.449Z"
   },
   {
     "id": "698239a9226c3717",
@@ -24,8 +66,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6969317c9a79473f3e4c2781",
     "publishedAt": "2026-01-15T18:43:49.000Z",
-    "createdAt": "2026-01-16T06:42:13.079Z",
-    "updatedAt": "2026-01-16T06:42:13.079Z"
+    "createdAt": "2026-01-16T07:30:06.585Z",
+    "updatedAt": "2026-01-16T07:30:06.585Z"
   },
   {
     "id": "b299ed85be752914",
@@ -38,8 +80,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/696922469a79475f8251ed59",
     "publishedAt": "2026-01-15T18:04:47.000Z",
-    "createdAt": "2026-01-16T06:42:18.748Z",
-    "updatedAt": "2026-01-16T06:42:18.748Z"
+    "createdAt": "2026-01-16T07:30:12.121Z",
+    "updatedAt": "2026-01-16T07:30:12.121Z"
   },
   {
     "id": "d4fa24516f627ce6",
@@ -52,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/696919ba9a7947011124b4cf",
     "publishedAt": "2026-01-15T17:31:25.000Z",
-    "createdAt": "2026-01-16T06:42:15.327Z",
-    "updatedAt": "2026-01-16T06:42:15.327Z"
+    "createdAt": "2026-01-16T07:30:08.805Z",
+    "updatedAt": "2026-01-16T07:30:08.805Z"
   },
   {
     "id": "4a7c6374ac48a04f",
@@ -66,8 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69691a939a794729aa50efed",
     "publishedAt": "2026-01-15T17:27:29.000Z",
-    "createdAt": "2026-01-16T06:42:16.461Z",
-    "updatedAt": "2026-01-16T06:42:16.461Z"
+    "createdAt": "2026-01-16T07:30:09.903Z",
+    "updatedAt": "2026-01-16T07:30:09.903Z"
   },
   {
     "id": "b8ed7b83e3ff7ad9",
@@ -80,8 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69690ed89a79470e8a7dc36f",
     "publishedAt": "2026-01-15T16:57:07.000Z",
-    "createdAt": "2026-01-16T06:42:14.210Z",
-    "updatedAt": "2026-01-16T06:42:14.210Z"
+    "createdAt": "2026-01-16T07:30:07.697Z",
+    "updatedAt": "2026-01-16T07:30:07.697Z"
   },
   {
     "id": "36393eecedddf680",
@@ -94,49 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69690c399a7947ee8a61ea8c",
     "publishedAt": "2026-01-15T16:29:03.000Z",
-    "createdAt": "2026-01-16T06:42:17.592Z",
-    "updatedAt": "2026-01-16T06:42:17.592Z"
-  },
-  {
-    "id": "3e95f917346f6439",
-    "title": "В бразильскую звезду «Реала» бросили банан в матче Кубка Испании",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/1/24/347684897782241.jpeg",
-    "teaser": "В бразильскую звезду «Реала» бросили банан в матче Кубка Испании",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/696902fb9a79472b559e7cd7",
-    "publishedAt": "2026-01-15T15:55:09.000Z",
-    "createdAt": "2026-01-16T06:42:21.024Z",
-    "updatedAt": "2026-01-16T06:42:21.024Z"
-  },
-  {
-    "id": "67603c9bb0506ae1",
-    "title": "Тренер Большунова не будет подавать заявку на нейтральный статус",
-    "sport": "Другое",
-    "category": "Другие",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/0/04/347684871042040.jpeg",
-    "teaser": "Тренер Большунова не будет подавать заявку на нейтральный статус",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6968f60a9a7947e619271b7f",
-    "publishedAt": "2026-01-15T15:50:47.000Z",
-    "createdAt": "2026-01-16T06:42:22.168Z",
-    "updatedAt": "2026-01-16T06:42:22.168Z"
-  },
-  {
-    "id": "ac28a01286a8e0f4",
-    "title": "Игрок или контрабандист. Чем известен герой Шаламе в «Марти Великолепный»",
-    "sport": "Другое",
-    "category": "Другие",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/6/91/347682253327916.jpeg",
-    "teaser": "Игрок или контрабандист. Чем известен герой Шаламе в «Марти Великолепный»",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6964cac89a79474dba28ea67",
-    "publishedAt": "2026-01-15T05:36:48.000Z",
-    "createdAt": "2026-01-16T06:42:19.886Z",
-    "updatedAt": "2026-01-16T06:42:19.886Z"
+    "createdAt": "2026-01-16T07:30:11.029Z",
+    "updatedAt": "2026-01-16T07:30:11.029Z"
   }
 ]
