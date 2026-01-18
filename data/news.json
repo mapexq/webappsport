@@ -1,5 +1,33 @@
 [
   {
+    "id": "b58defc26cc476f0",
+    "title": "Российская топ-теннисистка уступила 112-й ракетке мира на Australian Open",
+    "sport": "Теннис",
+    "category": "Теннис",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/6/64/347687276882646.jpeg",
+    "teaser": "Российская топ-теннисистка уступила 112-й ракетке мира на Australian Open",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/696ca2a09a794738e3260767",
+    "publishedAt": "2026-01-18T09:25:11.000Z",
+    "createdAt": "2026-01-18T09:27:10.137Z",
+    "updatedAt": "2026-01-18T09:27:10.137Z"
+  },
+  {
+    "id": "a35ec9642293cf72",
+    "title": "Кого из российских теннисистов считают фаворитом на Australian Open",
+    "sport": "Теннис",
+    "category": "Теннис",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/7/66/347686505743667.jpeg",
+    "teaser": "Кого из российских теннисистов считают фаворитом на Australian Open",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/696642019a794724a1b7be90",
+    "publishedAt": "2026-01-17T21:04:48.000Z",
+    "createdAt": "2026-01-18T09:27:11.331Z",
+    "updatedAt": "2026-01-18T09:27:11.331Z"
+  },
+  {
     "id": "afe3dc12e543607c",
     "title": "Сборная Нигерии завоевала бронзу на Кубке Африки",
     "sport": "Футбол",
@@ -10,8 +38,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/696bd3bd9a7947515ebaf0d1",
     "publishedAt": "2026-01-17T18:33:09.000Z",
-    "createdAt": "2026-01-18T08:33:35.787Z",
-    "updatedAt": "2026-01-18T08:33:35.787Z"
+    "createdAt": "2026-01-18T09:27:12.503Z",
+    "updatedAt": "2026-01-18T09:27:12.503Z"
   },
   {
     "id": "cfb3ab0ecc4cafe4",
@@ -24,8 +52,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/696bcfa89a7947c3a0b0b381",
     "publishedAt": "2026-01-17T18:16:43.000Z",
-    "createdAt": "2026-01-18T08:33:36.875Z",
-    "updatedAt": "2026-01-18T08:33:36.875Z"
+    "createdAt": "2026-01-18T09:27:13.665Z",
+    "updatedAt": "2026-01-18T09:27:13.665Z"
   },
   {
     "id": "30d686bb2e3d439e",
@@ -38,8 +66,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/696bc2ec9a794749b532cb92",
     "publishedAt": "2026-01-17T17:18:55.000Z",
-    "createdAt": "2026-01-18T08:33:39.018Z",
-    "updatedAt": "2026-01-18T08:33:39.018Z"
+    "createdAt": "2026-01-18T09:27:15.945Z",
+    "updatedAt": "2026-01-18T09:27:15.945Z"
   },
   {
     "id": "6984ca75542e2915",
@@ -52,8 +80,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/696bb6da9a7947821e0a96a1",
     "publishedAt": "2026-01-17T16:57:19.000Z",
-    "createdAt": "2026-01-18T08:33:37.916Z",
-    "updatedAt": "2026-01-18T08:33:37.916Z"
+    "createdAt": "2026-01-18T09:27:14.788Z",
+    "updatedAt": "2026-01-18T09:27:14.788Z"
   },
   {
     "id": "f92f71de6b12348b",
@@ -66,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/696bb33c9a79470998544699",
     "publishedAt": "2026-01-17T16:13:55.000Z",
-    "createdAt": "2026-01-18T08:33:40.058Z",
-    "updatedAt": "2026-01-18T08:33:40.058Z"
+    "createdAt": "2026-01-18T09:27:17.067Z",
+    "updatedAt": "2026-01-18T09:27:17.067Z"
   },
   {
     "id": "2f60db5ecb19b71f",
@@ -80,36 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/696bb0779a794768b2837438",
     "publishedAt": "2026-01-17T15:59:24.000Z",
-    "createdAt": "2026-01-18T08:33:41.012Z",
-    "updatedAt": "2026-01-18T08:33:41.012Z"
-  },
-  {
-    "id": "6659a421cf8f82cc",
-    "title": "«Реал» впервые победил после увольнения Хаби Алонсо",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/4/12/347686606186124.jpeg",
-    "teaser": "«Реал» впервые победил после увольнения Хаби Алонсо",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/696b9e5b9a79478ae9e4110c",
-    "publishedAt": "2026-01-17T14:57:06.000Z",
-    "createdAt": "2026-01-18T08:33:44.113Z",
-    "updatedAt": "2026-01-18T08:33:44.113Z"
-  },
-  {
-    "id": "ebec4d8184a765be",
-    "title": "МЮ обыграл «Манчестер Сити» в первом матче с новым главным тренером",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/0/79/347686592969790.jpeg",
-    "teaser": "МЮ обыграл «Манчестер Сити» в первом матче с новым главным тренером",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/696b956c9a794776bf390eab",
-    "publishedAt": "2026-01-17T14:25:36.000Z",
-    "createdAt": "2026-01-18T08:33:45.199Z",
-    "updatedAt": "2026-01-18T08:33:45.199Z"
+    "createdAt": "2026-01-18T09:27:18.201Z",
+    "updatedAt": "2026-01-18T09:27:18.201Z"
   },
   {
     "id": "bc4b3bf021fc0223",
@@ -122,8 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/696b862d9a79470e6035f7d7",
     "publishedAt": "2026-01-17T13:10:32.000Z",
-    "createdAt": "2026-01-18T08:33:43.053Z",
-    "updatedAt": "2026-01-18T08:33:43.053Z"
+    "createdAt": "2026-01-18T09:27:20.435Z",
+    "updatedAt": "2026-01-18T09:27:20.435Z"
   },
   {
     "id": "dd3e12627de5001a",
@@ -136,7 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/696b5bf79a7947770d8536a3",
     "publishedAt": "2026-01-17T11:59:52.000Z",
-    "createdAt": "2026-01-18T08:33:42.074Z",
-    "updatedAt": "2026-01-18T08:33:42.074Z"
+    "createdAt": "2026-01-18T09:27:19.362Z",
+    "updatedAt": "2026-01-18T09:27:19.362Z"
   }
 ]
