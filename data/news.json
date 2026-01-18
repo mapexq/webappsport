@@ -1,5 +1,47 @@
 [
   {
+    "id": "7db7c3543708bbf4",
+    "title": "Большунов выиграл вторую гонку в сезоне",
+    "sport": "Другое",
+    "category": "Другие",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/5/32/347687350036325.png",
+    "teaser": "Большунов выиграл вторую гонку в сезоне",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/696cbf0f9a7947360ceec684",
+    "publishedAt": "2026-01-18T11:17:47.000Z",
+    "createdAt": "2026-01-18T11:21:02.838Z",
+    "updatedAt": "2026-01-18T11:21:02.838Z"
+  },
+  {
+    "id": "2f0df9f053d0b141",
+    "title": "Панарин рассказал, как воспринял решение клуба не продлевать контракт",
+    "sport": "Хоккей",
+    "category": "Хоккей",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/8/51/347687323218518.jpeg",
+    "teaser": "Панарин рассказал, как воспринял решение клуба не продлевать контракт",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/696cb67d9a794720ed0a3eec",
+    "publishedAt": "2026-01-18T11:04:10.000Z",
+    "createdAt": "2026-01-18T11:21:01.832Z",
+    "updatedAt": "2026-01-18T11:21:01.832Z"
+  },
+  {
+    "id": "5053fdb9e59a7789",
+    "title": "Камила Валиева объявила о возвращении к соревнованиям",
+    "sport": "Другое",
+    "category": "Фигурное катание",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/9/16/347687312821169.png",
+    "teaser": "Камила Валиева объявила о возвращении к соревнованиям",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/696cb2179a79478c30ac81ee",
+    "publishedAt": "2026-01-18T10:26:56.000Z",
+    "createdAt": "2026-01-18T11:21:03.894Z",
+    "updatedAt": "2026-01-18T11:21:03.894Z"
+  },
+  {
     "id": "aaeb71e9588b7b0f",
     "title": "22-летний Конкин выиграл масс-старт на этапе Кубка России по биатлону",
     "sport": "Другое",
@@ -10,8 +52,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/696cab069a79471156f8553f",
     "publishedAt": "2026-01-18T09:59:34.000Z",
-    "createdAt": "2026-01-18T10:27:42.137Z",
-    "updatedAt": "2026-01-18T10:27:42.137Z"
+    "createdAt": "2026-01-18T11:21:04.962Z",
+    "updatedAt": "2026-01-18T11:21:04.962Z"
   },
   {
     "id": "418a3df0431b62e5",
@@ -24,8 +66,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/696ca81f9a7947707a13a9c1",
     "publishedAt": "2026-01-18T09:40:59.000Z",
-    "createdAt": "2026-01-18T10:27:44.377Z",
-    "updatedAt": "2026-01-18T10:27:44.377Z"
+    "createdAt": "2026-01-18T11:21:08.351Z",
+    "updatedAt": "2026-01-18T11:21:08.351Z"
   },
   {
     "id": "b58defc26cc476f0",
@@ -38,8 +80,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/696ca2a09a794738e3260767",
     "publishedAt": "2026-01-18T09:25:11.000Z",
-    "createdAt": "2026-01-18T10:27:43.237Z",
-    "updatedAt": "2026-01-18T10:27:43.237Z"
+    "createdAt": "2026-01-18T11:21:06.026Z",
+    "updatedAt": "2026-01-18T11:21:06.026Z"
   },
   {
     "id": "a35ec9642293cf72",
@@ -52,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/696642019a794724a1b7be90",
     "publishedAt": "2026-01-17T21:04:48.000Z",
-    "createdAt": "2026-01-18T10:27:45.503Z",
-    "updatedAt": "2026-01-18T10:27:45.503Z"
+    "createdAt": "2026-01-18T11:21:07.284Z",
+    "updatedAt": "2026-01-18T11:21:07.284Z"
   },
   {
     "id": "afe3dc12e543607c",
@@ -66,8 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/696bd3bd9a7947515ebaf0d1",
     "publishedAt": "2026-01-17T18:33:09.000Z",
-    "createdAt": "2026-01-18T10:27:46.620Z",
-    "updatedAt": "2026-01-18T10:27:46.620Z"
+    "createdAt": "2026-01-18T11:21:09.420Z",
+    "updatedAt": "2026-01-18T11:21:09.420Z"
   },
   {
     "id": "cfb3ab0ecc4cafe4",
@@ -80,22 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/696bcfa89a7947c3a0b0b381",
     "publishedAt": "2026-01-17T18:16:43.000Z",
-    "createdAt": "2026-01-18T10:27:47.779Z",
-    "updatedAt": "2026-01-18T10:27:47.779Z"
-  },
-  {
-    "id": "30d686bb2e3d439e",
-    "title": "Лыжники Хегген и Сундлинг выиграли спринты на КМ, россияне не стартовали",
-    "sport": "Другое",
-    "category": "Другие",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/9/09/347686703706099.jpeg",
-    "teaser": "Лыжники Хегген и Сундлинг выиграли спринты на КМ, россияне не стартовали",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/696bc2ec9a794749b532cb92",
-    "publishedAt": "2026-01-17T17:18:55.000Z",
-    "createdAt": "2026-01-18T10:27:49.942Z",
-    "updatedAt": "2026-01-18T10:27:49.942Z"
+    "createdAt": "2026-01-18T11:21:10.517Z",
+    "updatedAt": "2026-01-18T11:21:10.517Z"
   },
   {
     "id": "6984ca75542e2915",
@@ -108,35 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/696bb6da9a7947821e0a96a1",
     "publishedAt": "2026-01-17T16:57:19.000Z",
-    "createdAt": "2026-01-18T10:27:48.838Z",
-    "updatedAt": "2026-01-18T10:27:48.838Z"
-  },
-  {
-    "id": "f92f71de6b12348b",
-    "title": "«Спартак» третий раз в сезоне КХЛ проиграл «Торпедо»",
-    "sport": "Хоккей",
-    "category": "Хоккей",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/6/69/347686660331696.jpeg",
-    "teaser": "«Спартак» третий раз в сезоне КХЛ проиграл «Торпедо»",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/696bb33c9a79470998544699",
-    "publishedAt": "2026-01-17T16:13:55.000Z",
-    "createdAt": "2026-01-18T10:27:51.062Z",
-    "updatedAt": "2026-01-18T10:27:51.062Z"
-  },
-  {
-    "id": "2f60db5ecb19b71f",
-    "title": "Садулаев отреагировал на критику по поводу контракта с американской лигой",
-    "sport": "Другое",
-    "category": "Другие",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/0/94/347686656846940.jpeg",
-    "teaser": "Садулаев отреагировал на критику по поводу контракта с американской лигой",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/696bb0779a794768b2837438",
-    "publishedAt": "2026-01-17T15:59:24.000Z",
-    "createdAt": "2026-01-18T10:27:52.169Z",
-    "updatedAt": "2026-01-18T10:27:52.169Z"
+    "createdAt": "2026-01-18T11:21:11.611Z",
+    "updatedAt": "2026-01-18T11:21:11.611Z"
   }
 ]
