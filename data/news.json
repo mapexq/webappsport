@@ -1,5 +1,33 @@
 [
   {
+    "id": "1f1d193f408e35a6",
+    "title": "The Guardian узнала о чувстве неловкости в ФИФА из-за премии мира Трампу",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/4/61/347688345963614.jpeg",
+    "teaser": "The Guardian узнала о чувстве неловкости в ФИФА из-за премии мира Трампу",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/696e41d19a7947a703032158",
+    "publishedAt": "2026-01-19T14:59:19.000Z",
+    "createdAt": "2026-01-19T15:32:52.297Z",
+    "updatedAt": "2026-01-19T15:32:52.297Z"
+  },
+  {
+    "id": "b14985f9deed49b8",
+    "title": "Голкипер «Ак Барса» стал четвертым вратарем, одержавшим 200 побед в КХЛ",
+    "sport": "Хоккей",
+    "category": "Хоккей",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/5/87/347688315299875.jpeg",
+    "teaser": "Голкипер «Ак Барса» стал четвертым вратарем, одержавшим 200 побед в КХЛ",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/696e37ae9a79474f29d85469",
+    "publishedAt": "2026-01-19T14:23:23.000Z",
+    "createdAt": "2026-01-19T15:32:53.487Z",
+    "updatedAt": "2026-01-19T15:32:53.487Z"
+  },
+  {
     "id": "d5a4a67a84d49a8e",
     "title": "«Барселона» сыграет с обидчиком «Реала» в Кубке Испании",
     "sport": "Футбол",
@@ -10,8 +38,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/696e32c89a7947d8410d4301",
     "publishedAt": "2026-01-19T13:54:23.000Z",
-    "createdAt": "2026-01-19T14:34:16.315Z",
-    "updatedAt": "2026-01-19T14:34:16.315Z"
+    "createdAt": "2026-01-19T15:32:56.941Z",
+    "updatedAt": "2026-01-19T15:32:56.941Z"
   },
   {
     "id": "2a2a527ea1e8e4cb",
@@ -24,8 +52,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/696e280a9a79472838f074d0",
     "publishedAt": "2026-01-19T13:32:29.000Z",
-    "createdAt": "2026-01-19T14:34:14.163Z",
-    "updatedAt": "2026-01-19T14:34:14.163Z"
+    "createdAt": "2026-01-19T15:32:54.671Z",
+    "updatedAt": "2026-01-19T15:32:54.671Z"
   },
   {
     "id": "d6c40b5b21f3d336",
@@ -38,8 +66,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/696e21959a79475b28c0a424",
     "publishedAt": "2026-01-19T13:21:51.000Z",
-    "createdAt": "2026-01-19T14:34:15.266Z",
-    "updatedAt": "2026-01-19T14:34:15.266Z"
+    "createdAt": "2026-01-19T15:32:55.831Z",
+    "updatedAt": "2026-01-19T15:32:55.831Z"
   },
   {
     "id": "e3af1c5a5396800c",
@@ -52,8 +80,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/696e20ac9a794743f9503bb7",
     "publishedAt": "2026-01-19T13:06:03.000Z",
-    "createdAt": "2026-01-19T14:34:17.313Z",
-    "updatedAt": "2026-01-19T14:34:17.313Z"
+    "createdAt": "2026-01-19T15:32:58.096Z",
+    "updatedAt": "2026-01-19T15:32:58.096Z"
   },
   {
     "id": "9849aa25a8189f3b",
@@ -66,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/696e1a9f9a79475294d07617",
     "publishedAt": "2026-01-19T12:05:49.000Z",
-    "createdAt": "2026-01-19T14:34:18.392Z",
-    "updatedAt": "2026-01-19T14:34:18.392Z"
+    "createdAt": "2026-01-19T15:32:59.319Z",
+    "updatedAt": "2026-01-19T15:32:59.319Z"
   },
   {
     "id": "83d933c1232619eb",
@@ -80,8 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/696e168f9a79475148b9f0d0",
     "publishedAt": "2026-01-19T11:49:06.000Z",
-    "createdAt": "2026-01-19T14:34:19.463Z",
-    "updatedAt": "2026-01-19T14:34:19.463Z"
+    "createdAt": "2026-01-19T15:33:00.487Z",
+    "updatedAt": "2026-01-19T15:33:00.487Z"
   },
   {
     "id": "3caa07c650fb8097",
@@ -94,8 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/696e08529a79476732b71254",
     "publishedAt": "2026-01-19T11:12:05.000Z",
-    "createdAt": "2026-01-19T14:34:20.488Z",
-    "updatedAt": "2026-01-19T14:34:20.488Z"
+    "createdAt": "2026-01-19T15:33:01.657Z",
+    "updatedAt": "2026-01-19T15:33:01.657Z"
   },
   {
     "id": "c5a191780a85bf87",
@@ -108,35 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/696e08239a79477be6418509",
     "publishedAt": "2026-01-19T11:01:05.000Z",
-    "createdAt": "2026-01-19T14:34:21.573Z",
-    "updatedAt": "2026-01-19T14:34:21.573Z"
-  },
-  {
-    "id": "a63834981f2543f4",
-    "title": "Канадскую теннисистку увезли с корта Australian Open на коляске",
-    "sport": "Теннис",
-    "category": "Теннис",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/4/81/347688173789814.jpeg",
-    "teaser": "Канадскую теннисистку увезли с корта Australian Open на коляске",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/696e01ae9a7947a1738a669e",
-    "publishedAt": "2026-01-19T10:52:34.000Z",
-    "createdAt": "2026-01-19T14:34:22.646Z",
-    "updatedAt": "2026-01-19T14:34:22.646Z"
-  },
-  {
-    "id": "6356d227f084e9bb",
-    "title": "Мирра Андреева с «баранкой» выиграла первый матч на Australian Open",
-    "sport": "Теннис",
-    "category": "Теннис",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/6/78/347688148258786.jpeg",
-    "teaser": "Мирра Андреева с «баранкой» выиграла первый матч на Australian Open",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/696df8c39a7947b9a43cd7c7",
-    "publishedAt": "2026-01-19T10:17:41.000Z",
-    "createdAt": "2026-01-19T14:34:23.855Z",
-    "updatedAt": "2026-01-19T14:34:23.855Z"
+    "createdAt": "2026-01-19T15:33:02.796Z",
+    "updatedAt": "2026-01-19T15:33:02.796Z"
   }
 ]
