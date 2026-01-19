@@ -1,5 +1,61 @@
 [
   {
+    "id": "d5a4a67a84d49a8e",
+    "title": "«Барселона» сыграет с обидчиком «Реала» в Кубке Испании",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/5/73/347688300108735.jpeg",
+    "teaser": "«Барселона» сыграет с обидчиком «Реала» в Кубке Испании",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/696e32c89a7947d8410d4301",
+    "publishedAt": "2026-01-19T13:54:23.000Z",
+    "createdAt": "2026-01-19T14:34:16.315Z",
+    "updatedAt": "2026-01-19T14:34:16.315Z"
+  },
+  {
+    "id": "2a2a527ea1e8e4cb",
+    "title": "Роналду выиграл судебную тяжбу с «Ювентусом» о пандемийных выплатах",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/6/66/347688279556666.jpeg",
+    "teaser": "Роналду выиграл судебную тяжбу с «Ювентусом» о пандемийных выплатах",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/696e280a9a79472838f074d0",
+    "publishedAt": "2026-01-19T13:32:29.000Z",
+    "createdAt": "2026-01-19T14:34:14.163Z",
+    "updatedAt": "2026-01-19T14:34:14.163Z"
+  },
+  {
+    "id": "d6c40b5b21f3d336",
+    "title": "Медведев заявил, что проиграл бы большинство матчей Синнеру и Алькарасу",
+    "sport": "Теннис",
+    "category": "Теннис",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/6/80/347688252827806.jpeg",
+    "teaser": "Медведев заявил, что проиграл бы большинство матчей Синнеру и Алькарасу",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/696e21959a79475b28c0a424",
+    "publishedAt": "2026-01-19T13:21:51.000Z",
+    "createdAt": "2026-01-19T14:34:15.266Z",
+    "updatedAt": "2026-01-19T14:34:15.266Z"
+  },
+  {
+    "id": "e3af1c5a5396800c",
+    "title": "Джокович одержал 100-ю победу на Australian Open",
+    "sport": "Теннис",
+    "category": "Теннис",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/8/73/347688260873738.jpeg",
+    "teaser": "Джокович одержал 100-ю победу на Australian Open",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/696e20ac9a794743f9503bb7",
+    "publishedAt": "2026-01-19T13:06:03.000Z",
+    "createdAt": "2026-01-19T14:34:17.313Z",
+    "updatedAt": "2026-01-19T14:34:17.313Z"
+  },
+  {
     "id": "9849aa25a8189f3b",
     "title": "Капитан клуба КХЛ забил в свои ворота, начиная атаку в большинстве",
     "sport": "Хоккей",
@@ -10,8 +66,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/696e1a9f9a79475294d07617",
     "publishedAt": "2026-01-19T12:05:49.000Z",
-    "createdAt": "2026-01-19T13:02:43.436Z",
-    "updatedAt": "2026-01-19T13:02:43.436Z"
+    "createdAt": "2026-01-19T14:34:18.392Z",
+    "updatedAt": "2026-01-19T14:34:18.392Z"
   },
   {
     "id": "83d933c1232619eb",
@@ -24,8 +80,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/696e168f9a79475148b9f0d0",
     "publishedAt": "2026-01-19T11:49:06.000Z",
-    "createdAt": "2026-01-19T13:02:44.577Z",
-    "updatedAt": "2026-01-19T13:02:44.577Z"
+    "createdAt": "2026-01-19T14:34:19.463Z",
+    "updatedAt": "2026-01-19T14:34:19.463Z"
   },
   {
     "id": "3caa07c650fb8097",
@@ -38,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/696e08529a79476732b71254",
     "publishedAt": "2026-01-19T11:12:05.000Z",
-    "createdAt": "2026-01-19T13:02:45.583Z",
-    "updatedAt": "2026-01-19T13:02:45.583Z"
+    "createdAt": "2026-01-19T14:34:20.488Z",
+    "updatedAt": "2026-01-19T14:34:20.488Z"
   },
   {
     "id": "c5a191780a85bf87",
@@ -52,8 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/696e08239a79477be6418509",
     "publishedAt": "2026-01-19T11:01:05.000Z",
-    "createdAt": "2026-01-19T13:02:46.982Z",
-    "updatedAt": "2026-01-19T13:02:46.982Z"
+    "createdAt": "2026-01-19T14:34:21.573Z",
+    "updatedAt": "2026-01-19T14:34:21.573Z"
   },
   {
     "id": "a63834981f2543f4",
@@ -66,22 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/696e01ae9a7947a1738a669e",
     "publishedAt": "2026-01-19T10:52:34.000Z",
-    "createdAt": "2026-01-19T13:02:48.024Z",
-    "updatedAt": "2026-01-19T13:02:48.024Z"
-  },
-  {
-    "id": "53318c2a52ac9244",
-    "title": "Шнайдер победила чемпионку Уимблдона на старте Australian Open",
-    "sport": "Теннис",
-    "category": "Теннис",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/3/48/347688160852483.jpeg",
-    "teaser": "Шнайдер победила чемпионку Уимблдона на старте Australian Open",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/696dfcfe9a7947ddb784fdda",
-    "publishedAt": "2026-01-19T10:49:53.000Z",
-    "createdAt": "2026-01-19T13:02:51.612Z",
-    "updatedAt": "2026-01-19T13:02:51.612Z"
+    "createdAt": "2026-01-19T14:34:22.646Z",
+    "updatedAt": "2026-01-19T14:34:22.646Z"
   },
   {
     "id": "6356d227f084e9bb",
@@ -94,49 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/696df8c39a7947b9a43cd7c7",
     "publishedAt": "2026-01-19T10:17:41.000Z",
-    "createdAt": "2026-01-19T13:02:49.479Z",
-    "updatedAt": "2026-01-19T13:02:49.479Z"
-  },
-  {
-    "id": "ccb868b07a16bf27",
-    "title": "Валерий Карпин допустил возможность возглавить испанские клубы в будущем",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/2/79/347688157842792.jpeg",
-    "teaser": "Валерий Карпин допустил возможность возглавить испанские клубы в будущем",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/696dfa399a794718a2678409",
-    "publishedAt": "2026-01-19T10:06:33.000Z",
-    "createdAt": "2026-01-19T13:02:50.563Z",
-    "updatedAt": "2026-01-19T13:02:50.563Z"
-  },
-  {
-    "id": "d227aad833533329",
-    "title": "Установивший рекорд КХЛ капитан «Авангарда» стал лучшим защитником недели",
-    "sport": "Хоккей",
-    "category": "Хоккей",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/7/50/347688144216507.png",
-    "teaser": "Установивший рекорд КХЛ капитан «Авангарда» стал лучшим защитником недели",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/696df4819a7947d761b1b5f6",
-    "publishedAt": "2026-01-19T09:26:30.000Z",
-    "createdAt": "2026-01-19T13:02:53.756Z",
-    "updatedAt": "2026-01-19T13:02:53.756Z"
-  },
-  {
-    "id": "3e79d2b5fd129962",
-    "title": "Двалишвили заявил об отказе UFC проводить бои с россиянами в Белом доме",
-    "sport": "Единоборства",
-    "category": "Единоборства",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/5/76/347688120332765.jpeg",
-    "teaser": "Двалишвили заявил об отказе UFC проводить бои с россиянами в Белом доме",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/696deab19a7947481ddbb7c6",
-    "publishedAt": "2026-01-19T09:17:12.000Z",
-    "createdAt": "2026-01-19T13:02:52.683Z",
-    "updatedAt": "2026-01-19T13:02:52.683Z"
+    "createdAt": "2026-01-19T14:34:23.855Z",
+    "updatedAt": "2026-01-19T14:34:23.855Z"
   }
 ]
