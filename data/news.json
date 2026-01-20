@@ -1,5 +1,61 @@
 [
   {
+    "id": "714aeb39af961a12",
+    "title": "Тарасова назвала уникальным катание фигуриста Гуменника",
+    "sport": "Другое",
+    "category": "Фигурное катание",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/8/12/347689171191128.jpeg",
+    "teaser": "Тарасова назвала уникальным катание фигуриста Гуменника",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/696f83499a7947eebe312b50",
+    "publishedAt": "2026-01-20T14:08:51.000Z",
+    "createdAt": "2026-01-20T14:37:42.809Z",
+    "updatedAt": "2026-01-20T14:37:42.809Z"
+  },
+  {
+    "id": "3cea10585e0e7345",
+    "title": "РПЛ изменила время начала трех матчей 19-го тура",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/1/44/347689174588441.jpeg",
+    "teaser": "РПЛ изменила время начала трех матчей 19-го тура",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/696f88159a7947927dd418c6",
+    "publishedAt": "2026-01-20T14:05:15.000Z",
+    "createdAt": "2026-01-20T14:37:43.960Z",
+    "updatedAt": "2026-01-20T14:37:43.960Z"
+  },
+  {
+    "id": "50d797fe6cdb651b",
+    "title": "ЦСКА досрочно прекратил аренду аргентинского полузащитника Верде",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/1/68/347689153311681.jpeg",
+    "teaser": "ЦСКА досрочно прекратил аренду аргентинского полузащитника Верде",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/696f7a8c9a79471b2fa747b3",
+    "publishedAt": "2026-01-20T13:30:28.000Z",
+    "createdAt": "2026-01-20T14:37:45.032Z",
+    "updatedAt": "2026-01-20T14:37:45.032Z"
+  },
+  {
+    "id": "32d973786d033525",
+    "title": "Российский боксер проведет бой c колумбийцем за временный пояс WBA",
+    "sport": "Единоборства",
+    "category": "Единоборства",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/4/30/347689127107304.jpeg",
+    "teaser": "Российский боксер проведет бой c колумбийцем за временный пояс WBA",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/696f6ffd9a79477e42f107c3",
+    "publishedAt": "2026-01-20T13:02:47.000Z",
+    "createdAt": "2026-01-20T14:37:46.157Z",
+    "updatedAt": "2026-01-20T14:37:46.157Z"
+  },
+  {
     "id": "3dc3202436c48f60",
     "title": "Касаткина проиграла 126-й ракетке в первом круге Australian Open",
     "sport": "Теннис",
@@ -10,8 +66,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/696f76639a7947138dc49302",
     "publishedAt": "2026-01-20T12:50:39.000Z",
-    "createdAt": "2026-01-20T13:03:01.897Z",
-    "updatedAt": "2026-01-20T13:03:01.897Z"
+    "createdAt": "2026-01-20T14:37:47.219Z",
+    "updatedAt": "2026-01-20T14:37:47.219Z"
   },
   {
     "id": "7a63dc19aee7ad22",
@@ -24,22 +80,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/696f6a739a7947d9f3c843d0",
     "publishedAt": "2026-01-20T12:47:42.000Z",
-    "createdAt": "2026-01-20T13:03:02.852Z",
-    "updatedAt": "2026-01-20T13:03:02.852Z"
-  },
-  {
-    "id": "b1be5f405eabcea4",
-    "title": "Выиграй поездку на FONBET Неделю звезд хоккея — 2026",
-    "sport": "Другое",
-    "category": "Другие",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/9/10/347688294179109.jpeg",
-    "teaser": "Выиграй поездку на FONBET Неделю звезд хоккея — 2026",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/696e31aa9a7947700ed292ab",
-    "publishedAt": "2026-01-20T11:53:01.000Z",
-    "createdAt": "2026-01-20T13:03:07.926Z",
-    "updatedAt": "2026-01-20T13:03:07.926Z"
+    "createdAt": "2026-01-20T14:37:48.241Z",
+    "updatedAt": "2026-01-20T14:37:48.241Z"
   },
   {
     "id": "3811f9142290c4a3",
@@ -52,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/696f64559a794736cdd388f7",
     "publishedAt": "2026-01-20T11:50:18.000Z",
-    "createdAt": "2026-01-20T13:03:03.918Z",
-    "updatedAt": "2026-01-20T13:03:03.918Z"
+    "createdAt": "2026-01-20T14:37:49.386Z",
+    "updatedAt": "2026-01-20T14:37:49.386Z"
   },
   {
     "id": "e96bf64471583db3",
@@ -66,8 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/696f5d669a79477cbd39a6a9",
     "publishedAt": "2026-01-20T11:09:08.000Z",
-    "createdAt": "2026-01-20T13:03:04.966Z",
-    "updatedAt": "2026-01-20T13:03:04.966Z"
+    "createdAt": "2026-01-20T14:37:51.906Z",
+    "updatedAt": "2026-01-20T14:37:51.907Z"
   },
   {
     "id": "1bd0b0d04a1da4eb",
@@ -80,63 +122,21 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/696f592a9a7947e3b1457838",
     "publishedAt": "2026-01-20T10:54:13.000Z",
-    "createdAt": "2026-01-20T13:03:05.932Z",
-    "updatedAt": "2026-01-20T13:03:05.932Z"
+    "createdAt": "2026-01-20T14:37:53.098Z",
+    "updatedAt": "2026-01-20T14:37:53.098Z"
   },
   {
-    "id": "ac4cddf9d9f5bef5",
-    "title": "Россиянка вылетела с Australian Open после победы 6:0 в первом сете",
-    "sport": "Теннис",
-    "category": "Теннис",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/3/04/347689019308043.jpeg",
-    "teaser": "Россиянка вылетела с Australian Open после победы 6:0 в первом сете",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/696f45cc9a79474cfefbfb73",
-    "publishedAt": "2026-01-20T10:46:57.000Z",
-    "createdAt": "2026-01-20T13:03:06.974Z",
-    "updatedAt": "2026-01-20T13:03:06.974Z"
-  },
-  {
-    "id": "073d44f985598844",
-    "title": "Глава баскетбольного «Зенита» сравнил отстраненного тренера с Карпиным",
-    "sport": "Баскетбол",
-    "category": "Баскетбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/2/92/347689042543922.jpeg",
-    "teaser": "Глава баскетбольного «Зенита» сравнил отстраненного тренера с Карпиным",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/696f53149a79476b469b3947",
-    "publishedAt": "2026-01-20T10:39:10.000Z",
-    "createdAt": "2026-01-20T13:03:08.953Z",
-    "updatedAt": "2026-01-20T13:03:08.953Z"
-  },
-  {
-    "id": "a36d74648b21785b",
-    "title": "Синнер начал защиту титула на Australian Open с укороченного матча",
-    "sport": "Теннис",
-    "category": "Теннис",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/9/43/347689028646439.jpeg",
-    "teaser": "Синнер начал защиту титула на Australian Open с укороченного матча",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/696f4ecb9a794724e3e86c05",
-    "publishedAt": "2026-01-20T10:03:22.000Z",
-    "createdAt": "2026-01-20T13:03:11.054Z",
-    "updatedAt": "2026-01-20T13:03:11.054Z"
-  },
-  {
-    "id": "56518a6b792cc7c3",
-    "title": "Бобровский объяснил, почему подрался с голкипером «Сан-Хосе» в матче НХЛ",
+    "id": "83ec787878e2d0d4",
+    "title": "Тренер Овечкина и рекордсмен. Кто уехал из НХЛ в КХЛ из-за уголовных дел",
     "sport": "Хоккей",
     "category": "Хоккей",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/3/62/347688999379623.jpeg",
-    "teaser": "Бобровский объяснил, почему подрался с голкипером «Сан-Хосе» в матче НХЛ",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/9/24/347688271871249.jpeg",
+    "teaser": "Тренер Овечкина и рекордсмен. Кто уехал из НХЛ в КХЛ из-за уголовных дел",
     "fullContent": "",
     "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/696f452d9a7947df2e34eda3",
-    "publishedAt": "2026-01-20T09:40:20.000Z",
-    "createdAt": "2026-01-20T13:03:10.005Z",
-    "updatedAt": "2026-01-20T13:03:10.005Z"
+    "sourceUrl": "https://sportrbc.ru/news/696dff299a79475d9601c13c",
+    "publishedAt": "2026-01-19T21:00:25.000Z",
+    "createdAt": "2026-01-20T14:37:50.790Z",
+    "updatedAt": "2026-01-20T14:37:50.790Z"
   }
 ]
