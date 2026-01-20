@@ -1,5 +1,47 @@
 [
   {
+    "id": "bf4053c318817fe4",
+    "title": "Баскетбольный «Зенит» отстранил главного тренера",
+    "sport": "Баскетбол",
+    "category": "Баскетбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/7/02/347689000730027.jpeg",
+    "teaser": "Баскетбольный «Зенит» отстранил главного тренера",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/696f45ca9a79474cfefbfb71",
+    "publishedAt": "2026-01-20T09:28:13.000Z",
+    "createdAt": "2026-01-20T09:38:42.211Z",
+    "updatedAt": "2026-01-20T09:38:42.211Z"
+  },
+  {
+    "id": "02d0019253d93442",
+    "title": "Старший сын Бекхэма объявил о разрыве отношений с родителями",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/8/33/347688963805338.jpeg",
+    "teaser": "Старший сын Бекхэма объявил о разрыве отношений с родителями",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/696f339c9a7947d9e5aa0c6f",
+    "publishedAt": "2026-01-20T09:24:40.000Z",
+    "createdAt": "2026-01-20T09:38:43.351Z",
+    "updatedAt": "2026-01-20T09:38:43.351Z"
+  },
+  {
+    "id": "a8da8c7f1b51934e",
+    "title": "Вратарь «Сан-Хосе» рассказал, как пытался не потерять зубы в драке в НХЛ",
+    "sport": "Хоккей",
+    "category": "Хоккей",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/4/29/347688983258294.jpeg",
+    "teaser": "Вратарь «Сан-Хосе» рассказал, как пытался не потерять зубы в драке в НХЛ",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/696f3e049a79471df9688097",
+    "publishedAt": "2026-01-20T08:59:56.000Z",
+    "createdAt": "2026-01-20T09:38:44.391Z",
+    "updatedAt": "2026-01-20T09:38:44.391Z"
+  },
+  {
     "id": "b5922388ca99dc36",
     "title": "Одноклубник Бобровского назвал «невероятной» драку вратарей в НХЛ",
     "sport": "Хоккей",
@@ -10,8 +52,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/696f2c6a9a7947b4b6851b04",
     "publishedAt": "2026-01-20T08:23:25.000Z",
-    "createdAt": "2026-01-20T08:40:10.649Z",
-    "updatedAt": "2026-01-20T08:40:10.649Z"
+    "createdAt": "2026-01-20T09:38:45.495Z",
+    "updatedAt": "2026-01-20T09:38:45.495Z"
   },
   {
     "id": "768fd83d0fbe6cf8",
@@ -24,8 +66,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/696f301a9a7947b03163bd3b",
     "publishedAt": "2026-01-20T08:00:41.000Z",
-    "createdAt": "2026-01-20T08:40:11.703Z",
-    "updatedAt": "2026-01-20T08:40:11.703Z"
+    "createdAt": "2026-01-20T09:38:46.630Z",
+    "updatedAt": "2026-01-20T09:38:46.630Z"
   },
   {
     "id": "2a9c5b0d52d1c57e",
@@ -38,8 +80,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/696f2e1e9a79474d58e11f30",
     "publishedAt": "2026-01-20T07:48:13.000Z",
-    "createdAt": "2026-01-20T08:40:12.786Z",
-    "updatedAt": "2026-01-20T08:40:12.786Z"
+    "createdAt": "2026-01-20T09:38:47.793Z",
+    "updatedAt": "2026-01-20T09:38:47.793Z"
   },
   {
     "id": "a748faa4664ae854",
@@ -52,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/696f29bd9a79479ac2cb7561",
     "publishedAt": "2026-01-20T07:23:14.000Z",
-    "createdAt": "2026-01-20T08:40:14.190Z",
-    "updatedAt": "2026-01-20T08:40:14.190Z"
+    "createdAt": "2026-01-20T09:38:48.962Z",
+    "updatedAt": "2026-01-20T09:38:48.962Z"
   },
   {
     "id": "c350bb6f4cdd2098",
@@ -66,8 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/696f1ebf9a79470dabc46aae",
     "publishedAt": "2026-01-20T07:14:27.000Z",
-    "createdAt": "2026-01-20T08:40:15.183Z",
-    "updatedAt": "2026-01-20T08:40:15.183Z"
+    "createdAt": "2026-01-20T09:38:50.132Z",
+    "updatedAt": "2026-01-20T09:38:50.132Z"
   },
   {
     "id": "3d49c8be8f79a40a",
@@ -80,8 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/696f116c9a794738a293c795",
     "publishedAt": "2026-01-20T06:02:10.000Z",
-    "createdAt": "2026-01-20T08:40:16.276Z",
-    "updatedAt": "2026-01-20T08:40:16.276Z"
+    "createdAt": "2026-01-20T09:38:51.245Z",
+    "updatedAt": "2026-01-20T09:38:51.245Z"
   },
   {
     "id": "83ec787878e2d0d4",
@@ -94,49 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/696dff299a79475d9601c13c",
     "publishedAt": "2026-01-19T21:00:25.000Z",
-    "createdAt": "2026-01-20T08:40:17.542Z",
-    "updatedAt": "2026-01-20T08:40:17.542Z"
-  },
-  {
-    "id": "0f7ac7f6346899a7",
-    "title": "«Динамо» вело 3:0 у «Северстали», но выиграло только по буллитам",
-    "sport": "Хоккей",
-    "category": "Хоккей",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/2/19/347688502470192.png",
-    "teaser": "«Динамо» вело 3:0 у «Северстали», но выиграло только по буллитам",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/696e77df9a794738630126ec",
-    "publishedAt": "2026-01-19T19:17:55.000Z",
-    "createdAt": "2026-01-20T08:40:19.819Z",
-    "updatedAt": "2026-01-20T08:40:19.819Z"
-  },
-  {
-    "id": "df7d85722475541e",
-    "title": "«Спартак» назвал соперников по февральским матчам на сборе в ОАЭ",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/4/72/347688469107724.jpeg",
-    "teaser": "«Спартак» назвал соперников по февральским матчам на сборе в ОАЭ",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/696e71ac9a7947ed6149c09b",
-    "publishedAt": "2026-01-19T18:29:56.000Z",
-    "createdAt": "2026-01-20T08:40:20.913Z",
-    "updatedAt": "2026-01-20T08:40:20.913Z"
-  },
-  {
-    "id": "3467602365756e72",
-    "title": "Сборная России потеряла три строчки в рейтинге ФИФА",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/4/91/347688429145914.png",
-    "teaser": "Сборная России потеряла три строчки в рейтинге ФИФА",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/696e66679a7947781bebd4f4",
-    "publishedAt": "2026-01-19T18:00:02.000Z",
-    "createdAt": "2026-01-20T08:40:18.642Z",
-    "updatedAt": "2026-01-20T08:40:18.642Z"
+    "createdAt": "2026-01-20T09:38:52.548Z",
+    "updatedAt": "2026-01-20T09:38:52.548Z"
   }
 ]
