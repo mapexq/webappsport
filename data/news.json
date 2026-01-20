@@ -1,5 +1,61 @@
 [
   {
+    "id": "e96bf64471583db3",
+    "title": "Гуменник установил рекорд в короткой программе среди россиян",
+    "sport": "Другое",
+    "category": "Фигурное катание",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/5/09/347689068154095.jpeg",
+    "teaser": "Гуменник установил рекорд в короткой программе среди россиян",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/696f5d669a79477cbd39a6a9",
+    "publishedAt": "2026-01-20T11:09:08.000Z",
+    "createdAt": "2026-01-20T11:28:45.134Z",
+    "updatedAt": "2026-01-20T11:28:45.134Z"
+  },
+  {
+    "id": "1bd0b0d04a1da4eb",
+    "title": "Четыре российские теннисистки из 9 вышли во второй круг Australian Open",
+    "sport": "Теннис",
+    "category": "Теннис",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/7/35/347689050464357.jpeg",
+    "teaser": "Четыре российские теннисистки из 9 вышли во второй круг Australian Open",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/696f592a9a7947e3b1457838",
+    "publishedAt": "2026-01-20T10:54:13.000Z",
+    "createdAt": "2026-01-20T11:28:46.252Z",
+    "updatedAt": "2026-01-20T11:28:46.252Z"
+  },
+  {
+    "id": "ac4cddf9d9f5bef5",
+    "title": "Россиянка вылетела с Australian Open после победы 6:0 в первом сете",
+    "sport": "Теннис",
+    "category": "Теннис",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/3/04/347689019308043.jpeg",
+    "teaser": "Россиянка вылетела с Australian Open после победы 6:0 в первом сете",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/696f45cc9a79474cfefbfb73",
+    "publishedAt": "2026-01-20T10:46:57.000Z",
+    "createdAt": "2026-01-20T11:28:47.417Z",
+    "updatedAt": "2026-01-20T11:28:47.417Z"
+  },
+  {
+    "id": "073d44f985598844",
+    "title": "Глава баскетбольного «Зенита» сравнил отстраненного тренера с Карпиным",
+    "sport": "Баскетбол",
+    "category": "Баскетбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/2/92/347689042543922.jpeg",
+    "teaser": "Глава баскетбольного «Зенита» сравнил отстраненного тренера с Карпиным",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/696f53149a79476b469b3947",
+    "publishedAt": "2026-01-20T10:39:10.000Z",
+    "createdAt": "2026-01-20T11:28:48.581Z",
+    "updatedAt": "2026-01-20T11:28:48.581Z"
+  },
+  {
     "id": "a36d74648b21785b",
     "title": "Синнер начал защиту титула на Australian Open с укороченного матча",
     "sport": "Теннис",
@@ -10,8 +66,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/696f4ecb9a794724e3e86c05",
     "publishedAt": "2026-01-20T10:03:22.000Z",
-    "createdAt": "2026-01-20T10:34:55.378Z",
-    "updatedAt": "2026-01-20T10:34:55.378Z"
+    "createdAt": "2026-01-20T11:28:50.897Z",
+    "updatedAt": "2026-01-20T11:28:50.897Z"
   },
   {
     "id": "56518a6b792cc7c3",
@@ -24,8 +80,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/696f452d9a7947df2e34eda3",
     "publishedAt": "2026-01-20T09:40:20.000Z",
-    "createdAt": "2026-01-20T10:34:54.373Z",
-    "updatedAt": "2026-01-20T10:34:54.373Z"
+    "createdAt": "2026-01-20T11:28:49.734Z",
+    "updatedAt": "2026-01-20T11:28:49.734Z"
   },
   {
     "id": "bf4053c318817fe4",
@@ -38,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/696f45ca9a79474cfefbfb71",
     "publishedAt": "2026-01-20T09:28:13.000Z",
-    "createdAt": "2026-01-20T10:34:56.441Z",
-    "updatedAt": "2026-01-20T10:34:56.441Z"
+    "createdAt": "2026-01-20T11:28:52.046Z",
+    "updatedAt": "2026-01-20T11:28:52.046Z"
   },
   {
     "id": "02d0019253d93442",
@@ -52,8 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/696f339c9a7947d9e5aa0c6f",
     "publishedAt": "2026-01-20T09:24:40.000Z",
-    "createdAt": "2026-01-20T10:34:57.450Z",
-    "updatedAt": "2026-01-20T10:34:57.450Z"
+    "createdAt": "2026-01-20T11:28:53.195Z",
+    "updatedAt": "2026-01-20T11:28:53.195Z"
   },
   {
     "id": "a8da8c7f1b51934e",
@@ -66,8 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/696f3e049a79471df9688097",
     "publishedAt": "2026-01-20T08:59:56.000Z",
-    "createdAt": "2026-01-20T10:34:58.563Z",
-    "updatedAt": "2026-01-20T10:34:58.563Z"
+    "createdAt": "2026-01-20T11:28:54.890Z",
+    "updatedAt": "2026-01-20T11:28:54.890Z"
   },
   {
     "id": "b5922388ca99dc36",
@@ -80,63 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/696f2c6a9a7947b4b6851b04",
     "publishedAt": "2026-01-20T08:23:25.000Z",
-    "createdAt": "2026-01-20T10:34:59.576Z",
-    "updatedAt": "2026-01-20T10:34:59.576Z"
-  },
-  {
-    "id": "768fd83d0fbe6cf8",
-    "title": "Российские паралимпийцы получили возможность выступить на Играх-2026",
-    "sport": "Другое",
-    "category": "Другие",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/1/97/347688950672971.jpeg",
-    "teaser": "Российские паралимпийцы получили возможность выступить на Играх-2026",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/696f301a9a7947b03163bd3b",
-    "publishedAt": "2026-01-20T08:00:41.000Z",
-    "createdAt": "2026-01-20T10:35:00.614Z",
-    "updatedAt": "2026-01-20T10:35:00.614Z"
-  },
-  {
-    "id": "2a9c5b0d52d1c57e",
-    "title": "РУСАДА дисквалифицировало 17-летнюю горнолыжницу за мельдоний",
-    "sport": "Другое",
-    "category": "Другие",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/0/03/347688940523030.jpeg",
-    "teaser": "РУСАДА дисквалифицировало 17-летнюю горнолыжницу за мельдоний",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/696f2e1e9a79474d58e11f30",
-    "publishedAt": "2026-01-20T07:48:13.000Z",
-    "createdAt": "2026-01-20T10:35:01.653Z",
-    "updatedAt": "2026-01-20T10:35:01.653Z"
-  },
-  {
-    "id": "a748faa4664ae854",
-    "title": "Российский чемпион НХЛ попал в ДТП и пропустил матч с «Вашингтоном»",
-    "sport": "Хоккей",
-    "category": "Хоккей",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/6/08/347688929251086.jpeg",
-    "teaser": "Российский чемпион НХЛ попал в ДТП и пропустил матч с «Вашингтоном»",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/696f29bd9a79479ac2cb7561",
-    "publishedAt": "2026-01-20T07:23:14.000Z",
-    "createdAt": "2026-01-20T10:35:02.687Z",
-    "updatedAt": "2026-01-20T10:35:02.687Z"
-  },
-  {
-    "id": "c350bb6f4cdd2098",
-    "title": "Овечкин продлил безголевую серию в НХЛ до четырех матчей",
-    "sport": "Хоккей",
-    "category": "Хоккей",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/7/85/347688901771857.jpeg",
-    "teaser": "Овечкин продлил безголевую серию в НХЛ до четырех матчей",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/696f1ebf9a79470dabc46aae",
-    "publishedAt": "2026-01-20T07:14:27.000Z",
-    "createdAt": "2026-01-20T10:35:03.723Z",
-    "updatedAt": "2026-01-20T10:35:03.723Z"
+    "createdAt": "2026-01-20T11:28:56.051Z",
+    "updatedAt": "2026-01-20T11:28:56.051Z"
   }
 ]
