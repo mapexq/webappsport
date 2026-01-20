@@ -1,5 +1,47 @@
 [
   {
+    "id": "33fee24a93674e95",
+    "title": "Россиянку заподозрили в нарушении Теннисной антикоррупционной программы",
+    "sport": "Теннис",
+    "category": "Теннис",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/5/57/347689285559575.jpeg",
+    "teaser": "Россиянку заподозрили в нарушении Теннисной антикоррупционной программы",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/696fb4b69a794766caabcd75",
+    "publishedAt": "2026-01-20T17:19:52.000Z",
+    "createdAt": "2026-01-20T17:35:25.488Z",
+    "updatedAt": "2026-01-20T17:35:25.488Z"
+  },
+  {
+    "id": "066998493d734864",
+    "title": "Трусова подтвердила возвращение в большой спорт и переход к Тутберидзе",
+    "sport": "Другое",
+    "category": "Фигурное катание",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/7/57/347689251832577.jpeg",
+    "teaser": "Трусова подтвердила возвращение в большой спорт и переход к Тутберидзе",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/696fa0619a7947e62c942b44",
+    "publishedAt": "2026-01-20T16:48:13.000Z",
+    "createdAt": "2026-01-20T17:35:26.604Z",
+    "updatedAt": "2026-01-20T17:35:26.604Z"
+  },
+  {
+    "id": "c3b90e76f1d6b568",
+    "title": "«Авангард» третий раз в сезоне КХЛ обыграл «Салават Юлаев»",
+    "sport": "Хоккей",
+    "category": "Хоккей",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/7/17/347689266810177.jpeg",
+    "teaser": "«Авангард» третий раз в сезоне КХЛ обыграл «Салават Юлаев»",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/696faa319a794711e8611632",
+    "publishedAt": "2026-01-20T16:46:52.000Z",
+    "createdAt": "2026-01-20T17:35:27.643Z",
+    "updatedAt": "2026-01-20T17:35:27.643Z"
+  },
+  {
     "id": "81c150d4584a5696",
     "title": "Глава ПКР назвал возможное число российских паралимпийцев на Играх-2026",
     "sport": "Другое",
@@ -10,8 +52,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/696f95b69a79475d67c6dc9e",
     "publishedAt": "2026-01-20T16:02:33.000Z",
-    "createdAt": "2026-01-20T16:42:32.470Z",
-    "updatedAt": "2026-01-20T16:42:32.470Z"
+    "createdAt": "2026-01-20T17:35:29.677Z",
+    "updatedAt": "2026-01-20T17:35:29.677Z"
   },
   {
     "id": "f4229842d4db747e",
@@ -24,8 +66,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/696f9b7b9a7947efca3d69db",
     "publishedAt": "2026-01-20T15:52:23.000Z",
-    "createdAt": "2026-01-20T16:42:31.418Z",
-    "updatedAt": "2026-01-20T16:42:31.418Z"
+    "createdAt": "2026-01-20T17:35:28.678Z",
+    "updatedAt": "2026-01-20T17:35:28.678Z"
   },
   {
     "id": "fcaa2006b9285ba9",
@@ -38,8 +80,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/696f92dd9a7947b1d8d988ed",
     "publishedAt": "2026-01-20T15:36:29.000Z",
-    "createdAt": "2026-01-20T16:42:34.047Z",
-    "updatedAt": "2026-01-20T16:42:34.047Z"
+    "createdAt": "2026-01-20T17:35:30.675Z",
+    "updatedAt": "2026-01-20T17:35:30.675Z"
   },
   {
     "id": "cea32108998e2334",
@@ -52,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/696f72569a79479e163ed193",
     "publishedAt": "2026-01-20T15:00:48.000Z",
-    "createdAt": "2026-01-20T16:42:35.233Z",
-    "updatedAt": "2026-01-20T16:42:35.233Z"
+    "createdAt": "2026-01-20T17:35:31.765Z",
+    "updatedAt": "2026-01-20T17:35:31.765Z"
   },
   {
     "id": "c8dbe3c05da76b4c",
@@ -66,8 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/696f8d159a79473c377e8148",
     "publishedAt": "2026-01-20T14:48:09.000Z",
-    "createdAt": "2026-01-20T16:42:36.273Z",
-    "updatedAt": "2026-01-20T16:42:36.273Z"
+    "createdAt": "2026-01-20T17:35:32.823Z",
+    "updatedAt": "2026-01-20T17:35:32.823Z"
   },
   {
     "id": "b5e4450f5d76cffd",
@@ -80,8 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/696f8bf09a79474511ba1ddf",
     "publishedAt": "2026-01-20T14:41:42.000Z",
-    "createdAt": "2026-01-20T16:42:37.384Z",
-    "updatedAt": "2026-01-20T16:42:37.384Z"
+    "createdAt": "2026-01-20T17:35:34.018Z",
+    "updatedAt": "2026-01-20T17:35:34.018Z"
   },
   {
     "id": "714aeb39af961a12",
@@ -94,49 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/696f83499a7947eebe312b50",
     "publishedAt": "2026-01-20T14:08:51.000Z",
-    "createdAt": "2026-01-20T16:42:38.489Z",
-    "updatedAt": "2026-01-20T16:42:38.489Z"
-  },
-  {
-    "id": "3cea10585e0e7345",
-    "title": "РПЛ изменила время начала трех матчей 19-го тура",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/1/44/347689174588441.jpeg",
-    "teaser": "РПЛ изменила время начала трех матчей 19-го тура",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/696f88159a7947927dd418c6",
-    "publishedAt": "2026-01-20T14:05:15.000Z",
-    "createdAt": "2026-01-20T16:42:39.608Z",
-    "updatedAt": "2026-01-20T16:42:39.608Z"
-  },
-  {
-    "id": "50d797fe6cdb651b",
-    "title": "ЦСКА досрочно прекратил аренду аргентинского полузащитника Верде",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/1/68/347689153311681.jpeg",
-    "teaser": "ЦСКА досрочно прекратил аренду аргентинского полузащитника Верде",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/696f7a8c9a79471b2fa747b3",
-    "publishedAt": "2026-01-20T13:30:28.000Z",
-    "createdAt": "2026-01-20T16:42:40.723Z",
-    "updatedAt": "2026-01-20T16:42:40.723Z"
-  },
-  {
-    "id": "32d973786d033525",
-    "title": "Российский боксер проведет бой c колумбийцем за временный пояс WBA",
-    "sport": "Единоборства",
-    "category": "Единоборства",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/4/30/347689127107304.jpeg",
-    "teaser": "Российский боксер проведет бой c колумбийцем за временный пояс WBA",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/696f6ffd9a79477e42f107c3",
-    "publishedAt": "2026-01-20T13:02:47.000Z",
-    "createdAt": "2026-01-20T16:42:41.912Z",
-    "updatedAt": "2026-01-20T16:42:41.912Z"
+    "createdAt": "2026-01-20T17:35:35.113Z",
+    "updatedAt": "2026-01-20T17:35:35.113Z"
   }
 ]
