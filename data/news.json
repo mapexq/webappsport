@@ -1,5 +1,61 @@
 [
   {
+    "id": "a748faa4664ae854",
+    "title": "Российский чемпион НХЛ попал в ДТП и пропустил матч с «Вашингтоном»",
+    "sport": "Хоккей",
+    "category": "Хоккей",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/6/08/347688929251086.jpeg",
+    "teaser": "Российский чемпион НХЛ попал в ДТП и пропустил матч с «Вашингтоном»",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/696f29bd9a79479ac2cb7561",
+    "publishedAt": "2026-01-20T07:23:14.000Z",
+    "createdAt": "2026-01-20T07:34:01.418Z",
+    "updatedAt": "2026-01-20T07:34:01.418Z"
+  },
+  {
+    "id": "c350bb6f4cdd2098",
+    "title": "Овечкин продлил безголевую серию в НХЛ до четырех матчей",
+    "sport": "Хоккей",
+    "category": "Хоккей",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/7/85/347688901771857.jpeg",
+    "teaser": "Овечкин продлил безголевую серию в НХЛ до четырех матчей",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/696f1ebf9a79470dabc46aae",
+    "publishedAt": "2026-01-20T07:14:27.000Z",
+    "createdAt": "2026-01-20T07:34:02.414Z",
+    "updatedAt": "2026-01-20T07:34:02.414Z"
+  },
+  {
+    "id": "3d49c8be8f79a40a",
+    "title": "Россиянин стал участником первой драки вратарей в НХЛ с 2020 года",
+    "sport": "Хоккей",
+    "category": "Хоккей",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/3/39/347688871508393.jpeg",
+    "teaser": "Россиянин стал участником первой драки вратарей в НХЛ с 2020 года",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/696f116c9a794738a293c795",
+    "publishedAt": "2026-01-20T06:02:10.000Z",
+    "createdAt": "2026-01-20T07:34:03.425Z",
+    "updatedAt": "2026-01-20T07:34:03.425Z"
+  },
+  {
+    "id": "83ec787878e2d0d4",
+    "title": "Тренер Овечкина и рекордсмен. Кто уехал из НХЛ в КХЛ из-за уголовных дел",
+    "sport": "Хоккей",
+    "category": "Хоккей",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/9/24/347688271871249.jpeg",
+    "teaser": "Тренер Овечкина и рекордсмен. Кто уехал из НХЛ в КХЛ из-за уголовных дел",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/696dff299a79475d9601c13c",
+    "publishedAt": "2026-01-19T21:00:25.000Z",
+    "createdAt": "2026-01-20T07:34:04.835Z",
+    "updatedAt": "2026-01-20T07:34:04.835Z"
+  },
+  {
     "id": "0f7ac7f6346899a7",
     "title": "«Динамо» вело 3:0 у «Северстали», но выиграло только по буллитам",
     "sport": "Хоккей",
@@ -10,8 +66,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/696e77df9a794738630126ec",
     "publishedAt": "2026-01-19T19:17:55.000Z",
-    "createdAt": "2026-01-20T06:45:50.737Z",
-    "updatedAt": "2026-01-20T06:45:50.737Z"
+    "createdAt": "2026-01-20T07:34:06.993Z",
+    "updatedAt": "2026-01-20T07:34:06.993Z"
   },
   {
     "id": "c2fae037ec4591f3",
@@ -24,8 +80,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/696e79cd9a79471e8608f704",
     "publishedAt": "2026-01-19T18:45:55.000Z",
-    "createdAt": "2026-01-20T06:45:52.900Z",
-    "updatedAt": "2026-01-20T06:45:52.900Z"
+    "createdAt": "2026-01-20T07:34:09.134Z",
+    "updatedAt": "2026-01-20T07:34:09.134Z"
   },
   {
     "id": "df7d85722475541e",
@@ -38,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/696e71ac9a7947ed6149c09b",
     "publishedAt": "2026-01-19T18:29:56.000Z",
-    "createdAt": "2026-01-20T06:45:51.802Z",
-    "updatedAt": "2026-01-20T06:45:51.802Z"
+    "createdAt": "2026-01-20T07:34:08.054Z",
+    "updatedAt": "2026-01-20T07:34:08.054Z"
   },
   {
     "id": "3467602365756e72",
@@ -52,22 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/696e66679a7947781bebd4f4",
     "publishedAt": "2026-01-19T18:00:02.000Z",
-    "createdAt": "2026-01-20T06:45:49.601Z",
-    "updatedAt": "2026-01-20T06:45:49.601Z"
-  },
-  {
-    "id": "03185398e607652e",
-    "title": "Защитник сборной Англии Марк Гехи перешел в «Манчестер Сити»",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/2/59/347688437141592.jpeg",
-    "teaser": "Защитник сборной Англии Марк Гехи перешел в «Манчестер Сити»",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/696e5ccd9a79473c4f8036d7",
-    "publishedAt": "2026-01-19T17:49:15.000Z",
-    "createdAt": "2026-01-20T06:45:56.101Z",
-    "updatedAt": "2026-01-20T06:45:56.101Z"
+    "createdAt": "2026-01-20T07:34:05.903Z",
+    "updatedAt": "2026-01-20T07:34:05.903Z"
   },
   {
     "id": "8d76e233ccb84184",
@@ -80,8 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/696e60409a7947d95db6705b",
     "publishedAt": "2026-01-19T17:21:38.000Z",
-    "createdAt": "2026-01-20T06:45:53.992Z",
-    "updatedAt": "2026-01-20T06:45:53.992Z"
+    "createdAt": "2026-01-20T07:34:10.249Z",
+    "updatedAt": "2026-01-20T07:34:10.249Z"
   },
   {
     "id": "046c4a719249ec3d",
@@ -94,49 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/696e51529a7947e885fb59a7",
     "publishedAt": "2026-01-19T16:35:41.000Z",
-    "createdAt": "2026-01-20T06:45:55.072Z",
-    "updatedAt": "2026-01-20T06:45:55.072Z"
-  },
-  {
-    "id": "ce8640f8c1806ee9",
-    "title": "Тарасова оценила возвращение Трусовой и Валиевой на соревнования",
-    "sport": "Другое",
-    "category": "Фигурное катание",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/4/93/347688350420934.jpeg",
-    "teaser": "Тарасова оценила возвращение Трусовой и Валиевой на соревнования",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/696e42839a79474ec2f1e1eb",
-    "publishedAt": "2026-01-19T16:24:25.000Z",
-    "createdAt": "2026-01-20T06:45:58.581Z",
-    "updatedAt": "2026-01-20T06:45:58.581Z"
-  },
-  {
-    "id": "91b31893491d10c0",
-    "title": "Российских юниоров вернули на турниры по керлингу под национальным флагом",
-    "sport": "Другое",
-    "category": "Другие",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/9/59/347688394717599.png",
-    "teaser": "Российских юниоров вернули на турниры по керлингу под национальным флагом",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/696e56af9a79471a0966a15a",
-    "publishedAt": "2026-01-19T16:22:44.000Z",
-    "createdAt": "2026-01-20T06:45:57.484Z",
-    "updatedAt": "2026-01-20T06:45:57.484Z"
-  },
-  {
-    "id": "f98a0845599d0a1d",
-    "title": "Более 50 бегунов попали в больницу после марафона в Гонконге",
-    "sport": "Другое",
-    "category": "Другие",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/7/92/347688284281927.jpeg",
-    "teaser": "Более 50 бегунов попали в больницу после марафона в Гонконге",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/696e27229a7947282b4f9069",
-    "publishedAt": "2026-01-19T15:37:54.000Z",
-    "createdAt": "2026-01-20T06:45:59.666Z",
-    "updatedAt": "2026-01-20T06:45:59.666Z"
+    "createdAt": "2026-01-20T07:34:11.405Z",
+    "updatedAt": "2026-01-20T07:34:11.405Z"
   }
 ]
