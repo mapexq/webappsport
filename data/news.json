@@ -1,5 +1,47 @@
 [
   {
+    "id": "b5922388ca99dc36",
+    "title": "Одноклубник Бобровского назвал «невероятной» драку вратарей в НХЛ",
+    "sport": "Хоккей",
+    "category": "Хоккей",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/3/21/347688941669213.jpeg",
+    "teaser": "Одноклубник Бобровского назвал «невероятной» драку вратарей в НХЛ",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/696f2c6a9a7947b4b6851b04",
+    "publishedAt": "2026-01-20T08:23:25.000Z",
+    "createdAt": "2026-01-20T08:40:10.649Z",
+    "updatedAt": "2026-01-20T08:40:10.649Z"
+  },
+  {
+    "id": "768fd83d0fbe6cf8",
+    "title": "Российские паралимпийцы получили возможность выступить на Играх-2026",
+    "sport": "Другое",
+    "category": "Другие",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/1/97/347688950672971.jpeg",
+    "teaser": "Российские паралимпийцы получили возможность выступить на Играх-2026",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/696f301a9a7947b03163bd3b",
+    "publishedAt": "2026-01-20T08:00:41.000Z",
+    "createdAt": "2026-01-20T08:40:11.703Z",
+    "updatedAt": "2026-01-20T08:40:11.703Z"
+  },
+  {
+    "id": "2a9c5b0d52d1c57e",
+    "title": "РУСАДА дисквалифицировало 17-летнюю горнолыжницу за мельдоний",
+    "sport": "Другое",
+    "category": "Другие",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/0/03/347688940523030.jpeg",
+    "teaser": "РУСАДА дисквалифицировало 17-летнюю горнолыжницу за мельдоний",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/696f2e1e9a79474d58e11f30",
+    "publishedAt": "2026-01-20T07:48:13.000Z",
+    "createdAt": "2026-01-20T08:40:12.786Z",
+    "updatedAt": "2026-01-20T08:40:12.786Z"
+  },
+  {
     "id": "a748faa4664ae854",
     "title": "Российский чемпион НХЛ попал в ДТП и пропустил матч с «Вашингтоном»",
     "sport": "Хоккей",
@@ -10,8 +52,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/696f29bd9a79479ac2cb7561",
     "publishedAt": "2026-01-20T07:23:14.000Z",
-    "createdAt": "2026-01-20T07:34:01.418Z",
-    "updatedAt": "2026-01-20T07:34:01.418Z"
+    "createdAt": "2026-01-20T08:40:14.190Z",
+    "updatedAt": "2026-01-20T08:40:14.190Z"
   },
   {
     "id": "c350bb6f4cdd2098",
@@ -24,8 +66,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/696f1ebf9a79470dabc46aae",
     "publishedAt": "2026-01-20T07:14:27.000Z",
-    "createdAt": "2026-01-20T07:34:02.414Z",
-    "updatedAt": "2026-01-20T07:34:02.414Z"
+    "createdAt": "2026-01-20T08:40:15.183Z",
+    "updatedAt": "2026-01-20T08:40:15.183Z"
   },
   {
     "id": "3d49c8be8f79a40a",
@@ -38,8 +80,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/696f116c9a794738a293c795",
     "publishedAt": "2026-01-20T06:02:10.000Z",
-    "createdAt": "2026-01-20T07:34:03.425Z",
-    "updatedAt": "2026-01-20T07:34:03.425Z"
+    "createdAt": "2026-01-20T08:40:16.276Z",
+    "updatedAt": "2026-01-20T08:40:16.276Z"
   },
   {
     "id": "83ec787878e2d0d4",
@@ -52,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/696dff299a79475d9601c13c",
     "publishedAt": "2026-01-19T21:00:25.000Z",
-    "createdAt": "2026-01-20T07:34:04.835Z",
-    "updatedAt": "2026-01-20T07:34:04.835Z"
+    "createdAt": "2026-01-20T08:40:17.542Z",
+    "updatedAt": "2026-01-20T08:40:17.542Z"
   },
   {
     "id": "0f7ac7f6346899a7",
@@ -66,22 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/696e77df9a794738630126ec",
     "publishedAt": "2026-01-19T19:17:55.000Z",
-    "createdAt": "2026-01-20T07:34:06.993Z",
-    "updatedAt": "2026-01-20T07:34:06.993Z"
-  },
-  {
-    "id": "c2fae037ec4591f3",
-    "title": "Чемпион КХЛ второй раз за неделю проиграл «Торпедо»",
-    "sport": "Хоккей",
-    "category": "Хоккей",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/5/38/347688478968385.png",
-    "teaser": "Чемпион КХЛ второй раз за неделю проиграл «Торпедо»",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/696e79cd9a79471e8608f704",
-    "publishedAt": "2026-01-19T18:45:55.000Z",
-    "createdAt": "2026-01-20T07:34:09.134Z",
-    "updatedAt": "2026-01-20T07:34:09.134Z"
+    "createdAt": "2026-01-20T08:40:19.819Z",
+    "updatedAt": "2026-01-20T08:40:19.819Z"
   },
   {
     "id": "df7d85722475541e",
@@ -94,8 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/696e71ac9a7947ed6149c09b",
     "publishedAt": "2026-01-19T18:29:56.000Z",
-    "createdAt": "2026-01-20T07:34:08.054Z",
-    "updatedAt": "2026-01-20T07:34:08.054Z"
+    "createdAt": "2026-01-20T08:40:20.913Z",
+    "updatedAt": "2026-01-20T08:40:20.913Z"
   },
   {
     "id": "3467602365756e72",
@@ -108,35 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/696e66679a7947781bebd4f4",
     "publishedAt": "2026-01-19T18:00:02.000Z",
-    "createdAt": "2026-01-20T07:34:05.903Z",
-    "updatedAt": "2026-01-20T07:34:05.903Z"
-  },
-  {
-    "id": "8d76e233ccb84184",
-    "title": "FIS допустила на международные старты еще трех российских спортсменов",
-    "sport": "Другое",
-    "category": "Другие",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/2/50/347688423767502.png",
-    "teaser": "FIS допустила на международные старты еще трех российских спортсменов",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/696e60409a7947d95db6705b",
-    "publishedAt": "2026-01-19T17:21:38.000Z",
-    "createdAt": "2026-01-20T07:34:10.249Z",
-    "updatedAt": "2026-01-20T07:34:10.249Z"
-  },
-  {
-    "id": "046c4a719249ec3d",
-    "title": "Не забивший пенальти Диас обвинил себя в проигрыше финала Кубка Африки",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/5/16/347688393767165.jpeg",
-    "teaser": "Не забивший пенальти Диас обвинил себя в проигрыше финала Кубка Африки",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/696e51529a7947e885fb59a7",
-    "publishedAt": "2026-01-19T16:35:41.000Z",
-    "createdAt": "2026-01-20T07:34:11.405Z",
-    "updatedAt": "2026-01-20T07:34:11.405Z"
+    "createdAt": "2026-01-20T08:40:18.642Z",
+    "updatedAt": "2026-01-20T08:40:18.642Z"
   }
 ]
