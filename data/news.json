@@ -1,5 +1,61 @@
 [
   {
+    "id": "d38f6de44c14e1bb",
+    "title": "Шнайдер отыграла три матчбола и вышла в третий круг Australian Open",
+    "sport": "Теннис",
+    "category": "Теннис",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/6/10/347689834920106.jpeg",
+    "teaser": "Шнайдер отыграла три матчбола и вышла в третий круг Australian Open",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/697088ab9a7947d699e35e29",
+    "publishedAt": "2026-01-21T08:37:27.000Z",
+    "createdAt": "2026-01-21T09:38:54.171Z",
+    "updatedAt": "2026-01-21T09:38:54.171Z"
+  },
+  {
+    "id": "3b0329e670e731e1",
+    "title": "Россияне набрали шесть очков в матче «Монреаль» — «Миннесота» в НХЛ",
+    "sport": "Хоккей",
+    "category": "Хоккей",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/0/76/347689806301760.jpeg",
+    "teaser": "Россияне набрали шесть очков в матче «Монреаль» — «Миннесота» в НХЛ",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6970801f9a7947919b7eb11c",
+    "publishedAt": "2026-01-21T08:17:13.000Z",
+    "createdAt": "2026-01-21T09:38:55.225Z",
+    "updatedAt": "2026-01-21T09:38:55.225Z"
+  },
+  {
+    "id": "9628ab1de3e57446",
+    "title": "Медведев впервые за два года вышел в третий раунд Australian Open",
+    "sport": "Теннис",
+    "category": "Теннис",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/2/33/347689785425332.jpeg",
+    "teaser": "Медведев впервые за два года вышел в третий раунд Australian Open",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/697078099a79474a5923b62e",
+    "publishedAt": "2026-01-21T07:14:58.000Z",
+    "createdAt": "2026-01-21T09:38:56.275Z",
+    "updatedAt": "2026-01-21T09:38:56.275Z"
+  },
+  {
+    "id": "c3af0316fc0ea133",
+    "title": "Кучеров вышел на третье место в гонке бомбардиров НХЛ",
+    "sport": "Хоккей",
+    "category": "Хоккей",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/3/74/347689772208743.jpeg",
+    "teaser": "Кучеров вышел на третье место в гонке бомбардиров НХЛ",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69706f769a79475db2ce3835",
+    "publishedAt": "2026-01-21T07:06:18.000Z",
+    "createdAt": "2026-01-21T09:38:58.432Z",
+    "updatedAt": "2026-01-21T09:38:58.432Z"
+  },
+  {
     "id": "2c59d547f8ca90b7",
     "title": "В России официально покажут Олимпийские игры-2026",
     "sport": "Другое",
@@ -10,8 +66,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/696f91ed9a794762c724109f",
     "publishedAt": "2026-01-21T05:04:06.000Z",
-    "createdAt": "2026-01-21T08:39:08.812Z",
-    "updatedAt": "2026-01-21T08:39:08.812Z"
+    "createdAt": "2026-01-21T09:38:57.382Z",
+    "updatedAt": "2026-01-21T09:38:57.382Z"
   },
   {
     "id": "3425b1deecc3107a",
@@ -24,8 +80,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/696fcef39a7947e56f2df94d",
     "publishedAt": "2026-01-20T18:57:34.000Z",
-    "createdAt": "2026-01-21T08:39:11.899Z",
-    "updatedAt": "2026-01-21T08:39:11.899Z"
+    "createdAt": "2026-01-21T09:39:01.663Z",
+    "updatedAt": "2026-01-21T09:39:01.663Z"
   },
   {
     "id": "4d52717ee516bd54",
@@ -38,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/696fbc8b9a7947b62a53f048",
     "publishedAt": "2026-01-20T18:45:56.000Z",
-    "createdAt": "2026-01-21T08:39:09.838Z",
-    "updatedAt": "2026-01-21T08:39:09.838Z"
+    "createdAt": "2026-01-21T09:38:59.486Z",
+    "updatedAt": "2026-01-21T09:38:59.486Z"
   },
   {
     "id": "e2ab25a631af347f",
@@ -52,8 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/696fc3ad9a7947c1bbe07bee",
     "publishedAt": "2026-01-20T18:24:13.000Z",
-    "createdAt": "2026-01-21T08:39:10.856Z",
-    "updatedAt": "2026-01-21T08:39:10.856Z"
+    "createdAt": "2026-01-21T09:39:00.586Z",
+    "updatedAt": "2026-01-21T09:39:00.586Z"
   },
   {
     "id": "33fee24a93674e95",
@@ -66,8 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/696fb4b69a794766caabcd75",
     "publishedAt": "2026-01-20T17:19:52.000Z",
-    "createdAt": "2026-01-21T08:39:13.016Z",
-    "updatedAt": "2026-01-21T08:39:13.016Z"
+    "createdAt": "2026-01-21T09:39:02.720Z",
+    "updatedAt": "2026-01-21T09:39:02.720Z"
   },
   {
     "id": "066998493d734864",
@@ -80,63 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/696fa0619a7947e62c942b44",
     "publishedAt": "2026-01-20T16:48:13.000Z",
-    "createdAt": "2026-01-21T08:39:13.969Z",
-    "updatedAt": "2026-01-21T08:39:13.969Z"
-  },
-  {
-    "id": "c3b90e76f1d6b568",
-    "title": "«Авангард» третий раз в сезоне КХЛ обыграл «Салават Юлаев»",
-    "sport": "Хоккей",
-    "category": "Хоккей",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/7/17/347689266810177.jpeg",
-    "teaser": "«Авангард» третий раз в сезоне КХЛ обыграл «Салават Юлаев»",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/696faa319a794711e8611632",
-    "publishedAt": "2026-01-20T16:46:52.000Z",
-    "createdAt": "2026-01-21T08:39:14.981Z",
-    "updatedAt": "2026-01-21T08:39:14.981Z"
-  },
-  {
-    "id": "81c150d4584a5696",
-    "title": "Глава ПКР назвал возможное число российских паралимпийцев на Играх-2026",
-    "sport": "Другое",
-    "category": "Другие",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/8/35/347689221487358.jpeg",
-    "teaser": "Глава ПКР назвал возможное число российских паралимпийцев на Играх-2026",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/696f95b69a79475d67c6dc9e",
-    "publishedAt": "2026-01-20T16:02:33.000Z",
-    "createdAt": "2026-01-21T08:39:16.017Z",
-    "updatedAt": "2026-01-21T08:39:16.017Z"
-  },
-  {
-    "id": "f4229842d4db747e",
-    "title": "Журналист Economist сообщил о разговорах о бойкоте ЧМ-2026 по футболу",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/9/81/347689221147819.jpeg",
-    "teaser": "Журналист Economist сообщил о разговорах о бойкоте ЧМ-2026 по футболу",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/696f9b7b9a7947efca3d69db",
-    "publishedAt": "2026-01-20T15:52:23.000Z",
-    "createdAt": "2026-01-21T08:39:17.061Z",
-    "updatedAt": "2026-01-21T08:39:17.061Z"
-  },
-  {
-    "id": "fcaa2006b9285ba9",
-    "title": "Умер ультрамарафонец и рекордсмен в трехсуточном беге Константин Горохов",
-    "sport": "Другое",
-    "category": "Другие",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/6/04/347689203546046.jpeg",
-    "teaser": "Умер ультрамарафонец и рекордсмен в трехсуточном беге Константин Горохов",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/696f92dd9a7947b1d8d988ed",
-    "publishedAt": "2026-01-20T15:36:29.000Z",
-    "createdAt": "2026-01-21T08:39:18.088Z",
-    "updatedAt": "2026-01-21T08:39:18.088Z"
+    "createdAt": "2026-01-21T09:39:03.793Z",
+    "updatedAt": "2026-01-21T09:39:03.793Z"
   }
 ]
