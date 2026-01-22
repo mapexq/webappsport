@@ -1,5 +1,75 @@
 [
   {
+    "id": "a6c0b77c85df1bd8",
+    "title": "«Зенит» разгромил чемпиона Китая в товарищеском матче",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/6/72/347691022263726.jpeg",
+    "teaser": "«Зенит» разгромил чемпиона Китая в товарищеском матче",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/697257d99a7947c15f4d7ca7",
+    "publishedAt": "2026-01-22T17:20:23.000Z",
+    "createdAt": "2026-01-22T17:34:53.746Z",
+    "updatedAt": "2026-01-22T17:34:53.746Z"
+  },
+  {
+    "id": "9f19f363d7dfabf1",
+    "title": "«Авангард» прервал четырехматчевую победную серию «Автомобилиста»",
+    "sport": "Хоккей",
+    "category": "Хоккей",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/2/83/347690993051832.jpeg",
+    "teaser": "«Авангард» прервал четырехматчевую победную серию «Автомобилиста»",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69724e229a7947764e82fbeb",
+    "publishedAt": "2026-01-22T17:01:55.000Z",
+    "createdAt": "2026-01-22T17:34:54.821Z",
+    "updatedAt": "2026-01-22T17:34:54.821Z"
+  },
+  {
+    "id": "23e74e3d8c206f21",
+    "title": "Фанатам «Брюгге» дали 5 суток ареста за костюмы в стиле «Бората» в Астане",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/8/75/347691001299758.jpeg",
+    "teaser": "Фанатам «Брюгге» дали 5 суток ареста за костюмы в стиле «Бората» в Астане",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/697248789a7947b9a1c64f47",
+    "publishedAt": "2026-01-22T16:53:25.000Z",
+    "createdAt": "2026-01-22T17:34:52.637Z",
+    "updatedAt": "2026-01-22T17:34:52.637Z"
+  },
+  {
+    "id": "f0935674ce69f6ad",
+    "title": "Тренер Гуменника исключила проблемы с визой для Олимпиады-2026",
+    "sport": "Другое",
+    "category": "Фигурное катание",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/8/84/347690981392848.jpeg",
+    "teaser": "Тренер Гуменника исключила проблемы с визой для Олимпиады-2026",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/697247189a794753f21af030",
+    "publishedAt": "2026-01-22T16:23:23.000Z",
+    "createdAt": "2026-01-22T17:34:55.933Z",
+    "updatedAt": "2026-01-22T17:34:55.933Z"
+  },
+  {
+    "id": "48004d28d9157b0a",
+    "title": "Лыжники Коростелев и Непряева приняли приглашение МОК на Олимпиаду",
+    "sport": "Другое",
+    "category": "Другие",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/9/25/347690964139259.png",
+    "teaser": "Лыжники Коростелев и Непряева приняли приглашение МОК на Олимпиаду",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6972427b9a79471ceabbb20c",
+    "publishedAt": "2026-01-22T15:50:16.000Z",
+    "createdAt": "2026-01-22T17:34:56.983Z",
+    "updatedAt": "2026-01-22T17:34:56.983Z"
+  },
+  {
     "id": "dd8dd8431a274d2b",
     "title": "«Реал» возглавил рейтинг клубов с самым высоким доходом",
     "sport": "Футбол",
@@ -10,8 +80,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6972336c9a79475748687fa7",
     "publishedAt": "2026-01-22T15:40:11.000Z",
-    "createdAt": "2026-01-22T16:41:45.312Z",
-    "updatedAt": "2026-01-22T16:41:45.312Z"
+    "createdAt": "2026-01-22T17:34:58.131Z",
+    "updatedAt": "2026-01-22T17:34:58.131Z"
   },
   {
     "id": "ddcfdae6195a62d6",
@@ -24,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69722d8b9a79471f04ca0e34",
     "publishedAt": "2026-01-22T15:19:59.000Z",
-    "createdAt": "2026-01-22T16:41:46.445Z",
-    "updatedAt": "2026-01-22T16:41:46.445Z"
+    "createdAt": "2026-01-22T17:34:59.250Z",
+    "updatedAt": "2026-01-22T17:34:59.250Z"
   },
   {
     "id": "21ba24b190477614",
@@ -38,22 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6972347c9a7947b380515bef",
     "publishedAt": "2026-01-22T15:07:14.000Z",
-    "createdAt": "2026-01-22T16:41:48.644Z",
-    "updatedAt": "2026-01-22T16:41:48.644Z"
-  },
-  {
-    "id": "6c25e0014959b256",
-    "title": "Смолов начнет обучение на тренерские лицензии УЕФА в марте",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/3/89/347690913724893.jpeg",
-    "teaser": "Смолов начнет обучение на тренерские лицензии УЕФА в марте",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69722e479a794717026bf2c4",
-    "publishedAt": "2026-01-22T14:31:43.000Z",
-    "createdAt": "2026-01-22T16:41:50.876Z",
-    "updatedAt": "2026-01-22T16:41:50.876Z"
+    "createdAt": "2026-01-22T17:35:01.524Z",
+    "updatedAt": "2026-01-22T17:35:01.524Z"
   },
   {
     "id": "454d45ab7ac762f9",
@@ -66,8 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6964cac89a79474dba28ea67",
     "publishedAt": "2026-01-22T14:18:47.000Z",
-    "createdAt": "2026-01-22T16:41:47.564Z",
-    "updatedAt": "2026-01-22T16:41:47.564Z"
+    "createdAt": "2026-01-22T17:35:00.434Z",
+    "updatedAt": "2026-01-22T17:35:00.434Z"
   },
   {
     "id": "f18d283f7ce9f38e",
@@ -80,63 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69721db99a7947b8695f5bf8",
     "publishedAt": "2026-01-22T13:44:16.000Z",
-    "createdAt": "2026-01-22T16:41:49.720Z",
-    "updatedAt": "2026-01-22T16:41:49.720Z"
-  },
-  {
-    "id": "203592cc29054f20",
-    "title": "«Барселона» потеряла Педри на месяц из-за травмы",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/6/37/347690868812376.jpeg",
-    "teaser": "«Барселона» потеряла Педри на месяц из-за травмы",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69721cc89a79474c0f1ef11b",
-    "publishedAt": "2026-01-22T13:30:26.000Z",
-    "createdAt": "2026-01-22T16:41:51.953Z",
-    "updatedAt": "2026-01-22T16:41:51.953Z"
-  },
-  {
-    "id": "406ce6bf2b5f3b34",
-    "title": "Футболист не поехал на сборы «Динамо» из-за проблем с документами",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/8/23/347690864827238.jpeg",
-    "teaser": "Футболист не поехал на сборы «Динамо» из-за проблем с документами",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69721d9c9a794794ab53d91f",
-    "publishedAt": "2026-01-22T13:04:40.000Z",
-    "createdAt": "2026-01-22T16:41:54.141Z",
-    "updatedAt": "2026-01-22T16:41:54.141Z"
-  },
-  {
-    "id": "2c35c1ca9870d82e",
-    "title": "Авербух считает, что у Гуменника есть шанс на медаль Олимпиады",
-    "sport": "Другое",
-    "category": "Фигурное катание",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/6/62/347690857415626.jpeg",
-    "teaser": "Авербух считает, что у Гуменника есть шанс на медаль Олимпиады",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6972191a9a79472731329ecf",
-    "publishedAt": "2026-01-22T12:48:24.000Z",
-    "createdAt": "2026-01-22T16:41:53.053Z",
-    "updatedAt": "2026-01-22T16:41:53.053Z"
-  },
-  {
-    "id": "cb78b18afecde89c",
-    "title": "IIHF рассмотрит допуск россиян на юниорские турниры в сезоне 2027/28",
-    "sport": "Хоккей",
-    "category": "Хоккей",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/1/12/347690840137121.png",
-    "teaser": "IIHF рассмотрит допуск россиян на юниорские турниры в сезоне 2027/28",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69720f7a9a79476b36d079fd",
-    "publishedAt": "2026-01-22T12:16:44.000Z",
-    "createdAt": "2026-01-22T16:41:55.248Z",
-    "updatedAt": "2026-01-22T16:41:55.248Z"
+    "createdAt": "2026-01-22T17:35:02.634Z",
+    "updatedAt": "2026-01-22T17:35:02.634Z"
   }
 ]
