@@ -1,5 +1,47 @@
 [
   {
+    "id": "cb78b18afecde89c",
+    "title": "IIHF рассмотрит допуск россиян на юниорские турниры в сезоне 2027/28",
+    "sport": "Хоккей",
+    "category": "Хоккей",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/1/12/347690840137121.png",
+    "teaser": "IIHF рассмотрит допуск россиян на юниорские турниры в сезоне 2027/28",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69720f7a9a79476b36d079fd",
+    "publishedAt": "2026-01-22T12:16:44.000Z",
+    "createdAt": "2026-01-22T13:02:59.549Z",
+    "updatedAt": "2026-01-22T13:02:59.549Z"
+  },
+  {
+    "id": "2dcb2b8413904a71",
+    "title": "Дегтярев объяснил, как можно заставить IIHF допустить юниоров через CAS",
+    "sport": "Хоккей",
+    "category": "Хоккей",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/2/50/347690814248502.png",
+    "teaser": "Дегтярев объяснил, как можно заставить IIHF допустить юниоров через CAS",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69720a209a79471b49381942",
+    "publishedAt": "2026-01-22T12:07:48.000Z",
+    "createdAt": "2026-01-22T13:03:01.590Z",
+    "updatedAt": "2026-01-22T13:03:01.590Z"
+  },
+  {
+    "id": "9afa00a26e9f8d38",
+    "title": "Вавринка побил рекорд Федерера на турнирах «Большого шлема»",
+    "sport": "Теннис",
+    "category": "Теннис",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/6/87/347690813856876.jpeg",
+    "teaser": "Вавринка побил рекорд Федерера на турнирах «Большого шлема»",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6972062d9a7947ec6f83125b",
+    "publishedAt": "2026-01-22T11:43:39.000Z",
+    "createdAt": "2026-01-22T13:03:00.543Z",
+    "updatedAt": "2026-01-22T13:03:00.543Z"
+  },
+  {
     "id": "d4b6440758893f75",
     "title": "Гендиректор «Шанхай Дрэгонс» оценил шансы клуба уехать из Петербурга",
     "sport": "Хоккей",
@@ -10,8 +52,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6971fe909a794718bd51ec12",
     "publishedAt": "2026-01-22T11:13:34.000Z",
-    "createdAt": "2026-01-22T11:28:20.329Z",
-    "updatedAt": "2026-01-22T11:28:20.329Z"
+    "createdAt": "2026-01-22T13:03:03.649Z",
+    "updatedAt": "2026-01-22T13:03:03.649Z"
   },
   {
     "id": "53a185347a4e1d65",
@@ -24,8 +66,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6971fd4b9a794703e7a636c1",
     "publishedAt": "2026-01-22T11:05:05.000Z",
-    "createdAt": "2026-01-22T11:28:19.328Z",
-    "updatedAt": "2026-01-22T11:28:19.328Z"
+    "createdAt": "2026-01-22T13:03:02.646Z",
+    "updatedAt": "2026-01-22T13:03:02.646Z"
   },
   {
     "id": "b6f17b62388d9504",
@@ -38,8 +80,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6971e8f59a7947e05f764324",
     "publishedAt": "2026-01-22T11:03:45.000Z",
-    "createdAt": "2026-01-22T11:28:22.475Z",
-    "updatedAt": "2026-01-22T11:28:22.475Z"
+    "createdAt": "2026-01-22T13:03:05.829Z",
+    "updatedAt": "2026-01-22T13:03:05.829Z"
   },
   {
     "id": "1f55f6ce8ceaadf8",
@@ -52,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6971f6a09a794743bdd12d8c",
     "publishedAt": "2026-01-22T10:24:54.000Z",
-    "createdAt": "2026-01-22T11:28:21.417Z",
-    "updatedAt": "2026-01-22T11:28:21.417Z"
+    "createdAt": "2026-01-22T13:03:04.689Z",
+    "updatedAt": "2026-01-22T13:03:04.689Z"
   },
   {
     "id": "d18b9633776fc859",
@@ -66,8 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6971e9839a7947a92571c1be",
     "publishedAt": "2026-01-22T09:41:36.000Z",
-    "createdAt": "2026-01-22T11:28:23.512Z",
-    "updatedAt": "2026-01-22T11:28:23.512Z"
+    "createdAt": "2026-01-22T13:03:06.817Z",
+    "updatedAt": "2026-01-22T13:03:06.817Z"
   },
   {
     "id": "342c96710e092d4a",
@@ -80,22 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6971d0b59a79474144487fb7",
     "publishedAt": "2026-01-22T08:14:19.000Z",
-    "createdAt": "2026-01-22T11:28:24.602Z",
-    "updatedAt": "2026-01-22T11:28:24.602Z"
-  },
-  {
-    "id": "b72419b684fcb8a4",
-    "title": "«Северсталь» вела 2:0 у аутсайдера КХЛ, но победила только в овертайме",
-    "sport": "Хоккей",
-    "category": "Хоккей",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/5/68/347690220833685.jpeg",
-    "teaser": "«Северсталь» вела 2:0 у аутсайдера КХЛ, но победила только в овертайме",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69711e2e9a794793e11ba200",
-    "publishedAt": "2026-01-21T19:22:58.000Z",
-    "createdAt": "2026-01-22T11:28:27.937Z",
-    "updatedAt": "2026-01-22T11:28:27.937Z"
+    "createdAt": "2026-01-22T13:03:07.931Z",
+    "updatedAt": "2026-01-22T13:03:07.931Z"
   },
   {
     "id": "cfefa5803249a770",
@@ -108,35 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6970ac4f9a79474e7ae7a0c1",
     "publishedAt": "2026-01-21T19:06:58.000Z",
-    "createdAt": "2026-01-22T11:28:25.717Z",
-    "updatedAt": "2026-01-22T11:28:25.718Z"
-  },
-  {
-    "id": "a88350559d56b582",
-    "title": "Сборной Сенегала дадут премии и участки на побережье за Кубок Африки",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/0/53/347690207632530.png",
-    "teaser": "Сборной Сенегала дадут премии и участки на побережье за Кубок Африки",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/697118829a79475c6ebd1046",
-    "publishedAt": "2026-01-21T18:48:36.000Z",
-    "createdAt": "2026-01-22T11:28:26.815Z",
-    "updatedAt": "2026-01-22T11:28:26.815Z"
-  },
-  {
-    "id": "f6b747d0b903df75",
-    "title": "Вице-чемпион по пляжному футболу погиб при столкновении поездов в Испании",
-    "sport": "Другое",
-    "category": "Другие",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/2/27/347690199704272.jpeg",
-    "teaser": "Вице-чемпион по пляжному футболу погиб при столкновении поездов в Испании",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6971118f9a7947c3d3adbdf7",
-    "publishedAt": "2026-01-21T18:45:43.000Z",
-    "createdAt": "2026-01-22T11:28:29.066Z",
-    "updatedAt": "2026-01-22T11:28:29.066Z"
+    "createdAt": "2026-01-22T13:03:08.928Z",
+    "updatedAt": "2026-01-22T13:03:08.928Z"
   }
 ]
