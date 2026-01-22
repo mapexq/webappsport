@@ -1,5 +1,61 @@
 [
   {
+    "id": "f18d283f7ce9f38e",
+    "title": "Гусев и Слуцкий помирились перед матчем «Динамо» и «Шанхай Шэньхуа»",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/5/90/347690881990905.jpeg",
+    "teaser": "Гусев и Слуцкий помирились перед матчем «Динамо» и «Шанхай Шэньхуа»",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69721db99a7947b8695f5bf8",
+    "publishedAt": "2026-01-22T13:44:16.000Z",
+    "createdAt": "2026-01-22T14:36:29.914Z",
+    "updatedAt": "2026-01-22T14:36:29.914Z"
+  },
+  {
+    "id": "203592cc29054f20",
+    "title": "«Барселона» потеряла Педри на месяц из-за травмы",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/6/37/347690868812376.jpeg",
+    "teaser": "«Барселона» потеряла Педри на месяц из-за травмы",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69721cc89a79474c0f1ef11b",
+    "publishedAt": "2026-01-22T13:30:26.000Z",
+    "createdAt": "2026-01-22T14:36:31.992Z",
+    "updatedAt": "2026-01-22T14:36:31.992Z"
+  },
+  {
+    "id": "406ce6bf2b5f3b34",
+    "title": "Футболист не поехал на сборы «Динамо» из-за проблем с документами",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/8/23/347690864827238.jpeg",
+    "teaser": "Футболист не поехал на сборы «Динамо» из-за проблем с документами",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69721d9c9a794794ab53d91f",
+    "publishedAt": "2026-01-22T13:04:40.000Z",
+    "createdAt": "2026-01-22T14:36:33.046Z",
+    "updatedAt": "2026-01-22T14:36:33.046Z"
+  },
+  {
+    "id": "2c35c1ca9870d82e",
+    "title": "Авербух считает, что у Гуменника есть шанс на медаль Олимпиады",
+    "sport": "Другое",
+    "category": "Фигурное катание",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/6/62/347690857415626.jpeg",
+    "teaser": "Авербух считает, что у Гуменника есть шанс на медаль Олимпиады",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6972191a9a79472731329ecf",
+    "publishedAt": "2026-01-22T12:48:24.000Z",
+    "createdAt": "2026-01-22T14:36:30.918Z",
+    "updatedAt": "2026-01-22T14:36:30.918Z"
+  },
+  {
     "id": "cb78b18afecde89c",
     "title": "IIHF рассмотрит допуск россиян на юниорские турниры в сезоне 2027/28",
     "sport": "Хоккей",
@@ -10,8 +66,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69720f7a9a79476b36d079fd",
     "publishedAt": "2026-01-22T12:16:44.000Z",
-    "createdAt": "2026-01-22T13:02:59.549Z",
-    "updatedAt": "2026-01-22T13:02:59.549Z"
+    "createdAt": "2026-01-22T14:36:34.043Z",
+    "updatedAt": "2026-01-22T14:36:34.043Z"
   },
   {
     "id": "2dcb2b8413904a71",
@@ -24,8 +80,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69720a209a79471b49381942",
     "publishedAt": "2026-01-22T12:07:48.000Z",
-    "createdAt": "2026-01-22T13:03:01.590Z",
-    "updatedAt": "2026-01-22T13:03:01.590Z"
+    "createdAt": "2026-01-22T14:36:36.242Z",
+    "updatedAt": "2026-01-22T14:36:36.242Z"
   },
   {
     "id": "9afa00a26e9f8d38",
@@ -38,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6972062d9a7947ec6f83125b",
     "publishedAt": "2026-01-22T11:43:39.000Z",
-    "createdAt": "2026-01-22T13:03:00.543Z",
-    "updatedAt": "2026-01-22T13:03:00.543Z"
+    "createdAt": "2026-01-22T14:36:35.040Z",
+    "updatedAt": "2026-01-22T14:36:35.040Z"
   },
   {
     "id": "d4b6440758893f75",
@@ -52,8 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6971fe909a794718bd51ec12",
     "publishedAt": "2026-01-22T11:13:34.000Z",
-    "createdAt": "2026-01-22T13:03:03.649Z",
-    "updatedAt": "2026-01-22T13:03:03.649Z"
+    "createdAt": "2026-01-22T14:36:38.587Z",
+    "updatedAt": "2026-01-22T14:36:38.587Z"
   },
   {
     "id": "53a185347a4e1d65",
@@ -66,22 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6971fd4b9a794703e7a636c1",
     "publishedAt": "2026-01-22T11:05:05.000Z",
-    "createdAt": "2026-01-22T13:03:02.646Z",
-    "updatedAt": "2026-01-22T13:03:02.646Z"
-  },
-  {
-    "id": "b6f17b62388d9504",
-    "title": "КХЛ назвала капитанов команд на Матче звезд",
-    "sport": "Хоккей",
-    "category": "Хоккей",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/1/45/347690741107451.jpeg",
-    "teaser": "КХЛ назвала капитанов команд на Матче звезд",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6971e8f59a7947e05f764324",
-    "publishedAt": "2026-01-22T11:03:45.000Z",
-    "createdAt": "2026-01-22T13:03:05.829Z",
-    "updatedAt": "2026-01-22T13:03:05.829Z"
+    "createdAt": "2026-01-22T14:36:37.475Z",
+    "updatedAt": "2026-01-22T14:36:37.475Z"
   },
   {
     "id": "1f55f6ce8ceaadf8",
@@ -94,49 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6971f6a09a794743bdd12d8c",
     "publishedAt": "2026-01-22T10:24:54.000Z",
-    "createdAt": "2026-01-22T13:03:04.689Z",
-    "updatedAt": "2026-01-22T13:03:04.689Z"
-  },
-  {
-    "id": "d18b9633776fc859",
-    "title": "Федерация хоккея России оспорит в CAS недопуск юниорских сборных",
-    "sport": "Хоккей",
-    "category": "Хоккей",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/2/84/347690731937842.png",
-    "teaser": "Федерация хоккея России оспорит в CAS недопуск юниорских сборных",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6971e9839a7947a92571c1be",
-    "publishedAt": "2026-01-22T09:41:36.000Z",
-    "createdAt": "2026-01-22T13:03:06.817Z",
-    "updatedAt": "2026-01-22T13:03:06.817Z"
-  },
-  {
-    "id": "342c96710e092d4a",
-    "title": "Президент Азербайджана обвинил УЕФА в предвзятости после матча «Карабаха»",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/0/32/347690675164320.jpeg",
-    "teaser": "Президент Азербайджана обвинил УЕФА в предвзятости после матча «Карабаха»",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6971d0b59a79474144487fb7",
-    "publishedAt": "2026-01-22T08:14:19.000Z",
-    "createdAt": "2026-01-22T13:03:07.931Z",
-    "updatedAt": "2026-01-22T13:03:07.931Z"
-  },
-  {
-    "id": "cfefa5803249a770",
-    "title": "The Athletic: IIHF не стала смягчать санкции к сборным России по хоккею",
-    "sport": "Хоккей",
-    "category": "Хоккей",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/3/45/347689918984453.png",
-    "teaser": "The Athletic: IIHF не стала смягчать санкции к сборным России по хоккею",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6970ac4f9a79474e7ae7a0c1",
-    "publishedAt": "2026-01-21T19:06:58.000Z",
-    "createdAt": "2026-01-22T13:03:08.928Z",
-    "updatedAt": "2026-01-22T13:03:08.928Z"
+    "createdAt": "2026-01-22T14:36:39.636Z",
+    "updatedAt": "2026-01-22T14:36:39.636Z"
   }
 ]
