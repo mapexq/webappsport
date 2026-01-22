@@ -1,5 +1,47 @@
 [
   {
+    "id": "d4b6440758893f75",
+    "title": "Гендиректор «Шанхай Дрэгонс» оценил шансы клуба уехать из Петербурга",
+    "sport": "Хоккей",
+    "category": "Хоккей",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/3/83/347690791609833.jpeg",
+    "teaser": "Гендиректор «Шанхай Дрэгонс» оценил шансы клуба уехать из Петербурга",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6971fe909a794718bd51ec12",
+    "publishedAt": "2026-01-22T11:13:34.000Z",
+    "createdAt": "2026-01-22T11:28:20.329Z",
+    "updatedAt": "2026-01-22T11:28:20.329Z"
+  },
+  {
+    "id": "53a185347a4e1d65",
+    "title": "Гуменник прыгнул пять четверных на турнире перед поездкой на Олимпиаду",
+    "sport": "Другое",
+    "category": "Фигурное катание",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/4/73/347690785627734.png",
+    "teaser": "Гуменник прыгнул пять четверных на турнире перед поездкой на Олимпиаду",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6971fd4b9a794703e7a636c1",
+    "publishedAt": "2026-01-22T11:05:05.000Z",
+    "createdAt": "2026-01-22T11:28:19.328Z",
+    "updatedAt": "2026-01-22T11:28:19.328Z"
+  },
+  {
+    "id": "b6f17b62388d9504",
+    "title": "КХЛ назвала капитанов команд на Матче звезд",
+    "sport": "Хоккей",
+    "category": "Хоккей",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/1/45/347690741107451.jpeg",
+    "teaser": "КХЛ назвала капитанов команд на Матче звезд",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6971e8f59a7947e05f764324",
+    "publishedAt": "2026-01-22T11:03:45.000Z",
+    "createdAt": "2026-01-22T11:28:22.475Z",
+    "updatedAt": "2026-01-22T11:28:22.475Z"
+  },
+  {
     "id": "1f55f6ce8ceaadf8",
     "title": "Стали известны фигуристы, которых РУСАДА чаще всего проверяло в 2025 году",
     "sport": "Другое",
@@ -10,8 +52,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6971f6a09a794743bdd12d8c",
     "publishedAt": "2026-01-22T10:24:54.000Z",
-    "createdAt": "2026-01-22T10:34:55.328Z",
-    "updatedAt": "2026-01-22T10:34:55.328Z"
+    "createdAt": "2026-01-22T11:28:21.417Z",
+    "updatedAt": "2026-01-22T11:28:21.417Z"
   },
   {
     "id": "d18b9633776fc859",
@@ -24,8 +66,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6971e9839a7947a92571c1be",
     "publishedAt": "2026-01-22T09:41:36.000Z",
-    "createdAt": "2026-01-22T10:34:56.268Z",
-    "updatedAt": "2026-01-22T10:34:56.268Z"
+    "createdAt": "2026-01-22T11:28:23.512Z",
+    "updatedAt": "2026-01-22T11:28:23.512Z"
   },
   {
     "id": "342c96710e092d4a",
@@ -38,8 +80,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6971d0b59a79474144487fb7",
     "publishedAt": "2026-01-22T08:14:19.000Z",
-    "createdAt": "2026-01-22T10:34:57.344Z",
-    "updatedAt": "2026-01-22T10:34:57.344Z"
+    "createdAt": "2026-01-22T11:28:24.602Z",
+    "updatedAt": "2026-01-22T11:28:24.602Z"
   },
   {
     "id": "b72419b684fcb8a4",
@@ -52,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69711e2e9a794793e11ba200",
     "publishedAt": "2026-01-21T19:22:58.000Z",
-    "createdAt": "2026-01-22T10:35:00.388Z",
-    "updatedAt": "2026-01-22T10:35:00.388Z"
+    "createdAt": "2026-01-22T11:28:27.937Z",
+    "updatedAt": "2026-01-22T11:28:27.937Z"
   },
   {
     "id": "cfefa5803249a770",
@@ -66,8 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6970ac4f9a79474e7ae7a0c1",
     "publishedAt": "2026-01-21T19:06:58.000Z",
-    "createdAt": "2026-01-22T10:34:58.359Z",
-    "updatedAt": "2026-01-22T10:34:58.359Z"
+    "createdAt": "2026-01-22T11:28:25.717Z",
+    "updatedAt": "2026-01-22T11:28:25.718Z"
   },
   {
     "id": "a88350559d56b582",
@@ -80,8 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/697118829a79475c6ebd1046",
     "publishedAt": "2026-01-21T18:48:36.000Z",
-    "createdAt": "2026-01-22T10:34:59.383Z",
-    "updatedAt": "2026-01-22T10:34:59.383Z"
+    "createdAt": "2026-01-22T11:28:26.815Z",
+    "updatedAt": "2026-01-22T11:28:26.815Z"
   },
   {
     "id": "f6b747d0b903df75",
@@ -94,49 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6971118f9a7947c3d3adbdf7",
     "publishedAt": "2026-01-21T18:45:43.000Z",
-    "createdAt": "2026-01-22T10:35:01.395Z",
-    "updatedAt": "2026-01-22T10:35:01.395Z"
-  },
-  {
-    "id": "5dead0a9d209aa06",
-    "title": "Умер бывший футболист «Барселоны» и «Реала» Люсьен Мюллер",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/8/27/347690169842278.jpeg",
-    "teaser": "Умер бывший футболист «Барселоны» и «Реала» Люсьен Мюллер",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/697108f79a7947387895c08b",
-    "publishedAt": "2026-01-21T18:22:56.000Z",
-    "createdAt": "2026-01-22T10:35:04.496Z",
-    "updatedAt": "2026-01-22T10:35:04.496Z"
-  },
-  {
-    "id": "ec6bec3882bb81f7",
-    "title": "Российский чемпион НХЛ вернулся в состав «Колорадо» после автоаварии",
-    "sport": "Хоккей",
-    "category": "Хоккей",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/3/41/347690123768413.jpeg",
-    "teaser": "Российский чемпион НХЛ вернулся в состав «Колорадо» после автоаварии",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6970f8759a79479aed0c00bd",
-    "publishedAt": "2026-01-21T18:12:51.000Z",
-    "createdAt": "2026-01-22T10:35:03.430Z",
-    "updatedAt": "2026-01-22T10:35:03.430Z"
-  },
-  {
-    "id": "66259c6526f64489",
-    "title": "Глава IIHF заявил о желании МОК полноценно вернуть Россию к Играм-2028",
-    "sport": "Другое",
-    "category": "Другие",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/4/89/347690185862894.png",
-    "teaser": "Глава IIHF заявил о желании МОК полноценно вернуть Россию к Играм-2028",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69710c279a79478592548fad",
-    "publishedAt": "2026-01-21T18:11:36.000Z",
-    "createdAt": "2026-01-22T10:35:02.425Z",
-    "updatedAt": "2026-01-22T10:35:02.425Z"
+    "createdAt": "2026-01-22T11:28:29.066Z",
+    "updatedAt": "2026-01-22T11:28:29.066Z"
   }
 ]
