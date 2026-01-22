@@ -1,5 +1,47 @@
 [
   {
+    "id": "9ceae3b7f8cca347",
+    "title": "Каземиро летом покинет «Манчестер Юнайтед»",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/4/53/347691059685534.jpeg",
+    "teaser": "Каземиро летом покинет «Манчестер Юнайтед»",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/697263de9a7947a4e8f486b3",
+    "publishedAt": "2026-01-22T18:29:59.000Z",
+    "createdAt": "2026-01-22T18:41:35.994Z",
+    "updatedAt": "2026-01-22T18:41:35.994Z"
+  },
+  {
+    "id": "9e772370e7051f2a",
+    "title": "Тренер лидера КХЛ оценил проигрыш фразой «опустили носом в дерьмо»",
+    "sport": "Хоккей",
+    "category": "Хоккей",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/7/86/347691053481867.png",
+    "teaser": "Тренер лидера КХЛ оценил проигрыш фразой «опустили носом в дерьмо»",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/697262de9a79471e7acd42a4",
+    "publishedAt": "2026-01-22T18:17:11.000Z",
+    "createdAt": "2026-01-22T18:41:34.940Z",
+    "updatedAt": "2026-01-22T18:41:34.940Z"
+  },
+  {
+    "id": "7078c3ae5a01b2d8",
+    "title": "ФХР назвала неактуальными доводы IIHF в пользу отстранения хоккеистов",
+    "sport": "Хоккей",
+    "category": "Хоккей",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/6/13/347691026153136.png",
+    "teaser": "ФХР назвала неактуальными доводы IIHF в пользу отстранения хоккеистов",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69725a079a7947ad881542de",
+    "publishedAt": "2026-01-22T17:37:52.000Z",
+    "createdAt": "2026-01-22T18:41:38.243Z",
+    "updatedAt": "2026-01-22T18:41:38.243Z"
+  },
+  {
     "id": "a6c0b77c85df1bd8",
     "title": "«Зенит» разгромил чемпиона Китая в товарищеском матче",
     "sport": "Футбол",
@@ -10,8 +52,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/697257d99a7947c15f4d7ca7",
     "publishedAt": "2026-01-22T17:20:23.000Z",
-    "createdAt": "2026-01-22T17:34:53.746Z",
-    "updatedAt": "2026-01-22T17:34:53.746Z"
+    "createdAt": "2026-01-22T18:41:39.362Z",
+    "updatedAt": "2026-01-22T18:41:39.362Z"
   },
   {
     "id": "9f19f363d7dfabf1",
@@ -24,8 +66,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69724e229a7947764e82fbeb",
     "publishedAt": "2026-01-22T17:01:55.000Z",
-    "createdAt": "2026-01-22T17:34:54.821Z",
-    "updatedAt": "2026-01-22T17:34:54.821Z"
+    "createdAt": "2026-01-22T18:41:40.479Z",
+    "updatedAt": "2026-01-22T18:41:40.479Z"
   },
   {
     "id": "23e74e3d8c206f21",
@@ -38,8 +80,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/697248789a7947b9a1c64f47",
     "publishedAt": "2026-01-22T16:53:25.000Z",
-    "createdAt": "2026-01-22T17:34:52.637Z",
-    "updatedAt": "2026-01-22T17:34:52.637Z"
+    "createdAt": "2026-01-22T18:41:37.118Z",
+    "updatedAt": "2026-01-22T18:41:37.118Z"
   },
   {
     "id": "f0935674ce69f6ad",
@@ -52,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/697247189a794753f21af030",
     "publishedAt": "2026-01-22T16:23:23.000Z",
-    "createdAt": "2026-01-22T17:34:55.933Z",
-    "updatedAt": "2026-01-22T17:34:55.933Z"
+    "createdAt": "2026-01-22T18:41:41.554Z",
+    "updatedAt": "2026-01-22T18:41:41.554Z"
   },
   {
     "id": "48004d28d9157b0a",
@@ -66,8 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6972427b9a79471ceabbb20c",
     "publishedAt": "2026-01-22T15:50:16.000Z",
-    "createdAt": "2026-01-22T17:34:56.983Z",
-    "updatedAt": "2026-01-22T17:34:56.983Z"
+    "createdAt": "2026-01-22T18:41:42.694Z",
+    "updatedAt": "2026-01-22T18:41:42.694Z"
   },
   {
     "id": "dd8dd8431a274d2b",
@@ -80,8 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6972336c9a79475748687fa7",
     "publishedAt": "2026-01-22T15:40:11.000Z",
-    "createdAt": "2026-01-22T17:34:58.131Z",
-    "updatedAt": "2026-01-22T17:34:58.131Z"
+    "createdAt": "2026-01-22T18:41:43.818Z",
+    "updatedAt": "2026-01-22T18:41:43.818Z"
   },
   {
     "id": "ddcfdae6195a62d6",
@@ -94,49 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69722d8b9a79471f04ca0e34",
     "publishedAt": "2026-01-22T15:19:59.000Z",
-    "createdAt": "2026-01-22T17:34:59.250Z",
-    "updatedAt": "2026-01-22T17:34:59.250Z"
-  },
-  {
-    "id": "21ba24b190477614",
-    "title": "Рекордсмен сборной Боснии перешел в немецкий «Шальке» до конца сезона",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/3/21/347690933764213.jpeg",
-    "teaser": "Рекордсмен сборной Боснии перешел в немецкий «Шальке» до конца сезона",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6972347c9a7947b380515bef",
-    "publishedAt": "2026-01-22T15:07:14.000Z",
-    "createdAt": "2026-01-22T17:35:01.524Z",
-    "updatedAt": "2026-01-22T17:35:01.524Z"
-  },
-  {
-    "id": "454d45ab7ac762f9",
-    "title": "Игрок или контрабандист. Чем известен герой Шаламе в «Марти Великолепный»",
-    "sport": "Другое",
-    "category": "Другие",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/6/91/347682253327916.jpeg",
-    "teaser": "Игрок или контрабандист. Чем известен герой Шаламе в «Марти Великолепный»",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6964cac89a79474dba28ea67",
-    "publishedAt": "2026-01-22T14:18:47.000Z",
-    "createdAt": "2026-01-22T17:35:00.434Z",
-    "updatedAt": "2026-01-22T17:35:00.434Z"
-  },
-  {
-    "id": "f18d283f7ce9f38e",
-    "title": "Гусев и Слуцкий помирились перед матчем «Динамо» и «Шанхай Шэньхуа»",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/5/90/347690881990905.jpeg",
-    "teaser": "Гусев и Слуцкий помирились перед матчем «Динамо» и «Шанхай Шэньхуа»",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69721db99a7947b8695f5bf8",
-    "publishedAt": "2026-01-22T13:44:16.000Z",
-    "createdAt": "2026-01-22T17:35:02.634Z",
-    "updatedAt": "2026-01-22T17:35:02.634Z"
+    "createdAt": "2026-01-22T18:41:44.945Z",
+    "updatedAt": "2026-01-22T18:41:44.945Z"
   }
 ]
