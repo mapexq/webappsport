@@ -1,5 +1,19 @@
 [
   {
+    "id": "dd8dd8431a274d2b",
+    "title": "«Реал» возглавил рейтинг клубов с самым высоким доходом",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/5/16/347690945180165.jpeg",
+    "teaser": "«Реал» возглавил рейтинг клубов с самым высоким доходом",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6972336c9a79475748687fa7",
+    "publishedAt": "2026-01-22T15:40:11.000Z",
+    "createdAt": "2026-01-22T16:41:45.312Z",
+    "updatedAt": "2026-01-22T16:41:45.312Z"
+  },
+  {
     "id": "ddcfdae6195a62d6",
     "title": "Гол Дзюбы не спас «Акрон» от проигрыша ЦСКА",
     "sport": "Футбол",
@@ -10,8 +24,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69722d8b9a79471f04ca0e34",
     "publishedAt": "2026-01-22T15:19:59.000Z",
-    "createdAt": "2026-01-22T15:37:22.803Z",
-    "updatedAt": "2026-01-22T15:37:22.803Z"
+    "createdAt": "2026-01-22T16:41:46.445Z",
+    "updatedAt": "2026-01-22T16:41:46.445Z"
   },
   {
     "id": "21ba24b190477614",
@@ -24,8 +38,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6972347c9a7947b380515bef",
     "publishedAt": "2026-01-22T15:07:14.000Z",
-    "createdAt": "2026-01-22T15:37:24.918Z",
-    "updatedAt": "2026-01-22T15:37:24.918Z"
+    "createdAt": "2026-01-22T16:41:48.644Z",
+    "updatedAt": "2026-01-22T16:41:48.644Z"
   },
   {
     "id": "6c25e0014959b256",
@@ -38,8 +52,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69722e479a794717026bf2c4",
     "publishedAt": "2026-01-22T14:31:43.000Z",
-    "createdAt": "2026-01-22T15:37:27.923Z",
-    "updatedAt": "2026-01-22T15:37:27.923Z"
+    "createdAt": "2026-01-22T16:41:50.876Z",
+    "updatedAt": "2026-01-22T16:41:50.876Z"
   },
   {
     "id": "454d45ab7ac762f9",
@@ -52,8 +66,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6964cac89a79474dba28ea67",
     "publishedAt": "2026-01-22T14:18:47.000Z",
-    "createdAt": "2026-01-22T15:37:23.871Z",
-    "updatedAt": "2026-01-22T15:37:23.871Z"
+    "createdAt": "2026-01-22T16:41:47.564Z",
+    "updatedAt": "2026-01-22T16:41:47.564Z"
   },
   {
     "id": "f18d283f7ce9f38e",
@@ -66,8 +80,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69721db99a7947b8695f5bf8",
     "publishedAt": "2026-01-22T13:44:16.000Z",
-    "createdAt": "2026-01-22T15:37:26.575Z",
-    "updatedAt": "2026-01-22T15:37:26.575Z"
+    "createdAt": "2026-01-22T16:41:49.720Z",
+    "updatedAt": "2026-01-22T16:41:49.720Z"
   },
   {
     "id": "203592cc29054f20",
@@ -80,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69721cc89a79474c0f1ef11b",
     "publishedAt": "2026-01-22T13:30:26.000Z",
-    "createdAt": "2026-01-22T15:37:28.968Z",
-    "updatedAt": "2026-01-22T15:37:28.968Z"
+    "createdAt": "2026-01-22T16:41:51.953Z",
+    "updatedAt": "2026-01-22T16:41:51.953Z"
   },
   {
     "id": "406ce6bf2b5f3b34",
@@ -94,8 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69721d9c9a794794ab53d91f",
     "publishedAt": "2026-01-22T13:04:40.000Z",
-    "createdAt": "2026-01-22T15:37:31.264Z",
-    "updatedAt": "2026-01-22T15:37:31.264Z"
+    "createdAt": "2026-01-22T16:41:54.141Z",
+    "updatedAt": "2026-01-22T16:41:54.141Z"
   },
   {
     "id": "2c35c1ca9870d82e",
@@ -108,8 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6972191a9a79472731329ecf",
     "publishedAt": "2026-01-22T12:48:24.000Z",
-    "createdAt": "2026-01-22T15:37:29.969Z",
-    "updatedAt": "2026-01-22T15:37:29.969Z"
+    "createdAt": "2026-01-22T16:41:53.053Z",
+    "updatedAt": "2026-01-22T16:41:53.053Z"
   },
   {
     "id": "cb78b18afecde89c",
@@ -122,21 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69720f7a9a79476b36d079fd",
     "publishedAt": "2026-01-22T12:16:44.000Z",
-    "createdAt": "2026-01-22T15:37:32.567Z",
-    "updatedAt": "2026-01-22T15:37:32.567Z"
-  },
-  {
-    "id": "9afa00a26e9f8d38",
-    "title": "Вавринка побил рекорд Федерера на турнирах «Большого шлема»",
-    "sport": "Теннис",
-    "category": "Теннис",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/6/87/347690813856876.jpeg",
-    "teaser": "Вавринка побил рекорд Федерера на турнирах «Большого шлема»",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6972062d9a7947ec6f83125b",
-    "publishedAt": "2026-01-22T11:43:39.000Z",
-    "createdAt": "2026-01-22T15:37:34.166Z",
-    "updatedAt": "2026-01-22T15:37:34.166Z"
+    "createdAt": "2026-01-22T16:41:55.248Z",
+    "updatedAt": "2026-01-22T16:41:55.248Z"
   }
 ]
