@@ -1,5 +1,75 @@
 [
   {
+    "id": "915a5bf16ed8bec2",
+    "title": "Рублев проиграл в третьем круге Australian Open",
+    "sport": "Теннис",
+    "category": "Теннис",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/7/92/347691584961927.jpeg",
+    "teaser": "Рублев проиграл в третьем круге Australian Open",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/697337419a794760bcf79230",
+    "publishedAt": "2026-01-23T09:21:23.000Z",
+    "createdAt": "2026-01-23T09:36:11.561Z",
+    "updatedAt": "2026-01-23T09:36:11.561Z"
+  },
+  {
+    "id": "c7a088717ec4b8be",
+    "title": "Капризов принес «Миннесоте» победу в овертайме и побил клубный рекорд",
+    "sport": "Хоккей",
+    "category": "Хоккей",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/0/28/347691574125280.jpeg",
+    "teaser": "Капризов принес «Миннесоте» победу в овертайме и побил клубный рекорд",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/697330929a794785d43a4c96",
+    "publishedAt": "2026-01-23T09:07:44.000Z",
+    "createdAt": "2026-01-23T09:36:15.779Z",
+    "updatedAt": "2026-01-23T09:36:15.779Z"
+  },
+  {
+    "id": "f058e12b89cfed37",
+    "title": "Дегтярев назвал решенным вопрос по лимиту легионеров с 2028 года",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/5/48/347691587745485.jpeg",
+    "teaser": "Дегтярев назвал решенным вопрос по лимиту легионеров с 2028 года",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6973360d9a7947f5c81547d2",
+    "publishedAt": "2026-01-23T09:06:38.000Z",
+    "createdAt": "2026-01-23T09:36:13.728Z",
+    "updatedAt": "2026-01-23T09:36:13.728Z"
+  },
+  {
+    "id": "8f875d84ba16644c",
+    "title": "Дегтярев назвал максимальное число участников Олимпиады-2026 от России",
+    "sport": "Другое",
+    "category": "Другие",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/6/10/347691575155106.jpeg",
+    "teaser": "Дегтярев назвал максимальное число участников Олимпиады-2026 от России",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/697333309a794753d18f8224",
+    "publishedAt": "2026-01-23T08:55:49.000Z",
+    "createdAt": "2026-01-23T09:36:12.621Z",
+    "updatedAt": "2026-01-23T09:36:12.621Z"
+  },
+  {
+    "id": "1373890e3d78405c",
+    "title": "Россиян допустили на юниорские турниры по тяжелой атлетике с флагом",
+    "sport": "Другое",
+    "category": "Другие",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/4/82/347691569769824.jpeg",
+    "teaser": "Россиян допустили на юниорские турниры по тяжелой атлетике с флагом",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/697331469a794747b3049fef",
+    "publishedAt": "2026-01-23T08:36:38.000Z",
+    "createdAt": "2026-01-23T09:36:16.914Z",
+    "updatedAt": "2026-01-23T09:36:16.914Z"
+  },
+  {
     "id": "108942d5a45f0be9",
     "title": "Экс-тренера «Зенита» госпитализировали в Румынии из-за проблем с сердцем",
     "sport": "Футбол",
@@ -10,8 +80,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6973281b9a794763d1f371c1",
     "publishedAt": "2026-01-23T08:29:30.000Z",
-    "createdAt": "2026-01-23T08:37:48.037Z",
-    "updatedAt": "2026-01-23T08:37:48.037Z"
+    "createdAt": "2026-01-23T09:36:14.808Z",
+    "updatedAt": "2026-01-23T09:36:14.808Z"
   },
   {
     "id": "4933d6f940e74380",
@@ -24,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6973225e9a79471ba488c3af",
     "publishedAt": "2026-01-23T07:38:00.000Z",
-    "createdAt": "2026-01-23T08:37:49.069Z",
-    "updatedAt": "2026-01-23T08:37:49.069Z"
+    "createdAt": "2026-01-23T09:36:17.945Z",
+    "updatedAt": "2026-01-23T09:36:17.945Z"
   },
   {
     "id": "0cf54648885218fe",
@@ -38,8 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/697320289a794782fa10a98a",
     "publishedAt": "2026-01-23T07:26:24.000Z",
-    "createdAt": "2026-01-23T08:37:52.166Z",
-    "updatedAt": "2026-01-23T08:37:52.166Z"
+    "createdAt": "2026-01-23T09:36:21.042Z",
+    "updatedAt": "2026-01-23T09:36:21.042Z"
   },
   {
     "id": "747823c272557201",
@@ -52,8 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69731e539a79471517508eb4",
     "publishedAt": "2026-01-23T07:25:13.000Z",
-    "createdAt": "2026-01-23T08:37:51.090Z",
-    "updatedAt": "2026-01-23T08:37:51.090Z"
+    "createdAt": "2026-01-23T09:36:20.019Z",
+    "updatedAt": "2026-01-23T09:36:20.019Z"
   },
   {
     "id": "89a2866d4a32b9e2",
@@ -66,77 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69731daf9a7947e7c432f396",
     "publishedAt": "2026-01-23T07:16:42.000Z",
-    "createdAt": "2026-01-23T08:37:50.032Z",
-    "updatedAt": "2026-01-23T08:37:50.032Z"
-  },
-  {
-    "id": "4762e1a3c5549b94",
-    "title": "СКА вел 1:0 почти весь матч, но в концовке проиграл «Спартаку»",
-    "sport": "Хоккей",
-    "category": "Хоккей",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/6/00/347691075431006.jpeg",
-    "teaser": "СКА вел 1:0 почти весь матч, но в концовке проиграл «Спартаку»",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69726d119a7947590eb46228",
-    "publishedAt": "2026-01-22T18:59:13.000Z",
-    "createdAt": "2026-01-23T08:37:54.204Z",
-    "updatedAt": "2026-01-23T08:37:54.204Z"
-  },
-  {
-    "id": "9ceae3b7f8cca347",
-    "title": "Каземиро летом покинет «Манчестер Юнайтед»",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/4/53/347691059685534.jpeg",
-    "teaser": "Каземиро летом покинет «Манчестер Юнайтед»",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/697263de9a7947a4e8f486b3",
-    "publishedAt": "2026-01-22T18:29:59.000Z",
-    "createdAt": "2026-01-23T08:37:55.307Z",
-    "updatedAt": "2026-01-23T08:37:55.307Z"
-  },
-  {
-    "id": "9e772370e7051f2a",
-    "title": "Тренер лидера КХЛ оценил проигрыш фразой «опустили носом в дерьмо»",
-    "sport": "Хоккей",
-    "category": "Хоккей",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/7/86/347691053481867.png",
-    "teaser": "Тренер лидера КХЛ оценил проигрыш фразой «опустили носом в дерьмо»",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/697262de9a79471e7acd42a4",
-    "publishedAt": "2026-01-22T18:17:11.000Z",
-    "createdAt": "2026-01-23T08:37:53.187Z",
-    "updatedAt": "2026-01-23T08:37:53.187Z"
-  },
-  {
-    "id": "7078c3ae5a01b2d8",
-    "title": "ФХР назвала неактуальными доводы IIHF в пользу отстранения хоккеистов",
-    "sport": "Хоккей",
-    "category": "Хоккей",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/6/13/347691026153136.png",
-    "teaser": "ФХР назвала неактуальными доводы IIHF в пользу отстранения хоккеистов",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69725a079a7947ad881542de",
-    "publishedAt": "2026-01-22T17:37:52.000Z",
-    "createdAt": "2026-01-23T08:37:57.532Z",
-    "updatedAt": "2026-01-23T08:37:57.532Z"
-  },
-  {
-    "id": "23e74e3d8c206f21",
-    "title": "Фанатам «Брюгге» дали 5 суток ареста за костюмы в стиле «Бората» в Астане",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/8/75/347691001299758.jpeg",
-    "teaser": "Фанатам «Брюгге» дали 5 суток ареста за костюмы в стиле «Бората» в Астане",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/697248789a7947b9a1c64f47",
-    "publishedAt": "2026-01-22T16:53:25.000Z",
-    "createdAt": "2026-01-23T08:37:56.355Z",
-    "updatedAt": "2026-01-23T08:37:56.355Z"
+    "createdAt": "2026-01-23T09:36:18.977Z",
+    "updatedAt": "2026-01-23T09:36:18.977Z"
   }
 ]
