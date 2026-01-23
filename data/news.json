@@ -1,5 +1,61 @@
 [
   {
+    "id": "4480fa33f23acee4",
+    "title": "«Зенит» объявил об уходе лучшего бомбардира РПЛ-2024 в бразильский клуб",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/2/42/347691877848422.jpeg",
+    "teaser": "«Зенит» объявил об уходе лучшего бомбардира РПЛ-2024 в бразильский клуб",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6973a9829a79479589e5a661",
+    "publishedAt": "2026-01-23T17:16:21.000Z",
+    "createdAt": "2026-01-23T17:29:56.445Z",
+    "updatedAt": "2026-01-23T17:29:56.445Z"
+  },
+  {
+    "id": "89059daf6a473cbd",
+    "title": "Московское «Динамо» обыграло клуб Слуцкого в серии пенальти",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/6/66/347691860970666.jpeg",
+    "teaser": "Московское «Динамо» обыграло клуб Слуцкого в серии пенальти",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69739e199a794748c0c5a87b",
+    "publishedAt": "2026-01-23T17:01:42.000Z",
+    "createdAt": "2026-01-23T17:29:57.454Z",
+    "updatedAt": "2026-01-23T17:29:57.454Z"
+  },
+  {
+    "id": "90c0b7a03988b7cc",
+    "title": "«Спартак» сыграл вничью со сборной Китая в товарищеском матче в ОАЭ",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/8/70/347691858201708.jpeg",
+    "teaser": "«Спартак» сыграл вничью со сборной Китая в товарищеском матче в ОАЭ",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6973a1d59a7947beec945922",
+    "publishedAt": "2026-01-23T16:49:52.000Z",
+    "createdAt": "2026-01-23T17:29:58.396Z",
+    "updatedAt": "2026-01-23T17:29:58.396Z"
+  },
+  {
+    "id": "fa8910533b87773a",
+    "title": "Агент россиян в НХЛ назвал самых перспективных молодых хоккеистов страны",
+    "sport": "Хоккей",
+    "category": "Хоккей",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/1/81/347691846656811.jpeg",
+    "teaser": "Агент россиян в НХЛ назвал самых перспективных молодых хоккеистов страны",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/697395629a794760cb50a509",
+    "publishedAt": "2026-01-23T16:35:30.000Z",
+    "createdAt": "2026-01-23T17:30:00.533Z",
+    "updatedAt": "2026-01-23T17:30:00.533Z"
+  },
+  {
     "id": "5d1b3f38978e6222",
     "title": "Экс-тренер «Сочи» опроверг использование ChatGPT для подготовки к матчам",
     "sport": "Футбол",
@@ -10,8 +66,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/697396349a79477fc6cabdd5",
     "publishedAt": "2026-01-23T16:16:15.000Z",
-    "createdAt": "2026-01-23T16:38:22.781Z",
-    "updatedAt": "2026-01-23T16:38:22.781Z"
+    "createdAt": "2026-01-23T17:29:59.468Z",
+    "updatedAt": "2026-01-23T17:29:59.468Z"
   },
   {
     "id": "a3e56e5680e83447",
@@ -24,8 +80,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69738d429a79474e1c50465a",
     "publishedAt": "2026-01-23T15:34:11.000Z",
-    "createdAt": "2026-01-23T16:38:23.784Z",
-    "updatedAt": "2026-01-23T16:38:23.784Z"
+    "createdAt": "2026-01-23T17:30:01.528Z",
+    "updatedAt": "2026-01-23T17:30:01.528Z"
   },
   {
     "id": "4df7f0a531adf529",
@@ -38,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69738c5e9a79470f60e9cf08",
     "publishedAt": "2026-01-23T15:08:05.000Z",
-    "createdAt": "2026-01-23T16:38:25.889Z",
-    "updatedAt": "2026-01-23T16:38:25.889Z"
+    "createdAt": "2026-01-23T17:30:03.644Z",
+    "updatedAt": "2026-01-23T17:30:03.644Z"
   },
   {
     "id": "729d32ae703846c8",
@@ -52,8 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6973808e9a79470961a7f8b3",
     "publishedAt": "2026-01-23T14:55:06.000Z",
-    "createdAt": "2026-01-23T16:38:24.840Z",
-    "updatedAt": "2026-01-23T16:38:24.840Z"
+    "createdAt": "2026-01-23T17:30:02.593Z",
+    "updatedAt": "2026-01-23T17:30:02.593Z"
   },
   {
     "id": "56f6a99576e54ddf",
@@ -66,36 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/697383c99a79477dcaecdb74",
     "publishedAt": "2026-01-23T14:53:30.000Z",
-    "createdAt": "2026-01-23T16:38:26.944Z",
-    "updatedAt": "2026-01-23T16:38:26.944Z"
-  },
-  {
-    "id": "9c1687998307c734",
-    "title": "Биатлонист Коновалов выиграл спринт на этапе Кубка Содружества",
-    "sport": "Другое",
-    "category": "Биатлон",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/6/41/347691768619416.jpeg",
-    "teaser": "Биатлонист Коновалов выиграл спринт на этапе Кубка Содружества",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/697378dd9a79472714096e6c",
-    "publishedAt": "2026-01-23T14:22:06.000Z",
-    "createdAt": "2026-01-23T16:38:30.001Z",
-    "updatedAt": "2026-01-23T16:38:30.001Z"
-  },
-  {
-    "id": "6a6a2e7d6cc72891",
-    "title": "РФС объяснил, почему «Крыльям Советов» запретили регистрацию новичков",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/9/76/347691768886769.jpeg",
-    "teaser": "РФС объяснил, почему «Крыльям Советов» запретили регистрацию новичков",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69737b049a79473ef6fbd6d9",
-    "publishedAt": "2026-01-23T14:20:32.000Z",
-    "createdAt": "2026-01-23T16:38:31.076Z",
-    "updatedAt": "2026-01-23T16:38:31.076Z"
+    "createdAt": "2026-01-23T17:30:04.715Z",
+    "updatedAt": "2026-01-23T17:30:04.715Z"
   },
   {
     "id": "8d38073b478c8500",
@@ -108,35 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69737f1c9a7947415eb2d122",
     "publishedAt": "2026-01-23T14:18:02.000Z",
-    "createdAt": "2026-01-23T16:38:28.009Z",
-    "updatedAt": "2026-01-23T16:38:28.009Z"
-  },
-  {
-    "id": "2b07321ae263ee0d",
-    "title": "Контрольный матч клуба РПЛ на сборах в Турции отменили из-за дождей",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/6/20/347691750621206.jpeg",
-    "teaser": "Контрольный матч клуба РПЛ на сборах в Турции отменили из-за дождей",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6973757e9a794776f55a31b6",
-    "publishedAt": "2026-01-23T13:53:42.000Z",
-    "createdAt": "2026-01-23T16:38:32.027Z",
-    "updatedAt": "2026-01-23T16:38:32.027Z"
-  },
-  {
-    "id": "c8175176db66037a",
-    "title": "Бывший тренер худшего клуба РПЛ использовал ChatGPT для работы",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/5/63/347691736514635.jpeg",
-    "teaser": "Бывший тренер худшего клуба РПЛ использовал ChatGPT для работы",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69736b479a7947e83386a21b",
-    "publishedAt": "2026-01-23T13:33:52.000Z",
-    "createdAt": "2026-01-23T16:38:29.007Z",
-    "updatedAt": "2026-01-23T16:38:29.007Z"
+    "createdAt": "2026-01-23T17:30:05.782Z",
+    "updatedAt": "2026-01-23T17:30:05.782Z"
   }
 ]
