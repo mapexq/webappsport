@@ -1,5 +1,33 @@
 [
   {
+    "id": "5d1b3f38978e6222",
+    "title": "Экс-тренер «Сочи» опроверг использование ChatGPT для подготовки к матчам",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/9/27/347691842933279.jpeg",
+    "teaser": "Экс-тренер «Сочи» опроверг использование ChatGPT для подготовки к матчам",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/697396349a79477fc6cabdd5",
+    "publishedAt": "2026-01-23T16:16:15.000Z",
+    "createdAt": "2026-01-23T16:38:22.781Z",
+    "updatedAt": "2026-01-23T16:38:22.781Z"
+  },
+  {
+    "id": "a3e56e5680e83447",
+    "title": "Тренер спас семилетнего ребенка из горящей машины в Иркутске",
+    "sport": "Другое",
+    "category": "Другие",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/7/07/347691817918077.jpeg",
+    "teaser": "Тренер спас семилетнего ребенка из горящей машины в Иркутске",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69738d429a79474e1c50465a",
+    "publishedAt": "2026-01-23T15:34:11.000Z",
+    "createdAt": "2026-01-23T16:38:23.784Z",
+    "updatedAt": "2026-01-23T16:38:23.784Z"
+  },
+  {
     "id": "4df7f0a531adf529",
     "title": "МОК пообещал строгие меры безопасности для российских спортсменов на ОИ",
     "sport": "Другое",
@@ -10,8 +38,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69738c5e9a79470f60e9cf08",
     "publishedAt": "2026-01-23T15:08:05.000Z",
-    "createdAt": "2026-01-23T15:32:47.085Z",
-    "updatedAt": "2026-01-23T15:32:47.085Z"
+    "createdAt": "2026-01-23T16:38:25.889Z",
+    "updatedAt": "2026-01-23T16:38:25.889Z"
   },
   {
     "id": "729d32ae703846c8",
@@ -24,8 +52,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6973808e9a79470961a7f8b3",
     "publishedAt": "2026-01-23T14:55:06.000Z",
-    "createdAt": "2026-01-23T15:32:45.951Z",
-    "updatedAt": "2026-01-23T15:32:45.951Z"
+    "createdAt": "2026-01-23T16:38:24.840Z",
+    "updatedAt": "2026-01-23T16:38:24.840Z"
   },
   {
     "id": "56f6a99576e54ddf",
@@ -38,8 +66,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/697383c99a79477dcaecdb74",
     "publishedAt": "2026-01-23T14:53:30.000Z",
-    "createdAt": "2026-01-23T15:32:48.239Z",
-    "updatedAt": "2026-01-23T15:32:48.239Z"
+    "createdAt": "2026-01-23T16:38:26.944Z",
+    "updatedAt": "2026-01-23T16:38:26.944Z"
   },
   {
     "id": "9c1687998307c734",
@@ -52,8 +80,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/697378dd9a79472714096e6c",
     "publishedAt": "2026-01-23T14:22:06.000Z",
-    "createdAt": "2026-01-23T15:32:51.636Z",
-    "updatedAt": "2026-01-23T15:32:51.636Z"
+    "createdAt": "2026-01-23T16:38:30.001Z",
+    "updatedAt": "2026-01-23T16:38:30.001Z"
   },
   {
     "id": "6a6a2e7d6cc72891",
@@ -66,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69737b049a79473ef6fbd6d9",
     "publishedAt": "2026-01-23T14:20:32.000Z",
-    "createdAt": "2026-01-23T15:32:52.719Z",
-    "updatedAt": "2026-01-23T15:32:52.719Z"
+    "createdAt": "2026-01-23T16:38:31.076Z",
+    "updatedAt": "2026-01-23T16:38:31.076Z"
   },
   {
     "id": "8d38073b478c8500",
@@ -80,8 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69737f1c9a7947415eb2d122",
     "publishedAt": "2026-01-23T14:18:02.000Z",
-    "createdAt": "2026-01-23T15:32:49.384Z",
-    "updatedAt": "2026-01-23T15:32:49.384Z"
+    "createdAt": "2026-01-23T16:38:28.009Z",
+    "updatedAt": "2026-01-23T16:38:28.009Z"
   },
   {
     "id": "2b07321ae263ee0d",
@@ -94,8 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6973757e9a794776f55a31b6",
     "publishedAt": "2026-01-23T13:53:42.000Z",
-    "createdAt": "2026-01-23T15:32:53.819Z",
-    "updatedAt": "2026-01-23T15:32:53.819Z"
+    "createdAt": "2026-01-23T16:38:32.027Z",
+    "updatedAt": "2026-01-23T16:38:32.027Z"
   },
   {
     "id": "c8175176db66037a",
@@ -108,35 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69736b479a7947e83386a21b",
     "publishedAt": "2026-01-23T13:33:52.000Z",
-    "createdAt": "2026-01-23T15:32:50.514Z",
-    "updatedAt": "2026-01-23T15:32:50.514Z"
-  },
-  {
-    "id": "0d5b07615f01bc37",
-    "title": "Мирра Андреева поспорит с украинкой за выход в 1/4 финала Australian Open",
-    "sport": "Теннис",
-    "category": "Теннис",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/6/06/347691708514066.jpeg",
-    "teaser": "Мирра Андреева поспорит с украинкой за выход в 1/4 финала Australian Open",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/697367619a7947311e3bae1d",
-    "publishedAt": "2026-01-23T13:03:12.000Z",
-    "createdAt": "2026-01-23T15:32:54.920Z",
-    "updatedAt": "2026-01-23T15:32:54.920Z"
-  },
-  {
-    "id": "5bba1686d9fbc7ba",
-    "title": "Эстонию лишили ЧЕ по фехтованию из-за отказа давать визы россиянам",
-    "sport": "Другое",
-    "category": "Другие",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/7/91/347691726989917.jpeg",
-    "teaser": "Эстонию лишили ЧЕ по фехтованию из-за отказа давать визы россиянам",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69736e9d9a79475d03f300cc",
-    "publishedAt": "2026-01-23T13:00:39.000Z",
-    "createdAt": "2026-01-23T15:32:56.059Z",
-    "updatedAt": "2026-01-23T15:32:56.059Z"
+    "createdAt": "2026-01-23T16:38:29.007Z",
+    "updatedAt": "2026-01-23T16:38:29.007Z"
   }
 ]
