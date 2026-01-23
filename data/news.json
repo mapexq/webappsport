@@ -1,5 +1,61 @@
 [
   {
+    "id": "6d71f27542b8af39",
+    "title": "РФС и «Спартак» проведут матч легенд памяти Никиты Симоняна",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/8/46/347691691951468.jpeg",
+    "teaser": "РФС и «Спартак» проведут матч легенд памяти Никиты Симоняна",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69735d9a9a7947798111ed28",
+    "publishedAt": "2026-01-23T12:21:00.000Z",
+    "createdAt": "2026-01-23T12:59:49.036Z",
+    "updatedAt": "2026-01-23T12:59:49.036Z"
+  },
+  {
+    "id": "28417dfcc7c0de32",
+    "title": "Горбунов выиграл спринт на Кубке России, Большунов вылетел в 1/4 финала",
+    "sport": "Другое",
+    "category": "Другие",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/3/19/347691694945193.jpeg",
+    "teaser": "Горбунов выиграл спринт на Кубке России, Большунов вылетел в 1/4 финала",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69735c609a7947cc14325f34",
+    "publishedAt": "2026-01-23T12:06:19.000Z",
+    "createdAt": "2026-01-23T12:59:48.071Z",
+    "updatedAt": "2026-01-23T12:59:48.071Z"
+  },
+  {
+    "id": "170d6744822ff657",
+    "title": "Горбачева рассказала, сколько займет восстановление после операции",
+    "sport": "Другое",
+    "category": "Фигурное катание",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/0/51/347691675088510.jpeg",
+    "teaser": "Горбачева рассказала, сколько займет восстановление после операции",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/697358cf9a79470746ca7cb6",
+    "publishedAt": "2026-01-23T11:35:21.000Z",
+    "createdAt": "2026-01-23T12:59:51.033Z",
+    "updatedAt": "2026-01-23T12:59:51.033Z"
+  },
+  {
+    "id": "9240ced641a30f82",
+    "title": "«Спартак» выменял одного из лучших бомбардиров «Амура»",
+    "sport": "Хоккей",
+    "category": "Хоккей",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/9/57/347691666542579.jpeg",
+    "teaser": "«Спартак» выменял одного из лучших бомбардиров «Амура»",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/697352109a79474db84619e0",
+    "publishedAt": "2026-01-23T11:28:08.000Z",
+    "createdAt": "2026-01-23T12:59:52.010Z",
+    "updatedAt": "2026-01-23T12:59:52.010Z"
+  },
+  {
     "id": "cadfcb576898ed44",
     "title": "Российских борцов до 24 лет допустили на международные турниры с флагом",
     "sport": "Другое",
@@ -10,8 +66,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/697355de9a79474136cf3bee",
     "publishedAt": "2026-01-23T11:13:25.000Z",
-    "createdAt": "2026-01-23T11:26:32.814Z",
-    "updatedAt": "2026-01-23T11:26:32.814Z"
+    "createdAt": "2026-01-23T12:59:50.081Z",
+    "updatedAt": "2026-01-23T12:59:50.081Z"
   },
   {
     "id": "ea3530d5e5f1385d",
@@ -24,8 +80,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69734bb99a7947e81ceca392",
     "publishedAt": "2026-01-23T10:59:11.000Z",
-    "createdAt": "2026-01-23T11:26:33.670Z",
-    "updatedAt": "2026-01-23T11:26:33.670Z"
+    "createdAt": "2026-01-23T12:59:53.948Z",
+    "updatedAt": "2026-01-23T12:59:53.948Z"
   },
   {
     "id": "306c5d5cc46271ac",
@@ -38,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69734e539a79475a5e819286",
     "publishedAt": "2026-01-23T10:57:26.000Z",
-    "createdAt": "2026-01-23T11:26:31.814Z",
-    "updatedAt": "2026-01-23T11:26:31.814Z"
+    "createdAt": "2026-01-23T12:59:52.960Z",
+    "updatedAt": "2026-01-23T12:59:52.960Z"
   },
   {
     "id": "dc59a6913d54ee28",
@@ -52,8 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/697345e69a794768f7487bfe",
     "publishedAt": "2026-01-23T10:25:52.000Z",
-    "createdAt": "2026-01-23T11:26:34.689Z",
-    "updatedAt": "2026-01-23T11:26:34.689Z"
+    "createdAt": "2026-01-23T12:59:54.998Z",
+    "updatedAt": "2026-01-23T12:59:54.998Z"
   },
   {
     "id": "a8a6c5e8acc73183",
@@ -66,8 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6973488c9a79476f91199850",
     "publishedAt": "2026-01-23T10:17:06.000Z",
-    "createdAt": "2026-01-23T11:26:35.751Z",
-    "updatedAt": "2026-01-23T11:26:35.751Z"
+    "createdAt": "2026-01-23T12:59:56.096Z",
+    "updatedAt": "2026-01-23T12:59:56.096Z"
   },
   {
     "id": "4bb7307d8fb99942",
@@ -80,63 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69733c069a7947bf764e76c5",
     "publishedAt": "2026-01-23T09:56:17.000Z",
-    "createdAt": "2026-01-23T11:26:36.827Z",
-    "updatedAt": "2026-01-23T11:26:36.827Z"
-  },
-  {
-    "id": "758d385c95867264",
-    "title": "Путинцева станцевала под свист болельщиков после матча на Australian Open",
-    "sport": "Теннис",
-    "category": "Теннис",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/9/20/347691607256209.jpeg",
-    "teaser": "Путинцева станцевала под свист болельщиков после матча на Australian Open",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69733dca9a7947502b1e8843",
-    "publishedAt": "2026-01-23T09:48:38.000Z",
-    "createdAt": "2026-01-23T11:26:37.898Z",
-    "updatedAt": "2026-01-23T11:26:37.898Z"
-  },
-  {
-    "id": "915a5bf16ed8bec2",
-    "title": "Рублев проиграл в третьем круге Australian Open",
-    "sport": "Теннис",
-    "category": "Теннис",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/7/92/347691584961927.jpeg",
-    "teaser": "Рублев проиграл в третьем круге Australian Open",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/697337419a794760bcf79230",
-    "publishedAt": "2026-01-23T09:21:23.000Z",
-    "createdAt": "2026-01-23T11:26:38.955Z",
-    "updatedAt": "2026-01-23T11:26:38.955Z"
-  },
-  {
-    "id": "bbee93f9a90f5471",
-    "title": "Дегтярев назвал решенным вопрос по лимиту на легионеров в РПЛ",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/5/48/347691587745485.jpeg",
-    "teaser": "Дегтярев назвал решенным вопрос по лимиту на легионеров в РПЛ",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6973360d9a7947f5c81547d2",
-    "publishedAt": "2026-01-23T09:06:38.000Z",
-    "createdAt": "2026-01-23T11:26:41.089Z",
-    "updatedAt": "2026-01-23T11:26:41.089Z"
-  },
-  {
-    "id": "8f875d84ba16644c",
-    "title": "Дегтярев назвал максимальное число участников Олимпиады-2026 от России",
-    "sport": "Другое",
-    "category": "Другие",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/6/10/347691575155106.jpeg",
-    "teaser": "Дегтярев назвал максимальное число участников Олимпиады-2026 от России",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/697333309a794753d18f8224",
-    "publishedAt": "2026-01-23T08:55:49.000Z",
-    "createdAt": "2026-01-23T11:26:40.026Z",
-    "updatedAt": "2026-01-23T11:26:40.026Z"
+    "createdAt": "2026-01-23T12:59:57.132Z",
+    "updatedAt": "2026-01-23T12:59:57.132Z"
   }
 ]
