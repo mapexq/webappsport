@@ -1,5 +1,61 @@
 [
   {
+    "id": "c8175176db66037a",
+    "title": "Бывший тренер худшего клуба РПЛ использовал ChatGPT для работы",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/5/63/347691736514635.jpeg",
+    "teaser": "Бывший тренер худшего клуба РПЛ использовал ChatGPT для работы",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69736b479a7947e83386a21b",
+    "publishedAt": "2026-01-23T13:33:52.000Z",
+    "createdAt": "2026-01-23T13:50:26.212Z",
+    "updatedAt": "2026-01-23T13:50:26.212Z"
+  },
+  {
+    "id": "0d5b07615f01bc37",
+    "title": "Мирра Андреева поспорит с украинкой за выход в 1/4 финала Australian Open",
+    "sport": "Теннис",
+    "category": "Теннис",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/6/06/347691708514066.jpeg",
+    "teaser": "Мирра Андреева поспорит с украинкой за выход в 1/4 финала Australian Open",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/697367619a7947311e3bae1d",
+    "publishedAt": "2026-01-23T13:03:12.000Z",
+    "createdAt": "2026-01-23T13:50:27.258Z",
+    "updatedAt": "2026-01-23T13:50:27.258Z"
+  },
+  {
+    "id": "5bba1686d9fbc7ba",
+    "title": "Эстонию лишили ЧЕ по фехтованию из-за отказа давать визы россиянам",
+    "sport": "Другое",
+    "category": "Другие",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/7/91/347691726989917.jpeg",
+    "teaser": "Эстонию лишили ЧЕ по фехтованию из-за отказа давать визы россиянам",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69736e9d9a79475d03f300cc",
+    "publishedAt": "2026-01-23T13:00:39.000Z",
+    "createdAt": "2026-01-23T13:50:28.154Z",
+    "updatedAt": "2026-01-23T13:50:28.154Z"
+  },
+  {
+    "id": "dde471fdec4596e4",
+    "title": "Бублик впервые в карьере вышел в четвертый круг Australian Open",
+    "sport": "Теннис",
+    "category": "Теннис",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/9/86/347691714908869.jpeg",
+    "teaser": "Бублик впервые в карьере вышел в четвертый круг Australian Open",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/697364db9a79472b5670a965",
+    "publishedAt": "2026-01-23T12:54:33.000Z",
+    "createdAt": "2026-01-23T13:50:29.126Z",
+    "updatedAt": "2026-01-23T13:50:29.126Z"
+  },
+  {
     "id": "6d71f27542b8af39",
     "title": "РФС и «Спартак» проведут матч легенд памяти Никиты Симоняна",
     "sport": "Футбол",
@@ -10,8 +66,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69735d9a9a7947798111ed28",
     "publishedAt": "2026-01-23T12:21:00.000Z",
-    "createdAt": "2026-01-23T12:59:49.036Z",
-    "updatedAt": "2026-01-23T12:59:49.036Z"
+    "createdAt": "2026-01-23T13:50:31.050Z",
+    "updatedAt": "2026-01-23T13:50:31.050Z"
   },
   {
     "id": "28417dfcc7c0de32",
@@ -24,8 +80,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69735c609a7947cc14325f34",
     "publishedAt": "2026-01-23T12:06:19.000Z",
-    "createdAt": "2026-01-23T12:59:48.071Z",
-    "updatedAt": "2026-01-23T12:59:48.071Z"
+    "createdAt": "2026-01-23T13:50:30.072Z",
+    "updatedAt": "2026-01-23T13:50:30.072Z"
   },
   {
     "id": "170d6744822ff657",
@@ -38,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/697358cf9a79470746ca7cb6",
     "publishedAt": "2026-01-23T11:35:21.000Z",
-    "createdAt": "2026-01-23T12:59:51.033Z",
-    "updatedAt": "2026-01-23T12:59:51.033Z"
+    "createdAt": "2026-01-23T13:50:33.170Z",
+    "updatedAt": "2026-01-23T13:50:33.170Z"
   },
   {
     "id": "9240ced641a30f82",
@@ -52,8 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/697352109a79474db84619e0",
     "publishedAt": "2026-01-23T11:28:08.000Z",
-    "createdAt": "2026-01-23T12:59:52.010Z",
-    "updatedAt": "2026-01-23T12:59:52.010Z"
+    "createdAt": "2026-01-23T13:50:34.214Z",
+    "updatedAt": "2026-01-23T13:50:34.214Z"
   },
   {
     "id": "cadfcb576898ed44",
@@ -66,22 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/697355de9a79474136cf3bee",
     "publishedAt": "2026-01-23T11:13:25.000Z",
-    "createdAt": "2026-01-23T12:59:50.081Z",
-    "updatedAt": "2026-01-23T12:59:50.081Z"
-  },
-  {
-    "id": "ea3530d5e5f1385d",
-    "title": "Малкин заявил, что не будет завершать карьеру в конце сезона",
-    "sport": "Хоккей",
-    "category": "Хоккей",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/6/12/347691645686126.jpeg",
-    "teaser": "Малкин заявил, что не будет завершать карьеру в конце сезона",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69734bb99a7947e81ceca392",
-    "publishedAt": "2026-01-23T10:59:11.000Z",
-    "createdAt": "2026-01-23T12:59:53.948Z",
-    "updatedAt": "2026-01-23T12:59:53.948Z"
+    "createdAt": "2026-01-23T13:50:32.096Z",
+    "updatedAt": "2026-01-23T13:50:32.096Z"
   },
   {
     "id": "306c5d5cc46271ac",
@@ -94,49 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69734e539a79475a5e819286",
     "publishedAt": "2026-01-23T10:57:26.000Z",
-    "createdAt": "2026-01-23T12:59:52.960Z",
-    "updatedAt": "2026-01-23T12:59:52.960Z"
-  },
-  {
-    "id": "dc59a6913d54ee28",
-    "title": "Вендел прибыл на сбор «Зенита» с недельным опозданием",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/0/54/347691631597540.jpeg",
-    "teaser": "Вендел прибыл на сбор «Зенита» с недельным опозданием",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/697345e69a794768f7487bfe",
-    "publishedAt": "2026-01-23T10:25:52.000Z",
-    "createdAt": "2026-01-23T12:59:54.998Z",
-    "updatedAt": "2026-01-23T12:59:54.998Z"
-  },
-  {
-    "id": "a8a6c5e8acc73183",
-    "title": "«Локомотив» продлил контракт с двукратным обладателем Кубка Гагарина",
-    "sport": "Хоккей",
-    "category": "Хоккей",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/6/25/347691629541256.jpeg",
-    "teaser": "«Локомотив» продлил контракт с двукратным обладателем Кубка Гагарина",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6973488c9a79476f91199850",
-    "publishedAt": "2026-01-23T10:17:06.000Z",
-    "createdAt": "2026-01-23T12:59:56.096Z",
-    "updatedAt": "2026-01-23T12:59:56.096Z"
-  },
-  {
-    "id": "4bb7307d8fb99942",
-    "title": "Шнайдер проиграла первой ракетке Украины на Australian Open",
-    "sport": "Теннис",
-    "category": "Теннис",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/2/99/347691599186992.jpeg",
-    "teaser": "Шнайдер проиграла первой ракетке Украины на Australian Open",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69733c069a7947bf764e76c5",
-    "publishedAt": "2026-01-23T09:56:17.000Z",
-    "createdAt": "2026-01-23T12:59:57.132Z",
-    "updatedAt": "2026-01-23T12:59:57.132Z"
+    "createdAt": "2026-01-23T13:50:35.237Z",
+    "updatedAt": "2026-01-23T13:50:35.237Z"
   }
 ]
