@@ -1,5 +1,75 @@
 [
   {
+    "id": "108942d5a45f0be9",
+    "title": "Экс-тренера «Зенита» госпитализировали в Румынии из-за проблем с сердцем",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/9/65/347691557048659.jpeg",
+    "teaser": "Экс-тренера «Зенита» госпитализировали в Румынии из-за проблем с сердцем",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6973281b9a794763d1f371c1",
+    "publishedAt": "2026-01-23T08:29:30.000Z",
+    "createdAt": "2026-01-23T08:37:48.037Z",
+    "updatedAt": "2026-01-23T08:37:48.037Z"
+  },
+  {
+    "id": "4933d6f940e74380",
+    "title": "Тренер сборной Белоруссии временно возглавил баскетбольный «Зенит»",
+    "sport": "Баскетбол",
+    "category": "Баскетбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/2/45/347691531478452.jpeg",
+    "teaser": "Тренер сборной Белоруссии временно возглавил баскетбольный «Зенит»",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6973225e9a79471ba488c3af",
+    "publishedAt": "2026-01-23T07:38:00.000Z",
+    "createdAt": "2026-01-23T08:37:49.069Z",
+    "updatedAt": "2026-01-23T08:37:49.069Z"
+  },
+  {
+    "id": "0cf54648885218fe",
+    "title": "Соболенко победила сменившую гражданство россиянку на Australian Open",
+    "sport": "Теннис",
+    "category": "Теннис",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/5/60/347691525908605.jpeg",
+    "teaser": "Соболенко победила сменившую гражданство россиянку на Australian Open",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/697320289a794782fa10a98a",
+    "publishedAt": "2026-01-23T07:26:24.000Z",
+    "createdAt": "2026-01-23T08:37:52.166Z",
+    "updatedAt": "2026-01-23T08:37:52.166Z"
+  },
+  {
+    "id": "747823c272557201",
+    "title": "Российский защитник «Каролины» Никишин устроил драку в матче НХЛ",
+    "sport": "Хоккей",
+    "category": "Хоккей",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/7/30/347691526258307.jpeg",
+    "teaser": "Российский защитник «Каролины» Никишин устроил драку в матче НХЛ",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69731e539a79471517508eb4",
+    "publishedAt": "2026-01-23T07:25:13.000Z",
+    "createdAt": "2026-01-23T08:37:51.090Z",
+    "updatedAt": "2026-01-23T08:37:51.090Z"
+  },
+  {
+    "id": "89a2866d4a32b9e2",
+    "title": "Медведев отыгрался с 0:2 по сетам и вышел в 1/8 финала Australian Open",
+    "sport": "Теннис",
+    "category": "Теннис",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/2/54/347691519744542.jpeg",
+    "teaser": "Медведев отыгрался с 0:2 по сетам и вышел в 1/8 финала Australian Open",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69731daf9a7947e7c432f396",
+    "publishedAt": "2026-01-23T07:16:42.000Z",
+    "createdAt": "2026-01-23T08:37:50.032Z",
+    "updatedAt": "2026-01-23T08:37:50.032Z"
+  },
+  {
     "id": "4762e1a3c5549b94",
     "title": "СКА вел 1:0 почти весь матч, но в концовке проиграл «Спартаку»",
     "sport": "Хоккей",
@@ -10,8 +80,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69726d119a7947590eb46228",
     "publishedAt": "2026-01-22T18:59:13.000Z",
-    "createdAt": "2026-01-23T07:31:29.869Z",
-    "updatedAt": "2026-01-23T07:31:29.869Z"
+    "createdAt": "2026-01-23T08:37:54.204Z",
+    "updatedAt": "2026-01-23T08:37:54.204Z"
   },
   {
     "id": "9ceae3b7f8cca347",
@@ -24,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/697263de9a7947a4e8f486b3",
     "publishedAt": "2026-01-22T18:29:59.000Z",
-    "createdAt": "2026-01-23T07:31:31.016Z",
-    "updatedAt": "2026-01-23T07:31:31.016Z"
+    "createdAt": "2026-01-23T08:37:55.307Z",
+    "updatedAt": "2026-01-23T08:37:55.307Z"
   },
   {
     "id": "9e772370e7051f2a",
@@ -38,8 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/697262de9a79471e7acd42a4",
     "publishedAt": "2026-01-22T18:17:11.000Z",
-    "createdAt": "2026-01-23T07:31:28.782Z",
-    "updatedAt": "2026-01-23T07:31:28.782Z"
+    "createdAt": "2026-01-23T08:37:53.187Z",
+    "updatedAt": "2026-01-23T08:37:53.187Z"
   },
   {
     "id": "7078c3ae5a01b2d8",
@@ -52,36 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69725a079a7947ad881542de",
     "publishedAt": "2026-01-22T17:37:52.000Z",
-    "createdAt": "2026-01-23T07:31:33.353Z",
-    "updatedAt": "2026-01-23T07:31:33.353Z"
-  },
-  {
-    "id": "a6c0b77c85df1bd8",
-    "title": "«Зенит» разгромил чемпиона Китая в товарищеском матче",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/6/72/347691022263726.jpeg",
-    "teaser": "«Зенит» разгромил чемпиона Китая в товарищеском матче",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/697257d99a7947c15f4d7ca7",
-    "publishedAt": "2026-01-22T17:20:23.000Z",
-    "createdAt": "2026-01-23T07:31:34.436Z",
-    "updatedAt": "2026-01-23T07:31:34.436Z"
-  },
-  {
-    "id": "9f19f363d7dfabf1",
-    "title": "«Авангард» прервал четырехматчевую победную серию «Автомобилиста»",
-    "sport": "Хоккей",
-    "category": "Хоккей",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/2/83/347690993051832.jpeg",
-    "teaser": "«Авангард» прервал четырехматчевую победную серию «Автомобилиста»",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69724e229a7947764e82fbeb",
-    "publishedAt": "2026-01-22T17:01:55.000Z",
-    "createdAt": "2026-01-23T07:31:35.524Z",
-    "updatedAt": "2026-01-23T07:31:35.524Z"
+    "createdAt": "2026-01-23T08:37:57.532Z",
+    "updatedAt": "2026-01-23T08:37:57.532Z"
   },
   {
     "id": "23e74e3d8c206f21",
@@ -94,49 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/697248789a7947b9a1c64f47",
     "publishedAt": "2026-01-22T16:53:25.000Z",
-    "createdAt": "2026-01-23T07:31:32.200Z",
-    "updatedAt": "2026-01-23T07:31:32.200Z"
-  },
-  {
-    "id": "f0935674ce69f6ad",
-    "title": "Тренер Гуменника исключила проблемы с визой для Олимпиады-2026",
-    "sport": "Другое",
-    "category": "Фигурное катание",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/8/84/347690981392848.jpeg",
-    "teaser": "Тренер Гуменника исключила проблемы с визой для Олимпиады-2026",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/697247189a794753f21af030",
-    "publishedAt": "2026-01-22T16:23:23.000Z",
-    "createdAt": "2026-01-23T07:31:36.664Z",
-    "updatedAt": "2026-01-23T07:31:36.664Z"
-  },
-  {
-    "id": "48004d28d9157b0a",
-    "title": "Лыжники Коростелев и Непряева приняли приглашение МОК на Олимпиаду",
-    "sport": "Другое",
-    "category": "Другие",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/9/25/347690964139259.png",
-    "teaser": "Лыжники Коростелев и Непряева приняли приглашение МОК на Олимпиаду",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6972427b9a79471ceabbb20c",
-    "publishedAt": "2026-01-22T15:50:16.000Z",
-    "createdAt": "2026-01-23T07:31:37.812Z",
-    "updatedAt": "2026-01-23T07:31:37.812Z"
-  },
-  {
-    "id": "dd8dd8431a274d2b",
-    "title": "«Реал» возглавил рейтинг клубов с самым высоким доходом",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/5/16/347690945180165.jpeg",
-    "teaser": "«Реал» возглавил рейтинг клубов с самым высоким доходом",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6972336c9a79475748687fa7",
-    "publishedAt": "2026-01-22T15:40:11.000Z",
-    "createdAt": "2026-01-23T07:31:38.981Z",
-    "updatedAt": "2026-01-23T07:31:38.981Z"
+    "createdAt": "2026-01-23T08:37:56.355Z",
+    "updatedAt": "2026-01-23T08:37:56.355Z"
   }
 ]
