@@ -1,5 +1,47 @@
 [
   {
+    "id": "e4ab88fdf099a239",
+    "title": "IBU дисквалифицировал немцев после победы в сингл-миксте на этапе КМ",
+    "sport": "Другое",
+    "category": "Биатлон",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/9/64/347692779123649.jpeg",
+    "teaser": "IBU дисквалифицировал немцев после победы в сингл-миксте на этапе КМ",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/697509799a794709abad8b83",
+    "publishedAt": "2026-01-24T18:14:36.000Z",
+    "createdAt": "2026-01-24T18:37:14.678Z",
+    "updatedAt": "2026-01-24T18:37:14.678Z"
+  },
+  {
+    "id": "13b8bcd94d262719",
+    "title": "На матч НБА вышла самая молодая стартовая пятерка в истории",
+    "sport": "Баскетбол",
+    "category": "Баскетбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/9/48/347692770442489.jpeg",
+    "teaser": "На матч НБА вышла самая молодая стартовая пятерка в истории",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/697505d79a79477dbff8e8b3",
+    "publishedAt": "2026-01-24T18:01:37.000Z",
+    "createdAt": "2026-01-24T18:37:13.696Z",
+    "updatedAt": "2026-01-24T18:37:13.696Z"
+  },
+  {
+    "id": "5c130c79ae7870d3",
+    "title": "Клуб Овечкина подписал новый контракт с российским хоккеистом",
+    "sport": "Хоккей",
+    "category": "Хоккей",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/7/50/347692753202507.jpeg",
+    "teaser": "Клуб Овечкина подписал новый контракт с российским хоккеистом",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6974ff989a79471cfe925a47",
+    "publishedAt": "2026-01-24T17:28:25.000Z",
+    "createdAt": "2026-01-24T18:37:15.715Z",
+    "updatedAt": "2026-01-24T18:37:15.715Z"
+  },
+  {
     "id": "497c2cc6bcdbf014",
     "title": "«Бавария» в матче с «Аугсбургом» впервые проиграла в сезоне бундеслиги",
     "sport": "Футбол",
@@ -10,8 +52,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6974f18b9a7947ca16e2df18",
     "publishedAt": "2026-01-24T16:30:48.000Z",
-    "createdAt": "2026-01-24T17:23:23.845Z",
-    "updatedAt": "2026-01-24T17:23:23.845Z"
+    "createdAt": "2026-01-24T18:37:16.761Z",
+    "updatedAt": "2026-01-24T18:37:16.761Z"
   },
   {
     "id": "f7277190c3f7a7f9",
@@ -24,8 +66,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6974e9dd9a7947048e7d1617",
     "publishedAt": "2026-01-24T16:14:33.000Z",
-    "createdAt": "2026-01-24T17:23:25.010Z",
-    "updatedAt": "2026-01-24T17:23:25.010Z"
+    "createdAt": "2026-01-24T18:37:17.818Z",
+    "updatedAt": "2026-01-24T18:37:17.818Z"
   },
   {
     "id": "10a8bf629f6d16c7",
@@ -38,8 +80,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6974e4219a79477a89d32cb5",
     "publishedAt": "2026-01-24T15:38:28.000Z",
-    "createdAt": "2026-01-24T17:23:26.197Z",
-    "updatedAt": "2026-01-24T17:23:26.197Z"
+    "createdAt": "2026-01-24T18:37:19.917Z",
+    "updatedAt": "2026-01-24T18:37:19.917Z"
   },
   {
     "id": "8f523fd2d2d693a3",
@@ -52,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6974dc4f9a79470eac64bad3",
     "publishedAt": "2026-01-24T14:58:42.000Z",
-    "createdAt": "2026-01-24T17:23:28.693Z",
-    "updatedAt": "2026-01-24T17:23:28.693Z"
+    "createdAt": "2026-01-24T18:37:20.947Z",
+    "updatedAt": "2026-01-24T18:37:20.947Z"
   },
   {
     "id": "828b6de0626313d1",
@@ -66,22 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6974ce9c9a7947657c2a843f",
     "publishedAt": "2026-01-24T14:08:51.000Z",
-    "createdAt": "2026-01-24T17:23:29.886Z",
-    "updatedAt": "2026-01-24T17:23:29.886Z"
-  },
-  {
-    "id": "74ba731300800868",
-    "title": "Лидер КХЛ нанес «Амуру» восьмое подряд поражение",
-    "sport": "Хоккей",
-    "category": "Хоккей",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/1/64/347692610898641.jpeg",
-    "teaser": "Лидер КХЛ нанес «Амуру» восьмое подряд поражение",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6974c7d09a794713bc7fb3ba",
-    "publishedAt": "2026-01-24T13:44:53.000Z",
-    "createdAt": "2026-01-24T17:23:32.260Z",
-    "updatedAt": "2026-01-24T17:23:32.260Z"
+    "createdAt": "2026-01-24T18:37:22.161Z",
+    "updatedAt": "2026-01-24T18:37:22.161Z"
   },
   {
     "id": "915ee64d0825e9bc",
@@ -94,36 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6974b4d79a79470b9afe87ad",
     "publishedAt": "2026-01-24T13:20:50.000Z",
-    "createdAt": "2026-01-24T17:23:31.022Z",
-    "updatedAt": "2026-01-24T17:23:31.022Z"
-  },
-  {
-    "id": "c20873d65e4e89a3",
-    "title": "Шведка Сван выиграла спринт на этапе КМ, Непряева выбыла в 1/4 финала",
-    "sport": "Другое",
-    "category": "Другие",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/9/65/347692558478659.jpeg",
-    "teaser": "Шведка Сван выиграла спринт на этапе КМ, Непряева выбыла в 1/4 финала",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6974b3789a79470b9afe87a0",
-    "publishedAt": "2026-01-24T13:08:42.000Z",
-    "createdAt": "2026-01-24T17:23:33.459Z",
-    "updatedAt": "2026-01-24T17:23:33.459Z"
-  },
-  {
-    "id": "1fc565557c56cafc",
-    "title": "Белорусский биатлонист Смольский выиграл пасьют на Кубке Содружества",
-    "sport": "Другое",
-    "category": "Биатлон",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/1/20/347692584623201.jpeg",
-    "teaser": "Белорусский биатлонист Смольский выиграл пасьют на Кубке Содружества",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6974bd6b9a79474321993574",
-    "publishedAt": "2026-01-24T12:47:21.000Z",
-    "createdAt": "2026-01-24T17:23:34.647Z",
-    "updatedAt": "2026-01-24T17:23:34.647Z"
+    "createdAt": "2026-01-24T18:37:24.346Z",
+    "updatedAt": "2026-01-24T18:37:24.346Z"
   },
   {
     "id": "6ad887d30a30d077",
@@ -136,7 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69676f819a7947cbd262917e",
     "publishedAt": "2026-01-24T07:00:35.000Z",
-    "createdAt": "2026-01-24T17:23:27.546Z",
-    "updatedAt": "2026-01-24T17:23:27.546Z"
+    "createdAt": "2026-01-24T18:37:18.890Z",
+    "updatedAt": "2026-01-24T18:37:18.890Z"
   }
 ]
