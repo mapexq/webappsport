@@ -1,5 +1,61 @@
 [
   {
+    "id": "3305c422a48de1f2",
+    "title": "Двое россиян вышли в четвертый круг Australian Open в одиночных разрядах",
+    "sport": "Теннис",
+    "category": "Теннис",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/5/47/347692497562475.jpeg",
+    "teaser": "Двое россиян вышли в четвертый круг Australian Open в одиночных разрядах",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69749ba99a79470f5c51ada1",
+    "publishedAt": "2026-01-24T10:22:58.000Z",
+    "createdAt": "2026-01-24T10:27:29.654Z",
+    "updatedAt": "2026-01-24T10:27:29.654Z"
+  },
+  {
+    "id": "6bea5c073830b19b",
+    "title": "Коростелев и Непряева впервые прошли квалификацию в спринте на Кубке мира",
+    "sport": "Другое",
+    "category": "Другие",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/9/66/347692490465669.jpeg",
+    "teaser": "Коростелев и Непряева впервые прошли квалификацию в спринте на Кубке мира",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/697498e99a7947924b893815",
+    "publishedAt": "2026-01-24T10:10:20.000Z",
+    "createdAt": "2026-01-24T10:27:30.745Z",
+    "updatedAt": "2026-01-24T10:27:30.745Z"
+  },
+  {
+    "id": "65989efea07d819c",
+    "title": "Россиянка взяла сет у Свёнтек, но все равно вылетела с Australian Open",
+    "sport": "Теннис",
+    "category": "Теннис",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/2/38/347692483366382.jpeg",
+    "teaser": "Россиянка взяла сет у Свёнтек, но все равно вылетела с Australian Open",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6974963c9a79477c67723114",
+    "publishedAt": "2026-01-24T09:59:45.000Z",
+    "createdAt": "2026-01-24T10:27:31.876Z",
+    "updatedAt": "2026-01-24T10:27:31.876Z"
+  },
+  {
+    "id": "5016081a650345de",
+    "title": "Бывшая первая ракетка мира Осака снялась с Australian Open из-за травмы",
+    "sport": "Теннис",
+    "category": "Теннис",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/2/39/347692470139392.jpeg",
+    "teaser": "Бывшая первая ракетка мира Осака снялась с Australian Open из-за травмы",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/697490f89a7947eaee157eb9",
+    "publishedAt": "2026-01-24T09:36:38.000Z",
+    "createdAt": "2026-01-24T10:27:35.179Z",
+    "updatedAt": "2026-01-24T10:27:35.179Z"
+  },
+  {
     "id": "e54f97ffcbcbff3d",
     "title": "В Женской хоккейной лиге впервые забросили шайбу в стиле лакросс",
     "sport": "Хоккей",
@@ -10,8 +66,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69748d829a794735570a95a9",
     "publishedAt": "2026-01-24T09:23:43.000Z",
-    "createdAt": "2026-01-24T09:26:55.228Z",
-    "updatedAt": "2026-01-24T09:26:55.228Z"
+    "createdAt": "2026-01-24T10:27:34.107Z",
+    "updatedAt": "2026-01-24T10:27:34.107Z"
   },
   {
     "id": "3001abd3d16711af",
@@ -24,8 +80,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69748a559a7947ae3dd994fe",
     "publishedAt": "2026-01-24T09:09:28.000Z",
-    "createdAt": "2026-01-24T09:26:56.264Z",
-    "updatedAt": "2026-01-24T09:26:56.264Z"
+    "createdAt": "2026-01-24T10:27:36.303Z",
+    "updatedAt": "2026-01-24T10:27:36.303Z"
   },
   {
     "id": "74a4b1ed8768ce06",
@@ -38,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/697350b39a7947c526a7483f",
     "publishedAt": "2026-01-24T08:59:33.000Z",
-    "createdAt": "2026-01-24T09:26:59.798Z",
-    "updatedAt": "2026-01-24T09:26:59.798Z"
+    "createdAt": "2026-01-24T10:27:38.548Z",
+    "updatedAt": "2026-01-24T10:27:38.548Z"
   },
   {
     "id": "7bb422440f7b0ab8",
@@ -52,8 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/697484d99a7947667e0bddc2",
     "publishedAt": "2026-01-24T08:53:18.000Z",
-    "createdAt": "2026-01-24T09:26:57.373Z",
-    "updatedAt": "2026-01-24T09:26:57.373Z"
+    "createdAt": "2026-01-24T10:27:37.393Z",
+    "updatedAt": "2026-01-24T10:27:37.393Z"
   },
   {
     "id": "ce1a4d075779bde1",
@@ -66,50 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69747a559a79477355336747",
     "publishedAt": "2026-01-24T08:01:04.000Z",
-    "createdAt": "2026-01-24T09:27:00.885Z",
-    "updatedAt": "2026-01-24T09:27:00.885Z"
-  },
-  {
-    "id": "1ab2d3494edde6ed",
-    "title": "Кучеров забросил 25 шайб в 11-м сезоне НХЛ подряд",
-    "sport": "Хоккей",
-    "category": "Хоккей",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/9/36/347692399089369.jpeg",
-    "teaser": "Кучеров забросил 25 шайб в 11-м сезоне НХЛ подряд",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6974752e9a7947293da09ed0",
-    "publishedAt": "2026-01-24T07:41:44.000Z",
-    "createdAt": "2026-01-24T09:27:01.977Z",
-    "updatedAt": "2026-01-24T09:27:01.977Z"
-  },
-  {
-    "id": "387361534c59aacb",
-    "title": "Хачанов проиграл в третьем круге Australian Open",
-    "sport": "Теннис",
-    "category": "Теннис",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/6/34/347692391389346.jpeg",
-    "teaser": "Хачанов проиграл в третьем круге Australian Open",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/697472229a79477b342c6aaa",
-    "publishedAt": "2026-01-24T07:23:28.000Z",
-    "createdAt": "2026-01-24T09:27:04.063Z",
-    "updatedAt": "2026-01-24T09:27:04.063Z"
-  },
-  {
-    "id": "9585d1525bffb890",
-    "title": "Овечкин прервал безголевую серию из пяти матчей",
-    "sport": "Хоккей",
-    "category": "Хоккей",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/8/61/347692383372618.jpeg",
-    "teaser": "Овечкин прервал безголевую серию из пяти матчей",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69746f099a7947a27e865c4d",
-    "publishedAt": "2026-01-24T07:14:02.000Z",
-    "createdAt": "2026-01-24T09:27:03.020Z",
-    "updatedAt": "2026-01-24T09:27:03.020Z"
+    "createdAt": "2026-01-24T10:27:39.655Z",
+    "updatedAt": "2026-01-24T10:27:39.655Z"
   },
   {
     "id": "6ad887d30a30d077",
@@ -122,21 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69676f819a7947cbd262917e",
     "publishedAt": "2026-01-24T07:00:35.000Z",
-    "createdAt": "2026-01-24T09:26:58.684Z",
-    "updatedAt": "2026-01-24T09:26:58.684Z"
-  },
-  {
-    "id": "835012d6ae3f96ca",
-    "title": "Тренер Нурмагомедова назвал главную опасность для Умара в бою с Фигередо",
-    "sport": "Единоборства",
-    "category": "Единоборства",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/3/10/347691635678103.jpeg",
-    "teaser": "Тренер Нурмагомедова назвал главную опасность для Умара в бою с Фигередо",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/697346b39a794745cec28414",
-    "publishedAt": "2026-01-24T04:01:21.000Z",
-    "createdAt": "2026-01-24T09:27:05.168Z",
-    "updatedAt": "2026-01-24T09:27:05.168Z"
+    "createdAt": "2026-01-24T10:27:32.993Z",
+    "updatedAt": "2026-01-24T10:27:32.993Z"
   }
 ]
