@@ -1,5 +1,61 @@
 [
   {
+    "id": "e54f97ffcbcbff3d",
+    "title": "В Женской хоккейной лиге впервые забросили шайбу в стиле лакросс",
+    "sport": "Хоккей",
+    "category": "Хоккей",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/7/62/347692461248627.jpeg",
+    "teaser": "В Женской хоккейной лиге впервые забросили шайбу в стиле лакросс",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69748d829a794735570a95a9",
+    "publishedAt": "2026-01-24T09:23:43.000Z",
+    "createdAt": "2026-01-24T09:26:55.228Z",
+    "updatedAt": "2026-01-24T09:26:55.228Z"
+  },
+  {
+    "id": "3001abd3d16711af",
+    "title": "Лыжница Пеклецова выиграла «разделку» на этапе Кубка России в Сыктывкаре",
+    "sport": "Другое",
+    "category": "Другие",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/5/04/347692453591045.jpeg",
+    "teaser": "Лыжница Пеклецова выиграла «разделку» на этапе Кубка России в Сыктывкаре",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69748a559a7947ae3dd994fe",
+    "publishedAt": "2026-01-24T09:09:28.000Z",
+    "createdAt": "2026-01-24T09:26:56.264Z",
+    "updatedAt": "2026-01-24T09:26:56.264Z"
+  },
+  {
+    "id": "74a4b1ed8768ce06",
+    "title": "Тренер Шары Буллета заявил о досрочной победе Нурмагомедова над Фигередо",
+    "sport": "Единоборства",
+    "category": "Единоборства",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/1/93/347691720604931.jpeg",
+    "teaser": "Тренер Шары Буллета заявил о досрочной победе Нурмагомедова над Фигередо",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/697350b39a7947c526a7483f",
+    "publishedAt": "2026-01-24T08:59:33.000Z",
+    "createdAt": "2026-01-24T09:26:59.798Z",
+    "updatedAt": "2026-01-24T09:26:59.798Z"
+  },
+  {
+    "id": "7bb422440f7b0ab8",
+    "title": "14-летнюю теннисистку отстранили за недостойное поведение на сборах",
+    "sport": "Другое",
+    "category": "Другие",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/2/92/347692439420922.jpeg",
+    "teaser": "14-летнюю теннисистку отстранили за недостойное поведение на сборах",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/697484d99a7947667e0bddc2",
+    "publishedAt": "2026-01-24T08:53:18.000Z",
+    "createdAt": "2026-01-24T09:26:57.373Z",
+    "updatedAt": "2026-01-24T09:26:57.373Z"
+  },
+  {
     "id": "ce1a4d075779bde1",
     "title": "Сафин примет участие в турнире легенд на Australian Open",
     "sport": "Теннис",
@@ -10,8 +66,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69747a559a79477355336747",
     "publishedAt": "2026-01-24T08:01:04.000Z",
-    "createdAt": "2026-01-24T08:33:47.628Z",
-    "updatedAt": "2026-01-24T08:33:47.628Z"
+    "createdAt": "2026-01-24T09:27:00.885Z",
+    "updatedAt": "2026-01-24T09:27:00.885Z"
   },
   {
     "id": "1ab2d3494edde6ed",
@@ -24,8 +80,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6974752e9a7947293da09ed0",
     "publishedAt": "2026-01-24T07:41:44.000Z",
-    "createdAt": "2026-01-24T08:33:49.012Z",
-    "updatedAt": "2026-01-24T08:33:49.012Z"
+    "createdAt": "2026-01-24T09:27:01.977Z",
+    "updatedAt": "2026-01-24T09:27:01.977Z"
   },
   {
     "id": "387361534c59aacb",
@@ -38,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/697472229a79477b342c6aaa",
     "publishedAt": "2026-01-24T07:23:28.000Z",
-    "createdAt": "2026-01-24T08:33:52.083Z",
-    "updatedAt": "2026-01-24T08:33:52.083Z"
+    "createdAt": "2026-01-24T09:27:04.063Z",
+    "updatedAt": "2026-01-24T09:27:04.063Z"
   },
   {
     "id": "9585d1525bffb890",
@@ -52,8 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69746f099a7947a27e865c4d",
     "publishedAt": "2026-01-24T07:14:02.000Z",
-    "createdAt": "2026-01-24T08:33:50.080Z",
-    "updatedAt": "2026-01-24T08:33:50.080Z"
+    "createdAt": "2026-01-24T09:27:03.020Z",
+    "updatedAt": "2026-01-24T09:27:03.020Z"
   },
   {
     "id": "6ad887d30a30d077",
@@ -66,8 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69676f819a7947cbd262917e",
     "publishedAt": "2026-01-24T07:00:35.000Z",
-    "createdAt": "2026-01-24T08:33:51.104Z",
-    "updatedAt": "2026-01-24T08:33:51.104Z"
+    "createdAt": "2026-01-24T09:26:58.684Z",
+    "updatedAt": "2026-01-24T09:26:58.684Z"
   },
   {
     "id": "835012d6ae3f96ca",
@@ -80,63 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/697346b39a794745cec28414",
     "publishedAt": "2026-01-24T04:01:21.000Z",
-    "createdAt": "2026-01-24T08:33:53.115Z",
-    "updatedAt": "2026-01-24T08:33:53.115Z"
-  },
-  {
-    "id": "333bcc4c4d1240a8",
-    "title": "Участника Игр из списка самых разыскиваемых ФБР преступников арестовали",
-    "sport": "Другое",
-    "category": "Другие",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/3/32/347691938380323.jpeg",
-    "teaser": "Участника Игр из списка самых разыскиваемых ФБР преступников арестовали",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6973c1499a79470595864e30",
-    "publishedAt": "2026-01-23T19:05:40.000Z",
-    "createdAt": "2026-01-24T08:33:54.177Z",
-    "updatedAt": "2026-01-24T08:33:54.177Z"
-  },
-  {
-    "id": "a7574b86c324701d",
-    "title": "Соперник Умара Нурмагомедова провалил взвешивание перед турниром UFC",
-    "sport": "Единоборства",
-    "category": "Единоборства",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/1/32/347691925323321.jpeg",
-    "teaser": "Соперник Умара Нурмагомедова провалил взвешивание перед турниром UFC",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6973bc069a7947f971de9576",
-    "publishedAt": "2026-01-23T18:43:14.000Z",
-    "createdAt": "2026-01-24T08:33:55.262Z",
-    "updatedAt": "2026-01-24T08:33:55.262Z"
-  },
-  {
-    "id": "f39a76ca8bbb5cc0",
-    "title": "Боец UFC потерял сознание после процедуры взвешивания",
-    "sport": "Единоборства",
-    "category": "Единоборства",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/9/54/347691919168549.jpeg",
-    "teaser": "Боец UFC потерял сознание после процедуры взвешивания",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6973b5189a7947e7daa49a48",
-    "publishedAt": "2026-01-23T18:24:12.000Z",
-    "createdAt": "2026-01-24T08:33:56.313Z",
-    "updatedAt": "2026-01-24T08:33:56.313Z"
-  },
-  {
-    "id": "af0e123f96fa7ec6",
-    "title": "«Динамо» проиграло пятый раз в последних шести матчах в КХЛ",
-    "sport": "Хоккей",
-    "category": "Хоккей",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/2/51/347691898515512.jpeg",
-    "teaser": "«Динамо» проиграло пятый раз в последних шести матчах в КХЛ",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6973afa89a7947f6f18ac60a",
-    "publishedAt": "2026-01-23T17:48:30.000Z",
-    "createdAt": "2026-01-24T08:33:57.384Z",
-    "updatedAt": "2026-01-24T08:33:57.384Z"
+    "createdAt": "2026-01-24T09:27:05.168Z",
+    "updatedAt": "2026-01-24T09:27:05.168Z"
   }
 ]
