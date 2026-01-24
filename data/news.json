@@ -1,5 +1,47 @@
 [
   {
+    "id": "1fc565557c56cafc",
+    "title": "Белорусский биатлонист Смольский выиграл пасьют на Кубке Содружества",
+    "sport": "Другое",
+    "category": "Биатлон",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/1/20/347692584623201.jpeg",
+    "teaser": "Белорусский биатлонист Смольский выиграл пасьют на Кубке Содружества",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6974bd6b9a79474321993574",
+    "publishedAt": "2026-01-24T12:47:21.000Z",
+    "createdAt": "2026-01-24T12:52:41.896Z",
+    "updatedAt": "2026-01-24T12:52:41.896Z"
+  },
+  {
+    "id": "cc42aec39d19440b",
+    "title": "Бывший футболист «Спартака» и «Челси» Мозес перешел в клуб из Казахстана",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/7/27/347692555101277.jpeg",
+    "teaser": "Бывший футболист «Спартака» и «Челси» Мозес перешел в клуб из Казахстана",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6974b0d69a7947c3e8207e37",
+    "publishedAt": "2026-01-24T11:52:31.000Z",
+    "createdAt": "2026-01-24T12:52:42.992Z",
+    "updatedAt": "2026-01-24T12:52:42.992Z"
+  },
+  {
+    "id": "e74fb1a76c6f3308",
+    "title": "Большунов стал пятым в «разделке» на этапе Кубка России в Сыктывкаре",
+    "sport": "Другое",
+    "category": "Другие",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/7/63/347692533288637.jpeg",
+    "teaser": "Большунов стал пятым в «разделке» на этапе Кубка России в Сыктывкаре",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6974a99e9a7947c335265491",
+    "publishedAt": "2026-01-24T11:41:51.000Z",
+    "createdAt": "2026-01-24T12:52:44.163Z",
+    "updatedAt": "2026-01-24T12:52:44.163Z"
+  },
+  {
     "id": "49dded2685c34af7",
     "title": "Джокович вышел в четвертый круг Australian Open и побил рекорд Федерера",
     "sport": "Теннис",
@@ -10,8 +52,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6974a5eb9a79474357487090",
     "publishedAt": "2026-01-24T11:08:52.000Z",
-    "createdAt": "2026-01-24T11:22:43.260Z",
-    "updatedAt": "2026-01-24T11:22:43.260Z"
+    "createdAt": "2026-01-24T12:52:46.465Z",
+    "updatedAt": "2026-01-24T12:52:46.465Z"
   },
   {
     "id": "44cad57859a6223f",
@@ -24,8 +66,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6974a0e69a79470c178afa24",
     "publishedAt": "2026-01-24T10:45:38.000Z",
-    "createdAt": "2026-01-24T11:22:44.336Z",
-    "updatedAt": "2026-01-24T11:22:44.336Z"
+    "createdAt": "2026-01-24T12:52:47.622Z",
+    "updatedAt": "2026-01-24T12:52:47.622Z"
   },
   {
     "id": "3305c422a48de1f2",
@@ -38,8 +80,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69749ba99a79470f5c51ada1",
     "publishedAt": "2026-01-24T10:22:58.000Z",
-    "createdAt": "2026-01-24T11:22:45.404Z",
-    "updatedAt": "2026-01-24T11:22:45.404Z"
+    "createdAt": "2026-01-24T12:52:48.773Z",
+    "updatedAt": "2026-01-24T12:52:48.773Z"
   },
   {
     "id": "6bea5c073830b19b",
@@ -52,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/697498e99a7947924b893815",
     "publishedAt": "2026-01-24T10:10:20.000Z",
-    "createdAt": "2026-01-24T11:22:47.556Z",
-    "updatedAt": "2026-01-24T11:22:47.556Z"
+    "createdAt": "2026-01-24T12:52:49.933Z",
+    "updatedAt": "2026-01-24T12:52:49.933Z"
   },
   {
     "id": "65989efea07d819c",
@@ -66,22 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6974963c9a79477c67723114",
     "publishedAt": "2026-01-24T09:59:45.000Z",
-    "createdAt": "2026-01-24T11:22:48.625Z",
-    "updatedAt": "2026-01-24T11:22:48.625Z"
-  },
-  {
-    "id": "5016081a650345de",
-    "title": "Бывшая первая ракетка мира Осака снялась с Australian Open из-за травмы",
-    "sport": "Теннис",
-    "category": "Теннис",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/2/39/347692470139392.jpeg",
-    "teaser": "Бывшая первая ракетка мира Осака снялась с Australian Open из-за травмы",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/697490f89a7947eaee157eb9",
-    "publishedAt": "2026-01-24T09:36:38.000Z",
-    "createdAt": "2026-01-24T11:22:50.840Z",
-    "updatedAt": "2026-01-24T11:22:50.840Z"
+    "createdAt": "2026-01-24T12:52:51.101Z",
+    "updatedAt": "2026-01-24T12:52:51.101Z"
   },
   {
     "id": "e54f97ffcbcbff3d",
@@ -94,36 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69748d829a794735570a95a9",
     "publishedAt": "2026-01-24T09:23:43.000Z",
-    "createdAt": "2026-01-24T11:22:49.839Z",
-    "updatedAt": "2026-01-24T11:22:49.839Z"
-  },
-  {
-    "id": "3001abd3d16711af",
-    "title": "Лыжница Пеклецова выиграла «разделку» на этапе Кубка России в Сыктывкаре",
-    "sport": "Другое",
-    "category": "Другие",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/5/04/347692453591045.jpeg",
-    "teaser": "Лыжница Пеклецова выиграла «разделку» на этапе Кубка России в Сыктывкаре",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69748a559a7947ae3dd994fe",
-    "publishedAt": "2026-01-24T09:09:28.000Z",
-    "createdAt": "2026-01-24T11:22:51.906Z",
-    "updatedAt": "2026-01-24T11:22:51.906Z"
-  },
-  {
-    "id": "7bb422440f7b0ab8",
-    "title": "14-летнюю теннисистку отстранили за недостойное поведение на сборах",
-    "sport": "Другое",
-    "category": "Другие",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/2/92/347692439420922.jpeg",
-    "teaser": "14-летнюю теннисистку отстранили за недостойное поведение на сборах",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/697484d99a7947667e0bddc2",
-    "publishedAt": "2026-01-24T08:53:18.000Z",
-    "createdAt": "2026-01-24T11:22:52.930Z",
-    "updatedAt": "2026-01-24T11:22:52.930Z"
+    "createdAt": "2026-01-24T12:52:52.263Z",
+    "updatedAt": "2026-01-24T12:52:52.263Z"
   },
   {
     "id": "6ad887d30a30d077",
@@ -136,7 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69676f819a7947cbd262917e",
     "publishedAt": "2026-01-24T07:00:35.000Z",
-    "createdAt": "2026-01-24T11:22:46.477Z",
-    "updatedAt": "2026-01-24T11:22:46.477Z"
+    "createdAt": "2026-01-24T12:52:45.318Z",
+    "updatedAt": "2026-01-24T12:52:45.318Z"
   }
 ]
