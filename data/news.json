@@ -1,5 +1,19 @@
 [
   {
+    "id": "001fc2ba2911ebc8",
+    "title": "Россияне впервые с 2018 года не смогли выйти в 1/4 финала Australian Open",
+    "sport": "Теннис",
+    "category": "Теннис",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/8/73/347693441223738.jpeg",
+    "teaser": "Россияне впервые с 2018 года не смогли выйти в 1/4 финала Australian Open",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69760bb59a79473be8d9b36b",
+    "publishedAt": "2026-01-25T12:55:00.000Z",
+    "createdAt": "2026-01-25T13:36:01.202Z",
+    "updatedAt": "2026-01-25T13:36:01.202Z"
+  },
+  {
     "id": "4665881d50bfdfab",
     "title": "Лыжница Непряева стала восьмой в гонке Кубка мира в Швейцарии",
     "sport": "Другое",
@@ -10,8 +24,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/697602489a79479916d01406",
     "publishedAt": "2026-01-25T12:05:27.000Z",
-    "createdAt": "2026-01-25T12:54:17.630Z",
-    "updatedAt": "2026-01-25T12:54:17.630Z"
+    "createdAt": "2026-01-25T13:36:02.240Z",
+    "updatedAt": "2026-01-25T13:36:02.240Z"
   },
   {
     "id": "1044176e8000bfe2",
@@ -24,8 +38,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6975f55c9a7947267837ce6f",
     "publishedAt": "2026-01-25T11:40:04.000Z",
-    "createdAt": "2026-01-25T12:54:16.538Z",
-    "updatedAt": "2026-01-25T12:54:16.538Z"
+    "createdAt": "2026-01-25T13:36:03.235Z",
+    "updatedAt": "2026-01-25T13:36:03.235Z"
   },
   {
     "id": "74139c7ae574fc59",
@@ -38,8 +52,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6975f2df9a794787be19b73a",
     "publishedAt": "2026-01-25T11:30:10.000Z",
-    "createdAt": "2026-01-25T12:54:18.727Z",
-    "updatedAt": "2026-01-25T12:54:18.727Z"
+    "createdAt": "2026-01-25T13:36:04.348Z",
+    "updatedAt": "2026-01-25T13:36:04.348Z"
   },
   {
     "id": "489ea9b8e6c8c28a",
@@ -52,8 +66,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6975f3309a7947f82dd23f8c",
     "publishedAt": "2026-01-25T11:14:16.000Z",
-    "createdAt": "2026-01-25T12:54:19.869Z",
-    "updatedAt": "2026-01-25T12:54:19.869Z"
+    "createdAt": "2026-01-25T13:36:05.361Z",
+    "updatedAt": "2026-01-25T13:36:05.361Z"
   },
   {
     "id": "93a991870069bb4e",
@@ -66,8 +80,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6975ee8e9a79478595ccec12",
     "publishedAt": "2026-01-25T10:31:36.000Z",
-    "createdAt": "2026-01-25T12:54:22.049Z",
-    "updatedAt": "2026-01-25T12:54:22.049Z"
+    "createdAt": "2026-01-25T13:36:07.576Z",
+    "updatedAt": "2026-01-25T13:36:07.576Z"
   },
   {
     "id": "185b89416e9e3665",
@@ -80,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6975eb069a79470f1ddbd16b",
     "publishedAt": "2026-01-25T10:17:58.000Z",
-    "createdAt": "2026-01-25T12:54:23.209Z",
-    "updatedAt": "2026-01-25T12:54:23.209Z"
+    "createdAt": "2026-01-25T13:36:09.702Z",
+    "updatedAt": "2026-01-25T13:36:09.702Z"
   },
   {
     "id": "49e0d40b1d6fd58b",
@@ -94,8 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6975dd1b9a794751de1a7666",
     "publishedAt": "2026-01-25T09:27:57.000Z",
-    "createdAt": "2026-01-25T12:54:21.011Z",
-    "updatedAt": "2026-01-25T12:54:21.011Z"
+    "createdAt": "2026-01-25T13:36:06.503Z",
+    "updatedAt": "2026-01-25T13:36:06.503Z"
   },
   {
     "id": "5736f08cde68288a",
@@ -108,22 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69750c9a9a7947cd66eb47ff",
     "publishedAt": "2026-01-25T02:33:21.000Z",
-    "createdAt": "2026-01-25T12:54:24.350Z",
-    "updatedAt": "2026-01-25T12:54:24.350Z"
-  },
-  {
-    "id": "e4ab88fdf099a239",
-    "title": "IBU дисквалифицировал немцев после победы в сингл-миксте на этапе КМ",
-    "sport": "Другое",
-    "category": "Биатлон",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/9/64/347692779123649.jpeg",
-    "teaser": "IBU дисквалифицировал немцев после победы в сингл-миксте на этапе КМ",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/697509799a794709abad8b83",
-    "publishedAt": "2026-01-24T18:14:36.000Z",
-    "createdAt": "2026-01-25T12:54:26.730Z",
-    "updatedAt": "2026-01-25T12:54:26.730Z"
+    "createdAt": "2026-01-25T13:36:08.636Z",
+    "updatedAt": "2026-01-25T13:36:08.636Z"
   },
   {
     "id": "13b8bcd94d262719",
@@ -136,7 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/697505d79a79477dbff8e8b3",
     "publishedAt": "2026-01-24T18:01:37.000Z",
-    "createdAt": "2026-01-25T12:54:25.514Z",
-    "updatedAt": "2026-01-25T12:54:25.514Z"
+    "createdAt": "2026-01-25T13:36:10.772Z",
+    "updatedAt": "2026-01-25T13:36:10.772Z"
   }
 ]
