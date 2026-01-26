@@ -1,5 +1,47 @@
 [
   {
+    "id": "0c5b3a9d08891a8a",
+    "title": "«Динамо» прервало трехматчевую победную серию «Лады» в КХЛ",
+    "sport": "Хоккей",
+    "category": "Хоккей",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/0/62/347694545397620.png",
+    "teaser": "«Динамо» прервало трехматчевую победную серию «Лады» в КХЛ",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6977b9fe9a79478afce5b64b",
+    "publishedAt": "2026-01-26T19:10:35.000Z",
+    "createdAt": "2026-01-26T19:28:31.500Z",
+    "updatedAt": "2026-01-26T19:28:31.500Z"
+  },
+  {
+    "id": "fdea00d8bb3361dc",
+    "title": "Матч НХЛ перенесли на полтора месяца из-за непогоды",
+    "sport": "Хоккей",
+    "category": "Хоккей",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/2/34/347694490589342.jpeg",
+    "teaser": "Матч НХЛ перенесли на полтора месяца из-за непогоды",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6977a52f9a79475b364dba57",
+    "publishedAt": "2026-01-26T19:08:39.000Z",
+    "createdAt": "2026-01-26T19:28:32.518Z",
+    "updatedAt": "2026-01-26T19:28:32.518Z"
+  },
+  {
+    "id": "f9b5b64886ef7fa7",
+    "title": "«Сибирь» забила три гола за минуту и прервала третью серию побед в КХЛ",
+    "sport": "Хоккей",
+    "category": "Хоккей",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/6/41/347694526463416.png",
+    "teaser": "«Сибирь» забила три гола за минуту и прервала третью серию побед в КХЛ",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6977b0579a79473df6cd0141",
+    "publishedAt": "2026-01-26T18:53:50.000Z",
+    "createdAt": "2026-01-26T19:28:26.915Z",
+    "updatedAt": "2026-01-26T19:28:26.915Z"
+  },
+  {
     "id": "2b77735601b91a13",
     "title": "Канадский призер Олимпиады с украинскими корнями перешел в сборную США",
     "sport": "Другое",
@@ -10,8 +52,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6977a6649a79473a7908bb94",
     "publishedAt": "2026-01-26T18:35:00.000Z",
-    "createdAt": "2026-01-26T18:44:49.663Z",
-    "updatedAt": "2026-01-26T18:44:49.663Z"
+    "createdAt": "2026-01-26T19:28:28.035Z",
+    "updatedAt": "2026-01-26T19:28:28.035Z"
   },
   {
     "id": "6fa3dd3a28715e9b",
@@ -24,8 +66,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6977ad3d9a79478101ad3ee2",
     "publishedAt": "2026-01-26T18:25:19.000Z",
-    "createdAt": "2026-01-26T18:44:48.539Z",
-    "updatedAt": "2026-01-26T18:44:48.539Z"
+    "createdAt": "2026-01-26T19:28:25.882Z",
+    "updatedAt": "2026-01-26T19:28:25.882Z"
   },
   {
     "id": "7524db3f5d8b5865",
@@ -38,8 +80,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6977a0a59a794728e70560ee",
     "publishedAt": "2026-01-26T17:48:27.000Z",
-    "createdAt": "2026-01-26T18:44:50.716Z",
-    "updatedAt": "2026-01-26T18:44:50.716Z"
+    "createdAt": "2026-01-26T19:28:30.213Z",
+    "updatedAt": "2026-01-26T19:28:30.213Z"
   },
   {
     "id": "1f8efec27f1bc527",
@@ -52,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69779a4f9a79471b3cba0411",
     "publishedAt": "2026-01-26T17:09:30.000Z",
-    "createdAt": "2026-01-26T18:44:51.836Z",
-    "updatedAt": "2026-01-26T18:44:51.836Z"
+    "createdAt": "2026-01-26T19:28:29.133Z",
+    "updatedAt": "2026-01-26T19:28:29.133Z"
   },
   {
     "id": "ba717f86cc825cbc",
@@ -66,8 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69778fde9a79479f3127113b",
     "publishedAt": "2026-01-26T16:27:38.000Z",
-    "createdAt": "2026-01-26T18:44:54.062Z",
-    "updatedAt": "2026-01-26T18:44:54.062Z"
+    "createdAt": "2026-01-26T19:28:35.751Z",
+    "updatedAt": "2026-01-26T19:28:35.751Z"
   },
   {
     "id": "4c3ca74a5726954a",
@@ -80,50 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/697791499a79479e3197ce7b",
     "publishedAt": "2026-01-26T16:25:54.000Z",
-    "createdAt": "2026-01-26T18:44:52.940Z",
-    "updatedAt": "2026-01-26T18:44:52.940Z"
-  },
-  {
-    "id": "1d730b2080aaf9e0",
-    "title": "Удары головой назвали фактором смерти экс-футболиста «Манчестер Юнайтед»",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/1/05/347694414756051.png",
-    "teaser": "Удары головой назвали фактором смерти экс-футболиста «Манчестер Юнайтед»",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/697788879a7947738b2b5bc5",
-    "publishedAt": "2026-01-26T15:58:55.000Z",
-    "createdAt": "2026-01-26T18:44:55.170Z",
-    "updatedAt": "2026-01-26T18:44:55.170Z"
-  },
-  {
-    "id": "420ef33c820dd9d8",
-    "title": "«Авангард» победил аутсайдера КХЛ и одержал пятую победу подряд",
-    "sport": "Хоккей",
-    "category": "Хоккей",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/7/67/347694419620677.jpeg",
-    "teaser": "«Авангард» победил аутсайдера КХЛ и одержал пятую победу подряд",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6977867a9a7947638688a968",
-    "publishedAt": "2026-01-26T15:57:23.000Z",
-    "createdAt": "2026-01-26T18:44:58.617Z",
-    "updatedAt": "2026-01-26T18:44:58.617Z"
-  },
-  {
-    "id": "e50711c10905cc73",
-    "title": "Тренер «Локомотива» Галактионов взял вину за конфликт с Дзюбой на себя",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/5/78/347694401766785.jpeg",
-    "teaser": "Тренер «Локомотива» Галактионов взял вину за конфликт с Дзюбой на себя",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69777f839a7947a4ca1c0762",
-    "publishedAt": "2026-01-26T15:26:23.000Z",
-    "createdAt": "2026-01-26T18:44:56.285Z",
-    "updatedAt": "2026-01-26T18:44:56.285Z"
+    "createdAt": "2026-01-26T19:28:34.701Z",
+    "updatedAt": "2026-01-26T19:28:34.701Z"
   },
   {
     "id": "deb901d08c3079f7",
@@ -136,7 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/697711949a7947c70cc96ece",
     "publishedAt": "2026-01-26T09:08:45.000Z",
-    "createdAt": "2026-01-26T18:44:57.465Z",
-    "updatedAt": "2026-01-26T18:44:57.465Z"
+    "createdAt": "2026-01-26T19:28:33.610Z",
+    "updatedAt": "2026-01-26T19:28:33.610Z"
   }
 ]
