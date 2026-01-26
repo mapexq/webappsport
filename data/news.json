@@ -1,5 +1,33 @@
 [
   {
+    "id": "65ff9ba7a1f2d292",
+    "title": "Клуб Серии А забыл вратаря на стадионе после поражения в гостях",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/3/82/347694200654823.jpeg",
+    "teaser": "Клуб Серии А забыл вратаря на стадионе после поражения в гостях",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/697730039a79473930f44eaf",
+    "publishedAt": "2026-01-26T09:45:57.000Z",
+    "createdAt": "2026-01-26T10:33:32.898Z",
+    "updatedAt": "2026-01-26T10:33:32.898Z"
+  },
+  {
+    "id": "00bca2810f055b93",
+    "title": "Хоккеисты «Торпедо» вошли в число игроков недели КХЛ после разгрома СКА",
+    "sport": "Хоккей",
+    "category": "Хоккей",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/4/60/347694195733604.png",
+    "teaser": "Хоккеисты «Торпедо» вошли в число игроков недели КХЛ после разгрома СКА",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6977310e9a79474776a34001",
+    "publishedAt": "2026-01-26T09:44:19.000Z",
+    "createdAt": "2026-01-26T10:33:33.929Z",
+    "updatedAt": "2026-01-26T10:33:33.929Z"
+  },
+  {
     "id": "deb901d08c3079f7",
     "title": "Стал ли Australian Open-2026 провальным для россиян",
     "sport": "Теннис",
@@ -10,8 +38,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/697711949a7947c70cc96ece",
     "publishedAt": "2026-01-26T09:08:45.000Z",
-    "createdAt": "2026-01-26T09:40:38.988Z",
-    "updatedAt": "2026-01-26T09:40:38.988Z"
+    "createdAt": "2026-01-26T10:33:34.932Z",
+    "updatedAt": "2026-01-26T10:33:34.933Z"
   },
   {
     "id": "be36af44076a5e53",
@@ -24,8 +52,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6977254b9a79477836e22ad4",
     "publishedAt": "2026-01-26T08:53:11.000Z",
-    "createdAt": "2026-01-26T09:40:38.005Z",
-    "updatedAt": "2026-01-26T09:40:38.005Z"
+    "createdAt": "2026-01-26T10:33:35.918Z",
+    "updatedAt": "2026-01-26T10:33:35.918Z"
   },
   {
     "id": "66784bebe619d738",
@@ -38,8 +66,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/697719eb9a7947a2f2f5ed15",
     "publishedAt": "2026-01-26T08:19:55.000Z",
-    "createdAt": "2026-01-26T09:40:40.051Z",
-    "updatedAt": "2026-01-26T09:40:40.051Z"
+    "createdAt": "2026-01-26T10:33:36.976Z",
+    "updatedAt": "2026-01-26T10:33:36.976Z"
   },
   {
     "id": "f23713dbe4df70e8",
@@ -52,8 +80,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69770c439a79474afb9b1929",
     "publishedAt": "2026-01-26T07:31:14.000Z",
-    "createdAt": "2026-01-26T09:40:41.089Z",
-    "updatedAt": "2026-01-26T09:40:41.089Z"
+    "createdAt": "2026-01-26T10:33:38.019Z",
+    "updatedAt": "2026-01-26T10:33:38.019Z"
   },
   {
     "id": "c64035de1aecfa41",
@@ -66,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6977051e9a7947fe18530732",
     "publishedAt": "2026-01-26T07:27:23.000Z",
-    "createdAt": "2026-01-26T09:40:42.157Z",
-    "updatedAt": "2026-01-26T09:40:42.157Z"
+    "createdAt": "2026-01-26T10:33:39.079Z",
+    "updatedAt": "2026-01-26T10:33:39.079Z"
   },
   {
     "id": "6447daee20063058",
@@ -80,8 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/697668289a7947e112b8dbf2",
     "publishedAt": "2026-01-25T19:09:18.000Z",
-    "createdAt": "2026-01-26T09:40:45.208Z",
-    "updatedAt": "2026-01-26T09:40:45.208Z"
+    "createdAt": "2026-01-26T10:33:42.246Z",
+    "updatedAt": "2026-01-26T10:33:42.246Z"
   },
   {
     "id": "2ccce5dfff0f841b",
@@ -94,22 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69765fa89a7947e8a5dde105",
     "publishedAt": "2026-01-25T18:40:37.000Z",
-    "createdAt": "2026-01-26T09:40:43.191Z",
-    "updatedAt": "2026-01-26T09:40:43.191Z"
-  },
-  {
-    "id": "cb03493cf158d982",
-    "title": "Гол Ямаля ударом через себя помог «Барселоне» разгромить аутсайдера",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/7/19/347693619170197.jpeg",
-    "teaser": "Гол Ямаля ударом через себя помог «Барселоне» разгромить аутсайдера",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/697651c39a7947277c4c2e61",
-    "publishedAt": "2026-01-25T17:31:56.000Z",
-    "createdAt": "2026-01-26T09:40:46.294Z",
-    "updatedAt": "2026-01-26T09:40:46.294Z"
+    "createdAt": "2026-01-26T10:33:40.084Z",
+    "updatedAt": "2026-01-26T10:33:40.084Z"
   },
   {
     "id": "fa6ecd4a55ec7658",
@@ -122,21 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6976496a9a79477124e4478f",
     "publishedAt": "2026-01-25T17:05:36.000Z",
-    "createdAt": "2026-01-26T09:40:44.188Z",
-    "updatedAt": "2026-01-26T09:40:44.188Z"
-  },
-  {
-    "id": "ea7324ada521cc11",
-    "title": "«Спартак» в третий раз подряд проиграл чемпиону КХЛ",
-    "sport": "Хоккей",
-    "category": "Хоккей",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/8/59/347693586562598.png",
-    "teaser": "«Спартак» в третий раз подряд проиграл чемпиону КХЛ",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/697643c59a7947e6b96b1801",
-    "publishedAt": "2026-01-25T16:33:36.000Z",
-    "createdAt": "2026-01-26T09:40:47.370Z",
-    "updatedAt": "2026-01-26T09:40:47.370Z"
+    "createdAt": "2026-01-26T10:33:41.155Z",
+    "updatedAt": "2026-01-26T10:33:41.155Z"
   }
 ]
