@@ -1,5 +1,47 @@
 [
   {
+    "id": "1d730b2080aaf9e0",
+    "title": "Удары головой назвали фактором смерти экс-футболиста «Манчестер Юнайтед»",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/1/05/347694414756051.png",
+    "teaser": "Удары головой назвали фактором смерти экс-футболиста «Манчестер Юнайтед»",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/697788879a7947738b2b5bc5",
+    "publishedAt": "2026-01-26T15:58:55.000Z",
+    "createdAt": "2026-01-26T16:41:03.182Z",
+    "updatedAt": "2026-01-26T16:41:03.182Z"
+  },
+  {
+    "id": "420ef33c820dd9d8",
+    "title": "«Авангард» победил аутсайдера КХЛ и одержал пятую победу подряд",
+    "sport": "Хоккей",
+    "category": "Хоккей",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/7/67/347694419620677.jpeg",
+    "teaser": "«Авангард» победил аутсайдера КХЛ и одержал пятую победу подряд",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6977867a9a7947638688a968",
+    "publishedAt": "2026-01-26T15:57:23.000Z",
+    "createdAt": "2026-01-26T16:41:05.175Z",
+    "updatedAt": "2026-01-26T16:41:05.175Z"
+  },
+  {
+    "id": "e50711c10905cc73",
+    "title": "Тренер «Локомотива» Галактионов взял вину за конфликт с Дзюбой на себя",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/5/78/347694401766785.jpeg",
+    "teaser": "Тренер «Локомотива» Галактионов взял вину за конфликт с Дзюбой на себя",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69777f839a7947a4ca1c0762",
+    "publishedAt": "2026-01-26T15:26:23.000Z",
+    "createdAt": "2026-01-26T16:41:04.149Z",
+    "updatedAt": "2026-01-26T16:41:04.149Z"
+  },
+  {
     "id": "95650314a64e51e8",
     "title": "Этап КМ с участием допущенного на Игры россиянина отменили из-за погоды",
     "sport": "Другое",
@@ -10,8 +52,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6977745a9a79470f6bfff4fe",
     "publishedAt": "2026-01-26T14:51:04.000Z",
-    "createdAt": "2026-01-26T15:35:54.131Z",
-    "updatedAt": "2026-01-26T15:35:54.131Z"
+    "createdAt": "2026-01-26T16:41:08.249Z",
+    "updatedAt": "2026-01-26T16:41:08.249Z"
   },
   {
     "id": "aeb1790069044a54",
@@ -24,8 +66,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/697775539a79473c6c59802b",
     "publishedAt": "2026-01-26T14:43:45.000Z",
-    "createdAt": "2026-01-26T15:35:57.609Z",
-    "updatedAt": "2026-01-26T15:35:57.609Z"
+    "createdAt": "2026-01-26T16:41:11.721Z",
+    "updatedAt": "2026-01-26T16:41:11.721Z"
   },
   {
     "id": "34ef3eec25750a79",
@@ -38,8 +80,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69776fe89a79474c900652c0",
     "publishedAt": "2026-01-26T14:26:54.000Z",
-    "createdAt": "2026-01-26T15:35:55.247Z",
-    "updatedAt": "2026-01-26T15:35:55.247Z"
+    "createdAt": "2026-01-26T16:41:09.270Z",
+    "updatedAt": "2026-01-26T16:41:09.270Z"
   },
   {
     "id": "16bcbac9f209c0f7",
@@ -52,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69776c419a7947dc620bbf15",
     "publishedAt": "2026-01-26T14:16:22.000Z",
-    "createdAt": "2026-01-26T15:35:56.362Z",
-    "updatedAt": "2026-01-26T15:35:56.362Z"
+    "createdAt": "2026-01-26T16:41:10.285Z",
+    "updatedAt": "2026-01-26T16:41:10.285Z"
   },
   {
     "id": "b181d8ca917bdf65",
@@ -66,8 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/697764729a79475f9cd4f41a",
     "publishedAt": "2026-01-26T13:33:59.000Z",
-    "createdAt": "2026-01-26T15:35:53.144Z",
-    "updatedAt": "2026-01-26T15:35:53.144Z"
+    "createdAt": "2026-01-26T16:41:06.199Z",
+    "updatedAt": "2026-01-26T16:41:06.199Z"
   },
   {
     "id": "4db89b5aa86e2457",
@@ -80,50 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69775dc69a7947e1a6234d2d",
     "publishedAt": "2026-01-26T13:16:00.000Z",
-    "createdAt": "2026-01-26T15:36:00.960Z",
-    "updatedAt": "2026-01-26T15:36:00.960Z"
-  },
-  {
-    "id": "fde54835227fd275",
-    "title": "World Aquatics утвердила юниорский рекорд мира российского пловца",
-    "sport": "Другое",
-    "category": "Другие",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/2/65/347694320486652.jpeg",
-    "teaser": "World Aquatics утвердила юниорский рекорд мира российского пловца",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69775fff9a794701436db9fe",
-    "publishedAt": "2026-01-26T13:05:27.000Z",
-    "createdAt": "2026-01-26T15:36:02.362Z",
-    "updatedAt": "2026-01-26T15:36:02.362Z"
-  },
-  {
-    "id": "8a36a7766bd14033",
-    "title": "«Спартак» представил новичка видеороликом в стиле South Park",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/6/84/347694309833846.png",
-    "teaser": "«Спартак» представил новичка видеороликом в стиле South Park",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69775f779a79470317aa7f7d",
-    "publishedAt": "2026-01-26T12:55:49.000Z",
-    "createdAt": "2026-01-26T15:35:59.861Z",
-    "updatedAt": "2026-01-26T15:35:59.861Z"
-  },
-  {
-    "id": "85bc587555852c52",
-    "title": "Российские горнолыжники получили две квоты на Олимпиаду",
-    "sport": "Другое",
-    "category": "Другие",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/7/00/347694298177007.jpeg",
-    "teaser": "Российские горнолыжники получили две квоты на Олимпиаду",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/697758809a794766b271c0ff",
-    "publishedAt": "2026-01-26T12:31:57.000Z",
-    "createdAt": "2026-01-26T15:36:03.493Z",
-    "updatedAt": "2026-01-26T15:36:03.493Z"
+    "createdAt": "2026-01-26T16:41:12.862Z",
+    "updatedAt": "2026-01-26T16:41:12.862Z"
   },
   {
     "id": "deb901d08c3079f7",
@@ -136,7 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/697711949a7947c70cc96ece",
     "publishedAt": "2026-01-26T09:08:45.000Z",
-    "createdAt": "2026-01-26T15:35:58.722Z",
-    "updatedAt": "2026-01-26T15:35:58.722Z"
+    "createdAt": "2026-01-26T16:41:07.223Z",
+    "updatedAt": "2026-01-26T16:41:07.223Z"
   }
 ]
