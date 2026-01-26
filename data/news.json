@@ -1,5 +1,47 @@
 [
   {
+    "id": "2b77735601b91a13",
+    "title": "Канадский призер Олимпиады с украинскими корнями перешел в сборную США",
+    "sport": "Другое",
+    "category": "Другие",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/2/81/347694504169812.jpeg",
+    "teaser": "Канадский призер Олимпиады с украинскими корнями перешел в сборную США",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6977a6649a79473a7908bb94",
+    "publishedAt": "2026-01-26T18:35:00.000Z",
+    "createdAt": "2026-01-26T18:44:49.663Z",
+    "updatedAt": "2026-01-26T18:44:49.663Z"
+  },
+  {
+    "id": "6fa3dd3a28715e9b",
+    "title": "Капризова признали первой звездой недели в НХЛ, Кучерова — второй",
+    "sport": "Хоккей",
+    "category": "Хоккей",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/8/91/347694509603918.jpeg",
+    "teaser": "Капризова признали первой звездой недели в НХЛ, Кучерова — второй",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6977ad3d9a79478101ad3ee2",
+    "publishedAt": "2026-01-26T18:25:19.000Z",
+    "createdAt": "2026-01-26T18:44:48.539Z",
+    "updatedAt": "2026-01-26T18:44:48.539Z"
+  },
+  {
+    "id": "7524db3f5d8b5865",
+    "title": "Рыбакина прокомментировала переход россиян под флаг Узбекистана",
+    "sport": "Теннис",
+    "category": "Теннис",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/3/54/347694482761543.jpeg",
+    "teaser": "Рыбакина прокомментировала переход россиян под флаг Узбекистана",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6977a0a59a794728e70560ee",
+    "publishedAt": "2026-01-26T17:48:27.000Z",
+    "createdAt": "2026-01-26T18:44:50.716Z",
+    "updatedAt": "2026-01-26T18:44:50.716Z"
+  },
+  {
     "id": "1f8efec27f1bc527",
     "title": "Лидер КХЛ вышел в Кубок Гагарина за 20 матчей до конца чемпионата",
     "sport": "Хоккей",
@@ -10,8 +52,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69779a4f9a79471b3cba0411",
     "publishedAt": "2026-01-26T17:09:30.000Z",
-    "createdAt": "2026-01-26T17:35:06.339Z",
-    "updatedAt": "2026-01-26T17:35:06.339Z"
+    "createdAt": "2026-01-26T18:44:51.836Z",
+    "updatedAt": "2026-01-26T18:44:51.836Z"
   },
   {
     "id": "ba717f86cc825cbc",
@@ -24,8 +66,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69778fde9a79479f3127113b",
     "publishedAt": "2026-01-26T16:27:38.000Z",
-    "createdAt": "2026-01-26T17:35:08.592Z",
-    "updatedAt": "2026-01-26T17:35:08.592Z"
+    "createdAt": "2026-01-26T18:44:54.062Z",
+    "updatedAt": "2026-01-26T18:44:54.062Z"
   },
   {
     "id": "4c3ca74a5726954a",
@@ -38,8 +80,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/697791499a79479e3197ce7b",
     "publishedAt": "2026-01-26T16:25:54.000Z",
-    "createdAt": "2026-01-26T17:35:07.510Z",
-    "updatedAt": "2026-01-26T17:35:07.510Z"
+    "createdAt": "2026-01-26T18:44:52.940Z",
+    "updatedAt": "2026-01-26T18:44:52.940Z"
   },
   {
     "id": "1d730b2080aaf9e0",
@@ -52,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/697788879a7947738b2b5bc5",
     "publishedAt": "2026-01-26T15:58:55.000Z",
-    "createdAt": "2026-01-26T17:35:09.682Z",
-    "updatedAt": "2026-01-26T17:35:09.682Z"
+    "createdAt": "2026-01-26T18:44:55.170Z",
+    "updatedAt": "2026-01-26T18:44:55.170Z"
   },
   {
     "id": "420ef33c820dd9d8",
@@ -66,8 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6977867a9a7947638688a968",
     "publishedAt": "2026-01-26T15:57:23.000Z",
-    "createdAt": "2026-01-26T17:35:13.215Z",
-    "updatedAt": "2026-01-26T17:35:13.215Z"
+    "createdAt": "2026-01-26T18:44:58.617Z",
+    "updatedAt": "2026-01-26T18:44:58.617Z"
   },
   {
     "id": "e50711c10905cc73",
@@ -80,50 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69777f839a7947a4ca1c0762",
     "publishedAt": "2026-01-26T15:26:23.000Z",
-    "createdAt": "2026-01-26T17:35:10.758Z",
-    "updatedAt": "2026-01-26T17:35:10.758Z"
-  },
-  {
-    "id": "95650314a64e51e8",
-    "title": "Этап КМ с участием допущенного на Игры россиянина отменили из-за погоды",
-    "sport": "Другое",
-    "category": "Другие",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/1/93/347694367715931.png",
-    "teaser": "Этап КМ с участием допущенного на Игры россиянина отменили из-за погоды",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6977745a9a79470f6bfff4fe",
-    "publishedAt": "2026-01-26T14:51:04.000Z",
-    "createdAt": "2026-01-26T17:35:15.250Z",
-    "updatedAt": "2026-01-26T17:35:15.250Z"
-  },
-  {
-    "id": "34ef3eec25750a79",
-    "title": "Вратаря сборной Эквадора арестовали за пьяное вождение",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/8/92/347694366798928.jpeg",
-    "teaser": "Вратаря сборной Эквадора арестовали за пьяное вождение",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69776fe89a79474c900652c0",
-    "publishedAt": "2026-01-26T14:26:54.000Z",
-    "createdAt": "2026-01-26T17:35:16.249Z",
-    "updatedAt": "2026-01-26T17:35:16.249Z"
-  },
-  {
-    "id": "b181d8ca917bdf65",
-    "title": "Стали известны все четвертьфиналисты Australian Open",
-    "sport": "Теннис",
-    "category": "Теннис",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/1/92/347694322157921.jpeg",
-    "teaser": "Стали известны все четвертьфиналисты Australian Open",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/697764729a79475f9cd4f41a",
-    "publishedAt": "2026-01-26T13:33:59.000Z",
-    "createdAt": "2026-01-26T17:35:14.292Z",
-    "updatedAt": "2026-01-26T17:35:14.292Z"
+    "createdAt": "2026-01-26T18:44:56.285Z",
+    "updatedAt": "2026-01-26T18:44:56.285Z"
   },
   {
     "id": "deb901d08c3079f7",
@@ -136,7 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/697711949a7947c70cc96ece",
     "publishedAt": "2026-01-26T09:08:45.000Z",
-    "createdAt": "2026-01-26T17:35:12.178Z",
-    "updatedAt": "2026-01-26T17:35:12.178Z"
+    "createdAt": "2026-01-26T18:44:57.465Z",
+    "updatedAt": "2026-01-26T18:44:57.465Z"
   }
 ]
