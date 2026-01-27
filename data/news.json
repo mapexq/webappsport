@@ -1,5 +1,61 @@
 [
   {
+    "id": "b9550eb358f52dad",
+    "title": "Самошников покинул сборы «Спартака» в ОАЭ по медицинским показаниям",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/9/60/347695269240609.jpeg",
+    "teaser": "Самошников покинул сборы «Спартака» в ОАЭ по медицинским показаниям",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6978d65e9a7947876aafff7b",
+    "publishedAt": "2026-01-27T15:22:06.000Z",
+    "createdAt": "2026-01-27T15:36:12.188Z",
+    "updatedAt": "2026-01-27T15:36:12.188Z"
+  },
+  {
+    "id": "1fc565a503f26d36",
+    "title": "Хоккеист «Автомобилиста» попросил клуб уволить его",
+    "sport": "Хоккей",
+    "category": "Хоккей",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/2/37/347695252834372.jpeg",
+    "teaser": "Хоккеист «Автомобилиста» попросил клуб уволить его",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6978cce79a794785d1d7b38e",
+    "publishedAt": "2026-01-27T15:19:20.000Z",
+    "createdAt": "2026-01-27T15:36:14.206Z",
+    "updatedAt": "2026-01-27T15:36:14.206Z"
+  },
+  {
+    "id": "104df416d7c30ac8",
+    "title": "Лидер РПЛ обыграл казахстанский клуб в товарищеском матче",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/7/51/347695243685517.jpeg",
+    "teaser": "Лидер РПЛ обыграл казахстанский клуб в товарищеском матче",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6978cb529a7947399ed6fbc9",
+    "publishedAt": "2026-01-27T15:10:16.000Z",
+    "createdAt": "2026-01-27T15:36:17.717Z",
+    "updatedAt": "2026-01-27T15:36:17.717Z"
+  },
+  {
+    "id": "ee83854c4dee8ec4",
+    "title": "Бывший тренер хоккейного «Спартака» стал помощником Ларионова в СКА",
+    "sport": "Хоккей",
+    "category": "Хоккей",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/4/53/347695236613534.jpeg",
+    "teaser": "Бывший тренер хоккейного «Спартака» стал помощником Ларионова в СКА",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6978c3f29a79470815638a87",
+    "publishedAt": "2026-01-27T14:36:09.000Z",
+    "createdAt": "2026-01-27T15:36:13.272Z",
+    "updatedAt": "2026-01-27T15:36:13.272Z"
+  },
+  {
     "id": "7d888e042cb1b4ec",
     "title": "Экс-гендиректор «Спартака» Цорн назначен спортивным директором «Аустрии»",
     "sport": "Футбол",
@@ -10,8 +66,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6978c68e9a794710562f7c45",
     "publishedAt": "2026-01-27T14:26:16.000Z",
-    "createdAt": "2026-01-27T14:36:42.260Z",
-    "updatedAt": "2026-01-27T14:36:42.260Z"
+    "createdAt": "2026-01-27T15:36:18.680Z",
+    "updatedAt": "2026-01-27T15:36:18.680Z"
   },
   {
     "id": "c3d4cf02a37f7a77",
@@ -24,8 +80,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6978bf439a79477a10042cad",
     "publishedAt": "2026-01-27T14:04:29.000Z",
-    "createdAt": "2026-01-27T14:36:43.374Z",
-    "updatedAt": "2026-01-27T14:36:43.374Z"
+    "createdAt": "2026-01-27T15:36:19.619Z",
+    "updatedAt": "2026-01-27T15:36:19.619Z"
   },
   {
     "id": "2157cb5e2f454647",
@@ -38,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6978b9339a7947b3cfad511a",
     "publishedAt": "2026-01-27T13:52:54.000Z",
-    "createdAt": "2026-01-27T14:36:48.020Z",
-    "updatedAt": "2026-01-27T14:36:48.020Z"
+    "createdAt": "2026-01-27T15:36:21.734Z",
+    "updatedAt": "2026-01-27T15:36:21.734Z"
   },
   {
     "id": "43691b134eeef820",
@@ -52,64 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6978b9a89a7947acbed255b3",
     "publishedAt": "2026-01-27T13:34:56.000Z",
-    "createdAt": "2026-01-27T14:36:44.509Z",
-    "updatedAt": "2026-01-27T14:36:44.509Z"
-  },
-  {
-    "id": "e70d721142451fba",
-    "title": "Улица имени олимпийского чемпиона Сайтиева появилась в Красноярске",
-    "sport": "Единоборства",
-    "category": "Единоборства",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/0/43/347695190325430.jpeg",
-    "teaser": "Улица имени олимпийского чемпиона Сайтиева появилась в Красноярске",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6978b56a9a7947daa261b559",
-    "publishedAt": "2026-01-27T13:09:05.000Z",
-    "createdAt": "2026-01-27T14:36:49.109Z",
-    "updatedAt": "2026-01-27T14:36:49.109Z"
-  },
-  {
-    "id": "a8fcd88942506bb4",
-    "title": "Россиянин проведет защиту временного пояса WBA против соотечественника",
-    "sport": "Единоборства",
-    "category": "Единоборства",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/0/92/347695183144920.jpeg",
-    "teaser": "Россиянин проведет защиту временного пояса WBA против соотечественника",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6978acf09a7947f99a19e6d3",
-    "publishedAt": "2026-01-27T13:06:35.000Z",
-    "createdAt": "2026-01-27T14:36:51.345Z",
-    "updatedAt": "2026-01-27T14:36:51.345Z"
-  },
-  {
-    "id": "f698ee05185686d9",
-    "title": "Названа дата открытия школы фигурного катания Загитовой",
-    "sport": "Другое",
-    "category": "Фигурное катание",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/8/11/347695178843118.jpeg",
-    "teaser": "Названа дата открытия школы фигурного катания Загитовой",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6978b04f9a79479b17ab87ed",
-    "publishedAt": "2026-01-27T12:56:34.000Z",
-    "createdAt": "2026-01-27T14:36:50.225Z",
-    "updatedAt": "2026-01-27T14:36:50.225Z"
-  },
-  {
-    "id": "9db9a98bd7bd1d82",
-    "title": "Вратарь ПСЖ Сафонов возобновил тренировки после перелома руки",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/6/16/347695165652166.jpeg",
-    "teaser": "Вратарь ПСЖ Сафонов возобновил тренировки после перелома руки",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6978a9b99a7947ed25dd5ab4",
-    "publishedAt": "2026-01-27T12:47:23.000Z",
-    "createdAt": "2026-01-27T14:36:52.489Z",
-    "updatedAt": "2026-01-27T14:36:52.489Z"
+    "createdAt": "2026-01-27T15:36:20.671Z",
+    "updatedAt": "2026-01-27T15:36:20.671Z"
   },
   {
     "id": "5ae2e44b8583ebd8",
@@ -122,8 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69786ce19a794729c6b62955",
     "publishedAt": "2026-01-27T11:51:24.000Z",
-    "createdAt": "2026-01-27T14:36:45.759Z",
-    "updatedAt": "2026-01-27T14:36:45.759Z"
+    "createdAt": "2026-01-27T15:36:15.369Z",
+    "updatedAt": "2026-01-27T15:36:15.369Z"
   },
   {
     "id": "2e5e0214e317f2ff",
@@ -136,7 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/697861289a7947224776c67f",
     "publishedAt": "2026-01-27T09:14:38.000Z",
-    "createdAt": "2026-01-27T14:36:46.875Z",
-    "updatedAt": "2026-01-27T14:36:46.875Z"
+    "createdAt": "2026-01-27T15:36:16.631Z",
+    "updatedAt": "2026-01-27T15:36:16.631Z"
   }
 ]
