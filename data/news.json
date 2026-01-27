@@ -1,5 +1,47 @@
 [
   {
+    "id": "0acd999fbf9667b8",
+    "title": "Гауфф разбила ракетку после поражения от Свитолиной на Australian Open",
+    "sport": "Теннис",
+    "category": "Теннис",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/4/03/347695120218034.jpeg",
+    "teaser": "Гауфф разбила ракетку после поражения от Свитолиной на Australian Open",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69789c129a79474711d554fc",
+    "publishedAt": "2026-01-27T11:18:22.000Z",
+    "createdAt": "2026-01-27T11:28:20.241Z",
+    "updatedAt": "2026-01-27T11:28:20.241Z"
+  },
+  {
+    "id": "13ddf1fb5f61e404",
+    "title": "«Зенит» продлил контракт с бразильцем Педро",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/3/06/347695097255063.jpeg",
+    "teaser": "«Зенит» продлил контракт с бразильцем Педро",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6978933d9a7947d30057893b",
+    "publishedAt": "2026-01-27T10:43:48.000Z",
+    "createdAt": "2026-01-27T11:28:21.273Z",
+    "updatedAt": "2026-01-27T11:28:21.273Z"
+  },
+  {
+    "id": "c6f798c110c3046d",
+    "title": "Генменеджер минского «Динамо» упрекнул Квартальнова за родственные связи",
+    "sport": "Хоккей",
+    "category": "Хоккей",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/6/96/347695082853966.jpeg",
+    "teaser": "Генменеджер минского «Динамо» упрекнул Квартальнова за родственные связи",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69788d859a794752c41a67ed",
+    "publishedAt": "2026-01-27T10:34:42.000Z",
+    "createdAt": "2026-01-27T11:28:22.355Z",
+    "updatedAt": "2026-01-27T11:28:22.355Z"
+  },
+  {
     "id": "a5ec2aa311c93175",
     "title": "Российских пятиборцев-юниоров допустили на международные турниры с флагом",
     "sport": "Другое",
@@ -10,8 +52,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69788b799a7947db3d3955db",
     "publishedAt": "2026-01-27T10:07:26.000Z",
-    "createdAt": "2026-01-27T10:35:00.878Z",
-    "updatedAt": "2026-01-27T10:35:00.878Z"
+    "createdAt": "2026-01-27T11:28:24.514Z",
+    "updatedAt": "2026-01-27T11:28:24.514Z"
   },
   {
     "id": "b4a33ac1e0f747db",
@@ -24,8 +66,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6978714b9a79479b7c6bb140",
     "publishedAt": "2026-01-27T09:41:44.000Z",
-    "createdAt": "2026-01-27T10:35:01.971Z",
-    "updatedAt": "2026-01-27T10:35:01.971Z"
+    "createdAt": "2026-01-27T11:28:25.820Z",
+    "updatedAt": "2026-01-27T11:28:25.820Z"
   },
   {
     "id": "785d222a774aacc4",
@@ -38,8 +80,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/697871f99a7947fa18022d53",
     "publishedAt": "2026-01-27T09:40:32.000Z",
-    "createdAt": "2026-01-27T10:35:03.044Z",
-    "updatedAt": "2026-01-27T10:35:03.044Z"
+    "createdAt": "2026-01-27T11:28:26.933Z",
+    "updatedAt": "2026-01-27T11:28:26.933Z"
   },
   {
     "id": "483b51528d63a708",
@@ -52,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69787f169a7947457590a064",
     "publishedAt": "2026-01-27T09:14:45.000Z",
-    "createdAt": "2026-01-27T10:35:05.125Z",
-    "updatedAt": "2026-01-27T10:35:05.125Z"
+    "createdAt": "2026-01-27T11:28:28.043Z",
+    "updatedAt": "2026-01-27T11:28:28.043Z"
   },
   {
     "id": "2e5e0214e317f2ff",
@@ -66,8 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/697861289a7947224776c67f",
     "publishedAt": "2026-01-27T09:14:38.000Z",
-    "createdAt": "2026-01-27T10:35:04.123Z",
-    "updatedAt": "2026-01-27T10:35:04.123Z"
+    "createdAt": "2026-01-27T11:28:23.407Z",
+    "updatedAt": "2026-01-27T11:28:23.407Z"
   },
   {
     "id": "7269545069e494d1",
@@ -80,22 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69787b719a7947f6dc7a4214",
     "publishedAt": "2026-01-27T09:12:30.000Z",
-    "createdAt": "2026-01-27T10:35:06.228Z",
-    "updatedAt": "2026-01-27T10:35:06.228Z"
-  },
-  {
-    "id": "af4148c4ace44b3e",
-    "title": "Колосков назвал смерть Игнатьева тяжелой утратой для российского футбола",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/5/29/347695018654295.jpeg",
-    "teaser": "Колосков назвал смерть Игнатьева тяжелой утратой для российского футбола",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/697872299a79474228c43218",
-    "publishedAt": "2026-01-27T08:42:10.000Z",
-    "createdAt": "2026-01-27T10:35:08.430Z",
-    "updatedAt": "2026-01-27T10:35:08.430Z"
+    "createdAt": "2026-01-27T11:28:30.155Z",
+    "updatedAt": "2026-01-27T11:28:30.155Z"
   },
   {
     "id": "bd57e42f527625c6",
@@ -108,35 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6978736a9a79470d69439a21",
     "publishedAt": "2026-01-27T08:37:45.000Z",
-    "createdAt": "2026-01-27T10:35:07.310Z",
-    "updatedAt": "2026-01-27T10:35:07.310Z"
-  },
-  {
-    "id": "cef577d86c164914",
-    "title": "Звезду НХЛ оштрафовали за показанный в камеру средний палец",
-    "sport": "Хоккей",
-    "category": "Хоккей",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/1/11/347695017313111.jpeg",
-    "teaser": "Звезду НХЛ оштрафовали за показанный в камеру средний палец",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69786d8e9a794729c6b6295f",
-    "publishedAt": "2026-01-27T08:03:04.000Z",
-    "createdAt": "2026-01-27T10:35:10.614Z",
-    "updatedAt": "2026-01-27T10:35:10.614Z"
-  },
-  {
-    "id": "4623087eecac403a",
-    "title": "Два российских вратаря сыграли «на ноль» и стали звездами дня в НХЛ",
-    "sport": "Хоккей",
-    "category": "Хоккей",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/0/44/347694993138440.jpeg",
-    "teaser": "Два российских вратаря сыграли «на ноль» и стали звездами дня в НХЛ",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69786a3f9a794751da1ae184",
-    "publishedAt": "2026-01-27T07:51:53.000Z",
-    "createdAt": "2026-01-27T10:35:09.532Z",
-    "updatedAt": "2026-01-27T10:35:09.532Z"
+    "createdAt": "2026-01-27T11:28:31.915Z",
+    "updatedAt": "2026-01-27T11:28:31.915Z"
   }
 ]
