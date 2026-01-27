@@ -1,5 +1,61 @@
 [
   {
+    "id": "3ff6cef3f0e97040",
+    "title": "МОК допустил на Олимпиаду еще четырех российских спортсменов",
+    "sport": "Другое",
+    "category": "Другие",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/0/23/347695377837230.jpeg",
+    "teaser": "МОК допустил на Олимпиаду еще четырех российских спортсменов",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6978fdd89a7947681becc6a5",
+    "publishedAt": "2026-01-27T18:15:03.000Z",
+    "createdAt": "2026-01-27T18:49:07.406Z",
+    "updatedAt": "2026-01-27T18:49:07.406Z"
+  },
+  {
+    "id": "29752753523258df",
+    "title": "Усман Нурмагомедов возглавил первый в истории рейтинг лучших бойцов PFL",
+    "sport": "Единоборства",
+    "category": "Единоборства",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/0/88/347695353813880.jpeg",
+    "teaser": "Усман Нурмагомедов возглавил первый в истории рейтинг лучших бойцов PFL",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6978f5ce9a79475c1951e10b",
+    "publishedAt": "2026-01-27T18:09:10.000Z",
+    "createdAt": "2026-01-27T18:49:08.442Z",
+    "updatedAt": "2026-01-27T18:49:08.442Z"
+  },
+  {
+    "id": "f8d58f8d98fd8da0",
+    "title": "Умер заслуженный тренер России по спортивной гимнастике Савельев",
+    "sport": "Другое",
+    "category": "Другие",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/4/19/347695352094194.jpeg",
+    "teaser": "Умер заслуженный тренер России по спортивной гимнастике Савельев",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6978f6c79a794746cee055ef",
+    "publishedAt": "2026-01-27T17:59:46.000Z",
+    "createdAt": "2026-01-27T18:49:10.644Z",
+    "updatedAt": "2026-01-27T18:49:10.644Z"
+  },
+  {
+    "id": "1a392d9558d6eb82",
+    "title": "В Мексике вооруженные люди расстреляли зрителей футбольного матча",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/8/77/347695342592778.jpeg",
+    "teaser": "В Мексике вооруженные люди расстреляли зрителей футбольного матча",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6978ee9b9a7947033df1c59d",
+    "publishedAt": "2026-01-27T17:40:38.000Z",
+    "createdAt": "2026-01-27T18:49:09.539Z",
+    "updatedAt": "2026-01-27T18:49:09.539Z"
+  },
+  {
     "id": "83ecb57367a091c6",
     "title": "Матч двух российских команд отменили из-за непогоды в Турции",
     "sport": "Футбол",
@@ -10,8 +66,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6978e8dd9a79474ecd7e5523",
     "publishedAt": "2026-01-27T17:02:09.000Z",
-    "createdAt": "2026-01-27T17:33:48.557Z",
-    "updatedAt": "2026-01-27T17:33:48.557Z"
+    "createdAt": "2026-01-27T18:49:11.846Z",
+    "updatedAt": "2026-01-27T18:49:11.846Z"
   },
   {
     "id": "4894ac3af9de7384",
@@ -24,8 +80,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6978e4e19a79474bb65f2abd",
     "publishedAt": "2026-01-27T16:38:26.000Z",
-    "createdAt": "2026-01-27T17:33:49.517Z",
-    "updatedAt": "2026-01-27T17:33:49.517Z"
+    "createdAt": "2026-01-27T18:49:12.999Z",
+    "updatedAt": "2026-01-27T18:49:12.999Z"
   },
   {
     "id": "4d5eaa272d0c18b7",
@@ -38,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6978e03d9a794720eb2a8924",
     "publishedAt": "2026-01-27T16:16:07.000Z",
-    "createdAt": "2026-01-27T17:33:50.656Z",
-    "updatedAt": "2026-01-27T17:33:50.656Z"
+    "createdAt": "2026-01-27T18:49:16.480Z",
+    "updatedAt": "2026-01-27T18:49:16.480Z"
   },
   {
     "id": "c2027d7b09ebfd3b",
@@ -52,64 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6978dade9a7947ea2b417c21",
     "publishedAt": "2026-01-27T15:43:06.000Z",
-    "createdAt": "2026-01-27T17:33:53.853Z",
-    "updatedAt": "2026-01-27T17:33:53.853Z"
-  },
-  {
-    "id": "b9550eb358f52dad",
-    "title": "Самошников покинул сборы «Спартака» в ОАЭ по медицинским показаниям",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/9/60/347695269240609.jpeg",
-    "teaser": "Самошников покинул сборы «Спартака» в ОАЭ по медицинским показаниям",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6978d65e9a7947876aafff7b",
-    "publishedAt": "2026-01-27T15:22:06.000Z",
-    "createdAt": "2026-01-27T17:33:54.854Z",
-    "updatedAt": "2026-01-27T17:33:54.854Z"
-  },
-  {
-    "id": "1fc565a503f26d36",
-    "title": "Хоккеист «Автомобилиста» попросил клуб уволить его",
-    "sport": "Хоккей",
-    "category": "Хоккей",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/2/37/347695252834372.jpeg",
-    "teaser": "Хоккеист «Автомобилиста» попросил клуб уволить его",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6978cce79a794785d1d7b38e",
-    "publishedAt": "2026-01-27T15:19:20.000Z",
-    "createdAt": "2026-01-27T17:33:56.982Z",
-    "updatedAt": "2026-01-27T17:33:56.982Z"
-  },
-  {
-    "id": "104df416d7c30ac8",
-    "title": "Лидер РПЛ обыграл казахстанский клуб в товарищеском матче",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/7/51/347695243685517.jpeg",
-    "teaser": "Лидер РПЛ обыграл казахстанский клуб в товарищеском матче",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6978cb529a7947399ed6fbc9",
-    "publishedAt": "2026-01-27T15:10:16.000Z",
-    "createdAt": "2026-01-27T17:33:57.965Z",
-    "updatedAt": "2026-01-27T17:33:57.965Z"
-  },
-  {
-    "id": "ee83854c4dee8ec4",
-    "title": "Бывший тренер хоккейного «Спартака» стал помощником Ларионова в СКА",
-    "sport": "Хоккей",
-    "category": "Хоккей",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/4/53/347695236613534.jpeg",
-    "teaser": "Бывший тренер хоккейного «Спартака» стал помощником Ларионова в СКА",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6978c3f29a79470815638a87",
-    "publishedAt": "2026-01-27T14:36:09.000Z",
-    "createdAt": "2026-01-27T17:33:55.878Z",
-    "updatedAt": "2026-01-27T17:33:55.878Z"
+    "createdAt": "2026-01-27T18:49:17.596Z",
+    "updatedAt": "2026-01-27T18:49:17.596Z"
   },
   {
     "id": "5ae2e44b8583ebd8",
@@ -122,8 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69786ce19a794729c6b62955",
     "publishedAt": "2026-01-27T11:51:24.000Z",
-    "createdAt": "2026-01-27T17:33:51.807Z",
-    "updatedAt": "2026-01-27T17:33:51.807Z"
+    "createdAt": "2026-01-27T18:49:14.262Z",
+    "updatedAt": "2026-01-27T18:49:14.262Z"
   },
   {
     "id": "2e5e0214e317f2ff",
@@ -136,7 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/697861289a7947224776c67f",
     "publishedAt": "2026-01-27T09:14:38.000Z",
-    "createdAt": "2026-01-27T17:33:52.838Z",
-    "updatedAt": "2026-01-27T17:33:52.838Z"
+    "createdAt": "2026-01-27T18:49:15.397Z",
+    "updatedAt": "2026-01-27T18:49:15.397Z"
   }
 ]
