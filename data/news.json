@@ -1,5 +1,61 @@
 [
   {
+    "id": "ce55624ab1ba0952",
+    "title": "Умер бывший главный тренер сборной России Борис Игнатьев",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/0/65/347694970011650.jpeg",
+    "teaser": "Умер бывший главный тренер сборной России Борис Игнатьев",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69785f709a7947f20dd5d0bc",
+    "publishedAt": "2026-01-27T07:27:38.000Z",
+    "createdAt": "2026-01-27T07:33:48.991Z",
+    "updatedAt": "2026-01-27T07:33:48.991Z"
+  },
+  {
+    "id": "7e860593a0a0e3bc",
+    "title": "Соболенко четвертый год подряд вышла в полуфинал Australian Open",
+    "sport": "Теннис",
+    "category": "Теннис",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/8/37/347694974063378.jpeg",
+    "teaser": "Соболенко четвертый год подряд вышла в полуфинал Australian Open",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6978630e9a79473f18117da2",
+    "publishedAt": "2026-01-27T07:21:44.000Z",
+    "createdAt": "2026-01-27T07:33:50.027Z",
+    "updatedAt": "2026-01-27T07:33:50.027Z"
+  },
+  {
+    "id": "28ad14678edffd1f",
+    "title": "Россиянин впервые с 2013 года сыграет в Матче восходящих звезд НБА",
+    "sport": "Баскетбол",
+    "category": "Баскетбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/6/79/347694961525796.jpeg",
+    "teaser": "Россиянин впервые с 2013 года сыграет в Матче восходящих звезд НБА",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6978569e9a79474fdfc9578a",
+    "publishedAt": "2026-01-27T07:20:41.000Z",
+    "createdAt": "2026-01-27T07:33:50.936Z",
+    "updatedAt": "2026-01-27T07:33:50.936Z"
+  },
+  {
+    "id": "bd0efa9040aa7d13",
+    "title": "Какой футбольный клуб заработал больше всех в мире",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/7/47/347691840991477.jpeg",
+    "teaser": "Какой футбольный клуб заработал больше всех в мире",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69732aad9a79471c8171a5ce",
+    "publishedAt": "2026-01-26T21:01:13.000Z",
+    "createdAt": "2026-01-27T07:33:52.045Z",
+    "updatedAt": "2026-01-27T07:33:52.045Z"
+  },
+  {
     "id": "0c5b3a9d08891a8a",
     "title": "«Динамо» прервало трехматчевую победную серию «Лады» в КХЛ",
     "sport": "Хоккей",
@@ -10,22 +66,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6977b9fe9a79478afce5b64b",
     "publishedAt": "2026-01-26T19:10:35.000Z",
-    "createdAt": "2026-01-27T06:44:42.299Z",
-    "updatedAt": "2026-01-27T06:44:42.299Z"
-  },
-  {
-    "id": "fdea00d8bb3361dc",
-    "title": "Матч НХЛ перенесли на полтора месяца из-за непогоды",
-    "sport": "Хоккей",
-    "category": "Хоккей",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/2/34/347694490589342.jpeg",
-    "teaser": "Матч НХЛ перенесли на полтора месяца из-за непогоды",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6977a52f9a79475b364dba57",
-    "publishedAt": "2026-01-26T19:08:39.000Z",
-    "createdAt": "2026-01-27T06:44:43.371Z",
-    "updatedAt": "2026-01-27T06:44:43.371Z"
+    "createdAt": "2026-01-27T07:33:59.294Z",
+    "updatedAt": "2026-01-27T07:33:59.294Z"
   },
   {
     "id": "f9b5b64886ef7fa7",
@@ -38,8 +80,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6977b0579a79473df6cd0141",
     "publishedAt": "2026-01-26T18:53:50.000Z",
-    "createdAt": "2026-01-27T06:44:38.048Z",
-    "updatedAt": "2026-01-27T06:44:38.048Z"
+    "createdAt": "2026-01-27T07:33:54.605Z",
+    "updatedAt": "2026-01-27T07:33:54.605Z"
   },
   {
     "id": "2b77735601b91a13",
@@ -52,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6977a6649a79473a7908bb94",
     "publishedAt": "2026-01-26T18:35:00.000Z",
-    "createdAt": "2026-01-27T06:44:39.151Z",
-    "updatedAt": "2026-01-27T06:44:39.151Z"
+    "createdAt": "2026-01-27T07:33:55.772Z",
+    "updatedAt": "2026-01-27T07:33:55.772Z"
   },
   {
     "id": "6fa3dd3a28715e9b",
@@ -66,8 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6977ad3d9a79478101ad3ee2",
     "publishedAt": "2026-01-26T18:25:19.000Z",
-    "createdAt": "2026-01-27T06:44:36.958Z",
-    "updatedAt": "2026-01-27T06:44:36.958Z"
+    "createdAt": "2026-01-27T07:33:53.107Z",
+    "updatedAt": "2026-01-27T07:33:53.107Z"
   },
   {
     "id": "7524db3f5d8b5865",
@@ -80,8 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6977a0a59a794728e70560ee",
     "publishedAt": "2026-01-26T17:48:27.000Z",
-    "createdAt": "2026-01-27T06:44:41.296Z",
-    "updatedAt": "2026-01-27T06:44:41.296Z"
+    "createdAt": "2026-01-27T07:33:58.161Z",
+    "updatedAt": "2026-01-27T07:33:58.161Z"
   },
   {
     "id": "1f8efec27f1bc527",
@@ -94,49 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69779a4f9a79471b3cba0411",
     "publishedAt": "2026-01-26T17:09:30.000Z",
-    "createdAt": "2026-01-27T06:44:40.236Z",
-    "updatedAt": "2026-01-27T06:44:40.236Z"
-  },
-  {
-    "id": "ba717f86cc825cbc",
-    "title": "«Динамо» уступило в серии пенальти в товарищеском матче китайскому клубу",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/3/62/347694439205623.jpeg",
-    "teaser": "«Динамо» уступило в серии пенальти в товарищеском матче китайскому клубу",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69778fde9a79479f3127113b",
-    "publishedAt": "2026-01-26T16:27:38.000Z",
-    "createdAt": "2026-01-27T06:44:46.848Z",
-    "updatedAt": "2026-01-27T06:44:46.848Z"
-  },
-  {
-    "id": "4c3ca74a5726954a",
-    "title": "«Бавария» начала переговоры с Гарри Кейном по новому контракту",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/2/22/347694437867222.jpeg",
-    "teaser": "«Бавария» начала переговоры с Гарри Кейном по новому контракту",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/697791499a79479e3197ce7b",
-    "publishedAt": "2026-01-26T16:25:54.000Z",
-    "createdAt": "2026-01-27T06:44:45.512Z",
-    "updatedAt": "2026-01-27T06:44:45.512Z"
-  },
-  {
-    "id": "deb901d08c3079f7",
-    "title": "Стал ли Australian Open-2026 провальным для россиян",
-    "sport": "Теннис",
-    "category": "Теннис",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/0/53/347694113219530.jpeg",
-    "teaser": "Стал ли Australian Open-2026 провальным для россиян",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/697711949a7947c70cc96ece",
-    "publishedAt": "2026-01-26T09:08:45.000Z",
-    "createdAt": "2026-01-27T06:44:44.427Z",
-    "updatedAt": "2026-01-27T06:44:44.427Z"
+    "createdAt": "2026-01-27T07:33:57.001Z",
+    "updatedAt": "2026-01-27T07:33:57.001Z"
   }
 ]
