@@ -1,5 +1,89 @@
 [
   {
+    "id": "7d888e042cb1b4ec",
+    "title": "Экс-гендиректор «Спартака» Цорн назначен спортивным директором «Аустрии»",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/2/77/347695233390772.jpeg",
+    "teaser": "Экс-гендиректор «Спартака» Цорн назначен спортивным директором «Аустрии»",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6978c68e9a794710562f7c45",
+    "publishedAt": "2026-01-27T14:26:16.000Z",
+    "createdAt": "2026-01-27T14:36:42.260Z",
+    "updatedAt": "2026-01-27T14:36:42.260Z"
+  },
+  {
+    "id": "c3d4cf02a37f7a77",
+    "title": "Полузащитник «Динамо» Макаров перешел в турецкий «Кайсериспор»",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/3/72/347695219852723.jpeg",
+    "teaser": "Полузащитник «Динамо» Макаров перешел в турецкий «Кайсериспор»",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6978bf439a79477a10042cad",
+    "publishedAt": "2026-01-27T14:04:29.000Z",
+    "createdAt": "2026-01-27T14:36:43.374Z",
+    "updatedAt": "2026-01-27T14:36:43.374Z"
+  },
+  {
+    "id": "2157cb5e2f454647",
+    "title": "Гендир минского «Динамо» урегулировал спор с недовольством Квартальнова",
+    "sport": "Хоккей",
+    "category": "Хоккей",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/3/54/347695214494543.jpeg",
+    "teaser": "Гендир минского «Динамо» урегулировал спор с недовольством Квартальнова",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6978b9339a7947b3cfad511a",
+    "publishedAt": "2026-01-27T13:52:54.000Z",
+    "createdAt": "2026-01-27T14:36:48.020Z",
+    "updatedAt": "2026-01-27T14:36:48.020Z"
+  },
+  {
+    "id": "43691b134eeef820",
+    "title": "Роналду поздравил невесту Джорджину с днем рождения подарком от Rolex",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/4/71/347695201806714.jpeg",
+    "teaser": "Роналду поздравил невесту Джорджину с днем рождения подарком от Rolex",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6978b9a89a7947acbed255b3",
+    "publishedAt": "2026-01-27T13:34:56.000Z",
+    "createdAt": "2026-01-27T14:36:44.509Z",
+    "updatedAt": "2026-01-27T14:36:44.509Z"
+  },
+  {
+    "id": "e70d721142451fba",
+    "title": "Улица имени олимпийского чемпиона Сайтиева появилась в Красноярске",
+    "sport": "Единоборства",
+    "category": "Единоборства",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/0/43/347695190325430.jpeg",
+    "teaser": "Улица имени олимпийского чемпиона Сайтиева появилась в Красноярске",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6978b56a9a7947daa261b559",
+    "publishedAt": "2026-01-27T13:09:05.000Z",
+    "createdAt": "2026-01-27T14:36:49.109Z",
+    "updatedAt": "2026-01-27T14:36:49.109Z"
+  },
+  {
+    "id": "a8fcd88942506bb4",
+    "title": "Россиянин проведет защиту временного пояса WBA против соотечественника",
+    "sport": "Единоборства",
+    "category": "Единоборства",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/0/92/347695183144920.jpeg",
+    "teaser": "Россиянин проведет защиту временного пояса WBA против соотечественника",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6978acf09a7947f99a19e6d3",
+    "publishedAt": "2026-01-27T13:06:35.000Z",
+    "createdAt": "2026-01-27T14:36:51.345Z",
+    "updatedAt": "2026-01-27T14:36:51.345Z"
+  },
+  {
     "id": "f698ee05185686d9",
     "title": "Названа дата открытия школы фигурного катания Загитовой",
     "sport": "Другое",
@@ -10,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6978b04f9a79479b17ab87ed",
     "publishedAt": "2026-01-27T12:56:34.000Z",
-    "createdAt": "2026-01-27T13:03:20.942Z",
-    "updatedAt": "2026-01-27T13:03:20.942Z"
+    "createdAt": "2026-01-27T14:36:50.225Z",
+    "updatedAt": "2026-01-27T14:36:50.225Z"
   },
   {
     "id": "9db9a98bd7bd1d82",
@@ -24,22 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6978a9b99a7947ed25dd5ab4",
     "publishedAt": "2026-01-27T12:47:23.000Z",
-    "createdAt": "2026-01-27T13:03:22.041Z",
-    "updatedAt": "2026-01-27T13:03:22.041Z"
-  },
-  {
-    "id": "4faf8d8d8c09a410",
-    "title": "Плющенко заявил, что ушедшая на две недели Костылева для него «как дочка»",
-    "sport": "Другое",
-    "category": "Фигурное катание",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/9/61/347695155839619.jpeg",
-    "teaser": "Плющенко заявил, что ушедшая на две недели Костылева для него «как дочка»",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6978a4469a7947ad1f7cbbf1",
-    "publishedAt": "2026-01-27T12:25:07.000Z",
-    "createdAt": "2026-01-27T13:03:23.156Z",
-    "updatedAt": "2026-01-27T13:03:23.156Z"
+    "createdAt": "2026-01-27T14:36:52.489Z",
+    "updatedAt": "2026-01-27T14:36:52.489Z"
   },
   {
     "id": "5ae2e44b8583ebd8",
@@ -52,78 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69786ce19a794729c6b62955",
     "publishedAt": "2026-01-27T11:51:24.000Z",
-    "createdAt": "2026-01-27T13:03:24.369Z",
-    "updatedAt": "2026-01-27T13:03:24.369Z"
-  },
-  {
-    "id": "368f8c632bd9efa4",
-    "title": "Первая ракетка мира Алькарас впервые вышел в полуфинал Australian Open",
-    "sport": "Теннис",
-    "category": "Теннис",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/6/36/347695132691366.jpeg",
-    "teaser": "Первая ракетка мира Алькарас впервые вышел в полуфинал Australian Open",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6978a1089a7947230c0482ac",
-    "publishedAt": "2026-01-27T11:49:06.000Z",
-    "createdAt": "2026-01-27T13:03:26.529Z",
-    "updatedAt": "2026-01-27T13:03:26.529Z"
-  },
-  {
-    "id": "1a8d8775643c2a15",
-    "title": "Карпин назвал Игнатьева добрейшим души человеком, готовым всегда помочь",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/3/86/347695129978863.jpeg",
-    "teaser": "Карпин назвал Игнатьева добрейшим души человеком, готовым всегда помочь",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69789ad49a79473029d7fbe9",
-    "publishedAt": "2026-01-27T11:35:22.000Z",
-    "createdAt": "2026-01-27T13:03:27.652Z",
-    "updatedAt": "2026-01-27T13:03:27.652Z"
-  },
-  {
-    "id": "0acd999fbf9667b8",
-    "title": "Гауфф разбила ракетку после поражения от Свитолиной на Australian Open",
-    "sport": "Теннис",
-    "category": "Теннис",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/4/03/347695120218034.jpeg",
-    "teaser": "Гауфф разбила ракетку после поражения от Свитолиной на Australian Open",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69789c129a79474711d554fc",
-    "publishedAt": "2026-01-27T11:18:22.000Z",
-    "createdAt": "2026-01-27T13:03:28.741Z",
-    "updatedAt": "2026-01-27T13:03:28.741Z"
-  },
-  {
-    "id": "13ddf1fb5f61e404",
-    "title": "«Зенит» продлил контракт с бразильцем Педро",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/3/06/347695097255063.jpeg",
-    "teaser": "«Зенит» продлил контракт с бразильцем Педро",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6978933d9a7947d30057893b",
-    "publishedAt": "2026-01-27T10:43:48.000Z",
-    "createdAt": "2026-01-27T13:03:29.807Z",
-    "updatedAt": "2026-01-27T13:03:29.807Z"
-  },
-  {
-    "id": "c6f798c110c3046d",
-    "title": "Генменеджер минского «Динамо» упрекнул Квартальнова за родственные связи",
-    "sport": "Хоккей",
-    "category": "Хоккей",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/6/96/347695082853966.jpeg",
-    "teaser": "Генменеджер минского «Динамо» упрекнул Квартальнова за родственные связи",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69788d859a794752c41a67ed",
-    "publishedAt": "2026-01-27T10:34:42.000Z",
-    "createdAt": "2026-01-27T13:03:30.881Z",
-    "updatedAt": "2026-01-27T13:03:30.881Z"
+    "createdAt": "2026-01-27T14:36:45.759Z",
+    "updatedAt": "2026-01-27T14:36:45.759Z"
   },
   {
     "id": "2e5e0214e317f2ff",
@@ -136,7 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/697861289a7947224776c67f",
     "publishedAt": "2026-01-27T09:14:38.000Z",
-    "createdAt": "2026-01-27T13:03:25.458Z",
-    "updatedAt": "2026-01-27T13:03:25.458Z"
+    "createdAt": "2026-01-27T14:36:46.875Z",
+    "updatedAt": "2026-01-27T14:36:46.875Z"
   }
 ]
