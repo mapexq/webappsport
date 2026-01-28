@@ -1,5 +1,19 @@
 [
   {
+    "id": "4516eeb2564bfa8a",
+    "title": "«Адмирал» прервал серию из девяти поражений в КХЛ",
+    "sport": "Хоккей",
+    "category": "Хоккей",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/9/48/347696156087489.jpeg",
+    "teaser": "«Адмирал» прервал серию из девяти поражений в КХЛ",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/697a306f9a79472c88464818",
+    "publishedAt": "2026-01-28T16:24:10.000Z",
+    "createdAt": "2026-01-28T16:46:16.732Z",
+    "updatedAt": "2026-01-28T16:46:16.732Z"
+  },
+  {
     "id": "5f2b4dfd0f7707cb",
     "title": "Стала известна дата похорон экс-тренера сборной России Бориса Игнатьева",
     "sport": "Футбол",
@@ -10,8 +24,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/697a243e9a7947252ba693de",
     "publishedAt": "2026-01-28T15:29:24.000Z",
-    "createdAt": "2026-01-28T15:39:09.028Z",
-    "updatedAt": "2026-01-28T15:39:09.028Z"
+    "createdAt": "2026-01-28T16:46:17.789Z",
+    "updatedAt": "2026-01-28T16:46:17.789Z"
   },
   {
     "id": "fd8d761b602fc31d",
@@ -24,8 +38,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/697a1ed09a7947688655e0ab",
     "publishedAt": "2026-01-28T14:54:42.000Z",
-    "createdAt": "2026-01-28T15:39:08.029Z",
-    "updatedAt": "2026-01-28T15:39:08.029Z"
+    "createdAt": "2026-01-28T16:46:18.839Z",
+    "updatedAt": "2026-01-28T16:46:18.839Z"
   },
   {
     "id": "7caeb65ce009a013",
@@ -38,8 +52,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/697a16129a7947685b843666",
     "publishedAt": "2026-01-28T14:42:33.000Z",
-    "createdAt": "2026-01-28T15:39:10.025Z",
-    "updatedAt": "2026-01-28T15:39:10.025Z"
+    "createdAt": "2026-01-28T16:46:19.879Z",
+    "updatedAt": "2026-01-28T16:46:19.879Z"
   },
   {
     "id": "081626dd7c8ea22f",
@@ -52,8 +66,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/697a169a9a7947685b84366f",
     "publishedAt": "2026-01-28T14:30:40.000Z",
-    "createdAt": "2026-01-28T15:39:13.075Z",
-    "updatedAt": "2026-01-28T15:39:13.075Z"
+    "createdAt": "2026-01-28T16:46:23.032Z",
+    "updatedAt": "2026-01-28T16:46:23.032Z"
   },
   {
     "id": "8185e0ed6965b9aa",
@@ -66,8 +80,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/697a001c9a7947197a94f159",
     "publishedAt": "2026-01-28T14:19:01.000Z",
-    "createdAt": "2026-01-28T15:39:10.971Z",
-    "updatedAt": "2026-01-28T15:39:10.971Z"
+    "createdAt": "2026-01-28T16:46:20.932Z",
+    "updatedAt": "2026-01-28T16:46:20.932Z"
   },
   {
     "id": "42cc892470ba71b5",
@@ -80,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/697a136c9a79470ab04741bc",
     "publishedAt": "2026-01-28T14:15:55.000Z",
-    "createdAt": "2026-01-28T15:39:12.025Z",
-    "updatedAt": "2026-01-28T15:39:12.025Z"
+    "createdAt": "2026-01-28T16:46:21.982Z",
+    "updatedAt": "2026-01-28T16:46:21.982Z"
   },
   {
     "id": "d14f7cf1aa7b5751",
@@ -94,8 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/697a0ee59a79470391f731a2",
     "publishedAt": "2026-01-28T13:59:05.000Z",
-    "createdAt": "2026-01-28T15:39:16.177Z",
-    "updatedAt": "2026-01-28T15:39:16.177Z"
+    "createdAt": "2026-01-28T16:46:26.213Z",
+    "updatedAt": "2026-01-28T16:46:26.213Z"
   },
   {
     "id": "4e943b097ea6a24e",
@@ -108,8 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/697a0f2a9a794761136e179c",
     "publishedAt": "2026-01-28T13:57:27.000Z",
-    "createdAt": "2026-01-28T15:39:14.181Z",
-    "updatedAt": "2026-01-28T15:39:14.181Z"
+    "createdAt": "2026-01-28T16:46:24.085Z",
+    "updatedAt": "2026-01-28T16:46:24.085Z"
   },
   {
     "id": "cd7fe6f06a884448",
@@ -122,21 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/697a0a199a7947184028dc02",
     "publishedAt": "2026-01-28T13:44:04.000Z",
-    "createdAt": "2026-01-28T15:39:15.174Z",
-    "updatedAt": "2026-01-28T15:39:15.174Z"
-  },
-  {
-    "id": "7889a451071f988f",
-    "title": "Норвежские спортсмены стали избегать секса из-за страха перед допингом",
-    "sport": "Другое",
-    "category": "Другие",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/0/73/347696029849730.jpeg",
-    "teaser": "Норвежские спортсмены стали избегать секса из-за страха перед допингом",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6979fb429a794757381f6ec4",
-    "publishedAt": "2026-01-28T12:43:41.000Z",
-    "createdAt": "2026-01-28T15:39:17.179Z",
-    "updatedAt": "2026-01-28T15:39:17.179Z"
+    "createdAt": "2026-01-28T16:46:25.155Z",
+    "updatedAt": "2026-01-28T16:46:25.155Z"
   }
 ]
