@@ -1,5 +1,33 @@
 [
   {
+    "id": "57aa4d8d495084ea",
+    "title": "Уроженка Москвы вышла в полуфинал Australian Open",
+    "sport": "Теннис",
+    "category": "Теннис",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/8/47/347695815018478.jpeg",
+    "teaser": "Уроженка Москвы вышла в полуфинал Australian Open",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6979a8539a79473a11ca749e",
+    "publishedAt": "2026-01-28T07:30:45.000Z",
+    "createdAt": "2026-01-28T07:32:32.889Z",
+    "updatedAt": "2026-01-28T07:32:32.889Z"
+  },
+  {
+    "id": "75a9d28a610035cc",
+    "title": "Овечкин сократил отставание от рекорда Гретцки в НХЛ до 20 шайб",
+    "sport": "Хоккей",
+    "category": "Хоккей",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/7/18/347695786034187.jpeg",
+    "teaser": "Овечкин сократил отставание от рекорда Гретцки в НХЛ до 20 шайб",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69799f3c9a7947233dc2cabb",
+    "publishedAt": "2026-01-28T06:28:40.000Z",
+    "createdAt": "2026-01-28T07:32:33.894Z",
+    "updatedAt": "2026-01-28T07:32:33.894Z"
+  },
+  {
     "id": "916e457b58f13971",
     "title": "«Локомотив» нанес СКА пятое подряд поражение в КХЛ",
     "sport": "Хоккей",
@@ -10,8 +38,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/697904109a79471c7d2182dd",
     "publishedAt": "2026-01-27T18:59:47.000Z",
-    "createdAt": "2026-01-28T06:45:21.442Z",
-    "updatedAt": "2026-01-28T06:45:21.442Z"
+    "createdAt": "2026-01-28T07:32:35.901Z",
+    "updatedAt": "2026-01-28T07:32:35.901Z"
   },
   {
     "id": "3ff6cef3f0e97040",
@@ -24,8 +52,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6978fdd89a7947681becc6a5",
     "publishedAt": "2026-01-27T18:15:03.000Z",
-    "createdAt": "2026-01-28T06:45:20.481Z",
-    "updatedAt": "2026-01-28T06:45:20.481Z"
+    "createdAt": "2026-01-28T07:32:34.903Z",
+    "updatedAt": "2026-01-28T07:32:34.903Z"
   },
   {
     "id": "29752753523258df",
@@ -38,8 +66,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6978f5ce9a79475c1951e10b",
     "publishedAt": "2026-01-27T18:09:10.000Z",
-    "createdAt": "2026-01-28T06:45:22.497Z",
-    "updatedAt": "2026-01-28T06:45:22.497Z"
+    "createdAt": "2026-01-28T07:32:36.980Z",
+    "updatedAt": "2026-01-28T07:32:36.980Z"
   },
   {
     "id": "f8d58f8d98fd8da0",
@@ -52,8 +80,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6978f6c79a794746cee055ef",
     "publishedAt": "2026-01-27T17:59:46.000Z",
-    "createdAt": "2026-01-28T06:45:24.545Z",
-    "updatedAt": "2026-01-28T06:45:24.545Z"
+    "createdAt": "2026-01-28T07:32:39.146Z",
+    "updatedAt": "2026-01-28T07:32:39.146Z"
   },
   {
     "id": "1a392d9558d6eb82",
@@ -66,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6978ee9b9a7947033df1c59d",
     "publishedAt": "2026-01-27T17:40:38.000Z",
-    "createdAt": "2026-01-28T06:45:23.534Z",
-    "updatedAt": "2026-01-28T06:45:23.534Z"
+    "createdAt": "2026-01-28T07:32:38.070Z",
+    "updatedAt": "2026-01-28T07:32:38.070Z"
   },
   {
     "id": "83ecb57367a091c6",
@@ -80,8 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6978e8dd9a79474ecd7e5523",
     "publishedAt": "2026-01-27T17:02:09.000Z",
-    "createdAt": "2026-01-28T06:45:25.543Z",
-    "updatedAt": "2026-01-28T06:45:25.543Z"
+    "createdAt": "2026-01-28T07:32:40.200Z",
+    "updatedAt": "2026-01-28T07:32:40.200Z"
   },
   {
     "id": "4894ac3af9de7384",
@@ -94,22 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6978e4e19a79474bb65f2abd",
     "publishedAt": "2026-01-27T16:38:26.000Z",
-    "createdAt": "2026-01-28T06:45:26.555Z",
-    "updatedAt": "2026-01-28T06:45:26.555Z"
-  },
-  {
-    "id": "4d5eaa272d0c18b7",
-    "title": "«Металлург» четвертый раз в сезоне обыграл финалиста Кубка Гагарина",
-    "sport": "Хоккей",
-    "category": "Хоккей",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/9/06/347695295110069.jpeg",
-    "teaser": "«Металлург» четвертый раз в сезоне обыграл финалиста Кубка Гагарина",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6978e03d9a794720eb2a8924",
-    "publishedAt": "2026-01-27T16:16:07.000Z",
-    "createdAt": "2026-01-28T06:45:29.779Z",
-    "updatedAt": "2026-01-28T06:45:29.779Z"
+    "createdAt": "2026-01-28T07:32:41.285Z",
+    "updatedAt": "2026-01-28T07:32:41.285Z"
   },
   {
     "id": "5ae2e44b8583ebd8",
@@ -122,21 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69786ce19a794729c6b62955",
     "publishedAt": "2026-01-27T11:51:24.000Z",
-    "createdAt": "2026-01-28T06:45:27.740Z",
-    "updatedAt": "2026-01-28T06:45:27.740Z"
-  },
-  {
-    "id": "2e5e0214e317f2ff",
-    "title": "Чем запомнился тренер «беспризорной» сборной России Борис Игнатьев",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/1/32/347695060906321.jpeg",
-    "teaser": "Чем запомнился тренер «беспризорной» сборной России Борис Игнатьев",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/697861289a7947224776c67f",
-    "publishedAt": "2026-01-27T09:14:38.000Z",
-    "createdAt": "2026-01-28T06:45:28.771Z",
-    "updatedAt": "2026-01-28T06:45:28.771Z"
+    "createdAt": "2026-01-28T07:32:42.528Z",
+    "updatedAt": "2026-01-28T07:32:42.528Z"
   }
 ]
