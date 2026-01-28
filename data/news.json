@@ -1,5 +1,47 @@
 [
   {
+    "id": "5f2b4dfd0f7707cb",
+    "title": "Стала известна дата похорон экс-тренера сборной России Бориса Игнатьева",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/6/72/347696130097726.jpeg",
+    "teaser": "Стала известна дата похорон экс-тренера сборной России Бориса Игнатьева",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/697a243e9a7947252ba693de",
+    "publishedAt": "2026-01-28T15:29:24.000Z",
+    "createdAt": "2026-01-28T15:39:09.028Z",
+    "updatedAt": "2026-01-28T15:39:09.028Z"
+  },
+  {
+    "id": "fd8d761b602fc31d",
+    "title": "Двукратный олимпийский чемпион обвинил FIS в трусости при допуске россиян",
+    "sport": "Другое",
+    "category": "Другие",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/5/15/347696117386155.jpeg",
+    "teaser": "Двукратный олимпийский чемпион обвинил FIS в трусости при допуске россиян",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/697a1ed09a7947688655e0ab",
+    "publishedAt": "2026-01-28T14:54:42.000Z",
+    "createdAt": "2026-01-28T15:39:08.029Z",
+    "updatedAt": "2026-01-28T15:39:08.029Z"
+  },
+  {
+    "id": "7caeb65ce009a013",
+    "title": "Щербакова посетит соревнования по фигурному катанию на ОИ-2026 в Италии",
+    "sport": "Другое",
+    "category": "Фигурное катание",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/9/57/347696104994579.jpeg",
+    "teaser": "Щербакова посетит соревнования по фигурному катанию на ОИ-2026 в Италии",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/697a16129a7947685b843666",
+    "publishedAt": "2026-01-28T14:42:33.000Z",
+    "createdAt": "2026-01-28T15:39:10.025Z",
+    "updatedAt": "2026-01-28T15:39:10.025Z"
+  },
+  {
     "id": "081626dd7c8ea22f",
     "title": "Обменянный на француза Касаткин дебютировал за «Енисей» 12 очками",
     "sport": "Баскетбол",
@@ -10,8 +52,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/697a169a9a7947685b84366f",
     "publishedAt": "2026-01-28T14:30:40.000Z",
-    "createdAt": "2026-01-28T14:37:23.710Z",
-    "updatedAt": "2026-01-28T14:37:23.710Z"
+    "createdAt": "2026-01-28T15:39:13.075Z",
+    "updatedAt": "2026-01-28T15:39:13.075Z"
   },
   {
     "id": "8185e0ed6965b9aa",
@@ -24,8 +66,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/697a001c9a7947197a94f159",
     "publishedAt": "2026-01-28T14:19:01.000Z",
-    "createdAt": "2026-01-28T14:37:21.560Z",
-    "updatedAt": "2026-01-28T14:37:21.560Z"
+    "createdAt": "2026-01-28T15:39:10.971Z",
+    "updatedAt": "2026-01-28T15:39:10.971Z"
   },
   {
     "id": "42cc892470ba71b5",
@@ -38,8 +80,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/697a136c9a79470ab04741bc",
     "publishedAt": "2026-01-28T14:15:55.000Z",
-    "createdAt": "2026-01-28T14:37:22.662Z",
-    "updatedAt": "2026-01-28T14:37:22.662Z"
+    "createdAt": "2026-01-28T15:39:12.025Z",
+    "updatedAt": "2026-01-28T15:39:12.025Z"
   },
   {
     "id": "d14f7cf1aa7b5751",
@@ -52,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/697a0ee59a79470391f731a2",
     "publishedAt": "2026-01-28T13:59:05.000Z",
-    "createdAt": "2026-01-28T14:37:27.228Z",
-    "updatedAt": "2026-01-28T14:37:27.228Z"
+    "createdAt": "2026-01-28T15:39:16.177Z",
+    "updatedAt": "2026-01-28T15:39:16.177Z"
   },
   {
     "id": "4e943b097ea6a24e",
@@ -66,8 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/697a0f2a9a794761136e179c",
     "publishedAt": "2026-01-28T13:57:27.000Z",
-    "createdAt": "2026-01-28T14:37:24.824Z",
-    "updatedAt": "2026-01-28T14:37:24.824Z"
+    "createdAt": "2026-01-28T15:39:14.181Z",
+    "updatedAt": "2026-01-28T15:39:14.181Z"
   },
   {
     "id": "cd7fe6f06a884448",
@@ -80,22 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/697a0a199a7947184028dc02",
     "publishedAt": "2026-01-28T13:44:04.000Z",
-    "createdAt": "2026-01-28T14:37:25.964Z",
-    "updatedAt": "2026-01-28T14:37:25.964Z"
-  },
-  {
-    "id": "38bd811bdb1ffdfc",
-    "title": "«Зенит» назначил третьего за неделю тренера после отстранения Секулича",
-    "sport": "Баскетбол",
-    "category": "Баскетбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/1/58/347696053304581.jpeg",
-    "teaser": "«Зенит» назначил третьего за неделю тренера после отстранения Секулича",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/697a04c89a79475508b556bb",
-    "publishedAt": "2026-01-28T13:09:46.000Z",
-    "createdAt": "2026-01-28T14:37:29.301Z",
-    "updatedAt": "2026-01-28T14:37:29.301Z"
+    "createdAt": "2026-01-28T15:39:15.174Z",
+    "updatedAt": "2026-01-28T15:39:15.174Z"
   },
   {
     "id": "7889a451071f988f",
@@ -108,35 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6979fb429a794757381f6ec4",
     "publishedAt": "2026-01-28T12:43:41.000Z",
-    "createdAt": "2026-01-28T14:37:28.244Z",
-    "updatedAt": "2026-01-28T14:37:28.244Z"
-  },
-  {
-    "id": "c4eb5de8332a3f5d",
-    "title": "Рахимов впервые прокомментировал свое увольнение из «Рубина»",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/3/53/347696025649533.jpeg",
-    "teaser": "Рахимов впервые прокомментировал свое увольнение из «Рубина»",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6979fdd99a7947863efb5bc0",
-    "publishedAt": "2026-01-28T12:29:54.000Z",
-    "createdAt": "2026-01-28T14:37:30.429Z",
-    "updatedAt": "2026-01-28T14:37:30.429Z"
-  },
-  {
-    "id": "0cb3eef17ea18cea",
-    "title": "В ЦСКА рассказали о переговорах с двумя сербскими защитниками",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/3/37/347696025813373.jpeg",
-    "teaser": "В ЦСКА рассказали о переговорах с двумя сербскими защитниками",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6979f8059a7947597d0c71c2",
-    "publishedAt": "2026-01-28T12:27:03.000Z",
-    "createdAt": "2026-01-28T14:37:31.559Z",
-    "updatedAt": "2026-01-28T14:37:31.559Z"
+    "createdAt": "2026-01-28T15:39:17.179Z",
+    "updatedAt": "2026-01-28T15:39:17.179Z"
   }
 ]
