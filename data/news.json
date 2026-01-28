@@ -1,5 +1,47 @@
 [
   {
+    "id": "c359fc3c772d192e",
+    "title": "В турецком клубе сравнили российского новичка с Арьеном Роббеном",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/4/03/347696237724034.jpeg",
+    "teaser": "В турецком клубе сравнили российского новичка с Арьеном Роббеном",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/697a506b9a7947c7a4a97df6",
+    "publishedAt": "2026-01-28T18:25:05.000Z",
+    "createdAt": "2026-01-28T18:45:05.846Z",
+    "updatedAt": "2026-01-28T18:45:05.846Z"
+  },
+  {
+    "id": "1ac5c134eae28bd8",
+    "title": "ФИФА сообщила о рекордных тратах клубов на трансферы в 2025 году",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/9/39/347696201836399.jpeg",
+    "teaser": "ФИФА сообщила о рекордных тратах клубов на трансферы в 2025 году",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/697a3c429a794769981ca267",
+    "publishedAt": "2026-01-28T17:51:58.000Z",
+    "createdAt": "2026-01-28T18:45:06.896Z",
+    "updatedAt": "2026-01-28T18:45:06.896Z"
+  },
+  {
+    "id": "f5e352966abdedf1",
+    "title": "Тренер «Спартака» Жамнов пропустил игру с «Ладой» из-за рождения сына",
+    "sport": "Хоккей",
+    "category": "Хоккей",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/3/56/347696212535563.jpeg",
+    "teaser": "Тренер «Спартака» Жамнов пропустил игру с «Ладой» из-за рождения сына",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/697a45739a794784dafc01af",
+    "publishedAt": "2026-01-28T17:35:50.000Z",
+    "createdAt": "2026-01-28T18:45:07.940Z",
+    "updatedAt": "2026-01-28T18:45:07.940Z"
+  },
+  {
     "id": "01d712bf2a977c96",
     "title": "У российской легкоатлетки Клишиной отобрали подаренную властями квартиру",
     "sport": "Другое",
@@ -10,8 +52,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/697a37689a794796ea670e11",
     "publishedAt": "2026-01-28T17:00:50.000Z",
-    "createdAt": "2026-01-28T17:36:56.131Z",
-    "updatedAt": "2026-01-28T17:36:56.131Z"
+    "createdAt": "2026-01-28T18:45:09.079Z",
+    "updatedAt": "2026-01-28T18:45:09.079Z"
   },
   {
     "id": "4516eeb2564bfa8a",
@@ -24,8 +66,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/697a306f9a79472c88464818",
     "publishedAt": "2026-01-28T16:24:10.000Z",
-    "createdAt": "2026-01-28T17:36:57.183Z",
-    "updatedAt": "2026-01-28T17:36:57.183Z"
+    "createdAt": "2026-01-28T18:45:10.209Z",
+    "updatedAt": "2026-01-28T18:45:10.209Z"
   },
   {
     "id": "5f2b4dfd0f7707cb",
@@ -38,8 +80,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/697a243e9a7947252ba693de",
     "publishedAt": "2026-01-28T15:29:24.000Z",
-    "createdAt": "2026-01-28T17:36:58.197Z",
-    "updatedAt": "2026-01-28T17:36:58.197Z"
+    "createdAt": "2026-01-28T18:45:11.437Z",
+    "updatedAt": "2026-01-28T18:45:11.437Z"
   },
   {
     "id": "fd8d761b602fc31d",
@@ -52,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/697a1ed09a7947688655e0ab",
     "publishedAt": "2026-01-28T14:54:42.000Z",
-    "createdAt": "2026-01-28T17:36:59.219Z",
-    "updatedAt": "2026-01-28T17:36:59.219Z"
+    "createdAt": "2026-01-28T18:45:12.440Z",
+    "updatedAt": "2026-01-28T18:45:12.440Z"
   },
   {
     "id": "7caeb65ce009a013",
@@ -66,22 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/697a16129a7947685b843666",
     "publishedAt": "2026-01-28T14:42:33.000Z",
-    "createdAt": "2026-01-28T17:37:00.289Z",
-    "updatedAt": "2026-01-28T17:37:00.289Z"
-  },
-  {
-    "id": "081626dd7c8ea22f",
-    "title": "Обменянный на француза Касаткин дебютировал за «Енисей» 12 очками",
-    "sport": "Баскетбол",
-    "category": "Баскетбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/9/05/347696096193059.jpeg",
-    "teaser": "Обменянный на француза Касаткин дебютировал за «Енисей» 12 очками",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/697a169a9a7947685b84366f",
-    "publishedAt": "2026-01-28T14:30:40.000Z",
-    "createdAt": "2026-01-28T17:37:03.322Z",
-    "updatedAt": "2026-01-28T17:37:03.322Z"
+    "createdAt": "2026-01-28T18:45:13.512Z",
+    "updatedAt": "2026-01-28T18:45:13.512Z"
   },
   {
     "id": "8185e0ed6965b9aa",
@@ -94,8 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/697a001c9a7947197a94f159",
     "publishedAt": "2026-01-28T14:19:01.000Z",
-    "createdAt": "2026-01-28T17:37:01.297Z",
-    "updatedAt": "2026-01-28T17:37:01.297Z"
+    "createdAt": "2026-01-28T18:45:14.582Z",
+    "updatedAt": "2026-01-28T18:45:14.582Z"
   },
   {
     "id": "42cc892470ba71b5",
@@ -108,35 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/697a136c9a79470ab04741bc",
     "publishedAt": "2026-01-28T14:15:55.000Z",
-    "createdAt": "2026-01-28T17:37:02.312Z",
-    "updatedAt": "2026-01-28T17:37:02.312Z"
-  },
-  {
-    "id": "4e943b097ea6a24e",
-    "title": "Экс-чемпион мира в тяжелом весе Фьюри проведет бой с российским боксером",
-    "sport": "Единоборства",
-    "category": "Единоборства",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/4/82/347696080042824.jpeg",
-    "teaser": "Экс-чемпион мира в тяжелом весе Фьюри проведет бой с российским боксером",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/697a0f2a9a794761136e179c",
-    "publishedAt": "2026-01-28T13:57:27.000Z",
-    "createdAt": "2026-01-28T17:37:04.344Z",
-    "updatedAt": "2026-01-28T17:37:04.344Z"
-  },
-  {
-    "id": "cd7fe6f06a884448",
-    "title": "В Аргентине появится второй по размеру футбольный стадион в мире",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/8/55/347696066113558.jpeg",
-    "teaser": "В Аргентине появится второй по размеру футбольный стадион в мире",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/697a0a199a7947184028dc02",
-    "publishedAt": "2026-01-28T13:44:04.000Z",
-    "createdAt": "2026-01-28T17:37:05.389Z",
-    "updatedAt": "2026-01-28T17:37:05.389Z"
+    "createdAt": "2026-01-28T18:45:15.709Z",
+    "updatedAt": "2026-01-28T18:45:15.709Z"
   }
 ]
