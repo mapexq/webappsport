@@ -1,5 +1,75 @@
 [
   {
+    "id": "7889a451071f988f",
+    "title": "Норвежские спортсмены стали избегать секса из-за страха перед допингом",
+    "sport": "Другое",
+    "category": "Другие",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/0/73/347696029849730.jpeg",
+    "teaser": "Норвежские спортсмены стали избегать секса из-за страха перед допингом",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6979fb429a794757381f6ec4",
+    "publishedAt": "2026-01-28T12:43:41.000Z",
+    "createdAt": "2026-01-28T13:03:23.455Z",
+    "updatedAt": "2026-01-28T13:03:23.455Z"
+  },
+  {
+    "id": "c4eb5de8332a3f5d",
+    "title": "Рахимов впервые прокомментировал свое увольнение из «Рубина»",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/3/53/347696025649533.jpeg",
+    "teaser": "Рахимов впервые прокомментировал свое увольнение из «Рубина»",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6979fdd99a7947863efb5bc0",
+    "publishedAt": "2026-01-28T12:29:54.000Z",
+    "createdAt": "2026-01-28T13:03:24.469Z",
+    "updatedAt": "2026-01-28T13:03:24.469Z"
+  },
+  {
+    "id": "0cb3eef17ea18cea",
+    "title": "В ЦСКА рассказали о переговорах с двумя сербскими защитниками",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/3/37/347696025813373.jpeg",
+    "teaser": "В ЦСКА рассказали о переговорах с двумя сербскими защитниками",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6979f8059a7947597d0c71c2",
+    "publishedAt": "2026-01-28T12:27:03.000Z",
+    "createdAt": "2026-01-28T13:03:25.436Z",
+    "updatedAt": "2026-01-28T13:03:25.436Z"
+  },
+  {
+    "id": "433e7eb2f8e2b2f6",
+    "title": "Умер олимпийский чемпион по спортивной гимнастике Франко Меникелли",
+    "sport": "Другое",
+    "category": "Другие",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/6/12/347696001751126.jpeg",
+    "teaser": "Умер олимпийский чемпион по спортивной гимнастике Франко Меникелли",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6979eee19a7947dc8c8f1d2b",
+    "publishedAt": "2026-01-28T11:44:35.000Z",
+    "createdAt": "2026-01-28T13:03:27.506Z",
+    "updatedAt": "2026-01-28T13:03:27.506Z"
+  },
+  {
+    "id": "1a57fedd201c9ed9",
+    "title": "Евгения Медведева опубликовала фото в свадебном платье",
+    "sport": "Другое",
+    "category": "Фигурное катание",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/0/65/347695986404650.jpeg",
+    "teaser": "Евгения Медведева опубликовала фото в свадебном платье",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6979ee489a79478c992f6a18",
+    "publishedAt": "2026-01-28T11:24:00.000Z",
+    "createdAt": "2026-01-28T13:03:26.483Z",
+    "updatedAt": "2026-01-28T13:03:26.483Z"
+  },
+  {
     "id": "7f86a30419bb52fc",
     "title": "Сафонов впервые после перелома попал в заявку на матч ПСЖ",
     "sport": "Футбол",
@@ -10,8 +80,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6979e55d9a79470e97f3a35a",
     "publishedAt": "2026-01-28T11:06:55.000Z",
-    "createdAt": "2026-01-28T11:28:30.797Z",
-    "updatedAt": "2026-01-28T11:28:30.797Z"
+    "createdAt": "2026-01-28T13:03:29.574Z",
+    "updatedAt": "2026-01-28T13:03:29.574Z"
   },
   {
     "id": "8e8eb85c61500a51",
@@ -24,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6979e6c49a794738c877dd3a",
     "publishedAt": "2026-01-28T10:57:06.000Z",
-    "createdAt": "2026-01-28T11:28:29.737Z",
-    "updatedAt": "2026-01-28T11:28:29.737Z"
+    "createdAt": "2026-01-28T13:03:28.535Z",
+    "updatedAt": "2026-01-28T13:03:28.535Z"
   },
   {
     "id": "e3c021585a41eb05",
@@ -38,8 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6979db079a7947722b900334",
     "publishedAt": "2026-01-28T10:29:13.000Z",
-    "createdAt": "2026-01-28T11:28:31.811Z",
-    "updatedAt": "2026-01-28T11:28:31.811Z"
+    "createdAt": "2026-01-28T13:03:30.589Z",
+    "updatedAt": "2026-01-28T13:03:30.589Z"
   },
   {
     "id": "a32d4cd48d358a20",
@@ -52,8 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6979d1fa9a7947d58633e7ce",
     "publishedAt": "2026-01-28T09:48:09.000Z",
-    "createdAt": "2026-01-28T11:28:32.878Z",
-    "updatedAt": "2026-01-28T11:28:32.878Z"
+    "createdAt": "2026-01-28T13:03:31.632Z",
+    "updatedAt": "2026-01-28T13:03:31.632Z"
   },
   {
     "id": "a9be828a3aaaeddc",
@@ -66,77 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6979d3de9a794736ae992638",
     "publishedAt": "2026-01-28T09:41:31.000Z",
-    "createdAt": "2026-01-28T11:28:33.880Z",
-    "updatedAt": "2026-01-28T11:28:33.880Z"
-  },
-  {
-    "id": "2e0bfa9996c62b38",
-    "title": "Джокович заявил, что Музетти должен был обыграть его на Australian Open",
-    "sport": "Теннис",
-    "category": "Теннис",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/0/08/347695900344080.jpeg",
-    "teaser": "Джокович заявил, что Музетти должен был обыграть его на Australian Open",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6979c81c9a7947693a226e3e",
-    "publishedAt": "2026-01-28T08:58:33.000Z",
-    "createdAt": "2026-01-28T11:28:34.977Z",
-    "updatedAt": "2026-01-28T11:28:34.977Z"
-  },
-  {
-    "id": "148654e38ae4612d",
-    "title": "Царукян проведет поединок с блогером в борцовской лиге RAF",
-    "sport": "Другое",
-    "category": "Другие",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/5/37/347695895128375.jpeg",
-    "teaser": "Царукян проведет поединок с блогером в борцовской лиге RAF",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6979cad09a79470cccb44310",
-    "publishedAt": "2026-01-28T08:48:54.000Z",
-    "createdAt": "2026-01-28T11:28:36.051Z",
-    "updatedAt": "2026-01-28T11:28:36.051Z"
-  },
-  {
-    "id": "19f229a51b9b2c63",
-    "title": "Баскетбольный «Зенит» уволил главного тренера и его помощников",
-    "sport": "Баскетбол",
-    "category": "Баскетбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/8/73/347695881863738.jpeg",
-    "teaser": "Баскетбольный «Зенит» уволил главного тренера и его помощников",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6979bff99a7947ba0464fe0f",
-    "publishedAt": "2026-01-28T08:19:33.000Z",
-    "createdAt": "2026-01-28T11:28:37.110Z",
-    "updatedAt": "2026-01-28T11:28:37.110Z"
-  },
-  {
-    "id": "4072b4c822c20214",
-    "title": "Кто из россиян выступит на зимних Олимпийских играх 2026 года",
-    "sport": "Другое",
-    "category": "Другие",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/1/56/347657258224561.jpeg",
-    "teaser": "Кто из россиян выступит на зимних Олимпийских играх 2026 года",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/693ec5129a7947445fd83a5e",
-    "publishedAt": "2026-01-28T08:06:17.000Z",
-    "createdAt": "2026-01-28T11:28:38.182Z",
-    "updatedAt": "2026-01-28T11:28:38.182Z"
-  },
-  {
-    "id": "0b8a35e1383e7504",
-    "title": "Вторая ракетка мира Свёнтек сравнила теннисистов с животными в зоопарке",
-    "sport": "Теннис",
-    "category": "Теннис",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/8/80/347695860049808.jpeg",
-    "teaser": "Вторая ракетка мира Свёнтек сравнила теннисистов с животными в зоопарке",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6979b7af9a794746c848ffbe",
-    "publishedAt": "2026-01-28T07:57:55.000Z",
-    "createdAt": "2026-01-28T11:28:39.250Z",
-    "updatedAt": "2026-01-28T11:28:39.250Z"
+    "createdAt": "2026-01-28T13:03:32.671Z",
+    "updatedAt": "2026-01-28T13:03:32.671Z"
   }
 ]
