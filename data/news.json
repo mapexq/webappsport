@@ -1,5 +1,89 @@
 [
   {
+    "id": "0be0a601d8ce05f2",
+    "title": "Звонарева не вышла в финал Australian Open в парном разряде",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/7/35/347696766257357.jpeg",
+    "teaser": "Звонарева не вышла в финал Australian Open в парном разряде",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/697b1d429a7947d8b64c9fcf",
+    "publishedAt": "2026-01-29T09:02:29.000Z",
+    "createdAt": "2026-01-29T09:51:27.209Z",
+    "updatedAt": "2026-01-29T09:51:27.209Z"
+  },
+  {
+    "id": "d97c744c05cb758f",
+    "title": "Умер чемпион мира по спортивной акробатике Василий Скакун",
+    "sport": "Другое",
+    "category": "Другие",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/6/69/347696750385696.jpeg",
+    "teaser": "Умер чемпион мира по спортивной акробатике Василий Скакун",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/697b16109a794701787126e8",
+    "publishedAt": "2026-01-29T08:34:31.000Z",
+    "createdAt": "2026-01-29T09:51:28.210Z",
+    "updatedAt": "2026-01-29T09:51:28.210Z"
+  },
+  {
+    "id": "aa4c7003185f8f73",
+    "title": "Панарина вывели из состава клуба НХЛ на фоне разговоров об обмене",
+    "sport": "Хоккей",
+    "category": "Хоккей",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/5/78/347696731802785.jpeg",
+    "teaser": "Панарина вывели из состава клуба НХЛ на фоне разговоров об обмене",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/697b0b4c9a79477e321a2b7c",
+    "publishedAt": "2026-01-29T08:08:36.000Z",
+    "createdAt": "2026-01-29T09:51:29.215Z",
+    "updatedAt": "2026-01-29T09:51:29.215Z"
+  },
+  {
+    "id": "e84d49e4b32929fa",
+    "title": "58-летнюю российскую каноистку дисквалифицировали за допинг",
+    "sport": "Другое",
+    "category": "Другие",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/6/25/347696703541256.jpeg",
+    "teaser": "58-летнюю российскую каноистку дисквалифицировали за допинг",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/697b01bd9a7947fb539bb980",
+    "publishedAt": "2026-01-29T07:22:15.000Z",
+    "createdAt": "2026-01-29T09:51:31.352Z",
+    "updatedAt": "2026-01-29T09:51:31.352Z"
+  },
+  {
+    "id": "e912ca2b3066bf54",
+    "title": "Тренер ПСЖ прокомментировал выбор Сафонова для стартового состава",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/4/09/347696682625094.jpeg",
+    "teaser": "Тренер ПСЖ прокомментировал выбор Сафонова для стартового состава",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/697afa599a794766213c0db8",
+    "publishedAt": "2026-01-29T07:14:36.000Z",
+    "createdAt": "2026-01-29T09:51:32.456Z",
+    "updatedAt": "2026-01-29T09:51:32.456Z"
+  },
+  {
+    "id": "d4cc823806892235",
+    "title": "Определились все участники плей-офф Лиги чемпионов",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/6/71/347696338685716.jpeg",
+    "teaser": "Определились все участники плей-офф Лиги чемпионов",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/697a74499a79473b443f233a",
+    "publishedAt": "2026-01-28T22:33:47.000Z",
+    "createdAt": "2026-01-29T09:51:33.485Z",
+    "updatedAt": "2026-01-29T09:51:33.485Z"
+  },
+  {
     "id": "bba96b735a61475c",
     "title": "ЦСКА пропустил на второй минуте, но обыграл «Динамо» в матче КХЛ",
     "sport": "Хоккей",
@@ -10,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/697a547d9a7947b37ef76e12",
     "publishedAt": "2026-01-28T18:54:35.000Z",
-    "createdAt": "2026-01-29T08:50:08.926Z",
-    "updatedAt": "2026-01-29T08:50:08.926Z"
+    "createdAt": "2026-01-29T09:51:30.288Z",
+    "updatedAt": "2026-01-29T09:51:30.288Z"
   },
   {
     "id": "809ae9b25041d973",
@@ -24,8 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/697a4dae9a7947b1c223ac28",
     "publishedAt": "2026-01-28T18:49:23.000Z",
-    "createdAt": "2026-01-29T08:50:11.200Z",
-    "updatedAt": "2026-01-29T08:50:11.200Z"
+    "createdAt": "2026-01-29T09:51:35.694Z",
+    "updatedAt": "2026-01-29T09:51:35.694Z"
   },
   {
     "id": "c359fc3c772d192e",
@@ -38,36 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/697a506b9a7947c7a4a97df6",
     "publishedAt": "2026-01-28T18:25:05.000Z",
-    "createdAt": "2026-01-29T08:50:10.060Z",
-    "updatedAt": "2026-01-29T08:50:10.060Z"
-  },
-  {
-    "id": "1ac5c134eae28bd8",
-    "title": "ФИФА сообщила о рекордных тратах клубов на трансферы в 2025 году",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/9/39/347696201836399.jpeg",
-    "teaser": "ФИФА сообщила о рекордных тратах клубов на трансферы в 2025 году",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/697a3c429a794769981ca267",
-    "publishedAt": "2026-01-28T17:51:58.000Z",
-    "createdAt": "2026-01-29T08:50:13.424Z",
-    "updatedAt": "2026-01-29T08:50:13.424Z"
-  },
-  {
-    "id": "f5e352966abdedf1",
-    "title": "Тренер «Спартака» Жамнов пропустил игру с «Ладой» из-за рождения сына",
-    "sport": "Хоккей",
-    "category": "Хоккей",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/3/56/347696212535563.jpeg",
-    "teaser": "Тренер «Спартака» Жамнов пропустил игру с «Ладой» из-за рождения сына",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/697a45739a794784dafc01af",
-    "publishedAt": "2026-01-28T17:35:50.000Z",
-    "createdAt": "2026-01-29T08:50:14.339Z",
-    "updatedAt": "2026-01-29T08:50:14.339Z"
+    "createdAt": "2026-01-29T09:51:34.534Z",
+    "updatedAt": "2026-01-29T09:51:34.534Z"
   },
   {
     "id": "01d712bf2a977c96",
@@ -80,63 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/697a37689a794796ea670e11",
     "publishedAt": "2026-01-28T17:00:50.000Z",
-    "createdAt": "2026-01-29T08:50:12.265Z",
-    "updatedAt": "2026-01-29T08:50:12.265Z"
-  },
-  {
-    "id": "4516eeb2564bfa8a",
-    "title": "«Адмирал» прервал серию из девяти поражений в КХЛ",
-    "sport": "Хоккей",
-    "category": "Хоккей",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/9/48/347696156087489.jpeg",
-    "teaser": "«Адмирал» прервал серию из девяти поражений в КХЛ",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/697a306f9a79472c88464818",
-    "publishedAt": "2026-01-28T16:24:10.000Z",
-    "createdAt": "2026-01-29T08:50:15.660Z",
-    "updatedAt": "2026-01-29T08:50:15.660Z"
-  },
-  {
-    "id": "5f2b4dfd0f7707cb",
-    "title": "Стала известна дата похорон экс-тренера сборной России Бориса Игнатьева",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/6/72/347696130097726.jpeg",
-    "teaser": "Стала известна дата похорон экс-тренера сборной России Бориса Игнатьева",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/697a243e9a7947252ba693de",
-    "publishedAt": "2026-01-28T15:29:24.000Z",
-    "createdAt": "2026-01-29T08:50:16.763Z",
-    "updatedAt": "2026-01-29T08:50:16.763Z"
-  },
-  {
-    "id": "fd8d761b602fc31d",
-    "title": "Двукратный олимпийский чемпион обвинил FIS в трусости при допуске россиян",
-    "sport": "Другое",
-    "category": "Другие",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/5/15/347696117386155.jpeg",
-    "teaser": "Двукратный олимпийский чемпион обвинил FIS в трусости при допуске россиян",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/697a1ed09a7947688655e0ab",
-    "publishedAt": "2026-01-28T14:54:42.000Z",
-    "createdAt": "2026-01-29T08:50:17.885Z",
-    "updatedAt": "2026-01-29T08:50:17.885Z"
-  },
-  {
-    "id": "7caeb65ce009a013",
-    "title": "Щербакова посетит соревнования по фигурному катанию на ОИ-2026 в Италии",
-    "sport": "Другое",
-    "category": "Фигурное катание",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/9/57/347696104994579.jpeg",
-    "teaser": "Щербакова посетит соревнования по фигурному катанию на ОИ-2026 в Италии",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/697a16129a7947685b843666",
-    "publishedAt": "2026-01-28T14:42:33.000Z",
-    "createdAt": "2026-01-29T08:50:19.008Z",
-    "updatedAt": "2026-01-29T08:50:19.008Z"
+    "createdAt": "2026-01-29T09:51:36.783Z",
+    "updatedAt": "2026-01-29T09:51:36.783Z"
   }
 ]
