@@ -1,5 +1,33 @@
 [
   {
+    "id": "1a9a0403ece3d413",
+    "title": "Соболенко победила первую ракетку Украины и вышла в финал Australian Open",
+    "sport": "Теннис",
+    "category": "Теннис",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/1/42/347696804106421.jpeg",
+    "teaser": "Соболенко победила первую ракетку Украины и вышла в финал Australian Open",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/697b2d8b9a794726a1a9ee2b",
+    "publishedAt": "2026-01-29T10:20:31.000Z",
+    "createdAt": "2026-01-29T10:43:17.800Z",
+    "updatedAt": "2026-01-29T10:43:17.800Z"
+  },
+  {
+    "id": "c05271b760b19acb",
+    "title": "«Спартак» остался на несколько матчей КХЛ без главного тренера",
+    "sport": "Хоккей",
+    "category": "Хоккей",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/2/95/347696785936952.png",
+    "teaser": "«Спартак» остался на несколько матчей КХЛ без главного тренера",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/697b25249a794772338fa6d7",
+    "publishedAt": "2026-01-29T09:24:59.000Z",
+    "createdAt": "2026-01-29T10:43:18.932Z",
+    "updatedAt": "2026-01-29T10:43:18.932Z"
+  },
+  {
     "id": "0be0a601d8ce05f2",
     "title": "Звонарева не вышла в финал Australian Open в парном разряде",
     "sport": "Футбол",
@@ -10,8 +38,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/697b1d429a7947d8b64c9fcf",
     "publishedAt": "2026-01-29T09:02:29.000Z",
-    "createdAt": "2026-01-29T09:51:27.209Z",
-    "updatedAt": "2026-01-29T09:51:27.209Z"
+    "createdAt": "2026-01-29T10:43:20.074Z",
+    "updatedAt": "2026-01-29T10:43:20.074Z"
   },
   {
     "id": "d97c744c05cb758f",
@@ -24,8 +52,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/697b16109a794701787126e8",
     "publishedAt": "2026-01-29T08:34:31.000Z",
-    "createdAt": "2026-01-29T09:51:28.210Z",
-    "updatedAt": "2026-01-29T09:51:28.210Z"
+    "createdAt": "2026-01-29T10:43:21.123Z",
+    "updatedAt": "2026-01-29T10:43:21.123Z"
   },
   {
     "id": "aa4c7003185f8f73",
@@ -38,8 +66,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/697b0b4c9a79477e321a2b7c",
     "publishedAt": "2026-01-29T08:08:36.000Z",
-    "createdAt": "2026-01-29T09:51:29.215Z",
-    "updatedAt": "2026-01-29T09:51:29.215Z"
+    "createdAt": "2026-01-29T10:43:22.235Z",
+    "updatedAt": "2026-01-29T10:43:22.235Z"
   },
   {
     "id": "e84d49e4b32929fa",
@@ -52,8 +80,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/697b01bd9a7947fb539bb980",
     "publishedAt": "2026-01-29T07:22:15.000Z",
-    "createdAt": "2026-01-29T09:51:31.352Z",
-    "updatedAt": "2026-01-29T09:51:31.352Z"
+    "createdAt": "2026-01-29T10:43:24.473Z",
+    "updatedAt": "2026-01-29T10:43:24.473Z"
   },
   {
     "id": "e912ca2b3066bf54",
@@ -66,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/697afa599a794766213c0db8",
     "publishedAt": "2026-01-29T07:14:36.000Z",
-    "createdAt": "2026-01-29T09:51:32.456Z",
-    "updatedAt": "2026-01-29T09:51:32.456Z"
+    "createdAt": "2026-01-29T10:43:25.582Z",
+    "updatedAt": "2026-01-29T10:43:25.582Z"
   },
   {
     "id": "d4cc823806892235",
@@ -80,8 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/697a74499a79473b443f233a",
     "publishedAt": "2026-01-28T22:33:47.000Z",
-    "createdAt": "2026-01-29T09:51:33.485Z",
-    "updatedAt": "2026-01-29T09:51:33.485Z"
+    "createdAt": "2026-01-29T10:43:26.696Z",
+    "updatedAt": "2026-01-29T10:43:26.696Z"
   },
   {
     "id": "bba96b735a61475c",
@@ -94,22 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/697a547d9a7947b37ef76e12",
     "publishedAt": "2026-01-28T18:54:35.000Z",
-    "createdAt": "2026-01-29T09:51:30.288Z",
-    "updatedAt": "2026-01-29T09:51:30.288Z"
-  },
-  {
-    "id": "809ae9b25041d973",
-    "title": "«Салават Юлаев» 2-й раз в сезоне обыграл «Ак Барс» в «зеленом дерби» КХЛ",
-    "sport": "Хоккей",
-    "category": "Хоккей",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/0/55/347696241684550.jpeg",
-    "teaser": "«Салават Юлаев» 2-й раз в сезоне обыграл «Ак Барс» в «зеленом дерби» КХЛ",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/697a4dae9a7947b1c223ac28",
-    "publishedAt": "2026-01-28T18:49:23.000Z",
-    "createdAt": "2026-01-29T09:51:35.694Z",
-    "updatedAt": "2026-01-29T09:51:35.694Z"
+    "createdAt": "2026-01-29T10:43:23.343Z",
+    "updatedAt": "2026-01-29T10:43:23.343Z"
   },
   {
     "id": "c359fc3c772d192e",
@@ -122,21 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/697a506b9a7947c7a4a97df6",
     "publishedAt": "2026-01-28T18:25:05.000Z",
-    "createdAt": "2026-01-29T09:51:34.534Z",
-    "updatedAt": "2026-01-29T09:51:34.534Z"
-  },
-  {
-    "id": "01d712bf2a977c96",
-    "title": "У российской легкоатлетки Клишиной отобрали подаренную властями квартиру",
-    "sport": "Другое",
-    "category": "Другие",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/1/73/347696180430731.jpeg",
-    "teaser": "У российской легкоатлетки Клишиной отобрали подаренную властями квартиру",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/697a37689a794796ea670e11",
-    "publishedAt": "2026-01-28T17:00:50.000Z",
-    "createdAt": "2026-01-29T09:51:36.783Z",
-    "updatedAt": "2026-01-29T09:51:36.783Z"
+    "createdAt": "2026-01-29T10:43:27.820Z",
+    "updatedAt": "2026-01-29T10:43:27.820Z"
   }
 ]
