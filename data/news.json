@@ -1,5 +1,33 @@
 [
   {
+    "id": "6e8ca8fef6f125c3",
+    "title": "Уроженка Москвы снова сыграет с Соболенко в финале Australian Open",
+    "sport": "Теннис",
+    "category": "Теннис",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/5/36/347696845110365.jpeg",
+    "teaser": "Уроженка Москвы снова сыграет с Соболенко в финале Australian Open",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/697b3df79a79477388c31e97",
+    "publishedAt": "2026-01-29T12:14:04.000Z",
+    "createdAt": "2026-01-29T13:10:08.035Z",
+    "updatedAt": "2026-01-29T13:10:08.035Z"
+  },
+  {
+    "id": "bf761c5e613acfdd",
+    "title": "Клуб КХЛ прервал девятиматчевую серию поражений",
+    "sport": "Хоккей",
+    "category": "Хоккей",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/8/35/347696863395358.png",
+    "teaser": "Клуб КХЛ прервал девятиматчевую серию поражений",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/697b3ebb9a7947f45c29a737",
+    "publishedAt": "2026-01-29T11:37:35.000Z",
+    "createdAt": "2026-01-29T13:10:09.023Z",
+    "updatedAt": "2026-01-29T13:10:09.023Z"
+  },
+  {
     "id": "3f308c15ee136cd5",
     "title": "С клуба Слуцкого сняли десять очков в чемпионате Китая",
     "sport": "Футбол",
@@ -10,8 +38,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/697b33459a79477079c5ead3",
     "publishedAt": "2026-01-29T11:15:59.000Z",
-    "createdAt": "2026-01-29T11:36:02.773Z",
-    "updatedAt": "2026-01-29T11:36:02.773Z"
+    "createdAt": "2026-01-29T13:10:12.226Z",
+    "updatedAt": "2026-01-29T13:10:12.226Z"
   },
   {
     "id": "68ad76609a482d0b",
@@ -24,8 +52,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/697b35489a7947032dfb4489",
     "publishedAt": "2026-01-29T11:00:02.000Z",
-    "createdAt": "2026-01-29T11:36:01.023Z",
-    "updatedAt": "2026-01-29T11:36:01.023Z"
+    "createdAt": "2026-01-29T13:10:10.056Z",
+    "updatedAt": "2026-01-29T13:10:10.056Z"
   },
   {
     "id": "1a9a0403ece3d413",
@@ -38,8 +66,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/697b2d8b9a794726a1a9ee2b",
     "publishedAt": "2026-01-29T10:20:31.000Z",
-    "createdAt": "2026-01-29T11:36:01.960Z",
-    "updatedAt": "2026-01-29T11:36:01.960Z"
+    "createdAt": "2026-01-29T13:10:11.116Z",
+    "updatedAt": "2026-01-29T13:10:11.116Z"
   },
   {
     "id": "c05271b760b19acb",
@@ -52,8 +80,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/697b25249a794772338fa6d7",
     "publishedAt": "2026-01-29T09:24:59.000Z",
-    "createdAt": "2026-01-29T11:36:03.773Z",
-    "updatedAt": "2026-01-29T11:36:03.773Z"
+    "createdAt": "2026-01-29T13:10:13.209Z",
+    "updatedAt": "2026-01-29T13:10:13.209Z"
   },
   {
     "id": "0be0a601d8ce05f2",
@@ -66,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/697b1d429a7947d8b64c9fcf",
     "publishedAt": "2026-01-29T09:02:29.000Z",
-    "createdAt": "2026-01-29T11:36:04.762Z",
-    "updatedAt": "2026-01-29T11:36:04.762Z"
+    "createdAt": "2026-01-29T13:10:14.191Z",
+    "updatedAt": "2026-01-29T13:10:14.191Z"
   },
   {
     "id": "d97c744c05cb758f",
@@ -80,8 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/697b16109a794701787126e8",
     "publishedAt": "2026-01-29T08:34:31.000Z",
-    "createdAt": "2026-01-29T11:36:05.701Z",
-    "updatedAt": "2026-01-29T11:36:05.701Z"
+    "createdAt": "2026-01-29T13:10:15.176Z",
+    "updatedAt": "2026-01-29T13:10:15.176Z"
   },
   {
     "id": "aa4c7003185f8f73",
@@ -94,36 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/697b0b4c9a79477e321a2b7c",
     "publishedAt": "2026-01-29T08:08:36.000Z",
-    "createdAt": "2026-01-29T11:36:06.712Z",
-    "updatedAt": "2026-01-29T11:36:06.712Z"
-  },
-  {
-    "id": "e84d49e4b32929fa",
-    "title": "58-летнюю российскую каноистку дисквалифицировали за допинг",
-    "sport": "Другое",
-    "category": "Другие",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/6/25/347696703541256.jpeg",
-    "teaser": "58-летнюю российскую каноистку дисквалифицировали за допинг",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/697b01bd9a7947fb539bb980",
-    "publishedAt": "2026-01-29T07:22:15.000Z",
-    "createdAt": "2026-01-29T11:36:08.745Z",
-    "updatedAt": "2026-01-29T11:36:08.745Z"
-  },
-  {
-    "id": "e912ca2b3066bf54",
-    "title": "Тренер ПСЖ прокомментировал выбор Сафонова для стартового состава",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/4/09/347696682625094.jpeg",
-    "teaser": "Тренер ПСЖ прокомментировал выбор Сафонова для стартового состава",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/697afa599a794766213c0db8",
-    "publishedAt": "2026-01-29T07:14:36.000Z",
-    "createdAt": "2026-01-29T11:36:09.760Z",
-    "updatedAt": "2026-01-29T11:36:09.760Z"
+    "createdAt": "2026-01-29T13:10:16.153Z",
+    "updatedAt": "2026-01-29T13:10:16.153Z"
   },
   {
     "id": "bba96b735a61475c",
@@ -136,7 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/697a547d9a7947b37ef76e12",
     "publishedAt": "2026-01-28T18:54:35.000Z",
-    "createdAt": "2026-01-29T11:36:07.740Z",
-    "updatedAt": "2026-01-29T11:36:07.740Z"
+    "createdAt": "2026-01-29T13:10:17.152Z",
+    "updatedAt": "2026-01-29T13:10:17.152Z"
   }
 ]
