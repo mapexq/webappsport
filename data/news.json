@@ -1,5 +1,33 @@
 [
   {
+    "id": "3f308c15ee136cd5",
+    "title": "С клуба Слуцкого сняли десять очков в чемпионате Китая",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/3/45/347696832002453.jpeg",
+    "teaser": "С клуба Слуцкого сняли десять очков в чемпионате Китая",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/697b33459a79477079c5ead3",
+    "publishedAt": "2026-01-29T11:15:59.000Z",
+    "createdAt": "2026-01-29T11:36:02.773Z",
+    "updatedAt": "2026-01-29T11:36:02.773Z"
+  },
+  {
+    "id": "68ad76609a482d0b",
+    "title": "У Соболенко забрали очко в матче Australian Open за «ненормальный» крик",
+    "sport": "Теннис",
+    "category": "Теннис",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/1/49/347696824158491.jpeg",
+    "teaser": "У Соболенко забрали очко в матче Australian Open за «ненормальный» крик",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/697b35489a7947032dfb4489",
+    "publishedAt": "2026-01-29T11:00:02.000Z",
+    "createdAt": "2026-01-29T11:36:01.023Z",
+    "updatedAt": "2026-01-29T11:36:01.023Z"
+  },
+  {
     "id": "1a9a0403ece3d413",
     "title": "Соболенко победила первую ракетку Украины и вышла в финал Australian Open",
     "sport": "Теннис",
@@ -10,8 +38,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/697b2d8b9a794726a1a9ee2b",
     "publishedAt": "2026-01-29T10:20:31.000Z",
-    "createdAt": "2026-01-29T10:43:17.800Z",
-    "updatedAt": "2026-01-29T10:43:17.800Z"
+    "createdAt": "2026-01-29T11:36:01.960Z",
+    "updatedAt": "2026-01-29T11:36:01.960Z"
   },
   {
     "id": "c05271b760b19acb",
@@ -24,8 +52,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/697b25249a794772338fa6d7",
     "publishedAt": "2026-01-29T09:24:59.000Z",
-    "createdAt": "2026-01-29T10:43:18.932Z",
-    "updatedAt": "2026-01-29T10:43:18.932Z"
+    "createdAt": "2026-01-29T11:36:03.773Z",
+    "updatedAt": "2026-01-29T11:36:03.773Z"
   },
   {
     "id": "0be0a601d8ce05f2",
@@ -38,8 +66,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/697b1d429a7947d8b64c9fcf",
     "publishedAt": "2026-01-29T09:02:29.000Z",
-    "createdAt": "2026-01-29T10:43:20.074Z",
-    "updatedAt": "2026-01-29T10:43:20.074Z"
+    "createdAt": "2026-01-29T11:36:04.762Z",
+    "updatedAt": "2026-01-29T11:36:04.762Z"
   },
   {
     "id": "d97c744c05cb758f",
@@ -52,8 +80,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/697b16109a794701787126e8",
     "publishedAt": "2026-01-29T08:34:31.000Z",
-    "createdAt": "2026-01-29T10:43:21.123Z",
-    "updatedAt": "2026-01-29T10:43:21.123Z"
+    "createdAt": "2026-01-29T11:36:05.701Z",
+    "updatedAt": "2026-01-29T11:36:05.701Z"
   },
   {
     "id": "aa4c7003185f8f73",
@@ -66,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/697b0b4c9a79477e321a2b7c",
     "publishedAt": "2026-01-29T08:08:36.000Z",
-    "createdAt": "2026-01-29T10:43:22.235Z",
-    "updatedAt": "2026-01-29T10:43:22.235Z"
+    "createdAt": "2026-01-29T11:36:06.712Z",
+    "updatedAt": "2026-01-29T11:36:06.712Z"
   },
   {
     "id": "e84d49e4b32929fa",
@@ -80,8 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/697b01bd9a7947fb539bb980",
     "publishedAt": "2026-01-29T07:22:15.000Z",
-    "createdAt": "2026-01-29T10:43:24.473Z",
-    "updatedAt": "2026-01-29T10:43:24.473Z"
+    "createdAt": "2026-01-29T11:36:08.745Z",
+    "updatedAt": "2026-01-29T11:36:08.745Z"
   },
   {
     "id": "e912ca2b3066bf54",
@@ -94,22 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/697afa599a794766213c0db8",
     "publishedAt": "2026-01-29T07:14:36.000Z",
-    "createdAt": "2026-01-29T10:43:25.582Z",
-    "updatedAt": "2026-01-29T10:43:25.582Z"
-  },
-  {
-    "id": "d4cc823806892235",
-    "title": "Определились все участники плей-офф Лиги чемпионов",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/6/71/347696338685716.jpeg",
-    "teaser": "Определились все участники плей-офф Лиги чемпионов",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/697a74499a79473b443f233a",
-    "publishedAt": "2026-01-28T22:33:47.000Z",
-    "createdAt": "2026-01-29T10:43:26.696Z",
-    "updatedAt": "2026-01-29T10:43:26.696Z"
+    "createdAt": "2026-01-29T11:36:09.760Z",
+    "updatedAt": "2026-01-29T11:36:09.760Z"
   },
   {
     "id": "bba96b735a61475c",
@@ -122,21 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/697a547d9a7947b37ef76e12",
     "publishedAt": "2026-01-28T18:54:35.000Z",
-    "createdAt": "2026-01-29T10:43:23.343Z",
-    "updatedAt": "2026-01-29T10:43:23.343Z"
-  },
-  {
-    "id": "c359fc3c772d192e",
-    "title": "В турецком клубе сравнили российского новичка с Арьеном Роббеном",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/4/03/347696237724034.jpeg",
-    "teaser": "В турецком клубе сравнили российского новичка с Арьеном Роббеном",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/697a506b9a7947c7a4a97df6",
-    "publishedAt": "2026-01-28T18:25:05.000Z",
-    "createdAt": "2026-01-29T10:43:27.820Z",
-    "updatedAt": "2026-01-29T10:43:27.820Z"
+    "createdAt": "2026-01-29T11:36:07.740Z",
+    "updatedAt": "2026-01-29T11:36:07.740Z"
   }
 ]
