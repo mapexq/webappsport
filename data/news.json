@@ -1,5 +1,61 @@
 [
   {
+    "id": "b6d9d955f9c3c4d1",
+    "title": "Стали известны несколько приглашенных звезд футбольной медиалиги «НаПике»",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/8/06/347696822750068.jpeg",
+    "teaser": "Стали известны несколько приглашенных звезд футбольной медиалиги «НаПике»",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69770e079a7947279d622b3f",
+    "publishedAt": "2026-01-29T14:31:33.000Z",
+    "createdAt": "2026-01-29T14:42:23.033Z",
+    "updatedAt": "2026-01-29T14:42:23.033Z"
+  },
+  {
+    "id": "07327f652fc6e566",
+    "title": "Суперкомпьютер назвал главного претендента на победу в Лиге чемпионов",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/4/35/347696932292354.jpeg",
+    "teaser": "Суперкомпьютер назвал главного претендента на победу в Лиге чемпионов",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/697b5fe19a79474e13cd3fbd",
+    "publishedAt": "2026-01-29T13:48:25.000Z",
+    "createdAt": "2026-01-29T14:42:15.003Z",
+    "updatedAt": "2026-01-29T14:42:15.003Z"
+  },
+  {
+    "id": "4783d5de4a21c39c",
+    "title": "Бывшую жену Бивола наказали за высказывания о киргизах и казахах",
+    "sport": "Единоборства",
+    "category": "Единоборства",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/6/80/347696916817806.jpeg",
+    "teaser": "Бывшую жену Бивола наказали за высказывания о киргизах и казахах",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/697b59079a794719349f35b7",
+    "publishedAt": "2026-01-29T13:42:31.000Z",
+    "createdAt": "2026-01-29T14:42:13.690Z",
+    "updatedAt": "2026-01-29T14:42:13.690Z"
+  },
+  {
+    "id": "4aced30924a3a813",
+    "title": "Допущенные МОК горнолыжники и саночники согласились выступить на Играх",
+    "sport": "Другое",
+    "category": "Другие",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/2/56/347696876516562.jpeg",
+    "teaser": "Допущенные МОК горнолыжники и саночники согласились выступить на Играх",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/697b4a359a794754754f7442",
+    "publishedAt": "2026-01-29T12:28:57.000Z",
+    "createdAt": "2026-01-29T14:42:17.041Z",
+    "updatedAt": "2026-01-29T14:42:17.041Z"
+  },
+  {
     "id": "6e8ca8fef6f125c3",
     "title": "Уроженка Москвы снова сыграет с Соболенко в финале Australian Open",
     "sport": "Теннис",
@@ -10,8 +66,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/697b3df79a79477388c31e97",
     "publishedAt": "2026-01-29T12:14:04.000Z",
-    "createdAt": "2026-01-29T13:10:08.035Z",
-    "updatedAt": "2026-01-29T13:10:08.035Z"
+    "createdAt": "2026-01-29T14:42:16.024Z",
+    "updatedAt": "2026-01-29T14:42:16.024Z"
   },
   {
     "id": "bf761c5e613acfdd",
@@ -24,8 +80,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/697b3ebb9a7947f45c29a737",
     "publishedAt": "2026-01-29T11:37:35.000Z",
-    "createdAt": "2026-01-29T13:10:09.023Z",
-    "updatedAt": "2026-01-29T13:10:09.023Z"
+    "createdAt": "2026-01-29T14:42:18.067Z",
+    "updatedAt": "2026-01-29T14:42:18.067Z"
   },
   {
     "id": "3f308c15ee136cd5",
@@ -38,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/697b33459a79477079c5ead3",
     "publishedAt": "2026-01-29T11:15:59.000Z",
-    "createdAt": "2026-01-29T13:10:12.226Z",
-    "updatedAt": "2026-01-29T13:10:12.226Z"
+    "createdAt": "2026-01-29T14:42:20.077Z",
+    "updatedAt": "2026-01-29T14:42:20.077Z"
   },
   {
     "id": "68ad76609a482d0b",
@@ -52,8 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/697b35489a7947032dfb4489",
     "publishedAt": "2026-01-29T11:00:02.000Z",
-    "createdAt": "2026-01-29T13:10:10.056Z",
-    "updatedAt": "2026-01-29T13:10:10.056Z"
+    "createdAt": "2026-01-29T14:42:19.071Z",
+    "updatedAt": "2026-01-29T14:42:19.071Z"
   },
   {
     "id": "1a9a0403ece3d413",
@@ -66,8 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/697b2d8b9a794726a1a9ee2b",
     "publishedAt": "2026-01-29T10:20:31.000Z",
-    "createdAt": "2026-01-29T13:10:11.116Z",
-    "updatedAt": "2026-01-29T13:10:11.116Z"
+    "createdAt": "2026-01-29T14:42:21.031Z",
+    "updatedAt": "2026-01-29T14:42:21.031Z"
   },
   {
     "id": "c05271b760b19acb",
@@ -80,63 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/697b25249a794772338fa6d7",
     "publishedAt": "2026-01-29T09:24:59.000Z",
-    "createdAt": "2026-01-29T13:10:13.209Z",
-    "updatedAt": "2026-01-29T13:10:13.209Z"
-  },
-  {
-    "id": "0be0a601d8ce05f2",
-    "title": "Звонарева не вышла в финал Australian Open в парном разряде",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/7/35/347696766257357.jpeg",
-    "teaser": "Звонарева не вышла в финал Australian Open в парном разряде",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/697b1d429a7947d8b64c9fcf",
-    "publishedAt": "2026-01-29T09:02:29.000Z",
-    "createdAt": "2026-01-29T13:10:14.191Z",
-    "updatedAt": "2026-01-29T13:10:14.191Z"
-  },
-  {
-    "id": "d97c744c05cb758f",
-    "title": "Умер чемпион мира по спортивной акробатике Василий Скакун",
-    "sport": "Другое",
-    "category": "Другие",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/6/69/347696750385696.jpeg",
-    "teaser": "Умер чемпион мира по спортивной акробатике Василий Скакун",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/697b16109a794701787126e8",
-    "publishedAt": "2026-01-29T08:34:31.000Z",
-    "createdAt": "2026-01-29T13:10:15.176Z",
-    "updatedAt": "2026-01-29T13:10:15.176Z"
-  },
-  {
-    "id": "aa4c7003185f8f73",
-    "title": "Панарина вывели из состава клуба НХЛ на фоне разговоров об обмене",
-    "sport": "Хоккей",
-    "category": "Хоккей",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/5/78/347696731802785.jpeg",
-    "teaser": "Панарина вывели из состава клуба НХЛ на фоне разговоров об обмене",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/697b0b4c9a79477e321a2b7c",
-    "publishedAt": "2026-01-29T08:08:36.000Z",
-    "createdAt": "2026-01-29T13:10:16.153Z",
-    "updatedAt": "2026-01-29T13:10:16.153Z"
-  },
-  {
-    "id": "bba96b735a61475c",
-    "title": "ЦСКА пропустил на второй минуте, но обыграл «Динамо» в матче КХЛ",
-    "sport": "Хоккей",
-    "category": "Хоккей",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/0/25/347696247752250.jpeg",
-    "teaser": "ЦСКА пропустил на второй минуте, но обыграл «Динамо» в матче КХЛ",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/697a547d9a7947b37ef76e12",
-    "publishedAt": "2026-01-28T18:54:35.000Z",
-    "createdAt": "2026-01-29T13:10:17.152Z",
-    "updatedAt": "2026-01-29T13:10:17.152Z"
+    "createdAt": "2026-01-29T14:42:22.060Z",
+    "updatedAt": "2026-01-29T14:42:22.060Z"
   }
 ]
