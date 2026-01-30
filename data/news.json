@@ -1,5 +1,61 @@
 [
   {
+    "id": "e55891d48c3488e4",
+    "title": "«Спартак» нанес СКА шестое подряд поражение в КХЛ",
+    "sport": "Хоккей",
+    "category": "Хоккей",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/4/11/347697976603114.jpeg",
+    "teaser": "«Спартак» нанес СКА шестое подряд поражение в КХЛ",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/697cf77e9a794782c243ea91",
+    "publishedAt": "2026-01-30T18:50:08.000Z",
+    "createdAt": "2026-01-30T18:52:55.920Z",
+    "updatedAt": "2026-01-30T18:52:55.920Z"
+  },
+  {
+    "id": "6a9c1674bc0c460c",
+    "title": "Дом защитника «Манчестер Сити» ограбили во время матча Лиги чемпионов",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/4/36/347697932554364.jpeg",
+    "teaser": "Дом защитника «Манчестер Сити» ограбили во время матча Лиги чемпионов",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/697ce1be9a7947400d6ccfec",
+    "publishedAt": "2026-01-30T18:39:32.000Z",
+    "createdAt": "2026-01-30T18:52:58.217Z",
+    "updatedAt": "2026-01-30T18:52:58.217Z"
+  },
+  {
+    "id": "e0ad1c77ab4000ff",
+    "title": "Радулов побил рекорд результативности в КХЛ среди игроков старше 39 лет",
+    "sport": "Хоккей",
+    "category": "Хоккей",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/3/30/347697961357303.jpeg",
+    "teaser": "Радулов побил рекорд результативности в КХЛ среди игроков старше 39 лет",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/697cf1eb9a79476181158db2",
+    "publishedAt": "2026-01-30T18:12:45.000Z",
+    "createdAt": "2026-01-30T18:52:57.069Z",
+    "updatedAt": "2026-01-30T18:52:57.069Z"
+  },
+  {
+    "id": "6a453d8088e835d0",
+    "title": "Клуб РПЛ подписал контракт с уругвайцем Бальбоа по прозвищу Рокки",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/2/99/347697954078992.jpeg",
+    "teaser": "Клуб РПЛ подписал контракт с уругвайцем Бальбоа по прозвищу Рокки",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/697ce8a49a7947a10b951bf1",
+    "publishedAt": "2026-01-30T18:06:27.000Z",
+    "createdAt": "2026-01-30T18:52:59.448Z",
+    "updatedAt": "2026-01-30T18:52:59.448Z"
+  },
+  {
     "id": "e2a6cdb0e48ec916",
     "title": "Хабиб Нурмагомедов назвал ОАЭ самым безопасным местом в мире",
     "sport": "Единоборства",
@@ -10,8 +66,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/697ce0ac9a7947d190e13fa2",
     "publishedAt": "2026-01-30T17:08:27.000Z",
-    "createdAt": "2026-01-30T17:38:27.108Z",
-    "updatedAt": "2026-01-30T17:38:27.108Z"
+    "createdAt": "2026-01-30T18:53:00.578Z",
+    "updatedAt": "2026-01-30T18:53:00.578Z"
   },
   {
     "id": "fcaecf4fa620f24c",
@@ -24,8 +80,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/697cd6c19a794710b5ad1488",
     "publishedAt": "2026-01-30T16:20:35.000Z",
-    "createdAt": "2026-01-30T17:38:28.065Z",
-    "updatedAt": "2026-01-30T17:38:28.065Z"
+    "createdAt": "2026-01-30T18:53:01.719Z",
+    "updatedAt": "2026-01-30T18:53:01.719Z"
   },
   {
     "id": "63a62d9e0db83bdb",
@@ -38,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/697ccdc29a7947cfbfc5eea4",
     "publishedAt": "2026-01-30T15:51:20.000Z",
-    "createdAt": "2026-01-30T17:38:29.099Z",
-    "updatedAt": "2026-01-30T17:38:29.099Z"
+    "createdAt": "2026-01-30T18:53:02.843Z",
+    "updatedAt": "2026-01-30T18:53:02.843Z"
   },
   {
     "id": "fcf2d64cfad15801",
@@ -52,22 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/697cc44a9a79470f81f5b1cd",
     "publishedAt": "2026-01-30T15:41:51.000Z",
-    "createdAt": "2026-01-30T17:38:29.913Z",
-    "updatedAt": "2026-01-30T17:38:29.913Z"
-  },
-  {
-    "id": "57f8f01ed98b6591",
-    "title": "Исполком ФСБР утвердил Умара Кремлева главой попечительского совета",
-    "sport": "Другое",
-    "category": "Другие",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/2/71/347697853177712.jpeg",
-    "teaser": "Исполком ФСБР утвердил Умара Кремлева главой попечительского совета",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/697cc5349a794769904edac4",
-    "publishedAt": "2026-01-30T15:18:47.000Z",
-    "createdAt": "2026-01-30T17:38:32.974Z",
-    "updatedAt": "2026-01-30T17:38:32.974Z"
+    "createdAt": "2026-01-30T18:53:04.020Z",
+    "updatedAt": "2026-01-30T18:53:04.020Z"
   },
   {
     "id": "d5daff4e0ae50e40",
@@ -80,8 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/697cc0bc9a79470fce70b907",
     "publishedAt": "2026-01-30T14:49:23.000Z",
-    "createdAt": "2026-01-30T17:38:30.932Z",
-    "updatedAt": "2026-01-30T17:38:30.932Z"
+    "createdAt": "2026-01-30T18:53:05.156Z",
+    "updatedAt": "2026-01-30T18:53:05.156Z"
   },
   {
     "id": "b750bb1c204ec13b",
@@ -94,49 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/697cbcce9a794770afbc3e25",
     "publishedAt": "2026-01-30T14:44:28.000Z",
-    "createdAt": "2026-01-30T17:38:31.948Z",
-    "updatedAt": "2026-01-30T17:38:31.948Z"
-  },
-  {
-    "id": "9c6b50d52626b3b0",
-    "title": "Действующая обладательница КМ по биатлону завершит карьеру в конце сезона",
-    "sport": "Другое",
-    "category": "Биатлон",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/7/37/347697805213377.jpeg",
-    "teaser": "Действующая обладательница КМ по биатлону завершит карьеру в конце сезона",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/697cb5059a7947273e1bf7a3",
-    "publishedAt": "2026-01-30T13:55:45.000Z",
-    "createdAt": "2026-01-30T17:38:34.007Z",
-    "updatedAt": "2026-01-30T17:38:34.007Z"
-  },
-  {
-    "id": "9d7586f01809146d",
-    "title": "Валиева выступит пятой на чемпионате России по прыжкам",
-    "sport": "Другое",
-    "category": "Фигурное катание",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/0/23/347697784983230.jpeg",
-    "teaser": "Валиева выступит пятой на чемпионате России по прыжкам",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/697cacdc9a794784b6468757",
-    "publishedAt": "2026-01-30T13:29:19.000Z",
-    "createdAt": "2026-01-30T17:38:35.037Z",
-    "updatedAt": "2026-01-30T17:38:35.037Z"
-  },
-  {
-    "id": "6ec25e445064e35c",
-    "title": "Экс-тренера сборной России Игнатьева похоронили на Троекуровском кладбище",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/4/03/347697759313034.jpeg",
-    "teaser": "Экс-тренера сборной России Игнатьева похоронили на Троекуровском кладбище",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/697ca2dd9a794725359ccbd4",
-    "publishedAt": "2026-01-30T12:41:37.000Z",
-    "createdAt": "2026-01-30T17:38:36.084Z",
-    "updatedAt": "2026-01-30T17:38:36.084Z"
+    "createdAt": "2026-01-30T18:53:06.346Z",
+    "updatedAt": "2026-01-30T18:53:06.346Z"
   }
 ]
