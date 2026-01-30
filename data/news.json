@@ -1,5 +1,75 @@
 [
   {
+    "id": "f502411a8b29d724",
+    "title": "Алькарас за 5,а победил Зверева в полуфинале Australian Open",
+    "sport": "Теннис",
+    "category": "Теннис",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/8/23/347697594042238.jpeg",
+    "teaser": "Алькарас за 5,а победил Зверева в полуфинале Australian Open",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/697c62499a7947dfb346586e",
+    "publishedAt": "2026-01-30T09:18:32.000Z",
+    "createdAt": "2026-01-30T09:46:47.058Z",
+    "updatedAt": "2026-01-30T09:46:47.058Z"
+  },
+  {
+    "id": "e29cb8a6af565ecc",
+    "title": "В ФЛГР отреагировали на заявку Большунова на гонку под флагом Казахстана",
+    "sport": "Другое",
+    "category": "Другие",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/7/69/347697638997697.jpeg",
+    "teaser": "В ФЛГР отреагировали на заявку Большунова на гонку под флагом Казахстана",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/697c6e429a79470e67f9332d",
+    "publishedAt": "2026-01-30T08:59:11.000Z",
+    "createdAt": "2026-01-30T09:46:48.028Z",
+    "updatedAt": "2026-01-30T09:46:48.028Z"
+  },
+  {
+    "id": "a08fa94937628fd5",
+    "title": "Большунов заявился на гонку в Италии под флагом Казахстана",
+    "sport": "Другое",
+    "category": "Другие",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/6/72/347697618582726.jpeg",
+    "teaser": "Большунов заявился на гонку в Италии под флагом Казахстана",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/697c6b649a79473c40d09a67",
+    "publishedAt": "2026-01-30T08:54:30.000Z",
+    "createdAt": "2026-01-30T09:46:49.043Z",
+    "updatedAt": "2026-01-30T09:46:49.043Z"
+  },
+  {
+    "id": "014a186dccde11c8",
+    "title": "Пять россиян проиграли в полуфиналах юниорского Australian Open",
+    "sport": "Теннис",
+    "category": "Теннис",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/5/53/347697627584535.jpeg",
+    "teaser": "Пять россиян проиграли в полуфиналах юниорского Australian Open",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/697c6ae19a7947bb355fa80a",
+    "publishedAt": "2026-01-30T08:50:17.000Z",
+    "createdAt": "2026-01-30T09:46:50.079Z",
+    "updatedAt": "2026-01-30T09:46:50.079Z"
+  },
+  {
+    "id": "4da1115d02ce0ae6",
+    "title": "Патрик Кейн стал самым результативным американцем в истории НХЛ",
+    "sport": "Хоккей",
+    "category": "Хоккей",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/9/05/347697582763059.jpeg",
+    "teaser": "Патрик Кейн стал самым результативным американцем в истории НХЛ",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/697c5e0d9a794769cadbd393",
+    "publishedAt": "2026-01-30T08:10:54.000Z",
+    "createdAt": "2026-01-30T09:46:51.205Z",
+    "updatedAt": "2026-01-30T09:46:51.205Z"
+  },
+  {
     "id": "c21d949e9f468b38",
     "title": "Олимпийскую чемпионку задержали за опасное вождение в США",
     "sport": "Другое",
@@ -10,8 +80,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/697c58529a7947aa018c21d7",
     "publishedAt": "2026-01-30T07:41:46.000Z",
-    "createdAt": "2026-01-30T08:49:56.914Z",
-    "updatedAt": "2026-01-30T08:49:56.914Z"
+    "createdAt": "2026-01-30T09:46:52.266Z",
+    "updatedAt": "2026-01-30T09:46:52.266Z"
   },
   {
     "id": "79d10ff5990af6d8",
@@ -24,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/697c59f69a7947edfaf4122d",
     "publishedAt": "2026-01-30T07:23:45.000Z",
-    "createdAt": "2026-01-30T08:49:58.065Z",
-    "updatedAt": "2026-01-30T08:49:58.065Z"
+    "createdAt": "2026-01-30T09:46:53.362Z",
+    "updatedAt": "2026-01-30T09:46:53.362Z"
   },
   {
     "id": "98a2b98deca2c6fd",
@@ -38,8 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/697c4b2e9a79476f3b3750c4",
     "publishedAt": "2026-01-30T07:04:04.000Z",
-    "createdAt": "2026-01-30T08:49:59.210Z",
-    "updatedAt": "2026-01-30T08:49:59.210Z"
+    "createdAt": "2026-01-30T09:46:54.411Z",
+    "updatedAt": "2026-01-30T09:46:54.411Z"
   },
   {
     "id": "d997bb3a99086feb",
@@ -52,8 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/697ba3e79a7947f7d856e817",
     "publishedAt": "2026-01-29T19:05:43.000Z",
-    "createdAt": "2026-01-30T08:50:00.455Z",
-    "updatedAt": "2026-01-30T08:50:00.455Z"
+    "createdAt": "2026-01-30T09:46:55.525Z",
+    "updatedAt": "2026-01-30T09:46:55.525Z"
   },
   {
     "id": "30d14f8a5d70e676",
@@ -66,77 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/697ba66d9a79471e456749bd",
     "publishedAt": "2026-01-29T18:43:57.000Z",
-    "createdAt": "2026-01-30T08:50:01.613Z",
-    "updatedAt": "2026-01-30T08:50:01.613Z"
-  },
-  {
-    "id": "87abd64ec26c2f65",
-    "title": "CAS снова рассмотрит дело об отобранной у американки медали Игр в Париже",
-    "sport": "Другое",
-    "category": "Другие",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/4/12/347697088340124.png",
-    "teaser": "CAS снова рассмотрит дело об отобранной у американки медали Игр в Париже",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/697b994f9a79470ac4142481",
-    "publishedAt": "2026-01-29T18:02:21.000Z",
-    "createdAt": "2026-01-30T08:50:02.757Z",
-    "updatedAt": "2026-01-30T08:50:02.757Z"
-  },
-  {
-    "id": "3b300527df5204f5",
-    "title": "RMC Sport назвал сроки возвращения Кварацхелии после травмы",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/1/33/347697075045331.jpeg",
-    "teaser": "RMC Sport назвал сроки возвращения Кварацхелии после травмы",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/697b8ff99a79476f6af5b568",
-    "publishedAt": "2026-01-29T17:34:31.000Z",
-    "createdAt": "2026-01-30T08:50:03.905Z",
-    "updatedAt": "2026-01-30T08:50:03.905Z"
-  },
-  {
-    "id": "ed76032110cbf10c",
-    "title": "Чешский клуб вернет деньги за билеты после разгрома в Лиге чемпионов",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/4/66/347697031963664.png",
-    "teaser": "Чешский клуб вернет деньги за билеты после разгрома в Лиге чемпионов",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/697b81669a79475e6362827c",
-    "publishedAt": "2026-01-29T16:26:53.000Z",
-    "createdAt": "2026-01-30T08:50:05.052Z",
-    "updatedAt": "2026-01-30T08:50:05.052Z"
-  },
-  {
-    "id": "38d8602ace46e2f6",
-    "title": "«Авангард» с минимальным счетом обыграл финалиста Кубка Гагарина",
-    "sport": "Хоккей",
-    "category": "Хоккей",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/9/44/347697021844449.png",
-    "teaser": "«Авангард» с минимальным счетом обыграл финалиста Кубка Гагарина",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/697b81cb9a79476307f3d44a",
-    "publishedAt": "2026-01-29T16:06:42.000Z",
-    "createdAt": "2026-01-30T08:50:07.270Z",
-    "updatedAt": "2026-01-30T08:50:07.270Z"
-  },
-  {
-    "id": "f6641913b157d53a",
-    "title": "Власти объяснили лишение вице-чемпионки мира Клишиной квартиры в Твери",
-    "sport": "Другое",
-    "category": "Другие",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/3/73/347696997367733.jpeg",
-    "teaser": "Власти объяснили лишение вице-чемпионки мира Клишиной квартиры в Твери",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/697b763f9a7947dfe45bd1a8",
-    "publishedAt": "2026-01-29T15:19:12.000Z",
-    "createdAt": "2026-01-30T08:50:06.222Z",
-    "updatedAt": "2026-01-30T08:50:06.222Z"
+    "createdAt": "2026-01-30T09:46:56.603Z",
+    "updatedAt": "2026-01-30T09:46:56.603Z"
   }
 ]
