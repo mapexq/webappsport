@@ -1,5 +1,33 @@
 [
   {
+    "id": "e4f5b867d1afcb9f",
+    "title": "Умер ветеран «Салавата Юлаева» Геннадий Бахарев",
+    "sport": "Хоккей",
+    "category": "Хоккей",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/1/66/347698503048661.jpeg",
+    "teaser": "Умер ветеран «Салавата Юлаева» Геннадий Бахарев",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/697dc5169a7947c4ea77a980",
+    "publishedAt": "2026-01-31T09:11:33.000Z",
+    "createdAt": "2026-01-31T09:34:17.526Z",
+    "updatedAt": "2026-01-31T09:34:17.526Z"
+  },
+  {
+    "id": "be51564a46e66704",
+    "title": "В Италии объяснили, почему Большунов не стартовал в гонке в Южном Тироле",
+    "sport": "Другое",
+    "category": "Другие",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/4/53/347698492188534.jpeg",
+    "teaser": "В Италии объяснили, почему Большунов не стартовал в гонке в Южном Тироле",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/697dc13a9a79475d7f1762b3",
+    "publishedAt": "2026-01-31T08:58:11.000Z",
+    "createdAt": "2026-01-31T09:34:18.366Z",
+    "updatedAt": "2026-01-31T09:34:18.366Z"
+  },
+  {
     "id": "591ae16b3cd46e8e",
     "title": "Овечкин сходил на матч НБА и подарил Леброну Джеймсу свой игровой свитер",
     "sport": "Баскетбол",
@@ -10,8 +38,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/697db7389a79477902bd425b",
     "publishedAt": "2026-01-31T08:16:30.000Z",
-    "createdAt": "2026-01-31T08:37:15.930Z",
-    "updatedAt": "2026-01-31T08:37:15.930Z"
+    "createdAt": "2026-01-31T09:34:19.414Z",
+    "updatedAt": "2026-01-31T09:34:19.414Z"
   },
   {
     "id": "449f23913cc83693",
@@ -24,8 +52,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/697db2489a79478ae0d5e21e",
     "publishedAt": "2026-01-31T07:53:37.000Z",
-    "createdAt": "2026-01-31T08:37:16.893Z",
-    "updatedAt": "2026-01-31T08:37:16.893Z"
+    "createdAt": "2026-01-31T09:34:20.408Z",
+    "updatedAt": "2026-01-31T09:34:20.408Z"
   },
   {
     "id": "97434b06421c8ca6",
@@ -38,8 +66,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/697dad239a7947f42caf689d",
     "publishedAt": "2026-01-31T07:31:48.000Z",
-    "createdAt": "2026-01-31T08:37:18.058Z",
-    "updatedAt": "2026-01-31T08:37:18.058Z"
+    "createdAt": "2026-01-31T09:34:21.254Z",
+    "updatedAt": "2026-01-31T09:34:21.254Z"
   },
   {
     "id": "7d6980fe96bb8212",
@@ -52,8 +80,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/697da9559a7947dc4700429b",
     "publishedAt": "2026-01-31T07:15:19.000Z",
-    "createdAt": "2026-01-31T08:37:19.066Z",
-    "updatedAt": "2026-01-31T08:37:19.066Z"
+    "createdAt": "2026-01-31T09:34:22.301Z",
+    "updatedAt": "2026-01-31T09:34:22.302Z"
   },
   {
     "id": "654915f439fbe31c",
@@ -66,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/697cf77c9a79476220803655",
     "publishedAt": "2026-01-30T19:05:23.000Z",
-    "createdAt": "2026-01-31T08:37:20.076Z",
-    "updatedAt": "2026-01-31T08:37:20.076Z"
+    "createdAt": "2026-01-31T09:34:23.341Z",
+    "updatedAt": "2026-01-31T09:34:23.341Z"
   },
   {
     "id": "77fb3e5e4452d616",
@@ -80,8 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/697cf0c99a79474946605ca8",
     "publishedAt": "2026-01-30T18:57:33.000Z",
-    "createdAt": "2026-01-31T08:37:21.082Z",
-    "updatedAt": "2026-01-31T08:37:21.082Z"
+    "createdAt": "2026-01-31T09:34:24.405Z",
+    "updatedAt": "2026-01-31T09:34:24.405Z"
   },
   {
     "id": "e55891d48c3488e4",
@@ -94,22 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/697cf77e9a794782c243ea91",
     "publishedAt": "2026-01-30T18:50:08.000Z",
-    "createdAt": "2026-01-31T08:37:22.174Z",
-    "updatedAt": "2026-01-31T08:37:22.174Z"
-  },
-  {
-    "id": "6a9c1674bc0c460c",
-    "title": "Дом защитника «Манчестер Сити» ограбили во время матча Лиги чемпионов",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/4/36/347697932554364.jpeg",
-    "teaser": "Дом защитника «Манчестер Сити» ограбили во время матча Лиги чемпионов",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/697ce1be9a7947400d6ccfec",
-    "publishedAt": "2026-01-30T18:39:32.000Z",
-    "createdAt": "2026-01-31T08:37:24.254Z",
-    "updatedAt": "2026-01-31T08:37:24.254Z"
+    "createdAt": "2026-01-31T09:34:25.461Z",
+    "updatedAt": "2026-01-31T09:34:25.461Z"
   },
   {
     "id": "e0ad1c77ab4000ff",
@@ -122,21 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/697cf1eb9a79476181158db2",
     "publishedAt": "2026-01-30T18:12:45.000Z",
-    "createdAt": "2026-01-31T08:37:23.178Z",
-    "updatedAt": "2026-01-31T08:37:23.178Z"
-  },
-  {
-    "id": "6a453d8088e835d0",
-    "title": "Клуб РПЛ подписал контракт с уругвайцем Бальбоа по прозвищу Рокки",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/2/99/347697954078992.jpeg",
-    "teaser": "Клуб РПЛ подписал контракт с уругвайцем Бальбоа по прозвищу Рокки",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/697ce8a49a7947a10b951bf1",
-    "publishedAt": "2026-01-30T18:06:27.000Z",
-    "createdAt": "2026-01-31T08:37:25.322Z",
-    "updatedAt": "2026-01-31T08:37:25.322Z"
+    "createdAt": "2026-01-31T09:34:26.521Z",
+    "updatedAt": "2026-01-31T09:34:26.521Z"
   }
 ]
