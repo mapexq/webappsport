@@ -1,17 +1,45 @@
 [
   {
-    "id": "920c10de5341cbcc",
-    "title": "CAS оставил в силе решение отдать россиянке место ирландки на Олимпиаде",
+    "id": "e9a93a89bd01b201",
+    "title": "Как Валиева вернулась на соревнования после дисквалификации",
+    "sport": "Другое",
+    "category": "Фигурное катание",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/2/12/347698681216122.jpeg",
+    "teaser": "Как Валиева вернулась на соревнования после дисквалификации",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/697e0a079a79479e0711a99c",
+    "publishedAt": "2026-01-31T18:25:34.000Z",
+    "createdAt": "2026-01-31T18:40:49.508Z",
+    "updatedAt": "2026-01-31T18:40:49.508Z"
+  },
+  {
+    "id": "6f929c8227475b79",
+    "title": "Звезду НБА отстранили на 25 матчей за нарушение антинаркотических правил",
+    "sport": "Баскетбол",
+    "category": "Баскетбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/3/59/347698810987593.jpeg",
+    "teaser": "Звезду НБА отстранили на 25 матчей за нарушение антинаркотических правил",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/697e3dda9a79470dca619062",
+    "publishedAt": "2026-01-31T17:53:06.000Z",
+    "createdAt": "2026-01-31T18:40:50.601Z",
+    "updatedAt": "2026-01-31T18:40:50.601Z"
+  },
+  {
+    "id": "822fca65ad221bef",
+    "title": "CAS оставил в силе решение отдать россиянке квоту ирландки на Олимпиаду",
     "sport": "Другое",
     "category": "Другие",
     "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/1/89/347698795335891.jpeg",
-    "teaser": "CAS оставил в силе решение отдать россиянке место ирландки на Олимпиаде",
+    "teaser": "CAS оставил в силе решение отдать россиянке квоту ирландки на Олимпиаду",
     "fullContent": "",
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/697e37989a7947ea218156bb",
     "publishedAt": "2026-01-31T17:27:38.000Z",
-    "createdAt": "2026-01-31T17:29:11.401Z",
-    "updatedAt": "2026-01-31T17:29:11.401Z"
+    "createdAt": "2026-01-31T18:40:51.679Z",
+    "updatedAt": "2026-01-31T18:40:51.679Z"
   },
   {
     "id": "c687a0110b01086a",
@@ -24,8 +52,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/697e34d99a794736db99618d",
     "publishedAt": "2026-01-31T17:06:06.000Z",
-    "createdAt": "2026-01-31T17:29:12.460Z",
-    "updatedAt": "2026-01-31T17:29:12.460Z"
+    "createdAt": "2026-01-31T18:40:52.785Z",
+    "updatedAt": "2026-01-31T18:40:52.785Z"
   },
   {
     "id": "16de2bfba373c296",
@@ -38,8 +66,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/697e2a8f9a79470acef89ce5",
     "publishedAt": "2026-01-31T16:24:41.000Z",
-    "createdAt": "2026-01-31T17:29:13.528Z",
-    "updatedAt": "2026-01-31T17:29:13.528Z"
+    "createdAt": "2026-01-31T18:40:53.938Z",
+    "updatedAt": "2026-01-31T18:40:53.938Z"
   },
   {
     "id": "e45cff411d303803",
@@ -52,8 +80,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/697e14499a7947774e030515",
     "publishedAt": "2026-01-31T15:08:34.000Z",
-    "createdAt": "2026-01-31T17:29:14.531Z",
-    "updatedAt": "2026-01-31T17:29:14.531Z"
+    "createdAt": "2026-01-31T18:40:54.996Z",
+    "updatedAt": "2026-01-31T18:40:54.996Z"
   },
   {
     "id": "19b817f64c72516f",
@@ -66,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/697e152a9a794729ccf870fa",
     "publishedAt": "2026-01-31T14:55:31.000Z",
-    "createdAt": "2026-01-31T17:29:15.593Z",
-    "updatedAt": "2026-01-31T17:29:15.593Z"
+    "createdAt": "2026-01-31T18:40:56.014Z",
+    "updatedAt": "2026-01-31T18:40:56.014Z"
   },
   {
     "id": "e95ba511ee501e53",
@@ -80,8 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/697e10cb9a79476107acc090",
     "publishedAt": "2026-01-31T14:32:59.000Z",
-    "createdAt": "2026-01-31T17:29:16.637Z",
-    "updatedAt": "2026-01-31T17:29:16.637Z"
+    "createdAt": "2026-01-31T18:40:57.366Z",
+    "updatedAt": "2026-01-31T18:40:57.366Z"
   },
   {
     "id": "8f94d83a772c28e4",
@@ -94,22 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/697e06139a794765672ad2ac",
     "publishedAt": "2026-01-31T13:51:08.000Z",
-    "createdAt": "2026-01-31T17:29:18.773Z",
-    "updatedAt": "2026-01-31T17:29:18.773Z"
-  },
-  {
-    "id": "959f6bfdca90b212",
-    "title": "Допущенный на Игры ски-альпинист Филиппов завоевал бронзу на Кубке мира",
-    "sport": "Другое",
-    "category": "Другие",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/1/32/347698654793321.jpeg",
-    "teaser": "Допущенный на Игры ски-альпинист Филиппов завоевал бронзу на Кубке мира",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/697e00e09a7947643364484d",
-    "publishedAt": "2026-01-31T13:25:32.000Z",
-    "createdAt": "2026-01-31T17:29:19.838Z",
-    "updatedAt": "2026-01-31T17:29:19.838Z"
+    "createdAt": "2026-01-31T18:40:59.385Z",
+    "updatedAt": "2026-01-31T18:40:59.385Z"
   },
   {
     "id": "904236e15a6ab801",
@@ -122,21 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/697dfbef9a7947172a3c0ef9",
     "publishedAt": "2026-01-31T13:08:45.000Z",
-    "createdAt": "2026-01-31T17:29:17.703Z",
-    "updatedAt": "2026-01-31T17:29:17.703Z"
-  },
-  {
-    "id": "a33ea1f9ee4fa8a3",
-    "title": "Валиева назвала возвращение к турнирам лучшим, что с ней произошло",
-    "sport": "Другое",
-    "category": "Фигурное катание",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/4/71/347698633819714.jpeg",
-    "teaser": "Валиева назвала возвращение к турнирам лучшим, что с ней произошло",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/697df88b9a7947165345a3ca",
-    "publishedAt": "2026-01-31T12:50:43.000Z",
-    "createdAt": "2026-01-31T17:29:20.898Z",
-    "updatedAt": "2026-01-31T17:29:20.898Z"
+    "createdAt": "2026-01-31T18:40:58.368Z",
+    "updatedAt": "2026-01-31T18:40:58.368Z"
   }
 ]
