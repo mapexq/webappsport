@@ -1,5 +1,33 @@
 [
   {
+    "id": "97434b06421c8ca6",
+    "title": "Российская теннисистка вышла в финал юниорского Australian Open",
+    "sport": "Теннис",
+    "category": "Теннис",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/1/58/347698440870581.jpeg",
+    "teaser": "Российская теннисистка вышла в финал юниорского Australian Open",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/697dad239a7947f42caf689d",
+    "publishedAt": "2026-01-31T07:31:48.000Z",
+    "createdAt": "2026-01-31T07:34:08.486Z",
+    "updatedAt": "2026-01-31T07:34:08.486Z"
+  },
+  {
+    "id": "7d6980fe96bb8212",
+    "title": "Россиянин Демин побил два рекорда в НБА и сделал первый дабл-дабл",
+    "sport": "Баскетбол",
+    "category": "Баскетбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/2/68/347698430921682.jpeg",
+    "teaser": "Россиянин Демин побил два рекорда в НБА и сделал первый дабл-дабл",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/697da9559a7947dc4700429b",
+    "publishedAt": "2026-01-31T07:15:19.000Z",
+    "createdAt": "2026-01-31T07:34:09.588Z",
+    "updatedAt": "2026-01-31T07:34:09.588Z"
+  },
+  {
     "id": "654915f439fbe31c",
     "title": "Трусова заявила, что ее «штырит» от четверных прыжков",
     "sport": "Другое",
@@ -10,8 +38,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/697cf77c9a79476220803655",
     "publishedAt": "2026-01-30T19:05:23.000Z",
-    "createdAt": "2026-01-31T06:49:05.000Z",
-    "updatedAt": "2026-01-31T06:49:05.000Z"
+    "createdAt": "2026-01-31T07:34:10.712Z",
+    "updatedAt": "2026-01-31T07:34:10.712Z"
   },
   {
     "id": "77fb3e5e4452d616",
@@ -24,8 +52,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/697cf0c99a79474946605ca8",
     "publishedAt": "2026-01-30T18:57:33.000Z",
-    "createdAt": "2026-01-31T06:49:06.134Z",
-    "updatedAt": "2026-01-31T06:49:06.134Z"
+    "createdAt": "2026-01-31T07:34:11.706Z",
+    "updatedAt": "2026-01-31T07:34:11.706Z"
   },
   {
     "id": "e55891d48c3488e4",
@@ -38,8 +66,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/697cf77e9a794782c243ea91",
     "publishedAt": "2026-01-30T18:50:08.000Z",
-    "createdAt": "2026-01-31T06:49:07.287Z",
-    "updatedAt": "2026-01-31T06:49:07.287Z"
+    "createdAt": "2026-01-31T07:34:12.860Z",
+    "updatedAt": "2026-01-31T07:34:12.860Z"
   },
   {
     "id": "6a9c1674bc0c460c",
@@ -52,8 +80,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/697ce1be9a7947400d6ccfec",
     "publishedAt": "2026-01-30T18:39:32.000Z",
-    "createdAt": "2026-01-31T06:49:09.667Z",
-    "updatedAt": "2026-01-31T06:49:09.667Z"
+    "createdAt": "2026-01-31T07:34:15.195Z",
+    "updatedAt": "2026-01-31T07:34:15.195Z"
   },
   {
     "id": "e0ad1c77ab4000ff",
@@ -66,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/697cf1eb9a79476181158db2",
     "publishedAt": "2026-01-30T18:12:45.000Z",
-    "createdAt": "2026-01-31T06:49:08.425Z",
-    "updatedAt": "2026-01-31T06:49:08.425Z"
+    "createdAt": "2026-01-31T07:34:13.987Z",
+    "updatedAt": "2026-01-31T07:34:13.987Z"
   },
   {
     "id": "6a453d8088e835d0",
@@ -80,8 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/697ce8a49a7947a10b951bf1",
     "publishedAt": "2026-01-30T18:06:27.000Z",
-    "createdAt": "2026-01-31T06:49:10.793Z",
-    "updatedAt": "2026-01-31T06:49:10.793Z"
+    "createdAt": "2026-01-31T07:34:16.337Z",
+    "updatedAt": "2026-01-31T07:34:16.337Z"
   },
   {
     "id": "e2a6cdb0e48ec916",
@@ -94,8 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/697ce0ac9a7947d190e13fa2",
     "publishedAt": "2026-01-30T17:08:27.000Z",
-    "createdAt": "2026-01-31T06:49:11.929Z",
-    "updatedAt": "2026-01-31T06:49:11.929Z"
+    "createdAt": "2026-01-31T07:34:17.459Z",
+    "updatedAt": "2026-01-31T07:34:17.459Z"
   },
   {
     "id": "fcaecf4fa620f24c",
@@ -108,35 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/697cd6c19a794710b5ad1488",
     "publishedAt": "2026-01-30T16:20:35.000Z",
-    "createdAt": "2026-01-31T06:49:13.059Z",
-    "updatedAt": "2026-01-31T06:49:13.059Z"
-  },
-  {
-    "id": "63a62d9e0db83bdb",
-    "title": "Джокович поблагодарил Синнера за победу после полуфинала Australian Open",
-    "sport": "Теннис",
-    "category": "Теннис",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/4/22/347697876281224.jpeg",
-    "teaser": "Джокович поблагодарил Синнера за победу после полуфинала Australian Open",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/697ccdc29a7947cfbfc5eea4",
-    "publishedAt": "2026-01-30T15:51:20.000Z",
-    "createdAt": "2026-01-31T06:49:14.199Z",
-    "updatedAt": "2026-01-31T06:49:14.199Z"
-  },
-  {
-    "id": "fcf2d64cfad15801",
-    "title": "Джокович побил 54-летний рекорд на Australian Open",
-    "sport": "Теннис",
-    "category": "Теннис",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/0/54/347697844381540.jpeg",
-    "teaser": "Джокович побил 54-летний рекорд на Australian Open",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/697cc44a9a79470f81f5b1cd",
-    "publishedAt": "2026-01-30T15:41:51.000Z",
-    "createdAt": "2026-01-31T06:49:15.334Z",
-    "updatedAt": "2026-01-31T06:49:15.334Z"
+    "createdAt": "2026-01-31T07:34:18.729Z",
+    "updatedAt": "2026-01-31T07:34:18.729Z"
   }
 ]
