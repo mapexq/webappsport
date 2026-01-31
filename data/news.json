@@ -1,5 +1,33 @@
 [
   {
+    "id": "e91b2928bc47addf",
+    "title": "Уроженка Москвы обыграла Соболенко в финале Australian Open",
+    "sport": "Теннис",
+    "category": "Теннис",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/4/34/347698538490344.jpeg",
+    "teaser": "Уроженка Москвы обыграла Соболенко в финале Australian Open",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/697c893e9a794724a703e4aa",
+    "publishedAt": "2026-01-31T11:02:25.000Z",
+    "createdAt": "2026-01-31T11:25:49.730Z",
+    "updatedAt": "2026-01-31T11:25:49.730Z"
+  },
+  {
+    "id": "eb4aab7ab40f4b0c",
+    "title": "Валиева заявила, что «кайфует» от работы с новым тренером",
+    "sport": "Другое",
+    "category": "Фигурное катание",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/9/19/347698562936199.jpeg",
+    "teaser": "Валиева заявила, что «кайфует» от работы с новым тренером",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/697ddce19a7947d620e3329a",
+    "publishedAt": "2026-01-31T10:50:31.000Z",
+    "createdAt": "2026-01-31T11:25:50.882Z",
+    "updatedAt": "2026-01-31T11:25:50.882Z"
+  },
+  {
     "id": "285ebbe3dcf0cbc9",
     "title": "Матчи КХЛ пройдут в Китае впервые с 2020 года",
     "sport": "Хоккей",
@@ -10,8 +38,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/697dd40e9a7947fb8d699d2e",
     "publishedAt": "2026-01-31T10:15:53.000Z",
-    "createdAt": "2026-01-31T10:30:59.633Z",
-    "updatedAt": "2026-01-31T10:30:59.633Z"
+    "createdAt": "2026-01-31T11:25:51.983Z",
+    "updatedAt": "2026-01-31T11:25:51.983Z"
   },
   {
     "id": "7cce57e9e6a52e61",
@@ -24,8 +52,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/697dce409a7947b6125f6b00",
     "publishedAt": "2026-01-31T09:50:04.000Z",
-    "createdAt": "2026-01-31T10:31:00.759Z",
-    "updatedAt": "2026-01-31T10:31:00.759Z"
+    "createdAt": "2026-01-31T11:25:53.133Z",
+    "updatedAt": "2026-01-31T11:25:53.133Z"
   },
   {
     "id": "e4f5b867d1afcb9f",
@@ -38,8 +66,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/697dc5169a7947c4ea77a980",
     "publishedAt": "2026-01-31T09:11:33.000Z",
-    "createdAt": "2026-01-31T10:31:01.833Z",
-    "updatedAt": "2026-01-31T10:31:01.833Z"
+    "createdAt": "2026-01-31T11:25:54.259Z",
+    "updatedAt": "2026-01-31T11:25:54.259Z"
   },
   {
     "id": "be51564a46e66704",
@@ -52,8 +80,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/697dc13a9a79475d7f1762b3",
     "publishedAt": "2026-01-31T08:58:11.000Z",
-    "createdAt": "2026-01-31T10:31:02.843Z",
-    "updatedAt": "2026-01-31T10:31:02.843Z"
+    "createdAt": "2026-01-31T11:25:55.412Z",
+    "updatedAt": "2026-01-31T11:25:55.412Z"
   },
   {
     "id": "591ae16b3cd46e8e",
@@ -66,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/697db7389a79477902bd425b",
     "publishedAt": "2026-01-31T08:16:30.000Z",
-    "createdAt": "2026-01-31T10:31:03.927Z",
-    "updatedAt": "2026-01-31T10:31:03.927Z"
+    "createdAt": "2026-01-31T11:25:56.529Z",
+    "updatedAt": "2026-01-31T11:25:56.529Z"
   },
   {
     "id": "449f23913cc83693",
@@ -80,8 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/697db2489a79478ae0d5e21e",
     "publishedAt": "2026-01-31T07:53:37.000Z",
-    "createdAt": "2026-01-31T10:31:05.023Z",
-    "updatedAt": "2026-01-31T10:31:05.023Z"
+    "createdAt": "2026-01-31T11:25:57.627Z",
+    "updatedAt": "2026-01-31T11:25:57.627Z"
   },
   {
     "id": "97434b06421c8ca6",
@@ -94,8 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/697dad239a7947f42caf689d",
     "publishedAt": "2026-01-31T07:31:48.000Z",
-    "createdAt": "2026-01-31T10:31:06.097Z",
-    "updatedAt": "2026-01-31T10:31:06.097Z"
+    "createdAt": "2026-01-31T11:25:58.744Z",
+    "updatedAt": "2026-01-31T11:25:58.744Z"
   },
   {
     "id": "7d6980fe96bb8212",
@@ -108,35 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/697da9559a7947dc4700429b",
     "publishedAt": "2026-01-31T07:15:19.000Z",
-    "createdAt": "2026-01-31T10:31:07.224Z",
-    "updatedAt": "2026-01-31T10:31:07.224Z"
-  },
-  {
-    "id": "654915f439fbe31c",
-    "title": "Трусова заявила, что ее «штырит» от четверных прыжков",
-    "sport": "Другое",
-    "category": "Фигурное катание",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/3/36/347697981956363.jpeg",
-    "teaser": "Трусова заявила, что ее «штырит» от четверных прыжков",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/697cf77c9a79476220803655",
-    "publishedAt": "2026-01-30T19:05:23.000Z",
-    "createdAt": "2026-01-31T10:31:08.311Z",
-    "updatedAt": "2026-01-31T10:31:08.311Z"
-  },
-  {
-    "id": "77fb3e5e4452d616",
-    "title": "Болельщик ударил полицейского ногой в лицо после матча «Сибири»",
-    "sport": "Хоккей",
-    "category": "Хоккей",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/1/94/347697963131941.jpeg",
-    "teaser": "Болельщик ударил полицейского ногой в лицо после матча «Сибири»",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/697cf0c99a79474946605ca8",
-    "publishedAt": "2026-01-30T18:57:33.000Z",
-    "createdAt": "2026-01-31T10:31:09.391Z",
-    "updatedAt": "2026-01-31T10:31:09.391Z"
+    "createdAt": "2026-01-31T11:25:59.900Z",
+    "updatedAt": "2026-01-31T11:25:59.900Z"
   }
 ]
