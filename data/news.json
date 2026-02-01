@@ -1,5 +1,33 @@
 [
   {
+    "id": "2aa5ad4964d5a6f1",
+    "title": "Клуб Овечкина отыгрался с 0:3 и победил",
+    "sport": "Хоккей",
+    "category": "Хоккей",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/4/59/347699391204594.jpeg",
+    "teaser": "Клуб Овечкина отыгрался с 0:3 и победил",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/697f20829a79470db0703863",
+    "publishedAt": "2026-02-01T10:03:31.000Z",
+    "createdAt": "2026-02-01T10:32:45.841Z",
+    "updatedAt": "2026-02-01T10:32:45.841Z"
+  },
+  {
+    "id": "2887231c91129561",
+    "title": "Российский боксер не смог защитить титул чемпиона IBF",
+    "sport": "Единоборства",
+    "category": "Единоборства",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/4/38/347699378003384.jpeg",
+    "teaser": "Российский боксер не смог защитить титул чемпиона IBF",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/697f19ea9a7947a4e106c50e",
+    "publishedAt": "2026-02-01T09:37:32.000Z",
+    "createdAt": "2026-02-01T10:32:44.834Z",
+    "updatedAt": "2026-02-01T10:32:44.834Z"
+  },
+  {
     "id": "5328e91e2e060f11",
     "title": "Константин Тюкавин — РБК: «К Роналду не подобраться»",
     "sport": "Футбол",
@@ -10,8 +38,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6975e0009a79478abc57e361",
     "publishedAt": "2026-02-01T07:38:37.000Z",
-    "createdAt": "2026-02-01T09:37:11.345Z",
-    "updatedAt": "2026-02-01T09:37:11.345Z"
+    "createdAt": "2026-02-01T10:32:46.856Z",
+    "updatedAt": "2026-02-01T10:32:46.856Z"
   },
   {
     "id": "010dd8e7137d60ff",
@@ -24,8 +52,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/697e48149a7947a68b83fb86",
     "publishedAt": "2026-01-31T18:46:26.000Z",
-    "createdAt": "2026-02-01T09:37:14.429Z",
-    "updatedAt": "2026-02-01T09:37:14.429Z"
+    "createdAt": "2026-02-01T10:32:49.895Z",
+    "updatedAt": "2026-02-01T10:32:49.895Z"
   },
   {
     "id": "e9a93a89bd01b201",
@@ -38,8 +66,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/697e0a079a79479e0711a99c",
     "publishedAt": "2026-01-31T18:25:34.000Z",
-    "createdAt": "2026-02-01T09:37:12.315Z",
-    "updatedAt": "2026-02-01T09:37:12.315Z"
+    "createdAt": "2026-02-01T10:32:47.873Z",
+    "updatedAt": "2026-02-01T10:32:47.873Z"
   },
   {
     "id": "6f929c8227475b79",
@@ -52,8 +80,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/697e3dda9a79470dca619062",
     "publishedAt": "2026-01-31T17:53:06.000Z",
-    "createdAt": "2026-02-01T09:37:13.375Z",
-    "updatedAt": "2026-02-01T09:37:13.375Z"
+    "createdAt": "2026-02-01T10:32:48.912Z",
+    "updatedAt": "2026-02-01T10:32:48.912Z"
   },
   {
     "id": "822fca65ad221bef",
@@ -66,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/697e37989a7947ea218156bb",
     "publishedAt": "2026-01-31T17:27:38.000Z",
-    "createdAt": "2026-02-01T09:37:15.673Z",
-    "updatedAt": "2026-02-01T09:37:15.673Z"
+    "createdAt": "2026-02-01T10:32:50.902Z",
+    "updatedAt": "2026-02-01T10:32:50.902Z"
   },
   {
     "id": "c687a0110b01086a",
@@ -80,8 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/697e34d99a794736db99618d",
     "publishedAt": "2026-01-31T17:06:06.000Z",
-    "createdAt": "2026-02-01T09:37:16.662Z",
-    "updatedAt": "2026-02-01T09:37:16.662Z"
+    "createdAt": "2026-02-01T10:32:51.949Z",
+    "updatedAt": "2026-02-01T10:32:51.949Z"
   },
   {
     "id": "16de2bfba373c296",
@@ -94,8 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/697e2a8f9a79470acef89ce5",
     "publishedAt": "2026-01-31T16:24:41.000Z",
-    "createdAt": "2026-02-01T09:37:17.676Z",
-    "updatedAt": "2026-02-01T09:37:17.676Z"
+    "createdAt": "2026-02-01T10:32:53.027Z",
+    "updatedAt": "2026-02-01T10:32:53.027Z"
   },
   {
     "id": "e45cff411d303803",
@@ -108,35 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/697e14499a7947774e030515",
     "publishedAt": "2026-01-31T15:08:34.000Z",
-    "createdAt": "2026-02-01T09:37:18.671Z",
-    "updatedAt": "2026-02-01T09:37:18.671Z"
-  },
-  {
-    "id": "19b817f64c72516f",
-    "title": "Всемирная федерация тхэквондо допустила россиян до соревнований с флагом",
-    "sport": "Другое",
-    "category": "Другие",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/5/52/347698706522525.jpeg",
-    "teaser": "Всемирная федерация тхэквондо допустила россиян до соревнований с флагом",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/697e152a9a794729ccf870fa",
-    "publishedAt": "2026-01-31T14:55:31.000Z",
-    "createdAt": "2026-02-01T09:37:19.718Z",
-    "updatedAt": "2026-02-01T09:37:19.718Z"
-  },
-  {
-    "id": "e95ba511ee501e53",
-    "title": "Трусова назвала большим шагом выступление на чемпионате России по прыжкам",
-    "sport": "Другое",
-    "category": "Фигурное катание",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/4/70/347698696000704.jpeg",
-    "teaser": "Трусова назвала большим шагом выступление на чемпионате России по прыжкам",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/697e10cb9a79476107acc090",
-    "publishedAt": "2026-01-31T14:32:59.000Z",
-    "createdAt": "2026-02-01T09:37:20.756Z",
-    "updatedAt": "2026-02-01T09:37:20.756Z"
+    "createdAt": "2026-02-01T10:32:54.096Z",
+    "updatedAt": "2026-02-01T10:32:54.096Z"
   }
 ]
