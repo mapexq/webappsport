@@ -1,5 +1,19 @@
 [
   {
+    "id": "5328e91e2e060f11",
+    "title": "Константин Тюкавин — РБК: «К Роналду не подобраться»",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/6/92/347693387507926.jpeg",
+    "teaser": "Константин Тюкавин — РБК: «К Роналду не подобраться»",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6975e0009a79478abc57e361",
+    "publishedAt": "2026-02-01T07:38:37.000Z",
+    "createdAt": "2026-02-01T09:37:11.345Z",
+    "updatedAt": "2026-02-01T09:37:11.345Z"
+  },
+  {
     "id": "010dd8e7137d60ff",
     "title": "Экс-чемпион промоушена Нурмагомедова проведет бой в UFC в феврале",
     "sport": "Единоборства",
@@ -10,8 +24,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/697e48149a7947a68b83fb86",
     "publishedAt": "2026-01-31T18:46:26.000Z",
-    "createdAt": "2026-02-01T08:39:27.049Z",
-    "updatedAt": "2026-02-01T08:39:27.049Z"
+    "createdAt": "2026-02-01T09:37:14.429Z",
+    "updatedAt": "2026-02-01T09:37:14.429Z"
   },
   {
     "id": "e9a93a89bd01b201",
@@ -24,8 +38,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/697e0a079a79479e0711a99c",
     "publishedAt": "2026-01-31T18:25:34.000Z",
-    "createdAt": "2026-02-01T08:39:25.009Z",
-    "updatedAt": "2026-02-01T08:39:25.009Z"
+    "createdAt": "2026-02-01T09:37:12.315Z",
+    "updatedAt": "2026-02-01T09:37:12.315Z"
   },
   {
     "id": "6f929c8227475b79",
@@ -38,8 +52,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/697e3dda9a79470dca619062",
     "publishedAt": "2026-01-31T17:53:06.000Z",
-    "createdAt": "2026-02-01T08:39:26.059Z",
-    "updatedAt": "2026-02-01T08:39:26.059Z"
+    "createdAt": "2026-02-01T09:37:13.375Z",
+    "updatedAt": "2026-02-01T09:37:13.375Z"
   },
   {
     "id": "822fca65ad221bef",
@@ -52,8 +66,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/697e37989a7947ea218156bb",
     "publishedAt": "2026-01-31T17:27:38.000Z",
-    "createdAt": "2026-02-01T08:39:28.107Z",
-    "updatedAt": "2026-02-01T08:39:28.108Z"
+    "createdAt": "2026-02-01T09:37:15.673Z",
+    "updatedAt": "2026-02-01T09:37:15.673Z"
   },
   {
     "id": "c687a0110b01086a",
@@ -66,8 +80,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/697e34d99a794736db99618d",
     "publishedAt": "2026-01-31T17:06:06.000Z",
-    "createdAt": "2026-02-01T08:39:29.152Z",
-    "updatedAt": "2026-02-01T08:39:29.152Z"
+    "createdAt": "2026-02-01T09:37:16.662Z",
+    "updatedAt": "2026-02-01T09:37:16.662Z"
   },
   {
     "id": "16de2bfba373c296",
@@ -80,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/697e2a8f9a79470acef89ce5",
     "publishedAt": "2026-01-31T16:24:41.000Z",
-    "createdAt": "2026-02-01T08:39:30.204Z",
-    "updatedAt": "2026-02-01T08:39:30.205Z"
+    "createdAt": "2026-02-01T09:37:17.676Z",
+    "updatedAt": "2026-02-01T09:37:17.676Z"
   },
   {
     "id": "e45cff411d303803",
@@ -94,8 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/697e14499a7947774e030515",
     "publishedAt": "2026-01-31T15:08:34.000Z",
-    "createdAt": "2026-02-01T08:39:31.254Z",
-    "updatedAt": "2026-02-01T08:39:31.254Z"
+    "createdAt": "2026-02-01T09:37:18.671Z",
+    "updatedAt": "2026-02-01T09:37:18.671Z"
   },
   {
     "id": "19b817f64c72516f",
@@ -108,8 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/697e152a9a794729ccf870fa",
     "publishedAt": "2026-01-31T14:55:31.000Z",
-    "createdAt": "2026-02-01T08:39:32.296Z",
-    "updatedAt": "2026-02-01T08:39:32.296Z"
+    "createdAt": "2026-02-01T09:37:19.718Z",
+    "updatedAt": "2026-02-01T09:37:19.718Z"
   },
   {
     "id": "e95ba511ee501e53",
@@ -122,21 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/697e10cb9a79476107acc090",
     "publishedAt": "2026-01-31T14:32:59.000Z",
-    "createdAt": "2026-02-01T08:39:33.346Z",
-    "updatedAt": "2026-02-01T08:39:33.346Z"
-  },
-  {
-    "id": "904236e15a6ab801",
-    "title": "Валиева впервые выступила на соревнованиях после дисквалификации",
-    "sport": "Другое",
-    "category": "Фигурное катание",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/3/86/347698642608863.jpeg",
-    "teaser": "Валиева впервые выступила на соревнованиях после дисквалификации",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/697dfbef9a7947172a3c0ef9",
-    "publishedAt": "2026-01-31T13:08:45.000Z",
-    "createdAt": "2026-02-01T08:39:34.404Z",
-    "updatedAt": "2026-02-01T08:39:34.404Z"
+    "createdAt": "2026-02-01T09:37:20.756Z",
+    "updatedAt": "2026-02-01T09:37:20.756Z"
   }
 ]
