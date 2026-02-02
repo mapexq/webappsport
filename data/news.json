@@ -1,5 +1,61 @@
 [
   {
+    "id": "6a5616f8c33c304e",
+    "title": "Умер чемпион мира по борьбе Михаил Саладзе",
+    "sport": "Единоборства",
+    "category": "Единоборства",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/2/30/347700357379302.png",
+    "teaser": "Умер чемпион мира по борьбе Михаил Саладзе",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/698099709a7947ee363f475c",
+    "publishedAt": "2026-02-02T12:51:23.000Z",
+    "createdAt": "2026-02-02T13:13:12.641Z",
+    "updatedAt": "2026-02-02T13:13:12.641Z"
+  },
+  {
+    "id": "e7a7d35cb2a34998",
+    "title": "Российских юниоров допустили в пятом командном виде спорта",
+    "sport": "Другое",
+    "category": "Другие",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/5/97/347700335641975.jpeg",
+    "teaser": "Российских юниоров допустили в пятом командном виде спорта",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6980912a9a7947191a7caa5b",
+    "publishedAt": "2026-02-02T12:17:33.000Z",
+    "createdAt": "2026-02-02T13:13:13.652Z",
+    "updatedAt": "2026-02-02T13:13:13.652Z"
+  },
+  {
+    "id": "453a8d2cf65c3479",
+    "title": "Роднина фразой «попрыгали и ладно» оценила возвращение Валиевой",
+    "sport": "Другое",
+    "category": "Фигурное катание",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/8/97/347700331706978.png",
+    "teaser": "Роднина фразой «попрыгали и ладно» оценила возвращение Валиевой",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69808d209a794750980653a2",
+    "publishedAt": "2026-02-02T12:07:37.000Z",
+    "createdAt": "2026-02-02T13:13:11.556Z",
+    "updatedAt": "2026-02-02T13:13:11.556Z"
+  },
+  {
+    "id": "22bbca0ac1f09dc1",
+    "title": "Лига 1 посвятила несколько постов отразившему пенальти Матвею Сафонову",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/0/43/347700322988430.png",
+    "teaser": "Лига 1 посвятила несколько постов отразившему пенальти Матвею Сафонову",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/698088f79a7947b1aa2bb77d",
+    "publishedAt": "2026-02-02T11:41:00.000Z",
+    "createdAt": "2026-02-02T13:13:14.860Z",
+    "updatedAt": "2026-02-02T13:13:14.860Z"
+  },
+  {
     "id": "7be69708baf40875",
     "title": "Тутберидзе прилетела в Италию на Олимпиаду",
     "sport": "Другое",
@@ -10,8 +66,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69807eb09a79470a03162dac",
     "publishedAt": "2026-02-02T11:29:20.000Z",
-    "createdAt": "2026-02-02T11:40:24.239Z",
-    "updatedAt": "2026-02-02T11:40:24.239Z"
+    "createdAt": "2026-02-02T13:13:16.235Z",
+    "updatedAt": "2026-02-02T13:13:16.235Z"
   },
   {
     "id": "45b4f7361c5f0b8c",
@@ -24,8 +80,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/698072a09a79472a83607dee",
     "publishedAt": "2026-02-02T10:41:50.000Z",
-    "createdAt": "2026-02-02T11:40:25.297Z",
-    "updatedAt": "2026-02-02T11:40:25.297Z"
+    "createdAt": "2026-02-02T13:13:17.301Z",
+    "updatedAt": "2026-02-02T13:13:17.301Z"
   },
   {
     "id": "5fddb7a1349d7811",
@@ -38,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69806eaa9a79478383cba178",
     "publishedAt": "2026-02-02T09:46:00.000Z",
-    "createdAt": "2026-02-02T11:40:27.452Z",
-    "updatedAt": "2026-02-02T11:40:27.452Z"
+    "createdAt": "2026-02-02T13:13:19.419Z",
+    "updatedAt": "2026-02-02T13:13:19.419Z"
   },
   {
     "id": "909e730b66ffa9b9",
@@ -52,22 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/698069eb9a794764e08f5fb4",
     "publishedAt": "2026-02-02T09:29:50.000Z",
-    "createdAt": "2026-02-02T11:40:26.410Z",
-    "updatedAt": "2026-02-02T11:40:26.410Z"
-  },
-  {
-    "id": "e11f087c9e1a42fd",
-    "title": "Впервые за 21 год двое россиян набрали очки в дебютном сезоне НБА",
-    "sport": "Баскетбол",
-    "category": "Баскетбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/8/15/347700190942158.jpeg",
-    "teaser": "Впервые за 21 год двое россиян набрали очки в дебютном сезоне НБА",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/698058c79a79474d120c05c9",
-    "publishedAt": "2026-02-02T08:12:01.000Z",
-    "createdAt": "2026-02-02T11:40:29.716Z",
-    "updatedAt": "2026-02-02T11:40:29.716Z"
+    "createdAt": "2026-02-02T13:13:18.360Z",
+    "updatedAt": "2026-02-02T13:13:18.360Z"
   },
   {
     "id": "667bcec5b7314480",
@@ -80,8 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/698053b19a7947d3dae884a6",
     "publishedAt": "2026-02-02T08:04:41.000Z",
-    "createdAt": "2026-02-02T11:40:28.638Z",
-    "updatedAt": "2026-02-02T11:40:28.638Z"
+    "createdAt": "2026-02-02T13:13:20.485Z",
+    "updatedAt": "2026-02-02T13:13:20.485Z"
   },
   {
     "id": "4b4f77c72c9f582b",
@@ -94,49 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69804d639a7947da42af5a35",
     "publishedAt": "2026-02-02T07:26:23.000Z",
-    "createdAt": "2026-02-02T11:40:30.821Z",
-    "updatedAt": "2026-02-02T11:40:30.821Z"
-  },
-  {
-    "id": "0a6b647a51683d08",
-    "title": "Кучерова признали лучшим игроком января в НХЛ",
-    "sport": "Хоккей",
-    "category": "Хоккей",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/4/38/347699738691384.jpeg",
-    "teaser": "Кучерова признали лучшим игроком января в НХЛ",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/697fa85e9a794708b34721ea",
-    "publishedAt": "2026-02-01T19:30:41.000Z",
-    "createdAt": "2026-02-02T11:40:31.887Z",
-    "updatedAt": "2026-02-02T11:40:31.887Z"
-  },
-  {
-    "id": "4d7b6932a6cb6f6a",
-    "title": "Восстановившийся после травмы Сафонов снова попал в стартовый состав ПСЖ",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/3/48/347699726159483.jpeg",
-    "teaser": "Восстановившийся после травмы Сафонов снова попал в стартовый состав ПСЖ",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/697fa3599a794758a5e1f781",
-    "publishedAt": "2026-02-01T19:13:42.000Z",
-    "createdAt": "2026-02-02T11:40:34.116Z",
-    "updatedAt": "2026-02-02T11:40:34.116Z"
-  },
-  {
-    "id": "2df22df6491b4d80",
-    "title": "Лучший бомбардир России на ЧМ-2018 стал играть за клуб блогера в розыске",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/7/33/347699689836337.png",
-    "teaser": "Лучший бомбардир России на ЧМ-2018 стал играть за клуб блогера в розыске",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/697f61039a794787bddbb5dd",
-    "publishedAt": "2026-02-01T19:08:35.000Z",
-    "createdAt": "2026-02-02T11:40:32.989Z",
-    "updatedAt": "2026-02-02T11:40:32.989Z"
+    "createdAt": "2026-02-02T13:13:21.560Z",
+    "updatedAt": "2026-02-02T13:13:21.560Z"
   }
 ]
