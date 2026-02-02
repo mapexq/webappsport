@@ -1,5 +1,61 @@
 [
   {
+    "id": "9222dd820bacfa7e",
+    "title": "Инфантино заявил, что ФИФА должна рассмотреть отмену отстранения России",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/0/70/347700428422700.jpeg",
+    "teaser": "Инфантино заявил, что ФИФА должна рассмотреть отмену отстранения России",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6980b4b69a7947a8efec1d1d",
+    "publishedAt": "2026-02-02T14:44:18.000Z",
+    "createdAt": "2026-02-02T14:48:34.653Z",
+    "updatedAt": "2026-02-02T14:48:34.653Z"
+  },
+  {
+    "id": "d9b828bdb9030afc",
+    "title": "Лучший фигурист мира будет носить на Олимпиаде шнурки от Овечкина",
+    "sport": "Другое",
+    "category": "Фигурное катание",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/0/98/347700411575980.png",
+    "teaser": "Лучший фигурист мира будет носить на Олимпиаде шнурки от Овечкина",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6980ae589a794706abbf68b4",
+    "publishedAt": "2026-02-02T14:25:20.000Z",
+    "createdAt": "2026-02-02T14:48:35.720Z",
+    "updatedAt": "2026-02-02T14:48:35.720Z"
+  },
+  {
+    "id": "5d865028a44a9d58",
+    "title": "На Олимпиаде в Италии выявили первый случай допинга",
+    "sport": "Другое",
+    "category": "Биатлон",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/5/49/347700390336495.jpeg",
+    "teaser": "На Олимпиаде в Италии выявили первый случай допинга",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6980a4a09a794726e67e903f",
+    "publishedAt": "2026-02-02T13:34:59.000Z",
+    "createdAt": "2026-02-02T14:48:36.770Z",
+    "updatedAt": "2026-02-02T14:48:36.770Z"
+  },
+  {
+    "id": "e7e97c66da898c17",
+    "title": "В сборной Австралии выявили два случая коронавируса перед Олимпиадой",
+    "sport": "Другое",
+    "category": "Другие",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/6/34/347700378528346.jpeg",
+    "teaser": "В сборной Австралии выявили два случая коронавируса перед Олимпиадой",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6980a1599a7947472606ebde",
+    "publishedAt": "2026-02-02T13:22:11.000Z",
+    "createdAt": "2026-02-02T14:48:37.835Z",
+    "updatedAt": "2026-02-02T14:48:37.835Z"
+  },
+  {
     "id": "6a5616f8c33c304e",
     "title": "Умер чемпион мира по борьбе Михаил Саладзе",
     "sport": "Единоборства",
@@ -10,8 +66,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/698099709a7947ee363f475c",
     "publishedAt": "2026-02-02T12:51:23.000Z",
-    "createdAt": "2026-02-02T13:13:12.641Z",
-    "updatedAt": "2026-02-02T13:13:12.641Z"
+    "createdAt": "2026-02-02T14:48:39.942Z",
+    "updatedAt": "2026-02-02T14:48:39.942Z"
   },
   {
     "id": "e7a7d35cb2a34998",
@@ -24,8 +80,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6980912a9a7947191a7caa5b",
     "publishedAt": "2026-02-02T12:17:33.000Z",
-    "createdAt": "2026-02-02T13:13:13.652Z",
-    "updatedAt": "2026-02-02T13:13:13.652Z"
+    "createdAt": "2026-02-02T14:48:40.998Z",
+    "updatedAt": "2026-02-02T14:48:40.998Z"
   },
   {
     "id": "453a8d2cf65c3479",
@@ -38,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69808d209a794750980653a2",
     "publishedAt": "2026-02-02T12:07:37.000Z",
-    "createdAt": "2026-02-02T13:13:11.556Z",
-    "updatedAt": "2026-02-02T13:13:11.556Z"
+    "createdAt": "2026-02-02T14:48:38.897Z",
+    "updatedAt": "2026-02-02T14:48:38.897Z"
   },
   {
     "id": "22bbca0ac1f09dc1",
@@ -52,8 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/698088f79a7947b1aa2bb77d",
     "publishedAt": "2026-02-02T11:41:00.000Z",
-    "createdAt": "2026-02-02T13:13:14.860Z",
-    "updatedAt": "2026-02-02T13:13:14.860Z"
+    "createdAt": "2026-02-02T14:48:42.054Z",
+    "updatedAt": "2026-02-02T14:48:42.054Z"
   },
   {
     "id": "7be69708baf40875",
@@ -66,8 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69807eb09a79470a03162dac",
     "publishedAt": "2026-02-02T11:29:20.000Z",
-    "createdAt": "2026-02-02T13:13:16.235Z",
-    "updatedAt": "2026-02-02T13:13:16.235Z"
+    "createdAt": "2026-02-02T14:48:43.108Z",
+    "updatedAt": "2026-02-02T14:48:43.108Z"
   },
   {
     "id": "45b4f7361c5f0b8c",
@@ -80,63 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/698072a09a79472a83607dee",
     "publishedAt": "2026-02-02T10:41:50.000Z",
-    "createdAt": "2026-02-02T13:13:17.301Z",
-    "updatedAt": "2026-02-02T13:13:17.301Z"
-  },
-  {
-    "id": "5fddb7a1349d7811",
-    "title": "Маклауда признали лучшим форвардом недели в КХЛ за два победных гола",
-    "sport": "Хоккей",
-    "category": "Хоккей",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/8/82/347700247085828.png",
-    "teaser": "Маклауда признали лучшим форвардом недели в КХЛ за два победных гола",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69806eaa9a79478383cba178",
-    "publishedAt": "2026-02-02T09:46:00.000Z",
-    "createdAt": "2026-02-02T13:13:19.419Z",
-    "updatedAt": "2026-02-02T13:13:19.419Z"
-  },
-  {
-    "id": "909e730b66ffa9b9",
-    "title": "Медведев и Рублев поднялись в рейтинге ATP после Australian Open",
-    "sport": "Теннис",
-    "category": "Теннис",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/3/31/347700234885313.jpeg",
-    "teaser": "Медведев и Рублев поднялись в рейтинге ATP после Australian Open",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/698069eb9a794764e08f5fb4",
-    "publishedAt": "2026-02-02T09:29:50.000Z",
-    "createdAt": "2026-02-02T13:13:18.360Z",
-    "updatedAt": "2026-02-02T13:13:18.360Z"
-  },
-  {
-    "id": "667bcec5b7314480",
-    "title": "Умер бывший президент Всероссийской федерации легкой атлетики Балахничев",
-    "sport": "Другое",
-    "category": "Другие",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/3/23/347700207838233.jpeg",
-    "teaser": "Умер бывший президент Всероссийской федерации легкой атлетики Балахничев",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/698053b19a7947d3dae884a6",
-    "publishedAt": "2026-02-02T08:04:41.000Z",
-    "createdAt": "2026-02-02T13:13:20.485Z",
-    "updatedAt": "2026-02-02T13:13:20.485Z"
-  },
-  {
-    "id": "4b4f77c72c9f582b",
-    "title": "Россиянин прервал рекордную серию в НБА и забросил мяч в свое кольцо",
-    "sport": "Баскетбол",
-    "category": "Баскетбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/8/72/347700163493728.jpeg",
-    "teaser": "Россиянин прервал рекордную серию в НБА и забросил мяч в свое кольцо",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69804d639a7947da42af5a35",
-    "publishedAt": "2026-02-02T07:26:23.000Z",
-    "createdAt": "2026-02-02T13:13:21.560Z",
-    "updatedAt": "2026-02-02T13:13:21.560Z"
+    "createdAt": "2026-02-02T14:48:44.104Z",
+    "updatedAt": "2026-02-02T14:48:44.104Z"
   }
 ]
