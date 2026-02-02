@@ -1,5 +1,61 @@
 [
   {
+    "id": "909e730b66ffa9b9",
+    "title": "Медведев и Рублев поднялись в рейтинге ATP после Australian Open",
+    "sport": "Теннис",
+    "category": "Теннис",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/3/31/347700234885313.jpeg",
+    "teaser": "Медведев и Рублев поднялись в рейтинге ATP после Australian Open",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/698069eb9a794764e08f5fb4",
+    "publishedAt": "2026-02-02T09:29:50.000Z",
+    "createdAt": "2026-02-02T09:58:01.838Z",
+    "updatedAt": "2026-02-02T09:58:01.838Z"
+  },
+  {
+    "id": "e11f087c9e1a42fd",
+    "title": "Впервые за 21 год двое россиян набрали очки в дебютном сезоне НБА",
+    "sport": "Баскетбол",
+    "category": "Баскетбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/8/15/347700190942158.jpeg",
+    "teaser": "Впервые за 21 год двое россиян набрали очки в дебютном сезоне НБА",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/698058c79a79474d120c05c9",
+    "publishedAt": "2026-02-02T08:12:01.000Z",
+    "createdAt": "2026-02-02T09:58:03.712Z",
+    "updatedAt": "2026-02-02T09:58:03.712Z"
+  },
+  {
+    "id": "667bcec5b7314480",
+    "title": "Умер бывший президент Всероссийской федерации легкой атлетики Балахничев",
+    "sport": "Другое",
+    "category": "Другие",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/3/23/347700207838233.jpeg",
+    "teaser": "Умер бывший президент Всероссийской федерации легкой атлетики Балахничев",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/698053b19a7947d3dae884a6",
+    "publishedAt": "2026-02-02T08:04:41.000Z",
+    "createdAt": "2026-02-02T09:58:02.684Z",
+    "updatedAt": "2026-02-02T09:58:02.684Z"
+  },
+  {
+    "id": "4b4f77c72c9f582b",
+    "title": "Россиянин прервал рекордную серию в НБА и забросил мяч в свое кольцо",
+    "sport": "Баскетбол",
+    "category": "Баскетбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/8/72/347700163493728.jpeg",
+    "teaser": "Россиянин прервал рекордную серию в НБА и забросил мяч в свое кольцо",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69804d639a7947da42af5a35",
+    "publishedAt": "2026-02-02T07:26:23.000Z",
+    "createdAt": "2026-02-02T09:58:04.730Z",
+    "updatedAt": "2026-02-02T09:58:04.730Z"
+  },
+  {
     "id": "0a6b647a51683d08",
     "title": "Кучерова признали лучшим игроком января в НХЛ",
     "sport": "Хоккей",
@@ -10,8 +66,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/697fa85e9a794708b34721ea",
     "publishedAt": "2026-02-01T19:30:41.000Z",
-    "createdAt": "2026-02-02T08:53:08.499Z",
-    "updatedAt": "2026-02-02T08:53:08.499Z"
+    "createdAt": "2026-02-02T09:58:05.726Z",
+    "updatedAt": "2026-02-02T09:58:05.726Z"
   },
   {
     "id": "4d7b6932a6cb6f6a",
@@ -24,8 +80,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/697fa3599a794758a5e1f781",
     "publishedAt": "2026-02-01T19:13:42.000Z",
-    "createdAt": "2026-02-02T08:53:10.815Z",
-    "updatedAt": "2026-02-02T08:53:10.815Z"
+    "createdAt": "2026-02-02T09:58:08.092Z",
+    "updatedAt": "2026-02-02T09:58:08.092Z"
   },
   {
     "id": "2df22df6491b4d80",
@@ -38,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/697f61039a794787bddbb5dd",
     "publishedAt": "2026-02-01T19:08:35.000Z",
-    "createdAt": "2026-02-02T08:53:09.652Z",
-    "updatedAt": "2026-02-02T08:53:09.652Z"
+    "createdAt": "2026-02-02T09:58:06.748Z",
+    "updatedAt": "2026-02-02T09:58:06.748Z"
   },
   {
     "id": "e5d5b2c16886072b",
@@ -52,8 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/697f9e379a794718ec69986d",
     "publishedAt": "2026-02-01T18:56:19.000Z",
-    "createdAt": "2026-02-02T08:53:11.878Z",
-    "updatedAt": "2026-02-02T08:53:11.878Z"
+    "createdAt": "2026-02-02T09:58:09.114Z",
+    "updatedAt": "2026-02-02T09:58:09.114Z"
   },
   {
     "id": "f0c61808c4d0671e",
@@ -66,64 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/697f72419a79474ea505a517",
     "publishedAt": "2026-02-01T17:25:08.000Z",
-    "createdAt": "2026-02-02T08:53:14.121Z",
-    "updatedAt": "2026-02-02T08:53:14.121Z"
-  },
-  {
-    "id": "1a78f9a88fd35393",
-    "title": "СКА установил клубный антирекорд по числу поражений подряд в КХЛ",
-    "sport": "Хоккей",
-    "category": "Хоккей",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/1/91/347699641128911.png",
-    "teaser": "СКА установил клубный антирекорд по числу поражений подряд в КХЛ",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/697f82009a794780b89846d5",
-    "publishedAt": "2026-02-01T17:01:39.000Z",
-    "createdAt": "2026-02-02T08:53:15.263Z",
-    "updatedAt": "2026-02-02T08:53:15.263Z"
-  },
-  {
-    "id": "38ab3ff4b907ef4c",
-    "title": "«Авангард» впервые за семь сезонов победил в гостях московское «Динамо»",
-    "sport": "Хоккей",
-    "category": "Хоккей",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/6/44/347699636727446.png",
-    "teaser": "«Авангард» впервые за семь сезонов победил в гостях московское «Динамо»",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/697f7d879a794789bce0b50d",
-    "publishedAt": "2026-02-01T16:35:06.000Z",
-    "createdAt": "2026-02-02T08:53:18.967Z",
-    "updatedAt": "2026-02-02T08:53:18.967Z"
-  },
-  {
-    "id": "1efef2b276bce867",
-    "title": "Фигуристы Двоеглазова и Сарновский стали чемпионами России по прыжкам",
-    "sport": "Другое",
-    "category": "Фигурное катание",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/3/49/347699576589493.png",
-    "teaser": "Фигуристы Двоеглазова и Сарновский стали чемпионами России по прыжкам",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/697f68e89a79473fa2af7be0",
-    "publishedAt": "2026-02-01T15:09:57.000Z",
-    "createdAt": "2026-02-02T08:53:16.627Z",
-    "updatedAt": "2026-02-02T08:53:16.627Z"
-  },
-  {
-    "id": "5fc08538e2e70e3a",
-    "title": "Валиева осталась без медали на первом турнире после дисквалификации",
-    "sport": "Другое",
-    "category": "Фигурное катание",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/3/69/347699541324693.png",
-    "teaser": "Валиева осталась без медали на первом турнире после дисквалификации",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/697f5b1f9a79472a3ad258c9",
-    "publishedAt": "2026-02-01T14:05:10.000Z",
-    "createdAt": "2026-02-02T08:53:17.825Z",
-    "updatedAt": "2026-02-02T08:53:17.825Z"
+    "createdAt": "2026-02-02T09:58:11.246Z",
+    "updatedAt": "2026-02-02T09:58:11.246Z"
   },
   {
     "id": "5328e91e2e060f11",
@@ -136,7 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6975e0009a79478abc57e361",
     "publishedAt": "2026-02-01T07:38:37.000Z",
-    "createdAt": "2026-02-02T08:53:13.000Z",
-    "updatedAt": "2026-02-02T08:53:13.000Z"
+    "createdAt": "2026-02-02T09:58:10.187Z",
+    "updatedAt": "2026-02-02T09:58:10.187Z"
   }
 ]
