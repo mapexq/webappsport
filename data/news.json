@@ -1,5 +1,47 @@
 [
   {
+    "id": "130aaf4577c427a9",
+    "title": "Футболиста азербайджанского «Кяпаза» госпитализировали с ножевым ранением",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/8/97/347701179702978.jpeg",
+    "teaser": "Футболиста азербайджанского «Кяпаза» госпитализировали с ножевым ранением",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6981d6249a79470fd10c4f76",
+    "publishedAt": "2026-02-03T11:33:55.000Z",
+    "createdAt": "2026-02-03T11:39:02.652Z",
+    "updatedAt": "2026-02-03T11:39:02.652Z"
+  },
+  {
+    "id": "1ce4648e6e3ad16d",
+    "title": "Глава WADA сообщил о 298 приговорах российским атлетам по допинг-делам",
+    "sport": "Другое",
+    "category": "Другие",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/8/63/347701171105638.jpeg",
+    "teaser": "Глава WADA сообщил о 298 приговорах российским атлетам по допинг-делам",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6981d7a39a79471d6e7304e8",
+    "publishedAt": "2026-02-03T11:22:39.000Z",
+    "createdAt": "2026-02-03T11:39:03.877Z",
+    "updatedAt": "2026-02-03T11:39:03.877Z"
+  },
+  {
+    "id": "0e12ac07ee9cc0c0",
+    "title": "Дегтярев пообещал поддерживать 13 российских атлетов на Олимпиаде",
+    "sport": "Другое",
+    "category": "Другие",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/0/95/347701158639950.jpeg",
+    "teaser": "Дегтярев пообещал поддерживать 13 российских атлетов на Олимпиаде",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6981d1f49a7947ee556f4bb2",
+    "publishedAt": "2026-02-03T10:58:23.000Z",
+    "createdAt": "2026-02-03T11:39:04.934Z",
+    "updatedAt": "2026-02-03T11:39:04.934Z"
+  },
+  {
     "id": "d735563fc76e8954",
     "title": "Третья ракетка России вышла в 1/4 финала турнира WTA 500 в Абу-Даби",
     "sport": "Теннис",
@@ -10,8 +52,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6981c84e9a794793f544e689",
     "publishedAt": "2026-02-03T10:34:37.000Z",
-    "createdAt": "2026-02-03T10:49:33.947Z",
-    "updatedAt": "2026-02-03T10:49:33.947Z"
+    "createdAt": "2026-02-03T11:39:07.100Z",
+    "updatedAt": "2026-02-03T11:39:07.100Z"
   },
   {
     "id": "e37ab2a43954e20c",
@@ -24,8 +66,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6981c34b9a79476e2394307f",
     "publishedAt": "2026-02-03T10:17:03.000Z",
-    "createdAt": "2026-02-03T10:49:32.894Z",
-    "updatedAt": "2026-02-03T10:49:32.894Z"
+    "createdAt": "2026-02-03T11:39:06.035Z",
+    "updatedAt": "2026-02-03T11:39:06.035Z"
   },
   {
     "id": "65fc5844bab927f1",
@@ -38,8 +80,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6981c3949a79471e6148d88c",
     "publishedAt": "2026-02-03T10:02:27.000Z",
-    "createdAt": "2026-02-03T10:49:35.068Z",
-    "updatedAt": "2026-02-03T10:49:35.068Z"
+    "createdAt": "2026-02-03T11:39:08.248Z",
+    "updatedAt": "2026-02-03T11:39:08.248Z"
   },
   {
     "id": "9fd22dbf0e7b1406",
@@ -52,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6981bf6f9a794716bf6755d8",
     "publishedAt": "2026-02-03T09:53:59.000Z",
-    "createdAt": "2026-02-03T10:49:36.184Z",
-    "updatedAt": "2026-02-03T10:49:36.184Z"
+    "createdAt": "2026-02-03T11:39:09.470Z",
+    "updatedAt": "2026-02-03T11:39:09.470Z"
   },
   {
     "id": "8716b386f9c040e8",
@@ -66,8 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6981ab669a79472aa5b516e0",
     "publishedAt": "2026-02-03T09:34:11.000Z",
-    "createdAt": "2026-02-03T10:49:37.298Z",
-    "updatedAt": "2026-02-03T10:49:37.298Z"
+    "createdAt": "2026-02-03T11:39:10.665Z",
+    "updatedAt": "2026-02-03T11:39:10.665Z"
   },
   {
     "id": "f4bb7d5da007a11e",
@@ -80,36 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6981a3d49a7947108d1d710a",
     "publishedAt": "2026-02-03T09:24:31.000Z",
-    "createdAt": "2026-02-03T10:49:38.426Z",
-    "updatedAt": "2026-02-03T10:49:38.426Z"
-  },
-  {
-    "id": "7af79ad4d3dbe284",
-    "title": "Российскую тяжелоатлетку отстранили на четыре года за тестостерон",
-    "sport": "Другое",
-    "category": "Другие",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/7/57/347701096447577.jpeg",
-    "teaser": "Российскую тяжелоатлетку отстранили на четыре года за тестостерон",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6981b83a9a79477cfdca0cab",
-    "publishedAt": "2026-02-03T09:15:33.000Z",
-    "createdAt": "2026-02-03T10:49:40.685Z",
-    "updatedAt": "2026-02-03T10:49:40.685Z"
-  },
-  {
-    "id": "72ff13ab465ef5c3",
-    "title": "РУСАДА сообщило о дисквалификации призера Олимпиады Фаткулиной",
-    "sport": "Другое",
-    "category": "Другие",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/7/21/347701072834217.jpeg",
-    "teaser": "РУСАДА сообщило о дисквалификации призера Олимпиады Фаткулиной",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6981b16c9a7947f29e4e36ee",
-    "publishedAt": "2026-02-03T08:51:48.000Z",
-    "createdAt": "2026-02-03T10:49:41.811Z",
-    "updatedAt": "2026-02-03T10:49:41.811Z"
+    "createdAt": "2026-02-03T11:39:11.843Z",
+    "updatedAt": "2026-02-03T11:39:11.843Z"
   },
   {
     "id": "31cb07a66de9cb44",
@@ -122,21 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6981a9159a79471709a0ba52",
     "publishedAt": "2026-02-03T08:44:22.000Z",
-    "createdAt": "2026-02-03T10:49:39.569Z",
-    "updatedAt": "2026-02-03T10:49:39.569Z"
-  },
-  {
-    "id": "56a580d6c1098cc8",
-    "title": "Итальянскую биатлонистку Пасслер исключили из сборной на ОИ из-за допинга",
-    "sport": "Другое",
-    "category": "Биатлон",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/3/31/347701031620313.jpeg",
-    "teaser": "Итальянскую биатлонистку Пасслер исключили из сборной на ОИ из-за допинга",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69819f3b9a79476aa2aa89bb",
-    "publishedAt": "2026-02-03T07:51:04.000Z",
-    "createdAt": "2026-02-03T10:49:42.973Z",
-    "updatedAt": "2026-02-03T10:49:42.973Z"
+    "createdAt": "2026-02-03T11:39:12.970Z",
+    "updatedAt": "2026-02-03T11:39:12.970Z"
   }
 ]
