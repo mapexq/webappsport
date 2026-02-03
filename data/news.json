@@ -1,5 +1,75 @@
 [
   {
+    "id": "1f56119af954507d",
+    "title": "Малкин повторил достижение Овечкина в НХЛ",
+    "sport": "Хоккей",
+    "category": "Хоккей",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/2/79/347701026932792.jpeg",
+    "teaser": "Малкин повторил достижение Овечкина в НХЛ",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69819f739a79478a99f17188",
+    "publishedAt": "2026-02-03T07:31:36.000Z",
+    "createdAt": "2026-02-03T07:50:44.848Z",
+    "updatedAt": "2026-02-03T07:50:44.848Z"
+  },
+  {
+    "id": "7193b7a8058d262c",
+    "title": "Бензема сменил клуб, несмотря на попытку Роналду заблокировать трансфер",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/8/94/347701019124948.jpeg",
+    "teaser": "Бензема сменил клуб, несмотря на попытку Роналду заблокировать трансфер",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6981948c9a79472739efdf64",
+    "publishedAt": "2026-02-03T07:26:02.000Z",
+    "createdAt": "2026-02-03T07:50:45.892Z",
+    "updatedAt": "2026-02-03T07:50:45.892Z"
+  },
+  {
+    "id": "0cea2c700463a06a",
+    "title": "Овечкин обошел Гретцки и вышел на пятое место в НХЛ по очкам за клуб",
+    "sport": "Хоккей",
+    "category": "Хоккей",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/0/37/347700986375370.jpeg",
+    "teaser": "Овечкин обошел Гретцки и вышел на пятое место в НХЛ по очкам за клуб",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69818f699a794779cee0cd91",
+    "publishedAt": "2026-02-03T06:30:40.000Z",
+    "createdAt": "2026-02-03T07:50:47.062Z",
+    "updatedAt": "2026-02-03T07:50:47.062Z"
+  },
+  {
+    "id": "bf2768df273069b3",
+    "title": "«Спартак» выиграл третий матч подряд в КХЛ",
+    "sport": "Хоккей",
+    "category": "Хоккей",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/8/70/347700581063708.png",
+    "teaser": "«Спартак» выиграл третий матч подряд в КХЛ",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6980ecac9a79479b231766e1",
+    "publishedAt": "2026-02-02T18:56:29.000Z",
+    "createdAt": "2026-02-03T07:50:49.367Z",
+    "updatedAt": "2026-02-03T07:50:49.367Z"
+  },
+  {
+    "id": "9b74d83ddbbdad64",
+    "title": "Российского вратаря признали второй звездой недели в НХЛ",
+    "sport": "Хоккей",
+    "category": "Хоккей",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/1/68/347700569422681.jpeg",
+    "teaser": "Российского вратаря признали второй звездой недели в НХЛ",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6980ecde9a79472938c43cef",
+    "publishedAt": "2026-02-02T18:40:30.000Z",
+    "createdAt": "2026-02-03T07:50:48.203Z",
+    "updatedAt": "2026-02-03T07:50:48.203Z"
+  },
+  {
     "id": "b9e4c24f5c3ede00",
     "title": "Украинская федерация не согласилась с главой ФИФА по допуску россиян",
     "sport": "Футбол",
@@ -10,8 +80,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6980e75d9a79473d1508a39f",
     "publishedAt": "2026-02-02T18:28:36.000Z",
-    "createdAt": "2026-02-03T07:00:18.370Z",
-    "updatedAt": "2026-02-03T07:00:18.370Z"
+    "createdAt": "2026-02-03T07:50:50.513Z",
+    "updatedAt": "2026-02-03T07:50:50.513Z"
   },
   {
     "id": "092a48402174a05b",
@@ -24,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6980db3b9a7947590e6feaec",
     "publishedAt": "2026-02-02T18:04:20.000Z",
-    "createdAt": "2026-02-03T07:00:19.391Z",
-    "updatedAt": "2026-02-03T07:00:19.391Z"
+    "createdAt": "2026-02-03T07:50:51.681Z",
+    "updatedAt": "2026-02-03T07:50:51.681Z"
   },
   {
     "id": "9d466a8ea0280dfc",
@@ -38,8 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6980d3139a794788e29008b6",
     "publishedAt": "2026-02-02T17:13:10.000Z",
-    "createdAt": "2026-02-03T07:00:21.367Z",
-    "updatedAt": "2026-02-03T07:00:21.367Z"
+    "createdAt": "2026-02-03T07:50:53.950Z",
+    "updatedAt": "2026-02-03T07:50:53.950Z"
   },
   {
     "id": "5ad5b4c86c28ee3e",
@@ -52,22 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6980c8749a794758b970e1e2",
     "publishedAt": "2026-02-02T16:09:55.000Z",
-    "createdAt": "2026-02-03T07:00:20.430Z",
-    "updatedAt": "2026-02-03T07:00:20.430Z"
-  },
-  {
-    "id": "19b9e05d228098ab",
-    "title": "РФС заявил об абсолютной поддержке главы ФИФА в намерении вернуть Россию",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/1/86/347700468903861.png",
-    "teaser": "РФС заявил об абсолютной поддержке главы ФИФА в намерении вернуть Россию",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6980c5809a7947634c2043a3",
-    "publishedAt": "2026-02-02T16:01:26.000Z",
-    "createdAt": "2026-02-03T07:00:23.553Z",
-    "updatedAt": "2026-02-03T07:00:23.553Z"
+    "createdAt": "2026-02-03T07:50:52.805Z",
+    "updatedAt": "2026-02-03T07:50:52.805Z"
   },
   {
     "id": "302562586c8dd63b",
@@ -80,63 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6980b9339a79471fa61ebd63",
     "publishedAt": "2026-02-02T15:41:32.000Z",
-    "createdAt": "2026-02-03T07:00:22.462Z",
-    "updatedAt": "2026-02-03T07:00:22.462Z"
-  },
-  {
-    "id": "43346dc0f202bc2e",
-    "title": "«Локомотив» выбрал нового капитана вместо ушедшего в ЦСКА Баринова",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/7/15/347700423865157.png",
-    "teaser": "«Локомотив» выбрал нового капитана вместо ушедшего в ЦСКА Баринова",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6980b32d9a794780eba09020",
-    "publishedAt": "2026-02-02T14:56:24.000Z",
-    "createdAt": "2026-02-03T07:00:25.679Z",
-    "updatedAt": "2026-02-03T07:00:25.679Z"
-  },
-  {
-    "id": "9222dd820bacfa7e",
-    "title": "Инфантино заявил, что ФИФА должна рассмотреть отмену отстранения России",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/0/70/347700428422700.jpeg",
-    "teaser": "Инфантино заявил, что ФИФА должна рассмотреть отмену отстранения России",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6980b4b69a7947a8efec1d1d",
-    "publishedAt": "2026-02-02T14:44:18.000Z",
-    "createdAt": "2026-02-03T07:00:24.640Z",
-    "updatedAt": "2026-02-03T07:00:24.640Z"
-  },
-  {
-    "id": "d9b828bdb9030afc",
-    "title": "Лучший фигурист мира будет носить на Олимпиаде шнурки от Овечкина",
-    "sport": "Другое",
-    "category": "Фигурное катание",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/0/98/347700411575980.png",
-    "teaser": "Лучший фигурист мира будет носить на Олимпиаде шнурки от Овечкина",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6980ae589a794706abbf68b4",
-    "publishedAt": "2026-02-02T14:25:20.000Z",
-    "createdAt": "2026-02-03T07:00:26.774Z",
-    "updatedAt": "2026-02-03T07:00:26.774Z"
-  },
-  {
-    "id": "5d865028a44a9d58",
-    "title": "На Олимпиаде в Италии выявили первый случай допинга",
-    "sport": "Другое",
-    "category": "Биатлон",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/5/49/347700390336495.jpeg",
-    "teaser": "На Олимпиаде в Италии выявили первый случай допинга",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6980a4a09a794726e67e903f",
-    "publishedAt": "2026-02-02T13:34:59.000Z",
-    "createdAt": "2026-02-03T07:00:27.765Z",
-    "updatedAt": "2026-02-03T07:00:27.765Z"
+    "createdAt": "2026-02-03T07:50:55.049Z",
+    "updatedAt": "2026-02-03T07:50:55.049Z"
   }
 ]
