@@ -1,5 +1,47 @@
 [
   {
+    "id": "31cb07a66de9cb44",
+    "title": "Гашек заявил, что глава ФИФА «очень глуп или поддерживает Россию»",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/4/26/347701051551264.jpeg",
+    "teaser": "Гашек заявил, что глава ФИФА «очень глуп или поддерживает Россию»",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6981a9159a79471709a0ba52",
+    "publishedAt": "2026-02-03T08:44:22.000Z",
+    "createdAt": "2026-02-03T08:47:04.981Z",
+    "updatedAt": "2026-02-03T08:47:04.981Z"
+  },
+  {
+    "id": "4b2445342f0d7d72",
+    "title": "Россиянин Михеев второй раз в карьере набрал 4 очка в одном матче в НХЛ",
+    "sport": "Хоккей",
+    "category": "Хоккей",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/7/41/347701037674417.jpeg",
+    "teaser": "Россиянин Михеев второй раз в карьере набрал 4 очка в одном матче в НХЛ",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6981a3ad9a7947eef55aee79",
+    "publishedAt": "2026-02-03T07:54:44.000Z",
+    "createdAt": "2026-02-03T08:47:07.139Z",
+    "updatedAt": "2026-02-03T08:47:07.139Z"
+  },
+  {
+    "id": "56a580d6c1098cc8",
+    "title": "Итальянскую биатлонистку Пасслер исключили из сборной на ОИ из-за допинга",
+    "sport": "Другое",
+    "category": "Биатлон",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/3/31/347701031620313.jpeg",
+    "teaser": "Итальянскую биатлонистку Пасслер исключили из сборной на ОИ из-за допинга",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69819f3b9a79476aa2aa89bb",
+    "publishedAt": "2026-02-03T07:51:04.000Z",
+    "createdAt": "2026-02-03T08:47:06.036Z",
+    "updatedAt": "2026-02-03T08:47:06.036Z"
+  },
+  {
     "id": "1f56119af954507d",
     "title": "Малкин повторил достижение Овечкина в НХЛ",
     "sport": "Хоккей",
@@ -10,8 +52,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69819f739a79478a99f17188",
     "publishedAt": "2026-02-03T07:31:36.000Z",
-    "createdAt": "2026-02-03T07:50:44.848Z",
-    "updatedAt": "2026-02-03T07:50:44.848Z"
+    "createdAt": "2026-02-03T08:47:08.219Z",
+    "updatedAt": "2026-02-03T08:47:08.219Z"
   },
   {
     "id": "7193b7a8058d262c",
@@ -24,8 +66,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6981948c9a79472739efdf64",
     "publishedAt": "2026-02-03T07:26:02.000Z",
-    "createdAt": "2026-02-03T07:50:45.892Z",
-    "updatedAt": "2026-02-03T07:50:45.892Z"
+    "createdAt": "2026-02-03T08:47:09.293Z",
+    "updatedAt": "2026-02-03T08:47:09.293Z"
   },
   {
     "id": "0cea2c700463a06a",
@@ -38,8 +80,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69818f699a794779cee0cd91",
     "publishedAt": "2026-02-03T06:30:40.000Z",
-    "createdAt": "2026-02-03T07:50:47.062Z",
-    "updatedAt": "2026-02-03T07:50:47.062Z"
+    "createdAt": "2026-02-03T08:47:10.350Z",
+    "updatedAt": "2026-02-03T08:47:10.350Z"
   },
   {
     "id": "bf2768df273069b3",
@@ -52,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6980ecac9a79479b231766e1",
     "publishedAt": "2026-02-02T18:56:29.000Z",
-    "createdAt": "2026-02-03T07:50:49.367Z",
-    "updatedAt": "2026-02-03T07:50:49.367Z"
+    "createdAt": "2026-02-03T08:47:12.481Z",
+    "updatedAt": "2026-02-03T08:47:12.481Z"
   },
   {
     "id": "9b74d83ddbbdad64",
@@ -66,8 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6980ecde9a79472938c43cef",
     "publishedAt": "2026-02-02T18:40:30.000Z",
-    "createdAt": "2026-02-03T07:50:48.203Z",
-    "updatedAt": "2026-02-03T07:50:48.203Z"
+    "createdAt": "2026-02-03T08:47:11.427Z",
+    "updatedAt": "2026-02-03T08:47:11.427Z"
   },
   {
     "id": "b9e4c24f5c3ede00",
@@ -80,8 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6980e75d9a79473d1508a39f",
     "publishedAt": "2026-02-02T18:28:36.000Z",
-    "createdAt": "2026-02-03T07:50:50.513Z",
-    "updatedAt": "2026-02-03T07:50:50.513Z"
+    "createdAt": "2026-02-03T08:47:13.545Z",
+    "updatedAt": "2026-02-03T08:47:13.546Z"
   },
   {
     "id": "092a48402174a05b",
@@ -94,49 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6980db3b9a7947590e6feaec",
     "publishedAt": "2026-02-02T18:04:20.000Z",
-    "createdAt": "2026-02-03T07:50:51.681Z",
-    "updatedAt": "2026-02-03T07:50:51.681Z"
-  },
-  {
-    "id": "9d466a8ea0280dfc",
-    "title": "Знаменосец Украины сообщил о просьбе МОК не устраивать протесты на Играх",
-    "sport": "Другое",
-    "category": "Другие",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/0/66/347700510889660.jpeg",
-    "teaser": "Знаменосец Украины сообщил о просьбе МОК не устраивать протесты на Играх",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6980d3139a794788e29008b6",
-    "publishedAt": "2026-02-02T17:13:10.000Z",
-    "createdAt": "2026-02-03T07:50:53.950Z",
-    "updatedAt": "2026-02-03T07:50:53.950Z"
-  },
-  {
-    "id": "5ad5b4c86c28ee3e",
-    "title": "Клуб РПЛ объявил, что погасил десятилетний долг перед «дочкой» «Ростеха»",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/6/38/347700480767386.png",
-    "teaser": "Клуб РПЛ объявил, что погасил десятилетний долг перед «дочкой» «Ростеха»",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6980c8749a794758b970e1e2",
-    "publishedAt": "2026-02-02T16:09:55.000Z",
-    "createdAt": "2026-02-03T07:50:52.805Z",
-    "updatedAt": "2026-02-03T07:50:52.805Z"
-  },
-  {
-    "id": "302562586c8dd63b",
-    "title": "Глава ФИФА извинился за шутку про «первый ЧМ без ареста британцев»",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/2/61/347700439944612.jpeg",
-    "teaser": "Глава ФИФА извинился за шутку про «первый ЧМ без ареста британцев»",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6980b9339a79471fa61ebd63",
-    "publishedAt": "2026-02-02T15:41:32.000Z",
-    "createdAt": "2026-02-03T07:50:55.049Z",
-    "updatedAt": "2026-02-03T07:50:55.049Z"
+    "createdAt": "2026-02-03T08:47:14.546Z",
+    "updatedAt": "2026-02-03T08:47:14.546Z"
   }
 ]
