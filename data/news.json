@@ -1,5 +1,47 @@
 [
   {
+    "id": "a9d6cdfbbd72e98a",
+    "title": "Россиянка с «баранкой» обыграла украинку на турнире WTA в Абу-Даби",
+    "sport": "Теннис",
+    "category": "Теннис",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/7/53/347701978880537.jpeg",
+    "teaser": "Россиянка с «баранкой» обыграла украинку на турнире WTA в Абу-Даби",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/698312969a7947285b5f4c69",
+    "publishedAt": "2026-02-04T10:35:27.000Z",
+    "createdAt": "2026-02-04T10:47:12.720Z",
+    "updatedAt": "2026-02-04T10:47:12.720Z"
+  },
+  {
+    "id": "df818916b45cbcea",
+    "title": "Федор Чалов будет играть за аутсайдера чемпионата Турции до конца сезона",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/7/87/347702007032877.png",
+    "teaser": "Федор Чалов будет играть за аутсайдера чемпионата Турции до конца сезона",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6983178a9a7947551adfa8bd",
+    "publishedAt": "2026-02-04T10:15:03.000Z",
+    "createdAt": "2026-02-04T10:47:13.665Z",
+    "updatedAt": "2026-02-04T10:47:13.665Z"
+  },
+  {
+    "id": "0194ccc833b9ac84",
+    "title": "Швейцария оказалась единственным кандидатом на зимнюю Олимпиаду-2038",
+    "sport": "Другое",
+    "category": "Другие",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/6/39/347701985000396.jpeg",
+    "teaser": "Швейцария оказалась единственным кандидатом на зимнюю Олимпиаду-2038",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/698312879a79470413e0ff1f",
+    "publishedAt": "2026-02-04T10:11:04.000Z",
+    "createdAt": "2026-02-04T10:47:14.693Z",
+    "updatedAt": "2026-02-04T10:47:14.693Z"
+  },
+  {
     "id": "96169b84e0510a08",
     "title": "Кучерова назвали второй звездой дня в НХЛ за гол и ассистентский хет-трик",
     "sport": "Хоккей",
@@ -10,8 +52,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69830d8f9a794743f80e0689",
     "publishedAt": "2026-02-04T09:30:55.000Z",
-    "createdAt": "2026-02-04T09:53:15.662Z",
-    "updatedAt": "2026-02-04T09:53:15.662Z"
+    "createdAt": "2026-02-04T10:47:15.685Z",
+    "updatedAt": "2026-02-04T10:47:15.685Z"
   },
   {
     "id": "aca34f71d6de4d7b",
@@ -24,8 +66,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6982e5dc9a7947bc2a7d8ca5",
     "publishedAt": "2026-02-04T08:16:35.000Z",
-    "createdAt": "2026-02-04T09:53:16.702Z",
-    "updatedAt": "2026-02-04T09:53:16.702Z"
+    "createdAt": "2026-02-04T10:47:16.856Z",
+    "updatedAt": "2026-02-04T10:47:16.856Z"
   },
   {
     "id": "51496c6e6402c937",
@@ -38,8 +80,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6982e16b9a7947622948fa27",
     "publishedAt": "2026-02-04T07:27:57.000Z",
-    "createdAt": "2026-02-04T09:53:17.512Z",
-    "updatedAt": "2026-02-04T09:53:17.512Z"
+    "createdAt": "2026-02-04T10:47:17.844Z",
+    "updatedAt": "2026-02-04T10:47:17.844Z"
   },
   {
     "id": "20bd47b613257e1b",
@@ -52,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/697f0db79a79470eac29f078",
     "publishedAt": "2026-02-04T05:33:38.000Z",
-    "createdAt": "2026-02-04T09:53:19.429Z",
-    "updatedAt": "2026-02-04T09:53:19.429Z"
+    "createdAt": "2026-02-04T10:47:19.707Z",
+    "updatedAt": "2026-02-04T10:47:19.707Z"
   },
   {
     "id": "741e793dc4042916",
@@ -66,8 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69823fb19a79475f64d35626",
     "publishedAt": "2026-02-03T18:57:26.000Z",
-    "createdAt": "2026-02-04T09:53:20.413Z",
-    "updatedAt": "2026-02-04T09:53:20.413Z"
+    "createdAt": "2026-02-04T10:47:20.707Z",
+    "updatedAt": "2026-02-04T10:47:20.707Z"
   },
   {
     "id": "68825f8a9a8a6e7a",
@@ -80,8 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69823a949a7947efdb84c1fa",
     "publishedAt": "2026-02-03T18:56:01.000Z",
-    "createdAt": "2026-02-04T09:53:21.328Z",
-    "updatedAt": "2026-02-04T09:53:21.328Z"
+    "createdAt": "2026-02-04T10:47:21.711Z",
+    "updatedAt": "2026-02-04T10:47:21.711Z"
   },
   {
     "id": "b7c7a3d86f7651ab",
@@ -94,49 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6982301e9a7947fbb2cb5221",
     "publishedAt": "2026-02-03T18:47:55.000Z",
-    "createdAt": "2026-02-04T09:53:22.229Z",
-    "updatedAt": "2026-02-04T09:53:22.229Z"
-  },
-  {
-    "id": "056b7460807555c8",
-    "title": "Карлсен проиграл российскому шахматисту из-за пределов топ-600 рейтинга",
-    "sport": "Другое",
-    "category": "Другие",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/4/96/347701415707964.jpeg",
-    "teaser": "Карлсен проиграл российскому шахматисту из-за пределов топ-600 рейтинга",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6982372a9a7947828ace21ff",
-    "publishedAt": "2026-02-03T18:21:02.000Z",
-    "createdAt": "2026-02-04T09:53:23.293Z",
-    "updatedAt": "2026-02-04T09:53:23.293Z"
-  },
-  {
-    "id": "886368d4e97d79d7",
-    "title": "Чемпионка Европы Крамаренко получила нейтральный статус",
-    "sport": "Другое",
-    "category": "Другие",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/0/30/347701422445300.jpeg",
-    "teaser": "Чемпионка Европы Крамаренко получила нейтральный статус",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/698233979a7947669eb2b572",
-    "publishedAt": "2026-02-03T18:16:49.000Z",
-    "createdAt": "2026-02-04T09:53:24.321Z",
-    "updatedAt": "2026-02-04T09:53:24.321Z"
-  },
-  {
-    "id": "6bde9a10039afc0d",
-    "title": "Российский велогонщик взял золото на чемпионате Европы в Турции",
-    "sport": "Другое",
-    "category": "Другие",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/1/27/347701390476271.jpeg",
-    "teaser": "Российский велогонщик взял золото на чемпионате Европы в Турции",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69822a609a7947566d132f4f",
-    "publishedAt": "2026-02-03T17:46:48.000Z",
-    "createdAt": "2026-02-04T09:53:25.231Z",
-    "updatedAt": "2026-02-04T09:53:25.231Z"
+    "createdAt": "2026-02-04T10:47:22.747Z",
+    "updatedAt": "2026-02-04T10:47:22.747Z"
   }
 ]
