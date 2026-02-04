@@ -1,17 +1,87 @@
 [
   {
-    "id": "c4ef74a0d2f7a11b",
-    "title": "Сына бывшего главы МОК Самаранча выбрали вице-президентом организации",
+    "id": "b4c7b8fffcd731c5",
+    "title": "В Бразилии случайно застрелили 22-летнего экс-игрока «Крузейро»",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "/images/news-placeholder.jpg",
+    "teaser": "В Бразилии случайно застрелили 22-летнего экс-игрока «Крузейро»",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6983532f9a7947e1e2f727ec",
+    "publishedAt": "2026-02-04T14:22:26.000Z",
+    "createdAt": "2026-02-04T14:46:57.251Z",
+    "updatedAt": "2026-02-04T14:46:57.251Z"
+  },
+  {
+    "id": "da7f204616a9006a",
+    "title": "Норвежского горнолыжника эвакуировали с олимпийской трассы на вертолете",
+    "sport": "Другое",
+    "category": "Другие",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/7/79/347702103528797.jpeg",
+    "teaser": "Норвежского горнолыжника эвакуировали с олимпийской трассы на вертолете",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69833f769a79474c858c5a19",
+    "publishedAt": "2026-02-04T13:48:54.000Z",
+    "createdAt": "2026-02-04T14:46:59.324Z",
+    "updatedAt": "2026-02-04T14:46:59.324Z"
+  },
+  {
+    "id": "7b1872e6346b14f1",
+    "title": "Умер бывший тренер сборных СССР и России Владимир Камельзон",
+    "sport": "Теннис",
+    "category": "Теннис",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/1/73/347702101063731.jpeg",
+    "teaser": "Умер бывший тренер сборных СССР и России Владимир Камельзон",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/698341c79a7947099294943e",
+    "publishedAt": "2026-02-04T13:36:59.000Z",
+    "createdAt": "2026-02-04T14:46:55.356Z",
+    "updatedAt": "2026-02-04T14:46:55.356Z"
+  },
+  {
+    "id": "ad554e9c99931e75",
+    "title": "Финские хоккеистки заразились норовирусом перед матчем с Канадой на Играх",
+    "sport": "Хоккей",
+    "category": "Хоккей",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/1/19/347702099406191.png",
+    "teaser": "Финские хоккеистки заразились норовирусом перед матчем с Канадой на Играх",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69833f9d9a79477710091507",
+    "publishedAt": "2026-02-04T13:27:02.000Z",
+    "createdAt": "2026-02-04T14:47:02.459Z",
+    "updatedAt": "2026-02-04T14:47:02.459Z"
+  },
+  {
+    "id": "6cf79ce9dc86ba27",
+    "title": "Сменившая гражданство Потапова выбила россиянку с турнира в Румынии",
+    "sport": "Теннис",
+    "category": "Теннис",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/9/57/347702062978579.png",
+    "teaser": "Сменившая гражданство Потапова выбила россиянку с турнира в Румынии",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/698334029a7947a6dc880084",
+    "publishedAt": "2026-02-04T13:11:35.000Z",
+    "createdAt": "2026-02-04T14:47:00.427Z",
+    "updatedAt": "2026-02-04T14:47:00.427Z"
+  },
+  {
+    "id": "8a8eef4cada4d45d",
+    "title": "Сына экс-главы МОК Самаранча снова избрали вице-президентом организации",
     "sport": "Другое",
     "category": "Другие",
     "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/0/29/347702054268290.jpeg",
-    "teaser": "Сына бывшего главы МОК Самаранча выбрали вице-президентом организации",
+    "teaser": "Сына экс-главы МОК Самаранча снова избрали вице-президентом организации",
     "fullContent": "",
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69832d899a7947d8002178cf",
     "publishedAt": "2026-02-04T12:47:46.000Z",
-    "createdAt": "2026-02-04T13:13:16.623Z",
-    "updatedAt": "2026-02-04T13:13:16.623Z"
+    "createdAt": "2026-02-04T14:47:01.481Z",
+    "updatedAt": "2026-02-04T14:47:01.481Z"
   },
   {
     "id": "4937c56883e4592b",
@@ -24,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/698337a09a79471eebef26ad",
     "publishedAt": "2026-02-04T12:38:35.000Z",
-    "createdAt": "2026-02-04T13:13:14.593Z",
-    "updatedAt": "2026-02-04T13:13:14.593Z"
+    "createdAt": "2026-02-04T14:46:58.226Z",
+    "updatedAt": "2026-02-04T14:46:58.226Z"
   },
   {
     "id": "b93edd5a5faca168",
@@ -38,8 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69831fb99a79471a4be8b557",
     "publishedAt": "2026-02-04T11:46:57.000Z",
-    "createdAt": "2026-02-04T13:13:18.944Z",
-    "updatedAt": "2026-02-04T13:13:18.944Z"
+    "createdAt": "2026-02-04T14:47:03.551Z",
+    "updatedAt": "2026-02-04T14:47:03.551Z"
   },
   {
     "id": "41cdd445f180a4db",
@@ -52,8 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6983271a9a7947e412faa94d",
     "publishedAt": "2026-02-04T11:44:51.000Z",
-    "createdAt": "2026-02-04T13:13:15.715Z",
-    "updatedAt": "2026-02-04T13:13:15.715Z"
+    "createdAt": "2026-02-04T14:47:04.629Z",
+    "updatedAt": "2026-02-04T14:47:04.629Z"
   },
   {
     "id": "6d1980825209311b",
@@ -66,77 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69831d449a7947a1f2616b6e",
     "publishedAt": "2026-02-04T11:16:19.000Z",
-    "createdAt": "2026-02-04T13:13:17.813Z",
-    "updatedAt": "2026-02-04T13:13:17.813Z"
-  },
-  {
-    "id": "a9d6cdfbbd72e98a",
-    "title": "Россиянка с «баранкой» обыграла украинку на турнире WTA в Абу-Даби",
-    "sport": "Теннис",
-    "category": "Теннис",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/7/53/347701978880537.jpeg",
-    "teaser": "Россиянка с «баранкой» обыграла украинку на турнире WTA в Абу-Даби",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/698312969a7947285b5f4c69",
-    "publishedAt": "2026-02-04T10:35:27.000Z",
-    "createdAt": "2026-02-04T13:13:20.069Z",
-    "updatedAt": "2026-02-04T13:13:20.069Z"
-  },
-  {
-    "id": "df818916b45cbcea",
-    "title": "Федор Чалов будет играть за аутсайдера чемпионата Турции до конца сезона",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/7/87/347702007032877.png",
-    "teaser": "Федор Чалов будет играть за аутсайдера чемпионата Турции до конца сезона",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6983178a9a7947551adfa8bd",
-    "publishedAt": "2026-02-04T10:15:03.000Z",
-    "createdAt": "2026-02-04T13:13:22.303Z",
-    "updatedAt": "2026-02-04T13:13:22.303Z"
-  },
-  {
-    "id": "0194ccc833b9ac84",
-    "title": "Швейцария оказалась единственным кандидатом на зимнюю Олимпиаду-2038",
-    "sport": "Другое",
-    "category": "Другие",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/6/39/347701985000396.jpeg",
-    "teaser": "Швейцария оказалась единственным кандидатом на зимнюю Олимпиаду-2038",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/698312879a79470413e0ff1f",
-    "publishedAt": "2026-02-04T10:11:04.000Z",
-    "createdAt": "2026-02-04T13:13:21.154Z",
-    "updatedAt": "2026-02-04T13:13:21.154Z"
-  },
-  {
-    "id": "96169b84e0510a08",
-    "title": "Кучерова назвали второй звездой дня в НХЛ за гол и ассистентский хет-трик",
-    "sport": "Хоккей",
-    "category": "Хоккей",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/0/73/347701964145730.jpeg",
-    "teaser": "Кучерова назвали второй звездой дня в НХЛ за гол и ассистентский хет-трик",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69830d8f9a794743f80e0689",
-    "publishedAt": "2026-02-04T09:30:55.000Z",
-    "createdAt": "2026-02-04T13:13:23.399Z",
-    "updatedAt": "2026-02-04T13:13:23.399Z"
-  },
-  {
-    "id": "aca34f71d6de4d7b",
-    "title": "В НБА состоялся обмен с участием одного из лучших снайперов в истории",
-    "sport": "Баскетбол",
-    "category": "Баскетбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/2/19/347701877663192.jpeg",
-    "teaser": "В НБА состоялся обмен с участием одного из лучших снайперов в истории",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6982e5dc9a7947bc2a7d8ca5",
-    "publishedAt": "2026-02-04T08:16:35.000Z",
-    "createdAt": "2026-02-04T13:13:24.459Z",
-    "updatedAt": "2026-02-04T13:13:24.459Z"
+    "createdAt": "2026-02-04T14:47:05.716Z",
+    "updatedAt": "2026-02-04T14:47:05.716Z"
   }
 ]
