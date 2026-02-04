@@ -1,5 +1,47 @@
 [
   {
+    "id": "aff8c917aa1f5d69",
+    "title": "Организаторы Олимпиады отменили тренировку горнолыжниц из-за снегопада",
+    "sport": "Другое",
+    "category": "Другие",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/0/11/347702261956110.jpeg",
+    "teaser": "Организаторы Олимпиады отменили тренировку горнолыжниц из-за снегопада",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69837e7d9a79470ee1885604",
+    "publishedAt": "2026-02-04T17:35:18.000Z",
+    "createdAt": "2026-02-04T17:53:43.488Z",
+    "updatedAt": "2026-02-04T17:53:43.488Z"
+  },
+  {
+    "id": "f761057dddb3c3b8",
+    "title": "Фигурист Малинин заявил, что «физически готов» к пятерному прыжку на ОИ",
+    "sport": "Другое",
+    "category": "Фигурное катание",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/3/09/347702253253093.jpeg",
+    "teaser": "Фигурист Малинин заявил, что «физически готов» к пятерному прыжку на ОИ",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/698379d29a7947272014f965",
+    "publishedAt": "2026-02-04T17:33:46.000Z",
+    "createdAt": "2026-02-04T17:53:42.485Z",
+    "updatedAt": "2026-02-04T17:53:42.485Z"
+  },
+  {
+    "id": "2dd6116fff52f18b",
+    "title": "«Трактор» с третьей попытки обыграл «Ак Барс» в КХЛ",
+    "sport": "Хоккей",
+    "category": "Хоккей",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/4/84/347702198103844.png",
+    "teaser": "«Трактор» с третьей попытки обыграл «Ак Барс» в КХЛ",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6983688d9a79470b24b6997e",
+    "publishedAt": "2026-02-04T16:32:10.000Z",
+    "createdAt": "2026-02-04T17:53:46.410Z",
+    "updatedAt": "2026-02-04T17:53:46.410Z"
+  },
+  {
     "id": "a40507705ee480b7",
     "title": "Британцы оспорили запрет на новые шлемы своих скелетонистов на Олимпиаде",
     "sport": "Другое",
@@ -10,8 +52,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69836c909a79473523d8ed8a",
     "publishedAt": "2026-02-04T16:15:25.000Z",
-    "createdAt": "2026-02-04T16:57:10.458Z",
-    "updatedAt": "2026-02-04T16:57:10.458Z"
+    "createdAt": "2026-02-04T17:53:44.535Z",
+    "updatedAt": "2026-02-04T17:53:44.535Z"
   },
   {
     "id": "fbad9eccdbec4537",
@@ -24,8 +66,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/698368bd9a79475b5fdc6270",
     "publishedAt": "2026-02-04T16:08:36.000Z",
-    "createdAt": "2026-02-04T16:57:11.546Z",
-    "updatedAt": "2026-02-04T16:57:11.546Z"
+    "createdAt": "2026-02-04T17:53:47.412Z",
+    "updatedAt": "2026-02-04T17:53:47.412Z"
   },
   {
     "id": "294e0682fb4f3bdb",
@@ -38,8 +80,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69835d1c9a7947ec89cdcd1f",
     "publishedAt": "2026-02-04T15:49:23.000Z",
-    "createdAt": "2026-02-04T16:57:16.402Z",
-    "updatedAt": "2026-02-04T16:57:16.402Z"
+    "createdAt": "2026-02-04T17:53:52.257Z",
+    "updatedAt": "2026-02-04T17:53:52.257Z"
   },
   {
     "id": "834d0c13583744f9",
@@ -52,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6983541e9a7947ecb00e4e23",
     "publishedAt": "2026-02-04T15:05:56.000Z",
-    "createdAt": "2026-02-04T16:57:12.567Z",
-    "updatedAt": "2026-02-04T16:57:12.567Z"
+    "createdAt": "2026-02-04T17:53:48.434Z",
+    "updatedAt": "2026-02-04T17:53:48.434Z"
   },
   {
     "id": "030b8bb3def5228e",
@@ -66,8 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/698357f99a794770f31ddae3",
     "publishedAt": "2026-02-04T14:53:01.000Z",
-    "createdAt": "2026-02-04T16:57:17.406Z",
-    "updatedAt": "2026-02-04T16:57:17.406Z"
+    "createdAt": "2026-02-04T17:53:53.335Z",
+    "updatedAt": "2026-02-04T17:53:53.335Z"
   },
   {
     "id": "b4c7b8fffcd731c5",
@@ -80,22 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6983532f9a7947e1e2f727ec",
     "publishedAt": "2026-02-04T14:22:26.000Z",
-    "createdAt": "2026-02-04T16:57:15.435Z",
-    "updatedAt": "2026-02-04T16:57:15.435Z"
-  },
-  {
-    "id": "da7f204616a9006a",
-    "title": "Норвежского горнолыжника эвакуировали с олимпийской трассы на вертолете",
-    "sport": "Другое",
-    "category": "Другие",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/7/79/347702103528797.jpeg",
-    "teaser": "Норвежского горнолыжника эвакуировали с олимпийской трассы на вертолете",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69833f769a79474c858c5a19",
-    "publishedAt": "2026-02-04T13:48:54.000Z",
-    "createdAt": "2026-02-04T16:57:19.579Z",
-    "updatedAt": "2026-02-04T16:57:19.579Z"
+    "createdAt": "2026-02-04T17:53:51.320Z",
+    "updatedAt": "2026-02-04T17:53:51.320Z"
   },
   {
     "id": "7b1872e6346b14f1",
@@ -108,35 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/698341c79a7947099294943e",
     "publishedAt": "2026-02-04T13:36:59.000Z",
-    "createdAt": "2026-02-04T16:57:13.580Z",
-    "updatedAt": "2026-02-04T16:57:13.580Z"
-  },
-  {
-    "id": "6cf79ce9dc86ba27",
-    "title": "Сменившая гражданство Потапова выбила россиянку с турнира в Румынии",
-    "sport": "Теннис",
-    "category": "Теннис",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/9/57/347702062978579.png",
-    "teaser": "Сменившая гражданство Потапова выбила россиянку с турнира в Румынии",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/698334029a7947a6dc880084",
-    "publishedAt": "2026-02-04T13:11:35.000Z",
-    "createdAt": "2026-02-04T16:57:20.551Z",
-    "updatedAt": "2026-02-04T16:57:20.551Z"
-  },
-  {
-    "id": "4937c56883e4592b",
-    "title": "Снуп Догг принял участие в эстафете олимпийского огня",
-    "sport": "Другое",
-    "category": "Другие",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/2/72/347702080182722.jpeg",
-    "teaser": "Снуп Догг принял участие в эстафете олимпийского огня",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/698337a09a79471eebef26ad",
-    "publishedAt": "2026-02-04T12:38:35.000Z",
-    "createdAt": "2026-02-04T16:57:18.448Z",
-    "updatedAt": "2026-02-04T16:57:18.448Z"
+    "createdAt": "2026-02-04T17:53:49.511Z",
+    "updatedAt": "2026-02-04T17:53:49.511Z"
   }
 ]
