@@ -1,5 +1,47 @@
 [
   {
+    "id": "c85e26d954b332b5",
+    "title": "У шведской сборной по хоккею сломался туалет во время матча на Олимпиаде",
+    "sport": "Хоккей",
+    "category": "Хоккей",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/1/65/347703150879651.jpeg",
+    "teaser": "У шведской сборной по хоккею сломался туалет во время матча на Олимпиаде",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6984d75c9a79470c5559b050",
+    "publishedAt": "2026-02-05T18:37:34.000Z",
+    "createdAt": "2026-02-05T18:57:20.900Z",
+    "updatedAt": "2026-02-05T18:57:20.900Z"
+  },
+  {
+    "id": "ce964283d1242a46",
+    "title": "СКА выиграл второй матч подряд после антирекордной серии поражений",
+    "sport": "Хоккей",
+    "category": "Хоккей",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/7/14/347703152162147.png",
+    "teaser": "СКА выиграл второй матч подряд после антирекордной серии поражений",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6984dd969a7947ecedd1e9c4",
+    "publishedAt": "2026-02-05T18:36:46.000Z",
+    "createdAt": "2026-02-05T18:57:21.977Z",
+    "updatedAt": "2026-02-05T18:57:21.977Z"
+  },
+  {
+    "id": "f4e78aafc416d1e1",
+    "title": "Третья ракетка России проиграла американке на крупном турнире в Абу-Даби",
+    "sport": "Теннис",
+    "category": "Теннис",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/1/24/347703133783241.jpeg",
+    "teaser": "Третья ракетка России проиграла американке на крупном турнире в Абу-Даби",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6984d6829a79476b62a298af",
+    "publishedAt": "2026-02-05T17:51:50.000Z",
+    "createdAt": "2026-02-05T18:57:26.570Z",
+    "updatedAt": "2026-02-05T18:57:26.570Z"
+  },
+  {
     "id": "8549c688ddc04f7e",
     "title": "World Aquatics допустила российских юниоров на турниры с флагом и гимном",
     "sport": "Другое",
@@ -10,8 +52,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6984cf8a9a7947dfd285cb14",
     "publishedAt": "2026-02-05T17:39:12.000Z",
-    "createdAt": "2026-02-05T17:55:18.161Z",
-    "updatedAt": "2026-02-05T17:55:18.161Z"
+    "createdAt": "2026-02-05T18:57:28.965Z",
+    "updatedAt": "2026-02-05T18:57:28.965Z"
   },
   {
     "id": "3c30ffa94f9a9e64",
@@ -24,8 +66,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6984bf1a9a7947205f45125f",
     "publishedAt": "2026-02-05T17:03:08.000Z",
-    "createdAt": "2026-02-05T17:55:15.752Z",
-    "updatedAt": "2026-02-05T17:55:15.752Z"
+    "createdAt": "2026-02-05T18:57:23.037Z",
+    "updatedAt": "2026-02-05T18:57:23.037Z"
   },
   {
     "id": "f11bc838d6fadf18",
@@ -38,8 +80,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6984c03a9a794723fca6f429",
     "publishedAt": "2026-02-05T16:45:11.000Z",
-    "createdAt": "2026-02-05T17:55:22.607Z",
-    "updatedAt": "2026-02-05T17:55:22.607Z"
+    "createdAt": "2026-02-05T18:57:31.219Z",
+    "updatedAt": "2026-02-05T18:57:31.219Z"
   },
   {
     "id": "6782201acef7ca41",
@@ -52,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6984b7989a79472d892fe42a",
     "publishedAt": "2026-02-05T16:03:30.000Z",
-    "createdAt": "2026-02-05T17:55:19.274Z",
-    "updatedAt": "2026-02-05T17:55:19.274Z"
+    "createdAt": "2026-02-05T18:57:30.092Z",
+    "updatedAt": "2026-02-05T18:57:30.092Z"
   },
   {
     "id": "6526064e312e3a73",
@@ -66,50 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6984aa359a79472dc7f97f8c",
     "publishedAt": "2026-02-05T15:46:43.000Z",
-    "createdAt": "2026-02-05T17:55:17.105Z",
-    "updatedAt": "2026-02-05T17:55:17.105Z"
-  },
-  {
-    "id": "df1e2be770bafd90",
-    "title": "Вторая ракетка России вышла в полуфинал крупного турнира в Абу-Даби",
-    "sport": "Теннис",
-    "category": "Теннис",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/8/57/347703042823578.jpeg",
-    "teaser": "Вторая ракетка России вышла в полуфинал крупного турнира в Абу-Даби",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6984b0d29a794785a334b0ce",
-    "publishedAt": "2026-02-05T15:29:55.000Z",
-    "createdAt": "2026-02-05T17:55:23.653Z",
-    "updatedAt": "2026-02-05T17:55:23.653Z"
-  },
-  {
-    "id": "1c9683e707a05244",
-    "title": "«Спартак» продлил контракт с Денисовым",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/8/50/347703030796508.png",
-    "teaser": "«Спартак» продлил контракт с Денисовым",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6984ad359a7947cfa27c7554",
-    "publishedAt": "2026-02-05T15:29:27.000Z",
-    "createdAt": "2026-02-05T17:55:25.787Z",
-    "updatedAt": "2026-02-05T17:55:25.787Z"
-  },
-  {
-    "id": "fbd2bf6ec6097949",
-    "title": "Костылева выиграла короткую программу на первенстве России среди юниоров",
-    "sport": "Другое",
-    "category": "Фигурное катание",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/0/43/347703004718430.jpeg",
-    "teaser": "Костылева выиграла короткую программу на первенстве России среди юниоров",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69849dbf9a79470a8fa9a938",
-    "publishedAt": "2026-02-05T14:16:47.000Z",
-    "createdAt": "2026-02-05T17:55:24.721Z",
-    "updatedAt": "2026-02-05T17:55:24.722Z"
+    "createdAt": "2026-02-05T18:57:24.156Z",
+    "updatedAt": "2026-02-05T18:57:24.156Z"
   },
   {
     "id": "dc5a1857c5bde869",
@@ -122,8 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/698319e49a794732563e2982",
     "publishedAt": "2026-02-05T08:23:04.000Z",
-    "createdAt": "2026-02-05T17:55:21.551Z",
-    "updatedAt": "2026-02-05T17:55:21.551Z"
+    "createdAt": "2026-02-05T18:57:27.848Z",
+    "updatedAt": "2026-02-05T18:57:27.848Z"
   },
   {
     "id": "27a84af427ac019a",
@@ -136,7 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/696e091d9a794788ae538c41",
     "publishedAt": "2026-02-05T05:00:33.000Z",
-    "createdAt": "2026-02-05T17:55:20.483Z",
-    "updatedAt": "2026-02-05T17:55:20.483Z"
+    "createdAt": "2026-02-05T18:57:25.507Z",
+    "updatedAt": "2026-02-05T18:57:25.507Z"
   }
 ]
