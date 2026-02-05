@@ -1,5 +1,47 @@
 [
   {
+    "id": "435c0f7070dec132",
+    "title": "«Локомотив» обыграл «Урал» в товарищеском матче на сборах в Абу-Даби",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/5/54/347703002571545.jpeg",
+    "teaser": "«Локомотив» обыграл «Урал» в товарищеском матче на сборах в Абу-Даби",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69849ffe9a794721251f4d46",
+    "publishedAt": "2026-02-05T15:31:41.000Z",
+    "createdAt": "2026-02-05T15:48:11.053Z",
+    "updatedAt": "2026-02-05T15:48:11.053Z"
+  },
+  {
+    "id": "df1e2be770bafd90",
+    "title": "Вторая ракетка России вышла в полуфинал крупного турнира в Абу-Даби",
+    "sport": "Теннис",
+    "category": "Теннис",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/8/57/347703042823578.jpeg",
+    "teaser": "Вторая ракетка России вышла в полуфинал крупного турнира в Абу-Даби",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6984b0d29a794785a334b0ce",
+    "publishedAt": "2026-02-05T15:29:55.000Z",
+    "createdAt": "2026-02-05T15:48:06.540Z",
+    "updatedAt": "2026-02-05T15:48:06.540Z"
+  },
+  {
+    "id": "1c9683e707a05244",
+    "title": "«Спартак» продлил контракт с Денисовым",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/8/50/347703030796508.png",
+    "teaser": "«Спартак» продлил контракт с Денисовым",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6984ad359a7947cfa27c7554",
+    "publishedAt": "2026-02-05T15:29:27.000Z",
+    "createdAt": "2026-02-05T15:48:08.634Z",
+    "updatedAt": "2026-02-05T15:48:08.634Z"
+  },
+  {
     "id": "fbd2bf6ec6097949",
     "title": "Костылева выиграла короткую программу на первенстве России среди юниоров",
     "sport": "Другое",
@@ -10,8 +52,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69849dbf9a79470a8fa9a938",
     "publishedAt": "2026-02-05T14:16:47.000Z",
-    "createdAt": "2026-02-05T14:50:30.745Z",
-    "updatedAt": "2026-02-05T14:50:30.745Z"
+    "createdAt": "2026-02-05T15:48:07.603Z",
+    "updatedAt": "2026-02-05T15:48:07.603Z"
   },
   {
     "id": "f00e915418811fc7",
@@ -24,8 +66,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69849e159a7947ded3fe72a6",
     "publishedAt": "2026-02-05T13:59:20.000Z",
-    "createdAt": "2026-02-05T14:50:31.706Z",
-    "updatedAt": "2026-02-05T14:50:31.706Z"
+    "createdAt": "2026-02-05T15:48:12.121Z",
+    "updatedAt": "2026-02-05T15:48:12.121Z"
   },
   {
     "id": "a6bf7eeaf9203c9b",
@@ -38,8 +80,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6984992d9a7947f12dca5224",
     "publishedAt": "2026-02-05T13:43:05.000Z",
-    "createdAt": "2026-02-05T14:50:32.664Z",
-    "updatedAt": "2026-02-05T14:50:32.664Z"
+    "createdAt": "2026-02-05T15:48:14.219Z",
+    "updatedAt": "2026-02-05T15:48:14.219Z"
   },
   {
     "id": "62635e10dd5f8e39",
@@ -52,22 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/698491529a79474948b078dc",
     "publishedAt": "2026-02-05T13:28:03.000Z",
-    "createdAt": "2026-02-05T14:50:35.806Z",
-    "updatedAt": "2026-02-05T14:50:35.806Z"
-  },
-  {
-    "id": "90d30de541c9e4a4",
-    "title": "Один из лидеров «Динамо» пропустит Матч звезд КХЛ",
-    "sport": "Хоккей",
-    "category": "Хоккей",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/2/91/347702947519912.png",
-    "teaser": "Один из лидеров «Динамо» пропустит Матч звезд КХЛ",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69848d949a79473d258ae80a",
-    "publishedAt": "2026-02-05T13:24:08.000Z",
-    "createdAt": "2026-02-05T14:50:40.845Z",
-    "updatedAt": "2026-02-05T14:50:40.845Z"
+    "createdAt": "2026-02-05T15:48:16.246Z",
+    "updatedAt": "2026-02-05T15:48:16.246Z"
   },
   {
     "id": "7a55e473f94eba24",
@@ -80,36 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/698493ad9a7947835e00ae6f",
     "publishedAt": "2026-02-05T13:11:23.000Z",
-    "createdAt": "2026-02-05T14:50:33.627Z",
-    "updatedAt": "2026-02-05T14:50:33.627Z"
-  },
-  {
-    "id": "5c6947d110a25069",
-    "title": "Норвежский прыгун с трамплина перенес похороны отца из-за Олимпийских игр",
-    "sport": "Другое",
-    "category": "Другие",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/7/41/347702947034417.jpeg",
-    "teaser": "Норвежский прыгун с трамплина перенес похороны отца из-за Олимпийских игр",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/698489069a794766e0eba1fb",
-    "publishedAt": "2026-02-05T12:44:08.000Z",
-    "createdAt": "2026-02-05T14:50:39.871Z",
-    "updatedAt": "2026-02-05T14:50:39.871Z"
-  },
-  {
-    "id": "934ac9a5ac90834b",
-    "title": "Глава WADA заявил о дискомфорте из-за присутствия Тутберидзе на Олимпиаде",
-    "sport": "Другое",
-    "category": "Фигурное катание",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/4/90/347702924050904.jpeg",
-    "teaser": "Глава WADA заявил о дискомфорте из-за присутствия Тутберидзе на Олимпиаде",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6984848d9a79474efb008bfe",
-    "publishedAt": "2026-02-05T12:15:49.000Z",
-    "createdAt": "2026-02-05T14:50:38.001Z",
-    "updatedAt": "2026-02-05T14:50:38.001Z"
+    "createdAt": "2026-02-05T15:48:15.264Z",
+    "updatedAt": "2026-02-05T15:48:15.264Z"
   },
   {
     "id": "dc5a1857c5bde869",
@@ -122,8 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/698319e49a794732563e2982",
     "publishedAt": "2026-02-05T08:23:04.000Z",
-    "createdAt": "2026-02-05T14:50:36.879Z",
-    "updatedAt": "2026-02-05T14:50:36.879Z"
+    "createdAt": "2026-02-05T15:48:13.179Z",
+    "updatedAt": "2026-02-05T15:48:13.179Z"
   },
   {
     "id": "27a84af427ac019a",
@@ -136,7 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/696e091d9a794788ae538c41",
     "publishedAt": "2026-02-05T05:00:33.000Z",
-    "createdAt": "2026-02-05T14:50:34.852Z",
-    "updatedAt": "2026-02-05T14:50:34.852Z"
+    "createdAt": "2026-02-05T15:48:09.842Z",
+    "updatedAt": "2026-02-05T15:48:09.842Z"
   }
 ]
