@@ -1,5 +1,33 @@
 [
   {
+    "id": "f3e90b15cc18bba3",
+    "title": "Диана Дэвис и Глеб Смолкин стали шестыми в ритм-танце на Олимпиаде-2026",
+    "sport": "Другое",
+    "category": "Фигурное катание",
+    "imageUrl": "/images/news-placeholder.jpg",
+    "teaser": "Диана Дэвис и Глеб Смолкин стали шестыми в ритм-танце на Олимпиаде-2026",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6985c9d09a794703d44d6462",
+    "publishedAt": "2026-02-06T11:31:15.000Z",
+    "createdAt": "2026-02-06T11:38:23.602Z",
+    "updatedAt": "2026-02-06T11:38:23.602Z"
+  },
+  {
+    "id": "5d592cc9fb74bc5b",
+    "title": "Ангелина Мельникова объявила, за какой клуб выступит в чемпионате Италии",
+    "sport": "Другое",
+    "category": "Другие",
+    "imageUrl": "/images/news-placeholder.jpg",
+    "teaser": "Ангелина Мельникова объявила, за какой клуб выступит в чемпионате Италии",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6985bb789a7947c463fea70b",
+    "publishedAt": "2026-02-06T11:11:16.000Z",
+    "createdAt": "2026-02-06T11:38:25.693Z",
+    "updatedAt": "2026-02-06T11:38:25.693Z"
+  },
+  {
     "id": "1885fe2999343340",
     "title": "Сборная России по легкой атлетике начала подготовку к Олимпиаде-2028",
     "sport": "Другое",
@@ -10,8 +38,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6985a7b99a794745909a3802",
     "publishedAt": "2026-02-06T09:51:55.000Z",
-    "createdAt": "2026-02-06T10:48:54.535Z",
-    "updatedAt": "2026-02-06T10:48:54.535Z"
+    "createdAt": "2026-02-06T11:38:26.769Z",
+    "updatedAt": "2026-02-06T11:38:26.769Z"
   },
   {
     "id": "3d6cbdfb2546a176",
@@ -24,8 +52,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6985a9689a79470d9bc13380",
     "publishedAt": "2026-02-06T09:26:50.000Z",
-    "createdAt": "2026-02-06T10:48:55.727Z",
-    "updatedAt": "2026-02-06T10:48:55.727Z"
+    "createdAt": "2026-02-06T11:38:27.984Z",
+    "updatedAt": "2026-02-06T11:38:27.984Z"
   },
   {
     "id": "ed1be9345a4e47c9",
@@ -38,8 +66,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6979aad09a79476bb8424b55",
     "publishedAt": "2026-02-06T09:01:03.000Z",
-    "createdAt": "2026-02-06T10:48:56.833Z",
-    "updatedAt": "2026-02-06T10:48:56.833Z"
+    "createdAt": "2026-02-06T11:38:29.140Z",
+    "updatedAt": "2026-02-06T11:38:29.140Z"
   },
   {
     "id": "89b7c51b9487342c",
@@ -52,8 +80,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69859f6f9a7947d83363d7d7",
     "publishedAt": "2026-02-06T08:22:43.000Z",
-    "createdAt": "2026-02-06T10:48:58.066Z",
-    "updatedAt": "2026-02-06T10:48:58.066Z"
+    "createdAt": "2026-02-06T11:38:30.598Z",
+    "updatedAt": "2026-02-06T11:38:30.598Z"
   },
   {
     "id": "756436a46700de7a",
@@ -66,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69859be59a79476c33d762a9",
     "publishedAt": "2026-02-06T08:18:47.000Z",
-    "createdAt": "2026-02-06T10:48:59.221Z",
-    "updatedAt": "2026-02-06T10:48:59.221Z"
+    "createdAt": "2026-02-06T11:38:31.766Z",
+    "updatedAt": "2026-02-06T11:38:31.766Z"
   },
   {
     "id": "e988d305730f373c",
@@ -80,8 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6985959f9a79476a61bb2a72",
     "publishedAt": "2026-02-06T07:48:46.000Z",
-    "createdAt": "2026-02-06T10:49:00.433Z",
-    "updatedAt": "2026-02-06T10:49:00.433Z"
+    "createdAt": "2026-02-06T11:38:32.947Z",
+    "updatedAt": "2026-02-06T11:38:32.947Z"
   },
   {
     "id": "0a5add0a8fd14849",
@@ -94,8 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/698585e69a79478961e419bb",
     "publishedAt": "2026-02-06T07:35:31.000Z",
-    "createdAt": "2026-02-06T10:49:01.615Z",
-    "updatedAt": "2026-02-06T10:49:01.615Z"
+    "createdAt": "2026-02-06T11:38:34.043Z",
+    "updatedAt": "2026-02-06T11:38:34.043Z"
   },
   {
     "id": "d9f33704c4b30b96",
@@ -108,35 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6984caa49a7947670417b322",
     "publishedAt": "2026-02-06T07:02:01.000Z",
-    "createdAt": "2026-02-06T10:49:02.792Z",
-    "updatedAt": "2026-02-06T10:49:02.792Z"
-  },
-  {
-    "id": "9dc890dc19d51ba6",
-    "title": "Обрусевшие США и прощание легенды. Что важно знать об Олимпиаде-2026",
-    "sport": "Другое",
-    "category": "Другие",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/2/23/347701951002232.jpeg",
-    "teaser": "Обрусевшие США и прощание легенды. Что важно знать об Олимпиаде-2026",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6981d9499a794743025a51e0",
-    "publishedAt": "2026-02-06T05:00:26.000Z",
-    "createdAt": "2026-02-06T10:49:04.208Z",
-    "updatedAt": "2026-02-06T10:49:04.208Z"
-  },
-  {
-    "id": "0284a014f6324cf9",
-    "title": "Журналист узнал, что Роналду не передумал бойкотировать матчи «Ан-Насра»",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/9/29/347703172868299.jpeg",
-    "teaser": "Журналист узнал, что Роналду не передумал бойкотировать матчи «Ан-Насра»",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6984e5c99a79477717fb026f",
-    "publishedAt": "2026-02-05T19:00:21.000Z",
-    "createdAt": "2026-02-06T10:49:05.268Z",
-    "updatedAt": "2026-02-06T10:49:05.268Z"
+    "createdAt": "2026-02-06T11:38:35.210Z",
+    "updatedAt": "2026-02-06T11:38:35.210Z"
   }
 ]
