@@ -1,31 +1,87 @@
 [
   {
+    "id": "9dd937034e634b37",
+    "title": "Каким спортом заняться в Москве: 7 идей с географической привязкой",
+    "sport": "Другое",
+    "category": "Другие",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/4/36/347623465769364.jpeg",
+    "teaser": "Каким спортом заняться в Москве: 7 идей с географической привязкой",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/68e3a6b79a794720b5b98d21",
+    "publishedAt": "2026-02-06T12:36:19.000Z",
+    "createdAt": "2026-02-06T13:13:07.367Z",
+    "updatedAt": "2026-02-06T13:13:07.367Z"
+  },
+  {
+    "id": "e65eac23567dd7aa",
+    "title": "Малинин заявил, что рад за Гуменника и ждет его приезда на Олимпиаду",
+    "sport": "Другое",
+    "category": "Фигурное катание",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/5/24/347703804745245.jpeg",
+    "teaser": "Малинин заявил, что рад за Гуменника и ждет его приезда на Олимпиаду",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6985dadb9a7947eee36e12a7",
+    "publishedAt": "2026-02-06T12:31:55.000Z",
+    "createdAt": "2026-02-06T13:13:03.594Z",
+    "updatedAt": "2026-02-06T13:13:03.594Z"
+  },
+  {
+    "id": "d0eaa696a021032d",
+    "title": "Йоханнес Клебо пожаловался на плохой интернет на Олимпиаде в Италии",
+    "sport": "Другое",
+    "category": "Другие",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/6/84/347703812369846.jpeg",
+    "teaser": "Йоханнес Клебо пожаловался на плохой интернет на Олимпиаде в Италии",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6985c5449a7947ba6e99c61a",
+    "publishedAt": "2026-02-06T12:01:53.000Z",
+    "createdAt": "2026-02-06T13:13:04.757Z",
+    "updatedAt": "2026-02-06T13:13:04.757Z"
+  },
+  {
+    "id": "9ddb116850f7eafd",
+    "title": "В конном спорте россиянам младше 18 лет вернули спортивное гражданство",
+    "sport": "Другое",
+    "category": "Другие",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/1/80/347703763894801.jpeg",
+    "teaser": "В конном спорте россиянам младше 18 лет вернули спортивное гражданство",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6985ccaa9a79471abcaadb61",
+    "publishedAt": "2026-02-06T11:51:50.000Z",
+    "createdAt": "2026-02-06T13:13:08.514Z",
+    "updatedAt": "2026-02-06T13:13:08.514Z"
+  },
+  {
     "id": "f3e90b15cc18bba3",
     "title": "Диана Дэвис и Глеб Смолкин стали шестыми в ритм-танце на Олимпиаде-2026",
     "sport": "Другое",
     "category": "Фигурное катание",
-    "imageUrl": "/images/news-placeholder.jpg",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/0/41/347703793836410.jpeg",
     "teaser": "Диана Дэвис и Глеб Смолкин стали шестыми в ритм-танце на Олимпиаде-2026",
     "fullContent": "",
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6985c9d09a794703d44d6462",
     "publishedAt": "2026-02-06T11:31:15.000Z",
-    "createdAt": "2026-02-06T11:38:23.602Z",
-    "updatedAt": "2026-02-06T11:38:23.602Z"
+    "createdAt": "2026-02-06T13:13:06.006Z",
+    "updatedAt": "2026-02-06T13:13:06.006Z"
   },
   {
     "id": "5d592cc9fb74bc5b",
     "title": "Ангелина Мельникова объявила, за какой клуб выступит в чемпионате Италии",
     "sport": "Другое",
     "category": "Другие",
-    "imageUrl": "/images/news-placeholder.jpg",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/0/27/347703790787270.jpeg",
     "teaser": "Ангелина Мельникова объявила, за какой клуб выступит в чемпионате Италии",
     "fullContent": "",
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6985bb789a7947c463fea70b",
     "publishedAt": "2026-02-06T11:11:16.000Z",
-    "createdAt": "2026-02-06T11:38:25.693Z",
-    "updatedAt": "2026-02-06T11:38:25.693Z"
+    "createdAt": "2026-02-06T13:13:09.675Z",
+    "updatedAt": "2026-02-06T13:13:09.675Z"
   },
   {
     "id": "1885fe2999343340",
@@ -38,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6985a7b99a794745909a3802",
     "publishedAt": "2026-02-06T09:51:55.000Z",
-    "createdAt": "2026-02-06T11:38:26.769Z",
-    "updatedAt": "2026-02-06T11:38:26.769Z"
+    "createdAt": "2026-02-06T13:13:10.833Z",
+    "updatedAt": "2026-02-06T13:13:10.833Z"
   },
   {
     "id": "3d6cbdfb2546a176",
@@ -52,8 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6985a9689a79470d9bc13380",
     "publishedAt": "2026-02-06T09:26:50.000Z",
-    "createdAt": "2026-02-06T11:38:27.984Z",
-    "updatedAt": "2026-02-06T11:38:27.984Z"
+    "createdAt": "2026-02-06T13:13:11.966Z",
+    "updatedAt": "2026-02-06T13:13:11.966Z"
   },
   {
     "id": "ed1be9345a4e47c9",
@@ -66,8 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6979aad09a79476bb8424b55",
     "publishedAt": "2026-02-06T09:01:03.000Z",
-    "createdAt": "2026-02-06T11:38:29.140Z",
-    "updatedAt": "2026-02-06T11:38:29.140Z"
+    "createdAt": "2026-02-06T13:13:13.124Z",
+    "updatedAt": "2026-02-06T13:13:13.124Z"
   },
   {
     "id": "89b7c51b9487342c",
@@ -80,63 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69859f6f9a7947d83363d7d7",
     "publishedAt": "2026-02-06T08:22:43.000Z",
-    "createdAt": "2026-02-06T11:38:30.598Z",
-    "updatedAt": "2026-02-06T11:38:30.598Z"
-  },
-  {
-    "id": "756436a46700de7a",
-    "title": "Рекордсмен мира выразил сожаление из-за отсутствия Лысенко на турнирах",
-    "sport": "Другое",
-    "category": "Другие",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/9/78/347703644556789.jpeg",
-    "teaser": "Рекордсмен мира выразил сожаление из-за отсутствия Лысенко на турнирах",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69859be59a79476c33d762a9",
-    "publishedAt": "2026-02-06T08:18:47.000Z",
-    "createdAt": "2026-02-06T11:38:31.766Z",
-    "updatedAt": "2026-02-06T11:38:31.766Z"
-  },
-  {
-    "id": "e988d305730f373c",
-    "title": "Российский флаг вывесили на трибунах во время матча женских сборных на ОИ",
-    "sport": "Хоккей",
-    "category": "Хоккей",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/6/91/347703624919916.png",
-    "teaser": "Российский флаг вывесили на трибунах во время матча женских сборных на ОИ",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6985959f9a79476a61bb2a72",
-    "publishedAt": "2026-02-06T07:48:46.000Z",
-    "createdAt": "2026-02-06T11:38:32.947Z",
-    "updatedAt": "2026-02-06T11:38:32.947Z"
-  },
-  {
-    "id": "0a5add0a8fd14849",
-    "title": "Панарин заявил, что без предложения от «Кингз» мог вернуться в Россию",
-    "sport": "Хоккей",
-    "category": "Хоккей",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/2/06/347703588708062.jpeg",
-    "teaser": "Панарин заявил, что без предложения от «Кингз» мог вернуться в Россию",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/698585e69a79478961e419bb",
-    "publishedAt": "2026-02-06T07:35:31.000Z",
-    "createdAt": "2026-02-06T11:38:34.043Z",
-    "updatedAt": "2026-02-06T11:38:34.043Z"
-  },
-  {
-    "id": "d9f33704c4b30b96",
-    "title": "Кто из россиян выступит на Олимпийских играх 2026 года",
-    "sport": "Другое",
-    "category": "Другие",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/5/01/347703593130015.jpeg",
-    "teaser": "Кто из россиян выступит на Олимпийских играх 2026 года",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6984caa49a7947670417b322",
-    "publishedAt": "2026-02-06T07:02:01.000Z",
-    "createdAt": "2026-02-06T11:38:35.210Z",
-    "updatedAt": "2026-02-06T11:38:35.210Z"
+    "createdAt": "2026-02-06T13:13:14.317Z",
+    "updatedAt": "2026-02-06T13:13:14.317Z"
   }
 ]
