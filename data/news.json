@@ -1,5 +1,33 @@
 [
   {
+    "id": "0fe179db76b4fd6c",
+    "title": "Вторая ракетка России вышла в финал турнира в Абу-Даби",
+    "sport": "Теннис",
+    "category": "Теннис",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/4/97/347703961712974.jpeg",
+    "teaser": "Вторая ракетка России вышла в финал турнира в Абу-Даби",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6986164b9a794701f597434d",
+    "publishedAt": "2026-02-06T22:00:00.000Z",
+    "createdAt": "2026-02-06T16:54:27.249Z",
+    "updatedAt": "2026-02-06T16:54:27.249Z"
+  },
+  {
+    "id": "f56701136dc65cae",
+    "title": "Футболисток из Эстонии и Литвы наказали за отказ играть с Белоруссией",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/6/08/347703933312086.jpeg",
+    "teaser": "Футболисток из Эстонии и Литвы наказали за отказ играть с Белоруссией",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/698609b89a794742b97be0a3",
+    "publishedAt": "2026-02-06T22:00:00.000Z",
+    "createdAt": "2026-02-06T16:54:27.255Z",
+    "updatedAt": "2026-02-06T16:54:27.255Z"
+  },
+  {
     "id": "a57b521199e0bd83",
     "title": "Тарасова фразой «как никто в мире» оценила прокат Костылевой",
     "sport": "Другое",
@@ -10,8 +38,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/698602959a7947a56c811923",
     "publishedAt": "2026-02-06T22:00:00.000Z",
-    "createdAt": "2026-02-06T15:47:59.911Z",
-    "updatedAt": "2026-02-06T15:47:59.911Z"
+    "createdAt": "2026-02-06T16:54:27.261Z",
+    "updatedAt": "2026-02-06T16:54:27.261Z"
   },
   {
     "id": "b1b58cc84ecfc22d",
@@ -24,8 +52,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6985fbb89a79471a6a784459",
     "publishedAt": "2026-02-06T22:00:00.000Z",
-    "createdAt": "2026-02-06T15:47:59.917Z",
-    "updatedAt": "2026-02-06T15:47:59.917Z"
+    "createdAt": "2026-02-06T16:54:27.272Z",
+    "updatedAt": "2026-02-06T16:54:27.272Z"
   },
   {
     "id": "ce3aa54b7bd9d71b",
@@ -38,8 +66,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6985dc7c9a7947fd0035c628",
     "publishedAt": "2026-02-06T22:00:00.000Z",
-    "createdAt": "2026-02-06T15:47:59.922Z",
-    "updatedAt": "2026-02-06T15:47:59.922Z"
+    "createdAt": "2026-02-06T16:54:27.277Z",
+    "updatedAt": "2026-02-06T16:54:27.277Z"
   },
   {
     "id": "607c744b01595462",
@@ -52,8 +80,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6985f8189a7947c896c2946a",
     "publishedAt": "2026-02-06T22:00:00.000Z",
-    "createdAt": "2026-02-06T15:47:59.932Z",
-    "updatedAt": "2026-02-06T15:47:59.932Z"
+    "createdAt": "2026-02-06T16:54:27.283Z",
+    "updatedAt": "2026-02-06T16:54:27.283Z"
   },
   {
     "id": "23db0eaedef579a7",
@@ -66,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6985b1579a794731b4cbab6d",
     "publishedAt": "2026-02-06T22:00:00.000Z",
-    "createdAt": "2026-02-06T15:48:00.747Z",
-    "updatedAt": "2026-02-06T15:48:00.747Z"
+    "createdAt": "2026-02-06T16:54:28.302Z",
+    "updatedAt": "2026-02-06T16:54:28.302Z"
   },
   {
     "id": "99728e3ce11fd223",
@@ -80,8 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6985f5959a7947de9631b9fb",
     "publishedAt": "2026-02-06T22:00:00.000Z",
-    "createdAt": "2026-02-06T15:48:00.756Z",
-    "updatedAt": "2026-02-06T15:48:00.756Z"
+    "createdAt": "2026-02-06T16:54:28.310Z",
+    "updatedAt": "2026-02-06T16:54:28.310Z"
   },
   {
     "id": "29dfd9783da5a77f",
@@ -94,8 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6985ee969a7947ce5b401282",
     "publishedAt": "2026-02-06T22:00:00.000Z",
-    "createdAt": "2026-02-06T15:48:00.763Z",
-    "updatedAt": "2026-02-06T15:48:00.763Z"
+    "createdAt": "2026-02-06T16:54:28.316Z",
+    "updatedAt": "2026-02-06T16:54:28.316Z"
   },
   {
     "id": "b1d42fd93908f291",
@@ -108,35 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6985e1769a79470bff8a8e73",
     "publishedAt": "2026-02-06T22:00:00.000Z",
-    "createdAt": "2026-02-06T15:48:00.772Z",
-    "updatedAt": "2026-02-06T15:48:00.772Z"
-  },
-  {
-    "id": "904193af4d335f95",
-    "title": "Малинин заявил, что рад за Гуменника и ждет его приезда на Олимпиаду",
-    "sport": "Другое",
-    "category": "Фигурное катание",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/5/24/347703804745245.jpeg",
-    "teaser": "Малинин заявил, что рад за Гуменника и ждет его приезда на Олимпиаду",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6985dadb9a7947eee36e12a7",
-    "publishedAt": "2026-02-06T22:00:00.000Z",
-    "createdAt": "2026-02-06T15:48:00.778Z",
-    "updatedAt": "2026-02-06T15:48:00.778Z"
-  },
-  {
-    "id": "71f849bfc5c2c4e6",
-    "title": "Йоханнес Клебо пожаловался на плохой интернет на Олимпиаде в Италии",
-    "sport": "Другое",
-    "category": "Другие",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/6/84/347703812369846.jpeg",
-    "teaser": "Йоханнес Клебо пожаловался на плохой интернет на Олимпиаде в Италии",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6985c5449a7947ba6e99c61a",
-    "publishedAt": "2026-02-06T22:00:00.000Z",
-    "createdAt": "2026-02-06T15:48:00.784Z",
-    "updatedAt": "2026-02-06T15:48:00.784Z"
+    "createdAt": "2026-02-06T16:54:28.324Z",
+    "updatedAt": "2026-02-06T16:54:28.324Z"
   }
 ]
