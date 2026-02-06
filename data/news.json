@@ -1,5 +1,47 @@
 [
   {
+    "id": "6b3a5dbcfaf23d67",
+    "title": "Роналду второй матч подряд не вошел в заявку «Ан-Насра»",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/8/65/347704021839658.jpeg",
+    "teaser": "Роналду второй матч подряд не вошел в заявку «Ан-Насра»",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69862c7c9a79474ef9e9e115",
+    "publishedAt": "2026-02-06T22:00:00.000Z",
+    "createdAt": "2026-02-06T18:59:14.032Z",
+    "updatedAt": "2026-02-06T18:59:14.032Z"
+  },
+  {
+    "id": "728d50c6e7f6438f",
+    "title": "Церемония открытия Олимпиады-2026. Спецэфир телеканала РБК",
+    "sport": "Другое",
+    "category": "Другие",
+    "imageUrl": "/images/news-placeholder.jpg",
+    "teaser": "Церемония открытия Олимпиады-2026. Спецэфир телеканала РБК",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/698622d99a7947fdae0feaf4",
+    "publishedAt": "2026-02-06T22:00:00.000Z",
+    "createdAt": "2026-02-06T18:59:15.171Z",
+    "updatedAt": "2026-02-06T18:59:15.171Z"
+  },
+  {
+    "id": "ed3b05eac1fa0483",
+    "title": "«Краснодар» разгромил «Зенит» в матче Зимнего Кубка РПЛ",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/0/98/347703998241980.jpeg",
+    "teaser": "«Краснодар» разгромил «Зенит» в матче Зимнего Кубка РПЛ",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/698626d89a79470da63f680c",
+    "publishedAt": "2026-02-06T22:00:00.000Z",
+    "createdAt": "2026-02-06T18:59:15.184Z",
+    "updatedAt": "2026-02-06T18:59:15.184Z"
+  },
+  {
     "id": "6dc7289766f7fb31",
     "title": "В Венгрии назвали «скандальным» отказ украинки пожимать руку сопернице",
     "sport": "Теннис",
@@ -10,8 +52,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69861ceb9a79472004ec0062",
     "publishedAt": "2026-02-06T22:00:00.000Z",
-    "createdAt": "2026-02-06T17:46:42.553Z",
-    "updatedAt": "2026-02-06T17:46:42.553Z"
+    "createdAt": "2026-02-06T18:59:15.190Z",
+    "updatedAt": "2026-02-06T18:59:15.190Z"
   },
   {
     "id": "17e28b83d8fb96fe",
@@ -24,8 +66,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6986123b9a7947278de3eb9c",
     "publishedAt": "2026-02-06T22:00:00.000Z",
-    "createdAt": "2026-02-06T17:46:42.559Z",
-    "updatedAt": "2026-02-06T17:46:42.559Z"
+    "createdAt": "2026-02-06T18:59:15.196Z",
+    "updatedAt": "2026-02-06T18:59:15.196Z"
   },
   {
     "id": "0fe179db76b4fd6c",
@@ -38,8 +80,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6986164b9a794701f597434d",
     "publishedAt": "2026-02-06T22:00:00.000Z",
-    "createdAt": "2026-02-06T17:46:42.564Z",
-    "updatedAt": "2026-02-06T17:46:42.564Z"
+    "createdAt": "2026-02-06T18:59:15.203Z",
+    "updatedAt": "2026-02-06T18:59:15.203Z"
   },
   {
     "id": "cb1857b6cbbf90ee",
@@ -52,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/698611349a79473b5feb5126",
     "publishedAt": "2026-02-06T22:00:00.000Z",
-    "createdAt": "2026-02-06T17:46:42.574Z",
-    "updatedAt": "2026-02-06T17:46:42.574Z"
+    "createdAt": "2026-02-06T18:59:15.212Z",
+    "updatedAt": "2026-02-06T18:59:15.212Z"
   },
   {
     "id": "f56701136dc65cae",
@@ -66,8 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/698609b89a794742b97be0a3",
     "publishedAt": "2026-02-06T22:00:00.000Z",
-    "createdAt": "2026-02-06T17:46:42.582Z",
-    "updatedAt": "2026-02-06T17:46:42.582Z"
+    "createdAt": "2026-02-06T18:59:15.217Z",
+    "updatedAt": "2026-02-06T18:59:15.217Z"
   },
   {
     "id": "a57b521199e0bd83",
@@ -80,8 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/698602959a7947a56c811923",
     "publishedAt": "2026-02-06T22:00:00.000Z",
-    "createdAt": "2026-02-06T17:46:42.587Z",
-    "updatedAt": "2026-02-06T17:46:42.587Z"
+    "createdAt": "2026-02-06T18:59:15.223Z",
+    "updatedAt": "2026-02-06T18:59:15.223Z"
   },
   {
     "id": "b1b58cc84ecfc22d",
@@ -94,49 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6985fbb89a79471a6a784459",
     "publishedAt": "2026-02-06T22:00:00.000Z",
-    "createdAt": "2026-02-06T17:46:42.593Z",
-    "updatedAt": "2026-02-06T17:46:42.593Z"
-  },
-  {
-    "id": "ce3aa54b7bd9d71b",
-    "title": "Фигуристка Костылева стала двукратной чемпионкой России среди юниоров",
-    "sport": "Другое",
-    "category": "Фигурное катание",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/4/84/347703865189844.jpeg",
-    "teaser": "Фигуристка Костылева стала двукратной чемпионкой России среди юниоров",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6985dc7c9a7947fd0035c628",
-    "publishedAt": "2026-02-06T22:00:00.000Z",
-    "createdAt": "2026-02-06T17:46:42.599Z",
-    "updatedAt": "2026-02-06T17:46:42.599Z"
-  },
-  {
-    "id": "607c744b01595462",
-    "title": "«Динамо» в серии пенальти обыграло ЦСКА в матче Зимнего кубка РПЛ",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/8/96/347703880232968.jpeg",
-    "teaser": "«Динамо» в серии пенальти обыграло ЦСКА в матче Зимнего кубка РПЛ",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6985f8189a7947c896c2946a",
-    "publishedAt": "2026-02-06T22:00:00.000Z",
-    "createdAt": "2026-02-06T17:46:42.605Z",
-    "updatedAt": "2026-02-06T17:46:42.605Z"
-  },
-  {
-    "id": "23db0eaedef579a7",
-    "title": "Церемония открытия Олимпиады-2026 начнется в по московскому времени",
-    "sport": "Другое",
-    "category": "Другие",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/7/62/347703699820627.jpeg",
-    "teaser": "Церемония открытия Олимпиады-2026 начнется в по московскому времени",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6985b1579a794731b4cbab6d",
-    "publishedAt": "2026-02-06T22:00:00.000Z",
-    "createdAt": "2026-02-06T17:46:43.731Z",
-    "updatedAt": "2026-02-06T17:46:43.731Z"
+    "createdAt": "2026-02-06T18:59:15.229Z",
+    "updatedAt": "2026-02-06T18:59:15.229Z"
   }
 ]
