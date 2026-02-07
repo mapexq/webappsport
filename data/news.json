@@ -1,5 +1,61 @@
 [
   {
+    "id": "36387db1d513cd30",
+    "title": "Российские спортсмены вступают в борьбу. Что происходит на Олимпиаде",
+    "sport": "Другое",
+    "category": "Другие",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/9/85/347703783597859.jpeg",
+    "teaser": "Российские спортсмены вступают в борьбу. Что происходит на Олимпиаде",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6985d40e9a7947f8561ed8ef",
+    "publishedAt": "2026-02-07T10:27:40.000Z",
+    "createdAt": "2026-02-07T10:32:58.586Z",
+    "updatedAt": "2026-02-07T10:32:58.586Z"
+  },
+  {
+    "id": "3632eb3e3d5c7e35",
+    "title": "Американский фигурист Малинин назвал честью получение подарка от Овечкина",
+    "sport": "Другое",
+    "category": "Фигурное катание",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/6/48/347704584466486.jpeg",
+    "teaser": "Американский фигурист Малинин назвал честью получение подарка от Овечкина",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69870a239a7947c1f7491e7a",
+    "publishedAt": "2026-02-07T10:10:51.000Z",
+    "createdAt": "2026-02-07T10:32:55.256Z",
+    "updatedAt": "2026-02-07T10:32:55.256Z"
+  },
+  {
+    "id": "15230a768e643bb7",
+    "title": "Саудовская лига потеряла $2,4 млрд из-за бойкота матчей Роналду",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/5/87/347704572291875.jpeg",
+    "teaser": "Саудовская лига потеряла $2,4 млрд из-за бойкота матчей Роналду",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6987053d9a7947ccca330931",
+    "publishedAt": "2026-02-07T09:51:14.000Z",
+    "createdAt": "2026-02-07T10:32:56.394Z",
+    "updatedAt": "2026-02-07T10:32:56.395Z"
+  },
+  {
+    "id": "dbed1199d15b558e",
+    "title": "Азербайджан обратился в МОК из-за музыки армянских фигуристов",
+    "sport": "Другое",
+    "category": "Фигурное катание",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/7/52/347704552554527.jpeg",
+    "teaser": "Азербайджан обратился в МОК из-за музыки армянских фигуристов",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/698700909a794759561edbb6",
+    "publishedAt": "2026-02-07T09:44:09.000Z",
+    "createdAt": "2026-02-07T10:32:57.512Z",
+    "updatedAt": "2026-02-07T10:32:57.512Z"
+  },
+  {
     "id": "06bb0d8e45378b0d",
     "title": "Фигуристу Гуменнику не одобрили музыку в короткой программе на Олимпиаде",
     "sport": "Другое",
@@ -10,22 +66,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/698702369a794708f33c3bd1",
     "publishedAt": "2026-02-07T09:26:57.000Z",
-    "createdAt": "2026-02-07T09:37:01.638Z",
-    "updatedAt": "2026-02-07T09:37:01.638Z"
-  },
-  {
-    "id": "6beb6f97f13715df",
-    "title": "Российские спортсмены вступают в борьбу. Что происходит на Олимпиаде",
-    "sport": "Другое",
-    "category": "Другие",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/9/85/347703783597859.jpeg",
-    "teaser": "Российские спортсмены вступают в борьбу. Что происходит на Олимпиаде",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6985d40e9a7947f8561ed8ef",
-    "publishedAt": "2026-02-07T09:10:56.000Z",
-    "createdAt": "2026-02-07T09:37:02.586Z",
-    "updatedAt": "2026-02-07T09:37:02.586Z"
+    "createdAt": "2026-02-07T10:32:59.639Z",
+    "updatedAt": "2026-02-07T10:32:59.639Z"
   },
   {
     "id": "1c9ac101585b7045",
@@ -38,8 +80,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6986ff2e9a7947a0364e7dbd",
     "publishedAt": "2026-02-07T09:05:57.000Z",
-    "createdAt": "2026-02-07T09:37:03.527Z",
-    "updatedAt": "2026-02-07T09:37:03.527Z"
+    "createdAt": "2026-02-07T10:33:00.757Z",
+    "updatedAt": "2026-02-07T10:33:00.757Z"
   },
   {
     "id": "dc3b1cd06f52a2b1",
@@ -52,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69845d309a79472634857b12",
     "publishedAt": "2026-02-07T08:31:39.000Z",
-    "createdAt": "2026-02-07T09:37:05.597Z",
-    "updatedAt": "2026-02-07T09:37:05.597Z"
+    "createdAt": "2026-02-07T10:33:03.048Z",
+    "updatedAt": "2026-02-07T10:33:03.048Z"
   },
   {
     "id": "96e56c50b2126b63",
@@ -66,8 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6981ac9f9a794737d5fc35aa",
     "publishedAt": "2026-02-07T08:04:32.000Z",
-    "createdAt": "2026-02-07T09:37:06.723Z",
-    "updatedAt": "2026-02-07T09:37:06.723Z"
+    "createdAt": "2026-02-07T10:33:04.311Z",
+    "updatedAt": "2026-02-07T10:33:04.311Z"
   },
   {
     "id": "e6c38e11572ab3f9",
@@ -80,8 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/698499219a7947ac9ec5e9db",
     "publishedAt": "2026-02-07T07:47:17.000Z",
-    "createdAt": "2026-02-07T09:37:04.544Z",
-    "updatedAt": "2026-02-07T09:37:04.544Z"
+    "createdAt": "2026-02-07T10:33:01.888Z",
+    "updatedAt": "2026-02-07T10:33:01.888Z"
   },
   {
     "id": "8f8f2d64a0f0074d",
@@ -94,49 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6986dabb9a7947321cc14c2e",
     "publishedAt": "2026-02-07T06:48:38.000Z",
-    "createdAt": "2026-02-07T09:37:08.535Z",
-    "updatedAt": "2026-02-07T09:37:08.535Z"
-  },
-  {
-    "id": "f56db1f0b89e5e1b",
-    "title": "Какая из стран завоевала наибольшее число медалей в истории зимних Игр",
-    "sport": "Другое",
-    "category": "Другие",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/0/07/347696791367070.jpeg",
-    "teaser": "Какая из стран завоевала наибольшее число медалей в истории зимних Игр",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6979d8f89a794773d7a47b80",
-    "publishedAt": "2026-02-07T05:00:11.000Z",
-    "createdAt": "2026-02-07T09:37:09.544Z",
-    "updatedAt": "2026-02-07T09:37:09.544Z"
-  },
-  {
-    "id": "9e0c388f6c394eef",
-    "title": "За кем из россиян стоит следить в первый день Олимпиады-2026",
-    "sport": "Другое",
-    "category": "Другие",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/0/19/347703893042190.jpeg",
-    "teaser": "За кем из россиян стоит следить в первый день Олимпиады-2026",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6985e99a9a7947c7db2a4d22",
-    "publishedAt": "2026-02-07T04:02:09.000Z",
-    "createdAt": "2026-02-07T09:37:10.577Z",
-    "updatedAt": "2026-02-07T09:37:10.577Z"
-  },
-  {
-    "id": "0b6ff495b1c4ffde",
-    "title": "Как в Италии прошла церемония открытия зимней Олимпиады. Фоторепортаж",
-    "sport": "Другое",
-    "category": "Другие",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/8/00/347704154306008.jpeg",
-    "teaser": "Как в Италии прошла церемония открытия зимней Олимпиады. Фоторепортаж",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/698636f69a7947411a633df4",
-    "publishedAt": "2026-02-06T22:43:32.000Z",
-    "createdAt": "2026-02-07T09:37:11.803Z",
-    "updatedAt": "2026-02-07T09:37:11.803Z"
+    "createdAt": "2026-02-07T10:33:06.336Z",
+    "updatedAt": "2026-02-07T10:33:06.336Z"
   }
 ]
