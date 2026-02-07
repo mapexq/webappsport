@@ -1,17 +1,45 @@
 [
   {
-    "id": "378e35a561abe6dc",
-    "title": "Проблемы Гуменника, дебюты Непряевой и Коржовой. Что происходит на Играх",
+    "id": "467defb696238075",
+    "title": "Вторая ракетка России выиграла турнир WTA в Абу-Даби в парном разряде",
+    "sport": "Теннис",
+    "category": "Теннис",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/7/02/347704906894027.jpeg",
+    "teaser": "Вторая ракетка России выиграла турнир WTA в Абу-Даби в парном разряде",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69878b089a79471510c2f8a1",
+    "publishedAt": "2026-02-07T19:05:59.000Z",
+    "createdAt": "2026-02-07T19:29:49.555Z",
+    "updatedAt": "2026-02-07T19:29:49.555Z"
+  },
+  {
+    "id": "19340966219e495f",
+    "title": "Гуменник решил проблемы с музыкой. Что происходит на Олимпиаде",
     "sport": "Другое",
     "category": "Другие",
     "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/6/28/347704779532286.jpeg",
-    "teaser": "Проблемы Гуменника, дебюты Непряевой и Коржовой. Что происходит на Играх",
+    "teaser": "Гуменник решил проблемы с музыкой. Что происходит на Олимпиаде",
     "fullContent": "",
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6985d40e9a7947f8561ed8ef",
-    "publishedAt": "2026-02-07T18:28:11.000Z",
-    "createdAt": "2026-02-07T18:43:03.977Z",
-    "updatedAt": "2026-02-07T18:43:03.977Z"
+    "publishedAt": "2026-02-07T19:05:53.000Z",
+    "createdAt": "2026-02-07T19:29:51.597Z",
+    "updatedAt": "2026-02-07T19:29:51.597Z"
+  },
+  {
+    "id": "d34fc94858c5d844",
+    "title": "Гуменник сменил музыку к короткой программе на Олимпиаде после запрета",
+    "sport": "Другое",
+    "category": "Фигурное катание",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/9/78/347704899598789.jpeg",
+    "teaser": "Гуменник сменил музыку к короткой программе на Олимпиаде после запрета",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/698788239a794745a4e17e03",
+    "publishedAt": "2026-02-07T18:54:31.000Z",
+    "createdAt": "2026-02-07T19:29:48.605Z",
+    "updatedAt": "2026-02-07T19:29:48.605Z"
   },
   {
     "id": "7d9d22e4b7d3aede",
@@ -24,8 +52,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/698780e69a79474bc8fbe9fb",
     "publishedAt": "2026-02-07T18:25:54.000Z",
-    "createdAt": "2026-02-07T18:43:00.566Z",
-    "updatedAt": "2026-02-07T18:43:00.566Z"
+    "createdAt": "2026-02-07T19:29:50.495Z",
+    "updatedAt": "2026-02-07T19:29:50.495Z"
   },
   {
     "id": "f8bc236918cd2e2c",
@@ -38,8 +66,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/698761e59a794798da400227",
     "publishedAt": "2026-02-07T17:18:16.000Z",
-    "createdAt": "2026-02-07T18:43:01.639Z",
-    "updatedAt": "2026-02-07T18:43:01.639Z"
+    "createdAt": "2026-02-07T19:29:52.607Z",
+    "updatedAt": "2026-02-07T19:29:52.607Z"
   },
   {
     "id": "7eb2b2380e468298",
@@ -52,8 +80,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69875e009a79472967f98f9a",
     "publishedAt": "2026-02-07T16:32:52.000Z",
-    "createdAt": "2026-02-07T18:43:04.980Z",
-    "updatedAt": "2026-02-07T18:43:04.980Z"
+    "createdAt": "2026-02-07T19:29:54.676Z",
+    "updatedAt": "2026-02-07T19:29:54.676Z"
   },
   {
     "id": "a923b37ad52f5a95",
@@ -66,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69875a509a7947ad7f1ca4c9",
     "publishedAt": "2026-02-07T16:25:05.000Z",
-    "createdAt": "2026-02-07T18:43:02.694Z",
-    "updatedAt": "2026-02-07T18:43:02.694Z"
+    "createdAt": "2026-02-07T19:29:53.663Z",
+    "updatedAt": "2026-02-07T19:29:53.663Z"
   },
   {
     "id": "1290c771da87cd76",
@@ -80,22 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6987570a9a794728636cd887",
     "publishedAt": "2026-02-07T15:37:28.000Z",
-    "createdAt": "2026-02-07T18:43:07.001Z",
-    "updatedAt": "2026-02-07T18:43:07.001Z"
-  },
-  {
-    "id": "5cbf06cd3f8b9351",
-    "title": "«Спартак» победил «Далянь» в ОАЭ благодаря голу 18-летнего Массалыги",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/3/25/347704765390253.jpeg",
-    "teaser": "«Спартак» победил «Далянь» в ОАЭ благодаря голу 18-летнего Массалыги",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6987519b9a79471ca3574ee7",
-    "publishedAt": "2026-02-07T15:09:38.000Z",
-    "createdAt": "2026-02-07T18:43:09.047Z",
-    "updatedAt": "2026-02-07T18:43:09.047Z"
+    "createdAt": "2026-02-07T19:29:56.723Z",
+    "updatedAt": "2026-02-07T19:29:56.723Z"
   },
   {
     "id": "5b6f6c9afbcfeaac",
@@ -108,22 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69874eb09a79474b8ccf78d9",
     "publishedAt": "2026-02-07T14:56:34.000Z",
-    "createdAt": "2026-02-07T18:43:06.013Z",
-    "updatedAt": "2026-02-07T18:43:06.013Z"
-  },
-  {
-    "id": "844405e87951811a",
-    "title": "Россиянка проиграла 101-й ракетке мира в финале турнира WTA в Абу-Даби",
-    "sport": "Теннис",
-    "category": "Теннис",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/1/47/347704747053471.jpeg",
-    "teaser": "Россиянка проиграла 101-й ракетке мира в финале турнира WTA в Абу-Даби",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69874c949a79472c358cc2a3",
-    "publishedAt": "2026-02-07T14:47:54.000Z",
-    "createdAt": "2026-02-07T18:43:10.112Z",
-    "updatedAt": "2026-02-07T18:43:10.112Z"
+    "createdAt": "2026-02-07T19:29:55.677Z",
+    "updatedAt": "2026-02-07T19:29:55.677Z"
   },
   {
     "id": "7a57dd766e6c0b5d",
@@ -136,7 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69874a9d9a79474d314d225e",
     "publishedAt": "2026-02-07T14:39:28.000Z",
-    "createdAt": "2026-02-07T18:43:08.054Z",
-    "updatedAt": "2026-02-07T18:43:08.054Z"
+    "createdAt": "2026-02-07T19:29:57.809Z",
+    "updatedAt": "2026-02-07T19:29:57.809Z"
   }
 ]
