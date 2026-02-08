@@ -1,5 +1,33 @@
 [
   {
+    "id": "edc7ded0d0df17a8",
+    "title": "Кросби будет капитаном сборной Канады по хоккею на Олимпиаде",
+    "sport": "Хоккей",
+    "category": "Хоккей",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/4/90/347705668018904.jpeg",
+    "teaser": "Кросби будет капитаном сборной Канады по хоккею на Олимпиаде",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6988b2839a79475d705cf091",
+    "publishedAt": "2026-02-08T16:38:43.000Z",
+    "createdAt": "2026-02-08T17:32:10.403Z",
+    "updatedAt": "2026-02-08T17:32:10.403Z"
+  },
+  {
+    "id": "a3af0c7a1b1a3931",
+    "title": "Российского дзюдоиста признали спортсменом года по версии IJF",
+    "sport": "Другое",
+    "category": "Другие",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/8/27/347705670858278.jpeg",
+    "teaser": "Российского дзюдоиста признали спортсменом года по версии IJF",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6988b1209a7947687e858ea1",
+    "publishedAt": "2026-02-08T16:17:10.000Z",
+    "createdAt": "2026-02-08T17:32:11.477Z",
+    "updatedAt": "2026-02-08T17:32:11.477Z"
+  },
+  {
     "id": "4a69c850087d1b61",
     "title": "Медальный зачет Олимпиады-2026 в Италии",
     "sport": "Другое",
@@ -10,8 +38,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/698886229a79474a81540f8b",
     "publishedAt": "2026-02-08T15:35:05.000Z",
-    "createdAt": "2026-02-08T16:38:14.130Z",
-    "updatedAt": "2026-02-08T16:38:14.130Z"
+    "createdAt": "2026-02-08T17:32:16.576Z",
+    "updatedAt": "2026-02-08T17:32:16.576Z"
   },
   {
     "id": "f50c67f6e6c21526",
@@ -24,8 +52,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/698887ac9a79477a22d30b76",
     "publishedAt": "2026-02-08T15:33:43.000Z",
-    "createdAt": "2026-02-08T16:38:17.070Z",
-    "updatedAt": "2026-02-08T16:38:17.070Z"
+    "createdAt": "2026-02-08T17:32:19.427Z",
+    "updatedAt": "2026-02-08T17:32:19.427Z"
   },
   {
     "id": "f06ade00cce0e309",
@@ -38,8 +66,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6988251c9a79470f314ce65b",
     "publishedAt": "2026-02-08T15:12:24.000Z",
-    "createdAt": "2026-02-08T16:38:15.253Z",
-    "updatedAt": "2026-02-08T16:38:15.253Z"
+    "createdAt": "2026-02-08T17:32:17.601Z",
+    "updatedAt": "2026-02-08T17:32:17.601Z"
   },
   {
     "id": "cd8b3b8cdd3dcfbf",
@@ -52,8 +80,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69889d179a7947d05a4f682c",
     "publishedAt": "2026-02-08T14:46:27.000Z",
-    "createdAt": "2026-02-08T16:38:10.323Z",
-    "updatedAt": "2026-02-08T16:38:10.323Z"
+    "createdAt": "2026-02-08T17:32:13.587Z",
+    "updatedAt": "2026-02-08T17:32:13.587Z"
   },
   {
     "id": "db97d9f17bc24f76",
@@ -66,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6988948a9a7947020f2ce1ca",
     "publishedAt": "2026-02-08T14:27:47.000Z",
-    "createdAt": "2026-02-08T16:38:11.863Z",
-    "updatedAt": "2026-02-08T16:38:11.863Z"
+    "createdAt": "2026-02-08T17:32:14.545Z",
+    "updatedAt": "2026-02-08T17:32:14.545Z"
   },
   {
     "id": "1caf909da8224fae",
@@ -80,8 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/698891cc9a7947b7c9d6bcf7",
     "publishedAt": "2026-02-08T14:26:42.000Z",
-    "createdAt": "2026-02-08T16:38:09.414Z",
-    "updatedAt": "2026-02-08T16:38:09.414Z"
+    "createdAt": "2026-02-08T17:32:12.560Z",
+    "updatedAt": "2026-02-08T17:32:12.560Z"
   },
   {
     "id": "c85ee959704341d8",
@@ -94,36 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69888be39a7947a9601448bc",
     "publishedAt": "2026-02-08T13:38:26.000Z",
-    "createdAt": "2026-02-08T16:38:13.006Z",
-    "updatedAt": "2026-02-08T16:38:13.006Z"
-  },
-  {
-    "id": "971fe8c6b5bb7313",
-    "title": "Гуменник провел первую тренировку на Олимпиаде в Италии",
-    "sport": "Другое",
-    "category": "Фигурное катание",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/7/95/347705527830957.jpeg",
-    "teaser": "Гуменник провел первую тренировку на Олимпиаде в Италии",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/698877829a7947aaff590234",
-    "publishedAt": "2026-02-08T13:12:18.000Z",
-    "createdAt": "2026-02-08T16:38:19.327Z",
-    "updatedAt": "2026-02-08T16:38:19.327Z"
-  },
-  {
-    "id": "927afdc752544fd0",
-    "title": "Российская горнолыжница Плешкова стала 22-й в скоростном спуске на Играх",
-    "sport": "Другое",
-    "category": "Другие",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/0/78/347705568603780.jpeg",
-    "teaser": "Российская горнолыжница Плешкова стала 22-й в скоростном спуске на Играх",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/698874e29a7947f3eb21eb35",
-    "publishedAt": "2026-02-08T12:32:33.000Z",
-    "createdAt": "2026-02-08T16:38:21.371Z",
-    "updatedAt": "2026-02-08T16:38:21.371Z"
+    "createdAt": "2026-02-08T17:32:15.568Z",
+    "updatedAt": "2026-02-08T17:32:15.568Z"
   },
   {
     "id": "79c8bf554db3ead9",
@@ -136,7 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/698875139a79474f14e37261",
     "publishedAt": "2026-02-08T12:18:53.000Z",
-    "createdAt": "2026-02-08T16:38:18.197Z",
-    "updatedAt": "2026-02-08T16:38:18.197Z"
+    "createdAt": "2026-02-08T17:32:20.353Z",
+    "updatedAt": "2026-02-08T17:32:20.353Z"
   }
 ]
