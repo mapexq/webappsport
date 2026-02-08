@@ -1,5 +1,19 @@
 [
   {
+    "id": "892143bf0658204e",
+    "title": "Медальный зачет Олимпиады-2026 в Италии",
+    "sport": "Другое",
+    "category": "Другие",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/0/78/347705612962780.jpeg",
+    "teaser": "Медальный зачет Олимпиады-2026 в Италии",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/698886229a79474a81540f8b",
+    "publishedAt": "2026-02-08T18:43:06.000Z",
+    "createdAt": "2026-02-08T19:30:53.479Z",
+    "updatedAt": "2026-02-08T19:30:53.479Z"
+  },
+  {
     "id": "4398341323137657",
     "title": "Российский саночник Репилов занял 14-е место. Что происходит на Играх",
     "sport": "Другое",
@@ -10,8 +24,50 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6988251c9a79470f314ce65b",
     "publishedAt": "2026-02-08T18:35:12.000Z",
-    "createdAt": "2026-02-08T18:46:00.144Z",
-    "updatedAt": "2026-02-08T18:46:00.144Z"
+    "createdAt": "2026-02-08T19:30:45.444Z",
+    "updatedAt": "2026-02-08T19:30:45.444Z"
+  },
+  {
+    "id": "bfa28933f1435537",
+    "title": "Украинский клуб сменил капитана после его слов команде на русском языке",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/7/72/347705743013727.png",
+    "teaser": "Украинский клуб сменил капитана после его слов команде на русском языке",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6988ce369a79476843bcf03c",
+    "publishedAt": "2026-02-08T18:34:45.000Z",
+    "createdAt": "2026-02-08T19:30:46.529Z",
+    "updatedAt": "2026-02-08T19:30:46.529Z"
+  },
+  {
+    "id": "0b555de882e4fa27",
+    "title": "Главные факты о самой «безумной» спортсменке Олимпиады-2026",
+    "sport": "Другое",
+    "category": "Другие",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/8/62/347705633321628.jpeg",
+    "teaser": "Главные факты о самой «безумной» спортсменке Олимпиады-2026",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/698879099a79476d59a6e8ef",
+    "publishedAt": "2026-02-08T18:23:26.000Z",
+    "createdAt": "2026-02-08T19:30:44.362Z",
+    "updatedAt": "2026-02-08T19:30:44.362Z"
+  },
+  {
+    "id": "ee1e3003492f97fd",
+    "title": "Российский саночник Репилов занял 14-е место на Олимпиаде",
+    "sport": "Другое",
+    "category": "Другие",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/4/50/347705729599504.jpeg",
+    "teaser": "Российский саночник Репилов занял 14-е место на Олимпиаде",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6988bee09a794703ab443846",
+    "publishedAt": "2026-02-08T18:20:28.000Z",
+    "createdAt": "2026-02-08T19:30:51.210Z",
+    "updatedAt": "2026-02-08T19:30:51.210Z"
   },
   {
     "id": "6207e8bfef044690",
@@ -24,8 +80,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6988c0dc9a79471d48f698d4",
     "publishedAt": "2026-02-08T17:31:08.000Z",
-    "createdAt": "2026-02-08T18:45:57.036Z",
-    "updatedAt": "2026-02-08T18:45:57.036Z"
+    "createdAt": "2026-02-08T19:30:50.082Z",
+    "updatedAt": "2026-02-08T19:30:50.082Z"
   },
   {
     "id": "e1eb49c494a7e6c2",
@@ -38,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6988beaa9a794741fb354d46",
     "publishedAt": "2026-02-08T17:19:34.000Z",
-    "createdAt": "2026-02-08T18:45:55.978Z",
-    "updatedAt": "2026-02-08T18:45:55.978Z"
+    "createdAt": "2026-02-08T19:30:48.906Z",
+    "updatedAt": "2026-02-08T19:30:48.906Z"
   },
   {
     "id": "046e2bec7a28320e",
@@ -52,8 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6988ac2c9a79471cc3633c48",
     "publishedAt": "2026-02-08T17:04:42.000Z",
-    "createdAt": "2026-02-08T18:45:58.099Z",
-    "updatedAt": "2026-02-08T18:45:58.099Z"
+    "createdAt": "2026-02-08T19:30:52.317Z",
+    "updatedAt": "2026-02-08T19:30:52.317Z"
   },
   {
     "id": "6184d4e08594d7e5",
@@ -66,8 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6988b81f9a7947ecce08dfec",
     "publishedAt": "2026-02-08T16:57:34.000Z",
-    "createdAt": "2026-02-08T18:45:59.159Z",
-    "updatedAt": "2026-02-08T18:45:59.159Z"
+    "createdAt": "2026-02-08T19:30:47.658Z",
+    "updatedAt": "2026-02-08T19:30:47.658Z"
   },
   {
     "id": "edc7ded0d0df17a8",
@@ -80,63 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6988b2839a79475d705cf091",
     "publishedAt": "2026-02-08T16:38:43.000Z",
-    "createdAt": "2026-02-08T18:46:01.213Z",
-    "updatedAt": "2026-02-08T18:46:01.213Z"
-  },
-  {
-    "id": "a3af0c7a1b1a3931",
-    "title": "Российского дзюдоиста признали спортсменом года по версии IJF",
-    "sport": "Другое",
-    "category": "Другие",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/8/27/347705670858278.jpeg",
-    "teaser": "Российского дзюдоиста признали спортсменом года по версии IJF",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6988b1209a7947687e858ea1",
-    "publishedAt": "2026-02-08T16:17:10.000Z",
-    "createdAt": "2026-02-08T18:46:02.250Z",
-    "updatedAt": "2026-02-08T18:46:02.250Z"
-  },
-  {
-    "id": "cd8b3b8cdd3dcfbf",
-    "title": "Французские биатлонисты выиграли смешанную эстафету на Олимпиаде",
-    "sport": "Другое",
-    "category": "Биатлон",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/3/64/347705618762643.jpeg",
-    "teaser": "Французские биатлонисты выиграли смешанную эстафету на Олимпиаде",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69889d179a7947d05a4f682c",
-    "publishedAt": "2026-02-08T14:46:27.000Z",
-    "createdAt": "2026-02-08T18:46:04.304Z",
-    "updatedAt": "2026-02-08T18:46:04.304Z"
-  },
-  {
-    "id": "db97d9f17bc24f76",
-    "title": "Сноубордист Карл завоевал золото на ОИ в параллельном гигантском слаломе",
-    "sport": "Другое",
-    "category": "Другие",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/4/00/347705590871004.jpeg",
-    "teaser": "Сноубордист Карл завоевал золото на ОИ в параллельном гигантском слаломе",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6988948a9a7947020f2ce1ca",
-    "publishedAt": "2026-02-08T14:27:47.000Z",
-    "createdAt": "2026-02-08T18:46:05.351Z",
-    "updatedAt": "2026-02-08T18:46:05.351Z"
-  },
-  {
-    "id": "1caf909da8224fae",
-    "title": "Коростелев назвал свою гонку на Играх «лучшей, чтобы быть на подиуме»",
-    "sport": "Другое",
-    "category": "Другие",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/4/30/347705599169304.jpeg",
-    "teaser": "Коростелев назвал свою гонку на Играх «лучшей, чтобы быть на подиуме»",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/698891cc9a7947b7c9d6bcf7",
-    "publishedAt": "2026-02-08T14:26:42.000Z",
-    "createdAt": "2026-02-08T18:46:03.266Z",
-    "updatedAt": "2026-02-08T18:46:03.266Z"
+    "createdAt": "2026-02-08T19:30:54.616Z",
+    "updatedAt": "2026-02-08T19:30:54.616Z"
   }
 ]
