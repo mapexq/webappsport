@@ -1,5 +1,19 @@
 [
   {
+    "id": "5b5c547e939eb73d",
+    "title": "Медальный зачет Олимпиады-2026 в Италии",
+    "sport": "Другое",
+    "category": "Другие",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/0/78/347705612962780.jpeg",
+    "teaser": "Медальный зачет Олимпиады-2026 в Италии",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/698886229a79474a81540f8b",
+    "publishedAt": "2026-02-09T20:23:43.000Z",
+    "createdAt": "2026-02-09T21:45:01.531Z",
+    "updatedAt": "2026-02-09T21:45:01.531Z"
+  },
+  {
     "id": "14f45b7fff906ad3",
     "title": "A Bola узнала о решении Роналду прекратить бойкот матчей «Ан-Насра»",
     "sport": "Футбол",
@@ -10,8 +24,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/698a1e2f9a7947c5193152bd",
     "publishedAt": "2026-02-09T18:50:14.000Z",
-    "createdAt": "2026-02-09T20:49:51.305Z",
-    "updatedAt": "2026-02-09T20:49:51.305Z"
+    "createdAt": "2026-02-09T21:44:49.759Z",
+    "updatedAt": "2026-02-09T21:44:49.759Z"
   },
   {
     "id": "c73de48c9d23a327",
@@ -24,8 +38,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6989850e9a7947f9fddf2ed1",
     "publishedAt": "2026-02-09T18:45:13.000Z",
-    "createdAt": "2026-02-09T20:49:55.661Z",
-    "updatedAt": "2026-02-09T20:49:55.661Z"
+    "createdAt": "2026-02-09T21:44:54.175Z",
+    "updatedAt": "2026-02-09T21:44:54.175Z"
   },
   {
     "id": "f9841802acd3f655",
@@ -38,22 +52,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/698a146e9a7947540e17a30c",
     "publishedAt": "2026-02-09T18:31:17.000Z",
-    "createdAt": "2026-02-09T20:49:57.690Z",
-    "updatedAt": "2026-02-09T20:49:57.690Z"
-  },
-  {
-    "id": "b0116c48835623e6",
-    "title": "Медальный зачет Олимпиады-2026 в Италии",
-    "sport": "Другое",
-    "category": "Другие",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/0/78/347705612962780.jpeg",
-    "teaser": "Медальный зачет Олимпиады-2026 в Италии",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/698886229a79474a81540f8b",
-    "publishedAt": "2026-02-09T18:24:01.000Z",
-    "createdAt": "2026-02-09T20:50:02.350Z",
-    "updatedAt": "2026-02-09T20:50:02.350Z"
+    "createdAt": "2026-02-09T21:44:56.383Z",
+    "updatedAt": "2026-02-09T21:44:56.383Z"
   },
   {
     "id": "a9f71f4b9e341730",
@@ -66,8 +66,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/698a1efb9a79474dd8de2367",
     "publishedAt": "2026-02-09T18:12:23.000Z",
-    "createdAt": "2026-02-09T20:49:50.340Z",
-    "updatedAt": "2026-02-09T20:49:50.340Z"
+    "createdAt": "2026-02-09T21:44:48.608Z",
+    "updatedAt": "2026-02-09T21:44:48.608Z"
   },
   {
     "id": "967a57d77e2e0f79",
@@ -80,8 +80,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/698a17aa9a7947fe74523001",
     "publishedAt": "2026-02-09T17:49:28.000Z",
-    "createdAt": "2026-02-09T20:49:52.321Z",
-    "updatedAt": "2026-02-09T20:49:52.321Z"
+    "createdAt": "2026-02-09T21:44:50.865Z",
+    "updatedAt": "2026-02-09T21:44:50.865Z"
   },
   {
     "id": "2ca9990d28766b1a",
@@ -94,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/698a1a819a7947175db4b1ec",
     "publishedAt": "2026-02-09T17:46:31.000Z",
-    "createdAt": "2026-02-09T20:49:56.669Z",
-    "updatedAt": "2026-02-09T20:49:56.669Z"
+    "createdAt": "2026-02-09T21:44:55.278Z",
+    "updatedAt": "2026-02-09T21:44:55.278Z"
   },
   {
     "id": "7b25aedeca04a2a3",
@@ -108,8 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/698a02099a7947525fff7fb7",
     "publishedAt": "2026-02-09T17:02:49.000Z",
-    "createdAt": "2026-02-09T20:50:00.532Z",
-    "updatedAt": "2026-02-09T20:50:00.532Z"
+    "createdAt": "2026-02-09T21:44:59.502Z",
+    "updatedAt": "2026-02-09T21:44:59.502Z"
   },
   {
     "id": "ffbe0f7bcb61b265",
@@ -122,8 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/698a06309a794721cb4fd2eb",
     "publishedAt": "2026-02-09T16:55:54.000Z",
-    "createdAt": "2026-02-09T20:49:59.519Z",
-    "updatedAt": "2026-02-09T20:49:59.519Z"
+    "createdAt": "2026-02-09T21:44:58.393Z",
+    "updatedAt": "2026-02-09T21:44:58.393Z"
   },
   {
     "id": "9dd937034e634b37",
@@ -136,7 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/68e3a6b79a794720b5b98d21",
     "publishedAt": "2026-02-06T12:36:19.000Z",
-    "createdAt": "2026-02-09T20:49:53.885Z",
-    "updatedAt": "2026-02-09T20:49:53.885Z"
+    "createdAt": "2026-02-09T21:44:52.187Z",
+    "updatedAt": "2026-02-09T21:44:52.187Z"
   }
 ]
