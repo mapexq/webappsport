@@ -1,5 +1,47 @@
 [
   {
+    "id": "c289fa5e6df91656",
+    "title": "Бывший хоккеист СКА и «Спартака» Артем Федоров умер в возрасте 32 лет",
+    "sport": "Другое",
+    "category": "Другие",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/2/37/347706507837372.jpeg",
+    "teaser": "Бывший хоккеист СКА и «Спартака» Артем Федоров умер в возрасте 32 лет",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6989fac69a794746891324f0",
+    "publishedAt": "2026-02-09T15:31:47.000Z",
+    "createdAt": "2026-02-09T16:04:28.985Z",
+    "updatedAt": "2026-02-09T16:04:28.985Z"
+  },
+  {
+    "id": "70e4fd8b2f18b86c",
+    "title": "Экс-игрок «Спартака» ударом головой в лицо спровоцировал массовую драку",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/0/49/347706475854490.png",
+    "teaser": "Экс-игрок «Спартака» ударом головой в лицо спровоцировал массовую драку",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6989ec7a9a79473785c78347",
+    "publishedAt": "2026-02-09T15:03:22.000Z",
+    "createdAt": "2026-02-09T16:04:30.972Z",
+    "updatedAt": "2026-02-09T16:04:30.972Z"
+  },
+  {
+    "id": "2ecc3a5671784bff",
+    "title": "Организаторы признали проблемы с медалями. Что происходит на Олимпиаде",
+    "sport": "Другое",
+    "category": "Другие",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/9/29/347706247053299.jpeg",
+    "teaser": "Организаторы признали проблемы с медалями. Что происходит на Олимпиаде",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6989850e9a7947f9fddf2ed1",
+    "publishedAt": "2026-02-09T15:00:58.000Z",
+    "createdAt": "2026-02-09T16:04:32.995Z",
+    "updatedAt": "2026-02-09T16:04:32.995Z"
+  },
+  {
     "id": "24b8bb5b25c20396",
     "title": "Стали известны обладатели первого золота Олимпиады в командной комбинации",
     "sport": "Другое",
@@ -10,8 +52,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6989e8839a79470154cd55c8",
     "publishedAt": "2026-02-09T14:26:19.000Z",
-    "createdAt": "2026-02-09T14:57:48.576Z",
-    "updatedAt": "2026-02-09T14:57:48.576Z"
+    "createdAt": "2026-02-09T16:04:36.495Z",
+    "updatedAt": "2026-02-09T16:04:36.495Z"
   },
   {
     "id": "85289d7693f90f54",
@@ -24,8 +66,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6989e33d9a7947fdc829b1fb",
     "publishedAt": "2026-02-09T14:02:26.000Z",
-    "createdAt": "2026-02-09T14:57:49.607Z",
-    "updatedAt": "2026-02-09T14:57:49.607Z"
+    "createdAt": "2026-02-09T16:04:37.635Z",
+    "updatedAt": "2026-02-09T16:04:37.635Z"
   },
   {
     "id": "149793affb9881ab",
@@ -38,8 +80,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6989d91b9a7947e0ded8eaeb",
     "publishedAt": "2026-02-09T13:18:32.000Z",
-    "createdAt": "2026-02-09T14:57:56.684Z",
-    "updatedAt": "2026-02-09T14:57:56.684Z"
+    "createdAt": "2026-02-09T16:04:40.953Z",
+    "updatedAt": "2026-02-09T16:04:40.953Z"
   },
   {
     "id": "8a51e2f4c226ada2",
@@ -52,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6989d03b9a7947b649e13357",
     "publishedAt": "2026-02-09T13:01:55.000Z",
-    "createdAt": "2026-02-09T14:57:50.585Z",
-    "updatedAt": "2026-02-09T14:57:50.585Z"
+    "createdAt": "2026-02-09T16:04:35.412Z",
+    "updatedAt": "2026-02-09T16:04:35.412Z"
   },
   {
     "id": "cbe5970368a2074a",
@@ -66,8 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6989cda59a7947095cd30c74",
     "publishedAt": "2026-02-09T12:54:44.000Z",
-    "createdAt": "2026-02-09T14:57:53.836Z",
-    "updatedAt": "2026-02-09T14:57:53.836Z"
+    "createdAt": "2026-02-09T16:04:39.840Z",
+    "updatedAt": "2026-02-09T16:04:39.840Z"
   },
   {
     "id": "8eb7212914169d09",
@@ -80,50 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6989d1e29a79470d1c47f288",
     "publishedAt": "2026-02-09T12:54:40.000Z",
-    "createdAt": "2026-02-09T14:57:51.625Z",
-    "updatedAt": "2026-02-09T14:57:51.625Z"
-  },
-  {
-    "id": "3d69681a7c51f649",
-    "title": "Организаторы признали проблемы с медалями. Что происходит на Олимпиаде",
-    "sport": "Другое",
-    "category": "Другие",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/9/29/347706247053299.jpeg",
-    "teaser": "Организаторы признали проблемы с медалями. Что происходит на Олимпиаде",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6989850e9a7947f9fddf2ed1",
-    "publishedAt": "2026-02-09T12:46:06.000Z",
-    "createdAt": "2026-02-09T14:57:55.654Z",
-    "updatedAt": "2026-02-09T14:57:55.654Z"
-  },
-  {
-    "id": "32e1a7c2b5586cdb",
-    "title": "Купленный клубом Роналду за €77 млн колумбиец перешел в аренду в «Зенит»",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/1/93/347701067704931.jpeg",
-    "teaser": "Купленный клубом Роналду за €77 млн колумбиец перешел в аренду в «Зенит»",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6981af229a7947e4ac71957a",
-    "publishedAt": "2026-02-09T11:57:28.000Z",
-    "createdAt": "2026-02-09T14:57:57.816Z",
-    "updatedAt": "2026-02-09T14:57:57.816Z"
-  },
-  {
-    "id": "532b5239e9dbaf3d",
-    "title": "Организаторы Олимпиады пообещали разобраться с ломающимися медалями",
-    "sport": "Другое",
-    "category": "Другие",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/2/64/347706360768642.jpeg",
-    "teaser": "Организаторы Олимпиады пообещали разобраться с ломающимися медалями",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6989c20b9a7947488fddfcc7",
-    "publishedAt": "2026-02-09T11:53:12.000Z",
-    "createdAt": "2026-02-09T14:57:58.841Z",
-    "updatedAt": "2026-02-09T14:57:58.841Z"
+    "createdAt": "2026-02-09T16:04:38.729Z",
+    "updatedAt": "2026-02-09T16:04:38.729Z"
   },
   {
     "id": "9dd937034e634b37",
@@ -136,7 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/68e3a6b79a794720b5b98d21",
     "publishedAt": "2026-02-06T12:36:19.000Z",
-    "createdAt": "2026-02-09T14:57:52.809Z",
-    "updatedAt": "2026-02-09T14:57:52.809Z"
+    "createdAt": "2026-02-09T16:04:34.313Z",
+    "updatedAt": "2026-02-09T16:04:34.313Z"
   }
 ]
