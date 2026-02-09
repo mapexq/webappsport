@@ -1,17 +1,45 @@
 [
   {
-    "id": "3e6e22b5dd5b702d",
-    "title": "Швейцарская лыжница взяла золото в слоупстайле на Играх",
+    "id": "24b8bb5b25c20396",
+    "title": "Стали известны обладатели первого золота Олимпиады в командной комбинации",
+    "sport": "Другое",
+    "category": "Другие",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/4/42/347706463092424.jpeg",
+    "teaser": "Стали известны обладатели первого золота Олимпиады в командной комбинации",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6989e8839a79470154cd55c8",
+    "publishedAt": "2026-02-09T14:26:19.000Z",
+    "createdAt": "2026-02-09T14:57:48.576Z",
+    "updatedAt": "2026-02-09T14:57:48.576Z"
+  },
+  {
+    "id": "85289d7693f90f54",
+    "title": "Норвежская лыжница разбила лицо во время тренировки на Олимпиаде",
+    "sport": "Другое",
+    "category": "Другие",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/3/79/347706452371793.jpeg",
+    "teaser": "Норвежская лыжница разбила лицо во время тренировки на Олимпиаде",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6989e33d9a7947fdc829b1fb",
+    "publishedAt": "2026-02-09T14:02:26.000Z",
+    "createdAt": "2026-02-09T14:57:49.607Z",
+    "updatedAt": "2026-02-09T14:57:49.607Z"
+  },
+  {
+    "id": "149793affb9881ab",
+    "title": "Швейцарская фристайлистка взяла золото в слоупстайле на Играх",
     "sport": "Другое",
     "category": "Другие",
     "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/0/92/347706419813920.jpeg",
-    "teaser": "Швейцарская лыжница взяла золото в слоупстайле на Играх",
+    "teaser": "Швейцарская фристайлистка взяла золото в слоупстайле на Играх",
     "fullContent": "",
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6989d91b9a7947e0ded8eaeb",
     "publishedAt": "2026-02-09T13:18:32.000Z",
-    "createdAt": "2026-02-09T13:22:07.177Z",
-    "updatedAt": "2026-02-09T13:22:07.177Z"
+    "createdAt": "2026-02-09T14:57:56.684Z",
+    "updatedAt": "2026-02-09T14:57:56.684Z"
   },
   {
     "id": "8a51e2f4c226ada2",
@@ -24,8 +52,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6989d03b9a7947b649e13357",
     "publishedAt": "2026-02-09T13:01:55.000Z",
-    "createdAt": "2026-02-09T13:22:02.172Z",
-    "updatedAt": "2026-02-09T13:22:02.172Z"
+    "createdAt": "2026-02-09T14:57:50.585Z",
+    "updatedAt": "2026-02-09T14:57:50.585Z"
   },
   {
     "id": "cbe5970368a2074a",
@@ -38,8 +66,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6989cda59a7947095cd30c74",
     "publishedAt": "2026-02-09T12:54:44.000Z",
-    "createdAt": "2026-02-09T13:22:03.158Z",
-    "updatedAt": "2026-02-09T13:22:03.158Z"
+    "createdAt": "2026-02-09T14:57:53.836Z",
+    "updatedAt": "2026-02-09T14:57:53.836Z"
   },
   {
     "id": "8eb7212914169d09",
@@ -52,8 +80,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6989d1e29a79470d1c47f288",
     "publishedAt": "2026-02-09T12:54:40.000Z",
-    "createdAt": "2026-02-09T13:22:01.143Z",
-    "updatedAt": "2026-02-09T13:22:01.143Z"
+    "createdAt": "2026-02-09T14:57:51.625Z",
+    "updatedAt": "2026-02-09T14:57:51.625Z"
   },
   {
     "id": "3d69681a7c51f649",
@@ -66,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6989850e9a7947f9fddf2ed1",
     "publishedAt": "2026-02-09T12:46:06.000Z",
-    "createdAt": "2026-02-09T13:22:06.216Z",
-    "updatedAt": "2026-02-09T13:22:06.216Z"
+    "createdAt": "2026-02-09T14:57:55.654Z",
+    "updatedAt": "2026-02-09T14:57:55.654Z"
   },
   {
     "id": "32e1a7c2b5586cdb",
@@ -80,8 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6981af229a7947e4ac71957a",
     "publishedAt": "2026-02-09T11:57:28.000Z",
-    "createdAt": "2026-02-09T13:22:08.481Z",
-    "updatedAt": "2026-02-09T13:22:08.481Z"
+    "createdAt": "2026-02-09T14:57:57.816Z",
+    "updatedAt": "2026-02-09T14:57:57.816Z"
   },
   {
     "id": "532b5239e9dbaf3d",
@@ -94,36 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6989c20b9a7947488fddfcc7",
     "publishedAt": "2026-02-09T11:53:12.000Z",
-    "createdAt": "2026-02-09T13:22:09.505Z",
-    "updatedAt": "2026-02-09T13:22:09.505Z"
-  },
-  {
-    "id": "d69d0f047f898d38",
-    "title": "Горнолыжница повредила первую золотую медаль сборной США на Олимпиаде",
-    "sport": "Другое",
-    "category": "Другие",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/8/43/347706335938438.png",
-    "teaser": "Горнолыжница повредила первую золотую медаль сборной США на Олимпиаде",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6989b90b9a79470e2ba1b191",
-    "publishedAt": "2026-02-09T11:26:13.000Z",
-    "createdAt": "2026-02-09T13:22:10.847Z",
-    "updatedAt": "2026-02-09T13:22:10.847Z"
-  },
-  {
-    "id": "308d0c2bd53832d2",
-    "title": "Гашек ответил Кучерову на слова о пропуске Олимпиады сборной России",
-    "sport": "Хоккей",
-    "category": "Хоккей",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/6/03/347706297096036.png",
-    "teaser": "Гашек ответил Кучерову на слова о пропуске Олимпиады сборной России",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6989aa359a7947d3688a45b5",
-    "publishedAt": "2026-02-09T10:31:41.000Z",
-    "createdAt": "2026-02-09T13:22:11.875Z",
-    "updatedAt": "2026-02-09T13:22:11.875Z"
+    "createdAt": "2026-02-09T14:57:58.841Z",
+    "updatedAt": "2026-02-09T14:57:58.841Z"
   },
   {
     "id": "9dd937034e634b37",
@@ -136,7 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/68e3a6b79a794720b5b98d21",
     "publishedAt": "2026-02-06T12:36:19.000Z",
-    "createdAt": "2026-02-09T13:22:04.450Z",
-    "updatedAt": "2026-02-09T13:22:04.450Z"
+    "createdAt": "2026-02-09T14:57:52.809Z",
+    "updatedAt": "2026-02-09T14:57:52.809Z"
   }
 ]
