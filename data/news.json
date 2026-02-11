@@ -1,17 +1,73 @@
 [
   {
-    "id": "4f85974ccbe66748",
-    "title": "МОК пригрозил украинцу дисквалификацией. Что происходит на Олимпиаде",
+    "id": "559b691c693c25a8",
+    "title": "«Реал» достиг соглашения с УЕФА по поводу Суперлиги «во благо футбола»",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/3/21/347708227759213.jpeg",
+    "teaser": "«Реал» достиг соглашения с УЕФА по поводу Суперлиги «во благо футбола»",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/698c9c469a794770f5b23aa3",
+    "publishedAt": "2026-02-11T15:47:10.000Z",
+    "createdAt": "2026-02-11T16:11:33.473Z",
+    "updatedAt": "2026-02-11T16:11:33.473Z"
+  },
+  {
+    "id": "08ee5d8535ab9711",
+    "title": "Свищев заявил, что у каждого сменившего гражданство атлета «своя история»",
+    "sport": "Другое",
+    "category": "Другие",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/1/84/347708222550841.jpeg",
+    "teaser": "Свищев заявил, что у каждого сменившего гражданство атлета «своя история»",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/698c940a9a7947f4ac41ab0b",
+    "publishedAt": "2026-02-11T15:28:32.000Z",
+    "createdAt": "2026-02-11T16:11:34.511Z",
+    "updatedAt": "2026-02-11T16:11:34.511Z"
+  },
+  {
+    "id": "adea57bc9f7bc313",
+    "title": "Тягачев призвал не спешить с запретом на въезд уехавшим спортсменам",
+    "sport": "Другое",
+    "category": "Другие",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/8/52/347708230779528.jpeg",
+    "teaser": "Тягачев призвал не спешить с запретом на въезд уехавшим спортсменам",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/698c97ed9a7947c3a0761544",
+    "publishedAt": "2026-02-11T15:24:29.000Z",
+    "createdAt": "2026-02-11T16:11:35.352Z",
+    "updatedAt": "2026-02-11T16:11:35.352Z"
+  },
+  {
+    "id": "0360e886be116f03",
+    "title": "Мирра Андреева упустила матчбол и вылетела с «тысячника» в Дохе",
+    "sport": "Теннис",
+    "category": "Теннис",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/6/02/347708209429026.jpeg",
+    "teaser": "Мирра Андреева упустила матчбол и вылетела с «тысячника» в Дохе",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/698c950b9a79474f5c0488e2",
+    "publishedAt": "2026-02-11T14:51:07.000Z",
+    "createdAt": "2026-02-11T16:11:40.849Z",
+    "updatedAt": "2026-02-11T16:11:40.849Z"
+  },
+  {
+    "id": "7d13c29750c14c2d",
+    "title": "Осужденная за мошенничество взяла второе золото. Что происходит на Играх",
     "sport": "Другое",
     "category": "Другие",
     "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/7/26/347707969895267.jpeg",
-    "teaser": "МОК пригрозил украинцу дисквалификацией. Что происходит на Олимпиаде",
+    "teaser": "Осужденная за мошенничество взяла второе золото. Что происходит на Играх",
     "fullContent": "",
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/698c330e9a7947c241cfa95e",
     "publishedAt": "2026-02-11T14:50:34.000Z",
-    "createdAt": "2026-02-11T14:59:53.850Z",
-    "updatedAt": "2026-02-11T14:59:53.850Z"
+    "createdAt": "2026-02-11T16:11:36.482Z",
+    "updatedAt": "2026-02-11T16:11:36.482Z"
   },
   {
     "id": "ecc88722abd2363e",
@@ -24,8 +80,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/698c92189a794780edbc4573",
     "publishedAt": "2026-02-11T14:43:09.000Z",
-    "createdAt": "2026-02-11T14:59:50.639Z",
-    "updatedAt": "2026-02-11T14:59:50.639Z"
+    "createdAt": "2026-02-11T16:11:39.790Z",
+    "updatedAt": "2026-02-11T16:11:39.790Z"
   },
   {
     "id": "1f7044d89947b4a4",
@@ -38,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/698c8dbb9a79474572c36a03",
     "publishedAt": "2026-02-11T14:18:49.000Z",
-    "createdAt": "2026-02-11T14:59:51.669Z",
-    "updatedAt": "2026-02-11T14:59:51.669Z"
+    "createdAt": "2026-02-11T16:11:41.834Z",
+    "updatedAt": "2026-02-11T16:11:41.834Z"
   },
   {
     "id": "22b0c78b4693ddbd",
@@ -52,50 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/698c89f19a79475608239497",
     "publishedAt": "2026-02-11T14:09:25.000Z",
-    "createdAt": "2026-02-11T14:59:52.694Z",
-    "updatedAt": "2026-02-11T14:59:52.694Z"
-  },
-  {
-    "id": "f233c8bdf97ed2cc",
-    "title": "Норвежец Офтебру стал двукратным олимпийским чемпионом в лыжном двоеборье",
-    "sport": "Другое",
-    "category": "Другие",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/7/02/347708163990027.jpeg",
-    "teaser": "Норвежец Офтебру стал двукратным олимпийским чемпионом в лыжном двоеборье",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/698c835d9a7947730ea95560",
-    "publishedAt": "2026-02-11T13:39:40.000Z",
-    "createdAt": "2026-02-11T14:59:57.971Z",
-    "updatedAt": "2026-02-11T14:59:57.971Z"
-  },
-  {
-    "id": "1a930625577f7401",
-    "title": "В МОК рассказали о возможной дисквалификации украинского скелетониста",
-    "sport": "Другое",
-    "category": "Другие",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/6/36/347708159666366.jpeg",
-    "teaser": "В МОК рассказали о возможной дисквалификации украинского скелетониста",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/698c7c069a79471aeb5fca77",
-    "publishedAt": "2026-02-11T13:35:19.000Z",
-    "createdAt": "2026-02-11T14:59:56.934Z",
-    "updatedAt": "2026-02-11T14:59:56.934Z"
-  },
-  {
-    "id": "d639b9773fdc72eb",
-    "title": "Тарасова заявила, что организаторы Олимпиады «уничтожили» Гуменника",
-    "sport": "Другое",
-    "category": "Фигурное катание",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/5/01/347708151707015.jpeg",
-    "teaser": "Тарасова заявила, что организаторы Олимпиады «уничтожили» Гуменника",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/698c7ace9a794764c35e6138",
-    "publishedAt": "2026-02-11T13:29:01.000Z",
-    "createdAt": "2026-02-11T14:59:58.805Z",
-    "updatedAt": "2026-02-11T14:59:58.805Z"
+    "createdAt": "2026-02-11T16:11:43.042Z",
+    "updatedAt": "2026-02-11T16:11:43.042Z"
   },
   {
     "id": "46c898509fc965ca",
@@ -108,22 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/698b0e719a79473b1962c189",
     "publishedAt": "2026-02-11T13:17:53.000Z",
-    "createdAt": "2026-02-11T14:59:54.922Z",
-    "updatedAt": "2026-02-11T14:59:54.922Z"
-  },
-  {
-    "id": "91f665ae94f2374c",
-    "title": "Дегтярев допустил запрет на въезд в Россию сменившим гражданство атлетам",
-    "sport": "Другое",
-    "category": "Другие",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/3/02/347708127192023.jpeg",
-    "teaser": "Дегтярев допустил запрет на въезд в Россию сменившим гражданство атлетам",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/698c712c9a79477d22a7890e",
-    "publishedAt": "2026-02-11T12:46:53.000Z",
-    "createdAt": "2026-02-11T14:59:59.847Z",
-    "updatedAt": "2026-02-11T14:59:59.847Z"
+    "createdAt": "2026-02-11T16:11:37.594Z",
+    "updatedAt": "2026-02-11T16:11:37.594Z"
   },
   {
     "id": "eeb92e01d8ba2261",
@@ -136,7 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/698616209a79479f83d7b1a1",
     "publishedAt": "2026-02-10T21:01:07.000Z",
-    "createdAt": "2026-02-11T14:59:55.979Z",
-    "updatedAt": "2026-02-11T14:59:55.979Z"
+    "createdAt": "2026-02-11T16:11:38.695Z",
+    "updatedAt": "2026-02-11T16:11:38.695Z"
   }
 ]
