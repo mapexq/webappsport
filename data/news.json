@@ -1,5 +1,61 @@
 [
   {
+    "id": "13bc0b2bc3eaa814",
+    "title": "Хоккейный турнир стартовал с сенсации. Что происходит на Олимпиаде",
+    "sport": "Другое",
+    "category": "Другие",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/5/88/347708341067885.jpeg",
+    "teaser": "Хоккейный турнир стартовал с сенсации. Что происходит на Олимпиаде",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/698c330e9a7947c241cfa95e",
+    "publishedAt": "2026-02-11T20:35:40.000Z",
+    "createdAt": "2026-02-11T20:48:55.280Z",
+    "updatedAt": "2026-02-11T20:48:55.280Z"
+  },
+  {
+    "id": "91b1f6dab254dc5a",
+    "title": "ESPN назвал трансфер украинца Мудрика в «Челси» худшим в истории АПЛ",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/5/36/347708408020365.jpeg",
+    "teaser": "ESPN назвал трансфер украинца Мудрика в «Челси» худшим в истории АПЛ",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/698cdd4c9a7947e83cb691cd",
+    "publishedAt": "2026-02-11T20:22:56.000Z",
+    "createdAt": "2026-02-11T20:48:51.947Z",
+    "updatedAt": "2026-02-11T20:48:51.947Z"
+  },
+  {
+    "id": "a7102b5f6bafc23c",
+    "title": "В японской футбольной лиге запустили турнир без ничьих",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/5/33/347708372109335.jpeg",
+    "teaser": "В японской футбольной лиге запустили турнир без ничьих",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/698cd39d9a7947586a6d7c34",
+    "publishedAt": "2026-02-11T20:04:48.000Z",
+    "createdAt": "2026-02-11T20:49:01.867Z",
+    "updatedAt": "2026-02-11T20:49:01.867Z"
+  },
+  {
+    "id": "726b06ddd80bd079",
+    "title": "Впервые за 32 года итальянские саночники победили в двойках на Олимпиаде",
+    "sport": "Другое",
+    "category": "Другие",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/8/73/347708392761738.jpeg",
+    "teaser": "Впервые за 32 года итальянские саночники победили в двойках на Олимпиаде",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/698cd7689a79474d96b2a61c",
+    "publishedAt": "2026-02-11T19:58:18.000Z",
+    "createdAt": "2026-02-11T20:48:56.489Z",
+    "updatedAt": "2026-02-11T20:48:56.489Z"
+  },
+  {
     "id": "0c00cb54481ea3b2",
     "title": "Линдси Вонн перенесла третью операцию после падения на Олимпиаде",
     "sport": "Другое",
@@ -10,8 +66,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/698cd63b9a794781f2d83ffe",
     "publishedAt": "2026-02-11T19:46:16.000Z",
-    "createdAt": "2026-02-11T19:56:06.008Z",
-    "updatedAt": "2026-02-11T19:56:06.008Z"
+    "createdAt": "2026-02-11T20:48:52.993Z",
+    "updatedAt": "2026-02-11T20:48:52.993Z"
   },
   {
     "id": "3d1a750c811f281d",
@@ -24,22 +80,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/698ccf1f9a79479a36749fab",
     "publishedAt": "2026-02-11T19:29:17.000Z",
-    "createdAt": "2026-02-11T19:56:10.643Z",
-    "updatedAt": "2026-02-11T19:56:10.643Z"
-  },
-  {
-    "id": "a10d18be10d213f3",
-    "title": "Хоккейный турнир стартовал с сенсации. Что происходит на Олимпиаде",
-    "sport": "Другое",
-    "category": "Другие",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/5/88/347708341067885.jpeg",
-    "teaser": "Хоккейный турнир стартовал с сенсации. Что происходит на Олимпиаде",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/698c330e9a7947c241cfa95e",
-    "publishedAt": "2026-02-11T19:25:11.000Z",
-    "createdAt": "2026-02-11T19:56:09.709Z",
-    "updatedAt": "2026-02-11T19:56:09.709Z"
+    "createdAt": "2026-02-11T20:48:58.695Z",
+    "updatedAt": "2026-02-11T20:48:58.695Z"
   },
   {
     "id": "26d25183ca3bf7d8",
@@ -52,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/698cca9d9a79471f1725c742",
     "publishedAt": "2026-02-11T19:08:27.000Z",
-    "createdAt": "2026-02-11T19:56:07.217Z",
-    "updatedAt": "2026-02-11T19:56:07.217Z"
+    "createdAt": "2026-02-11T20:48:54.081Z",
+    "updatedAt": "2026-02-11T20:48:54.081Z"
   },
   {
     "id": "7ac220beccf6ca4c",
@@ -66,8 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/698ccc4e9a794765061bd5de",
     "publishedAt": "2026-02-11T18:47:34.000Z",
-    "createdAt": "2026-02-11T19:56:11.777Z",
-    "updatedAt": "2026-02-11T19:56:11.777Z"
+    "createdAt": "2026-02-11T20:48:59.763Z",
+    "updatedAt": "2026-02-11T20:48:59.763Z"
   },
   {
     "id": "d80cd8b8cfd43705",
@@ -80,8 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/698cc2879a7947a45fd9c54c",
     "publishedAt": "2026-02-11T18:27:40.000Z",
-    "createdAt": "2026-02-11T19:56:08.365Z",
-    "updatedAt": "2026-02-11T19:56:08.365Z"
+    "createdAt": "2026-02-11T20:48:57.626Z",
+    "updatedAt": "2026-02-11T20:48:57.626Z"
   },
   {
     "id": "9a269e22d7bae19b",
@@ -94,49 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/698cc3469a7947df5c822ffb",
     "publishedAt": "2026-02-11T18:23:45.000Z",
-    "createdAt": "2026-02-11T19:56:12.916Z",
-    "updatedAt": "2026-02-11T19:56:12.916Z"
-  },
-  {
-    "id": "fcac4d689bfbf857",
-    "title": "Экс-тренер российских биатлонисток помог Болгарии завоевать медаль на ОИ",
-    "sport": "Другое",
-    "category": "Биатлон",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/4/42/347708317848424.jpeg",
-    "teaser": "Экс-тренер российских биатлонисток помог Болгарии завоевать медаль на ОИ",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/698cbf5e9a79478403e712c5",
-    "publishedAt": "2026-02-11T18:10:13.000Z",
-    "createdAt": "2026-02-11T19:56:14.377Z",
-    "updatedAt": "2026-02-11T19:56:14.377Z"
-  },
-  {
-    "id": "b094860d4679581b",
-    "title": "Слуцкая не увидела «ничего зазорного» в смене спортивного гражданства",
-    "sport": "Другое",
-    "category": "Другие",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/0/97/347708313766970.jpeg",
-    "teaser": "Слуцкая не увидела «ничего зазорного» в смене спортивного гражданства",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/698cb77b9a7947e7355998cd",
-    "publishedAt": "2026-02-11T17:57:33.000Z",
-    "createdAt": "2026-02-11T19:56:15.580Z",
-    "updatedAt": "2026-02-11T19:56:15.580Z"
-  },
-  {
-    "id": "46c898509fc965ca",
-    "title": "Как экс-тренер сборной России воспитывал звезд Олимпиад в другой стране",
-    "sport": "Другое",
-    "category": "Другие",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/6/42/347707327536426.jpeg",
-    "teaser": "Как экс-тренер сборной России воспитывал звезд Олимпиад в другой стране",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/698b0e719a79473b1962c189",
-    "publishedAt": "2026-02-11T13:17:53.000Z",
-    "createdAt": "2026-02-11T19:56:16.768Z",
-    "updatedAt": "2026-02-11T19:56:16.768Z"
+    "createdAt": "2026-02-11T20:49:00.765Z",
+    "updatedAt": "2026-02-11T20:49:00.765Z"
   }
 ]
