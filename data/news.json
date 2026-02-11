@@ -1,17 +1,87 @@
 [
   {
-    "id": "e29109af9f71f8bc",
-    "title": "Украинец нарушил запрет МОК. Что происходит на Олимпиаде-2026",
+    "id": "b7f774480f1fc3f2",
+    "title": "Второй запрет для Украины. Что происходит на Олимпиаде",
     "sport": "Другое",
     "category": "Другие",
     "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/7/26/347707969895267.jpeg",
-    "teaser": "Украинец нарушил запрет МОК. Что происходит на Олимпиаде-2026",
+    "teaser": "Второй запрет для Украины. Что происходит на Олимпиаде",
     "fullContent": "",
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/698c330e9a7947c241cfa95e",
-    "publishedAt": "2026-02-11T09:55:57.000Z",
-    "createdAt": "2026-02-11T10:01:31.994Z",
-    "updatedAt": "2026-02-11T10:01:31.994Z"
+    "publishedAt": "2026-02-11T11:30:21.000Z",
+    "createdAt": "2026-02-11T11:49:28.073Z",
+    "updatedAt": "2026-02-11T11:49:28.073Z"
+  },
+  {
+    "id": "7737baf854a2b533",
+    "title": "«Тоттенхэм» уволил главного тренера",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/8/56/347708078209568.jpeg",
+    "teaser": "«Тоттенхэм» уволил главного тренера",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/698c61dd9a79477fce9d95a8",
+    "publishedAt": "2026-02-11T11:21:21.000Z",
+    "createdAt": "2026-02-11T11:49:25.164Z",
+    "updatedAt": "2026-02-11T11:49:25.164Z"
+  },
+  {
+    "id": "88a5154304f999ba",
+    "title": "Норвежский лыжник покинул Олимпиаду из-за простуды",
+    "sport": "Другое",
+    "category": "Другие",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/9/37/347708072798379.jpeg",
+    "teaser": "Норвежский лыжник покинул Олимпиаду из-за простуды",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/698c5fc59a79477d4b029398",
+    "publishedAt": "2026-02-11T11:02:36.000Z",
+    "createdAt": "2026-02-11T11:49:26.113Z",
+    "updatedAt": "2026-02-11T11:49:26.113Z"
+  },
+  {
+    "id": "3cbd00784366bdb3",
+    "title": "Тренер назвал завершенной для Коростелева историю со скиатлоном на Играх",
+    "sport": "Другое",
+    "category": "Другие",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/2/71/347708057450712.jpeg",
+    "teaser": "Тренер назвал завершенной для Коростелева историю со скиатлоном на Играх",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/698c59a29a794740f5d2b51e",
+    "publishedAt": "2026-02-11T10:50:16.000Z",
+    "createdAt": "2026-02-11T11:49:27.105Z",
+    "updatedAt": "2026-02-11T11:49:27.105Z"
+  },
+  {
+    "id": "18054edf632aae3c",
+    "title": "В кипрском клубе Кокорина сменился главный тренер",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/0/11/347708051275110.jpeg",
+    "teaser": "В кипрском клубе Кокорина сменился главный тренер",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/698c57389a7947675ab7d371",
+    "publishedAt": "2026-02-11T10:30:28.000Z",
+    "createdAt": "2026-02-11T11:49:32.031Z",
+    "updatedAt": "2026-02-11T11:49:32.031Z"
+  },
+  {
+    "id": "047c53b1b84941ff",
+    "title": "Дегтярев назвал «редким негодяем» главу Международной федерации хоккея",
+    "sport": "Хоккей",
+    "category": "Хоккей",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/4/19/347708041312194.jpeg",
+    "teaser": "Дегтярев назвал «редким негодяем» главу Международной федерации хоккея",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/698c535b9a79471115e85ca6",
+    "publishedAt": "2026-02-11T10:13:22.000Z",
+    "createdAt": "2026-02-11T11:49:31.033Z",
+    "updatedAt": "2026-02-11T11:49:31.033Z"
   },
   {
     "id": "0c85dbd0bef1d8d9",
@@ -24,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/698c4e259a79477118afa09c",
     "publishedAt": "2026-02-11T09:51:44.000Z",
-    "createdAt": "2026-02-11T10:01:28.641Z",
-    "updatedAt": "2026-02-11T10:01:28.641Z"
+    "createdAt": "2026-02-11T11:49:33.052Z",
+    "updatedAt": "2026-02-11T11:49:33.052Z"
   },
   {
     "id": "e75ed04f86b915e8",
@@ -38,22 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/698c49c99a7947b153c93b2b",
     "publishedAt": "2026-02-11T09:30:54.000Z",
-    "createdAt": "2026-02-11T10:01:29.795Z",
-    "updatedAt": "2026-02-11T10:01:29.795Z"
-  },
-  {
-    "id": "7600f163f326fb78",
-    "title": "Второму украинскому атлету запретили шлем с политическим лозунгом на ОИ",
-    "sport": "Другое",
-    "category": "Другие",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/0/98/347708008888980.jpeg",
-    "teaser": "Второму украинскому атлету запретили шлем с политическим лозунгом на ОИ",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/698c46eb9a7947b24f71952f",
-    "publishedAt": "2026-02-11T09:24:20.000Z",
-    "createdAt": "2026-02-11T10:01:30.887Z",
-    "updatedAt": "2026-02-11T10:01:30.887Z"
+    "createdAt": "2026-02-11T11:49:34.073Z",
+    "updatedAt": "2026-02-11T11:49:34.073Z"
   },
   {
     "id": "1118d967afb78e4c",
@@ -66,22 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/698b825a9a794703a45b81fe",
     "publishedAt": "2026-02-11T08:57:36.000Z",
-    "createdAt": "2026-02-11T10:01:34.231Z",
-    "updatedAt": "2026-02-11T10:01:34.231Z"
-  },
-  {
-    "id": "a57346e7865a8122",
-    "title": "Украинский скелетонист нарушил запрет МОК на шлем с погибшими атлетами",
-    "sport": "Другое",
-    "category": "Другие",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/5/81/347707947286815.jpeg",
-    "teaser": "Украинский скелетонист нарушил запрет МОК на шлем с погибшими атлетами",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/698c2dd39a794721671e8600",
-    "publishedAt": "2026-02-11T07:35:19.000Z",
-    "createdAt": "2026-02-11T10:01:35.332Z",
-    "updatedAt": "2026-02-11T10:01:35.332Z"
+    "createdAt": "2026-02-11T11:49:30.089Z",
+    "updatedAt": "2026-02-11T11:49:30.089Z"
   },
   {
     "id": "eeb92e01d8ba2261",
@@ -94,49 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/698616209a79479f83d7b1a1",
     "publishedAt": "2026-02-10T21:01:07.000Z",
-    "createdAt": "2026-02-11T10:01:33.059Z",
-    "updatedAt": "2026-02-11T10:01:33.059Z"
-  },
-  {
-    "id": "c6b7dbaf5c9c27dc",
-    "title": "Плющенко заявил, что Гуменник может занять хорошее место на Олимпиаде",
-    "sport": "Другое",
-    "category": "Фигурное катание",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/5/60/347707553441605.jpeg",
-    "teaser": "Плющенко заявил, что Гуменник может занять хорошее место на Олимпиаде",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/698b93799a79475cc5de501e",
-    "publishedAt": "2026-02-10T20:36:42.000Z",
-    "createdAt": "2026-02-11T10:01:36.400Z",
-    "updatedAt": "2026-02-11T10:01:36.400Z"
-  },
-  {
-    "id": "9b0086f4953f6f3e",
-    "title": "Команда Гуменника пыталась подобрать музыку к выступлению с помощью ИИ",
-    "sport": "Другое",
-    "category": "Фигурное катание",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/1/07/347707592604071.jpeg",
-    "teaser": "Команда Гуменника пыталась подобрать музыку к выступлению с помощью ИИ",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/698b8b519a79473765cd8f34",
-    "publishedAt": "2026-02-10T20:20:54.000Z",
-    "createdAt": "2026-02-11T10:01:37.421Z",
-    "updatedAt": "2026-02-11T10:01:37.421Z"
-  },
-  {
-    "id": "c76969b3cb1c8aba",
-    "title": "Вице-президент ISU заявил, что у Гуменника очень мало шансов на медаль",
-    "sport": "Другое",
-    "category": "Фигурное катание",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/1/77/347707522524771.jpeg",
-    "teaser": "Вице-президент ISU заявил, что у Гуменника очень мало шансов на медаль",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/698b87679a7947f4bbbf767d",
-    "publishedAt": "2026-02-10T20:15:18.000Z",
-    "createdAt": "2026-02-11T10:01:38.869Z",
-    "updatedAt": "2026-02-11T10:01:38.869Z"
+    "createdAt": "2026-02-11T11:49:29.104Z",
+    "updatedAt": "2026-02-11T11:49:29.104Z"
   }
 ]
