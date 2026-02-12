@@ -1,5 +1,33 @@
 [
   {
+    "id": "a0a879676346966d",
+    "title": "Месси получил травму",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/1/37/347708900480371.jpeg",
+    "teaser": "Месси получил травму",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/698da2f49a79472f8fbdaecc",
+    "publishedAt": "2026-02-12T10:32:41.000Z",
+    "createdAt": "2026-02-12T10:58:53.034Z",
+    "updatedAt": "2026-02-12T10:58:53.034Z"
+  },
+  {
+    "id": "036a1e373556e694",
+    "title": "Карим Халили выиграл гонку преследования на Кубке Содружества в Сочи",
+    "sport": "Другое",
+    "category": "Биатлон",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/5/80/347708893961805.png",
+    "teaser": "Карим Халили выиграл гонку преследования на Кубке Содружества в Сочи",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/698da0289a794773950378e2",
+    "publishedAt": "2026-02-12T09:59:44.000Z",
+    "createdAt": "2026-02-12T10:59:00.620Z",
+    "updatedAt": "2026-02-12T10:59:00.620Z"
+  },
+  {
     "id": "570d4a9232eafb2d",
     "title": "В честь ЦСКА назвали гору на Кавказе",
     "sport": "Футбол",
@@ -10,8 +38,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/698d97c69a79473de3ece089",
     "publishedAt": "2026-02-12T09:30:17.000Z",
-    "createdAt": "2026-02-12T09:58:47.902Z",
-    "updatedAt": "2026-02-12T09:58:47.902Z"
+    "createdAt": "2026-02-12T10:58:54.957Z",
+    "updatedAt": "2026-02-12T10:58:54.957Z"
   },
   {
     "id": "04ba20b0ca594716",
@@ -24,8 +52,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/698d897b9a79479796b69b81",
     "publishedAt": "2026-02-12T09:09:29.000Z",
-    "createdAt": "2026-02-12T09:58:46.093Z",
-    "updatedAt": "2026-02-12T09:58:46.093Z"
+    "createdAt": "2026-02-12T10:58:51.989Z",
+    "updatedAt": "2026-02-12T10:58:51.989Z"
   },
   {
     "id": "6e95ceffb6bc46d8",
@@ -38,8 +66,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/698ca5c59a79475544307299",
     "publishedAt": "2026-02-12T08:28:15.000Z",
-    "createdAt": "2026-02-12T09:58:49.965Z",
-    "updatedAt": "2026-02-12T09:58:49.965Z"
+    "createdAt": "2026-02-12T10:58:57.352Z",
+    "updatedAt": "2026-02-12T10:58:57.352Z"
   },
   {
     "id": "65fdda2d9686db90",
@@ -52,8 +80,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/698ce9da9a794765c1dfa20e",
     "publishedAt": "2026-02-12T08:25:18.000Z",
-    "createdAt": "2026-02-12T09:58:52.025Z",
-    "updatedAt": "2026-02-12T09:58:52.025Z"
+    "createdAt": "2026-02-12T10:58:59.579Z",
+    "updatedAt": "2026-02-12T10:58:59.579Z"
   },
   {
     "id": "aaf48d7f19e582d5",
@@ -66,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/698886229a79474a81540f8b",
     "publishedAt": "2026-02-12T08:05:40.000Z",
-    "createdAt": "2026-02-12T09:58:53.165Z",
-    "updatedAt": "2026-02-12T09:58:53.165Z"
+    "createdAt": "2026-02-12T10:59:01.617Z",
+    "updatedAt": "2026-02-12T10:59:01.617Z"
   },
   {
     "id": "eba88cf40eab95fb",
@@ -80,8 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/698d83119a79473f03cbb5ac",
     "publishedAt": "2026-02-12T07:46:33.000Z",
-    "createdAt": "2026-02-12T09:58:54.203Z",
-    "updatedAt": "2026-02-12T09:58:54.203Z"
+    "createdAt": "2026-02-12T10:59:02.723Z",
+    "updatedAt": "2026-02-12T10:59:02.723Z"
   },
   {
     "id": "46eb0c89d8eecb5b",
@@ -94,36 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/697b6b099a7947d94920be32",
     "publishedAt": "2026-02-12T07:00:25.000Z",
-    "createdAt": "2026-02-12T09:58:50.998Z",
-    "updatedAt": "2026-02-12T09:58:50.998Z"
-  },
-  {
-    "id": "f60fae948eddc269",
-    "title": "Каким был бы состав сборной России по хоккею на Олимпиаде-2026",
-    "sport": "Хоккей",
-    "category": "Хоккей",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/5/82/347708222460825.jpeg",
-    "teaser": "Каким был бы состав сборной России по хоккею на Олимпиаде-2026",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/698c718c9a7947476edcb946",
-    "publishedAt": "2026-02-12T06:02:01.000Z",
-    "createdAt": "2026-02-12T09:58:55.252Z",
-    "updatedAt": "2026-02-12T09:58:55.252Z"
-  },
-  {
-    "id": "dd489c1c4355cb0c",
-    "title": "За кем из россиян стоит последить в шестой день Олимпиады",
-    "sport": "Другое",
-    "category": "Другие",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/1/02/347708123363021.jpeg",
-    "teaser": "За кем из россиян стоит последить в шестой день Олимпиады",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/698c5b1e9a794724613d2363",
-    "publishedAt": "2026-02-12T05:01:17.000Z",
-    "createdAt": "2026-02-12T09:58:56.319Z",
-    "updatedAt": "2026-02-12T09:58:56.319Z"
+    "createdAt": "2026-02-12T10:58:58.462Z",
+    "updatedAt": "2026-02-12T10:58:58.462Z"
   },
   {
     "id": "5675ae02a4033d96",
@@ -136,7 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6970a12d9a7947c0df420553",
     "publishedAt": "2026-02-11T21:00:10.000Z",
-    "createdAt": "2026-02-12T09:58:48.936Z",
-    "updatedAt": "2026-02-12T09:58:48.936Z"
+    "createdAt": "2026-02-12T10:58:56.237Z",
+    "updatedAt": "2026-02-12T10:58:56.237Z"
   }
 ]
