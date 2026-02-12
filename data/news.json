@@ -1,5 +1,61 @@
 [
   {
+    "id": "77a6339cec3173c1",
+    "title": "Глава МОК в слезах. Что происходит на Олимпиаде",
+    "sport": "Другое",
+    "category": "Другие",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/3/57/347709033727573.jpeg",
+    "teaser": "Глава МОК в слезах. Что происходит на Олимпиаде",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/698d897b9a79479796b69b81",
+    "publishedAt": "2026-02-12T17:07:06.000Z",
+    "createdAt": "2026-02-12T17:10:52.066Z",
+    "updatedAt": "2026-02-12T17:10:52.066Z"
+  },
+  {
+    "id": "c72f0d3316e5d460",
+    "title": "ЦСКА объявил о переходе рекордсмена «Спортинга»",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/2/57/347709132337572.jpeg",
+    "teaser": "ЦСКА объявил о переходе рекордсмена «Спортинга»",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/698dfbff9a7947d7d33853d5",
+    "publishedAt": "2026-02-12T16:34:24.000Z",
+    "createdAt": "2026-02-12T17:10:54.174Z",
+    "updatedAt": "2026-02-12T17:10:54.174Z"
+  },
+  {
+    "id": "97ec8e8f55e80e35",
+    "title": "Плющенко заявил, что дочь Тутберидзе вошла в элиту танцевальных пар на ОИ",
+    "sport": "Другое",
+    "category": "Фигурное катание",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/9/27/347709116677279.jpeg",
+    "teaser": "Плющенко заявил, что дочь Тутберидзе вошла в элиту танцевальных пар на ОИ",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/698df5379a79479e6da0b3b7",
+    "publishedAt": "2026-02-12T16:02:00.000Z",
+    "createdAt": "2026-02-12T17:10:58.255Z",
+    "updatedAt": "2026-02-12T17:10:58.255Z"
+  },
+  {
+    "id": "24d7cee534e0656e",
+    "title": "Чеферин заявил, что позиция УЕФА по России не изменилась",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/3/55/347709086793553.jpeg",
+    "teaser": "Чеферин заявил, что позиция УЕФА по России не изменилась",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/698debdc9a7947ca5bee0b01",
+    "publishedAt": "2026-02-12T15:54:36.000Z",
+    "createdAt": "2026-02-12T17:10:56.052Z",
+    "updatedAt": "2026-02-12T17:10:56.052Z"
+  },
+  {
     "id": "0f35cf89c0eacd84",
     "title": "Американской чемпионке Олимпиады сделали предложение после финиша",
     "sport": "Другое",
@@ -10,8 +66,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/698def8b9a794727fba9ff2f",
     "publishedAt": "2026-02-12T15:51:42.000Z",
-    "createdAt": "2026-02-12T16:00:54.759Z",
-    "updatedAt": "2026-02-12T16:00:54.759Z"
+    "createdAt": "2026-02-12T17:10:53.127Z",
+    "updatedAt": "2026-02-12T17:10:53.127Z"
   },
   {
     "id": "3fa93571a284255d",
@@ -24,22 +80,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/698dee579a794721980d2bcb",
     "publishedAt": "2026-02-12T15:44:22.000Z",
-    "createdAt": "2026-02-12T16:00:56.845Z",
-    "updatedAt": "2026-02-12T16:00:56.845Z"
-  },
-  {
-    "id": "406b9a4b3da65a23",
-    "title": "Глава МОК в слезах. Что происходит на Олимпиаде",
-    "sport": "Другое",
-    "category": "Другие",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/3/57/347709033727573.jpeg",
-    "teaser": "Глава МОК в слезах. Что происходит на Олимпиаде",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/698d897b9a79479796b69b81",
-    "publishedAt": "2026-02-12T15:13:53.000Z",
-    "createdAt": "2026-02-12T16:01:01.438Z",
-    "updatedAt": "2026-02-12T16:01:01.438Z"
+    "createdAt": "2026-02-12T17:11:00.749Z",
+    "updatedAt": "2026-02-12T17:11:00.749Z"
   },
   {
     "id": "1510d07cf6e933b4",
@@ -52,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/698de5709a79470ef474dbcc",
     "publishedAt": "2026-02-12T15:01:00.000Z",
-    "createdAt": "2026-02-12T16:00:57.872Z",
-    "updatedAt": "2026-02-12T16:00:57.872Z"
+    "createdAt": "2026-02-12T17:11:01.846Z",
+    "updatedAt": "2026-02-12T17:11:01.846Z"
   },
   {
     "id": "904144ff6c7d0420",
@@ -66,22 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/698ddbcd9a7947fb3efcedef",
     "publishedAt": "2026-02-12T14:41:53.000Z",
-    "createdAt": "2026-02-12T16:00:55.821Z",
-    "updatedAt": "2026-02-12T16:00:55.821Z"
-  },
-  {
-    "id": "7f14c8cb0e5e351f",
-    "title": "Швейцария всухую обыграла Францию на хоккейном турнире Олимпиады",
-    "sport": "Хоккей",
-    "category": "Хоккей",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/2/81/347709052750812.jpeg",
-    "teaser": "Швейцария всухую обыграла Францию на хоккейном турнире Олимпиады",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/698ddb389a7947d131d8024a",
-    "publishedAt": "2026-02-12T14:18:05.000Z",
-    "createdAt": "2026-02-12T16:01:02.455Z",
-    "updatedAt": "2026-02-12T16:01:02.455Z"
+    "createdAt": "2026-02-12T17:10:59.671Z",
+    "updatedAt": "2026-02-12T17:10:59.671Z"
   },
   {
     "id": "c0da2193f1913b0d",
@@ -94,8 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/698ddc999a7947271f1b6f33",
     "publishedAt": "2026-02-12T14:05:31.000Z",
-    "createdAt": "2026-02-12T16:00:59.738Z",
-    "updatedAt": "2026-02-12T16:00:59.738Z"
+    "createdAt": "2026-02-12T17:11:03.757Z",
+    "updatedAt": "2026-02-12T17:11:03.757Z"
   },
   {
     "id": "aa37057c602e2eb0",
@@ -108,35 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/698dc73a9a7947814710a32a",
     "publishedAt": "2026-02-12T13:39:15.000Z",
-    "createdAt": "2026-02-12T16:01:03.488Z",
-    "updatedAt": "2026-02-12T16:01:03.488Z"
-  },
-  {
-    "id": "61f42d4e367c3f49",
-    "title": "МОК вернул олимпийскую аккредитацию украинскому скелетонисту",
-    "sport": "Другое",
-    "category": "Другие",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/3/93/347709000183933.jpeg",
-    "teaser": "МОК вернул олимпийскую аккредитацию украинскому скелетонисту",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/698dca089a7947bde29635f9",
-    "publishedAt": "2026-02-12T12:56:34.000Z",
-    "createdAt": "2026-02-12T16:01:04.531Z",
-    "updatedAt": "2026-02-12T16:01:04.531Z"
-  },
-  {
-    "id": "2aea6f7b6ab36300",
-    "title": "Сихарулидзе назвал абсурдной ситуацию с заменой музыки Гуменника на Играх",
-    "sport": "Другое",
-    "category": "Фигурное катание",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/1/52/347708988492521.jpeg",
-    "teaser": "Сихарулидзе назвал абсурдной ситуацию с заменой музыки Гуменника на Играх",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/698dc20d9a79470756a162a0",
-    "publishedAt": "2026-02-12T12:33:40.000Z",
-    "createdAt": "2026-02-12T16:01:05.617Z",
-    "updatedAt": "2026-02-12T16:01:05.617Z"
+    "createdAt": "2026-02-12T17:10:57.179Z",
+    "updatedAt": "2026-02-12T17:10:57.179Z"
   }
 ]
