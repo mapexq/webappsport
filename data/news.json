@@ -1,17 +1,59 @@
 [
   {
-    "id": "0a71991a89999b2f",
-    "title": "Гуменник исполнил пять четверных прыжков. Что происходит на Олимпиаде",
+    "id": "99b6adf01116ed36",
+    "title": "Фигурист Шайдоров принес Казахстану первое за 32 года золото на зимних ОИ",
+    "sport": "Другое",
+    "category": "Фигурное катание",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/2/93/347710215868932.jpeg",
+    "teaser": "Фигурист Шайдоров принес Казахстану первое за 32 года золото на зимних ОИ",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/698fa4fa9a79475a06d0d609",
+    "publishedAt": "2026-02-13T22:34:09.000Z",
+    "createdAt": "2026-02-13T22:39:12.938Z",
+    "updatedAt": "2026-02-13T22:39:12.938Z"
+  },
+  {
+    "id": "f2a27ad3822b15e9",
+    "title": "Малинин без медали, Гуменник в топ-6. Что происходит на Олимпиаде",
     "sport": "Другое",
     "category": "Другие",
     "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/0/18/347710154581180.jpeg",
-    "teaser": "Гуменник исполнил пять четверных прыжков. Что происходит на Олимпиаде",
+    "teaser": "Малинин без медали, Гуменник в топ-6. Что происходит на Олимпиаде",
     "fullContent": "",
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/698ec9319a794772418f23c5",
-    "publishedAt": "2026-02-13T21:34:32.000Z",
-    "createdAt": "2026-02-13T21:41:49.988Z",
-    "updatedAt": "2026-02-13T21:41:49.988Z"
+    "publishedAt": "2026-02-13T22:05:31.000Z",
+    "createdAt": "2026-02-13T22:39:11.769Z",
+    "updatedAt": "2026-02-13T22:39:11.769Z"
+  },
+  {
+    "id": "d18d35168128661a",
+    "title": "Малинин в шнурках Овечкина сенсационно проиграл Олимпиаду",
+    "sport": "Другое",
+    "category": "Фигурное катание",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/5/86/347710203138865.jpeg",
+    "teaser": "Малинин в шнурках Овечкина сенсационно проиграл Олимпиаду",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/698f757c9a7947a1fcd9ce5e",
+    "publishedAt": "2026-02-13T22:02:38.000Z",
+    "createdAt": "2026-02-13T22:39:15.414Z",
+    "updatedAt": "2026-02-13T22:39:15.414Z"
+  },
+  {
+    "id": "87d0e9dc0f0f944c",
+    "title": "Гуменник занял шестое место на Олимпиаде, победил Шайдоров из Казахстана",
+    "sport": "Другое",
+    "category": "Фигурное катание",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/2/82/347710147424822.jpeg",
+    "teaser": "Гуменник занял шестое место на Олимпиаде, победил Шайдоров из Казахстана",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/698f75e39a7947ca6aab979e",
+    "publishedAt": "2026-02-13T22:00:30.000Z",
+    "createdAt": "2026-02-13T22:39:14.281Z",
+    "updatedAt": "2026-02-13T22:39:14.281Z"
   },
   {
     "id": "1f9f80f031e22ed7",
@@ -24,8 +66,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/698f8a329a794737ae05d351",
     "publishedAt": "2026-02-13T21:05:07.000Z",
-    "createdAt": "2026-02-13T21:41:51.029Z",
-    "updatedAt": "2026-02-13T21:41:51.029Z"
+    "createdAt": "2026-02-13T22:39:16.480Z",
+    "updatedAt": "2026-02-13T22:39:16.480Z"
   },
   {
     "id": "082917f3d6cccb12",
@@ -38,8 +80,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/698f851f9a7947850d8b0d25",
     "publishedAt": "2026-02-13T20:31:08.000Z",
-    "createdAt": "2026-02-13T21:41:52.064Z",
-    "updatedAt": "2026-02-13T21:41:52.064Z"
+    "createdAt": "2026-02-13T22:39:17.423Z",
+    "updatedAt": "2026-02-13T22:39:17.423Z"
   },
   {
     "id": "ff7de4f26940aa4e",
@@ -52,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/698f6ff09a794778352c424f",
     "publishedAt": "2026-02-13T20:21:41.000Z",
-    "createdAt": "2026-02-13T21:41:53.974Z",
-    "updatedAt": "2026-02-13T21:41:53.974Z"
+    "createdAt": "2026-02-13T22:39:19.681Z",
+    "updatedAt": "2026-02-13T22:39:19.681Z"
   },
   {
     "id": "80e452f1eb4f333d",
@@ -66,8 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/698f79209a794781d8b961f1",
     "publishedAt": "2026-02-13T20:07:10.000Z",
-    "createdAt": "2026-02-13T21:41:52.944Z",
-    "updatedAt": "2026-02-13T21:41:52.944Z"
+    "createdAt": "2026-02-13T22:39:18.513Z",
+    "updatedAt": "2026-02-13T22:39:18.513Z"
   },
   {
     "id": "0ba6b3270e693512",
@@ -80,8 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/698f72089a79477e4c21c621",
     "publishedAt": "2026-02-13T19:25:19.000Z",
-    "createdAt": "2026-02-13T21:41:55.077Z",
-    "updatedAt": "2026-02-13T21:41:55.077Z"
+    "createdAt": "2026-02-13T22:39:20.858Z",
+    "updatedAt": "2026-02-13T22:39:20.858Z"
   },
   {
     "id": "ad11e2743c26d1ab",
@@ -94,49 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/698f69b19a79478102da93e0",
     "publishedAt": "2026-02-13T19:02:35.000Z",
-    "createdAt": "2026-02-13T21:41:56.164Z",
-    "updatedAt": "2026-02-13T21:41:56.164Z"
-  },
-  {
-    "id": "112370c577f1d2a4",
-    "title": "Шайба обладателя Кубка Гагарина помогла Чехии обыграть Францию на Играх",
-    "sport": "Хоккей",
-    "category": "Хоккей",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/1/79/347710060809791.jpeg",
-    "teaser": "Шайба обладателя Кубка Гагарина помогла Чехии обыграть Францию на Играх",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/698f63cd9a79476c8c5ffdb2",
-    "publishedAt": "2026-02-13T18:21:11.000Z",
-    "createdAt": "2026-02-13T21:41:57.324Z",
-    "updatedAt": "2026-02-13T21:41:57.324Z"
-  },
-  {
-    "id": "f6523b3f65b8a37c",
-    "title": "Гуменник прыгнул пять четверных перед произвольной программой на Играх",
-    "sport": "Другое",
-    "category": "Фигурное катание",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/0/75/347710040323750.jpeg",
-    "teaser": "Гуменник прыгнул пять четверных перед произвольной программой на Играх",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/698f604c9a79471b17f233ab",
-    "publishedAt": "2026-02-13T17:45:59.000Z",
-    "createdAt": "2026-02-13T21:41:58.362Z",
-    "updatedAt": "2026-02-13T21:41:58.362Z"
-  },
-  {
-    "id": "aa0ddeaee9f356f1",
-    "title": "Сменивший гражданство россиянин выиграл серебро на Олимпиаде",
-    "sport": "Другое",
-    "category": "Другие",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/3/62/347709986340623.jpeg",
-    "teaser": "Сменивший гражданство россиянин выиграл серебро на Олимпиаде",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/698f4afd9a7947065c43738c",
-    "publishedAt": "2026-02-13T16:58:29.000Z",
-    "createdAt": "2026-02-13T21:41:59.882Z",
-    "updatedAt": "2026-02-13T21:41:59.882Z"
+    "createdAt": "2026-02-13T22:39:22.068Z",
+    "updatedAt": "2026-02-13T22:39:22.068Z"
   }
 ]
