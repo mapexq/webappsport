@@ -1,5 +1,61 @@
 [
   {
+    "id": "4aa9e052485bed18",
+    "title": "МОК разрешил флаг России на шлеме. Что происходит на Олимпиаде",
+    "sport": "Другое",
+    "category": "Другие",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/3/71/347709859197713.jpeg",
+    "teaser": "МОК разрешил флаг России на шлеме. Что происходит на Олимпиаде",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/698ec9319a794772418f23c5",
+    "publishedAt": "2026-02-13T15:46:35.000Z",
+    "createdAt": "2026-02-13T15:50:12.566Z",
+    "updatedAt": "2026-02-13T15:50:12.566Z"
+  },
+  {
+    "id": "523ac3b090b0d37e",
+    "title": "Назвавшего «чебуродами» хоккеистов из Казахстана комментатора оштрафовали",
+    "sport": "Хоккей",
+    "category": "Хоккей",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/6/25/347709957501256.jpeg",
+    "teaser": "Назвавшего «чебуродами» хоккеистов из Казахстана комментатора оштрафовали",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/698f3b909a79474dbb894dc0",
+    "publishedAt": "2026-02-13T15:30:49.000Z",
+    "createdAt": "2026-02-13T15:50:14.632Z",
+    "updatedAt": "2026-02-13T15:50:14.632Z"
+  },
+  {
+    "id": "7541acacb17daef8",
+    "title": "Украинский скелетонист заявил, что Россия празднует его отстранение с Игр",
+    "sport": "Другое",
+    "category": "Другие",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/2/13/347709944773132.jpeg",
+    "teaser": "Украинский скелетонист заявил, что Россия празднует его отстранение с Игр",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/698f3aea9a79471a922d08cf",
+    "publishedAt": "2026-02-13T15:11:37.000Z",
+    "createdAt": "2026-02-13T15:50:13.656Z",
+    "updatedAt": "2026-02-13T15:50:13.656Z"
+  },
+  {
+    "id": "ec490d38756b8997",
+    "title": "Коростелев остался недоволен состоянием трассы «разделки» на Играх",
+    "sport": "Другое",
+    "category": "Другие",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/2/83/347709942141832.jpeg",
+    "teaser": "Коростелев остался недоволен состоянием трассы «разделки» на Играх",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/698f332f9a794730b526dd43",
+    "publishedAt": "2026-02-13T14:54:02.000Z",
+    "createdAt": "2026-02-13T15:50:15.678Z",
+    "updatedAt": "2026-02-13T15:50:15.678Z"
+  },
+  {
     "id": "d09917340a9eed90",
     "title": "Овечкин назвал «невосполнимой утратой» смерть своего первого тренера",
     "sport": "Хоккей",
@@ -10,22 +66,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/698f2d6b9a7947cdb6cfa702",
     "publishedAt": "2026-02-13T14:34:24.000Z",
-    "createdAt": "2026-02-13T14:48:11.559Z",
-    "updatedAt": "2026-02-13T14:48:11.559Z"
-  },
-  {
-    "id": "c1909884cfec8032",
-    "title": "Повторение рекорда по золотым медалям. Что происходит на Олимпиаде",
-    "sport": "Другое",
-    "category": "Другие",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/3/71/347709859197713.jpeg",
-    "teaser": "Повторение рекорда по золотым медалям. Что происходит на Олимпиаде",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/698ec9319a794772418f23c5",
-    "publishedAt": "2026-02-13T14:30:09.000Z",
-    "createdAt": "2026-02-13T14:48:10.359Z",
-    "updatedAt": "2026-02-13T14:48:10.359Z"
+    "createdAt": "2026-02-13T15:50:16.707Z",
+    "updatedAt": "2026-02-13T15:50:16.707Z"
   },
   {
     "id": "116178dc0f7c717a",
@@ -38,8 +80,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/698f26fc9a79472cf014242a",
     "publishedAt": "2026-02-13T14:15:56.000Z",
-    "createdAt": "2026-02-13T14:48:12.575Z",
-    "updatedAt": "2026-02-13T14:48:12.575Z"
+    "createdAt": "2026-02-13T15:50:17.769Z",
+    "updatedAt": "2026-02-13T15:50:17.769Z"
   },
   {
     "id": "52a35a67b3482598",
@@ -52,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/698f2e5d9a7947cc7d460bff",
     "publishedAt": "2026-02-13T14:08:31.000Z",
-    "createdAt": "2026-02-13T14:48:16.743Z",
-    "updatedAt": "2026-02-13T14:48:16.743Z"
+    "createdAt": "2026-02-13T15:50:21.903Z",
+    "updatedAt": "2026-02-13T15:50:21.903Z"
   },
   {
     "id": "882b0ec2d7903ede",
@@ -66,8 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/698f25909a7947394acf192d",
     "publishedAt": "2026-02-13T14:06:59.000Z",
-    "createdAt": "2026-02-13T14:48:13.577Z",
-    "updatedAt": "2026-02-13T14:48:13.577Z"
+    "createdAt": "2026-02-13T15:50:18.799Z",
+    "updatedAt": "2026-02-13T15:50:18.799Z"
   },
   {
     "id": "324bf5b1c1e0ca7c",
@@ -80,11 +122,11 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/698c64ea9a79478422c537e7",
     "publishedAt": "2026-02-13T14:04:18.000Z",
-    "createdAt": "2026-02-13T14:48:15.668Z",
-    "updatedAt": "2026-02-13T14:48:15.668Z"
+    "createdAt": "2026-02-13T15:50:20.859Z",
+    "updatedAt": "2026-02-13T15:50:20.859Z"
   },
   {
-    "id": "0ebfa62aca62168d",
+    "id": "00c150074431f1cd",
     "title": "Французский биатлонист Фийон Майе завоевал золото в спринте на Олимпиаде",
     "sport": "Другое",
     "category": "Биатлон",
@@ -93,50 +135,8 @@
     "fullContent": "",
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/698f2adf9a794761e0de80bd",
-    "publishedAt": "2026-02-13T13:57:10.000Z",
-    "createdAt": "2026-02-13T14:48:14.635Z",
-    "updatedAt": "2026-02-13T14:48:14.635Z"
-  },
-  {
-    "id": "e9327b7fb743814e",
-    "title": "Девятилетняя дочь Бьорндалена выступила за сборную Минска по биатлону",
-    "sport": "Другое",
-    "category": "Биатлон",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/3/71/347709883569713.jpeg",
-    "teaser": "Девятилетняя дочь Бьорндалена выступила за сборную Минска по биатлону",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/698f1ee69a7947205e454b35",
-    "publishedAt": "2026-02-13T13:29:54.000Z",
-    "createdAt": "2026-02-13T14:48:17.753Z",
-    "updatedAt": "2026-02-13T14:48:17.753Z"
-  },
-  {
-    "id": "a90284363b7aa054",
-    "title": "Коростелев заявил о космическом уровне призеров «разделки» на Олимпиаде",
-    "sport": "Другое",
-    "category": "Другие",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/0/47/347709881542470.jpeg",
-    "teaser": "Коростелев заявил о космическом уровне призеров «разделки» на Олимпиаде",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/698f22469a794711ae030dd7",
-    "publishedAt": "2026-02-13T13:15:44.000Z",
-    "createdAt": "2026-02-13T14:48:19.859Z",
-    "updatedAt": "2026-02-13T14:48:19.859Z"
-  },
-  {
-    "id": "d10e03dc3e15f26b",
-    "title": "Малинин исполнил сальто на Олимпиаде. Почему элемент был запрещен",
-    "sport": "Другое",
-    "category": "Фигурное катание",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/4/94/347708188792944.jpeg",
-    "teaser": "Малинин исполнил сальто на Олимпиаде. Почему элемент был запрещен",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/698c64b99a79472f1b020517",
-    "publishedAt": "2026-02-13T13:12:27.000Z",
-    "createdAt": "2026-02-13T14:48:18.850Z",
-    "updatedAt": "2026-02-13T14:48:18.850Z"
+    "publishedAt": "2026-02-13T13:57:11.000Z",
+    "createdAt": "2026-02-13T15:50:19.819Z",
+    "updatedAt": "2026-02-13T15:50:19.819Z"
   }
 ]
