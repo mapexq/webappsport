@@ -1,5 +1,33 @@
 [
   {
+    "id": "e921c181f979e98e",
+    "title": "Неудача россиянина в шорт-треке. Что происходит на Олимпиаде",
+    "sport": "Другое",
+    "category": "Другие",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/1/79/347710972188791.jpeg",
+    "teaser": "Неудача россиянина в шорт-треке. Что происходит на Олимпиаде",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69904a179a7947990a8d8797",
+    "publishedAt": "2026-02-14T19:25:05.000Z",
+    "createdAt": "2026-02-14T19:29:17.234Z",
+    "updatedAt": "2026-02-14T19:29:17.234Z"
+  },
+  {
+    "id": "de13719173f5c727",
+    "title": "Посашков не вышел в полуфинал в шорт-треке на 1500 м на Олимпиаде",
+    "sport": "Другое",
+    "category": "Другие",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/4/92/347710934524924.jpeg",
+    "teaser": "Посашков не вышел в полуфинал в шорт-треке на 1500 м на Олимпиаде",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6990bd619a79474445f56f13",
+    "publishedAt": "2026-02-14T19:24:06.000Z",
+    "createdAt": "2026-02-14T19:29:18.228Z",
+    "updatedAt": "2026-02-14T19:29:18.228Z"
+  },
+  {
     "id": "af5b080d7fb84417",
     "title": "Гуменник вошел в сезонный рейтинг ISU после Олимпиады",
     "sport": "Другое",
@@ -10,8 +38,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6990bc1c9a79474566d64ac2",
     "publishedAt": "2026-02-14T18:34:10.000Z",
-    "createdAt": "2026-02-14T18:42:53.128Z",
-    "updatedAt": "2026-02-14T18:42:53.128Z"
+    "createdAt": "2026-02-14T19:29:20.332Z",
+    "updatedAt": "2026-02-14T19:29:20.332Z"
   },
   {
     "id": "26970ad40a12da36",
@@ -24,22 +52,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6990b63b9a79479bf96cba31",
     "publishedAt": "2026-02-14T18:19:41.000Z",
-    "createdAt": "2026-02-14T18:42:52.156Z",
-    "updatedAt": "2026-02-14T18:42:52.156Z"
-  },
-  {
-    "id": "cd8e74fc1ec941db",
-    "title": "Игроки КХЛ вывели Словакию в четвертьфинал. Что происходит на Олимпиаде",
-    "sport": "Другое",
-    "category": "Другие",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/9/28/347710929837289.jpeg",
-    "teaser": "Игроки КХЛ вывели Словакию в четвертьфинал. Что происходит на Олимпиаде",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69904a179a7947990a8d8797",
-    "publishedAt": "2026-02-14T18:10:34.000Z",
-    "createdAt": "2026-02-14T18:42:51.198Z",
-    "updatedAt": "2026-02-14T18:42:51.199Z"
+    "createdAt": "2026-02-14T19:29:19.354Z",
+    "updatedAt": "2026-02-14T19:29:19.354Z"
   },
   {
     "id": "8094d92f6dea345f",
@@ -52,8 +66,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6990b1719a79475c68131c83",
     "publishedAt": "2026-02-14T18:09:51.000Z",
-    "createdAt": "2026-02-14T18:42:54.083Z",
-    "updatedAt": "2026-02-14T18:42:54.083Z"
+    "createdAt": "2026-02-14T19:29:21.478Z",
+    "updatedAt": "2026-02-14T19:29:21.478Z"
   },
   {
     "id": "e08bcd8c6d7204f3",
@@ -66,8 +80,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6990b7009a79479dff5b9733",
     "publishedAt": "2026-02-14T18:06:15.000Z",
-    "createdAt": "2026-02-14T18:42:55.100Z",
-    "updatedAt": "2026-02-14T18:42:55.100Z"
+    "createdAt": "2026-02-14T19:29:22.565Z",
+    "updatedAt": "2026-02-14T19:29:22.565Z"
   },
   {
     "id": "a63ccc8c12c55f31",
@@ -80,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6990b0039a7947f80bffd55d",
     "publishedAt": "2026-02-14T17:47:31.000Z",
-    "createdAt": "2026-02-14T18:42:56.048Z",
-    "updatedAt": "2026-02-14T18:42:56.048Z"
+    "createdAt": "2026-02-14T19:29:23.616Z",
+    "updatedAt": "2026-02-14T19:29:23.616Z"
   },
   {
     "id": "ca88d6dfa2399f8a",
@@ -94,8 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6990ac849a794748666c7f4f",
     "publishedAt": "2026-02-14T17:25:13.000Z",
-    "createdAt": "2026-02-14T18:42:56.860Z",
-    "updatedAt": "2026-02-14T18:42:56.860Z"
+    "createdAt": "2026-02-14T19:29:24.645Z",
+    "updatedAt": "2026-02-14T19:29:24.645Z"
   },
   {
     "id": "4a3bc000968c2292",
@@ -108,22 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6990a8039a794708f8c39bf6",
     "publishedAt": "2026-02-14T17:13:56.000Z",
-    "createdAt": "2026-02-14T18:42:57.809Z",
-    "updatedAt": "2026-02-14T18:42:57.809Z"
-  },
-  {
-    "id": "02cbf3af0a49dc47",
-    "title": "В World Curling ответили на слова шведов о жульничестве Канады на Играх",
-    "sport": "Другое",
-    "category": "Другие",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/5/87/347710871718875.jpeg",
-    "teaser": "В World Curling ответили на слова шведов о жульничестве Канады на Играх",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6990a35b9a7947046a7be836",
-    "publishedAt": "2026-02-14T16:58:19.000Z",
-    "createdAt": "2026-02-14T18:42:59.780Z",
-    "updatedAt": "2026-02-14T18:42:59.780Z"
+    "createdAt": "2026-02-14T19:29:25.755Z",
+    "updatedAt": "2026-02-14T19:29:25.755Z"
   },
   {
     "id": "1f0c5c19d491c025",
@@ -136,7 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69909d5a9a79476786526907",
     "publishedAt": "2026-02-14T16:42:28.000Z",
-    "createdAt": "2026-02-14T18:42:58.815Z",
-    "updatedAt": "2026-02-14T18:42:58.815Z"
+    "createdAt": "2026-02-14T19:29:26.793Z",
+    "updatedAt": "2026-02-14T19:29:26.793Z"
   }
 ]
