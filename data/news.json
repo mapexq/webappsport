@@ -1,5 +1,61 @@
 [
   {
+    "id": "dc4feba8e630650d",
+    "title": "Фигуристка Аделия Петросян выйдет второй на короткую программу на Играх",
+    "sport": "Другое",
+    "category": "Фигурное катание",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/7/47/347711663723477.png",
+    "teaser": "Фигуристка Аделия Петросян выйдет второй на короткую программу на Играх",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6991da559a794743ec0f9f6d",
+    "publishedAt": "2026-02-15T15:11:58.000Z",
+    "createdAt": "2026-02-15T15:31:34.503Z",
+    "updatedAt": "2026-02-15T15:31:34.503Z"
+  },
+  {
+    "id": "806a21d2f549050c",
+    "title": "Петросян перед вылетом на Олимпиаду тренировала четверной тулуп",
+    "sport": "Другое",
+    "category": "Фигурное катание",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/5/47/347711650452475.jpeg",
+    "teaser": "Петросян перед вылетом на Олимпиаду тренировала четверной тулуп",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6991d3b59a7947110443df77",
+    "publishedAt": "2026-02-15T14:48:08.000Z",
+    "createdAt": "2026-02-15T15:31:36.623Z",
+    "updatedAt": "2026-02-15T15:31:36.623Z"
+  },
+  {
+    "id": "0035d81488564b9d",
+    "title": "Шнайдер победила в первом круге теннисного турнира WTA-1000 в Дубае",
+    "sport": "Теннис",
+    "category": "Теннис",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/7/37/347711664026377.jpeg",
+    "teaser": "Шнайдер победила в первом круге теннисного турнира WTA-1000 в Дубае",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6991d7469a79473039a9af06",
+    "publishedAt": "2026-02-15T14:45:05.000Z",
+    "createdAt": "2026-02-15T15:31:41.065Z",
+    "updatedAt": "2026-02-15T15:31:41.065Z"
+  },
+  {
+    "id": "9405edb0821cb143",
+    "title": "Британские спортсмены взяли золото в миксте в сноуборд-кроссе на Играх",
+    "sport": "Другое",
+    "category": "Другие",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/2/80/347711649607802.jpeg",
+    "teaser": "Британские спортсмены взяли золото в миксте в сноуборд-кроссе на Играх",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6991d2199a79476ed96a61ab",
+    "publishedAt": "2026-02-15T14:35:06.000Z",
+    "createdAt": "2026-02-15T15:31:42.174Z",
+    "updatedAt": "2026-02-15T15:31:42.174Z"
+  },
+  {
     "id": "73ef97752f36863d",
     "title": "Олимпийские чемпионы рассказали, где хранят свои медали",
     "sport": "Другое",
@@ -10,8 +66,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6991c9a69a79473992d293cd",
     "publishedAt": "2026-02-15T14:29:59.000Z",
-    "createdAt": "2026-02-15T14:33:44.876Z",
-    "updatedAt": "2026-02-15T14:33:44.876Z"
+    "createdAt": "2026-02-15T15:31:35.622Z",
+    "updatedAt": "2026-02-15T15:31:35.622Z"
   },
   {
     "id": "640091f4a0125a4a",
@@ -24,22 +80,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6991c6a39a794775eb0b0631",
     "publishedAt": "2026-02-15T14:20:54.000Z",
-    "createdAt": "2026-02-15T14:33:48.776Z",
-    "updatedAt": "2026-02-15T14:33:48.776Z"
-  },
-  {
-    "id": "1a38681d0756644e",
-    "title": "Хет-трик Спронга помог «Автомобилисту» разгромить «Металлург» в КХЛ",
-    "sport": "Хоккей",
-    "category": "Хоккей",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/8/55/347711642057558.jpeg",
-    "teaser": "Хет-трик Спронга помог «Автомобилисту» разгромить «Металлург» в КХЛ",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6991ce839a794700b0f20e34",
-    "publishedAt": "2026-02-15T14:20:18.000Z",
-    "createdAt": "2026-02-15T14:33:50.858Z",
-    "updatedAt": "2026-02-15T14:33:50.858Z"
+    "createdAt": "2026-02-15T15:31:43.295Z",
+    "updatedAt": "2026-02-15T15:31:43.295Z"
   },
   {
     "id": "a5c6238e616cfbc8",
@@ -52,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6991c90e9a794796dfaf06cc",
     "publishedAt": "2026-02-15T14:01:16.000Z",
-    "createdAt": "2026-02-15T14:33:46.926Z",
-    "updatedAt": "2026-02-15T14:33:46.926Z"
+    "createdAt": "2026-02-15T15:31:38.872Z",
+    "updatedAt": "2026-02-15T15:31:38.872Z"
   },
   {
     "id": "206781196c1388a0",
@@ -66,8 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6991c3c99a7947efc7e83d14",
     "publishedAt": "2026-02-15T13:34:06.000Z",
-    "createdAt": "2026-02-15T14:33:45.913Z",
-    "updatedAt": "2026-02-15T14:33:45.913Z"
+    "createdAt": "2026-02-15T15:31:37.752Z",
+    "updatedAt": "2026-02-15T15:31:37.752Z"
   },
   {
     "id": "66a0c5895671aca7",
@@ -80,22 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69918d789a7947091d79c3ab",
     "publishedAt": "2026-02-15T13:29:02.000Z",
-    "createdAt": "2026-02-15T14:33:47.960Z",
-    "updatedAt": "2026-02-15T14:33:47.960Z"
-  },
-  {
-    "id": "7d56a075e54f3532",
-    "title": "Медальный зачет Олимпиады-2026 в Италии",
-    "sport": "Другое",
-    "category": "Другие",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/0/78/347705612962780.jpeg",
-    "teaser": "Медальный зачет Олимпиады-2026 в Италии",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/698886229a79474a81540f8b",
-    "publishedAt": "2026-02-15T13:16:59.000Z",
-    "createdAt": "2026-02-15T14:33:52.692Z",
-    "updatedAt": "2026-02-15T14:33:52.692Z"
+    "createdAt": "2026-02-15T15:31:39.996Z",
+    "updatedAt": "2026-02-15T15:31:39.996Z"
   },
   {
     "id": "d909a45f7aa5cd26",
@@ -108,35 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6991b63e9a7947574f343f8f",
     "publishedAt": "2026-02-15T13:13:10.000Z",
-    "createdAt": "2026-02-15T14:33:49.838Z",
-    "updatedAt": "2026-02-15T14:33:49.838Z"
-  },
-  {
-    "id": "a5c6806a6e3fe3fe",
-    "title": "Клебо взял рекордное девятое золото зимней Олимпиады",
-    "sport": "Другое",
-    "category": "Другие",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/6/29/347711565282296.jpeg",
-    "teaser": "Клебо взял рекордное девятое золото зимней Олимпиады",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6991b4149a7947574f343f85",
-    "publishedAt": "2026-02-15T12:11:45.000Z",
-    "createdAt": "2026-02-15T14:33:53.668Z",
-    "updatedAt": "2026-02-15T14:33:53.668Z"
-  },
-  {
-    "id": "d492c5922afd9a6c",
-    "title": "Австрийского прыгуна с трамплина дисквалифицировали на Играх из-за обуви",
-    "sport": "Другое",
-    "category": "Другие",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/9/85/347711517220859.jpeg",
-    "teaser": "Австрийского прыгуна с трамплина дисквалифицировали на Играх из-за обуви",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69919b0a9a7947a6cefbbd43",
-    "publishedAt": "2026-02-15T11:17:53.000Z",
-    "createdAt": "2026-02-15T14:33:51.669Z",
-    "updatedAt": "2026-02-15T14:33:51.669Z"
+    "createdAt": "2026-02-15T15:31:44.417Z",
+    "updatedAt": "2026-02-15T15:31:44.417Z"
   }
 ]
