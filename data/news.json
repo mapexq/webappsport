@@ -1,5 +1,61 @@
 [
   {
+    "id": "17a0b70f51a9cd5c",
+    "title": "Вратарь ЦСКА стал лучшим на неделе в КХЛ после шатаута со «Спартаком»",
+    "sport": "Хоккей",
+    "category": "Хоккей",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/4/20/347712347952204.png",
+    "teaser": "Вратарь ЦСКА стал лучшим на неделе в КХЛ после шатаута со «Спартаком»",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6992e1299a79476a00b4b1c5",
+    "publishedAt": "2026-02-16T09:44:47.000Z",
+    "createdAt": "2026-02-16T10:03:29.700Z",
+    "updatedAt": "2026-02-16T10:03:29.700Z"
+  },
+  {
+    "id": "4c9763d12399a98f",
+    "title": "Отравление биатлонисток. Что происходит на Олимпиаде",
+    "sport": "Другое",
+    "category": "Другие",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/4/57/347712288544574.jpeg",
+    "teaser": "Отравление биатлонисток. Что происходит на Олимпиаде",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6992c7999a79477303d3f97f",
+    "publishedAt": "2026-02-16T08:15:47.000Z",
+    "createdAt": "2026-02-16T10:03:28.628Z",
+    "updatedAt": "2026-02-16T10:03:28.628Z"
+  },
+  {
+    "id": "4133017f5416c29c",
+    "title": "За кем из россиян стоит следить на десятый день Олимпиады-2026",
+    "sport": "Другое",
+    "category": "Другие",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/6/49/347711541159496.jpeg",
+    "teaser": "За кем из россиян стоит следить на десятый день Олимпиады-2026",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6991880e9a79471f32c81285",
+    "publishedAt": "2026-02-16T05:00:46.000Z",
+    "createdAt": "2026-02-16T10:03:30.823Z",
+    "updatedAt": "2026-02-16T10:03:30.823Z"
+  },
+  {
+    "id": "7533adf5bb195efc",
+    "title": "Сборная США по хоккею напрямую вышла в 1/4 финала, обыграв Германию на ОИ",
+    "sport": "Хоккей",
+    "category": "Хоккей",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/8/89/347711919420898.jpeg",
+    "teaser": "Сборная США по хоккею напрямую вышла в 1/4 финала, обыграв Германию на ОИ",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/699224ff9a794732fb25769d",
+    "publishedAt": "2026-02-15T22:43:39.000Z",
+    "createdAt": "2026-02-16T10:03:33.073Z",
+    "updatedAt": "2026-02-16T10:03:33.073Z"
+  },
+  {
     "id": "2d42efd5809df10d",
     "title": "Канадские хоккеисты повторили рекорд россиян. Что происходит на Олимпиаде",
     "sport": "Другое",
@@ -10,8 +66,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69918d789a7947091d79c3ab",
     "publishedAt": "2026-02-15T19:50:38.000Z",
-    "createdAt": "2026-02-16T08:57:19.519Z",
-    "updatedAt": "2026-02-16T08:57:19.519Z"
+    "createdAt": "2026-02-16T10:03:36.487Z",
+    "updatedAt": "2026-02-16T10:03:36.487Z"
   },
   {
     "id": "3de819446c119838",
@@ -24,8 +80,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/699213189a79473d93621fd5",
     "publishedAt": "2026-02-15T19:03:51.000Z",
-    "createdAt": "2026-02-16T08:57:17.463Z",
-    "updatedAt": "2026-02-16T08:57:17.463Z"
+    "createdAt": "2026-02-16T10:03:34.223Z",
+    "updatedAt": "2026-02-16T10:03:34.223Z"
   },
   {
     "id": "5a307403d9b31985",
@@ -38,22 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6992040f9a7947bb746df11f",
     "publishedAt": "2026-02-15T18:29:09.000Z",
-    "createdAt": "2026-02-16T08:57:16.384Z",
-    "updatedAt": "2026-02-16T08:57:16.384Z"
-  },
-  {
-    "id": "a357b6c2d28d2564",
-    "title": "«Звезды мира» обыграли «Звезд России» в 10-м Матче звезд Единой лиги ВТБ",
-    "sport": "Баскетбол",
-    "category": "Баскетбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/0/22/347711777511220.jpeg",
-    "teaser": "«Звезды мира» обыграли «Звезд России» в 10-м Матче звезд Единой лиги ВТБ",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6991fbb79a794776bb3dac8c",
-    "publishedAt": "2026-02-15T17:50:09.000Z",
-    "createdAt": "2026-02-16T08:57:26.173Z",
-    "updatedAt": "2026-02-16T08:57:26.173Z"
+    "createdAt": "2026-02-16T10:03:31.934Z",
+    "updatedAt": "2026-02-16T10:03:31.934Z"
   },
   {
     "id": "04a301a378996ff8",
@@ -66,8 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6991f9149a7947f883a7ee16",
     "publishedAt": "2026-02-15T17:15:28.000Z",
-    "createdAt": "2026-02-16T08:57:20.941Z",
-    "updatedAt": "2026-02-16T08:57:20.941Z"
+    "createdAt": "2026-02-16T10:03:37.590Z",
+    "updatedAt": "2026-02-16T10:03:37.590Z"
   },
   {
     "id": "c6cc2307d0afae5e",
@@ -80,36 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6991e89a9a79479e4fcbe338",
     "publishedAt": "2026-02-15T17:06:00.000Z",
-    "createdAt": "2026-02-16T08:57:18.502Z",
-    "updatedAt": "2026-02-16T08:57:18.502Z"
-  },
-  {
-    "id": "4c34b705dd095127",
-    "title": "Клуб чемпионата Англии назначил четвертого тренера за сезон",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/6/21/347711694695216.jpeg",
-    "teaser": "Клуб чемпионата Англии назначил четвертого тренера за сезон",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6991df6e9a7947a404e59218",
-    "publishedAt": "2026-02-15T15:52:57.000Z",
-    "createdAt": "2026-02-16T08:57:24.041Z",
-    "updatedAt": "2026-02-16T08:57:24.041Z"
-  },
-  {
-    "id": "f19763a6e2df4100",
-    "title": "IBU ответил на слова Майгурова о возврате медалей и отстранении россиян",
-    "sport": "Другое",
-    "category": "Биатлон",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/1/54/347711669789541.jpeg",
-    "teaser": "IBU ответил на слова Майгурова о возврате медалей и отстранении россиян",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6991dc6f9a79479283c0f4b4",
-    "publishedAt": "2026-02-15T15:24:34.000Z",
-    "createdAt": "2026-02-16T08:57:25.126Z",
-    "updatedAt": "2026-02-16T08:57:25.126Z"
+    "createdAt": "2026-02-16T10:03:35.352Z",
+    "updatedAt": "2026-02-16T10:03:35.352Z"
   },
   {
     "id": "dc4feba8e630650d",
@@ -122,21 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6991da559a794743ec0f9f6d",
     "publishedAt": "2026-02-15T15:11:58.000Z",
-    "createdAt": "2026-02-16T08:57:21.994Z",
-    "updatedAt": "2026-02-16T08:57:21.994Z"
-  },
-  {
-    "id": "12d6170eb9d7c5aa",
-    "title": "Призеры Олимпиад рассказали, где хранят свои медали",
-    "sport": "Другое",
-    "category": "Другие",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/1/49/347711631195491.jpeg",
-    "teaser": "Призеры Олимпиад рассказали, где хранят свои медали",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6991c9a69a79473992d293cd",
-    "publishedAt": "2026-02-15T14:29:59.000Z",
-    "createdAt": "2026-02-16T08:57:23.019Z",
-    "updatedAt": "2026-02-16T08:57:23.019Z"
+    "createdAt": "2026-02-16T10:03:38.730Z",
+    "updatedAt": "2026-02-16T10:03:38.730Z"
   }
 ]
