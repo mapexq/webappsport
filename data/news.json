@@ -1,5 +1,89 @@
 [
   {
+    "id": "563a61d74e663765",
+    "title": "Головин в матче ЛЧ с ПСЖ получил вторую красную карточку за пять дней",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/6/26/347713628284266.jpeg",
+    "teaser": "Головин в матче ЛЧ с ПСЖ получил вторую красную карточку за пять дней",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6994d9fc9a7947448e9f792e",
+    "publishedAt": "2026-02-17T21:30:19.000Z",
+    "createdAt": "2026-02-17T21:41:01.613Z",
+    "updatedAt": "2026-02-17T21:41:01.613Z"
+  },
+  {
+    "id": "a9d2b8ec82456100",
+    "title": "Петросян лишилась лидерства. Что происходит на Олимпиаде",
+    "sport": "Другое",
+    "category": "Фигурное катание",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/0/23/347713503053230.jpeg",
+    "teaser": "Петросян лишилась лидерства. Что происходит на Олимпиаде",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6994298f9a794752f1f38e33",
+    "publishedAt": "2026-02-17T21:16:07.000Z",
+    "createdAt": "2026-02-17T21:40:59.913Z",
+    "updatedAt": "2026-02-17T21:40:59.913Z"
+  },
+  {
+    "id": "7cb24366f11737e0",
+    "title": "Немецкие бобслеисты заняли весь пьедестал в двойках на Олимпиаде",
+    "sport": "Другое",
+    "category": "Другие",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/3/70/347713616282703.jpeg",
+    "teaser": "Немецкие бобслеисты заняли весь пьедестал в двойках на Олимпиаде",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6994d0439a79472a181b538b",
+    "publishedAt": "2026-02-17T21:06:49.000Z",
+    "createdAt": "2026-02-17T21:41:06.599Z",
+    "updatedAt": "2026-02-17T21:41:06.599Z"
+  },
+  {
+    "id": "6225a643efbb8f64",
+    "title": "Вице-президент ISU отреагировал на дебют Петросян на Олимпиаде",
+    "sport": "Другое",
+    "category": "Фигурное катание",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/4/49/347713568722494.jpeg",
+    "teaser": "Вице-президент ISU отреагировал на дебют Петросян на Олимпиаде",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6994c2409a7947978e974a71",
+    "publishedAt": "2026-02-17T20:59:03.000Z",
+    "createdAt": "2026-02-17T21:41:04.543Z",
+    "updatedAt": "2026-02-17T21:41:04.543Z"
+  },
+  {
+    "id": "194dfb17e30316f0",
+    "title": "Леонова назвала причину уверенности Петросян на Олимпиаде",
+    "sport": "Другое",
+    "category": "Другие",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/4/56/347713581349564.jpeg",
+    "teaser": "Леонова назвала причину уверенности Петросян на Олимпиаде",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6994c77a9a79474814ad9c11",
+    "publishedAt": "2026-02-17T20:48:25.000Z",
+    "createdAt": "2026-02-17T21:41:05.554Z",
+    "updatedAt": "2026-02-17T21:41:05.554Z"
+  },
+  {
+    "id": "240916fc7c3da4a4",
+    "title": "Жулин назвал причины заниженных оценок Петросян на Олимпиаде в Италии",
+    "sport": "Другое",
+    "category": "Другие",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/9/83/347713559735839.jpeg",
+    "teaser": "Жулин назвал причины заниженных оценок Петросян на Олимпиаде в Италии",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6994be2f9a7947d9887a9d69",
+    "publishedAt": "2026-02-17T20:46:54.000Z",
+    "createdAt": "2026-02-17T21:41:02.516Z",
+    "updatedAt": "2026-02-17T21:41:02.516Z"
+  },
+  {
     "id": "907e9fb23fd7b2cb",
     "title": "Петросян рассказала, что не живет в Олимпийской деревне",
     "sport": "Другое",
@@ -10,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6994cd509a79471691050651",
     "publishedAt": "2026-02-17T20:37:12.000Z",
-    "createdAt": "2026-02-17T20:44:40.833Z",
-    "updatedAt": "2026-02-17T20:44:40.833Z"
+    "createdAt": "2026-02-17T21:41:08.631Z",
+    "updatedAt": "2026-02-17T21:41:08.631Z"
   },
   {
     "id": "61329304545aa7af",
@@ -24,8 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6994cb799a794767bdb73529",
     "publishedAt": "2026-02-17T20:26:42.000Z",
-    "createdAt": "2026-02-17T20:44:41.943Z",
-    "updatedAt": "2026-02-17T20:44:41.943Z"
+    "createdAt": "2026-02-17T21:41:07.604Z",
+    "updatedAt": "2026-02-17T21:41:07.604Z"
   },
   {
     "id": "52071debd80e10be",
@@ -38,64 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6994c8df9a79472b109ccd5c",
     "publishedAt": "2026-02-17T20:21:23.000Z",
-    "createdAt": "2026-02-17T20:44:44.205Z",
-    "updatedAt": "2026-02-17T20:44:44.205Z"
-  },
-  {
-    "id": "526cd06287429ecb",
-    "title": "Петросян остается лидером после трех разминок. Что происходит на Играх",
-    "sport": "Другое",
-    "category": "Фигурное катание",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/0/23/347713503053230.jpeg",
-    "teaser": "Петросян остается лидером после трех разминок. Что происходит на Играх",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6994298f9a794752f1f38e33",
-    "publishedAt": "2026-02-17T20:15:45.000Z",
-    "createdAt": "2026-02-17T20:44:39.729Z",
-    "updatedAt": "2026-02-17T20:44:39.729Z"
-  },
-  {
-    "id": "e4ec568b7dca80c9",
-    "title": "«Ювентус» впервые за 68 лет пропустил пять голов в Лиге чемпионов",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/6/36/347713575891366.jpeg",
-    "teaser": "«Ювентус» впервые за 68 лет пропустил пять голов в Лиге чемпионов",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6994c55c9a7947b0360c48a6",
-    "publishedAt": "2026-02-17T20:04:11.000Z",
-    "createdAt": "2026-02-17T20:44:45.281Z",
-    "updatedAt": "2026-02-17T20:44:45.281Z"
-  },
-  {
-    "id": "27f859679e6e269e",
-    "title": "В ISU восхитились прокатом Петросян в короткой программе на Олимпиаде",
-    "sport": "Другое",
-    "category": "Фигурное катание",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/3/29/347713562666293.jpeg",
-    "teaser": "В ISU восхитились прокатом Петросян в короткой программе на Олимпиаде",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6994c01f9a7947ca5b9044b0",
-    "publishedAt": "2026-02-17T19:29:25.000Z",
-    "createdAt": "2026-02-17T20:44:46.391Z",
-    "updatedAt": "2026-02-17T20:44:46.391Z"
-  },
-  {
-    "id": "5f74d31567cbfeb2",
-    "title": "Бестемьянова оценила работу операторов во время проката Петросян на ОИ",
-    "sport": "Другое",
-    "category": "Фигурное катание",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/3/68/347713544664683.jpeg",
-    "teaser": "Бестемьянова оценила работу операторов во время проката Петросян на ОИ",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6994b6609a794798a679b934",
-    "publishedAt": "2026-02-17T19:07:15.000Z",
-    "createdAt": "2026-02-17T20:44:47.459Z",
-    "updatedAt": "2026-02-17T20:44:47.459Z"
+    "createdAt": "2026-02-17T21:41:09.650Z",
+    "updatedAt": "2026-02-17T21:41:09.650Z"
   },
   {
     "id": "936987f3aab0c348",
@@ -108,35 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6994a2cd9a7947a0060d9daa",
     "publishedAt": "2026-02-17T18:48:58.000Z",
-    "createdAt": "2026-02-17T20:44:43.065Z",
-    "updatedAt": "2026-02-17T20:44:43.065Z"
-  },
-  {
-    "id": "e1ae87d7cff27ebb",
-    "title": "Петросян назвала свои оценки за короткую программу на ОИ очень хорошими",
-    "sport": "Другое",
-    "category": "Фигурное катание",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/8/09/347713529822098.jpeg",
-    "teaser": "Петросян назвала свои оценки за короткую программу на ОИ очень хорошими",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6994b33a9a79470f525cdf01",
-    "publishedAt": "2026-02-17T18:47:43.000Z",
-    "createdAt": "2026-02-17T20:44:48.589Z",
-    "updatedAt": "2026-02-17T20:44:48.589Z"
-  },
-  {
-    "id": "d4a79ca2d6c483a1",
-    "title": "Тарасова назвала прокат Петросян в короткой программе на ОИ потрясающим",
-    "sport": "Другое",
-    "category": "Фигурное катание",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/5/58/347713526465585.jpeg",
-    "teaser": "Тарасова назвала прокат Петросян в короткой программе на ОИ потрясающим",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6994b14c9a7947222d8c7f59",
-    "publishedAt": "2026-02-17T18:26:08.000Z",
-    "createdAt": "2026-02-17T20:44:49.706Z",
-    "updatedAt": "2026-02-17T20:44:49.706Z"
+    "createdAt": "2026-02-17T21:41:03.537Z",
+    "updatedAt": "2026-02-17T21:41:03.537Z"
   }
 ]
