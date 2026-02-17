@@ -1,5 +1,75 @@
 [
   {
+    "id": "6a801482b75c7e6b",
+    "title": "С российского олимпийского чемпиона сняли отстранение за допинг",
+    "sport": "Другое",
+    "category": "Другие",
+    "imageUrl": "/images/news-placeholder.jpg",
+    "teaser": "С российского олимпийского чемпиона сняли отстранение за допинг",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/699430069a794735cdaf9cac",
+    "publishedAt": "2026-02-17T09:17:29.000Z",
+    "createdAt": "2026-02-17T09:56:19.422Z",
+    "updatedAt": "2026-02-17T09:56:19.422Z"
+  },
+  {
+    "id": "9ce82377e86cd6c7",
+    "title": "Букмекеры не верят в россиянку. Что происходит на Олимпиаде",
+    "sport": "Другое",
+    "category": "Фигурное катание",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/5/46/347713208119465.jpeg",
+    "teaser": "Букмекеры не верят в россиянку. Что происходит на Олимпиаде",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6994298f9a794752f1f38e33",
+    "publishedAt": "2026-02-17T09:14:11.000Z",
+    "createdAt": "2026-02-17T09:56:13.527Z",
+    "updatedAt": "2026-02-17T09:56:13.527Z"
+  },
+  {
+    "id": "e3520fb5d6e4fd6e",
+    "title": "«Судьи будут предвзяты». Каковы шансы Петросян на Олимпиаде-2026",
+    "sport": "Другое",
+    "category": "Фигурное катание",
+    "imageUrl": "/images/news-placeholder.jpg",
+    "teaser": "«Судьи будут предвзяты». Каковы шансы Петросян на Олимпиаде-2026",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6992d9559a794773a63b2706",
+    "publishedAt": "2026-02-17T08:07:03.000Z",
+    "createdAt": "2026-02-17T09:56:15.347Z",
+    "updatedAt": "2026-02-17T09:56:15.347Z"
+  },
+  {
+    "id": "bdc704b79fd0e950",
+    "title": "Дебют Петросян. За кем стоит следить в 11-й день на Олимпиаде-2026",
+    "sport": "Другое",
+    "category": "Другие",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/9/89/347712541268899.jpeg",
+    "teaser": "Дебют Петросян. За кем стоит следить в 11-й день на Олимпиаде-2026",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6992ded99a79470f5e518a6b",
+    "publishedAt": "2026-02-17T05:59:54.000Z",
+    "createdAt": "2026-02-17T09:56:16.423Z",
+    "updatedAt": "2026-02-17T09:56:16.423Z"
+  },
+  {
+    "id": "2c14915719a1abda",
+    "title": "Главная надежда России на золото Олимпиады. Что нужно знать о Петросян",
+    "sport": "Другое",
+    "category": "Фигурное катание",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/3/65/347697795567653.jpeg",
+    "teaser": "Главная надежда России на золото Олимпиады. Что нужно знать о Петросян",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/697b8aa49a794791b5ef05f9",
+    "publishedAt": "2026-02-17T05:13:08.000Z",
+    "createdAt": "2026-02-17T09:56:20.502Z",
+    "updatedAt": "2026-02-17T09:56:20.502Z"
+  },
+  {
     "id": "b8b492ac29afe28a",
     "title": "Тутберидзе заявили тренером Петросян на Олимпийских играх в Италии",
     "sport": "Другое",
@@ -10,22 +80,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/699362f59a794785e5d6a39f",
     "publishedAt": "2026-02-16T19:06:31.000Z",
-    "createdAt": "2026-02-17T08:55:12.753Z",
-    "updatedAt": "2026-02-17T08:55:12.753Z"
-  },
-  {
-    "id": "f3726fcb0ee9b1e0",
-    "title": "Впервые мать и сын выступили на одной Олимпиаде. Что происходит на Играх",
-    "sport": "Другое",
-    "category": "Другие",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/4/57/347712288544574.jpeg",
-    "teaser": "Впервые мать и сын выступили на одной Олимпиаде. Что происходит на Играх",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6992c7999a79477303d3f97f",
-    "publishedAt": "2026-02-16T18:36:59.000Z",
-    "createdAt": "2026-02-17T08:55:13.569Z",
-    "updatedAt": "2026-02-17T08:55:13.569Z"
+    "createdAt": "2026-02-17T09:56:22.629Z",
+    "updatedAt": "2026-02-17T09:56:22.629Z"
   },
   {
     "id": "e3520d7d2d856f82",
@@ -38,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/699358749a79471c6e872ef2",
     "publishedAt": "2026-02-16T18:22:44.000Z",
-    "createdAt": "2026-02-17T08:55:14.591Z",
-    "updatedAt": "2026-02-17T08:55:14.591Z"
+    "createdAt": "2026-02-17T09:56:21.564Z",
+    "updatedAt": "2026-02-17T09:56:21.564Z"
   },
   {
     "id": "3019ab12059f0a00",
@@ -52,22 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69934b7d9a79477fc070c9b9",
     "publishedAt": "2026-02-16T18:05:49.000Z",
-    "createdAt": "2026-02-17T08:55:16.730Z",
-    "updatedAt": "2026-02-17T08:55:16.730Z"
-  },
-  {
-    "id": "9e2520fe43829a6c",
-    "title": "Впервые в истории на одной зимней Олимпиаде выступили мать и сын",
-    "sport": "Другое",
-    "category": "Другие",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/4/67/347712632802674.jpeg",
-    "teaser": "Впервые в истории на одной зимней Олимпиаде выступили мать и сын",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69934ec39a79471cbeccf89e",
-    "publishedAt": "2026-02-16T17:50:39.000Z",
-    "createdAt": "2026-02-17T08:55:18.813Z",
-    "updatedAt": "2026-02-17T08:55:18.813Z"
+    "createdAt": "2026-02-17T09:56:24.991Z",
+    "updatedAt": "2026-02-17T09:56:24.991Z"
   },
   {
     "id": "752ed251c9fa17ec",
@@ -80,50 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/699350ee9a79470131376006",
     "publishedAt": "2026-02-16T17:36:01.000Z",
-    "createdAt": "2026-02-17T08:55:17.740Z",
-    "updatedAt": "2026-02-17T08:55:17.740Z"
-  },
-  {
-    "id": "39f80601974eac46",
-    "title": "Тренер фразой «виноваты мы, взрослые» оценил неудачу Малинина на Играх",
-    "sport": "Другое",
-    "category": "Фигурное катание",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/7/89/347712591777897.jpeg",
-    "teaser": "Тренер фразой «виноваты мы, взрослые» оценил неудачу Малинина на Играх",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/699342ea9a79471c89f6ecb9",
-    "publishedAt": "2026-02-16T16:38:45.000Z",
-    "createdAt": "2026-02-17T08:55:19.874Z",
-    "updatedAt": "2026-02-17T08:55:19.874Z"
-  },
-  {
-    "id": "30ec740b7626effb",
-    "title": "МВД прекратило дело по заявлению губернатора о коррупции в футболе",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/3/77/347712560950773.jpeg",
-    "teaser": "МВД прекратило дело по заявлению губернатора о коррупции в футболе",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/699332cf9a794785ce96d7ee",
-    "publishedAt": "2026-02-16T16:29:36.000Z",
-    "createdAt": "2026-02-17T08:55:20.937Z",
-    "updatedAt": "2026-02-17T08:55:20.937Z"
-  },
-  {
-    "id": "79ace5f08a817da3",
-    "title": "Пять россиянок сыграют во втором круге турнира WTA 1000 в Дубае",
-    "sport": "Теннис",
-    "category": "Теннис",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/9/22/347712567254229.jpeg",
-    "teaser": "Пять россиянок сыграют во втором круге турнира WTA 1000 в Дубае",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69933b6c9a7947736227ddb0",
-    "publishedAt": "2026-02-16T16:04:31.000Z",
-    "createdAt": "2026-02-17T08:55:21.992Z",
-    "updatedAt": "2026-02-17T08:55:21.992Z"
+    "createdAt": "2026-02-17T09:56:23.932Z",
+    "updatedAt": "2026-02-17T09:56:23.932Z"
   },
   {
     "id": "6ad01f1f73bf34b0",
@@ -136,7 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69809ffb9a79472f65a05c1d",
     "publishedAt": "2026-02-16T11:21:26.000Z",
-    "createdAt": "2026-02-17T08:55:15.679Z",
-    "updatedAt": "2026-02-17T08:55:15.679Z"
+    "createdAt": "2026-02-17T09:56:17.599Z",
+    "updatedAt": "2026-02-17T09:56:17.599Z"
   }
 ]
