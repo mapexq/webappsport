@@ -1,5 +1,75 @@
 [
   {
+    "id": "136636bd1f1d015b",
+    "title": "Стартовал плей-офф хоккейного турнира. Что происходит на Олимпиаде",
+    "sport": "Другое",
+    "category": "Фигурное катание",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/2/35/347713353352352.jpeg",
+    "teaser": "Стартовал плей-офф хоккейного турнира. Что происходит на Олимпиаде",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6994298f9a794752f1f38e33",
+    "publishedAt": "2026-02-17T14:31:32.000Z",
+    "createdAt": "2026-02-17T14:53:18.840Z",
+    "updatedAt": "2026-02-17T14:53:18.840Z"
+  },
+  {
+    "id": "5dc006b04a34cc74",
+    "title": "Презервативы с Олимпиады подорожали до €105",
+    "sport": "Другое",
+    "category": "Другие",
+    "imageUrl": "/images/news-placeholder.jpg",
+    "teaser": "Презервативы с Олимпиады подорожали до €105",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/699475119a7947989284cd63",
+    "publishedAt": "2026-02-17T14:30:53.000Z",
+    "createdAt": "2026-02-17T14:53:20.724Z",
+    "updatedAt": "2026-02-17T14:53:20.724Z"
+  },
+  {
+    "id": "c04413942372b3df",
+    "title": "Петросян без падений откатала прогон короткой программы на Олимпиаде",
+    "sport": "Другое",
+    "category": "Фигурное катание",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/8/70/347713378806708.jpeg",
+    "teaser": "Петросян без падений откатала прогон короткой программы на Олимпиаде",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6994780e9a7947103da79469",
+    "publishedAt": "2026-02-17T14:29:51.000Z",
+    "createdAt": "2026-02-17T14:53:21.788Z",
+    "updatedAt": "2026-02-17T14:53:21.788Z"
+  },
+  {
+    "id": "3d49cffa7ec232d0",
+    "title": "Бобслей в тропиках. Как Ямайка создала сборную и дебютировала на Играх",
+    "sport": "Другое",
+    "category": "Другие",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/2/16/347691087523162.jpeg",
+    "teaser": "Бобслей в тропиках. Как Ямайка создала сборную и дебютировала на Играх",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/697225d29a7947926e59b17b",
+    "publishedAt": "2026-02-17T14:09:00.000Z",
+    "createdAt": "2026-02-17T14:53:22.851Z",
+    "updatedAt": "2026-02-17T14:53:22.851Z"
+  },
+  {
+    "id": "fbf1122708a37be8",
+    "title": "Норвежец Офтебру завоевал второе золото на ОИ-2026 в лыжном двоеборье",
+    "sport": "Другое",
+    "category": "Другие",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/2/56/347713339920562.jpeg",
+    "teaser": "Норвежец Офтебру завоевал второе золото на ОИ-2026 в лыжном двоеборье",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6994664a9a794723893bfe83",
+    "publishedAt": "2026-02-17T13:27:53.000Z",
+    "createdAt": "2026-02-17T14:53:25.008Z",
+    "updatedAt": "2026-02-17T14:53:25.008Z"
+  },
+  {
     "id": "8d0b7d89fee99cb5",
     "title": "Россиянка несла табличку сборной Украины на церемонии открытия Олимпиады",
     "sport": "Другое",
@@ -10,22 +80,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/699461d79a79473480cc3395",
     "publishedAt": "2026-02-17T12:54:47.000Z",
-    "createdAt": "2026-02-17T13:16:50.290Z",
-    "updatedAt": "2026-02-17T13:16:50.290Z"
-  },
-  {
-    "id": "eb6679622876814f",
-    "title": "Соревнования перенесли из-за снегопада. Что происходит на Олимпиаде",
-    "sport": "Другое",
-    "category": "Фигурное катание",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/4/85/347713295165854.jpeg",
-    "teaser": "Соревнования перенесли из-за снегопада. Что происходит на Олимпиаде",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6994298f9a794752f1f38e33",
-    "publishedAt": "2026-02-17T12:30:14.000Z",
-    "createdAt": "2026-02-17T13:16:49.218Z",
-    "updatedAt": "2026-02-17T13:16:49.218Z"
+    "createdAt": "2026-02-17T14:53:23.843Z",
+    "updatedAt": "2026-02-17T14:53:23.843Z"
   },
   {
     "id": "2806c3594264004c",
@@ -38,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/699453879a7947b5524b9c0f",
     "publishedAt": "2026-02-17T11:53:18.000Z",
-    "createdAt": "2026-02-17T13:16:51.383Z",
-    "updatedAt": "2026-02-17T13:16:51.383Z"
+    "createdAt": "2026-02-17T14:53:26.077Z",
+    "updatedAt": "2026-02-17T14:53:26.077Z"
   },
   {
     "id": "c5469aae22f6959d",
@@ -52,22 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69944d819a7947d1debcc4f4",
     "publishedAt": "2026-02-17T11:32:27.000Z",
-    "createdAt": "2026-02-17T13:16:52.422Z",
-    "updatedAt": "2026-02-17T13:16:52.422Z"
-  },
-  {
-    "id": "8806eb398f6a2bd2",
-    "title": "Шнайдер с «баранкой» проиграла 18-летней американке на турнире в Дубае",
-    "sport": "Теннис",
-    "category": "Теннис",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/8/85/347713252269858.jpeg",
-    "teaser": "Шнайдер с «баранкой» проиграла 18-летней американке на турнире в Дубае",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/699446f89a79471d1e90a2b6",
-    "publishedAt": "2026-02-17T10:59:49.000Z",
-    "createdAt": "2026-02-17T13:16:55.709Z",
-    "updatedAt": "2026-02-17T13:16:55.709Z"
+    "createdAt": "2026-02-17T14:53:27.101Z",
+    "updatedAt": "2026-02-17T14:53:27.101Z"
   },
   {
     "id": "2c3f22dbd217e82a",
@@ -80,50 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/699443e49a79470c1a2d97b3",
     "publishedAt": "2026-02-17T10:56:54.000Z",
-    "createdAt": "2026-02-17T13:16:54.681Z",
-    "updatedAt": "2026-02-17T13:16:54.681Z"
-  },
-  {
-    "id": "d50b41ba906c4cb2",
-    "title": "Шесть россиян выступят на Паралимпиаде с флагом и гимном страны",
-    "sport": "Другое",
-    "category": "Другие",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/9/35/347713200754359.jpeg",
-    "teaser": "Шесть россиян выступят на Паралимпиаде с флагом и гимном страны",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/699431869a7947ea4381a669",
-    "publishedAt": "2026-02-17T09:31:17.000Z",
-    "createdAt": "2026-02-17T13:16:56.664Z",
-    "updatedAt": "2026-02-17T13:16:56.664Z"
-  },
-  {
-    "id": "e3520fb5d6e4fd6e",
-    "title": "«Судьи будут предвзяты». Каковы шансы Петросян на Олимпиаде-2026",
-    "sport": "Другое",
-    "category": "Фигурное катание",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/1/11/347713236176111.jpeg",
-    "teaser": "«Судьи будут предвзяты». Каковы шансы Петросян на Олимпиаде-2026",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6992d9559a794773a63b2706",
-    "publishedAt": "2026-02-17T08:07:03.000Z",
-    "createdAt": "2026-02-17T13:16:58.556Z",
-    "updatedAt": "2026-02-17T13:16:58.556Z"
-  },
-  {
-    "id": "bdc704b79fd0e950",
-    "title": "Дебют Петросян. За кем стоит следить в 11-й день на Олимпиаде-2026",
-    "sport": "Другое",
-    "category": "Другие",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/9/89/347712541268899.jpeg",
-    "teaser": "Дебют Петросян. За кем стоит следить в 11-й день на Олимпиаде-2026",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6992ded99a79470f5e518a6b",
-    "publishedAt": "2026-02-17T05:59:54.000Z",
-    "createdAt": "2026-02-17T13:16:59.591Z",
-    "updatedAt": "2026-02-17T13:16:59.591Z"
+    "createdAt": "2026-02-17T14:53:29.410Z",
+    "updatedAt": "2026-02-17T14:53:29.410Z"
   },
   {
     "id": "6ad01f1f73bf34b0",
@@ -136,7 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69809ffb9a79472f65a05c1d",
     "publishedAt": "2026-02-16T11:21:26.000Z",
-    "createdAt": "2026-02-17T13:16:53.655Z",
-    "updatedAt": "2026-02-17T13:16:53.655Z"
+    "createdAt": "2026-02-17T14:53:28.328Z",
+    "updatedAt": "2026-02-17T14:53:28.328Z"
   }
 ]
