@@ -1,5 +1,47 @@
 [
   {
+    "id": "8d0b7d89fee99cb5",
+    "title": "Россиянка несла табличку сборной Украины на церемонии открытия Олимпиады",
+    "sport": "Другое",
+    "category": "Другие",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/8/52/347713321802528.jpeg",
+    "teaser": "Россиянка несла табличку сборной Украины на церемонии открытия Олимпиады",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/699461d79a79473480cc3395",
+    "publishedAt": "2026-02-17T12:54:47.000Z",
+    "createdAt": "2026-02-17T13:16:50.290Z",
+    "updatedAt": "2026-02-17T13:16:50.290Z"
+  },
+  {
+    "id": "eb6679622876814f",
+    "title": "Соревнования перенесли из-за снегопада. Что происходит на Олимпиаде",
+    "sport": "Другое",
+    "category": "Фигурное катание",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/4/85/347713295165854.jpeg",
+    "teaser": "Соревнования перенесли из-за снегопада. Что происходит на Олимпиаде",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6994298f9a794752f1f38e33",
+    "publishedAt": "2026-02-17T12:30:14.000Z",
+    "createdAt": "2026-02-17T13:16:49.218Z",
+    "updatedAt": "2026-02-17T13:16:49.218Z"
+  },
+  {
+    "id": "2806c3594264004c",
+    "title": "В МОК заявили об отсутствии запрета Тутберидзе помогать Петросян на Играх",
+    "sport": "Другое",
+    "category": "Фигурное катание",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/5/35/347713285229355.jpeg",
+    "teaser": "В МОК заявили об отсутствии запрета Тутберидзе помогать Петросян на Играх",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/699453879a7947b5524b9c0f",
+    "publishedAt": "2026-02-17T11:53:18.000Z",
+    "createdAt": "2026-02-17T13:16:51.383Z",
+    "updatedAt": "2026-02-17T13:16:51.383Z"
+  },
+  {
     "id": "c5469aae22f6959d",
     "title": "Артур Ирбе заявил о готовности вернуть медали, выигранные со сборной СССР",
     "sport": "Хоккей",
@@ -10,22 +52,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69944d819a7947d1debcc4f4",
     "publishedAt": "2026-02-17T11:32:27.000Z",
-    "createdAt": "2026-02-17T11:43:23.339Z",
-    "updatedAt": "2026-02-17T11:43:23.339Z"
-  },
-  {
-    "id": "6baeeef432c2b706",
-    "title": "Букмекеры не верят в россиянку. Что происходит на Олимпиаде",
-    "sport": "Другое",
-    "category": "Фигурное катание",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/5/46/347713208119465.jpeg",
-    "teaser": "Букмекеры не верят в россиянку. Что происходит на Олимпиаде",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6994298f9a794752f1f38e33",
-    "publishedAt": "2026-02-17T11:10:21.000Z",
-    "createdAt": "2026-02-17T11:43:22.172Z",
-    "updatedAt": "2026-02-17T11:43:22.172Z"
+    "createdAt": "2026-02-17T13:16:52.422Z",
+    "updatedAt": "2026-02-17T13:16:52.422Z"
   },
   {
     "id": "8806eb398f6a2bd2",
@@ -38,8 +66,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/699446f89a79471d1e90a2b6",
     "publishedAt": "2026-02-17T10:59:49.000Z",
-    "createdAt": "2026-02-17T11:43:27.016Z",
-    "updatedAt": "2026-02-17T11:43:27.016Z"
+    "createdAt": "2026-02-17T13:16:55.709Z",
+    "updatedAt": "2026-02-17T13:16:55.709Z"
   },
   {
     "id": "2c3f22dbd217e82a",
@@ -52,8 +80,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/699443e49a79470c1a2d97b3",
     "publishedAt": "2026-02-17T10:56:54.000Z",
-    "createdAt": "2026-02-17T11:43:24.498Z",
-    "updatedAt": "2026-02-17T11:43:24.498Z"
+    "createdAt": "2026-02-17T13:16:54.681Z",
+    "updatedAt": "2026-02-17T13:16:54.681Z"
   },
   {
     "id": "d50b41ba906c4cb2",
@@ -66,22 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/699431869a7947ea4381a669",
     "publishedAt": "2026-02-17T09:31:17.000Z",
-    "createdAt": "2026-02-17T11:43:28.149Z",
-    "updatedAt": "2026-02-17T11:43:28.149Z"
-  },
-  {
-    "id": "6a801482b75c7e6b",
-    "title": "С российского олимпийского чемпиона сняли отстранение за допинг",
-    "sport": "Другое",
-    "category": "Другие",
-    "imageUrl": "/images/news-placeholder.jpg",
-    "teaser": "С российского олимпийского чемпиона сняли отстранение за допинг",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/699430069a794735cdaf9cac",
-    "publishedAt": "2026-02-17T09:17:29.000Z",
-    "createdAt": "2026-02-17T11:43:33.580Z",
-    "updatedAt": "2026-02-17T11:43:33.580Z"
+    "createdAt": "2026-02-17T13:16:56.664Z",
+    "updatedAt": "2026-02-17T13:16:56.664Z"
   },
   {
     "id": "e3520fb5d6e4fd6e",
@@ -94,8 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6992d9559a794773a63b2706",
     "publishedAt": "2026-02-17T08:07:03.000Z",
-    "createdAt": "2026-02-17T11:43:30.337Z",
-    "updatedAt": "2026-02-17T11:43:30.337Z"
+    "createdAt": "2026-02-17T13:16:58.556Z",
+    "updatedAt": "2026-02-17T13:16:58.556Z"
   },
   {
     "id": "bdc704b79fd0e950",
@@ -108,22 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6992ded99a79470f5e518a6b",
     "publishedAt": "2026-02-17T05:59:54.000Z",
-    "createdAt": "2026-02-17T11:43:31.523Z",
-    "updatedAt": "2026-02-17T11:43:31.523Z"
-  },
-  {
-    "id": "2c14915719a1abda",
-    "title": "Главная надежда России на золото Олимпиады. Что нужно знать о Петросян",
-    "sport": "Другое",
-    "category": "Фигурное катание",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/3/65/347697795567653.jpeg",
-    "teaser": "Главная надежда России на золото Олимпиады. Что нужно знать о Петросян",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/697b8aa49a794791b5ef05f9",
-    "publishedAt": "2026-02-17T05:13:08.000Z",
-    "createdAt": "2026-02-17T11:43:34.797Z",
-    "updatedAt": "2026-02-17T11:43:34.797Z"
+    "createdAt": "2026-02-17T13:16:59.591Z",
+    "updatedAt": "2026-02-17T13:16:59.591Z"
   },
   {
     "id": "6ad01f1f73bf34b0",
@@ -136,7 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69809ffb9a79472f65a05c1d",
     "publishedAt": "2026-02-16T11:21:26.000Z",
-    "createdAt": "2026-02-17T11:43:25.893Z",
-    "updatedAt": "2026-02-17T11:43:25.893Z"
+    "createdAt": "2026-02-17T13:16:53.655Z",
+    "updatedAt": "2026-02-17T13:16:53.655Z"
   }
 ]
