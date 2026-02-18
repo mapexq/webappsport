@@ -1,5 +1,61 @@
 [
   {
+    "id": "7fa96581ecc301d1",
+    "title": "Кузнецов помог «Салавату Юлаеву» разгромить «Трактор», набрав 4 очка",
+    "sport": "Хоккей",
+    "category": "Хоккей",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/0/62/347714340152620.png",
+    "teaser": "Кузнецов помог «Салавату Юлаеву» разгромить «Трактор», набрав 4 очка",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6995ed8e9a79477e6938f90c",
+    "publishedAt": "2026-02-18T17:08:08.000Z",
+    "createdAt": "2026-02-18T17:14:27.545Z",
+    "updatedAt": "2026-02-18T17:14:27.545Z"
+  },
+  {
+    "id": "d8522c353e6da7e1",
+    "title": "Селебрини побил рекорд Малкина по очкам на ОИ среди игроков до 20 лет",
+    "sport": "Хоккей",
+    "category": "Хоккей",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/5/02/347714328334025.jpeg",
+    "teaser": "Селебрини побил рекорд Малкина по очкам на ОИ среди игроков до 20 лет",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6995e9989a79473c94d4360a",
+    "publishedAt": "2026-02-18T16:45:56.000Z",
+    "createdAt": "2026-02-18T17:14:22.280Z",
+    "updatedAt": "2026-02-18T17:14:22.280Z"
+  },
+  {
+    "id": "f8338522677a760c",
+    "title": "Получившая травму на Олимпиаде Вонн рассказала о смерти своей собаки",
+    "sport": "Другое",
+    "category": "Другие",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/8/24/347714313277248.jpeg",
+    "teaser": "Получившая травму на Олимпиаде Вонн рассказала о смерти своей собаки",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6995e2bd9a794712b31de66b",
+    "publishedAt": "2026-02-18T16:21:38.000Z",
+    "createdAt": "2026-02-18T17:14:23.347Z",
+    "updatedAt": "2026-02-18T17:14:23.347Z"
+  },
+  {
+    "id": "6e5f22a27f4cea32",
+    "title": "Рублев вышел в четвертьфинал турнира ATP-500 в Дохе",
+    "sport": "Теннис",
+    "category": "Теннис",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/1/34/347714289119341.jpeg",
+    "teaser": "Рублев вышел в четвертьфинал турнира ATP-500 в Дохе",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6995dbcd9a794746277506b5",
+    "publishedAt": "2026-02-18T15:58:41.000Z",
+    "createdAt": "2026-02-18T17:14:24.399Z",
+    "updatedAt": "2026-02-18T17:14:24.399Z"
+  },
+  {
     "id": "911c5a0d49fceb2e",
     "title": "Петросян упала с четверного на тренировке. Что происходит на Олимпиаде",
     "sport": "Другое",
@@ -10,8 +66,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6995806b9a79479201f20dca",
     "publishedAt": "2026-02-18T15:38:29.000Z",
-    "createdAt": "2026-02-18T15:58:01.530Z",
-    "updatedAt": "2026-02-18T15:58:01.530Z"
+    "createdAt": "2026-02-18T17:14:26.554Z",
+    "updatedAt": "2026-02-18T17:14:26.554Z"
   },
   {
     "id": "ea4cd6c82f4a91c1",
@@ -24,8 +80,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6995cb559a794748e9964a38",
     "publishedAt": "2026-02-18T15:10:22.000Z",
-    "createdAt": "2026-02-18T15:57:58.293Z",
-    "updatedAt": "2026-02-18T15:57:58.293Z"
+    "createdAt": "2026-02-18T17:14:30.745Z",
+    "updatedAt": "2026-02-18T17:14:30.745Z"
   },
   {
     "id": "f5fe0392068f5f5b",
@@ -38,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6995d2199a7947c3542307e5",
     "publishedAt": "2026-02-18T15:09:07.000Z",
-    "createdAt": "2026-02-18T15:57:57.027Z",
-    "updatedAt": "2026-02-18T15:57:57.027Z"
+    "createdAt": "2026-02-18T17:14:29.668Z",
+    "updatedAt": "2026-02-18T17:14:29.668Z"
   },
   {
     "id": "95bc015bd6da0ba1",
@@ -52,50 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6995ca399a79477ba2e6b2bc",
     "publishedAt": "2026-02-18T14:48:02.000Z",
-    "createdAt": "2026-02-18T15:57:55.964Z",
-    "updatedAt": "2026-02-18T15:57:55.964Z"
-  },
-  {
-    "id": "32489767cbf3bcf9",
-    "title": "Гуменник не попал в список приглашенных на показательные выступления ОИ",
-    "sport": "Другое",
-    "category": "Фигурное катание",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/0/00/347714243462000.jpeg",
-    "teaser": "Гуменник не попал в список приглашенных на показательные выступления ОИ",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6995c8089a79476c48f3af71",
-    "publishedAt": "2026-02-18T14:37:52.000Z",
-    "createdAt": "2026-02-18T15:58:00.444Z",
-    "updatedAt": "2026-02-18T15:58:00.444Z"
-  },
-  {
-    "id": "f122039c1a498e50",
-    "title": "В МОК объяснили, почему российским олимпийцам не подарили смартфоны",
-    "sport": "Другое",
-    "category": "Другие",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/0/13/347714240821130.jpeg",
-    "teaser": "В МОК объяснили, почему российским олимпийцам не подарили смартфоны",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6995c75d9a794724bf25f1eb",
-    "publishedAt": "2026-02-18T14:22:04.000Z",
-    "createdAt": "2026-02-18T15:58:02.523Z",
-    "updatedAt": "2026-02-18T15:58:02.523Z"
-  },
-  {
-    "id": "74a4e4ba2c6a90ae",
-    "title": "Американка Шиффрин стала трехкратной олимпийской чемпионкой в слаломе",
-    "sport": "Другое",
-    "category": "Другие",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/7/85/347714230957857.jpeg",
-    "teaser": "Американка Шиффрин стала трехкратной олимпийской чемпионкой в слаломе",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6995afa29a79478c6d063ba3",
-    "publishedAt": "2026-02-18T14:04:44.000Z",
-    "createdAt": "2026-02-18T15:58:04.684Z",
-    "updatedAt": "2026-02-18T15:58:04.684Z"
+    "createdAt": "2026-02-18T17:14:25.459Z",
+    "updatedAt": "2026-02-18T17:14:25.459Z"
   },
   {
     "id": "f83cc1746c4315d3",
@@ -108,8 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6995be999a7947df686f0119",
     "publishedAt": "2026-02-18T13:54:12.000Z",
-    "createdAt": "2026-02-18T15:57:59.366Z",
-    "updatedAt": "2026-02-18T15:57:59.366Z"
+    "createdAt": "2026-02-18T17:14:31.835Z",
+    "updatedAt": "2026-02-18T17:14:31.835Z"
   },
   {
     "id": "613316550845a9ce",
@@ -122,21 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6994b5549a79473595bb80f8",
     "publishedAt": "2026-02-18T05:40:13.000Z",
-    "createdAt": "2026-02-18T15:58:03.615Z",
-    "updatedAt": "2026-02-18T15:58:03.615Z"
-  },
-  {
-    "id": "e0a73bd267d136bb",
-    "title": "Как племянница легендарной актрисы стала героиней Олимпиады-2026",
-    "sport": "Другое",
-    "category": "Другие",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/1/72/347713419726721.jpeg",
-    "teaser": "Как племянница легендарной актрисы стала героиней Олимпиады-2026",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69947d079a794774d0fe91e0",
-    "publishedAt": "2026-02-18T04:31:56.000Z",
-    "createdAt": "2026-02-18T15:58:06.186Z",
-    "updatedAt": "2026-02-18T15:58:06.186Z"
+    "createdAt": "2026-02-18T17:14:28.607Z",
+    "updatedAt": "2026-02-18T17:14:28.607Z"
   }
 ]
