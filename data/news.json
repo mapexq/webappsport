@@ -1,5 +1,89 @@
 [
   {
+    "id": "1013634231775adb",
+    "title": "Отсидевший за убийство бывший капитан «Фламенго» вернулся в",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/7/15/347715049853157.jpeg",
+    "teaser": "Отсидевший за убийство бывший капитан «Фламенго» вернулся в",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/699704d19a794701bae2a0d5",
+    "publishedAt": "2026-02-19T13:08:02.000Z",
+    "createdAt": "2026-02-19T13:19:37.895Z",
+    "updatedAt": "2026-02-19T13:19:37.895Z"
+  },
+  {
+    "id": "c556e27b0e6c0916",
+    "title": "Швейцарка стала первой в истории олимпийской чемпионкой в ски-альпинизме",
+    "sport": "Другое",
+    "category": "Другие",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/7/70/347715060127707.jpeg",
+    "teaser": "Швейцарка стала первой в истории олимпийской чемпионкой в ски-альпинизме",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/699708f99a7947fc9dc17ec2",
+    "publishedAt": "2026-02-19T13:06:42.000Z",
+    "createdAt": "2026-02-19T13:19:36.952Z",
+    "updatedAt": "2026-02-19T13:19:36.952Z"
+  },
+  {
+    "id": "16ffe00053111a25",
+    "title": "Выиграет ли Россия первые медали. Что происходит на Олимпиаде",
+    "sport": "Другое",
+    "category": "Другие",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/6/44/347714884229446.jpeg",
+    "teaser": "Выиграет ли Россия первые медали. Что происходит на Олимпиаде",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6996bf559a794700605f37a8",
+    "publishedAt": "2026-02-19T13:05:02.000Z",
+    "createdAt": "2026-02-19T13:19:35.986Z",
+    "updatedAt": "2026-02-19T13:19:35.986Z"
+  },
+  {
+    "id": "3330608a9963693f",
+    "title": "Российский ски-альпинист вышел в финал спринта на Олимпиаде",
+    "sport": "Другое",
+    "category": "Другие",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/1/47/347715016202471.jpeg",
+    "teaser": "Российский ски-альпинист вышел в финал спринта на Олимпиаде",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6996f7c69a79479c84c89b0a",
+    "publishedAt": "2026-02-19T12:44:42.000Z",
+    "createdAt": "2026-02-19T13:19:38.703Z",
+    "updatedAt": "2026-02-19T13:19:38.703Z"
+  },
+  {
+    "id": "8fea55dd0fa6041d",
+    "title": "В Канаде школьникам разрешили прогулы для просмотра хоккея на Олимпиаде",
+    "sport": "Хоккей",
+    "category": "Хоккей",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/7/19/347715001716197.jpeg",
+    "teaser": "В Канаде школьникам разрешили прогулы для просмотра хоккея на Олимпиаде",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6996f2229a7947930d0b25bd",
+    "publishedAt": "2026-02-19T11:49:28.000Z",
+    "createdAt": "2026-02-19T13:19:39.701Z",
+    "updatedAt": "2026-02-19T13:19:39.701Z"
+  },
+  {
+    "id": "84ae0b21244eae0b",
+    "title": "IPC отреагировал на идею не давать россиянам визы на Паралимпиаду",
+    "sport": "Другое",
+    "category": "Другие",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/9/56/347715005615569.jpeg",
+    "teaser": "IPC отреагировал на идею не давать россиянам визы на Паралимпиаду",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6996f3db9a79477f67ec3962",
+    "publishedAt": "2026-02-19T11:39:35.000Z",
+    "createdAt": "2026-02-19T13:19:40.666Z",
+    "updatedAt": "2026-02-19T13:19:40.666Z"
+  },
+  {
     "id": "5a0eb2f7f28d9600",
     "title": "La Repubblica узнала об идее не давать россиянам визы на Паралимпиаду",
     "sport": "Другое",
@@ -10,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6996c5039a79477089fe7c85",
     "publishedAt": "2026-02-19T11:21:46.000Z",
-    "createdAt": "2026-02-19T11:42:09.710Z",
-    "updatedAt": "2026-02-19T11:42:09.710Z"
+    "createdAt": "2026-02-19T13:19:42.514Z",
+    "updatedAt": "2026-02-19T13:19:42.514Z"
   },
   {
     "id": "abf8453d81719b9f",
@@ -24,22 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6996ee119a794742e4f57f9a",
     "publishedAt": "2026-02-19T11:17:33.000Z",
-    "createdAt": "2026-02-19T11:42:10.645Z",
-    "updatedAt": "2026-02-19T11:42:10.645Z"
-  },
-  {
-    "id": "4efb0b58077aa2bf",
-    "title": "Выиграет ли Россия первые медали. Что происходит на Олимпиаде",
-    "sport": "Другое",
-    "category": "Другие",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/6/44/347714884229446.jpeg",
-    "teaser": "Выиграет ли Россия первые медали. Что происходит на Олимпиаде",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6996bf559a794700605f37a8",
-    "publishedAt": "2026-02-19T09:55:32.000Z",
-    "createdAt": "2026-02-19T11:42:07.979Z",
-    "updatedAt": "2026-02-19T11:42:07.979Z"
+    "createdAt": "2026-02-19T13:19:43.489Z",
+    "updatedAt": "2026-02-19T13:19:43.489Z"
   },
   {
     "id": "21a36bb9d4372602",
@@ -52,8 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6996cc0e9a7947fe229eae1b",
     "publishedAt": "2026-02-19T09:17:35.000Z",
-    "createdAt": "2026-02-19T11:42:11.662Z",
-    "updatedAt": "2026-02-19T11:42:11.662Z"
+    "createdAt": "2026-02-19T13:19:44.511Z",
+    "updatedAt": "2026-02-19T13:19:44.511Z"
   },
   {
     "id": "f4d9e95079741c7a",
@@ -66,77 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69905f769a79471c2a87ce0f",
     "publishedAt": "2026-02-19T06:30:41.000Z",
-    "createdAt": "2026-02-19T11:42:12.681Z",
-    "updatedAt": "2026-02-19T11:42:12.681Z"
-  },
-  {
-    "id": "84b5ae7008024640",
-    "title": "Каковы шансы у Аделии Петросян завоевать медаль на Олимпиаде",
-    "sport": "Другое",
-    "category": "Другие",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/3/03/347714189903033.jpeg",
-    "teaser": "Каковы шансы у Аделии Петросян завоевать медаль на Олимпиаде",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69959c219a7947276f7a7125",
-    "publishedAt": "2026-02-19T06:04:20.000Z",
-    "createdAt": "2026-02-19T11:42:14.644Z",
-    "updatedAt": "2026-02-19T11:42:14.644Z"
-  },
-  {
-    "id": "4d17613518efe750",
-    "title": "Первый россиянин на Олимпиаде-2026. Что важно знать о Никите Филиппове",
-    "sport": "Другое",
-    "category": "Другие",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/4/37/347697622764374.jpeg",
-    "teaser": "Первый россиянин на Олимпиаде-2026. Что важно знать о Никите Филиппове",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/697b92609a7947550970b637",
-    "publishedAt": "2026-02-19T05:30:41.000Z",
-    "createdAt": "2026-02-19T11:42:13.644Z",
-    "updatedAt": "2026-02-19T11:42:13.644Z"
-  },
-  {
-    "id": "6b9f268a47d7266b",
-    "title": "Сборная Канады по хоккею через овертайм вышла в полуфинал Олимпиады",
-    "sport": "Хоккей",
-    "category": "Хоккей",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/9/36/347714361076369.jpeg",
-    "teaser": "Сборная Канады по хоккею через овертайм вышла в полуфинал Олимпиады",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6995f0fc9a7947f0848ac8b0",
-    "publishedAt": "2026-02-18T18:21:59.000Z",
-    "createdAt": "2026-02-19T11:42:18.456Z",
-    "updatedAt": "2026-02-19T11:42:18.456Z"
-  },
-  {
-    "id": "304c1ea9d349a8cf",
-    "title": "Флаг России вывесили на матче Канада — Чехия на Олимпиаде",
-    "sport": "Хоккей",
-    "category": "Хоккей",
-    "imageUrl": "/images/news-placeholder.jpg",
-    "teaser": "Флаг России вывесили на матче Канада — Чехия на Олимпиаде",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6995fd8a9a7947e4eac96e79",
-    "publishedAt": "2026-02-18T18:12:04.000Z",
-    "createdAt": "2026-02-19T11:42:16.442Z",
-    "updatedAt": "2026-02-19T11:42:16.442Z"
-  },
-  {
-    "id": "d8522c353e6da7e1",
-    "title": "Селебрини побил рекорд Малкина по очкам на ОИ среди игроков до 20 лет",
-    "sport": "Хоккей",
-    "category": "Хоккей",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/5/02/347714328334025.jpeg",
-    "teaser": "Селебрини побил рекорд Малкина по очкам на ОИ среди игроков до 20 лет",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6995e9989a79473c94d4360a",
-    "publishedAt": "2026-02-18T16:45:56.000Z",
-    "createdAt": "2026-02-19T11:42:17.470Z",
-    "updatedAt": "2026-02-19T11:42:17.470Z"
+    "createdAt": "2026-02-19T13:19:45.512Z",
+    "updatedAt": "2026-02-19T13:19:45.512Z"
   }
 ]
