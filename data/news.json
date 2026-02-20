@@ -1,31 +1,59 @@
 [
   {
-    "id": "35e24ad4baefc3aa",
-    "title": "Один из претендентов на золото Игр жестко упал в квалификации хафпайпа",
+    "id": "9741fbd95ba0058a",
+    "title": "Чемпиона мира унесли с трассы на носилках. Что происходит на Олимпиаде",
+    "sport": "Другое",
+    "category": "Другие",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/2/84/347715838382842.jpeg",
+    "teaser": "Чемпиона мира унесли с трассы на носилках. Что происходит на Олимпиаде",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/699825a69a794731970a3185",
+    "publishedAt": "2026-02-20T13:04:52.000Z",
+    "createdAt": "2026-02-20T13:11:30.858Z",
+    "updatedAt": "2026-02-20T13:11:30.858Z"
+  },
+  {
+    "id": "dc813372fd82f539",
+    "title": "Как перегореть, возненавидеть фигурное катание и выиграть Олимпиаду",
+    "sport": "Другое",
+    "category": "Другие",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/3/36/347715919766363.jpeg",
+    "teaser": "Как перегореть, возненавидеть фигурное катание и выиграть Олимпиаду",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69980c889a7947be1d57d0b8",
+    "publishedAt": "2026-02-20T12:26:46.000Z",
+    "createdAt": "2026-02-20T13:11:28.682Z",
+    "updatedAt": "2026-02-20T13:11:28.682Z"
+  },
+  {
+    "id": "555996dbd3887eb4",
+    "title": "В Казахстане подсчитали затраты на выигравшего Олимпиаду фигуриста",
+    "sport": "Другое",
+    "category": "Другие",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/6/87/347715895297876.jpeg",
+    "teaser": "В Казахстане подсчитали затраты на выигравшего Олимпиаду фигуриста",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69984b149a79471fa4dc76ae",
+    "publishedAt": "2026-02-20T12:25:45.000Z",
+    "createdAt": "2026-02-20T13:11:29.725Z",
+    "updatedAt": "2026-02-20T13:11:29.725Z"
+  },
+  {
+    "id": "c62180fad0f30188",
+    "title": "Чемпиона мира эвакуировали с трассы после жесткого падения на Олимпиаде",
     "sport": "Другое",
     "category": "Другие",
     "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/0/74/347715860647740.jpeg",
-    "teaser": "Один из претендентов на золото Игр жестко упал в квалификации хафпайпа",
+    "teaser": "Чемпиона мира эвакуировали с трассы после жесткого падения на Олимпиаде",
     "fullContent": "",
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69983ab49a7947e8ed50ff8d",
     "publishedAt": "2026-02-20T11:29:31.000Z",
-    "createdAt": "2026-02-20T11:37:00.218Z",
-    "updatedAt": "2026-02-20T11:37:00.218Z"
-  },
-  {
-    "id": "160236b4f159d93f",
-    "title": "Россиян пригласили на церемонию закрытия. Что происходит на Олимпиаде",
-    "sport": "Другое",
-    "category": "Другие",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/2/84/347715838382842.jpeg",
-    "teaser": "Россиян пригласили на церемонию закрытия. Что происходит на Олимпиаде",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/699825a69a794731970a3185",
-    "publishedAt": "2026-02-20T10:47:58.000Z",
-    "createdAt": "2026-02-20T11:37:02.434Z",
-    "updatedAt": "2026-02-20T11:37:02.434Z"
+    "createdAt": "2026-02-20T13:11:31.957Z",
+    "updatedAt": "2026-02-20T13:11:31.957Z"
   },
   {
     "id": "b353349b1068c0bb",
@@ -38,8 +66,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69982c6d9a79474b34435974",
     "publishedAt": "2026-02-20T09:57:30.000Z",
-    "createdAt": "2026-02-20T11:37:03.469Z",
-    "updatedAt": "2026-02-20T11:37:03.469Z"
+    "createdAt": "2026-02-20T13:11:34.158Z",
+    "updatedAt": "2026-02-20T13:11:34.158Z"
   },
   {
     "id": "d88909b26d3b37d4",
@@ -52,8 +80,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/699821d09a7947de665582a5",
     "publishedAt": "2026-02-20T09:43:29.000Z",
-    "createdAt": "2026-02-20T11:37:01.178Z",
-    "updatedAt": "2026-02-20T11:37:01.178Z"
+    "createdAt": "2026-02-20T13:11:33.056Z",
+    "updatedAt": "2026-02-20T13:11:33.056Z"
   },
   {
     "id": "05af33b15f2b637c",
@@ -66,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6997f7ed9a79470ace7630b7",
     "publishedAt": "2026-02-20T08:14:51.000Z",
-    "createdAt": "2026-02-20T11:37:04.430Z",
-    "updatedAt": "2026-02-20T11:37:04.430Z"
+    "createdAt": "2026-02-20T13:11:36.427Z",
+    "updatedAt": "2026-02-20T13:11:36.427Z"
   },
   {
     "id": "69c5891e63a01533",
@@ -80,22 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/699727749a79474314918d08",
     "publishedAt": "2026-02-20T06:04:40.000Z",
-    "createdAt": "2026-02-20T11:37:05.487Z",
-    "updatedAt": "2026-02-20T11:37:05.487Z"
-  },
-  {
-    "id": "ecd41c3694fc046b",
-    "title": "Тренер Петросян назвал закономерным результат фигуристки на Олимпиаде",
-    "sport": "Другое",
-    "category": "Фигурное катание",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/1/22/347715418186221.jpeg",
-    "teaser": "Тренер Петросян назвал закономерным результат фигуристки на Олимпиаде",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/699793e09a79475d1589e5e1",
-    "publishedAt": "2026-02-19T23:05:33.000Z",
-    "createdAt": "2026-02-20T11:37:09.529Z",
-    "updatedAt": "2026-02-20T11:37:09.529Z"
+    "createdAt": "2026-02-20T13:11:35.279Z",
+    "updatedAt": "2026-02-20T13:11:35.279Z"
   },
   {
     "id": "45c22c49c394d0bf",
@@ -108,22 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69978e829a794753116d6dc7",
     "publishedAt": "2026-02-19T22:59:26.000Z",
-    "createdAt": "2026-02-20T11:37:07.515Z",
-    "updatedAt": "2026-02-20T11:37:07.515Z"
-  },
-  {
-    "id": "5643f618e559063e",
-    "title": "Петросян объяснила падение на Олимпиаде зацепившейся за платье сережкой",
-    "sport": "Другое",
-    "category": "Фигурное катание",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/5/86/347715404634865.jpeg",
-    "teaser": "Петросян объяснила падение на Олимпиаде зацепившейся за платье сережкой",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69978edd9a7947dc474a0e10",
-    "publishedAt": "2026-02-19T22:39:32.000Z",
-    "createdAt": "2026-02-20T11:37:08.547Z",
-    "updatedAt": "2026-02-20T11:37:08.547Z"
+    "createdAt": "2026-02-20T13:11:38.714Z",
+    "updatedAt": "2026-02-20T13:11:38.714Z"
   },
   {
     "id": "e237687ba68eb3a7",
@@ -136,7 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/699757029a7947a7c0303002",
     "publishedAt": "2026-02-19T22:18:15.000Z",
-    "createdAt": "2026-02-20T11:37:06.492Z",
-    "updatedAt": "2026-02-20T11:37:06.492Z"
+    "createdAt": "2026-02-20T13:11:37.565Z",
+    "updatedAt": "2026-02-20T13:11:37.565Z"
   }
 ]
