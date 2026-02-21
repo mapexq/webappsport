@@ -1,5 +1,61 @@
 [
   {
+    "id": "68f79ebdd475a204",
+    "title": "Кто из спортсменов погиб на зимних Олимпийских играх",
+    "sport": "Другое",
+    "category": "Другие",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/4/14/347690835707144.jpeg",
+    "teaser": "Кто из спортсменов погиб на зимних Олимпийских играх",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6971e1b59a794730c3f4cefa",
+    "publishedAt": "2026-02-21T11:04:55.000Z",
+    "createdAt": "2026-02-21T11:27:33.727Z",
+    "updatedAt": "2026-02-21T11:27:33.727Z"
+  },
+  {
+    "id": "2593a92433c5fda6",
+    "title": "Коростелев бежит к медали. Что происходит на Олимпиаде",
+    "sport": "Другое",
+    "category": "Другие",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/9/13/347716614046139.jpeg",
+    "teaser": "Коростелев бежит к медали. Что происходит на Олимпиаде",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/699961729a79470fc6556a57",
+    "publishedAt": "2026-02-21T10:55:40.000Z",
+    "createdAt": "2026-02-21T11:27:29.672Z",
+    "updatedAt": "2026-02-21T11:27:29.672Z"
+  },
+  {
+    "id": "df59655a6e698af4",
+    "title": "Олимпийский чемпион и чемпион мира сошли с марафона на Играх в Италии",
+    "sport": "Другое",
+    "category": "Другие",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/1/59/347716708036591.jpeg",
+    "teaser": "Олимпийский чемпион и чемпион мира сошли с марафона на Играх в Италии",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69998bad9a79479c69a258c7",
+    "publishedAt": "2026-02-21T10:49:24.000Z",
+    "createdAt": "2026-02-21T11:27:26.492Z",
+    "updatedAt": "2026-02-21T11:27:26.492Z"
+  },
+  {
+    "id": "3154500dc78c66dc",
+    "title": "Путь до дебютной Олимпиады. Что известно о карьере Анастасии Семеновой",
+    "sport": "Другое",
+    "category": "Другие",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/4/47/347697708294474.jpeg",
+    "teaser": "Путь до дебютной Олимпиады. Что известно о карьере Анастасии Семеновой",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/697b57629a7947839d6dd5c8",
+    "publishedAt": "2026-02-21T10:28:55.000Z",
+    "createdAt": "2026-02-21T11:27:28.652Z",
+    "updatedAt": "2026-02-21T11:27:28.652Z"
+  },
+  {
     "id": "979f6c5dc81e9775",
     "title": "Борцу Садулаеву дали визу в Албанию, которая примет чемпионат Европы",
     "sport": "Единоборства",
@@ -10,8 +66,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69997d7a9a7947e824e90450",
     "publishedAt": "2026-02-21T09:56:39.000Z",
-    "createdAt": "2026-02-21T10:32:43.059Z",
-    "updatedAt": "2026-02-21T10:32:43.059Z"
+    "createdAt": "2026-02-21T11:27:31.701Z",
+    "updatedAt": "2026-02-21T11:27:31.701Z"
   },
   {
     "id": "6462e981777c6063",
@@ -24,22 +80,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/699979769a79478bc58da361",
     "publishedAt": "2026-02-21T09:36:10.000Z",
-    "createdAt": "2026-02-21T10:32:40.109Z",
-    "updatedAt": "2026-02-21T10:32:40.109Z"
-  },
-  {
-    "id": "7a9359e4f5f36b15",
-    "title": "Россиянин бежит к медали. Что происходит на Олимпиаде",
-    "sport": "Другое",
-    "category": "Другие",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/9/13/347716614046139.jpeg",
-    "teaser": "Россиянин бежит к медали. Что происходит на Олимпиаде",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/699961729a79470fc6556a57",
-    "publishedAt": "2026-02-21T09:02:48.000Z",
-    "createdAt": "2026-02-21T10:32:41.087Z",
-    "updatedAt": "2026-02-21T10:32:41.087Z"
+    "createdAt": "2026-02-21T11:27:27.607Z",
+    "updatedAt": "2026-02-21T11:27:27.607Z"
   },
   {
     "id": "2819299642a9dd90",
@@ -52,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/699845319a79470b22b0dcf6",
     "publishedAt": "2026-02-21T07:18:51.000Z",
-    "createdAt": "2026-02-21T10:32:42.099Z",
-    "updatedAt": "2026-02-21T10:32:42.099Z"
+    "createdAt": "2026-02-21T11:27:30.685Z",
+    "updatedAt": "2026-02-21T11:27:30.685Z"
   },
   {
     "id": "61e99e629c583bbd",
@@ -66,8 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69987a299a79473013842a40",
     "publishedAt": "2026-02-21T07:02:15.000Z",
-    "createdAt": "2026-02-21T10:32:44.210Z",
-    "updatedAt": "2026-02-21T10:32:44.210Z"
+    "createdAt": "2026-02-21T11:27:32.717Z",
+    "updatedAt": "2026-02-21T11:27:32.717Z"
   },
   {
     "id": "2e03f18abd53a2e5",
@@ -80,36 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69993ffd9a7947c22bf32fe6",
     "publishedAt": "2026-02-21T05:52:16.000Z",
-    "createdAt": "2026-02-21T10:32:45.229Z",
-    "updatedAt": "2026-02-21T10:32:45.229Z"
-  },
-  {
-    "id": "6454c56bc5c50443",
-    "title": "Корейская шорт-трекистка победила на дистанции 1500 м на Олимпиаде",
-    "sport": "Другое",
-    "category": "Другие",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/3/90/347716231540903.jpeg",
-    "teaser": "Корейская шорт-трекистка победила на дистанции 1500 м на Олимпиаде",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6998b27a9a79473d3e5c0d1a",
-    "publishedAt": "2026-02-20T21:34:49.000Z",
-    "createdAt": "2026-02-21T10:32:48.322Z",
-    "updatedAt": "2026-02-21T10:32:48.322Z"
-  },
-  {
-    "id": "4ac7e030025bdfb4",
-    "title": "Голландские шорт-трекисты впервые в истории выиграли золото в эстафете ОИ",
-    "sport": "Другое",
-    "category": "Другие",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/2/48/347716212507482.jpeg",
-    "teaser": "Голландские шорт-трекисты впервые в истории выиграли золото в эстафете ОИ",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6998af8c9a79470e29164b1a",
-    "publishedAt": "2026-02-20T21:30:07.000Z",
-    "createdAt": "2026-02-21T10:32:47.285Z",
-    "updatedAt": "2026-02-21T10:32:47.285Z"
+    "createdAt": "2026-02-21T11:27:34.745Z",
+    "updatedAt": "2026-02-21T11:27:34.745Z"
   },
   {
     "id": "c700bea339fc6ae1",
@@ -122,21 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69982a0a9a79476b4a896127",
     "publishedAt": "2026-02-20T21:01:26.000Z",
-    "createdAt": "2026-02-21T10:32:46.273Z",
-    "updatedAt": "2026-02-21T10:32:46.273Z"
-  },
-  {
-    "id": "3226874e0cc4d325",
-    "title": "Американский фристайлист взял золото в ски-хафпайпе на Олимпиаде",
-    "sport": "Другое",
-    "category": "Другие",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/3/46/347716178332463.jpeg",
-    "teaser": "Американский фристайлист взял золото в ски-хафпайпе на Олимпиаде",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6998b0799a79470e29164b1d",
-    "publishedAt": "2026-02-20T20:20:01.000Z",
-    "createdAt": "2026-02-21T10:32:49.386Z",
-    "updatedAt": "2026-02-21T10:32:49.386Z"
+    "createdAt": "2026-02-21T11:27:35.817Z",
+    "updatedAt": "2026-02-21T11:27:35.817Z"
   }
 ]
