@@ -1,17 +1,45 @@
 [
   {
-    "id": "6d2bbde8fc2931a6",
-    "title": "Спортсменка чуть не лишилась глаза. Что происходит на Олимпиаде",
+    "id": "979f6c5dc81e9775",
+    "title": "Борцу Садулаеву дали визу в Албанию, которая примет чемпионат Европы",
+    "sport": "Единоборства",
+    "category": "Единоборства",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/0/79/347716677184790.png",
+    "teaser": "Борцу Садулаеву дали визу в Албанию, которая примет чемпионат Европы",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69997d7a9a7947e824e90450",
+    "publishedAt": "2026-02-21T09:56:39.000Z",
+    "createdAt": "2026-02-21T10:32:43.059Z",
+    "updatedAt": "2026-02-21T10:32:43.059Z"
+  },
+  {
+    "id": "6462e981777c6063",
+    "title": "Российских фигуристов не пустят на чемпионат мира",
+    "sport": "Другое",
+    "category": "Фигурное катание",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/3/76/347716658981763.jpeg",
+    "teaser": "Российских фигуристов не пустят на чемпионат мира",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/699979769a79478bc58da361",
+    "publishedAt": "2026-02-21T09:36:10.000Z",
+    "createdAt": "2026-02-21T10:32:40.109Z",
+    "updatedAt": "2026-02-21T10:32:40.109Z"
+  },
+  {
+    "id": "7a9359e4f5f36b15",
+    "title": "Россиянин бежит к медали. Что происходит на Олимпиаде",
     "sport": "Другое",
     "category": "Другие",
     "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/9/13/347716614046139.jpeg",
-    "teaser": "Спортсменка чуть не лишилась глаза. Что происходит на Олимпиаде",
+    "teaser": "Россиянин бежит к медали. Что происходит на Олимпиаде",
     "fullContent": "",
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/699961729a79470fc6556a57",
     "publishedAt": "2026-02-21T09:02:48.000Z",
-    "createdAt": "2026-02-21T09:36:03.152Z",
-    "updatedAt": "2026-02-21T09:36:03.152Z"
+    "createdAt": "2026-02-21T10:32:41.087Z",
+    "updatedAt": "2026-02-21T10:32:41.087Z"
   },
   {
     "id": "2819299642a9dd90",
@@ -24,8 +52,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/699845319a79470b22b0dcf6",
     "publishedAt": "2026-02-21T07:18:51.000Z",
-    "createdAt": "2026-02-21T09:36:04.120Z",
-    "updatedAt": "2026-02-21T09:36:04.120Z"
+    "createdAt": "2026-02-21T10:32:42.099Z",
+    "updatedAt": "2026-02-21T10:32:42.099Z"
   },
   {
     "id": "61e99e629c583bbd",
@@ -38,8 +66,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69987a299a79473013842a40",
     "publishedAt": "2026-02-21T07:02:15.000Z",
-    "createdAt": "2026-02-21T09:36:05.172Z",
-    "updatedAt": "2026-02-21T09:36:05.172Z"
+    "createdAt": "2026-02-21T10:32:44.210Z",
+    "updatedAt": "2026-02-21T10:32:44.210Z"
   },
   {
     "id": "2e03f18abd53a2e5",
@@ -52,8 +80,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69993ffd9a7947c22bf32fe6",
     "publishedAt": "2026-02-21T05:52:16.000Z",
-    "createdAt": "2026-02-21T09:36:06.190Z",
-    "updatedAt": "2026-02-21T09:36:06.190Z"
+    "createdAt": "2026-02-21T10:32:45.229Z",
+    "updatedAt": "2026-02-21T10:32:45.229Z"
   },
   {
     "id": "6454c56bc5c50443",
@@ -66,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6998b27a9a79473d3e5c0d1a",
     "publishedAt": "2026-02-20T21:34:49.000Z",
-    "createdAt": "2026-02-21T09:36:09.360Z",
-    "updatedAt": "2026-02-21T09:36:09.360Z"
+    "createdAt": "2026-02-21T10:32:48.322Z",
+    "updatedAt": "2026-02-21T10:32:48.322Z"
   },
   {
     "id": "4ac7e030025bdfb4",
@@ -80,8 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6998af8c9a79470e29164b1a",
     "publishedAt": "2026-02-20T21:30:07.000Z",
-    "createdAt": "2026-02-21T09:36:08.327Z",
-    "updatedAt": "2026-02-21T09:36:08.327Z"
+    "createdAt": "2026-02-21T10:32:47.285Z",
+    "updatedAt": "2026-02-21T10:32:47.285Z"
   },
   {
     "id": "c700bea339fc6ae1",
@@ -94,8 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69982a0a9a79476b4a896127",
     "publishedAt": "2026-02-20T21:01:26.000Z",
-    "createdAt": "2026-02-21T09:36:07.248Z",
-    "updatedAt": "2026-02-21T09:36:07.248Z"
+    "createdAt": "2026-02-21T10:32:46.273Z",
+    "updatedAt": "2026-02-21T10:32:46.273Z"
   },
   {
     "id": "3226874e0cc4d325",
@@ -108,35 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6998b0799a79470e29164b1d",
     "publishedAt": "2026-02-20T20:20:01.000Z",
-    "createdAt": "2026-02-21T09:36:10.395Z",
-    "updatedAt": "2026-02-21T09:36:10.395Z"
-  },
-  {
-    "id": "e8573c799950d4e7",
-    "title": "Итальянский биатлонист назвал сход с масс-старта на ОИ «худшими эмоциями»",
-    "sport": "Другое",
-    "category": "Биатлон",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/7/57/347716125067577.jpeg",
-    "teaser": "Итальянский биатлонист назвал сход с масс-старта на ОИ «худшими эмоциями»",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6998a8589a7947025b2287e3",
-    "publishedAt": "2026-02-20T19:03:00.000Z",
-    "createdAt": "2026-02-21T09:36:12.501Z",
-    "updatedAt": "2026-02-21T09:36:12.501Z"
-  },
-  {
-    "id": "e3e940c5718a0d70",
-    "title": "Российский вратарь назвал шанс выступить за Норвегию на ЧМ маловероятным",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/0/03/347716135681030.jpeg",
-    "teaser": "Российский вратарь назвал шанс выступить за Норвегию на ЧМ маловероятным",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6998aa239a794741fc8e9ebe",
-    "publishedAt": "2026-02-20T19:01:41.000Z",
-    "createdAt": "2026-02-21T09:36:11.436Z",
-    "updatedAt": "2026-02-21T09:36:11.436Z"
+    "createdAt": "2026-02-21T10:32:49.386Z",
+    "updatedAt": "2026-02-21T10:32:49.386Z"
   }
 ]
