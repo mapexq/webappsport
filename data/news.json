@@ -1,5 +1,47 @@
 [
   {
+    "id": "f0be250bd5132282",
+    "title": "Канадцы сравняли счет в хоккейном финале. Что происходит на Олимпиаде",
+    "sport": "Другое",
+    "category": "Другие",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/0/45/347717425495450.jpeg",
+    "teaser": "Канадцы сравняли счет в хоккейном финале. Что происходит на Олимпиаде",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/699aa3119a79478645018372",
+    "publishedAt": "2026-02-22T15:27:32.000Z",
+    "createdAt": "2026-02-22T15:31:32.940Z",
+    "updatedAt": "2026-02-22T15:31:32.940Z"
+  },
+  {
+    "id": "6c651707c6041d38",
+    "title": "ЦСКА по пенальти обыграл «Спартак» и стал обладателям Кубка легенд",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/1/75/347717695077751.png",
+    "teaser": "ЦСКА по пенальти обыграл «Спартак» и стал обладателям Кубка легенд",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/699b0c229a7947bae1db4618",
+    "publishedAt": "2026-02-22T14:43:46.000Z",
+    "createdAt": "2026-02-22T15:31:36.059Z",
+    "updatedAt": "2026-02-22T15:31:36.059Z"
+  },
+  {
+    "id": "8f6e0082c4cb4795",
+    "title": "ЦСКА и «Автомобилист» вышли в плей-офф КХЛ",
+    "sport": "Хоккей",
+    "category": "Хоккей",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/1/24/347717708230241.jpeg",
+    "teaser": "ЦСКА и «Автомобилист» вышли в плей-офф КХЛ",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/699b115e9a79477e05577d73",
+    "publishedAt": "2026-02-22T14:37:38.000Z",
+    "createdAt": "2026-02-22T15:31:33.963Z",
+    "updatedAt": "2026-02-22T15:31:33.963Z"
+  },
+  {
     "id": "75b2e683379e3816",
     "title": "Немка Хенниг отреагировала на ситуацию со взявшей ее лыжи Непряевой",
     "sport": "Другое",
@@ -10,22 +52,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/699b04339a7947363519b063",
     "publishedAt": "2026-02-22T14:02:51.000Z",
-    "createdAt": "2026-02-22T14:32:15.787Z",
-    "updatedAt": "2026-02-22T14:32:15.787Z"
-  },
-  {
-    "id": "bab7d8fa06d9fd05",
-    "title": "Россиянку дисквалифицировали за чужие лыжи. Что происходит на Олимпиаде",
-    "sport": "Другое",
-    "category": "Другие",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/0/45/347717425495450.jpeg",
-    "teaser": "Россиянку дисквалифицировали за чужие лыжи. Что происходит на Олимпиаде",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/699aa3119a79478645018372",
-    "publishedAt": "2026-02-22T14:02:19.000Z",
-    "createdAt": "2026-02-22T14:32:13.706Z",
-    "updatedAt": "2026-02-22T14:32:13.706Z"
+    "createdAt": "2026-02-22T15:31:37.043Z",
+    "updatedAt": "2026-02-22T15:31:37.043Z"
   },
   {
     "id": "b7b8ab67d79cd220",
@@ -38,8 +66,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/699ae6239a7947e2efb06b6d",
     "publishedAt": "2026-02-22T13:56:07.000Z",
-    "createdAt": "2026-02-22T14:32:14.789Z",
-    "updatedAt": "2026-02-22T14:32:14.789Z"
+    "createdAt": "2026-02-22T15:31:35.020Z",
+    "updatedAt": "2026-02-22T15:31:35.020Z"
   },
   {
     "id": "0ca58b376c0b720a",
@@ -52,8 +80,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/699aff739a79471c535eee7b",
     "publishedAt": "2026-02-22T13:47:54.000Z",
-    "createdAt": "2026-02-22T14:32:17.891Z",
-    "updatedAt": "2026-02-22T14:32:17.891Z"
+    "createdAt": "2026-02-22T15:31:39.018Z",
+    "updatedAt": "2026-02-22T15:31:39.018Z"
   },
   {
     "id": "262daa1d6ff03636",
@@ -66,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/699afe199a79478a29fc83c0",
     "publishedAt": "2026-02-22T13:17:19.000Z",
-    "createdAt": "2026-02-22T14:32:16.830Z",
-    "updatedAt": "2026-02-22T14:32:16.830Z"
+    "createdAt": "2026-02-22T15:31:38.104Z",
+    "updatedAt": "2026-02-22T15:31:38.104Z"
   },
   {
     "id": "db98adfa9c85999a",
@@ -80,8 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/699af6679a7947e44f368f60",
     "publishedAt": "2026-02-22T13:14:25.000Z",
-    "createdAt": "2026-02-22T14:32:19.922Z",
-    "updatedAt": "2026-02-22T14:32:19.922Z"
+    "createdAt": "2026-02-22T15:31:41.218Z",
+    "updatedAt": "2026-02-22T15:31:41.218Z"
   },
   {
     "id": "140af7fd0ee89f68",
@@ -94,8 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/699afb449a79476be8482b5d",
     "publishedAt": "2026-02-22T13:07:46.000Z",
-    "createdAt": "2026-02-22T14:32:18.869Z",
-    "updatedAt": "2026-02-22T14:32:18.869Z"
+    "createdAt": "2026-02-22T15:31:40.043Z",
+    "updatedAt": "2026-02-22T15:31:40.043Z"
   },
   {
     "id": "ac30d8ea8ba76e23",
@@ -108,35 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/699aeecc9a7947ff997f9d30",
     "publishedAt": "2026-02-22T12:00:08.000Z",
-    "createdAt": "2026-02-22T14:32:20.986Z",
-    "updatedAt": "2026-02-22T14:32:20.986Z"
-  },
-  {
-    "id": "a93bdbc20e714a0f",
-    "title": "Россия завоевала одну медаль на Олимпиаде-2026 и установила антирекорд",
-    "sport": "Другое",
-    "category": "Другие",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/7/42/347717583284427.jpeg",
-    "teaser": "Россия завоевала одну медаль на Олимпиаде-2026 и установила антирекорд",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/699adda59a7947d47ca7c84a",
-    "publishedAt": "2026-02-22T11:29:50.000Z",
-    "createdAt": "2026-02-22T14:32:22.040Z",
-    "updatedAt": "2026-02-22T14:32:22.040Z"
-  },
-  {
-    "id": "7ea778a9ed1e2127",
-    "title": "Самая богатая спортсменка Олимпиады-2026 завоевала рекордное золото",
-    "sport": "Другое",
-    "category": "Другие",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/6/13/347717578376136.jpeg",
-    "teaser": "Самая богатая спортсменка Олимпиады-2026 завоевала рекордное золото",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/699ae0b49a79479b7be09ee8",
-    "publishedAt": "2026-02-22T11:05:04.000Z",
-    "createdAt": "2026-02-22T14:32:23.361Z",
-    "updatedAt": "2026-02-22T14:32:23.361Z"
+    "createdAt": "2026-02-22T15:31:42.259Z",
+    "updatedAt": "2026-02-22T15:31:42.259Z"
   }
 ]
