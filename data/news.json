@@ -1,17 +1,87 @@
 [
   {
-    "id": "f0be250bd5132282",
-    "title": "Канадцы сравняли счет в хоккейном финале. Что происходит на Олимпиаде",
+    "id": "bf743334fa950553",
+    "title": "Макдэвида признали самым ценным игроком хоккейного турнира на Олимпиаде",
+    "sport": "Хоккей",
+    "category": "Хоккей",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/4/72/347717778125724.jpeg",
+    "teaser": "Макдэвида признали самым ценным игроком хоккейного турнира на Олимпиаде",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/699b2d9d9a7947626cec8e92",
+    "publishedAt": "2026-02-22T16:35:35.000Z",
+    "createdAt": "2026-02-22T16:38:00.795Z",
+    "updatedAt": "2026-02-22T16:38:00.795Z"
+  },
+  {
+    "id": "3dc4eb939cfed15a",
+    "title": "Трамп поздравил сборную США с победой в хоккейном турнире на Олимпиаде",
+    "sport": "Хоккей",
+    "category": "Хоккей",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/5/03/347717775853035.jpeg",
+    "teaser": "Трамп поздравил сборную США с победой в хоккейном турнире на Олимпиаде",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/699b2df19a7947440a953cd6",
+    "publishedAt": "2026-02-22T16:33:34.000Z",
+    "createdAt": "2026-02-22T16:38:01.750Z",
+    "updatedAt": "2026-02-22T16:38:01.750Z"
+  },
+  {
+    "id": "fb91a24c64e26933",
+    "title": "Капитана ЦСКА дисквалифицировали на один матч КХЛ",
+    "sport": "Хоккей",
+    "category": "Хоккей",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/1/73/347717755590731.jpeg",
+    "teaser": "Капитана ЦСКА дисквалифицировали на один матч КХЛ",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/699b26149a7947eb9aa43a43",
+    "publishedAt": "2026-02-22T16:09:32.000Z",
+    "createdAt": "2026-02-22T16:38:03.749Z",
+    "updatedAt": "2026-02-22T16:38:03.749Z"
+  },
+  {
+    "id": "85366948b4d1393f",
+    "title": "Сборная США по хоккею взяла золото на Олимпиаде впервые с 1980 года",
+    "sport": "Хоккей",
+    "category": "Хоккей",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/8/86/347717722251868.jpeg",
+    "teaser": "Сборная США по хоккею взяла золото на Олимпиаде впервые с 1980 года",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/699b182a9a794750785c9ec1",
+    "publishedAt": "2026-02-22T15:59:18.000Z",
+    "createdAt": "2026-02-22T16:38:02.743Z",
+    "updatedAt": "2026-02-22T16:38:02.743Z"
+  },
+  {
+    "id": "2a959b139716f74e",
+    "title": "Первое с 1980 года золото США в хоккее. Что происходит на Олимпиаде",
     "sport": "Другое",
     "category": "Другие",
     "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/0/45/347717425495450.jpeg",
-    "teaser": "Канадцы сравняли счет в хоккейном финале. Что происходит на Олимпиаде",
+    "teaser": "Первое с 1980 года золото США в хоккее. Что происходит на Олимпиаде",
     "fullContent": "",
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/699aa3119a79478645018372",
-    "publishedAt": "2026-02-22T15:27:32.000Z",
-    "createdAt": "2026-02-22T15:31:32.940Z",
-    "updatedAt": "2026-02-22T15:31:32.940Z"
+    "publishedAt": "2026-02-22T15:55:03.000Z",
+    "createdAt": "2026-02-22T16:37:59.849Z",
+    "updatedAt": "2026-02-22T16:37:59.849Z"
+  },
+  {
+    "id": "b08d92556a36762b",
+    "title": "«Какой сейчас азарт?» Слуцкая оценила результаты фигуристов на Олимпиаде",
+    "sport": "Другое",
+    "category": "Другие",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/9/45/347717709417459.png",
+    "teaser": "«Какой сейчас азарт?» Слуцкая оценила результаты фигуристов на Олимпиаде",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/699b05cd9a794797e3b48705",
+    "publishedAt": "2026-02-22T15:27:40.000Z",
+    "createdAt": "2026-02-22T16:38:05.579Z",
+    "updatedAt": "2026-02-22T16:38:05.579Z"
   },
   {
     "id": "6c651707c6041d38",
@@ -24,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/699b0c229a7947bae1db4618",
     "publishedAt": "2026-02-22T14:43:46.000Z",
-    "createdAt": "2026-02-22T15:31:36.059Z",
-    "updatedAt": "2026-02-22T15:31:36.059Z"
+    "createdAt": "2026-02-22T16:38:08.680Z",
+    "updatedAt": "2026-02-22T16:38:08.680Z"
   },
   {
     "id": "8f6e0082c4cb4795",
@@ -38,8 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/699b115e9a79477e05577d73",
     "publishedAt": "2026-02-22T14:37:38.000Z",
-    "createdAt": "2026-02-22T15:31:33.963Z",
-    "updatedAt": "2026-02-22T15:31:33.963Z"
+    "createdAt": "2026-02-22T16:38:06.581Z",
+    "updatedAt": "2026-02-22T16:38:06.581Z"
   },
   {
     "id": "75b2e683379e3816",
@@ -52,8 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/699b04339a7947363519b063",
     "publishedAt": "2026-02-22T14:02:51.000Z",
-    "createdAt": "2026-02-22T15:31:37.043Z",
-    "updatedAt": "2026-02-22T15:31:37.043Z"
+    "createdAt": "2026-02-22T16:38:09.674Z",
+    "updatedAt": "2026-02-22T16:38:09.674Z"
   },
   {
     "id": "b7b8ab67d79cd220",
@@ -66,77 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/699ae6239a7947e2efb06b6d",
     "publishedAt": "2026-02-22T13:56:07.000Z",
-    "createdAt": "2026-02-22T15:31:35.020Z",
-    "updatedAt": "2026-02-22T15:31:35.020Z"
-  },
-  {
-    "id": "0ca58b376c0b720a",
-    "title": "Шведки стали четырехкратными олимпийскими чемпионками по керлингу",
-    "sport": "Другое",
-    "category": "Другие",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/1/71/347717660478711.jpeg",
-    "teaser": "Шведки стали четырехкратными олимпийскими чемпионками по керлингу",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/699aff739a79471c535eee7b",
-    "publishedAt": "2026-02-22T13:47:54.000Z",
-    "createdAt": "2026-02-22T15:31:39.018Z",
-    "updatedAt": "2026-02-22T15:31:39.018Z"
-  },
-  {
-    "id": "262daa1d6ff03636",
-    "title": "Как сменившие гражданство россияне выступили за другие сборные на ОИ-2026",
-    "sport": "Другое",
-    "category": "Другие",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/5/25/347717653265255.jpeg",
-    "teaser": "Как сменившие гражданство россияне выступили за другие сборные на ОИ-2026",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/699afe199a79478a29fc83c0",
-    "publishedAt": "2026-02-22T13:17:19.000Z",
-    "createdAt": "2026-02-22T15:31:38.104Z",
-    "updatedAt": "2026-02-22T15:31:38.104Z"
-  },
-  {
-    "id": "db98adfa9c85999a",
-    "title": "Кросби не сыграет за сборную Канады в финальном матче Олимпиады",
-    "sport": "Хоккей",
-    "category": "Хоккей",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/1/02/347717637676021.jpeg",
-    "teaser": "Кросби не сыграет за сборную Канады в финальном матче Олимпиады",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/699af6679a7947e44f368f60",
-    "publishedAt": "2026-02-22T13:14:25.000Z",
-    "createdAt": "2026-02-22T15:31:41.218Z",
-    "updatedAt": "2026-02-22T15:31:41.218Z"
-  },
-  {
-    "id": "140af7fd0ee89f68",
-    "title": "Непряева рассказала о панике из-за чужих лыж на марафоне Олимпиады",
-    "sport": "Другое",
-    "category": "Другие",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/6/76/347717649681766.jpeg",
-    "teaser": "Непряева рассказала о панике из-за чужих лыж на марафоне Олимпиады",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/699afb449a79476be8482b5d",
-    "publishedAt": "2026-02-22T13:07:46.000Z",
-    "createdAt": "2026-02-22T15:31:40.043Z",
-    "updatedAt": "2026-02-22T15:31:40.043Z"
-  },
-  {
-    "id": "ac30d8ea8ba76e23",
-    "title": "Результат Непряевой в марафоне на Олимпиаде аннулировали за чужие лыжи",
-    "sport": "Другое",
-    "category": "Другие",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/3/24/347717613968243.jpeg",
-    "teaser": "Результат Непряевой в марафоне на Олимпиаде аннулировали за чужие лыжи",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/699aeecc9a7947ff997f9d30",
-    "publishedAt": "2026-02-22T12:00:08.000Z",
-    "createdAt": "2026-02-22T15:31:42.259Z",
-    "updatedAt": "2026-02-22T15:31:42.259Z"
+    "createdAt": "2026-02-22T16:38:07.634Z",
+    "updatedAt": "2026-02-22T16:38:07.634Z"
   }
 ]
