@@ -1,17 +1,87 @@
 [
   {
-    "id": "0d3779a17c732d21",
-    "title": "У России новый антирекорд. Что происходит на Олимпиаде",
+    "id": "7ea778a9ed1e2127",
+    "title": "Самая богатая спортсменка Олимпиады-2026 завоевала рекордное золото",
     "sport": "Другое",
     "category": "Другие",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/9/13/347716614046139.jpeg",
-    "teaser": "У России новый антирекорд. Что происходит на Олимпиаде",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/6/13/347717578376136.jpeg",
+    "teaser": "Самая богатая спортсменка Олимпиады-2026 завоевала рекордное золото",
     "fullContent": "",
     "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/699961729a79470fc6556a57",
-    "publishedAt": "2026-02-21T19:50:05.000Z",
-    "createdAt": "2026-02-22T10:32:13.163Z",
-    "updatedAt": "2026-02-22T10:32:13.163Z"
+    "sourceUrl": "https://sportrbc.ru/news/699ae0b49a79479b7be09ee8",
+    "publishedAt": "2026-02-22T11:05:04.000Z",
+    "createdAt": "2026-02-22T11:27:31.226Z",
+    "updatedAt": "2026-02-22T11:27:31.226Z"
+  },
+  {
+    "id": "99b3f092805d8623",
+    "title": "Древнее Колизея. На каких античных аренах проводились Олимпийские игры",
+    "sport": "Другое",
+    "category": "Другие",
+    "imageUrl": "/images/news-placeholder.jpg",
+    "teaser": "Древнее Колизея. На каких античных аренах проводились Олимпийские игры",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6999c9629a7947d9b0db32d8",
+    "publishedAt": "2026-02-22T08:30:45.000Z",
+    "createdAt": "2026-02-22T11:27:33.272Z",
+    "updatedAt": "2026-02-22T11:27:33.272Z"
+  },
+  {
+    "id": "817c468ba159b823",
+    "title": "Россиянка взяла чужие лыжи. Что происходит в последний день Олимпиады",
+    "sport": "Другое",
+    "category": "Другие",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/0/45/347717425495450.jpeg",
+    "teaser": "Россиянка взяла чужие лыжи. Что происходит в последний день Олимпиады",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/699aa3119a79478645018372",
+    "publishedAt": "2026-02-22T07:04:28.000Z",
+    "createdAt": "2026-02-22T11:27:30.130Z",
+    "updatedAt": "2026-02-22T11:27:30.130Z"
+  },
+  {
+    "id": "234dbe8b8bb29dad",
+    "title": "Почему золотая медаль Олимпиады в два раза побила рекорд стоимости",
+    "sport": "Другое",
+    "category": "Другие",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/5/46/347717444496465.jpeg",
+    "teaser": "Почему золотая медаль Олимпиады в два раза побила рекорд стоимости",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69986ed29a794764740a79ee",
+    "publishedAt": "2026-02-22T07:00:34.000Z",
+    "createdAt": "2026-02-22T11:27:34.412Z",
+    "updatedAt": "2026-02-22T11:27:34.412Z"
+  },
+  {
+    "id": "94ee906240b25101",
+    "title": "Как Петросян выступила на гала-вечере Олимпиады под Шакиру. Видео",
+    "sport": "Другое",
+    "category": "Фигурное катание",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/9/94/347717392396949.jpeg",
+    "teaser": "Как Петросян выступила на гала-вечере Олимпиады под Шакиру. Видео",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/699a8dd09a794734f7522a9e",
+    "publishedAt": "2026-02-22T05:51:40.000Z",
+    "createdAt": "2026-02-22T11:27:37.967Z",
+    "updatedAt": "2026-02-22T11:27:37.967Z"
+  },
+  {
+    "id": "4786c970fdc5f00e",
+    "title": "Знаковые моменты в истории зимних Олимпийских игр",
+    "sport": "Другое",
+    "category": "Другие",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/8/01/347699709525018.jpeg",
+    "teaser": "Знаковые моменты в истории зимних Олимпийских игр",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/697f533e9a794706f4ebb1c3",
+    "publishedAt": "2026-02-22T05:00:28.000Z",
+    "createdAt": "2026-02-22T11:27:35.740Z",
+    "updatedAt": "2026-02-22T11:27:35.740Z"
   },
   {
     "id": "fa46437369b1dbc0",
@@ -24,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6999f5dc9a794797b52443c6",
     "publishedAt": "2026-02-21T19:18:38.000Z",
-    "createdAt": "2026-02-22T10:32:10.962Z",
-    "updatedAt": "2026-02-22T10:32:10.962Z"
+    "createdAt": "2026-02-22T11:27:41.558Z",
+    "updatedAt": "2026-02-22T11:27:41.558Z"
   },
   {
     "id": "8bca2ec64ea73979",
@@ -38,36 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6999fc599a79472600afdb42",
     "publishedAt": "2026-02-21T19:13:39.000Z",
-    "createdAt": "2026-02-22T10:32:09.941Z",
-    "updatedAt": "2026-02-22T10:32:09.941Z"
-  },
-  {
-    "id": "a463b9af37fb7c9c",
-    "title": "Хоккеиста СКА увезли со льда на носилках после толчка от капитана ЦСКА",
-    "sport": "Хоккей",
-    "category": "Хоккей",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/1/73/347716957218731.png",
-    "teaser": "Хоккеиста СКА увезли со льда на носилках после толчка от капитана ЦСКА",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6999ee289a794757542c5229",
-    "publishedAt": "2026-02-21T17:56:53.000Z",
-    "createdAt": "2026-02-22T10:32:16.309Z",
-    "updatedAt": "2026-02-22T10:32:16.309Z"
-  },
-  {
-    "id": "66888f3317908040",
-    "title": "Хоккеиста «Спартака» отстранили на три матча за удар клюшкой в лицо",
-    "sport": "Хоккей",
-    "category": "Хоккей",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/8/01/347716937204018.png",
-    "teaser": "Хоккеиста «Спартака» отстранили на три матча за удар клюшкой в лицо",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6999e6619a7947b8412b38ac",
-    "publishedAt": "2026-02-21T17:21:57.000Z",
-    "createdAt": "2026-02-22T10:32:14.189Z",
-    "updatedAt": "2026-02-22T10:32:14.189Z"
+    "createdAt": "2026-02-22T11:27:40.437Z",
+    "updatedAt": "2026-02-22T11:27:40.437Z"
   },
   {
     "id": "72928dfe8d560d88",
@@ -80,50 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6999dfd49a7947eb2e157625",
     "publishedAt": "2026-02-21T17:19:28.000Z",
-    "createdAt": "2026-02-22T10:32:11.973Z",
-    "updatedAt": "2026-02-22T10:32:11.973Z"
-  },
-  {
-    "id": "85a479dcdf9654b9",
-    "title": "Голландский конькобежец в 40 лет выиграл масс-старт на Олимпиаде",
-    "sport": "Другое",
-    "category": "Другие",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/5/43/347716897578435.jpeg",
-    "teaser": "Голландский конькобежец в 40 лет выиграл масс-старт на Олимпиаде",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6999d0df9a7947d18ffe9238",
-    "publishedAt": "2026-02-21T16:48:55.000Z",
-    "createdAt": "2026-02-22T10:32:17.447Z",
-    "updatedAt": "2026-02-22T10:32:17.447Z"
-  },
-  {
-    "id": "6201c27cc1a174cc",
-    "title": "Радулов третьим в истории набрал 800 очков в КХЛ",
-    "sport": "Хоккей",
-    "category": "Хоккей",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/1/23/347716916472231.png",
-    "teaser": "Радулов третьим в истории набрал 800 очков в КХЛ",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6999d29d9a79470216ab48b3",
-    "publishedAt": "2026-02-21T16:38:21.000Z",
-    "createdAt": "2026-02-22T10:32:18.457Z",
-    "updatedAt": "2026-02-22T10:32:18.457Z"
-  },
-  {
-    "id": "4a65ac4f8546dd90",
-    "title": "Коростелев заявил, что «уничтожен» выступлением на Олимпиаде",
-    "sport": "Другое",
-    "category": "Другие",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/9/77/347716869309779.jpeg",
-    "teaser": "Коростелев заявил, что «уничтожен» выступлением на Олимпиаде",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6999cbe99a7947d9b0db32df",
-    "publishedAt": "2026-02-21T15:40:17.000Z",
-    "createdAt": "2026-02-22T10:32:15.216Z",
-    "updatedAt": "2026-02-22T10:32:15.216Z"
+    "createdAt": "2026-02-22T11:27:42.733Z",
+    "updatedAt": "2026-02-22T11:27:42.733Z"
   },
   {
     "id": "7cd7a402d5541553",
@@ -136,7 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6999b6919a79471a7a3768da",
     "publishedAt": "2026-02-21T15:21:13.000Z",
-    "createdAt": "2026-02-22T10:32:08.920Z",
-    "updatedAt": "2026-02-22T10:32:08.920Z"
+    "createdAt": "2026-02-22T11:27:39.237Z",
+    "updatedAt": "2026-02-22T11:27:39.237Z"
   }
 ]
