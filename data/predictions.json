@@ -1,6 +1,6 @@
 [
   {
-    "id": 1771822986203,
+    "id": 1771830791510,
     "eventName": "Трактор — Лада",
     "discipline": "Хоккей",
     "tournament": "Чемпионат",
@@ -16,7 +16,7 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1771822986204,
+    "id": 1771830791511,
     "eventName": "Трактор — Лада",
     "discipline": "Хоккей",
     "tournament": "Чемпионат",
@@ -32,7 +32,7 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1771822986205,
+    "id": 1771830791512,
     "eventName": "Трактор — Лада",
     "discipline": "Хоккей",
     "tournament": "Чемпионат",
@@ -48,7 +48,7 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1771822986206,
+    "id": 1771830791513,
     "eventName": "Торпедо — Динамо Минск",
     "discipline": "Хоккей",
     "tournament": "Чемпионат",
@@ -64,7 +64,7 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1771822986207,
+    "id": 1771830791514,
     "eventName": "Сочи — ЦСКА",
     "discipline": "Хоккей",
     "tournament": "Чемпионат",
@@ -80,7 +80,7 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1771822986208,
+    "id": 1771830791515,
     "eventName": "Фиорентина — Пиза",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -96,7 +96,7 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1771822986209,
+    "id": 1771830791516,
     "eventName": "Болонья — Удинезе",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -112,7 +112,7 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1771822986210,
+    "id": 1771830791517,
     "eventName": "Фиорентина — Пиза",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -128,7 +128,23 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1771822986211,
+    "id": 1771830791518,
+    "eventName": "Болонья — Удинезе",
+    "discipline": "Футбол",
+    "tournament": "Чемпионат",
+    "expert": {
+      "name": "Сергей Ощепков",
+      "avatar": "https://bookmaker-ratings.ru/static/images/badges/is-kapper.svg?v=30092024",
+      "status": "expert",
+      "winRate": 80
+    },
+    "prediction": "Ничья",
+    "odds": 3.5,
+    "comment": "Соперники соседи по турнирной таблице и в последних матчах не могут похвастаться хорошими результатами. Линия нападения не блещет результативностью, а оборона не безгрешна.",
+    "source": "Sports Analytics Pro"
+  },
+  {
+    "id": 1771830791519,
     "eventName": "Матч",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -141,22 +157,6 @@
     "prediction": "Тотал Манчестер Юн. больше (1.5)",
     "odds": 1.83,
     "comment": "Эвертон - Манчестер Юн. Манчестер набирает обороты серия без проигрышных матчей + статистика очных встреч говорит о том что МЮ два мяча кладут стабильно.",
-    "source": "Sports Analytics Pro"
-  },
-  {
-    "id": 1771822986213,
-    "eventName": "Обе забьют — ДаОЗ было",
-    "discipline": "Футбол",
-    "tournament": "Чемпионат",
-    "expert": {
-      "name": "Артур Галкин",
-      "avatar": "https://bookmaker-ratings.ru/static/images/badges/is-kapper.svg?v=30092024",
-      "status": "expert",
-      "winRate": 68
-    },
-    "prediction": "Обе забьют - Да",
-    "odds": 1.63,
-    "comment": "ОЗ было: в матчах Эвертона в 6/7 последних, в матчах МЮ в 5/7 последних. Ожидаю, что команды обменяются голами. МЮ регулярно пропускает на выезде: ни одного матча на выезде на ноль у манкунианцев в этом сезоне АПЛ. Но а сами дьяволы должны забить также.",
     "source": "Sports Analytics Pro"
   }
 ]
