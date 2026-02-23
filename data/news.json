@@ -1,5 +1,61 @@
 [
   {
+    "id": "6c45a481cce17056",
+    "title": "Начало матча КХЛ в Сочи отложили на час из-за авиаопасности",
+    "sport": "Хоккей",
+    "category": "Хоккей",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/0/19/347718567866190.png",
+    "teaser": "Начало матча КХЛ в Сочи отложили на час из-за авиаопасности",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/699c5e269a79476cccebb1ac",
+    "publishedAt": "2026-02-23T14:24:05.000Z",
+    "createdAt": "2026-02-23T14:53:49.008Z",
+    "updatedAt": "2026-02-23T14:53:49.008Z"
+  },
+  {
+    "id": "05b1c74fe082b263",
+    "title": "Вице-чемпион Олимпиады Филиппов пошутил про сдачу медали «на цветмет»",
+    "sport": "Другое",
+    "category": "Другие",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/3/48/347718536681483.png",
+    "teaser": "Вице-чемпион Олимпиады Филиппов пошутил про сдачу медали «на цветмет»",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/699c57099a79472b8375551a",
+    "publishedAt": "2026-02-23T13:50:21.000Z",
+    "createdAt": "2026-02-23T14:53:50.132Z",
+    "updatedAt": "2026-02-23T14:53:50.132Z"
+  },
+  {
+    "id": "3b1bbf414b2cd9f2",
+    "title": "«Трактор» дважды забил за 29 секунд и вырвал победу у «Лады»",
+    "sport": "Хоккей",
+    "category": "Хоккей",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/4/73/347718528083734.png",
+    "teaser": "«Трактор» дважды забил за 29 секунд и вырвал победу у «Лады»",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/699c537b9a79473ccd6e066a",
+    "publishedAt": "2026-02-23T13:28:59.000Z",
+    "createdAt": "2026-02-23T14:53:52.310Z",
+    "updatedAt": "2026-02-23T14:53:52.310Z"
+  },
+  {
+    "id": "3dc8796d9e275e92",
+    "title": "«Арсеналу» не разрешили играть с «Локомотивом» на своей арене в Кубке",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/0/53/347718509860530.png",
+    "teaser": "«Арсеналу» не разрешили играть с «Локомотивом» на своей арене в Кубке",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/699c4aa79a79470d947b02f4",
+    "publishedAt": "2026-02-23T13:15:37.000Z",
+    "createdAt": "2026-02-23T14:53:53.655Z",
+    "updatedAt": "2026-02-23T14:53:53.655Z"
+  },
+  {
     "id": "0651ae60732b684e",
     "title": "Самолет с игроками «Динамо» перенаправляли в Петербург из-за атаки БПЛА",
     "sport": "Футбол",
@@ -10,8 +66,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/699c3e399a79477e607d8db0",
     "publishedAt": "2026-02-23T13:03:06.000Z",
-    "createdAt": "2026-02-23T13:18:40.841Z",
-    "updatedAt": "2026-02-23T13:18:40.841Z"
+    "createdAt": "2026-02-23T14:53:51.191Z",
+    "updatedAt": "2026-02-23T14:53:51.191Z"
   },
   {
     "id": "97e60b4b5eee7d83",
@@ -24,8 +80,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/699c395a9a794752e08a50c7",
     "publishedAt": "2026-02-23T11:41:09.000Z",
-    "createdAt": "2026-02-23T13:18:47.159Z",
-    "updatedAt": "2026-02-23T13:18:47.159Z"
+    "createdAt": "2026-02-23T14:54:00.581Z",
+    "updatedAt": "2026-02-23T14:54:00.581Z"
   },
   {
     "id": "21cdad90c7daceab",
@@ -38,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/699c2e2e9a7947416c16fb16",
     "publishedAt": "2026-02-23T10:55:56.000Z",
-    "createdAt": "2026-02-23T13:18:41.993Z",
-    "updatedAt": "2026-02-23T13:18:41.993Z"
+    "createdAt": "2026-02-23T14:53:54.725Z",
+    "updatedAt": "2026-02-23T14:53:54.725Z"
   },
   {
     "id": "7b78445995a265b6",
@@ -52,36 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/699c23e89a79473b141ad510",
     "publishedAt": "2026-02-23T10:22:48.000Z",
-    "createdAt": "2026-02-23T13:18:44.473Z",
-    "updatedAt": "2026-02-23T13:18:44.473Z"
-  },
-  {
-    "id": "fb2c22348abed23f",
-    "title": "Дважды отстоявший на ноль вратарь СКА вошел в число игроков недели в КХЛ",
-    "sport": "Хоккей",
-    "category": "Хоккей",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/9/05/347718390168059.png",
-    "teaser": "Дважды отстоявший на ноль вратарь СКА вошел в число игроков недели в КХЛ",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/699c1baa9a7947032496ad18",
-    "publishedAt": "2026-02-23T09:32:27.000Z",
-    "createdAt": "2026-02-23T13:18:50.752Z",
-    "updatedAt": "2026-02-23T13:18:50.752Z"
-  },
-  {
-    "id": "aa57ed9321280a11",
-    "title": "Рублев вылетел из топ-15 рейтинга, не защитив титул чемпиона в Дохе",
-    "sport": "Теннис",
-    "category": "Теннис",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/9/93/347718374317939.jpeg",
-    "teaser": "Рублев вылетел из топ-15 рейтинга, не защитив титул чемпиона в Дохе",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/699c175e9a79471426e26e4f",
-    "publishedAt": "2026-02-23T09:13:54.000Z",
-    "createdAt": "2026-02-23T13:18:49.520Z",
-    "updatedAt": "2026-02-23T13:18:49.520Z"
+    "createdAt": "2026-02-23T14:53:59.443Z",
+    "updatedAt": "2026-02-23T14:53:59.443Z"
   },
   {
     "id": "ea1843f85793dd98",
@@ -94,8 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6996e0ef9a7947559b97ca40",
     "publishedAt": "2026-02-23T07:31:27.000Z",
-    "createdAt": "2026-02-23T13:18:46.003Z",
-    "updatedAt": "2026-02-23T13:18:46.003Z"
+    "createdAt": "2026-02-23T14:53:56.058Z",
+    "updatedAt": "2026-02-23T14:53:56.058Z"
   },
   {
     "id": "2d24c13b00a786ba",
@@ -108,35 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/699af0b49a79472730cb7cd5",
     "publishedAt": "2026-02-23T06:01:59.000Z",
-    "createdAt": "2026-02-23T13:18:48.361Z",
-    "updatedAt": "2026-02-23T13:18:48.361Z"
-  },
-  {
-    "id": "406157d3cd0e2634",
-    "title": "Завершилась церемония закрытия. Что произошло на Олимпиаде",
-    "sport": "Другое",
-    "category": "Другие",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/2/86/347717978499862.jpeg",
-    "teaser": "Завершилась церемония закрытия. Что произошло на Олимпиаде",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/699aa3119a79478645018372",
-    "publishedAt": "2026-02-22T22:02:27.000Z",
-    "createdAt": "2026-02-23T13:18:52.456Z",
-    "updatedAt": "2026-02-23T13:18:52.456Z"
-  },
-  {
-    "id": "8460601be8f61096",
-    "title": "Автор победной шайбы США в финале Олимпиады сломал зуб во время матча",
-    "sport": "Хоккей",
-    "category": "Хоккей",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/7/35/347717839581357.jpeg",
-    "teaser": "Автор победной шайбы США в финале Олимпиады сломал зуб во время матча",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/699b460a9a7947e3c603629a",
-    "publishedAt": "2026-02-22T19:18:14.000Z",
-    "createdAt": "2026-02-23T13:18:53.632Z",
-    "updatedAt": "2026-02-23T13:18:53.632Z"
+    "createdAt": "2026-02-23T14:53:57.378Z",
+    "updatedAt": "2026-02-23T14:53:57.378Z"
   }
 ]
