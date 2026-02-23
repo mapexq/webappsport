@@ -1,5 +1,89 @@
 [
   {
+    "id": "caff8c6191dd256e",
+    "title": "Российского теннисиста отстранили за нарушение антикоррупционных правил",
+    "sport": "Теннис",
+    "category": "Теннис",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/8/29/347718725709298.png",
+    "teaser": "Российского теннисиста отстранили за нарушение антикоррупционных правил",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/699ca0e79a79473b51fe4ec5",
+    "publishedAt": "2026-02-23T19:00:21.000Z",
+    "createdAt": "2026-02-23T19:11:51.121Z",
+    "updatedAt": "2026-02-23T19:11:51.121Z"
+  },
+  {
+    "id": "6a4e517c367873ce",
+    "title": "Американский боксер потерял сознание во время паузы между раундами",
+    "sport": "Единоборства",
+    "category": "Единоборства",
+    "imageUrl": "/images/news-placeholder.jpg",
+    "teaser": "Американский боксер потерял сознание во время паузы между раундами",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/699c9a8e9a794709632c16aa",
+    "publishedAt": "2026-02-23T18:38:22.000Z",
+    "createdAt": "2026-02-23T19:11:52.916Z",
+    "updatedAt": "2026-02-23T19:11:52.916Z"
+  },
+  {
+    "id": "80256c7a1cc46b6a",
+    "title": "ФХР бессрочно отстранила трех судей за аморальное поведение",
+    "sport": "Хоккей",
+    "category": "Хоккей",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/6/01/347718684526016.png",
+    "teaser": "ФХР бессрочно отстранила трех судей за аморальное поведение",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/699c8c5d9a794756c6816a16",
+    "publishedAt": "2026-02-23T17:49:59.000Z",
+    "createdAt": "2026-02-23T19:11:48.078Z",
+    "updatedAt": "2026-02-23T19:11:48.078Z"
+  },
+  {
+    "id": "2accb88eae4f372f",
+    "title": "Глава IPC исключил отмену допуска россиян на Паралимпиаду в Италии",
+    "sport": "Другое",
+    "category": "Другие",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/2/24/347718662446242.png",
+    "teaser": "Глава IPC исключил отмену допуска россиян на Паралимпиаду в Италии",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/699c85bb9a7947de463bd6d7",
+    "publishedAt": "2026-02-23T17:07:01.000Z",
+    "createdAt": "2026-02-23T19:11:55.238Z",
+    "updatedAt": "2026-02-23T19:11:55.238Z"
+  },
+  {
+    "id": "700a4adf95acd8e7",
+    "title": "Матч КХЛ в Сочи отменили после первого периода из-за угрозы атаки БПЛА",
+    "sport": "Хоккей",
+    "category": "Хоккей",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/0/92/347718647599920.jpeg",
+    "teaser": "Матч КХЛ в Сочи отменили после первого периода из-за угрозы атаки БПЛА",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/699c81729a7947d1e5dce226",
+    "publishedAt": "2026-02-23T16:53:26.000Z",
+    "createdAt": "2026-02-23T19:11:50.139Z",
+    "updatedAt": "2026-02-23T19:11:50.139Z"
+  },
+  {
+    "id": "be25a155c5b478ff",
+    "title": "Линдси Вонн после выписки заявила, что ей грозила ампутация ноги на Играх",
+    "sport": "Другое",
+    "category": "Другие",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/6/64/347718629091646.jpeg",
+    "teaser": "Линдси Вонн после выписки заявила, что ей грозила ампутация ноги на Играх",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/699c7b669a7947218360b076",
+    "publishedAt": "2026-02-23T16:30:23.000Z",
+    "createdAt": "2026-02-23T19:11:49.082Z",
+    "updatedAt": "2026-02-23T19:11:49.082Z"
+  },
+  {
     "id": "310796ee7c8ab3a9",
     "title": "Международная федерация скалолазания восстановила членство России",
     "sport": "Другое",
@@ -10,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/699c70499a794736fb66b0e5",
     "publishedAt": "2026-02-23T15:38:52.000Z",
-    "createdAt": "2026-02-23T17:05:22.372Z",
-    "updatedAt": "2026-02-23T17:05:22.372Z"
+    "createdAt": "2026-02-23T19:11:56.284Z",
+    "updatedAt": "2026-02-23T19:11:56.284Z"
   },
   {
     "id": "38ed17e0ca04fa9b",
@@ -24,92 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/699c69249a7947f21cdfaa42",
     "publishedAt": "2026-02-23T15:19:15.000Z",
-    "createdAt": "2026-02-23T17:05:21.308Z",
-    "updatedAt": "2026-02-23T17:05:21.308Z"
-  },
-  {
-    "id": "6c45a481cce17056",
-    "title": "Начало матча КХЛ в Сочи отложили на час из-за авиаопасности",
-    "sport": "Хоккей",
-    "category": "Хоккей",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/0/19/347718567866190.png",
-    "teaser": "Начало матча КХЛ в Сочи отложили на час из-за авиаопасности",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/699c5e269a79476cccebb1ac",
-    "publishedAt": "2026-02-23T14:24:05.000Z",
-    "createdAt": "2026-02-23T17:05:23.424Z",
-    "updatedAt": "2026-02-23T17:05:23.424Z"
-  },
-  {
-    "id": "05b1c74fe082b263",
-    "title": "Вице-чемпион Олимпиады Филиппов пошутил про сдачу медали «на цветмет»",
-    "sport": "Другое",
-    "category": "Другие",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/3/48/347718536681483.png",
-    "teaser": "Вице-чемпион Олимпиады Филиппов пошутил про сдачу медали «на цветмет»",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/699c57099a79472b8375551a",
-    "publishedAt": "2026-02-23T13:50:21.000Z",
-    "createdAt": "2026-02-23T17:05:24.483Z",
-    "updatedAt": "2026-02-23T17:05:24.483Z"
-  },
-  {
-    "id": "3b1bbf414b2cd9f2",
-    "title": "«Трактор» дважды забил за 29 секунд и вырвал победу у «Лады»",
-    "sport": "Хоккей",
-    "category": "Хоккей",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/4/73/347718528083734.png",
-    "teaser": "«Трактор» дважды забил за 29 секунд и вырвал победу у «Лады»",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/699c537b9a79473ccd6e066a",
-    "publishedAt": "2026-02-23T13:28:59.000Z",
-    "createdAt": "2026-02-23T17:05:28.904Z",
-    "updatedAt": "2026-02-23T17:05:28.904Z"
-  },
-  {
-    "id": "3dc8796d9e275e92",
-    "title": "«Арсеналу» не разрешили играть с «Локомотивом» на своей арене в Кубке",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/0/53/347718509860530.png",
-    "teaser": "«Арсеналу» не разрешили играть с «Локомотивом» на своей арене в Кубке",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/699c4aa79a79470d947b02f4",
-    "publishedAt": "2026-02-23T13:15:37.000Z",
-    "createdAt": "2026-02-23T17:05:29.980Z",
-    "updatedAt": "2026-02-23T17:05:29.980Z"
-  },
-  {
-    "id": "0651ae60732b684e",
-    "title": "Самолет с игроками «Динамо» перенаправляли в Петербург из-за атаки БПЛА",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/5/16/347718473998165.png",
-    "teaser": "Самолет с игроками «Динамо» перенаправляли в Петербург из-за атаки БПЛА",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/699c3e399a79477e607d8db0",
-    "publishedAt": "2026-02-23T13:03:06.000Z",
-    "createdAt": "2026-02-23T17:05:25.528Z",
-    "updatedAt": "2026-02-23T17:05:25.528Z"
-  },
-  {
-    "id": "21cdad90c7daceab",
-    "title": "Дик Адвокат ушел из сборной Кюрасао, которую сенсационно вывел на ЧМ-2026",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/3/79/347718434565793.jpeg",
-    "teaser": "Дик Адвокат ушел из сборной Кюрасао, которую сенсационно вывел на ЧМ-2026",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/699c2e2e9a7947416c16fb16",
-    "publishedAt": "2026-02-23T10:55:56.000Z",
-    "createdAt": "2026-02-23T17:05:31.049Z",
-    "updatedAt": "2026-02-23T17:05:31.049Z"
+    "createdAt": "2026-02-23T19:11:58.418Z",
+    "updatedAt": "2026-02-23T19:11:58.418Z"
   },
   {
     "id": "ea1843f85793dd98",
@@ -122,8 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6996e0ef9a7947559b97ca40",
     "publishedAt": "2026-02-23T07:31:27.000Z",
-    "createdAt": "2026-02-23T17:05:26.778Z",
-    "updatedAt": "2026-02-23T17:05:26.778Z"
+    "createdAt": "2026-02-23T19:11:54.183Z",
+    "updatedAt": "2026-02-23T19:11:54.183Z"
   },
   {
     "id": "2d24c13b00a786ba",
@@ -136,7 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/699af0b49a79472730cb7cd5",
     "publishedAt": "2026-02-23T06:01:59.000Z",
-    "createdAt": "2026-02-23T17:05:27.840Z",
-    "updatedAt": "2026-02-23T17:05:27.840Z"
+    "createdAt": "2026-02-23T19:11:57.374Z",
+    "updatedAt": "2026-02-23T19:11:57.374Z"
   }
 ]
