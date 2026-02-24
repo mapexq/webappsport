@@ -1,5 +1,61 @@
 [
   {
+    "id": "777326a14e44e670",
+    "title": "Лидер «Металлурга» Силантьев выбыл до конца сезона из-за травмы",
+    "sport": "Хоккей",
+    "category": "Хоккей",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/3/47/347719567868473.jpeg",
+    "teaser": "Лидер «Металлурга» Силантьев выбыл до конца сезона из-за травмы",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/699de6799a79472da98488ec",
+    "publishedAt": "2026-02-24T18:55:13.000Z",
+    "createdAt": "2026-02-24T19:16:25.148Z",
+    "updatedAt": "2026-02-24T19:16:25.148Z"
+  },
+  {
+    "id": "c8059475425a6c0e",
+    "title": "СКА вышел в плей-офф КХЛ",
+    "sport": "Хоккей",
+    "category": "Хоккей",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/3/97/347719588970973.jpeg",
+    "teaser": "СКА вышел в плей-офф КХЛ",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/699df1269a794733715636b9",
+    "publishedAt": "2026-02-24T18:50:15.000Z",
+    "createdAt": "2026-02-24T19:16:21.974Z",
+    "updatedAt": "2026-02-24T19:16:21.974Z"
+  },
+  {
+    "id": "4dacfb5a9d09f7bf",
+    "title": "Помощник Дика Адвоката сообщил о завершении карьеры тренера",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/5/13/347719558636135.jpeg",
+    "teaser": "Помощник Дика Адвоката сообщил о завершении карьеры тренера",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/699de6439a7947c8f2c0dc47",
+    "publishedAt": "2026-02-24T18:45:49.000Z",
+    "createdAt": "2026-02-24T19:16:26.487Z",
+    "updatedAt": "2026-02-24T19:16:26.487Z"
+  },
+  {
+    "id": "ed87fea9fd6814a9",
+    "title": "Отстраненный от ОИ за алкоголь тренер финнов пропустит этапы Кубка мира",
+    "sport": "Другое",
+    "category": "Другие",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/8/86/347719549942868.jpeg",
+    "teaser": "Отстраненный от ОИ за алкоголь тренер финнов пропустит этапы Кубка мира",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/699ddeb49a794709f8c88cec",
+    "publishedAt": "2026-02-24T18:27:53.000Z",
+    "createdAt": "2026-02-24T19:16:23.064Z",
+    "updatedAt": "2026-02-24T19:16:23.064Z"
+  },
+  {
     "id": "17094fe64efe89ee",
     "title": "В Италии жена ударила мужа ножом во время просмотра футбольного матча",
     "sport": "Футбол",
@@ -10,8 +66,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/699dda869a7947cfd45f3cf2",
     "publishedAt": "2026-02-24T17:46:42.000Z",
-    "createdAt": "2026-02-24T18:00:08.503Z",
-    "updatedAt": "2026-02-24T18:00:08.503Z"
+    "createdAt": "2026-02-24T19:16:24.112Z",
+    "updatedAt": "2026-02-24T19:16:24.112Z"
   },
   {
     "id": "198597b5c1efc340",
@@ -24,8 +80,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/699ddac39a794760cab87b8d",
     "publishedAt": "2026-02-24T17:25:33.000Z",
-    "createdAt": "2026-02-24T18:00:09.525Z",
-    "updatedAt": "2026-02-24T18:00:09.525Z"
+    "createdAt": "2026-02-24T19:16:27.791Z",
+    "updatedAt": "2026-02-24T19:16:27.791Z"
   },
   {
     "id": "48f3a4a6a8824ef0",
@@ -38,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/699d91619a79470b7b944454",
     "publishedAt": "2026-02-24T16:48:59.000Z",
-    "createdAt": "2026-02-24T18:00:10.547Z",
-    "updatedAt": "2026-02-24T18:00:10.547Z"
+    "createdAt": "2026-02-24T19:16:28.670Z",
+    "updatedAt": "2026-02-24T19:16:28.670Z"
   },
   {
     "id": "10ec671385829198",
@@ -52,8 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/699dc5029a7947adde128c79",
     "publishedAt": "2026-02-24T16:02:56.000Z",
-    "createdAt": "2026-02-24T18:00:12.705Z",
-    "updatedAt": "2026-02-24T18:00:12.705Z"
+    "createdAt": "2026-02-24T19:16:30.890Z",
+    "updatedAt": "2026-02-24T19:16:30.890Z"
   },
   {
     "id": "9e6c86fb17a88d20",
@@ -66,8 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/699dc10f9a794749e50d1514",
     "publishedAt": "2026-02-24T15:45:16.000Z",
-    "createdAt": "2026-02-24T18:00:11.420Z",
-    "updatedAt": "2026-02-24T18:00:11.420Z"
+    "createdAt": "2026-02-24T19:16:29.783Z",
+    "updatedAt": "2026-02-24T19:16:29.783Z"
   },
   {
     "id": "8eaf07ad480500f2",
@@ -80,63 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/699dbd5d9a7947076dd73d86",
     "publishedAt": "2026-02-24T15:19:09.000Z",
-    "createdAt": "2026-02-24T18:00:13.764Z",
-    "updatedAt": "2026-02-24T18:00:13.764Z"
-  },
-  {
-    "id": "bd9d98358f8955de",
-    "title": "СЭ узнал о возможном переходе в ЦСКА экс-футболиста «Ливерпуля» Коутиньо",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/6/81/347719445449816.jpeg",
-    "teaser": "СЭ узнал о возможном переходе в ЦСКА экс-футболиста «Ливерпуля» Коутиньо",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/699db56e9a79476a42744aa8",
-    "publishedAt": "2026-02-24T14:58:21.000Z",
-    "createdAt": "2026-02-24T18:00:14.844Z",
-    "updatedAt": "2026-02-24T18:00:14.844Z"
-  },
-  {
-    "id": "1cede997d0e0f553",
-    "title": "Роднина призвала «не строить замки из песка» в вопросе допуска фигуристов",
-    "sport": "Другое",
-    "category": "Другие",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/5/87/347719441985875.jpeg",
-    "teaser": "Роднина призвала «не строить замки из песка» в вопросе допуска фигуристов",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/699db4c49a794748a65f38bc",
-    "publishedAt": "2026-02-24T14:49:55.000Z",
-    "createdAt": "2026-02-24T18:00:15.927Z",
-    "updatedAt": "2026-02-24T18:00:15.927Z"
-  },
-  {
-    "id": "89b9d41653d5a973",
-    "title": "Боец ММА рассказал, как повредил ногу, празднуя победу задним сальто",
-    "sport": "Единоборства",
-    "category": "Единоборства",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/3/41/347719422875413.jpeg",
-    "teaser": "Боец ММА рассказал, как повредил ногу, празднуя победу задним сальто",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/699dad769a794774bb391ad7",
-    "publishedAt": "2026-02-24T14:26:53.000Z",
-    "createdAt": "2026-02-24T18:00:18.064Z",
-    "updatedAt": "2026-02-24T18:00:18.064Z"
-  },
-  {
-    "id": "7fb1d6d51238809c",
-    "title": "Финляндия присоединилась к бойкоту церемонии открытия Паралимпиады",
-    "sport": "Другое",
-    "category": "Другие",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/4/20/347719446107204.jpeg",
-    "teaser": "Финляндия присоединилась к бойкоту церемонии открытия Паралимпиады",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/699daaf59a79472034f1ec8d",
-    "publishedAt": "2026-02-24T14:23:06.000Z",
-    "createdAt": "2026-02-24T18:00:16.980Z",
-    "updatedAt": "2026-02-24T18:00:16.980Z"
+    "createdAt": "2026-02-24T19:16:31.973Z",
+    "updatedAt": "2026-02-24T19:16:31.973Z"
   }
 ]
