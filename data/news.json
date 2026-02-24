@@ -1,5 +1,61 @@
 [
   {
+    "id": "17094fe64efe89ee",
+    "title": "В Италии жена ударила мужа ножом во время просмотра футбольного матча",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/9/73/347719535326739.jpeg",
+    "teaser": "В Италии жена ударила мужа ножом во время просмотра футбольного матча",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/699dda869a7947cfd45f3cf2",
+    "publishedAt": "2026-02-24T17:46:42.000Z",
+    "createdAt": "2026-02-24T18:00:08.503Z",
+    "updatedAt": "2026-02-24T18:00:08.503Z"
+  },
+  {
+    "id": "198597b5c1efc340",
+    "title": "Циципас не защитил титул в Дубае и впервые за 8 лет покинет топ-40 ATP",
+    "sport": "Теннис",
+    "category": "Теннис",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/0/80/347719528831800.jpeg",
+    "teaser": "Циципас не защитил титул в Дубае и впервые за 8 лет покинет топ-40 ATP",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/699ddac39a794760cab87b8d",
+    "publishedAt": "2026-02-24T17:25:33.000Z",
+    "createdAt": "2026-02-24T18:00:09.525Z",
+    "updatedAt": "2026-02-24T18:00:09.525Z"
+  },
+  {
+    "id": "48f3a4a6a8824ef0",
+    "title": "«Металлург» отыгрался с 0:3, но все равно уступил в матче КХЛ в овертайме",
+    "sport": "Другое",
+    "category": "Фигурное катание",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/5/11/347719496346115.jpeg",
+    "teaser": "«Металлург» отыгрался с 0:3, но все равно уступил в матче КХЛ в овертайме",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/699d91619a79470b7b944454",
+    "publishedAt": "2026-02-24T16:48:59.000Z",
+    "createdAt": "2026-02-24T18:00:10.547Z",
+    "updatedAt": "2026-02-24T18:00:10.547Z"
+  },
+  {
+    "id": "10ec671385829198",
+    "title": "Лидера «Металлурга» увезли на носилках после столкновения с бортом",
+    "sport": "Хоккей",
+    "category": "Хоккей",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/4/40/347719474388404.jpeg",
+    "teaser": "Лидера «Металлурга» увезли на носилках после столкновения с бортом",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/699dc5029a7947adde128c79",
+    "publishedAt": "2026-02-24T16:02:56.000Z",
+    "createdAt": "2026-02-24T18:00:12.705Z",
+    "updatedAt": "2026-02-24T18:00:12.705Z"
+  },
+  {
     "id": "9e6c86fb17a88d20",
     "title": "Президент Мексики заявила о гарантиях безопасности на ЧМ-2026 по футболу",
     "sport": "Футбол",
@@ -10,8 +66,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/699dc10f9a794749e50d1514",
     "publishedAt": "2026-02-24T15:45:16.000Z",
-    "createdAt": "2026-02-24T16:06:01.223Z",
-    "updatedAt": "2026-02-24T16:06:01.223Z"
+    "createdAt": "2026-02-24T18:00:11.420Z",
+    "updatedAt": "2026-02-24T18:00:11.420Z"
   },
   {
     "id": "8eaf07ad480500f2",
@@ -24,8 +80,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/699dbd5d9a7947076dd73d86",
     "publishedAt": "2026-02-24T15:19:09.000Z",
-    "createdAt": "2026-02-24T16:06:02.301Z",
-    "updatedAt": "2026-02-24T16:06:02.301Z"
+    "createdAt": "2026-02-24T18:00:13.764Z",
+    "updatedAt": "2026-02-24T18:00:13.764Z"
   },
   {
     "id": "bd9d98358f8955de",
@@ -38,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/699db56e9a79476a42744aa8",
     "publishedAt": "2026-02-24T14:58:21.000Z",
-    "createdAt": "2026-02-24T16:06:03.411Z",
-    "updatedAt": "2026-02-24T16:06:03.411Z"
+    "createdAt": "2026-02-24T18:00:14.844Z",
+    "updatedAt": "2026-02-24T18:00:14.844Z"
   },
   {
     "id": "1cede997d0e0f553",
@@ -52,8 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/699db4c49a794748a65f38bc",
     "publishedAt": "2026-02-24T14:49:55.000Z",
-    "createdAt": "2026-02-24T16:06:04.537Z",
-    "updatedAt": "2026-02-24T16:06:04.537Z"
+    "createdAt": "2026-02-24T18:00:15.927Z",
+    "updatedAt": "2026-02-24T18:00:15.927Z"
   },
   {
     "id": "89b9d41653d5a973",
@@ -66,22 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/699dad769a794774bb391ad7",
     "publishedAt": "2026-02-24T14:26:53.000Z",
-    "createdAt": "2026-02-24T16:06:06.734Z",
-    "updatedAt": "2026-02-24T16:06:06.734Z"
-  },
-  {
-    "id": "8989264957da2c2a",
-    "title": "Хачанов победил сменившего гражданство россиянина на турнире в Дубае",
-    "sport": "Теннис",
-    "category": "Теннис",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/6/56/347719424982566.jpeg",
-    "teaser": "Хачанов победил сменившего гражданство россиянина на турнире в Дубае",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/699db22a9a794743442bec6c",
-    "publishedAt": "2026-02-24T14:24:54.000Z",
-    "createdAt": "2026-02-24T16:06:07.911Z",
-    "updatedAt": "2026-02-24T16:06:07.911Z"
+    "createdAt": "2026-02-24T18:00:18.064Z",
+    "updatedAt": "2026-02-24T18:00:18.064Z"
   },
   {
     "id": "7fb1d6d51238809c",
@@ -94,49 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/699daaf59a79472034f1ec8d",
     "publishedAt": "2026-02-24T14:23:06.000Z",
-    "createdAt": "2026-02-24T16:06:05.607Z",
-    "updatedAt": "2026-02-24T16:06:05.607Z"
-  },
-  {
-    "id": "dd86d8cfac4e2889",
-    "title": "IPC заявил об отсутствии официальных уведомлений о бойкоте Паралимпиады",
-    "sport": "Другое",
-    "category": "Другие",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/0/88/347719386352880.jpeg",
-    "teaser": "IPC заявил об отсутствии официальных уведомлений о бойкоте Паралимпиады",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/699da0bf9a7947c519ea014e",
-    "publishedAt": "2026-02-24T13:39:11.000Z",
-    "createdAt": "2026-02-24T16:06:09.054Z",
-    "updatedAt": "2026-02-24T16:06:09.054Z"
-  },
-  {
-    "id": "89ed1eb60ffa0463",
-    "title": "Тренера волейбольного «Зенита» оштрафовали за ненормативную лексику",
-    "sport": "Другое",
-    "category": "Другие",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/0/49/347719390661490.jpeg",
-    "teaser": "Тренера волейбольного «Зенита» оштрафовали за ненормативную лексику",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/699da1469a79473f07016bdd",
-    "publishedAt": "2026-02-24T13:28:43.000Z",
-    "createdAt": "2026-02-24T16:06:10.194Z",
-    "updatedAt": "2026-02-24T16:06:10.194Z"
-  },
-  {
-    "id": "a9885a54ccb3a477",
-    "title": "Дело против футболиста ПСЖ об изнасиловании передали в суд",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/2/38/347719353498382.jpeg",
-    "teaser": "Дело против футболиста ПСЖ об изнасиловании передали в суд",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/699d943d9a79476543b84af1",
-    "publishedAt": "2026-02-24T12:42:14.000Z",
-    "createdAt": "2026-02-24T16:06:11.350Z",
-    "updatedAt": "2026-02-24T16:06:11.350Z"
+    "createdAt": "2026-02-24T18:00:16.980Z",
+    "updatedAt": "2026-02-24T18:00:16.980Z"
   }
 ]
