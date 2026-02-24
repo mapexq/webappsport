@@ -1,5 +1,89 @@
 [
   {
+    "id": "2625b5c18521304e",
+    "title": "Даниил Медведев разгромил 262-ю ракетку мира на старте турнира в Дубае",
+    "sport": "Теннис",
+    "category": "Теннис",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/6/30/347719323657306.jpeg",
+    "teaser": "Даниил Медведев разгромил 262-ю ракетку мира на старте турнира в Дубае",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/699d8a5a9a7947466b9039d6",
+    "publishedAt": "2026-02-24T11:32:20.000Z",
+    "createdAt": "2026-02-24T11:43:54.854Z",
+    "updatedAt": "2026-02-24T11:43:54.854Z"
+  },
+  {
+    "id": "6ea7fce708d17cb5",
+    "title": "Шайдоров не назвал Россию в числе ведущих стран в фигурном катании",
+    "sport": "Другое",
+    "category": "Фигурное катание",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/4/22/347719289092224.jpeg",
+    "teaser": "Шайдоров не назвал Россию в числе ведущих стран в фигурном катании",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/699d73829a79471c63597554",
+    "publishedAt": "2026-02-24T11:30:31.000Z",
+    "createdAt": "2026-02-24T11:43:55.792Z",
+    "updatedAt": "2026-02-24T11:43:55.792Z"
+  },
+  {
+    "id": "556688e81a27b491",
+    "title": "The Athletiс узнал, что ФИФА может перенести стыковые матчи ЧМ из Мексики",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/3/66/347719314105663.jpeg",
+    "teaser": "The Athletiс узнал, что ФИФА может перенести стыковые матчи ЧМ из Мексики",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/699d7fff9a7947adf69290d9",
+    "publishedAt": "2026-02-24T11:25:33.000Z",
+    "createdAt": "2026-02-24T11:43:53.890Z",
+    "updatedAt": "2026-02-24T11:43:53.890Z"
+  },
+  {
+    "id": "a05821b20c922674",
+    "title": "Экс-футболист сборной Португалии сравнил Дзюбу с Роналду",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/1/13/347719270618131.jpeg",
+    "teaser": "Экс-футболист сборной Португалии сравнил Дзюбу с Роналду",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/699d75d29a79473e239c2693",
+    "publishedAt": "2026-02-24T10:58:52.000Z",
+    "createdAt": "2026-02-24T11:43:56.969Z",
+    "updatedAt": "2026-02-24T11:43:56.969Z"
+  },
+  {
+    "id": "eca2fe0fc78d054f",
+    "title": "Матч Кубка России «Арсенал» — «Локомотив» перенесли в Химки",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/6/31/347719296754316.jpeg",
+    "teaser": "Матч Кубка России «Арсенал» — «Локомотив» перенесли в Химки",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/699d80379a794774ec4f96f4",
+    "publishedAt": "2026-02-24T10:47:48.000Z",
+    "createdAt": "2026-02-24T11:43:57.973Z",
+    "updatedAt": "2026-02-24T11:43:57.973Z"
+  },
+  {
+    "id": "a29168a6527971e5",
+    "title": "В ПКР сообщили, в каких дисциплинах россияне выступят на Паралимпиаде",
+    "sport": "Другое",
+    "category": "Другие",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/1/71/347719280574711.jpeg",
+    "teaser": "В ПКР сообщили, в каких дисциплинах россияне выступят на Паралимпиаде",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/699d79bd9a79474626d78c65",
+    "publishedAt": "2026-02-24T10:30:34.000Z",
+    "createdAt": "2026-02-24T11:43:59.086Z",
+    "updatedAt": "2026-02-24T11:43:59.086Z"
+  },
+  {
     "id": "05a581378ef7dcb5",
     "title": "Чемпион ОИ Шайдоров рассказал, как отец продал машину ради его тренировок",
     "sport": "Другое",
@@ -10,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/699d6a109a794738311b2399",
     "publishedAt": "2026-02-24T09:45:13.000Z",
-    "createdAt": "2026-02-24T10:00:40.879Z",
-    "updatedAt": "2026-02-24T10:00:40.879Z"
+    "createdAt": "2026-02-24T11:44:00.140Z",
+    "updatedAt": "2026-02-24T11:44:00.140Z"
   },
   {
     "id": "548d3fea7c73aa30",
@@ -24,8 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/699d6c5e9a79472d20cb16ab",
     "publishedAt": "2026-02-24T09:31:53.000Z",
-    "createdAt": "2026-02-24T10:00:41.875Z",
-    "updatedAt": "2026-02-24T10:00:41.875Z"
+    "createdAt": "2026-02-24T11:44:01.199Z",
+    "updatedAt": "2026-02-24T11:44:01.199Z"
   },
   {
     "id": "b93e44c6b3e92777",
@@ -38,8 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/699d65c69a7947100e97e8f9",
     "publishedAt": "2026-02-24T09:00:48.000Z",
-    "createdAt": "2026-02-24T10:00:44.296Z",
-    "updatedAt": "2026-02-24T10:00:44.296Z"
+    "createdAt": "2026-02-24T11:44:03.492Z",
+    "updatedAt": "2026-02-24T11:44:03.492Z"
   },
   {
     "id": "866c8c0cf147cff8",
@@ -52,91 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/699d5cce9a7947650e9a3f83",
     "publishedAt": "2026-02-24T08:53:00.000Z",
-    "createdAt": "2026-02-24T10:00:42.928Z",
-    "updatedAt": "2026-02-24T10:00:42.928Z"
-  },
-  {
-    "id": "16ffcdd8d6a6a5f2",
-    "title": "Мейвезер и Пакьяо проведут бой-реванш 19 сентября в Лас-Вегасе",
-    "sport": "Единоборства",
-    "category": "Единоборства",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/8/86/347719190426868.jpeg",
-    "teaser": "Мейвезер и Пакьяо проведут бой-реванш 19 сентября в Лас-Вегасе",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/699216449a794760637d7ac9",
-    "publishedAt": "2026-02-24T08:16:10.000Z",
-    "createdAt": "2026-02-24T10:00:46.287Z",
-    "updatedAt": "2026-02-24T10:00:46.287Z"
-  },
-  {
-    "id": "8cd9bdfbe3b2e51b",
-    "title": "Минское «Динамо» из-за дронов не смогло вылететь в Сочи на матч КХЛ",
-    "sport": "Хоккей",
-    "category": "Хоккей",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/1/49/347719179224491.jpeg",
-    "teaser": "Минское «Динамо» из-за дронов не смогло вылететь в Сочи на матч КХЛ",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/699d4ff89a7947b91a3f7a20",
-    "publishedAt": "2026-02-24T08:10:47.000Z",
-    "createdAt": "2026-02-24T10:00:45.298Z",
-    "updatedAt": "2026-02-24T10:00:45.298Z"
-  },
-  {
-    "id": "5c8ae4d4b2eb04d5",
-    "title": "Роналду поддержал травмированную на Олимпиаде в Италии Вонн",
-    "sport": "Другое",
-    "category": "Другие",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/6/61/347719199454616.jpeg",
-    "teaser": "Роналду поддержал травмированную на Олимпиаде в Италии Вонн",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/699d577e9a79478171e93172",
-    "publishedAt": "2026-02-24T08:06:58.000Z",
-    "createdAt": "2026-02-24T10:00:47.334Z",
-    "updatedAt": "2026-02-24T10:00:47.334Z"
-  },
-  {
-    "id": "30a4615cbfadafeb",
-    "title": "Российский ски-альпинист повредил свою серебряную медаль Олимпиады",
-    "sport": "Другое",
-    "category": "Другие",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/5/13/347719183077135.jpeg",
-    "teaser": "Российский ски-альпинист повредил свою серебряную медаль Олимпиады",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/699d536b9a7947cd9c7af04d",
-    "publishedAt": "2026-02-24T07:46:57.000Z",
-    "createdAt": "2026-02-24T10:00:48.440Z",
-    "updatedAt": "2026-02-24T10:00:48.440Z"
-  },
-  {
-    "id": "f938651f4f854d44",
-    "title": "Багаж фигуристки Петросян потеряли по пути с Олимпиады",
-    "sport": "Другое",
-    "category": "Фигурное катание",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/5/88/347719167426885.jpeg",
-    "teaser": "Багаж фигуристки Петросян потеряли по пути с Олимпиады",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69975dad9a794773cfe26513",
-    "publishedAt": "2026-02-24T07:21:25.000Z",
-    "createdAt": "2026-02-24T10:00:49.868Z",
-    "updatedAt": "2026-02-24T10:00:49.868Z"
-  },
-  {
-    "id": "068d748a1e21a440",
-    "title": "Женская сборная США по хоккею отказалась прийти на выступление Трампа",
-    "sport": "Хоккей",
-    "category": "Хоккей",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/4/12/347719145446124.jpeg",
-    "teaser": "Женская сборная США по хоккею отказалась прийти на выступление Трампа",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/699d40f39a79472bbd4dcbb7",
-    "publishedAt": "2026-02-24T06:52:23.000Z",
-    "createdAt": "2026-02-24T10:00:50.951Z",
-    "updatedAt": "2026-02-24T10:00:50.951Z"
+    "createdAt": "2026-02-24T11:44:02.418Z",
+    "updatedAt": "2026-02-24T11:44:02.418Z"
   }
 ]
