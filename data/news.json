@@ -1,5 +1,47 @@
 [
   {
+    "id": "9e6c86fb17a88d20",
+    "title": "Президент Мексики заявила о гарантиях безопасности на ЧМ-2026 по футболу",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/5/53/347719470389535.jpeg",
+    "teaser": "Президент Мексики заявила о гарантиях безопасности на ЧМ-2026 по футболу",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/699dc10f9a794749e50d1514",
+    "publishedAt": "2026-02-24T15:45:16.000Z",
+    "createdAt": "2026-02-24T16:06:01.223Z",
+    "updatedAt": "2026-02-24T16:06:01.223Z"
+  },
+  {
+    "id": "8eaf07ad480500f2",
+    "title": "Итальянский биатлонист перенес операцию на сердце после схода на ОИ",
+    "sport": "Другое",
+    "category": "Биатлон",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/9/41/347719458997419.jpeg",
+    "teaser": "Итальянский биатлонист перенес операцию на сердце после схода на ОИ",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/699dbd5d9a7947076dd73d86",
+    "publishedAt": "2026-02-24T15:19:09.000Z",
+    "createdAt": "2026-02-24T16:06:02.301Z",
+    "updatedAt": "2026-02-24T16:06:02.301Z"
+  },
+  {
+    "id": "bd9d98358f8955de",
+    "title": "СЭ узнал о возможном переходе в ЦСКА экс-футболиста «Ливерпуля» Коутиньо",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/6/81/347719445449816.jpeg",
+    "teaser": "СЭ узнал о возможном переходе в ЦСКА экс-футболиста «Ливерпуля» Коутиньо",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/699db56e9a79476a42744aa8",
+    "publishedAt": "2026-02-24T14:58:21.000Z",
+    "createdAt": "2026-02-24T16:06:03.411Z",
+    "updatedAt": "2026-02-24T16:06:03.411Z"
+  },
+  {
     "id": "1cede997d0e0f553",
     "title": "Роднина призвала «не строить замки из песка» в вопросе допуска фигуристов",
     "sport": "Другое",
@@ -10,8 +52,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/699db4c49a794748a65f38bc",
     "publishedAt": "2026-02-24T14:49:55.000Z",
-    "createdAt": "2026-02-24T14:56:06.794Z",
-    "updatedAt": "2026-02-24T14:56:06.794Z"
+    "createdAt": "2026-02-24T16:06:04.537Z",
+    "updatedAt": "2026-02-24T16:06:04.537Z"
   },
   {
     "id": "89b9d41653d5a973",
@@ -24,8 +66,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/699dad769a794774bb391ad7",
     "publishedAt": "2026-02-24T14:26:53.000Z",
-    "createdAt": "2026-02-24T14:56:08.852Z",
-    "updatedAt": "2026-02-24T14:56:08.852Z"
+    "createdAt": "2026-02-24T16:06:06.734Z",
+    "updatedAt": "2026-02-24T16:06:06.734Z"
   },
   {
     "id": "8989264957da2c2a",
@@ -38,8 +80,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/699db22a9a794743442bec6c",
     "publishedAt": "2026-02-24T14:24:54.000Z",
-    "createdAt": "2026-02-24T14:56:09.920Z",
-    "updatedAt": "2026-02-24T14:56:09.920Z"
+    "createdAt": "2026-02-24T16:06:07.911Z",
+    "updatedAt": "2026-02-24T16:06:07.911Z"
   },
   {
     "id": "7fb1d6d51238809c",
@@ -52,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/699daaf59a79472034f1ec8d",
     "publishedAt": "2026-02-24T14:23:06.000Z",
-    "createdAt": "2026-02-24T14:56:07.778Z",
-    "updatedAt": "2026-02-24T14:56:07.778Z"
+    "createdAt": "2026-02-24T16:06:05.607Z",
+    "updatedAt": "2026-02-24T16:06:05.607Z"
   },
   {
     "id": "dd86d8cfac4e2889",
@@ -66,8 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/699da0bf9a7947c519ea014e",
     "publishedAt": "2026-02-24T13:39:11.000Z",
-    "createdAt": "2026-02-24T14:56:10.943Z",
-    "updatedAt": "2026-02-24T14:56:10.943Z"
+    "createdAt": "2026-02-24T16:06:09.054Z",
+    "updatedAt": "2026-02-24T16:06:09.054Z"
   },
   {
     "id": "89ed1eb60ffa0463",
@@ -80,22 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/699da1469a79473f07016bdd",
     "publishedAt": "2026-02-24T13:28:43.000Z",
-    "createdAt": "2026-02-24T14:56:12.076Z",
-    "updatedAt": "2026-02-24T14:56:12.076Z"
-  },
-  {
-    "id": "84818ed66b859685",
-    "title": "РПЛ рассказала о подготовке к рестарту сезона в сложных погодных условиях",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/7/77/347719368995777.jpeg",
-    "teaser": "РПЛ рассказала о подготовке к рестарту сезона в сложных погодных условиях",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/699d9a6d9a79475356948abe",
-    "publishedAt": "2026-02-24T12:55:42.000Z",
-    "createdAt": "2026-02-24T14:56:14.102Z",
-    "updatedAt": "2026-02-24T14:56:14.102Z"
+    "createdAt": "2026-02-24T16:06:10.194Z",
+    "updatedAt": "2026-02-24T16:06:10.194Z"
   },
   {
     "id": "a9885a54ccb3a477",
@@ -108,35 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/699d943d9a79476543b84af1",
     "publishedAt": "2026-02-24T12:42:14.000Z",
-    "createdAt": "2026-02-24T14:56:13.106Z",
-    "updatedAt": "2026-02-24T14:56:13.106Z"
-  },
-  {
-    "id": "5069f7c2fd6949e9",
-    "title": "Фигурист Малинин рассказал о мечте съездить в Казахстан с Шайдоровым",
-    "sport": "Другое",
-    "category": "Фигурное катание",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/0/01/347719341108010.jpeg",
-    "teaser": "Фигурист Малинин рассказал о мечте съездить в Казахстан с Шайдоровым",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/699d91619a79470b7b944456",
-    "publishedAt": "2026-02-24T12:08:21.000Z",
-    "createdAt": "2026-02-24T14:56:15.210Z",
-    "updatedAt": "2026-02-24T14:56:15.210Z"
-  },
-  {
-    "id": "556688e81a27b491",
-    "title": "The Athletiс узнал, что ФИФА может перенести стыковые матчи ЧМ из Мексики",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/3/66/347719314105663.jpeg",
-    "teaser": "The Athletiс узнал, что ФИФА может перенести стыковые матчи ЧМ из Мексики",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/699d7fff9a7947adf69290d9",
-    "publishedAt": "2026-02-24T11:25:33.000Z",
-    "createdAt": "2026-02-24T14:56:16.261Z",
-    "updatedAt": "2026-02-24T14:56:16.261Z"
+    "createdAt": "2026-02-24T16:06:11.350Z",
+    "updatedAt": "2026-02-24T16:06:11.350Z"
   }
 ]
