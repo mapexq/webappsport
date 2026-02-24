@@ -1,5 +1,47 @@
 [
   {
+    "id": "f938651f4f854d44",
+    "title": "Багаж фигуристки Петросян потеряли по пути с Олимпиады",
+    "sport": "Другое",
+    "category": "Фигурное катание",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/5/88/347719167426885.jpeg",
+    "teaser": "Багаж фигуристки Петросян потеряли по пути с Олимпиады",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69975dad9a794773cfe26513",
+    "publishedAt": "2026-02-24T07:21:25.000Z",
+    "createdAt": "2026-02-24T07:54:06.339Z",
+    "updatedAt": "2026-02-24T07:54:06.339Z"
+  },
+  {
+    "id": "068d748a1e21a440",
+    "title": "Женская сборная США по хоккею отказалась прийти на выступление Трампа",
+    "sport": "Хоккей",
+    "category": "Хоккей",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/4/12/347719145446124.jpeg",
+    "teaser": "Женская сборная США по хоккею отказалась прийти на выступление Трампа",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/699d40f39a79472bbd4dcbb7",
+    "publishedAt": "2026-02-24T06:52:23.000Z",
+    "createdAt": "2026-02-24T07:54:07.347Z",
+    "updatedAt": "2026-02-24T07:54:07.347Z"
+  },
+  {
+    "id": "d1f3847addb19e42",
+    "title": "Какие семьи завоевали медали на Олимпиаде-2026",
+    "sport": "Другое",
+    "category": "Другие",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/9/36/347713482992369.jpeg",
+    "teaser": "Какие семьи завоевали медали на Олимпиаде-2026",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/699489a59a7947240fadd031",
+    "publishedAt": "2026-02-23T21:01:42.000Z",
+    "createdAt": "2026-02-24T07:54:08.473Z",
+    "updatedAt": "2026-02-24T07:54:08.473Z"
+  },
+  {
     "id": "caff8c6191dd256e",
     "title": "Российского теннисиста отстранили за нарушение антикоррупционных правил",
     "sport": "Теннис",
@@ -10,8 +52,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/699ca0e79a79473b51fe4ec5",
     "publishedAt": "2026-02-23T19:00:21.000Z",
-    "createdAt": "2026-02-24T06:05:01.376Z",
-    "updatedAt": "2026-02-24T06:05:01.376Z"
+    "createdAt": "2026-02-24T07:54:12.761Z",
+    "updatedAt": "2026-02-24T07:54:12.761Z"
   },
   {
     "id": "6a4e517c367873ce",
@@ -24,8 +66,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/699c9a8e9a794709632c16aa",
     "publishedAt": "2026-02-23T18:38:22.000Z",
-    "createdAt": "2026-02-24T06:05:03.240Z",
-    "updatedAt": "2026-02-24T06:05:03.240Z"
+    "createdAt": "2026-02-24T07:54:14.651Z",
+    "updatedAt": "2026-02-24T07:54:14.651Z"
   },
   {
     "id": "80256c7a1cc46b6a",
@@ -38,8 +80,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/699c8c5d9a794756c6816a16",
     "publishedAt": "2026-02-23T17:49:59.000Z",
-    "createdAt": "2026-02-24T06:04:58.300Z",
-    "updatedAt": "2026-02-24T06:04:58.300Z"
+    "createdAt": "2026-02-24T07:54:09.585Z",
+    "updatedAt": "2026-02-24T07:54:09.585Z"
   },
   {
     "id": "2accb88eae4f372f",
@@ -52,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/699c85bb9a7947de463bd6d7",
     "publishedAt": "2026-02-23T17:07:01.000Z",
-    "createdAt": "2026-02-24T06:05:05.459Z",
-    "updatedAt": "2026-02-24T06:05:05.459Z"
+    "createdAt": "2026-02-24T07:54:17.175Z",
+    "updatedAt": "2026-02-24T07:54:17.175Z"
   },
   {
     "id": "700a4adf95acd8e7",
@@ -66,8 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/699c81729a7947d1e5dce226",
     "publishedAt": "2026-02-23T16:53:26.000Z",
-    "createdAt": "2026-02-24T06:05:00.427Z",
-    "updatedAt": "2026-02-24T06:05:00.427Z"
+    "createdAt": "2026-02-24T07:54:11.709Z",
+    "updatedAt": "2026-02-24T07:54:11.709Z"
   },
   {
     "id": "be25a155c5b478ff",
@@ -80,36 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/699c7b669a7947218360b076",
     "publishedAt": "2026-02-23T16:30:23.000Z",
-    "createdAt": "2026-02-24T06:04:59.297Z",
-    "updatedAt": "2026-02-24T06:04:59.297Z"
-  },
-  {
-    "id": "310796ee7c8ab3a9",
-    "title": "Международная федерация скалолазания восстановила членство России",
-    "sport": "Другое",
-    "category": "Другие",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/2/86/347718610820862.jpeg",
-    "teaser": "Международная федерация скалолазания восстановила членство России",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/699c70499a794736fb66b0e5",
-    "publishedAt": "2026-02-23T15:38:52.000Z",
-    "createdAt": "2026-02-24T06:05:06.504Z",
-    "updatedAt": "2026-02-24T06:05:06.504Z"
-  },
-  {
-    "id": "38ed17e0ca04fa9b",
-    "title": "Оскорбивший Винисиуса игрок «Бенфики» пропустит ответный матч с «Реалом»",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/4/11/347718585725114.jpeg",
-    "teaser": "Оскорбивший Винисиуса игрок «Бенфики» пропустит ответный матч с «Реалом»",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/699c69249a7947f21cdfaa42",
-    "publishedAt": "2026-02-23T15:19:15.000Z",
-    "createdAt": "2026-02-24T06:05:08.615Z",
-    "updatedAt": "2026-02-24T06:05:08.615Z"
+    "createdAt": "2026-02-24T07:54:10.641Z",
+    "updatedAt": "2026-02-24T07:54:10.641Z"
   },
   {
     "id": "ea1843f85793dd98",
@@ -122,21 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6996e0ef9a7947559b97ca40",
     "publishedAt": "2026-02-23T07:31:27.000Z",
-    "createdAt": "2026-02-24T06:05:04.424Z",
-    "updatedAt": "2026-02-24T06:05:04.424Z"
-  },
-  {
-    "id": "2d24c13b00a786ba",
-    "title": "Кто из зарабатывающих на OnlyFans спортсменов завоевал медали Игр-2026",
-    "sport": "Другое",
-    "category": "Другие",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/5/69/347717668421695.jpeg",
-    "teaser": "Кто из зарабатывающих на OnlyFans спортсменов завоевал медали Игр-2026",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/699af0b49a79472730cb7cd5",
-    "publishedAt": "2026-02-23T06:01:59.000Z",
-    "createdAt": "2026-02-24T06:05:07.562Z",
-    "updatedAt": "2026-02-24T06:05:07.562Z"
+    "createdAt": "2026-02-24T07:54:15.971Z",
+    "updatedAt": "2026-02-24T07:54:15.971Z"
   }
 ]
