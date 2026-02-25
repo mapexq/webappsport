@@ -1,5 +1,47 @@
 [
   {
+    "id": "d7f6cb6ac784a56f",
+    "title": "Трамп поздравил Инфантино с 10-летием пребывания на посту главы ФИФА",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/3/17/347720399980173.jpeg",
+    "teaser": "Трамп поздравил Инфантино с 10-летием пребывания на посту главы ФИФА",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/699f2ef49a7947013768e5f4",
+    "publishedAt": "2026-02-25T17:32:54.000Z",
+    "createdAt": "2026-02-25T18:03:07.943Z",
+    "updatedAt": "2026-02-25T18:03:07.943Z"
+  },
+  {
+    "id": "6613344ab15e71b9",
+    "title": "В «Уфе» прокомментировали информацию о задержании футболиста ЦСКА",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/1/85/347720362732851.jpeg",
+    "teaser": "В «Уфе» прокомментировали информацию о задержании футболиста ЦСКА",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/699f20789a7947ea3a14d103",
+    "publishedAt": "2026-02-25T16:37:31.000Z",
+    "createdAt": "2026-02-25T18:03:09.090Z",
+    "updatedAt": "2026-02-25T18:03:09.090Z"
+  },
+  {
+    "id": "84876c21c8193b07",
+    "title": "Роднина оценила подарок в виде квартиры для бывшей российской фигуристки",
+    "sport": "Другое",
+    "category": "Фигурное катание",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/7/12/347720350118127.jpeg",
+    "teaser": "Роднина оценила подарок в виде квартиры для бывшей российской фигуристки",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/699f1b909a794710fda67417",
+    "publishedAt": "2026-02-25T16:17:59.000Z",
+    "createdAt": "2026-02-25T18:03:10.162Z",
+    "updatedAt": "2026-02-25T18:03:10.162Z"
+  },
+  {
     "id": "1bb140df9cb2106c",
     "title": "Кросби пропустит минимум четыре недели из-за полученной на Играх травмы",
     "sport": "Другое",
@@ -10,8 +52,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/699f12879a794779875969ad",
     "publishedAt": "2026-02-25T15:42:51.000Z",
-    "createdAt": "2026-02-25T16:11:46.766Z",
-    "updatedAt": "2026-02-25T16:11:46.766Z"
+    "createdAt": "2026-02-25T18:03:11.267Z",
+    "updatedAt": "2026-02-25T18:03:11.267Z"
   },
   {
     "id": "c428f4b14be7f099",
@@ -24,8 +66,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/699f0be19a794710e8a91856",
     "publishedAt": "2026-02-25T15:16:12.000Z",
-    "createdAt": "2026-02-25T16:11:48.865Z",
-    "updatedAt": "2026-02-25T16:11:48.865Z"
+    "createdAt": "2026-02-25T18:03:13.595Z",
+    "updatedAt": "2026-02-25T18:03:13.595Z"
   },
   {
     "id": "b9c5121c53a7349d",
@@ -38,8 +80,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/699f07679a794714d5cb12f9",
     "publishedAt": "2026-02-25T14:51:21.000Z",
-    "createdAt": "2026-02-25T16:11:49.922Z",
-    "updatedAt": "2026-02-25T16:11:49.922Z"
+    "createdAt": "2026-02-25T18:03:14.747Z",
+    "updatedAt": "2026-02-25T18:03:14.747Z"
   },
   {
     "id": "dabbd67b60a85d6f",
@@ -52,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/699f00099a7947f197d62d78",
     "publishedAt": "2026-02-25T14:49:34.000Z",
-    "createdAt": "2026-02-25T16:11:47.815Z",
-    "updatedAt": "2026-02-25T16:11:47.815Z"
+    "createdAt": "2026-02-25T18:03:12.459Z",
+    "updatedAt": "2026-02-25T18:03:12.459Z"
   },
   {
     "id": "b752be31edb7d10a",
@@ -66,8 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/699efec79a7947eccff0acb4",
     "publishedAt": "2026-02-25T14:23:27.000Z",
-    "createdAt": "2026-02-25T16:11:51.967Z",
-    "updatedAt": "2026-02-25T16:11:51.967Z"
+    "createdAt": "2026-02-25T18:03:17.029Z",
+    "updatedAt": "2026-02-25T18:03:17.029Z"
   },
   {
     "id": "a523c9d8b83c0d52",
@@ -80,36 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/699ef9ab9a794783276df7cf",
     "publishedAt": "2026-02-25T14:08:30.000Z",
-    "createdAt": "2026-02-25T16:11:50.978Z",
-    "updatedAt": "2026-02-25T16:11:50.978Z"
-  },
-  {
-    "id": "2229b8c22050c2c5",
-    "title": "FA оштрафовала «Челси» и «Вест Хэм» за потасовку на матче АПЛ",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/8/56/347720269586568.jpeg",
-    "teaser": "FA оштрафовала «Челси» и «Вест Хэм» за потасовку на матче АПЛ",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/699ef81a9a79478c6cfeeb4e",
-    "publishedAt": "2026-02-25T13:52:09.000Z",
-    "createdAt": "2026-02-25T16:11:55.121Z",
-    "updatedAt": "2026-02-25T16:11:55.121Z"
-  },
-  {
-    "id": "2021fd2dbacef859",
-    "title": "Экс-игрок сборной России оценил роль Хайкина в успехах норвежского клуба",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/5/24/347720251362245.jpeg",
-    "teaser": "Экс-игрок сборной России оценил роль Хайкина в успехах норвежского клуба",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/699ef2199a79472d8558adc8",
-    "publishedAt": "2026-02-25T13:36:08.000Z",
-    "createdAt": "2026-02-25T16:11:56.242Z",
-    "updatedAt": "2026-02-25T16:11:56.242Z"
+    "createdAt": "2026-02-25T18:03:15.872Z",
+    "updatedAt": "2026-02-25T18:03:15.872Z"
   },
   {
     "id": "5e928aebc191cb96",
@@ -122,21 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/699ef0e29a79470f2f5a2cb8",
     "publishedAt": "2026-02-25T13:30:48.000Z",
-    "createdAt": "2026-02-25T16:11:53.006Z",
-    "updatedAt": "2026-02-25T16:11:53.006Z"
-  },
-  {
-    "id": "b878fc6ccd8fddd5",
-    "title": "Глава IIHF отреагировал на сообщения о встречах с Ларионовым на Олимпиаде",
-    "sport": "Хоккей",
-    "category": "Хоккей",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/1/81/347720233788811.jpeg",
-    "teaser": "Глава IIHF отреагировал на сообщения о встречах с Ларионовым на Олимпиаде",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/699eeb949a79471dd3681427",
-    "publishedAt": "2026-02-25T12:58:26.000Z",
-    "createdAt": "2026-02-25T16:11:54.056Z",
-    "updatedAt": "2026-02-25T16:11:54.056Z"
+    "createdAt": "2026-02-25T18:03:18.133Z",
+    "updatedAt": "2026-02-25T18:03:18.133Z"
   }
 ]
