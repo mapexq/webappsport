@@ -1,5 +1,33 @@
 [
   {
+    "id": "c03469a2e6346758",
+    "title": "Puck узнал, что UFC потратит около $60 млн на турнир в Белом доме",
+    "sport": "Единоборства",
+    "category": "Единоборства",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/1/65/347720186310651.jpeg",
+    "teaser": "Puck узнал, что UFC потратит около $60 млн на турнир в Белом доме",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/699ed8cf9a7947998ab19e85",
+    "publishedAt": "2026-02-25T12:05:56.000Z",
+    "createdAt": "2026-02-25T13:19:10.430Z",
+    "updatedAt": "2026-02-25T13:19:10.430Z"
+  },
+  {
+    "id": "38af7eab6c8d335a",
+    "title": "Медведев победил 40-летнего Вавринку и вышел в 1/4 финала турнира в Дубае",
+    "sport": "Теннис",
+    "category": "Теннис",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/2/29/347720185766292.jpeg",
+    "teaser": "Медведев победил 40-летнего Вавринку и вышел в 1/4 финала турнира в Дубае",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/699edb499a7947631f63771b",
+    "publishedAt": "2026-02-25T11:43:15.000Z",
+    "createdAt": "2026-02-25T13:19:09.395Z",
+    "updatedAt": "2026-02-25T13:19:09.395Z"
+  },
+  {
     "id": "98bd268b9fb7e23b",
     "title": "Токаев наградил орденами Шайдорова и Урманова за успехи на Олимпиаде",
     "sport": "Другое",
@@ -10,8 +38,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/699ed7869a794757d4773f3d",
     "publishedAt": "2026-02-25T11:22:06.000Z",
-    "createdAt": "2026-02-25T11:42:55.055Z",
-    "updatedAt": "2026-02-25T11:42:55.055Z"
+    "createdAt": "2026-02-25T13:19:11.542Z",
+    "updatedAt": "2026-02-25T13:19:11.542Z"
   },
   {
     "id": "4bcb009be26e678e",
@@ -24,8 +52,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/699ed45a9a7947c124d45677",
     "publishedAt": "2026-02-25T11:10:38.000Z",
-    "createdAt": "2026-02-25T11:42:57.360Z",
-    "updatedAt": "2026-02-25T11:42:57.360Z"
+    "createdAt": "2026-02-25T13:19:13.661Z",
+    "updatedAt": "2026-02-25T13:19:13.661Z"
   },
   {
     "id": "1028125d3d76810f",
@@ -38,8 +66,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/68ece9619a794757c1eea556",
     "publishedAt": "2026-02-25T11:05:54.000Z",
-    "createdAt": "2026-02-25T11:42:56.243Z",
-    "updatedAt": "2026-02-25T11:42:56.243Z"
+    "createdAt": "2026-02-25T13:19:12.617Z",
+    "updatedAt": "2026-02-25T13:19:12.617Z"
   },
   {
     "id": "5f0a628ff76fbdc0",
@@ -52,8 +80,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/699ecd7a9a794726ecfa328f",
     "publishedAt": "2026-02-25T10:49:58.000Z",
-    "createdAt": "2026-02-25T11:42:58.482Z",
-    "updatedAt": "2026-02-25T11:42:58.482Z"
+    "createdAt": "2026-02-25T13:19:14.674Z",
+    "updatedAt": "2026-02-25T13:19:14.674Z"
   },
   {
     "id": "ee5710343095de56",
@@ -66,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/699ec6019a7947d1d791c12d",
     "publishedAt": "2026-02-25T10:24:08.000Z",
-    "createdAt": "2026-02-25T11:43:00.774Z",
-    "updatedAt": "2026-02-25T11:43:00.774Z"
+    "createdAt": "2026-02-25T13:19:16.781Z",
+    "updatedAt": "2026-02-25T13:19:16.781Z"
   },
   {
     "id": "aeb0467274de8a33",
@@ -80,8 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/699ebe889a79476c7949be39",
     "publishedAt": "2026-02-25T10:13:03.000Z",
-    "createdAt": "2026-02-25T11:43:02.113Z",
-    "updatedAt": "2026-02-25T11:43:02.113Z"
+    "createdAt": "2026-02-25T13:19:17.941Z",
+    "updatedAt": "2026-02-25T13:19:17.941Z"
   },
   {
     "id": "af2145d222677b4b",
@@ -94,36 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/699ec6409a79471089f93293",
     "publishedAt": "2026-02-25T10:04:52.000Z",
-    "createdAt": "2026-02-25T11:42:59.625Z",
-    "updatedAt": "2026-02-25T11:42:59.625Z"
-  },
-  {
-    "id": "63c7af016df0d88b",
-    "title": "Российский лыжник назвал Клебо недосягаемым после шести золотых ОИ",
-    "sport": "Другое",
-    "category": "Другие",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/7/86/347720106447867.jpeg",
-    "teaser": "Российский лыжник назвал Клебо недосягаемым после шести золотых ОИ",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/699eba569a79470b4c9d895a",
-    "publishedAt": "2026-02-25T09:26:39.000Z",
-    "createdAt": "2026-02-25T11:43:05.544Z",
-    "updatedAt": "2026-02-25T11:43:05.544Z"
-  },
-  {
-    "id": "514d9698e7a2d5e2",
-    "title": "Бразильский новичок «Зенита» рассказал о планах выучить русский язык",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/0/99/347720105653990.jpeg",
-    "teaser": "Бразильский новичок «Зенита» рассказал о планах выучить русский язык",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/699ebb929a794783a6fecad3",
-    "publishedAt": "2026-02-25T09:23:37.000Z",
-    "createdAt": "2026-02-25T11:43:04.391Z",
-    "updatedAt": "2026-02-25T11:43:04.391Z"
+    "createdAt": "2026-02-25T13:19:15.748Z",
+    "updatedAt": "2026-02-25T13:19:15.748Z"
   },
   {
     "id": "b22fc237753a418f",
@@ -136,7 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/699eb2e79a79476019600b52",
     "publishedAt": "2026-02-25T09:15:27.000Z",
-    "createdAt": "2026-02-25T11:43:03.247Z",
-    "updatedAt": "2026-02-25T11:43:03.247Z"
+    "createdAt": "2026-02-25T13:19:18.950Z",
+    "updatedAt": "2026-02-25T13:19:18.950Z"
   }
 ]
