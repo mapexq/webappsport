@@ -1,5 +1,61 @@
 [
   {
+    "id": "f14cfd254fcbd1bb",
+    "title": "На турнире WTA в Остине для теннисисток открыли «комнату ярости»",
+    "sport": "Теннис",
+    "category": "Теннис",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/5/35/347720449786355.jpeg",
+    "teaser": "На турнире WTA в Остине для теннисисток открыли «комнату ярости»",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/699f42279a794751607214e4",
+    "publishedAt": "2026-02-25T18:47:17.000Z",
+    "createdAt": "2026-02-25T19:50:59.531Z",
+    "updatedAt": "2026-02-25T19:50:59.531Z"
+  },
+  {
+    "id": "c346812c7c4c24eb",
+    "title": "Шипачев первым в истории КХЛ отдал 700 результативных передач",
+    "sport": "Хоккей",
+    "category": "Хоккей",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/8/30/347720414492308.jpeg",
+    "teaser": "Шипачев первым в истории КХЛ отдал 700 результативных передач",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/699f31fb9a7947b7b03357a6",
+    "publishedAt": "2026-02-25T18:10:34.000Z",
+    "createdAt": "2026-02-25T19:51:00.485Z",
+    "updatedAt": "2026-02-25T19:51:00.485Z"
+  },
+  {
+    "id": "9b88437cbf1a0f95",
+    "title": "Рублев вышел в четвертьфинал турнира в Дубае",
+    "sport": "Теннис",
+    "category": "Теннис",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/4/19/347720385495194.jpeg",
+    "teaser": "Рублев вышел в четвертьфинал турнира в Дубае",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/699f26679a7947967018cadb",
+    "publishedAt": "2026-02-25T18:05:50.000Z",
+    "createdAt": "2026-02-25T19:51:01.553Z",
+    "updatedAt": "2026-02-25T19:51:01.553Z"
+  },
+  {
+    "id": "331677f52dcde3dd",
+    "title": "Российского вратаря назвали лучшим по отраженным ударам в Лиге чемпионов",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/8/60/347720400317608.jpeg",
+    "teaser": "Российского вратаря назвали лучшим по отраженным ударам в Лиге чемпионов",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/699f2b6c9a7947b0f504f3dd",
+    "publishedAt": "2026-02-25T17:56:03.000Z",
+    "createdAt": "2026-02-25T19:51:03.688Z",
+    "updatedAt": "2026-02-25T19:51:03.688Z"
+  },
+  {
     "id": "d7f6cb6ac784a56f",
     "title": "Трамп поздравил Инфантино с 10-летием пребывания на посту главы ФИФА",
     "sport": "Футбол",
@@ -10,8 +66,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/699f2ef49a7947013768e5f4",
     "publishedAt": "2026-02-25T17:32:54.000Z",
-    "createdAt": "2026-02-25T18:03:07.943Z",
-    "updatedAt": "2026-02-25T18:03:07.943Z"
+    "createdAt": "2026-02-25T19:51:02.646Z",
+    "updatedAt": "2026-02-25T19:51:02.646Z"
   },
   {
     "id": "6613344ab15e71b9",
@@ -24,8 +80,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/699f20789a7947ea3a14d103",
     "publishedAt": "2026-02-25T16:37:31.000Z",
-    "createdAt": "2026-02-25T18:03:09.090Z",
-    "updatedAt": "2026-02-25T18:03:09.090Z"
+    "createdAt": "2026-02-25T19:51:04.736Z",
+    "updatedAt": "2026-02-25T19:51:04.736Z"
   },
   {
     "id": "84876c21c8193b07",
@@ -38,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/699f1b909a794710fda67417",
     "publishedAt": "2026-02-25T16:17:59.000Z",
-    "createdAt": "2026-02-25T18:03:10.162Z",
-    "updatedAt": "2026-02-25T18:03:10.162Z"
+    "createdAt": "2026-02-25T19:51:05.826Z",
+    "updatedAt": "2026-02-25T19:51:05.826Z"
   },
   {
     "id": "1bb140df9cb2106c",
@@ -52,8 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/699f12879a794779875969ad",
     "publishedAt": "2026-02-25T15:42:51.000Z",
-    "createdAt": "2026-02-25T18:03:11.267Z",
-    "updatedAt": "2026-02-25T18:03:11.267Z"
+    "createdAt": "2026-02-25T19:51:06.900Z",
+    "updatedAt": "2026-02-25T19:51:06.900Z"
   },
   {
     "id": "c428f4b14be7f099",
@@ -66,22 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/699f0be19a794710e8a91856",
     "publishedAt": "2026-02-25T15:16:12.000Z",
-    "createdAt": "2026-02-25T18:03:13.595Z",
-    "updatedAt": "2026-02-25T18:03:13.595Z"
-  },
-  {
-    "id": "b9c5121c53a7349d",
-    "title": "Венесуэльский форвард из «Сочи» перешел в китайский клуб",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/6/33/347720307374336.jpeg",
-    "teaser": "Венесуэльский форвард из «Сочи» перешел в китайский клуб",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/699f07679a794714d5cb12f9",
-    "publishedAt": "2026-02-25T14:51:21.000Z",
-    "createdAt": "2026-02-25T18:03:14.747Z",
-    "updatedAt": "2026-02-25T18:03:14.747Z"
+    "createdAt": "2026-02-25T19:51:09.924Z",
+    "updatedAt": "2026-02-25T19:51:09.924Z"
   },
   {
     "id": "dabbd67b60a85d6f",
@@ -94,49 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/699f00099a7947f197d62d78",
     "publishedAt": "2026-02-25T14:49:34.000Z",
-    "createdAt": "2026-02-25T18:03:12.459Z",
-    "updatedAt": "2026-02-25T18:03:12.459Z"
-  },
-  {
-    "id": "b752be31edb7d10a",
-    "title": "Бё призвал к смене курса в немецком биатлоне после одной бронзы на ОИ",
-    "sport": "Другое",
-    "category": "Биатлон",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/4/07/347720282834074.jpeg",
-    "teaser": "Бё призвал к смене курса в немецком биатлоне после одной бронзы на ОИ",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/699efec79a7947eccff0acb4",
-    "publishedAt": "2026-02-25T14:23:27.000Z",
-    "createdAt": "2026-02-25T18:03:17.029Z",
-    "updatedAt": "2026-02-25T18:03:17.029Z"
-  },
-  {
-    "id": "a523c9d8b83c0d52",
-    "title": "Дегтярев заявил об отсутствии негатива в адрес россиян на Играх в Италии",
-    "sport": "Другое",
-    "category": "Другие",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/3/52/347720271626523.jpeg",
-    "teaser": "Дегтярев заявил об отсутствии негатива в адрес россиян на Играх в Италии",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/699ef9ab9a794783276df7cf",
-    "publishedAt": "2026-02-25T14:08:30.000Z",
-    "createdAt": "2026-02-25T18:03:15.872Z",
-    "updatedAt": "2026-02-25T18:03:15.872Z"
-  },
-  {
-    "id": "5e928aebc191cb96",
-    "title": "Победитель Олимпиады Шайдоров не попал в заявку на чемпионат мира",
-    "sport": "Другое",
-    "category": "Фигурное катание",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/5/55/347720242460555.jpeg",
-    "teaser": "Победитель Олимпиады Шайдоров не попал в заявку на чемпионат мира",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/699ef0e29a79470f2f5a2cb8",
-    "publishedAt": "2026-02-25T13:30:48.000Z",
-    "createdAt": "2026-02-25T18:03:18.133Z",
-    "updatedAt": "2026-02-25T18:03:18.133Z"
+    "createdAt": "2026-02-25T19:51:07.969Z",
+    "updatedAt": "2026-02-25T19:51:07.969Z"
   }
 ]
