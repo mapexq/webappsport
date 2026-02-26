@@ -1,5 +1,33 @@
 [
   {
+    "id": "6a45ef472a915678",
+    "title": "Рублев вслед за Медведевым вышел в полуфинал крупного турнира в Дубае",
+    "sport": "Теннис",
+    "category": "Теннис",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/7/15/347721216085157.jpeg",
+    "teaser": "Рублев вслед за Медведевым вышел в полуфинал крупного турнира в Дубае",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69a06df89a79472f3fd21507",
+    "publishedAt": "2026-02-26T16:38:49.000Z",
+    "createdAt": "2026-02-26T17:10:34.261Z",
+    "updatedAt": "2026-02-26T17:10:34.261Z"
+  },
+  {
+    "id": "d3e1f31233a24f61",
+    "title": "«Салават Юлаев» по буллитам обыграл «Трактор» в КХЛ",
+    "sport": "Хоккей",
+    "category": "Хоккей",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/8/41/347721231793418.jpeg",
+    "teaser": "«Салават Юлаев» по буллитам обыграл «Трактор» в КХЛ",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69a062f99a79472737907bf2",
+    "publishedAt": "2026-02-26T16:29:17.000Z",
+    "createdAt": "2026-02-26T17:10:35.280Z",
+    "updatedAt": "2026-02-26T17:10:35.280Z"
+  },
+  {
     "id": "e0bb5eebb247b710",
     "title": "Влетевший в борт лидер «Металлурга» перенес операцию",
     "sport": "Хоккей",
@@ -10,8 +38,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69a061a19a79473fb420e38f",
     "publishedAt": "2026-02-26T15:36:21.000Z",
-    "createdAt": "2026-02-26T15:58:13.940Z",
-    "updatedAt": "2026-02-26T15:58:13.940Z"
+    "createdAt": "2026-02-26T17:10:36.227Z",
+    "updatedAt": "2026-02-26T17:10:36.227Z"
   },
   {
     "id": "8bb8f59a3131fbe1",
@@ -24,8 +52,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69a05d4b9a7947a2c463ee24",
     "publishedAt": "2026-02-26T15:08:46.000Z",
-    "createdAt": "2026-02-26T15:58:16.043Z",
-    "updatedAt": "2026-02-26T15:58:16.043Z"
+    "createdAt": "2026-02-26T17:10:38.215Z",
+    "updatedAt": "2026-02-26T17:10:38.215Z"
   },
   {
     "id": "73328fdcf0d24bc6",
@@ -38,8 +66,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69a058809a7947667506d995",
     "publishedAt": "2026-02-26T15:08:34.000Z",
-    "createdAt": "2026-02-26T15:58:17.104Z",
-    "updatedAt": "2026-02-26T15:58:17.104Z"
+    "createdAt": "2026-02-26T17:10:39.219Z",
+    "updatedAt": "2026-02-26T17:10:39.219Z"
   },
   {
     "id": "2b443e66bf83f66b",
@@ -52,8 +80,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69a04fd79a794754eda950d4",
     "publishedAt": "2026-02-26T14:58:46.000Z",
-    "createdAt": "2026-02-26T15:58:14.988Z",
-    "updatedAt": "2026-02-26T15:58:14.988Z"
+    "createdAt": "2026-02-26T17:10:37.213Z",
+    "updatedAt": "2026-02-26T17:10:37.213Z"
   },
   {
     "id": "4486a065d13fd923",
@@ -66,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69a04d5d9a794727f91612ca",
     "publishedAt": "2026-02-26T14:09:39.000Z",
-    "createdAt": "2026-02-26T15:58:18.039Z",
-    "updatedAt": "2026-02-26T15:58:18.039Z"
+    "createdAt": "2026-02-26T17:10:40.258Z",
+    "updatedAt": "2026-02-26T17:10:40.258Z"
   },
   {
     "id": "8e9f16872d3794d2",
@@ -80,22 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69a03c169a7947a34c9e1e93",
     "publishedAt": "2026-02-26T13:42:10.000Z",
-    "createdAt": "2026-02-26T15:58:22.045Z",
-    "updatedAt": "2026-02-26T15:58:22.045Z"
-  },
-  {
-    "id": "1dc8b1d55c1e4124",
-    "title": "Российский борец в 22 года победил чемпиона Игр из США на турнире UWW",
-    "sport": "Единоборства",
-    "category": "Единоборства",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/8/05/347721126632058.jpeg",
-    "teaser": "Российский борец в 22 года победил чемпиона Игр из США на турнире UWW",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69a046d09a7947329083f866",
-    "publishedAt": "2026-02-26T13:41:37.000Z",
-    "createdAt": "2026-02-26T15:58:24.159Z",
-    "updatedAt": "2026-02-26T15:58:24.159Z"
+    "createdAt": "2026-02-26T17:10:44.068Z",
+    "updatedAt": "2026-02-26T17:10:44.068Z"
   },
   {
     "id": "1144a8db51c7de91",
@@ -108,22 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69a03cd69a794758902b67de",
     "publishedAt": "2026-02-26T12:56:40.000Z",
-    "createdAt": "2026-02-26T15:58:19.091Z",
-    "updatedAt": "2026-02-26T15:58:19.091Z"
-  },
-  {
-    "id": "cf5ffb963956f1f8",
-    "title": "Франция не будет бойкотировать церемонию открытия Паралимпийских игр",
-    "sport": "Другое",
-    "category": "Другие",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/3/26/347721090763263.jpeg",
-    "teaser": "Франция не будет бойкотировать церемонию открытия Паралимпийских игр",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69a038b79a79478135fbcb98",
-    "publishedAt": "2026-02-26T12:42:48.000Z",
-    "createdAt": "2026-02-26T15:58:23.102Z",
-    "updatedAt": "2026-02-26T15:58:23.102Z"
+    "createdAt": "2026-02-26T17:10:41.258Z",
+    "updatedAt": "2026-02-26T17:10:41.258Z"
   },
   {
     "id": "6aaff608683d12db",
@@ -136,7 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/699978ad9a79478bc58da35a",
     "publishedAt": "2026-02-26T06:00:05.000Z",
-    "createdAt": "2026-02-26T15:58:20.151Z",
-    "updatedAt": "2026-02-26T15:58:20.151Z"
+    "createdAt": "2026-02-26T17:10:42.263Z",
+    "updatedAt": "2026-02-26T17:10:42.263Z"
   }
 ]
