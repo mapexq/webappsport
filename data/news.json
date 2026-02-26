@@ -1,5 +1,89 @@
 [
   {
+    "id": "4486a065d13fd923",
+    "title": "Евгений Кузнецов пропустит матч «Салавата Юлаева» с «Трактором»",
+    "sport": "Хоккей",
+    "category": "Хоккей",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/3/53/347721140335533.jpeg",
+    "teaser": "Евгений Кузнецов пропустит матч «Салавата Юлаева» с «Трактором»",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69a04d5d9a794727f91612ca",
+    "publishedAt": "2026-02-26T14:09:39.000Z",
+    "createdAt": "2026-02-26T14:53:09.655Z",
+    "updatedAt": "2026-02-26T14:53:09.655Z"
+  },
+  {
+    "id": "8e9f16872d3794d2",
+    "title": "Тренер «Балтики» объяснил, зачем в команде нужны «проверенные душнилы»",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/9/57/347721126947579.png",
+    "teaser": "Тренер «Балтики» объяснил, зачем в команде нужны «проверенные душнилы»",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69a03c169a7947a34c9e1e93",
+    "publishedAt": "2026-02-26T13:42:10.000Z",
+    "createdAt": "2026-02-26T14:53:12.591Z",
+    "updatedAt": "2026-02-26T14:53:12.591Z"
+  },
+  {
+    "id": "1dc8b1d55c1e4124",
+    "title": "Российский борец в 22 года победил чемпиона Игр из США на турнире UWW",
+    "sport": "Единоборства",
+    "category": "Единоборства",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/8/05/347721126632058.jpeg",
+    "teaser": "Российский борец в 22 года победил чемпиона Игр из США на турнире UWW",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69a046d09a7947329083f866",
+    "publishedAt": "2026-02-26T13:41:37.000Z",
+    "createdAt": "2026-02-26T14:53:14.657Z",
+    "updatedAt": "2026-02-26T14:53:14.657Z"
+  },
+  {
+    "id": "b77a91b333e0b4c2",
+    "title": "Главный тренер «Балтики» оценил подготовку команды к рестарту сезона РПЛ",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/2/31/347721109962312.jpeg",
+    "teaser": "Главный тренер «Балтики» оценил подготовку команды к рестарту сезона РПЛ",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69a044179a7947eaf4dbe085",
+    "publishedAt": "2026-02-26T13:21:29.000Z",
+    "createdAt": "2026-02-26T14:53:15.701Z",
+    "updatedAt": "2026-02-26T14:53:15.701Z"
+  },
+  {
+    "id": "1144a8db51c7de91",
+    "title": "Агент Малинина заявил, что ОИ-2026 для фигуриста не последние",
+    "sport": "Другое",
+    "category": "Фигурное катание",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/9/02/347721092962029.jpeg",
+    "teaser": "Агент Малинина заявил, что ОИ-2026 для фигуриста не последние",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69a03cd69a794758902b67de",
+    "publishedAt": "2026-02-26T12:56:40.000Z",
+    "createdAt": "2026-02-26T14:53:10.706Z",
+    "updatedAt": "2026-02-26T14:53:10.706Z"
+  },
+  {
+    "id": "cf5ffb963956f1f8",
+    "title": "Франция не будет бойкотировать церемонию открытия Паралимпийских игр",
+    "sport": "Другое",
+    "category": "Другие",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/3/26/347721090763263.jpeg",
+    "teaser": "Франция не будет бойкотировать церемонию открытия Паралимпийских игр",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69a038b79a79478135fbcb98",
+    "publishedAt": "2026-02-26T12:42:48.000Z",
+    "createdAt": "2026-02-26T14:53:13.634Z",
+    "updatedAt": "2026-02-26T14:53:13.634Z"
+  },
+  {
     "id": "2d5ff7e52cdf701e",
     "title": "Скелетонист Гераскевич призвал лишить Бубку звания Героя Украины",
     "sport": "Другое",
@@ -10,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69a02da49a794711c88aac89",
     "publishedAt": "2026-02-26T12:06:58.000Z",
-    "createdAt": "2026-02-26T13:20:38.574Z",
-    "updatedAt": "2026-02-26T13:20:38.574Z"
+    "createdAt": "2026-02-26T14:53:16.768Z",
+    "updatedAt": "2026-02-26T14:53:16.768Z"
   },
   {
     "id": "c6f3be5adeb1c92b",
@@ -24,8 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69a00f999a794785bc2cf32e",
     "publishedAt": "2026-02-26T11:26:07.000Z",
-    "createdAt": "2026-02-26T13:20:40.808Z",
-    "updatedAt": "2026-02-26T13:20:40.808Z"
+    "createdAt": "2026-02-26T14:53:18.823Z",
+    "updatedAt": "2026-02-26T14:53:18.823Z"
   },
   {
     "id": "d836a88fa0fa3efd",
@@ -38,22 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69a025cb9a79472c136d9ed9",
     "publishedAt": "2026-02-26T11:18:00.000Z",
-    "createdAt": "2026-02-26T13:20:39.742Z",
-    "updatedAt": "2026-02-26T13:20:39.742Z"
-  },
-  {
-    "id": "091116c0f5029fda",
-    "title": "Биатлонистка Шевченко выиграла спринт в финале Кубка России",
-    "sport": "Другое",
-    "category": "Биатлон",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/4/82/347720980104824.png",
-    "teaser": "Биатлонистка Шевченко выиграла спринт в финале Кубка России",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69a011509a7947e8277e87dd",
-    "publishedAt": "2026-02-26T09:42:03.000Z",
-    "createdAt": "2026-02-26T13:20:42.889Z",
-    "updatedAt": "2026-02-26T13:20:42.889Z"
+    "createdAt": "2026-02-26T14:53:17.786Z",
+    "updatedAt": "2026-02-26T14:53:17.786Z"
   },
   {
     "id": "f0a587da00856a23",
@@ -66,77 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69a00d609a79476b0ca2a15d",
     "publishedAt": "2026-02-26T09:36:34.000Z",
-    "createdAt": "2026-02-26T13:20:41.745Z",
-    "updatedAt": "2026-02-26T13:20:41.745Z"
-  },
-  {
-    "id": "e4dc7be5a442662e",
-    "title": "Устюгов отреагировал на предположение Вяльбе о завершении карьеры",
-    "sport": "Другое",
-    "category": "Другие",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/7/82/347720966336827.jpeg",
-    "teaser": "Устюгов отреагировал на предположение Вяльбе о завершении карьеры",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69a009df9a794738de328772",
-    "publishedAt": "2026-02-26T09:10:16.000Z",
-    "createdAt": "2026-02-26T13:20:44.105Z",
-    "updatedAt": "2026-02-26T13:20:44.105Z"
-  },
-  {
-    "id": "af9380b903af8e18",
-    "title": "Главный тренер «Лос-Анджелеса» оценил дебют Панарина за клуб",
-    "sport": "Хоккей",
-    "category": "Хоккей",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/9/06/347720937695069.jpeg",
-    "teaser": "Главный тренер «Лос-Анджелеса» оценил дебют Панарина за клуб",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69a000da9a79475d99eb7be3",
-    "publishedAt": "2026-02-26T08:39:19.000Z",
-    "createdAt": "2026-02-26T13:20:45.259Z",
-    "updatedAt": "2026-02-26T13:20:45.259Z"
-  },
-  {
-    "id": "914f332a3f9b558a",
-    "title": "Победитель Олимпиады Шайдоров не примет участия в ледовом шоу в Алма-Ате",
-    "sport": "Другое",
-    "category": "Фигурное катание",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/9/68/347720925708689.jpeg",
-    "teaser": "Победитель Олимпиады Шайдоров не примет участия в ледовом шоу в Алма-Ате",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/699ffb6f9a7947786ed62633",
-    "publishedAt": "2026-02-26T08:15:36.000Z",
-    "createdAt": "2026-02-26T13:20:46.437Z",
-    "updatedAt": "2026-02-26T13:20:46.437Z"
-  },
-  {
-    "id": "3dcd36ee047e8334",
-    "title": "Большунов стал пятым в скиатлоне на чемпионате России в Южно-Сахалинске",
-    "sport": "Другое",
-    "category": "Другие",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/5/41/347720901198415.jpeg",
-    "teaser": "Большунов стал пятым в скиатлоне на чемпионате России в Южно-Сахалинске",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/699ff0129a79479ec42f3a0e",
-    "publishedAt": "2026-02-26T07:45:42.000Z",
-    "createdAt": "2026-02-26T13:20:47.512Z",
-    "updatedAt": "2026-02-26T13:20:47.512Z"
-  },
-  {
-    "id": "0ccf70930b1d8746",
-    "title": "Панарин дебютировал за «Лос-Анджелес» с двух голевых передач",
-    "sport": "Хоккей",
-    "category": "Хоккей",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/0/10/347720871726100.jpeg",
-    "teaser": "Панарин дебютировал за «Лос-Анджелес» с двух голевых передач",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/699fe3ce9a79479930ebd932",
-    "publishedAt": "2026-02-26T07:24:24.000Z",
-    "createdAt": "2026-02-26T13:20:48.813Z",
-    "updatedAt": "2026-02-26T13:20:48.813Z"
+    "createdAt": "2026-02-26T14:53:19.905Z",
+    "updatedAt": "2026-02-26T14:53:19.905Z"
   }
 ]
