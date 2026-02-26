@@ -1,5 +1,75 @@
 [
   {
+    "id": "34f2384b54cb7e3c",
+    "title": "Хет-трик Филина помог «Спартаку» победить «Адмирал»",
+    "sport": "Хоккей",
+    "category": "Хоккей",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/7/88/347721316098887.png",
+    "teaser": "Хет-трик Филина помог «Спартаку» победить «Адмирал»",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69a0942c9a794745350a2b3a",
+    "publishedAt": "2026-02-26T18:56:14.000Z",
+    "createdAt": "2026-02-26T19:02:57.364Z",
+    "updatedAt": "2026-02-26T19:02:57.364Z"
+  },
+  {
+    "id": "d5342d9701ff4e45",
+    "title": "«Динамо» победило СКА и вышло в плей-офф КХЛ",
+    "sport": "Хоккей",
+    "category": "Хоккей",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/5/41/347721300701415.png",
+    "teaser": "«Динамо» победило СКА и вышло в плей-офф КХЛ",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69a08eb69a79477769de153e",
+    "publishedAt": "2026-02-26T18:53:21.000Z",
+    "createdAt": "2026-02-26T19:02:56.316Z",
+    "updatedAt": "2026-02-26T19:02:56.316Z"
+  },
+  {
+    "id": "753f1e467b622b06",
+    "title": "Российский борец стал чемпионом турнира UWW в Албании",
+    "sport": "Единоборства",
+    "category": "Единоборства",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/6/22/347721309531226.jpeg",
+    "teaser": "Российский борец стал чемпионом турнира UWW в Албании",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69a08cee9a7947266200a143",
+    "publishedAt": "2026-02-26T18:51:45.000Z",
+    "createdAt": "2026-02-26T19:02:55.266Z",
+    "updatedAt": "2026-02-26T19:02:55.266Z"
+  },
+  {
+    "id": "1ab44a5efeab2dcf",
+    "title": "Итальянский гольфист упал в шахту лифта перед чемпионатом в ЮАР",
+    "sport": "Другое",
+    "category": "Другие",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/4/87/347721280017874.jpeg",
+    "teaser": "Итальянский гольфист упал в шахту лифта перед чемпионатом в ЮАР",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69a0820a9a79471a06bd4e7b",
+    "publishedAt": "2026-02-26T18:34:18.000Z",
+    "createdAt": "2026-02-26T19:02:54.222Z",
+    "updatedAt": "2026-02-26T19:02:54.222Z"
+  },
+  {
+    "id": "b95eeb4d6f721ae5",
+    "title": "МВД возбудило дела в отношении девяти российских футбольных судей",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/4/08/347721258938084.jpeg",
+    "teaser": "МВД возбудило дела в отношении девяти российских футбольных судей",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69a046b99a7947867c474c7b",
+    "publishedAt": "2026-02-26T17:04:54.000Z",
+    "createdAt": "2026-02-26T19:02:53.320Z",
+    "updatedAt": "2026-02-26T19:02:53.320Z"
+  },
+  {
     "id": "6a45ef472a915678",
     "title": "Рублев вслед за Медведевым вышел в полуфинал крупного турнира в Дубае",
     "sport": "Теннис",
@@ -10,8 +80,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69a06df89a79472f3fd21507",
     "publishedAt": "2026-02-26T16:38:49.000Z",
-    "createdAt": "2026-02-26T17:10:34.261Z",
-    "updatedAt": "2026-02-26T17:10:34.261Z"
+    "createdAt": "2026-02-26T19:02:59.884Z",
+    "updatedAt": "2026-02-26T19:02:59.884Z"
   },
   {
     "id": "d3e1f31233a24f61",
@@ -24,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69a062f99a79472737907bf2",
     "publishedAt": "2026-02-26T16:29:17.000Z",
-    "createdAt": "2026-02-26T17:10:35.280Z",
-    "updatedAt": "2026-02-26T17:10:35.280Z"
+    "createdAt": "2026-02-26T19:02:58.735Z",
+    "updatedAt": "2026-02-26T19:02:58.735Z"
   },
   {
     "id": "e0bb5eebb247b710",
@@ -38,8 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69a061a19a79473fb420e38f",
     "publishedAt": "2026-02-26T15:36:21.000Z",
-    "createdAt": "2026-02-26T17:10:36.227Z",
-    "updatedAt": "2026-02-26T17:10:36.227Z"
+    "createdAt": "2026-02-26T19:03:02.069Z",
+    "updatedAt": "2026-02-26T19:03:02.069Z"
   },
   {
     "id": "8bb8f59a3131fbe1",
@@ -52,22 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69a05d4b9a7947a2c463ee24",
     "publishedAt": "2026-02-26T15:08:46.000Z",
-    "createdAt": "2026-02-26T17:10:38.215Z",
-    "updatedAt": "2026-02-26T17:10:38.215Z"
-  },
-  {
-    "id": "73328fdcf0d24bc6",
-    "title": "Полузащитник «Барселоны» получил травму накануне плей-офф Лиги чемпионов",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/3/04/347721173714043.jpeg",
-    "teaser": "Полузащитник «Барселоны» получил травму накануне плей-офф Лиги чемпионов",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69a058809a7947667506d995",
-    "publishedAt": "2026-02-26T15:08:34.000Z",
-    "createdAt": "2026-02-26T17:10:39.219Z",
-    "updatedAt": "2026-02-26T17:10:39.219Z"
+    "createdAt": "2026-02-26T19:03:03.197Z",
+    "updatedAt": "2026-02-26T19:03:03.197Z"
   },
   {
     "id": "2b443e66bf83f66b",
@@ -80,63 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69a04fd79a794754eda950d4",
     "publishedAt": "2026-02-26T14:58:46.000Z",
-    "createdAt": "2026-02-26T17:10:37.213Z",
-    "updatedAt": "2026-02-26T17:10:37.213Z"
-  },
-  {
-    "id": "4486a065d13fd923",
-    "title": "Евгений Кузнецов пропустит матч «Салавата Юлаева» с «Трактором»",
-    "sport": "Хоккей",
-    "category": "Хоккей",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/3/53/347721140335533.jpeg",
-    "teaser": "Евгений Кузнецов пропустит матч «Салавата Юлаева» с «Трактором»",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69a04d5d9a794727f91612ca",
-    "publishedAt": "2026-02-26T14:09:39.000Z",
-    "createdAt": "2026-02-26T17:10:40.258Z",
-    "updatedAt": "2026-02-26T17:10:40.258Z"
-  },
-  {
-    "id": "8e9f16872d3794d2",
-    "title": "Тренер «Балтики» объяснил, зачем в команде нужны «проверенные душнилы»",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/9/57/347721126947579.png",
-    "teaser": "Тренер «Балтики» объяснил, зачем в команде нужны «проверенные душнилы»",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69a03c169a7947a34c9e1e93",
-    "publishedAt": "2026-02-26T13:42:10.000Z",
-    "createdAt": "2026-02-26T17:10:44.068Z",
-    "updatedAt": "2026-02-26T17:10:44.068Z"
-  },
-  {
-    "id": "1144a8db51c7de91",
-    "title": "Агент Малинина заявил, что ОИ-2026 для фигуриста не последние",
-    "sport": "Другое",
-    "category": "Фигурное катание",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/9/02/347721092962029.jpeg",
-    "teaser": "Агент Малинина заявил, что ОИ-2026 для фигуриста не последние",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69a03cd69a794758902b67de",
-    "publishedAt": "2026-02-26T12:56:40.000Z",
-    "createdAt": "2026-02-26T17:10:41.258Z",
-    "updatedAt": "2026-02-26T17:10:41.258Z"
-  },
-  {
-    "id": "6aaff608683d12db",
-    "title": "Какие страны бойкотируют церемонию открытия Паралимпиады из-за россиян",
-    "sport": "Другое",
-    "category": "Другие",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/0/77/347716896288770.jpeg",
-    "teaser": "Какие страны бойкотируют церемонию открытия Паралимпиады из-за россиян",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/699978ad9a79478bc58da35a",
-    "publishedAt": "2026-02-26T06:00:05.000Z",
-    "createdAt": "2026-02-26T17:10:42.263Z",
-    "updatedAt": "2026-02-26T17:10:42.263Z"
+    "createdAt": "2026-02-26T19:03:00.936Z",
+    "updatedAt": "2026-02-26T19:03:00.936Z"
   }
 ]
