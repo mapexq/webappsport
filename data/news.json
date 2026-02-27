@@ -1,5 +1,47 @@
 [
   {
+    "id": "db1442a1f122ea90",
+    "title": "Тренер Петросян заявил о преобладании русского языка на Играх в Италии",
+    "sport": "Другое",
+    "category": "Фигурное катание",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/0/28/347721839331280.jpeg",
+    "teaser": "Тренер Петросян заявил о преобладании русского языка на Играх в Италии",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69a15b709a79476dd4cc2951",
+    "publishedAt": "2026-02-27T09:42:02.000Z",
+    "createdAt": "2026-02-27T09:50:51.414Z",
+    "updatedAt": "2026-02-27T09:50:51.414Z"
+  },
+  {
+    "id": "fe9deda047fc289f",
+    "title": "Биатлонист Вагин выиграл спринт в финале Кубка России",
+    "sport": "Другое",
+    "category": "Биатлон",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/2/07/347721824251072.jpeg",
+    "teaser": "Биатлонист Вагин выиграл спринт в финале Кубка России",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69a15b599a794780d2921fee",
+    "publishedAt": "2026-02-27T09:04:34.000Z",
+    "createdAt": "2026-02-27T09:50:53.464Z",
+    "updatedAt": "2026-02-27T09:50:53.464Z"
+  },
+  {
+    "id": "750ed75e5389de8c",
+    "title": "19-летняя ученица Тутберидзе вышла замуж за призера чемпионата России",
+    "sport": "Другое",
+    "category": "Фигурное катание",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/2/67/347721820638672.jpeg",
+    "teaser": "19-летняя ученица Тутберидзе вышла замуж за призера чемпионата России",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69a1543c9a7947500210d41e",
+    "publishedAt": "2026-02-27T09:02:50.000Z",
+    "createdAt": "2026-02-27T09:50:52.445Z",
+    "updatedAt": "2026-02-27T09:50:52.445Z"
+  },
+  {
     "id": "8576127e90ae0039",
     "title": "Болельщики повалили Месси на поле во время матча в Пуэрто-Рико",
     "sport": "Футбол",
@@ -10,8 +52,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69a14c4a9a7947d4485c079b",
     "publishedAt": "2026-02-27T08:26:35.000Z",
-    "createdAt": "2026-02-27T08:50:42.455Z",
-    "updatedAt": "2026-02-27T08:50:42.455Z"
+    "createdAt": "2026-02-27T09:50:54.482Z",
+    "updatedAt": "2026-02-27T09:50:54.482Z"
   },
   {
     "id": "26407d748e4e4d0d",
@@ -24,8 +66,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69a14f639a79476ba3351085",
     "publishedAt": "2026-02-27T08:08:24.000Z",
-    "createdAt": "2026-02-27T08:50:43.477Z",
-    "updatedAt": "2026-02-27T08:50:43.477Z"
+    "createdAt": "2026-02-27T09:50:55.655Z",
+    "updatedAt": "2026-02-27T09:50:55.655Z"
   },
   {
     "id": "0f2da57df625dea1",
@@ -38,8 +80,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69a14b479a7947a4cf9eba1d",
     "publishedAt": "2026-02-27T08:07:27.000Z",
-    "createdAt": "2026-02-27T08:50:44.916Z",
-    "updatedAt": "2026-02-27T08:50:44.916Z"
+    "createdAt": "2026-02-27T09:50:56.748Z",
+    "updatedAt": "2026-02-27T09:50:56.748Z"
   },
   {
     "id": "688d51fb8c8d07d2",
@@ -52,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69a1480f9a7947552ff26351",
     "publishedAt": "2026-02-27T07:46:54.000Z",
-    "createdAt": "2026-02-27T08:50:45.823Z",
-    "updatedAt": "2026-02-27T08:50:45.823Z"
+    "createdAt": "2026-02-27T09:50:57.755Z",
+    "updatedAt": "2026-02-27T09:50:57.755Z"
   },
   {
     "id": "e04f254b3c8ec756",
@@ -66,36 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69a1434e9a79476b2766199d",
     "publishedAt": "2026-02-27T07:44:36.000Z",
-    "createdAt": "2026-02-27T08:50:46.844Z",
-    "updatedAt": "2026-02-27T08:50:46.844Z"
-  },
-  {
-    "id": "836db3b77626eca2",
-    "title": "Малкин вошел в топ-25 бомбардиров в истории НХЛ",
-    "sport": "Хоккей",
-    "category": "Хоккей",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/2/08/347721762495082.jpeg",
-    "teaser": "Малкин вошел в топ-25 бомбардиров в истории НХЛ",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69a1433a9a79470e592df5a2",
-    "publishedAt": "2026-02-27T07:20:57.000Z",
-    "createdAt": "2026-02-27T08:50:49.886Z",
-    "updatedAt": "2026-02-27T08:50:49.886Z"
-  },
-  {
-    "id": "ebb54e28577aa44b",
-    "title": "Капризов вышел на пятое место по числу передач в истории «Миннесоты»",
-    "sport": "Хоккей",
-    "category": "Хоккей",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/0/57/347721756040570.jpeg",
-    "teaser": "Капризов вышел на пятое место по числу передач в истории «Миннесоты»",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69a13d2e9a79472ca7e6313d",
-    "publishedAt": "2026-02-27T07:08:48.000Z",
-    "createdAt": "2026-02-27T08:50:50.901Z",
-    "updatedAt": "2026-02-27T08:50:50.901Z"
+    "createdAt": "2026-02-27T09:50:58.701Z",
+    "updatedAt": "2026-02-27T09:50:58.701Z"
   },
   {
     "id": "cc0ddd1aee789310",
@@ -108,22 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6925973e9a79472ae681dbef",
     "publishedAt": "2026-02-27T06:52:10.000Z",
-    "createdAt": "2026-02-27T08:50:47.818Z",
-    "updatedAt": "2026-02-27T08:50:47.818Z"
-  },
-  {
-    "id": "7d895cc53d286fc0",
-    "title": "Дубль россиянина Мичкова помог «Филадельфии» выиграть в матче НХЛ",
-    "sport": "Хоккей",
-    "category": "Хоккей",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/9/53/347721736076539.jpeg",
-    "teaser": "Дубль россиянина Мичкова помог «Филадельфии» выиграть в матче НХЛ",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69a135a29a79471d0bc15cc8",
-    "publishedAt": "2026-02-27T06:35:04.000Z",
-    "createdAt": "2026-02-27T08:50:51.862Z",
-    "updatedAt": "2026-02-27T08:50:51.862Z"
+    "createdAt": "2026-02-27T09:50:59.748Z",
+    "updatedAt": "2026-02-27T09:50:59.748Z"
   },
   {
     "id": "9aadb6781f7afc51",
@@ -136,7 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/699da99e9a79470e7237fbdb",
     "publishedAt": "2026-02-27T05:01:06.000Z",
-    "createdAt": "2026-02-27T08:50:48.841Z",
-    "updatedAt": "2026-02-27T08:50:48.841Z"
+    "createdAt": "2026-02-27T09:51:00.720Z",
+    "updatedAt": "2026-02-27T09:51:00.720Z"
   }
 ]
