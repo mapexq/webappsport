@@ -1,5 +1,47 @@
 [
   {
+    "id": "0c2fb2c718ed6b1e",
+    "title": "Филиппов назвал неожиданными поздравления с медалью Игр от бывших девушек",
+    "sport": "Другое",
+    "category": "Другие",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/1/88/347721870804881.jpeg",
+    "teaser": "Филиппов назвал неожиданными поздравления с медалью Игр от бывших девушек",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69a16db49a7947edbdf796ef",
+    "publishedAt": "2026-02-27T11:33:22.000Z",
+    "createdAt": "2026-02-27T11:37:02.630Z",
+    "updatedAt": "2026-02-27T11:37:02.630Z"
+  },
+  {
+    "id": "7d35f333d6c91ed7",
+    "title": "ПСЖ Сафонова сыграет с «Челси» в 1/8 финала Лиги чемпионов",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/7/88/347721909523887.jpeg",
+    "teaser": "ПСЖ Сафонова сыграет с «Челси» в 1/8 финала Лиги чемпионов",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69a17cc09a79471171266a81",
+    "publishedAt": "2026-02-27T11:30:49.000Z",
+    "createdAt": "2026-02-27T11:37:01.781Z",
+    "updatedAt": "2026-02-27T11:37:01.781Z"
+  },
+  {
+    "id": "93b1cb8144f81c32",
+    "title": "Глейхенгауз заявил о травме спины у Петросян перед Олимпиадой в Италии",
+    "sport": "Другое",
+    "category": "Фигурное катание",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/0/94/347721903022940.jpeg",
+    "teaser": "Глейхенгауз заявил о травме спины у Петросян перед Олимпиадой в Италии",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69a1750f9a794728617d668f",
+    "publishedAt": "2026-02-27T11:15:20.000Z",
+    "createdAt": "2026-02-27T11:37:03.571Z",
+    "updatedAt": "2026-02-27T11:37:03.571Z"
+  },
+  {
     "id": "46ac6900098c2dec",
     "title": "Сборная России сыграет против Мали в Санкт-Петербурге",
     "sport": "Футбол",
@@ -10,8 +52,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69a1648c9a7947cee38d4956",
     "publishedAt": "2026-02-27T10:07:05.000Z",
-    "createdAt": "2026-02-27T10:45:04.015Z",
-    "updatedAt": "2026-02-27T10:45:04.015Z"
+    "createdAt": "2026-02-27T11:37:04.669Z",
+    "updatedAt": "2026-02-27T11:37:04.669Z"
   },
   {
     "id": "8e45b25543271cd0",
@@ -24,8 +66,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69a165919a7947ed9c469a77",
     "publishedAt": "2026-02-27T10:01:40.000Z",
-    "createdAt": "2026-02-27T10:45:06.756Z",
-    "updatedAt": "2026-02-27T10:45:06.756Z"
+    "createdAt": "2026-02-27T11:37:06.814Z",
+    "updatedAt": "2026-02-27T11:37:06.814Z"
   },
   {
     "id": "db1442a1f122ea90",
@@ -38,8 +80,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69a15b709a79476dd4cc2951",
     "publishedAt": "2026-02-27T09:42:02.000Z",
-    "createdAt": "2026-02-27T10:45:05.615Z",
-    "updatedAt": "2026-02-27T10:45:05.615Z"
+    "createdAt": "2026-02-27T11:37:05.762Z",
+    "updatedAt": "2026-02-27T11:37:05.762Z"
   },
   {
     "id": "fe9deda047fc289f",
@@ -52,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69a15b599a794780d2921fee",
     "publishedAt": "2026-02-27T09:04:34.000Z",
-    "createdAt": "2026-02-27T10:45:08.887Z",
-    "updatedAt": "2026-02-27T10:45:08.887Z"
+    "createdAt": "2026-02-27T11:37:08.911Z",
+    "updatedAt": "2026-02-27T11:37:08.911Z"
   },
   {
     "id": "750ed75e5389de8c",
@@ -66,8 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69a1543c9a7947500210d41e",
     "publishedAt": "2026-02-27T09:02:50.000Z",
-    "createdAt": "2026-02-27T10:45:07.824Z",
-    "updatedAt": "2026-02-27T10:45:07.824Z"
+    "createdAt": "2026-02-27T11:37:07.862Z",
+    "updatedAt": "2026-02-27T11:37:07.862Z"
   },
   {
     "id": "8576127e90ae0039",
@@ -80,8 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69a14c4a9a7947d4485c079b",
     "publishedAt": "2026-02-27T08:26:35.000Z",
-    "createdAt": "2026-02-27T10:45:09.966Z",
-    "updatedAt": "2026-02-27T10:45:09.966Z"
+    "createdAt": "2026-02-27T11:37:09.970Z",
+    "updatedAt": "2026-02-27T11:37:09.970Z"
   },
   {
     "id": "26407d748e4e4d0d",
@@ -94,49 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69a14f639a79476ba3351085",
     "publishedAt": "2026-02-27T08:08:24.000Z",
-    "createdAt": "2026-02-27T10:45:11.023Z",
-    "updatedAt": "2026-02-27T10:45:11.023Z"
-  },
-  {
-    "id": "0f2da57df625dea1",
-    "title": "Демин обновил личный рекорд по передачам в НБА",
-    "sport": "Другое",
-    "category": "Другие",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/9/67/347721784311679.jpeg",
-    "teaser": "Демин обновил личный рекорд по передачам в НБА",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69a14b479a7947a4cf9eba1d",
-    "publishedAt": "2026-02-27T08:07:27.000Z",
-    "createdAt": "2026-02-27T10:45:12.099Z",
-    "updatedAt": "2026-02-27T10:45:12.099Z"
-  },
-  {
-    "id": "688d51fb8c8d07d2",
-    "title": "Россиянин вошел в число звезд дня в НХЛ после победной шайбы в овертайме",
-    "sport": "Хоккей",
-    "category": "Хоккей",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/4/17/347721774722174.jpeg",
-    "teaser": "Россиянин вошел в число звезд дня в НХЛ после победной шайбы в овертайме",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69a1480f9a7947552ff26351",
-    "publishedAt": "2026-02-27T07:46:54.000Z",
-    "createdAt": "2026-02-27T10:45:13.189Z",
-    "updatedAt": "2026-02-27T10:45:13.189Z"
-  },
-  {
-    "id": "e04f254b3c8ec756",
-    "title": "Коннор Макдэвид первым набрал 100 очков в сезоне НХЛ",
-    "sport": "Хоккей",
-    "category": "Хоккей",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/3/13/347721774830133.jpeg",
-    "teaser": "Коннор Макдэвид первым набрал 100 очков в сезоне НХЛ",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69a1434e9a79476b2766199d",
-    "publishedAt": "2026-02-27T07:44:36.000Z",
-    "createdAt": "2026-02-27T10:45:14.272Z",
-    "updatedAt": "2026-02-27T10:45:14.272Z"
+    "createdAt": "2026-02-27T11:37:11.028Z",
+    "updatedAt": "2026-02-27T11:37:11.028Z"
   }
 ]
