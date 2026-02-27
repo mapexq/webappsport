@@ -1,5 +1,33 @@
 [
   {
+    "id": "9bc9986e9d4f38e6",
+    "title": "Рублев проиграл в полуфинале турнира ATP в Дубае",
+    "sport": "Теннис",
+    "category": "Теннис",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/4/77/347722116827774.jpeg",
+    "teaser": "Рублев проиграл в полуфинале турнира ATP в Дубае",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69a1cdc29a7947a31c5ff1d7",
+    "publishedAt": "2026-02-27T17:13:31.000Z",
+    "createdAt": "2026-02-27T17:40:06.453Z",
+    "updatedAt": "2026-02-27T17:40:06.453Z"
+  },
+  {
+    "id": "33441cf4630ff151",
+    "title": "«Авангард» в четвертый раз за сезон обыграл «Металлург» в матче КХЛ",
+    "sport": "Хоккей",
+    "category": "Хоккей",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/8/90/347722091916908.jpeg",
+    "teaser": "«Авангард» в четвертый раз за сезон обыграл «Металлург» в матче КХЛ",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69a1c27f9a79475f94c8979e",
+    "publishedAt": "2026-02-27T16:35:16.000Z",
+    "createdAt": "2026-02-27T17:40:07.453Z",
+    "updatedAt": "2026-02-27T17:40:07.453Z"
+  },
+  {
     "id": "01e613a9961fe4d9",
     "title": "Бразильский рекордсмен «Краснодара» Жоаозиньо завершил карьеру",
     "sport": "Футбол",
@@ -10,8 +38,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69a1bb579a79478f75ec3adb",
     "publishedAt": "2026-02-27T16:16:00.000Z",
-    "createdAt": "2026-02-27T16:48:48.035Z",
-    "updatedAt": "2026-02-27T16:48:48.035Z"
+    "createdAt": "2026-02-27T17:40:08.488Z",
+    "updatedAt": "2026-02-27T17:40:08.488Z"
   },
   {
     "id": "fc7bcda2cb8bcaa5",
@@ -24,8 +52,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69a1b4509a794753ee09e967",
     "publishedAt": "2026-02-27T16:02:53.000Z",
-    "createdAt": "2026-02-27T16:48:49.013Z",
-    "updatedAt": "2026-02-27T16:48:49.013Z"
+    "createdAt": "2026-02-27T17:40:10.532Z",
+    "updatedAt": "2026-02-27T17:40:10.532Z"
   },
   {
     "id": "9766a795c708fd0f",
@@ -38,8 +66,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69a1af709a79477e94ad79a8",
     "publishedAt": "2026-02-27T16:00:27.000Z",
-    "createdAt": "2026-02-27T16:48:49.978Z",
-    "updatedAt": "2026-02-27T16:48:49.978Z"
+    "createdAt": "2026-02-27T17:40:11.549Z",
+    "updatedAt": "2026-02-27T17:40:11.549Z"
   },
   {
     "id": "35b080eac7d6790b",
@@ -52,8 +80,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69a1a98b9a7947dd94d59023",
     "publishedAt": "2026-02-27T15:50:27.000Z",
-    "createdAt": "2026-02-27T16:48:50.878Z",
-    "updatedAt": "2026-02-27T16:48:50.878Z"
+    "createdAt": "2026-02-27T17:40:12.507Z",
+    "updatedAt": "2026-02-27T17:40:12.507Z"
   },
   {
     "id": "600b15ddbe70d12e",
@@ -66,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69a1b0949a79470c42d12eff",
     "publishedAt": "2026-02-27T15:22:08.000Z",
-    "createdAt": "2026-02-27T16:48:51.880Z",
-    "updatedAt": "2026-02-27T16:48:51.880Z"
+    "createdAt": "2026-02-27T17:40:13.517Z",
+    "updatedAt": "2026-02-27T17:40:13.517Z"
   },
   {
     "id": "0787fe3b4f53e6e1",
@@ -80,8 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69a1ab709a79475d866a3bbe",
     "publishedAt": "2026-02-27T15:11:16.000Z",
-    "createdAt": "2026-02-27T16:48:52.889Z",
-    "updatedAt": "2026-02-27T16:48:52.889Z"
+    "createdAt": "2026-02-27T17:40:14.528Z",
+    "updatedAt": "2026-02-27T17:40:14.528Z"
   },
   {
     "id": "ae061d59c7713e0c",
@@ -94,8 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69a1ac549a794745685d1ad8",
     "publishedAt": "2026-02-27T14:57:46.000Z",
-    "createdAt": "2026-02-27T16:48:53.795Z",
-    "updatedAt": "2026-02-27T16:48:53.795Z"
+    "createdAt": "2026-02-27T17:40:15.603Z",
+    "updatedAt": "2026-02-27T17:40:15.603Z"
   },
   {
     "id": "7ca43599fc54ba5b",
@@ -108,35 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69a1a1759a7947ddc82883ef",
     "publishedAt": "2026-02-27T14:43:20.000Z",
-    "createdAt": "2026-02-27T16:48:54.811Z",
-    "updatedAt": "2026-02-27T16:48:54.811Z"
-  },
-  {
-    "id": "21622fdec11561df",
-    "title": "Карседо назвал главными принципами «Спартака» страсть и доминирование",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/3/93/347722000348933.jpeg",
-    "teaser": "Карседо назвал главными принципами «Спартака» страсть и доминирование",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69a19ade9a7947e8e9224f15",
-    "publishedAt": "2026-02-27T14:30:02.000Z",
-    "createdAt": "2026-02-27T16:48:55.843Z",
-    "updatedAt": "2026-02-27T16:48:55.843Z"
-  },
-  {
-    "id": "7b70e2aae983eca0",
-    "title": "Тренер ПСЖ Луис Энрике назвал Сафонова вратарем высокого уровня",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/3/82/347721990879823.jpeg",
-    "teaser": "Тренер ПСЖ Луис Энрике назвал Сафонова вратарем высокого уровня",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69a196689a79477bc4dc7f21",
-    "publishedAt": "2026-02-27T14:03:36.000Z",
-    "createdAt": "2026-02-27T16:48:56.862Z",
-    "updatedAt": "2026-02-27T16:48:56.862Z"
+    "createdAt": "2026-02-27T17:40:16.628Z",
+    "updatedAt": "2026-02-27T17:40:16.628Z"
   }
 ]
