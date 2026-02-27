@@ -1,5 +1,61 @@
 [
   {
+    "id": "600b15ddbe70d12e",
+    "title": "Спартак Гогниев второй раз покинул пост главного тренера «Алании»",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/3/54/347722042618543.jpeg",
+    "teaser": "Спартак Гогниев второй раз покинул пост главного тренера «Алании»",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69a1b0949a79470c42d12eff",
+    "publishedAt": "2026-02-27T15:22:08.000Z",
+    "createdAt": "2026-02-27T15:41:42.983Z",
+    "updatedAt": "2026-02-27T15:41:42.983Z"
+  },
+  {
+    "id": "17d8f4e6409a5099",
+    "title": "CAS назвал дискриминационным решение FIS об отстранение россиян",
+    "sport": "Другое",
+    "category": "Другие",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/8/48/347722041380488.jpeg",
+    "teaser": "CAS назвал дискриминационным решение FIS об отстранение россиян",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69a1ab709a79475d866a3bbe",
+    "publishedAt": "2026-02-27T15:11:16.000Z",
+    "createdAt": "2026-02-27T15:41:43.800Z",
+    "updatedAt": "2026-02-27T15:41:43.800Z"
+  },
+  {
+    "id": "ae061d59c7713e0c",
+    "title": "Даниил Медведев победил 8-ю ракетку мира и вышел в финал турнира в Дубае",
+    "sport": "Теннис",
+    "category": "Теннис",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/8/46/347722031468468.jpeg",
+    "teaser": "Даниил Медведев победил 8-ю ракетку мира и вышел в финал турнира в Дубае",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69a1ac549a794745685d1ad8",
+    "publishedAt": "2026-02-27T14:57:46.000Z",
+    "createdAt": "2026-02-27T15:41:44.830Z",
+    "updatedAt": "2026-02-27T15:41:44.830Z"
+  },
+  {
+    "id": "d979a02f83e00e83",
+    "title": "Российские фехтовальщики выиграли медальный зачет юниорского ЧЕ",
+    "sport": "Другое",
+    "category": "Другие",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/8/81/347722023954818.jpeg",
+    "teaser": "Российские фехтовальщики выиграли медальный зачет юниорского ЧЕ",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69a1a6979a79474f81bbe2cb",
+    "publishedAt": "2026-02-27T14:56:07.000Z",
+    "createdAt": "2026-02-27T15:41:50.973Z",
+    "updatedAt": "2026-02-27T15:41:50.973Z"
+  },
+  {
     "id": "7ca43599fc54ba5b",
     "title": "Тренер Мишин призвал вернуть российских фигуристов на мировую арену",
     "sport": "Другое",
@@ -10,8 +66,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69a1a1759a7947ddc82883ef",
     "publishedAt": "2026-02-27T14:43:20.000Z",
-    "createdAt": "2026-02-27T14:44:23.840Z",
-    "updatedAt": "2026-02-27T14:44:23.840Z"
+    "createdAt": "2026-02-27T15:41:45.854Z",
+    "updatedAt": "2026-02-27T15:41:45.854Z"
   },
   {
     "id": "21622fdec11561df",
@@ -24,8 +80,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69a19ade9a7947e8e9224f15",
     "publishedAt": "2026-02-27T14:30:02.000Z",
-    "createdAt": "2026-02-27T14:44:24.712Z",
-    "updatedAt": "2026-02-27T14:44:24.712Z"
+    "createdAt": "2026-02-27T15:41:46.883Z",
+    "updatedAt": "2026-02-27T15:41:46.883Z"
   },
   {
     "id": "7b70e2aae983eca0",
@@ -38,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69a196689a79477bc4dc7f21",
     "publishedAt": "2026-02-27T14:03:36.000Z",
-    "createdAt": "2026-02-27T14:44:25.825Z",
-    "updatedAt": "2026-02-27T14:44:25.825Z"
+    "createdAt": "2026-02-27T15:41:47.905Z",
+    "updatedAt": "2026-02-27T15:41:47.905Z"
   },
   {
     "id": "8d36d13cc831c576",
@@ -52,8 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69a190329a79472faa274c5a",
     "publishedAt": "2026-02-27T13:43:40.000Z",
-    "createdAt": "2026-02-27T14:44:27.948Z",
-    "updatedAt": "2026-02-27T14:44:27.948Z"
+    "createdAt": "2026-02-27T15:41:49.944Z",
+    "updatedAt": "2026-02-27T15:41:49.944Z"
   },
   {
     "id": "1f3d66ee03629133",
@@ -66,8 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69a18c799a79470539fbe57f",
     "publishedAt": "2026-02-27T13:26:07.000Z",
-    "createdAt": "2026-02-27T14:44:26.888Z",
-    "updatedAt": "2026-02-27T14:44:26.888Z"
+    "createdAt": "2026-02-27T15:41:48.713Z",
+    "updatedAt": "2026-02-27T15:41:48.713Z"
   },
   {
     "id": "578e790945ea500f",
@@ -80,63 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69a191af9a79474e2cc0ab56",
     "publishedAt": "2026-02-27T13:08:08.000Z",
-    "createdAt": "2026-02-27T14:44:29.029Z",
-    "updatedAt": "2026-02-27T14:44:29.029Z"
-  },
-  {
-    "id": "3bd9b95d4593e85d",
-    "title": "Ягудин заявил, что фигуристов в России в основном учат прыжкам",
-    "sport": "Другое",
-    "category": "Фигурное катание",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/2/34/347721940026342.jpeg",
-    "teaser": "Ягудин заявил, что фигуристов в России в основном учат прыжкам",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69a188919a79477e4750d626",
-    "publishedAt": "2026-02-27T12:53:25.000Z",
-    "createdAt": "2026-02-27T14:44:30.131Z",
-    "updatedAt": "2026-02-27T14:44:30.131Z"
-  },
-  {
-    "id": "69125b8a25aaae76",
-    "title": "Петросян не примет участия в финале Гран-при России",
-    "sport": "Другое",
-    "category": "Фигурное катание",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/7/49/347721926126497.jpeg",
-    "teaser": "Петросян не примет участия в финале Гран-при России",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69a17d8f9a7947386e32727b",
-    "publishedAt": "2026-02-27T12:01:04.000Z",
-    "createdAt": "2026-02-27T14:44:32.298Z",
-    "updatedAt": "2026-02-27T14:44:32.298Z"
-  },
-  {
-    "id": "0c2fb2c718ed6b1e",
-    "title": "Филиппов назвал неожиданными поздравления с медалью Игр от бывших девушек",
-    "sport": "Другое",
-    "category": "Другие",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/1/88/347721870804881.jpeg",
-    "teaser": "Филиппов назвал неожиданными поздравления с медалью Игр от бывших девушек",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69a16db49a7947edbdf796ef",
-    "publishedAt": "2026-02-27T11:33:22.000Z",
-    "createdAt": "2026-02-27T14:44:34.194Z",
-    "updatedAt": "2026-02-27T14:44:34.194Z"
-  },
-  {
-    "id": "7d35f333d6c91ed7",
-    "title": "ПСЖ Сафонова сыграет с «Челси» в 1/8 финала Лиги чемпионов",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/7/88/347721909523887.jpeg",
-    "teaser": "ПСЖ Сафонова сыграет с «Челси» в 1/8 финала Лиги чемпионов",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69a17cc09a79471171266a81",
-    "publishedAt": "2026-02-27T11:30:49.000Z",
-    "createdAt": "2026-02-27T14:44:33.316Z",
-    "updatedAt": "2026-02-27T14:44:33.316Z"
+    "createdAt": "2026-02-27T15:41:52.005Z",
+    "updatedAt": "2026-02-27T15:41:52.005Z"
   }
 ]
