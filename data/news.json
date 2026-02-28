@@ -1,5 +1,33 @@
 [
   {
+    "id": "6a4a01190afdb4c6",
+    "title": "Биатлонист Коновалов выиграл гонку преследования в финале Кубка России",
+    "sport": "Другое",
+    "category": "Биатлон",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/6/39/347722736671396.jpeg",
+    "teaser": "Биатлонист Коновалов выиграл гонку преследования в финале Кубка России",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69a2bfcd9a79477acbd59c5e",
+    "publishedAt": "2026-02-28T10:18:20.000Z",
+    "createdAt": "2026-02-28T10:29:53.841Z",
+    "updatedAt": "2026-02-28T10:29:53.841Z"
+  },
+  {
+    "id": "19228f5758c4db7a",
+    "title": "Трусова сделала сложный каскад с четверным прыжком на тренировке",
+    "sport": "Другое",
+    "category": "Фигурное катание",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/4/78/347722706713784.jpeg",
+    "teaser": "Трусова сделала сложный каскад с четверным прыжком на тренировке",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69a2b3fe9a79477edb717247",
+    "publishedAt": "2026-02-28T09:31:22.000Z",
+    "createdAt": "2026-02-28T10:29:52.784Z",
+    "updatedAt": "2026-02-28T10:29:52.784Z"
+  },
+  {
     "id": "e4513a0268cf81fd",
     "title": "В Израиле из-за операции против Ирана отменили футбольные матчи",
     "sport": "Футбол",
@@ -10,11 +38,11 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69a2a9c69a794770446f81a9",
     "publishedAt": "2026-02-28T09:07:40.000Z",
-    "createdAt": "2026-02-28T09:32:09.887Z",
-    "updatedAt": "2026-02-28T09:32:09.887Z"
+    "createdAt": "2026-02-28T10:29:55.015Z",
+    "updatedAt": "2026-02-28T10:29:55.015Z"
   },
   {
-    "id": "fbbce435ab430276",
+    "id": "b6ad25f0df33ab14",
     "title": "Прохазка и Ульберг проведут бой за титул UFC после отказа Перейры",
     "sport": "Единоборства",
     "category": "Единоборства",
@@ -23,9 +51,9 @@
     "fullContent": "",
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69a2a6299a7947764edf8ae9",
-    "publishedAt": "2026-02-28T08:34:15.000Z",
-    "createdAt": "2026-02-28T09:32:12.130Z",
-    "updatedAt": "2026-02-28T09:32:12.130Z"
+    "publishedAt": "2026-02-28T08:34:16.000Z",
+    "createdAt": "2026-02-28T10:29:58.469Z",
+    "updatedAt": "2026-02-28T10:29:58.469Z"
   },
   {
     "id": "578dd671310c067a",
@@ -38,8 +66,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69a2a3199a7947764edf8ae5",
     "publishedAt": "2026-02-28T08:17:26.000Z",
-    "createdAt": "2026-02-28T09:32:10.995Z",
-    "updatedAt": "2026-02-28T09:32:10.995Z"
+    "createdAt": "2026-02-28T10:29:57.305Z",
+    "updatedAt": "2026-02-28T10:29:57.305Z"
   },
   {
     "id": "bc14d9847f278bbd",
@@ -52,8 +80,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69a29f7c9a79472cea3d7686",
     "publishedAt": "2026-02-28T08:05:21.000Z",
-    "createdAt": "2026-02-28T09:32:14.510Z",
-    "updatedAt": "2026-02-28T09:32:14.510Z"
+    "createdAt": "2026-02-28T10:29:59.640Z",
+    "updatedAt": "2026-02-28T10:29:59.640Z"
   },
   {
     "id": "fb6262889dc1ed42",
@@ -66,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69a298d29a7947a43fe7ca1d",
     "publishedAt": "2026-02-28T07:35:22.000Z",
-    "createdAt": "2026-02-28T09:32:15.681Z",
-    "updatedAt": "2026-02-28T09:32:15.681Z"
+    "createdAt": "2026-02-28T10:30:00.714Z",
+    "updatedAt": "2026-02-28T10:30:00.714Z"
   },
   {
     "id": "0958e0b4b4ed1744",
@@ -80,8 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69a296c19a7947ee2fa6080a",
     "publishedAt": "2026-02-28T07:24:23.000Z",
-    "createdAt": "2026-02-28T09:32:16.832Z",
-    "updatedAt": "2026-02-28T09:32:16.832Z"
+    "createdAt": "2026-02-28T10:30:01.796Z",
+    "updatedAt": "2026-02-28T10:30:01.796Z"
   },
   {
     "id": "9b8ced91a972ef25",
@@ -94,8 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69a2945d9a79470cafc3a102",
     "publishedAt": "2026-02-28T07:15:02.000Z",
-    "createdAt": "2026-02-28T09:32:17.993Z",
-    "updatedAt": "2026-02-28T09:32:17.993Z"
+    "createdAt": "2026-02-28T10:30:02.882Z",
+    "updatedAt": "2026-02-28T10:30:02.882Z"
   },
   {
     "id": "f6de528dda2f45b1",
@@ -108,35 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69a1bee79a7947cf232c559b",
     "publishedAt": "2026-02-28T07:03:54.000Z",
-    "createdAt": "2026-02-28T09:32:13.303Z",
-    "updatedAt": "2026-02-28T09:32:13.303Z"
-  },
-  {
-    "id": "2c767957d07f38f3",
-    "title": "В Мексику доставили Кубок мира по футболу",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/5/47/347722244297475.jpeg",
-    "teaser": "В Мексику доставили Кубок мира по футболу",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69a1f8d89a79470e18a3faf4",
-    "publishedAt": "2026-02-27T21:22:23.000Z",
-    "createdAt": "2026-02-28T09:32:19.095Z",
-    "updatedAt": "2026-02-28T09:32:19.095Z"
-  },
-  {
-    "id": "a09bbbacd950572b",
-    "title": "Усик проведет следующий бой с кикбоксером Верхувеном у пирамид Египта",
-    "sport": "Единоборства",
-    "category": "Единоборства",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/4/45/347722200766454.jpeg",
-    "teaser": "Усик проведет следующий бой с кикбоксером Верхувеном у пирамид Египта",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69a1ea579a79470c1c48330d",
-    "publishedAt": "2026-02-27T19:47:18.000Z",
-    "createdAt": "2026-02-28T09:32:20.290Z",
-    "updatedAt": "2026-02-28T09:32:20.290Z"
+    "createdAt": "2026-02-28T10:29:56.173Z",
+    "updatedAt": "2026-02-28T10:29:56.173Z"
   }
 ]
