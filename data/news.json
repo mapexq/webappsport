@@ -1,5 +1,61 @@
 [
   {
+    "id": "60f268c08a2804cd",
+    "title": "Лидер «Барселоны» Ламин Ямаль сделал первый в карьере хет-трик",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/2/97/347722985483972.jpeg",
+    "teaser": "Лидер «Барселоны» Ламин Ямаль сделал первый в карьере хет-трик",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69a320f99a79470ee0a7d24b",
+    "publishedAt": "2026-02-28T17:17:21.000Z",
+    "createdAt": "2026-02-28T17:25:48.544Z",
+    "updatedAt": "2026-02-28T17:25:48.544Z"
+  },
+  {
+    "id": "9198ad2ee20fcca4",
+    "title": "Матч РПЛ в Каспийске начался с 30-минутной задержкой из-за снегопада",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/0/75/347722977352750.jpeg",
+    "teaser": "Матч РПЛ в Каспийске начался с 30-минутной задержкой из-за снегопада",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69a31dda9a79470ee0a7d245",
+    "publishedAt": "2026-02-28T17:03:34.000Z",
+    "createdAt": "2026-02-28T17:25:49.620Z",
+    "updatedAt": "2026-02-28T17:25:49.620Z"
+  },
+  {
+    "id": "1070efc2a1bdc03f",
+    "title": "Российские велогонщики не смогли вылететь в Австралию через Дубай на КМ",
+    "sport": "Другое",
+    "category": "Другие",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/5/52/347722964234525.jpeg",
+    "teaser": "Российские велогонщики не смогли вылететь в Австралию через Дубай на КМ",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69a318c99a794720ea487d4b",
+    "publishedAt": "2026-02-28T16:45:26.000Z",
+    "createdAt": "2026-02-28T17:25:51.898Z",
+    "updatedAt": "2026-02-28T17:25:51.898Z"
+  },
+  {
+    "id": "6a3eed1f2b9a7b86",
+    "title": "Дегтярев задал вопрос бойкотирующим Паралимпиаду странам после ударов США",
+    "sport": "Другое",
+    "category": "Другие",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/4/28/347722929873284.jpeg",
+    "teaser": "Дегтярев задал вопрос бойкотирующим Паралимпиаду странам после ударов США",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69a30b149a794757a794253f",
+    "publishedAt": "2026-02-28T16:41:28.000Z",
+    "createdAt": "2026-02-28T17:25:50.754Z",
+    "updatedAt": "2026-02-28T17:25:50.754Z"
+  },
+  {
     "id": "4b178e0d35694cf9",
     "title": "Чемпион КХЛ «Локомотив» пятый раз в сезоне обыграл СКА",
     "sport": "Хоккей",
@@ -10,8 +66,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69a313309a7947daabf92a7d",
     "publishedAt": "2026-02-28T16:24:13.000Z",
-    "createdAt": "2026-02-28T16:33:54.538Z",
-    "updatedAt": "2026-02-28T16:33:54.538Z"
+    "createdAt": "2026-02-28T17:25:53.050Z",
+    "updatedAt": "2026-02-28T17:25:53.050Z"
   },
   {
     "id": "7af7e9387ac1b606",
@@ -24,8 +80,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69a3119c9a7947750600ac22",
     "publishedAt": "2026-02-28T16:17:18.000Z",
-    "createdAt": "2026-02-28T16:33:55.533Z",
-    "updatedAt": "2026-02-28T16:33:55.533Z"
+    "createdAt": "2026-02-28T17:25:54.186Z",
+    "updatedAt": "2026-02-28T17:25:54.186Z"
   },
   {
     "id": "58367c34baa147f4",
@@ -38,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69a30ea69a79471aa952ec5a",
     "publishedAt": "2026-02-28T15:59:54.000Z",
-    "createdAt": "2026-02-28T16:33:56.562Z",
-    "updatedAt": "2026-02-28T16:33:56.562Z"
+    "createdAt": "2026-02-28T17:25:55.309Z",
+    "updatedAt": "2026-02-28T17:25:55.309Z"
   },
   {
     "id": "2125ea098cfa86ab",
@@ -52,8 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69a2e8a39a7947b64f4bc31b",
     "publishedAt": "2026-02-28T14:48:09.000Z",
-    "createdAt": "2026-02-28T16:33:57.662Z",
-    "updatedAt": "2026-02-28T16:33:57.662Z"
+    "createdAt": "2026-02-28T17:25:56.387Z",
+    "updatedAt": "2026-02-28T17:25:56.387Z"
   },
   {
     "id": "52f3c8695d94decb",
@@ -66,64 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69a2f38a9a7947647f2e905f",
     "publishedAt": "2026-02-28T14:04:58.000Z",
-    "createdAt": "2026-02-28T16:33:58.802Z",
-    "updatedAt": "2026-02-28T16:33:58.802Z"
-  },
-  {
-    "id": "91965fe9c69cf666",
-    "title": "«Краснодар» в большинстве победил «Ростов» и вернулся в лидеры РПЛ",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/9/26/347722843761269.jpeg",
-    "teaser": "«Краснодар» в большинстве победил «Ростов» и вернулся в лидеры РПЛ",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69a2e9919a7947111ce143f8",
-    "publishedAt": "2026-02-28T13:33:44.000Z",
-    "createdAt": "2026-02-28T16:34:01.013Z",
-    "updatedAt": "2026-02-28T16:34:01.013Z"
-  },
-  {
-    "id": "6d69729392e007b7",
-    "title": "Даниил Медведев стал победителем турнира в Дубае после снятия соперника",
-    "sport": "Теннис",
-    "category": "Теннис",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/2/33/347722804616332.jpeg",
-    "teaser": "Даниил Медведев стал победителем турнира в Дубае после снятия соперника",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69a2da569a794796efc1c423",
-    "publishedAt": "2026-02-28T12:58:26.000Z",
-    "createdAt": "2026-02-28T16:34:02.046Z",
-    "updatedAt": "2026-02-28T16:34:02.046Z"
-  },
-  {
-    "id": "aa466e2ba98c7791",
-    "title": "Непряева прошла квалификацию в спринте на этапе КМ, Коростелев выбыл",
-    "sport": "Другое",
-    "category": "Другие",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/8/17/347722816409178.jpeg",
-    "teaser": "Непряева прошла квалификацию в спринте на этапе КМ, Коростелев выбыл",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69a2dec19a794707e48fb9e1",
-    "publishedAt": "2026-02-28T12:53:39.000Z",
-    "createdAt": "2026-02-28T16:34:03.680Z",
-    "updatedAt": "2026-02-28T16:34:03.680Z"
-  },
-  {
-    "id": "e222d74ecad1296d",
-    "title": "Карякина вернули в рейтинг FIDE спустя почти два года отсутствия",
-    "sport": "Другое",
-    "category": "Другие",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/7/09/347722770374097.jpeg",
-    "teaser": "Карякина вернули в рейтинг FIDE спустя почти два года отсутствия",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69a2ccd99a79472b7814eca9",
-    "publishedAt": "2026-02-28T11:23:34.000Z",
-    "createdAt": "2026-02-28T16:34:04.813Z",
-    "updatedAt": "2026-02-28T16:34:04.813Z"
+    "createdAt": "2026-02-28T17:25:57.541Z",
+    "updatedAt": "2026-02-28T17:25:57.541Z"
   },
   {
     "id": "f6de528dda2f45b1",
@@ -136,7 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69a1bee79a7947cf232c559b",
     "publishedAt": "2026-02-28T07:03:54.000Z",
-    "createdAt": "2026-02-28T16:33:59.916Z",
-    "updatedAt": "2026-02-28T16:33:59.916Z"
+    "createdAt": "2026-02-28T17:25:58.706Z",
+    "updatedAt": "2026-02-28T17:25:58.706Z"
   }
 ]
