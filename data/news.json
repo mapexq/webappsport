@@ -1,5 +1,89 @@
 [
   {
+    "id": "0958e0b4b4ed1744",
+    "title": "Команда Большунова и Степановой выиграла эстафету на чемпионате России",
+    "sport": "Другое",
+    "category": "Другие",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/6/46/347722631557466.jpeg",
+    "teaser": "Команда Большунова и Степановой выиграла эстафету на чемпионате России",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69a296c19a7947ee2fa6080a",
+    "publishedAt": "2026-02-28T07:24:23.000Z",
+    "createdAt": "2026-02-28T07:32:21.613Z",
+    "updatedAt": "2026-02-28T07:32:21.613Z"
+  },
+  {
+    "id": "9b8ced91a972ef25",
+    "title": "Овечкин продлил безголевую серию в НХЛ до семи матчей",
+    "sport": "Хоккей",
+    "category": "Хоккей",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/4/12/347722625616124.jpeg",
+    "teaser": "Овечкин продлил безголевую серию в НХЛ до семи матчей",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69a2945d9a79470cafc3a102",
+    "publishedAt": "2026-02-28T07:15:02.000Z",
+    "createdAt": "2026-02-28T07:32:22.556Z",
+    "updatedAt": "2026-02-28T07:32:22.556Z"
+  },
+  {
+    "id": "f6de528dda2f45b1",
+    "title": "«Клуб встал на ноги и может жить без меня». Галицкий — о «Краснодаре»",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/6/31/347722094946316.jpeg",
+    "teaser": "«Клуб встал на ноги и может жить без меня». Галицкий — о «Краснодаре»",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69a1bee79a7947cf232c559b",
+    "publishedAt": "2026-02-28T07:03:54.000Z",
+    "createdAt": "2026-02-28T07:32:23.675Z",
+    "updatedAt": "2026-02-28T07:32:23.675Z"
+  },
+  {
+    "id": "2c767957d07f38f3",
+    "title": "В Мексику доставили Кубок мира по футболу",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/5/47/347722244297475.jpeg",
+    "teaser": "В Мексику доставили Кубок мира по футболу",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69a1f8d89a79470e18a3faf4",
+    "publishedAt": "2026-02-27T21:22:23.000Z",
+    "createdAt": "2026-02-28T07:32:24.687Z",
+    "updatedAt": "2026-02-28T07:32:24.687Z"
+  },
+  {
+    "id": "cb2227d0685cdad7",
+    "title": "«Балтика» решила обжаловать отмененный гол в матче с «Зенитом» в ЭСК",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/0/57/347722223663570.jpeg",
+    "teaser": "«Балтика» решила обжаловать отмененный гол в матче с «Зенитом» в ЭСК",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69a1f4b79a7947756e7839b1",
+    "publishedAt": "2026-02-27T20:11:28.000Z",
+    "createdAt": "2026-02-28T07:32:26.703Z",
+    "updatedAt": "2026-02-28T07:32:26.703Z"
+  },
+  {
+    "id": "a09bbbacd950572b",
+    "title": "Усик проведет следующий бой с кикбоксером Верхувеном у пирамид Египта",
+    "sport": "Единоборства",
+    "category": "Единоборства",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/4/45/347722200766454.jpeg",
+    "teaser": "Усик проведет следующий бой с кикбоксером Верхувеном у пирамид Египта",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69a1ea579a79470c1c48330d",
+    "publishedAt": "2026-02-27T19:47:18.000Z",
+    "createdAt": "2026-02-28T07:32:25.688Z",
+    "updatedAt": "2026-02-28T07:32:25.688Z"
+  },
+  {
     "id": "aed81a95d22ed18c",
     "title": "«Спартак» последним из Западной конференции КХЛ вышел в плей-офф",
     "sport": "Хоккей",
@@ -10,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69a1e9489a79474e895459fa",
     "publishedAt": "2026-02-27T19:00:00.000Z",
-    "createdAt": "2026-02-28T06:47:58.137Z",
-    "updatedAt": "2026-02-28T06:47:58.137Z"
+    "createdAt": "2026-02-28T07:32:28.710Z",
+    "updatedAt": "2026-02-28T07:32:28.710Z"
   },
   {
     "id": "4732ecd75ea30d56",
@@ -24,8 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69a1d7d69a7947cea2232121",
     "publishedAt": "2026-02-27T18:38:27.000Z",
-    "createdAt": "2026-02-28T06:47:57.067Z",
-    "updatedAt": "2026-02-28T06:47:57.067Z"
+    "createdAt": "2026-02-28T07:32:27.667Z",
+    "updatedAt": "2026-02-28T07:32:27.667Z"
   },
   {
     "id": "0b7ad8c9c3191299",
@@ -38,8 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69a1d5ac9a7947dce8d3092c",
     "publishedAt": "2026-02-27T17:47:22.000Z",
-    "createdAt": "2026-02-28T06:47:59.202Z",
-    "updatedAt": "2026-02-28T06:47:59.202Z"
+    "createdAt": "2026-02-28T07:32:29.712Z",
+    "updatedAt": "2026-02-28T07:32:29.712Z"
   },
   {
     "id": "d104a13cb8d88751",
@@ -52,91 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69a1d3419a7947aba6aa31ec",
     "publishedAt": "2026-02-27T17:43:02.000Z",
-    "createdAt": "2026-02-28T06:48:00.196Z",
-    "updatedAt": "2026-02-28T06:48:00.196Z"
-  },
-  {
-    "id": "9bc9986e9d4f38e6",
-    "title": "Рублев проиграл в полуфинале турнира ATP в Дубае",
-    "sport": "Теннис",
-    "category": "Теннис",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/4/77/347722116827774.jpeg",
-    "teaser": "Рублев проиграл в полуфинале турнира ATP в Дубае",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69a1cdc29a7947a31c5ff1d7",
-    "publishedAt": "2026-02-27T17:13:31.000Z",
-    "createdAt": "2026-02-28T06:48:01.300Z",
-    "updatedAt": "2026-02-28T06:48:01.300Z"
-  },
-  {
-    "id": "33441cf4630ff151",
-    "title": "«Авангард» в четвертый раз за сезон обыграл «Металлург» в матче КХЛ",
-    "sport": "Хоккей",
-    "category": "Хоккей",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/8/90/347722091916908.jpeg",
-    "teaser": "«Авангард» в четвертый раз за сезон обыграл «Металлург» в матче КХЛ",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69a1c27f9a79475f94c8979e",
-    "publishedAt": "2026-02-27T16:35:16.000Z",
-    "createdAt": "2026-02-28T06:48:02.371Z",
-    "updatedAt": "2026-02-28T06:48:02.371Z"
-  },
-  {
-    "id": "01e613a9961fe4d9",
-    "title": "Бразильский рекордсмен «Краснодара» Жоаозиньо завершил карьеру",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/0/59/347722081928590.jpeg",
-    "teaser": "Бразильский рекордсмен «Краснодара» Жоаозиньо завершил карьеру",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69a1bb579a79478f75ec3adb",
-    "publishedAt": "2026-02-27T16:16:00.000Z",
-    "createdAt": "2026-02-28T06:48:03.409Z",
-    "updatedAt": "2026-02-28T06:48:03.409Z"
-  },
-  {
-    "id": "fc7bcda2cb8bcaa5",
-    "title": "Тутберидзе ответила главе WADA, которому было некомфортно видеть ее на ОИ",
-    "sport": "Другое",
-    "category": "Фигурное катание",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/4/78/347722058182784.jpeg",
-    "teaser": "Тутберидзе ответила главе WADA, которому было некомфортно видеть ее на ОИ",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69a1b4509a794753ee09e967",
-    "publishedAt": "2026-02-27T16:02:53.000Z",
-    "createdAt": "2026-02-28T06:48:04.479Z",
-    "updatedAt": "2026-02-28T06:48:04.479Z"
-  },
-  {
-    "id": "9766a795c708fd0f",
-    "title": "Тутберидзе заявила, что ждет извинений Баха за слова на Олимпиаде-2022",
-    "sport": "Другое",
-    "category": "Фигурное катание",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/9/99/347722046888999.jpeg",
-    "teaser": "Тутберидзе заявила, что ждет извинений Баха за слова на Олимпиаде-2022",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69a1af709a79477e94ad79a8",
-    "publishedAt": "2026-02-27T16:00:27.000Z",
-    "createdAt": "2026-02-28T06:48:05.941Z",
-    "updatedAt": "2026-02-28T06:48:05.941Z"
-  },
-  {
-    "id": "35b080eac7d6790b",
-    "title": "Тутберидзе заявила, что судьи щедро оценили Петросян на Олимпиаде",
-    "sport": "Другое",
-    "category": "Другие",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/3/29/347722034073293.jpeg",
-    "teaser": "Тутберидзе заявила, что судьи щедро оценили Петросян на Олимпиаде",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69a1a98b9a7947dd94d59023",
-    "publishedAt": "2026-02-27T15:50:27.000Z",
-    "createdAt": "2026-02-28T06:48:07.089Z",
-    "updatedAt": "2026-02-28T06:48:07.089Z"
+    "createdAt": "2026-02-28T07:32:30.705Z",
+    "updatedAt": "2026-02-28T07:32:30.705Z"
   }
 ]
