@@ -1,5 +1,47 @@
 [
   {
+    "id": "91965fe9c69cf666",
+    "title": "«Краснодар» в большинстве победил «Ростов» и вернулся в лидеры РПЛ",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/9/26/347722843761269.jpeg",
+    "teaser": "«Краснодар» в большинстве победил «Ростов» и вернулся в лидеры РПЛ",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69a2e9919a7947111ce143f8",
+    "publishedAt": "2026-02-28T13:33:44.000Z",
+    "createdAt": "2026-02-28T13:40:57.799Z",
+    "updatedAt": "2026-02-28T13:40:57.799Z"
+  },
+  {
+    "id": "6d69729392e007b7",
+    "title": "Даниил Медведев стал победителем турнира в Дубае после снятия соперника",
+    "sport": "Теннис",
+    "category": "Теннис",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/2/33/347722804616332.jpeg",
+    "teaser": "Даниил Медведев стал победителем турнира в Дубае после снятия соперника",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69a2da569a794796efc1c423",
+    "publishedAt": "2026-02-28T12:58:26.000Z",
+    "createdAt": "2026-02-28T13:40:58.639Z",
+    "updatedAt": "2026-02-28T13:40:58.639Z"
+  },
+  {
+    "id": "aa466e2ba98c7791",
+    "title": "Непряева прошла квалификацию в спринте на этапе КМ, Коростелев выбыл",
+    "sport": "Другое",
+    "category": "Другие",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/8/17/347722816409178.jpeg",
+    "teaser": "Непряева прошла квалификацию в спринте на этапе КМ, Коростелев выбыл",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69a2dec19a794707e48fb9e1",
+    "publishedAt": "2026-02-28T12:53:39.000Z",
+    "createdAt": "2026-02-28T13:40:59.684Z",
+    "updatedAt": "2026-02-28T13:40:59.684Z"
+  },
+  {
     "id": "2d9d6f78b88619c9",
     "title": "«Авангард» продлил контракт с одним из своих лучших защитников",
     "sport": "Хоккей",
@@ -10,8 +52,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69a2d5d39a79477acfa724cf",
     "publishedAt": "2026-02-28T12:00:18.000Z",
-    "createdAt": "2026-02-28T12:57:17.157Z",
-    "updatedAt": "2026-02-28T12:57:17.157Z"
+    "createdAt": "2026-02-28T13:41:02.859Z",
+    "updatedAt": "2026-02-28T13:41:02.859Z"
   },
   {
     "id": "e222d74ecad1296d",
@@ -24,8 +66,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69a2ccd99a79472b7814eca9",
     "publishedAt": "2026-02-28T11:23:34.000Z",
-    "createdAt": "2026-02-28T12:57:16.112Z",
-    "updatedAt": "2026-02-28T12:57:16.112Z"
+    "createdAt": "2026-02-28T13:41:01.795Z",
+    "updatedAt": "2026-02-28T13:41:01.795Z"
   },
   {
     "id": "70aff0cc5cb209bb",
@@ -38,8 +80,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69a2c1b39a79478289ed587f",
     "publishedAt": "2026-02-28T11:03:07.000Z",
-    "createdAt": "2026-02-28T12:57:20.269Z",
-    "updatedAt": "2026-02-28T12:57:20.269Z"
+    "createdAt": "2026-02-28T13:41:04.988Z",
+    "updatedAt": "2026-02-28T13:41:04.988Z"
   },
   {
     "id": "557dcdcbee0e43f9",
@@ -52,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69a2c5109a7947ca57d06d9d",
     "publishedAt": "2026-02-28T10:42:37.000Z",
-    "createdAt": "2026-02-28T12:57:18.097Z",
-    "updatedAt": "2026-02-28T12:57:18.097Z"
+    "createdAt": "2026-02-28T13:41:03.935Z",
+    "updatedAt": "2026-02-28T13:41:03.935Z"
   },
   {
     "id": "842df12b0fce2ab5",
@@ -66,22 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69a2bbf09a7947d1ceb1187e",
     "publishedAt": "2026-02-28T10:26:09.000Z",
-    "createdAt": "2026-02-28T12:57:21.403Z",
-    "updatedAt": "2026-02-28T12:57:21.403Z"
-  },
-  {
-    "id": "6a4a01190afdb4c6",
-    "title": "Биатлонист Коновалов выиграл гонку преследования в финале Кубка России",
-    "sport": "Другое",
-    "category": "Биатлон",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/6/39/347722736671396.jpeg",
-    "teaser": "Биатлонист Коновалов выиграл гонку преследования в финале Кубка России",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69a2bfcd9a79477acbd59c5e",
-    "publishedAt": "2026-02-28T10:18:20.000Z",
-    "createdAt": "2026-02-28T12:57:23.586Z",
-    "updatedAt": "2026-02-28T12:57:23.586Z"
+    "createdAt": "2026-02-28T13:41:06.050Z",
+    "updatedAt": "2026-02-28T13:41:06.050Z"
   },
   {
     "id": "19228f5758c4db7a",
@@ -94,36 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69a2b3fe9a79477edb717247",
     "publishedAt": "2026-02-28T09:31:22.000Z",
-    "createdAt": "2026-02-28T12:57:22.462Z",
-    "updatedAt": "2026-02-28T12:57:22.462Z"
-  },
-  {
-    "id": "e4513a0268cf81fd",
-    "title": "В Израиле из-за операции против Ирана отменили футбольные матчи",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/9/15/347722680993159.jpeg",
-    "teaser": "В Израиле из-за операции против Ирана отменили футбольные матчи",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69a2a9c69a794770446f81a9",
-    "publishedAt": "2026-02-28T09:07:40.000Z",
-    "createdAt": "2026-02-28T12:57:24.644Z",
-    "updatedAt": "2026-02-28T12:57:24.644Z"
-  },
-  {
-    "id": "578dd671310c067a",
-    "title": "Кристина Резцова выиграла гонку преследования в финале Кубка России",
-    "sport": "Другое",
-    "category": "Биатлон",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/4/63/347722663338634.jpeg",
-    "teaser": "Кристина Резцова выиграла гонку преследования в финале Кубка России",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69a2a3199a7947764edf8ae5",
-    "publishedAt": "2026-02-28T08:17:26.000Z",
-    "createdAt": "2026-02-28T12:57:25.698Z",
-    "updatedAt": "2026-02-28T12:57:25.698Z"
+    "createdAt": "2026-02-28T13:41:07.105Z",
+    "updatedAt": "2026-02-28T13:41:07.105Z"
   },
   {
     "id": "f6de528dda2f45b1",
@@ -136,7 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69a1bee79a7947cf232c559b",
     "publishedAt": "2026-02-28T07:03:54.000Z",
-    "createdAt": "2026-02-28T12:57:19.158Z",
-    "updatedAt": "2026-02-28T12:57:19.158Z"
+    "createdAt": "2026-02-28T13:41:00.743Z",
+    "updatedAt": "2026-02-28T13:41:00.743Z"
   }
 ]
