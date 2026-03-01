@@ -1,5 +1,33 @@
 [
   {
+    "id": "ad3106e1bc3170b8",
+    "title": "Лидер КХЛ проиграл в Москве «Динамо»",
+    "sport": "Хоккей",
+    "category": "Хоккей",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/9/46/347723835197469.png",
+    "teaser": "Лидер КХЛ проиграл в Москве «Динамо»",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69a46a6f9a79477aa2abd4c8",
+    "publishedAt": "2026-03-01T16:58:20.000Z",
+    "createdAt": "2026-03-01T17:27:28.541Z",
+    "updatedAt": "2026-03-01T17:27:28.541Z"
+  },
+  {
+    "id": "ecb12f8da01b479c",
+    "title": "Лыжница Непряева стала пятой в скиатлоне на этапе Кубка мира в Швеции",
+    "sport": "Другое",
+    "category": "Другие",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/3/44/347723825206443.png",
+    "teaser": "Лыжница Непряева стала пятой в скиатлоне на этапе Кубка мира в Швеции",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69a467989a7947be166622ff",
+    "publishedAt": "2026-03-01T16:29:29.000Z",
+    "createdAt": "2026-03-01T17:27:30.451Z",
+    "updatedAt": "2026-03-01T17:27:30.451Z"
+  },
+  {
     "id": "71b40b021943bd4c",
     "title": "«Манчестер Юнайтед» поднялся в топ-3 чемпионата Англии",
     "sport": "Футбол",
@@ -10,8 +38,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69a463199a79476c37968387",
     "publishedAt": "2026-03-01T16:19:19.000Z",
-    "createdAt": "2026-03-01T16:36:13.435Z",
-    "updatedAt": "2026-03-01T16:36:13.435Z"
+    "createdAt": "2026-03-01T17:27:29.493Z",
+    "updatedAt": "2026-03-01T17:27:29.493Z"
   },
   {
     "id": "309fbebb4e919010",
@@ -24,8 +52,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69a45d789a79471a4162c27e",
     "publishedAt": "2026-03-01T15:50:49.000Z",
-    "createdAt": "2026-03-01T16:36:16.616Z",
-    "updatedAt": "2026-03-01T16:36:16.616Z"
+    "createdAt": "2026-03-01T17:27:33.316Z",
+    "updatedAt": "2026-03-01T17:27:33.316Z"
   },
   {
     "id": "d0050c5488ec6dde",
@@ -38,8 +66,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69a4590f9a79470a05f87627",
     "publishedAt": "2026-03-01T15:32:19.000Z",
-    "createdAt": "2026-03-01T16:36:14.488Z",
-    "updatedAt": "2026-03-01T16:36:14.488Z"
+    "createdAt": "2026-03-01T17:27:31.407Z",
+    "updatedAt": "2026-03-01T17:27:31.407Z"
   },
   {
     "id": "b53bfa009f80037e",
@@ -52,8 +80,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69a44df79a794719f9fcff12",
     "publishedAt": "2026-03-01T14:58:17.000Z",
-    "createdAt": "2026-03-01T16:36:15.551Z",
-    "updatedAt": "2026-03-01T16:36:15.551Z"
+    "createdAt": "2026-03-01T17:27:32.364Z",
+    "updatedAt": "2026-03-01T17:27:32.364Z"
   },
   {
     "id": "b7f91a1c868e19b8",
@@ -66,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69a4455e9a7947e98bd34b76",
     "publishedAt": "2026-03-01T14:23:52.000Z",
-    "createdAt": "2026-03-01T16:36:20.771Z",
-    "updatedAt": "2026-03-01T16:36:20.771Z"
+    "createdAt": "2026-03-01T17:27:37.209Z",
+    "updatedAt": "2026-03-01T17:27:37.209Z"
   },
   {
     "id": "d872610903760514",
@@ -80,8 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69a437109a7947b57a62f0c8",
     "publishedAt": "2026-03-01T13:29:59.000Z",
-    "createdAt": "2026-03-01T16:36:19.622Z",
-    "updatedAt": "2026-03-01T16:36:19.622Z"
+    "createdAt": "2026-03-01T17:27:36.172Z",
+    "updatedAt": "2026-03-01T17:27:36.172Z"
   },
   {
     "id": "64d037b35fd43dac",
@@ -94,8 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69a43bec9a7947d16d923bee",
     "publishedAt": "2026-03-01T13:27:06.000Z",
-    "createdAt": "2026-03-01T16:36:22.942Z",
-    "updatedAt": "2026-03-01T16:36:22.942Z"
+    "createdAt": "2026-03-01T17:27:38.229Z",
+    "updatedAt": "2026-03-01T17:27:38.229Z"
   },
   {
     "id": "92b600db2b67af00",
@@ -108,35 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69a430fc9a794709d01ebf4f",
     "publishedAt": "2026-03-01T12:43:21.000Z",
-    "createdAt": "2026-03-01T16:36:17.625Z",
-    "updatedAt": "2026-03-01T16:36:17.625Z"
-  },
-  {
-    "id": "068cb2356ea708b2",
-    "title": "Матч Первой лиги в Новороссийске пройдет без зрителей из-за угрозы БПЛА",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/2/17/347723676559172.png",
-    "teaser": "Матч Первой лиги в Новороссийске пройдет без зрителей из-за угрозы БПЛА",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69a42b7e9a7947983b7fa299",
-    "publishedAt": "2026-03-01T12:36:03.000Z",
-    "createdAt": "2026-03-01T16:36:23.996Z",
-    "updatedAt": "2026-03-01T16:36:23.996Z"
-  },
-  {
-    "id": "cfcb0d35fe49bde8",
-    "title": "«Динамо» впервые в сезоне победило в РПЛ с разницей в четыре мяча",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/4/15/347723642007154.png",
-    "teaser": "«Динамо» впервые в сезоне победило в РПЛ с разницей в четыре мяча",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69a421999a7947a72edf06ce",
-    "publishedAt": "2026-03-01T11:58:54.000Z",
-    "createdAt": "2026-03-01T16:36:21.886Z",
-    "updatedAt": "2026-03-01T16:36:21.886Z"
+    "createdAt": "2026-03-01T17:27:34.328Z",
+    "updatedAt": "2026-03-01T17:27:34.328Z"
   }
 ]
