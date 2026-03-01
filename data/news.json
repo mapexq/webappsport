@@ -1,5 +1,47 @@
 [
   {
+    "id": "c86a857499ffb02e",
+    "title": "Новый клуб Панарина уволил главного тренера",
+    "sport": "Хоккей",
+    "category": "Хоккей",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/2/92/347723880537922.jpeg",
+    "teaser": "Новый клуб Панарина уволил главного тренера",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69a47b039a7947e2bf59d01a",
+    "publishedAt": "2026-03-01T18:23:42.000Z",
+    "createdAt": "2026-03-01T18:41:40.306Z",
+    "updatedAt": "2026-03-01T18:41:40.306Z"
+  },
+  {
+    "id": "8279c61fd88ed54c",
+    "title": "ЦСКА проиграл «Ахмату»",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/5/56/347723872821565.png",
+    "teaser": "ЦСКА проиграл «Ахмату»",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69a4761a9a794786f4836717",
+    "publishedAt": "2026-03-01T17:57:56.000Z",
+    "createdAt": "2026-03-01T18:41:38.064Z",
+    "updatedAt": "2026-03-01T18:41:38.064Z"
+  },
+  {
+    "id": "7918b8b32cea7771",
+    "title": "Капитан «Боруссии» порвал «кресты» в матче с «Баварией»",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/8/00/347723860276008.jpeg",
+    "teaser": "Капитан «Боруссии» порвал «кресты» в матче с «Баварией»",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69a476b99a794754d12e51df",
+    "publishedAt": "2026-03-01T17:38:55.000Z",
+    "createdAt": "2026-03-01T18:41:39.226Z",
+    "updatedAt": "2026-03-01T18:41:39.226Z"
+  },
+  {
     "id": "ad3106e1bc3170b8",
     "title": "Лидер КХЛ проиграл в Москве «Динамо»",
     "sport": "Хоккей",
@@ -10,8 +52,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69a46a6f9a79477aa2abd4c8",
     "publishedAt": "2026-03-01T16:58:20.000Z",
-    "createdAt": "2026-03-01T17:27:28.541Z",
-    "updatedAt": "2026-03-01T17:27:28.541Z"
+    "createdAt": "2026-03-01T18:41:41.379Z",
+    "updatedAt": "2026-03-01T18:41:41.379Z"
   },
   {
     "id": "ecb12f8da01b479c",
@@ -24,8 +66,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69a467989a7947be166622ff",
     "publishedAt": "2026-03-01T16:29:29.000Z",
-    "createdAt": "2026-03-01T17:27:30.451Z",
-    "updatedAt": "2026-03-01T17:27:30.451Z"
+    "createdAt": "2026-03-01T18:41:43.779Z",
+    "updatedAt": "2026-03-01T18:41:43.779Z"
   },
   {
     "id": "71b40b021943bd4c",
@@ -38,8 +80,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69a463199a79476c37968387",
     "publishedAt": "2026-03-01T16:19:19.000Z",
-    "createdAt": "2026-03-01T17:27:29.493Z",
-    "updatedAt": "2026-03-01T17:27:29.493Z"
+    "createdAt": "2026-03-01T18:41:42.709Z",
+    "updatedAt": "2026-03-01T18:41:42.709Z"
   },
   {
     "id": "309fbebb4e919010",
@@ -52,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69a45d789a79471a4162c27e",
     "publishedAt": "2026-03-01T15:50:49.000Z",
-    "createdAt": "2026-03-01T17:27:33.316Z",
-    "updatedAt": "2026-03-01T17:27:33.316Z"
+    "createdAt": "2026-03-01T18:41:47.048Z",
+    "updatedAt": "2026-03-01T18:41:47.048Z"
   },
   {
     "id": "d0050c5488ec6dde",
@@ -66,8 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69a4590f9a79470a05f87627",
     "publishedAt": "2026-03-01T15:32:19.000Z",
-    "createdAt": "2026-03-01T17:27:31.407Z",
-    "updatedAt": "2026-03-01T17:27:31.407Z"
+    "createdAt": "2026-03-01T18:41:44.873Z",
+    "updatedAt": "2026-03-01T18:41:44.873Z"
   },
   {
     "id": "b53bfa009f80037e",
@@ -80,50 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69a44df79a794719f9fcff12",
     "publishedAt": "2026-03-01T14:58:17.000Z",
-    "createdAt": "2026-03-01T17:27:32.364Z",
-    "updatedAt": "2026-03-01T17:27:32.364Z"
-  },
-  {
-    "id": "b7f91a1c868e19b8",
-    "title": "Умер член Зала славы IIHF и экс-генсек ФХР Юрий Королев",
-    "sport": "Хоккей",
-    "category": "Хоккей",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/2/28/347723736846282.png",
-    "teaser": "Умер член Зала славы IIHF и экс-генсек ФХР Юрий Королев",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69a4455e9a7947e98bd34b76",
-    "publishedAt": "2026-03-01T14:23:52.000Z",
-    "createdAt": "2026-03-01T17:27:37.209Z",
-    "updatedAt": "2026-03-01T17:27:37.209Z"
-  },
-  {
-    "id": "d872610903760514",
-    "title": "В Сочи из-за угрозы БПЛА отложили начало матча РПЛ и прервали игру КХЛ",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "/images/news-placeholder.jpg",
-    "teaser": "В Сочи из-за угрозы БПЛА отложили начало матча РПЛ и прервали игру КХЛ",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69a437109a7947b57a62f0c8",
-    "publishedAt": "2026-03-01T13:29:59.000Z",
-    "createdAt": "2026-03-01T17:27:36.172Z",
-    "updatedAt": "2026-03-01T17:27:36.172Z"
-  },
-  {
-    "id": "64d037b35fd43dac",
-    "title": "«Ак Барс» с минимальным счетом обыграл «Трактор»",
-    "sport": "Хоккей",
-    "category": "Хоккей",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/6/68/347723710090686.png",
-    "teaser": "«Ак Барс» с минимальным счетом обыграл «Трактор»",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69a43bec9a7947d16d923bee",
-    "publishedAt": "2026-03-01T13:27:06.000Z",
-    "createdAt": "2026-03-01T17:27:38.229Z",
-    "updatedAt": "2026-03-01T17:27:38.229Z"
+    "createdAt": "2026-03-01T18:41:45.979Z",
+    "updatedAt": "2026-03-01T18:41:45.979Z"
   },
   {
     "id": "92b600db2b67af00",
@@ -136,7 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69a430fc9a794709d01ebf4f",
     "publishedAt": "2026-03-01T12:43:21.000Z",
-    "createdAt": "2026-03-01T17:27:34.328Z",
-    "updatedAt": "2026-03-01T17:27:34.328Z"
+    "createdAt": "2026-03-01T18:41:48.194Z",
+    "updatedAt": "2026-03-01T18:41:48.194Z"
   }
 ]
