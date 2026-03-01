@@ -1,5 +1,61 @@
 [
   {
+    "id": "92b600db2b67af00",
+    "title": "Коростелев занял четвертое место в скиатлоне на этапе Кубка мира в Швеции",
+    "sport": "Другое",
+    "category": "Другие",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/2/83/347723687791832.png",
+    "teaser": "Коростелев занял четвертое место в скиатлоне на этапе Кубка мира в Швеции",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69a430fc9a794709d01ebf4f",
+    "publishedAt": "2026-03-01T12:43:21.000Z",
+    "createdAt": "2026-03-01T13:00:40.248Z",
+    "updatedAt": "2026-03-01T13:00:40.248Z"
+  },
+  {
+    "id": "fb68f0051f47f6d6",
+    "title": "Матч Первой лиги в Новороссийске пройдет без зрителей из-за угрозы БПЛА",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/2/17/347723676559172.png",
+    "teaser": "Матч Первой лиги в Новороссийске пройдет без зрителей из-за угрозы БПЛА",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69a42b7e9a7947983b7fa299",
+    "publishedAt": "2026-03-01T12:36:02.000Z",
+    "createdAt": "2026-03-01T13:00:42.361Z",
+    "updatedAt": "2026-03-01T13:00:42.361Z"
+  },
+  {
+    "id": "cfcb0d35fe49bde8",
+    "title": "«Динамо» впервые в сезоне победило в РПЛ с разницей в четыре мяча",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/4/15/347723642007154.png",
+    "teaser": "«Динамо» впервые в сезоне победило в РПЛ с разницей в четыре мяча",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69a421999a7947a72edf06ce",
+    "publishedAt": "2026-03-01T11:58:54.000Z",
+    "createdAt": "2026-03-01T13:00:41.304Z",
+    "updatedAt": "2026-03-01T13:00:41.304Z"
+  },
+  {
+    "id": "6f3acf14639ac78e",
+    "title": "РПЛ заявила о риске переноса начала матча «Сочи» — «Спартак» из-за БПЛА",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "/images/news-placeholder.jpg",
+    "teaser": "РПЛ заявила о риске переноса начала матча «Сочи» — «Спартак» из-за БПЛА",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69a425b19a7947ca5cf3b2fa",
+    "publishedAt": "2026-03-01T11:54:41.000Z",
+    "createdAt": "2026-03-01T13:00:44.640Z",
+    "updatedAt": "2026-03-01T13:00:44.640Z"
+  },
+  {
     "id": "5f5c47cb39cdf82c",
     "title": "Застрявший в Дубае теннисист Медведев рассказал о своем состоянии",
     "sport": "Теннис",
@@ -10,8 +66,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69a414879a79475faacbd3de",
     "publishedAt": "2026-03-01T11:11:30.000Z",
-    "createdAt": "2026-03-01T11:26:22.223Z",
-    "updatedAt": "2026-03-01T11:26:22.223Z"
+    "createdAt": "2026-03-01T13:00:45.658Z",
+    "updatedAt": "2026-03-01T13:00:45.658Z"
   },
   {
     "id": "1a84af0f50b9a7b4",
@@ -24,8 +80,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69a415fc9a79477571574b1d",
     "publishedAt": "2026-03-01T10:39:43.000Z",
-    "createdAt": "2026-03-01T11:26:24.575Z",
-    "updatedAt": "2026-03-01T11:26:24.575Z"
+    "createdAt": "2026-03-01T13:00:47.847Z",
+    "updatedAt": "2026-03-01T13:00:47.847Z"
   },
   {
     "id": "a48f256cf39f5e1e",
@@ -38,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69a409ae9a7947084b0d44e4",
     "publishedAt": "2026-03-01T10:05:30.000Z",
-    "createdAt": "2026-03-01T11:26:23.451Z",
-    "updatedAt": "2026-03-01T11:26:23.451Z"
+    "createdAt": "2026-03-01T13:00:46.792Z",
+    "updatedAt": "2026-03-01T13:00:46.792Z"
   },
   {
     "id": "ceff457247127ccd",
@@ -52,8 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69a406129a7947ef102d6704",
     "publishedAt": "2026-03-01T09:39:51.000Z",
-    "createdAt": "2026-03-01T11:26:25.727Z",
-    "updatedAt": "2026-03-01T11:26:25.727Z"
+    "createdAt": "2026-03-01T13:00:48.972Z",
+    "updatedAt": "2026-03-01T13:00:48.972Z"
   },
   {
     "id": "bd8414c48fa92190",
@@ -66,36 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69a4024f9a794744c2d7e88b",
     "publishedAt": "2026-03-01T09:23:44.000Z",
-    "createdAt": "2026-03-01T11:26:26.908Z",
-    "updatedAt": "2026-03-01T11:26:26.908Z"
-  },
-  {
-    "id": "9134233150d0f627",
-    "title": "Махачкалинское «Динамо» обыграло «Рубин» благодаря двум пенальти",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/2/63/347723047312632.jpeg",
-    "teaser": "Махачкалинское «Динамо» обыграло «Рубин» благодаря двум пенальти",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69a3392e9a7947dac4555129",
-    "publishedAt": "2026-02-28T19:05:13.000Z",
-    "createdAt": "2026-03-01T11:26:29.182Z",
-    "updatedAt": "2026-03-01T11:26:29.182Z"
-  },
-  {
-    "id": "8878ffcce63d9f07",
-    "title": "«Зенит» подписал контракт с проведшим больше 120 матчей в НБА американцем",
-    "sport": "Баскетбол",
-    "category": "Баскетбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/7/69/347723019127697.jpeg",
-    "teaser": "«Зенит» подписал контракт с проведшим больше 120 матчей в НБА американцем",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69a32e209a7947f6b7ae5630",
-    "publishedAt": "2026-02-28T18:12:03.000Z",
-    "createdAt": "2026-03-01T11:26:30.402Z",
-    "updatedAt": "2026-03-01T11:26:30.402Z"
+    "createdAt": "2026-03-01T13:00:50.474Z",
+    "updatedAt": "2026-03-01T13:00:50.474Z"
   },
   {
     "id": "48dd724153295105",
@@ -108,35 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69a31d3d9a794748b8e8abdc",
     "publishedAt": "2026-02-28T17:42:19.000Z",
-    "createdAt": "2026-03-01T11:26:28.046Z",
-    "updatedAt": "2026-03-01T11:26:28.046Z"
-  },
-  {
-    "id": "60f268c08a2804cd",
-    "title": "Лидер «Барселоны» Ламин Ямаль сделал первый в карьере хет-трик",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/2/97/347722985483972.jpeg",
-    "teaser": "Лидер «Барселоны» Ламин Ямаль сделал первый в карьере хет-трик",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69a320f99a79470ee0a7d24b",
-    "publishedAt": "2026-02-28T17:17:21.000Z",
-    "createdAt": "2026-03-01T11:26:31.633Z",
-    "updatedAt": "2026-03-01T11:26:31.633Z"
-  },
-  {
-    "id": "9198ad2ee20fcca4",
-    "title": "Матч РПЛ в Каспийске начался с 30-минутной задержкой из-за снегопада",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/0/75/347722977352750.jpeg",
-    "teaser": "Матч РПЛ в Каспийске начался с 30-минутной задержкой из-за снегопада",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69a31dda9a79470ee0a7d245",
-    "publishedAt": "2026-02-28T17:03:34.000Z",
-    "createdAt": "2026-03-01T11:26:33.131Z",
-    "updatedAt": "2026-03-01T11:26:33.131Z"
+    "createdAt": "2026-03-01T13:00:51.593Z",
+    "updatedAt": "2026-03-01T13:00:51.593Z"
   }
 ]
