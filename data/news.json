@@ -1,5 +1,33 @@
 [
   {
+    "id": "5f5c47cb39cdf82c",
+    "title": "Застрявший в Дубае теннисист Медведев рассказал о своем состоянии",
+    "sport": "Теннис",
+    "category": "Теннис",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/4/67/347723624571674.jpeg",
+    "teaser": "Застрявший в Дубае теннисист Медведев рассказал о своем состоянии",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69a414879a79475faacbd3de",
+    "publishedAt": "2026-03-01T11:11:30.000Z",
+    "createdAt": "2026-03-01T11:26:22.223Z",
+    "updatedAt": "2026-03-01T11:26:22.223Z"
+  },
+  {
+    "id": "1a84af0f50b9a7b4",
+    "title": "Биатлонистка Коваленко выиграла масс-старт в финале Кубка России",
+    "sport": "Другое",
+    "category": "Биатлон",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/5/78/347723612478785.png",
+    "teaser": "Биатлонистка Коваленко выиграла масс-старт в финале Кубка России",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69a415fc9a79477571574b1d",
+    "publishedAt": "2026-03-01T10:39:43.000Z",
+    "createdAt": "2026-03-01T11:26:24.575Z",
+    "updatedAt": "2026-03-01T11:26:24.575Z"
+  },
+  {
     "id": "a48f256cf39f5e1e",
     "title": "Овечкин оформил дубль и прервал семиматчевую серию без голов в НХЛ",
     "sport": "Хоккей",
@@ -10,8 +38,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69a409ae9a7947084b0d44e4",
     "publishedAt": "2026-03-01T10:05:30.000Z",
-    "createdAt": "2026-03-01T10:31:34.160Z",
-    "updatedAt": "2026-03-01T10:31:34.160Z"
+    "createdAt": "2026-03-01T11:26:23.451Z",
+    "updatedAt": "2026-03-01T11:26:23.451Z"
   },
   {
     "id": "ceff457247127ccd",
@@ -24,8 +52,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69a406129a7947ef102d6704",
     "publishedAt": "2026-03-01T09:39:51.000Z",
-    "createdAt": "2026-03-01T10:31:35.329Z",
-    "updatedAt": "2026-03-01T10:31:35.329Z"
+    "createdAt": "2026-03-01T11:26:25.727Z",
+    "updatedAt": "2026-03-01T11:26:25.727Z"
   },
   {
     "id": "bd8414c48fa92190",
@@ -38,8 +66,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69a4024f9a794744c2d7e88b",
     "publishedAt": "2026-03-01T09:23:44.000Z",
-    "createdAt": "2026-03-01T10:31:36.491Z",
-    "updatedAt": "2026-03-01T10:31:36.491Z"
+    "createdAt": "2026-03-01T11:26:26.908Z",
+    "updatedAt": "2026-03-01T11:26:26.908Z"
   },
   {
     "id": "9134233150d0f627",
@@ -52,8 +80,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69a3392e9a7947dac4555129",
     "publishedAt": "2026-02-28T19:05:13.000Z",
-    "createdAt": "2026-03-01T10:31:38.695Z",
-    "updatedAt": "2026-03-01T10:31:38.695Z"
+    "createdAt": "2026-03-01T11:26:29.182Z",
+    "updatedAt": "2026-03-01T11:26:29.182Z"
   },
   {
     "id": "8878ffcce63d9f07",
@@ -66,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69a32e209a7947f6b7ae5630",
     "publishedAt": "2026-02-28T18:12:03.000Z",
-    "createdAt": "2026-03-01T10:31:39.828Z",
-    "updatedAt": "2026-03-01T10:31:39.828Z"
+    "createdAt": "2026-03-01T11:26:30.402Z",
+    "updatedAt": "2026-03-01T11:26:30.402Z"
   },
   {
     "id": "48dd724153295105",
@@ -80,8 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69a31d3d9a794748b8e8abdc",
     "publishedAt": "2026-02-28T17:42:19.000Z",
-    "createdAt": "2026-03-01T10:31:37.560Z",
-    "updatedAt": "2026-03-01T10:31:37.560Z"
+    "createdAt": "2026-03-01T11:26:28.046Z",
+    "updatedAt": "2026-03-01T11:26:28.046Z"
   },
   {
     "id": "60f268c08a2804cd",
@@ -94,8 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69a320f99a79470ee0a7d24b",
     "publishedAt": "2026-02-28T17:17:21.000Z",
-    "createdAt": "2026-03-01T10:31:40.951Z",
-    "updatedAt": "2026-03-01T10:31:40.951Z"
+    "createdAt": "2026-03-01T11:26:31.633Z",
+    "updatedAt": "2026-03-01T11:26:31.633Z"
   },
   {
     "id": "9198ad2ee20fcca4",
@@ -108,35 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69a31dda9a79470ee0a7d245",
     "publishedAt": "2026-02-28T17:03:34.000Z",
-    "createdAt": "2026-03-01T10:31:42.095Z",
-    "updatedAt": "2026-03-01T10:31:42.095Z"
-  },
-  {
-    "id": "1070efc2a1bdc03f",
-    "title": "Российские велогонщики не смогли вылететь в Австралию через Дубай на КМ",
-    "sport": "Другое",
-    "category": "Другие",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/5/52/347722964234525.jpeg",
-    "teaser": "Российские велогонщики не смогли вылететь в Австралию через Дубай на КМ",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69a318c99a794720ea487d4b",
-    "publishedAt": "2026-02-28T16:45:26.000Z",
-    "createdAt": "2026-03-01T10:31:44.400Z",
-    "updatedAt": "2026-03-01T10:31:44.400Z"
-  },
-  {
-    "id": "6a3eed1f2b9a7b86",
-    "title": "Дегтярев задал вопрос бойкотирующим Паралимпиаду странам после ударов США",
-    "sport": "Другое",
-    "category": "Другие",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/4/28/347722929873284.jpeg",
-    "teaser": "Дегтярев задал вопрос бойкотирующим Паралимпиаду странам после ударов США",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69a30b149a794757a794253f",
-    "publishedAt": "2026-02-28T16:41:28.000Z",
-    "createdAt": "2026-03-01T10:31:43.254Z",
-    "updatedAt": "2026-03-01T10:31:43.254Z"
+    "createdAt": "2026-03-01T11:26:33.131Z",
+    "updatedAt": "2026-03-01T11:26:33.131Z"
   }
 ]
