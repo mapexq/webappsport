@@ -1,5 +1,47 @@
 [
   {
+    "id": "71b40b021943bd4c",
+    "title": "«Манчестер Юнайтед» поднялся в топ-3 чемпионата Англии",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/1/94/347723817649941.jpeg",
+    "teaser": "«Манчестер Юнайтед» поднялся в топ-3 чемпионата Англии",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69a463199a79476c37968387",
+    "publishedAt": "2026-03-01T16:19:19.000Z",
+    "createdAt": "2026-03-01T16:36:13.435Z",
+    "updatedAt": "2026-03-01T16:36:13.435Z"
+  },
+  {
+    "id": "309fbebb4e919010",
+    "title": "«Барселона» потеряла Левандовски из-за травмы",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/5/68/347723795588685.jpeg",
+    "teaser": "«Барселона» потеряла Левандовски из-за травмы",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69a45d789a79471a4162c27e",
+    "publishedAt": "2026-03-01T15:50:49.000Z",
+    "createdAt": "2026-03-01T16:36:16.616Z",
+    "updatedAt": "2026-03-01T16:36:16.616Z"
+  },
+  {
+    "id": "d0050c5488ec6dde",
+    "title": "«Сочи» крупно обыграл «Торпедо» в матче, прерывавшемся из-за угрозы БПЛА",
+    "sport": "Хоккей",
+    "category": "Хоккей",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/3/77/347723789392773.png",
+    "teaser": "«Сочи» крупно обыграл «Торпедо» в матче, прерывавшемся из-за угрозы БПЛА",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69a4590f9a79470a05f87627",
+    "publishedAt": "2026-03-01T15:32:19.000Z",
+    "createdAt": "2026-03-01T16:36:14.488Z",
+    "updatedAt": "2026-03-01T16:36:14.488Z"
+  },
+  {
     "id": "b53bfa009f80037e",
     "title": "Матч «Сочи» — «Спартак» перенесли на 2 марта из-за угрозы БПЛА",
     "sport": "Футбол",
@@ -10,8 +52,22 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69a44df79a794719f9fcff12",
     "publishedAt": "2026-03-01T14:58:17.000Z",
-    "createdAt": "2026-03-01T15:30:04.766Z",
-    "updatedAt": "2026-03-01T15:30:04.766Z"
+    "createdAt": "2026-03-01T16:36:15.551Z",
+    "updatedAt": "2026-03-01T16:36:15.551Z"
+  },
+  {
+    "id": "b7f91a1c868e19b8",
+    "title": "Умер член Зала славы IIHF и экс-генсек ФХР Юрий Королев",
+    "sport": "Хоккей",
+    "category": "Хоккей",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/2/28/347723736846282.png",
+    "teaser": "Умер член Зала славы IIHF и экс-генсек ФХР Юрий Королев",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69a4455e9a7947e98bd34b76",
+    "publishedAt": "2026-03-01T14:23:52.000Z",
+    "createdAt": "2026-03-01T16:36:20.771Z",
+    "updatedAt": "2026-03-01T16:36:20.771Z"
   },
   {
     "id": "d872610903760514",
@@ -24,8 +80,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69a437109a7947b57a62f0c8",
     "publishedAt": "2026-03-01T13:29:59.000Z",
-    "createdAt": "2026-03-01T15:30:06.640Z",
-    "updatedAt": "2026-03-01T15:30:06.640Z"
+    "createdAt": "2026-03-01T16:36:19.622Z",
+    "updatedAt": "2026-03-01T16:36:19.622Z"
   },
   {
     "id": "64d037b35fd43dac",
@@ -38,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69a43bec9a7947d16d923bee",
     "publishedAt": "2026-03-01T13:27:06.000Z",
-    "createdAt": "2026-03-01T15:30:09.771Z",
-    "updatedAt": "2026-03-01T15:30:09.771Z"
+    "createdAt": "2026-03-01T16:36:22.942Z",
+    "updatedAt": "2026-03-01T16:36:22.942Z"
   },
   {
     "id": "92b600db2b67af00",
@@ -52,8 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69a430fc9a794709d01ebf4f",
     "publishedAt": "2026-03-01T12:43:21.000Z",
-    "createdAt": "2026-03-01T15:30:07.682Z",
-    "updatedAt": "2026-03-01T15:30:07.682Z"
+    "createdAt": "2026-03-01T16:36:17.625Z",
+    "updatedAt": "2026-03-01T16:36:17.625Z"
   },
   {
     "id": "068cb2356ea708b2",
@@ -66,8 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69a42b7e9a7947983b7fa299",
     "publishedAt": "2026-03-01T12:36:03.000Z",
-    "createdAt": "2026-03-01T15:30:10.896Z",
-    "updatedAt": "2026-03-01T15:30:10.896Z"
+    "createdAt": "2026-03-01T16:36:23.996Z",
+    "updatedAt": "2026-03-01T16:36:23.996Z"
   },
   {
     "id": "cfcb0d35fe49bde8",
@@ -80,63 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69a421999a7947a72edf06ce",
     "publishedAt": "2026-03-01T11:58:54.000Z",
-    "createdAt": "2026-03-01T15:30:08.720Z",
-    "updatedAt": "2026-03-01T15:30:08.720Z"
-  },
-  {
-    "id": "6f3acf14639ac78e",
-    "title": "РПЛ заявила о риске переноса начала матча «Сочи» — «Спартак» из-за БПЛА",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "/images/news-placeholder.jpg",
-    "teaser": "РПЛ заявила о риске переноса начала матча «Сочи» — «Спартак» из-за БПЛА",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69a425b19a7947ca5cf3b2fa",
-    "publishedAt": "2026-03-01T11:54:41.000Z",
-    "createdAt": "2026-03-01T15:30:12.763Z",
-    "updatedAt": "2026-03-01T15:30:12.763Z"
-  },
-  {
-    "id": "5f5c47cb39cdf82c",
-    "title": "Застрявший в Дубае теннисист Медведев рассказал о своем состоянии",
-    "sport": "Теннис",
-    "category": "Теннис",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/4/67/347723624571674.jpeg",
-    "teaser": "Застрявший в Дубае теннисист Медведев рассказал о своем состоянии",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69a414879a79475faacbd3de",
-    "publishedAt": "2026-03-01T11:11:30.000Z",
-    "createdAt": "2026-03-01T15:30:14.314Z",
-    "updatedAt": "2026-03-01T15:30:14.314Z"
-  },
-  {
-    "id": "1a84af0f50b9a7b4",
-    "title": "Биатлонистка Коваленко выиграла масс-старт в финале Кубка России",
-    "sport": "Другое",
-    "category": "Биатлон",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/5/78/347723612478785.png",
-    "teaser": "Биатлонистка Коваленко выиграла масс-старт в финале Кубка России",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69a415fc9a79477571574b1d",
-    "publishedAt": "2026-03-01T10:39:43.000Z",
-    "createdAt": "2026-03-01T15:30:16.435Z",
-    "updatedAt": "2026-03-01T15:30:16.435Z"
-  },
-  {
-    "id": "a48f256cf39f5e1e",
-    "title": "Овечкин оформил дубль и прервал семиматчевую серию без голов в НХЛ",
-    "sport": "Хоккей",
-    "category": "Хоккей",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/5/95/347723594546955.jpeg",
-    "teaser": "Овечкин оформил дубль и прервал семиматчевую серию без голов в НХЛ",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69a409ae9a7947084b0d44e4",
-    "publishedAt": "2026-03-01T10:05:30.000Z",
-    "createdAt": "2026-03-01T15:30:15.374Z",
-    "updatedAt": "2026-03-01T15:30:15.374Z"
+    "createdAt": "2026-03-01T16:36:21.886Z",
+    "updatedAt": "2026-03-01T16:36:21.886Z"
   }
 ]
