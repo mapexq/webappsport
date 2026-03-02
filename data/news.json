@@ -1,5 +1,19 @@
 [
   {
+    "id": "16d9a7ab7598d3bd",
+    "title": "Украинцам запретили парадную форму с картой на Паралимпиаде",
+    "sport": "Другое",
+    "category": "Другие",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/6/63/347724784679636.png",
+    "teaser": "Украинцам запретили парадную форму с картой на Паралимпиаде",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69a5dc789a79477a762e3894",
+    "publishedAt": "2026-03-02T19:39:03.000Z",
+    "createdAt": "2026-03-02T20:42:54.642Z",
+    "updatedAt": "2026-03-02T20:42:54.642Z"
+  },
+  {
     "id": "bdf2914100f38cae",
     "title": "«Авангард» обыграл «Спартак» в матче КХЛ благодаря дублю Прохоркина",
     "sport": "Хоккей",
@@ -10,8 +24,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69a5d2d49a79470cca53f01d",
     "publishedAt": "2026-03-02T18:57:44.000Z",
-    "createdAt": "2026-03-02T19:41:04.233Z",
-    "updatedAt": "2026-03-02T19:41:04.233Z"
+    "createdAt": "2026-03-02T20:42:55.750Z",
+    "updatedAt": "2026-03-02T20:42:55.750Z"
   },
   {
     "id": "a22fccb8f2ce930e",
@@ -24,8 +38,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69a5d7b29a79476e7dcd90b2",
     "publishedAt": "2026-03-02T18:46:54.000Z",
-    "createdAt": "2026-03-02T19:41:03.192Z",
-    "updatedAt": "2026-03-02T19:41:03.192Z"
+    "createdAt": "2026-03-02T20:42:58.003Z",
+    "updatedAt": "2026-03-02T20:42:58.003Z"
   },
   {
     "id": "c31defd874abdb14",
@@ -38,8 +52,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69a5cee89a7947b395de35b4",
     "publishedAt": "2026-03-02T18:35:09.000Z",
-    "createdAt": "2026-03-02T19:41:05.665Z",
-    "updatedAt": "2026-03-02T19:41:05.665Z"
+    "createdAt": "2026-03-02T20:42:56.842Z",
+    "updatedAt": "2026-03-02T20:42:56.842Z"
   },
   {
     "id": "ee1df1dadd867e51",
@@ -52,8 +66,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69a5cb5b9a7947cefa65f4c9",
     "publishedAt": "2026-03-02T18:10:01.000Z",
-    "createdAt": "2026-03-02T19:41:06.784Z",
-    "updatedAt": "2026-03-02T19:41:06.784Z"
+    "createdAt": "2026-03-02T20:43:03.131Z",
+    "updatedAt": "2026-03-02T20:43:03.131Z"
   },
   {
     "id": "40c09e660270e73d",
@@ -66,8 +80,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69a5c3ea9a7947bcafdce902",
     "publishedAt": "2026-03-02T17:46:34.000Z",
-    "createdAt": "2026-03-02T19:41:09.079Z",
-    "updatedAt": "2026-03-02T19:41:09.079Z"
+    "createdAt": "2026-03-02T20:43:00.176Z",
+    "updatedAt": "2026-03-02T20:43:00.176Z"
   },
   {
     "id": "504c763ffc1c503d",
@@ -80,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69a5c5539a79473394c77283",
     "publishedAt": "2026-03-02T17:35:57.000Z",
-    "createdAt": "2026-03-02T19:41:07.941Z",
-    "updatedAt": "2026-03-02T19:41:07.941Z"
+    "createdAt": "2026-03-02T20:42:59.082Z",
+    "updatedAt": "2026-03-02T20:42:59.082Z"
   },
   {
     "id": "04569bfc60704ff3",
@@ -94,8 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69a5b42d9a79471c4ec35622",
     "publishedAt": "2026-03-02T16:35:18.000Z",
-    "createdAt": "2026-03-02T19:41:11.060Z",
-    "updatedAt": "2026-03-02T19:41:11.060Z"
+    "createdAt": "2026-03-02T20:43:02.071Z",
+    "updatedAt": "2026-03-02T20:43:02.071Z"
   },
   {
     "id": "febec2859e38c8c3",
@@ -108,22 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69a5b0e29a79471b804e77ee",
     "publishedAt": "2026-03-02T16:07:48.000Z",
-    "createdAt": "2026-03-02T19:41:13.410Z",
-    "updatedAt": "2026-03-02T19:41:13.410Z"
-  },
-  {
-    "id": "9318a58511c7ecfb",
-    "title": "Карседо заявил, что VAR в России слишком часто вмешивается в игру",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/6/38/347724632950386.jpeg",
-    "teaser": "Карседо заявил, что VAR в России слишком часто вмешивается в игру",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69a5a1259a7947de561a20f3",
-    "publishedAt": "2026-03-02T15:21:23.000Z",
-    "createdAt": "2026-03-02T19:41:12.178Z",
-    "updatedAt": "2026-03-02T19:41:12.178Z"
+    "createdAt": "2026-03-02T20:43:04.190Z",
+    "updatedAt": "2026-03-02T20:43:04.190Z"
   },
   {
     "id": "5f49a9efcca67ea3",
@@ -136,7 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69a5947b9a79475fe00ce8e3",
     "publishedAt": "2026-03-02T15:14:26.000Z",
-    "createdAt": "2026-03-02T19:41:15.391Z",
-    "updatedAt": "2026-03-02T19:41:15.391Z"
+    "createdAt": "2026-03-02T20:43:06.109Z",
+    "updatedAt": "2026-03-02T20:43:06.109Z"
   }
 ]
