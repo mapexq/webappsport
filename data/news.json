@@ -1,5 +1,47 @@
 [
   {
+    "id": "b3cf8bc58ac61244",
+    "title": "Двукратная чемпионка Олимпиады Бриньоне досрочно завершила сезон",
+    "sport": "Другое",
+    "category": "Другие",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/6/59/347724557589596.jpeg",
+    "teaser": "Двукратная чемпионка Олимпиады Бриньоне досрочно завершила сезон",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69a584f79a7947ca42135069",
+    "publishedAt": "2026-03-02T12:55:23.000Z",
+    "createdAt": "2026-03-02T13:12:09.071Z",
+    "updatedAt": "2026-03-02T13:12:09.071Z"
+  },
+  {
+    "id": "b15790ccc718bed9",
+    "title": "Sportsnet назвал возможную замену сборной России на Кубке мира 2028 года",
+    "sport": "Хоккей",
+    "category": "Хоккей",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/1/78/347724528357781.jpeg",
+    "teaser": "Sportsnet назвал возможную замену сборной России на Кубке мира 2028 года",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69a579469a7947457a762ba5",
+    "publishedAt": "2026-03-02T12:11:40.000Z",
+    "createdAt": "2026-03-02T13:12:10.215Z",
+    "updatedAt": "2026-03-02T13:12:10.215Z"
+  },
+  {
+    "id": "7c28c247eaed8cd7",
+    "title": "Плющенко признался, что не планировал становиться тренером",
+    "sport": "Другое",
+    "category": "Фигурное катание",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/9/28/347724504468289.jpeg",
+    "teaser": "Плющенко признался, что не планировал становиться тренером",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69a571f09a794737c26997e0",
+    "publishedAt": "2026-03-02T11:35:48.000Z",
+    "createdAt": "2026-03-02T13:12:15.125Z",
+    "updatedAt": "2026-03-02T13:12:15.125Z"
+  },
+  {
     "id": "c6de3db1365461a0",
     "title": "Marca узнала, как теннисисты Медведев и Рублев будут выбираться из ОАЭ",
     "sport": "Теннис",
@@ -10,8 +52,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69a56bc79a7947114ebc158b",
     "publishedAt": "2026-03-02T11:28:05.000Z",
-    "createdAt": "2026-03-02T11:34:46.511Z",
-    "updatedAt": "2026-03-02T11:34:46.511Z"
+    "createdAt": "2026-03-02T13:12:12.304Z",
+    "updatedAt": "2026-03-02T13:12:12.304Z"
   },
   {
     "id": "b0a477b43564b1f2",
@@ -24,22 +66,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69a566a99a7947b69074e93c",
     "publishedAt": "2026-03-02T11:19:49.000Z",
-    "createdAt": "2026-03-02T11:34:47.593Z",
-    "updatedAt": "2026-03-02T11:34:47.593Z"
-  },
-  {
-    "id": "ad7ae76995721140",
-    "title": "Вратаря ЦСКА впервые в карьере признали лучшим игроком недели в КХЛ",
-    "sport": "Хоккей",
-    "category": "Хоккей",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/0/26/347724452251260.jpeg",
-    "teaser": "Вратаря ЦСКА впервые в карьере признали лучшим игроком недели в КХЛ",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69a558719a794700a325f8c4",
-    "publishedAt": "2026-03-02T10:08:34.000Z",
-    "createdAt": "2026-03-02T11:34:53.874Z",
-    "updatedAt": "2026-03-02T11:34:53.874Z"
+    "createdAt": "2026-03-02T13:12:13.978Z",
+    "updatedAt": "2026-03-02T13:12:13.978Z"
   },
   {
     "id": "e8a668ff39dbec40",
@@ -52,8 +80,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69a556789a79474703d38ced",
     "publishedAt": "2026-03-02T09:58:20.000Z",
-    "createdAt": "2026-03-02T11:34:48.566Z",
-    "updatedAt": "2026-03-02T11:34:48.566Z"
+    "createdAt": "2026-03-02T13:12:16.308Z",
+    "updatedAt": "2026-03-02T13:12:16.308Z"
   },
   {
     "id": "8fc1b2cd6ead89f3",
@@ -66,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69a554149a7947b72362c490",
     "publishedAt": "2026-03-02T09:39:31.000Z",
-    "createdAt": "2026-03-02T11:34:49.590Z",
-    "updatedAt": "2026-03-02T11:34:49.590Z"
+    "createdAt": "2026-03-02T13:12:17.488Z",
+    "updatedAt": "2026-03-02T13:12:17.488Z"
   },
   {
     "id": "260650051eb21a3f",
@@ -80,22 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69a54bd59a79478399805c9a",
     "publishedAt": "2026-03-02T08:50:29.000Z",
-    "createdAt": "2026-03-02T11:34:52.777Z",
-    "updatedAt": "2026-03-02T11:34:52.777Z"
-  },
-  {
-    "id": "23b5ec5a19de3f30",
-    "title": "Карякина исключили из рейтинга FIDE спустя два дня после возвращения",
-    "sport": "Другое",
-    "category": "Другие",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/9/47/347724375853479.jpeg",
-    "teaser": "Карякина исключили из рейтинга FIDE спустя два дня после возвращения",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69a53dad9a794704688fed04",
-    "publishedAt": "2026-03-02T08:10:47.000Z",
-    "createdAt": "2026-03-02T11:34:55.004Z",
-    "updatedAt": "2026-03-02T11:34:55.004Z"
+    "createdAt": "2026-03-02T13:12:19.733Z",
+    "updatedAt": "2026-03-02T13:12:19.733Z"
   },
   {
     "id": "7bcce5c84ef4a251",
@@ -108,8 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69a539bd9a7947ea66922732",
     "publishedAt": "2026-03-02T07:40:49.000Z",
-    "createdAt": "2026-03-02T11:34:51.672Z",
-    "updatedAt": "2026-03-02T11:34:51.672Z"
+    "createdAt": "2026-03-02T13:12:07.816Z",
+    "updatedAt": "2026-03-02T13:12:07.816Z"
   },
   {
     "id": "185e5f700b5027f5",
@@ -122,21 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69a5325e9a7947986eab18d9",
     "publishedAt": "2026-03-02T07:16:02.000Z",
-    "createdAt": "2026-03-02T11:34:50.608Z",
-    "updatedAt": "2026-03-02T11:34:50.608Z"
-  },
-  {
-    "id": "bb3570dfeb0a91a5",
-    "title": "Единственному российскому медалисту Игр пообещали квартиру на Камчатке",
-    "sport": "Другое",
-    "category": "Другие",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/6/77/347724317314776.jpeg",
-    "teaser": "Единственному российскому медалисту Игр пообещали квартиру на Камчатке",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69a5290e9a794749c1913ffc",
-    "publishedAt": "2026-03-02T07:08:13.000Z",
-    "createdAt": "2026-03-02T11:34:56.959Z",
-    "updatedAt": "2026-03-02T11:34:56.959Z"
+    "createdAt": "2026-03-02T13:12:18.660Z",
+    "updatedAt": "2026-03-02T13:12:18.660Z"
   }
 ]
