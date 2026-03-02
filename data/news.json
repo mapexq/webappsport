@@ -1,5 +1,33 @@
 [
   {
+    "id": "40c09e660270e73d",
+    "title": "Клуб вылетел из плей-офф чемпионата России по бенди из-за плохого льда",
+    "sport": "Хоккей",
+    "category": "Хоккей",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/1/28/347724723459281.png",
+    "teaser": "Клуб вылетел из плей-офф чемпионата России по бенди из-за плохого льда",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69a5c3ea9a7947bcafdce902",
+    "publishedAt": "2026-03-02T17:46:34.000Z",
+    "createdAt": "2026-03-02T17:52:08.660Z",
+    "updatedAt": "2026-03-02T17:52:08.660Z"
+  },
+  {
+    "id": "504c763ffc1c503d",
+    "title": "Овечкин пропустил тренировку «Вашингтон Кэпиталз»",
+    "sport": "Хоккей",
+    "category": "Хоккей",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/7/51/347724724474517.jpeg",
+    "teaser": "Овечкин пропустил тренировку «Вашингтон Кэпиталз»",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69a5c5539a79473394c77283",
+    "publishedAt": "2026-03-02T17:35:57.000Z",
+    "createdAt": "2026-03-02T17:52:07.822Z",
+    "updatedAt": "2026-03-02T17:52:07.822Z"
+  },
+  {
     "id": "04569bfc60704ff3",
     "title": "Навка заявила, что была шокирована решением Валиевой сменить тренера",
     "sport": "Другое",
@@ -10,8 +38,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69a5b42d9a79471c4ec35622",
     "publishedAt": "2026-03-02T16:35:18.000Z",
-    "createdAt": "2026-03-02T16:56:50.137Z",
-    "updatedAt": "2026-03-02T16:56:50.137Z"
+    "createdAt": "2026-03-02T17:52:10.535Z",
+    "updatedAt": "2026-03-02T17:52:10.535Z"
   },
   {
     "id": "febec2859e38c8c3",
@@ -24,8 +52,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69a5b0e29a79471b804e77ee",
     "publishedAt": "2026-03-02T16:07:48.000Z",
-    "createdAt": "2026-03-02T16:56:52.415Z",
-    "updatedAt": "2026-03-02T16:56:52.415Z"
+    "createdAt": "2026-03-02T17:52:12.620Z",
+    "updatedAt": "2026-03-02T17:52:12.620Z"
   },
   {
     "id": "9318a58511c7ecfb",
@@ -38,8 +66,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69a5a1259a7947de561a20f3",
     "publishedAt": "2026-03-02T15:21:23.000Z",
-    "createdAt": "2026-03-02T16:56:51.343Z",
-    "updatedAt": "2026-03-02T16:56:51.343Z"
+    "createdAt": "2026-03-02T17:52:11.599Z",
+    "updatedAt": "2026-03-02T17:52:11.599Z"
   },
   {
     "id": "5f49a9efcca67ea3",
@@ -52,8 +80,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69a5947b9a79475fe00ce8e3",
     "publishedAt": "2026-03-02T15:14:26.000Z",
-    "createdAt": "2026-03-02T16:56:54.493Z",
-    "updatedAt": "2026-03-02T16:56:54.493Z"
+    "createdAt": "2026-03-02T17:52:14.495Z",
+    "updatedAt": "2026-03-02T17:52:14.495Z"
   },
   {
     "id": "6c5ec948b89670f7",
@@ -66,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69a59f1a9a794785d584b2d0",
     "publishedAt": "2026-03-02T14:57:25.000Z",
-    "createdAt": "2026-03-02T16:56:57.711Z",
-    "updatedAt": "2026-03-02T16:56:57.711Z"
+    "createdAt": "2026-03-02T17:52:17.668Z",
+    "updatedAt": "2026-03-02T17:52:17.668Z"
   },
   {
     "id": "010637db56e61b7c",
@@ -80,8 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69a5964f9a7947eb9dbfa155",
     "publishedAt": "2026-03-02T14:33:18.000Z",
-    "createdAt": "2026-03-02T16:56:56.575Z",
-    "updatedAt": "2026-03-02T16:56:56.575Z"
+    "createdAt": "2026-03-02T17:52:16.577Z",
+    "updatedAt": "2026-03-02T17:52:16.577Z"
   },
   {
     "id": "9e65ad1150e4f09e",
@@ -94,8 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69a599629a7947bb71daf191",
     "publishedAt": "2026-03-02T14:31:22.000Z",
-    "createdAt": "2026-03-02T16:56:55.431Z",
-    "updatedAt": "2026-03-02T16:56:55.431Z"
+    "createdAt": "2026-03-02T17:52:15.523Z",
+    "updatedAt": "2026-03-02T17:52:15.523Z"
   },
   {
     "id": "9c1e44a6ab433d1c",
@@ -108,35 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69a57d5d9a794779c44a5b86",
     "publishedAt": "2026-03-02T14:09:22.000Z",
-    "createdAt": "2026-03-02T16:56:58.889Z",
-    "updatedAt": "2026-03-02T16:56:58.889Z"
-  },
-  {
-    "id": "7c27cc1fef4929bc",
-    "title": "Попавшаяся на допинге биатлонистка выступит на этапе КМ в Финляндии",
-    "sport": "Другое",
-    "category": "Биатлон",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/4/61/347724572158614.jpeg",
-    "teaser": "Попавшаяся на допинге биатлонистка выступит на этапе КМ в Финляндии",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69a58a4e9a7947490da580a8",
-    "publishedAt": "2026-03-02T13:48:23.000Z",
-    "createdAt": "2026-03-02T16:57:00.388Z",
-    "updatedAt": "2026-03-02T16:57:00.388Z"
-  },
-  {
-    "id": "7bcce5c84ef4a251",
-    "title": "Коростелев выступит на молодежном ЧМ по лыжным гонкам в Норвегии",
-    "sport": "Другое",
-    "category": "Другие",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/8/84/347724365706848.jpeg",
-    "teaser": "Коростелев выступит на молодежном ЧМ по лыжным гонкам в Норвегии",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69a539bd9a7947ea66922732",
-    "publishedAt": "2026-03-02T07:40:49.000Z",
-    "createdAt": "2026-03-02T16:57:01.605Z",
-    "updatedAt": "2026-03-02T16:57:01.605Z"
+    "createdAt": "2026-03-02T17:52:18.766Z",
+    "updatedAt": "2026-03-02T17:52:18.766Z"
   }
 ]
