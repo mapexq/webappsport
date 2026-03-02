@@ -1,5 +1,61 @@
 [
   {
+    "id": "04569bfc60704ff3",
+    "title": "Навка заявила, что была шокирована решением Валиевой сменить тренера",
+    "sport": "Другое",
+    "category": "Фигурное катание",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/2/96/347724681511962.png",
+    "teaser": "Навка заявила, что была шокирована решением Валиевой сменить тренера",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69a5b42d9a79471c4ec35622",
+    "publishedAt": "2026-03-02T16:35:18.000Z",
+    "createdAt": "2026-03-02T16:56:50.137Z",
+    "updatedAt": "2026-03-02T16:56:50.137Z"
+  },
+  {
+    "id": "febec2859e38c8c3",
+    "title": "Евролига перенесла два матча из-за ситуации на Ближнем Востоке",
+    "sport": "Баскетбол",
+    "category": "Баскетбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/7/62/347724674748627.jpeg",
+    "teaser": "Евролига перенесла два матча из-за ситуации на Ближнем Востоке",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69a5b0e29a79471b804e77ee",
+    "publishedAt": "2026-03-02T16:07:48.000Z",
+    "createdAt": "2026-03-02T16:56:52.415Z",
+    "updatedAt": "2026-03-02T16:56:52.415Z"
+  },
+  {
+    "id": "9318a58511c7ecfb",
+    "title": "Карседо заявил, что VAR в России слишком часто вмешивается в игру",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/6/38/347724632950386.jpeg",
+    "teaser": "Карседо заявил, что VAR в России слишком часто вмешивается в игру",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69a5a1259a7947de561a20f3",
+    "publishedAt": "2026-03-02T15:21:23.000Z",
+    "createdAt": "2026-03-02T16:56:51.343Z",
+    "updatedAt": "2026-03-02T16:56:51.343Z"
+  },
+  {
+    "id": "5f49a9efcca67ea3",
+    "title": "FIA назвала приоритет в вопросе о гонках «Формулы-1» на Ближнем Востоке",
+    "sport": "Другое",
+    "category": "Формула-1",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/8/04/347724623764048.jpeg",
+    "teaser": "FIA назвала приоритет в вопросе о гонках «Формулы-1» на Ближнем Востоке",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69a5947b9a79475fe00ce8e3",
+    "publishedAt": "2026-03-02T15:14:26.000Z",
+    "createdAt": "2026-03-02T16:56:54.493Z",
+    "updatedAt": "2026-03-02T16:56:54.493Z"
+  },
+  {
     "id": "6c5ec948b89670f7",
     "title": "Игрок в американскийпогиб в ДТП в 23 года",
     "sport": "Другое",
@@ -10,8 +66,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69a59f1a9a794785d584b2d0",
     "publishedAt": "2026-03-02T14:57:25.000Z",
-    "createdAt": "2026-03-02T15:48:39.675Z",
-    "updatedAt": "2026-03-02T15:48:39.675Z"
+    "createdAt": "2026-03-02T16:56:57.711Z",
+    "updatedAt": "2026-03-02T16:56:57.711Z"
   },
   {
     "id": "010637db56e61b7c",
@@ -24,8 +80,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69a5964f9a7947eb9dbfa155",
     "publishedAt": "2026-03-02T14:33:18.000Z",
-    "createdAt": "2026-03-02T15:48:38.582Z",
-    "updatedAt": "2026-03-02T15:48:38.582Z"
+    "createdAt": "2026-03-02T16:56:56.575Z",
+    "updatedAt": "2026-03-02T16:56:56.575Z"
   },
   {
     "id": "9e65ad1150e4f09e",
@@ -38,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69a599629a7947bb71daf191",
     "publishedAt": "2026-03-02T14:31:22.000Z",
-    "createdAt": "2026-03-02T15:48:37.530Z",
-    "updatedAt": "2026-03-02T15:48:37.530Z"
+    "createdAt": "2026-03-02T16:56:55.431Z",
+    "updatedAt": "2026-03-02T16:56:55.431Z"
   },
   {
     "id": "9c1e44a6ab433d1c",
@@ -52,22 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69a57d5d9a794779c44a5b86",
     "publishedAt": "2026-03-02T14:09:22.000Z",
-    "createdAt": "2026-03-02T15:48:40.753Z",
-    "updatedAt": "2026-03-02T15:48:40.753Z"
-  },
-  {
-    "id": "89ed3edc28aab1a2",
-    "title": "Канадский форвард минского «Динамо» получил травму в матче КХЛ",
-    "sport": "Хоккей",
-    "category": "Хоккей",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/8/55/347724590312558.jpeg",
-    "teaser": "Канадский форвард минского «Динамо» получил травму в матче КХЛ",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69a590279a7947bcf835ccfc",
-    "publishedAt": "2026-03-02T13:49:27.000Z",
-    "createdAt": "2026-03-02T15:48:44.949Z",
-    "updatedAt": "2026-03-02T15:48:44.949Z"
+    "createdAt": "2026-03-02T16:56:58.889Z",
+    "updatedAt": "2026-03-02T16:56:58.889Z"
   },
   {
     "id": "7c27cc1fef4929bc",
@@ -80,50 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69a58a4e9a7947490da580a8",
     "publishedAt": "2026-03-02T13:48:23.000Z",
-    "createdAt": "2026-03-02T15:48:41.811Z",
-    "updatedAt": "2026-03-02T15:48:41.811Z"
-  },
-  {
-    "id": "9c309206a6bf679d",
-    "title": "Судьи РПЛ впервые использовали VAR во всех восьми матчах тура",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/1/93/347724566896931.jpeg",
-    "teaser": "Судьи РПЛ впервые использовали VAR во всех восьми матчах тура",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69a5862d9a79475a8b2aa502",
-    "publishedAt": "2026-03-02T13:19:26.000Z",
-    "createdAt": "2026-03-02T15:48:43.906Z",
-    "updatedAt": "2026-03-02T15:48:43.906Z"
-  },
-  {
-    "id": "b3cf8bc58ac61244",
-    "title": "Двукратная чемпионка Олимпиады Бриньоне досрочно завершила сезон",
-    "sport": "Другое",
-    "category": "Другие",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/6/59/347724557589596.jpeg",
-    "teaser": "Двукратная чемпионка Олимпиады Бриньоне досрочно завершила сезон",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69a584f79a7947ca42135069",
-    "publishedAt": "2026-03-02T12:55:23.000Z",
-    "createdAt": "2026-03-02T15:48:45.999Z",
-    "updatedAt": "2026-03-02T15:48:45.999Z"
-  },
-  {
-    "id": "c6de3db1365461a0",
-    "title": "Marca узнала, как теннисисты Медведев и Рублев будут выбираться из ОАЭ",
-    "sport": "Теннис",
-    "category": "Теннис",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/1/07/347724487783071.jpeg",
-    "teaser": "Marca узнала, как теннисисты Медведев и Рублев будут выбираться из ОАЭ",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69a56bc79a7947114ebc158b",
-    "publishedAt": "2026-03-02T11:28:05.000Z",
-    "createdAt": "2026-03-02T15:48:47.838Z",
-    "updatedAt": "2026-03-02T15:48:47.838Z"
+    "createdAt": "2026-03-02T16:57:00.388Z",
+    "updatedAt": "2026-03-02T16:57:00.388Z"
   },
   {
     "id": "7bcce5c84ef4a251",
@@ -136,7 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69a539bd9a7947ea66922732",
     "publishedAt": "2026-03-02T07:40:49.000Z",
-    "createdAt": "2026-03-02T15:48:42.854Z",
-    "updatedAt": "2026-03-02T15:48:42.854Z"
+    "createdAt": "2026-03-02T16:57:01.605Z",
+    "updatedAt": "2026-03-02T16:57:01.605Z"
   }
 ]
