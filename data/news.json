@@ -1,5 +1,89 @@
 [
   {
+    "id": "010637db56e61b7c",
+    "title": "IPC заявил о проблемах у некоторых делегаций с прибытием на Паралимпиаду",
+    "sport": "Другое",
+    "category": "Другие",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/3/91/347724604613913.jpeg",
+    "teaser": "IPC заявил о проблемах у некоторых делегаций с прибытием на Паралимпиаду",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69a5964f9a7947eb9dbfa155",
+    "publishedAt": "2026-03-02T14:33:18.000Z",
+    "createdAt": "2026-03-02T14:50:02.443Z",
+    "updatedAt": "2026-03-02T14:50:02.443Z"
+  },
+  {
+    "id": "9e65ad1150e4f09e",
+    "title": "«Спартак» впервые за 8 лет победил в дебютном матче нового тренера в РПЛ",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/2/80/347724604343802.png",
+    "teaser": "«Спартак» впервые за 8 лет победил в дебютном матче нового тренера в РПЛ",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69a599629a7947bb71daf191",
+    "publishedAt": "2026-03-02T14:31:22.000Z",
+    "createdAt": "2026-03-02T14:50:01.422Z",
+    "updatedAt": "2026-03-02T14:50:01.422Z"
+  },
+  {
+    "id": "9c1e44a6ab433d1c",
+    "title": "«Спартак» впервые победил в гостях «Сочи» в перенесенном из-за БПЛА матче",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/0/66/347724581022660.jpeg",
+    "teaser": "«Спартак» впервые победил в гостях «Сочи» в перенесенном из-за БПЛА матче",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69a57d5d9a794779c44a5b86",
+    "publishedAt": "2026-03-02T14:09:22.000Z",
+    "createdAt": "2026-03-02T14:50:03.516Z",
+    "updatedAt": "2026-03-02T14:50:03.516Z"
+  },
+  {
+    "id": "89ed3edc28aab1a2",
+    "title": "Канадский форвард минского «Динамо» получил травму в матче КХЛ",
+    "sport": "Хоккей",
+    "category": "Хоккей",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/8/55/347724590312558.jpeg",
+    "teaser": "Канадский форвард минского «Динамо» получил травму в матче КХЛ",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69a590279a7947bcf835ccfc",
+    "publishedAt": "2026-03-02T13:49:27.000Z",
+    "createdAt": "2026-03-02T14:50:08.027Z",
+    "updatedAt": "2026-03-02T14:50:08.027Z"
+  },
+  {
+    "id": "7c27cc1fef4929bc",
+    "title": "Попавшаяся на допинге биатлонистка выступит на этапе КМ в Финляндии",
+    "sport": "Другое",
+    "category": "Биатлон",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/4/61/347724572158614.jpeg",
+    "teaser": "Попавшаяся на допинге биатлонистка выступит на этапе КМ в Финляндии",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69a58a4e9a7947490da580a8",
+    "publishedAt": "2026-03-02T13:48:23.000Z",
+    "createdAt": "2026-03-02T14:50:04.739Z",
+    "updatedAt": "2026-03-02T14:50:04.739Z"
+  },
+  {
+    "id": "9c309206a6bf679d",
+    "title": "Судьи РПЛ впервые использовали VAR во всех восьми матчах тура",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/1/93/347724566896931.jpeg",
+    "teaser": "Судьи РПЛ впервые использовали VAR во всех восьми матчах тура",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69a5862d9a79475a8b2aa502",
+    "publishedAt": "2026-03-02T13:19:26.000Z",
+    "createdAt": "2026-03-02T14:50:05.808Z",
+    "updatedAt": "2026-03-02T14:50:05.808Z"
+  },
+  {
     "id": "b3cf8bc58ac61244",
     "title": "Двукратная чемпионка Олимпиады Бриньоне досрочно завершила сезон",
     "sport": "Другое",
@@ -10,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69a584f79a7947ca42135069",
     "publishedAt": "2026-03-02T12:55:23.000Z",
-    "createdAt": "2026-03-02T13:12:09.071Z",
-    "updatedAt": "2026-03-02T13:12:09.071Z"
+    "createdAt": "2026-03-02T14:50:09.102Z",
+    "updatedAt": "2026-03-02T14:50:09.102Z"
   },
   {
     "id": "b15790ccc718bed9",
@@ -24,22 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69a579469a7947457a762ba5",
     "publishedAt": "2026-03-02T12:11:40.000Z",
-    "createdAt": "2026-03-02T13:12:10.215Z",
-    "updatedAt": "2026-03-02T13:12:10.215Z"
-  },
-  {
-    "id": "7c28c247eaed8cd7",
-    "title": "Плющенко признался, что не планировал становиться тренером",
-    "sport": "Другое",
-    "category": "Фигурное катание",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/9/28/347724504468289.jpeg",
-    "teaser": "Плющенко признался, что не планировал становиться тренером",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69a571f09a794737c26997e0",
-    "publishedAt": "2026-03-02T11:35:48.000Z",
-    "createdAt": "2026-03-02T13:12:15.125Z",
-    "updatedAt": "2026-03-02T13:12:15.125Z"
+    "createdAt": "2026-03-02T14:50:12.162Z",
+    "updatedAt": "2026-03-02T14:50:12.162Z"
   },
   {
     "id": "c6de3db1365461a0",
@@ -52,64 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69a56bc79a7947114ebc158b",
     "publishedAt": "2026-03-02T11:28:05.000Z",
-    "createdAt": "2026-03-02T13:12:12.304Z",
-    "updatedAt": "2026-03-02T13:12:12.304Z"
-  },
-  {
-    "id": "b0a477b43564b1f2",
-    "title": "В Израиле заявили, что не боятся отстранения своих футбольных команд",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/0/91/347724481458910.jpeg",
-    "teaser": "В Израиле заявили, что не боятся отстранения своих футбольных команд",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69a566a99a7947b69074e93c",
-    "publishedAt": "2026-03-02T11:19:49.000Z",
-    "createdAt": "2026-03-02T13:12:13.978Z",
-    "updatedAt": "2026-03-02T13:12:13.978Z"
-  },
-  {
-    "id": "e8a668ff39dbec40",
-    "title": "Глава ФИФА предложил удалять футболистов, прикрывающих рты во время ссор",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/3/06/347724433596063.png",
-    "teaser": "Глава ФИФА предложил удалять футболистов, прикрывающих рты во время ссор",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69a556789a79474703d38ced",
-    "publishedAt": "2026-03-02T09:58:20.000Z",
-    "createdAt": "2026-03-02T13:12:16.308Z",
-    "updatedAt": "2026-03-02T13:12:16.308Z"
-  },
-  {
-    "id": "8fc1b2cd6ead89f3",
-    "title": "Автора гола в ворота «Металлурга» оштрафовали за симуляцию",
-    "sport": "Хоккей",
-    "category": "Хоккей",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/3/49/347724431290493.jpeg",
-    "teaser": "Автора гола в ворота «Металлурга» оштрафовали за симуляцию",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69a554149a7947b72362c490",
-    "publishedAt": "2026-03-02T09:39:31.000Z",
-    "createdAt": "2026-03-02T13:12:17.488Z",
-    "updatedAt": "2026-03-02T13:12:17.488Z"
-  },
-  {
-    "id": "260650051eb21a3f",
-    "title": "Бывший игрок НБА заявил, что для него честь выступать за «Зенит»",
-    "sport": "Баскетбол",
-    "category": "Баскетбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/4/40/347724409040404.jpeg",
-    "teaser": "Бывший игрок НБА заявил, что для него честь выступать за «Зенит»",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69a54bd59a79478399805c9a",
-    "publishedAt": "2026-03-02T08:50:29.000Z",
-    "createdAt": "2026-03-02T13:12:19.733Z",
-    "updatedAt": "2026-03-02T13:12:19.733Z"
+    "createdAt": "2026-03-02T14:50:11.009Z",
+    "updatedAt": "2026-03-02T14:50:11.009Z"
   },
   {
     "id": "7bcce5c84ef4a251",
@@ -122,21 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69a539bd9a7947ea66922732",
     "publishedAt": "2026-03-02T07:40:49.000Z",
-    "createdAt": "2026-03-02T13:12:07.816Z",
-    "updatedAt": "2026-03-02T13:12:07.816Z"
-  },
-  {
-    "id": "185e5f700b5027f5",
-    "title": "Капризов повторил рекорд «Миннесоты» по голам в чемпионатах НХЛ",
-    "sport": "Хоккей",
-    "category": "Хоккей",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/5/41/347724345136415.jpeg",
-    "teaser": "Капризов повторил рекорд «Миннесоты» по голам в чемпионатах НХЛ",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69a5325e9a7947986eab18d9",
-    "publishedAt": "2026-03-02T07:16:02.000Z",
-    "createdAt": "2026-03-02T13:12:18.660Z",
-    "updatedAt": "2026-03-02T13:12:18.660Z"
+    "createdAt": "2026-03-02T14:50:06.919Z",
+    "updatedAt": "2026-03-02T14:50:06.919Z"
   }
 ]
