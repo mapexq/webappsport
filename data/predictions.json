@@ -1,6 +1,6 @@
 [
   {
-    "id": 1772427159092,
+    "id": 1772431008258,
     "eventName": "СКА — Барыс",
     "discipline": "Хоккей",
     "tournament": "Чемпионат",
@@ -16,39 +16,7 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1772427159093,
-    "eventName": "Удинезе — Фиорентина",
-    "discipline": "Футбол",
-    "tournament": "Чемпионат",
-    "expert": {
-      "name": "Виталий Осипов",
-      "avatar": "https://bookmaker-ratings.ru/static/images/badges/is-kapper.svg?v=30092024",
-      "status": "expert",
-      "winRate": 84
-    },
-    "prediction": "Тотал больше (2.5)",
-    "odds": 2.12,
-    "comment": "Неудачные последние игры Удинезе.Фиорентина пытается выходить из опасной зоны.",
-    "source": "Sports Analytics Pro"
-  },
-  {
-    "id": 1772427159094,
-    "eventName": "Реал Мадрид — Хетафе",
-    "discipline": "Футбол",
-    "tournament": "Чемпионат",
-    "expert": {
-      "name": "Сашка Васькин",
-      "avatar": "https://bookmaker-ratings.ru/static/images/badges/is-kapper.svg?v=30092024",
-      "status": "expert",
-      "winRate": 73
-    },
-    "prediction": "Ф1(-1)",
-    "odds": 1.52,
-    "comment": "Дома должны побеждать на классе.Думаю сюрприза не будет.",
-    "source": "Sports Analytics Pro"
-  },
-  {
-    "id": 1772427159095,
+    "id": 1772431008259,
     "eventName": "Северсталь — Локомотив",
     "discipline": "Хоккей",
     "tournament": "Чемпионат",
@@ -64,7 +32,7 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1772427159096,
+    "id": 1772431008260,
     "eventName": "СКА — Барыс",
     "discipline": "Хоккей",
     "tournament": "Чемпионат",
@@ -80,7 +48,7 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1772427159097,
+    "id": 1772431008261,
     "eventName": "Спартак — Авангард",
     "discipline": "Хоккей",
     "tournament": "Чемпионат",
@@ -96,7 +64,7 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1772427159098,
+    "id": 1772431008262,
     "eventName": "ЦСКА — Автомобилист",
     "discipline": "Хоккей",
     "tournament": "Чемпионат",
@@ -112,7 +80,7 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1772427159099,
+    "id": 1772431008263,
     "eventName": "Пиза — Болонья",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -128,7 +96,7 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1772427159100,
+    "id": 1772431008264,
     "eventName": "Удинезе — Фиорентина",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -144,19 +112,51 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1772427159101,
-    "eventName": "Реал Мадрид — Хетафе",
+    "id": 1772431008265,
+    "eventName": "ЦСКА — Автомобилист",
+    "discipline": "Хоккей",
+    "tournament": "Чемпионат",
+    "expert": {
+      "name": "Алекс Зы",
+      "avatar": "https://bookmaker-ratings.ru/static/images/badges/is-kapper.svg?v=30092024",
+      "status": "expert",
+      "winRate": 75
+    },
+    "prediction": "Тотал меньше (5)",
+    "odds": 1.57,
+    "comment": "Меньше ЦСКА и Автомобилиста в лиге пропускает только Локомотив. Гамзин и Галкин 1-е и 4-е место в лиге по коэффициенту надежности. Попробую опять взять низ ЦСКА. То что было в прошлом матче с Драконами, какое-то недоразумение, пропустить в первом периоде 4, это сенсация для всех. Такого никто не ожидал. Здесь будут сделаны выводы. Хоть и статистика личных встреч показывает нам верховые матчи, сегодня я заиграю низ.",
+    "source": "Sports Analytics Pro"
+  },
+  {
+    "id": 1772431008266,
+    "eventName": "Родина — Шинник",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
     "expert": {
-      "name": "Реал Мадрид",
-      "avatar": "https://wp1.bookmaker-ratings.ru/bookmaker-ratings.ru/wp-content/uploads/2025/08/0AA74156-4A83-406D-9707-39E8B3594035-68b4772904622.jpg?ssl=1&w=60",
+      "name": "Илья Апекишев",
+      "avatar": "https://bookmaker-ratings.ru/static/images/badges/is-kapper.svg?v=30092024",
       "status": "expert",
-      "winRate": 68
+      "winRate": 89
     },
-    "prediction": "Фора 1 (-1)",
-    "odds": 1.49,
-    "comment": "Реал должен победить и тут без вариантов. также нравится ставка обз-нет",
+    "prediction": "Тотал больше (2.5)",
+    "odds": 2.43,
+    "comment": "Продолжаем верить в голы. Пока в этом первом туре после паузы , был только один матч на >2, 5.",
+    "source": "Sports Analytics Pro"
+  },
+  {
+    "id": 1772431008267,
+    "eventName": "Спартак Москва — Авангард",
+    "discipline": "Хоккей",
+    "tournament": "Чемпионат",
+    "expert": {
+      "name": "Алекс Зы",
+      "avatar": "https://bookmaker-ratings.ru/static/images/badges/is-kapper.svg?v=30092024",
+      "status": "expert",
+      "winRate": 75
+    },
+    "prediction": "Тотал больше (5.5)",
+    "odds": 1.72,
+    "comment": "Статистика говорит нам о верховом матче. Лучше пропустить это событие, но я рискну и возьму ТБ",
     "source": "Sports Analytics Pro"
   }
 ]
