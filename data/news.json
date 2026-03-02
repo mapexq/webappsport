@@ -1,5 +1,75 @@
 [
   {
+    "id": "260650051eb21a3f",
+    "title": "Бывший игрок НБА заявил, что для него честь выступать за «Зенит»",
+    "sport": "Баскетбол",
+    "category": "Баскетбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/4/40/347724409040404.jpeg",
+    "teaser": "Бывший игрок НБА заявил, что для него честь выступать за «Зенит»",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69a54bd59a79478399805c9a",
+    "publishedAt": "2026-03-02T08:50:29.000Z",
+    "createdAt": "2026-03-02T09:57:34.732Z",
+    "updatedAt": "2026-03-02T09:57:34.732Z"
+  },
+  {
+    "id": "23b5ec5a19de3f30",
+    "title": "Карякина исключили из рейтинга FIDE спустя два дня после возвращения",
+    "sport": "Другое",
+    "category": "Другие",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/9/47/347724375853479.jpeg",
+    "teaser": "Карякина исключили из рейтинга FIDE спустя два дня после возвращения",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69a53dad9a794704688fed04",
+    "publishedAt": "2026-03-02T08:10:47.000Z",
+    "createdAt": "2026-03-02T09:57:36.841Z",
+    "updatedAt": "2026-03-02T09:57:36.841Z"
+  },
+  {
+    "id": "7bcce5c84ef4a251",
+    "title": "Коростелев выступит на молодежном ЧМ по лыжным гонкам в Норвегии",
+    "sport": "Другое",
+    "category": "Другие",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/8/84/347724365706848.jpeg",
+    "teaser": "Коростелев выступит на молодежном ЧМ по лыжным гонкам в Норвегии",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69a539bd9a7947ea66922732",
+    "publishedAt": "2026-03-02T07:40:49.000Z",
+    "createdAt": "2026-03-02T09:57:33.794Z",
+    "updatedAt": "2026-03-02T09:57:33.794Z"
+  },
+  {
+    "id": "185e5f700b5027f5",
+    "title": "Капризов повторил рекорд «Миннесоты» по голам в чемпионатах НХЛ",
+    "sport": "Хоккей",
+    "category": "Хоккей",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/5/41/347724345136415.jpeg",
+    "teaser": "Капризов повторил рекорд «Миннесоты» по голам в чемпионатах НХЛ",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69a5325e9a7947986eab18d9",
+    "publishedAt": "2026-03-02T07:16:02.000Z",
+    "createdAt": "2026-03-02T09:57:35.673Z",
+    "updatedAt": "2026-03-02T09:57:35.673Z"
+  },
+  {
+    "id": "bb3570dfeb0a91a5",
+    "title": "Единственному российскому медалисту Игр пообещали квартиру на Камчатке",
+    "sport": "Другое",
+    "category": "Другие",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/6/77/347724317314776.jpeg",
+    "teaser": "Единственному российскому медалисту Игр пообещали квартиру на Камчатке",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69a5290e9a794749c1913ffc",
+    "publishedAt": "2026-03-02T07:08:13.000Z",
+    "createdAt": "2026-03-02T09:57:38.899Z",
+    "updatedAt": "2026-03-02T09:57:38.899Z"
+  },
+  {
     "id": "2980ec26c06606ed",
     "title": "«Арсенал» победил «Челси», дважды забив после розыгрыша углового",
     "sport": "Футбол",
@@ -10,8 +80,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69a485e09a7947700e2123b3",
     "publishedAt": "2026-03-01T18:50:43.000Z",
-    "createdAt": "2026-03-02T08:53:34.160Z",
-    "updatedAt": "2026-03-02T08:53:34.160Z"
+    "createdAt": "2026-03-02T09:57:41.189Z",
+    "updatedAt": "2026-03-02T09:57:41.189Z"
   },
   {
     "id": "c86a857499ffb02e",
@@ -24,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69a47b039a7947e2bf59d01a",
     "publishedAt": "2026-03-01T18:23:42.000Z",
-    "createdAt": "2026-03-02T08:53:35.302Z",
-    "updatedAt": "2026-03-02T08:53:35.302Z"
+    "createdAt": "2026-03-02T09:57:42.380Z",
+    "updatedAt": "2026-03-02T09:57:42.380Z"
   },
   {
     "id": "8279c61fd88ed54c",
@@ -38,8 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69a4761a9a794786f4836717",
     "publishedAt": "2026-03-01T17:57:56.000Z",
-    "createdAt": "2026-03-02T08:53:33.011Z",
-    "updatedAt": "2026-03-02T08:53:33.011Z"
+    "createdAt": "2026-03-02T09:57:40.043Z",
+    "updatedAt": "2026-03-02T09:57:40.043Z"
   },
   {
     "id": "7918b8b32cea7771",
@@ -52,8 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69a476b99a794754d12e51df",
     "publishedAt": "2026-03-01T17:38:55.000Z",
-    "createdAt": "2026-03-02T08:53:36.467Z",
-    "updatedAt": "2026-03-02T08:53:36.467Z"
+    "createdAt": "2026-03-02T09:57:43.583Z",
+    "updatedAt": "2026-03-02T09:57:43.583Z"
   },
   {
     "id": "ad3106e1bc3170b8",
@@ -66,77 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69a46a6f9a79477aa2abd4c8",
     "publishedAt": "2026-03-01T16:58:20.000Z",
-    "createdAt": "2026-03-02T08:53:37.617Z",
-    "updatedAt": "2026-03-02T08:53:37.617Z"
-  },
-  {
-    "id": "ecb12f8da01b479c",
-    "title": "Лыжница Непряева стала пятой в скиатлоне на этапе Кубка мира в Швеции",
-    "sport": "Другое",
-    "category": "Другие",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/3/44/347723825206443.png",
-    "teaser": "Лыжница Непряева стала пятой в скиатлоне на этапе Кубка мира в Швеции",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69a467989a7947be166622ff",
-    "publishedAt": "2026-03-01T16:29:29.000Z",
-    "createdAt": "2026-03-02T08:53:39.946Z",
-    "updatedAt": "2026-03-02T08:53:39.946Z"
-  },
-  {
-    "id": "71b40b021943bd4c",
-    "title": "«Манчестер Юнайтед» поднялся в топ-3 чемпионата Англии",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/1/94/347723817649941.jpeg",
-    "teaser": "«Манчестер Юнайтед» поднялся в топ-3 чемпионата Англии",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69a463199a79476c37968387",
-    "publishedAt": "2026-03-01T16:19:19.000Z",
-    "createdAt": "2026-03-02T08:53:38.759Z",
-    "updatedAt": "2026-03-02T08:53:38.759Z"
-  },
-  {
-    "id": "309fbebb4e919010",
-    "title": "«Барселона» потеряла Левандовски из-за травмы",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/5/68/347723795588685.jpeg",
-    "teaser": "«Барселона» потеряла Левандовски из-за травмы",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69a45d789a79471a4162c27e",
-    "publishedAt": "2026-03-01T15:50:49.000Z",
-    "createdAt": "2026-03-02T08:53:43.414Z",
-    "updatedAt": "2026-03-02T08:53:43.414Z"
-  },
-  {
-    "id": "d0050c5488ec6dde",
-    "title": "«Сочи» крупно обыграл «Торпедо» в матче, прерывавшемся из-за угрозы БПЛА",
-    "sport": "Хоккей",
-    "category": "Хоккей",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/3/77/347723789392773.png",
-    "teaser": "«Сочи» крупно обыграл «Торпедо» в матче, прерывавшемся из-за угрозы БПЛА",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69a4590f9a79470a05f87627",
-    "publishedAt": "2026-03-01T15:32:19.000Z",
-    "createdAt": "2026-03-02T08:53:41.103Z",
-    "updatedAt": "2026-03-02T08:53:41.103Z"
-  },
-  {
-    "id": "b53bfa009f80037e",
-    "title": "Матч «Сочи» — «Спартак» перенесли на 2 марта из-за угрозы БПЛА",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/3/22/347723764514223.png",
-    "teaser": "Матч «Сочи» — «Спартак» перенесли на 2 марта из-за угрозы БПЛА",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69a44df79a794719f9fcff12",
-    "publishedAt": "2026-03-01T14:58:17.000Z",
-    "createdAt": "2026-03-02T08:53:42.255Z",
-    "updatedAt": "2026-03-02T08:53:42.255Z"
+    "createdAt": "2026-03-02T09:57:44.757Z",
+    "updatedAt": "2026-03-02T09:57:44.757Z"
   }
 ]
