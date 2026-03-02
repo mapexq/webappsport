@@ -1,5 +1,33 @@
 [
   {
+    "id": "c6de3db1365461a0",
+    "title": "Marca узнала, как теннисисты Медведев и Рублев будут выбираться из ОАЭ",
+    "sport": "Теннис",
+    "category": "Теннис",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/1/07/347724487783071.jpeg",
+    "teaser": "Marca узнала, как теннисисты Медведев и Рублев будут выбираться из ОАЭ",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69a56bc79a7947114ebc158b",
+    "publishedAt": "2026-03-02T11:28:05.000Z",
+    "createdAt": "2026-03-02T11:34:46.511Z",
+    "updatedAt": "2026-03-02T11:34:46.511Z"
+  },
+  {
+    "id": "b0a477b43564b1f2",
+    "title": "В Израиле заявили, что не боятся отстранения своих футбольных команд",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/0/91/347724481458910.jpeg",
+    "teaser": "В Израиле заявили, что не боятся отстранения своих футбольных команд",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69a566a99a7947b69074e93c",
+    "publishedAt": "2026-03-02T11:19:49.000Z",
+    "createdAt": "2026-03-02T11:34:47.593Z",
+    "updatedAt": "2026-03-02T11:34:47.593Z"
+  },
+  {
     "id": "ad7ae76995721140",
     "title": "Вратаря ЦСКА впервые в карьере признали лучшим игроком недели в КХЛ",
     "sport": "Хоккей",
@@ -10,8 +38,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69a558719a794700a325f8c4",
     "publishedAt": "2026-03-02T10:08:34.000Z",
-    "createdAt": "2026-03-02T10:54:31.074Z",
-    "updatedAt": "2026-03-02T10:54:31.074Z"
+    "createdAt": "2026-03-02T11:34:53.874Z",
+    "updatedAt": "2026-03-02T11:34:53.874Z"
   },
   {
     "id": "e8a668ff39dbec40",
@@ -24,8 +52,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69a556789a79474703d38ced",
     "publishedAt": "2026-03-02T09:58:20.000Z",
-    "createdAt": "2026-03-02T10:54:25.957Z",
-    "updatedAt": "2026-03-02T10:54:25.957Z"
+    "createdAt": "2026-03-02T11:34:48.566Z",
+    "updatedAt": "2026-03-02T11:34:48.566Z"
   },
   {
     "id": "8fc1b2cd6ead89f3",
@@ -38,8 +66,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69a554149a7947b72362c490",
     "publishedAt": "2026-03-02T09:39:31.000Z",
-    "createdAt": "2026-03-02T10:54:26.984Z",
-    "updatedAt": "2026-03-02T10:54:26.984Z"
+    "createdAt": "2026-03-02T11:34:49.590Z",
+    "updatedAt": "2026-03-02T11:34:49.590Z"
   },
   {
     "id": "260650051eb21a3f",
@@ -52,8 +80,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69a54bd59a79478399805c9a",
     "publishedAt": "2026-03-02T08:50:29.000Z",
-    "createdAt": "2026-03-02T10:54:30.099Z",
-    "updatedAt": "2026-03-02T10:54:30.099Z"
+    "createdAt": "2026-03-02T11:34:52.777Z",
+    "updatedAt": "2026-03-02T11:34:52.777Z"
   },
   {
     "id": "23b5ec5a19de3f30",
@@ -66,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69a53dad9a794704688fed04",
     "publishedAt": "2026-03-02T08:10:47.000Z",
-    "createdAt": "2026-03-02T10:54:33.578Z",
-    "updatedAt": "2026-03-02T10:54:33.578Z"
+    "createdAt": "2026-03-02T11:34:55.004Z",
+    "updatedAt": "2026-03-02T11:34:55.004Z"
   },
   {
     "id": "7bcce5c84ef4a251",
@@ -80,8 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69a539bd9a7947ea66922732",
     "publishedAt": "2026-03-02T07:40:49.000Z",
-    "createdAt": "2026-03-02T10:54:29.071Z",
-    "updatedAt": "2026-03-02T10:54:29.071Z"
+    "createdAt": "2026-03-02T11:34:51.672Z",
+    "updatedAt": "2026-03-02T11:34:51.672Z"
   },
   {
     "id": "185e5f700b5027f5",
@@ -94,8 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69a5325e9a7947986eab18d9",
     "publishedAt": "2026-03-02T07:16:02.000Z",
-    "createdAt": "2026-03-02T10:54:28.028Z",
-    "updatedAt": "2026-03-02T10:54:28.028Z"
+    "createdAt": "2026-03-02T11:34:50.608Z",
+    "updatedAt": "2026-03-02T11:34:50.608Z"
   },
   {
     "id": "bb3570dfeb0a91a5",
@@ -108,35 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69a5290e9a794749c1913ffc",
     "publishedAt": "2026-03-02T07:08:13.000Z",
-    "createdAt": "2026-03-02T10:54:35.426Z",
-    "updatedAt": "2026-03-02T10:54:35.426Z"
-  },
-  {
-    "id": "2980ec26c06606ed",
-    "title": "«Арсенал» победил «Челси», дважды забив после розыгрыша углового",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/9/18/347723902718189.jpeg",
-    "teaser": "«Арсенал» победил «Челси», дважды забив после розыгрыша углового",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69a485e09a7947700e2123b3",
-    "publishedAt": "2026-03-01T18:50:43.000Z",
-    "createdAt": "2026-03-02T10:54:37.558Z",
-    "updatedAt": "2026-03-02T10:54:37.558Z"
-  },
-  {
-    "id": "8279c61fd88ed54c",
-    "title": "ЦСКА проиграл «Ахмату»",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/5/56/347723872821565.png",
-    "teaser": "ЦСКА проиграл «Ахмату»",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69a4761a9a794786f4836717",
-    "publishedAt": "2026-03-01T17:57:56.000Z",
-    "createdAt": "2026-03-02T10:54:36.463Z",
-    "updatedAt": "2026-03-02T10:54:36.463Z"
+    "createdAt": "2026-03-02T11:34:56.959Z",
+    "updatedAt": "2026-03-02T11:34:56.959Z"
   }
 ]
