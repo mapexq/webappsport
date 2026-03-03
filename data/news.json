@@ -1,5 +1,75 @@
 [
   {
+    "id": "340f6a3bdcac5fb2",
+    "title": "Дегтярев сообщил о переименовании Всероссийской Спартакиады сильнейших",
+    "sport": "Другое",
+    "category": "Другие",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/2/71/347725412467712.jpeg",
+    "teaser": "Дегтярев сообщил о переименовании Всероссийской Спартакиады сильнейших",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69a6d4d69a79477ad3e77a35",
+    "publishedAt": "2026-03-03T12:47:21.000Z",
+    "createdAt": "2026-03-03T13:10:44.917Z",
+    "updatedAt": "2026-03-03T13:10:44.917Z"
+  },
+  {
+    "id": "7bf6b8c12dba8d2f",
+    "title": "Костылева пропустит финал Гран-при России среди юниоров из-за травмы",
+    "sport": "Другое",
+    "category": "Фигурное катание",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/0/12/347725407870120.jpeg",
+    "teaser": "Костылева пропустит финал Гран-при России среди юниоров из-за травмы",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69a6d2e59a7947a4f1a3039c",
+    "publishedAt": "2026-03-03T12:43:59.000Z",
+    "createdAt": "2026-03-03T13:10:47.291Z",
+    "updatedAt": "2026-03-03T13:10:47.291Z"
+  },
+  {
+    "id": "c4dfb0390ab4cca5",
+    "title": "«Спартак» сообщил, когда Жамнов вернется на тренерскую скамейку",
+    "sport": "Хоккей",
+    "category": "Хоккей",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/5/34/347725395572345.jpeg",
+    "teaser": "«Спартак» сообщил, когда Жамнов вернется на тренерскую скамейку",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69a6cdc69a794760c907eeac",
+    "publishedAt": "2026-03-03T12:28:28.000Z",
+    "createdAt": "2026-03-03T13:10:46.207Z",
+    "updatedAt": "2026-03-03T13:10:46.207Z"
+  },
+  {
+    "id": "c04c5e2989157208",
+    "title": "Деловой завтрак РБК для лидеров индустрии ставок пройдет 16 марта",
+    "sport": "Другое",
+    "category": "Другие",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/2/19/347725372482192.jpeg",
+    "teaser": "Деловой завтрак РБК для лидеров индустрии ставок пройдет 16 марта",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69a6c5859a79472080d109d9",
+    "publishedAt": "2026-03-03T12:06:53.000Z",
+    "createdAt": "2026-03-03T13:10:53.070Z",
+    "updatedAt": "2026-03-03T13:10:53.070Z"
+  },
+  {
+    "id": "b7fe406af9083a65",
+    "title": "Хоккеисты устроили драку на рукопожатии после матча КХЛ",
+    "sport": "Хоккей",
+    "category": "Хоккей",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/4/37/347725378157374.jpeg",
+    "teaser": "Хоккеисты устроили драку на рукопожатии после матча КХЛ",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69a6c7ac9a794783858264a4",
+    "publishedAt": "2026-03-03T11:46:42.000Z",
+    "createdAt": "2026-03-03T13:10:49.611Z",
+    "updatedAt": "2026-03-03T13:10:49.611Z"
+  },
+  {
     "id": "27617047dd9915ab",
     "title": "КХЛ перенесла матч «Сочи» с «Локомотивом» в Ярославль",
     "sport": "Хоккей",
@@ -10,8 +80,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69a6bfbb9a794788ce610c84",
     "publishedAt": "2026-03-03T11:11:13.000Z",
-    "createdAt": "2026-03-03T11:37:59.618Z",
-    "updatedAt": "2026-03-03T11:37:59.618Z"
+    "createdAt": "2026-03-03T13:10:50.767Z",
+    "updatedAt": "2026-03-03T13:10:50.767Z"
   },
   {
     "id": "0522564eaf85cea1",
@@ -24,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69a6b8799a7947b616ae035e",
     "publishedAt": "2026-03-03T10:45:54.000Z",
-    "createdAt": "2026-03-03T11:38:00.604Z",
-    "updatedAt": "2026-03-03T11:38:00.604Z"
+    "createdAt": "2026-03-03T13:10:51.949Z",
+    "updatedAt": "2026-03-03T13:10:51.949Z"
   },
   {
     "id": "60a442128763d5bc",
@@ -38,8 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69a6b1e69a7947570f496ad1",
     "publishedAt": "2026-03-03T10:17:54.000Z",
-    "createdAt": "2026-03-03T11:38:03.676Z",
-    "updatedAt": "2026-03-03T11:38:03.676Z"
+    "createdAt": "2026-03-03T13:10:55.512Z",
+    "updatedAt": "2026-03-03T13:10:55.512Z"
   },
   {
     "id": "bc4dcc98d3be6acf",
@@ -52,78 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69a6a8579a7947319a3fb056",
     "publishedAt": "2026-03-03T10:17:49.000Z",
-    "createdAt": "2026-03-03T11:38:01.575Z",
-    "updatedAt": "2026-03-03T11:38:01.575Z"
-  },
-  {
-    "id": "5ccce44618f697ab",
-    "title": "В Бразилии тренера «Фламенго» уволили после победы со счетом 8:0",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/1/06/347725282679061.jpeg",
-    "teaser": "В Бразилии тренера «Фламенго» уволили после победы со счетом 8:0",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69a6a2799a7947bef53e11b7",
-    "publishedAt": "2026-03-03T09:09:39.000Z",
-    "createdAt": "2026-03-03T11:38:04.785Z",
-    "updatedAt": "2026-03-03T11:38:04.785Z"
-  },
-  {
-    "id": "02f9ac4225ae9125",
-    "title": "Большунов сообщил о предложениях сменить гражданство ради Олимпиады",
-    "sport": "Другое",
-    "category": "Другие",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/2/58/347725259250582.jpeg",
-    "teaser": "Большунов сообщил о предложениях сменить гражданство ради Олимпиады",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69a699239a794701b24ffffd",
-    "publishedAt": "2026-03-03T08:42:35.000Z",
-    "createdAt": "2026-03-03T11:38:05.754Z",
-    "updatedAt": "2026-03-03T11:38:05.754Z"
-  },
-  {
-    "id": "541e79870b7b2066",
-    "title": "Застрявшие в Дубае Медведев и Рублев пропустят выставочный турнир в США",
-    "sport": "Теннис",
-    "category": "Теннис",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/1/32/347725244849321.jpeg",
-    "teaser": "Застрявшие в Дубае Медведев и Рублев пропустят выставочный турнир в США",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69a693709a7947bc16d8b88e",
-    "publishedAt": "2026-03-03T08:14:44.000Z",
-    "createdAt": "2026-03-03T11:38:06.857Z",
-    "updatedAt": "2026-03-03T11:38:06.857Z"
-  },
-  {
-    "id": "542ed4ace9de6adc",
-    "title": "Россиянина признали первой звездой дня в НХЛ после дубля и голевого паса",
-    "sport": "Хоккей",
-    "category": "Хоккей",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/4/54/347725232917544.jpeg",
-    "teaser": "Россиянина признали первой звездой дня в НХЛ после дубля и голевого паса",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69a68e9c9a7947bbdc8760d5",
-    "publishedAt": "2026-03-03T07:47:12.000Z",
-    "createdAt": "2026-03-03T11:38:07.902Z",
-    "updatedAt": "2026-03-03T11:38:07.902Z"
-  },
-  {
-    "id": "016277f2bf40aab0",
-    "title": "Глава РУСАДА не исключила аналога «мельдониевого» скандала с россиянами",
-    "sport": "Другое",
-    "category": "Другие",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/2/69/347725262031692.jpeg",
-    "teaser": "Глава РУСАДА не исключила аналога «мельдониевого» скандала с россиянами",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69a6803c9a7947b65c2fab21",
-    "publishedAt": "2026-03-03T07:41:18.000Z",
-    "createdAt": "2026-03-03T11:38:08.905Z",
-    "updatedAt": "2026-03-03T11:38:08.905Z"
+    "createdAt": "2026-03-03T13:10:54.295Z",
+    "updatedAt": "2026-03-03T13:10:54.295Z"
   },
   {
     "id": "194288a936037910",
@@ -136,7 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/698aec0f9a794717bd56596f",
     "publishedAt": "2026-03-03T05:03:55.000Z",
-    "createdAt": "2026-03-03T11:38:02.775Z",
-    "updatedAt": "2026-03-03T11:38:02.775Z"
+    "createdAt": "2026-03-03T13:10:48.455Z",
+    "updatedAt": "2026-03-03T13:10:48.455Z"
   }
 ]
