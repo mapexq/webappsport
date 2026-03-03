@@ -1,5 +1,61 @@
 [
   {
+    "id": "eaf1a2f50d8e1443",
+    "title": "Российский чемпион мира рассказал о работе риелтором",
+    "sport": "Другое",
+    "category": "Другие",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/6/42/347725510045426.jpeg",
+    "teaser": "Российский чемпион мира рассказал о работе риелтором",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69a6f6e09a7947a717175c5a",
+    "publishedAt": "2026-03-03T15:29:45.000Z",
+    "createdAt": "2026-03-03T15:52:32.713Z",
+    "updatedAt": "2026-03-03T15:52:32.713Z"
+  },
+  {
+    "id": "e50c3e86ad977052",
+    "title": "Тренер норвежцев заявил, что Клебо взял бы все медали ОИ и с Большуновым",
+    "sport": "Другое",
+    "category": "Другие",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/7/81/347725481851817.jpeg",
+    "teaser": "Тренер норвежцев заявил, что Клебо взял бы все медали ОИ и с Большуновым",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69a6ee769a7947515c72867b",
+    "publishedAt": "2026-03-03T14:51:05.000Z",
+    "createdAt": "2026-03-03T15:52:34.685Z",
+    "updatedAt": "2026-03-03T15:52:34.685Z"
+  },
+  {
+    "id": "c2805a96428e4e2b",
+    "title": "ЦСКА объявил о продлении контракта с 18-летним защитником Даниловым",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/2/01/347725457036012.jpeg",
+    "teaser": "ЦСКА объявил о продлении контракта с 18-летним защитником Даниловым",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69a6e6219a7947c3459c7d5b",
+    "publishedAt": "2026-03-03T14:49:12.000Z",
+    "createdAt": "2026-03-03T15:52:37.709Z",
+    "updatedAt": "2026-03-03T15:52:37.709Z"
+  },
+  {
+    "id": "228593effb2bd90c",
+    "title": "МОК ответил на вопрос о наказании США за нарушение олимпийского перемирия",
+    "sport": "Другое",
+    "category": "Другие",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/2/51/347725486764512.jpeg",
+    "teaser": "МОК ответил на вопрос о наказании США за нарушение олимпийского перемирия",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69a6eeab9a7947515c728680",
+    "publishedAt": "2026-03-03T14:35:49.000Z",
+    "createdAt": "2026-03-03T15:52:33.733Z",
+    "updatedAt": "2026-03-03T15:52:33.733Z"
+  },
+  {
     "id": "4241884443c5a239",
     "title": "Женская сборная России по футболу разгромно проиграла Гане в ОАЭ",
     "sport": "Футбол",
@@ -10,8 +66,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69a6ead19a7947fea8eca767",
     "publishedAt": "2026-03-03T14:21:11.000Z",
-    "createdAt": "2026-03-03T14:51:31.130Z",
-    "updatedAt": "2026-03-03T14:51:31.130Z"
+    "createdAt": "2026-03-03T15:52:38.721Z",
+    "updatedAt": "2026-03-03T15:52:38.721Z"
   },
   {
     "id": "cd19cea5fceb4bce",
@@ -24,8 +80,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69a6e7e49a7947946129b154",
     "publishedAt": "2026-03-03T14:04:54.000Z",
-    "createdAt": "2026-03-03T14:51:32.224Z",
-    "updatedAt": "2026-03-03T14:51:32.224Z"
+    "createdAt": "2026-03-03T15:52:39.678Z",
+    "updatedAt": "2026-03-03T15:52:39.678Z"
   },
   {
     "id": "fbb7e93d9853f014",
@@ -38,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69a6de669a79472e102e469f",
     "publishedAt": "2026-03-03T13:42:30.000Z",
-    "createdAt": "2026-03-03T14:51:36.055Z",
-    "updatedAt": "2026-03-03T14:51:36.055Z"
+    "createdAt": "2026-03-03T15:52:41.850Z",
+    "updatedAt": "2026-03-03T15:52:41.850Z"
   },
   {
     "id": "b48f755ed10c23b2",
@@ -52,8 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69a6d89a9a7947435c9b5065",
     "publishedAt": "2026-03-03T13:25:44.000Z",
-    "createdAt": "2026-03-03T14:51:33.300Z",
-    "updatedAt": "2026-03-03T14:51:33.300Z"
+    "createdAt": "2026-03-03T15:52:40.764Z",
+    "updatedAt": "2026-03-03T15:52:40.764Z"
   },
   {
     "id": "340f6a3bdcac5fb2",
@@ -66,64 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69a6d4d69a79477ad3e77a35",
     "publishedAt": "2026-03-03T12:47:21.000Z",
-    "createdAt": "2026-03-03T14:51:37.119Z",
-    "updatedAt": "2026-03-03T14:51:37.119Z"
-  },
-  {
-    "id": "7bf6b8c12dba8d2f",
-    "title": "Костылева пропустит финал Гран-при России среди юниоров из-за травмы",
-    "sport": "Другое",
-    "category": "Фигурное катание",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/0/12/347725407870120.jpeg",
-    "teaser": "Костылева пропустит финал Гран-при России среди юниоров из-за травмы",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69a6d2e59a7947a4f1a3039c",
-    "publishedAt": "2026-03-03T12:43:59.000Z",
-    "createdAt": "2026-03-03T14:51:39.524Z",
-    "updatedAt": "2026-03-03T14:51:39.524Z"
-  },
-  {
-    "id": "c4dfb0390ab4cca5",
-    "title": "«Спартак» сообщил, когда Жамнов вернется на тренерскую скамейку",
-    "sport": "Хоккей",
-    "category": "Хоккей",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/5/34/347725395572345.jpeg",
-    "teaser": "«Спартак» сообщил, когда Жамнов вернется на тренерскую скамейку",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69a6cdc69a794760c907eeac",
-    "publishedAt": "2026-03-03T12:28:28.000Z",
-    "createdAt": "2026-03-03T14:51:38.402Z",
-    "updatedAt": "2026-03-03T14:51:38.402Z"
-  },
-  {
-    "id": "b7fe406af9083a65",
-    "title": "Хоккеисты устроили драку на рукопожатии после матча КХЛ",
-    "sport": "Хоккей",
-    "category": "Хоккей",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/4/37/347725378157374.jpeg",
-    "teaser": "Хоккеисты устроили драку на рукопожатии после матча КХЛ",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69a6c7ac9a794783858264a4",
-    "publishedAt": "2026-03-03T11:46:42.000Z",
-    "createdAt": "2026-03-03T14:51:40.615Z",
-    "updatedAt": "2026-03-03T14:51:40.616Z"
-  },
-  {
-    "id": "27617047dd9915ab",
-    "title": "КХЛ перенесла матч «Сочи» с «Локомотивом» в Ярославль",
-    "sport": "Хоккей",
-    "category": "Хоккей",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/6/67/347725358369676.jpeg",
-    "teaser": "КХЛ перенесла матч «Сочи» с «Локомотивом» в Ярославль",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69a6bfbb9a794788ce610c84",
-    "publishedAt": "2026-03-03T11:11:13.000Z",
-    "createdAt": "2026-03-03T14:51:41.663Z",
-    "updatedAt": "2026-03-03T14:51:41.663Z"
+    "createdAt": "2026-03-03T15:52:42.926Z",
+    "updatedAt": "2026-03-03T15:52:42.926Z"
   },
   {
     "id": "194288a936037910",
@@ -136,7 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/698aec0f9a794717bd56596f",
     "publishedAt": "2026-03-03T05:03:55.000Z",
-    "createdAt": "2026-03-03T14:51:34.551Z",
-    "updatedAt": "2026-03-03T14:51:34.551Z"
+    "createdAt": "2026-03-03T15:52:36.584Z",
+    "updatedAt": "2026-03-03T15:52:36.584Z"
   }
 ]
