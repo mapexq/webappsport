@@ -1,5 +1,47 @@
 [
   {
+    "id": "1d09eebee6f93a95",
+    "title": "Федерация футбола США выступила за участие сборной Ирана в ЧМ-2026",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/2/33/347725556365332.jpeg",
+    "teaser": "Федерация футбола США выступила за участие сборной Ирана в ЧМ-2026",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69a70d239a7947d6967c15bf",
+    "publishedAt": "2026-03-03T16:44:29.000Z",
+    "createdAt": "2026-03-03T16:57:01.754Z",
+    "updatedAt": "2026-03-03T16:57:01.754Z"
+  },
+  {
+    "id": "0b24c36f4e3669a0",
+    "title": "Роналду не покинул Саудовскую Аравию на фоне конфликта на Ближнем Востоке",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/8/47/347725528439478.jpeg",
+    "teaser": "Роналду не покинул Саудовскую Аравию на фоне конфликта на Ближнем Востоке",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69a7021d9a79471da89bd2a4",
+    "publishedAt": "2026-03-03T16:02:39.000Z",
+    "createdAt": "2026-03-03T16:57:02.753Z",
+    "updatedAt": "2026-03-03T16:57:02.753Z"
+  },
+  {
+    "id": "b2e6b1d6fc71515d",
+    "title": "Форвард «Реала» порвал «кресты» и пропустит ЧМ-2026",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/9/76/347725528194769.jpeg",
+    "teaser": "Форвард «Реала» порвал «кресты» и пропустит ЧМ-2026",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69a6fd759a794740be8e2ca6",
+    "publishedAt": "2026-03-03T15:55:31.000Z",
+    "createdAt": "2026-03-03T16:57:03.845Z",
+    "updatedAt": "2026-03-03T16:57:03.845Z"
+  },
+  {
     "id": "eaf1a2f50d8e1443",
     "title": "Российский чемпион мира рассказал о работе риелтором",
     "sport": "Другое",
@@ -10,8 +52,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69a6f6e09a7947a717175c5a",
     "publishedAt": "2026-03-03T15:29:45.000Z",
-    "createdAt": "2026-03-03T15:52:32.713Z",
-    "updatedAt": "2026-03-03T15:52:32.713Z"
+    "createdAt": "2026-03-03T16:57:06.232Z",
+    "updatedAt": "2026-03-03T16:57:06.232Z"
   },
   {
     "id": "e50c3e86ad977052",
@@ -24,8 +66,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69a6ee769a7947515c72867b",
     "publishedAt": "2026-03-03T14:51:05.000Z",
-    "createdAt": "2026-03-03T15:52:34.685Z",
-    "updatedAt": "2026-03-03T15:52:34.685Z"
+    "createdAt": "2026-03-03T16:57:08.304Z",
+    "updatedAt": "2026-03-03T16:57:08.305Z"
   },
   {
     "id": "c2805a96428e4e2b",
@@ -38,8 +80,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69a6e6219a7947c3459c7d5b",
     "publishedAt": "2026-03-03T14:49:12.000Z",
-    "createdAt": "2026-03-03T15:52:37.709Z",
-    "updatedAt": "2026-03-03T15:52:37.709Z"
+    "createdAt": "2026-03-03T16:57:09.360Z",
+    "updatedAt": "2026-03-03T16:57:09.360Z"
   },
   {
     "id": "228593effb2bd90c",
@@ -52,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69a6eeab9a7947515c728680",
     "publishedAt": "2026-03-03T14:35:49.000Z",
-    "createdAt": "2026-03-03T15:52:33.733Z",
-    "updatedAt": "2026-03-03T15:52:33.733Z"
+    "createdAt": "2026-03-03T16:57:07.255Z",
+    "updatedAt": "2026-03-03T16:57:07.255Z"
   },
   {
     "id": "4241884443c5a239",
@@ -66,8 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69a6ead19a7947fea8eca767",
     "publishedAt": "2026-03-03T14:21:11.000Z",
-    "createdAt": "2026-03-03T15:52:38.721Z",
-    "updatedAt": "2026-03-03T15:52:38.721Z"
+    "createdAt": "2026-03-03T16:57:10.447Z",
+    "updatedAt": "2026-03-03T16:57:10.447Z"
   },
   {
     "id": "cd19cea5fceb4bce",
@@ -80,50 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69a6e7e49a7947946129b154",
     "publishedAt": "2026-03-03T14:04:54.000Z",
-    "createdAt": "2026-03-03T15:52:39.678Z",
-    "updatedAt": "2026-03-03T15:52:39.678Z"
-  },
-  {
-    "id": "fbb7e93d9853f014",
-    "title": "Царукян проведет реванш с американцем после массовой драки на турнире RAF",
-    "sport": "Единоборства",
-    "category": "Единоборства",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/2/21/347725437998212.jpeg",
-    "teaser": "Царукян проведет реванш с американцем после массовой драки на турнире RAF",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69a6de669a79472e102e469f",
-    "publishedAt": "2026-03-03T13:42:30.000Z",
-    "createdAt": "2026-03-03T15:52:41.850Z",
-    "updatedAt": "2026-03-03T15:52:41.850Z"
-  },
-  {
-    "id": "b48f755ed10c23b2",
-    "title": "Актер из «Теда Лассо» сыграл за американский футбольный клуб",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/4/31/347725422219314.jpeg",
-    "teaser": "Актер из «Теда Лассо» сыграл за американский футбольный клуб",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69a6d89a9a7947435c9b5065",
-    "publishedAt": "2026-03-03T13:25:44.000Z",
-    "createdAt": "2026-03-03T15:52:40.764Z",
-    "updatedAt": "2026-03-03T15:52:40.764Z"
-  },
-  {
-    "id": "340f6a3bdcac5fb2",
-    "title": "Дегтярев сообщил о переименовании Всероссийской Спартакиады сильнейших",
-    "sport": "Другое",
-    "category": "Другие",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/2/71/347725412467712.jpeg",
-    "teaser": "Дегтярев сообщил о переименовании Всероссийской Спартакиады сильнейших",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69a6d4d69a79477ad3e77a35",
-    "publishedAt": "2026-03-03T12:47:21.000Z",
-    "createdAt": "2026-03-03T15:52:42.926Z",
-    "updatedAt": "2026-03-03T15:52:42.926Z"
+    "createdAt": "2026-03-03T16:57:11.569Z",
+    "updatedAt": "2026-03-03T16:57:11.569Z"
   },
   {
     "id": "194288a936037910",
@@ -136,7 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/698aec0f9a794717bd56596f",
     "publishedAt": "2026-03-03T05:03:55.000Z",
-    "createdAt": "2026-03-03T15:52:36.584Z",
-    "updatedAt": "2026-03-03T15:52:36.584Z"
+    "createdAt": "2026-03-03T16:57:05.113Z",
+    "updatedAt": "2026-03-03T16:57:05.113Z"
   }
 ]
