@@ -1,5 +1,61 @@
 [
   {
+    "id": "fce0ab4e9369d38a",
+    "title": "Гонку WEC в Катаре отложили из-за конфликта на Ближнем Востоке",
+    "sport": "Другое",
+    "category": "Другие",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/6/89/347725587459896.jpeg",
+    "teaser": "Гонку WEC в Катаре отложили из-за конфликта на Ближнем Востоке",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69a7169b9a7947bff4827788",
+    "publishedAt": "2026-03-03T17:44:33.000Z",
+    "createdAt": "2026-03-03T17:51:43.522Z",
+    "updatedAt": "2026-03-03T17:51:43.522Z"
+  },
+  {
+    "id": "d5b7f08d6581e4c8",
+    "title": "Дегтярев назвал заявление МОК сигналом к скорому снятию санкций с России",
+    "sport": "Другое",
+    "category": "Другие",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/7/44/347725583667447.jpeg",
+    "teaser": "Дегтярев назвал заявление МОК сигналом к скорому снятию санкций с России",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69a717a09a79475b52422a25",
+    "publishedAt": "2026-03-03T17:39:25.000Z",
+    "createdAt": "2026-03-03T17:51:41.405Z",
+    "updatedAt": "2026-03-03T17:51:41.405Z"
+  },
+  {
+    "id": "8d99070bfad2a358",
+    "title": "ФИФА представила официальный постер ЧМ-2026",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/5/36/347725580509365.jpeg",
+    "teaser": "ФИФА представила официальный постер ЧМ-2026",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69a716ba9a79476f7a8d47d1",
+    "publishedAt": "2026-03-03T17:29:02.000Z",
+    "createdAt": "2026-03-03T17:51:42.477Z",
+    "updatedAt": "2026-03-03T17:51:42.477Z"
+  },
+  {
+    "id": "2170940fc67d7ade",
+    "title": "Конор Макгрегор рассказал, когда планирует провести следующий бой в UFC",
+    "sport": "Единоборства",
+    "category": "Единоборства",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/9/78/347725575613789.jpeg",
+    "teaser": "Конор Макгрегор рассказал, когда планирует провести следующий бой в UFC",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69a711769a794723235f28fe",
+    "publishedAt": "2026-03-03T17:12:15.000Z",
+    "createdAt": "2026-03-03T17:51:45.901Z",
+    "updatedAt": "2026-03-03T17:51:45.901Z"
+  },
+  {
     "id": "1d09eebee6f93a95",
     "title": "Федерация футбола США выступила за участие сборной Ирана в ЧМ-2026",
     "sport": "Футбол",
@@ -10,8 +66,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69a70d239a7947d6967c15bf",
     "publishedAt": "2026-03-03T16:44:29.000Z",
-    "createdAt": "2026-03-03T16:57:01.754Z",
-    "updatedAt": "2026-03-03T16:57:01.754Z"
+    "createdAt": "2026-03-03T17:51:47.329Z",
+    "updatedAt": "2026-03-03T17:51:47.329Z"
   },
   {
     "id": "0b24c36f4e3669a0",
@@ -24,8 +80,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69a7021d9a79471da89bd2a4",
     "publishedAt": "2026-03-03T16:02:39.000Z",
-    "createdAt": "2026-03-03T16:57:02.753Z",
-    "updatedAt": "2026-03-03T16:57:02.753Z"
+    "createdAt": "2026-03-03T17:51:48.472Z",
+    "updatedAt": "2026-03-03T17:51:48.472Z"
   },
   {
     "id": "b2e6b1d6fc71515d",
@@ -38,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69a6fd759a794740be8e2ca6",
     "publishedAt": "2026-03-03T15:55:31.000Z",
-    "createdAt": "2026-03-03T16:57:03.845Z",
-    "updatedAt": "2026-03-03T16:57:03.845Z"
+    "createdAt": "2026-03-03T17:51:49.560Z",
+    "updatedAt": "2026-03-03T17:51:49.560Z"
   },
   {
     "id": "eaf1a2f50d8e1443",
@@ -52,36 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69a6f6e09a7947a717175c5a",
     "publishedAt": "2026-03-03T15:29:45.000Z",
-    "createdAt": "2026-03-03T16:57:06.232Z",
-    "updatedAt": "2026-03-03T16:57:06.232Z"
-  },
-  {
-    "id": "e50c3e86ad977052",
-    "title": "Тренер норвежцев заявил, что Клебо взял бы все медали ОИ и с Большуновым",
-    "sport": "Другое",
-    "category": "Другие",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/7/81/347725481851817.jpeg",
-    "teaser": "Тренер норвежцев заявил, что Клебо взял бы все медали ОИ и с Большуновым",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69a6ee769a7947515c72867b",
-    "publishedAt": "2026-03-03T14:51:05.000Z",
-    "createdAt": "2026-03-03T16:57:08.304Z",
-    "updatedAt": "2026-03-03T16:57:08.305Z"
-  },
-  {
-    "id": "c2805a96428e4e2b",
-    "title": "ЦСКА объявил о продлении контракта с 18-летним защитником Даниловым",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/2/01/347725457036012.jpeg",
-    "teaser": "ЦСКА объявил о продлении контракта с 18-летним защитником Даниловым",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69a6e6219a7947c3459c7d5b",
-    "publishedAt": "2026-03-03T14:49:12.000Z",
-    "createdAt": "2026-03-03T16:57:09.360Z",
-    "updatedAt": "2026-03-03T16:57:09.360Z"
+    "createdAt": "2026-03-03T17:51:50.673Z",
+    "updatedAt": "2026-03-03T17:51:50.673Z"
   },
   {
     "id": "228593effb2bd90c",
@@ -94,36 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69a6eeab9a7947515c728680",
     "publishedAt": "2026-03-03T14:35:49.000Z",
-    "createdAt": "2026-03-03T16:57:07.255Z",
-    "updatedAt": "2026-03-03T16:57:07.255Z"
-  },
-  {
-    "id": "4241884443c5a239",
-    "title": "Женская сборная России по футболу разгромно проиграла Гане в ОАЭ",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/4/15/347725473752154.jpeg",
-    "teaser": "Женская сборная России по футболу разгромно проиграла Гане в ОАЭ",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69a6ead19a7947fea8eca767",
-    "publishedAt": "2026-03-03T14:21:11.000Z",
-    "createdAt": "2026-03-03T16:57:10.447Z",
-    "updatedAt": "2026-03-03T16:57:10.447Z"
-  },
-  {
-    "id": "cd19cea5fceb4bce",
-    "title": "Соболенко и Дюплантис вошли в число претендентов на спортивный «Оскар»",
-    "sport": "Теннис",
-    "category": "Теннис",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/4/54/347725460848544.jpeg",
-    "teaser": "Соболенко и Дюплантис вошли в число претендентов на спортивный «Оскар»",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69a6e7e49a7947946129b154",
-    "publishedAt": "2026-03-03T14:04:54.000Z",
-    "createdAt": "2026-03-03T16:57:11.569Z",
-    "updatedAt": "2026-03-03T16:57:11.569Z"
+    "createdAt": "2026-03-03T17:51:51.816Z",
+    "updatedAt": "2026-03-03T17:51:51.816Z"
   },
   {
     "id": "194288a936037910",
@@ -136,7 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/698aec0f9a794717bd56596f",
     "publishedAt": "2026-03-03T05:03:55.000Z",
-    "createdAt": "2026-03-03T16:57:05.113Z",
-    "updatedAt": "2026-03-03T16:57:05.113Z"
+    "createdAt": "2026-03-03T17:51:44.839Z",
+    "updatedAt": "2026-03-03T17:51:44.839Z"
   }
 ]
