@@ -1,5 +1,19 @@
 [
   {
+    "id": "27617047dd9915ab",
+    "title": "КХЛ перенесла матч «Сочи» с «Локомотивом» в Ярославль",
+    "sport": "Хоккей",
+    "category": "Хоккей",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/6/67/347725358369676.jpeg",
+    "teaser": "КХЛ перенесла матч «Сочи» с «Локомотивом» в Ярославль",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69a6bfbb9a794788ce610c84",
+    "publishedAt": "2026-03-03T11:11:13.000Z",
+    "createdAt": "2026-03-03T11:37:59.618Z",
+    "updatedAt": "2026-03-03T11:37:59.618Z"
+  },
+  {
     "id": "0522564eaf85cea1",
     "title": "The Sun узнал, что самолет Роналду прилетел из Саудовской Аравии в Мадрид",
     "sport": "Футбол",
@@ -10,8 +24,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69a6b8799a7947b616ae035e",
     "publishedAt": "2026-03-03T10:45:54.000Z",
-    "createdAt": "2026-03-03T10:49:15.381Z",
-    "updatedAt": "2026-03-03T10:49:15.381Z"
+    "createdAt": "2026-03-03T11:38:00.604Z",
+    "updatedAt": "2026-03-03T11:38:00.604Z"
   },
   {
     "id": "60a442128763d5bc",
@@ -24,8 +38,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69a6b1e69a7947570f496ad1",
     "publishedAt": "2026-03-03T10:17:54.000Z",
-    "createdAt": "2026-03-03T10:49:18.007Z",
-    "updatedAt": "2026-03-03T10:49:18.007Z"
+    "createdAt": "2026-03-03T11:38:03.676Z",
+    "updatedAt": "2026-03-03T11:38:03.676Z"
   },
   {
     "id": "bc4dcc98d3be6acf",
@@ -38,8 +52,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69a6a8579a7947319a3fb056",
     "publishedAt": "2026-03-03T10:17:49.000Z",
-    "createdAt": "2026-03-03T10:49:16.818Z",
-    "updatedAt": "2026-03-03T10:49:16.818Z"
+    "createdAt": "2026-03-03T11:38:01.575Z",
+    "updatedAt": "2026-03-03T11:38:01.575Z"
   },
   {
     "id": "5ccce44618f697ab",
@@ -52,8 +66,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69a6a2799a7947bef53e11b7",
     "publishedAt": "2026-03-03T09:09:39.000Z",
-    "createdAt": "2026-03-03T10:49:20.685Z",
-    "updatedAt": "2026-03-03T10:49:20.685Z"
+    "createdAt": "2026-03-03T11:38:04.785Z",
+    "updatedAt": "2026-03-03T11:38:04.785Z"
   },
   {
     "id": "02f9ac4225ae9125",
@@ -66,8 +80,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69a699239a794701b24ffffd",
     "publishedAt": "2026-03-03T08:42:35.000Z",
-    "createdAt": "2026-03-03T10:49:21.865Z",
-    "updatedAt": "2026-03-03T10:49:21.865Z"
+    "createdAt": "2026-03-03T11:38:05.754Z",
+    "updatedAt": "2026-03-03T11:38:05.754Z"
   },
   {
     "id": "541e79870b7b2066",
@@ -80,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69a693709a7947bc16d8b88e",
     "publishedAt": "2026-03-03T08:14:44.000Z",
-    "createdAt": "2026-03-03T10:49:23.050Z",
-    "updatedAt": "2026-03-03T10:49:23.050Z"
+    "createdAt": "2026-03-03T11:38:06.857Z",
+    "updatedAt": "2026-03-03T11:38:06.857Z"
   },
   {
     "id": "542ed4ace9de6adc",
@@ -94,8 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69a68e9c9a7947bbdc8760d5",
     "publishedAt": "2026-03-03T07:47:12.000Z",
-    "createdAt": "2026-03-03T10:49:24.248Z",
-    "updatedAt": "2026-03-03T10:49:24.248Z"
+    "createdAt": "2026-03-03T11:38:07.902Z",
+    "updatedAt": "2026-03-03T11:38:07.902Z"
   },
   {
     "id": "016277f2bf40aab0",
@@ -108,22 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69a6803c9a7947b65c2fab21",
     "publishedAt": "2026-03-03T07:41:18.000Z",
-    "createdAt": "2026-03-03T10:49:25.434Z",
-    "updatedAt": "2026-03-03T10:49:25.434Z"
-  },
-  {
-    "id": "7f0231b55f295252",
-    "title": "Большунов проиграл на финише командного спринта на чемпионате России",
-    "sport": "Другое",
-    "category": "Другие",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/8/90/347725223763908.jpeg",
-    "teaser": "Большунов проиграл на финише командного спринта на чемпионате России",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69a68b3d9a79479366795e4f",
-    "publishedAt": "2026-03-03T07:33:11.000Z",
-    "createdAt": "2026-03-03T10:49:26.640Z",
-    "updatedAt": "2026-03-03T10:49:26.640Z"
+    "createdAt": "2026-03-03T11:38:08.905Z",
+    "updatedAt": "2026-03-03T11:38:08.905Z"
   },
   {
     "id": "194288a936037910",
@@ -136,7 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/698aec0f9a794717bd56596f",
     "publishedAt": "2026-03-03T05:03:55.000Z",
-    "createdAt": "2026-03-03T10:49:19.471Z",
-    "updatedAt": "2026-03-03T10:49:19.471Z"
+    "createdAt": "2026-03-03T11:38:02.775Z",
+    "updatedAt": "2026-03-03T11:38:02.775Z"
   }
 ]
