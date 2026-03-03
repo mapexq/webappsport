@@ -1,5 +1,47 @@
 [
   {
+    "id": "0522564eaf85cea1",
+    "title": "The Sun узнал, что самолет Роналду прилетел из Саудовской Аравии в Мадрид",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/8/50/347725339532508.jpeg",
+    "teaser": "The Sun узнал, что самолет Роналду прилетел из Саудовской Аравии в Мадрид",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69a6b8799a7947b616ae035e",
+    "publishedAt": "2026-03-03T10:45:54.000Z",
+    "createdAt": "2026-03-03T10:49:15.381Z",
+    "updatedAt": "2026-03-03T10:49:15.381Z"
+  },
+  {
+    "id": "60a442128763d5bc",
+    "title": "Филиппов рассказал, куда хочет потратить премию за медаль Олимпиады",
+    "sport": "Другое",
+    "category": "Другие",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/6/65/347725322594656.jpeg",
+    "teaser": "Филиппов рассказал, куда хочет потратить премию за медаль Олимпиады",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69a6b1e69a7947570f496ad1",
+    "publishedAt": "2026-03-03T10:17:54.000Z",
+    "createdAt": "2026-03-03T10:49:18.007Z",
+    "updatedAt": "2026-03-03T10:49:18.007Z"
+  },
+  {
+    "id": "bc4dcc98d3be6acf",
+    "title": "Футболистки сборной Ирана не стали петь гимн страны на Кубке Азии",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/8/32/347725298334328.jpeg",
+    "teaser": "Футболистки сборной Ирана не стали петь гимн страны на Кубке Азии",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69a6a8579a7947319a3fb056",
+    "publishedAt": "2026-03-03T10:17:49.000Z",
+    "createdAt": "2026-03-03T10:49:16.818Z",
+    "updatedAt": "2026-03-03T10:49:16.818Z"
+  },
+  {
     "id": "5ccce44618f697ab",
     "title": "В Бразилии тренера «Фламенго» уволили после победы со счетом 8:0",
     "sport": "Футбол",
@@ -10,8 +52,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69a6a2799a7947bef53e11b7",
     "publishedAt": "2026-03-03T09:09:39.000Z",
-    "createdAt": "2026-03-03T09:51:49.015Z",
-    "updatedAt": "2026-03-03T09:51:49.015Z"
+    "createdAt": "2026-03-03T10:49:20.685Z",
+    "updatedAt": "2026-03-03T10:49:20.685Z"
   },
   {
     "id": "02f9ac4225ae9125",
@@ -24,8 +66,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69a699239a794701b24ffffd",
     "publishedAt": "2026-03-03T08:42:35.000Z",
-    "createdAt": "2026-03-03T09:51:50.154Z",
-    "updatedAt": "2026-03-03T09:51:50.154Z"
+    "createdAt": "2026-03-03T10:49:21.865Z",
+    "updatedAt": "2026-03-03T10:49:21.865Z"
   },
   {
     "id": "541e79870b7b2066",
@@ -38,8 +80,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69a693709a7947bc16d8b88e",
     "publishedAt": "2026-03-03T08:14:44.000Z",
-    "createdAt": "2026-03-03T09:51:51.266Z",
-    "updatedAt": "2026-03-03T09:51:51.266Z"
+    "createdAt": "2026-03-03T10:49:23.050Z",
+    "updatedAt": "2026-03-03T10:49:23.050Z"
   },
   {
     "id": "542ed4ace9de6adc",
@@ -52,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69a68e9c9a7947bbdc8760d5",
     "publishedAt": "2026-03-03T07:47:12.000Z",
-    "createdAt": "2026-03-03T09:51:53.843Z",
-    "updatedAt": "2026-03-03T09:51:53.843Z"
+    "createdAt": "2026-03-03T10:49:24.248Z",
+    "updatedAt": "2026-03-03T10:49:24.248Z"
   },
   {
     "id": "016277f2bf40aab0",
@@ -66,8 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69a6803c9a7947b65c2fab21",
     "publishedAt": "2026-03-03T07:41:18.000Z",
-    "createdAt": "2026-03-03T09:51:54.931Z",
-    "updatedAt": "2026-03-03T09:51:54.931Z"
+    "createdAt": "2026-03-03T10:49:25.434Z",
+    "updatedAt": "2026-03-03T10:49:25.434Z"
   },
   {
     "id": "7f0231b55f295252",
@@ -80,36 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69a68b3d9a79479366795e4f",
     "publishedAt": "2026-03-03T07:33:11.000Z",
-    "createdAt": "2026-03-03T09:51:55.853Z",
-    "updatedAt": "2026-03-03T09:51:55.853Z"
-  },
-  {
-    "id": "a19248905299da64",
-    "title": "Призер чемпионатов России, штангист Чепиков погиб в зоне военной операции",
-    "sport": "Другое",
-    "category": "Другие",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/9/95/347725216295959.jpeg",
-    "teaser": "Призер чемпионатов России, штангист Чепиков погиб в зоне военной операции",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69a688239a7947c111956cb1",
-    "publishedAt": "2026-03-03T07:14:53.000Z",
-    "createdAt": "2026-03-03T09:51:56.982Z",
-    "updatedAt": "2026-03-03T09:51:56.982Z"
-  },
-  {
-    "id": "6079dcc46b133aa8",
-    "title": "Какие турниры оказались под угрозой из-за конфликта на Ближнем Востоке",
-    "sport": "Другое",
-    "category": "Другие",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/8/12/347724685901128.jpeg",
-    "teaser": "Какие турниры оказались под угрозой из-за конфликта на Ближнем Востоке",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69a55b699a794743873c14c8",
-    "publishedAt": "2026-03-03T06:02:22.000Z",
-    "createdAt": "2026-03-03T09:51:58.090Z",
-    "updatedAt": "2026-03-03T09:51:58.090Z"
+    "createdAt": "2026-03-03T10:49:26.640Z",
+    "updatedAt": "2026-03-03T10:49:26.640Z"
   },
   {
     "id": "194288a936037910",
@@ -122,21 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/698aec0f9a794717bd56596f",
     "publishedAt": "2026-03-03T05:03:55.000Z",
-    "createdAt": "2026-03-03T09:51:52.655Z",
-    "updatedAt": "2026-03-03T09:51:52.655Z"
-  },
-  {
-    "id": "b010ef3424e03fec",
-    "title": "Кто из российских спортсменов оказался в зоне конфликта вокруг Ирана",
-    "sport": "Другое",
-    "category": "Другие",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/0/53/347724630242530.jpeg",
-    "teaser": "Кто из российских спортсменов оказался в зоне конфликта вокруг Ирана",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69a55b589a794743873c14c3",
-    "publishedAt": "2026-03-02T21:02:49.000Z",
-    "createdAt": "2026-03-03T09:51:59.222Z",
-    "updatedAt": "2026-03-03T09:51:59.222Z"
+    "createdAt": "2026-03-03T10:49:19.471Z",
+    "updatedAt": "2026-03-03T10:49:19.471Z"
   }
 ]
