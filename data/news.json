@@ -1,5 +1,61 @@
 [
   {
+    "id": "009e2c75765f5421",
+    "title": "Застрявшие в Дубае Медведев и Рублев покинули ОАЭ",
+    "sport": "Теннис",
+    "category": "Теннис",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/0/24/347725636140240.jpeg",
+    "teaser": "Застрявшие в Дубае Медведев и Рублев покинули ОАЭ",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69a72c709a7947969b1a13d3",
+    "publishedAt": "2026-03-03T18:55:58.000Z",
+    "createdAt": "2026-03-03T19:00:19.043Z",
+    "updatedAt": "2026-03-03T19:00:19.043Z"
+  },
+  {
+    "id": "505fb031e9830bd7",
+    "title": "ATP отменила два турнира в ОАЭ по соображениям безопасности",
+    "sport": "Теннис",
+    "category": "Теннис",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/1/08/347725622164081.jpeg",
+    "teaser": "ATP отменила два турнира в ОАЭ по соображениям безопасности",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69a726db9a794727af5da9f2",
+    "publishedAt": "2026-03-03T18:55:11.000Z",
+    "createdAt": "2026-03-03T19:00:20.962Z",
+    "updatedAt": "2026-03-03T19:00:20.962Z"
+  },
+  {
+    "id": "55832cb61fe808ad",
+    "title": "Экс-футболист МЮ рассказал, как с семьей пережил атаку ракет в Дубае",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/4/53/347725609369534.jpeg",
+    "teaser": "Экс-футболист МЮ рассказал, как с семьей пережил атаку ракет в Дубае",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69a721cd9a794741b65b43ce",
+    "publishedAt": "2026-03-03T18:37:47.000Z",
+    "createdAt": "2026-03-03T19:00:19.929Z",
+    "updatedAt": "2026-03-03T19:00:19.929Z"
+  },
+  {
+    "id": "4a5bba939e56446c",
+    "title": "«Ан-Наср» сообщил о травме подколенного сухожилия у Роналду",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/3/17/347725598067173.jpeg",
+    "teaser": "«Ан-Наср» сообщил о травме подколенного сухожилия у Роналду",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69a71d179a79472b351afb6d",
+    "publishedAt": "2026-03-03T18:03:21.000Z",
+    "createdAt": "2026-03-03T19:00:23.101Z",
+    "updatedAt": "2026-03-03T19:00:23.101Z"
+  },
+  {
     "id": "fce0ab4e9369d38a",
     "title": "Гонку WEC в Катаре отложили из-за конфликта на Ближнем Востоке",
     "sport": "Другое",
@@ -10,8 +66,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69a7169b9a7947bff4827788",
     "publishedAt": "2026-03-03T17:44:33.000Z",
-    "createdAt": "2026-03-03T17:51:43.522Z",
-    "updatedAt": "2026-03-03T17:51:43.522Z"
+    "createdAt": "2026-03-03T19:00:27.189Z",
+    "updatedAt": "2026-03-03T19:00:27.189Z"
   },
   {
     "id": "d5b7f08d6581e4c8",
@@ -24,8 +80,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69a717a09a79475b52422a25",
     "publishedAt": "2026-03-03T17:39:25.000Z",
-    "createdAt": "2026-03-03T17:51:41.405Z",
-    "updatedAt": "2026-03-03T17:51:41.405Z"
+    "createdAt": "2026-03-03T19:00:22.077Z",
+    "updatedAt": "2026-03-03T19:00:22.077Z"
   },
   {
     "id": "8d99070bfad2a358",
@@ -38,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69a716ba9a79476f7a8d47d1",
     "publishedAt": "2026-03-03T17:29:02.000Z",
-    "createdAt": "2026-03-03T17:51:42.477Z",
-    "updatedAt": "2026-03-03T17:51:42.477Z"
+    "createdAt": "2026-03-03T19:00:24.206Z",
+    "updatedAt": "2026-03-03T19:00:24.206Z"
   },
   {
     "id": "2170940fc67d7ade",
@@ -52,8 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69a711769a794723235f28fe",
     "publishedAt": "2026-03-03T17:12:15.000Z",
-    "createdAt": "2026-03-03T17:51:45.901Z",
-    "updatedAt": "2026-03-03T17:51:45.901Z"
+    "createdAt": "2026-03-03T19:00:28.296Z",
+    "updatedAt": "2026-03-03T19:00:28.296Z"
   },
   {
     "id": "1d09eebee6f93a95",
@@ -66,64 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69a70d239a7947d6967c15bf",
     "publishedAt": "2026-03-03T16:44:29.000Z",
-    "createdAt": "2026-03-03T17:51:47.329Z",
-    "updatedAt": "2026-03-03T17:51:47.329Z"
-  },
-  {
-    "id": "0b24c36f4e3669a0",
-    "title": "Роналду не покинул Саудовскую Аравию на фоне конфликта на Ближнем Востоке",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/8/47/347725528439478.jpeg",
-    "teaser": "Роналду не покинул Саудовскую Аравию на фоне конфликта на Ближнем Востоке",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69a7021d9a79471da89bd2a4",
-    "publishedAt": "2026-03-03T16:02:39.000Z",
-    "createdAt": "2026-03-03T17:51:48.472Z",
-    "updatedAt": "2026-03-03T17:51:48.472Z"
-  },
-  {
-    "id": "b2e6b1d6fc71515d",
-    "title": "Форвард «Реала» порвал «кресты» и пропустит ЧМ-2026",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/9/76/347725528194769.jpeg",
-    "teaser": "Форвард «Реала» порвал «кресты» и пропустит ЧМ-2026",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69a6fd759a794740be8e2ca6",
-    "publishedAt": "2026-03-03T15:55:31.000Z",
-    "createdAt": "2026-03-03T17:51:49.560Z",
-    "updatedAt": "2026-03-03T17:51:49.560Z"
-  },
-  {
-    "id": "eaf1a2f50d8e1443",
-    "title": "Российский чемпион мира рассказал о работе риелтором",
-    "sport": "Другое",
-    "category": "Другие",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/6/42/347725510045426.jpeg",
-    "teaser": "Российский чемпион мира рассказал о работе риелтором",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69a6f6e09a7947a717175c5a",
-    "publishedAt": "2026-03-03T15:29:45.000Z",
-    "createdAt": "2026-03-03T17:51:50.673Z",
-    "updatedAt": "2026-03-03T17:51:50.673Z"
-  },
-  {
-    "id": "228593effb2bd90c",
-    "title": "МОК ответил на вопрос о наказании США за нарушение олимпийского перемирия",
-    "sport": "Другое",
-    "category": "Другие",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/2/51/347725486764512.jpeg",
-    "teaser": "МОК ответил на вопрос о наказании США за нарушение олимпийского перемирия",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69a6eeab9a7947515c728680",
-    "publishedAt": "2026-03-03T14:35:49.000Z",
-    "createdAt": "2026-03-03T17:51:51.816Z",
-    "updatedAt": "2026-03-03T17:51:51.816Z"
+    "createdAt": "2026-03-03T19:00:29.380Z",
+    "updatedAt": "2026-03-03T19:00:29.380Z"
   },
   {
     "id": "194288a936037910",
@@ -136,7 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/698aec0f9a794717bd56596f",
     "publishedAt": "2026-03-03T05:03:55.000Z",
-    "createdAt": "2026-03-03T17:51:44.839Z",
-    "updatedAt": "2026-03-03T17:51:44.839Z"
+    "createdAt": "2026-03-03T19:00:25.536Z",
+    "updatedAt": "2026-03-03T19:00:25.536Z"
   }
 ]
