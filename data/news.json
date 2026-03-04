@@ -1,5 +1,89 @@
 [
   {
+    "id": "c21b2d22e164071a",
+    "title": "Баскетболисты «Пармы» застряли в Дубае и пропустят матч с «Енисеем»",
+    "sport": "Баскетбол",
+    "category": "Баскетбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/7/05/347726329807057.jpeg",
+    "teaser": "Баскетболисты «Пармы» застряли в Дубае и пропустят матч с «Енисеем»",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69a837819a79472d521a864b",
+    "publishedAt": "2026-03-04T14:09:05.000Z",
+    "createdAt": "2026-03-04T14:41:43.961Z",
+    "updatedAt": "2026-03-04T14:41:43.961Z"
+  },
+  {
+    "id": "2f0ced6f47cb666c",
+    "title": "Владикавказская «Алания» объявила о назначении нового главного тренера",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/9/02/347726290659029.jpeg",
+    "teaser": "Владикавказская «Алания» объявила о назначении нового главного тренера",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69a82ba89a7947b37568ed65",
+    "publishedAt": "2026-03-04T14:07:37.000Z",
+    "createdAt": "2026-03-04T14:41:47.837Z",
+    "updatedAt": "2026-03-04T14:41:47.837Z"
+  },
+  {
+    "id": "8ee32a5e449999d7",
+    "title": "Два защитника «Барселоны» выбыли из состава из-за травм",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/5/94/347726327724945.jpeg",
+    "teaser": "Два защитника «Барселоны» выбыли из состава из-за травм",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69a834429a79477e79de885e",
+    "publishedAt": "2026-03-04T14:06:22.000Z",
+    "createdAt": "2026-03-04T14:41:52.514Z",
+    "updatedAt": "2026-03-04T14:41:52.514Z"
+  },
+  {
+    "id": "fdf01068a50fd728",
+    "title": "Призера ЧМ по вольной борьбе дисквалифицировали на 4 года за тестостерон",
+    "sport": "Единоборства",
+    "category": "Единоборства",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/3/62/347726316165623.png",
+    "teaser": "Призера ЧМ по вольной борьбе дисквалифицировали на 4 года за тестостерон",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69a831239a79471b63aed49d",
+    "publishedAt": "2026-03-04T13:55:09.000Z",
+    "createdAt": "2026-03-04T14:41:50.218Z",
+    "updatedAt": "2026-03-04T14:41:50.218Z"
+  },
+  {
+    "id": "67958fa450a3b04a",
+    "title": "EHF отложила два матча с участием сборной Израиля по гандболу",
+    "sport": "Другое",
+    "category": "Другие",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/2/86/347726299473862.jpeg",
+    "teaser": "EHF отложила два матча с участием сборной Израиля по гандболу",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69a829599a794712c2ef55da",
+    "publishedAt": "2026-03-04T13:21:11.000Z",
+    "createdAt": "2026-03-04T14:41:46.661Z",
+    "updatedAt": "2026-03-04T14:41:46.661Z"
+  },
+  {
+    "id": "b63a787b349d5d62",
+    "title": "ATP бесплатно вывезет теннисистов после отмененных турниров в ОАЭ",
+    "sport": "Теннис",
+    "category": "Теннис",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/0/06/347726274529060.jpeg",
+    "teaser": "ATP бесплатно вывезет теннисистов после отмененных турниров в ОАЭ",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69a8215d9a7947a6ea51b193",
+    "publishedAt": "2026-03-04T13:00:36.000Z",
+    "createdAt": "2026-03-04T14:41:45.409Z",
+    "updatedAt": "2026-03-04T14:41:45.409Z"
+  },
+  {
     "id": "4e5d6843edd9bd4a",
     "title": "Вторая ракетка России рассказал, что делал в ожидании шанса покинуть ОАЭ",
     "sport": "Теннис",
@@ -10,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69a81d579a7947179264428d",
     "publishedAt": "2026-03-04T12:46:26.000Z",
-    "createdAt": "2026-03-04T13:09:17.209Z",
-    "updatedAt": "2026-03-04T13:09:17.209Z"
+    "createdAt": "2026-03-04T14:41:48.989Z",
+    "updatedAt": "2026-03-04T14:41:48.989Z"
   },
   {
     "id": "15ad9cee97278434",
@@ -24,8 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69a812359a7947434c55e73a",
     "publishedAt": "2026-03-04T11:56:48.000Z",
-    "createdAt": "2026-03-04T13:09:18.356Z",
-    "updatedAt": "2026-03-04T13:09:18.356Z"
+    "createdAt": "2026-03-04T14:41:51.345Z",
+    "updatedAt": "2026-03-04T14:41:51.345Z"
   },
   {
     "id": "124c594d9c5b4426",
@@ -38,22 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69a8108b9a7947e1b706b8d6",
     "publishedAt": "2026-03-04T11:30:50.000Z",
-    "createdAt": "2026-03-04T13:09:19.412Z",
-    "updatedAt": "2026-03-04T13:09:19.412Z"
-  },
-  {
-    "id": "cef136ffffc7d3bd",
-    "title": "УЕФА запретил болельщикам «Галатасарая» посещать матч ЛЧ с «Ливерпулем»",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/7/65/347726211918657.jpeg",
-    "teaser": "УЕФА запретил болельщикам «Галатасарая» посещать матч ЛЧ с «Ливерпулем»",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69a80bde9a7947771f07d531",
-    "publishedAt": "2026-03-04T11:08:56.000Z",
-    "createdAt": "2026-03-04T13:09:22.764Z",
-    "updatedAt": "2026-03-04T13:09:22.764Z"
+    "createdAt": "2026-03-04T14:41:53.647Z",
+    "updatedAt": "2026-03-04T14:41:53.647Z"
   },
   {
     "id": "2537347bd1051cc3",
@@ -66,77 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69a809e79a794761eeed192b",
     "publishedAt": "2026-03-04T10:59:49.000Z",
-    "createdAt": "2026-03-04T13:09:20.615Z",
-    "updatedAt": "2026-03-04T13:09:20.615Z"
-  },
-  {
-    "id": "d300f22eea1c2718",
-    "title": "Итальянской теннисистке угрожали убийством перед матчем в Индиан‑Уэллсе",
-    "sport": "Теннис",
-    "category": "Теннис",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/1/79/347726182391791.jpeg",
-    "teaser": "Итальянской теннисистке угрожали убийством перед матчем в Индиан‑Уэллсе",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69a801969a794759be65a607",
-    "publishedAt": "2026-03-04T10:25:31.000Z",
-    "createdAt": "2026-03-04T13:09:21.701Z",
-    "updatedAt": "2026-03-04T13:09:21.701Z"
-  },
-  {
-    "id": "9bd856898036f08a",
-    "title": "Экс-тренер «Спартака» Тедеско пропустит матч «Фенербахче» из-за болезни",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/7/86/347726163273867.jpeg",
-    "teaser": "Экс-тренер «Спартака» Тедеско пропустит матч «Фенербахче» из-за болезни",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69a7f7e89a79477853d073cc",
-    "publishedAt": "2026-03-04T10:16:00.000Z",
-    "createdAt": "2026-03-04T13:09:24.878Z",
-    "updatedAt": "2026-03-04T13:09:24.878Z"
-  },
-  {
-    "id": "26b6e4029cab6e10",
-    "title": "Corriere dello Sport назвала кандидата на пост главного тренера «Реала»",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/9/18/347726184597189.jpeg",
-    "teaser": "Corriere dello Sport назвала кандидата на пост главного тренера «Реала»",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69a7ff109a7947a2cfa9a560",
-    "publishedAt": "2026-03-04T10:15:24.000Z",
-    "createdAt": "2026-03-04T13:09:23.812Z",
-    "updatedAt": "2026-03-04T13:09:23.812Z"
-  },
-  {
-    "id": "ef84b8caf706b7d1",
-    "title": "Бейсбольный матч в США прервали из-за пеликана, запутавшегося в сетке",
-    "sport": "Другое",
-    "category": "Другие",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/6/89/347726154351896.jpeg",
-    "teaser": "Бейсбольный матч в США прервали из-за пеликана, запутавшегося в сетке",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69a7eddf9a794765e17058ab",
-    "publishedAt": "2026-03-04T09:01:21.000Z",
-    "createdAt": "2026-03-04T13:09:27.008Z",
-    "updatedAt": "2026-03-04T13:09:27.008Z"
-  },
-  {
-    "id": "752adb4bc32593ef",
-    "title": "Паралимпийский комитет ответил на вопрос о санкциях к США и Израилю",
-    "sport": "Другое",
-    "category": "Другие",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/2/36/347726124801362.jpeg",
-    "teaser": "Паралимпийский комитет ответил на вопрос о санкциях к США и Израилю",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69a7e34c9a7947ba116bf8db",
-    "publishedAt": "2026-03-04T08:18:04.000Z",
-    "createdAt": "2026-03-04T13:09:25.941Z",
-    "updatedAt": "2026-03-04T13:09:25.941Z"
+    "createdAt": "2026-03-04T14:41:54.811Z",
+    "updatedAt": "2026-03-04T14:41:54.811Z"
   }
 ]
