@@ -1,5 +1,33 @@
 [
   {
+    "id": "a7848848a7ff3064",
+    "title": "«Крылья Советов» вышли в полуфинал «пути регионов» Кубка России",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/5/64/347726441493645.png",
+    "teaser": "«Крылья Советов» вышли в полуфинал «пути регионов» Кубка России",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69a8669a9a7947d0a2387c3b",
+    "publishedAt": "2026-03-04T17:36:03.000Z",
+    "createdAt": "2026-03-04T17:44:24.362Z",
+    "updatedAt": "2026-03-04T17:44:24.362Z"
+  },
+  {
+    "id": "0810d5e5b7470bec",
+    "title": "Умер бывший президент Европейской конфедерации волейбола",
+    "sport": "Другое",
+    "category": "Другие",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/0/64/347726411660640.jpeg",
+    "teaser": "Умер бывший президент Европейской конфедерации волейбола",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69a858859a79474c32ab27b0",
+    "publishedAt": "2026-03-04T16:30:44.000Z",
+    "createdAt": "2026-03-04T17:44:25.275Z",
+    "updatedAt": "2026-03-04T17:44:25.275Z"
+  },
+  {
     "id": "36c26d4184317d16",
     "title": "Игрока МЮ приговорили к 15 месяцам условно за дело шестилетней давности",
     "sport": "Футбол",
@@ -10,8 +38,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69a84b429a79470a85e8cc83",
     "publishedAt": "2026-03-04T16:11:11.000Z",
-    "createdAt": "2026-03-04T16:55:25.203Z",
-    "updatedAt": "2026-03-04T16:55:25.203Z"
+    "createdAt": "2026-03-04T17:44:31.531Z",
+    "updatedAt": "2026-03-04T17:44:31.531Z"
   },
   {
     "id": "ed6197ebd5c0c5d6",
@@ -24,11 +52,11 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69a855659a794742b7e72d07",
     "publishedAt": "2026-03-04T16:09:27.000Z",
-    "createdAt": "2026-03-04T16:55:20.173Z",
-    "updatedAt": "2026-03-04T16:55:20.173Z"
+    "createdAt": "2026-03-04T17:44:27.083Z",
+    "updatedAt": "2026-03-04T17:44:27.083Z"
   },
   {
-    "id": "61dcb146d7583f92",
+    "id": "7f9d4ffb65035e21",
     "title": "Журналист узнал, что Роналду может не сыграть со сборными Мексики и США",
     "sport": "Футбол",
     "category": "Футбол",
@@ -37,9 +65,9 @@
     "fullContent": "",
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69a848769a7947e19546a3c8",
-    "publishedAt": "2026-03-04T15:53:36.000Z",
-    "createdAt": "2026-03-04T16:55:22.112Z",
-    "updatedAt": "2026-03-04T16:55:22.112Z"
+    "publishedAt": "2026-03-04T15:53:37.000Z",
+    "createdAt": "2026-03-04T17:44:28.790Z",
+    "updatedAt": "2026-03-04T17:44:28.790Z"
   },
   {
     "id": "027ccc7e1f65e2de",
@@ -52,8 +80,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69a83e0e9a7947144c975257",
     "publishedAt": "2026-03-04T15:11:58.000Z",
-    "createdAt": "2026-03-04T16:55:24.104Z",
-    "updatedAt": "2026-03-04T16:55:24.104Z"
+    "createdAt": "2026-03-04T17:44:30.615Z",
+    "updatedAt": "2026-03-04T17:44:30.615Z"
   },
   {
     "id": "88d1314bac4a8e25",
@@ -66,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69a831e69a79471f3eab760b",
     "publishedAt": "2026-03-04T14:38:20.000Z",
-    "createdAt": "2026-03-04T16:55:26.300Z",
-    "updatedAt": "2026-03-04T16:55:26.300Z"
+    "createdAt": "2026-03-04T17:44:32.583Z",
+    "updatedAt": "2026-03-04T17:44:32.583Z"
   },
   {
     "id": "c21b2d22e164071a",
@@ -80,22 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69a837819a79472d521a864b",
     "publishedAt": "2026-03-04T14:09:05.000Z",
-    "createdAt": "2026-03-04T16:55:27.523Z",
-    "updatedAt": "2026-03-04T16:55:27.523Z"
-  },
-  {
-    "id": "2f0ced6f47cb666c",
-    "title": "Владикавказская «Алания» объявила о назначении нового главного тренера",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/9/02/347726290659029.jpeg",
-    "teaser": "Владикавказская «Алания» объявила о назначении нового главного тренера",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69a82ba89a7947b37568ed65",
-    "publishedAt": "2026-03-04T14:07:37.000Z",
-    "createdAt": "2026-03-04T16:55:30.940Z",
-    "updatedAt": "2026-03-04T16:55:30.940Z"
+    "createdAt": "2026-03-04T17:44:33.626Z",
+    "updatedAt": "2026-03-04T17:44:33.626Z"
   },
   {
     "id": "67958fa450a3b04a",
@@ -108,8 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69a829599a794712c2ef55da",
     "publishedAt": "2026-03-04T13:21:11.000Z",
-    "createdAt": "2026-03-04T16:55:29.887Z",
-    "updatedAt": "2026-03-04T16:55:29.887Z"
+    "createdAt": "2026-03-04T17:44:35.689Z",
+    "updatedAt": "2026-03-04T17:44:35.689Z"
   },
   {
     "id": "b63a787b349d5d62",
@@ -122,21 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69a8215d9a7947a6ea51b193",
     "publishedAt": "2026-03-04T13:00:36.000Z",
-    "createdAt": "2026-03-04T16:55:28.707Z",
-    "updatedAt": "2026-03-04T16:55:28.707Z"
-  },
-  {
-    "id": "4e5d6843edd9bd4a",
-    "title": "Вторая ракетка России рассказал, что делал в ожидании шанса покинуть ОАЭ",
-    "sport": "Теннис",
-    "category": "Теннис",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/7/90/347726265571907.jpeg",
-    "teaser": "Вторая ракетка России рассказал, что делал в ожидании шанса покинуть ОАЭ",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69a81d579a7947179264428d",
-    "publishedAt": "2026-03-04T12:46:26.000Z",
-    "createdAt": "2026-03-04T16:55:32.109Z",
-    "updatedAt": "2026-03-04T16:55:32.109Z"
+    "createdAt": "2026-03-04T17:44:34.659Z",
+    "updatedAt": "2026-03-04T17:44:34.659Z"
   }
 ]
