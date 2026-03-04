@@ -1,5 +1,47 @@
 [
   {
+    "id": "64879d6c92aecb25",
+    "title": "Дубль Маклауда принес «Авангарду» победу над ЦСКА",
+    "sport": "Хоккей",
+    "category": "Хоккей",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/9/19/347726500604199.png",
+    "teaser": "Дубль Маклауда принес «Авангарду» победу над ЦСКА",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69a87e3e9a794714de7a880d",
+    "publishedAt": "2026-03-04T19:12:01.000Z",
+    "createdAt": "2026-03-04T19:43:38.066Z",
+    "updatedAt": "2026-03-04T19:43:38.066Z"
+  },
+  {
+    "id": "5cd23e744e52bd9b",
+    "title": "«Чемпионат» узнал о возможной смене титульного спонсора РПЛ",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/0/51/347726489175510.png",
+    "teaser": "«Чемпионат» узнал о возможной смене титульного спонсора РПЛ",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69a877839a79470c535d6dac",
+    "publishedAt": "2026-03-04T19:11:12.000Z",
+    "createdAt": "2026-03-04T19:43:36.940Z",
+    "updatedAt": "2026-03-04T19:43:36.940Z"
+  },
+  {
+    "id": "01739f3bbad486f7",
+    "title": "Игрока московского «Динамо» удалили до конца матча КХЛ за подножку судье",
+    "sport": "Хоккей",
+    "category": "Хоккей",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/1/53/347726484071531.jpeg",
+    "teaser": "Игрока московского «Динамо» удалили до конца матча КХЛ за подножку судье",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69a873d39a79472354107cab",
+    "publishedAt": "2026-03-04T18:58:43.000Z",
+    "createdAt": "2026-03-04T19:43:39.223Z",
+    "updatedAt": "2026-03-04T19:43:39.223Z"
+  },
+  {
     "id": "57b88272f87eb673",
     "title": "Участницу ОИ госпитализировали на вертолете из-за пьяного туриста",
     "sport": "Другое",
@@ -10,8 +52,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69a86c3b9a79470328f0ee38",
     "publishedAt": "2026-03-04T18:37:23.000Z",
-    "createdAt": "2026-03-04T18:58:59.249Z",
-    "updatedAt": "2026-03-04T18:58:59.249Z"
+    "createdAt": "2026-03-04T19:43:35.785Z",
+    "updatedAt": "2026-03-04T19:43:35.785Z"
   },
   {
     "id": "6a5c63ffa1906421",
@@ -24,8 +66,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69a862a19a7947e5e708b993",
     "publishedAt": "2026-03-04T17:45:18.000Z",
-    "createdAt": "2026-03-04T18:59:01.139Z",
-    "updatedAt": "2026-03-04T18:59:01.139Z"
+    "createdAt": "2026-03-04T19:43:41.241Z",
+    "updatedAt": "2026-03-04T19:43:41.241Z"
   },
   {
     "id": "a7848848a7ff3064",
@@ -38,8 +80,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69a8669a9a7947d0a2387c3b",
     "publishedAt": "2026-03-04T17:36:03.000Z",
-    "createdAt": "2026-03-04T18:59:03.009Z",
-    "updatedAt": "2026-03-04T18:59:03.009Z"
+    "createdAt": "2026-03-04T19:43:43.252Z",
+    "updatedAt": "2026-03-04T19:43:43.252Z"
   },
   {
     "id": "0810d5e5b7470bec",
@@ -52,22 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69a858859a79474c32ab27b0",
     "publishedAt": "2026-03-04T16:30:44.000Z",
-    "createdAt": "2026-03-04T18:59:04.060Z",
-    "updatedAt": "2026-03-04T18:59:04.060Z"
-  },
-  {
-    "id": "36c26d4184317d16",
-    "title": "Игрока МЮ приговорили к 15 месяцам условно за дело шестилетней давности",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/1/31/347726396095311.jpeg",
-    "teaser": "Игрока МЮ приговорили к 15 месяцам условно за дело шестилетней давности",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69a84b429a79470a85e8cc83",
-    "publishedAt": "2026-03-04T16:11:11.000Z",
-    "createdAt": "2026-03-04T18:59:10.947Z",
-    "updatedAt": "2026-03-04T18:59:10.947Z"
+    "createdAt": "2026-03-04T19:43:44.414Z",
+    "updatedAt": "2026-03-04T19:43:44.414Z"
   },
   {
     "id": "ed6197ebd5c0c5d6",
@@ -80,8 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69a855659a794742b7e72d07",
     "publishedAt": "2026-03-04T16:09:27.000Z",
-    "createdAt": "2026-03-04T18:59:07.833Z",
-    "updatedAt": "2026-03-04T18:59:07.833Z"
+    "createdAt": "2026-03-04T19:43:48.602Z",
+    "updatedAt": "2026-03-04T19:43:48.602Z"
   },
   {
     "id": "7f9d4ffb65035e21",
@@ -94,8 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69a848769a7947e19546a3c8",
     "publishedAt": "2026-03-04T15:53:37.000Z",
-    "createdAt": "2026-03-04T18:59:05.940Z",
-    "updatedAt": "2026-03-04T18:59:05.940Z"
+    "createdAt": "2026-03-04T19:43:46.437Z",
+    "updatedAt": "2026-03-04T19:43:46.437Z"
   },
   {
     "id": "027ccc7e1f65e2de",
@@ -108,35 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69a83e0e9a7947144c975257",
     "publishedAt": "2026-03-04T15:11:58.000Z",
-    "createdAt": "2026-03-04T18:59:09.841Z",
-    "updatedAt": "2026-03-04T18:59:09.841Z"
-  },
-  {
-    "id": "88d1314bac4a8e25",
-    "title": "Игрока «Манчестер Юнайтед» отстранили за гомофобное оскорбление",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/8/61/347726306637618.jpeg",
-    "teaser": "Игрока «Манчестер Юнайтед» отстранили за гомофобное оскорбление",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69a831e69a79471f3eab760b",
-    "publishedAt": "2026-03-04T14:38:20.000Z",
-    "createdAt": "2026-03-04T18:59:12.009Z",
-    "updatedAt": "2026-03-04T18:59:12.009Z"
-  },
-  {
-    "id": "c21b2d22e164071a",
-    "title": "Баскетболисты «Пармы» застряли в Дубае и пропустят матч с «Енисеем»",
-    "sport": "Баскетбол",
-    "category": "Баскетбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/7/05/347726329807057.jpeg",
-    "teaser": "Баскетболисты «Пармы» застряли в Дубае и пропустят матч с «Енисеем»",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69a837819a79472d521a864b",
-    "publishedAt": "2026-03-04T14:09:05.000Z",
-    "createdAt": "2026-03-04T18:59:13.048Z",
-    "updatedAt": "2026-03-04T18:59:13.048Z"
+    "createdAt": "2026-03-04T19:43:50.615Z",
+    "updatedAt": "2026-03-04T19:43:50.615Z"
   }
 ]
