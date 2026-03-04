@@ -1,17 +1,45 @@
 [
   {
-    "id": "1fa8b68986478458",
-    "title": "Вице-чемпион Игр Филиппов выиграл чемпионат Европы по ски-альпинизму",
+    "id": "4e5d6843edd9bd4a",
+    "title": "Вторая ракетка России рассказал, что делал в ожидании шанса покинуть ОАЭ",
+    "sport": "Теннис",
+    "category": "Теннис",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/7/90/347726265571907.jpeg",
+    "teaser": "Вторая ракетка России рассказал, что делал в ожидании шанса покинуть ОАЭ",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69a81d579a7947179264428d",
+    "publishedAt": "2026-03-04T12:46:26.000Z",
+    "createdAt": "2026-03-04T13:09:17.209Z",
+    "updatedAt": "2026-03-04T13:09:17.209Z"
+  },
+  {
+    "id": "15ad9cee97278434",
+    "title": "Двукратный чемпион ОИ по плаванию выступит на «Олимпиаде на стероидах»",
+    "sport": "Другое",
+    "category": "Другие",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/3/14/347726228642143.jpeg",
+    "teaser": "Двукратный чемпион ОИ по плаванию выступит на «Олимпиаде на стероидах»",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69a812359a7947434c55e73a",
+    "publishedAt": "2026-03-04T11:56:48.000Z",
+    "createdAt": "2026-03-04T13:09:18.356Z",
+    "updatedAt": "2026-03-04T13:09:18.356Z"
+  },
+  {
+    "id": "124c594d9c5b4426",
+    "title": "Вице-чемпион Игр Филиппов победил на чемпионате Европы по ски-альпинизму",
     "sport": "Другое",
     "category": "Другие",
     "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/9/76/347726220023769.jpeg",
-    "teaser": "Вице-чемпион Игр Филиппов выиграл чемпионат Европы по ски-альпинизму",
+    "teaser": "Вице-чемпион Игр Филиппов победил на чемпионате Европы по ски-альпинизму",
     "fullContent": "",
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69a8108b9a7947e1b706b8d6",
     "publishedAt": "2026-03-04T11:30:50.000Z",
-    "createdAt": "2026-03-04T11:36:02.772Z",
-    "updatedAt": "2026-03-04T11:36:02.772Z"
+    "createdAt": "2026-03-04T13:09:19.412Z",
+    "updatedAt": "2026-03-04T13:09:19.412Z"
   },
   {
     "id": "cef136ffffc7d3bd",
@@ -24,8 +52,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69a80bde9a7947771f07d531",
     "publishedAt": "2026-03-04T11:08:56.000Z",
-    "createdAt": "2026-03-04T11:36:06.025Z",
-    "updatedAt": "2026-03-04T11:36:06.025Z"
+    "createdAt": "2026-03-04T13:09:22.764Z",
+    "updatedAt": "2026-03-04T13:09:22.764Z"
   },
   {
     "id": "2537347bd1051cc3",
@@ -38,8 +66,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69a809e79a794761eeed192b",
     "publishedAt": "2026-03-04T10:59:49.000Z",
-    "createdAt": "2026-03-04T11:36:03.779Z",
-    "updatedAt": "2026-03-04T11:36:03.779Z"
+    "createdAt": "2026-03-04T13:09:20.615Z",
+    "updatedAt": "2026-03-04T13:09:20.615Z"
   },
   {
     "id": "d300f22eea1c2718",
@@ -52,8 +80,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69a801969a794759be65a607",
     "publishedAt": "2026-03-04T10:25:31.000Z",
-    "createdAt": "2026-03-04T11:36:04.883Z",
-    "updatedAt": "2026-03-04T11:36:04.883Z"
+    "createdAt": "2026-03-04T13:09:21.701Z",
+    "updatedAt": "2026-03-04T13:09:21.701Z"
   },
   {
     "id": "9bd856898036f08a",
@@ -66,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69a7f7e89a79477853d073cc",
     "publishedAt": "2026-03-04T10:16:00.000Z",
-    "createdAt": "2026-03-04T11:36:07.932Z",
-    "updatedAt": "2026-03-04T11:36:07.932Z"
+    "createdAt": "2026-03-04T13:09:24.878Z",
+    "updatedAt": "2026-03-04T13:09:24.878Z"
   },
   {
     "id": "26b6e4029cab6e10",
@@ -80,22 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69a7ff109a7947a2cfa9a560",
     "publishedAt": "2026-03-04T10:15:24.000Z",
-    "createdAt": "2026-03-04T11:36:06.862Z",
-    "updatedAt": "2026-03-04T11:36:06.862Z"
-  },
-  {
-    "id": "91114ea51e5e2139",
-    "title": "Вратарь «Металлурга» в 22 года побил рекорд Кошечкина по числу сейвов",
-    "sport": "Хоккей",
-    "category": "Хоккей",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/2/58/347726163153582.png",
-    "teaser": "Вратарь «Металлурга» в 22 года побил рекорд Кошечкина по числу сейвов",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69a7f7f69a79477853d073d2",
-    "publishedAt": "2026-03-04T09:43:29.000Z",
-    "createdAt": "2026-03-04T11:36:11.098Z",
-    "updatedAt": "2026-03-04T11:36:11.098Z"
+    "createdAt": "2026-03-04T13:09:23.812Z",
+    "updatedAt": "2026-03-04T13:09:23.812Z"
   },
   {
     "id": "ef84b8caf706b7d1",
@@ -108,8 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69a7eddf9a794765e17058ab",
     "publishedAt": "2026-03-04T09:01:21.000Z",
-    "createdAt": "2026-03-04T11:36:10.025Z",
-    "updatedAt": "2026-03-04T11:36:10.025Z"
+    "createdAt": "2026-03-04T13:09:27.008Z",
+    "updatedAt": "2026-03-04T13:09:27.008Z"
   },
   {
     "id": "752adb4bc32593ef",
@@ -122,21 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69a7e34c9a7947ba116bf8db",
     "publishedAt": "2026-03-04T08:18:04.000Z",
-    "createdAt": "2026-03-04T11:36:08.944Z",
-    "updatedAt": "2026-03-04T11:36:08.944Z"
-  },
-  {
-    "id": "f711e622a1999cf4",
-    "title": "Песков потребовал от МОК объяснить двойные стандарты в отношении России",
-    "sport": "Другое",
-    "category": "Другие",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/4/13/347726065964134.jpeg",
-    "teaser": "Песков потребовал от МОК объяснить двойные стандарты в отношении России",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69a7d0de9a7947bfde97353b",
-    "publishedAt": "2026-03-04T07:24:55.000Z",
-    "createdAt": "2026-03-04T11:36:13.087Z",
-    "updatedAt": "2026-03-04T11:36:13.087Z"
+    "createdAt": "2026-03-04T13:09:25.941Z",
+    "updatedAt": "2026-03-04T13:09:25.941Z"
   }
 ]
