@@ -1,5 +1,89 @@
 [
   {
+    "id": "b362f7cf4deccf38",
+    "title": "Американский фигурист Малинин получил премию МОК «За честную игру» на ОИ",
+    "sport": "Другое",
+    "category": "Фигурное катание",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/8/38/347727172409388.jpeg",
+    "teaser": "Американский фигурист Малинин получил премию МОК «За честную игру» на ОИ",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69a983da9a7947d3989be721",
+    "publishedAt": "2026-03-05T14:00:45.000Z",
+    "createdAt": "2026-03-05T14:52:43.179Z",
+    "updatedAt": "2026-03-05T14:52:43.179Z"
+  },
+  {
+    "id": "449d4ea1126445c5",
+    "title": "«Сибирь» выиграла матч КХЛ в Шанхае и лишила «Барыс» и «Адмирал» плей-офф",
+    "sport": "Хоккей",
+    "category": "Хоккей",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/8/66/347727182194668.jpeg",
+    "teaser": "«Сибирь» выиграла матч КХЛ в Шанхае и лишила «Барыс» и «Адмирал» плей-офф",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69a983459a79475c96a48f7e",
+    "publishedAt": "2026-03-05T13:59:12.000Z",
+    "createdAt": "2026-03-05T14:52:46.427Z",
+    "updatedAt": "2026-03-05T14:52:46.427Z"
+  },
+  {
+    "id": "3875a1e28544f004",
+    "title": "Признавшийся на ОИ в измене биатлонист заявил, что похудел из-за стресса",
+    "sport": "Другое",
+    "category": "Биатлон",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/4/14/347727165574144.jpeg",
+    "teaser": "Признавшийся на ОИ в измене биатлонист заявил, что похудел из-за стресса",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69a97f189a7947d1470e3a7d",
+    "publishedAt": "2026-03-05T13:25:56.000Z",
+    "createdAt": "2026-03-05T14:52:45.220Z",
+    "updatedAt": "2026-03-05T14:52:45.220Z"
+  },
+  {
+    "id": "d3ab167b05e59ee6",
+    "title": "Ян Непомнящий выиграл международный турнир «Аэрофлот Опен»",
+    "sport": "Другое",
+    "category": "Другие",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/3/79/347727155274793.jpeg",
+    "teaser": "Ян Непомнящий выиграл международный турнир «Аэрофлот Опен»",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69a97bdd9a794762796fb6f4",
+    "publishedAt": "2026-03-05T13:24:02.000Z",
+    "createdAt": "2026-03-05T14:52:50.780Z",
+    "updatedAt": "2026-03-05T14:52:50.780Z"
+  },
+  {
+    "id": "0e9b90d3be10278f",
+    "title": "Коростелеву не хватило 0,3 секунды до золота молодежного чемпионата мира",
+    "sport": "Другое",
+    "category": "Другие",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/9/98/347727148350989.jpeg",
+    "teaser": "Коростелеву не хватило 0,3 секунды до золота молодежного чемпионата мира",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69a979619a79477d108b01a9",
+    "publishedAt": "2026-03-05T13:15:42.000Z",
+    "createdAt": "2026-03-05T14:52:47.560Z",
+    "updatedAt": "2026-03-05T14:52:47.560Z"
+  },
+  {
+    "id": "045271cd4d120fe5",
+    "title": "Медведев сравнил дорогу из Дубая в США с голливудским фильмом",
+    "sport": "Теннис",
+    "category": "Теннис",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/1/28/347727131337281.jpeg",
+    "teaser": "Медведев сравнил дорогу из Дубая в США с голливудским фильмом",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69a971519a79476590e12acd",
+    "publishedAt": "2026-03-05T13:10:13.000Z",
+    "createdAt": "2026-03-05T14:52:52.882Z",
+    "updatedAt": "2026-03-05T14:52:52.882Z"
+  },
+  {
     "id": "8255310cab837c7b",
     "title": "Как на Байкале устанавливали мировые рекорды во фридайвинге. Фотогалерея",
     "sport": "Другое",
@@ -10,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69a90cc19a7947ff014e75d3",
     "publishedAt": "2026-03-05T12:36:49.000Z",
-    "createdAt": "2026-03-05T13:13:29.619Z",
-    "updatedAt": "2026-03-05T13:13:29.619Z"
+    "createdAt": "2026-03-05T14:52:48.724Z",
+    "updatedAt": "2026-03-05T14:52:48.724Z"
   },
   {
     "id": "799c72173743ab88",
@@ -24,8 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69a964a59a794744f5b4225e",
     "publishedAt": "2026-03-05T12:10:12.000Z",
-    "createdAt": "2026-03-05T13:13:31.736Z",
-    "updatedAt": "2026-03-05T13:13:31.736Z"
+    "createdAt": "2026-03-05T14:52:55.199Z",
+    "updatedAt": "2026-03-05T14:52:55.199Z"
   },
   {
     "id": "6ba571375a8d0aee",
@@ -38,8 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69a969599a7947675908b70e",
     "publishedAt": "2026-03-05T12:04:11.000Z",
-    "createdAt": "2026-03-05T13:13:30.696Z",
-    "updatedAt": "2026-03-05T13:13:30.696Z"
+    "createdAt": "2026-03-05T14:52:54.043Z",
+    "updatedAt": "2026-03-05T14:52:54.043Z"
   },
   {
     "id": "cf063d1f059a211d",
@@ -52,91 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69a9661b9a794711e1743c87",
     "publishedAt": "2026-03-05T11:29:50.000Z",
-    "createdAt": "2026-03-05T13:13:32.771Z",
-    "updatedAt": "2026-03-05T13:13:32.771Z"
-  },
-  {
-    "id": "14d8db685e03b4db",
-    "title": "Всадницу и тренера отстранили за жестокое обращение с конем Рамзаном",
-    "sport": "Другое",
-    "category": "Другие",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/9/48/347727075198489.jpeg",
-    "teaser": "Всадницу и тренера отстранили за жестокое обращение с конем Рамзаном",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69a959429a794768dda32b61",
-    "publishedAt": "2026-03-05T10:56:57.000Z",
-    "createdAt": "2026-03-05T13:13:34.845Z",
-    "updatedAt": "2026-03-05T13:13:34.845Z"
-  },
-  {
-    "id": "fa6578251faac3f0",
-    "title": "«Краснодар» ответил ЦСКА на претензии за мусор и сломанную дверь",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/7/48/347727063517487.jpeg",
-    "teaser": "«Краснодар» ответил ЦСКА на претензии за мусор и сломанную дверь",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69a958cc9a79473a31b48421",
-    "publishedAt": "2026-03-05T10:53:42.000Z",
-    "createdAt": "2026-03-05T13:13:33.806Z",
-    "updatedAt": "2026-03-05T13:13:33.806Z"
-  },
-  {
-    "id": "42bbcfc10ab49dd4",
-    "title": "«Локомотив-Кубань» расторг контракт с американским баскетболистом",
-    "sport": "Баскетбол",
-    "category": "Баскетбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/4/98/347727051925984.jpeg",
-    "teaser": "«Локомотив-Кубань» расторг контракт с американским баскетболистом",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69a9516f9a79473886f69e83",
-    "publishedAt": "2026-03-05T10:17:20.000Z",
-    "createdAt": "2026-03-05T13:13:38.982Z",
-    "updatedAt": "2026-03-05T13:13:38.982Z"
-  },
-  {
-    "id": "352057eb32df170a",
-    "title": "Польский телеканал решил прерывать трансляцию Паралимпиады на россиянах",
-    "sport": "Другое",
-    "category": "Другие",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/5/45/347727042118455.jpeg",
-    "teaser": "Польский телеканал решил прерывать трансляцию Паралимпиады на россиянах",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69a951989a794799948958c9",
-    "publishedAt": "2026-03-05T10:10:01.000Z",
-    "createdAt": "2026-03-05T13:13:35.894Z",
-    "updatedAt": "2026-03-05T13:13:35.894Z"
-  },
-  {
-    "id": "999e901c55901842",
-    "title": "На Паралимпиаде украли два камня для керлинга",
-    "sport": "Другое",
-    "category": "Другие",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/5/50/347727027859505.jpeg",
-    "teaser": "На Паралимпиаде украли два камня для керлинга",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69a94c0a9a7947813e24df78",
-    "publishedAt": "2026-03-05T09:46:26.000Z",
-    "createdAt": "2026-03-05T13:13:37.959Z",
-    "updatedAt": "2026-03-05T13:13:37.959Z"
-  },
-  {
-    "id": "47debae8b7f0b5e5",
-    "title": "Россиянка рассказала, как была владелицей олимпийского смартфона",
-    "sport": "Другое",
-    "category": "Другие",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/8/88/347727002764888.jpeg",
-    "teaser": "Россиянка рассказала, как была владелицей олимпийского смартфона",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69a93c0d9a7947739f39d7c6",
-    "publishedAt": "2026-03-05T09:39:14.000Z",
-    "createdAt": "2026-03-05T13:13:36.920Z",
-    "updatedAt": "2026-03-05T13:13:36.920Z"
+    "createdAt": "2026-03-05T14:52:56.340Z",
+    "updatedAt": "2026-03-05T14:52:56.340Z"
   }
 ]
