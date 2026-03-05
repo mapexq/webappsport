@@ -1,5 +1,61 @@
 [
   {
+    "id": "5494d7bd18f8c629",
+    "title": "«Локомотив» вышел в полуфинал Кубка России",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/0/97/347727291748970.jpeg",
+    "teaser": "«Локомотив» вышел в полуфинал Кубка России",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69a9ab729a79470462a3ac33",
+    "publishedAt": "2026-03-05T17:31:26.000Z",
+    "createdAt": "2026-03-05T18:09:56.743Z",
+    "updatedAt": "2026-03-05T18:09:56.743Z"
+  },
+  {
+    "id": "bfcbef1e391439ad",
+    "title": "В ЦСКА пока не нашли доказательств расизма в матче с «Краснодаром»",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/1/18/347727283014181.png",
+    "teaser": "В ЦСКА пока не нашли доказательств расизма в матче с «Краснодаром»",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69a9afc59a794742c074207c",
+    "publishedAt": "2026-03-05T17:01:34.000Z",
+    "createdAt": "2026-03-05T18:09:58.954Z",
+    "updatedAt": "2026-03-05T18:09:58.954Z"
+  },
+  {
+    "id": "21cce36b4131a68a",
+    "title": "Тутберидзе заявила, что российские фигуристы не умеют быть благодарными",
+    "sport": "Другое",
+    "category": "Фигурное катание",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/1/19/347727283832191.jpeg",
+    "teaser": "Тутберидзе заявила, что российские фигуристы не умеют быть благодарными",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69a9add89a79472e4497135d",
+    "publishedAt": "2026-03-05T16:52:27.000Z",
+    "createdAt": "2026-03-05T18:09:57.875Z",
+    "updatedAt": "2026-03-05T18:09:57.875Z"
+  },
+  {
+    "id": "27b5051609a70cf6",
+    "title": "Би-би-си сообщила о высоком риске отмены двух гонок F1 на Ближнем Востоке",
+    "sport": "Другое",
+    "category": "Формула-1",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/1/33/347727256216331.jpeg",
+    "teaser": "Би-би-си сообщила о высоком риске отмены двух гонок F1 на Ближнем Востоке",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69a9a0809a794754d9e1925d",
+    "publishedAt": "2026-03-05T15:58:33.000Z",
+    "createdAt": "2026-03-05T18:10:01.123Z",
+    "updatedAt": "2026-03-05T18:10:01.123Z"
+  },
+  {
     "id": "3ad9f74361e947b0",
     "title": "Защитника «Динамо» дисквалифицировали на три матча за подножку судье",
     "sport": "Хоккей",
@@ -10,8 +66,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69a99f1a9a7947419f8f24d2",
     "publishedAt": "2026-03-05T15:49:37.000Z",
-    "createdAt": "2026-03-05T15:55:21.910Z",
-    "updatedAt": "2026-03-05T15:55:21.910Z"
+    "createdAt": "2026-03-05T18:10:00.044Z",
+    "updatedAt": "2026-03-05T18:10:00.044Z"
   },
   {
     "id": "6ea3397239a8a7ad",
@@ -24,8 +80,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69a98e039a79470f3e3344b0",
     "publishedAt": "2026-03-05T15:12:04.000Z",
-    "createdAt": "2026-03-05T15:55:24.075Z",
-    "updatedAt": "2026-03-05T15:55:24.075Z"
+    "createdAt": "2026-03-05T18:10:03.308Z",
+    "updatedAt": "2026-03-05T18:10:03.308Z"
   },
   {
     "id": "7689d9dd94113d16",
@@ -38,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69a98b219a794777749ace3a",
     "publishedAt": "2026-03-05T14:34:33.000Z",
-    "createdAt": "2026-03-05T15:55:25.230Z",
-    "updatedAt": "2026-03-05T15:55:25.230Z"
+    "createdAt": "2026-03-05T18:10:05.540Z",
+    "updatedAt": "2026-03-05T18:10:05.540Z"
   },
   {
     "id": "12d49551a4c42710",
@@ -52,36 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69a982149a794721d847a6b4",
     "publishedAt": "2026-03-05T14:29:41.000Z",
-    "createdAt": "2026-03-05T15:55:26.388Z",
-    "updatedAt": "2026-03-05T15:55:26.388Z"
-  },
-  {
-    "id": "b362f7cf4deccf38",
-    "title": "Американский фигурист Малинин получил премию МОК «За честную игру» на ОИ",
-    "sport": "Другое",
-    "category": "Фигурное катание",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/8/38/347727172409388.jpeg",
-    "teaser": "Американский фигурист Малинин получил премию МОК «За честную игру» на ОИ",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69a983da9a7947d3989be721",
-    "publishedAt": "2026-03-05T14:00:45.000Z",
-    "createdAt": "2026-03-05T15:55:29.604Z",
-    "updatedAt": "2026-03-05T15:55:29.604Z"
-  },
-  {
-    "id": "449d4ea1126445c5",
-    "title": "«Сибирь» выиграла матч КХЛ в Шанхае и лишила «Барыс» и «Адмирал» плей-офф",
-    "sport": "Хоккей",
-    "category": "Хоккей",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/8/66/347727182194668.jpeg",
-    "teaser": "«Сибирь» выиграла матч КХЛ в Шанхае и лишила «Барыс» и «Адмирал» плей-офф",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69a983459a79475c96a48f7e",
-    "publishedAt": "2026-03-05T13:59:12.000Z",
-    "createdAt": "2026-03-05T15:55:31.998Z",
-    "updatedAt": "2026-03-05T15:55:31.998Z"
+    "createdAt": "2026-03-05T18:10:06.814Z",
+    "updatedAt": "2026-03-05T18:10:06.814Z"
   },
   {
     "id": "3875a1e28544f004",
@@ -94,36 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69a97f189a7947d1470e3a7d",
     "publishedAt": "2026-03-05T13:25:56.000Z",
-    "createdAt": "2026-03-05T15:55:28.462Z",
-    "updatedAt": "2026-03-05T15:55:28.462Z"
-  },
-  {
-    "id": "d3ab167b05e59ee6",
-    "title": "Ян Непомнящий выиграл международный турнир «Аэрофлот Опен»",
-    "sport": "Другое",
-    "category": "Другие",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/3/79/347727155274793.jpeg",
-    "teaser": "Ян Непомнящий выиграл международный турнир «Аэрофлот Опен»",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69a97bdd9a794762796fb6f4",
-    "publishedAt": "2026-03-05T13:24:02.000Z",
-    "createdAt": "2026-03-05T15:55:35.720Z",
-    "updatedAt": "2026-03-05T15:55:35.720Z"
-  },
-  {
-    "id": "0e9b90d3be10278f",
-    "title": "Коростелеву не хватило 0,3 секунды до золота молодежного чемпионата мира",
-    "sport": "Другое",
-    "category": "Другие",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/9/98/347727148350989.jpeg",
-    "teaser": "Коростелеву не хватило 0,3 секунды до золота молодежного чемпионата мира",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69a979619a79477d108b01a9",
-    "publishedAt": "2026-03-05T13:15:42.000Z",
-    "createdAt": "2026-03-05T15:55:33.181Z",
-    "updatedAt": "2026-03-05T15:55:33.181Z"
+    "createdAt": "2026-03-05T18:10:08.822Z",
+    "updatedAt": "2026-03-05T18:10:08.822Z"
   },
   {
     "id": "8255310cab837c7b",
@@ -136,7 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69a90cc19a7947ff014e75d3",
     "publishedAt": "2026-03-05T12:36:49.000Z",
-    "createdAt": "2026-03-05T15:55:30.749Z",
-    "updatedAt": "2026-03-05T15:55:30.749Z"
+    "createdAt": "2026-03-05T18:10:04.430Z",
+    "updatedAt": "2026-03-05T18:10:04.430Z"
   }
 ]
