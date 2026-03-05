@@ -1,5 +1,61 @@
 [
   {
+    "id": "8255310cab837c7b",
+    "title": "Как на Байкале устанавливали мировые рекорды во фридайвинге. Фотогалерея",
+    "sport": "Другое",
+    "category": "Другие",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/1/36/347726875285361.jpeg",
+    "teaser": "Как на Байкале устанавливали мировые рекорды во фридайвинге. Фотогалерея",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69a90cc19a7947ff014e75d3",
+    "publishedAt": "2026-03-05T12:36:49.000Z",
+    "createdAt": "2026-03-05T13:13:29.619Z",
+    "updatedAt": "2026-03-05T13:13:29.619Z"
+  },
+  {
+    "id": "799c72173743ab88",
+    "title": "В «Астон Мартине» заявили о риске не финишировать на Гран-при Австралии",
+    "sport": "Другое",
+    "category": "Формула-1",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/6/82/347727122014826.jpeg",
+    "teaser": "В «Астон Мартине» заявили о риске не финишировать на Гран-при Австралии",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69a964a59a794744f5b4225e",
+    "publishedAt": "2026-03-05T12:10:12.000Z",
+    "createdAt": "2026-03-05T13:13:31.736Z",
+    "updatedAt": "2026-03-05T13:13:31.736Z"
+  },
+  {
+    "id": "6ba571375a8d0aee",
+    "title": "В ПКР рассказали о задымившейся проводке в номере паралимпийцев",
+    "sport": "Другое",
+    "category": "Другие",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/0/44/347727115367440.png",
+    "teaser": "В ПКР рассказали о задымившейся проводке в номере паралимпийцев",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69a969599a7947675908b70e",
+    "publishedAt": "2026-03-05T12:04:11.000Z",
+    "createdAt": "2026-03-05T13:13:30.696Z",
+    "updatedAt": "2026-03-05T13:13:30.696Z"
+  },
+  {
+    "id": "cf063d1f059a211d",
+    "title": "«Салават Юлаев» обыграл «Амур» и вышел в плей-офф КХЛ",
+    "sport": "Хоккей",
+    "category": "Хоккей",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/7/61/347727099541617.jpeg",
+    "teaser": "«Салават Юлаев» обыграл «Амур» и вышел в плей-офф КХЛ",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69a9661b9a794711e1743c87",
+    "publishedAt": "2026-03-05T11:29:50.000Z",
+    "createdAt": "2026-03-05T13:13:32.771Z",
+    "updatedAt": "2026-03-05T13:13:32.771Z"
+  },
+  {
     "id": "14d8db685e03b4db",
     "title": "Всадницу и тренера отстранили за жестокое обращение с конем Рамзаном",
     "sport": "Другое",
@@ -10,8 +66,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69a959429a794768dda32b61",
     "publishedAt": "2026-03-05T10:56:57.000Z",
-    "createdAt": "2026-03-05T11:38:44.708Z",
-    "updatedAt": "2026-03-05T11:38:44.708Z"
+    "createdAt": "2026-03-05T13:13:34.845Z",
+    "updatedAt": "2026-03-05T13:13:34.845Z"
   },
   {
     "id": "fa6578251faac3f0",
@@ -24,8 +80,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69a958cc9a79473a31b48421",
     "publishedAt": "2026-03-05T10:53:42.000Z",
-    "createdAt": "2026-03-05T11:38:43.678Z",
-    "updatedAt": "2026-03-05T11:38:43.678Z"
+    "createdAt": "2026-03-05T13:13:33.806Z",
+    "updatedAt": "2026-03-05T13:13:33.806Z"
   },
   {
     "id": "42bbcfc10ab49dd4",
@@ -38,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69a9516f9a79473886f69e83",
     "publishedAt": "2026-03-05T10:17:20.000Z",
-    "createdAt": "2026-03-05T11:38:48.978Z",
-    "updatedAt": "2026-03-05T11:38:48.978Z"
+    "createdAt": "2026-03-05T13:13:38.982Z",
+    "updatedAt": "2026-03-05T13:13:38.982Z"
   },
   {
     "id": "352057eb32df170a",
@@ -52,22 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69a951989a794799948958c9",
     "publishedAt": "2026-03-05T10:10:01.000Z",
-    "createdAt": "2026-03-05T11:38:45.798Z",
-    "updatedAt": "2026-03-05T11:38:45.798Z"
-  },
-  {
-    "id": "295f5555b2aeb08d",
-    "title": "Призер Олимпийских игр в Италии объявила о завершении карьеры",
-    "sport": "Другое",
-    "category": "Другие",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/0/25/347727037272250.jpeg",
-    "teaser": "Призер Олимпийских игр в Италии объявила о завершении карьеры",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69a946c09a794748ecdbe124",
-    "publishedAt": "2026-03-05T09:50:41.000Z",
-    "createdAt": "2026-03-05T11:38:49.930Z",
-    "updatedAt": "2026-03-05T11:38:49.930Z"
+    "createdAt": "2026-03-05T13:13:35.894Z",
+    "updatedAt": "2026-03-05T13:13:35.894Z"
   },
   {
     "id": "999e901c55901842",
@@ -80,8 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69a94c0a9a7947813e24df78",
     "publishedAt": "2026-03-05T09:46:26.000Z",
-    "createdAt": "2026-03-05T11:38:48.029Z",
-    "updatedAt": "2026-03-05T11:38:48.029Z"
+    "createdAt": "2026-03-05T13:13:37.959Z",
+    "updatedAt": "2026-03-05T13:13:37.959Z"
   },
   {
     "id": "47debae8b7f0b5e5",
@@ -94,49 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69a93c0d9a7947739f39d7c6",
     "publishedAt": "2026-03-05T09:39:14.000Z",
-    "createdAt": "2026-03-05T11:38:47.026Z",
-    "updatedAt": "2026-03-05T11:38:47.026Z"
-  },
-  {
-    "id": "d5a0ab653c79cdd3",
-    "title": "Бывший тренер «Монако» возглавил бразильский «Фламенго»",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/1/75/347726980049751.jpeg",
-    "teaser": "Бывший тренер «Монако» возглавил бразильский «Фламенго»",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69a934c19a794718e4bc6d70",
-    "publishedAt": "2026-03-05T08:36:52.000Z",
-    "createdAt": "2026-03-05T11:38:51.955Z",
-    "updatedAt": "2026-03-05T11:38:51.955Z"
-  },
-  {
-    "id": "68518d651037c166",
-    "title": "Команда Большунова стала второй в эстафете на чемпионате России",
-    "sport": "Другое",
-    "category": "Другие",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/6/09/347726958807096.jpeg",
-    "teaser": "Команда Большунова стала второй в эстафете на чемпионате России",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69a92e0a9a7947767123309b",
-    "publishedAt": "2026-03-05T07:42:29.000Z",
-    "createdAt": "2026-03-05T11:38:53.004Z",
-    "updatedAt": "2026-03-05T11:38:53.004Z"
-  },
-  {
-    "id": "94a6439a27267111",
-    "title": "Игроки «Краснодара» пожаловались на расизм со стороны болельщиков ЦСКА",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/5/91/347726937548915.jpeg",
-    "teaser": "Игроки «Краснодара» пожаловались на расизм со стороны болельщиков ЦСКА",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69a9248f9a7947e674c8c208",
-    "publishedAt": "2026-03-05T07:20:25.000Z",
-    "createdAt": "2026-03-05T11:38:50.888Z",
-    "updatedAt": "2026-03-05T11:38:50.888Z"
+    "createdAt": "2026-03-05T13:13:36.920Z",
+    "updatedAt": "2026-03-05T13:13:36.920Z"
   }
 ]
