@@ -1,5 +1,47 @@
 [
   {
+    "id": "ddb90a325bc2700e",
+    "title": "Экс-футболист МЮ и сборной Англии продолжит карьеру в Бразилии",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/7/46/347728082104467.jpeg",
+    "teaser": "Экс-футболист МЮ и сборной Англии продолжит карьеру в Бразилии",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69aae5e19a7947c2198a4afa",
+    "publishedAt": "2026-03-06T14:56:14.000Z",
+    "createdAt": "2026-03-06T15:43:39.208Z",
+    "updatedAt": "2026-03-06T15:43:39.208Z"
+  },
+  {
+    "id": "6335f4d7df2c6ca5",
+    "title": "Португальский клуб оштрафовали за «сильный запах каннабиса на трибунах»",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/7/94/347728077745947.jpeg",
+    "teaser": "Португальский клуб оштрафовали за «сильный запах каннабиса на трибунах»",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69aae23c9a79474bb1b5f35e",
+    "publishedAt": "2026-03-06T14:53:03.000Z",
+    "createdAt": "2026-03-06T15:43:38.116Z",
+    "updatedAt": "2026-03-06T15:43:38.116Z"
+  },
+  {
+    "id": "f1ae9d15f0d2bcfe",
+    "title": "PFL расторг контракт с легендой UFC Нганну после одного боя",
+    "sport": "Единоборства",
+    "category": "Единоборства",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/8/16/347728067337168.jpeg",
+    "teaser": "PFL расторг контракт с легендой UFC Нганну после одного боя",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69aae21f9a79474bb1b5f359",
+    "publishedAt": "2026-03-06T14:47:47.000Z",
+    "createdAt": "2026-03-06T15:43:40.312Z",
+    "updatedAt": "2026-03-06T15:43:40.312Z"
+  },
+  {
     "id": "378e625bd41f3a7b",
     "title": "Тренер «Ан-Насра» заявил, что Роналду отправится на лечение в Испанию",
     "sport": "Футбол",
@@ -10,8 +52,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69aad7079a7947958c300620",
     "publishedAt": "2026-03-06T14:13:44.000Z",
-    "createdAt": "2026-03-06T14:41:41.269Z",
-    "updatedAt": "2026-03-06T14:41:41.269Z"
+    "createdAt": "2026-03-06T15:43:41.354Z",
+    "updatedAt": "2026-03-06T15:43:41.354Z"
   },
   {
     "id": "9e7e50d8b7d1d783",
@@ -24,8 +66,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69aadadb9a794785b1e83d61",
     "publishedAt": "2026-03-06T14:09:36.000Z",
-    "createdAt": "2026-03-06T14:41:42.219Z",
-    "updatedAt": "2026-03-06T14:41:42.219Z"
+    "createdAt": "2026-03-06T15:43:42.447Z",
+    "updatedAt": "2026-03-06T15:43:42.447Z"
   },
   {
     "id": "52a60000e7fd49ab",
@@ -38,22 +80,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69aaca959a7947a4a3ac40f6",
     "publishedAt": "2026-03-06T14:03:05.000Z",
-    "createdAt": "2026-03-06T14:41:43.153Z",
-    "updatedAt": "2026-03-06T14:41:43.153Z"
-  },
-  {
-    "id": "ab231c93b93cf273",
-    "title": "Российские прыгуны в воду завоевали квоты на суперфинал Кубка мира",
-    "sport": "Другое",
-    "category": "Другие",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/8/29/347728028484298.jpeg",
-    "teaser": "Российские прыгуны в воду завоевали квоты на суперфинал Кубка мира",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69aad2a89a7947843e13c3ab",
-    "publishedAt": "2026-03-06T13:27:28.000Z",
-    "createdAt": "2026-03-06T14:41:49.084Z",
-    "updatedAt": "2026-03-06T14:41:49.084Z"
+    "createdAt": "2026-03-06T15:43:43.570Z",
+    "updatedAt": "2026-03-06T15:43:43.570Z"
   },
   {
     "id": "eeed6c2845fab329",
@@ -66,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69aaccf69a79473537741cd2",
     "publishedAt": "2026-03-06T13:16:01.000Z",
-    "createdAt": "2026-03-06T14:41:44.123Z",
-    "updatedAt": "2026-03-06T14:41:44.123Z"
+    "createdAt": "2026-03-06T15:43:44.674Z",
+    "updatedAt": "2026-03-06T15:43:44.674Z"
   },
   {
     "id": "709321934ba6373a",
@@ -80,8 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69aacb779a79475b9d8a643b",
     "publishedAt": "2026-03-06T13:05:11.000Z",
-    "createdAt": "2026-03-06T14:41:45.022Z",
-    "updatedAt": "2026-03-06T14:41:45.022Z"
+    "createdAt": "2026-03-06T15:43:45.709Z",
+    "updatedAt": "2026-03-06T15:43:45.709Z"
   },
   {
     "id": "18aa094f186822e6",
@@ -94,8 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69aac3159a7947c82bcb6cac",
     "publishedAt": "2026-03-06T12:42:07.000Z",
-    "createdAt": "2026-03-06T14:41:46.038Z",
-    "updatedAt": "2026-03-06T14:41:46.038Z"
+    "createdAt": "2026-03-06T15:43:46.815Z",
+    "updatedAt": "2026-03-06T15:43:46.815Z"
   },
   {
     "id": "b8a81baf05cfa1ca",
@@ -108,35 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69aab5ec9a7947d8447ee1ff",
     "publishedAt": "2026-03-06T11:58:44.000Z",
-    "createdAt": "2026-03-06T14:41:47.050Z",
-    "updatedAt": "2026-03-06T14:41:47.050Z"
-  },
-  {
-    "id": "6e69fb52025d7421",
-    "title": "Глава КХЛ рассказал, что лига заинтересована в проведении матчей в ОАЭ",
-    "sport": "Хоккей",
-    "category": "Хоккей",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/1/76/347727948126761.jpeg",
-    "teaser": "Глава КХЛ рассказал, что лига заинтересована в проведении матчей в ОАЭ",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69aaaf089a79476196f8fd2a",
-    "publishedAt": "2026-03-06T11:45:01.000Z",
-    "createdAt": "2026-03-06T14:41:48.057Z",
-    "updatedAt": "2026-03-06T14:41:48.057Z"
-  },
-  {
-    "id": "7c01a5e231b6d763",
-    "title": "Российским паралимпийцам не подарили смартфоны на Играх в Италии",
-    "sport": "Другое",
-    "category": "Другие",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/3/01/347727940371013.jpeg",
-    "teaser": "Российским паралимпийцам не подарили смартфоны на Играх в Италии",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69aab0859a794700a0e5622c",
-    "publishedAt": "2026-03-06T11:00:35.000Z",
-    "createdAt": "2026-03-06T14:41:50.107Z",
-    "updatedAt": "2026-03-06T14:41:50.107Z"
+    "createdAt": "2026-03-06T15:43:47.920Z",
+    "updatedAt": "2026-03-06T15:43:47.920Z"
   }
 ]
