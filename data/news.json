@@ -1,5 +1,61 @@
 [
   {
+    "id": "943f58e66321960f",
+    "title": "Вяльбе заявила о риске раскола в сборной из-за попавших на Игры лыжников",
+    "sport": "Другое",
+    "category": "Другие",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/6/85/347727871381856.jpeg",
+    "teaser": "Вяльбе заявила о риске раскола в сборной из-за попавших на Игры лыжников",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69aa932a9a79475e6408415e",
+    "publishedAt": "2026-03-06T09:35:38.000Z",
+    "createdAt": "2026-03-06T09:48:03.287Z",
+    "updatedAt": "2026-03-06T09:48:03.287Z"
+  },
+  {
+    "id": "8cd21e203540c17f",
+    "title": "Румыния опровергла заявление Украины о бойкоте открытия Паралимпиады",
+    "sport": "Другое",
+    "category": "Другие",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/8/49/347727852969498.jpeg",
+    "teaser": "Румыния опровергла заявление Украины о бойкоте открытия Паралимпиады",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69aa8d9a9a7947c16b1a20c6",
+    "publishedAt": "2026-03-06T09:16:34.000Z",
+    "createdAt": "2026-03-06T09:48:04.353Z",
+    "updatedAt": "2026-03-06T09:48:04.353Z"
+  },
+  {
+    "id": "8f341d535726a4c4",
+    "title": "Лыжник Денисов рассказал, как FIS убедила его получить нейтральный статус",
+    "sport": "Другое",
+    "category": "Другие",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/9/82/347727840779829.jpeg",
+    "teaser": "Лыжник Денисов рассказал, как FIS убедила его получить нейтральный статус",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69aa870f9a7947b36f674f6b",
+    "publishedAt": "2026-03-06T09:06:30.000Z",
+    "createdAt": "2026-03-06T09:48:06.225Z",
+    "updatedAt": "2026-03-06T09:48:06.226Z"
+  },
+  {
+    "id": "e8093a85385384e9",
+    "title": "Стало известно, кто понесет флаг России на открытии Паралимпиады",
+    "sport": "Другое",
+    "category": "Другие",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/0/39/347727868639390.jpeg",
+    "teaser": "Стало известно, кто понесет флаг России на открытии Паралимпиады",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69aa94809a7947291869e629",
+    "publishedAt": "2026-03-06T08:58:37.000Z",
+    "createdAt": "2026-03-06T09:48:05.162Z",
+    "updatedAt": "2026-03-06T09:48:05.162Z"
+  },
+  {
     "id": "d4b0f755cf6af351",
     "title": "Трамп принял Месси в Белом доме и сравнил его с Пеле и Роналду",
     "sport": "Футбол",
@@ -10,8 +66,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69aa7d809a79474239b02fc8",
     "publishedAt": "2026-03-06T08:30:53.000Z",
-    "createdAt": "2026-03-06T08:47:15.285Z",
-    "updatedAt": "2026-03-06T08:47:15.285Z"
+    "createdAt": "2026-03-06T09:48:07.276Z",
+    "updatedAt": "2026-03-06T09:48:07.276Z"
   },
   {
     "id": "78b9a870a45af22d",
@@ -24,8 +80,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69aa89c49a79479c5c6f1684",
     "publishedAt": "2026-03-06T08:17:03.000Z",
-    "createdAt": "2026-03-06T08:47:16.447Z",
-    "updatedAt": "2026-03-06T08:47:16.447Z"
+    "createdAt": "2026-03-06T09:48:08.311Z",
+    "updatedAt": "2026-03-06T09:48:08.311Z"
   },
   {
     "id": "61b8fedecc568601",
@@ -38,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69aa819b9a7947b2df9275e9",
     "publishedAt": "2026-03-06T07:44:14.000Z",
-    "createdAt": "2026-03-06T08:47:17.547Z",
-    "updatedAt": "2026-03-06T08:47:17.547Z"
+    "createdAt": "2026-03-06T09:48:09.375Z",
+    "updatedAt": "2026-03-06T09:48:09.375Z"
   },
   {
     "id": "39ed984a53a5c976",
@@ -52,8 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69aa7f579a79472674e613af",
     "publishedAt": "2026-03-06T07:36:26.000Z",
-    "createdAt": "2026-03-06T08:47:18.690Z",
-    "updatedAt": "2026-03-06T08:47:18.690Z"
+    "createdAt": "2026-03-06T09:48:10.403Z",
+    "updatedAt": "2026-03-06T09:48:10.403Z"
   },
   {
     "id": "12f191f2d51f7369",
@@ -66,22 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69aa76e99a794740200127db",
     "publishedAt": "2026-03-06T07:27:54.000Z",
-    "createdAt": "2026-03-06T08:47:19.712Z",
-    "updatedAt": "2026-03-06T08:47:19.712Z"
-  },
-  {
-    "id": "426ba16bddd5a75c",
-    "title": "Российским юниорам по волейболу разрешили выступать в Европе с флагом",
-    "sport": "Другое",
-    "category": "Другие",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/1/05/347727782833051.jpeg",
-    "teaser": "Российским юниорам по волейболу разрешили выступать в Европе с флагом",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69aa727c9a79476b91041afa",
-    "publishedAt": "2026-03-06T07:07:55.000Z",
-    "createdAt": "2026-03-06T08:47:21.945Z",
-    "updatedAt": "2026-03-06T08:47:21.945Z"
+    "createdAt": "2026-03-06T09:48:11.486Z",
+    "updatedAt": "2026-03-06T09:48:11.486Z"
   },
   {
     "id": "dda2905b85d986c7",
@@ -94,49 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69a70e469a7947130900c91f",
     "publishedAt": "2026-03-06T06:57:20.000Z",
-    "createdAt": "2026-03-06T08:47:20.863Z",
-    "updatedAt": "2026-03-06T08:47:20.863Z"
-  },
-  {
-    "id": "4817bdf97631c472",
-    "title": "Дебютный гол Панарина помог «Лос-Анджелесу» обыграть «Айлендерс»",
-    "sport": "Хоккей",
-    "category": "Хоккей",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/2/22/347727775204222.jpeg",
-    "teaser": "Дебютный гол Панарина помог «Лос-Анджелесу» обыграть «Айлендерс»",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69aa6eb29a79470fd1fb7779",
-    "publishedAt": "2026-03-06T06:48:08.000Z",
-    "createdAt": "2026-03-06T08:47:23.143Z",
-    "updatedAt": "2026-03-06T08:47:23.143Z"
-  },
-  {
-    "id": "f294b0d4a4b7c144",
-    "title": "Как выглядит первая за 10 лет форма сборной России на Играх",
-    "sport": "Другое",
-    "category": "Другие",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/7/19/347727194434197.jpeg",
-    "teaser": "Как выглядит первая за 10 лет форма сборной России на Играх",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69a982959a79475eda38be8d",
-    "publishedAt": "2026-03-06T06:44:46.000Z",
-    "createdAt": "2026-03-06T08:47:24.259Z",
-    "updatedAt": "2026-03-06T08:47:24.259Z"
-  },
-  {
-    "id": "0a6d6cf91b48b7e8",
-    "title": "Какие страны бойкотируют церемонию открытия Паралимпиады из-за россиян",
-    "sport": "Другое",
-    "category": "Другие",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/0/77/347716896288770.jpeg",
-    "teaser": "Какие страны бойкотируют церемонию открытия Паралимпиады из-за россиян",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/699978ad9a79478bc58da35a",
-    "publishedAt": "2026-03-06T06:32:43.000Z",
-    "createdAt": "2026-03-06T08:47:25.426Z",
-    "updatedAt": "2026-03-06T08:47:25.426Z"
+    "createdAt": "2026-03-06T09:48:12.532Z",
+    "updatedAt": "2026-03-06T09:48:12.532Z"
   }
 ]
