@@ -1,5 +1,47 @@
 [
   {
+    "id": "d4b0f755cf6af351",
+    "title": "Трамп принял Месси в Белом доме и сравнил его с Пеле и Роналду",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/6/50/347727811292506.jpeg",
+    "teaser": "Трамп принял Месси в Белом доме и сравнил его с Пеле и Роналду",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69aa7d809a79474239b02fc8",
+    "publishedAt": "2026-03-06T08:30:53.000Z",
+    "createdAt": "2026-03-06T08:47:15.285Z",
+    "updatedAt": "2026-03-06T08:47:15.285Z"
+  },
+  {
+    "id": "78b9a870a45af22d",
+    "title": "Россиянин вошел в число звезд дня в НХЛ после трех набранных очков",
+    "sport": "Хоккей",
+    "category": "Хоккей",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/4/30/347727841123304.jpeg",
+    "teaser": "Россиянин вошел в число звезд дня в НХЛ после трех набранных очков",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69aa89c49a79479c5c6f1684",
+    "publishedAt": "2026-03-06T08:17:03.000Z",
+    "createdAt": "2026-03-06T08:47:16.447Z",
+    "updatedAt": "2026-03-06T08:47:16.447Z"
+  },
+  {
+    "id": "61b8fedecc568601",
+    "title": "Малкин получил матч-штраф за удар соперника клюшкой по лицу в НХЛ",
+    "sport": "Хоккей",
+    "category": "Хоккей",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/1/71/347727820667711.jpeg",
+    "teaser": "Малкин получил матч-штраф за удар соперника клюшкой по лицу в НХЛ",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69aa819b9a7947b2df9275e9",
+    "publishedAt": "2026-03-06T07:44:14.000Z",
+    "createdAt": "2026-03-06T08:47:17.547Z",
+    "updatedAt": "2026-03-06T08:47:17.547Z"
+  },
+  {
     "id": "39ed984a53a5c976",
     "title": "В ОАЭ отменили товарищеский матч женской сборной России по футболу",
     "sport": "Футбол",
@@ -10,8 +52,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69aa7f579a79472674e613af",
     "publishedAt": "2026-03-06T07:36:26.000Z",
-    "createdAt": "2026-03-06T07:46:00.429Z",
-    "updatedAt": "2026-03-06T07:46:00.429Z"
+    "createdAt": "2026-03-06T08:47:18.690Z",
+    "updatedAt": "2026-03-06T08:47:18.690Z"
   },
   {
     "id": "12f191f2d51f7369",
@@ -24,8 +66,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69aa76e99a794740200127db",
     "publishedAt": "2026-03-06T07:27:54.000Z",
-    "createdAt": "2026-03-06T07:46:01.613Z",
-    "updatedAt": "2026-03-06T07:46:01.613Z"
+    "createdAt": "2026-03-06T08:47:19.712Z",
+    "updatedAt": "2026-03-06T08:47:19.712Z"
   },
   {
     "id": "426ba16bddd5a75c",
@@ -38,8 +80,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69aa727c9a79476b91041afa",
     "publishedAt": "2026-03-06T07:07:55.000Z",
-    "createdAt": "2026-03-06T07:46:03.954Z",
-    "updatedAt": "2026-03-06T07:46:03.954Z"
+    "createdAt": "2026-03-06T08:47:21.945Z",
+    "updatedAt": "2026-03-06T08:47:21.945Z"
   },
   {
     "id": "dda2905b85d986c7",
@@ -52,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69a70e469a7947130900c91f",
     "publishedAt": "2026-03-06T06:57:20.000Z",
-    "createdAt": "2026-03-06T07:46:02.750Z",
-    "updatedAt": "2026-03-06T07:46:02.750Z"
+    "createdAt": "2026-03-06T08:47:20.863Z",
+    "updatedAt": "2026-03-06T08:47:20.863Z"
   },
   {
     "id": "4817bdf97631c472",
@@ -66,8 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69aa6eb29a79470fd1fb7779",
     "publishedAt": "2026-03-06T06:48:08.000Z",
-    "createdAt": "2026-03-06T07:46:05.109Z",
-    "updatedAt": "2026-03-06T07:46:05.109Z"
+    "createdAt": "2026-03-06T08:47:23.143Z",
+    "updatedAt": "2026-03-06T08:47:23.143Z"
   },
   {
     "id": "f294b0d4a4b7c144",
@@ -80,8 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69a982959a79475eda38be8d",
     "publishedAt": "2026-03-06T06:44:46.000Z",
-    "createdAt": "2026-03-06T07:46:06.263Z",
-    "updatedAt": "2026-03-06T07:46:06.263Z"
+    "createdAt": "2026-03-06T08:47:24.259Z",
+    "updatedAt": "2026-03-06T08:47:24.259Z"
   },
   {
     "id": "0a6d6cf91b48b7e8",
@@ -94,49 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/699978ad9a79478bc58da35a",
     "publishedAt": "2026-03-06T06:32:43.000Z",
-    "createdAt": "2026-03-06T07:46:07.406Z",
-    "updatedAt": "2026-03-06T07:46:07.406Z"
-  },
-  {
-    "id": "e4c10227e6d5ac55",
-    "title": "«Динамо» разгромило «Спартак» благодаря трем голам за шесть минут",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/4/90/347727375603904.jpeg",
-    "teaser": "«Динамо» разгромило «Спартак» благодаря трем голам за шесть минут",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69a9d1749a7947064a06908d",
-    "publishedAt": "2026-03-05T19:56:25.000Z",
-    "createdAt": "2026-03-06T07:46:08.581Z",
-    "updatedAt": "2026-03-06T07:46:08.581Z"
-  },
-  {
-    "id": "8f0e7760ddbe943f",
-    "title": "Женский Кубок Африки по футболу перенесли за до старта",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/3/60/347727348489603.png",
-    "teaser": "Женский Кубок Африки по футболу перенесли за до старта",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69a9c44d9a7947a84b7ad9eb",
-    "publishedAt": "2026-03-05T18:29:52.000Z",
-    "createdAt": "2026-03-06T07:46:10.903Z",
-    "updatedAt": "2026-03-06T07:46:10.903Z"
-  },
-  {
-    "id": "5494d7bd18f8c629",
-    "title": "«Локомотив» вышел в полуфинал Кубка России",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/0/97/347727291748970.jpeg",
-    "teaser": "«Локомотив» вышел в полуфинал Кубка России",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69a9ab729a79470462a3ac33",
-    "publishedAt": "2026-03-05T17:31:26.000Z",
-    "createdAt": "2026-03-06T07:46:09.727Z",
-    "updatedAt": "2026-03-06T07:46:09.728Z"
+    "createdAt": "2026-03-06T08:47:25.426Z",
+    "updatedAt": "2026-03-06T08:47:25.426Z"
   }
 ]
