@@ -1,5 +1,61 @@
 [
   {
+    "id": "0158ea058393489d",
+    "title": "Журналист рассказал, что игроки «Вашингтона» шокированы обменом Карлсона",
+    "sport": "Хоккей",
+    "category": "Хоккей",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/1/35/347727884541351.jpeg",
+    "teaser": "Журналист рассказал, что игроки «Вашингтона» шокированы обменом Карлсона",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69aa982a9a794746fc171e0e",
+    "publishedAt": "2026-03-06T10:34:12.000Z",
+    "createdAt": "2026-03-06T10:42:28.234Z",
+    "updatedAt": "2026-03-06T10:42:28.234Z"
+  },
+  {
+    "id": "3d40b61020e0c654",
+    "title": "Шакил О'Нил встретился с самой высокой моделью мира из России",
+    "sport": "Баскетбол",
+    "category": "Баскетбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/4/26/347727900061264.jpeg",
+    "teaser": "Шакил О'Нил встретился с самой высокой моделью мира из России",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69aa9e739a7947ba6e26234e",
+    "publishedAt": "2026-03-06T10:30:46.000Z",
+    "createdAt": "2026-03-06T10:42:26.221Z",
+    "updatedAt": "2026-03-06T10:42:26.221Z"
+  },
+  {
+    "id": "ecd2f7bf071e6b42",
+    "title": "Дегтярев заявил, что бойкотирующие Паралимпиаду пляшут под дудку Украины",
+    "sport": "Другое",
+    "category": "Другие",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/4/05/347727913769054.jpeg",
+    "teaser": "Дегтярев заявил, что бойкотирующие Паралимпиаду пляшут под дудку Украины",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69aaa31a9a79478237b113c0",
+    "publishedAt": "2026-03-06T10:08:10.000Z",
+    "createdAt": "2026-03-06T10:42:29.431Z",
+    "updatedAt": "2026-03-06T10:42:29.431Z"
+  },
+  {
+    "id": "f9e87d91e3a00879",
+    "title": "Футбольного арбитра задержали за взятку в ₽2 млн",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/8/15/347727906185158.jpeg",
+    "teaser": "Футбольного арбитра задержали за взятку в ₽2 млн",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69aa9fe69a794730c668c836",
+    "publishedAt": "2026-03-06T09:49:04.000Z",
+    "createdAt": "2026-03-06T10:42:27.125Z",
+    "updatedAt": "2026-03-06T10:42:27.125Z"
+  },
+  {
     "id": "943f58e66321960f",
     "title": "Вяльбе заявила о риске раскола в сборной из-за попавших на Игры лыжников",
     "sport": "Другое",
@@ -10,8 +66,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69aa932a9a79475e6408415e",
     "publishedAt": "2026-03-06T09:35:38.000Z",
-    "createdAt": "2026-03-06T09:48:03.287Z",
-    "updatedAt": "2026-03-06T09:48:03.287Z"
+    "createdAt": "2026-03-06T10:42:30.438Z",
+    "updatedAt": "2026-03-06T10:42:30.438Z"
   },
   {
     "id": "8cd21e203540c17f",
@@ -24,8 +80,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69aa8d9a9a7947c16b1a20c6",
     "publishedAt": "2026-03-06T09:16:34.000Z",
-    "createdAt": "2026-03-06T09:48:04.353Z",
-    "updatedAt": "2026-03-06T09:48:04.353Z"
+    "createdAt": "2026-03-06T10:42:31.551Z",
+    "updatedAt": "2026-03-06T10:42:31.551Z"
   },
   {
     "id": "8f341d535726a4c4",
@@ -38,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69aa870f9a7947b36f674f6b",
     "publishedAt": "2026-03-06T09:06:30.000Z",
-    "createdAt": "2026-03-06T09:48:06.225Z",
-    "updatedAt": "2026-03-06T09:48:06.226Z"
+    "createdAt": "2026-03-06T10:42:33.752Z",
+    "updatedAt": "2026-03-06T10:42:33.752Z"
   },
   {
     "id": "e8093a85385384e9",
@@ -52,8 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69aa94809a7947291869e629",
     "publishedAt": "2026-03-06T08:58:37.000Z",
-    "createdAt": "2026-03-06T09:48:05.162Z",
-    "updatedAt": "2026-03-06T09:48:05.162Z"
+    "createdAt": "2026-03-06T10:42:32.604Z",
+    "updatedAt": "2026-03-06T10:42:32.604Z"
   },
   {
     "id": "d4b0f755cf6af351",
@@ -66,8 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69aa7d809a79474239b02fc8",
     "publishedAt": "2026-03-06T08:30:53.000Z",
-    "createdAt": "2026-03-06T09:48:07.276Z",
-    "updatedAt": "2026-03-06T09:48:07.276Z"
+    "createdAt": "2026-03-06T10:42:34.823Z",
+    "updatedAt": "2026-03-06T10:42:34.823Z"
   },
   {
     "id": "78b9a870a45af22d",
@@ -80,63 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69aa89c49a79479c5c6f1684",
     "publishedAt": "2026-03-06T08:17:03.000Z",
-    "createdAt": "2026-03-06T09:48:08.311Z",
-    "updatedAt": "2026-03-06T09:48:08.311Z"
-  },
-  {
-    "id": "61b8fedecc568601",
-    "title": "Малкин получил матч-штраф за удар соперника клюшкой по лицу в НХЛ",
-    "sport": "Хоккей",
-    "category": "Хоккей",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/1/71/347727820667711.jpeg",
-    "teaser": "Малкин получил матч-штраф за удар соперника клюшкой по лицу в НХЛ",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69aa819b9a7947b2df9275e9",
-    "publishedAt": "2026-03-06T07:44:14.000Z",
-    "createdAt": "2026-03-06T09:48:09.375Z",
-    "updatedAt": "2026-03-06T09:48:09.375Z"
-  },
-  {
-    "id": "39ed984a53a5c976",
-    "title": "В ОАЭ отменили товарищеский матч женской сборной России по футболу",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/8/40/347727814203408.jpeg",
-    "teaser": "В ОАЭ отменили товарищеский матч женской сборной России по футболу",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69aa7f579a79472674e613af",
-    "publishedAt": "2026-03-06T07:36:26.000Z",
-    "createdAt": "2026-03-06T09:48:10.403Z",
-    "updatedAt": "2026-03-06T09:48:10.403Z"
-  },
-  {
-    "id": "12f191f2d51f7369",
-    "title": "В НХЛ обменяли игравшего 17 лет с Овечкиным одноклубника",
-    "sport": "Хоккей",
-    "category": "Хоккей",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/1/52/347727798183521.jpeg",
-    "teaser": "В НХЛ обменяли игравшего 17 лет с Овечкиным одноклубника",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69aa76e99a794740200127db",
-    "publishedAt": "2026-03-06T07:27:54.000Z",
-    "createdAt": "2026-03-06T09:48:11.486Z",
-    "updatedAt": "2026-03-06T09:48:11.486Z"
-  },
-  {
-    "id": "dda2905b85d986c7",
-    "title": "Россия вернулась через 12 лет. Что важно знать о Паралимпиаде-2026",
-    "sport": "Другое",
-    "category": "Другие",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/5/78/347725632204785.jpeg",
-    "teaser": "Россия вернулась через 12 лет. Что важно знать о Паралимпиаде-2026",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69a70e469a7947130900c91f",
-    "publishedAt": "2026-03-06T06:57:20.000Z",
-    "createdAt": "2026-03-06T09:48:12.532Z",
-    "updatedAt": "2026-03-06T09:48:12.532Z"
+    "createdAt": "2026-03-06T10:42:35.996Z",
+    "updatedAt": "2026-03-06T10:42:35.996Z"
   }
 ]
