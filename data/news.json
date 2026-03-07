@@ -1,5 +1,89 @@
 [
   {
+    "id": "c983526482a95ab2",
+    "title": "Будущего участника «Олимпиады на стероидах» дисквалифицировали на 2 года",
+    "sport": "Другое",
+    "category": "Другие",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/2/22/347728719810222.jpeg",
+    "teaser": "Будущего участника «Олимпиады на стероидах» дисквалифицировали на 2 года",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69abe10a9a79476f50f5ee2f",
+    "publishedAt": "2026-03-07T08:36:11.000Z",
+    "createdAt": "2026-03-07T08:38:38.026Z",
+    "updatedAt": "2026-03-07T08:38:38.026Z"
+  },
+  {
+    "id": "f9874711eca1a1ee",
+    "title": "Вяльбе оценила инцидент с собакой, сбившей лыжниц на чемпионате России",
+    "sport": "Другое",
+    "category": "Другие",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/6/14/347728710757146.jpeg",
+    "teaser": "Вяльбе оценила инцидент с собакой, сбившей лыжниц на чемпионате России",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69abdd6c9a794702e6b4da4f",
+    "publishedAt": "2026-03-07T08:19:58.000Z",
+    "createdAt": "2026-03-07T08:38:39.240Z",
+    "updatedAt": "2026-03-07T08:38:39.240Z"
+  },
+  {
+    "id": "95b771a1a37f5b46",
+    "title": "Тарасова заявила, что рухнувшая крыша катка ЦСКА трещала несколько недель",
+    "sport": "Другое",
+    "category": "Фигурное катание",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/3/54/347728701895543.jpeg",
+    "teaser": "Тарасова заявила, что рухнувшая крыша катка ЦСКА трещала несколько недель",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69abd9fe9a7947b43a77977a",
+    "publishedAt": "2026-03-07T08:05:27.000Z",
+    "createdAt": "2026-03-07T08:38:40.385Z",
+    "updatedAt": "2026-03-07T08:38:40.385Z"
+  },
+  {
+    "id": "016e717e549a8aca",
+    "title": "Филиппов признался, что впервые попробовал алкоголь после Олимпиады-2026",
+    "sport": "Другое",
+    "category": "Другие",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/6/97/347726227185976.jpeg",
+    "teaser": "Филиппов признался, что впервые попробовал алкоголь после Олимпиады-2026",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69a80e5e9a79475e8aa803dc",
+    "publishedAt": "2026-03-07T08:01:29.000Z",
+    "createdAt": "2026-03-07T08:38:42.885Z",
+    "updatedAt": "2026-03-07T08:38:42.885Z"
+  },
+  {
+    "id": "45039f3cfd0db948",
+    "title": "Расселл выиграл квалификацию первого Гран-при сезона «Формулы-1»",
+    "sport": "Другое",
+    "category": "Формула-1",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/3/22/347728691111223.jpeg",
+    "teaser": "Расселл выиграл квалификацию первого Гран-при сезона «Формулы-1»",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69abd5b59a79475cd9bb15ec",
+    "publishedAt": "2026-03-07T07:45:33.000Z",
+    "createdAt": "2026-03-07T08:38:45.109Z",
+    "updatedAt": "2026-03-07T08:38:45.109Z"
+  },
+  {
+    "id": "5287a67e8d5260b1",
+    "title": "Призер Игр Филиппов поделился планами на траты первого крупного гонорара",
+    "sport": "Другое",
+    "category": "Другие",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/6/35/347726249092356.jpeg",
+    "teaser": "Призер Игр Филиппов поделился планами на траты первого крупного гонорара",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69a819be9a794741f7611bb0",
+    "publishedAt": "2026-03-07T07:34:31.000Z",
+    "createdAt": "2026-03-07T08:38:46.770Z",
+    "updatedAt": "2026-03-07T08:38:46.770Z"
+  },
+  {
     "id": "d59c20a0c844780e",
     "title": "Собака сбила с ног двух лыжниц во время гонки на чемпионате России",
     "sport": "Другое",
@@ -10,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69abd0db9a794722b979183f",
     "publishedAt": "2026-03-07T07:30:33.000Z",
-    "createdAt": "2026-03-07T07:34:06.307Z",
-    "updatedAt": "2026-03-07T07:34:06.307Z"
+    "createdAt": "2026-03-07T08:38:44.019Z",
+    "updatedAt": "2026-03-07T08:38:44.019Z"
   },
   {
     "id": "ceebbeb84ab3b6b8",
@@ -24,22 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69abce159a7947542025e4ba",
     "publishedAt": "2026-03-07T07:12:33.000Z",
-    "createdAt": "2026-03-07T07:34:07.349Z",
-    "updatedAt": "2026-03-07T07:34:07.349Z"
-  },
-  {
-    "id": "4a51e4751c230213",
-    "title": "Филиппов рассказал, как изменилась финансовая поддержка после Олимпиады",
-    "sport": "Другое",
-    "category": "Другие",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/3/65/347727212439653.jpeg",
-    "teaser": "Филиппов рассказал, как изменилась финансовая поддержка после Олимпиады",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69a98cbf9a7947fe8afd6d8d",
-    "publishedAt": "2026-03-07T06:31:32.000Z",
-    "createdAt": "2026-03-07T07:34:10.862Z",
-    "updatedAt": "2026-03-07T07:34:10.862Z"
+    "createdAt": "2026-03-07T08:38:47.933Z",
+    "updatedAt": "2026-03-07T08:38:47.933Z"
   },
   {
     "id": "e73aba63bddc2be3",
@@ -52,8 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69aaae439a79477c68fad173",
     "publishedAt": "2026-03-07T06:31:01.000Z",
-    "createdAt": "2026-03-07T07:34:08.453Z",
-    "updatedAt": "2026-03-07T07:34:08.453Z"
+    "createdAt": "2026-03-07T08:38:49.095Z",
+    "updatedAt": "2026-03-07T08:38:49.095Z"
   },
   {
     "id": "a68c6b786c5faaf2",
@@ -66,77 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69a6b8089a7947425360a952",
     "publishedAt": "2026-03-07T06:00:30.000Z",
-    "createdAt": "2026-03-07T07:34:09.765Z",
-    "updatedAt": "2026-03-07T07:34:09.765Z"
-  },
-  {
-    "id": "cceae6e85e1d5146",
-    "title": "Кто из клубов РПЛ больше всех потратил в зимнее трансферное окно",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/6/58/347722841686586.jpeg",
-    "teaser": "Кто из клубов РПЛ больше всех потратил в зимнее трансферное окно",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69a2ca2c9a7947304d391e07",
-    "publishedAt": "2026-03-06T21:00:44.000Z",
-    "createdAt": "2026-03-07T07:34:11.964Z",
-    "updatedAt": "2026-03-07T07:34:11.964Z"
-  },
-  {
-    "id": "0bee413d71a44f7e",
-    "title": "Сборная России с флагом появилась на церемонии открытия Паралимпиады",
-    "sport": "Другое",
-    "category": "Другие",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/6/03/347728263680036.jpeg",
-    "teaser": "Сборная России с флагом появилась на церемонии открытия Паралимпиады",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69ab14d29a7947ef5b0b8599",
-    "publishedAt": "2026-03-06T19:51:04.000Z",
-    "createdAt": "2026-03-07T07:34:13.121Z",
-    "updatedAt": "2026-03-07T07:34:13.121Z"
-  },
-  {
-    "id": "3313b24602d42ad5",
-    "title": "«Авангард» проиграл худшему клубу КХЛ",
-    "sport": "Хоккей",
-    "category": "Хоккей",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/5/08/347728219625085.jpeg",
-    "teaser": "«Авангард» проиграл худшему клубу КХЛ",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69ab1d8e9a79470d9171b230",
-    "publishedAt": "2026-03-06T18:49:18.000Z",
-    "createdAt": "2026-03-07T07:34:15.267Z",
-    "updatedAt": "2026-03-07T07:34:15.267Z"
-  },
-  {
-    "id": "8e6508a0bab9cfc2",
-    "title": "Коростелев и Непряева не примут участия в спринте на этапе Кубка мира",
-    "sport": "Другое",
-    "category": "Другие",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/2/36/347728215033362.jpeg",
-    "teaser": "Коростелев и Непряева не примут участия в спринте на этапе Кубка мира",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69ab19339a7947ca8832d61d",
-    "publishedAt": "2026-03-06T18:40:41.000Z",
-    "createdAt": "2026-03-07T07:34:14.155Z",
-    "updatedAt": "2026-03-07T07:34:14.155Z"
-  },
-  {
-    "id": "81901fc6d38473d4",
-    "title": "Овечкин ответил на вопрос о своем будущем в «Вашингтоне»",
-    "sport": "Хоккей",
-    "category": "Хоккей",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/2/61/347728172079612.jpeg",
-    "teaser": "Овечкин ответил на вопрос о своем будущем в «Вашингтоне»",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69ab0aed9a794772e3e8cbd8",
-    "publishedAt": "2026-03-06T17:31:05.000Z",
-    "createdAt": "2026-03-07T07:34:16.396Z",
-    "updatedAt": "2026-03-07T07:34:16.396Z"
+    "createdAt": "2026-03-07T08:38:41.750Z",
+    "updatedAt": "2026-03-07T08:38:41.750Z"
   }
 ]
