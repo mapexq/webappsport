@@ -1,5 +1,19 @@
 [
   {
+    "id": "0dbe568703c5841b",
+    "title": "СКА второй раз в сезоне КХЛ обыграл московское «Динамо»",
+    "sport": "Хоккей",
+    "category": "Хоккей",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/3/48/347729077693483.jpeg",
+    "teaser": "СКА второй раз в сезоне КХЛ обыграл московское «Динамо»",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69ac6cb99a7947051e4570c5",
+    "publishedAt": "2026-03-07T18:56:49.000Z",
+    "createdAt": "2026-03-07T19:26:43.241Z",
+    "updatedAt": "2026-03-07T19:26:43.241Z"
+  },
+  {
     "id": "561fea8b1bd98125",
     "title": "Матч худших клубов РПЛ завершился победой «Пари НН»",
     "sport": "Хоккей",
@@ -10,8 +24,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69ac5f209a794734cd73bf96",
     "publishedAt": "2026-03-07T18:07:24.000Z",
-    "createdAt": "2026-03-07T18:41:29.733Z",
-    "updatedAt": "2026-03-07T18:41:29.733Z"
+    "createdAt": "2026-03-07T19:26:45.487Z",
+    "updatedAt": "2026-03-07T19:26:45.487Z"
   },
   {
     "id": "fdd34d4f374ff494",
@@ -24,8 +38,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69ac658c9a7947aa909851d0",
     "publishedAt": "2026-03-07T17:55:20.000Z",
-    "createdAt": "2026-03-07T18:41:28.832Z",
-    "updatedAt": "2026-03-07T18:41:28.832Z"
+    "createdAt": "2026-03-07T19:26:44.373Z",
+    "updatedAt": "2026-03-07T19:26:44.373Z"
   },
   {
     "id": "053600133ae8416d",
@@ -38,8 +52,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69ac5bbb9a79474cc2cd0225",
     "publishedAt": "2026-03-07T17:18:30.000Z",
-    "createdAt": "2026-03-07T18:41:30.685Z",
-    "updatedAt": "2026-03-07T18:41:30.685Z"
+    "createdAt": "2026-03-07T19:26:46.613Z",
+    "updatedAt": "2026-03-07T19:26:46.613Z"
   },
   {
     "id": "a11b5eb65f543cc5",
@@ -52,8 +66,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69ac55d19a794783129a21e0",
     "publishedAt": "2026-03-07T16:49:55.000Z",
-    "createdAt": "2026-03-07T18:41:33.351Z",
-    "updatedAt": "2026-03-07T18:41:33.351Z"
+    "createdAt": "2026-03-07T19:26:49.066Z",
+    "updatedAt": "2026-03-07T19:26:49.066Z"
   },
   {
     "id": "13b68ae6e61dc947",
@@ -66,8 +80,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69ac42189a7947f066562507",
     "publishedAt": "2026-03-07T15:52:19.000Z",
-    "createdAt": "2026-03-07T18:41:34.365Z",
-    "updatedAt": "2026-03-07T18:41:34.365Z"
+    "createdAt": "2026-03-07T19:26:50.148Z",
+    "updatedAt": "2026-03-07T19:26:50.148Z"
   },
   {
     "id": "e9986439d0f75c6a",
@@ -80,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69ac439e9a79473cd1432657",
     "publishedAt": "2026-03-07T15:40:35.000Z",
-    "createdAt": "2026-03-07T18:41:35.368Z",
-    "updatedAt": "2026-03-07T18:41:35.368Z"
+    "createdAt": "2026-03-07T19:26:51.286Z",
+    "updatedAt": "2026-03-07T19:26:51.286Z"
   },
   {
     "id": "2716df6b65865c16",
@@ -94,8 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69ac3d419a794762c928ee29",
     "publishedAt": "2026-03-07T15:09:15.000Z",
-    "createdAt": "2026-03-07T18:41:36.427Z",
-    "updatedAt": "2026-03-07T18:41:36.427Z"
+    "createdAt": "2026-03-07T19:26:52.521Z",
+    "updatedAt": "2026-03-07T19:26:52.521Z"
   },
   {
     "id": "543be4813be81320",
@@ -108,22 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69ac355c9a7947f46c88dd89",
     "publishedAt": "2026-03-07T14:32:53.000Z",
-    "createdAt": "2026-03-07T18:41:37.451Z",
-    "updatedAt": "2026-03-07T18:41:37.451Z"
-  },
-  {
-    "id": "b566b53fae6bb6c4",
-    "title": "Гуменник выиграл короткую программу в финале Гран-при России",
-    "sport": "Другое",
-    "category": "Фигурное катание",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/8/60/347728904527608.jpeg",
-    "teaser": "Гуменник выиграл короткую программу в финале Гран-при России",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69ac276f9a7947699f5548f6",
-    "publishedAt": "2026-03-07T13:33:01.000Z",
-    "createdAt": "2026-03-07T18:41:39.220Z",
-    "updatedAt": "2026-03-07T18:41:39.220Z"
+    "createdAt": "2026-03-07T19:26:53.981Z",
+    "updatedAt": "2026-03-07T19:26:53.981Z"
   },
   {
     "id": "a68c6b786c5faaf2",
@@ -136,7 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69a6b8089a7947425360a952",
     "publishedAt": "2026-03-07T06:00:30.000Z",
-    "createdAt": "2026-03-07T18:41:32.247Z",
-    "updatedAt": "2026-03-07T18:41:32.247Z"
+    "createdAt": "2026-03-07T19:26:47.920Z",
+    "updatedAt": "2026-03-07T19:26:47.920Z"
   }
 ]
