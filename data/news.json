@@ -1,5 +1,33 @@
 [
   {
+    "id": "aeb366d320cb0f5a",
+    "title": "«Барыс» победил «Шанхай» в матче КХЛ в Китае с 12 шайбами",
+    "sport": "Хоккей",
+    "category": "Хоккей",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/9/92/347728905998929.jpeg",
+    "teaser": "«Барыс» победил «Шанхай» в матче КХЛ в Китае с 12 шайбами",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69ac29bd9a79470878009495",
+    "publishedAt": "2026-03-07T14:01:37.000Z",
+    "createdAt": "2026-03-07T14:29:47.030Z",
+    "updatedAt": "2026-03-07T14:29:47.030Z"
+  },
+  {
+    "id": "b566b53fae6bb6c4",
+    "title": "Гуменник выиграл короткую программу в финале Гран-при России",
+    "sport": "Другое",
+    "category": "Фигурное катание",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/8/60/347728904527608.jpeg",
+    "teaser": "Гуменник выиграл короткую программу в финале Гран-при России",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69ac276f9a7947699f5548f6",
+    "publishedAt": "2026-03-07T13:33:01.000Z",
+    "createdAt": "2026-03-07T14:29:45.995Z",
+    "updatedAt": "2026-03-07T14:29:45.995Z"
+  },
+  {
     "id": "3c78e3d8d0570347",
     "title": "Два матча КХЛ в Шанхае посетили около 12 тыс. зрителей",
     "sport": "Хоккей",
@@ -10,8 +38,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69ac24c39a7947892b2e2e0f",
     "publishedAt": "2026-03-07T13:24:21.000Z",
-    "createdAt": "2026-03-07T13:45:39.710Z",
-    "updatedAt": "2026-03-07T13:45:39.710Z"
+    "createdAt": "2026-03-07T14:29:48.121Z",
+    "updatedAt": "2026-03-07T14:29:48.121Z"
   },
   {
     "id": "efe3d5c0a75d9c1b",
@@ -24,8 +52,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69ac1e169a794755dc588c9e",
     "publishedAt": "2026-03-07T12:53:59.000Z",
-    "createdAt": "2026-03-07T13:45:40.700Z",
-    "updatedAt": "2026-03-07T13:45:40.700Z"
+    "createdAt": "2026-03-07T14:29:50.509Z",
+    "updatedAt": "2026-03-07T14:29:50.509Z"
   },
   {
     "id": "b8ad445bbb0052fb",
@@ -38,8 +66,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69ac18f39a794763aeb47925",
     "publishedAt": "2026-03-07T12:32:47.000Z",
-    "createdAt": "2026-03-07T13:45:41.803Z",
-    "updatedAt": "2026-03-07T13:45:41.803Z"
+    "createdAt": "2026-03-07T14:29:51.597Z",
+    "updatedAt": "2026-03-07T14:29:51.597Z"
   },
   {
     "id": "65141ce617d4231c",
@@ -52,8 +80,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69ac09019a79471061d855f2",
     "publishedAt": "2026-03-07T12:22:58.000Z",
-    "createdAt": "2026-03-07T13:45:44.083Z",
-    "updatedAt": "2026-03-07T13:45:44.083Z"
+    "createdAt": "2026-03-07T14:29:52.769Z",
+    "updatedAt": "2026-03-07T14:29:52.769Z"
   },
   {
     "id": "5e1bc1fde5548855",
@@ -66,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69ac14599a7947a9271d5e2c",
     "publishedAt": "2026-03-07T12:14:43.000Z",
-    "createdAt": "2026-03-07T13:45:46.183Z",
-    "updatedAt": "2026-03-07T13:45:46.183Z"
+    "createdAt": "2026-03-07T14:29:54.959Z",
+    "updatedAt": "2026-03-07T14:29:54.959Z"
   },
   {
     "id": "1beabf749325f42d",
@@ -80,8 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69ac11fc9a7947b1796f5073",
     "publishedAt": "2026-03-07T12:02:46.000Z",
-    "createdAt": "2026-03-07T13:45:47.235Z",
-    "updatedAt": "2026-03-07T13:45:47.235Z"
+    "createdAt": "2026-03-07T14:29:56.053Z",
+    "updatedAt": "2026-03-07T14:29:56.053Z"
   },
   {
     "id": "6ec3347038dc3153",
@@ -94,36 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69ac0aeb9a794791c29ce016",
     "publishedAt": "2026-03-07T11:47:16.000Z",
-    "createdAt": "2026-03-07T13:45:45.132Z",
-    "updatedAt": "2026-03-07T13:45:45.132Z"
-  },
-  {
-    "id": "acc5e7a080d0f18e",
-    "title": "Ученица Тутберидзе выиграла короткую программу в финале Гран-при",
-    "sport": "Другое",
-    "category": "Фигурное катание",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/0/51/347728830510510.jpeg",
-    "teaser": "Ученица Тутберидзе выиграла короткую программу в финале Гран-при",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69ac0b659a7947ce3f05ba05",
-    "publishedAt": "2026-03-07T11:34:08.000Z",
-    "createdAt": "2026-03-07T13:45:48.293Z",
-    "updatedAt": "2026-03-07T13:45:48.293Z"
-  },
-  {
-    "id": "c3305fa80d5847aa",
-    "title": "Горнолыжник Бугаев принес сборной России вторую бронзу на Паралимпиаде",
-    "sport": "Другое",
-    "category": "Другие",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/2/91/347728793655912.jpeg",
-    "teaser": "Горнолыжник Бугаев принес сборной России вторую бронзу на Паралимпиаде",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69abfdc79a79475b28ac0c3a",
-    "publishedAt": "2026-03-07T11:10:41.000Z",
-    "createdAt": "2026-03-07T13:45:49.337Z",
-    "updatedAt": "2026-03-07T13:45:49.337Z"
+    "createdAt": "2026-03-07T14:29:53.862Z",
+    "updatedAt": "2026-03-07T14:29:53.862Z"
   },
   {
     "id": "a68c6b786c5faaf2",
@@ -136,7 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69a6b8089a7947425360a952",
     "publishedAt": "2026-03-07T06:00:30.000Z",
-    "createdAt": "2026-03-07T13:45:43.027Z",
-    "updatedAt": "2026-03-07T13:45:43.027Z"
+    "createdAt": "2026-03-07T14:29:49.411Z",
+    "updatedAt": "2026-03-07T14:29:49.411Z"
   }
 ]
