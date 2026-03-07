@@ -1,5 +1,89 @@
 [
   {
+    "id": "d59c20a0c844780e",
+    "title": "Собака сбила с ног двух лыжниц во время гонки на чемпионате России",
+    "sport": "Другое",
+    "category": "Другие",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/6/15/347728678867156.jpeg",
+    "teaser": "Собака сбила с ног двух лыжниц во время гонки на чемпионате России",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69abd0db9a794722b979183f",
+    "publishedAt": "2026-03-07T07:30:33.000Z",
+    "createdAt": "2026-03-07T07:34:06.307Z",
+    "updatedAt": "2026-03-07T07:34:06.307Z"
+  },
+  {
+    "id": "ceebbeb84ab3b6b8",
+    "title": "Малкина дисквалифицировали на пять матчей НХЛ за удар соперника клюшкой",
+    "sport": "Хоккей",
+    "category": "Хоккей",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/5/71/347728671606715.jpeg",
+    "teaser": "Малкина дисквалифицировали на пять матчей НХЛ за удар соперника клюшкой",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69abce159a7947542025e4ba",
+    "publishedAt": "2026-03-07T07:12:33.000Z",
+    "createdAt": "2026-03-07T07:34:07.349Z",
+    "updatedAt": "2026-03-07T07:34:07.349Z"
+  },
+  {
+    "id": "4a51e4751c230213",
+    "title": "Филиппов рассказал, как изменилась финансовая поддержка после Олимпиады",
+    "sport": "Другое",
+    "category": "Другие",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/3/65/347727212439653.jpeg",
+    "teaser": "Филиппов рассказал, как изменилась финансовая поддержка после Олимпиады",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69a98cbf9a7947fe8afd6d8d",
+    "publishedAt": "2026-03-07T06:31:32.000Z",
+    "createdAt": "2026-03-07T07:34:10.862Z",
+    "updatedAt": "2026-03-07T07:34:10.862Z"
+  },
+  {
+    "id": "e73aba63bddc2be3",
+    "title": "Реабилитируется ли «Спартак» после разгрома. Главное о туре РПЛ",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/0/95/347728004912950.jpeg",
+    "teaser": "Реабилитируется ли «Спартак» после разгрома. Главное о туре РПЛ",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69aaae439a79477c68fad173",
+    "publishedAt": "2026-03-07T06:31:01.000Z",
+    "createdAt": "2026-03-07T07:34:08.453Z",
+    "updatedAt": "2026-03-07T07:34:08.453Z"
+  },
+  {
+    "id": "a68c6b786c5faaf2",
+    "title": "Призер Олимпиады Филиппов — РБК: «Я азартный. Не знаю, погубит меня это»",
+    "sport": "Другое",
+    "category": "Другие",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/9/90/347726059894909.jpeg",
+    "teaser": "Призер Олимпиады Филиппов — РБК: «Я азартный. Не знаю, погубит меня это»",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69a6b8089a7947425360a952",
+    "publishedAt": "2026-03-07T06:00:30.000Z",
+    "createdAt": "2026-03-07T07:34:09.765Z",
+    "updatedAt": "2026-03-07T07:34:09.765Z"
+  },
+  {
+    "id": "cceae6e85e1d5146",
+    "title": "Кто из клубов РПЛ больше всех потратил в зимнее трансферное окно",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/6/58/347722841686586.jpeg",
+    "teaser": "Кто из клубов РПЛ больше всех потратил в зимнее трансферное окно",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69a2ca2c9a7947304d391e07",
+    "publishedAt": "2026-03-06T21:00:44.000Z",
+    "createdAt": "2026-03-07T07:34:11.964Z",
+    "updatedAt": "2026-03-07T07:34:11.964Z"
+  },
+  {
     "id": "0bee413d71a44f7e",
     "title": "Сборная России с флагом появилась на церемонии открытия Паралимпиады",
     "sport": "Другое",
@@ -10,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69ab14d29a7947ef5b0b8599",
     "publishedAt": "2026-03-06T19:51:04.000Z",
-    "createdAt": "2026-03-07T06:51:11.036Z",
-    "updatedAt": "2026-03-07T06:51:11.036Z"
+    "createdAt": "2026-03-07T07:34:13.121Z",
+    "updatedAt": "2026-03-07T07:34:13.121Z"
   },
   {
     "id": "3313b24602d42ad5",
@@ -24,8 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69ab1d8e9a79470d9171b230",
     "publishedAt": "2026-03-06T18:49:18.000Z",
-    "createdAt": "2026-03-07T06:51:13.267Z",
-    "updatedAt": "2026-03-07T06:51:13.267Z"
+    "createdAt": "2026-03-07T07:34:15.267Z",
+    "updatedAt": "2026-03-07T07:34:15.267Z"
   },
   {
     "id": "8e6508a0bab9cfc2",
@@ -38,8 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69ab19339a7947ca8832d61d",
     "publishedAt": "2026-03-06T18:40:41.000Z",
-    "createdAt": "2026-03-07T06:51:12.153Z",
-    "updatedAt": "2026-03-07T06:51:12.153Z"
+    "createdAt": "2026-03-07T07:34:14.155Z",
+    "updatedAt": "2026-03-07T07:34:14.155Z"
   },
   {
     "id": "81901fc6d38473d4",
@@ -52,91 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69ab0aed9a794772e3e8cbd8",
     "publishedAt": "2026-03-06T17:31:05.000Z",
-    "createdAt": "2026-03-07T06:51:14.378Z",
-    "updatedAt": "2026-03-07T06:51:14.378Z"
-  },
-  {
-    "id": "7bcc4f697ebe37d1",
-    "title": "Овечкин назвал день обмена одноклубника самым грустным в карьере",
-    "sport": "Хоккей",
-    "category": "Хоккей",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/3/10/347728154970103.jpeg",
-    "teaser": "Овечкин назвал день обмена одноклубника самым грустным в карьере",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69ab01179a794747077406c5",
-    "publishedAt": "2026-03-06T16:51:11.000Z",
-    "createdAt": "2026-03-07T06:51:15.489Z",
-    "updatedAt": "2026-03-07T06:51:15.489Z"
-  },
-  {
-    "id": "c1c4493ed058fbcb",
-    "title": "«Автомобилист» обыграл лидера КХЛ и одержал шестую победу подряд",
-    "sport": "Хоккей",
-    "category": "Хоккей",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/8/07/347728141516078.jpeg",
-    "teaser": "«Автомобилист» обыграл лидера КХЛ и одержал шестую победу подряд",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69aafe599a794797bd800c69",
-    "publishedAt": "2026-03-06T16:24:36.000Z",
-    "createdAt": "2026-03-07T06:51:17.823Z",
-    "updatedAt": "2026-03-07T06:51:17.823Z"
-  },
-  {
-    "id": "a4c6f2c7b37ef55b",
-    "title": "Журналист ESPN узнал о возможном обмене Бобровского в «Эдмонтон»",
-    "sport": "Хоккей",
-    "category": "Хоккей",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/5/35/347728116695355.jpeg",
-    "teaser": "Журналист ESPN узнал о возможном обмене Бобровского в «Эдмонтон»",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69aaf5529a79472b5a3bd67c",
-    "publishedAt": "2026-03-06T16:05:21.000Z",
-    "createdAt": "2026-03-07T06:51:16.683Z",
-    "updatedAt": "2026-03-07T06:51:16.683Z"
-  },
-  {
-    "id": "e57e60aff469686d",
-    "title": "Звезду НБА задержали за пьяное вождение в США",
-    "sport": "Баскетбол",
-    "category": "Баскетбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/6/33/347728107628336.jpeg",
-    "teaser": "Звезду НБА задержали за пьяное вождение в США",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69aaeb0a9a7947783a238bd6",
-    "publishedAt": "2026-03-06T15:39:16.000Z",
-    "createdAt": "2026-03-07T06:51:19.201Z",
-    "updatedAt": "2026-03-07T06:51:19.202Z"
-  },
-  {
-    "id": "ddb90a325bc2700e",
-    "title": "Экс-футболист МЮ и сборной Англии продолжит карьеру в Бразилии",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/7/46/347728082104467.jpeg",
-    "teaser": "Экс-футболист МЮ и сборной Англии продолжит карьеру в Бразилии",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69aae5e19a7947c2198a4afa",
-    "publishedAt": "2026-03-06T14:56:14.000Z",
-    "createdAt": "2026-03-07T06:51:21.495Z",
-    "updatedAt": "2026-03-07T06:51:21.495Z"
-  },
-  {
-    "id": "6335f4d7df2c6ca5",
-    "title": "Португальский клуб оштрафовали за «сильный запах каннабиса на трибунах»",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/7/94/347728077745947.jpeg",
-    "teaser": "Португальский клуб оштрафовали за «сильный запах каннабиса на трибунах»",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69aae23c9a79474bb1b5f35e",
-    "publishedAt": "2026-03-06T14:53:03.000Z",
-    "createdAt": "2026-03-07T06:51:20.328Z",
-    "updatedAt": "2026-03-07T06:51:20.328Z"
+    "createdAt": "2026-03-07T07:34:16.396Z",
+    "updatedAt": "2026-03-07T07:34:16.396Z"
   }
 ]
