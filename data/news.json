@@ -1,5 +1,33 @@
 [
   {
+    "id": "f8499a21d1520f9a",
+    "title": "Чемпион РПЛ «Краснодар» впервые с 2020 года проиграл «Рубину»",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/5/84/347729854639845.png",
+    "teaser": "Чемпион РПЛ «Краснодар» впервые с 2020 года проиграл «Рубину»",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69ad9a059a7947f09ac58980",
+    "publishedAt": "2026-03-08T16:03:25.000Z",
+    "createdAt": "2026-03-08T16:36:24.852Z",
+    "updatedAt": "2026-03-08T16:36:24.852Z"
+  },
+  {
+    "id": "c6299131257fa4be",
+    "title": "«Спартак» второй раз за два дня крупно обыграл «Ладу»",
+    "sport": "Хоккей",
+    "category": "Хоккей",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/5/68/347729843066685.png",
+    "teaser": "«Спартак» второй раз за два дня крупно обыграл «Ладу»",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69ad97b39a794777e43021d9",
+    "publishedAt": "2026-03-08T15:46:39.000Z",
+    "createdAt": "2026-03-08T16:36:27.767Z",
+    "updatedAt": "2026-03-08T16:36:27.767Z"
+  },
+  {
     "id": "1ba413bdeee78c21",
     "title": "Лидер КХЛ отыгрался с 0:2 у «Трактора» и победил по буллитам",
     "sport": "Хоккей",
@@ -10,8 +38,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69ad752d9a79471163c7a511",
     "publishedAt": "2026-03-08T14:17:42.000Z",
-    "createdAt": "2026-03-08T15:29:58.782Z",
-    "updatedAt": "2026-03-08T15:29:58.782Z"
+    "createdAt": "2026-03-08T16:36:26.792Z",
+    "updatedAt": "2026-03-08T16:36:26.792Z"
   },
   {
     "id": "cffb645d339a53a4",
@@ -24,8 +52,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69ad7d739a79474a1eb0f330",
     "publishedAt": "2026-03-08T14:12:01.000Z",
-    "createdAt": "2026-03-08T15:29:57.728Z",
-    "updatedAt": "2026-03-08T15:29:57.728Z"
+    "createdAt": "2026-03-08T16:36:25.853Z",
+    "updatedAt": "2026-03-08T16:36:25.853Z"
   },
   {
     "id": "dd63d75bec76599d",
@@ -38,8 +66,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69ad79f69a7947624d1164ac",
     "publishedAt": "2026-03-08T13:39:28.000Z",
-    "createdAt": "2026-03-08T15:30:02.194Z",
-    "updatedAt": "2026-03-08T15:30:02.194Z"
+    "createdAt": "2026-03-08T16:36:30.794Z",
+    "updatedAt": "2026-03-08T16:36:30.794Z"
   },
   {
     "id": "75fa3a1dc99ec34d",
@@ -52,8 +80,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69ad734e9a7947dddc25edb9",
     "publishedAt": "2026-03-08T13:28:41.000Z",
-    "createdAt": "2026-03-08T15:30:01.026Z",
-    "updatedAt": "2026-03-08T15:30:01.026Z"
+    "createdAt": "2026-03-08T16:36:29.752Z",
+    "updatedAt": "2026-03-08T16:36:29.752Z"
   },
   {
     "id": "971683c03e5c7fc3",
@@ -66,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69ad6d999a79477a5f5cc08d",
     "publishedAt": "2026-03-08T12:50:41.000Z",
-    "createdAt": "2026-03-08T15:29:59.912Z",
-    "updatedAt": "2026-03-08T15:29:59.912Z"
+    "createdAt": "2026-03-08T16:36:28.746Z",
+    "updatedAt": "2026-03-08T16:36:28.746Z"
   },
   {
     "id": "902dbf13198242ca",
@@ -80,22 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69ad69539a79479dad8d8f91",
     "publishedAt": "2026-03-08T12:36:26.000Z",
-    "createdAt": "2026-03-08T15:30:03.306Z",
-    "updatedAt": "2026-03-08T15:30:03.306Z"
-  },
-  {
-    "id": "3c466563ee904648",
-    "title": "Фигуристы Бойкова и Козловский выиграли финал Гран-при России в парах",
-    "sport": "Другое",
-    "category": "Фигурное катание",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/6/94/347729713623946.png",
-    "teaser": "Фигуристы Бойкова и Козловский выиграли финал Гран-при России в парах",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69ad65329a79472d4fa273a1",
-    "publishedAt": "2026-03-08T12:10:31.000Z",
-    "createdAt": "2026-03-08T15:30:06.865Z",
-    "updatedAt": "2026-03-08T15:30:06.865Z"
+    "createdAt": "2026-03-08T16:36:31.819Z",
+    "updatedAt": "2026-03-08T16:36:31.819Z"
   },
   {
     "id": "17b9faeeb8a9f602",
@@ -108,22 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69ad5f4e9a79479877f3deb6",
     "publishedAt": "2026-03-08T11:47:23.000Z",
-    "createdAt": "2026-03-08T15:30:04.407Z",
-    "updatedAt": "2026-03-08T15:30:04.407Z"
-  },
-  {
-    "id": "2ae86d56a21542cd",
-    "title": "«Зенит» не забил два пенальти и проиграл в гостях аутсайдеру РПЛ",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/5/84/347729665713845.png",
-    "teaser": "«Зенит» не забил два пенальти и проиграл в гостях аутсайдеру РПЛ",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69ad522d9a7947622d0a464c",
-    "publishedAt": "2026-03-08T11:05:40.000Z",
-    "createdAt": "2026-03-08T15:30:08.028Z",
-    "updatedAt": "2026-03-08T15:30:08.028Z"
+    "createdAt": "2026-03-08T16:36:32.807Z",
+    "updatedAt": "2026-03-08T16:36:32.807Z"
   },
   {
     "id": "a68c6b786c5faaf2",
@@ -136,7 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69a6b8089a7947425360a952",
     "publishedAt": "2026-03-07T06:00:30.000Z",
-    "createdAt": "2026-03-08T15:30:05.722Z",
-    "updatedAt": "2026-03-08T15:30:05.723Z"
+    "createdAt": "2026-03-08T16:36:33.997Z",
+    "updatedAt": "2026-03-08T16:36:33.997Z"
   }
 ]
