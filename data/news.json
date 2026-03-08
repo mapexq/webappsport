@@ -1,17 +1,73 @@
 [
   {
-    "id": "272d793d77c02927",
-    "title": "Лыжник Коростелев впервые выиграл медаль в Кубке мира",
+    "id": "1ba413bdeee78c21",
+    "title": "Лидер КХЛ отыгрался с 0:2 у «Трактора» и победил по буллитам",
+    "sport": "Хоккей",
+    "category": "Хоккей",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/7/05/347729775559057.png",
+    "teaser": "Лидер КХЛ отыгрался с 0:2 у «Трактора» и победил по буллитам",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69ad752d9a79471163c7a511",
+    "publishedAt": "2026-03-08T14:17:42.000Z",
+    "createdAt": "2026-03-08T14:30:35.394Z",
+    "updatedAt": "2026-03-08T14:30:35.394Z"
+  },
+  {
+    "id": "cffb645d339a53a4",
+    "title": "Клебо оценил первую медаль Коростелева в Кубке мира",
+    "sport": "Другое",
+    "category": "Другие",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/0/69/347729788054690.png",
+    "teaser": "Клебо оценил первую медаль Коростелева в Кубке мира",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69ad7d739a79474a1eb0f330",
+    "publishedAt": "2026-03-08T14:12:01.000Z",
+    "createdAt": "2026-03-08T14:30:34.306Z",
+    "updatedAt": "2026-03-08T14:30:34.306Z"
+  },
+  {
+    "id": "dd63d75bec76599d",
+    "title": "Степанова и Букин выиграли финал Гран-при России в танцах на льду",
+    "sport": "Другое",
+    "category": "Фигурное катание",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/4/42/347729766839424.png",
+    "teaser": "Степанова и Букин выиграли финал Гран-при России в танцах на льду",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69ad79f69a7947624d1164ac",
+    "publishedAt": "2026-03-08T13:39:28.000Z",
+    "createdAt": "2026-03-08T14:30:39.105Z",
+    "updatedAt": "2026-03-08T14:30:39.105Z"
+  },
+  {
+    "id": "75fa3a1dc99ec34d",
+    "title": "Дубль Чинеду принес «Крыльям Советов» победу над махачкалинским «Динамо»",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/3/50/347729762042503.png",
+    "teaser": "Дубль Чинеду принес «Крыльям Советов» победу над махачкалинским «Динамо»",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69ad734e9a7947dddc25edb9",
+    "publishedAt": "2026-03-08T13:28:41.000Z",
+    "createdAt": "2026-03-08T14:30:37.793Z",
+    "updatedAt": "2026-03-08T14:30:37.793Z"
+  },
+  {
+    "id": "971683c03e5c7fc3",
+    "title": "Лыжник Коростелев принес России первую медаль Кубка мира с 2022 года",
     "sport": "Другое",
     "category": "Другие",
     "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/8/25/347729735818258.png",
-    "teaser": "Лыжник Коростелев впервые выиграл медаль в Кубке мира",
+    "teaser": "Лыжник Коростелев принес России первую медаль Кубка мира с 2022 года",
     "fullContent": "",
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69ad6d999a79477a5f5cc08d",
     "publishedAt": "2026-03-08T12:50:41.000Z",
-    "createdAt": "2026-03-08T13:00:43.401Z",
-    "updatedAt": "2026-03-08T13:00:43.401Z"
+    "createdAt": "2026-03-08T14:30:36.640Z",
+    "updatedAt": "2026-03-08T14:30:36.640Z"
   },
   {
     "id": "902dbf13198242ca",
@@ -24,8 +80,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69ad69539a79479dad8d8f91",
     "publishedAt": "2026-03-08T12:36:26.000Z",
-    "createdAt": "2026-03-08T13:00:44.218Z",
-    "updatedAt": "2026-03-08T13:00:44.218Z"
+    "createdAt": "2026-03-08T14:30:40.259Z",
+    "updatedAt": "2026-03-08T14:30:40.259Z"
   },
   {
     "id": "3c466563ee904648",
@@ -38,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69ad65329a79472d4fa273a1",
     "publishedAt": "2026-03-08T12:10:31.000Z",
-    "createdAt": "2026-03-08T13:00:46.237Z",
-    "updatedAt": "2026-03-08T13:00:46.237Z"
+    "createdAt": "2026-03-08T14:30:43.862Z",
+    "updatedAt": "2026-03-08T14:30:43.862Z"
   },
   {
     "id": "17b9faeeb8a9f602",
@@ -52,22 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69ad5f4e9a79479877f3deb6",
     "publishedAt": "2026-03-08T11:47:23.000Z",
-    "createdAt": "2026-03-08T13:00:45.225Z",
-    "updatedAt": "2026-03-08T13:00:45.225Z"
-  },
-  {
-    "id": "c608b6ef5aeac44c",
-    "title": "UFC назвал полный список участников турнира в Белом доме",
-    "sport": "Единоборства",
-    "category": "Единоборства",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/2/03/347729660753032.jpeg",
-    "teaser": "UFC назвал полный список участников турнира в Белом доме",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69ad4d6b9a79473658f2e8ec",
-    "publishedAt": "2026-03-08T11:30:04.000Z",
-    "createdAt": "2026-03-08T13:00:48.292Z",
-    "updatedAt": "2026-03-08T13:00:48.292Z"
+    "createdAt": "2026-03-08T14:30:41.398Z",
+    "updatedAt": "2026-03-08T14:30:41.398Z"
   },
   {
     "id": "2ae86d56a21542cd",
@@ -80,63 +122,21 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69ad522d9a7947622d0a464c",
     "publishedAt": "2026-03-08T11:05:40.000Z",
-    "createdAt": "2026-03-08T13:00:47.268Z",
-    "updatedAt": "2026-03-08T13:00:47.268Z"
+    "createdAt": "2026-03-08T14:30:45.012Z",
+    "updatedAt": "2026-03-08T14:30:45.012Z"
   },
   {
-    "id": "803914c391d6d7de",
-    "title": "FIS отказала в допуске одной из лучших российских лыжниц сезона",
+    "id": "a68c6b786c5faaf2",
+    "title": "Призер Олимпиады Филиппов — РБК: «Я азартный. Не знаю, погубит меня это»",
     "sport": "Другое",
     "category": "Другие",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/9/06/347729641136069.png",
-    "teaser": "FIS отказала в допуске одной из лучших российских лыжниц сезона",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/9/90/347726059894909.jpeg",
+    "teaser": "Призер Олимпиады Филиппов — РБК: «Я азартный. Не знаю, погубит меня это»",
     "fullContent": "",
     "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69ad48809a7947706520efec",
-    "publishedAt": "2026-03-08T10:14:15.000Z",
-    "createdAt": "2026-03-08T13:00:49.302Z",
-    "updatedAt": "2026-03-08T13:00:49.302Z"
-  },
-  {
-    "id": "8ce891341d3db35b",
-    "title": "Mercedes на старте сезона F1 впервые сделал победный дубль без Хэмилтона",
-    "sport": "Другое",
-    "category": "Формула-1",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/4/41/347729618729414.jpeg",
-    "teaser": "Mercedes на старте сезона F1 впервые сделал победный дубль без Хэмилтона",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69ad3ffa9a794790529c3142",
-    "publishedAt": "2026-03-08T09:57:39.000Z",
-    "createdAt": "2026-03-08T13:00:50.408Z",
-    "updatedAt": "2026-03-08T13:00:50.408Z"
-  },
-  {
-    "id": "9dc3b412edbb9f97",
-    "title": "Алексей Миранчук оформил первый дубль в зарубежной карьере",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/8/53/347729613481538.png",
-    "teaser": "Алексей Миранчук оформил первый дубль в зарубежной карьере",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69ad3c349a794717f1c3f0db",
-    "publishedAt": "2026-03-08T09:20:38.000Z",
-    "createdAt": "2026-03-08T13:00:52.474Z",
-    "updatedAt": "2026-03-08T13:00:52.474Z"
-  },
-  {
-    "id": "0dbe568703c5841b",
-    "title": "СКА второй раз в сезоне КХЛ обыграл московское «Динамо»",
-    "sport": "Хоккей",
-    "category": "Хоккей",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/3/48/347729077693483.jpeg",
-    "teaser": "СКА второй раз в сезоне КХЛ обыграл московское «Динамо»",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69ac6cb99a7947051e4570c5",
-    "publishedAt": "2026-03-07T18:56:49.000Z",
-    "createdAt": "2026-03-08T13:00:51.432Z",
-    "updatedAt": "2026-03-08T13:00:51.432Z"
+    "sourceUrl": "https://sportrbc.ru/news/69a6b8089a7947425360a952",
+    "publishedAt": "2026-03-07T06:00:30.000Z",
+    "createdAt": "2026-03-08T14:30:42.768Z",
+    "updatedAt": "2026-03-08T14:30:42.768Z"
   }
 ]
