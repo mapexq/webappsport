@@ -1,5 +1,75 @@
 [
   {
+    "id": "272d793d77c02927",
+    "title": "Лыжник Коростелев впервые выиграл медаль в Кубке мира",
+    "sport": "Другое",
+    "category": "Другие",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/8/25/347729735818258.png",
+    "teaser": "Лыжник Коростелев впервые выиграл медаль в Кубке мира",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69ad6d999a79477a5f5cc08d",
+    "publishedAt": "2026-03-08T12:50:41.000Z",
+    "createdAt": "2026-03-08T13:00:43.401Z",
+    "updatedAt": "2026-03-08T13:00:43.401Z"
+  },
+  {
+    "id": "902dbf13198242ca",
+    "title": "Россияне не смогли побороться за медали в сноуборд-кроссе на Паралимпиаде",
+    "sport": "Другое",
+    "category": "Другие",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/5/26/347729730451265.jpeg",
+    "teaser": "Россияне не смогли побороться за медали в сноуборд-кроссе на Паралимпиаде",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69ad69539a79479dad8d8f91",
+    "publishedAt": "2026-03-08T12:36:26.000Z",
+    "createdAt": "2026-03-08T13:00:44.218Z",
+    "updatedAt": "2026-03-08T13:00:44.218Z"
+  },
+  {
+    "id": "3c466563ee904648",
+    "title": "Фигуристы Бойкова и Козловский выиграли финал Гран-при России в парах",
+    "sport": "Другое",
+    "category": "Фигурное катание",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/6/94/347729713623946.png",
+    "teaser": "Фигуристы Бойкова и Козловский выиграли финал Гран-при России в парах",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69ad65329a79472d4fa273a1",
+    "publishedAt": "2026-03-08T12:10:31.000Z",
+    "createdAt": "2026-03-08T13:00:46.237Z",
+    "updatedAt": "2026-03-08T13:00:46.237Z"
+  },
+  {
+    "id": "17b9faeeb8a9f602",
+    "title": "Лыжница Непряева показала лучший результат после допуска на Кубок мира",
+    "sport": "Другое",
+    "category": "Другие",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/7/41/347729703601417.png",
+    "teaser": "Лыжница Непряева показала лучший результат после допуска на Кубок мира",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69ad5f4e9a79479877f3deb6",
+    "publishedAt": "2026-03-08T11:47:23.000Z",
+    "createdAt": "2026-03-08T13:00:45.225Z",
+    "updatedAt": "2026-03-08T13:00:45.225Z"
+  },
+  {
+    "id": "c608b6ef5aeac44c",
+    "title": "UFC назвал полный список участников турнира в Белом доме",
+    "sport": "Единоборства",
+    "category": "Единоборства",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/2/03/347729660753032.jpeg",
+    "teaser": "UFC назвал полный список участников турнира в Белом доме",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69ad4d6b9a79473658f2e8ec",
+    "publishedAt": "2026-03-08T11:30:04.000Z",
+    "createdAt": "2026-03-08T13:00:48.292Z",
+    "updatedAt": "2026-03-08T13:00:48.292Z"
+  },
+  {
     "id": "2ae86d56a21542cd",
     "title": "«Зенит» не забил два пенальти и проиграл в гостях аутсайдеру РПЛ",
     "sport": "Футбол",
@@ -10,8 +80,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69ad522d9a7947622d0a464c",
     "publishedAt": "2026-03-08T11:05:40.000Z",
-    "createdAt": "2026-03-08T11:26:58.563Z",
-    "updatedAt": "2026-03-08T11:26:58.563Z"
+    "createdAt": "2026-03-08T13:00:47.268Z",
+    "updatedAt": "2026-03-08T13:00:47.268Z"
   },
   {
     "id": "803914c391d6d7de",
@@ -24,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69ad48809a7947706520efec",
     "publishedAt": "2026-03-08T10:14:15.000Z",
-    "createdAt": "2026-03-08T11:26:59.637Z",
-    "updatedAt": "2026-03-08T11:26:59.637Z"
+    "createdAt": "2026-03-08T13:00:49.302Z",
+    "updatedAt": "2026-03-08T13:00:49.302Z"
   },
   {
     "id": "8ce891341d3db35b",
@@ -38,8 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69ad3ffa9a794790529c3142",
     "publishedAt": "2026-03-08T09:57:39.000Z",
-    "createdAt": "2026-03-08T11:27:00.763Z",
-    "updatedAt": "2026-03-08T11:27:00.763Z"
+    "createdAt": "2026-03-08T13:00:50.408Z",
+    "updatedAt": "2026-03-08T13:00:50.408Z"
   },
   {
     "id": "9dc3b412edbb9f97",
@@ -52,8 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69ad3c349a794717f1c3f0db",
     "publishedAt": "2026-03-08T09:20:38.000Z",
-    "createdAt": "2026-03-08T11:27:01.909Z",
-    "updatedAt": "2026-03-08T11:27:01.909Z"
+    "createdAt": "2026-03-08T13:00:52.474Z",
+    "updatedAt": "2026-03-08T13:00:52.474Z"
   },
   {
     "id": "0dbe568703c5841b",
@@ -66,77 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69ac6cb99a7947051e4570c5",
     "publishedAt": "2026-03-07T18:56:49.000Z",
-    "createdAt": "2026-03-08T11:27:03.053Z",
-    "updatedAt": "2026-03-08T11:27:03.053Z"
-  },
-  {
-    "id": "561fea8b1bd98125",
-    "title": "Матч худших клубов РПЛ завершился победой «Пари НН»",
-    "sport": "Хоккей",
-    "category": "Хоккей",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/7/20/347729069108207.jpeg",
-    "teaser": "Матч худших клубов РПЛ завершился победой «Пари НН»",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69ac5f209a794734cd73bf96",
-    "publishedAt": "2026-03-07T18:07:24.000Z",
-    "createdAt": "2026-03-08T11:27:05.368Z",
-    "updatedAt": "2026-03-08T11:27:05.368Z"
-  },
-  {
-    "id": "fdd34d4f374ff494",
-    "title": "Овечкин вышел на чистое 16-е место в истории по числу матчей в НХЛ",
-    "sport": "Хоккей",
-    "category": "Хоккей",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/3/77/347729059179773.jpeg",
-    "teaser": "Овечкин вышел на чистое 16-е место в истории по числу матчей в НХЛ",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69ac658c9a7947aa909851d0",
-    "publishedAt": "2026-03-07T17:55:20.000Z",
-    "createdAt": "2026-03-08T11:27:04.216Z",
-    "updatedAt": "2026-03-08T11:27:04.216Z"
-  },
-  {
-    "id": "053600133ae8416d",
-    "title": "Гуменник объяснил, почему выступил с музыкой из «Парфюмера» в финале ГП",
-    "sport": "Другое",
-    "category": "Фигурное катание",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/4/43/347729034463434.jpeg",
-    "teaser": "Гуменник объяснил, почему выступил с музыкой из «Парфюмера» в финале ГП",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69ac5bbb9a79474cc2cd0225",
-    "publishedAt": "2026-03-07T17:18:30.000Z",
-    "createdAt": "2026-03-08T11:27:06.470Z",
-    "updatedAt": "2026-03-08T11:27:06.470Z"
-  },
-  {
-    "id": "a11b5eb65f543cc5",
-    "title": "Капитан СКА Плотников четвертым в истории сыграл 1000 матчей в КХЛ",
-    "sport": "Хоккей",
-    "category": "Хоккей",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/1/26/347729019275261.jpeg",
-    "teaser": "Капитан СКА Плотников четвертым в истории сыграл 1000 матчей в КХЛ",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69ac55d19a794783129a21e0",
-    "publishedAt": "2026-03-07T16:49:55.000Z",
-    "createdAt": "2026-03-08T11:27:09.145Z",
-    "updatedAt": "2026-03-08T11:27:09.145Z"
-  },
-  {
-    "id": "a68c6b786c5faaf2",
-    "title": "Призер Олимпиады Филиппов — РБК: «Я азартный. Не знаю, погубит меня это»",
-    "sport": "Другое",
-    "category": "Другие",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/9/90/347726059894909.jpeg",
-    "teaser": "Призер Олимпиады Филиппов — РБК: «Я азартный. Не знаю, погубит меня это»",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69a6b8089a7947425360a952",
-    "publishedAt": "2026-03-07T06:00:30.000Z",
-    "createdAt": "2026-03-08T11:27:07.791Z",
-    "updatedAt": "2026-03-08T11:27:07.791Z"
+    "createdAt": "2026-03-08T13:00:51.432Z",
+    "updatedAt": "2026-03-08T13:00:51.432Z"
   }
 ]
