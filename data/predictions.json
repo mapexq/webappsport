@@ -1,6 +1,6 @@
 [
   {
-    "id": 1773036222329,
+    "id": 1773042744963,
     "eventName": "Авангард — Сибирь",
     "discipline": "Хоккей",
     "tournament": "Чемпионат",
@@ -16,39 +16,7 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1773036222331,
-    "eventName": "Спартак Москва — Акрон",
-    "discipline": "Футбол",
-    "tournament": "Чемпионат",
-    "expert": {
-      "name": "Сашка Васькин",
-      "avatar": "https://bookmaker-ratings.ru/static/images/badges/is-kapper.svg?v=30092024",
-      "status": "expert",
-      "winRate": 73
-    },
-    "prediction": "Обе забьют (Да)",
-    "odds": 1.92,
-    "comment": "Всем приветЖдем победу Спартака, но как всегда не без валидола",
-    "source": "Sports Analytics Pro"
-  },
-  {
-    "id": 1773036222332,
-    "eventName": "Спартак Москва — Акрон",
-    "discipline": "Футбол",
-    "tournament": "Чемпионат",
-    "expert": {
-      "name": "Босс Пауль",
-      "avatar": "https://bookmaker-ratings.ru/static/images/badges/is-kapper.svg?v=30092024",
-      "status": "expert",
-      "winRate": 68
-    },
-    "prediction": "Тотал больше (2)",
-    "odds": 1.3,
-    "comment": "Спартак дома !Думаю в этом матче Спартак начнет активно при своих болельщиках, не исключаю обмен голами в первом тайме",
-    "source": "Sports Analytics Pro"
-  },
-  {
-    "id": 1773036222333,
+    "id": 1773042744964,
     "eventName": "Ротор — Урал",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -64,7 +32,7 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1773036222334,
+    "id": 1773042744965,
     "eventName": "Шинник — Уфа",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -80,7 +48,7 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1773036222335,
+    "id": 1773042744966,
     "eventName": "Спартак — Акрон",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -96,7 +64,7 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1773036222336,
+    "id": 1773042744967,
     "eventName": "Вест Хэм — Брентфорд",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -112,7 +80,7 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1773036222337,
+    "id": 1773042744968,
     "eventName": "Лацио — Сассуоло",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -128,7 +96,7 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1773036222338,
+    "id": 1773042744969,
     "eventName": "Эспаньол — Овьедо",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -144,7 +112,39 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1773036222339,
+    "id": 1773042744970,
+    "eventName": "Авангард — Сибирь",
+    "discipline": "Хоккей",
+    "tournament": "Чемпионат",
+    "expert": {
+      "name": "Алекс Зы",
+      "avatar": "https://bookmaker-ratings.ru/static/images/badges/is-kapper.svg?v=30092024",
+      "status": "expert",
+      "winRate": 75
+    },
+    "prediction": "Ф2(+2)",
+    "odds": 1.54,
+    "comment": "Победа нужна обеим командам. Жду вязкий хоккей. Ещё можно подумать об ничьей и ТМ. Вообще мне видится здесь 2:2",
+    "source": "Sports Analytics Pro"
+  },
+  {
+    "id": 1773042744971,
+    "eventName": "Локомотив Москва — Ахмат",
+    "discipline": "Футбол",
+    "tournament": "Чемпионат",
+    "expert": {
+      "name": "Максим Соклаков",
+      "avatar": "https://wp1.bookmaker-ratings.ru/bookmaker-ratings.ru/wp-content/uploads/2025/03/33C35F69-0683-4000-A6EB-C0D7138B2789-67cbc29317a4d.jpg?ssl=1&w=60",
+      "status": "expert",
+      "winRate": 89
+    },
+    "prediction": "Тотал больше (2.5)",
+    "odds": 1.81,
+    "comment": "Ахмат себя хорошо показал с ЦСКА, с Локо могут также сыграть, но лучше поставить на голы",
+    "source": "Sports Analytics Pro"
+  },
+  {
+    "id": 1773042744972,
     "eventName": "Локомотив Москва — Ахмат",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
