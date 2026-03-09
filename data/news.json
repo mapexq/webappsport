@@ -1,5 +1,61 @@
 [
   {
+    "id": "2f4dad05105ae233",
+    "title": "Гимн России впервые с 2014 года прозвучал на Паралимпиаде",
+    "sport": "Другое",
+    "category": "Другие",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/3/07/347730602817073.jpeg",
+    "teaser": "Гимн России впервые с 2014 года прозвучал на Паралимпиаде",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69aebe109a79476590deaa76",
+    "publishedAt": "2026-03-09T12:53:46.000Z",
+    "createdAt": "2026-03-09T13:16:41.779Z",
+    "updatedAt": "2026-03-09T13:16:41.779Z"
+  },
+  {
+    "id": "130d77cc6f5d465e",
+    "title": "Фигуристка Двоеглазова победила в финале Гран-при России",
+    "sport": "Другое",
+    "category": "Фигурное катание",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/1/86/347730579004861.png",
+    "teaser": "Фигуристка Двоеглазова победила в финале Гран-при России",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69aeb5129a79471b55d83cdc",
+    "publishedAt": "2026-03-09T12:19:33.000Z",
+    "createdAt": "2026-03-09T13:16:44.078Z",
+    "updatedAt": "2026-03-09T13:16:44.078Z"
+  },
+  {
+    "id": "63a2bb9a302bd375",
+    "title": "Хоккеисту попали коньком в бедренную артерию во время матча в Красноярске",
+    "sport": "Хоккей",
+    "category": "Хоккей",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/8/34/347730561751348.jpeg",
+    "teaser": "Хоккеисту попали коньком в бедренную артерию во время матча в Красноярске",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69aead519a79478fda97ccb4",
+    "publishedAt": "2026-03-09T11:51:28.000Z",
+    "createdAt": "2026-03-09T13:16:42.942Z",
+    "updatedAt": "2026-03-09T13:16:42.942Z"
+  },
+  {
+    "id": "65270536a32b087e",
+    "title": "Российский горнолыжник остановился в шаге от второй бронзы Паралимпиады",
+    "sport": "Другое",
+    "category": "Другие",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/2/60/347730544096602.jpeg",
+    "teaser": "Российский горнолыжник остановился в шаге от второй бронзы Паралимпиады",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69aea9869a79470127e6d3f8",
+    "publishedAt": "2026-03-09T11:19:04.000Z",
+    "createdAt": "2026-03-09T13:16:46.366Z",
+    "updatedAt": "2026-03-09T13:16:46.366Z"
+  },
+  {
     "id": "cdbd4fe4c15f7aa5",
     "title": "Экс-игроки «Зенита» во время матча поучаствовали в драке с 23 удалениями",
     "sport": "Футбол",
@@ -10,8 +66,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69ae9d349a7947eac0c6711e",
     "publishedAt": "2026-03-09T10:59:16.000Z",
-    "createdAt": "2026-03-09T11:39:40.714Z",
-    "updatedAt": "2026-03-09T11:39:40.714Z"
+    "createdAt": "2026-03-09T13:16:45.248Z",
+    "updatedAt": "2026-03-09T13:16:45.248Z"
   },
   {
     "id": "87bffb38bcdcf3a6",
@@ -24,8 +80,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69ae989e9a79470de9b488d6",
     "publishedAt": "2026-03-09T10:11:30.000Z",
-    "createdAt": "2026-03-09T11:39:41.740Z",
-    "updatedAt": "2026-03-09T11:39:41.740Z"
+    "createdAt": "2026-03-09T13:16:47.526Z",
+    "updatedAt": "2026-03-09T13:16:47.526Z"
   },
   {
     "id": "8799de62c300d53f",
@@ -38,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69ae937d9a79470bca13061e",
     "publishedAt": "2026-03-09T09:49:52.000Z",
-    "createdAt": "2026-03-09T11:39:44.002Z",
-    "updatedAt": "2026-03-09T11:39:44.002Z"
+    "createdAt": "2026-03-09T13:16:49.801Z",
+    "updatedAt": "2026-03-09T13:16:49.801Z"
   },
   {
     "id": "1de91d0e3e41cdca",
@@ -52,22 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69ae8b719a79471ade04054d",
     "publishedAt": "2026-03-09T08:57:55.000Z",
-    "createdAt": "2026-03-09T11:39:42.870Z",
-    "updatedAt": "2026-03-09T11:39:42.870Z"
-  },
-  {
-    "id": "3fb4b93deea0d345",
-    "title": "Фанаты «Селтика» и «Рейнджерс» устроили беспорядки на поле после дерби",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/7/39/347729963854397.png",
-    "teaser": "Фанаты «Селтика» и «Рейнджерс» устроили беспорядки на поле после дерби",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69adc67c9a7947e031d6625f",
-    "publishedAt": "2026-03-08T19:18:34.000Z",
-    "createdAt": "2026-03-09T11:39:48.402Z",
-    "updatedAt": "2026-03-09T11:39:48.402Z"
+    "createdAt": "2026-03-09T13:16:48.664Z",
+    "updatedAt": "2026-03-09T13:16:48.664Z"
   },
   {
     "id": "a05399479c131037",
@@ -80,22 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69adb8cb9a794727a513e944",
     "publishedAt": "2026-03-08T18:31:55.000Z",
-    "createdAt": "2026-03-09T11:39:45.102Z",
-    "updatedAt": "2026-03-09T11:39:45.102Z"
-  },
-  {
-    "id": "de539999fc5e59d5",
-    "title": "Аутсайдер третьего дивизиона сенсационно вышел в 1/4 финала Кубка Англии",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/4/92/347729885699924.jpeg",
-    "teaser": "Аутсайдер третьего дивизиона сенсационно вышел в 1/4 финала Кубка Англии",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69ada8729a79474f33663221",
-    "publishedAt": "2026-03-08T17:07:06.000Z",
-    "createdAt": "2026-03-09T11:39:47.270Z",
-    "updatedAt": "2026-03-09T11:39:47.270Z"
+    "createdAt": "2026-03-09T13:16:50.983Z",
+    "updatedAt": "2026-03-09T13:16:50.983Z"
   },
   {
     "id": "3a302771658e4b70",
@@ -108,35 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69ad9fcd9a7947909abe55e7",
     "publishedAt": "2026-03-08T16:38:24.000Z",
-    "createdAt": "2026-03-09T11:39:46.177Z",
-    "updatedAt": "2026-03-09T11:39:46.177Z"
-  },
-  {
-    "id": "f8499a21d1520f9a",
-    "title": "Чемпион РПЛ «Краснодар» впервые с 2020 года проиграл «Рубину»",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/5/84/347729854639845.png",
-    "teaser": "Чемпион РПЛ «Краснодар» впервые с 2020 года проиграл «Рубину»",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69ad9a059a7947f09ac58980",
-    "publishedAt": "2026-03-08T16:03:25.000Z",
-    "createdAt": "2026-03-09T11:39:49.530Z",
-    "updatedAt": "2026-03-09T11:39:49.530Z"
-  },
-  {
-    "id": "cffb645d339a53a4",
-    "title": "Клебо оценил первую медаль Коростелева в Кубке мира",
-    "sport": "Другое",
-    "category": "Другие",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/0/69/347729788054690.png",
-    "teaser": "Клебо оценил первую медаль Коростелева в Кубке мира",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69ad7d739a79474a1eb0f330",
-    "publishedAt": "2026-03-08T14:12:01.000Z",
-    "createdAt": "2026-03-09T11:39:50.598Z",
-    "updatedAt": "2026-03-09T11:39:50.598Z"
+    "createdAt": "2026-03-09T13:16:52.107Z",
+    "updatedAt": "2026-03-09T13:16:52.107Z"
   }
 ]
