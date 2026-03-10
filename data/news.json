@@ -1,5 +1,75 @@
 [
   {
+    "id": "b42f0005dc01adb3",
+    "title": "Путин поздравил Багиян и Ворончихину с золотыми медалями Паралимпиады",
+    "sport": "Другое",
+    "category": "Другие",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/7/88/347731556264887.jpeg",
+    "teaser": "Путин поздравил Багиян и Ворончихину с золотыми медалями Паралимпиады",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69b034f59a79477d45d7f229",
+    "publishedAt": "2026-03-10T15:28:29.000Z",
+    "createdAt": "2026-03-10T16:05:20.573Z",
+    "updatedAt": "2026-03-10T16:05:20.573Z"
+  },
+  {
+    "id": "52bf7275e309a22c",
+    "title": "Гимн России второй раз прозвучал на Паралимпиаде-2026",
+    "sport": "Другое",
+    "category": "Другие",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/0/34/347731550086340.jpeg",
+    "teaser": "Гимн России второй раз прозвучал на Паралимпиаде-2026",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69b0328a9a794739d68cf231",
+    "publishedAt": "2026-03-10T15:17:13.000Z",
+    "createdAt": "2026-03-10T16:05:21.709Z",
+    "updatedAt": "2026-03-10T16:05:21.709Z"
+  },
+  {
+    "id": "d265aa9890c03bc1",
+    "title": "Двух французских теннисистов задержали по делу о договорных матчах",
+    "sport": "Теннис",
+    "category": "Теннис",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/4/65/347731547501654.jpeg",
+    "teaser": "Двух французских теннисистов задержали по делу о договорных матчах",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69b02e429a79474ccf20a3a7",
+    "publishedAt": "2026-03-10T15:16:15.000Z",
+    "createdAt": "2026-03-10T16:05:24.261Z",
+    "updatedAt": "2026-03-10T16:05:24.261Z"
+  },
+  {
+    "id": "0db57a9e3722752f",
+    "title": "Российскую теннисистку дисквалифицировали за договорные матчи",
+    "sport": "Теннис",
+    "category": "Теннис",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/7/06/347731543393067.jpeg",
+    "teaser": "Российскую теннисистку дисквалифицировали за договорные матчи",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69b02cbf9a79476fb53fb316",
+    "publishedAt": "2026-03-10T15:13:31.000Z",
+    "createdAt": "2026-03-10T16:05:22.827Z",
+    "updatedAt": "2026-03-10T16:05:22.827Z"
+  },
+  {
+    "id": "9f52bd3edd94a97e",
+    "title": "«Барселоне» разрешили увеличить максимальную вместимость стадиона",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/2/55/347731535444552.jpeg",
+    "teaser": "«Барселоне» разрешили увеличить максимальную вместимость стадиона",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69b02a079a7947ce62113e86",
+    "publishedAt": "2026-03-10T15:05:55.000Z",
+    "createdAt": "2026-03-10T16:05:25.708Z",
+    "updatedAt": "2026-03-10T16:05:25.708Z"
+  },
+  {
     "id": "305e5ae97068863d",
     "title": "Президент РПЛ заявил, что не видит проблемы расизма в российском футболе",
     "sport": "Футбол",
@@ -10,8 +80,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69b0229c9a79477b4c42d00c",
     "publishedAt": "2026-03-10T14:40:04.000Z",
-    "createdAt": "2026-03-10T14:55:50.431Z",
-    "updatedAt": "2026-03-10T14:55:50.431Z"
+    "createdAt": "2026-03-10T16:05:27.057Z",
+    "updatedAt": "2026-03-10T16:05:27.057Z"
   },
   {
     "id": "56b9f64410071f95",
@@ -24,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69b0249f9a79477071fb4545",
     "publishedAt": "2026-03-10T14:34:52.000Z",
-    "createdAt": "2026-03-10T14:55:51.544Z",
-    "updatedAt": "2026-03-10T14:55:51.544Z"
+    "createdAt": "2026-03-10T16:05:28.132Z",
+    "updatedAt": "2026-03-10T16:05:28.132Z"
   },
   {
     "id": "a2f3812cd7a8666c",
@@ -38,8 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69b01df59a79470a1f661566",
     "publishedAt": "2026-03-10T13:59:35.000Z",
-    "createdAt": "2026-03-10T14:55:54.861Z",
-    "updatedAt": "2026-03-10T14:55:54.861Z"
+    "createdAt": "2026-03-10T16:05:31.447Z",
+    "updatedAt": "2026-03-10T16:05:31.447Z"
   },
   {
     "id": "2de9efbb05a5343a",
@@ -52,8 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69b018079a7947857dc93849",
     "publishedAt": "2026-03-10T13:39:01.000Z",
-    "createdAt": "2026-03-10T14:55:52.686Z",
-    "updatedAt": "2026-03-10T14:55:52.686Z"
+    "createdAt": "2026-03-10T16:05:29.243Z",
+    "updatedAt": "2026-03-10T16:05:29.243Z"
   },
   {
     "id": "9a6fca4ac2408900",
@@ -66,77 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69b00ed99a7947298bf97607",
     "publishedAt": "2026-03-10T13:33:40.000Z",
-    "createdAt": "2026-03-10T14:55:53.810Z",
-    "updatedAt": "2026-03-10T14:55:53.810Z"
-  },
-  {
-    "id": "7cdbf31fff531a8d",
-    "title": "ФХР пожизненно дисквалифицировала судью за аморальное поведение",
-    "sport": "Хоккей",
-    "category": "Хоккей",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/2/72/347731479640722.jpeg",
-    "teaser": "ФХР пожизненно дисквалифицировала судью за аморальное поведение",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69b0148c9a79479d571e75ea",
-    "publishedAt": "2026-03-10T13:13:45.000Z",
-    "createdAt": "2026-03-10T14:55:57.060Z",
-    "updatedAt": "2026-03-10T14:55:57.060Z"
-  },
-  {
-    "id": "207424042c378c34",
-    "title": "Лыжница Багиян принесла сборной России второе золото на Паралимпиаде-2026",
-    "sport": "Другое",
-    "category": "Другие",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/7/49/347731462046497.jpeg",
-    "teaser": "Лыжница Багиян принесла сборной России второе золото на Паралимпиаде-2026",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69b0101c9a79476497a7e00a",
-    "publishedAt": "2026-03-10T13:09:52.000Z",
-    "createdAt": "2026-03-10T14:55:55.923Z",
-    "updatedAt": "2026-03-10T14:55:55.923Z"
-  },
-  {
-    "id": "471c49be8d674873",
-    "title": "Москвина объяснила иск из-за «Парфюмера» интересом к спорту",
-    "sport": "Другое",
-    "category": "Фигурное катание",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/6/60/347731467131606.jpeg",
-    "teaser": "Москвина объяснила иск из-за «Парфюмера» интересом к спорту",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69b00dfb9a7947268bb881aa",
-    "publishedAt": "2026-03-10T12:54:23.000Z",
-    "createdAt": "2026-03-10T14:55:58.181Z",
-    "updatedAt": "2026-03-10T14:55:58.181Z"
-  },
-  {
-    "id": "61844fd5c802a6e1",
-    "title": "Экс-футболиста «Манчестер Сити» арестовали по подозрению в избиении",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/5/94/347731445368945.jpeg",
-    "teaser": "Экс-футболиста «Манчестер Сити» арестовали по подозрению в избиении",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69b009269a79470a5a5beb6e",
-    "publishedAt": "2026-03-10T12:43:15.000Z",
-    "createdAt": "2026-03-10T14:56:00.660Z",
-    "updatedAt": "2026-03-10T14:56:00.660Z"
-  },
-  {
-    "id": "7f0617521c5fc12f",
-    "title": "Карпин предстал в образе детектива в ролике к мартовским матчам сборной",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/9/39/347731437580399.jpeg",
-    "teaser": "Карпин предстал в образе детектива в ролике к мартовским матчам сборной",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69b006ba9a7947694954886a",
-    "publishedAt": "2026-03-10T12:26:57.000Z",
-    "createdAt": "2026-03-10T14:55:59.513Z",
-    "updatedAt": "2026-03-10T14:55:59.513Z"
+    "createdAt": "2026-03-10T16:05:30.341Z",
+    "updatedAt": "2026-03-10T16:05:30.341Z"
   }
 ]
