@@ -1,5 +1,61 @@
 [
   {
+    "id": "8569461f802e47f8",
+    "title": "Мирра Андреева объяснила нецензурные выкрики в адрес болельщиков",
+    "sport": "Теннис",
+    "category": "Теннис",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/2/70/347731405777702.jpeg",
+    "teaser": "Мирра Андреева объяснила нецензурные выкрики в адрес болельщиков",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69affa2e9a7947d8518eaba0",
+    "publishedAt": "2026-03-10T11:16:57.000Z",
+    "createdAt": "2026-03-10T11:37:32.570Z",
+    "updatedAt": "2026-03-10T11:37:32.570Z"
+  },
+  {
+    "id": "131f40c72b95dd5d",
+    "title": "Умер бывший игрок «Динамо» и обладатель Кубка России Некрасов",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/4/68/347731404708684.jpeg",
+    "teaser": "Умер бывший игрок «Динамо» и обладатель Кубка России Некрасов",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69aff4f49a79475c6977d58b",
+    "publishedAt": "2026-03-10T11:06:54.000Z",
+    "createdAt": "2026-03-10T11:37:33.651Z",
+    "updatedAt": "2026-03-10T11:37:33.651Z"
+  },
+  {
+    "id": "e4cd2d24dcdd48eb",
+    "title": "Тим Цзю проведет чемпионский бой 5 апреля",
+    "sport": "Единоборства",
+    "category": "Единоборства",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/9/81/347731386238819.jpeg",
+    "teaser": "Тим Цзю проведет чемпионский бой 5 апреля",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69aff2789a79471982fc9be8",
+    "publishedAt": "2026-03-10T10:52:05.000Z",
+    "createdAt": "2026-03-10T11:37:34.717Z",
+    "updatedAt": "2026-03-10T11:37:34.717Z"
+  },
+  {
+    "id": "5ab6916877e69a3c",
+    "title": "Умер двукратный чемпион СССР по гребному спорту",
+    "sport": "Другое",
+    "category": "Другие",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/4/63/347731387054634.jpeg",
+    "teaser": "Умер двукратный чемпион СССР по гребному спорту",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69afee949a7947771c8813e0",
+    "publishedAt": "2026-03-10T10:50:17.000Z",
+    "createdAt": "2026-03-10T11:37:36.937Z",
+    "updatedAt": "2026-03-10T11:37:36.937Z"
+  },
+  {
     "id": "220eb52faeed35bc",
     "title": "Инфантино заявил, что ЧМ-2026 будет феноменальным и фантастическим",
     "sport": "Футбол",
@@ -10,8 +66,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69afdfda9a79479c93e08bbc",
     "publishedAt": "2026-03-10T10:33:40.000Z",
-    "createdAt": "2026-03-10T10:49:12.283Z",
-    "updatedAt": "2026-03-10T10:49:12.283Z"
+    "createdAt": "2026-03-10T11:37:35.750Z",
+    "updatedAt": "2026-03-10T11:37:35.750Z"
   },
   {
     "id": "10c31fc04fa6310a",
@@ -24,8 +80,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69afe39a9a79471ecb1fa4db",
     "publishedAt": "2026-03-10T10:12:17.000Z",
-    "createdAt": "2026-03-10T10:49:13.326Z",
-    "updatedAt": "2026-03-10T10:49:13.326Z"
+    "createdAt": "2026-03-10T11:37:37.995Z",
+    "updatedAt": "2026-03-10T11:37:37.995Z"
   },
   {
     "id": "7906adfcb4254b26",
@@ -38,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69afe8e09a79476431fc7f20",
     "publishedAt": "2026-03-10T10:07:35.000Z",
-    "createdAt": "2026-03-10T10:49:14.377Z",
-    "updatedAt": "2026-03-10T10:49:14.377Z"
+    "createdAt": "2026-03-10T11:37:39.069Z",
+    "updatedAt": "2026-03-10T11:37:39.069Z"
   },
   {
     "id": "1c0e3d2ee85009fb",
@@ -52,8 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69afd70a9a79470b79f981fb",
     "publishedAt": "2026-03-10T09:11:33.000Z",
-    "createdAt": "2026-03-10T10:49:16.470Z",
-    "updatedAt": "2026-03-10T10:49:16.470Z"
+    "createdAt": "2026-03-10T11:37:41.312Z",
+    "updatedAt": "2026-03-10T11:37:41.312Z"
   },
   {
     "id": "0322929eb525a1fd",
@@ -66,22 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69afdc229a7947ae18fc5162",
     "publishedAt": "2026-03-10T09:10:19.000Z",
-    "createdAt": "2026-03-10T10:49:17.526Z",
-    "updatedAt": "2026-03-10T10:49:17.526Z"
-  },
-  {
-    "id": "b00bed289136ebb7",
-    "title": "Россиянка осталась без медали в суперкомбинации на Паралимпиаде",
-    "sport": "Другое",
-    "category": "Другие",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/5/71/347731313642715.jpeg",
-    "teaser": "Россиянка осталась без медали в суперкомбинации на Паралимпиаде",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69afd6289a7947363bb8d501",
-    "publishedAt": "2026-03-10T08:39:13.000Z",
-    "createdAt": "2026-03-10T10:49:18.575Z",
-    "updatedAt": "2026-03-10T10:49:18.575Z"
+    "createdAt": "2026-03-10T11:37:42.458Z",
+    "updatedAt": "2026-03-10T11:37:42.458Z"
   },
   {
     "id": "56de8bc96a5e82c5",
@@ -94,49 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69afcfda9a7947691cf63b39",
     "publishedAt": "2026-03-10T08:37:34.000Z",
-    "createdAt": "2026-03-10T10:49:15.430Z",
-    "updatedAt": "2026-03-10T10:49:15.430Z"
-  },
-  {
-    "id": "e99caa1950a4e121",
-    "title": "Суперфинал Кубка России по футболу пройдет в «Лужниках»",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/0/27/347731305582270.jpeg",
-    "teaser": "Суперфинал Кубка России по футболу пройдет в «Лужниках»",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69afd2099a7947eb51aaceec",
-    "publishedAt": "2026-03-10T08:24:22.000Z",
-    "createdAt": "2026-03-10T10:49:20.677Z",
-    "updatedAt": "2026-03-10T10:49:20.677Z"
-  },
-  {
-    "id": "52fa13d4d15a98d4",
-    "title": "Овечкин рассказал, что может повлиять на завершение карьеры",
-    "sport": "Хоккей",
-    "category": "Хоккей",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/1/15/347731288019151.jpeg",
-    "teaser": "Овечкин рассказал, что может повлиять на завершение карьеры",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69afc8899a794748ac135d29",
-    "publishedAt": "2026-03-10T08:23:11.000Z",
-    "createdAt": "2026-03-10T10:49:19.616Z",
-    "updatedAt": "2026-03-10T10:49:19.616Z"
-  },
-  {
-    "id": "efe17eb238648c70",
-    "title": "Умер бывший тренер по физподготовке молодежных сборных России по хоккею",
-    "sport": "Хоккей",
-    "category": "Хоккей",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/7/51/347731274433517.jpeg",
-    "teaser": "Умер бывший тренер по физподготовке молодежных сборных России по хоккею",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69afc6f89a794776493e1c18",
-    "publishedAt": "2026-03-10T08:03:37.000Z",
-    "createdAt": "2026-03-10T10:49:21.744Z",
-    "updatedAt": "2026-03-10T10:49:21.744Z"
+    "createdAt": "2026-03-10T11:37:40.176Z",
+    "updatedAt": "2026-03-10T11:37:40.176Z"
   }
 ]
