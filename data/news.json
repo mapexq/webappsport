@@ -1,5 +1,89 @@
 [
   {
+    "id": "207424042c378c34",
+    "title": "Лыжница Багиян принесла сборной России второе золото на Паралимпиаде-2026",
+    "sport": "Другое",
+    "category": "Другие",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/7/49/347731462046497.jpeg",
+    "teaser": "Лыжница Багиян принесла сборной России второе золото на Паралимпиаде-2026",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69b0101c9a79476497a7e00a",
+    "publishedAt": "2026-03-10T13:09:52.000Z",
+    "createdAt": "2026-03-10T13:14:30.485Z",
+    "updatedAt": "2026-03-10T13:14:30.485Z"
+  },
+  {
+    "id": "471c49be8d674873",
+    "title": "Москвина объяснила иск из-за «Парфюмера» интересом к спорту",
+    "sport": "Другое",
+    "category": "Фигурное катание",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/6/60/347731467131606.jpeg",
+    "teaser": "Москвина объяснила иск из-за «Парфюмера» интересом к спорту",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69b00dfb9a7947268bb881aa",
+    "publishedAt": "2026-03-10T12:54:23.000Z",
+    "createdAt": "2026-03-10T13:14:31.911Z",
+    "updatedAt": "2026-03-10T13:14:31.911Z"
+  },
+  {
+    "id": "61844fd5c802a6e1",
+    "title": "Экс-футболиста «Манчестер Сити» арестовали по подозрению в избиении",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/5/94/347731445368945.jpeg",
+    "teaser": "Экс-футболиста «Манчестер Сити» арестовали по подозрению в избиении",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69b009269a79470a5a5beb6e",
+    "publishedAt": "2026-03-10T12:43:15.000Z",
+    "createdAt": "2026-03-10T13:14:34.164Z",
+    "updatedAt": "2026-03-10T13:14:34.164Z"
+  },
+  {
+    "id": "7f0617521c5fc12f",
+    "title": "Карпин предстал в образе детектива в ролике к мартовским матчам сборной",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/9/39/347731437580399.jpeg",
+    "teaser": "Карпин предстал в образе детектива в ролике к мартовским матчам сборной",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69b006ba9a7947694954886a",
+    "publishedAt": "2026-03-10T12:26:57.000Z",
+    "createdAt": "2026-03-10T13:14:33.087Z",
+    "updatedAt": "2026-03-10T13:14:33.087Z"
+  },
+  {
+    "id": "7ec58d1167f4d774",
+    "title": "Дзюба фразой «смотреть невыносимо» оценил игру «Зенита»",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/5/60/347731417872605.jpeg",
+    "teaser": "Дзюба фразой «смотреть невыносимо» оценил игру «Зенита»",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69aff9739a794775d4ad5dfa",
+    "publishedAt": "2026-03-10T11:50:52.000Z",
+    "createdAt": "2026-03-10T13:14:35.241Z",
+    "updatedAt": "2026-03-10T13:14:35.241Z"
+  },
+  {
+    "id": "b485b70f8f47d185",
+    "title": "«Трактор» вышел в плей-офф КХЛ",
+    "sport": "Хоккей",
+    "category": "Хоккей",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/1/18/347731420523181.jpeg",
+    "teaser": "«Трактор» вышел в плей-офф КХЛ",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69affff49a79473f156ad7c6",
+    "publishedAt": "2026-03-10T11:37:19.000Z",
+    "createdAt": "2026-03-10T13:14:36.336Z",
+    "updatedAt": "2026-03-10T13:14:36.336Z"
+  },
+  {
     "id": "8569461f802e47f8",
     "title": "Мирра Андреева объяснила нецензурные выкрики в адрес болельщиков",
     "sport": "Теннис",
@@ -10,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69affa2e9a7947d8518eaba0",
     "publishedAt": "2026-03-10T11:16:57.000Z",
-    "createdAt": "2026-03-10T11:37:32.570Z",
-    "updatedAt": "2026-03-10T11:37:32.570Z"
+    "createdAt": "2026-03-10T13:14:37.420Z",
+    "updatedAt": "2026-03-10T13:14:37.420Z"
   },
   {
     "id": "131f40c72b95dd5d",
@@ -24,8 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69aff4f49a79475c6977d58b",
     "publishedAt": "2026-03-10T11:06:54.000Z",
-    "createdAt": "2026-03-10T11:37:33.651Z",
-    "updatedAt": "2026-03-10T11:37:33.651Z"
+    "createdAt": "2026-03-10T13:14:38.502Z",
+    "updatedAt": "2026-03-10T13:14:38.502Z"
   },
   {
     "id": "e4cd2d24dcdd48eb",
@@ -38,22 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69aff2789a79471982fc9be8",
     "publishedAt": "2026-03-10T10:52:05.000Z",
-    "createdAt": "2026-03-10T11:37:34.717Z",
-    "updatedAt": "2026-03-10T11:37:34.717Z"
-  },
-  {
-    "id": "5ab6916877e69a3c",
-    "title": "Умер двукратный чемпион СССР по гребному спорту",
-    "sport": "Другое",
-    "category": "Другие",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/4/63/347731387054634.jpeg",
-    "teaser": "Умер двукратный чемпион СССР по гребному спорту",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69afee949a7947771c8813e0",
-    "publishedAt": "2026-03-10T10:50:17.000Z",
-    "createdAt": "2026-03-10T11:37:36.937Z",
-    "updatedAt": "2026-03-10T11:37:36.937Z"
+    "createdAt": "2026-03-10T13:14:39.592Z",
+    "updatedAt": "2026-03-10T13:14:39.592Z"
   },
   {
     "id": "220eb52faeed35bc",
@@ -66,77 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69afdfda9a79479c93e08bbc",
     "publishedAt": "2026-03-10T10:33:40.000Z",
-    "createdAt": "2026-03-10T11:37:35.750Z",
-    "updatedAt": "2026-03-10T11:37:35.750Z"
-  },
-  {
-    "id": "10c31fc04fa6310a",
-    "title": "Петербуржец попросил суд провести воспитательную беседу с Гуменником",
-    "sport": "Другое",
-    "category": "Фигурное катание",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/8/98/347731349711988.jpeg",
-    "teaser": "Петербуржец попросил суд провести воспитательную беседу с Гуменником",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69afe39a9a79471ecb1fa4db",
-    "publishedAt": "2026-03-10T10:12:17.000Z",
-    "createdAt": "2026-03-10T11:37:37.995Z",
-    "updatedAt": "2026-03-10T11:37:37.995Z"
-  },
-  {
-    "id": "7906adfcb4254b26",
-    "title": "Песков заявил, что Путин поздравит Ворончихину с золотом на Паралимпиаде",
-    "sport": "Другое",
-    "category": "Другие",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/8/80/347731361491808.jpeg",
-    "teaser": "Песков заявил, что Путин поздравит Ворончихину с золотом на Паралимпиаде",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69afe8e09a79476431fc7f20",
-    "publishedAt": "2026-03-10T10:07:35.000Z",
-    "createdAt": "2026-03-10T11:37:39.069Z",
-    "updatedAt": "2026-03-10T11:37:39.069Z"
-  },
-  {
-    "id": "1c0e3d2ee85009fb",
-    "title": "Дегтярев заявил, что спортивный мир ждет полноценного возвращения россиян",
-    "sport": "Другое",
-    "category": "Другие",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/8/03/347731327669038.jpeg",
-    "teaser": "Дегтярев заявил, что спортивный мир ждет полноценного возвращения россиян",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69afd70a9a79470b79f981fb",
-    "publishedAt": "2026-03-10T09:11:33.000Z",
-    "createdAt": "2026-03-10T11:37:41.312Z",
-    "updatedAt": "2026-03-10T11:37:41.312Z"
-  },
-  {
-    "id": "0322929eb525a1fd",
-    "title": "MLS пожизненно дисквалифицировала двух футболистов за ставки",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/5/81/347731328703815.jpeg",
-    "teaser": "MLS пожизненно дисквалифицировала двух футболистов за ставки",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69afdc229a7947ae18fc5162",
-    "publishedAt": "2026-03-10T09:10:19.000Z",
-    "createdAt": "2026-03-10T11:37:42.458Z",
-    "updatedAt": "2026-03-10T11:37:42.458Z"
-  },
-  {
-    "id": "56de8bc96a5e82c5",
-    "title": "Бублик поддержал Андрееву, которая нецензурно выругалась на болельщиков",
-    "sport": "Теннис",
-    "category": "Теннис",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/8/01/347731304349018.jpeg",
-    "teaser": "Бублик поддержал Андрееву, которая нецензурно выругалась на болельщиков",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69afcfda9a7947691cf63b39",
-    "publishedAt": "2026-03-10T08:37:34.000Z",
-    "createdAt": "2026-03-10T11:37:40.176Z",
-    "updatedAt": "2026-03-10T11:37:40.176Z"
+    "createdAt": "2026-03-10T13:14:40.686Z",
+    "updatedAt": "2026-03-10T13:14:40.686Z"
   }
 ]
