@@ -1,5 +1,89 @@
 [
   {
+    "id": "305e5ae97068863d",
+    "title": "Президент РПЛ заявил, что не видит проблемы расизма в российском футболе",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/6/56/347731517045566.jpeg",
+    "teaser": "Президент РПЛ заявил, что не видит проблемы расизма в российском футболе",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69b0229c9a79477b4c42d00c",
+    "publishedAt": "2026-03-10T14:40:04.000Z",
+    "createdAt": "2026-03-10T14:55:50.431Z",
+    "updatedAt": "2026-03-10T14:55:50.431Z"
+  },
+  {
+    "id": "56b9f64410071f95",
+    "title": "Глава ПКР объяснил падение Бугаева на Паралимпиаде работой на пределе",
+    "sport": "Другое",
+    "category": "Другие",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/3/53/347731520911533.jpeg",
+    "teaser": "Глава ПКР объяснил падение Бугаева на Паралимпиаде работой на пределе",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69b0249f9a79477071fb4545",
+    "publishedAt": "2026-03-10T14:34:52.000Z",
+    "createdAt": "2026-03-10T14:55:51.544Z",
+    "updatedAt": "2026-03-10T14:55:51.544Z"
+  },
+  {
+    "id": "a2f3812cd7a8666c",
+    "title": "Багиян заявила, что ей приятно будет услышать гимн России на награждении",
+    "sport": "Другое",
+    "category": "Другие",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/2/93/347731506412932.jpeg",
+    "teaser": "Багиян заявила, что ей приятно будет услышать гимн России на награждении",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69b01df59a79470a1f661566",
+    "publishedAt": "2026-03-10T13:59:35.000Z",
+    "createdAt": "2026-03-10T14:55:54.861Z",
+    "updatedAt": "2026-03-10T14:55:54.861Z"
+  },
+  {
+    "id": "2de9efbb05a5343a",
+    "title": "Инфантино назвал сборную Испании фаворитом на ЧМ-2026",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/9/97/347731489827979.jpeg",
+    "teaser": "Инфантино назвал сборную Испании фаворитом на ЧМ-2026",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69b018079a7947857dc93849",
+    "publishedAt": "2026-03-10T13:39:01.000Z",
+    "createdAt": "2026-03-10T14:55:52.686Z",
+    "updatedAt": "2026-03-10T14:55:52.686Z"
+  },
+  {
+    "id": "9a6fca4ac2408900",
+    "title": "Российский горнолыжник упустил медаль Паралимпиады в суперкомбинации",
+    "sport": "Другое",
+    "category": "Другие",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/3/65/347731458698653.jpeg",
+    "teaser": "Российский горнолыжник упустил медаль Паралимпиады в суперкомбинации",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69b00ed99a7947298bf97607",
+    "publishedAt": "2026-03-10T13:33:40.000Z",
+    "createdAt": "2026-03-10T14:55:53.810Z",
+    "updatedAt": "2026-03-10T14:55:53.810Z"
+  },
+  {
+    "id": "7cdbf31fff531a8d",
+    "title": "ФХР пожизненно дисквалифицировала судью за аморальное поведение",
+    "sport": "Хоккей",
+    "category": "Хоккей",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/2/72/347731479640722.jpeg",
+    "teaser": "ФХР пожизненно дисквалифицировала судью за аморальное поведение",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69b0148c9a79479d571e75ea",
+    "publishedAt": "2026-03-10T13:13:45.000Z",
+    "createdAt": "2026-03-10T14:55:57.060Z",
+    "updatedAt": "2026-03-10T14:55:57.060Z"
+  },
+  {
     "id": "207424042c378c34",
     "title": "Лыжница Багиян принесла сборной России второе золото на Паралимпиаде-2026",
     "sport": "Другое",
@@ -10,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69b0101c9a79476497a7e00a",
     "publishedAt": "2026-03-10T13:09:52.000Z",
-    "createdAt": "2026-03-10T13:14:30.485Z",
-    "updatedAt": "2026-03-10T13:14:30.485Z"
+    "createdAt": "2026-03-10T14:55:55.923Z",
+    "updatedAt": "2026-03-10T14:55:55.923Z"
   },
   {
     "id": "471c49be8d674873",
@@ -24,8 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69b00dfb9a7947268bb881aa",
     "publishedAt": "2026-03-10T12:54:23.000Z",
-    "createdAt": "2026-03-10T13:14:31.911Z",
-    "updatedAt": "2026-03-10T13:14:31.911Z"
+    "createdAt": "2026-03-10T14:55:58.181Z",
+    "updatedAt": "2026-03-10T14:55:58.181Z"
   },
   {
     "id": "61844fd5c802a6e1",
@@ -38,8 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69b009269a79470a5a5beb6e",
     "publishedAt": "2026-03-10T12:43:15.000Z",
-    "createdAt": "2026-03-10T13:14:34.164Z",
-    "updatedAt": "2026-03-10T13:14:34.164Z"
+    "createdAt": "2026-03-10T14:56:00.660Z",
+    "updatedAt": "2026-03-10T14:56:00.660Z"
   },
   {
     "id": "7f0617521c5fc12f",
@@ -52,91 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69b006ba9a7947694954886a",
     "publishedAt": "2026-03-10T12:26:57.000Z",
-    "createdAt": "2026-03-10T13:14:33.087Z",
-    "updatedAt": "2026-03-10T13:14:33.087Z"
-  },
-  {
-    "id": "7ec58d1167f4d774",
-    "title": "Дзюба фразой «смотреть невыносимо» оценил игру «Зенита»",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/5/60/347731417872605.jpeg",
-    "teaser": "Дзюба фразой «смотреть невыносимо» оценил игру «Зенита»",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69aff9739a794775d4ad5dfa",
-    "publishedAt": "2026-03-10T11:50:52.000Z",
-    "createdAt": "2026-03-10T13:14:35.241Z",
-    "updatedAt": "2026-03-10T13:14:35.241Z"
-  },
-  {
-    "id": "b485b70f8f47d185",
-    "title": "«Трактор» вышел в плей-офф КХЛ",
-    "sport": "Хоккей",
-    "category": "Хоккей",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/1/18/347731420523181.jpeg",
-    "teaser": "«Трактор» вышел в плей-офф КХЛ",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69affff49a79473f156ad7c6",
-    "publishedAt": "2026-03-10T11:37:19.000Z",
-    "createdAt": "2026-03-10T13:14:36.336Z",
-    "updatedAt": "2026-03-10T13:14:36.336Z"
-  },
-  {
-    "id": "8569461f802e47f8",
-    "title": "Мирра Андреева объяснила нецензурные выкрики в адрес болельщиков",
-    "sport": "Теннис",
-    "category": "Теннис",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/2/70/347731405777702.jpeg",
-    "teaser": "Мирра Андреева объяснила нецензурные выкрики в адрес болельщиков",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69affa2e9a7947d8518eaba0",
-    "publishedAt": "2026-03-10T11:16:57.000Z",
-    "createdAt": "2026-03-10T13:14:37.420Z",
-    "updatedAt": "2026-03-10T13:14:37.420Z"
-  },
-  {
-    "id": "131f40c72b95dd5d",
-    "title": "Умер бывший игрок «Динамо» и обладатель Кубка России Некрасов",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/4/68/347731404708684.jpeg",
-    "teaser": "Умер бывший игрок «Динамо» и обладатель Кубка России Некрасов",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69aff4f49a79475c6977d58b",
-    "publishedAt": "2026-03-10T11:06:54.000Z",
-    "createdAt": "2026-03-10T13:14:38.502Z",
-    "updatedAt": "2026-03-10T13:14:38.502Z"
-  },
-  {
-    "id": "e4cd2d24dcdd48eb",
-    "title": "Тим Цзю проведет чемпионский бой 5 апреля",
-    "sport": "Единоборства",
-    "category": "Единоборства",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/9/81/347731386238819.jpeg",
-    "teaser": "Тим Цзю проведет чемпионский бой 5 апреля",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69aff2789a79471982fc9be8",
-    "publishedAt": "2026-03-10T10:52:05.000Z",
-    "createdAt": "2026-03-10T13:14:39.592Z",
-    "updatedAt": "2026-03-10T13:14:39.592Z"
-  },
-  {
-    "id": "220eb52faeed35bc",
-    "title": "Инфантино заявил, что ЧМ-2026 будет феноменальным и фантастическим",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/6/14/347731355495146.jpeg",
-    "teaser": "Инфантино заявил, что ЧМ-2026 будет феноменальным и фантастическим",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69afdfda9a79479c93e08bbc",
-    "publishedAt": "2026-03-10T10:33:40.000Z",
-    "createdAt": "2026-03-10T13:14:40.686Z",
-    "updatedAt": "2026-03-10T13:14:40.686Z"
+    "createdAt": "2026-03-10T14:55:59.513Z",
+    "updatedAt": "2026-03-10T14:55:59.513Z"
   }
 ]
