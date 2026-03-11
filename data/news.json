@@ -1,17 +1,59 @@
 [
   {
-    "id": "53537df089c17df6",
-    "title": "The Athletic узнал о изъятии паспортов и телефонов у футболисток Ирана",
+    "id": "aaece750cb6e8281",
+    "title": "«Металлург» впервые в истории выиграл регулярный чемпионат КХЛ",
+    "sport": "Хоккей",
+    "category": "Хоккей",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/5/49/347732420349495.jpeg",
+    "teaser": "«Металлург» впервые в истории выиграл регулярный чемпионат КХЛ",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69b186699a794780916c77e8",
+    "publishedAt": "2026-03-11T16:34:39.000Z",
+    "createdAt": "2026-03-11T17:00:18.430Z",
+    "updatedAt": "2026-03-11T17:00:18.430Z"
+  },
+  {
+    "id": "b66219bc07e82765",
+    "title": "Тарасова посоветовала Плющенко сделать выводы после ухода фигуристов",
+    "sport": "Другое",
+    "category": "Фигурное катание",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/2/76/347732445941762.jpeg",
+    "teaser": "Тарасова посоветовала Плющенко сделать выводы после ухода фигуристов",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69b18cba9a7947817be60ef0",
+    "publishedAt": "2026-03-11T16:06:55.000Z",
+    "createdAt": "2026-03-11T17:00:19.451Z",
+    "updatedAt": "2026-03-11T17:00:19.451Z"
+  },
+  {
+    "id": "0d0223213b06b2f3",
+    "title": "Голкипер «Авангарда» побил рекорд КХЛ по победам среди россиян за сезон",
+    "sport": "Хоккей",
+    "category": "Хоккей",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/8/60/347732443473608.jpeg",
+    "teaser": "Голкипер «Авангарда» побил рекорд КХЛ по победам среди россиян за сезон",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69b18f8f9a794795529118fd",
+    "publishedAt": "2026-03-11T16:03:46.000Z",
+    "createdAt": "2026-03-11T17:00:20.473Z",
+    "updatedAt": "2026-03-11T17:00:20.473Z"
+  },
+  {
+    "id": "40ba34205cc6f2c0",
+    "title": "The Athletic узнал об изъятии паспортов и телефонов у футболисток Ирана",
     "sport": "Футбол",
     "category": "Футбол",
     "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/6/87/347732427609876.jpeg",
-    "teaser": "The Athletic узнал о изъятии паспортов и телефонов у футболисток Ирана",
+    "teaser": "The Athletic узнал об изъятии паспортов и телефонов у футболисток Ирана",
     "fullContent": "",
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69b1860d9a79478088d1d884",
     "publishedAt": "2026-03-11T15:33:55.000Z",
-    "createdAt": "2026-03-11T15:54:48.045Z",
-    "updatedAt": "2026-03-11T15:54:48.045Z"
+    "createdAt": "2026-03-11T17:00:21.660Z",
+    "updatedAt": "2026-03-11T17:00:21.660Z"
   },
   {
     "id": "9bc4a8a86088a31d",
@@ -24,8 +66,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69b17df09a794736ddd81e8c",
     "publishedAt": "2026-03-11T15:12:00.000Z",
-    "createdAt": "2026-03-11T15:54:49.085Z",
-    "updatedAt": "2026-03-11T15:54:49.085Z"
+    "createdAt": "2026-03-11T17:00:22.770Z",
+    "updatedAt": "2026-03-11T17:00:22.770Z"
   },
   {
     "id": "308c422c0eb376ab",
@@ -38,8 +80,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69b17fd49a79471963147629",
     "publishedAt": "2026-03-11T14:57:31.000Z",
-    "createdAt": "2026-03-11T15:54:50.115Z",
-    "updatedAt": "2026-03-11T15:54:50.115Z"
+    "createdAt": "2026-03-11T17:00:23.734Z",
+    "updatedAt": "2026-03-11T17:00:23.734Z"
   },
   {
     "id": "d348160f0db54d09",
@@ -52,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69b177359a79474b36a1866e",
     "publishedAt": "2026-03-11T14:51:48.000Z",
-    "createdAt": "2026-03-11T15:54:51.144Z",
-    "updatedAt": "2026-03-11T15:54:51.144Z"
+    "createdAt": "2026-03-11T17:00:24.861Z",
+    "updatedAt": "2026-03-11T17:00:24.861Z"
   },
   {
     "id": "3fd5b0d0f2285658",
@@ -66,22 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69b179789a794755912d11da",
     "publishedAt": "2026-03-11T14:43:01.000Z",
-    "createdAt": "2026-03-11T15:54:52.182Z",
-    "updatedAt": "2026-03-11T15:54:52.182Z"
-  },
-  {
-    "id": "859232269d9b5604",
-    "title": "Призер ОИ по гандболу возобновила карьеру и вернулась в ЦСКА",
-    "sport": "Другое",
-    "category": "Другие",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/1/27/347732375312271.jpeg",
-    "teaser": "Призер ОИ по гандболу возобновила карьеру и вернулась в ЦСКА",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69b1729c9a7947e62197ca51",
-    "publishedAt": "2026-03-11T14:05:09.000Z",
-    "createdAt": "2026-03-11T15:54:55.282Z",
-    "updatedAt": "2026-03-11T15:54:55.282Z"
+    "createdAt": "2026-03-11T17:00:25.931Z",
+    "updatedAt": "2026-03-11T17:00:25.931Z"
   },
   {
     "id": "c97652e16db8a66f",
@@ -94,22 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69b16f199a79476a37ea3477",
     "publishedAt": "2026-03-11T13:57:50.000Z",
-    "createdAt": "2026-03-11T15:54:53.203Z",
-    "updatedAt": "2026-03-11T15:54:53.203Z"
-  },
-  {
-    "id": "f73985a0dfdc0275",
-    "title": "Форварда «Ак Барса» Семенова третий раз за месяц оштрафовали за симуляцию",
-    "sport": "Хоккей",
-    "category": "Хоккей",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/7/73/347732360396737.jpeg",
-    "teaser": "Форварда «Ак Барса» Семенова третий раз за месяц оштрафовали за симуляцию",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69b16b3b9a7947671d579565",
-    "publishedAt": "2026-03-11T13:49:15.000Z",
-    "createdAt": "2026-03-11T15:54:56.417Z",
-    "updatedAt": "2026-03-11T15:54:56.417Z"
+    "createdAt": "2026-03-11T17:00:27.129Z",
+    "updatedAt": "2026-03-11T17:00:27.129Z"
   },
   {
     "id": "f76d5aca472774bb",
@@ -122,21 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69b163c09a7947dec2c22f4b",
     "publishedAt": "2026-03-11T13:41:02.000Z",
-    "createdAt": "2026-03-11T15:54:54.232Z",
-    "updatedAt": "2026-03-11T15:54:54.232Z"
-  },
-  {
-    "id": "5bb512202bb13c4c",
-    "title": "Какие страны бойкотировали чемпионаты мира по футболу",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/5/67/347689319328675.jpeg",
-    "teaser": "Какие страны бойкотировали чемпионаты мира по футболу",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/696fbc8b9a7947b62a53f048",
-    "publishedAt": "2026-03-11T13:15:40.000Z",
-    "createdAt": "2026-03-11T15:54:57.450Z",
-    "updatedAt": "2026-03-11T15:54:57.450Z"
+    "createdAt": "2026-03-11T17:00:28.206Z",
+    "updatedAt": "2026-03-11T17:00:28.206Z"
   }
 ]
