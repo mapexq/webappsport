@@ -1,5 +1,47 @@
 [
   {
+    "id": "c8854eb1faab418b",
+    "title": "Российские борцы выиграли пять золотых медалей на молодежном ЧЕ",
+    "sport": "Единоборства",
+    "category": "Единоборства",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/8/32/347732620433328.jpeg",
+    "teaser": "Российские борцы выиграли пять золотых медалей на молодежном ЧЕ",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69b1d0f19a79479b12dfbec8",
+    "publishedAt": "2026-03-11T21:39:18.000Z",
+    "createdAt": "2026-03-11T22:32:17.845Z",
+    "updatedAt": "2026-03-11T22:32:17.845Z"
+  },
+  {
+    "id": "dcb4cefd7d5f1cea",
+    "title": "Гол Хаверца спас «Арсенал» от поражения в первом матче 1/8 финала ЛЧ",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/9/99/347732588574999.jpeg",
+    "teaser": "Гол Хаверца спас «Арсенал» от поражения в первом матче 1/8 финала ЛЧ",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69b1c4749a794708f47cacc5",
+    "publishedAt": "2026-03-11T20:49:06.000Z",
+    "createdAt": "2026-03-11T22:32:18.706Z",
+    "updatedAt": "2026-03-11T22:32:18.706Z"
+  },
+  {
+    "id": "8c6bfc9878736705",
+    "title": "Хайкин и Сафонов вышли в стартовых составах в матчах 1/8 финала ЛЧ",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/8/80/347732566993808.jpeg",
+    "teaser": "Хайкин и Сафонов вышли в стартовых составах в матчах 1/8 финала ЛЧ",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69b1bd519a794715c9036d7a",
+    "publishedAt": "2026-03-11T20:37:24.000Z",
+    "createdAt": "2026-03-11T22:32:19.772Z",
+    "updatedAt": "2026-03-11T22:32:19.772Z"
+  },
+  {
     "id": "cb63302e256de0c8",
     "title": "СКА нанес минскому «Динамо» четвертое подряд поражение в КХЛ",
     "sport": "Хоккей",
@@ -10,8 +52,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69b1b4eb9a79474e9b3ba5c0",
     "publishedAt": "2026-03-11T18:53:41.000Z",
-    "createdAt": "2026-03-11T21:39:17.450Z",
-    "updatedAt": "2026-03-11T21:39:17.450Z"
+    "createdAt": "2026-03-11T22:32:20.867Z",
+    "updatedAt": "2026-03-11T22:32:20.867Z"
   },
   {
     "id": "a2538bff757ea987",
@@ -24,8 +66,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69b1ab919a7947586c25c7a3",
     "publishedAt": "2026-03-11T18:05:27.000Z",
-    "createdAt": "2026-03-11T21:39:18.519Z",
-    "updatedAt": "2026-03-11T21:39:18.519Z"
+    "createdAt": "2026-03-11T22:32:21.951Z",
+    "updatedAt": "2026-03-11T22:32:21.951Z"
   },
   {
     "id": "97143fd584b9da27",
@@ -38,8 +80,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69b1a8449a7947bb62a62fa5",
     "publishedAt": "2026-03-11T17:48:24.000Z",
-    "createdAt": "2026-03-11T21:39:19.582Z",
-    "updatedAt": "2026-03-11T21:39:19.582Z"
+    "createdAt": "2026-03-11T22:32:23.047Z",
+    "updatedAt": "2026-03-11T22:32:23.047Z"
   },
   {
     "id": "406ce1045bdf04ff",
@@ -52,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69b19dc99a79477229c7e2e9",
     "publishedAt": "2026-03-11T17:10:51.000Z",
-    "createdAt": "2026-03-11T21:39:20.688Z",
-    "updatedAt": "2026-03-11T21:39:20.688Z"
+    "createdAt": "2026-03-11T22:32:24.152Z",
+    "updatedAt": "2026-03-11T22:32:24.152Z"
   },
   {
     "id": "aaece750cb6e8281",
@@ -66,8 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69b186699a794780916c77e8",
     "publishedAt": "2026-03-11T16:34:39.000Z",
-    "createdAt": "2026-03-11T21:39:21.731Z",
-    "updatedAt": "2026-03-11T21:39:21.731Z"
+    "createdAt": "2026-03-11T22:32:25.245Z",
+    "updatedAt": "2026-03-11T22:32:25.245Z"
   },
   {
     "id": "b66219bc07e82765",
@@ -80,8 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69b18cba9a7947817be60ef0",
     "publishedAt": "2026-03-11T16:06:55.000Z",
-    "createdAt": "2026-03-11T21:39:22.750Z",
-    "updatedAt": "2026-03-11T21:39:22.750Z"
+    "createdAt": "2026-03-11T22:32:26.318Z",
+    "updatedAt": "2026-03-11T22:32:26.318Z"
   },
   {
     "id": "0d0223213b06b2f3",
@@ -94,49 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69b18f8f9a794795529118fd",
     "publishedAt": "2026-03-11T16:03:46.000Z",
-    "createdAt": "2026-03-11T21:39:23.773Z",
-    "updatedAt": "2026-03-11T21:39:23.773Z"
-  },
-  {
-    "id": "40ba34205cc6f2c0",
-    "title": "The Athletic узнал об изъятии паспортов и телефонов у футболисток Ирана",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/6/87/347732427609876.jpeg",
-    "teaser": "The Athletic узнал об изъятии паспортов и телефонов у футболисток Ирана",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69b1860d9a79478088d1d884",
-    "publishedAt": "2026-03-11T15:33:55.000Z",
-    "createdAt": "2026-03-11T21:39:24.802Z",
-    "updatedAt": "2026-03-11T21:39:24.802Z"
-  },
-  {
-    "id": "9bc4a8a86088a31d",
-    "title": "Чехи отказались от фото с россиянами на пьедестале после победы Багиян",
-    "sport": "Другое",
-    "category": "Другие",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/7/69/347732403191697.jpeg",
-    "teaser": "Чехи отказались от фото с россиянами на пьедестале после победы Багиян",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69b17df09a794736ddd81e8c",
-    "publishedAt": "2026-03-11T15:12:00.000Z",
-    "createdAt": "2026-03-11T21:39:25.886Z",
-    "updatedAt": "2026-03-11T21:39:25.886Z"
-  },
-  {
-    "id": "308c422c0eb376ab",
-    "title": "Олимпийский комитет России станет владельцем газеты «Советский спорт»",
-    "sport": "Другое",
-    "category": "Другие",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/8/46/347732403037468.jpeg",
-    "teaser": "Олимпийский комитет России станет владельцем газеты «Советский спорт»",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69b17fd49a79471963147629",
-    "publishedAt": "2026-03-11T14:57:31.000Z",
-    "createdAt": "2026-03-11T21:39:26.905Z",
-    "updatedAt": "2026-03-11T21:39:26.905Z"
+    "createdAt": "2026-03-11T22:32:27.440Z",
+    "updatedAt": "2026-03-11T22:32:27.440Z"
   }
 ]
