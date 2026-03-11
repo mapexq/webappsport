@@ -1,5 +1,89 @@
 [
   {
+    "id": "090ba19322f88416",
+    "title": "Футболисток сборной Ирана эвакуировали из безопасного места в Австралии",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/7/17/347732238707177.jpeg",
+    "teaser": "Футболисток сборной Ирана эвакуировали из безопасного места в Австралии",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69b13f709a794736d0899d85",
+    "publishedAt": "2026-03-11T10:35:47.000Z",
+    "createdAt": "2026-03-11T10:49:10.437Z",
+    "updatedAt": "2026-03-11T10:49:10.437Z"
+  },
+  {
+    "id": "b69dc78d06d7b3ee",
+    "title": "Ротенберг рассказал, что хотел бы пройти стажировку в клубе НХЛ",
+    "sport": "Хоккей",
+    "category": "Хоккей",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/2/29/347732230208292.jpeg",
+    "teaser": "Ротенберг рассказал, что хотел бы пройти стажировку в клубе НХЛ",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69b13bcd9a794785808d7f2f",
+    "publishedAt": "2026-03-11T10:26:57.000Z",
+    "createdAt": "2026-03-11T10:49:11.432Z",
+    "updatedAt": "2026-03-11T10:49:11.432Z"
+  },
+  {
+    "id": "0857aaea4906b739",
+    "title": "Валиева и Петросян выступят за сборную Москвы на Кубке «Первого канала»",
+    "sport": "Другое",
+    "category": "Фигурное катание",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/1/36/347732220633361.jpeg",
+    "teaser": "Валиева и Петросян выступят за сборную Москвы на Кубке «Первого канала»",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69b135ba9a7947f440a5794a",
+    "publishedAt": "2026-03-11T10:17:55.000Z",
+    "createdAt": "2026-03-11T10:49:14.163Z",
+    "updatedAt": "2026-03-11T10:49:14.163Z"
+  },
+  {
+    "id": "93d86924d64c5d18",
+    "title": "Российский лыжник Голубков завоевал золото Паралимпиады в гонке на 10 км",
+    "sport": "Другое",
+    "category": "Другие",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/1/34/347732223209341.jpeg",
+    "teaser": "Российский лыжник Голубков завоевал золото Паралимпиады в гонке на 10 км",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69b139879a794702aefaae8c",
+    "publishedAt": "2026-03-11T10:10:46.000Z",
+    "createdAt": "2026-03-11T10:49:13.182Z",
+    "updatedAt": "2026-03-11T10:49:13.182Z"
+  },
+  {
+    "id": "4c80e70e1d34f423",
+    "title": "КДК РФС рассмотрит обращение «Краснодара» о поведении болельщиков ЦСКА",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/8/46/347732206102468.jpeg",
+    "teaser": "КДК РФС рассмотрит обращение «Краснодара» о поведении болельщиков ЦСКА",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69b12fb89a7947d6e95e3c46",
+    "publishedAt": "2026-03-11T09:52:10.000Z",
+    "createdAt": "2026-03-11T10:49:15.128Z",
+    "updatedAt": "2026-03-11T10:49:15.128Z"
+  },
+  {
+    "id": "67e5907648b9f1a6",
+    "title": "Менеджер Бивола назвал следующего соперника российского боксера-чемпиона",
+    "sport": "Единоборства",
+    "category": "Единоборства",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/5/32/347732202169325.jpeg",
+    "teaser": "Менеджер Бивола назвал следующего соперника российского боксера-чемпиона",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69b131409a7947ba917e5b42",
+    "publishedAt": "2026-03-11T09:49:19.000Z",
+    "createdAt": "2026-03-11T10:49:16.099Z",
+    "updatedAt": "2026-03-11T10:49:16.099Z"
+  },
+  {
     "id": "b6e53247dc09d451",
     "title": "Кириленко назвал главную проблему Демина в дебютном сезоне в НБА",
     "sport": "Баскетбол",
@@ -10,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69b00ae59a7947027a677d6c",
     "publishedAt": "2026-03-11T09:43:46.000Z",
-    "createdAt": "2026-03-11T09:51:30.669Z",
-    "updatedAt": "2026-03-11T09:51:30.669Z"
+    "createdAt": "2026-03-11T10:49:17.079Z",
+    "updatedAt": "2026-03-11T10:49:17.079Z"
   },
   {
     "id": "fb5cf24533be60c0",
@@ -24,8 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69b127469a794764d17d4799",
     "publishedAt": "2026-03-11T08:48:24.000Z",
-    "createdAt": "2026-03-11T09:51:32.999Z",
-    "updatedAt": "2026-03-11T09:51:32.999Z"
+    "createdAt": "2026-03-11T10:49:19.223Z",
+    "updatedAt": "2026-03-11T10:49:19.223Z"
   },
   {
     "id": "5c41c658e37d687d",
@@ -38,8 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69b1224c9a7947bb2d681a97",
     "publishedAt": "2026-03-11T08:42:34.000Z",
-    "createdAt": "2026-03-11T09:51:31.891Z",
-    "updatedAt": "2026-03-11T09:51:31.891Z"
+    "createdAt": "2026-03-11T10:49:18.054Z",
+    "updatedAt": "2026-03-11T10:49:18.054Z"
   },
   {
     "id": "278705d90789990f",
@@ -52,91 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69aeeb759a79478510db6b59",
     "publishedAt": "2026-03-11T08:22:05.000Z",
-    "createdAt": "2026-03-11T09:51:34.116Z",
-    "updatedAt": "2026-03-11T09:51:34.116Z"
-  },
-  {
-    "id": "1dc1f3a26b0d3357",
-    "title": "Кириленко фразой «превзошел прогнозы» оценил дебютный сезон Демина в НБА",
-    "sport": "Баскетбол",
-    "category": "Баскетбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/1/46/347731465595461.jpeg",
-    "teaser": "Кириленко фразой «превзошел прогнозы» оценил дебютный сезон Демина в НБА",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69b008079a794772187a630e",
-    "publishedAt": "2026-03-11T08:15:16.000Z",
-    "createdAt": "2026-03-11T09:51:35.321Z",
-    "updatedAt": "2026-03-11T09:51:35.321Z"
-  },
-  {
-    "id": "6cca5af4db2f1340",
-    "title": "Глава ФИФА заявил, что Трамп приветствует участие Ирана в ЧМ-2026",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/2/80/347732135453802.jpeg",
-    "teaser": "Глава ФИФА заявил, что Трамп приветствует участие Ирана в ЧМ-2026",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69b114909a7947f5e244d3c3",
-    "publishedAt": "2026-03-11T07:36:42.000Z",
-    "createdAt": "2026-03-11T09:51:36.491Z",
-    "updatedAt": "2026-03-11T09:51:36.492Z"
-  },
-  {
-    "id": "e03b92156b8fa5e3",
-    "title": "Голы Капризова и Юрова помогли «Миннесоте» разгромить «Юту» в матче НХЛ",
-    "sport": "Хоккей",
-    "category": "Хоккей",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/9/28/347732096328289.jpeg",
-    "teaser": "Голы Капризова и Юрова помогли «Миннесоте» разгромить «Юту» в матче НХЛ",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69b106729a794770a6b86561",
-    "publishedAt": "2026-03-11T07:34:57.000Z",
-    "createdAt": "2026-03-11T09:51:39.872Z",
-    "updatedAt": "2026-03-11T09:51:39.872Z"
-  },
-  {
-    "id": "89ec38cea589fe0b",
-    "title": "Кучеров повторил рекорд НХЛ по ассистам, установленный 40 лет назад",
-    "sport": "Хоккей",
-    "category": "Хоккей",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/8/40/347732107539408.jpeg",
-    "teaser": "Кучеров повторил рекорд НХЛ по ассистам, установленный 40 лет назад",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69b10a8d9a794745d22ac0cf",
-    "publishedAt": "2026-03-11T07:26:39.000Z",
-    "createdAt": "2026-03-11T09:51:37.576Z",
-    "updatedAt": "2026-03-11T09:51:37.576Z"
-  },
-  {
-    "id": "554cae636e077fc5",
-    "title": "Центровой «Майами» набрал 83 очка, показав второй результат в истории НБА",
-    "sport": "Баскетбол",
-    "category": "Баскетбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/0/54/347732121532540.jpeg",
-    "teaser": "Центровой «Майами» набрал 83 очка, показав второй результат в истории НБА",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69b10e2e9a79474233791cb5",
-    "publishedAt": "2026-03-11T07:12:06.000Z",
-    "createdAt": "2026-03-11T09:51:38.740Z",
-    "updatedAt": "2026-03-11T09:51:38.740Z"
-  },
-  {
-    "id": "d8f501d4da1f1842",
-    "title": "Какие рекорды Демин побил в дебютном сезоне НБА",
-    "sport": "Баскетбол",
-    "category": "Баскетбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/9/56/347731355887569.jpeg",
-    "teaser": "Какие рекорды Демин побил в дебютном сезоне НБА",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69afdb4c9a79472f67263eb1",
-    "publishedAt": "2026-03-11T05:03:19.000Z",
-    "createdAt": "2026-03-11T09:51:41.057Z",
-    "updatedAt": "2026-03-11T09:51:41.057Z"
+    "createdAt": "2026-03-11T10:49:20.670Z",
+    "updatedAt": "2026-03-11T10:49:20.670Z"
   }
 ]
