@@ -1,5 +1,89 @@
 [
   {
+    "id": "859232269d9b5604",
+    "title": "Призер ОИ по гандболу возобновила карьеру и вернулась в ЦСКА",
+    "sport": "Другое",
+    "category": "Другие",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/1/27/347732375312271.jpeg",
+    "teaser": "Призер ОИ по гандболу возобновила карьеру и вернулась в ЦСКА",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69b1729c9a7947e62197ca51",
+    "publishedAt": "2026-03-11T14:05:09.000Z",
+    "createdAt": "2026-03-11T14:53:18.328Z",
+    "updatedAt": "2026-03-11T14:53:18.328Z"
+  },
+  {
+    "id": "c97652e16db8a66f",
+    "title": "Бывший массажист московского «Торпедо» стал советником гендира клуба",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/0/14/347732365995140.jpeg",
+    "teaser": "Бывший массажист московского «Торпедо» стал советником гендира клуба",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69b16f199a79476a37ea3477",
+    "publishedAt": "2026-03-11T13:57:50.000Z",
+    "createdAt": "2026-03-11T14:53:16.219Z",
+    "updatedAt": "2026-03-11T14:53:16.219Z"
+  },
+  {
+    "id": "f73985a0dfdc0275",
+    "title": "Форварда «Ак Барса» Семенова третий раз за месяц оштрафовали за симуляцию",
+    "sport": "Хоккей",
+    "category": "Хоккей",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/7/73/347732360396737.jpeg",
+    "teaser": "Форварда «Ак Барса» Семенова третий раз за месяц оштрафовали за симуляцию",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69b16b3b9a7947671d579565",
+    "publishedAt": "2026-03-11T13:49:15.000Z",
+    "createdAt": "2026-03-11T14:53:19.380Z",
+    "updatedAt": "2026-03-11T14:53:19.380Z"
+  },
+  {
+    "id": "f76d5aca472774bb",
+    "title": "Рудковская заявила, что академии Плющенко пора уделять внимание ее сыну",
+    "sport": "Другое",
+    "category": "Фигурное катание",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/8/12/347732346198128.jpeg",
+    "teaser": "Рудковская заявила, что академии Плющенко пора уделять внимание ее сыну",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69b163c09a7947dec2c22f4b",
+    "publishedAt": "2026-03-11T13:41:02.000Z",
+    "createdAt": "2026-03-11T14:53:17.305Z",
+    "updatedAt": "2026-03-11T14:53:17.305Z"
+  },
+  {
+    "id": "28ff410784c1e81e",
+    "title": "В сборной Чехии отказали в общении российской прессе на Паралимпиаде",
+    "sport": "Другое",
+    "category": "Другие",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/8/56/347732375032568.jpeg",
+    "teaser": "В сборной Чехии отказали в общении российской прессе на Паралимпиаде",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69b167ed9a79473a95c0a2a7",
+    "publishedAt": "2026-03-11T13:20:36.000Z",
+    "createdAt": "2026-03-11T14:53:21.601Z",
+    "updatedAt": "2026-03-11T14:53:21.601Z"
+  },
+  {
+    "id": "5bb512202bb13c4c",
+    "title": "Какие страны бойкотировали чемпионаты мира по футболу",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/5/67/347689319328675.jpeg",
+    "teaser": "Какие страны бойкотировали чемпионаты мира по футболу",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/696fbc8b9a7947b62a53f048",
+    "publishedAt": "2026-03-11T13:15:40.000Z",
+    "createdAt": "2026-03-11T14:53:20.359Z",
+    "updatedAt": "2026-03-11T14:53:20.359Z"
+  },
+  {
     "id": "286fcd0931e5ec04",
     "title": "Путин поздравил российского лыжника с победой на Паралимпиаде",
     "sport": "Другое",
@@ -10,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69b15d4c9a7947894cc14f8d",
     "publishedAt": "2026-03-11T12:33:42.000Z",
-    "createdAt": "2026-03-11T13:14:12.995Z",
-    "updatedAt": "2026-03-11T13:14:12.995Z"
+    "createdAt": "2026-03-11T14:53:24.829Z",
+    "updatedAt": "2026-03-11T14:53:24.829Z"
   },
   {
     "id": "58d0156c59027484",
@@ -24,8 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69b159759a794733e569ddab",
     "publishedAt": "2026-03-11T12:22:25.000Z",
-    "createdAt": "2026-03-11T13:14:10.888Z",
-    "updatedAt": "2026-03-11T13:14:10.888Z"
+    "createdAt": "2026-03-11T14:53:22.700Z",
+    "updatedAt": "2026-03-11T14:53:22.700Z"
   },
   {
     "id": "6f37e90241bf1b05",
@@ -38,22 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69b14f349a79472366eee05b",
     "publishedAt": "2026-03-11T12:21:16.000Z",
-    "createdAt": "2026-03-11T13:14:11.944Z",
-    "updatedAt": "2026-03-11T13:14:11.944Z"
-  },
-  {
-    "id": "0daa6f1e2b6687b8",
-    "title": "Дегтярев назвал победу Голубкова на Паралимпиаде превосходством и мощью",
-    "sport": "Другое",
-    "category": "Другие",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/9/46/347732285680469.jpeg",
-    "teaser": "Дегтярев назвал победу Голубкова на Паралимпиаде превосходством и мощью",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69b14fd59a79472d7fb19029",
-    "publishedAt": "2026-03-11T11:43:05.000Z",
-    "createdAt": "2026-03-11T13:14:15.609Z",
-    "updatedAt": "2026-03-11T13:14:15.609Z"
+    "createdAt": "2026-03-11T14:53:23.745Z",
+    "updatedAt": "2026-03-11T14:53:23.745Z"
   },
   {
     "id": "b063543790deeb0b",
@@ -66,77 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69b148eb9a7947702e7e1092",
     "publishedAt": "2026-03-11T11:40:38.000Z",
-    "createdAt": "2026-03-11T13:14:14.162Z",
-    "updatedAt": "2026-03-11T13:14:14.162Z"
-  },
-  {
-    "id": "b8d814afa5eb6feb",
-    "title": "Паралимпийский комитет Украины обвинил IPC в дискриминации",
-    "sport": "Другое",
-    "category": "Другие",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/7/31/347732264180317.jpeg",
-    "teaser": "Паралимпийский комитет Украины обвинил IPC в дискриминации",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69b149739a79472e025841e2",
-    "publishedAt": "2026-03-11T11:22:27.000Z",
-    "createdAt": "2026-03-11T13:14:16.720Z",
-    "updatedAt": "2026-03-11T13:14:16.720Z"
-  },
-  {
-    "id": "f40e1ac9f927c4e3",
-    "title": "Голубков заявил, что сбылась мечта услышать гимн России на награждении",
-    "sport": "Другое",
-    "category": "Другие",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/7/28/347732258782287.jpeg",
-    "teaser": "Голубков заявил, что сбылась мечта услышать гимн России на награждении",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69b144cb9a794705708c2129",
-    "publishedAt": "2026-03-11T11:00:11.000Z",
-    "createdAt": "2026-03-11T13:14:17.965Z",
-    "updatedAt": "2026-03-11T13:14:17.965Z"
-  },
-  {
-    "id": "090ba19322f88416",
-    "title": "Футболисток сборной Ирана эвакуировали из безопасного места в Австралии",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/7/17/347732238707177.jpeg",
-    "teaser": "Футболисток сборной Ирана эвакуировали из безопасного места в Австралии",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69b13f709a794736d0899d85",
-    "publishedAt": "2026-03-11T10:35:47.000Z",
-    "createdAt": "2026-03-11T13:14:19.123Z",
-    "updatedAt": "2026-03-11T13:14:19.123Z"
-  },
-  {
-    "id": "b69dc78d06d7b3ee",
-    "title": "Ротенберг рассказал, что хотел бы пройти стажировку в клубе НХЛ",
-    "sport": "Хоккей",
-    "category": "Хоккей",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/2/29/347732230208292.jpeg",
-    "teaser": "Ротенберг рассказал, что хотел бы пройти стажировку в клубе НХЛ",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69b13bcd9a794785808d7f2f",
-    "publishedAt": "2026-03-11T10:26:57.000Z",
-    "createdAt": "2026-03-11T13:14:20.249Z",
-    "updatedAt": "2026-03-11T13:14:20.249Z"
-  },
-  {
-    "id": "93d86924d64c5d18",
-    "title": "Российский лыжник Голубков завоевал золото Паралимпиады в гонке на 10 км",
-    "sport": "Другое",
-    "category": "Другие",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/1/34/347732223209341.jpeg",
-    "teaser": "Российский лыжник Голубков завоевал золото Паралимпиады в гонке на 10 км",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69b139879a794702aefaae8c",
-    "publishedAt": "2026-03-11T10:10:46.000Z",
-    "createdAt": "2026-03-11T13:14:21.738Z",
-    "updatedAt": "2026-03-11T13:14:21.738Z"
+    "createdAt": "2026-03-11T14:53:25.893Z",
+    "updatedAt": "2026-03-11T14:53:25.893Z"
   }
 ]
