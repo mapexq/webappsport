@@ -1,5 +1,75 @@
 [
   {
+    "id": "286fcd0931e5ec04",
+    "title": "Путин поздравил российского лыжника с победой на Паралимпиаде",
+    "sport": "Другое",
+    "category": "Другие",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/5/44/347732317941445.jpeg",
+    "teaser": "Путин поздравил российского лыжника с победой на Паралимпиаде",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69b15d4c9a7947894cc14f8d",
+    "publishedAt": "2026-03-11T12:33:42.000Z",
+    "createdAt": "2026-03-11T13:14:12.995Z",
+    "updatedAt": "2026-03-11T13:14:12.995Z"
+  },
+  {
+    "id": "58d0156c59027484",
+    "title": "Сборная Ирана по футболу отказалась ехать на ЧМ-2026",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/3/35/347732305188353.jpeg",
+    "teaser": "Сборная Ирана по футболу отказалась ехать на ЧМ-2026",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69b159759a794733e569ddab",
+    "publishedAt": "2026-03-11T12:22:25.000Z",
+    "createdAt": "2026-03-11T13:14:10.888Z",
+    "updatedAt": "2026-03-11T13:14:10.888Z"
+  },
+  {
+    "id": "6f37e90241bf1b05",
+    "title": "Российская лыжница Багиян завоевала второе золото на Паралимпиаде-2026",
+    "sport": "Другое",
+    "category": "Другие",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/4/75/347732278916754.jpeg",
+    "teaser": "Российская лыжница Багиян завоевала второе золото на Паралимпиаде-2026",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69b14f349a79472366eee05b",
+    "publishedAt": "2026-03-11T12:21:16.000Z",
+    "createdAt": "2026-03-11T13:14:11.944Z",
+    "updatedAt": "2026-03-11T13:14:11.944Z"
+  },
+  {
+    "id": "0daa6f1e2b6687b8",
+    "title": "Дегтярев назвал победу Голубкова на Паралимпиаде превосходством и мощью",
+    "sport": "Другое",
+    "category": "Другие",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/9/46/347732285680469.jpeg",
+    "teaser": "Дегтярев назвал победу Голубкова на Паралимпиаде превосходством и мощью",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69b14fd59a79472d7fb19029",
+    "publishedAt": "2026-03-11T11:43:05.000Z",
+    "createdAt": "2026-03-11T13:14:15.609Z",
+    "updatedAt": "2026-03-11T13:14:15.609Z"
+  },
+  {
+    "id": "b063543790deeb0b",
+    "title": "В IPC отреагировали на отказ немцев от фото с россиянкой Багиян",
+    "sport": "Другое",
+    "category": "Другие",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/5/53/347732270736535.jpeg",
+    "teaser": "В IPC отреагировали на отказ немцев от фото с россиянкой Багиян",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69b148eb9a7947702e7e1092",
+    "publishedAt": "2026-03-11T11:40:38.000Z",
+    "createdAt": "2026-03-11T13:14:14.162Z",
+    "updatedAt": "2026-03-11T13:14:14.162Z"
+  },
+  {
     "id": "b8d814afa5eb6feb",
     "title": "Паралимпийский комитет Украины обвинил IPC в дискриминации",
     "sport": "Другое",
@@ -10,8 +80,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69b149739a79472e025841e2",
     "publishedAt": "2026-03-11T11:22:27.000Z",
-    "createdAt": "2026-03-11T11:37:59.088Z",
-    "updatedAt": "2026-03-11T11:37:59.088Z"
+    "createdAt": "2026-03-11T13:14:16.720Z",
+    "updatedAt": "2026-03-11T13:14:16.720Z"
   },
   {
     "id": "f40e1ac9f927c4e3",
@@ -24,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69b144cb9a794705708c2129",
     "publishedAt": "2026-03-11T11:00:11.000Z",
-    "createdAt": "2026-03-11T11:38:00.144Z",
-    "updatedAt": "2026-03-11T11:38:00.144Z"
+    "createdAt": "2026-03-11T13:14:17.965Z",
+    "updatedAt": "2026-03-11T13:14:17.965Z"
   },
   {
     "id": "090ba19322f88416",
@@ -38,8 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69b13f709a794736d0899d85",
     "publishedAt": "2026-03-11T10:35:47.000Z",
-    "createdAt": "2026-03-11T11:38:01.229Z",
-    "updatedAt": "2026-03-11T11:38:01.229Z"
+    "createdAt": "2026-03-11T13:14:19.123Z",
+    "updatedAt": "2026-03-11T13:14:19.123Z"
   },
   {
     "id": "b69dc78d06d7b3ee",
@@ -52,22 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69b13bcd9a794785808d7f2f",
     "publishedAt": "2026-03-11T10:26:57.000Z",
-    "createdAt": "2026-03-11T11:38:02.503Z",
-    "updatedAt": "2026-03-11T11:38:02.503Z"
-  },
-  {
-    "id": "0857aaea4906b739",
-    "title": "Валиева и Петросян выступят за сборную Москвы на Кубке «Первого канала»",
-    "sport": "Другое",
-    "category": "Фигурное катание",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/1/36/347732220633361.jpeg",
-    "teaser": "Валиева и Петросян выступят за сборную Москвы на Кубке «Первого канала»",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69b135ba9a7947f440a5794a",
-    "publishedAt": "2026-03-11T10:17:55.000Z",
-    "createdAt": "2026-03-11T11:38:04.617Z",
-    "updatedAt": "2026-03-11T11:38:04.617Z"
+    "createdAt": "2026-03-11T13:14:20.249Z",
+    "updatedAt": "2026-03-11T13:14:20.249Z"
   },
   {
     "id": "93d86924d64c5d18",
@@ -80,63 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69b139879a794702aefaae8c",
     "publishedAt": "2026-03-11T10:10:46.000Z",
-    "createdAt": "2026-03-11T11:38:03.590Z",
-    "updatedAt": "2026-03-11T11:38:03.590Z"
-  },
-  {
-    "id": "4c80e70e1d34f423",
-    "title": "КДК РФС рассмотрит обращение «Краснодара» о поведении болельщиков ЦСКА",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/8/46/347732206102468.jpeg",
-    "teaser": "КДК РФС рассмотрит обращение «Краснодара» о поведении болельщиков ЦСКА",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69b12fb89a7947d6e95e3c46",
-    "publishedAt": "2026-03-11T09:52:10.000Z",
-    "createdAt": "2026-03-11T11:38:05.666Z",
-    "updatedAt": "2026-03-11T11:38:05.666Z"
-  },
-  {
-    "id": "67e5907648b9f1a6",
-    "title": "Менеджер Бивола назвал следующего соперника российского боксера-чемпиона",
-    "sport": "Единоборства",
-    "category": "Единоборства",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/5/32/347732202169325.jpeg",
-    "teaser": "Менеджер Бивола назвал следующего соперника российского боксера-чемпиона",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69b131409a7947ba917e5b42",
-    "publishedAt": "2026-03-11T09:49:19.000Z",
-    "createdAt": "2026-03-11T11:38:06.765Z",
-    "updatedAt": "2026-03-11T11:38:06.765Z"
-  },
-  {
-    "id": "b6e53247dc09d451",
-    "title": "Кириленко назвал главную проблему Демина в дебютном сезоне в НБА",
-    "sport": "Баскетбол",
-    "category": "Баскетбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/8/84/347731464096848.jpeg",
-    "teaser": "Кириленко назвал главную проблему Демина в дебютном сезоне в НБА",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69b00ae59a7947027a677d6c",
-    "publishedAt": "2026-03-11T09:43:46.000Z",
-    "createdAt": "2026-03-11T11:38:07.864Z",
-    "updatedAt": "2026-03-11T11:38:07.864Z"
-  },
-  {
-    "id": "5c41c658e37d687d",
-    "title": "Немцы отказались от фото с российской чемпионкой Паралимпиады Багиян",
-    "sport": "Другое",
-    "category": "Другие",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/7/46/347732171097467.jpeg",
-    "teaser": "Немцы отказались от фото с российской чемпионкой Паралимпиады Багиян",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69b1224c9a7947bb2d681a97",
-    "publishedAt": "2026-03-11T08:42:34.000Z",
-    "createdAt": "2026-03-11T11:38:08.910Z",
-    "updatedAt": "2026-03-11T11:38:08.910Z"
+    "createdAt": "2026-03-11T13:14:21.738Z",
+    "updatedAt": "2026-03-11T13:14:21.738Z"
   }
 ]
