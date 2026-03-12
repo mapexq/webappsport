@@ -1,5 +1,47 @@
 [
   {
+    "id": "5bc1d4491fc28d4c",
+    "title": "Боец ММА Шаблий сообщил о срыве поединка в Испании из-за отказа в визе",
+    "sport": "Единоборства",
+    "category": "Единоборства",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/4/54/347733399004544.jpeg",
+    "teaser": "Боец ММА Шаблий сообщил о срыве поединка в Испании из-за отказа в визе",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69b302679a79472b8535e0d3",
+    "publishedAt": "2026-03-12T18:55:34.000Z",
+    "createdAt": "2026-03-12T19:02:17.473Z",
+    "updatedAt": "2026-03-12T19:02:17.473Z"
+  },
+  {
+    "id": "3cdd231483e4c474",
+    "title": "Клебо увезли на скорой после падения и удара затылком во время гонки",
+    "sport": "Другое",
+    "category": "Другие",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/3/09/347733372785093.png",
+    "teaser": "Клебо увезли на скорой после падения и удара затылком во время гонки",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69b2fa7d9a794704945305f7",
+    "publishedAt": "2026-03-12T18:00:43.000Z",
+    "createdAt": "2026-03-12T19:02:16.430Z",
+    "updatedAt": "2026-03-12T19:02:16.430Z"
+  },
+  {
+    "id": "65007bd33fb2f427",
+    "title": "Умер единственный ирландский олимпийский чемпион в беге",
+    "sport": "Другое",
+    "category": "Другие",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/2/79/347733345996792.jpeg",
+    "teaser": "Умер единственный ирландский олимпийский чемпион в беге",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69b2f01d9a79471c26f05d72",
+    "publishedAt": "2026-03-12T17:25:08.000Z",
+    "createdAt": "2026-03-12T19:02:18.521Z",
+    "updatedAt": "2026-03-12T19:02:18.521Z"
+  },
+  {
     "id": "8d34b4517fc39ecb",
     "title": "Автор хет-трика в ворота «Манчестер Сити» стал игроком недели в ЛЧ",
     "sport": "Футбол",
@@ -10,8 +52,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69b2ee0c9a7947d02e81bd6e",
     "publishedAt": "2026-03-12T17:11:44.000Z",
-    "createdAt": "2026-03-12T17:52:53.861Z",
-    "updatedAt": "2026-03-12T17:52:53.861Z"
+    "createdAt": "2026-03-12T19:02:22.825Z",
+    "updatedAt": "2026-03-12T19:02:22.825Z"
   },
   {
     "id": "9469de675255aea2",
@@ -24,8 +66,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69b2e4409a79477241325997",
     "publishedAt": "2026-03-12T17:06:59.000Z",
-    "createdAt": "2026-03-12T17:52:51.787Z",
-    "updatedAt": "2026-03-12T17:52:51.787Z"
+    "createdAt": "2026-03-12T19:02:20.642Z",
+    "updatedAt": "2026-03-12T19:02:20.643Z"
   },
   {
     "id": "7f1016b19458d3e8",
@@ -38,8 +80,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69b2e68a9a7947c6a17057d7",
     "publishedAt": "2026-03-12T16:51:42.000Z",
-    "createdAt": "2026-03-12T17:52:52.787Z",
-    "updatedAt": "2026-03-12T17:52:52.787Z"
+    "createdAt": "2026-03-12T19:02:21.735Z",
+    "updatedAt": "2026-03-12T19:02:21.735Z"
   },
   {
     "id": "7c2671e6f0a54fa7",
@@ -52,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69b2cabc9a79476ab693ac25",
     "publishedAt": "2026-03-12T15:57:08.000Z",
-    "createdAt": "2026-03-12T17:52:56.785Z",
-    "updatedAt": "2026-03-12T17:52:56.785Z"
+    "createdAt": "2026-03-12T19:02:26.134Z",
+    "updatedAt": "2026-03-12T19:02:26.134Z"
   },
   {
     "id": "b63766944aa82f47",
@@ -66,8 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69b2c7019a79477b9ff574ba",
     "publishedAt": "2026-03-12T15:53:50.000Z",
-    "createdAt": "2026-03-12T17:52:55.839Z",
-    "updatedAt": "2026-03-12T17:52:55.839Z"
+    "createdAt": "2026-03-12T19:02:25.021Z",
+    "updatedAt": "2026-03-12T19:02:25.021Z"
   },
   {
     "id": "1fe0154b497e2745",
@@ -80,22 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69b2d5c49a7947e3f771ea39",
     "publishedAt": "2026-03-12T15:26:35.000Z",
-    "createdAt": "2026-03-12T17:52:50.825Z",
-    "updatedAt": "2026-03-12T17:52:50.825Z"
-  },
-  {
-    "id": "1617ea46913d60a1",
-    "title": "В ФХР заявили о готовности «нанять шведский ЧОП» ради допуска сборных",
-    "sport": "Хоккей",
-    "category": "Хоккей",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/5/46/347733251223465.jpeg",
-    "teaser": "В ФХР заявили о готовности «нанять шведский ЧОП» ради допуска сборных",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69b2c5929a7947f8fba5ec8c",
-    "publishedAt": "2026-03-12T14:35:11.000Z",
-    "createdAt": "2026-03-12T17:52:57.810Z",
-    "updatedAt": "2026-03-12T17:52:57.810Z"
+    "createdAt": "2026-03-12T19:02:19.548Z",
+    "updatedAt": "2026-03-12T19:02:19.548Z"
   },
   {
     "id": "438670849c5bf0d2",
@@ -108,35 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69b2bf6c9a794764bdff6b0c",
     "publishedAt": "2026-03-12T14:27:01.000Z",
-    "createdAt": "2026-03-12T17:52:54.802Z",
-    "updatedAt": "2026-03-12T17:52:54.802Z"
-  },
-  {
-    "id": "e367a2dcb3e912ed",
-    "title": "Ворончихина заявила, что ей тяжело далась серебряная медаль на Играх",
-    "sport": "Другое",
-    "category": "Другие",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/6/24/347733218404246.jpeg",
-    "teaser": "Ворончихина заявила, что ей тяжело далась серебряная медаль на Играх",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69b2bc569a794708ec69dd6a",
-    "publishedAt": "2026-03-12T13:50:26.000Z",
-    "createdAt": "2026-03-12T17:52:58.807Z",
-    "updatedAt": "2026-03-12T17:52:58.807Z"
-  },
-  {
-    "id": "0692e890d08f36a7",
-    "title": "Ротенберг заявил о планах позвать хоккейную сборную Словакии в Россию",
-    "sport": "Хоккей",
-    "category": "Хоккей",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/9/70/347733178017709.jpeg",
-    "teaser": "Ротенберг заявил о планах позвать хоккейную сборную Словакии в Россию",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69b2abd19a79476312f1878f",
-    "publishedAt": "2026-03-12T13:04:45.000Z",
-    "createdAt": "2026-03-12T17:52:59.779Z",
-    "updatedAt": "2026-03-12T17:52:59.779Z"
+    "createdAt": "2026-03-12T19:02:23.913Z",
+    "updatedAt": "2026-03-12T19:02:23.913Z"
   }
 ]
