@@ -1,5 +1,89 @@
 [
   {
+    "id": "7c2671e6f0a54fa7",
+    "title": "Сборная Венгрии по футболу не сыграет с Россией из-за матчей Лиги наций",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/7/02/347733257233027.jpeg",
+    "teaser": "Сборная Венгрии по футболу не сыграет с Россией из-за матчей Лиги наций",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69b2cabc9a79476ab693ac25",
+    "publishedAt": "2026-03-12T15:57:08.000Z",
+    "createdAt": "2026-03-12T16:05:14.521Z",
+    "updatedAt": "2026-03-12T16:05:14.521Z"
+  },
+  {
+    "id": "b63766944aa82f47",
+    "title": "Лучший бомбардир сборной Испании вошел в совет директоров «Атлетико»",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/6/39/347733242578396.jpeg",
+    "teaser": "Лучший бомбардир сборной Испании вошел в совет директоров «Атлетико»",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69b2c7019a79477b9ff574ba",
+    "publishedAt": "2026-03-12T15:53:50.000Z",
+    "createdAt": "2026-03-12T16:05:13.487Z",
+    "updatedAt": "2026-03-12T16:05:13.487Z"
+  },
+  {
+    "id": "1fe0154b497e2745",
+    "title": "Трамп назвал неуместным приезд сборной Ирана на ЧМ-2026",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/4/36/347733279228364.jpeg",
+    "teaser": "Трамп назвал неуместным приезд сборной Ирана на ЧМ-2026",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69b2d5c49a7947e3f771ea39",
+    "publishedAt": "2026-03-12T15:26:35.000Z",
+    "createdAt": "2026-03-12T16:05:11.276Z",
+    "updatedAt": "2026-03-12T16:05:11.276Z"
+  },
+  {
+    "id": "1617ea46913d60a1",
+    "title": "В ФХР заявили о готовности «нанять шведский ЧОП» ради допуска сборных",
+    "sport": "Хоккей",
+    "category": "Хоккей",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/5/46/347733251223465.jpeg",
+    "teaser": "В ФХР заявили о готовности «нанять шведский ЧОП» ради допуска сборных",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69b2c5929a7947f8fba5ec8c",
+    "publishedAt": "2026-03-12T14:35:11.000Z",
+    "createdAt": "2026-03-12T16:05:15.730Z",
+    "updatedAt": "2026-03-12T16:05:15.730Z"
+  },
+  {
+    "id": "438670849c5bf0d2",
+    "title": "Чемпион мира заявил, что ПСЖ вряд ли выиграет Лигу чемпионов с Сафоновым",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/4/65/347733234952654.jpeg",
+    "teaser": "Чемпион мира заявил, что ПСЖ вряд ли выиграет Лигу чемпионов с Сафоновым",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69b2bf6c9a794764bdff6b0c",
+    "publishedAt": "2026-03-12T14:27:01.000Z",
+    "createdAt": "2026-03-12T16:05:12.336Z",
+    "updatedAt": "2026-03-12T16:05:12.336Z"
+  },
+  {
+    "id": "e367a2dcb3e912ed",
+    "title": "Ворончихина заявила, что ей тяжело далась серебряная медаль на Играх",
+    "sport": "Другое",
+    "category": "Другие",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/6/24/347733218404246.jpeg",
+    "teaser": "Ворончихина заявила, что ей тяжело далась серебряная медаль на Играх",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69b2bc569a794708ec69dd6a",
+    "publishedAt": "2026-03-12T13:50:26.000Z",
+    "createdAt": "2026-03-12T16:05:16.860Z",
+    "updatedAt": "2026-03-12T16:05:16.860Z"
+  },
+  {
     "id": "f0ecba93af89b84e",
     "title": "ЦСКА продлил контракт с одним из лучших снайперов команды",
     "sport": "Хоккей",
@@ -10,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69b2b7719a79477f7706c949",
     "publishedAt": "2026-03-12T13:10:56.000Z",
-    "createdAt": "2026-03-12T14:55:47.340Z",
-    "updatedAt": "2026-03-12T14:55:47.340Z"
+    "createdAt": "2026-03-12T16:05:20.228Z",
+    "updatedAt": "2026-03-12T16:05:20.228Z"
   },
   {
     "id": "affc0e15e6c3a6a5",
@@ -24,8 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69b2b14a9a79470f6f0968e8",
     "publishedAt": "2026-03-12T13:08:57.000Z",
-    "createdAt": "2026-03-12T14:55:46.284Z",
-    "updatedAt": "2026-03-12T14:55:46.284Z"
+    "createdAt": "2026-03-12T16:05:21.376Z",
+    "updatedAt": "2026-03-12T16:05:21.376Z"
   },
   {
     "id": "0692e890d08f36a7",
@@ -38,8 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69b2abd19a79476312f1878f",
     "publishedAt": "2026-03-12T13:04:45.000Z",
-    "createdAt": "2026-03-12T14:55:44.080Z",
-    "updatedAt": "2026-03-12T14:55:44.080Z"
+    "createdAt": "2026-03-12T16:05:17.993Z",
+    "updatedAt": "2026-03-12T16:05:17.993Z"
   },
   {
     "id": "d4016e97aec13a65",
@@ -52,91 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69b296e29a79472556960a5d",
     "publishedAt": "2026-03-12T12:37:51.000Z",
-    "createdAt": "2026-03-12T14:55:45.285Z",
-    "updatedAt": "2026-03-12T14:55:45.285Z"
-  },
-  {
-    "id": "910622a63f062f30",
-    "title": "Карседо рассказал, как «Спартак» будет играть против «Зенита»",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/6/92/347733173730926.jpeg",
-    "teaser": "Карседо рассказал, как «Спартак» будет играть против «Зенита»",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69b2a9a79a7947318d429857",
-    "publishedAt": "2026-03-12T12:28:39.000Z",
-    "createdAt": "2026-03-12T14:55:48.387Z",
-    "updatedAt": "2026-03-12T14:55:48.387Z"
-  },
-  {
-    "id": "bc31eb3c2a15ee7f",
-    "title": "«Барыс» одержал третью победу подряд в КХЛ",
-    "sport": "Хоккей",
-    "category": "Хоккей",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/6/86/347733161931866.jpeg",
-    "teaser": "«Барыс» одержал третью победу подряд в КХЛ",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69b29f7f9a79475a68fae87b",
-    "publishedAt": "2026-03-12T11:59:52.000Z",
-    "createdAt": "2026-03-12T14:55:50.628Z",
-    "updatedAt": "2026-03-12T14:55:50.628Z"
-  },
-  {
-    "id": "1c006764720875d4",
-    "title": "Сборная Швеции продлила контракт с Поттером перед матчем с Украиной",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/7/60/347733140811607.jpeg",
-    "teaser": "Сборная Швеции продлила контракт с Поттером перед матчем с Украиной",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69b29f569a79470669e2aa92",
-    "publishedAt": "2026-03-12T11:34:54.000Z",
-    "createdAt": "2026-03-12T14:55:49.459Z",
-    "updatedAt": "2026-03-12T14:55:49.459Z"
-  },
-  {
-    "id": "2e62e7af5e530a56",
-    "title": "Фигуристка Горбачева рассказала о сроках возвращения на лед после травмы",
-    "sport": "Другое",
-    "category": "Фигурное катание",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/4/32/347733131572324.jpeg",
-    "teaser": "Фигуристка Горбачева рассказала о сроках возвращения на лед после травмы",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69b299169a79471b7fb8fd5f",
-    "publishedAt": "2026-03-12T11:13:41.000Z",
-    "createdAt": "2026-03-12T14:55:52.689Z",
-    "updatedAt": "2026-03-12T14:55:52.689Z"
-  },
-  {
-    "id": "5551c22e25f1cd5a",
-    "title": "Аркадий Ротенберг заявил, что «все идет» к допуску российских хоккеистов",
-    "sport": "Хоккей",
-    "category": "Хоккей",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/8/24/347733105592248.png",
-    "teaser": "Аркадий Ротенберг заявил, что «все идет» к допуску российских хоккеистов",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69b2901d9a7947097c86533a",
-    "publishedAt": "2026-03-12T10:36:10.000Z",
-    "createdAt": "2026-03-12T14:55:51.673Z",
-    "updatedAt": "2026-03-12T14:55:51.673Z"
-  },
-  {
-    "id": "5cf6c6707c4997a0",
-    "title": "Третьяка переизбрали на пост президента Федерации хоккея России",
-    "sport": "Хоккей",
-    "category": "Хоккей",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/9/09/347733098734099.jpeg",
-    "teaser": "Третьяка переизбрали на пост президента Федерации хоккея России",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69b28d1c9a794716a87719ee",
-    "publishedAt": "2026-03-12T10:21:24.000Z",
-    "createdAt": "2026-03-12T14:55:53.741Z",
-    "updatedAt": "2026-03-12T14:55:53.741Z"
+    "createdAt": "2026-03-12T16:05:19.085Z",
+    "updatedAt": "2026-03-12T16:05:19.085Z"
   }
 ]
