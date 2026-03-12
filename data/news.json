@@ -1,5 +1,19 @@
 [
   {
+    "id": "fb69ae4feab07a04",
+    "title": "Овечкин прервал трехматчевую серию без набранных очков",
+    "sport": "Хоккей",
+    "category": "Хоккей",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/9/56/347732967737569.jpeg",
+    "teaser": "Овечкин прервал трехматчевую серию без набранных очков",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69b258eb9a7947018f1caf38",
+    "publishedAt": "2026-03-12T06:31:22.000Z",
+    "createdAt": "2026-03-12T07:06:11.346Z",
+    "updatedAt": "2026-03-12T07:06:11.346Z"
+  },
+  {
     "id": "c8854eb1faab418b",
     "title": "Российские борцы выиграли пять золотых медалей на молодежном ЧЕ",
     "sport": "Единоборства",
@@ -10,8 +24,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69b1d0f19a79479b12dfbec8",
     "publishedAt": "2026-03-11T21:39:18.000Z",
-    "createdAt": "2026-03-12T05:56:03.352Z",
-    "updatedAt": "2026-03-12T05:56:03.352Z"
+    "createdAt": "2026-03-12T07:06:12.358Z",
+    "updatedAt": "2026-03-12T07:06:12.358Z"
   },
   {
     "id": "dcb4cefd7d5f1cea",
@@ -24,8 +38,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69b1c4749a794708f47cacc5",
     "publishedAt": "2026-03-11T20:49:06.000Z",
-    "createdAt": "2026-03-12T05:56:04.458Z",
-    "updatedAt": "2026-03-12T05:56:04.458Z"
+    "createdAt": "2026-03-12T07:06:16.375Z",
+    "updatedAt": "2026-03-12T07:06:16.375Z"
   },
   {
     "id": "8c6bfc9878736705",
@@ -38,8 +52,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69b1bd519a794715c9036d7a",
     "publishedAt": "2026-03-11T20:37:24.000Z",
-    "createdAt": "2026-03-12T05:56:05.507Z",
-    "updatedAt": "2026-03-12T05:56:05.507Z"
+    "createdAt": "2026-03-12T07:06:13.396Z",
+    "updatedAt": "2026-03-12T07:06:13.396Z"
   },
   {
     "id": "cb63302e256de0c8",
@@ -52,8 +66,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69b1b4eb9a79474e9b3ba5c0",
     "publishedAt": "2026-03-11T18:53:41.000Z",
-    "createdAt": "2026-03-12T05:56:06.765Z",
-    "updatedAt": "2026-03-12T05:56:06.765Z"
+    "createdAt": "2026-03-12T07:06:14.370Z",
+    "updatedAt": "2026-03-12T07:06:14.370Z"
   },
   {
     "id": "a2538bff757ea987",
@@ -66,8 +80,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69b1ab919a7947586c25c7a3",
     "publishedAt": "2026-03-11T18:05:27.000Z",
-    "createdAt": "2026-03-12T05:56:07.781Z",
-    "updatedAt": "2026-03-12T05:56:07.781Z"
+    "createdAt": "2026-03-12T07:06:15.266Z",
+    "updatedAt": "2026-03-12T07:06:15.266Z"
   },
   {
     "id": "97143fd584b9da27",
@@ -80,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69b1a8449a7947bb62a62fa5",
     "publishedAt": "2026-03-11T17:48:24.000Z",
-    "createdAt": "2026-03-12T05:56:08.843Z",
-    "updatedAt": "2026-03-12T05:56:08.843Z"
+    "createdAt": "2026-03-12T07:06:20.266Z",
+    "updatedAt": "2026-03-12T07:06:20.266Z"
   },
   {
     "id": "406ce1045bdf04ff",
@@ -94,8 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69b19dc99a79477229c7e2e9",
     "publishedAt": "2026-03-11T17:10:51.000Z",
-    "createdAt": "2026-03-12T05:56:09.960Z",
-    "updatedAt": "2026-03-12T05:56:09.960Z"
+    "createdAt": "2026-03-12T07:06:17.332Z",
+    "updatedAt": "2026-03-12T07:06:17.332Z"
   },
   {
     "id": "aaece750cb6e8281",
@@ -108,8 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69b186699a794780916c77e8",
     "publishedAt": "2026-03-11T16:34:39.000Z",
-    "createdAt": "2026-03-12T05:56:11.163Z",
-    "updatedAt": "2026-03-12T05:56:11.163Z"
+    "createdAt": "2026-03-12T07:06:18.328Z",
+    "updatedAt": "2026-03-12T07:06:18.328Z"
   },
   {
     "id": "b66219bc07e82765",
@@ -122,21 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69b18cba9a7947817be60ef0",
     "publishedAt": "2026-03-11T16:06:55.000Z",
-    "createdAt": "2026-03-12T05:56:12.295Z",
-    "updatedAt": "2026-03-12T05:56:12.295Z"
-  },
-  {
-    "id": "0d0223213b06b2f3",
-    "title": "Голкипер «Авангарда» побил рекорд КХЛ по победам среди россиян за сезон",
-    "sport": "Хоккей",
-    "category": "Хоккей",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/8/60/347732443473608.jpeg",
-    "teaser": "Голкипер «Авангарда» побил рекорд КХЛ по победам среди россиян за сезон",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69b18f8f9a794795529118fd",
-    "publishedAt": "2026-03-11T16:03:46.000Z",
-    "createdAt": "2026-03-12T05:56:13.421Z",
-    "updatedAt": "2026-03-12T05:56:13.421Z"
+    "createdAt": "2026-03-12T07:06:19.362Z",
+    "updatedAt": "2026-03-12T07:06:19.362Z"
   }
 ]
