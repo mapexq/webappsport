@@ -1,5 +1,75 @@
 [
   {
+    "id": "d4016e97aec13a65",
+    "title": "Россиянка выиграла серебро Паралимпиады в гигантском слаломе",
+    "sport": "Другое",
+    "category": "Другие",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/4/09/347733117717094.jpeg",
+    "teaser": "Россиянка выиграла серебро Паралимпиады в гигантском слаломе",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69b296e29a79472556960a5d",
+    "publishedAt": "2026-03-12T12:37:51.000Z",
+    "createdAt": "2026-03-12T13:14:26.972Z",
+    "updatedAt": "2026-03-12T13:14:26.972Z"
+  },
+  {
+    "id": "910622a63f062f30",
+    "title": "Карседо рассказал, как «Спартак» будет играть против «Зенита»",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/6/92/347733173730926.jpeg",
+    "teaser": "Карседо рассказал, как «Спартак» будет играть против «Зенита»",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69b2a9a79a7947318d429857",
+    "publishedAt": "2026-03-12T12:28:39.000Z",
+    "createdAt": "2026-03-12T13:14:27.819Z",
+    "updatedAt": "2026-03-12T13:14:27.819Z"
+  },
+  {
+    "id": "bc31eb3c2a15ee7f",
+    "title": "«Барыс» одержал третью победу подряд в КХЛ",
+    "sport": "Хоккей",
+    "category": "Хоккей",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/6/86/347733161931866.jpeg",
+    "teaser": "«Барыс» одержал третью победу подряд в КХЛ",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69b29f7f9a79475a68fae87b",
+    "publishedAt": "2026-03-12T11:59:52.000Z",
+    "createdAt": "2026-03-12T13:14:29.914Z",
+    "updatedAt": "2026-03-12T13:14:29.914Z"
+  },
+  {
+    "id": "1c006764720875d4",
+    "title": "Сборная Швеции продлила контракт с Поттером перед матчем с Украиной",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/7/60/347733140811607.jpeg",
+    "teaser": "Сборная Швеции продлила контракт с Поттером перед матчем с Украиной",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69b29f569a79470669e2aa92",
+    "publishedAt": "2026-03-12T11:34:54.000Z",
+    "createdAt": "2026-03-12T13:14:28.913Z",
+    "updatedAt": "2026-03-12T13:14:28.913Z"
+  },
+  {
+    "id": "2e62e7af5e530a56",
+    "title": "Фигуристка Горбачева рассказала о сроках возвращения на лед после травмы",
+    "sport": "Другое",
+    "category": "Фигурное катание",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/4/32/347733131572324.jpeg",
+    "teaser": "Фигуристка Горбачева рассказала о сроках возвращения на лед после травмы",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69b299169a79471b7fb8fd5f",
+    "publishedAt": "2026-03-12T11:13:41.000Z",
+    "createdAt": "2026-03-12T13:14:30.996Z",
+    "updatedAt": "2026-03-12T13:14:30.996Z"
+  },
+  {
     "id": "5551c22e25f1cd5a",
     "title": "Аркадий Ротенберг заявил, что «все идет» к допуску российских хоккеистов",
     "sport": "Хоккей",
@@ -10,8 +80,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69b2901d9a7947097c86533a",
     "publishedAt": "2026-03-12T10:36:10.000Z",
-    "createdAt": "2026-03-12T11:35:36.509Z",
-    "updatedAt": "2026-03-12T11:35:36.509Z"
+    "createdAt": "2026-03-12T13:14:32.055Z",
+    "updatedAt": "2026-03-12T13:14:32.055Z"
   },
   {
     "id": "5cf6c6707c4997a0",
@@ -24,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69b28d1c9a794716a87719ee",
     "publishedAt": "2026-03-12T10:21:24.000Z",
-    "createdAt": "2026-03-12T11:35:37.587Z",
-    "updatedAt": "2026-03-12T11:35:37.587Z"
+    "createdAt": "2026-03-12T13:14:33.116Z",
+    "updatedAt": "2026-03-12T13:14:33.116Z"
   },
   {
     "id": "d2bf65065185852a",
@@ -38,22 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69b27c059a7947388298125d",
     "publishedAt": "2026-03-12T09:47:06.000Z",
-    "createdAt": "2026-03-12T11:35:38.674Z",
-    "updatedAt": "2026-03-12T11:35:38.674Z"
-  },
-  {
-    "id": "7efb0536bb8c0705",
-    "title": "Россиянка стала второй в первом заезде в слаломе-гиганте на Паралимпиаде",
-    "sport": "Другое",
-    "category": "Другие",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/8/98/347733067130988.jpeg",
-    "teaser": "Россиянка стала второй в первом заезде в слаломе-гиганте на Паралимпиаде",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69b2831b9a79471828a072be",
-    "publishedAt": "2026-03-12T09:38:05.000Z",
-    "createdAt": "2026-03-12T11:35:40.768Z",
-    "updatedAt": "2026-03-12T11:35:40.768Z"
+    "createdAt": "2026-03-12T13:14:34.210Z",
+    "updatedAt": "2026-03-12T13:14:34.210Z"
   },
   {
     "id": "fa46f1d8f59641e1",
@@ -66,22 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69b2753d9a79470c8d1fea2b",
     "publishedAt": "2026-03-12T08:36:29.000Z",
-    "createdAt": "2026-03-12T11:35:39.646Z",
-    "updatedAt": "2026-03-12T11:35:39.646Z"
-  },
-  {
-    "id": "e4717420814affd2",
-    "title": "Гвардиола назвал невеликими шансы «Манчестер Сити» пройти дальше в ЛЧ",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/5/59/347733018171595.jpeg",
-    "teaser": "Гвардиола назвал невеликими шансы «Манчестер Сити» пройти дальше в ЛЧ",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69b26d449a79473a6232c0bd",
-    "publishedAt": "2026-03-12T07:59:04.000Z",
-    "createdAt": "2026-03-12T11:35:43.820Z",
-    "updatedAt": "2026-03-12T11:35:43.820Z"
+    "createdAt": "2026-03-12T13:14:35.288Z",
+    "updatedAt": "2026-03-12T13:14:35.288Z"
   },
   {
     "id": "ad3a60f8d9e27a6c",
@@ -94,49 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69b2642a9a794776e645b62b",
     "publishedAt": "2026-03-12T07:18:59.000Z",
-    "createdAt": "2026-03-12T11:35:41.622Z",
-    "updatedAt": "2026-03-12T11:35:41.622Z"
-  },
-  {
-    "id": "8257222a0e7b7abf",
-    "title": "Шайба россиянина принесла «Монреалю» победу над «Оттавой» в матче НХЛ",
-    "sport": "Хоккей",
-    "category": "Хоккей",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/2/86/347732980946862.jpeg",
-    "teaser": "Шайба россиянина принесла «Монреалю» победу над «Оттавой» в матче НХЛ",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69b25ec99a79471f525d3a84",
-    "publishedAt": "2026-03-12T07:08:18.000Z",
-    "createdAt": "2026-03-12T11:35:42.695Z",
-    "updatedAt": "2026-03-12T11:35:42.695Z"
-  },
-  {
-    "id": "c8854eb1faab418b",
-    "title": "Российские борцы выиграли пять золотых медалей на молодежном ЧЕ",
-    "sport": "Единоборства",
-    "category": "Единоборства",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/8/32/347732620433328.jpeg",
-    "teaser": "Российские борцы выиграли пять золотых медалей на молодежном ЧЕ",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69b1d0f19a79479b12dfbec8",
-    "publishedAt": "2026-03-11T21:39:18.000Z",
-    "createdAt": "2026-03-12T11:35:44.902Z",
-    "updatedAt": "2026-03-12T11:35:44.902Z"
-  },
-  {
-    "id": "8c6bfc9878736705",
-    "title": "Хайкин и Сафонов вышли в стартовых составах в матчах 1/8 финала ЛЧ",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/8/80/347732566993808.jpeg",
-    "teaser": "Хайкин и Сафонов вышли в стартовых составах в матчах 1/8 финала ЛЧ",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69b1bd519a794715c9036d7a",
-    "publishedAt": "2026-03-11T20:37:24.000Z",
-    "createdAt": "2026-03-12T11:35:45.990Z",
-    "updatedAt": "2026-03-12T11:35:45.990Z"
+    "createdAt": "2026-03-12T13:14:36.347Z",
+    "updatedAt": "2026-03-12T13:14:36.347Z"
   }
 ]
