@@ -1,5 +1,47 @@
 [
   {
+    "id": "0b7183ccb899648d",
+    "title": "Менеджер россиянина заявил, что UFC не сдержал обещание по титульному бою",
+    "sport": "Единоборства",
+    "category": "Единоборства",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/3/47/347734063694473.jpeg",
+    "teaser": "Менеджер россиянина заявил, что UFC не сдержал обещание по титульному бою",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69b3ff0b9a7947bd7f23e6f9",
+    "publishedAt": "2026-03-13T13:04:25.000Z",
+    "createdAt": "2026-03-13T13:12:16.828Z",
+    "updatedAt": "2026-03-13T13:12:16.828Z"
+  },
+  {
+    "id": "3394541c2cb16ae6",
+    "title": "«Челси» продлил контракт с капитаном команды",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/9/65/347734044730659.jpeg",
+    "teaser": "«Челси» продлил контракт с капитаном команды",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69b3fec99a7947ee26412bbc",
+    "publishedAt": "2026-03-13T12:50:45.000Z",
+    "createdAt": "2026-03-13T13:12:18.120Z",
+    "updatedAt": "2026-03-13T13:12:18.120Z"
+  },
+  {
+    "id": "f4bb984bb86caca6",
+    "title": "Ротенберг заявил о зависти стран-соседей в вопросе допуска России IIHF",
+    "sport": "Хоккей",
+    "category": "Хоккей",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/2/17/347734015424172.jpeg",
+    "teaser": "Ротенберг заявил о зависти стран-соседей в вопросе допуска России IIHF",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69b3f5659a794777bd7e74fb",
+    "publishedAt": "2026-03-13T11:55:02.000Z",
+    "createdAt": "2026-03-13T13:12:19.326Z",
+    "updatedAt": "2026-03-13T13:12:19.326Z"
+  },
+  {
     "id": "77687f7d5f0da273",
     "title": "Российские сноубордисты остались без медалей в слаломе на Паралимпиаде",
     "sport": "Другое",
@@ -10,8 +52,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69b3f10e9a79475a29d422bf",
     "publishedAt": "2026-03-13T11:25:50.000Z",
-    "createdAt": "2026-03-13T11:36:16.962Z",
-    "updatedAt": "2026-03-13T11:36:16.962Z"
+    "createdAt": "2026-03-13T13:12:20.497Z",
+    "updatedAt": "2026-03-13T13:12:20.497Z"
   },
   {
     "id": "889b086aba2919aa",
@@ -24,8 +66,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69b3eca99a79473bfdf6164b",
     "publishedAt": "2026-03-13T11:10:29.000Z",
-    "createdAt": "2026-03-13T11:36:18.043Z",
-    "updatedAt": "2026-03-13T11:36:18.043Z"
+    "createdAt": "2026-03-13T13:12:22.071Z",
+    "updatedAt": "2026-03-13T13:12:22.071Z"
   },
   {
     "id": "6badd14270077d6a",
@@ -38,8 +80,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69b3e4129a79476a553bb51a",
     "publishedAt": "2026-03-13T10:41:56.000Z",
-    "createdAt": "2026-03-13T11:36:21.422Z",
-    "updatedAt": "2026-03-13T11:36:21.422Z"
+    "createdAt": "2026-03-13T13:12:25.670Z",
+    "updatedAt": "2026-03-13T13:12:25.670Z"
   },
   {
     "id": "648f3565a8aa04f7",
@@ -52,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69b3e0b29a79476171890d30",
     "publishedAt": "2026-03-13T10:32:06.000Z",
-    "createdAt": "2026-03-13T11:36:19.176Z",
-    "updatedAt": "2026-03-13T11:36:19.176Z"
+    "createdAt": "2026-03-13T13:12:23.271Z",
+    "updatedAt": "2026-03-13T13:12:23.271Z"
   },
   {
     "id": "24bf8b8747aa2d3e",
@@ -66,8 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69b3dcae9a7947b3519b4657",
     "publishedAt": "2026-03-13T10:10:21.000Z",
-    "createdAt": "2026-03-13T11:36:20.225Z",
-    "updatedAt": "2026-03-13T11:36:20.225Z"
+    "createdAt": "2026-03-13T13:12:24.504Z",
+    "updatedAt": "2026-03-13T13:12:24.504Z"
   },
   {
     "id": "8e8758d7a3f40b6b",
@@ -80,8 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69b3d3619a7947f2ddeed304",
     "publishedAt": "2026-03-13T09:52:45.000Z",
-    "createdAt": "2026-03-13T11:36:22.582Z",
-    "updatedAt": "2026-03-13T11:36:22.582Z"
+    "createdAt": "2026-03-13T13:12:26.946Z",
+    "updatedAt": "2026-03-13T13:12:26.946Z"
   },
   {
     "id": "9c9acbf85ca4947e",
@@ -94,49 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69b3d78a9a7947a8d7cfc205",
     "publishedAt": "2026-03-13T09:37:11.000Z",
-    "createdAt": "2026-03-13T11:36:23.716Z",
-    "updatedAt": "2026-03-13T11:36:23.716Z"
-  },
-  {
-    "id": "f3df9c5815c27a8e",
-    "title": "Кучерова назвали главным претендентом на приз лучшему игроку сезона НХЛ",
-    "sport": "Хоккей",
-    "category": "Хоккей",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/3/76/347733922627763.jpeg",
-    "teaser": "Кучерова назвали главным претендентом на приз лучшему игроку сезона НХЛ",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69b3ce7b9a7947f3c600f5e7",
-    "publishedAt": "2026-03-13T09:36:27.000Z",
-    "createdAt": "2026-03-13T11:36:25.959Z",
-    "updatedAt": "2026-03-13T11:36:25.959Z"
-  },
-  {
-    "id": "172219198109478b",
-    "title": "Карточку еще играющего бейсболиста MLB продали за рекордные $5,2 млн",
-    "sport": "Другое",
-    "category": "Другие",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/7/40/347733905351407.jpeg",
-    "teaser": "Карточку еще играющего бейсболиста MLB продали за рекордные $5,2 млн",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69b3c6859a794769088143fd",
-    "publishedAt": "2026-03-13T08:57:41.000Z",
-    "createdAt": "2026-03-13T11:36:24.852Z",
-    "updatedAt": "2026-03-13T11:36:24.852Z"
-  },
-  {
-    "id": "39fb266a5277b389",
-    "title": "Бобровский сравнялся с Хабибулиным по числу матчей в НХЛ, повторив рекорд",
-    "sport": "Хоккей",
-    "category": "Хоккей",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/9/70/347733902387709.jpeg",
-    "teaser": "Бобровский сравнялся с Хабибулиным по числу матчей в НХЛ, повторив рекорд",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69b3c96f9a794773c39a715f",
-    "publishedAt": "2026-03-13T08:39:08.000Z",
-    "createdAt": "2026-03-13T11:36:27.097Z",
-    "updatedAt": "2026-03-13T11:36:27.097Z"
+    "createdAt": "2026-03-13T13:12:28.225Z",
+    "updatedAt": "2026-03-13T13:12:28.226Z"
   }
 ]
