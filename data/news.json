@@ -1,5 +1,75 @@
 [
   {
+    "id": "ee0400d9d810e57f",
+    "title": "Клуб РПЛ оштрафовали за бросавших снежки болельщиков",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/2/92/347734192268922.jpeg",
+    "teaser": "Клуб РПЛ оштрафовали за бросавших снежки болельщиков",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69b43aa99a7947211253a73a",
+    "publishedAt": "2026-03-13T16:40:29.000Z",
+    "createdAt": "2026-03-13T16:49:32.748Z",
+    "updatedAt": "2026-03-13T16:49:32.748Z"
+  },
+  {
+    "id": "e0cfb5daf944ce9d",
+    "title": "РФС оштрафовал «Спартак» за сломанные фанатами туалеты и 32 кресла",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/4/47/347734164469474.jpeg",
+    "teaser": "РФС оштрафовал «Спартак» за сломанные фанатами туалеты и 32 кресла",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69b42c079a79472931343357",
+    "publishedAt": "2026-03-13T16:10:51.000Z",
+    "createdAt": "2026-03-13T16:49:31.799Z",
+    "updatedAt": "2026-03-13T16:49:31.799Z"
+  },
+  {
+    "id": "e86653486b3a2f3e",
+    "title": "Капитан «Авангарда» повторил бомбардирский рекорд КХЛ среди защитников",
+    "sport": "Хоккей",
+    "category": "Хоккей",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/6/49/347724702479496.png",
+    "teaser": "Капитан «Авангарда» повторил бомбардирский рекорд КХЛ среди защитников",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69a5bf9c9a7947cd8deedfc8",
+    "publishedAt": "2026-03-13T15:56:56.000Z",
+    "createdAt": "2026-03-13T16:49:33.701Z",
+    "updatedAt": "2026-03-13T16:49:33.701Z"
+  },
+  {
+    "id": "62e1f6e0b27cea23",
+    "title": "Пропустивший 16 матчей Жамнов вернулся на тренерскую скамейку «Спартака»",
+    "sport": "Хоккей",
+    "category": "Хоккей",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/2/05/347734166094052.jpeg",
+    "teaser": "Пропустивший 16 матчей Жамнов вернулся на тренерскую скамейку «Спартака»",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69b430539a7947f603063a6c",
+    "publishedAt": "2026-03-13T15:52:25.000Z",
+    "createdAt": "2026-03-13T16:49:34.658Z",
+    "updatedAt": "2026-03-13T16:49:34.658Z"
+  },
+  {
+    "id": "89d882e0740af418",
+    "title": "В WADA заявили о потере доверия к Антидопинговому агентству Грузии",
+    "sport": "Другое",
+    "category": "Другие",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/6/93/347734146183936.jpeg",
+    "teaser": "В WADA заявили о потере доверия к Антидопинговому агентству Грузии",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69b4222a9a794762906149fb",
+    "publishedAt": "2026-03-13T15:33:45.000Z",
+    "createdAt": "2026-03-13T16:49:35.599Z",
+    "updatedAt": "2026-03-13T16:49:35.599Z"
+  },
+  {
     "id": "2ca35874fab5936c",
     "title": "РФС отстранил трех футболистов на 5 лет за договорной матч",
     "sport": "Футбол",
@@ -10,22 +80,22 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69b425d79a7947ba0d0db383",
     "publishedAt": "2026-03-13T15:12:33.000Z",
-    "createdAt": "2026-03-13T15:50:16.176Z",
-    "updatedAt": "2026-03-13T15:50:16.176Z"
+    "createdAt": "2026-03-13T16:49:36.602Z",
+    "updatedAt": "2026-03-13T16:49:36.602Z"
   },
   {
-    "id": "830e93e3b7a20812",
-    "title": "Сихарулидзе раскритиковал выступление женщин в финале Гран-при России",
+    "id": "7d5136955bd24619",
+    "title": "Сихарулидзе раскритиковал выступление фигуристок в финале Гран-при России",
     "sport": "Другое",
     "category": "Фигурное катание",
     "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/1/42/347734133158421.jpeg",
-    "teaser": "Сихарулидзе раскритиковал выступление женщин в финале Гран-при России",
+    "teaser": "Сихарулидзе раскритиковал выступление фигуристок в финале Гран-при России",
     "fullContent": "",
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69b4219a9a79472637657f83",
     "publishedAt": "2026-03-13T15:07:14.000Z",
-    "createdAt": "2026-03-13T15:50:18.447Z",
-    "updatedAt": "2026-03-13T15:50:18.447Z"
+    "createdAt": "2026-03-13T16:49:38.689Z",
+    "updatedAt": "2026-03-13T16:49:38.689Z"
   },
   {
     "id": "b923313bcfacf68f",
@@ -38,8 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69b41b189a794711b7817b00",
     "publishedAt": "2026-03-13T14:44:30.000Z",
-    "createdAt": "2026-03-13T15:50:19.601Z",
-    "updatedAt": "2026-03-13T15:50:19.601Z"
+    "createdAt": "2026-03-13T16:49:39.810Z",
+    "updatedAt": "2026-03-13T16:49:39.810Z"
   },
   {
     "id": "1819ec1a07cc5f57",
@@ -52,22 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69b41c269a794767e5d06ef4",
     "publishedAt": "2026-03-13T14:37:29.000Z",
-    "createdAt": "2026-03-13T15:50:17.301Z",
-    "updatedAt": "2026-03-13T15:50:17.301Z"
-  },
-  {
-    "id": "ed6aafdeb349501c",
-    "title": "Бугаев заявил, что не полностью удовлетворен двумя медалями Паралимпиады",
-    "sport": "Другое",
-    "category": "Другие",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/3/28/347734107634283.jpeg",
-    "teaser": "Бугаев заявил, что не полностью удовлетворен двумя медалями Паралимпиады",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69b416a59a7947f7a7793015",
-    "publishedAt": "2026-03-13T14:12:07.000Z",
-    "createdAt": "2026-03-13T15:50:22.951Z",
-    "updatedAt": "2026-03-13T15:50:22.951Z"
+    "createdAt": "2026-03-13T16:49:37.740Z",
+    "updatedAt": "2026-03-13T16:49:37.740Z"
   },
   {
     "id": "53f251ff301989d8",
@@ -80,63 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69b40b309a79477a4b4ebbbc",
     "publishedAt": "2026-03-13T14:07:13.000Z",
-    "createdAt": "2026-03-13T15:50:20.747Z",
-    "updatedAt": "2026-03-13T15:50:20.747Z"
-  },
-  {
-    "id": "6fd44df40a4848cb",
-    "title": "«Спартак» выпустил проморолик к дерби с «Зенитом» в стиле «Шоу Трумана»",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/8/85/347734098539858.jpeg",
-    "teaser": "«Спартак» выпустил проморолик к дерби с «Зенитом» в стиле «Шоу Трумана»",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69b4110b9a79474c6450088f",
-    "publishedAt": "2026-03-13T14:06:22.000Z",
-    "createdAt": "2026-03-13T15:50:21.817Z",
-    "updatedAt": "2026-03-13T15:50:21.817Z"
-  },
-  {
-    "id": "6e01f049713128e3",
-    "title": "Гвардиолу впервые с 2021 года признали лучшим тренером месяца в АПЛ",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/0/21/347734061779210.jpeg",
-    "teaser": "Гвардиолу впервые с 2021 года признали лучшим тренером месяца в АПЛ",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69b403ca9a794708c3b5eb0c",
-    "publishedAt": "2026-03-13T13:32:50.000Z",
-    "createdAt": "2026-03-13T15:50:25.207Z",
-    "updatedAt": "2026-03-13T15:50:25.207Z"
-  },
-  {
-    "id": "7cd44f00829e9947",
-    "title": "Германия впервые за 15 лет примет матчи регулярного чемпионата НХЛ",
-    "sport": "Хоккей",
-    "category": "Хоккей",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/7/93/347734078974937.jpeg",
-    "teaser": "Германия впервые за 15 лет примет матчи регулярного чемпионата НХЛ",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69b40b379a79477adfa4555c",
-    "publishedAt": "2026-03-13T13:23:48.000Z",
-    "createdAt": "2026-03-13T15:50:24.081Z",
-    "updatedAt": "2026-03-13T15:50:24.081Z"
-  },
-  {
-    "id": "c7c2bdd25335686c",
-    "title": "Россиянин выиграл бронзу Паралимпиады в гигантском слаломе",
-    "sport": "Другое",
-    "category": "Другие",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/0/56/347734038474560.jpeg",
-    "teaser": "Россиянин выиграл бронзу Паралимпиады в гигантском слаломе",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69b3fe969a794788813c8c48",
-    "publishedAt": "2026-03-13T13:10:38.000Z",
-    "createdAt": "2026-03-13T15:50:26.352Z",
-    "updatedAt": "2026-03-13T15:50:26.352Z"
+    "createdAt": "2026-03-13T16:49:40.844Z",
+    "updatedAt": "2026-03-13T16:49:40.844Z"
   }
 ]
