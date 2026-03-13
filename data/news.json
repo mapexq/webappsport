@@ -1,5 +1,61 @@
 [
   {
+    "id": "6badd14270077d6a",
+    "title": "Дегтярев рассказал о прогрессе в допуске россиян на международные турниры",
+    "sport": "Другое",
+    "category": "Другие",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/5/27/347733976771275.jpeg",
+    "teaser": "Дегтярев рассказал о прогрессе в допуске россиян на международные турниры",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69b3e4129a79476a553bb51a",
+    "publishedAt": "2026-03-13T10:41:56.000Z",
+    "createdAt": "2026-03-13T10:44:12.736Z",
+    "updatedAt": "2026-03-13T10:44:12.736Z"
+  },
+  {
+    "id": "648f3565a8aa04f7",
+    "title": "Дегтярев заявил, что двойные стандарты МОК стали «еще более выпуклыми»",
+    "sport": "Другое",
+    "category": "Другие",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/3/88/347733962475883.jpeg",
+    "teaser": "Дегтярев заявил, что двойные стандарты МОК стали «еще более выпуклыми»",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69b3e0b29a79476171890d30",
+    "publishedAt": "2026-03-13T10:32:06.000Z",
+    "createdAt": "2026-03-13T10:44:10.732Z",
+    "updatedAt": "2026-03-13T10:44:10.732Z"
+  },
+  {
+    "id": "24bf8b8747aa2d3e",
+    "title": "Клебо диагностировали сотрясение мозга после падения на этапе Кубка мира",
+    "sport": "Другое",
+    "category": "Другие",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/7/81/347733959615817.jpeg",
+    "teaser": "Клебо диагностировали сотрясение мозга после падения на этапе Кубка мира",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69b3dcae9a7947b3519b4657",
+    "publishedAt": "2026-03-13T10:10:21.000Z",
+    "createdAt": "2026-03-13T10:44:11.741Z",
+    "updatedAt": "2026-03-13T10:44:11.741Z"
+  },
+  {
+    "id": "8e8758d7a3f40b6b",
+    "title": "Ферстаппен заявил, что новый болид Red Bull непригоден для езды",
+    "sport": "Другое",
+    "category": "Формула-1",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/5/61/347733944618615.jpeg",
+    "teaser": "Ферстаппен заявил, что новый болид Red Bull непригоден для езды",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69b3d3619a7947f2ddeed304",
+    "publishedAt": "2026-03-13T09:52:45.000Z",
+    "createdAt": "2026-03-13T10:44:13.787Z",
+    "updatedAt": "2026-03-13T10:44:13.787Z"
+  },
+  {
     "id": "9c9acbf85ca4947e",
     "title": "Россиянин стал третьим в первом заезде в слаломе-гиганте на Паралимпиаде",
     "sport": "Другое",
@@ -10,22 +66,22 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69b3d78a9a7947a8d7cfc205",
     "publishedAt": "2026-03-13T09:37:11.000Z",
-    "createdAt": "2026-03-13T09:47:39.039Z",
-    "updatedAt": "2026-03-13T09:47:39.039Z"
+    "createdAt": "2026-03-13T10:44:14.826Z",
+    "updatedAt": "2026-03-13T10:44:14.826Z"
   },
   {
-    "id": "a602614447031660",
-    "title": "Кучеров занял первое место в голосовании за лучшего игрока сезона НХЛ",
+    "id": "f3df9c5815c27a8e",
+    "title": "Кучерова назвали главным претендентом на приз лучшему игроку сезона НХЛ",
     "sport": "Хоккей",
     "category": "Хоккей",
     "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/3/76/347733922627763.jpeg",
-    "teaser": "Кучеров занял первое место в голосовании за лучшего игрока сезона НХЛ",
+    "teaser": "Кучерова назвали главным претендентом на приз лучшему игроку сезона НХЛ",
     "fullContent": "",
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69b3ce7b9a7947f3c600f5e7",
     "publishedAt": "2026-03-13T09:36:27.000Z",
-    "createdAt": "2026-03-13T09:47:41.062Z",
-    "updatedAt": "2026-03-13T09:47:41.062Z"
+    "createdAt": "2026-03-13T10:44:17.010Z",
+    "updatedAt": "2026-03-13T10:44:17.010Z"
   },
   {
     "id": "172219198109478b",
@@ -38,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69b3c6859a794769088143fd",
     "publishedAt": "2026-03-13T08:57:41.000Z",
-    "createdAt": "2026-03-13T09:47:40.119Z",
-    "updatedAt": "2026-03-13T09:47:40.119Z"
+    "createdAt": "2026-03-13T10:44:15.857Z",
+    "updatedAt": "2026-03-13T10:44:15.857Z"
   },
   {
     "id": "39fb266a5277b389",
@@ -52,8 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69b3c96f9a794773c39a715f",
     "publishedAt": "2026-03-13T08:39:08.000Z",
-    "createdAt": "2026-03-13T09:47:42.079Z",
-    "updatedAt": "2026-03-13T09:47:42.079Z"
+    "createdAt": "2026-03-13T10:44:18.054Z",
+    "updatedAt": "2026-03-13T10:44:18.054Z"
   },
   {
     "id": "db4f528bb445b160",
@@ -66,8 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69b3c0409a7947b771d62cbe",
     "publishedAt": "2026-03-13T08:15:11.000Z",
-    "createdAt": "2026-03-13T09:47:44.132Z",
-    "updatedAt": "2026-03-13T09:47:44.132Z"
+    "createdAt": "2026-03-13T10:44:20.194Z",
+    "updatedAt": "2026-03-13T10:44:20.194Z"
   },
   {
     "id": "526a0cbf541c1e00",
@@ -80,63 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69b3c1649a7947845e9bfb14",
     "publishedAt": "2026-03-13T08:04:11.000Z",
-    "createdAt": "2026-03-13T09:47:43.139Z",
-    "updatedAt": "2026-03-13T09:47:43.139Z"
-  },
-  {
-    "id": "66eb49e56afb8b6e",
-    "title": "Василевский стал вторым вратарем в истории НХЛ по сезонам с 30 победами",
-    "sport": "Хоккей",
-    "category": "Хоккей",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/4/71/347733840907714.jpeg",
-    "teaser": "Василевский стал вторым вратарем в истории НХЛ по сезонам с 30 победами",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69b3af0c9a7947bea86ad226",
-    "publishedAt": "2026-03-13T07:42:58.000Z",
-    "createdAt": "2026-03-13T09:47:45.215Z",
-    "updatedAt": "2026-03-13T09:47:45.215Z"
-  },
-  {
-    "id": "83711b78d0f1309f",
-    "title": "Чемпион UFC Чимаев проведет первую защиту титула 9 мая",
-    "sport": "Единоборства",
-    "category": "Единоборства",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/6/98/347733864744986.jpeg",
-    "teaser": "Чемпион UFC Чимаев проведет первую защиту титула 9 мая",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69b3bab79a7947e49e1a280c",
-    "publishedAt": "2026-03-13T07:31:55.000Z",
-    "createdAt": "2026-03-13T09:47:46.246Z",
-    "updatedAt": "2026-03-13T09:47:46.246Z"
-  },
-  {
-    "id": "4add8613b37181be",
-    "title": "Кучеров набрал 1100 очков в НХЛ",
-    "sport": "Хоккей",
-    "category": "Хоккей",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/4/90/347733857968904.jpeg",
-    "teaser": "Кучеров набрал 1100 очков в НХЛ",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69b3b7f89a794736b1946917",
-    "publishedAt": "2026-03-13T07:18:11.000Z",
-    "createdAt": "2026-03-13T09:47:47.255Z",
-    "updatedAt": "2026-03-13T09:47:47.255Z"
-  },
-  {
-    "id": "1349f60d719a488a",
-    "title": "Прервет ли «Зенит» беспроигрышную серию «Спартака». Главное о туре РПЛ",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/0/75/347733305879750.jpeg",
-    "teaser": "Прервет ли «Зенит» беспроигрышную серию «Спартака». Главное о туре РПЛ",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69b174329a7947573f91a40d",
-    "publishedAt": "2026-03-13T07:00:41.000Z",
-    "createdAt": "2026-03-13T09:47:48.358Z",
-    "updatedAt": "2026-03-13T09:47:48.358Z"
+    "createdAt": "2026-03-13T10:44:19.102Z",
+    "updatedAt": "2026-03-13T10:44:19.102Z"
   }
 ]
