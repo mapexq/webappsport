@@ -47,6 +47,14 @@ export default defineConfig({
               },
             },
           },
+          {
+            urlPattern: /^https:\/\/api\.github\.com\/.*/i,
+            handler: 'NetworkOnly',
+          },
+          {
+            urlPattern: /^https:\/\/raw\.githubusercontent\.com\/.*/i,
+            handler: 'NetworkOnly',
+          },
         ],
       },
     }),
