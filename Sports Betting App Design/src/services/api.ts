@@ -75,6 +75,24 @@ export const apiService = {
     return mockBookmakers;
   },
 
+  async getBookmakersConfig(): Promise<Partial<Bookmaker>[]> {
+    try {
+      if (GITHUB_DATA_URL) {
+        const url = `${GITHUB_DATA_URL}/bookmakers.json?t=${Date.now()}`;
+        logger.log('📡 Загрузка конфигурации БК с GitHub:', url);
+        const response = await fetch(url);
+        if (response.ok) {
+          const data = await response.json();
+          logger.log('✅ Конфигурация БК загружена с GitHub');
+          return data;
+        }
+      }
+    } catch (e) {
+      logger.error('❌ Ошибка при загрузке конфига БК:', e);
+    }
+    return [];
+  },
+
   async getBookmakerById(id: number): Promise<Bookmaker | null> {
     await new Promise((resolve) => setTimeout(resolve, 300));
     return mockBookmakers.find((b) => b.id === id) || null;

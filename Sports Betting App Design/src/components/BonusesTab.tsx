@@ -1,3 +1,4 @@
+import { useState, useEffect } from 'react';
 import { BookmakerCard } from './BookmakerCard';
 import { TrendingUp, Star, Award, DollarSign, Gem } from 'lucide-react';
 import { ImageWithFallback } from './figma/ImageWithFallback';
@@ -25,7 +26,9 @@ export interface Bookmaker {
   url: string;
 }
 
-const bookmakers: Bookmaker[] = [
+import { apiService } from '../services/api';
+
+const DEFAULT_BOOKMAKERS: Bookmaker[] = [
   {
     id: 1,
     name: 'PARI',
@@ -60,7 +63,7 @@ const bookmakers: Bookmaker[] = [
     bonusAmount: 3000,
     features: ['Быстрая верификация', 'Cashback программа', 'Live ставки'],
     license: 'Лицензия ФНС России',
-    url: 'https://winline.ru/',
+    url: 'https://betsxwin.pro/click?o=213&a=45502&sub_id3=aso',
   },
   {
     id: 4,
@@ -72,7 +75,7 @@ const bookmakers: Bookmaker[] = [
     bonusAmount: 10000,
     features: ['Быстрые выплаты', 'Щедрые бонусы', 'Статистика и аналитика'],
     license: 'Лицензия ФНС России',
-    url: 'https://betboom.ru/',
+    url: 'https://betsxwin.pro/click?o=223&a=45502&sub_id1=983rKDx2&sub_id2=15&sub_id3=asobrand',
   },
   {
     id: 5,
@@ -84,7 +87,7 @@ const bookmakers: Bookmaker[] = [
     bonusAmount: 2000,
     features: ['Более 20 лет на рынке', 'Множество акций', 'Круглосуточная поддержка'],
     license: 'Лицензия ФНС России',
-    url: 'https://betsxwin.pro/click?o=6&a=45502',
+    url: 'https://betsxwin.pro/click?o=6&a=45502&link_id=519',
   },
   {
     id: 6,
@@ -96,7 +99,7 @@ const bookmakers: Bookmaker[] = [
     bonusAmount: 25000,
     features: ['Простая регистрация', 'Хорошие коэффициенты', 'Кэшаут live-ставок'],
     license: 'Лицензия ФНС России',
-    url: 'https://betsxwin.pro/click?o=227&a=45502',
+    url: 'https://betsxwin.pro/click?o=227&a=45502&link_id=1376&sub_id1=4352&sub_id2=7&sub_id3=aso',
   },
   {
     id: 7,
@@ -132,7 +135,7 @@ const bookmakers: Bookmaker[] = [
     bonusAmount: 8000,
     features: ['Неплохие выплаты', 'Кэшбэк до 8%', 'Хорошие коэффициенты'],
     license: 'Лицензия ФНС России',
-    url: 'https://baltbet.ru/',
+    url: 'https://iplogger.com/2q85A4',
   },
   {
     id: 10,
@@ -144,7 +147,7 @@ const bookmakers: Bookmaker[] = [
     bonusAmount: 15000,
     features: ['Огромная линия', 'Круглосуточная поддержка', 'Высокие коэффициенты'],
     license: 'Международная лицензия',
-    url: 'https://melbet.ru/',
+    url: 'https://posing-beautifully-operating-oklahoma.trycloudflare.com/redirect/aHR0cHM6Ly9tZWxiZXQucnUv',
   },
 ];
 
@@ -156,6 +159,34 @@ const openBookmakerUrl = (url: string) => {
 };
 
 export function BonusesTab() {
+  const [bookmakers, setBookmakers] = useState<Bookmaker[]>(DEFAULT_BOOKMAKERS);
+
+  useEffect(() => {
+    let mounted = true;
+    async function fetchConfig() {
+      try {
+        const config = await apiService.getBookmakersConfig();
+        if (mounted && config && Array.isArray(config) && config.length > 0) {
+          const updated = DEFAULT_BOOKMAKERS.map(bm => {
+            const remote = config.find(r => r.id === bm.id);
+            if (remote) {
+              // Override fields but preserve local module images and defaults
+              return { ...bm, ...remote, logoImage: bm.logoImage, logo: bm.logo };
+            }
+            return bm;
+          });
+          setBookmakers(updated);
+        }
+      } catch (e) {
+        console.error('Failed to update bookmakers from config', e);
+      }
+    }
+    fetchConfig();
+    return () => { mounted = false; };
+  }, []);
+
+  if (bookmakers.length === 0) return null;
+
   const topBookmaker = bookmakers[0];
   const otherBookmakers = bookmakers.slice(1);
 
@@ -183,7 +214,7 @@ export function BonusesTab() {
             Лучшее предложение
           </h3>
         </div>
-        
+
         {/* Large Hero Card */}
         <div className="bg-gradient-to-br from-green-400/5 via-zinc-900/50 to-zinc-900 border border-zinc-800 rounded-2xl p-6">
           <div className="flex flex-col md:flex-row gap-6">
@@ -208,11 +239,11 @@ export function BonusesTab() {
                   </div>
                 </div>
               </div>
-              
+
               <div className="bg-green-400/10 border border-green-400/30 rounded-lg p-4 mb-6">
                 <p className="text-base text-[rgb(0,220,111)] font-bold text-[18px]">{topBookmaker.bonus}</p>
               </div>
-              
+
               <div className="grid grid-cols-1 md:grid-cols-3 gap-3 mb-6">
                 {topBookmaker.features.map((feature, index) => (
                   <div key={index} className="flex items-center gap-2 text-sm text-zinc-400">
@@ -221,8 +252,8 @@ export function BonusesTab() {
                   </div>
                 ))}
               </div>
-              
-              <button 
+
+              <button
                 onClick={() => openBookmakerUrl(topBookmaker.url)}
                 className="w-full bg-green-400 hover:bg-green-500 text-zinc-900 text-base h-12 rounded-lg transition-colors font-bold"
               >
@@ -243,7 +274,7 @@ export function BonusesTab() {
             Другие букмекеры
           </h3>
         </div>
-        
+
         <div className="grid gap-4 md:grid-cols-2 lg:grid-cols-3">
           {otherBookmakers.map((bookmaker) => (
             <BookmakerCard key={bookmaker.id} bookmaker={bookmaker} />

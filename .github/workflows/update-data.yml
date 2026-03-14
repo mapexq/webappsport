@@ -87,7 +87,7 @@ jobs:
           git config --local user.name "GitHub Action"
           
           # Проверяем существование файлов перед добавлением
-          if [ -f data/predictions.json ] || [ -f data/news.json ] || [ -f data/metadata.json ]; then
+          if [ -d data ]; then
             # Проверяем, что predictions.json не пустой
             if [ -f data/predictions.json ]; then
               PREDICTIONS_SIZE=$(wc -c < data/predictions.json | tr -d ' ')
