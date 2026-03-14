@@ -1,5 +1,47 @@
 [
   {
+    "id": "0dffb14f8f5e401b",
+    "title": "Россиянка стала второй в первой попытке в слаломе на Паралимпиаде",
+    "sport": "Другое",
+    "category": "Другие",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/9/03/347734790753039.jpeg",
+    "teaser": "Россиянка стала второй в первой попытке в слаломе на Паралимпиаде",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69b524699a79474673a461c2",
+    "publishedAt": "2026-03-14T09:16:49.000Z",
+    "createdAt": "2026-03-14T09:39:22.907Z",
+    "updatedAt": "2026-03-14T09:39:22.907Z"
+  },
+  {
+    "id": "672587cd0c0ac890",
+    "title": "Аутсайдеры в выигрыше. Как команды и «Формула-1» зарабатывают миллиарды",
+    "sport": "Другое",
+    "category": "Формула-1",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/2/33/347731338727332.jpeg",
+    "teaser": "Аутсайдеры в выигрыше. Как команды и «Формула-1» зарабатывают миллиарды",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69afdfaa9a7947362cc97c78",
+    "publishedAt": "2026-03-14T06:02:24.000Z",
+    "createdAt": "2026-03-14T09:39:21.902Z",
+    "updatedAt": "2026-03-14T09:39:21.902Z"
+  },
+  {
+    "id": "fc0614e3685a431d",
+    "title": "Почему гонщики «Формулы-1» оказались недовольны на старте сезона",
+    "sport": "Другое",
+    "category": "Формула-1",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/8/08/347733934340088.jpeg",
+    "teaser": "Почему гонщики «Формулы-1» оказались недовольны на старте сезона",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69aff60d9a7947450ee4d21a",
+    "publishedAt": "2026-03-13T21:01:02.000Z",
+    "createdAt": "2026-03-14T09:39:24.176Z",
+    "updatedAt": "2026-03-14T09:39:24.176Z"
+  },
+  {
     "id": "d1416a338c635b1d",
     "title": "В ЦСКА отреагировали на штраф в 1 млн руб. за расизм болельщиков",
     "sport": "Футбол",
@@ -10,8 +52,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69b44ce09a79472a064a5257",
     "publishedAt": "2026-03-13T19:02:46.000Z",
-    "createdAt": "2026-03-14T08:42:54.598Z",
-    "updatedAt": "2026-03-14T08:42:54.598Z"
+    "createdAt": "2026-03-14T09:39:25.189Z",
+    "updatedAt": "2026-03-14T09:39:25.189Z"
   },
   {
     "id": "ae817ac446041bb0",
@@ -24,8 +66,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69b455d99a794747b1208375",
     "publishedAt": "2026-03-13T18:42:57.000Z",
-    "createdAt": "2026-03-14T08:42:55.651Z",
-    "updatedAt": "2026-03-14T08:42:55.651Z"
+    "createdAt": "2026-03-14T09:39:26.201Z",
+    "updatedAt": "2026-03-14T09:39:26.201Z"
   },
   {
     "id": "c1012f05499e6a6d",
@@ -38,8 +80,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69b44dba9a7947d3b95db43e",
     "publishedAt": "2026-03-13T18:32:34.000Z",
-    "createdAt": "2026-03-14T08:42:56.641Z",
-    "updatedAt": "2026-03-14T08:42:56.641Z"
+    "createdAt": "2026-03-14T09:39:27.234Z",
+    "updatedAt": "2026-03-14T09:39:27.234Z"
   },
   {
     "id": "3d8f16deea543cc1",
@@ -52,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69b4460e9a7947c8612798b4",
     "publishedAt": "2026-03-13T17:43:42.000Z",
-    "createdAt": "2026-03-14T08:42:57.651Z",
-    "updatedAt": "2026-03-14T08:42:57.651Z"
+    "createdAt": "2026-03-14T09:39:28.243Z",
+    "updatedAt": "2026-03-14T09:39:28.243Z"
   },
   {
     "id": "ee0400d9d810e57f",
@@ -66,8 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69b43aa99a7947211253a73a",
     "publishedAt": "2026-03-13T16:40:29.000Z",
-    "createdAt": "2026-03-14T08:42:59.656Z",
-    "updatedAt": "2026-03-14T08:42:59.656Z"
+    "createdAt": "2026-03-14T09:39:30.361Z",
+    "updatedAt": "2026-03-14T09:39:30.361Z"
   },
   {
     "id": "e0cfb5daf944ce9d",
@@ -80,8 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69b42c079a79472931343357",
     "publishedAt": "2026-03-13T16:10:51.000Z",
-    "createdAt": "2026-03-14T08:42:58.631Z",
-    "updatedAt": "2026-03-14T08:42:58.631Z"
+    "createdAt": "2026-03-14T09:39:29.270Z",
+    "updatedAt": "2026-03-14T09:39:29.270Z"
   },
   {
     "id": "e86653486b3a2f3e",
@@ -94,49 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69a5bf9c9a7947cd8deedfc8",
     "publishedAt": "2026-03-13T15:56:56.000Z",
-    "createdAt": "2026-03-14T08:43:00.654Z",
-    "updatedAt": "2026-03-14T08:43:00.654Z"
-  },
-  {
-    "id": "62e1f6e0b27cea23",
-    "title": "Пропустивший 16 матчей Жамнов вернулся на тренерскую скамейку «Спартака»",
-    "sport": "Хоккей",
-    "category": "Хоккей",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/2/05/347734166094052.jpeg",
-    "teaser": "Пропустивший 16 матчей Жамнов вернулся на тренерскую скамейку «Спартака»",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69b430539a7947f603063a6c",
-    "publishedAt": "2026-03-13T15:52:25.000Z",
-    "createdAt": "2026-03-14T08:43:01.648Z",
-    "updatedAt": "2026-03-14T08:43:01.648Z"
-  },
-  {
-    "id": "89d882e0740af418",
-    "title": "В WADA заявили о потере доверия к Антидопинговому агентству Грузии",
-    "sport": "Другое",
-    "category": "Другие",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/6/93/347734146183936.jpeg",
-    "teaser": "В WADA заявили о потере доверия к Антидопинговому агентству Грузии",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69b4222a9a794762906149fb",
-    "publishedAt": "2026-03-13T15:33:45.000Z",
-    "createdAt": "2026-03-14T08:43:02.648Z",
-    "updatedAt": "2026-03-14T08:43:02.648Z"
-  },
-  {
-    "id": "2ca35874fab5936c",
-    "title": "РФС отстранил трех футболистов на 5 лет за договорной матч",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/0/30/347734139326300.jpeg",
-    "teaser": "РФС отстранил трех футболистов на 5 лет за договорной матч",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69b425d79a7947ba0d0db383",
-    "publishedAt": "2026-03-13T15:12:33.000Z",
-    "createdAt": "2026-03-14T08:43:03.658Z",
-    "updatedAt": "2026-03-14T08:43:03.658Z"
+    "createdAt": "2026-03-14T09:39:31.382Z",
+    "updatedAt": "2026-03-14T09:39:31.382Z"
   }
 ]
