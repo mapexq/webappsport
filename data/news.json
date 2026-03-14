@@ -1,5 +1,33 @@
 [
   {
+    "id": "9e2fbee8b752361d",
+    "title": "Российский вратарь Хайкин продлил контракт с норвежским «Будё-Глимт»",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/8/08/347735121133088.jpeg",
+    "teaser": "Российский вратарь Хайкин продлил контракт с норвежским «Будё-Глимт»",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69b5a57d9a7947531be20f7d",
+    "publishedAt": "2026-03-14T18:26:45.000Z",
+    "createdAt": "2026-03-14T18:48:34.123Z",
+    "updatedAt": "2026-03-14T18:48:34.123Z"
+  },
+  {
+    "id": "e55cc776801a5ed8",
+    "title": "Задержанным за убийство женщины в Москве оказался 20-летний футболист",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/2/17/347735079709172.jpeg",
+    "teaser": "Задержанным за убийство женщины в Москве оказался 20-летний футболист",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69b59d409a7947c86576e15f",
+    "publishedAt": "2026-03-14T18:15:54.000Z",
+    "createdAt": "2026-03-14T18:48:33.178Z",
+    "updatedAt": "2026-03-14T18:48:33.178Z"
+  },
+  {
     "id": "c97c5330aebd01d0",
     "title": "«Динамо» победило «Ростов» в матче с двумя удалениями",
     "sport": "Футбол",
@@ -10,8 +38,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69b58b5a9a7947ef61fe7e01",
     "publishedAt": "2026-03-14T17:18:42.000Z",
-    "createdAt": "2026-03-14T17:32:35.761Z",
-    "updatedAt": "2026-03-14T17:32:35.761Z"
+    "createdAt": "2026-03-14T18:48:35.043Z",
+    "updatedAt": "2026-03-14T18:48:35.043Z"
   },
   {
     "id": "b71059f77deb9e4b",
@@ -24,8 +52,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69b587a99a7947868af7c6c2",
     "publishedAt": "2026-03-14T16:19:46.000Z",
-    "createdAt": "2026-03-14T17:32:36.746Z",
-    "updatedAt": "2026-03-14T17:32:36.746Z"
+    "createdAt": "2026-03-14T18:48:36.024Z",
+    "updatedAt": "2026-03-14T18:48:36.024Z"
   },
   {
     "id": "bdabecd6be5ef976",
@@ -38,8 +66,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69b574739a7947298816fdca",
     "publishedAt": "2026-03-14T15:00:56.000Z",
-    "createdAt": "2026-03-14T17:32:37.788Z",
-    "updatedAt": "2026-03-14T17:32:37.788Z"
+    "createdAt": "2026-03-14T18:48:37.028Z",
+    "updatedAt": "2026-03-14T18:48:37.028Z"
   },
   {
     "id": "6e8d5eeea193e0ea",
@@ -52,8 +80,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69b569639a7947c9d92251b2",
     "publishedAt": "2026-03-14T14:44:02.000Z",
-    "createdAt": "2026-03-14T17:32:38.847Z",
-    "updatedAt": "2026-03-14T17:32:38.847Z"
+    "createdAt": "2026-03-14T18:48:38.014Z",
+    "updatedAt": "2026-03-14T18:48:38.014Z"
   },
   {
     "id": "94a27b9e5e94d497",
@@ -66,22 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69b568ec9a79472492971f56",
     "publishedAt": "2026-03-14T14:30:49.000Z",
-    "createdAt": "2026-03-14T17:32:43.086Z",
-    "updatedAt": "2026-03-14T17:32:43.086Z"
-  },
-  {
-    "id": "a2ce319e7074292e",
-    "title": "«Краснодар» победил аутсайдера РПЛ благодаря пенальти на 95-й минуте",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/4/73/347734902098734.png",
-    "teaser": "«Краснодар» победил аутсайдера РПЛ благодаря пенальти на 95-й минуте",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69b544b49a7947860c062d71",
-    "publishedAt": "2026-03-14T12:57:20.000Z",
-    "createdAt": "2026-03-14T17:32:44.152Z",
-    "updatedAt": "2026-03-14T17:32:44.152Z"
+    "createdAt": "2026-03-14T18:48:42.097Z",
+    "updatedAt": "2026-03-14T18:48:42.097Z"
   },
   {
     "id": "16cda8a3358dce91",
@@ -94,22 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69b544239a7947a5a6b319dc",
     "publishedAt": "2026-03-14T12:47:18.000Z",
-    "createdAt": "2026-03-14T17:32:42.028Z",
-    "updatedAt": "2026-03-14T17:32:42.028Z"
-  },
-  {
-    "id": "9eaeb7189906b9c5",
-    "title": "Лыжник Коростелев стал десятым в марафоне на этапе Кубка мира в Норвегии",
-    "sport": "Другое",
-    "category": "Другие",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/0/86/347734860759860.png",
-    "teaser": "Лыжник Коростелев стал десятым в марафоне на этапе Кубка мира в Норвегии",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69b53fb09a79472707875146",
-    "publishedAt": "2026-03-14T11:14:24.000Z",
-    "createdAt": "2026-03-14T17:32:45.205Z",
-    "updatedAt": "2026-03-14T17:32:45.205Z"
+    "createdAt": "2026-03-14T18:48:41.104Z",
+    "updatedAt": "2026-03-14T18:48:41.104Z"
   },
   {
     "id": "672587cd0c0ac890",
@@ -122,8 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69afdfaa9a7947362cc97c78",
     "publishedAt": "2026-03-14T06:02:24.000Z",
-    "createdAt": "2026-03-14T17:32:39.927Z",
-    "updatedAt": "2026-03-14T17:32:39.927Z"
+    "createdAt": "2026-03-14T18:48:39.031Z",
+    "updatedAt": "2026-03-14T18:48:39.031Z"
   },
   {
     "id": "fc0614e3685a431d",
@@ -136,7 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69aff60d9a7947450ee4d21a",
     "publishedAt": "2026-03-13T21:01:02.000Z",
-    "createdAt": "2026-03-14T17:32:40.979Z",
-    "updatedAt": "2026-03-14T17:32:40.979Z"
+    "createdAt": "2026-03-14T18:48:40.077Z",
+    "updatedAt": "2026-03-14T18:48:40.077Z"
   }
 ]
