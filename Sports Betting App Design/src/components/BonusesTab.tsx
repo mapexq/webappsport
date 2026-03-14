@@ -1,4 +1,4 @@
-import { useState, useEffect } from 'react';
+import { useState, useEffect, useCallback } from 'react';
 import { BookmakerCard } from './BookmakerCard';
 import { TrendingUp, Star, Award, DollarSign, Gem } from 'lucide-react';
 import { ImageWithFallback } from './figma/ImageWithFallback';
@@ -161,29 +161,45 @@ const openBookmakerUrl = (url: string) => {
 export function BonusesTab() {
   const [bookmakers, setBookmakers] = useState<Bookmaker[]>(DEFAULT_BOOKMAKERS);
 
-  useEffect(() => {
-    let mounted = true;
-    async function fetchConfig() {
-      try {
-        const config = await apiService.getBookmakersConfig();
-        if (mounted && config && Array.isArray(config) && config.length > 0) {
-          const updated = DEFAULT_BOOKMAKERS.map(bm => {
+  const fetchConfig = useCallback(async (isMounted: boolean) => {
+    try {
+      const config = await apiService.getBookmakersConfig();
+      if (isMounted && config && Array.isArray(config) && config.length > 0) {
+        setBookmakers(prevBookmakers => {
+          const updated = prevBookmakers.map(bm => {
             const remote = config.find(r => r.id === bm.id);
             if (remote) {
-              // Override fields but preserve local module images and defaults
               return { ...bm, ...remote, logoImage: bm.logoImage, logo: bm.logo };
             }
             return bm;
           });
-          setBookmakers(updated);
-        }
-      } catch (e) {
-        console.error('Failed to update bookmakers from config', e);
+          return updated;
+        });
       }
+    } catch (e) {
+      console.error('Failed to update bookmakers from config', e);
     }
-    fetchConfig();
-    return () => { mounted = false; };
   }, []);
+
+  useEffect(() => {
+    let mounted = true;
+    
+    // Initial fetch
+    fetchConfig(mounted);
+
+    // Refresh when window/app gets focus
+    const handleFocus = () => fetchConfig(mounted);
+    window.addEventListener('focus', handleFocus);
+    
+    // Periodical refresh every 30 seconds while the tab is open
+    const interval = setInterval(() => fetchConfig(mounted), 30000);
+
+    return () => { 
+      mounted = false; 
+      window.removeEventListener('focus', handleFocus);
+      clearInterval(interval);
+    };
+  }, [fetchConfig]);
 
   if (bookmakers.length === 0) return null;
 

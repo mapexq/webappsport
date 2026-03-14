@@ -78,12 +78,24 @@ export const apiService = {
   async getBookmakersConfig(): Promise<Partial<Bookmaker>[]> {
     try {
       if (GITHUB_DATA_URL) {
-        const url = `${GITHUB_DATA_URL}/bookmakers.json?t=${Date.now()}`;
-        logger.log('📡 Загрузка конфигурации БК с GitHub:', url);
-        const response = await fetch(url);
+        // Use more aggressive cache busting with double timestamp and random string
+        const salt = Math.random().toString(36).substring(7);
+        const url = `${GITHUB_DATA_URL}/bookmakers.json?v=${Date.now()}&s=${salt}`;
+        
+        logger.log('📡 Загрузка конфигурации БК с GitHub (aggressive):', url);
+        
+        const response = await fetch(url, {
+          cache: 'no-store', // Force browser/WebView to skip cache
+          headers: {
+            'Cache-Control': 'no-cache, no-store, must-revalidate',
+            'Pragma': 'no-cache',
+            'Expires': '0'
+          }
+        });
+
         if (response.ok) {
           const data = await response.json();
-          logger.log('✅ Конфигурация БК загружена с GitHub');
+          logger.log('✅ Конфигурация БК загружена успешно');
           return data;
         }
       }
