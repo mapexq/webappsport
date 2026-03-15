@@ -74,7 +74,9 @@ public class MainActivity extends BridgeActivity {
             settings.setJavaScriptEnabled(true);
             settings.setBlockNetworkImage(false);
             settings.setBlockNetworkLoads(false);
-            settings.setCacheMode(WebSettings.LOAD_DEFAULT);
+            // LOAD_NO_CACHE: никогда не брать из кэша Android WebView для сетевых запросов
+            // Это критично для работы динамических данных с GitHub
+            settings.setCacheMode(WebSettings.LOAD_NO_CACHE);
             settings.setSupportZoom(false);
             settings.setBuiltInZoomControls(false);
             

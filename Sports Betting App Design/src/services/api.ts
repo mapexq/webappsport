@@ -76,41 +76,69 @@ export const apiService = {
   },
 
   async getBookmakersConfig(): Promise<Partial<Bookmaker>[]> {
+    const timestamp = Date.now();
+    const salt = Math.random().toString(36).substring(7);
+    
+    // Функция для безопасного декодирования UTF-8 из Base64 (для кириллицы)
+    const decodeBase64Utf8 = (base64: string) => {
+      try {
+        const binaryString = atob(base64.replace(/\s/g, ''));
+        const bytes = new Uint8Array(binaryString.length);
+        for (let i = 0; i < binaryString.length; i++) {
+          bytes[i] = binaryString.charCodeAt(i);
+        }
+        return new TextDecoder('utf-8').decode(bytes);
+      } catch (e) {
+        logger.error('❌ Ошибка декодирования Base64:', e);
+        return null;
+      }
+    };
+
+    // 1. Пытаемся через GitHub API (самый свежий способ)
     try {
       if (GITHUB_REPO) {
-        // Используем GitHub REST API вместо raw.githubusercontent.com
-        // Это позволяет обходить CDN кэш GitHub, который может длиться до 5 минут
-        const apiUrl = `https://api.github.com/repos/${GITHUB_REPO}/contents/data/bookmakers.json?ref=${GITHUB_BRANCH}&t=${Date.now()}`;
-        
-        logger.log('📡 Запрос через GitHub API (мгновенный):', apiUrl);
+        const apiUrl = `https://api.github.com/repos/${GITHUB_REPO}/contents/data/bookmakers.json?ref=${GITHUB_BRANCH}&t=${timestamp}&s=${salt}`;
+        logger.log('📡 Запрос через GitHub API:', apiUrl);
         
         const response = await fetch(apiUrl, {
-          headers: {
-            'Accept': 'application/vnd.github.v3+json',
-            'Cache-Control': 'no-cache'
-          }
+          headers: { 'Accept': 'application/vnd.github.v3+json', 'Cache-Control': 'no-cache' }
         });
 
         if (response.ok) {
           const data = await response.json();
-          // GitHub API возвращает контент в base64
           if (data.content) {
-            const decodedContent = atob(data.content.replace(/\s/g, ''));
-            const decodedData = JSON.parse(decodedContent);
-            logger.log('✅ Конфигурация БК загружена через API и декодирована');
-            return decodedData;
+            const decoded = decodeBase64Utf8(data.content);
+            if (decoded) {
+              logger.log('✅ Конфигурация БК получена через API (UTF-8 OK)');
+              return JSON.parse(decoded);
+            }
           }
-        } else if (response.status === 403) {
-          logger.warn('⚠️ GitHub API Rate Limit reached, falling back to raw URL');
-          // Если API лимит исчерпан, пробуем старый метод как запасной
-          const rawUrl = `${GITHUB_DATA_URL}/bookmakers.json?t=${Date.now()}`;
-          const rawRes = await fetch(rawUrl);
-          if (rawRes.ok) return await rawRes.json();
         }
       }
     } catch (e) {
-      logger.error('❌ Ошибка при загрузке конфига БК через API:', e);
+      logger.warn('⚠️ GitHub API не удался, пробуем Raw URL...');
     }
+
+    // 2. Резервный вариант через Raw URL с жестким сбросом кэша
+    try {
+      const rawUrl = `${GITHUB_DATA_URL}/bookmakers.json?v=${timestamp}&salt=${salt}`;
+      const response = await fetch(rawUrl, {
+        cache: 'no-store',
+        mode: 'cors',
+        headers: {
+          'Cache-Control': 'no-cache, no-store, must-revalidate',
+          'Pragma': 'no-cache'
+        }
+      });
+      if (response.ok) {
+        const data = await response.json();
+        logger.log('✅ Конфигурация БК получена через Raw URL');
+        return data;
+      }
+    } catch (e) {
+      logger.error('❌ Все методы загрузки БК провалились:', e);
+    }
+    
     return [];
   },
 
