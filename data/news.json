@@ -1,5 +1,47 @@
 [
   {
+    "id": "6ce52fb48e4fab96",
+    "title": "Глава IPC заявил, что разочарован жалобами Украины во время Паралимпиады",
+    "sport": "Другое",
+    "category": "Другие",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/8/33/347735942712338.jpeg",
+    "teaser": "Глава IPC заявил, что разочарован жалобами Украины во время Паралимпиады",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69b6e5f69a794724bc4c648d",
+    "publishedAt": "2026-03-15T17:22:30.000Z",
+    "createdAt": "2026-03-15T17:34:07.273Z",
+    "updatedAt": "2026-03-15T17:34:07.273Z"
+  },
+  {
+    "id": "e5b2e2f9ff3d6d7f",
+    "title": "Чемпион КХЛ «Локомотив» третий раз в сезоне проиграл минскому «Динамо»",
+    "sport": "Хоккей",
+    "category": "Хоккей",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/1/61/347735937191611.jpeg",
+    "teaser": "Чемпион КХЛ «Локомотив» третий раз в сезоне проиграл минскому «Динамо»",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69b6e30e9a7947062a7a1f59",
+    "publishedAt": "2026-03-15T16:53:07.000Z",
+    "createdAt": "2026-03-15T17:34:09.632Z",
+    "updatedAt": "2026-03-15T17:34:09.632Z"
+  },
+  {
+    "id": "6c6e5ea8525ae21f",
+    "title": "Российские гимнастки завоевали четыре золотые медали на этапе КМ в Турции",
+    "sport": "Другое",
+    "category": "Другие",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/7/85/347735924232857.jpeg",
+    "teaser": "Российские гимнастки завоевали четыре золотые медали на этапе КМ в Турции",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69b6df1c9a79473d3d4d0572",
+    "publishedAt": "2026-03-15T16:45:50.000Z",
+    "createdAt": "2026-03-15T17:34:08.437Z",
+    "updatedAt": "2026-03-15T17:34:08.437Z"
+  },
+  {
     "id": "d503f904b47b6761",
     "title": "Фернандеш побил 26-летний рекорд Бекхэма в «Манчестер Юнайтед»",
     "sport": "Футбол",
@@ -10,8 +52,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69b6d1609a7947c3e7dc03b4",
     "publishedAt": "2026-03-15T15:56:51.000Z",
-    "createdAt": "2026-03-15T16:38:48.962Z",
-    "updatedAt": "2026-03-15T16:38:48.962Z"
+    "createdAt": "2026-03-15T17:34:13.086Z",
+    "updatedAt": "2026-03-15T17:34:13.086Z"
   },
   {
     "id": "d2c027abe7fb8965",
@@ -24,8 +66,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69b6c8779a79477d47ef23ed",
     "publishedAt": "2026-03-15T15:28:51.000Z",
-    "createdAt": "2026-03-15T16:38:51.048Z",
-    "updatedAt": "2026-03-15T16:38:51.048Z"
+    "createdAt": "2026-03-15T17:34:15.326Z",
+    "updatedAt": "2026-03-15T17:34:15.326Z"
   },
   {
     "id": "7093768b6db243c7",
@@ -38,8 +80,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69b6c30d9a794714594c80ed",
     "publishedAt": "2026-03-15T14:51:13.000Z",
-    "createdAt": "2026-03-15T16:38:50.037Z",
-    "updatedAt": "2026-03-15T16:38:50.037Z"
+    "createdAt": "2026-03-15T17:34:14.198Z",
+    "updatedAt": "2026-03-15T17:34:14.198Z"
   },
   {
     "id": "55617209d3192893",
@@ -52,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69b6bf2f9a79477052c1066f",
     "publishedAt": "2026-03-15T14:26:14.000Z",
-    "createdAt": "2026-03-15T16:38:54.441Z",
-    "updatedAt": "2026-03-15T16:38:54.441Z"
+    "createdAt": "2026-03-15T17:34:16.441Z",
+    "updatedAt": "2026-03-15T17:34:16.441Z"
   },
   {
     "id": "74039a64e94fa665",
@@ -66,8 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69b6bc3a9a794713a6736674",
     "publishedAt": "2026-03-15T14:11:47.000Z",
-    "createdAt": "2026-03-15T16:38:55.506Z",
-    "updatedAt": "2026-03-15T16:38:55.506Z"
+    "createdAt": "2026-03-15T17:34:17.568Z",
+    "updatedAt": "2026-03-15T17:34:17.568Z"
   },
   {
     "id": "2c8211d1292fd672",
@@ -80,50 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69b518fc9a79476028498fd1",
     "publishedAt": "2026-03-15T13:43:26.000Z",
-    "createdAt": "2026-03-15T16:38:52.154Z",
-    "updatedAt": "2026-03-15T16:38:52.154Z"
-  },
-  {
-    "id": "068488176db87fa6",
-    "title": "УЕФА сообщил об отмене матча Финалиссимы между Испанией и Аргентиной",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/5/58/347735808573585.jpeg",
-    "teaser": "УЕФА сообщил об отмене матча Финалиссимы между Испанией и Аргентиной",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69b6b1d09a7947752494ff61",
-    "publishedAt": "2026-03-15T13:38:56.000Z",
-    "createdAt": "2026-03-15T16:38:57.653Z",
-    "updatedAt": "2026-03-15T16:38:57.653Z"
-  },
-  {
-    "id": "2b4b6d65215a43a5",
-    "title": "Россия с шестью спортсменами заняла третье место на Паралимпиаде",
-    "sport": "Другое",
-    "category": "Другие",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/5/90/347735749794905.jpeg",
-    "teaser": "Россия с шестью спортсменами заняла третье место на Паралимпиаде",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69b69b029a79476e650ea310",
-    "publishedAt": "2026-03-15T13:22:28.000Z",
-    "createdAt": "2026-03-15T16:38:56.584Z",
-    "updatedAt": "2026-03-15T16:38:56.584Z"
-  },
-  {
-    "id": "881dc437b2acddb1",
-    "title": "Горнолыжник Бугаев принес сборной России восьмое золото Паралимпиады",
-    "sport": "Другое",
-    "category": "Другие",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/6/26/347735784784266.jpeg",
-    "teaser": "Горнолыжник Бугаев принес сборной России восьмое золото Паралимпиады",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69b6a8c29a7947d1412b52ed",
-    "publishedAt": "2026-03-15T13:12:49.000Z",
-    "createdAt": "2026-03-15T16:38:58.758Z",
-    "updatedAt": "2026-03-15T16:38:58.758Z"
+    "createdAt": "2026-03-15T17:34:10.712Z",
+    "updatedAt": "2026-03-15T17:34:10.712Z"
   },
   {
     "id": "87de776f8a0956cd",
@@ -136,7 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69ad3b389a7947193d65a350",
     "publishedAt": "2026-03-15T06:00:47.000Z",
-    "createdAt": "2026-03-15T16:38:53.367Z",
-    "updatedAt": "2026-03-15T16:38:53.367Z"
+    "createdAt": "2026-03-15T17:34:12.032Z",
+    "updatedAt": "2026-03-15T17:34:12.032Z"
   }
 ]
