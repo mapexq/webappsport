@@ -1,5 +1,47 @@
 [
   {
+    "id": "18084bb1571990f0",
+    "title": "Биатлонист Халили выиграл гонку преследования на чемпионате России",
+    "sport": "Другое",
+    "category": "Биатлон",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/5/72/347735696684725.jpeg",
+    "teaser": "Биатлонист Халили выиграл гонку преследования на чемпионате России",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69b686159a79477107b1eae7",
+    "publishedAt": "2026-03-15T10:20:19.000Z",
+    "createdAt": "2026-03-15T10:36:34.066Z",
+    "updatedAt": "2026-03-15T10:36:34.066Z"
+  },
+  {
+    "id": "d9d391d399612776",
+    "title": "Россиянин стал лучшим в первом заезде в слаломе на Паралимпиаде",
+    "sport": "Другое",
+    "category": "Другие",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/0/23/347735686364230.jpeg",
+    "teaser": "Россиянин стал лучшим в первом заезде в слаломе на Паралимпиаде",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69b682519a794763612dceab",
+    "publishedAt": "2026-03-15T10:01:26.000Z",
+    "createdAt": "2026-03-15T10:36:35.066Z",
+    "updatedAt": "2026-03-15T10:36:35.066Z"
+  },
+  {
+    "id": "c777a20e8317d79d",
+    "title": "Биатлонистку лишили бронзы ЧР из‑за ошибки соперницы на огневом рубеже",
+    "sport": "Другое",
+    "category": "Биатлон",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/7/72/347735672975727.jpeg",
+    "teaser": "Биатлонистку лишили бронзы ЧР из‑за ошибки соперницы на огневом рубеже",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69b67c8b9a7947153695ebbb",
+    "publishedAt": "2026-03-15T09:45:32.000Z",
+    "createdAt": "2026-03-15T10:36:38.176Z",
+    "updatedAt": "2026-03-15T10:36:38.176Z"
+  },
+  {
     "id": "20c0e77e51b76bad",
     "title": "Лыжник Голубков принес сборной России шестое золото Паралимпиады",
     "sport": "Другое",
@@ -10,8 +52,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69b678f29a79474729178e1e",
     "publishedAt": "2026-03-15T09:25:25.000Z",
-    "createdAt": "2026-03-15T09:41:02.737Z",
-    "updatedAt": "2026-03-15T09:41:02.737Z"
+    "createdAt": "2026-03-15T10:36:36.120Z",
+    "updatedAt": "2026-03-15T10:36:36.120Z"
   },
   {
     "id": "d1d80a0feac6fec6",
@@ -24,8 +66,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69b676c49a79475e91e5a3b9",
     "publishedAt": "2026-03-15T09:14:59.000Z",
-    "createdAt": "2026-03-15T09:41:03.753Z",
-    "updatedAt": "2026-03-15T09:41:03.753Z"
+    "createdAt": "2026-03-15T10:36:39.160Z",
+    "updatedAt": "2026-03-15T10:36:39.160Z"
   },
   {
     "id": "897b6ab987a1cbf8",
@@ -38,8 +80,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69b674219a79474729178e02",
     "publishedAt": "2026-03-15T09:02:41.000Z",
-    "createdAt": "2026-03-15T09:41:04.742Z",
-    "updatedAt": "2026-03-15T09:41:04.742Z"
+    "createdAt": "2026-03-15T10:36:40.135Z",
+    "updatedAt": "2026-03-15T10:36:40.135Z"
   },
   {
     "id": "fe22b134630a19c5",
@@ -52,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69b66e789a7947828b5d331f",
     "publishedAt": "2026-03-15T08:40:35.000Z",
-    "createdAt": "2026-03-15T09:41:06.925Z",
-    "updatedAt": "2026-03-15T09:41:06.925Z"
+    "createdAt": "2026-03-15T10:36:41.121Z",
+    "updatedAt": "2026-03-15T10:36:41.121Z"
   },
   {
     "id": "f911bf825f68139a",
@@ -66,8 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69b66b5d9a79476b64f101c3",
     "publishedAt": "2026-03-15T08:40:04.000Z",
-    "createdAt": "2026-03-15T09:41:07.886Z",
-    "updatedAt": "2026-03-15T09:41:07.886Z"
+    "createdAt": "2026-03-15T10:36:42.137Z",
+    "updatedAt": "2026-03-15T10:36:42.137Z"
   },
   {
     "id": "67460d8478480f40",
@@ -80,50 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69b668aa9a7947082e143233",
     "publishedAt": "2026-03-15T08:14:50.000Z",
-    "createdAt": "2026-03-15T09:41:09.684Z",
-    "updatedAt": "2026-03-15T09:41:09.684Z"
-  },
-  {
-    "id": "33ef14d16aeb7021",
-    "title": "Гендиректор ЦСКА посоветовал Талалаеву обратиться к психотерапевту",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/9/15/347735607288159.jpeg",
-    "teaser": "Гендиректор ЦСКА посоветовал Талалаеву обратиться к психотерапевту",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69b663609a79478a23d65b8f",
-    "publishedAt": "2026-03-15T07:53:16.000Z",
-    "createdAt": "2026-03-15T09:41:10.717Z",
-    "updatedAt": "2026-03-15T09:41:10.717Z"
-  },
-  {
-    "id": "2289299f2b22abd9",
-    "title": "Российский хоккеист попал в нокдаун после силового приема в матче НХЛ",
-    "sport": "Хоккей",
-    "category": "Хоккей",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/5/19/347735597992195.jpeg",
-    "teaser": "Российский хоккеист попал в нокдаун после силового приема в матче НХЛ",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69b65fc79a794784678001b7",
-    "publishedAt": "2026-03-15T07:37:22.000Z",
-    "createdAt": "2026-03-15T09:41:11.742Z",
-    "updatedAt": "2026-03-15T09:41:11.742Z"
-  },
-  {
-    "id": "dfb17aa80a3fd766",
-    "title": "Российский форвард «Вегаса» сделал дубль во втором матче НХЛ подряд",
-    "sport": "Хоккей",
-    "category": "Хоккей",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/6/31/347735590335316.jpeg",
-    "teaser": "Российский форвард «Вегаса» сделал дубль во втором матче НХЛ подряд",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69b65cba9a79471adf2d22c4",
-    "publishedAt": "2026-03-15T07:23:19.000Z",
-    "createdAt": "2026-03-15T09:41:12.736Z",
-    "updatedAt": "2026-03-15T09:41:12.736Z"
+    "createdAt": "2026-03-15T10:36:43.174Z",
+    "updatedAt": "2026-03-15T10:36:43.174Z"
   },
   {
     "id": "87de776f8a0956cd",
@@ -136,7 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69ad3b389a7947193d65a350",
     "publishedAt": "2026-03-15T06:00:47.000Z",
-    "createdAt": "2026-03-15T09:41:05.929Z",
-    "updatedAt": "2026-03-15T09:41:05.929Z"
+    "createdAt": "2026-03-15T10:36:37.299Z",
+    "updatedAt": "2026-03-15T10:36:37.299Z"
   }
 ]
