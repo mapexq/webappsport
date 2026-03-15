@@ -1,5 +1,47 @@
 [
   {
+    "id": "20c0e77e51b76bad",
+    "title": "Лыжник Голубков принес сборной России шестое золото Паралимпиады",
+    "sport": "Другое",
+    "category": "Другие",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/2/03/347735662482032.jpeg",
+    "teaser": "Лыжник Голубков принес сборной России шестое золото Паралимпиады",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69b678f29a79474729178e1e",
+    "publishedAt": "2026-03-15T09:25:25.000Z",
+    "createdAt": "2026-03-15T09:41:02.737Z",
+    "updatedAt": "2026-03-15T09:41:02.737Z"
+  },
+  {
+    "id": "d1d80a0feac6fec6",
+    "title": "Головин установил личный рекорд по результативной серии в «Монако»",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/6/03/347735657051036.jpeg",
+    "teaser": "Головин установил личный рекорд по результативной серии в «Монако»",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69b676c49a79475e91e5a3b9",
+    "publishedAt": "2026-03-15T09:14:59.000Z",
+    "createdAt": "2026-03-15T09:41:03.753Z",
+    "updatedAt": "2026-03-15T09:41:03.753Z"
+  },
+  {
+    "id": "897b6ab987a1cbf8",
+    "title": "Льюис Хэмилтон впервые попал на подиум в «Формуле-1» в составе Ferrari",
+    "sport": "Другое",
+    "category": "Формула-1",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/1/00/347735650026001.jpeg",
+    "teaser": "Льюис Хэмилтон впервые попал на подиум в «Формуле-1» в составе Ferrari",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69b674219a79474729178e02",
+    "publishedAt": "2026-03-15T09:02:41.000Z",
+    "createdAt": "2026-03-15T09:41:04.742Z",
+    "updatedAt": "2026-03-15T09:41:04.742Z"
+  },
+  {
     "id": "fe22b134630a19c5",
     "title": "Антонелли стал вторым самым молодым победителем Гран-при «Формулы-1»",
     "sport": "Другое",
@@ -10,8 +52,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69b66e789a7947828b5d331f",
     "publishedAt": "2026-03-15T08:40:35.000Z",
-    "createdAt": "2026-03-15T08:44:51.888Z",
-    "updatedAt": "2026-03-15T08:44:51.888Z"
+    "createdAt": "2026-03-15T09:41:06.925Z",
+    "updatedAt": "2026-03-15T09:41:06.925Z"
   },
   {
     "id": "f911bf825f68139a",
@@ -24,8 +66,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69b66b5d9a79476b64f101c3",
     "publishedAt": "2026-03-15T08:40:04.000Z",
-    "createdAt": "2026-03-15T08:44:52.950Z",
-    "updatedAt": "2026-03-15T08:44:52.950Z"
+    "createdAt": "2026-03-15T09:41:07.886Z",
+    "updatedAt": "2026-03-15T09:41:07.886Z"
   },
   {
     "id": "67460d8478480f40",
@@ -38,8 +80,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69b668aa9a7947082e143233",
     "publishedAt": "2026-03-15T08:14:50.000Z",
-    "createdAt": "2026-03-15T08:44:54.094Z",
-    "updatedAt": "2026-03-15T08:44:54.094Z"
+    "createdAt": "2026-03-15T09:41:09.684Z",
+    "updatedAt": "2026-03-15T09:41:09.684Z"
   },
   {
     "id": "33ef14d16aeb7021",
@@ -52,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69b663609a79478a23d65b8f",
     "publishedAt": "2026-03-15T07:53:16.000Z",
-    "createdAt": "2026-03-15T08:44:56.503Z",
-    "updatedAt": "2026-03-15T08:44:56.503Z"
+    "createdAt": "2026-03-15T09:41:10.717Z",
+    "updatedAt": "2026-03-15T09:41:10.717Z"
   },
   {
     "id": "2289299f2b22abd9",
@@ -66,22 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69b65fc79a794784678001b7",
     "publishedAt": "2026-03-15T07:37:22.000Z",
-    "createdAt": "2026-03-15T08:44:57.620Z",
-    "updatedAt": "2026-03-15T08:44:57.620Z"
-  },
-  {
-    "id": "be13ca0629a2d309",
-    "title": "«Лучший в истории». Как фильм о «Ф-1» стал самым кассовым в карьере Питта",
-    "sport": "Другое",
-    "category": "Формула-1",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/7/24/347507796024247.jpeg",
-    "teaser": "«Лучший в истории». Как фильм о «Ф-1» стал самым кассовым в карьере Питта",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6892717b9a79472b7abb47b8",
-    "publishedAt": "2026-03-15T07:33:56.000Z",
-    "createdAt": "2026-03-15T08:45:01.074Z",
-    "updatedAt": "2026-03-15T08:45:01.074Z"
+    "createdAt": "2026-03-15T09:41:11.742Z",
+    "updatedAt": "2026-03-15T09:41:11.742Z"
   },
   {
     "id": "dfb17aa80a3fd766",
@@ -94,22 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69b65cba9a79471adf2d22c4",
     "publishedAt": "2026-03-15T07:23:19.000Z",
-    "createdAt": "2026-03-15T08:44:58.755Z",
-    "updatedAt": "2026-03-15T08:44:58.755Z"
-  },
-  {
-    "id": "318847beab4a9652",
-    "title": "Сборная Украины решила бойкотировать церемонию закрытия Паралимпиады",
-    "sport": "Другое",
-    "category": "Другие",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/9/35/347735585327359.jpeg",
-    "teaser": "Сборная Украины решила бойкотировать церемонию закрытия Паралимпиады",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69b65a869a794701f658098b",
-    "publishedAt": "2026-03-15T07:12:26.000Z",
-    "createdAt": "2026-03-15T08:44:59.921Z",
-    "updatedAt": "2026-03-15T08:44:59.921Z"
+    "createdAt": "2026-03-15T09:41:12.736Z",
+    "updatedAt": "2026-03-15T09:41:12.736Z"
   },
   {
     "id": "87de776f8a0956cd",
@@ -122,21 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69ad3b389a7947193d65a350",
     "publishedAt": "2026-03-15T06:00:47.000Z",
-    "createdAt": "2026-03-15T08:44:55.440Z",
-    "updatedAt": "2026-03-15T08:44:55.440Z"
-  },
-  {
-    "id": "f253c531ff4cadac",
-    "title": "«Формула-1» подтвердила отмену Гран-при в двух странах на Ближнем Востоке",
-    "sport": "Другое",
-    "category": "Формула-1",
-    "imageUrl": "/images/news-placeholder.jpg",
-    "teaser": "«Формула-1» подтвердила отмену Гран-при в двух странах на Ближнем Востоке",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69b5ee449a79476657f1c495",
-    "publishedAt": "2026-03-15T00:09:57.000Z",
-    "createdAt": "2026-03-15T08:45:03.125Z",
-    "updatedAt": "2026-03-15T08:45:03.126Z"
+    "createdAt": "2026-03-15T09:41:05.929Z",
+    "updatedAt": "2026-03-15T09:41:05.929Z"
   }
 ]
