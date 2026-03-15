@@ -1,5 +1,19 @@
 [
   {
+    "id": "b88685eaf50eed78",
+    "title": "Тарпищев заявил, что с Алькарасом Медведев показал свой лучший",
+    "sport": "Теннис",
+    "category": "Теннис",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/4/20/347735719528204.jpeg",
+    "teaser": "Тарпищев заявил, что с Алькарасом Медведев показал свой лучший",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69b68f3f9a79473798f77a32",
+    "publishedAt": "2026-03-15T10:59:44.000Z",
+    "createdAt": "2026-03-15T11:32:18.302Z",
+    "updatedAt": "2026-03-15T11:32:18.302Z"
+  },
+  {
     "id": "18084bb1571990f0",
     "title": "Биатлонист Халили выиграл гонку преследования на чемпионате России",
     "sport": "Другое",
@@ -10,8 +24,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69b686159a79477107b1eae7",
     "publishedAt": "2026-03-15T10:20:19.000Z",
-    "createdAt": "2026-03-15T10:36:34.066Z",
-    "updatedAt": "2026-03-15T10:36:34.066Z"
+    "createdAt": "2026-03-15T11:32:19.354Z",
+    "updatedAt": "2026-03-15T11:32:19.354Z"
   },
   {
     "id": "d9d391d399612776",
@@ -24,8 +38,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69b682519a794763612dceab",
     "publishedAt": "2026-03-15T10:01:26.000Z",
-    "createdAt": "2026-03-15T10:36:35.066Z",
-    "updatedAt": "2026-03-15T10:36:35.066Z"
+    "createdAt": "2026-03-15T11:32:20.416Z",
+    "updatedAt": "2026-03-15T11:32:20.416Z"
   },
   {
     "id": "c777a20e8317d79d",
@@ -38,8 +52,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69b67c8b9a7947153695ebbb",
     "publishedAt": "2026-03-15T09:45:32.000Z",
-    "createdAt": "2026-03-15T10:36:38.176Z",
-    "updatedAt": "2026-03-15T10:36:38.176Z"
+    "createdAt": "2026-03-15T11:32:23.815Z",
+    "updatedAt": "2026-03-15T11:32:23.815Z"
   },
   {
     "id": "20c0e77e51b76bad",
@@ -52,8 +66,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69b678f29a79474729178e1e",
     "publishedAt": "2026-03-15T09:25:25.000Z",
-    "createdAt": "2026-03-15T10:36:36.120Z",
-    "updatedAt": "2026-03-15T10:36:36.120Z"
+    "createdAt": "2026-03-15T11:32:22.720Z",
+    "updatedAt": "2026-03-15T11:32:22.720Z"
   },
   {
     "id": "d1d80a0feac6fec6",
@@ -66,8 +80,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69b676c49a79475e91e5a3b9",
     "publishedAt": "2026-03-15T09:14:59.000Z",
-    "createdAt": "2026-03-15T10:36:39.160Z",
-    "updatedAt": "2026-03-15T10:36:39.160Z"
+    "createdAt": "2026-03-15T11:32:24.887Z",
+    "updatedAt": "2026-03-15T11:32:24.887Z"
   },
   {
     "id": "897b6ab987a1cbf8",
@@ -80,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69b674219a79474729178e02",
     "publishedAt": "2026-03-15T09:02:41.000Z",
-    "createdAt": "2026-03-15T10:36:40.135Z",
-    "updatedAt": "2026-03-15T10:36:40.135Z"
+    "createdAt": "2026-03-15T11:32:25.939Z",
+    "updatedAt": "2026-03-15T11:32:25.939Z"
   },
   {
     "id": "fe22b134630a19c5",
@@ -94,8 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69b66e789a7947828b5d331f",
     "publishedAt": "2026-03-15T08:40:35.000Z",
-    "createdAt": "2026-03-15T10:36:41.121Z",
-    "updatedAt": "2026-03-15T10:36:41.121Z"
+    "createdAt": "2026-03-15T11:32:27.003Z",
+    "updatedAt": "2026-03-15T11:32:27.003Z"
   },
   {
     "id": "f911bf825f68139a",
@@ -108,22 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69b66b5d9a79476b64f101c3",
     "publishedAt": "2026-03-15T08:40:04.000Z",
-    "createdAt": "2026-03-15T10:36:42.137Z",
-    "updatedAt": "2026-03-15T10:36:42.137Z"
-  },
-  {
-    "id": "67460d8478480f40",
-    "title": "Алькарас похвалил игру Медведева в полуфинале «Мастерс» в Индиан-Уэллсе",
-    "sport": "Теннис",
-    "category": "Теннис",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/8/25/347735620751258.jpeg",
-    "teaser": "Алькарас похвалил игру Медведева в полуфинале «Мастерс» в Индиан-Уэллсе",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69b668aa9a7947082e143233",
-    "publishedAt": "2026-03-15T08:14:50.000Z",
-    "createdAt": "2026-03-15T10:36:43.174Z",
-    "updatedAt": "2026-03-15T10:36:43.174Z"
+    "createdAt": "2026-03-15T11:32:28.059Z",
+    "updatedAt": "2026-03-15T11:32:28.059Z"
   },
   {
     "id": "87de776f8a0956cd",
@@ -136,7 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69ad3b389a7947193d65a350",
     "publishedAt": "2026-03-15T06:00:47.000Z",
-    "createdAt": "2026-03-15T10:36:37.299Z",
-    "updatedAt": "2026-03-15T10:36:37.299Z"
+    "createdAt": "2026-03-15T11:32:21.661Z",
+    "updatedAt": "2026-03-15T11:32:21.661Z"
   }
 ]
