@@ -183,17 +183,10 @@ export function BonusesTab() {
 
   useEffect(() => {
     let mounted = true;
-    
-    // Initial fetch
     fetchConfig(mounted);
-
-    // Refresh when window/app gets focus
     const handleFocus = () => fetchConfig(mounted);
     window.addEventListener('focus', handleFocus);
-    
-    // Periodical refresh every 30 seconds while the tab is open
     const interval = setInterval(() => fetchConfig(mounted), 30000);
-
     return () => { 
       mounted = false; 
       window.removeEventListener('focus', handleFocus);
