@@ -1,6 +1,6 @@
 [
   {
-    "id": 1773693978857,
+    "id": 1773697626165,
     "eventName": "Краснодар — ЦСКА",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -16,71 +16,71 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1773693978858,
-    "eventName": "Спартак Москва — Динамо Москва",
-    "discipline": "Хоккей",
-    "tournament": "Чемпионат",
-    "expert": {
-      "name": "Сергей Гориславец",
-      "avatar": "https://wp1.bookmaker-ratings.ru/bookmaker-ratings.ru/wp-content/uploads/2025/06/A55E5521-F251-409B-9872-CFCC8E629075-684340c122a2a.jpg?ssl=1&w=60",
-      "status": "expert",
-      "winRate": 69
-    },
-    "prediction": "Тотал больше (4.5)",
-    "odds": 1.55,
-    "comment": "С учётом мотивации и атакующего потенциала обеих команд, жду открытый хоккей и не меньше пяти шайб в матче.",
-    "source": "Sports Analytics Pro"
-  },
-  {
-    "id": 1773693978859,
-    "eventName": "Торпедо Москва — Нефтехимик",
+    "id": 1773697626166,
+    "eventName": "Кремонезе — Фиорентина",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
     "expert": {
-      "name": "Илья Апекишев",
+      "name": "Дмитрий Батуев",
       "avatar": "https://bookmaker-ratings.ru/static/images/badges/is-kapper.svg?v=30092024",
       "status": "expert",
-      "winRate": 89
+      "winRate": 82
     },
-    "prediction": "Тотал Торпедо Москва больше (1)",
-    "odds": 1.62,
-    "comment": "Торпедо очки нужнее. Дома надо брать своё и обезопасить себя от вылета. По личкам в Москве Торпедо часто забивали два и больше гола.",
-    "source": "Sports Analytics Pro"
-  },
-  {
-    "id": 1773693978860,
-    "eventName": "Торпедо Москва — Нефтехимик",
-    "discipline": "Футбол",
-    "tournament": "Чемпионат",
-    "expert": {
-      "name": "Игорь Максимумов",
-      "avatar": "https://wp1.bookmaker-ratings.ru/bookmaker-ratings.ru/wp-content/uploads/2025/12/01CD23D0-4614-442C-A722-6D1E328DBACB-693c0d6b8f669.jpg?ssl=1&w=60",
-      "status": "expert",
-      "winRate": 89
-    },
-    "prediction": "Обе забьют (Да)",
-    "odds": 2.23,
-    "comment": "Нефтехимик неплохо играет в гостях в этом сезоне , а Торпедо явно нестабилен по ходу сезона, несмотря на яркие перспективы после первой половины сезона , Родина быстро спустила все мечты хозяев в яркую реальность что клуб будет максимум середняком в этом сезоне. Думаю гости сегодня это покажут наглядно так как проблемы у хозяев поля никуда не делись , но Торпедо думаю забьет из-за крайне мотивационной тренера на матчи такого характера.",
-    "source": "Sports Analytics Pro"
-  },
-  {
-    "id": 1773693978861,
-    "eventName": "Спартак Москва — Динамо Москва",
-    "discipline": "Хоккей",
-    "tournament": "Чемпионат",
-    "expert": {
-      "name": "Спартак Москва",
-      "avatar": "https://wp1.bookmaker-ratings.ru/bookmaker-ratings.ru/wp-content/uploads/2025/01/3FD0F34F-4568-4FDE-91B9-19203C3F61F0-6776e63138130.jpg?ssl=1&w=60",
-      "status": "expert",
-      "winRate": 77
-    },
-    "prediction": "Тотал больше (5.5)",
-    "odds": 2.08,
+    "prediction": "Индивидуальный тотал 1 Больше (0.5)",
+    "odds": 1.46,
     "comment": "Комментарий к прогнозу",
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1773693978862,
+    "id": 1773697626167,
+    "eventName": "Кремонезе — Фиорентина",
+    "discipline": "Футбол",
+    "tournament": "Чемпионат",
+    "expert": {
+      "name": "Евгений Великий",
+      "avatar": "https://bookmaker-ratings.ru/static/images/badges/is-kapper.svg?v=30092024",
+      "status": "expert",
+      "winRate": 76
+    },
+    "prediction": "1Х",
+    "odds": 1.87,
+    "comment": "Смело берем 1 х, много голов не будет.Скорее всего матч закончат 1:1",
+    "source": "Sports Analytics Pro"
+  },
+  {
+    "id": 1773697626168,
+    "eventName": "Кремонезе — Фиорентина",
+    "discipline": "Футбол",
+    "tournament": "Чемпионат",
+    "expert": {
+      "name": "Тотал Кремонезе",
+      "avatar": "https://wp1.bookmaker-ratings.ru/bookmaker-ratings.ru/wp-content/uploads/2025/01/3FD0F34F-4568-4FDE-91B9-19203C3F61F0-6776e63138130.jpg?ssl=1&w=60",
+      "status": "expert",
+      "winRate": 68
+    },
+    "prediction": "Тотал Кремонезе больше (1.5)",
+    "odds": 3.46,
+    "comment": "Думаю хозяева поля смогут забить 2 гола в этом матче",
+    "source": "Sports Analytics Pro"
+  },
+  {
+    "id": 1773697626169,
+    "eventName": "Кремонезе — Фиорентина",
+    "discipline": "Футбол",
+    "tournament": "Чемпионат",
+    "expert": {
+      "name": "Лиге Конференций",
+      "avatar": "https://wp0.bookmaker-ratings.ru/bookmaker-ratings.ru/wp-content/uploads/2026/03/5339F5DC-DB9F-4D8C-8AE1-28818999E3B6-rb-webp-69ac6812c0a85-69ac6812c2b34.webp?ssl=1&w=60",
+      "status": "expert",
+      "winRate": 84
+    },
+    "prediction": "1Х",
+    "odds": 1.89,
+    "comment": "Обе команды не сверкают в Серии А, но если к Кремонезе ещё без претензий, то от Фиорентины ожидают большего. Хозяева способны бороться и вполне им по силам урвать одно очко в этом матче. Не жду яркой игры от Фиорентины, да и команда недавно играла и в Лиге Конференций. Их ничья тоже вполне устроит, хотя очки вроде как нужны.",
+    "source": "Sports Analytics Pro"
+  },
+  {
+    "id": 1773697626170,
     "eventName": "Рейнджерс — Лос-Анджелес",
     "discipline": "Хоккей",
     "tournament": "НХЛ",
@@ -96,7 +96,7 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1773693978863,
+    "id": 1773697626171,
     "eventName": "Даллас — Юта",
     "discipline": "Хоккей",
     "tournament": "Чемпионат",
@@ -112,7 +112,7 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1773693978864,
+    "id": 1773697626173,
     "eventName": "Колорадо — Питтсбург",
     "discipline": "Хоккей",
     "tournament": "НХЛ",
@@ -128,7 +128,7 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1773693978865,
+    "id": 1773697626174,
     "eventName": "Спортинг — Буде/Глимт",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -144,7 +144,7 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1773693978866,
+    "id": 1773697626175,
     "eventName": "Манчестер Сити — Реал Мадрид",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
