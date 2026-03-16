@@ -1,5 +1,75 @@
 [
   {
+    "id": "14337701552396ff",
+    "title": "Тарпищев словами «он вернулся» оценил игру Медведева",
+    "sport": "Теннис",
+    "category": "Теннис",
+    "imageUrl": "/images/news-placeholder.jpg",
+    "teaser": "Тарпищев словами «он вернулся» оценил игру Медведева",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69b80f5f9a7947aac94c7259",
+    "publishedAt": "2026-03-16T14:54:22.000Z",
+    "createdAt": "2026-03-16T15:06:32.405Z",
+    "updatedAt": "2026-03-16T15:06:32.405Z"
+  },
+  {
+    "id": "9294cd7f542a9830",
+    "title": "«Челси» оштрафовали на £10,75 млн за финансовые нарушения",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/3/91/347736706618913.jpeg",
+    "teaser": "«Челси» оштрафовали на £10,75 млн за финансовые нарушения",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69b8071c9a7947f0e394e00f",
+    "publishedAt": "2026-03-16T14:26:50.000Z",
+    "createdAt": "2026-03-16T15:06:35.471Z",
+    "updatedAt": "2026-03-16T15:06:35.471Z"
+  },
+  {
+    "id": "f07de10595daa8ed",
+    "title": "Ирландский боец UFC заявил, что не верит в травму Махачева",
+    "sport": "Единоборства",
+    "category": "Единоборства",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/5/78/347736688665785.jpeg",
+    "teaser": "Ирландский боец UFC заявил, что не верит в травму Махачева",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69b805809a7947586334c585",
+    "publishedAt": "2026-03-16T14:01:29.000Z",
+    "createdAt": "2026-03-16T15:06:33.422Z",
+    "updatedAt": "2026-03-16T15:06:33.422Z"
+  },
+  {
+    "id": "f8bf3ac8404ebea5",
+    "title": "Обвиняемому в убийстве женщины футболисту не будут платить зарплату",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/1/97/347736644402971.jpeg",
+    "teaser": "Обвиняемому в убийстве женщины футболисту не будут платить зарплату",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69b7f2b89a7947361cd1a8df",
+    "publishedAt": "2026-03-16T13:57:00.000Z",
+    "createdAt": "2026-03-16T15:06:36.369Z",
+    "updatedAt": "2026-03-16T15:06:36.369Z"
+  },
+  {
+    "id": "ae4b7edc0de36469",
+    "title": "Россиянин возглавил рейтинг лучших молодых полузащитников не из топ-5 лиг",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/8/68/347736668127688.png",
+    "teaser": "Россиянин возглавил рейтинг лучших молодых полузащитников не из топ-5 лиг",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69b7fe7c9a794712440e7e68",
+    "publishedAt": "2026-03-16T13:28:11.000Z",
+    "createdAt": "2026-03-16T15:06:37.612Z",
+    "updatedAt": "2026-03-16T15:06:37.612Z"
+  },
+  {
     "id": "3874e48302116f64",
     "title": "КДК РФС рассмотрит поведение тренеров Челестини и Талалаева в матче РПЛ",
     "sport": "Футбол",
@@ -10,8 +80,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69b7fb1d9a794715ff001613",
     "publishedAt": "2026-03-16T13:13:24.000Z",
-    "createdAt": "2026-03-16T13:26:01.370Z",
-    "updatedAt": "2026-03-16T13:26:01.370Z"
+    "createdAt": "2026-03-16T15:06:39.649Z",
+    "updatedAt": "2026-03-16T15:06:39.649Z"
   },
   {
     "id": "573127a208d2e4e6",
@@ -24,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69b7f71a9a79471975c916a5",
     "publishedAt": "2026-03-16T12:53:09.000Z",
-    "createdAt": "2026-03-16T13:26:04.744Z",
-    "updatedAt": "2026-03-16T13:26:04.744Z"
+    "createdAt": "2026-03-16T15:06:41.936Z",
+    "updatedAt": "2026-03-16T15:06:41.936Z"
   },
   {
     "id": "bf5eae808e3156f7",
@@ -38,22 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69b7f1749a794798ed4d9d2a",
     "publishedAt": "2026-03-16T12:51:38.000Z",
-    "createdAt": "2026-03-16T13:26:00.264Z",
-    "updatedAt": "2026-03-16T13:26:00.264Z"
-  },
-  {
-    "id": "be3947f66309bf46",
-    "title": "Sport.es узнал о продлении контракта «Барселоны» с тренером Фликом",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/5/33/347736620849335.jpeg",
-    "teaser": "Sport.es узнал о продлении контракта «Барселоны» с тренером Фликом",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69b7ea869a79471b4a053c9b",
-    "publishedAt": "2026-03-16T12:22:42.000Z",
-    "createdAt": "2026-03-16T13:26:06.122Z",
-    "updatedAt": "2026-03-16T13:26:06.122Z"
+    "createdAt": "2026-03-16T15:06:38.631Z",
+    "updatedAt": "2026-03-16T15:06:38.631Z"
   },
   {
     "id": "006b5aff0945224c",
@@ -66,64 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69b7e7639a794773d844e710",
     "publishedAt": "2026-03-16T12:16:09.000Z",
-    "createdAt": "2026-03-16T13:26:03.718Z",
-    "updatedAt": "2026-03-16T13:26:03.718Z"
-  },
-  {
-    "id": "da71118047c5ac2c",
-    "title": "Мбаппе и Беллингем поехали с «Реалом» на матч с «Манчестер Сити»",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/5/07/347736588914075.jpeg",
-    "teaser": "Мбаппе и Беллингем поехали с «Реалом» на матч с «Манчестер Сити»",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69b7e2df9a7947ed8454ef7e",
-    "publishedAt": "2026-03-16T11:27:05.000Z",
-    "createdAt": "2026-03-16T13:26:09.272Z",
-    "updatedAt": "2026-03-16T13:26:09.272Z"
-  },
-  {
-    "id": "275cc6382a353e8d",
-    "title": "Тюкавин назвал успех «Динамо» заслугой тренера Гусева, а не Карпина",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/8/61/347736576482618.jpeg",
-    "teaser": "Тюкавин назвал успех «Динамо» заслугой тренера Гусева, а не Карпина",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69b7d6cf9a7947e81def17ec",
-    "publishedAt": "2026-03-16T11:17:52.000Z",
-    "createdAt": "2026-03-16T13:26:08.224Z",
-    "updatedAt": "2026-03-16T13:26:08.224Z"
-  },
-  {
-    "id": "40bef38edbad3f86",
-    "title": "ESPN узнал о разочаровании Месси из-за отмены Финалиссимы",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/5/40/347736566580405.jpeg",
-    "teaser": "ESPN узнал о разочаровании Месси из-за отмены Финалиссимы",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69b7da1f9a79474e9b731828",
-    "publishedAt": "2026-03-16T10:45:40.000Z",
-    "createdAt": "2026-03-16T13:26:07.237Z",
-    "updatedAt": "2026-03-16T13:26:07.237Z"
-  },
-  {
-    "id": "e74ad544da1c4cc0",
-    "title": "В Кремле назвали блистательным выступление россиян на Паралимпиаде",
-    "sport": "Другое",
-    "category": "Другие",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/5/46/347736550415465.png",
-    "teaser": "В Кремле назвали блистательным выступление россиян на Паралимпиаде",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69b7d1799a79474e8583d9d0",
-    "publishedAt": "2026-03-16T10:12:17.000Z",
-    "createdAt": "2026-03-16T13:26:10.363Z",
-    "updatedAt": "2026-03-16T13:26:10.363Z"
+    "createdAt": "2026-03-16T15:06:40.922Z",
+    "updatedAt": "2026-03-16T15:06:40.922Z"
   },
   {
     "id": "d02ca69280ac28ba",
@@ -136,7 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69b7b1e39a794732bb7fa5bc",
     "publishedAt": "2026-03-16T08:45:51.000Z",
-    "createdAt": "2026-03-16T13:26:02.455Z",
-    "updatedAt": "2026-03-16T13:26:02.455Z"
+    "createdAt": "2026-03-16T15:06:34.445Z",
+    "updatedAt": "2026-03-16T15:06:34.445Z"
   }
 ]
