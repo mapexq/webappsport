@@ -1,5 +1,19 @@
 [
   {
+    "id": "9f304c47f6ba3f98",
+    "title": "«Динамо» победило «Спартак» в серии буллитов с 13 промахами",
+    "sport": "Хоккей",
+    "category": "Хоккей",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/6/70/347736873069706.png",
+    "teaser": "«Динамо» победило «Спартак» в серии буллитов с 13 промахами",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69b848a79a794740e04e5ad3",
+    "publishedAt": "2026-03-16T19:11:48.000Z",
+    "createdAt": "2026-03-16T20:46:24.836Z",
+    "updatedAt": "2026-03-16T20:46:24.836Z"
+  },
+  {
     "id": "2ae72ad3c247f02a",
     "title": "Стала известна первая пара плей-офф КХЛ",
     "sport": "Хоккей",
@@ -10,8 +24,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69b84d039a7947b214d6de2a",
     "publishedAt": "2026-03-16T18:49:58.000Z",
-    "createdAt": "2026-03-16T19:12:02.621Z",
-    "updatedAt": "2026-03-16T19:12:02.621Z"
+    "createdAt": "2026-03-16T20:46:28.591Z",
+    "updatedAt": "2026-03-16T20:46:28.591Z"
   },
   {
     "id": "87be573775aeb2e2",
@@ -24,8 +38,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69b844029a79477dc04eca49",
     "publishedAt": "2026-03-16T18:46:36.000Z",
-    "createdAt": "2026-03-16T19:12:10.674Z",
-    "updatedAt": "2026-03-16T19:12:10.674Z"
+    "createdAt": "2026-03-16T20:46:35.342Z",
+    "updatedAt": "2026-03-16T20:46:35.342Z"
   },
   {
     "id": "22144f0b0933636e",
@@ -38,8 +52,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69b844fc9a794749b76ae863",
     "publishedAt": "2026-03-16T18:13:19.000Z",
-    "createdAt": "2026-03-16T19:12:06.629Z",
-    "updatedAt": "2026-03-16T19:12:06.629Z"
+    "createdAt": "2026-03-16T20:46:30.777Z",
+    "updatedAt": "2026-03-16T20:46:30.777Z"
   },
   {
     "id": "57558eed862db3a3",
@@ -52,8 +66,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69b83bd89a79474f11440e94",
     "publishedAt": "2026-03-16T18:07:44.000Z",
-    "createdAt": "2026-03-16T19:12:05.614Z",
-    "updatedAt": "2026-03-16T19:12:05.614Z"
+    "createdAt": "2026-03-16T20:46:29.711Z",
+    "updatedAt": "2026-03-16T20:46:29.711Z"
   },
   {
     "id": "af401a6f911c19bf",
@@ -66,8 +80,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69b839c39a7947144f94c3e7",
     "publishedAt": "2026-03-16T17:36:54.000Z",
-    "createdAt": "2026-03-16T19:12:03.633Z",
-    "updatedAt": "2026-03-16T19:12:03.633Z"
+    "createdAt": "2026-03-16T20:46:26.089Z",
+    "updatedAt": "2026-03-16T20:46:26.089Z"
   },
   {
     "id": "1fc114d400e0cb6e",
@@ -80,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69b824d69a794720fe42e660",
     "publishedAt": "2026-03-16T17:07:21.000Z",
-    "createdAt": "2026-03-16T19:12:07.664Z",
-    "updatedAt": "2026-03-16T19:12:07.664Z"
+    "createdAt": "2026-03-16T20:46:31.904Z",
+    "updatedAt": "2026-03-16T20:46:31.904Z"
   },
   {
     "id": "9b1f24859a62ca20",
@@ -94,8 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69b8305b9a7947409d833495",
     "publishedAt": "2026-03-16T16:47:31.000Z",
-    "createdAt": "2026-03-16T19:12:08.686Z",
-    "updatedAt": "2026-03-16T19:12:08.686Z"
+    "createdAt": "2026-03-16T20:46:33.016Z",
+    "updatedAt": "2026-03-16T20:46:33.016Z"
   },
   {
     "id": "d02ca69280ac28ba",
@@ -108,8 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69b7b1e39a794732bb7fa5bc",
     "publishedAt": "2026-03-16T08:45:51.000Z",
-    "createdAt": "2026-03-16T19:12:04.621Z",
-    "updatedAt": "2026-03-16T19:12:04.621Z"
+    "createdAt": "2026-03-16T20:46:27.347Z",
+    "updatedAt": "2026-03-16T20:46:27.347Z"
   },
   {
     "id": "49b7dabb37f65102",
@@ -122,21 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6892717b9a79472b7abb47b8",
     "publishedAt": "2026-03-16T07:33:56.000Z",
-    "createdAt": "2026-03-16T19:12:09.686Z",
-    "updatedAt": "2026-03-16T19:12:09.686Z"
-  },
-  {
-    "id": "906dbe177a87572f",
-    "title": "Рос сиротой, палки на скотче. Кто из россиян взял медали на Паралимпиаде",
-    "sport": "Другое",
-    "category": "Другие",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/4/05/347735914415054.jpeg",
-    "teaser": "Рос сиротой, палки на скотче. Кто из россиян взял медали на Паралимпиаде",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69b6ae499a7947c1c5ce2441",
-    "publishedAt": "2026-03-15T21:01:18.000Z",
-    "createdAt": "2026-03-16T19:12:11.873Z",
-    "updatedAt": "2026-03-16T19:12:11.873Z"
+    "createdAt": "2026-03-16T20:46:34.177Z",
+    "updatedAt": "2026-03-16T20:46:34.177Z"
   }
 ]
