@@ -1,5 +1,61 @@
 [
   {
+    "id": "2ee183225076c3e8",
+    "title": "Малкин заявил о желании играть в «Питтсбурге» еще два года",
+    "sport": "Хоккей",
+    "category": "Хоккей",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/4/57/347737351632574.jpeg",
+    "teaser": "Малкин заявил о желании играть в «Питтсбурге» еще два года",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69b907409a79474656816516",
+    "publishedAt": "2026-03-17T08:43:04.000Z",
+    "createdAt": "2026-03-17T09:02:02.821Z",
+    "updatedAt": "2026-03-17T09:02:02.821Z"
+  },
+  {
+    "id": "ef40d63b4a84f9d0",
+    "title": "Малкин назвал своей большой ошибкой пятиматчевую дисквалификацию в НХЛ",
+    "sport": "Хоккей",
+    "category": "Хоккей",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/7/61/347737335616617.jpeg",
+    "teaser": "Малкин назвал своей большой ошибкой пятиматчевую дисквалификацию в НХЛ",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69b906749a7947ec5f59d6c1",
+    "publishedAt": "2026-03-17T08:21:34.000Z",
+    "createdAt": "2026-03-17T09:02:03.942Z",
+    "updatedAt": "2026-03-17T09:02:03.942Z"
+  },
+  {
+    "id": "86d4a6c4b9da1e3d",
+    "title": "Суд в Москве вынес приговор бойцу ММА по делу об осквернении памятника",
+    "sport": "Единоборства",
+    "category": "Единоборства",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/6/37/347737342920376.jpeg",
+    "teaser": "Суд в Москве вынес приговор бойцу ММА по делу об осквернении памятника",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69b907a09a794771aeefe39e",
+    "publishedAt": "2026-03-17T08:18:14.000Z",
+    "createdAt": "2026-03-17T09:02:05.968Z",
+    "updatedAt": "2026-03-17T09:02:05.968Z"
+  },
+  {
+    "id": "8a4b996e9bf0f82d",
+    "title": "В Иране сообщили о переговорах насчет матчей ЧМ в Мексике вместо США",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/8/88/347737325716888.jpeg",
+    "teaser": "В Иране сообщили о переговорах насчет матчей ЧМ в Мексике вместо США",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69b8fe979a7947135650b6b7",
+    "publishedAt": "2026-03-17T08:14:02.000Z",
+    "createdAt": "2026-03-17T09:02:07.094Z",
+    "updatedAt": "2026-03-17T09:02:07.094Z"
+  },
+  {
     "id": "ce9df2a73bf03fa8",
     "title": "Панарин отметился голевой передачей в первом матче против бывшей команды",
     "sport": "Хоккей",
@@ -10,8 +66,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69b8f6199a79470435e73e53",
     "publishedAt": "2026-03-17T07:22:14.000Z",
-    "createdAt": "2026-03-17T07:56:48.913Z",
-    "updatedAt": "2026-03-17T07:56:48.913Z"
+    "createdAt": "2026-03-17T09:02:09.162Z",
+    "updatedAt": "2026-03-17T09:02:09.162Z"
   },
   {
     "id": "1752da930d81d672",
@@ -24,8 +80,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69b8ef919a7947507e17d758",
     "publishedAt": "2026-03-17T07:17:19.000Z",
-    "createdAt": "2026-03-17T07:56:47.839Z",
-    "updatedAt": "2026-03-17T07:56:47.839Z"
+    "createdAt": "2026-03-17T09:02:08.011Z",
+    "updatedAt": "2026-03-17T09:02:08.011Z"
   },
   {
     "id": "5e21d02d2e3af312",
@@ -38,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69a2e4849a794793642c0b37",
     "publishedAt": "2026-03-17T07:01:45.000Z",
-    "createdAt": "2026-03-17T07:56:49.993Z",
-    "updatedAt": "2026-03-17T07:56:49.993Z"
+    "createdAt": "2026-03-17T09:02:10.277Z",
+    "updatedAt": "2026-03-17T09:02:10.277Z"
   },
   {
     "id": "db4f8c6511fc9cba",
@@ -52,8 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69b7f3349a7947504bd850f2",
     "publishedAt": "2026-03-17T06:02:38.000Z",
-    "createdAt": "2026-03-17T07:56:51.035Z",
-    "updatedAt": "2026-03-17T07:56:51.035Z"
+    "createdAt": "2026-03-17T09:02:11.421Z",
+    "updatedAt": "2026-03-17T09:02:11.421Z"
   },
   {
     "id": "776b855cab7b9aa8",
@@ -66,8 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69b8519e9a794744d3a24d25",
     "publishedAt": "2026-03-16T20:20:45.000Z",
-    "createdAt": "2026-03-17T07:56:52.093Z",
-    "updatedAt": "2026-03-17T07:56:52.093Z"
+    "createdAt": "2026-03-17T09:02:12.553Z",
+    "updatedAt": "2026-03-17T09:02:12.553Z"
   },
   {
     "id": "7c38b3ef2e2ce826",
@@ -80,63 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69b854419a79474a50b944f8",
     "publishedAt": "2026-03-16T20:06:55.000Z",
-    "createdAt": "2026-03-17T07:56:53.169Z",
-    "updatedAt": "2026-03-17T07:56:53.169Z"
-  },
-  {
-    "id": "9f304c47f6ba3f98",
-    "title": "«Динамо» победило «Спартак» в серии буллитов с 13 промахами",
-    "sport": "Хоккей",
-    "category": "Хоккей",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/6/70/347736873069706.png",
-    "teaser": "«Динамо» победило «Спартак» в серии буллитов с 13 промахами",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69b848a79a794740e04e5ad3",
-    "publishedAt": "2026-03-16T19:11:48.000Z",
-    "createdAt": "2026-03-17T07:56:54.252Z",
-    "updatedAt": "2026-03-17T07:56:54.252Z"
-  },
-  {
-    "id": "2ae72ad3c247f02a",
-    "title": "Стала известна первая пара плей-офф КХЛ",
-    "sport": "Хоккей",
-    "category": "Хоккей",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/6/97/347736861667976.png",
-    "teaser": "Стала известна первая пара плей-офф КХЛ",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69b84d039a7947b214d6de2a",
-    "publishedAt": "2026-03-16T18:49:58.000Z",
-    "createdAt": "2026-03-17T07:56:57.857Z",
-    "updatedAt": "2026-03-17T07:56:57.857Z"
-  },
-  {
-    "id": "af401a6f911c19bf",
-    "title": "Матчи Кубка мира по хоккею 2028 года пройдут в Канаде и Чехии",
-    "sport": "Хоккей",
-    "category": "Хоккей",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/2/55/347736816562552.jpeg",
-    "teaser": "Матчи Кубка мира по хоккею 2028 года пройдут в Канаде и Чехии",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69b839c39a7947144f94c3e7",
-    "publishedAt": "2026-03-16T17:36:54.000Z",
-    "createdAt": "2026-03-17T07:56:55.664Z",
-    "updatedAt": "2026-03-17T07:56:55.664Z"
-  },
-  {
-    "id": "d02ca69280ac28ba",
-    "title": "РБК представил рейтинг букмекеров 2026 года",
-    "sport": "Другое",
-    "category": "Другие",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/4/24/347736471042244.jpeg",
-    "teaser": "РБК представил рейтинг букмекеров 2026 года",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69b7b1e39a794732bb7fa5bc",
-    "publishedAt": "2026-03-16T08:45:51.000Z",
-    "createdAt": "2026-03-17T07:56:56.752Z",
-    "updatedAt": "2026-03-17T07:56:56.752Z"
+    "createdAt": "2026-03-17T09:02:13.694Z",
+    "updatedAt": "2026-03-17T09:02:13.694Z"
   }
 ]
