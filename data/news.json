@@ -1,5 +1,61 @@
 [
   {
+    "id": "ce9df2a73bf03fa8",
+    "title": "Панарин отметился голевой передачей в первом матче против бывшей команды",
+    "sport": "Хоккей",
+    "category": "Хоккей",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/9/48/347737307722489.jpeg",
+    "teaser": "Панарин отметился голевой передачей в первом матче против бывшей команды",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69b8f6199a79470435e73e53",
+    "publishedAt": "2026-03-17T07:22:14.000Z",
+    "createdAt": "2026-03-17T07:56:48.913Z",
+    "updatedAt": "2026-03-17T07:56:48.913Z"
+  },
+  {
+    "id": "1752da930d81d672",
+    "title": "Малкина признали первой звездой дня в НХЛ после отбытия дисквалификации",
+    "sport": "Хоккей",
+    "category": "Хоккей",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/1/41/347737289125411.jpeg",
+    "teaser": "Малкина признали первой звездой дня в НХЛ после отбытия дисквалификации",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69b8ef919a7947507e17d758",
+    "publishedAt": "2026-03-17T07:17:19.000Z",
+    "createdAt": "2026-03-17T07:56:47.839Z",
+    "updatedAt": "2026-03-17T07:56:47.839Z"
+  },
+  {
+    "id": "5e21d02d2e3af312",
+    "title": "Какие крупные турниры были отменены из-за конфликта на Ближнем Востоке",
+    "sport": "Другое",
+    "category": "Другие",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/3/85/347736748675853.jpeg",
+    "teaser": "Какие крупные турниры были отменены из-за конфликта на Ближнем Востоке",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69a2e4849a794793642c0b37",
+    "publishedAt": "2026-03-17T07:01:45.000Z",
+    "createdAt": "2026-03-17T07:56:49.993Z",
+    "updatedAt": "2026-03-17T07:56:49.993Z"
+  },
+  {
+    "id": "db4f8c6511fc9cba",
+    "title": "Что нужно знать о конфликте Плющенко и Тутберидзе",
+    "sport": "Другое",
+    "category": "Фигурное катание",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/5/50/347737340668505.jpeg",
+    "teaser": "Что нужно знать о конфликте Плющенко и Тутберидзе",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69b7f3349a7947504bd850f2",
+    "publishedAt": "2026-03-17T06:02:38.000Z",
+    "createdAt": "2026-03-17T07:56:51.035Z",
+    "updatedAt": "2026-03-17T07:56:51.035Z"
+  },
+  {
     "id": "776b855cab7b9aa8",
     "title": "Медведев рассказал, за счет чего обыграл Алькараса и проиграл Синнеру",
     "sport": "Теннис",
@@ -10,8 +66,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69b8519e9a794744d3a24d25",
     "publishedAt": "2026-03-16T20:20:45.000Z",
-    "createdAt": "2026-03-17T06:04:35.131Z",
-    "updatedAt": "2026-03-17T06:04:35.131Z"
+    "createdAt": "2026-03-17T07:56:52.093Z",
+    "updatedAt": "2026-03-17T07:56:52.093Z"
   },
   {
     "id": "7c38b3ef2e2ce826",
@@ -24,8 +80,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69b854419a79474a50b944f8",
     "publishedAt": "2026-03-16T20:06:55.000Z",
-    "createdAt": "2026-03-17T06:04:36.074Z",
-    "updatedAt": "2026-03-17T06:04:36.074Z"
+    "createdAt": "2026-03-17T07:56:53.169Z",
+    "updatedAt": "2026-03-17T07:56:53.169Z"
   },
   {
     "id": "9f304c47f6ba3f98",
@@ -38,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69b848a79a794740e04e5ad3",
     "publishedAt": "2026-03-16T19:11:48.000Z",
-    "createdAt": "2026-03-17T06:04:37.111Z",
-    "updatedAt": "2026-03-17T06:04:37.111Z"
+    "createdAt": "2026-03-17T07:56:54.252Z",
+    "updatedAt": "2026-03-17T07:56:54.252Z"
   },
   {
     "id": "2ae72ad3c247f02a",
@@ -52,36 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69b84d039a7947b214d6de2a",
     "publishedAt": "2026-03-16T18:49:58.000Z",
-    "createdAt": "2026-03-17T06:04:40.082Z",
-    "updatedAt": "2026-03-17T06:04:40.082Z"
-  },
-  {
-    "id": "22144f0b0933636e",
-    "title": "В КХЛ установили рекорд посещаемости",
-    "sport": "Хоккей",
-    "category": "Хоккей",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/6/27/347736842043276.png",
-    "teaser": "В КХЛ установили рекорд посещаемости",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69b844fc9a794749b76ae863",
-    "publishedAt": "2026-03-16T18:13:19.000Z",
-    "createdAt": "2026-03-17T06:04:42.101Z",
-    "updatedAt": "2026-03-17T06:04:42.101Z"
-  },
-  {
-    "id": "57558eed862db3a3",
-    "title": "Капитан «Челси» выбыл на несколько недель из-за травмы",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/7/24/347736818813247.jpeg",
-    "teaser": "Капитан «Челси» выбыл на несколько недель из-за травмы",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69b83bd89a79474f11440e94",
-    "publishedAt": "2026-03-16T18:07:44.000Z",
-    "createdAt": "2026-03-17T06:04:41.087Z",
-    "updatedAt": "2026-03-17T06:04:41.087Z"
+    "createdAt": "2026-03-17T07:56:57.857Z",
+    "updatedAt": "2026-03-17T07:56:57.857Z"
   },
   {
     "id": "af401a6f911c19bf",
@@ -94,36 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69b839c39a7947144f94c3e7",
     "publishedAt": "2026-03-16T17:36:54.000Z",
-    "createdAt": "2026-03-17T06:04:38.116Z",
-    "updatedAt": "2026-03-17T06:04:38.116Z"
-  },
-  {
-    "id": "1fc114d400e0cb6e",
-    "title": "УЕФА не стал дисквалифицировать футболиста «Челси», толкнувшего бол-боя",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/0/74/347736804644740.jpeg",
-    "teaser": "УЕФА не стал дисквалифицировать футболиста «Челси», толкнувшего бол-боя",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69b824d69a794720fe42e660",
-    "publishedAt": "2026-03-16T17:07:21.000Z",
-    "createdAt": "2026-03-17T06:04:43.137Z",
-    "updatedAt": "2026-03-17T06:04:43.137Z"
-  },
-  {
-    "id": "9b1f24859a62ca20",
-    "title": "Лидер КХЛ вырвал победу, отыгравшись с 0:2",
-    "sport": "Хоккей",
-    "category": "Хоккей",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/2/39/347736792239392.png",
-    "teaser": "Лидер КХЛ вырвал победу, отыгравшись с 0:2",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69b8305b9a7947409d833495",
-    "publishedAt": "2026-03-16T16:47:31.000Z",
-    "createdAt": "2026-03-17T06:04:44.231Z",
-    "updatedAt": "2026-03-17T06:04:44.231Z"
+    "createdAt": "2026-03-17T07:56:55.664Z",
+    "updatedAt": "2026-03-17T07:56:55.664Z"
   },
   {
     "id": "d02ca69280ac28ba",
@@ -136,7 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69b7b1e39a794732bb7fa5bc",
     "publishedAt": "2026-03-16T08:45:51.000Z",
-    "createdAt": "2026-03-17T06:04:39.121Z",
-    "updatedAt": "2026-03-17T06:04:39.121Z"
+    "createdAt": "2026-03-17T07:56:56.752Z",
+    "updatedAt": "2026-03-17T07:56:56.752Z"
   }
 ]
