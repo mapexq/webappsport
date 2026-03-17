@@ -1,5 +1,75 @@
 [
   {
+    "id": "aa5daedf868fc66c",
+    "title": "Экс-футболист «Спартака» Промес на суде признал, что ударил кузена ножом",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/8/25/347737577538258.jpeg",
+    "teaser": "Экс-футболист «Спартака» Промес на суде признал, что ударил кузена ножом",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69b964f69a7947ffb41fa156",
+    "publishedAt": "2026-03-17T14:56:03.000Z",
+    "createdAt": "2026-03-17T15:02:41.863Z",
+    "updatedAt": "2026-03-17T15:02:41.863Z"
+  },
+  {
+    "id": "122d11ccc7bc7294",
+    "title": "На «тысячнике» WTA впервые пройдет матч между теннисистками не из топ-500",
+    "sport": "Теннис",
+    "category": "Теннис",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/4/58/347737562536584.jpeg",
+    "teaser": "На «тысячнике» WTA впервые пройдет матч между теннисистками не из топ-500",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69b95cad9a7947dbdf202638",
+    "publishedAt": "2026-03-17T14:33:46.000Z",
+    "createdAt": "2026-03-17T15:02:43.911Z",
+    "updatedAt": "2026-03-17T15:02:43.911Z"
+  },
+  {
+    "id": "5613c38e850c4fb2",
+    "title": "The Times узнала, что ФИФА не перенесет матчи Ирана на ЧМ-2026 в Мексику",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/0/42/347737540142420.jpeg",
+    "teaser": "The Times узнала, что ФИФА не перенесет матчи Ирана на ЧМ-2026 в Мексику",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69b953719a7947865b57fac5",
+    "publishedAt": "2026-03-17T14:04:45.000Z",
+    "createdAt": "2026-03-17T15:02:42.893Z",
+    "updatedAt": "2026-03-17T15:02:42.893Z"
+  },
+  {
+    "id": "d15ae34900c39d8c",
+    "title": "Клуб из Вашингтона раздаст 20 тыс. болванчиков Овечкина перед матчем MLB",
+    "sport": "Другое",
+    "category": "Другие",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/1/22/347737543253221.jpeg",
+    "teaser": "Клуб из Вашингтона раздаст 20 тыс. болванчиков Овечкина перед матчем MLB",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69b955bc9a7947c32daaa7cb",
+    "publishedAt": "2026-03-17T13:52:38.000Z",
+    "createdAt": "2026-03-17T15:02:47.158Z",
+    "updatedAt": "2026-03-17T15:02:47.158Z"
+  },
+  {
+    "id": "fd6245d4c6f206ef",
+    "title": "Бородавко рассказал о роли норвежцев в отстранении российских лыжников",
+    "sport": "Другое",
+    "category": "Другие",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/3/72/347737534670723.jpeg",
+    "teaser": "Бородавко рассказал о роли норвежцев в отстранении российских лыжников",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69b950e19a7947ba04d50ce0",
+    "publishedAt": "2026-03-17T13:30:21.000Z",
+    "createdAt": "2026-03-17T15:02:48.243Z",
+    "updatedAt": "2026-03-17T15:02:48.243Z"
+  },
+  {
     "id": "8caa647ad25efd5a",
     "title": "Ворончихина рассказала о желании американцев забрать себе форму России",
     "sport": "Другое",
@@ -10,8 +80,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69b94eb69a79470e26b3d8d3",
     "publishedAt": "2026-03-17T13:17:06.000Z",
-    "createdAt": "2026-03-17T13:24:39.488Z",
-    "updatedAt": "2026-03-17T13:24:39.488Z"
+    "createdAt": "2026-03-17T15:02:49.355Z",
+    "updatedAt": "2026-03-17T15:02:49.355Z"
   },
   {
     "id": "51364a3e253a640d",
@@ -24,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69b943b69a79470940c7926e",
     "publishedAt": "2026-03-17T13:14:45.000Z",
-    "createdAt": "2026-03-17T13:24:41.461Z",
-    "updatedAt": "2026-03-17T13:24:41.461Z"
+    "createdAt": "2026-03-17T15:02:50.445Z",
+    "updatedAt": "2026-03-17T15:02:50.445Z"
   },
   {
     "id": "8a5642677890cd01",
@@ -38,78 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69b948aa9a79474e996b4c43",
     "publishedAt": "2026-03-17T12:53:28.000Z",
-    "createdAt": "2026-03-17T13:24:42.632Z",
-    "updatedAt": "2026-03-17T13:24:42.632Z"
-  },
-  {
-    "id": "30380af9421008c1",
-    "title": "Карпин заявил, что стычка тренеров помогла «Балтике» выиграть у ЦСКА",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/9/31/347737492223319.jpeg",
-    "teaser": "Карпин заявил, что стычка тренеров помогла «Балтике» выиграть у ЦСКА",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69b942f19a79473492b3fc8a",
-    "publishedAt": "2026-03-17T12:28:12.000Z",
-    "createdAt": "2026-03-17T13:24:46.350Z",
-    "updatedAt": "2026-03-17T13:24:46.350Z"
-  },
-  {
-    "id": "66feee47556fdb30",
-    "title": "Почти вся основа «Металлурга» пропустит последние матчи «регулярки» КХЛ",
-    "sport": "Хоккей",
-    "category": "Хоккей",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/9/19/347737471207199.jpeg",
-    "teaser": "Почти вся основа «Металлурга» пропустит последние матчи «регулярки» КХЛ",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69b93b4a9a79474a47fc8e3f",
-    "publishedAt": "2026-03-17T11:50:58.000Z",
-    "createdAt": "2026-03-17T13:24:48.636Z",
-    "updatedAt": "2026-03-17T13:24:48.636Z"
-  },
-  {
-    "id": "68b2ff702fd3ffa7",
-    "title": "Российский чемпион UFC пригласил Илона Маска на совместную тренировку",
-    "sport": "Единоборства",
-    "category": "Единоборства",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/3/57/347737432959573.jpeg",
-    "teaser": "Российский чемпион UFC пригласил Илона Маска на совместную тренировку",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69b926e49a79473c8d83fbc6",
-    "publishedAt": "2026-03-17T11:37:56.000Z",
-    "createdAt": "2026-03-17T13:24:47.550Z",
-    "updatedAt": "2026-03-17T13:24:47.550Z"
-  },
-  {
-    "id": "3eb4ffe770e158ae",
-    "title": "Вооруженные бандиты ограбили дом футболиста «Ромы»",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/0/09/347737452535090.jpeg",
-    "teaser": "Вооруженные бандиты ограбили дом футболиста «Ромы»",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69b933f39a79471186eac750",
-    "publishedAt": "2026-03-17T11:12:41.000Z",
-    "createdAt": "2026-03-17T13:24:49.786Z",
-    "updatedAt": "2026-03-17T13:24:49.786Z"
-  },
-  {
-    "id": "8c3f2d22ab126f34",
-    "title": "Российский теннисист пожаловался на низкие доходы игроков не из топ-200",
-    "sport": "Теннис",
-    "category": "Теннис",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/8/68/347737426132688.jpeg",
-    "teaser": "Российский теннисист пожаловался на низкие доходы игроков не из топ-200",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69b92a039a79473db4061346",
-    "publishedAt": "2026-03-17T10:35:28.000Z",
-    "createdAt": "2026-03-17T13:24:50.958Z",
-    "updatedAt": "2026-03-17T13:24:50.958Z"
+    "createdAt": "2026-03-17T15:02:51.543Z",
+    "updatedAt": "2026-03-17T15:02:51.543Z"
   },
   {
     "id": "5e21d02d2e3af312",
@@ -122,8 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69a2e4849a794793642c0b37",
     "publishedAt": "2026-03-17T07:01:45.000Z",
-    "createdAt": "2026-03-17T13:24:44.945Z",
-    "updatedAt": "2026-03-17T13:24:44.945Z"
+    "createdAt": "2026-03-17T15:02:46.085Z",
+    "updatedAt": "2026-03-17T15:02:46.085Z"
   },
   {
     "id": "db4f8c6511fc9cba",
@@ -136,7 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69b7f3349a7947504bd850f2",
     "publishedAt": "2026-03-17T06:02:38.000Z",
-    "createdAt": "2026-03-17T13:24:43.788Z",
-    "updatedAt": "2026-03-17T13:24:43.788Z"
+    "createdAt": "2026-03-17T15:02:45.012Z",
+    "updatedAt": "2026-03-17T15:02:45.012Z"
   }
 ]
