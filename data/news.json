@@ -1,5 +1,89 @@
 [
   {
+    "id": "be2d249ce3a9846f",
+    "title": "Сафонов провел лучший матч Лиги чемпионов среди российских вратарей",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/3/14/347738303826143.jpeg",
+    "teaser": "Сафонов провел лучший матч Лиги чемпионов среди российских вратарей",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69ba80cb9a7947faed15ec26",
+    "publishedAt": "2026-03-18T11:12:12.000Z",
+    "createdAt": "2026-03-18T11:50:04.923Z",
+    "updatedAt": "2026-03-18T11:50:04.923Z"
+  },
+  {
+    "id": "b7ff5b1231161592",
+    "title": "Дик Адвокат стал консультантом тренера «Фейенорда» до конца сезона",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/2/98/347738303453982.jpeg",
+    "teaser": "Дик Адвокат стал консультантом тренера «Фейенорда» до конца сезона",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69ba79e89a794763849de6e8",
+    "publishedAt": "2026-03-18T10:23:42.000Z",
+    "createdAt": "2026-03-18T11:50:05.959Z",
+    "updatedAt": "2026-03-18T11:50:05.959Z"
+  },
+  {
+    "id": "8188d82aa7eee55a",
+    "title": "«Шанхай Дрэгонс» продлил контракт с лучшим российским бомбардиром клуба",
+    "sport": "Хоккей",
+    "category": "Хоккей",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/9/37/347738271205379.jpeg",
+    "teaser": "«Шанхай Дрэгонс» продлил контракт с лучшим российским бомбардиром клуба",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69ba71469a79474942f0a10d",
+    "publishedAt": "2026-03-18T10:14:00.000Z",
+    "createdAt": "2026-03-18T11:50:12.558Z",
+    "updatedAt": "2026-03-18T11:50:12.558Z"
+  },
+  {
+    "id": "8a0a395d9edaf9b2",
+    "title": "Биатлонист Корнев выиграл суперспринт на чемпионате России",
+    "sport": "Другое",
+    "category": "Биатлон",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/5/44/347738274547445.png",
+    "teaser": "Биатлонист Корнев выиграл суперспринт на чемпионате России",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69ba74c39a79473ccceb69e6",
+    "publishedAt": "2026-03-18T10:12:02.000Z",
+    "createdAt": "2026-03-18T11:50:11.470Z",
+    "updatedAt": "2026-03-18T11:50:11.470Z"
+  },
+  {
+    "id": "d0859099361af07f",
+    "title": "Европейская конфедерация бадминтона не стала приглашать россиян на ЧЕ",
+    "sport": "Другое",
+    "category": "Другие",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/8/79/347738266645798.png",
+    "teaser": "Европейская конфедерация бадминтона не стала приглашать россиян на ЧЕ",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69ba6c589a7947de01095f24",
+    "publishedAt": "2026-03-18T10:00:03.000Z",
+    "createdAt": "2026-03-18T11:50:10.353Z",
+    "updatedAt": "2026-03-18T11:50:10.353Z"
+  },
+  {
+    "id": "7cdabfd9401a6818",
+    "title": "Перенесший сотрясение мозга Клебо примет участие в этапе КМ в США",
+    "sport": "Другое",
+    "category": "Другие",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/6/24/347738248254246.jpeg",
+    "teaser": "Перенесший сотрясение мозга Клебо примет участие в этапе КМ в США",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69ba666c9a794726709badee",
+    "publishedAt": "2026-03-18T09:28:43.000Z",
+    "createdAt": "2026-03-18T11:50:08.166Z",
+    "updatedAt": "2026-03-18T11:50:08.166Z"
+  },
+  {
     "id": "38f8343b25120125",
     "title": "Главный тренер ПСЖ назвал Сафонова вратарем высшего уровня",
     "sport": "Футбол",
@@ -10,22 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69ba5b7d9a79474a0627b889",
     "publishedAt": "2026-03-18T08:37:48.000Z",
-    "createdAt": "2026-03-18T10:04:13.919Z",
-    "updatedAt": "2026-03-18T10:04:13.919Z"
-  },
-  {
-    "id": "2551f4cbb6c35833",
-    "title": "Венесуэла обыграла США в финале чемпионата мира по бейсболу",
-    "sport": "Другое",
-    "category": "Другие",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/0/36/347738203688360.jpeg",
-    "teaser": "Венесуэла обыграла США в финале чемпионата мира по бейсболу",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69ba55209a79472ab7cc957c",
-    "publishedAt": "2026-03-18T08:17:01.000Z",
-    "createdAt": "2026-03-18T10:04:16.971Z",
-    "updatedAt": "2026-03-18T10:04:16.971Z"
+    "createdAt": "2026-03-18T11:50:13.464Z",
+    "updatedAt": "2026-03-18T11:50:13.464Z"
   },
   {
     "id": "1c82373e0520cefa",
@@ -38,36 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69b849b09a7947df892f7b98",
     "publishedAt": "2026-03-18T08:08:05.000Z",
-    "createdAt": "2026-03-18T10:04:15.923Z",
-    "updatedAt": "2026-03-18T10:04:15.923Z"
-  },
-  {
-    "id": "53fde4acdee8e4e1",
-    "title": "Набравшего пять очков россиянина признали первой звездой дня в НХЛ",
-    "sport": "Хоккей",
-    "category": "Хоккей",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/0/12/347738171538120.jpeg",
-    "teaser": "Набравшего пять очков россиянина признали первой звездой дня в НХЛ",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69ba48e19a79471c958fd6ff",
-    "publishedAt": "2026-03-18T07:47:13.000Z",
-    "createdAt": "2026-03-18T10:04:19.159Z",
-    "updatedAt": "2026-03-18T10:04:19.159Z"
-  },
-  {
-    "id": "e1fb583b33ecceab",
-    "title": "Бобровский побил рекорд Хабибулина по числу матчей в НХЛ",
-    "sport": "Хоккей",
-    "category": "Хоккей",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/5/47/347738188546475.jpeg",
-    "teaser": "Бобровский побил рекорд Хабибулина по числу матчей в НХЛ",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69ba50b69a79472a11bdd8eb",
-    "publishedAt": "2026-03-18T07:45:23.000Z",
-    "createdAt": "2026-03-18T10:04:21.567Z",
-    "updatedAt": "2026-03-18T10:04:21.567Z"
+    "createdAt": "2026-03-18T11:50:07.078Z",
+    "updatedAt": "2026-03-18T11:50:07.078Z"
   },
   {
     "id": "d9c9dbab7c740d66",
@@ -80,8 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69ba400d9a7947027f836d6a",
     "publishedAt": "2026-03-18T07:28:32.000Z",
-    "createdAt": "2026-03-18T10:04:14.884Z",
-    "updatedAt": "2026-03-18T10:04:14.884Z"
+    "createdAt": "2026-03-18T11:50:14.622Z",
+    "updatedAt": "2026-03-18T11:50:14.622Z"
   },
   {
     "id": "db84e2b128a5ed2b",
@@ -94,49 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69b7f1a69a79474056b0e127",
     "publishedAt": "2026-03-18T05:31:28.000Z",
-    "createdAt": "2026-03-18T10:04:18.009Z",
-    "updatedAt": "2026-03-18T10:04:18.009Z"
-  },
-  {
-    "id": "cc04570163df99cd",
-    "title": "ПСЖ с Сафоновым разгромил «Челси» и вышел в 1/4 финала Лиги чемпионов",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/4/84/347737679090844.jpeg",
-    "teaser": "ПСЖ с Сафоновым разгромил «Челси» и вышел в 1/4 финала Лиги чемпионов",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69b98ad49a79478652649e89",
-    "publishedAt": "2026-03-17T22:25:37.000Z",
-    "createdAt": "2026-03-18T10:04:22.632Z",
-    "updatedAt": "2026-03-18T10:04:22.632Z"
-  },
-  {
-    "id": "d7642fc76b145f61",
-    "title": "«Реал» обыграл «Манчестер Сити» и вышел в 1/4 финала Лиги чемпионов",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/1/99/347737765865991.jpeg",
-    "teaser": "«Реал» обыграл «Манчестер Сити» и вышел в 1/4 финала Лиги чемпионов",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69b9aa459a7947bffed075ad",
-    "publishedAt": "2026-03-17T19:23:32.000Z",
-    "createdAt": "2026-03-18T10:04:23.692Z",
-    "updatedAt": "2026-03-18T10:04:23.692Z"
-  },
-  {
-    "id": "b09d3fe31c9a0f93",
-    "title": "FONBET пятый год подряд возглавил национальный рейтинг букмекеров",
-    "sport": "Другое",
-    "category": "Другие",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/5/40/347737532039405.jpeg",
-    "teaser": "FONBET пятый год подряд возглавил национальный рейтинг букмекеров",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69b843ea9a7947df12ec0369",
-    "publishedAt": "2026-03-17T17:16:41.000Z",
-    "createdAt": "2026-03-18T10:04:20.498Z",
-    "updatedAt": "2026-03-18T10:04:20.498Z"
+    "createdAt": "2026-03-18T11:50:09.247Z",
+    "updatedAt": "2026-03-18T11:50:09.247Z"
   }
 ]
