@@ -1,5 +1,61 @@
 [
   {
+    "id": "dd78cdf90aed9ab6",
+    "title": "ЦСКА одержал 800-ю победу в КХЛ, обыграв «Спартак»",
+    "sport": "Хоккей",
+    "category": "Хоккей",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/0/82/347738580585820.png",
+    "teaser": "ЦСКА одержал 800-ю победу в КХЛ, обыграв «Спартак»",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69baecbf9a79471fad362df6",
+    "publishedAt": "2026-03-18T19:07:53.000Z",
+    "createdAt": "2026-03-18T19:10:23.556Z",
+    "updatedAt": "2026-03-18T19:10:23.556Z"
+  },
+  {
+    "id": "7a18441ad97231f4",
+    "title": "Семак заявил, что ему не стыдно за победу над махачкалинским «Динамо»",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/9/79/347738587994799.png",
+    "teaser": "Семак заявил, что ему не стыдно за победу над махачкалинским «Динамо»",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69baefc69a7947d3036a2bd9",
+    "publishedAt": "2026-03-18T18:44:26.000Z",
+    "createdAt": "2026-03-18T19:10:22.460Z",
+    "updatedAt": "2026-03-18T19:10:22.460Z"
+  },
+  {
+    "id": "4d72632d1a09566f",
+    "title": "«Зенит» выбил махачкалинское «Динамо» из Кубка России благодаря пенальти",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/8/88/347738541670888.png",
+    "teaser": "«Зенит» выбил махачкалинское «Динамо» из Кубка России благодаря пенальти",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69bad0ec9a7947dab44051fe",
+    "publishedAt": "2026-03-18T17:39:37.000Z",
+    "createdAt": "2026-03-18T19:10:26.927Z",
+    "updatedAt": "2026-03-18T19:10:26.927Z"
+  },
+  {
+    "id": "062d8daec9c323e7",
+    "title": "Защита Смолова попросит суд назначить ему штраф за драку в «Кофемании»",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/8/77/347738522815778.png",
+    "teaser": "Защита Смолова попросит суд назначить ему штраф за драку в «Кофемании»",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69bad6369a794700cd94b7a6",
+    "publishedAt": "2026-03-18T17:34:48.000Z",
+    "createdAt": "2026-03-18T19:10:25.828Z",
+    "updatedAt": "2026-03-18T19:10:25.828Z"
+  },
+  {
     "id": "3d03e46941415918",
     "title": "Федерация лыжного двоеборья выступила за слияние в лыжных видах спорта",
     "sport": "Другое",
@@ -10,8 +66,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69babec69a794759c9bed0ab",
     "publishedAt": "2026-03-18T16:52:10.000Z",
-    "createdAt": "2026-03-18T17:08:49.221Z",
-    "updatedAt": "2026-03-18T17:08:49.221Z"
+    "createdAt": "2026-03-18T19:10:30.247Z",
+    "updatedAt": "2026-03-18T19:10:30.247Z"
   },
   {
     "id": "2fc9f0f3598bec1d",
@@ -24,8 +80,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69bad2179a7947343bb27f92",
     "publishedAt": "2026-03-18T16:41:43.000Z",
-    "createdAt": "2026-03-18T17:08:46.189Z",
-    "updatedAt": "2026-03-18T17:08:46.189Z"
+    "createdAt": "2026-03-18T19:10:28.015Z",
+    "updatedAt": "2026-03-18T19:10:28.015Z"
   },
   {
     "id": "83044f2d209bf832",
@@ -38,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69bac8719a79475c92d17026",
     "publishedAt": "2026-03-18T16:10:11.000Z",
-    "createdAt": "2026-03-18T17:08:47.161Z",
-    "updatedAt": "2026-03-18T17:08:47.161Z"
+    "createdAt": "2026-03-18T19:10:29.156Z",
+    "updatedAt": "2026-03-18T19:10:29.156Z"
   },
   {
     "id": "d3f5b0f96d8d4538",
@@ -52,50 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69bac0ff9a79473f1518a028",
     "publishedAt": "2026-03-18T15:56:23.000Z",
-    "createdAt": "2026-03-18T17:08:50.243Z",
-    "updatedAt": "2026-03-18T17:08:50.243Z"
-  },
-  {
-    "id": "c1b3f8d3d4640a49",
-    "title": "Дегтярев заявил об индексации премий призерам Олимпиад и Паралимпиад",
-    "sport": "Другое",
-    "category": "Другие",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/2/12/347738457135122.png",
-    "teaser": "Дегтярев заявил об индексации премий призерам Олимпиад и Паралимпиад",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69babc789a7947e038ea79aa",
-    "publishedAt": "2026-03-18T15:38:18.000Z",
-    "createdAt": "2026-03-18T17:08:52.467Z",
-    "updatedAt": "2026-03-18T17:08:52.467Z"
-  },
-  {
-    "id": "facf7135fc9c02d6",
-    "title": "Власти Сенегала потребовали проверить CAF на предмет коррупции",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/8/15/347738462521158.jpeg",
-    "teaser": "Власти Сенегала потребовали проверить CAF на предмет коррупции",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69babc079a794730dc75cd4e",
-    "publishedAt": "2026-03-18T15:28:35.000Z",
-    "createdAt": "2026-03-18T17:08:55.493Z",
-    "updatedAt": "2026-03-18T17:08:55.493Z"
-  },
-  {
-    "id": "498ceeb519bd8990",
-    "title": "«Металлург» установил рекорд результативности в КХЛ",
-    "sport": "Хоккей",
-    "category": "Хоккей",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/6/04/347738457529046.jpeg",
-    "teaser": "«Металлург» установил рекорд результативности в КХЛ",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69bab9fb9a7947563856a1a6",
-    "publishedAt": "2026-03-18T15:08:31.000Z",
-    "createdAt": "2026-03-18T17:08:54.438Z",
-    "updatedAt": "2026-03-18T17:08:54.438Z"
+    "createdAt": "2026-03-18T19:10:31.390Z",
+    "updatedAt": "2026-03-18T19:10:31.390Z"
   },
   {
     "id": "a55c98bdf06f0356",
@@ -108,22 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69baa95e9a79470ebeab35fc",
     "publishedAt": "2026-03-18T14:04:17.000Z",
-    "createdAt": "2026-03-18T17:08:51.268Z",
-    "updatedAt": "2026-03-18T17:08:51.268Z"
-  },
-  {
-    "id": "e443cc3e99b28e76",
-    "title": "Дело о драке в кафе с участием Смолова будет направлено в суд",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/9/10/347738413981109.jpeg",
-    "teaser": "Дело о драке в кафе с участием Смолова будет направлено в суд",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69baa93e9a7947017225068c",
-    "publishedAt": "2026-03-18T13:54:34.000Z",
-    "createdAt": "2026-03-18T17:08:53.403Z",
-    "updatedAt": "2026-03-18T17:08:53.403Z"
+    "createdAt": "2026-03-18T19:10:32.552Z",
+    "updatedAt": "2026-03-18T19:10:32.552Z"
   },
   {
     "id": "1c82373e0520cefa",
@@ -136,7 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69b849b09a7947df892f7b98",
     "publishedAt": "2026-03-18T08:08:05.000Z",
-    "createdAt": "2026-03-18T17:08:48.191Z",
-    "updatedAt": "2026-03-18T17:08:48.191Z"
+    "createdAt": "2026-03-18T19:10:24.693Z",
+    "updatedAt": "2026-03-18T19:10:24.693Z"
   }
 ]
