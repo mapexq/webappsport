@@ -1,5 +1,19 @@
 [
   {
+    "id": "1c82373e0520cefa",
+    "title": "В Москве прошел деловой завтрак РБК для лидеров индустрии ставок",
+    "sport": "Другое",
+    "category": "Другие",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/2/52/347738211447522.jpeg",
+    "teaser": "В Москве прошел деловой завтрак РБК для лидеров индустрии ставок",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69b849b09a7947df892f7b98",
+    "publishedAt": "2026-03-18T08:08:05.000Z",
+    "createdAt": "2026-03-18T08:57:43.401Z",
+    "updatedAt": "2026-03-18T08:57:43.401Z"
+  },
+  {
     "id": "db84e2b128a5ed2b",
     "title": "Как военный летчик стал автором самой громкой сенсации в Лиге чемпионов",
     "sport": "Футбол",
@@ -10,8 +24,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69b7f1a69a79474056b0e127",
     "publishedAt": "2026-03-18T05:31:28.000Z",
-    "createdAt": "2026-03-18T07:09:36.276Z",
-    "updatedAt": "2026-03-18T07:09:36.276Z"
+    "createdAt": "2026-03-18T08:57:40.366Z",
+    "updatedAt": "2026-03-18T08:57:40.366Z"
   },
   {
     "id": "cc04570163df99cd",
@@ -24,8 +38,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69b98ad49a79478652649e89",
     "publishedAt": "2026-03-17T22:25:37.000Z",
-    "createdAt": "2026-03-18T07:09:37.443Z",
-    "updatedAt": "2026-03-18T07:09:37.443Z"
+    "createdAt": "2026-03-18T08:57:41.378Z",
+    "updatedAt": "2026-03-18T08:57:41.378Z"
   },
   {
     "id": "78a17049c78b1205",
@@ -38,8 +52,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69b9b8ff9a7947cc103dab65",
     "publishedAt": "2026-03-17T20:48:46.000Z",
-    "createdAt": "2026-03-18T07:09:40.837Z",
-    "updatedAt": "2026-03-18T07:09:40.837Z"
+    "createdAt": "2026-03-18T08:57:45.394Z",
+    "updatedAt": "2026-03-18T08:57:45.394Z"
   },
   {
     "id": "021c996a64587b68",
@@ -52,8 +66,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69b9b5ed9a79476a332288a7",
     "publishedAt": "2026-03-17T20:35:47.000Z",
-    "createdAt": "2026-03-18T07:09:42.009Z",
-    "updatedAt": "2026-03-18T07:09:42.009Z"
+    "createdAt": "2026-03-18T08:57:46.416Z",
+    "updatedAt": "2026-03-18T08:57:46.416Z"
   },
   {
     "id": "4d380ed47a81bbaa",
@@ -66,8 +80,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69b9b1889a79470b7a39aede",
     "publishedAt": "2026-03-17T20:30:20.000Z",
-    "createdAt": "2026-03-18T07:09:43.134Z",
-    "updatedAt": "2026-03-18T07:09:43.134Z"
+    "createdAt": "2026-03-18T08:57:47.409Z",
+    "updatedAt": "2026-03-18T08:57:47.409Z"
   },
   {
     "id": "d7642fc76b145f61",
@@ -80,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69b9aa459a7947bffed075ad",
     "publishedAt": "2026-03-17T19:23:32.000Z",
-    "createdAt": "2026-03-18T07:09:38.512Z",
-    "updatedAt": "2026-03-18T07:09:38.512Z"
+    "createdAt": "2026-03-18T08:57:42.394Z",
+    "updatedAt": "2026-03-18T08:57:42.394Z"
   },
   {
     "id": "6be7df34a88f5fe6",
@@ -94,8 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69b9a1c39a7947d5ead1b70d",
     "publishedAt": "2026-03-17T19:04:30.000Z",
-    "createdAt": "2026-03-18T07:09:44.285Z",
-    "updatedAt": "2026-03-18T07:09:44.285Z"
+    "createdAt": "2026-03-18T08:57:48.477Z",
+    "updatedAt": "2026-03-18T08:57:48.477Z"
   },
   {
     "id": "92b51c84248c04ed",
@@ -108,22 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69b996f79a79473cbf3bacae",
     "publishedAt": "2026-03-17T18:36:02.000Z",
-    "createdAt": "2026-03-18T07:09:45.481Z",
-    "updatedAt": "2026-03-18T07:09:45.481Z"
-  },
-  {
-    "id": "6a12ff2bd8645f44",
-    "title": "«Краснодар» разгромил ЦСКА и вышел в финал Кубка России в «пути РПЛ»",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/5/21/347737705695215.jpeg",
-    "teaser": "«Краснодар» разгромил ЦСКА и вышел в финал Кубка России в «пути РПЛ»",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69b996e49a79476cd548cbbd",
-    "publishedAt": "2026-03-17T18:34:38.000Z",
-    "createdAt": "2026-03-18T07:09:46.656Z",
-    "updatedAt": "2026-03-18T07:09:46.656Z"
+    "createdAt": "2026-03-18T08:57:49.528Z",
+    "updatedAt": "2026-03-18T08:57:49.528Z"
   },
   {
     "id": "b09d3fe31c9a0f93",
@@ -136,7 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69b843ea9a7947df12ec0369",
     "publishedAt": "2026-03-17T17:16:41.000Z",
-    "createdAt": "2026-03-18T07:09:39.695Z",
-    "updatedAt": "2026-03-18T07:09:39.695Z"
+    "createdAt": "2026-03-18T08:57:44.348Z",
+    "updatedAt": "2026-03-18T08:57:44.348Z"
   }
 ]
