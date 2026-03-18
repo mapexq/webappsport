@@ -1,5 +1,89 @@
 [
   {
+    "id": "cd514cb94ae9eab1",
+    "title": "Хоккеист сборной США захотел вернуть победную шайбу Игр из Зала славы",
+    "sport": "Хоккей",
+    "category": "Хоккей",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/3/93/347738382489933.jpeg",
+    "teaser": "Хоккеист сборной США захотел вернуть победную шайбу Игр из Зала славы",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69ba9d499a7947251c57bc6d",
+    "publishedAt": "2026-03-18T13:09:24.000Z",
+    "createdAt": "2026-03-18T13:25:42.001Z",
+    "updatedAt": "2026-03-18T13:25:42.001Z"
+  },
+  {
+    "id": "6d67f82c9a7a4555",
+    "title": "Бабиков раскритиковал организаторов после снятия с чемпионата России",
+    "sport": "Другое",
+    "category": "Биатлон",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/3/83/347738369294833.jpeg",
+    "teaser": "Бабиков раскритиковал организаторов после снятия с чемпионата России",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69ba96339a7947e0daa8d8f8",
+    "publishedAt": "2026-03-18T12:55:57.000Z",
+    "createdAt": "2026-03-18T13:25:42.992Z",
+    "updatedAt": "2026-03-18T13:25:42.992Z"
+  },
+  {
+    "id": "77d48cf37d404255",
+    "title": "Кварацхелия назвал великолепной игру Сафонова против «Челси»",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/2/37/347738360948372.jpeg",
+    "teaser": "Кварацхелия назвал великолепной игру Сафонова против «Челси»",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69ba96079a794709f4e66469",
+    "publishedAt": "2026-03-18T12:52:27.000Z",
+    "createdAt": "2026-03-18T13:25:44.989Z",
+    "updatedAt": "2026-03-18T13:25:44.989Z"
+  },
+  {
+    "id": "cb57e03587a25351",
+    "title": "ЦСКА не смог вовремя вылететь из Краснодара из-за атаки БПЛА",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/2/31/347738344950312.jpeg",
+    "teaser": "ЦСКА не смог вовремя вылететь из Краснодара из-за атаки БПЛА",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69ba8ebf9a7947237f35971b",
+    "publishedAt": "2026-03-18T12:08:21.000Z",
+    "createdAt": "2026-03-18T13:25:48.136Z",
+    "updatedAt": "2026-03-18T13:25:48.136Z"
+  },
+  {
+    "id": "6eff47edccda21d2",
+    "title": "Лига ВТБ перенесла матч в Краснодаре из-за проблем с вылетом команды",
+    "sport": "Баскетбол",
+    "category": "Баскетбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/1/98/347738335609981.png",
+    "teaser": "Лига ВТБ перенесла матч в Краснодаре из-за проблем с вылетом команды",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69ba8cc69a79476325b91e33",
+    "publishedAt": "2026-03-18T12:04:52.000Z",
+    "createdAt": "2026-03-18T13:25:50.351Z",
+    "updatedAt": "2026-03-18T13:25:50.351Z"
+  },
+  {
+    "id": "32103ad7a119ee73",
+    "title": "В IIHF сообщили, что ЧМ по хоккею в Кувейте и ОАЭ не состоятся в срок",
+    "sport": "Хоккей",
+    "category": "Хоккей",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/8/53/347738329730538.jpeg",
+    "teaser": "В IIHF сообщили, что ЧМ по хоккею в Кувейте и ОАЭ не состоятся в срок",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69ba88329a79475890c216fd",
+    "publishedAt": "2026-03-18T11:29:02.000Z",
+    "createdAt": "2026-03-18T13:25:45.969Z",
+    "updatedAt": "2026-03-18T13:25:45.969Z"
+  },
+  {
     "id": "be2d249ce3a9846f",
     "title": "Сафонов провел лучший матч Лиги чемпионов среди российских вратарей",
     "sport": "Футбол",
@@ -10,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69ba80cb9a7947faed15ec26",
     "publishedAt": "2026-03-18T11:12:12.000Z",
-    "createdAt": "2026-03-18T11:50:04.923Z",
-    "updatedAt": "2026-03-18T11:50:04.923Z"
+    "createdAt": "2026-03-18T13:25:49.292Z",
+    "updatedAt": "2026-03-18T13:25:49.292Z"
   },
   {
     "id": "b7ff5b1231161592",
@@ -24,78 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69ba79e89a794763849de6e8",
     "publishedAt": "2026-03-18T10:23:42.000Z",
-    "createdAt": "2026-03-18T11:50:05.959Z",
-    "updatedAt": "2026-03-18T11:50:05.959Z"
-  },
-  {
-    "id": "8188d82aa7eee55a",
-    "title": "«Шанхай Дрэгонс» продлил контракт с лучшим российским бомбардиром клуба",
-    "sport": "Хоккей",
-    "category": "Хоккей",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/9/37/347738271205379.jpeg",
-    "teaser": "«Шанхай Дрэгонс» продлил контракт с лучшим российским бомбардиром клуба",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69ba71469a79474942f0a10d",
-    "publishedAt": "2026-03-18T10:14:00.000Z",
-    "createdAt": "2026-03-18T11:50:12.558Z",
-    "updatedAt": "2026-03-18T11:50:12.558Z"
-  },
-  {
-    "id": "8a0a395d9edaf9b2",
-    "title": "Биатлонист Корнев выиграл суперспринт на чемпионате России",
-    "sport": "Другое",
-    "category": "Биатлон",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/5/44/347738274547445.png",
-    "teaser": "Биатлонист Корнев выиграл суперспринт на чемпионате России",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69ba74c39a79473ccceb69e6",
-    "publishedAt": "2026-03-18T10:12:02.000Z",
-    "createdAt": "2026-03-18T11:50:11.470Z",
-    "updatedAt": "2026-03-18T11:50:11.470Z"
-  },
-  {
-    "id": "d0859099361af07f",
-    "title": "Европейская конфедерация бадминтона не стала приглашать россиян на ЧЕ",
-    "sport": "Другое",
-    "category": "Другие",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/8/79/347738266645798.png",
-    "teaser": "Европейская конфедерация бадминтона не стала приглашать россиян на ЧЕ",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69ba6c589a7947de01095f24",
-    "publishedAt": "2026-03-18T10:00:03.000Z",
-    "createdAt": "2026-03-18T11:50:10.353Z",
-    "updatedAt": "2026-03-18T11:50:10.353Z"
-  },
-  {
-    "id": "7cdabfd9401a6818",
-    "title": "Перенесший сотрясение мозга Клебо примет участие в этапе КМ в США",
-    "sport": "Другое",
-    "category": "Другие",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/6/24/347738248254246.jpeg",
-    "teaser": "Перенесший сотрясение мозга Клебо примет участие в этапе КМ в США",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69ba666c9a794726709badee",
-    "publishedAt": "2026-03-18T09:28:43.000Z",
-    "createdAt": "2026-03-18T11:50:08.166Z",
-    "updatedAt": "2026-03-18T11:50:08.166Z"
-  },
-  {
-    "id": "38f8343b25120125",
-    "title": "Главный тренер ПСЖ назвал Сафонова вратарем высшего уровня",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/9/62/347738218180629.jpeg",
-    "teaser": "Главный тренер ПСЖ назвал Сафонова вратарем высшего уровня",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69ba5b7d9a79474a0627b889",
-    "publishedAt": "2026-03-18T08:37:48.000Z",
-    "createdAt": "2026-03-18T11:50:13.464Z",
-    "updatedAt": "2026-03-18T11:50:13.464Z"
+    "createdAt": "2026-03-18T13:25:51.434Z",
+    "updatedAt": "2026-03-18T13:25:51.434Z"
   },
   {
     "id": "1c82373e0520cefa",
@@ -108,22 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69b849b09a7947df892f7b98",
     "publishedAt": "2026-03-18T08:08:05.000Z",
-    "createdAt": "2026-03-18T11:50:07.078Z",
-    "updatedAt": "2026-03-18T11:50:07.078Z"
-  },
-  {
-    "id": "d9c9dbab7c740d66",
-    "title": "Впервые в истории футбола сборную лишили победы в чемпионате континента",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/2/28/347738150311282.jpeg",
-    "teaser": "Впервые в истории футбола сборную лишили победы в чемпионате континента",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69ba400d9a7947027f836d6a",
-    "publishedAt": "2026-03-18T07:28:32.000Z",
-    "createdAt": "2026-03-18T11:50:14.622Z",
-    "updatedAt": "2026-03-18T11:50:14.622Z"
+    "createdAt": "2026-03-18T13:25:43.985Z",
+    "updatedAt": "2026-03-18T13:25:43.985Z"
   },
   {
     "id": "db84e2b128a5ed2b",
@@ -136,7 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69b7f1a69a79474056b0e127",
     "publishedAt": "2026-03-18T05:31:28.000Z",
-    "createdAt": "2026-03-18T11:50:09.247Z",
-    "updatedAt": "2026-03-18T11:50:09.247Z"
+    "createdAt": "2026-03-18T13:25:47.042Z",
+    "updatedAt": "2026-03-18T13:25:47.042Z"
   }
 ]
