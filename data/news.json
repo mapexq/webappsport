@@ -1,5 +1,61 @@
 [
   {
+    "id": "a55c98bdf06f0356",
+    "title": "Путин призвал МОК перестать заниматься «фокусами»",
+    "sport": "Другое",
+    "category": "Другие",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/6/15/347738419770156.jpeg",
+    "teaser": "Путин призвал МОК перестать заниматься «фокусами»",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69baa95e9a79470ebeab35fc",
+    "publishedAt": "2026-03-18T14:04:17.000Z",
+    "createdAt": "2026-03-18T15:09:31.539Z",
+    "updatedAt": "2026-03-18T15:09:31.539Z"
+  },
+  {
+    "id": "e443cc3e99b28e76",
+    "title": "Дело о драке в кафе с участием Смолова будет направлено в суд",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/9/10/347738413981109.jpeg",
+    "teaser": "Дело о драке в кафе с участием Смолова будет направлено в суд",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69baa93e9a7947017225068c",
+    "publishedAt": "2026-03-18T13:54:34.000Z",
+    "createdAt": "2026-03-18T15:09:32.497Z",
+    "updatedAt": "2026-03-18T15:09:32.497Z"
+  },
+  {
+    "id": "23b80795a0d82167",
+    "title": "Путин назвал подвигом третье место россиян на Паралимпиаде",
+    "sport": "Другое",
+    "category": "Другие",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/1/49/347738405796491.png",
+    "teaser": "Путин назвал подвигом третье место россиян на Паралимпиаде",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69baa5c59a79474cde6e3f6c",
+    "publishedAt": "2026-03-18T13:32:35.000Z",
+    "createdAt": "2026-03-18T15:09:34.542Z",
+    "updatedAt": "2026-03-18T15:09:34.542Z"
+  },
+  {
+    "id": "75ba7378002cf5ae",
+    "title": "«Спартак» расторг контракт с одним из лидеров за нарушение контракта",
+    "sport": "Хоккей",
+    "category": "Хоккей",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/5/46/347738388457465.png",
+    "teaser": "«Спартак» расторг контракт с одним из лидеров за нарушение контракта",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69baa1c59a7947a96f5a61fb",
+    "publishedAt": "2026-03-18T13:14:56.000Z",
+    "createdAt": "2026-03-18T15:09:35.517Z",
+    "updatedAt": "2026-03-18T15:09:35.517Z"
+  },
+  {
     "id": "cd514cb94ae9eab1",
     "title": "Хоккеист сборной США захотел вернуть победную шайбу Игр из Зала славы",
     "sport": "Хоккей",
@@ -10,8 +66,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69ba9d499a7947251c57bc6d",
     "publishedAt": "2026-03-18T13:09:24.000Z",
-    "createdAt": "2026-03-18T13:25:42.001Z",
-    "updatedAt": "2026-03-18T13:25:42.001Z"
+    "createdAt": "2026-03-18T15:09:36.546Z",
+    "updatedAt": "2026-03-18T15:09:36.546Z"
   },
   {
     "id": "6d67f82c9a7a4555",
@@ -24,8 +80,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69ba96339a7947e0daa8d8f8",
     "publishedAt": "2026-03-18T12:55:57.000Z",
-    "createdAt": "2026-03-18T13:25:42.992Z",
-    "updatedAt": "2026-03-18T13:25:42.992Z"
+    "createdAt": "2026-03-18T15:09:37.589Z",
+    "updatedAt": "2026-03-18T15:09:37.589Z"
   },
   {
     "id": "77d48cf37d404255",
@@ -38,36 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69ba96079a794709f4e66469",
     "publishedAt": "2026-03-18T12:52:27.000Z",
-    "createdAt": "2026-03-18T13:25:44.989Z",
-    "updatedAt": "2026-03-18T13:25:44.989Z"
-  },
-  {
-    "id": "cb57e03587a25351",
-    "title": "ЦСКА не смог вовремя вылететь из Краснодара из-за атаки БПЛА",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/2/31/347738344950312.jpeg",
-    "teaser": "ЦСКА не смог вовремя вылететь из Краснодара из-за атаки БПЛА",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69ba8ebf9a7947237f35971b",
-    "publishedAt": "2026-03-18T12:08:21.000Z",
-    "createdAt": "2026-03-18T13:25:48.136Z",
-    "updatedAt": "2026-03-18T13:25:48.136Z"
-  },
-  {
-    "id": "6eff47edccda21d2",
-    "title": "Лига ВТБ перенесла матч в Краснодаре из-за проблем с вылетом команды",
-    "sport": "Баскетбол",
-    "category": "Баскетбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/1/98/347738335609981.png",
-    "teaser": "Лига ВТБ перенесла матч в Краснодаре из-за проблем с вылетом команды",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69ba8cc69a79476325b91e33",
-    "publishedAt": "2026-03-18T12:04:52.000Z",
-    "createdAt": "2026-03-18T13:25:50.351Z",
-    "updatedAt": "2026-03-18T13:25:50.351Z"
+    "createdAt": "2026-03-18T15:09:38.606Z",
+    "updatedAt": "2026-03-18T15:09:38.606Z"
   },
   {
     "id": "32103ad7a119ee73",
@@ -80,36 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69ba88329a79475890c216fd",
     "publishedAt": "2026-03-18T11:29:02.000Z",
-    "createdAt": "2026-03-18T13:25:45.969Z",
-    "updatedAt": "2026-03-18T13:25:45.969Z"
-  },
-  {
-    "id": "be2d249ce3a9846f",
-    "title": "Сафонов провел лучший матч Лиги чемпионов среди российских вратарей",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/3/14/347738303826143.jpeg",
-    "teaser": "Сафонов провел лучший матч Лиги чемпионов среди российских вратарей",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69ba80cb9a7947faed15ec26",
-    "publishedAt": "2026-03-18T11:12:12.000Z",
-    "createdAt": "2026-03-18T13:25:49.292Z",
-    "updatedAt": "2026-03-18T13:25:49.292Z"
-  },
-  {
-    "id": "b7ff5b1231161592",
-    "title": "Дик Адвокат стал консультантом тренера «Фейенорда» до конца сезона",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/2/98/347738303453982.jpeg",
-    "teaser": "Дик Адвокат стал консультантом тренера «Фейенорда» до конца сезона",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69ba79e89a794763849de6e8",
-    "publishedAt": "2026-03-18T10:23:42.000Z",
-    "createdAt": "2026-03-18T13:25:51.434Z",
-    "updatedAt": "2026-03-18T13:25:51.434Z"
+    "createdAt": "2026-03-18T15:09:39.623Z",
+    "updatedAt": "2026-03-18T15:09:39.623Z"
   },
   {
     "id": "1c82373e0520cefa",
@@ -122,8 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69b849b09a7947df892f7b98",
     "publishedAt": "2026-03-18T08:08:05.000Z",
-    "createdAt": "2026-03-18T13:25:43.985Z",
-    "updatedAt": "2026-03-18T13:25:43.985Z"
+    "createdAt": "2026-03-18T15:09:33.510Z",
+    "updatedAt": "2026-03-18T15:09:33.510Z"
   },
   {
     "id": "db84e2b128a5ed2b",
@@ -136,7 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69b7f1a69a79474056b0e127",
     "publishedAt": "2026-03-18T05:31:28.000Z",
-    "createdAt": "2026-03-18T13:25:47.042Z",
-    "updatedAt": "2026-03-18T13:25:47.042Z"
+    "createdAt": "2026-03-18T15:09:40.678Z",
+    "updatedAt": "2026-03-18T15:09:40.678Z"
   }
 ]
