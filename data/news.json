@@ -1,5 +1,61 @@
 [
   {
+    "id": "f087b7e2f136fa6b",
+    "title": "Би-би-си узнала о недовольстве в Лиге чемпионов из-за английских команд",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/4/11/347739348937114.jpeg",
+    "teaser": "Би-би-си узнала о недовольстве в Лиге чемпионов из-за английских команд",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69bc0e099a794700c0e706d1",
+    "publishedAt": "2026-03-19T15:54:51.000Z",
+    "createdAt": "2026-03-19T16:00:07.906Z",
+    "updatedAt": "2026-03-19T16:00:07.906Z"
+  },
+  {
+    "id": "bcdad894d3321cfc",
+    "title": "Путин встретился в Кремле с российскими паралимпийцами",
+    "sport": "Другое",
+    "category": "Другие",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/5/03/347739347706035.png",
+    "teaser": "Путин встретился в Кремле с российскими паралимпийцами",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69bc12cb9a7947de70cbcd05",
+    "publishedAt": "2026-03-19T15:42:40.000Z",
+    "createdAt": "2026-03-19T16:00:06.822Z",
+    "updatedAt": "2026-03-19T16:00:06.822Z"
+  },
+  {
+    "id": "fc5723f53a3a4e8e",
+    "title": "Лидеру «Детройта» в НБА диагностировали коллапс легкого",
+    "sport": "Баскетбол",
+    "category": "Баскетбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/0/12/347739314307120.jpeg",
+    "teaser": "Лидеру «Детройта» в НБА диагностировали коллапс легкого",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69bc05199a794721ca64d4dd",
+    "publishedAt": "2026-03-19T14:54:24.000Z",
+    "createdAt": "2026-03-19T16:00:08.850Z",
+    "updatedAt": "2026-03-19T16:00:08.850Z"
+  },
+  {
+    "id": "11349f1ace4a7ba4",
+    "title": "Россиянин Демин назвал свой дебютный сезон в НБА успешным",
+    "sport": "Баскетбол",
+    "category": "Баскетбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/7/25/347739286187257.jpeg",
+    "teaser": "Россиянин Демин назвал свой дебютный сезон в НБА успешным",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69bbfd339a7947223d1abe87",
+    "publishedAt": "2026-03-19T14:25:47.000Z",
+    "createdAt": "2026-03-19T16:00:09.902Z",
+    "updatedAt": "2026-03-19T16:00:09.902Z"
+  },
+  {
     "id": "e605a1bfbc04517b",
     "title": "Тарасова назвала Гуменника частью элиты мирового фигурного катания",
     "sport": "Другое",
@@ -10,8 +66,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69bbfe2e9a794740609d772a",
     "publishedAt": "2026-03-19T14:17:20.000Z",
-    "createdAt": "2026-03-19T14:54:04.326Z",
-    "updatedAt": "2026-03-19T14:54:04.326Z"
+    "createdAt": "2026-03-19T16:00:11.001Z",
+    "updatedAt": "2026-03-19T16:00:11.001Z"
   },
   {
     "id": "f954f198d3d3e7c6",
@@ -24,8 +80,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69bbfdf79a79472b58722584",
     "publishedAt": "2026-03-19T14:09:29.000Z",
-    "createdAt": "2026-03-19T14:54:06.485Z",
-    "updatedAt": "2026-03-19T14:54:06.485Z"
+    "createdAt": "2026-03-19T16:00:13.030Z",
+    "updatedAt": "2026-03-19T16:00:13.030Z"
   },
   {
     "id": "d6f68b23e098cec0",
@@ -38,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69bbf8cc9a79476b043f0b31",
     "publishedAt": "2026-03-19T13:47:21.000Z",
-    "createdAt": "2026-03-19T14:54:07.777Z",
-    "updatedAt": "2026-03-19T14:54:07.777Z"
+    "createdAt": "2026-03-19T16:00:14.196Z",
+    "updatedAt": "2026-03-19T16:00:14.196Z"
   },
   {
     "id": "9408566533631a39",
@@ -52,8 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69bbf62f9a79473924bc0db4",
     "publishedAt": "2026-03-19T13:45:02.000Z",
-    "createdAt": "2026-03-19T14:54:08.950Z",
-    "updatedAt": "2026-03-19T14:54:08.950Z"
+    "createdAt": "2026-03-19T16:00:15.427Z",
+    "updatedAt": "2026-03-19T16:00:15.427Z"
   },
   {
     "id": "cdf83bbb49dc0184",
@@ -66,22 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69bbf01d9a7947663ba6c3a7",
     "publishedAt": "2026-03-19T13:17:44.000Z",
-    "createdAt": "2026-03-19T14:54:10.158Z",
-    "updatedAt": "2026-03-19T14:54:10.158Z"
-  },
-  {
-    "id": "28685615266f681c",
-    "title": "Вратарь «Реала» выбыл на полтора месяца из-за травмы бедра",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/3/25/347739223828253.jpeg",
-    "teaser": "Вратарь «Реала» выбыл на полтора месяца из-за травмы бедра",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69bbe3a39a79475f9ffc2a4a",
-    "publishedAt": "2026-03-19T12:30:34.000Z",
-    "createdAt": "2026-03-19T14:54:12.453Z",
-    "updatedAt": "2026-03-19T14:54:12.453Z"
+    "createdAt": "2026-03-19T16:00:16.598Z",
+    "updatedAt": "2026-03-19T16:00:16.598Z"
   },
   {
     "id": "dba939db797a82c0",
@@ -94,49 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69bbde5f9a794760c015172c",
     "publishedAt": "2026-03-19T12:21:12.000Z",
-    "createdAt": "2026-03-19T14:54:11.281Z",
-    "updatedAt": "2026-03-19T14:54:11.281Z"
-  },
-  {
-    "id": "2df5f45858cc9093",
-    "title": "Россиянин Мичков отказался драться с соотечественником в матче НХЛ",
-    "sport": "Хоккей",
-    "category": "Хоккей",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/8/15/347739191991158.jpeg",
-    "teaser": "Россиянин Мичков отказался драться с соотечественником в матче НХЛ",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69bbd5da9a7947c862e72271",
-    "publishedAt": "2026-03-19T11:25:57.000Z",
-    "createdAt": "2026-03-19T14:54:13.667Z",
-    "updatedAt": "2026-03-19T14:54:13.667Z"
-  },
-  {
-    "id": "00486b3ffa22952b",
-    "title": "Суперкомпьютер назвал фаворита Лиги чемпионов",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/7/85/347739187298857.jpeg",
-    "teaser": "Суперкомпьютер назвал фаворита Лиги чемпионов",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69bbd59a9a79474ca4455b6e",
-    "publishedAt": "2026-03-19T11:23:46.000Z",
-    "createdAt": "2026-03-19T14:54:16.057Z",
-    "updatedAt": "2026-03-19T14:54:16.057Z"
-  },
-  {
-    "id": "8df51a05d6036ea2",
-    "title": "В Зале хоккейной славы отказались возвращать шайбу олимпийскому чемпиону",
-    "sport": "Хоккей",
-    "category": "Хоккей",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/2/89/347739151814892.jpeg",
-    "teaser": "В Зале хоккейной славы отказались возвращать шайбу олимпийскому чемпиону",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69bbc8fc9a79474c9cc78c09",
-    "publishedAt": "2026-03-19T10:41:43.000Z",
-    "createdAt": "2026-03-19T14:54:14.880Z",
-    "updatedAt": "2026-03-19T14:54:14.880Z"
+    "createdAt": "2026-03-19T16:00:17.749Z",
+    "updatedAt": "2026-03-19T16:00:17.749Z"
   }
 ]
