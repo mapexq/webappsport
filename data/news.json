@@ -1,5 +1,33 @@
 [
   {
+    "id": "28685615266f681c",
+    "title": "Вратарь «Реала» выбыл на полтора месяца из-за травмы бедра",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/3/25/347739223828253.jpeg",
+    "teaser": "Вратарь «Реала» выбыл на полтора месяца из-за травмы бедра",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69bbe3a39a79475f9ffc2a4a",
+    "publishedAt": "2026-03-19T12:30:34.000Z",
+    "createdAt": "2026-03-19T13:19:23.846Z",
+    "updatedAt": "2026-03-19T13:19:23.846Z"
+  },
+  {
+    "id": "dba939db797a82c0",
+    "title": "Капризов заявил о недовольстве своей игрой по ходу сезона НХЛ",
+    "sport": "Хоккей",
+    "category": "Хоккей",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/9/13/347739212180139.jpeg",
+    "teaser": "Капризов заявил о недовольстве своей игрой по ходу сезона НХЛ",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69bbde5f9a794760c015172c",
+    "publishedAt": "2026-03-19T12:21:12.000Z",
+    "createdAt": "2026-03-19T13:19:22.764Z",
+    "updatedAt": "2026-03-19T13:19:22.764Z"
+  },
+  {
     "id": "2df5f45858cc9093",
     "title": "Россиянин Мичков отказался драться с соотечественником в матче НХЛ",
     "sport": "Хоккей",
@@ -10,8 +38,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69bbd5da9a7947c862e72271",
     "publishedAt": "2026-03-19T11:25:57.000Z",
-    "createdAt": "2026-03-19T11:40:12.576Z",
-    "updatedAt": "2026-03-19T11:40:12.576Z"
+    "createdAt": "2026-03-19T13:19:24.937Z",
+    "updatedAt": "2026-03-19T13:19:24.937Z"
   },
   {
     "id": "00486b3ffa22952b",
@@ -24,8 +52,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69bbd59a9a79474ca4455b6e",
     "publishedAt": "2026-03-19T11:23:46.000Z",
-    "createdAt": "2026-03-19T11:40:14.571Z",
-    "updatedAt": "2026-03-19T11:40:14.571Z"
+    "createdAt": "2026-03-19T13:19:27.125Z",
+    "updatedAt": "2026-03-19T13:19:27.125Z"
   },
   {
     "id": "8df51a05d6036ea2",
@@ -38,8 +66,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69bbc8fc9a79474c9cc78c09",
     "publishedAt": "2026-03-19T10:41:43.000Z",
-    "createdAt": "2026-03-19T11:40:13.607Z",
-    "updatedAt": "2026-03-19T11:40:13.607Z"
+    "createdAt": "2026-03-19T13:19:26.021Z",
+    "updatedAt": "2026-03-19T13:19:26.021Z"
   },
   {
     "id": "6bc6cdf519ee3f72",
@@ -52,8 +80,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69bbcd719a7947f09c805a75",
     "publishedAt": "2026-03-19T10:40:51.000Z",
-    "createdAt": "2026-03-19T11:40:15.598Z",
-    "updatedAt": "2026-03-19T11:40:15.598Z"
+    "createdAt": "2026-03-19T13:19:28.219Z",
+    "updatedAt": "2026-03-19T13:19:28.219Z"
   },
   {
     "id": "1808dd1ee0b30679",
@@ -66,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69bbc5469a79470815daa33b",
     "publishedAt": "2026-03-19T10:07:20.000Z",
-    "createdAt": "2026-03-19T11:40:16.624Z",
-    "updatedAt": "2026-03-19T11:40:16.624Z"
+    "createdAt": "2026-03-19T13:19:29.306Z",
+    "updatedAt": "2026-03-19T13:19:29.306Z"
   },
   {
     "id": "7f334a243b7c0bb6",
@@ -80,8 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69bbc0419a79479d7856af91",
     "publishedAt": "2026-03-19T10:01:20.000Z",
-    "createdAt": "2026-03-19T11:40:17.676Z",
-    "updatedAt": "2026-03-19T11:40:17.676Z"
+    "createdAt": "2026-03-19T13:19:30.426Z",
+    "updatedAt": "2026-03-19T13:19:30.426Z"
   },
   {
     "id": "f39618434ec708fe",
@@ -94,22 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69bbbe509a794739f79d4e8c",
     "publishedAt": "2026-03-19T09:45:56.000Z",
-    "createdAt": "2026-03-19T11:40:18.737Z",
-    "updatedAt": "2026-03-19T11:40:18.737Z"
-  },
-  {
-    "id": "01934c9f43ab9000",
-    "title": "Московское «Динамо» продлило контракт с ведущим снайпером клуба",
-    "sport": "Хоккей",
-    "category": "Хоккей",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/1/18/347739099390181.jpeg",
-    "teaser": "Московское «Динамо» продлило контракт с ведущим снайпером клуба",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69bbb5659a7947486a9b5b0b",
-    "publishedAt": "2026-03-19T09:20:17.000Z",
-    "createdAt": "2026-03-19T11:40:20.901Z",
-    "updatedAt": "2026-03-19T11:40:20.901Z"
+    "createdAt": "2026-03-19T13:19:31.516Z",
+    "updatedAt": "2026-03-19T13:19:31.516Z"
   },
   {
     "id": "ef11d2e8353504e3",
@@ -122,21 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69bbaaaa9a79477ddd62a6b6",
     "publishedAt": "2026-03-19T07:57:53.000Z",
-    "createdAt": "2026-03-19T11:40:19.792Z",
-    "updatedAt": "2026-03-19T11:40:19.792Z"
-  },
-  {
-    "id": "7bcef8456080a3af",
-    "title": "Игроку «Галатасарая» отрезало часть пальца во время матча 1/8 финала ЛЧ",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/3/97/347739052452973.jpeg",
-    "teaser": "Игроку «Галатасарая» отрезало часть пальца во время матча 1/8 финала ЛЧ",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69bba0439a794724cc06ac5c",
-    "publishedAt": "2026-03-19T07:43:41.000Z",
-    "createdAt": "2026-03-19T11:40:21.941Z",
-    "updatedAt": "2026-03-19T11:40:21.941Z"
+    "createdAt": "2026-03-19T13:19:32.609Z",
+    "updatedAt": "2026-03-19T13:19:32.609Z"
   }
 ]
