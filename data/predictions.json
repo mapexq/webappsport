@@ -1,6 +1,6 @@
 [
   {
-    "id": 1773896335779,
+    "id": 1773900312646,
     "eventName": "АЕК — Целе",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -16,7 +16,7 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1773896335780,
+    "id": 1773900312647,
     "eventName": "Порту — Штутгарт",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -32,23 +32,7 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1773896335781,
-    "eventName": "Анахайм — Филадельфия",
-    "discipline": "Хоккей",
-    "tournament": "НБА",
-    "expert": {
-      "name": "Николай Чегорский",
-      "avatar": "https://wp2.bookmaker-ratings.ru/bookmaker-ratings.ru/wp-content/uploads/2025/02/Ava-67bc5517f35d5.png?ssl=1&w=60",
-      "status": "expert",
-      "winRate": 70
-    },
-    "prediction": "ТБ (6)",
-    "odds": 1.9,
-    "comment": "«Анахайм» занимает 2-е место на Западе по результативности матчей. Во встречах «Дакс» забрасывается в среднем 6,5 гола за игру. В домашних матчах показатель ещё выше и составляет 6,6 шайбы. У «Филадельфии» этот показатель заметно ниже — 5,7. Однако в выездных матчах результативность игр команды растёт и составляет 6,1 гола. В единственной очной встрече команд в этом сезоне «Флайерз» одержали победу со счётом 5:2.",
-    "source": "Sports Analytics Pro"
-  },
-  {
-    "id": 1773896335782,
+    "id": 1773900312648,
     "eventName": "Мидтьюлланд — Ноттингем Форест",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -64,7 +48,7 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1773896335783,
+    "id": 1773900312649,
     "eventName": "Астон Вилла — Лилль",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -80,7 +64,7 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1773896335784,
+    "id": 1773900312650,
     "eventName": "Рома — Болонья",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -96,7 +80,7 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1773896335785,
+    "id": 1773900312651,
     "eventName": "Кальяри — Наполи",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -112,7 +96,7 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1773896335786,
+    "id": 1773900312652,
     "eventName": "Синара — Факел",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
