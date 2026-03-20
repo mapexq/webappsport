@@ -1,22 +1,6 @@
 [
   {
-    "id": 1773982295156,
-    "eventName": "Сан-Хосе — Баффало",
-    "discipline": "Хоккей",
-    "tournament": "Чемпионат",
-    "expert": {
-      "name": "Димитрий Буренин",
-      "avatar": "https://bookmaker-ratings.ru/static/images/badges/is-kapper.svg?v=30092024",
-      "status": "expert",
-      "winRate": 68
-    },
-    "prediction": "Тотал (6) Б",
-    "odds": 1.66,
-    "comment": "Всем Доброго времени🏆Это будет голевая игра , так как Сан-Хосе и Баффало (бывшие аутсайдеры) будут доказывать кто из них лучше , возможно точный счет 4:4",
-    "source": "Sports Analytics Pro"
-  },
-  {
-    "id": 1773982295157,
+    "id": 1773986191071,
     "eventName": "Трактор — Адмирал",
     "discipline": "Хоккей",
     "tournament": "Чемпионат",
@@ -32,7 +16,7 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1773982295158,
+    "id": 1773986191073,
     "eventName": "Ротор — Факел",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -48,7 +32,7 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1773982295159,
+    "id": 1773986191074,
     "eventName": "Кальяри — Наполи",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -64,7 +48,7 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1773982295160,
+    "id": 1773986191075,
     "eventName": "Вильярреал — Реал Сосьедад",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -80,7 +64,7 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1773982295161,
+    "id": 1773986191076,
     "eventName": "Милан — Торино",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -96,7 +80,7 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1773982295162,
+    "id": 1773986191077,
     "eventName": "Ювентус — Сассуоло",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -112,7 +96,7 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1773982295163,
+    "id": 1773986191078,
     "eventName": "Ницца — ПСЖ",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -128,7 +112,7 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1773982295164,
+    "id": 1773986191079,
     "eventName": "Газпром-Югра — Норильский никель",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -144,7 +128,7 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1773982295166,
+    "id": 1773986191080,
     "eventName": "Новая генерация — Торпедо",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
