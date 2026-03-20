@@ -1,5 +1,61 @@
 [
   {
+    "id": "10b48add6e636a65",
+    "title": "Умер экс-голкипер сборной Португалии и многолетний помощник Моуринью",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/6/23/347740024703236.jpeg",
+    "teaser": "Умер экс-голкипер сборной Португалии и многолетний помощник Моуринью",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69bd20fa9a7947468e220bb2",
+    "publishedAt": "2026-03-20T10:41:07.000Z",
+    "createdAt": "2026-03-20T10:45:23.790Z",
+    "updatedAt": "2026-03-20T10:45:23.790Z"
+  },
+  {
+    "id": "7037fdad0a9e2a23",
+    "title": "Конор Макгрегор получил разрешение на возвращение в UFC",
+    "sport": "Единоборства",
+    "category": "Единоборства",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/4/48/347740015684484.jpeg",
+    "teaser": "Конор Макгрегор получил разрешение на возвращение в UFC",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69bd1acf9a794701b2d4a444",
+    "publishedAt": "2026-03-20T10:37:13.000Z",
+    "createdAt": "2026-03-20T10:45:24.942Z",
+    "updatedAt": "2026-03-20T10:45:24.942Z"
+  },
+  {
+    "id": "c2da23177eb33ebf",
+    "title": "Российских чемпионов Паралимпиады включили в базу «Миротворца»",
+    "sport": "Другое",
+    "category": "Другие",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/0/08/347740002402080.jpeg",
+    "teaser": "Российских чемпионов Паралимпиады включили в базу «Миротворца»",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69bd15cc9a79470ee78dd272",
+    "publishedAt": "2026-03-20T10:08:14.000Z",
+    "createdAt": "2026-03-20T10:45:26.068Z",
+    "updatedAt": "2026-03-20T10:45:26.068Z"
+  },
+  {
+    "id": "933bf5b9e2038778",
+    "title": "В Иране казнили 19-летнего борца сборной страны",
+    "sport": "Другое",
+    "category": "Другие",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/4/87/756678354777874.jpg",
+    "teaser": "В Иране казнили 19-летнего борца сборной страны",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69bd15c49a7947612096f6a0",
+    "publishedAt": "2026-03-20T09:58:41.000Z",
+    "createdAt": "2026-03-20T10:45:28.058Z",
+    "updatedAt": "2026-03-20T10:45:28.058Z"
+  },
+  {
     "id": "cbc87e5e03199570",
     "title": "Футболист вывернул лодыжку под прямым углом в матче чемпионата Бразилии",
     "sport": "Футбол",
@@ -10,8 +66,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69bd060b9a7947cca034c528",
     "publishedAt": "2026-03-20T09:11:28.000Z",
-    "createdAt": "2026-03-20T09:51:01.500Z",
-    "updatedAt": "2026-03-20T09:51:01.500Z"
+    "createdAt": "2026-03-20T10:45:29.201Z",
+    "updatedAt": "2026-03-20T10:45:29.201Z"
   },
   {
     "id": "bae2dce52568dbda",
@@ -24,8 +80,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69bd07489a7947a7febc5b22",
     "publishedAt": "2026-03-20T08:58:12.000Z",
-    "createdAt": "2026-03-20T09:51:02.406Z",
-    "updatedAt": "2026-03-20T09:51:02.406Z"
+    "createdAt": "2026-03-20T10:45:30.365Z",
+    "updatedAt": "2026-03-20T10:45:30.365Z"
   },
   {
     "id": "3bf84dae6bf2e7b2",
@@ -38,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69bcfe0a9a7947670c5adb1e",
     "publishedAt": "2026-03-20T08:52:40.000Z",
-    "createdAt": "2026-03-20T09:51:03.432Z",
-    "updatedAt": "2026-03-20T09:51:03.432Z"
+    "createdAt": "2026-03-20T10:45:31.450Z",
+    "updatedAt": "2026-03-20T10:45:31.450Z"
   },
   {
     "id": "26a5461406516cb8",
@@ -52,8 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69bcfed89a79476ba6d10591",
     "publishedAt": "2026-03-20T08:21:34.000Z",
-    "createdAt": "2026-03-20T09:51:04.460Z",
-    "updatedAt": "2026-03-20T09:51:04.460Z"
+    "createdAt": "2026-03-20T10:45:32.567Z",
+    "updatedAt": "2026-03-20T10:45:32.567Z"
   },
   {
     "id": "b1867e67ca626a62",
@@ -66,8 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69bcf8539a7947335138b106",
     "publishedAt": "2026-03-20T08:05:56.000Z",
-    "createdAt": "2026-03-20T09:51:05.478Z",
-    "updatedAt": "2026-03-20T09:51:05.478Z"
+    "createdAt": "2026-03-20T10:45:33.716Z",
+    "updatedAt": "2026-03-20T10:45:33.716Z"
   },
   {
     "id": "02b9c5e7f7e189e1",
@@ -80,63 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69bcf3479a794711456cc56d",
     "publishedAt": "2026-03-20T07:51:47.000Z",
-    "createdAt": "2026-03-20T09:51:06.511Z",
-    "updatedAt": "2026-03-20T09:51:06.511Z"
-  },
-  {
-    "id": "50194b22a67662bf",
-    "title": "Третья ракетка мира сенсационно проиграла на старте «тысячника» в Майами",
-    "sport": "Теннис",
-    "category": "Теннис",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/1/45/347739913344451.jpeg",
-    "teaser": "Третья ракетка мира сенсационно проиграла на старте «тысячника» в Майами",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69bcf5509a794725e67632b1",
-    "publishedAt": "2026-03-20T07:36:38.000Z",
-    "createdAt": "2026-03-20T09:51:07.552Z",
-    "updatedAt": "2026-03-20T09:51:07.552Z"
-  },
-  {
-    "id": "73f79b54fe6371dd",
-    "title": "Экс-тренера сборной России по хоккею Крикунова лишили ВНЖ в Латвии",
-    "sport": "Хоккей",
-    "category": "Хоккей",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/8/65/347739905572658.jpeg",
-    "teaser": "Экс-тренера сборной России по хоккею Крикунова лишили ВНЖ в Латвии",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69bcf2499a79470b832817b3",
-    "publishedAt": "2026-03-20T07:33:13.000Z",
-    "createdAt": "2026-03-20T09:51:08.732Z",
-    "updatedAt": "2026-03-20T09:51:08.732Z"
-  },
-  {
-    "id": "b41dda4b14b8ac63",
-    "title": "Два ассиста и буллит Мичкова помогли «Филадельфии» обыграть клуб Панарина",
-    "sport": "Хоккей",
-    "category": "Хоккей",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/9/35/347739902478359.jpeg",
-    "teaser": "Два ассиста и буллит Мичкова помогли «Филадельфии» обыграть клуб Панарина",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69bcee129a794713861bd4c3",
-    "publishedAt": "2026-03-20T07:27:37.000Z",
-    "createdAt": "2026-03-20T09:51:09.931Z",
-    "updatedAt": "2026-03-20T09:51:09.931Z"
-  },
-  {
-    "id": "0f17ef23442383c9",
-    "title": "Леброн Джеймс повторил рекорд НБА по числу игр в регулярных чемпионатах",
-    "sport": "Баскетбол",
-    "category": "Баскетбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/3/63/347739890501633.jpeg",
-    "teaser": "Леброн Джеймс повторил рекорд НБА по числу игр в регулярных чемпионатах",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69bce8da9a79475d38476b9b",
-    "publishedAt": "2026-03-20T07:21:33.000Z",
-    "createdAt": "2026-03-20T09:51:10.967Z",
-    "updatedAt": "2026-03-20T09:51:10.967Z"
+    "createdAt": "2026-03-20T10:45:34.863Z",
+    "updatedAt": "2026-03-20T10:45:34.863Z"
   }
 ]
