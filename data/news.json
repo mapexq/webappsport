@@ -1,5 +1,33 @@
 [
   {
+    "id": "b9cb0fda80553ab1",
+    "title": "Впервые за шесть лет россиянин стал лучшим снайпером сезона КХЛ",
+    "sport": "Хоккей",
+    "category": "Хоккей",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/9/86/347740204746869.jpeg",
+    "teaser": "Впервые за шесть лет россиянин стал лучшим снайпером сезона КХЛ",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69bd674f9a794750c8e84194",
+    "publishedAt": "2026-03-20T19:05:10.000Z",
+    "createdAt": "2026-03-20T19:41:03.587Z",
+    "updatedAt": "2026-03-20T19:41:03.587Z"
+  },
+  {
+    "id": "f0c6372d280e93a4",
+    "title": "Стали известны все пары первого раунда плей-офф КХЛ",
+    "sport": "Хоккей",
+    "category": "Хоккей",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/1/75/347740210077751.jpeg",
+    "teaser": "Стали известны все пары первого раунда плей-офф КХЛ",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69bd692f9a79476ed2ec1e18",
+    "publishedAt": "2026-03-20T19:04:11.000Z",
+    "createdAt": "2026-03-20T19:41:02.651Z",
+    "updatedAt": "2026-03-20T19:41:02.651Z"
+  },
+  {
     "id": "78310928f0543368",
     "title": "Хоккеист «Ак Барса» повторил бомбардирский рекорд КХЛ для вратарей",
     "sport": "Хоккей",
@@ -10,8 +38,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69bd8f079a7947d83ad7317a",
     "publishedAt": "2026-03-20T18:40:34.000Z",
-    "createdAt": "2026-03-20T18:58:12.180Z",
-    "updatedAt": "2026-03-20T18:58:12.180Z"
+    "createdAt": "2026-03-20T19:41:04.659Z",
+    "updatedAt": "2026-03-20T19:41:04.659Z"
   },
   {
     "id": "cf9ba643bbf1d206",
@@ -24,8 +52,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69bd86049a794769215e8d86",
     "publishedAt": "2026-03-20T18:14:11.000Z",
-    "createdAt": "2026-03-20T18:58:13.160Z",
-    "updatedAt": "2026-03-20T18:58:13.160Z"
+    "createdAt": "2026-03-20T19:41:05.661Z",
+    "updatedAt": "2026-03-20T19:41:05.661Z"
   },
   {
     "id": "7521dbfd3720faf8",
@@ -38,8 +66,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69bd79de9a7947ee0ad464ff",
     "publishedAt": "2026-03-20T17:20:22.000Z",
-    "createdAt": "2026-03-20T18:58:14.006Z",
-    "updatedAt": "2026-03-20T18:58:14.006Z"
+    "createdAt": "2026-03-20T19:41:06.660Z",
+    "updatedAt": "2026-03-20T19:41:06.660Z"
   },
   {
     "id": "b3567579e63c3756",
@@ -52,8 +80,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69bd62319a794724dab4e5bc",
     "publishedAt": "2026-03-20T16:48:43.000Z",
-    "createdAt": "2026-03-20T18:58:15.010Z",
-    "updatedAt": "2026-03-20T18:58:15.010Z"
+    "createdAt": "2026-03-20T19:41:07.783Z",
+    "updatedAt": "2026-03-20T19:41:07.783Z"
   },
   {
     "id": "1ea4a71bd7ec0bf5",
@@ -66,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69bd72469a79476e64c691a1",
     "publishedAt": "2026-03-20T16:23:14.000Z",
-    "createdAt": "2026-03-20T18:58:16.122Z",
-    "updatedAt": "2026-03-20T18:58:16.122Z"
+    "createdAt": "2026-03-20T19:41:08.889Z",
+    "updatedAt": "2026-03-20T19:41:08.889Z"
   },
   {
     "id": "79733adf2bccbbc2",
@@ -80,8 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69bd6afd9a79474a0203ee2b",
     "publishedAt": "2026-03-20T16:19:17.000Z",
-    "createdAt": "2026-03-20T18:58:17.179Z",
-    "updatedAt": "2026-03-20T18:58:17.179Z"
+    "createdAt": "2026-03-20T19:41:09.973Z",
+    "updatedAt": "2026-03-20T19:41:09.973Z"
   },
   {
     "id": "736b84273bc71574",
@@ -94,36 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69bd62ec9a79470d876afab3",
     "publishedAt": "2026-03-20T15:15:04.000Z",
-    "createdAt": "2026-03-20T18:58:18.200Z",
-    "updatedAt": "2026-03-20T18:58:18.200Z"
-  },
-  {
-    "id": "71356f45b64db3e4",
-    "title": "Этап КМ по спортивной гимнастике в Дохе отменили из‑за ситуации в регионе",
-    "sport": "Другое",
-    "category": "Другие",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/5/08/347740171437085.jpeg",
-    "teaser": "Этап КМ по спортивной гимнастике в Дохе отменили из‑за ситуации в регионе",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69bd56829a79472dd0e37042",
-    "publishedAt": "2026-03-20T15:03:21.000Z",
-    "createdAt": "2026-03-20T18:58:20.368Z",
-    "updatedAt": "2026-03-20T18:58:20.368Z"
-  },
-  {
-    "id": "428e374f57d757d7",
-    "title": "Валиева прыгнула тройной аксель на тренировке",
-    "sport": "Другое",
-    "category": "Фигурное катание",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/5/87/347740185992875.jpeg",
-    "teaser": "Валиева прыгнула тройной аксель на тренировке",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69bd5ab99a79478aac3d7bbf",
-    "publishedAt": "2026-03-20T14:59:44.000Z",
-    "createdAt": "2026-03-20T18:58:21.373Z",
-    "updatedAt": "2026-03-20T18:58:21.373Z"
+    "createdAt": "2026-03-20T19:41:11.063Z",
+    "updatedAt": "2026-03-20T19:41:11.063Z"
   },
   {
     "id": "2b65793361c7413c",
@@ -136,7 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69bd5af39a79476f84815694",
     "publishedAt": "2026-03-20T14:52:27.000Z",
-    "createdAt": "2026-03-20T18:58:19.118Z",
-    "updatedAt": "2026-03-20T18:58:19.118Z"
+    "createdAt": "2026-03-20T19:41:12.149Z",
+    "updatedAt": "2026-03-20T19:41:12.149Z"
   }
 ]
