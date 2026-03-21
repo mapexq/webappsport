@@ -1,5 +1,75 @@
 [
   {
+    "id": "58eea63271489874",
+    "title": "Шайба Ничушкина помогла «Колорадо» первым выйти в плей-офф НХЛ",
+    "sport": "Хоккей",
+    "category": "Хоккей",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/1/69/347740774534691.jpeg",
+    "teaser": "Шайба Ничушкина помогла «Колорадо» первым выйти в плей-офф НХЛ",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69be45d09a794721444fdf3f",
+    "publishedAt": "2026-03-21T07:24:46.000Z",
+    "createdAt": "2026-03-21T07:36:45.878Z",
+    "updatedAt": "2026-03-21T07:36:45.878Z"
+  },
+  {
+    "id": "2ff5ae1a63a55b60",
+    "title": "Россиянин стал второй звездой дня в НХЛ после победной шайбы в овертайме",
+    "sport": "Хоккей",
+    "category": "Хоккей",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/0/43/347740769336430.jpeg",
+    "teaser": "Россиянин стал второй звездой дня в НХЛ после победной шайбы в овертайме",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69be43ca9a7947987cd70e87",
+    "publishedAt": "2026-03-21T07:14:04.000Z",
+    "createdAt": "2026-03-21T07:36:47.002Z",
+    "updatedAt": "2026-03-21T07:36:47.002Z"
+  },
+  {
+    "id": "ca9f54c29e356e03",
+    "title": "Прервет ли ЦСКА свою худшую серию поражений. Главное о туре РПЛ",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/6/18/347737388408186.jpeg",
+    "teaser": "Прервет ли ЦСКА свою худшую серию поражений. Главное о туре РПЛ",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69b919709a794711de36ef2f",
+    "publishedAt": "2026-03-21T07:01:28.000Z",
+    "createdAt": "2026-03-21T07:36:49.032Z",
+    "updatedAt": "2026-03-21T07:36:49.032Z"
+  },
+  {
+    "id": "8de02473a4d5f1bd",
+    "title": "«Новый Капризов» заявил о себе. Главные итоги регулярного чемпионата КХЛ",
+    "sport": "Хоккей",
+    "category": "Хоккей",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/8/64/347739220554648.jpeg",
+    "teaser": "«Новый Капризов» заявил о себе. Главные итоги регулярного чемпионата КХЛ",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69b9672c9a7947210a2f7444",
+    "publishedAt": "2026-03-21T06:00:59.000Z",
+    "createdAt": "2026-03-21T07:36:50.156Z",
+    "updatedAt": "2026-03-21T07:36:50.156Z"
+  },
+  {
+    "id": "fd5e9014f707729d",
+    "title": "Отказался от связи с UFC. Как Чак Норрис стал легендой боевых искусств",
+    "sport": "Другое",
+    "category": "Другие",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/0/37/347740242025370.jpeg",
+    "teaser": "Отказался от связи с UFC. Как Чак Норрис стал легендой боевых искусств",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69bd55e49a7947237eefa7c3",
+    "publishedAt": "2026-03-20T21:07:22.000Z",
+    "createdAt": "2026-03-21T07:36:51.303Z",
+    "updatedAt": "2026-03-21T07:36:51.303Z"
+  },
+  {
     "id": "b9cb0fda80553ab1",
     "title": "Впервые за шесть лет россиянин стал лучшим снайпером сезона КХЛ",
     "sport": "Хоккей",
@@ -10,8 +80,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69bd674f9a794750c8e84194",
     "publishedAt": "2026-03-20T19:05:10.000Z",
-    "createdAt": "2026-03-21T06:53:47.754Z",
-    "updatedAt": "2026-03-21T06:53:47.754Z"
+    "createdAt": "2026-03-21T07:36:53.517Z",
+    "updatedAt": "2026-03-21T07:36:53.517Z"
   },
   {
     "id": "f0c6372d280e93a4",
@@ -24,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69bd692f9a79476ed2ec1e18",
     "publishedAt": "2026-03-20T19:04:11.000Z",
-    "createdAt": "2026-03-21T06:53:46.662Z",
-    "updatedAt": "2026-03-21T06:53:46.662Z"
+    "createdAt": "2026-03-21T07:36:52.412Z",
+    "updatedAt": "2026-03-21T07:36:52.412Z"
   },
   {
     "id": "78310928f0543368",
@@ -38,8 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69bd8f079a7947d83ad7317a",
     "publishedAt": "2026-03-20T18:40:34.000Z",
-    "createdAt": "2026-03-21T06:53:48.829Z",
-    "updatedAt": "2026-03-21T06:53:48.829Z"
+    "createdAt": "2026-03-21T07:36:54.623Z",
+    "updatedAt": "2026-03-21T07:36:54.623Z"
   },
   {
     "id": "cf9ba643bbf1d206",
@@ -52,8 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69bd86049a794769215e8d86",
     "publishedAt": "2026-03-20T18:14:11.000Z",
-    "createdAt": "2026-03-21T06:53:49.921Z",
-    "updatedAt": "2026-03-21T06:53:49.921Z"
+    "createdAt": "2026-03-21T07:36:55.756Z",
+    "updatedAt": "2026-03-21T07:36:55.756Z"
   },
   {
     "id": "7521dbfd3720faf8",
@@ -66,77 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69bd79de9a7947ee0ad464ff",
     "publishedAt": "2026-03-20T17:20:22.000Z",
-    "createdAt": "2026-03-21T06:53:50.992Z",
-    "updatedAt": "2026-03-21T06:53:50.992Z"
-  },
-  {
-    "id": "b3567579e63c3756",
-    "title": "КДК увеличил на полгода отстранение для совладельца «Торпедо»",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/7/72/347740208877727.jpeg",
-    "teaser": "КДК увеличил на полгода отстранение для совладельца «Торпедо»",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69bd62319a794724dab4e5bc",
-    "publishedAt": "2026-03-20T16:48:43.000Z",
-    "createdAt": "2026-03-21T06:53:51.984Z",
-    "updatedAt": "2026-03-21T06:53:51.984Z"
-  },
-  {
-    "id": "1ea4a71bd7ec0bf5",
-    "title": "Впервые с 2022 года француз выиграл общий зачет Кубка мира по биатлону",
-    "sport": "Другое",
-    "category": "Биатлон",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/8/15/347740233018158.jpeg",
-    "teaser": "Впервые с 2022 года француз выиграл общий зачет Кубка мира по биатлону",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69bd72469a79476e64c691a1",
-    "publishedAt": "2026-03-20T16:23:14.000Z",
-    "createdAt": "2026-03-21T06:53:53.051Z",
-    "updatedAt": "2026-03-21T06:53:53.051Z"
-  },
-  {
-    "id": "79733adf2bccbbc2",
-    "title": "Плющенко объявил о совместном шоу с Ягудиным в 2027 году",
-    "sport": "Другое",
-    "category": "Фигурное катание",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/4/45/347740232443454.jpeg",
-    "teaser": "Плющенко объявил о совместном шоу с Ягудиным в 2027 году",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69bd6afd9a79474a0203ee2b",
-    "publishedAt": "2026-03-20T16:19:17.000Z",
-    "createdAt": "2026-03-21T06:53:54.140Z",
-    "updatedAt": "2026-03-21T06:53:54.140Z"
-  },
-  {
-    "id": "736b84273bc71574",
-    "title": "«Сибирь» побила рекорд КХЛ по победам в серии буллитов за сезон",
-    "sport": "Хоккей",
-    "category": "Хоккей",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/7/01/347740193571017.jpeg",
-    "teaser": "«Сибирь» побила рекорд КХЛ по победам в серии буллитов за сезон",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69bd62ec9a79470d876afab3",
-    "publishedAt": "2026-03-20T15:15:04.000Z",
-    "createdAt": "2026-03-21T06:53:55.230Z",
-    "updatedAt": "2026-03-21T06:53:55.230Z"
-  },
-  {
-    "id": "2b65793361c7413c",
-    "title": "ЦСКА наказал Мойзеса после конфликта с главным тренером",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/1/26/347740173368261.jpeg",
-    "teaser": "ЦСКА наказал Мойзеса после конфликта с главным тренером",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69bd5af39a79476f84815694",
-    "publishedAt": "2026-03-20T14:52:27.000Z",
-    "createdAt": "2026-03-21T06:53:56.352Z",
-    "updatedAt": "2026-03-21T06:53:56.352Z"
+    "createdAt": "2026-03-21T07:36:56.872Z",
+    "updatedAt": "2026-03-21T07:36:56.872Z"
   }
 ]
