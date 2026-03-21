@@ -1,5 +1,19 @@
 [
   {
+    "id": "0dd2d7f00578725f",
+    "title": "Игрок «Краснодара» повторил достижение Промеса по результативности в РПЛ",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/6/37/347741079469376.jpeg",
+    "teaser": "Игрок «Краснодара» повторил достижение Промеса по результативности в РПЛ",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69bebcee9a79476267abb191",
+    "publishedAt": "2026-03-21T15:51:21.000Z",
+    "createdAt": "2026-03-21T16:37:13.531Z",
+    "updatedAt": "2026-03-21T16:37:13.531Z"
+  },
+  {
     "id": "b41df0091fcbe146",
     "title": "ЦСКА прервал антирекордную серию поражений в РПЛ",
     "sport": "Футбол",
@@ -10,8 +24,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69beaa209a79473a72a1dd9f",
     "publishedAt": "2026-03-21T14:57:38.000Z",
-    "createdAt": "2026-03-21T15:32:04.363Z",
-    "updatedAt": "2026-03-21T15:32:04.363Z"
+    "createdAt": "2026-03-21T16:37:14.559Z",
+    "updatedAt": "2026-03-21T16:37:14.559Z"
   },
   {
     "id": "b0da3773dee935aa",
@@ -24,8 +38,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69bea7469a79474aadd9822f",
     "publishedAt": "2026-03-21T14:21:10.000Z",
-    "createdAt": "2026-03-21T15:32:05.383Z",
-    "updatedAt": "2026-03-21T15:32:05.383Z"
+    "createdAt": "2026-03-21T16:37:15.655Z",
+    "updatedAt": "2026-03-21T16:37:15.655Z"
   },
   {
     "id": "a0cf633502092bf3",
@@ -38,8 +52,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69bea4fd9a79470ddd94ccf5",
     "publishedAt": "2026-03-21T14:08:50.000Z",
-    "createdAt": "2026-03-21T15:32:06.399Z",
-    "updatedAt": "2026-03-21T15:32:06.399Z"
+    "createdAt": "2026-03-21T16:37:16.748Z",
+    "updatedAt": "2026-03-21T16:37:16.748Z"
   },
   {
     "id": "e18dfb6537c746b2",
@@ -52,8 +66,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69be9f389a7947859ef8d77c",
     "publishedAt": "2026-03-21T13:45:17.000Z",
-    "createdAt": "2026-03-21T15:32:07.405Z",
-    "updatedAt": "2026-03-21T15:32:07.405Z"
+    "createdAt": "2026-03-21T16:37:17.822Z",
+    "updatedAt": "2026-03-21T16:37:17.822Z"
   },
   {
     "id": "13f1cd0bc2b9924a",
@@ -66,8 +80,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69be9ccd9a7947213e4a5c2a",
     "publishedAt": "2026-03-21T13:30:09.000Z",
-    "createdAt": "2026-03-21T15:32:11.865Z",
-    "updatedAt": "2026-03-21T15:32:11.865Z"
+    "createdAt": "2026-03-21T16:37:22.301Z",
+    "updatedAt": "2026-03-21T16:37:22.301Z"
   },
   {
     "id": "3c30274cfa86a79c",
@@ -80,22 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69be92cd9a794759e8dd8f94",
     "publishedAt": "2026-03-21T12:54:41.000Z",
-    "createdAt": "2026-03-21T15:32:13.000Z",
-    "updatedAt": "2026-03-21T15:32:13.000Z"
-  },
-  {
-    "id": "726dbb6b1f617a6d",
-    "title": "«Ахмат» обыграл «Ростов» и поднялся на седьмое место в РПЛ",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/5/51/347740954198515.jpeg",
-    "teaser": "«Ахмат» обыграл «Ростов» и поднялся на седьмое место в РПЛ",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69be8bd59a7947663b9c443c",
-    "publishedAt": "2026-03-21T12:43:37.000Z",
-    "createdAt": "2026-03-21T15:32:14.300Z",
-    "updatedAt": "2026-03-21T15:32:14.300Z"
+    "createdAt": "2026-03-21T16:37:23.389Z",
+    "updatedAt": "2026-03-21T16:37:23.389Z"
   },
   {
     "id": "3401d4dd05655826",
@@ -108,8 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69be4c849a79471267467070",
     "publishedAt": "2026-03-21T11:12:42.000Z",
-    "createdAt": "2026-03-21T15:32:08.456Z",
-    "updatedAt": "2026-03-21T15:32:08.456Z"
+    "createdAt": "2026-03-21T16:37:18.906Z",
+    "updatedAt": "2026-03-21T16:37:18.906Z"
   },
   {
     "id": "8de02473a4d5f1bd",
@@ -122,8 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69b9672c9a7947210a2f7444",
     "publishedAt": "2026-03-21T06:00:59.000Z",
-    "createdAt": "2026-03-21T15:32:09.678Z",
-    "updatedAt": "2026-03-21T15:32:09.678Z"
+    "createdAt": "2026-03-21T16:37:20.011Z",
+    "updatedAt": "2026-03-21T16:37:20.011Z"
   },
   {
     "id": "fd5e9014f707729d",
@@ -136,7 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69bd55e49a7947237eefa7c3",
     "publishedAt": "2026-03-20T21:07:22.000Z",
-    "createdAt": "2026-03-21T15:32:10.795Z",
-    "updatedAt": "2026-03-21T15:32:10.795Z"
+    "createdAt": "2026-03-21T16:37:21.163Z",
+    "updatedAt": "2026-03-21T16:37:21.163Z"
   }
 ]
