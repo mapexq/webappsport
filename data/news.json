@@ -1,5 +1,89 @@
 [
   {
+    "id": "703509fbc4644e5c",
+    "title": "Ски-альпинист Филиппов взял бронзу на этапе Кубка мира в Италии",
+    "sport": "Другое",
+    "category": "Другие",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/0/65/347741822967650.jpeg",
+    "teaser": "Ски-альпинист Филиппов взял бронзу на этапе Кубка мира в Италии",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69bfdf709a79474d0d4ff4b6",
+    "publishedAt": "2026-03-22T12:48:18.000Z",
+    "createdAt": "2026-03-22T13:04:01.914Z",
+    "updatedAt": "2026-03-22T13:04:01.914Z"
+  },
+  {
+    "id": "c2f3bd6a611a0e6f",
+    "title": "«Спартак» впервые с 2020 года победил «Оренбург» в гостях",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/1/86/347741794507861.png",
+    "teaser": "«Спартак» впервые с 2020 года победил «Оренбург» в гостях",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69bfcf229a7947f6f9e3a741",
+    "publishedAt": "2026-03-22T12:39:27.000Z",
+    "createdAt": "2026-03-22T13:04:00.981Z",
+    "updatedAt": "2026-03-22T13:04:00.981Z"
+  },
+  {
+    "id": "b178e73f6ecb67c3",
+    "title": "«Спартак» впервые за шесть лет забил гол в Оренбурге",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/9/49/347741798798499.png",
+    "teaser": "«Спартак» впервые за шесть лет забил гол в Оренбурге",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69bfd5fb9a794764889f4209",
+    "publishedAt": "2026-03-22T11:54:23.000Z",
+    "createdAt": "2026-03-22T13:04:02.943Z",
+    "updatedAt": "2026-03-22T13:04:02.943Z"
+  },
+  {
+    "id": "0f888a9857d9b88b",
+    "title": "КХЛ включила двух хоккеистов СКА в число лучших игроков марта",
+    "sport": "Хоккей",
+    "category": "Хоккей",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/7/78/347741773096787.png",
+    "teaser": "КХЛ включила двух хоккеистов СКА в число лучших игроков марта",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69bfc68b9a7947edc54a4c75",
+    "publishedAt": "2026-03-22T11:09:01.000Z",
+    "createdAt": "2026-03-22T13:04:03.923Z",
+    "updatedAt": "2026-03-22T13:04:03.923Z"
+  },
+  {
+    "id": "067cb723423f0d6e",
+    "title": "Биатлонистка Томшина стала чемпионкой России в масс-старте",
+    "sport": "Другое",
+    "category": "Биатлон",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/7/90/347741737544907.png",
+    "teaser": "Биатлонистка Томшина стала чемпионкой России в масс-старте",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69bfbd999a79472b088e0119",
+    "publishedAt": "2026-03-22T10:13:18.000Z",
+    "createdAt": "2026-03-22T13:04:05.969Z",
+    "updatedAt": "2026-03-22T13:04:05.969Z"
+  },
+  {
+    "id": "e9f4214439acb72e",
+    "title": "Команда Халили взяла золото чемпионата России по биатлону в эстафете",
+    "sport": "Другое",
+    "category": "Биатлон",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/1/44/347741727038441.png",
+    "teaser": "Команда Халили взяла золото чемпионата России по биатлону в эстафете",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69bfb9379a7947e2ac0b6d0c",
+    "publishedAt": "2026-03-22T09:57:00.000Z",
+    "createdAt": "2026-03-22T13:04:06.942Z",
+    "updatedAt": "2026-03-22T13:04:06.942Z"
+  },
+  {
     "id": "41529ba2c45fbb89",
     "title": "Россиянин возглавил список лучших бомбардиров НХЛ",
     "sport": "Хоккей",
@@ -10,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69bfb2319a7947cff42455e9",
     "publishedAt": "2026-03-22T09:39:09.000Z",
-    "createdAt": "2026-03-22T11:29:11.102Z",
-    "updatedAt": "2026-03-22T11:29:11.102Z"
+    "createdAt": "2026-03-22T13:04:04.951Z",
+    "updatedAt": "2026-03-22T13:04:04.951Z"
   },
   {
     "id": "82dd55e6b92c6a05",
@@ -24,8 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69bee5d49a7947547c25ac0b",
     "publishedAt": "2026-03-21T23:56:58.000Z",
-    "createdAt": "2026-03-22T11:29:12.133Z",
-    "updatedAt": "2026-03-22T11:29:12.133Z"
+    "createdAt": "2026-03-22T13:04:09.074Z",
+    "updatedAt": "2026-03-22T13:04:09.074Z"
   },
   {
     "id": "c3c6da4afbdee69f",
@@ -38,22 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69bede5c9a79476dccf9a270",
     "publishedAt": "2026-03-21T18:16:06.000Z",
-    "createdAt": "2026-03-22T11:29:13.117Z",
-    "updatedAt": "2026-03-22T11:29:13.117Z"
-  },
-  {
-    "id": "67e77556c6fd6f5e",
-    "title": "Велогонщицу доставили в больницу после падения в гонке «Милан — Сан-Ремо»",
-    "sport": "Другое",
-    "category": "Другие",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/9/49/347741146178499.jpeg",
-    "teaser": "Велогонщицу доставили в больницу после падения в гонке «Милан — Сан-Ремо»",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69bed7289a794765d4405be6",
-    "publishedAt": "2026-03-21T17:46:18.000Z",
-    "createdAt": "2026-03-22T11:29:15.131Z",
-    "updatedAt": "2026-03-22T11:29:15.131Z"
+    "createdAt": "2026-03-22T13:04:08.049Z",
+    "updatedAt": "2026-03-22T13:04:08.049Z"
   },
   {
     "id": "d92a26bc32b133d7",
@@ -66,77 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69beccf59a79473fff336e77",
     "publishedAt": "2026-03-21T17:11:57.000Z",
-    "createdAt": "2026-03-22T11:29:14.132Z",
-    "updatedAt": "2026-03-22T11:29:14.132Z"
-  },
-  {
-    "id": "65f753ea6eda2666",
-    "title": "Тарасова оценила выступление Валиевой на Кубке «Первого канала»",
-    "sport": "Другое",
-    "category": "Фигурное катание",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/7/73/347741113713737.jpeg",
-    "teaser": "Тарасова оценила выступление Валиевой на Кубке «Первого канала»",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69beca499a79476098cbc646",
-    "publishedAt": "2026-03-21T16:51:02.000Z",
-    "createdAt": "2026-03-22T11:29:16.147Z",
-    "updatedAt": "2026-03-22T11:29:16.147Z"
-  },
-  {
-    "id": "0dd2d7f00578725f",
-    "title": "Игрок «Краснодара» повторил достижение Промеса по результативности в РПЛ",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/6/37/347741079469376.jpeg",
-    "teaser": "Игрок «Краснодара» повторил достижение Промеса по результативности в РПЛ",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69bebcee9a79476267abb191",
-    "publishedAt": "2026-03-21T15:51:21.000Z",
-    "createdAt": "2026-03-22T11:29:17.136Z",
-    "updatedAt": "2026-03-22T11:29:17.136Z"
-  },
-  {
-    "id": "b41df0091fcbe146",
-    "title": "ЦСКА прервал антирекордную серию поражений в РПЛ",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/4/17/347741031458174.jpeg",
-    "teaser": "ЦСКА прервал антирекордную серию поражений в РПЛ",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69beaa209a79473a72a1dd9f",
-    "publishedAt": "2026-03-21T14:57:38.000Z",
-    "createdAt": "2026-03-22T11:29:18.015Z",
-    "updatedAt": "2026-03-22T11:29:18.015Z"
-  },
-  {
-    "id": "b0da3773dee935aa",
-    "title": "Валиева упала с четверного тулупа на Кубке «Первого канала»",
-    "sport": "Другое",
-    "category": "Фигурное катание",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/0/70/347741024014700.jpeg",
-    "teaser": "Валиева упала с четверного тулупа на Кубке «Первого канала»",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69bea7469a79474aadd9822f",
-    "publishedAt": "2026-03-21T14:21:10.000Z",
-    "createdAt": "2026-03-22T11:29:19.014Z",
-    "updatedAt": "2026-03-22T11:29:19.014Z"
-  },
-  {
-    "id": "a0cf633502092bf3",
-    "title": "Акинфеев впервые за 16 лет совершил две результативные ошибки за сезон",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/2/16/347741018189162.jpeg",
-    "teaser": "Акинфеев впервые за 16 лет совершил две результативные ошибки за сезон",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69bea4fd9a79470ddd94ccf5",
-    "publishedAt": "2026-03-21T14:08:50.000Z",
-    "createdAt": "2026-03-22T11:29:20.016Z",
-    "updatedAt": "2026-03-22T11:29:20.016Z"
+    "createdAt": "2026-03-22T13:04:10.077Z",
+    "updatedAt": "2026-03-22T13:04:10.077Z"
   }
 ]
