@@ -1,5 +1,47 @@
 [
   {
+    "id": "54bbcdd83ffec7bb",
+    "title": "«Манчестер Сити» выиграл первый трофей с 2024 года",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/4/44/347742010240444.jpeg",
+    "teaser": "«Манчестер Сити» выиграл первый трофей с 2024 года",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69c01c669a7947ebda6b42d2",
+    "publishedAt": "2026-03-22T18:29:09.000Z",
+    "createdAt": "2026-03-22T18:46:27.871Z",
+    "updatedAt": "2026-03-22T18:46:27.871Z"
+  },
+  {
+    "id": "0d9973ec7f79de87",
+    "title": "Шахматистка снялась с турнира претенденток FIDE из-за ситуации с Ираном",
+    "sport": "Другое",
+    "category": "Другие",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/6/37/347742031017376.png",
+    "teaser": "Шахматистка снялась с турнира претенденток FIDE из-за ситуации с Ираном",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69c02bb29a794796afb45ba5",
+    "publishedAt": "2026-03-22T18:21:51.000Z",
+    "createdAt": "2026-03-22T18:46:30.024Z",
+    "updatedAt": "2026-03-22T18:46:30.024Z"
+  },
+  {
+    "id": "577e57f55da9598c",
+    "title": "«Локомотив» разгромил клуб Дзюбы",
+    "sport": "Хоккей",
+    "category": "Хоккей",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/3/85/347741973430853.png",
+    "teaser": "«Локомотив» разгромил клуб Дзюбы",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69c019ff9a794706c4a1a990",
+    "publishedAt": "2026-03-22T17:54:53.000Z",
+    "createdAt": "2026-03-22T18:46:28.898Z",
+    "updatedAt": "2026-03-22T18:46:28.898Z"
+  },
+  {
     "id": "3f57d82625557a64",
     "title": "Белорусский мотогонщик выжил после падения со скалы в Геленджике",
     "sport": "Другое",
@@ -10,8 +52,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69c01e1f9a794736d4599450",
     "publishedAt": "2026-03-22T17:22:31.000Z",
-    "createdAt": "2026-03-22T17:30:16.847Z",
-    "updatedAt": "2026-03-22T17:30:16.847Z"
+    "createdAt": "2026-03-22T18:46:31.083Z",
+    "updatedAt": "2026-03-22T18:46:31.083Z"
   },
   {
     "id": "9a77f04d35a16676",
@@ -24,8 +66,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69c010709a794770e5b9028d",
     "publishedAt": "2026-03-22T16:15:08.000Z",
-    "createdAt": "2026-03-22T17:30:17.790Z",
-    "updatedAt": "2026-03-22T17:30:17.790Z"
+    "createdAt": "2026-03-22T18:46:32.209Z",
+    "updatedAt": "2026-03-22T18:46:32.209Z"
   },
   {
     "id": "3eea2f53ee963438",
@@ -38,8 +80,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69c0060f9a794708757493bc",
     "publishedAt": "2026-03-22T15:44:31.000Z",
-    "createdAt": "2026-03-22T17:30:20.577Z",
-    "updatedAt": "2026-03-22T17:30:20.577Z"
+    "createdAt": "2026-03-22T18:46:35.464Z",
+    "updatedAt": "2026-03-22T18:46:35.464Z"
   },
   {
     "id": "de9cfd7ace61cf0b",
@@ -52,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69bff60e9a794753aad20267",
     "publishedAt": "2026-03-22T15:04:42.000Z",
-    "createdAt": "2026-03-22T17:30:21.601Z",
-    "updatedAt": "2026-03-22T17:30:21.601Z"
+    "createdAt": "2026-03-22T18:46:36.615Z",
+    "updatedAt": "2026-03-22T18:46:36.615Z"
   },
   {
     "id": "77d028852b4a54f8",
@@ -66,8 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69bff67d9a794780b5319784",
     "publishedAt": "2026-03-22T14:59:36.000Z",
-    "createdAt": "2026-03-22T17:30:18.806Z",
-    "updatedAt": "2026-03-22T17:30:18.806Z"
+    "createdAt": "2026-03-22T18:46:33.503Z",
+    "updatedAt": "2026-03-22T18:46:33.503Z"
   },
   {
     "id": "1be6f1095099c911",
@@ -80,22 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69bfe6e49a7947874264286b",
     "publishedAt": "2026-03-22T13:30:15.000Z",
-    "createdAt": "2026-03-22T17:30:23.624Z",
-    "updatedAt": "2026-03-22T17:30:23.624Z"
-  },
-  {
-    "id": "0c2bd5d756e0cf32",
-    "title": "Ски-альпинист Филиппов взял бронзу на этапе Кубка мира в Италии",
-    "sport": "Другое",
-    "category": "Другие",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/0/65/347741822967650.jpeg",
-    "teaser": "Ски-альпинист Филиппов взял бронзу на этапе Кубка мира в Италии",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69bfdf709a79474d0d4ff4b6",
-    "publishedAt": "2026-03-22T12:48:19.000Z",
-    "createdAt": "2026-03-22T17:30:24.685Z",
-    "updatedAt": "2026-03-22T17:30:24.685Z"
+    "createdAt": "2026-03-22T18:46:38.936Z",
+    "updatedAt": "2026-03-22T18:46:38.936Z"
   },
   {
     "id": "c2f3bd6a611a0e6f",
@@ -108,35 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69bfcf229a7947f6f9e3a741",
     "publishedAt": "2026-03-22T12:39:27.000Z",
-    "createdAt": "2026-03-22T17:30:22.635Z",
-    "updatedAt": "2026-03-22T17:30:22.635Z"
-  },
-  {
-    "id": "b178e73f6ecb67c3",
-    "title": "«Спартак» впервые за шесть лет забил гол в Оренбурге",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/9/49/347741798798499.png",
-    "teaser": "«Спартак» впервые за шесть лет забил гол в Оренбурге",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69bfd5fb9a794764889f4209",
-    "publishedAt": "2026-03-22T11:54:23.000Z",
-    "createdAt": "2026-03-22T17:30:25.722Z",
-    "updatedAt": "2026-03-22T17:30:25.722Z"
-  },
-  {
-    "id": "0f888a9857d9b88b",
-    "title": "КХЛ включила двух хоккеистов СКА в число лучших игроков марта",
-    "sport": "Хоккей",
-    "category": "Хоккей",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/7/78/347741773096787.png",
-    "teaser": "КХЛ включила двух хоккеистов СКА в число лучших игроков марта",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69bfc68b9a7947edc54a4c75",
-    "publishedAt": "2026-03-22T11:09:01.000Z",
-    "createdAt": "2026-03-22T17:30:26.726Z",
-    "updatedAt": "2026-03-22T17:30:26.726Z"
+    "createdAt": "2026-03-22T18:46:37.807Z",
+    "updatedAt": "2026-03-22T18:46:37.807Z"
   }
 ]
