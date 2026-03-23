@@ -1,5 +1,89 @@
 [
   {
+    "id": "dec2a25cf7c0d7ed",
+    "title": "Чемпионку Игр в беге заставили выбросить кроссовки в аэропорту Польши",
+    "sport": "Другое",
+    "category": "Другие",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/1/36/347742731394361.jpeg",
+    "teaser": "Чемпионку Игр в беге заставили выбросить кроссовки в аэропорту Польши",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69c1424e9a79477b1c444354",
+    "publishedAt": "2026-03-23T15:23:38.000Z",
+    "createdAt": "2026-03-23T17:00:12.659Z",
+    "updatedAt": "2026-03-23T17:00:12.659Z"
+  },
+  {
+    "id": "61a5fa92f73dd92c",
+    "title": "Матч за Суперкубок Англии впервые за 20 лет пройдет в Уэльсе",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/8/67/347742784884678.jpeg",
+    "teaser": "Матч за Суперкубок Англии впервые за 20 лет пройдет в Уэльсе",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69c153bf9a79470098d8e382",
+    "publishedAt": "2026-03-23T15:22:25.000Z",
+    "createdAt": "2026-03-23T17:00:13.461Z",
+    "updatedAt": "2026-03-23T17:00:13.461Z"
+  },
+  {
+    "id": "77561cee63da7ebd",
+    "title": "Ajansspor сообщил об интересе «Спартака» к немецкому игроку «Бешикташа»",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/3/98/347742763751983.jpeg",
+    "teaser": "Ajansspor сообщил об интересе «Спартака» к немецкому игроку «Бешикташа»",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69c144ea9a7947940f072479",
+    "publishedAt": "2026-03-23T15:20:10.000Z",
+    "createdAt": "2026-03-23T17:00:20.703Z",
+    "updatedAt": "2026-03-23T17:00:20.703Z"
+  },
+  {
+    "id": "7d4183bb02020fc2",
+    "title": "Суперкомпьютер назвал «Зенит» главным фаворитом на чемпионство в РПЛ",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/5/54/347742752939545.jpeg",
+    "teaser": "Суперкомпьютер назвал «Зенит» главным фаворитом на чемпионство в РПЛ",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69c145379a7947afd41d4a23",
+    "publishedAt": "2026-03-23T15:03:27.000Z",
+    "createdAt": "2026-03-23T17:00:15.407Z",
+    "updatedAt": "2026-03-23T17:00:15.407Z"
+  },
+  {
+    "id": "7d01e7ae48a78c1f",
+    "title": "В РФС назвали ужасным назначение пенальти в пользу «Зенита»",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/5/22/347742741544225.jpeg",
+    "teaser": "В РФС назвали ужасным назначение пенальти в пользу «Зенита»",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69c143419a79471fe0aa1b03",
+    "publishedAt": "2026-03-23T14:21:18.000Z",
+    "createdAt": "2026-03-23T17:00:11.632Z",
+    "updatedAt": "2026-03-23T17:00:11.632Z"
+  },
+  {
+    "id": "f27bde3efb20136e",
+    "title": "В сборную Англии вернули игрока, неожиданно уехавшего посреди ЧМ-2022",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/2/09/347742722662092.jpeg",
+    "teaser": "В сборную Англии вернули игрока, неожиданно уехавшего посреди ЧМ-2022",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69c138e39a79471c24f40a3a",
+    "publishedAt": "2026-03-23T13:55:47.000Z",
+    "createdAt": "2026-03-23T17:00:14.438Z",
+    "updatedAt": "2026-03-23T17:00:14.438Z"
+  },
+  {
     "id": "d08f6f82e227a0bc",
     "title": "В сборной Франции нашли замену Дидье Дешаму после ЧМ-2026",
     "sport": "Футбол",
@@ -10,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69c12da59a794776a5ce2ec2",
     "publishedAt": "2026-03-23T12:38:16.000Z",
-    "createdAt": "2026-03-23T15:01:49.977Z",
-    "updatedAt": "2026-03-23T15:01:49.977Z"
+    "createdAt": "2026-03-23T17:00:17.419Z",
+    "updatedAt": "2026-03-23T17:00:17.419Z"
   },
   {
     "id": "501130a09df0a11f",
@@ -24,50 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69c12c949a79479c2fa948d3",
     "publishedAt": "2026-03-23T12:32:12.000Z",
-    "createdAt": "2026-03-23T15:01:48.857Z",
-    "updatedAt": "2026-03-23T15:01:48.857Z"
-  },
-  {
-    "id": "20596bf2ed5704f1",
-    "title": "Крикунов назвал фаворитов в первом раунде Кубка Гагарина",
-    "sport": "Хоккей",
-    "category": "Хоккей",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/1/06/347742670921061.jpeg",
-    "teaser": "Крикунов назвал фаворитов в первом раунде Кубка Гагарина",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69c112bd9a794793f35a8495",
-    "publishedAt": "2026-03-23T12:18:17.000Z",
-    "createdAt": "2026-03-23T15:01:52.228Z",
-    "updatedAt": "2026-03-23T15:01:52.228Z"
-  },
-  {
-    "id": "bc3ae59ce2af1010",
-    "title": "Умерла двукратная чемпионка Паралимпиад Алевтина Елесина",
-    "sport": "Другое",
-    "category": "Другие",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/4/74/347742660231744.png",
-    "teaser": "Умерла двукратная чемпионка Паралимпиад Алевтина Елесина",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69c126999a7947eec72ae4c9",
-    "publishedAt": "2026-03-23T11:55:10.000Z",
-    "createdAt": "2026-03-23T15:01:54.558Z",
-    "updatedAt": "2026-03-23T15:01:54.558Z"
-  },
-  {
-    "id": "0309042a5300db5d",
-    "title": "Умер один из основоположников современного чирлидинга Джефф Уэбб",
-    "sport": "Другое",
-    "category": "Другие",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/9/30/347742650851309.jpeg",
-    "teaser": "Умер один из основоположников современного чирлидинга Джефф Уэбб",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69c118929a7947ed5c14bae4",
-    "publishedAt": "2026-03-23T11:35:59.000Z",
-    "createdAt": "2026-03-23T15:01:53.380Z",
-    "updatedAt": "2026-03-23T15:01:53.380Z"
+    "createdAt": "2026-03-23T17:00:16.433Z",
+    "updatedAt": "2026-03-23T17:00:16.433Z"
   },
   {
     "id": "34d62e7fc95ec2cf",
@@ -80,50 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69bff1109a79479fb41c0ad9",
     "publishedAt": "2026-03-23T11:18:37.000Z",
-    "createdAt": "2026-03-23T15:01:51.106Z",
-    "updatedAt": "2026-03-23T15:01:51.106Z"
-  },
-  {
-    "id": "fed5e56c9d9bfbee",
-    "title": "Американскую боксершу ввели в искусственную кому после нокаута",
-    "sport": "Единоборства",
-    "category": "Единоборства",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/4/74/347742614826744.jpeg",
-    "teaser": "Американскую боксершу ввели в искусственную кому после нокаута",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69c10fe89a7947861aac36a1",
-    "publishedAt": "2026-03-23T10:46:31.000Z",
-    "createdAt": "2026-03-23T15:01:57.889Z",
-    "updatedAt": "2026-03-23T15:01:57.889Z"
-  },
-  {
-    "id": "535dd88c03bcee41",
-    "title": "IIHF назвала легендарной карьеру Овечкина после 1000 голов в НХЛ",
-    "sport": "Хоккей",
-    "category": "Хоккей",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/2/60/347742574127602.jpeg",
-    "teaser": "IIHF назвала легендарной карьеру Овечкина после 1000 голов в НХЛ",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69c104a39a79476066912605",
-    "publishedAt": "2026-03-23T10:32:20.000Z",
-    "createdAt": "2026-03-23T15:01:56.762Z",
-    "updatedAt": "2026-03-23T15:01:56.762Z"
-  },
-  {
-    "id": "89940c5b57303ffe",
-    "title": "Депутат от ЛДПР возглавил Ассоциацию лыжных видов спорта вместо Вяльбе",
-    "sport": "Другое",
-    "category": "Другие",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/4/16/347742583978164.png",
-    "teaser": "Депутат от ЛДПР возглавил Ассоциацию лыжных видов спорта вместо Вяльбе",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69c108b49a79471f638e34be",
-    "publishedAt": "2026-03-23T10:00:17.000Z",
-    "createdAt": "2026-03-23T15:01:55.678Z",
-    "updatedAt": "2026-03-23T15:01:55.678Z"
+    "createdAt": "2026-03-23T17:00:18.503Z",
+    "updatedAt": "2026-03-23T17:00:18.503Z"
   },
   {
     "id": "cb4c106219cce29c",
@@ -136,7 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69c0de029a79470e9fa41858",
     "publishedAt": "2026-03-23T07:59:24.000Z",
-    "createdAt": "2026-03-23T15:01:59.052Z",
-    "updatedAt": "2026-03-23T15:01:59.052Z"
+    "createdAt": "2026-03-23T17:00:19.604Z",
+    "updatedAt": "2026-03-23T17:00:19.604Z"
   }
 ]
