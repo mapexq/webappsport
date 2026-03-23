@@ -1,5 +1,47 @@
 [
   {
+    "id": "ca49a51a5649f8da",
+    "title": "«Ак Барс» вырвал победу у «Трактора» в первом матче серии Кубка Гагарина",
+    "sport": "Хоккей",
+    "category": "Хоккей",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/0/46/347742888002460.png",
+    "teaser": "«Ак Барс» вырвал победу у «Трактора» в первом матче серии Кубка Гагарина",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69c17df49a7947b080d13ea8",
+    "publishedAt": "2026-03-23T19:55:59.000Z",
+    "createdAt": "2026-03-23T20:42:49.861Z",
+    "updatedAt": "2026-03-23T20:42:49.861Z"
+  },
+  {
+    "id": "a3643f5c9069d730",
+    "title": "Сафонов рассказал, что разделило его жизнь в Париже на «до и после»",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/8/70/347742921902708.jpeg",
+    "teaser": "Сафонов рассказал, что разделило его жизнь в Париже на «до и после»",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69c187049a79472565f8f737",
+    "publishedAt": "2026-03-23T19:35:31.000Z",
+    "createdAt": "2026-03-23T20:42:48.681Z",
+    "updatedAt": "2026-03-23T20:42:48.681Z"
+  },
+  {
+    "id": "d7e5287546629b93",
+    "title": "Андреева вслед за Медведевым с «баранкой» проиграла на турнире в Майами",
+    "sport": "Теннис",
+    "category": "Теннис",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/7/92/347742877658927.jpeg",
+    "teaser": "Андреева вслед за Медведевым с «баранкой» проиграла на турнире в Майами",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69c17b749a7947130a532d35",
+    "publishedAt": "2026-03-23T19:30:09.000Z",
+    "createdAt": "2026-03-23T20:42:47.575Z",
+    "updatedAt": "2026-03-23T20:42:47.575Z"
+  },
+  {
     "id": "93b6f5a9d84d2edd",
     "title": "«Торпедо» обыграло «Северсталь» в первом матче серии плей-офф КХЛ",
     "sport": "Хоккей",
@@ -10,8 +52,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69c181ed9a79476216c7f879",
     "publishedAt": "2026-03-23T18:55:54.000Z",
-    "createdAt": "2026-03-23T19:08:18.653Z",
-    "updatedAt": "2026-03-23T19:08:18.653Z"
+    "createdAt": "2026-03-23T20:42:58.426Z",
+    "updatedAt": "2026-03-23T20:42:58.426Z"
   },
   {
     "id": "7aae81246d619e43",
@@ -24,8 +66,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69c169869a79476f280ff922",
     "publishedAt": "2026-03-23T18:35:58.000Z",
-    "createdAt": "2026-03-23T19:08:11.588Z",
-    "updatedAt": "2026-03-23T19:08:11.588Z"
+    "createdAt": "2026-03-23T20:42:51.217Z",
+    "updatedAt": "2026-03-23T20:42:51.217Z"
   },
   {
     "id": "1af0b69e6ff0bcd9",
@@ -38,22 +80,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69c175759a7947358077602e",
     "publishedAt": "2026-03-23T17:42:25.000Z",
-    "createdAt": "2026-03-23T19:08:12.601Z",
-    "updatedAt": "2026-03-23T19:08:12.601Z"
-  },
-  {
-    "id": "a77c5a237d2586ae",
-    "title": "Третья ракетка мира объявила о прекращении работы с тренером",
-    "sport": "Теннис",
-    "category": "Теннис",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/5/47/347742853164475.jpeg",
-    "teaser": "Третья ракетка мира объявила о прекращении работы с тренером",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69c16f209a794768471cf3b2",
-    "publishedAt": "2026-03-23T17:16:44.000Z",
-    "createdAt": "2026-03-23T19:08:20.859Z",
-    "updatedAt": "2026-03-23T19:08:20.859Z"
+    "createdAt": "2026-03-23T20:42:52.394Z",
+    "updatedAt": "2026-03-23T20:42:52.394Z"
   },
   {
     "id": "0e102d1fbb362561",
@@ -66,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69c169469a79470604f9ab8e",
     "publishedAt": "2026-03-23T16:57:39.000Z",
-    "createdAt": "2026-03-23T19:08:13.628Z",
-    "updatedAt": "2026-03-23T19:08:13.628Z"
+    "createdAt": "2026-03-23T20:42:53.825Z",
+    "updatedAt": "2026-03-23T20:42:53.825Z"
   },
   {
     "id": "852cf02bee814b28",
@@ -80,36 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69c15ba29a7947789d5b6f0d",
     "publishedAt": "2026-03-23T16:38:17.000Z",
-    "createdAt": "2026-03-23T19:08:16.585Z",
-    "updatedAt": "2026-03-23T19:08:16.585Z"
-  },
-  {
-    "id": "dec2a25cf7c0d7ed",
-    "title": "Чемпионку Игр в беге заставили выбросить кроссовки в аэропорту Польши",
-    "sport": "Другое",
-    "category": "Другие",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/1/36/347742731394361.jpeg",
-    "teaser": "Чемпионку Игр в беге заставили выбросить кроссовки в аэропорту Польши",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69c1424e9a79477b1c444354",
-    "publishedAt": "2026-03-23T15:23:38.000Z",
-    "createdAt": "2026-03-23T19:08:21.879Z",
-    "updatedAt": "2026-03-23T19:08:21.879Z"
-  },
-  {
-    "id": "61a5fa92f73dd92c",
-    "title": "Матч за Суперкубок Англии впервые за 20 лет пройдет в Уэльсе",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/8/67/347742784884678.jpeg",
-    "teaser": "Матч за Суперкубок Англии впервые за 20 лет пройдет в Уэльсе",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69c153bf9a79470098d8e382",
-    "publishedAt": "2026-03-23T15:22:25.000Z",
-    "createdAt": "2026-03-23T19:08:22.895Z",
-    "updatedAt": "2026-03-23T19:08:22.895Z"
+    "createdAt": "2026-03-23T20:42:55.960Z",
+    "updatedAt": "2026-03-23T20:42:55.960Z"
   },
   {
     "id": "7d01e7ae48a78c1f",
@@ -122,8 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69c143419a79471fe0aa1b03",
     "publishedAt": "2026-03-23T14:21:18.000Z",
-    "createdAt": "2026-03-23T19:08:19.768Z",
-    "updatedAt": "2026-03-23T19:08:19.768Z"
+    "createdAt": "2026-03-23T20:42:59.601Z",
+    "updatedAt": "2026-03-23T20:42:59.601Z"
   },
   {
     "id": "cb4c106219cce29c",
@@ -136,7 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69c0de029a79470e9fa41858",
     "publishedAt": "2026-03-23T07:59:24.000Z",
-    "createdAt": "2026-03-23T19:08:17.632Z",
-    "updatedAt": "2026-03-23T19:08:17.632Z"
+    "createdAt": "2026-03-23T20:42:57.177Z",
+    "updatedAt": "2026-03-23T20:42:57.177Z"
   }
 ]
