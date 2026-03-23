@@ -1,5 +1,75 @@
 [
   {
+    "id": "d08f6f82e227a0bc",
+    "title": "В сборной Франции нашли замену Дидье Дешаму после ЧМ-2026",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/4/82/347742679307824.jpeg",
+    "teaser": "В сборной Франции нашли замену Дидье Дешаму после ЧМ-2026",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69c12da59a794776a5ce2ec2",
+    "publishedAt": "2026-03-23T12:38:16.000Z",
+    "createdAt": "2026-03-23T13:20:49.721Z",
+    "updatedAt": "2026-03-23T13:20:49.721Z"
+  },
+  {
+    "id": "501130a09df0a11f",
+    "title": "Сафонов и Головин догонят сборную России в Адыгее",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/0/01/347742676814010.jpeg",
+    "teaser": "Сафонов и Головин догонят сборную России в Адыгее",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69c12c949a79479c2fa948d3",
+    "publishedAt": "2026-03-23T12:32:12.000Z",
+    "createdAt": "2026-03-23T13:20:48.613Z",
+    "updatedAt": "2026-03-23T13:20:48.613Z"
+  },
+  {
+    "id": "20596bf2ed5704f1",
+    "title": "Крикунов назвал фаворитов в первом раунде Кубка Гагарина",
+    "sport": "Хоккей",
+    "category": "Хоккей",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/1/06/347742670921061.jpeg",
+    "teaser": "Крикунов назвал фаворитов в первом раунде Кубка Гагарина",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69c112bd9a794793f35a8495",
+    "publishedAt": "2026-03-23T12:18:17.000Z",
+    "createdAt": "2026-03-23T13:20:51.845Z",
+    "updatedAt": "2026-03-23T13:20:51.845Z"
+  },
+  {
+    "id": "bc3ae59ce2af1010",
+    "title": "Умерла двукратная чемпионка Паралимпиад Алевтина Елесина",
+    "sport": "Другое",
+    "category": "Другие",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/4/74/347742660231744.png",
+    "teaser": "Умерла двукратная чемпионка Паралимпиад Алевтина Елесина",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69c126999a7947eec72ae4c9",
+    "publishedAt": "2026-03-23T11:55:10.000Z",
+    "createdAt": "2026-03-23T13:20:54.204Z",
+    "updatedAt": "2026-03-23T13:20:54.204Z"
+  },
+  {
+    "id": "0309042a5300db5d",
+    "title": "Умер один из основоположников современного чирлидинга Джефф Уэбб",
+    "sport": "Другое",
+    "category": "Другие",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/9/30/347742650851309.jpeg",
+    "teaser": "Умер один из основоположников современного чирлидинга Джефф Уэбб",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69c118929a7947ed5c14bae4",
+    "publishedAt": "2026-03-23T11:35:59.000Z",
+    "createdAt": "2026-03-23T13:20:53.039Z",
+    "updatedAt": "2026-03-23T13:20:53.039Z"
+  },
+  {
     "id": "34d62e7fc95ec2cf",
     "title": "Кто является фаворитом Кубка Гагарина",
     "sport": "Другое",
@@ -10,22 +80,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69bff1109a79479fb41c0ad9",
     "publishedAt": "2026-03-23T11:18:37.000Z",
-    "createdAt": "2026-03-23T11:50:15.083Z",
-    "updatedAt": "2026-03-23T11:50:15.083Z"
-  },
-  {
-    "id": "eb31d93d592603be",
-    "title": "Дегтярев поддержал выдвижение Свищева на пост главы новой федерации лыж",
-    "sport": "Другое",
-    "category": "Другие",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/6/93/347742620255936.png",
-    "teaser": "Дегтярев поддержал выдвижение Свищева на пост главы новой федерации лыж",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69c116c89a79472695a4e551",
-    "publishedAt": "2026-03-23T11:17:04.000Z",
-    "createdAt": "2026-03-23T11:50:22.334Z",
-    "updatedAt": "2026-03-23T11:50:22.334Z"
+    "createdAt": "2026-03-23T13:20:50.676Z",
+    "updatedAt": "2026-03-23T13:20:50.676Z"
   },
   {
     "id": "fed5e56c9d9bfbee",
@@ -38,22 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69c10fe89a7947861aac36a1",
     "publishedAt": "2026-03-23T10:46:31.000Z",
-    "createdAt": "2026-03-23T11:50:18.298Z",
-    "updatedAt": "2026-03-23T11:50:18.298Z"
-  },
-  {
-    "id": "3f85d8a79077ca49",
-    "title": "СКА расстался с канадцем с российским паспортом перед стартом плей-офф",
-    "sport": "Хоккей",
-    "category": "Хоккей",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/8/82/347742615633828.png",
-    "teaser": "СКА расстался с канадцем с российским паспортом перед стартом плей-офф",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69c113229a79477ad86b4205",
-    "publishedAt": "2026-03-23T10:41:17.000Z",
-    "createdAt": "2026-03-23T11:50:20.502Z",
-    "updatedAt": "2026-03-23T11:50:20.502Z"
+    "createdAt": "2026-03-23T13:20:57.712Z",
+    "updatedAt": "2026-03-23T13:20:57.712Z"
   },
   {
     "id": "535dd88c03bcee41",
@@ -66,8 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69c104a39a79476066912605",
     "publishedAt": "2026-03-23T10:32:20.000Z",
-    "createdAt": "2026-03-23T11:50:17.146Z",
-    "updatedAt": "2026-03-23T11:50:17.146Z"
+    "createdAt": "2026-03-23T13:20:56.546Z",
+    "updatedAt": "2026-03-23T13:20:56.546Z"
   },
   {
     "id": "89940c5b57303ffe",
@@ -80,22 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69c108b49a79471f638e34be",
     "publishedAt": "2026-03-23T10:00:17.000Z",
-    "createdAt": "2026-03-23T11:50:16.072Z",
-    "updatedAt": "2026-03-23T11:50:16.072Z"
-  },
-  {
-    "id": "4923c5827cda0d49",
-    "title": "Месси обошел Пеле и вышел на второе место по голам со штрафных",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/3/28/347742545127283.jpeg",
-    "teaser": "Месси обошел Пеле и вышел на второе место по голам со штрафных",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69c0f6449a7947e95f667502",
-    "publishedAt": "2026-03-23T08:37:14.000Z",
-    "createdAt": "2026-03-23T11:50:24.481Z",
-    "updatedAt": "2026-03-23T11:50:24.481Z"
+    "createdAt": "2026-03-23T13:20:55.372Z",
+    "updatedAt": "2026-03-23T13:20:55.372Z"
   },
   {
     "id": "cb4c106219cce29c",
@@ -108,35 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69c0de029a79470e9fa41858",
     "publishedAt": "2026-03-23T07:59:24.000Z",
-    "createdAt": "2026-03-23T11:50:19.405Z",
-    "updatedAt": "2026-03-23T11:50:19.405Z"
-  },
-  {
-    "id": "7e83f426ad918d54",
-    "title": "Овечкина признали первой звездой дня в НХЛ",
-    "sport": "Хоккей",
-    "category": "Хоккей",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/3/98/347742499494983.jpeg",
-    "teaser": "Овечкина признали первой звездой дня в НХЛ",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69c0e48c9a7947245f5e240e",
-    "publishedAt": "2026-03-23T07:22:15.000Z",
-    "createdAt": "2026-03-23T11:50:23.419Z",
-    "updatedAt": "2026-03-23T11:50:23.419Z"
-  },
-  {
-    "id": "73db75c72806d8f7",
-    "title": "Какие рекорды Овечкин побил в НХЛ",
-    "sport": "Хоккей",
-    "category": "Хоккей",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/7/93/347624313317937.jpeg",
-    "teaser": "Какие рекорды Овечкин побил в НХЛ",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/690c81229a794782c729527a",
-    "publishedAt": "2026-03-23T07:16:28.000Z",
-    "createdAt": "2026-03-23T11:50:25.540Z",
-    "updatedAt": "2026-03-23T11:50:25.540Z"
+    "createdAt": "2026-03-23T13:20:58.909Z",
+    "updatedAt": "2026-03-23T13:20:58.909Z"
   }
 ]
