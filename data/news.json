@@ -1,5 +1,89 @@
 [
   {
+    "id": "8f9ebd05927fea85",
+    "title": "Клуб НХЛ подписал контракт с вратарем СКА",
+    "sport": "Хоккей",
+    "category": "Хоккей",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/1/03/347743354320031.jpeg",
+    "teaser": "Клуб НХЛ подписал контракт с вратарем СКА",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69c231cd9a7947ad4bc53b31",
+    "publishedAt": "2026-03-24T07:38:26.000Z",
+    "createdAt": "2026-03-24T07:57:17.118Z",
+    "updatedAt": "2026-03-24T07:57:17.118Z"
+  },
+  {
+    "id": "845f1322be66b5c7",
+    "title": "Российского вратаря Шестеркина признали третьей звездой матча НХЛ",
+    "sport": "Хоккей",
+    "category": "Хоккей",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/0/98/347743336609980.jpeg",
+    "teaser": "Российского вратаря Шестеркина признали третьей звездой матча НХЛ",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69c22adc9a7947389def9f8b",
+    "publishedAt": "2026-03-24T07:31:10.000Z",
+    "createdAt": "2026-03-24T07:57:19.247Z",
+    "updatedAt": "2026-03-24T07:57:19.247Z"
+  },
+  {
+    "id": "7d5c66ba5859a060",
+    "title": "Экс-футболист ЦСКА Вагнер Лав объявил о завершении карьеры",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/0/33/347743363046330.jpeg",
+    "teaser": "Экс-футболист ЦСКА Вагнер Лав объявил о завершении карьеры",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69c239039a7947665f5bee62",
+    "publishedAt": "2026-03-24T07:27:43.000Z",
+    "createdAt": "2026-03-24T07:57:16.113Z",
+    "updatedAt": "2026-03-24T07:57:16.113Z"
+  },
+  {
+    "id": "a057f728146ea4b4",
+    "title": "Какие рекорды Овечкин может побить до конца последнего сезона в НХЛ",
+    "sport": "Хоккей",
+    "category": "Хоккей",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/6/00/347742694858006.jpeg",
+    "teaser": "Какие рекорды Овечкин может побить до конца последнего сезона в НХЛ",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69c12f109a79471d5c6ebc47",
+    "publishedAt": "2026-03-23T21:08:38.000Z",
+    "createdAt": "2026-03-24T07:57:18.182Z",
+    "updatedAt": "2026-03-24T07:57:18.182Z"
+  },
+  {
+    "id": "5e263ea1b70ccfb3",
+    "title": "ЦСКА вырвал победу у СКА во втором овертайме первого матча серии плей-офф",
+    "sport": "Хоккей",
+    "category": "Хоккей",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/5/65/347742903962655.jpeg",
+    "teaser": "ЦСКА вырвал победу у СКА во втором овертайме первого матча серии плей-офф",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69c17fe49a7947a979ef391f",
+    "publishedAt": "2026-03-23T20:33:17.000Z",
+    "createdAt": "2026-03-24T07:57:20.293Z",
+    "updatedAt": "2026-03-24T07:57:20.293Z"
+  },
+  {
+    "id": "ecd9bf5ed3571c67",
+    "title": "Игрок ЦСКА побил бомбардирский рекорд Кубка Гагарина среди защитников",
+    "sport": "Хоккей",
+    "category": "Хоккей",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/9/80/347742942983809.jpeg",
+    "teaser": "Игрок ЦСКА побил бомбардирский рекорд Кубка Гагарина среди защитников",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69c193e59a79478f2347a7a9",
+    "publishedAt": "2026-03-23T20:32:03.000Z",
+    "createdAt": "2026-03-24T07:57:21.351Z",
+    "updatedAt": "2026-03-24T07:57:21.351Z"
+  },
+  {
     "id": "ca49a51a5649f8da",
     "title": "«Ак Барс» вырвал победу у «Трактора» в первом матче серии Кубка Гагарина",
     "sport": "Хоккей",
@@ -10,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69c17df49a7947b080d13ea8",
     "publishedAt": "2026-03-23T19:55:59.000Z",
-    "createdAt": "2026-03-24T06:07:13.910Z",
-    "updatedAt": "2026-03-24T06:07:13.910Z"
+    "createdAt": "2026-03-24T07:57:24.780Z",
+    "updatedAt": "2026-03-24T07:57:24.780Z"
   },
   {
     "id": "a3643f5c9069d730",
@@ -24,8 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69c187049a79472565f8f737",
     "publishedAt": "2026-03-23T19:35:31.000Z",
-    "createdAt": "2026-03-24T06:07:12.837Z",
-    "updatedAt": "2026-03-24T06:07:12.837Z"
+    "createdAt": "2026-03-24T07:57:23.466Z",
+    "updatedAt": "2026-03-24T07:57:23.466Z"
   },
   {
     "id": "d7e5287546629b93",
@@ -38,22 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69c17b749a7947130a532d35",
     "publishedAt": "2026-03-23T19:30:09.000Z",
-    "createdAt": "2026-03-24T06:07:11.771Z",
-    "updatedAt": "2026-03-24T06:07:11.771Z"
-  },
-  {
-    "id": "93b6f5a9d84d2edd",
-    "title": "«Торпедо» обыграло «Северсталь» в первом матче серии плей-офф КХЛ",
-    "sport": "Хоккей",
-    "category": "Хоккей",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/6/79/347742904969796.jpeg",
-    "teaser": "«Торпедо» обыграло «Северсталь» в первом матче серии плей-офф КХЛ",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69c181ed9a79476216c7f879",
-    "publishedAt": "2026-03-23T18:55:54.000Z",
-    "createdAt": "2026-03-24T06:07:21.302Z",
-    "updatedAt": "2026-03-24T06:07:21.302Z"
+    "createdAt": "2026-03-24T07:57:22.404Z",
+    "updatedAt": "2026-03-24T07:57:22.404Z"
   },
   {
     "id": "7aae81246d619e43",
@@ -66,77 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69c169869a79476f280ff922",
     "publishedAt": "2026-03-23T18:35:58.000Z",
-    "createdAt": "2026-03-24T06:07:14.987Z",
-    "updatedAt": "2026-03-24T06:07:14.987Z"
-  },
-  {
-    "id": "1af0b69e6ff0bcd9",
-    "title": "Российского лидера гонки бомбардиров признали лучшим игроком недели в НХЛ",
-    "sport": "Хоккей",
-    "category": "Хоккей",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/8/00/347742862424008.jpeg",
-    "teaser": "Российского лидера гонки бомбардиров признали лучшим игроком недели в НХЛ",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69c175759a7947358077602e",
-    "publishedAt": "2026-03-23T17:42:25.000Z",
-    "createdAt": "2026-03-24T06:07:16.099Z",
-    "updatedAt": "2026-03-24T06:07:16.099Z"
-  },
-  {
-    "id": "0e102d1fbb362561",
-    "title": "Талалаев извинился за непристойный жест перед всеми, «кроме штаба ЦСКА»",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/3/92/347742833174923.png",
-    "teaser": "Талалаев извинился за непристойный жест перед всеми, «кроме штаба ЦСКА»",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69c169469a79470604f9ab8e",
-    "publishedAt": "2026-03-23T16:57:39.000Z",
-    "createdAt": "2026-03-24T06:07:17.167Z",
-    "updatedAt": "2026-03-24T06:07:17.167Z"
-  },
-  {
-    "id": "852cf02bee814b28",
-    "title": "«Автомобилист» обыграл «Салават Юлаев» в первом матче серии плей-офф КХЛ",
-    "sport": "Хоккей",
-    "category": "Хоккей",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/6/90/347742804682906.jpeg",
-    "teaser": "«Автомобилист» обыграл «Салават Юлаев» в первом матче серии плей-офф КХЛ",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69c15ba29a7947789d5b6f0d",
-    "publishedAt": "2026-03-23T16:38:17.000Z",
-    "createdAt": "2026-03-24T06:07:19.123Z",
-    "updatedAt": "2026-03-24T06:07:19.123Z"
-  },
-  {
-    "id": "7d01e7ae48a78c1f",
-    "title": "В РФС назвали ужасным назначение пенальти в пользу «Зенита»",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/5/22/347742741544225.jpeg",
-    "teaser": "В РФС назвали ужасным назначение пенальти в пользу «Зенита»",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69c143419a79471fe0aa1b03",
-    "publishedAt": "2026-03-23T14:21:18.000Z",
-    "createdAt": "2026-03-24T06:07:22.458Z",
-    "updatedAt": "2026-03-24T06:07:22.458Z"
-  },
-  {
-    "id": "cb4c106219cce29c",
-    "title": "Как Овечкин забросил 1000-ю шайбу в НХЛ. Фоторепортаж",
-    "sport": "Хоккей",
-    "category": "Хоккей",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/3/04/347742481697043.jpeg",
-    "teaser": "Как Овечкин забросил 1000-ю шайбу в НХЛ. Фоторепортаж",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69c0de029a79470e9fa41858",
-    "publishedAt": "2026-03-23T07:59:24.000Z",
-    "createdAt": "2026-03-24T06:07:20.228Z",
-    "updatedAt": "2026-03-24T06:07:20.228Z"
+    "createdAt": "2026-03-24T07:57:25.916Z",
+    "updatedAt": "2026-03-24T07:57:25.916Z"
   }
 ]
