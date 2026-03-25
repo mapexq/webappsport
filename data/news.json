@@ -1,5 +1,61 @@
 [
   {
+    "id": "88c255a61c43038c",
+    "title": "ЦСКА объявил о назначении нового тренера в штаб Челестини",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/6/05/347744331387056.jpeg",
+    "teaser": "ЦСКА объявил о назначении нового тренера в штаб Челестини",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69c3b1db9a79473c0ef7a16d",
+    "publishedAt": "2026-03-25T10:17:43.000Z",
+    "createdAt": "2026-03-25T10:54:29.718Z",
+    "updatedAt": "2026-03-25T10:54:29.718Z"
+  },
+  {
+    "id": "5a8198dc0d0451c7",
+    "title": "Дегтярев заявил, что World Athletics рассмотрит допуск юниоров в июле",
+    "sport": "Другое",
+    "category": "Другие",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/4/75/347744323992754.jpeg",
+    "teaser": "Дегтярев заявил, что World Athletics рассмотрит допуск юниоров в июле",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69c3ab4e9a7947e36957d806",
+    "publishedAt": "2026-03-25T10:06:26.000Z",
+    "createdAt": "2026-03-25T10:54:30.694Z",
+    "updatedAt": "2026-03-25T10:54:30.694Z"
+  },
+  {
+    "id": "aef09e2f009dec9a",
+    "title": "Третьяк заявил, что ФХР ищет возможность сыграть с США и Канадой",
+    "sport": "Хоккей",
+    "category": "Хоккей",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/4/70/347744300575704.jpeg",
+    "teaser": "Третьяк заявил, что ФХР ищет возможность сыграть с США и Канадой",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69c3a3019a79475b6c75a102",
+    "publishedAt": "2026-03-25T09:21:13.000Z",
+    "createdAt": "2026-03-25T10:54:31.787Z",
+    "updatedAt": "2026-03-25T10:54:31.787Z"
+  },
+  {
+    "id": "048ab2ad46712250",
+    "title": "Конор Макгрегор подтвердил возвращение в UFC после пятилетнего перерыва",
+    "sport": "Единоборства",
+    "category": "Единоборства",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/9/55/347744277496559.jpeg",
+    "teaser": "Конор Макгрегор подтвердил возвращение в UFC после пятилетнего перерыва",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69c39bbd9a794737bb322be0",
+    "publishedAt": "2026-03-25T08:50:02.000Z",
+    "createdAt": "2026-03-25T10:54:32.929Z",
+    "updatedAt": "2026-03-25T10:54:32.929Z"
+  },
+  {
     "id": "3523c72055c6d79e",
     "title": "Макдэвид набрал 1200 очков третьим по скорости в истории НХЛ",
     "sport": "Хоккей",
@@ -10,8 +66,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69c38e019a79472ef905e9d2",
     "publishedAt": "2026-03-25T07:55:52.000Z",
-    "createdAt": "2026-03-25T09:01:56.588Z",
-    "updatedAt": "2026-03-25T09:01:56.588Z"
+    "createdAt": "2026-03-25T10:54:35.075Z",
+    "updatedAt": "2026-03-25T10:54:35.075Z"
   },
   {
     "id": "95d584d2d2158354",
@@ -24,8 +80,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69c38ef39a794753b5d96d3a",
     "publishedAt": "2026-03-25T07:53:17.000Z",
-    "createdAt": "2026-03-25T09:01:55.561Z",
-    "updatedAt": "2026-03-25T09:01:55.561Z"
+    "createdAt": "2026-03-25T10:54:34.026Z",
+    "updatedAt": "2026-03-25T10:54:34.026Z"
   },
   {
     "id": "205237a62b9336a3",
@@ -38,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69c38cb39a79472c71171876",
     "publishedAt": "2026-03-25T07:35:43.000Z",
-    "createdAt": "2026-03-25T09:01:57.833Z",
-    "updatedAt": "2026-03-25T09:01:57.833Z"
+    "createdAt": "2026-03-25T10:54:36.203Z",
+    "updatedAt": "2026-03-25T10:54:36.203Z"
   },
   {
     "id": "2a6c05795a5ede51",
@@ -52,8 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69c389d59a79470cf8555dae",
     "publishedAt": "2026-03-25T07:24:32.000Z",
-    "createdAt": "2026-03-25T09:01:58.976Z",
-    "updatedAt": "2026-03-25T09:01:58.976Z"
+    "createdAt": "2026-03-25T10:54:37.286Z",
+    "updatedAt": "2026-03-25T10:54:37.286Z"
   },
   {
     "id": "80c60ac054eb2873",
@@ -66,8 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69c382c09a79473b4c806d98",
     "publishedAt": "2026-03-25T07:22:08.000Z",
-    "createdAt": "2026-03-25T09:02:00.518Z",
-    "updatedAt": "2026-03-25T09:02:00.518Z"
+    "createdAt": "2026-03-25T10:54:38.341Z",
+    "updatedAt": "2026-03-25T10:54:38.341Z"
   },
   {
     "id": "b56d344a30b9b337",
@@ -80,63 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69c37f4d9a794777d87da70d",
     "publishedAt": "2026-03-25T06:51:25.000Z",
-    "createdAt": "2026-03-25T09:02:01.617Z",
-    "updatedAt": "2026-03-25T09:02:01.617Z"
-  },
-  {
-    "id": "8ee59a908ad11c3f",
-    "title": "Овечкин не смог набрать очков в матче НХЛ с «Сент‑Луисом»",
-    "sport": "Хоккей",
-    "category": "Хоккей",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/2/92/347744191795922.jpeg",
-    "teaser": "Овечкин не смог набрать очков в матче НХЛ с «Сент‑Луисом»",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69c37ac69a79477c80b69c32",
-    "publishedAt": "2026-03-25T06:49:37.000Z",
-    "createdAt": "2026-03-25T09:02:02.684Z",
-    "updatedAt": "2026-03-25T09:02:02.684Z"
-  },
-  {
-    "id": "01ecc3ce7e58d175",
-    "title": "World Athletics оставила в силе отстранение российских легкоатлетов",
-    "sport": "Другое",
-    "category": "Другие",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/0/75/347743842790750.jpeg",
-    "teaser": "World Athletics оставила в силе отстранение российских легкоатлетов",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69c2f25a9a79477c56136dac",
-    "publishedAt": "2026-03-24T20:57:00.000Z",
-    "createdAt": "2026-03-25T09:02:03.753Z",
-    "updatedAt": "2026-03-25T09:02:03.753Z"
-  },
-  {
-    "id": "8ca2cd52cf4b3a78",
-    "title": "Россиянину отдали золото ЧМ‑2024 после дисквалификации соперника",
-    "sport": "Единоборства",
-    "category": "Единоборства",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/3/43/347743828064433.jpeg",
-    "teaser": "Россиянину отдали золото ЧМ‑2024 после дисквалификации соперника",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69c2ed079a7947d588ed1103",
-    "publishedAt": "2026-03-24T20:27:51.000Z",
-    "createdAt": "2026-03-25T09:02:04.866Z",
-    "updatedAt": "2026-03-25T09:02:04.866Z"
-  },
-  {
-    "id": "203deeb18131d6e5",
-    "title": "ФИФА впервые разрешила не убирать логотип спонсора со стадиона ЧМ",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/9/86/347743809382869.jpeg",
-    "teaser": "ФИФА впервые разрешила не убирать логотип спонсора со стадиона ЧМ",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69c2e3d19a7947d3932014fa",
-    "publishedAt": "2026-03-24T19:59:08.000Z",
-    "createdAt": "2026-03-25T09:02:05.929Z",
-    "updatedAt": "2026-03-25T09:02:05.929Z"
+    "createdAt": "2026-03-25T10:54:39.432Z",
+    "updatedAt": "2026-03-25T10:54:39.432Z"
   }
 ]
