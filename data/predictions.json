@@ -1,6 +1,22 @@
 [
   {
-    "id": 1774425409988,
+    "id": 1774429309984,
+    "eventName": "Автомобилист — Салават Юлаев",
+    "discipline": "Хоккей",
+    "tournament": "Чемпионат",
+    "expert": {
+      "name": "Илья Апекишев",
+      "avatar": "https://bookmaker-ratings.ru/static/images/badges/is-kapper.svg?v=30092024",
+      "status": "expert",
+      "winRate": 89
+    },
+    "prediction": "Тотал больше (3.5)",
+    "odds": 1.41,
+    "comment": "Ждём голов от обоих команд сегодня. Первый матч Авто выиграл 2:0, годы были забиты во втором периоде. Ждём голов в первом и третьем. Ну и думаю обе забьют хотя бы в одном из периодов.",
+    "source": "Sports Analytics Pro"
+  },
+  {
+    "id": 1774429309986,
     "eventName": "ЦСКА — СКА",
     "discipline": "Хоккей",
     "tournament": "Чемпионат",
@@ -13,6 +29,22 @@
     "prediction": "Обе забьют - Да",
     "odds": 1.21,
     "comment": "Обе забьютВ данном матчеНо голов будет малоПобеда цска",
+    "source": "Sports Analytics Pro"
+  },
+  {
+    "id": 1774429309987,
+    "eventName": "ЦСКА — СКА",
+    "discipline": "Хоккей",
+    "tournament": "Чемпионат",
+    "expert": {
+      "name": "Роман Пикалов",
+      "avatar": "https://bookmaker-ratings.ru/static/images/badges/is-kapper.svg?v=30092024",
+      "status": "expert",
+      "winRate": 79
+    },
+    "prediction": "Тотал меньше (5)",
+    "odds": 1.42,
+    "comment": "В этой игре возьмём тотал меньше 5. Не думаю, что матч будет голевым.",
     "source": "Sports Analytics Pro"
   }
 ]
