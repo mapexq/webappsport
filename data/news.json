@@ -1,5 +1,61 @@
 [
   {
+    "id": "a2b5adf2c110a97d",
+    "title": "Надаль получил докторскую степень в университете Мадрида",
+    "sport": "Теннис",
+    "category": "Теннис",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/9/09/347744383081099.jpeg",
+    "teaser": "Надаль получил докторскую степень в университете Мадрида",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69c3c5b69a7947614d4d1c12",
+    "publishedAt": "2026-03-25T11:37:51.000Z",
+    "createdAt": "2026-03-25T11:45:45.649Z",
+    "updatedAt": "2026-03-25T11:45:45.649Z"
+  },
+  {
+    "id": "392d470e662b3e50",
+    "title": "В «Крыльях Советов» отреагировали на сообщения о возможном уходе тренера",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/0/06/347744377568060.jpeg",
+    "teaser": "В «Крыльях Советов» отреагировали на сообщения о возможном уходе тренера",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69c3c5599a79474fc415776f",
+    "publishedAt": "2026-03-25T11:36:15.000Z",
+    "createdAt": "2026-03-25T11:45:47.748Z",
+    "updatedAt": "2026-03-25T11:45:47.748Z"
+  },
+  {
+    "id": "cb782d8ba0e56497",
+    "title": "Тарасова назвала Плющенко и Ягудина лучшими фигуристами России XXI века",
+    "sport": "Другое",
+    "category": "Фигурное катание",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/5/28/347744367639285.jpeg",
+    "teaser": "Тарасова назвала Плющенко и Ягудина лучшими фигуристами России XXI века",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69c3bf799a79476f3aa2a206",
+    "publishedAt": "2026-03-25T11:23:04.000Z",
+    "createdAt": "2026-03-25T11:45:46.728Z",
+    "updatedAt": "2026-03-25T11:45:46.728Z"
+  },
+  {
+    "id": "034281f023566d2a",
+    "title": "Сын Криштиану Роналду провел тренировку с академией «Реала»",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/1/89/347744353689891.jpeg",
+    "teaser": "Сын Криштиану Роналду провел тренировку с академией «Реала»",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69c3b7e09a79474ba8c26641",
+    "publishedAt": "2026-03-25T11:19:41.000Z",
+    "createdAt": "2026-03-25T11:45:48.838Z",
+    "updatedAt": "2026-03-25T11:45:48.838Z"
+  },
+  {
     "id": "88c255a61c43038c",
     "title": "ЦСКА объявил о назначении нового тренера в штаб Челестини",
     "sport": "Футбол",
@@ -10,8 +66,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69c3b1db9a79473c0ef7a16d",
     "publishedAt": "2026-03-25T10:17:43.000Z",
-    "createdAt": "2026-03-25T10:54:29.718Z",
-    "updatedAt": "2026-03-25T10:54:29.718Z"
+    "createdAt": "2026-03-25T11:45:49.907Z",
+    "updatedAt": "2026-03-25T11:45:49.907Z"
   },
   {
     "id": "5a8198dc0d0451c7",
@@ -24,8 +80,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69c3ab4e9a7947e36957d806",
     "publishedAt": "2026-03-25T10:06:26.000Z",
-    "createdAt": "2026-03-25T10:54:30.694Z",
-    "updatedAt": "2026-03-25T10:54:30.694Z"
+    "createdAt": "2026-03-25T11:45:51.030Z",
+    "updatedAt": "2026-03-25T11:45:51.030Z"
   },
   {
     "id": "aef09e2f009dec9a",
@@ -38,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69c3a3019a79475b6c75a102",
     "publishedAt": "2026-03-25T09:21:13.000Z",
-    "createdAt": "2026-03-25T10:54:31.787Z",
-    "updatedAt": "2026-03-25T10:54:31.787Z"
+    "createdAt": "2026-03-25T11:45:52.043Z",
+    "updatedAt": "2026-03-25T11:45:52.043Z"
   },
   {
     "id": "048ab2ad46712250",
@@ -52,8 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69c39bbd9a794737bb322be0",
     "publishedAt": "2026-03-25T08:50:02.000Z",
-    "createdAt": "2026-03-25T10:54:32.929Z",
-    "updatedAt": "2026-03-25T10:54:32.929Z"
+    "createdAt": "2026-03-25T11:45:53.120Z",
+    "updatedAt": "2026-03-25T11:45:53.120Z"
   },
   {
     "id": "3523c72055c6d79e",
@@ -66,8 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69c38e019a79472ef905e9d2",
     "publishedAt": "2026-03-25T07:55:52.000Z",
-    "createdAt": "2026-03-25T10:54:35.075Z",
-    "updatedAt": "2026-03-25T10:54:35.075Z"
+    "createdAt": "2026-03-25T11:45:55.355Z",
+    "updatedAt": "2026-03-25T11:45:55.355Z"
   },
   {
     "id": "95d584d2d2158354",
@@ -80,63 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69c38ef39a794753b5d96d3a",
     "publishedAt": "2026-03-25T07:53:17.000Z",
-    "createdAt": "2026-03-25T10:54:34.026Z",
-    "updatedAt": "2026-03-25T10:54:34.026Z"
-  },
-  {
-    "id": "205237a62b9336a3",
-    "title": "Бывший тренер «Спартака» Абаскаль рассказал о желании вернуться в РПЛ",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/6/37/347744233048376.jpeg",
-    "teaser": "Бывший тренер «Спартака» Абаскаль рассказал о желании вернуться в РПЛ",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69c38cb39a79472c71171876",
-    "publishedAt": "2026-03-25T07:35:43.000Z",
-    "createdAt": "2026-03-25T10:54:36.203Z",
-    "updatedAt": "2026-03-25T10:54:36.203Z"
-  },
-  {
-    "id": "2a6c05795a5ede51",
-    "title": "Бобровский вышел на чистое седьмое место по победам в истории НХЛ",
-    "sport": "Хоккей",
-    "category": "Хоккей",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/1/74/347744231345741.jpeg",
-    "teaser": "Бобровский вышел на чистое седьмое место по победам в истории НХЛ",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69c389d59a79470cf8555dae",
-    "publishedAt": "2026-03-25T07:24:32.000Z",
-    "createdAt": "2026-03-25T10:54:37.286Z",
-    "updatedAt": "2026-03-25T10:54:37.286Z"
-  },
-  {
-    "id": "80c60ac054eb2873",
-    "title": "Врачи «Реала» назначали пищевые добавки футболистам по совету ChatGPT",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/1/00/347744214706001.jpeg",
-    "teaser": "Врачи «Реала» назначали пищевые добавки футболистам по совету ChatGPT",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69c382c09a79473b4c806d98",
-    "publishedAt": "2026-03-25T07:22:08.000Z",
-    "createdAt": "2026-03-25T10:54:38.341Z",
-    "updatedAt": "2026-03-25T10:54:38.341Z"
-  },
-  {
-    "id": "b56d344a30b9b337",
-    "title": "Кучеров в четвертый раз в карьере набрал 120 очков за сезон в НХЛ",
-    "sport": "Хоккей",
-    "category": "Хоккей",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/7/43/347744201818437.jpeg",
-    "teaser": "Кучеров в четвертый раз в карьере набрал 120 очков за сезон в НХЛ",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69c37f4d9a794777d87da70d",
-    "publishedAt": "2026-03-25T06:51:25.000Z",
-    "createdAt": "2026-03-25T10:54:39.432Z",
-    "updatedAt": "2026-03-25T10:54:39.432Z"
+    "createdAt": "2026-03-25T11:45:54.235Z",
+    "updatedAt": "2026-03-25T11:45:54.235Z"
   }
 ]
