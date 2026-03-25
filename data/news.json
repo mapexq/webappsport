@@ -1,5 +1,33 @@
 [
   {
+    "id": "2b0dfb8e644e65a8",
+    "title": "Загитова и Валиева выступят на турнире шоу-программ «Русский вызов»",
+    "sport": "Другое",
+    "category": "Фигурное катание",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/4/28/347744395299284.jpeg",
+    "teaser": "Загитова и Валиева выступят на турнире шоу-программ «Русский вызов»",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69c3c8c99a794734c0c5f81a",
+    "publishedAt": "2026-03-25T12:49:24.000Z",
+    "createdAt": "2026-03-25T13:24:00.046Z",
+    "updatedAt": "2026-03-25T13:24:00.046Z"
+  },
+  {
+    "id": "8e6f3f2e5d5da52d",
+    "title": "Команда Мали сыграет против сборной России без большинства лидеров",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/3/57/347744392696573.jpeg",
+    "teaser": "Команда Мали сыграет против сборной России без большинства лидеров",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69c3cb529a7947722c8cca05",
+    "publishedAt": "2026-03-25T11:57:35.000Z",
+    "createdAt": "2026-03-25T13:24:01.139Z",
+    "updatedAt": "2026-03-25T13:24:01.139Z"
+  },
+  {
     "id": "a2b5adf2c110a97d",
     "title": "Надаль получил докторскую степень в университете Мадрида",
     "sport": "Теннис",
@@ -10,8 +38,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69c3c5b69a7947614d4d1c12",
     "publishedAt": "2026-03-25T11:37:51.000Z",
-    "createdAt": "2026-03-25T11:45:45.649Z",
-    "updatedAt": "2026-03-25T11:45:45.649Z"
+    "createdAt": "2026-03-25T13:24:02.501Z",
+    "updatedAt": "2026-03-25T13:24:02.501Z"
   },
   {
     "id": "392d470e662b3e50",
@@ -24,8 +52,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69c3c5599a79474fc415776f",
     "publishedAt": "2026-03-25T11:36:15.000Z",
-    "createdAt": "2026-03-25T11:45:47.748Z",
-    "updatedAt": "2026-03-25T11:45:47.748Z"
+    "createdAt": "2026-03-25T13:24:04.555Z",
+    "updatedAt": "2026-03-25T13:24:04.555Z"
   },
   {
     "id": "cb782d8ba0e56497",
@@ -38,8 +66,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69c3bf799a79476f3aa2a206",
     "publishedAt": "2026-03-25T11:23:04.000Z",
-    "createdAt": "2026-03-25T11:45:46.728Z",
-    "updatedAt": "2026-03-25T11:45:46.728Z"
+    "createdAt": "2026-03-25T13:24:03.454Z",
+    "updatedAt": "2026-03-25T13:24:03.454Z"
   },
   {
     "id": "034281f023566d2a",
@@ -52,8 +80,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69c3b7e09a79474ba8c26641",
     "publishedAt": "2026-03-25T11:19:41.000Z",
-    "createdAt": "2026-03-25T11:45:48.838Z",
-    "updatedAt": "2026-03-25T11:45:48.838Z"
+    "createdAt": "2026-03-25T13:24:05.401Z",
+    "updatedAt": "2026-03-25T13:24:05.401Z"
   },
   {
     "id": "88c255a61c43038c",
@@ -66,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69c3b1db9a79473c0ef7a16d",
     "publishedAt": "2026-03-25T10:17:43.000Z",
-    "createdAt": "2026-03-25T11:45:49.907Z",
-    "updatedAt": "2026-03-25T11:45:49.907Z"
+    "createdAt": "2026-03-25T13:24:06.460Z",
+    "updatedAt": "2026-03-25T13:24:06.460Z"
   },
   {
     "id": "5a8198dc0d0451c7",
@@ -80,8 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69c3ab4e9a7947e36957d806",
     "publishedAt": "2026-03-25T10:06:26.000Z",
-    "createdAt": "2026-03-25T11:45:51.030Z",
-    "updatedAt": "2026-03-25T11:45:51.030Z"
+    "createdAt": "2026-03-25T13:24:07.507Z",
+    "updatedAt": "2026-03-25T13:24:07.507Z"
   },
   {
     "id": "aef09e2f009dec9a",
@@ -94,8 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69c3a3019a79475b6c75a102",
     "publishedAt": "2026-03-25T09:21:13.000Z",
-    "createdAt": "2026-03-25T11:45:52.043Z",
-    "updatedAt": "2026-03-25T11:45:52.043Z"
+    "createdAt": "2026-03-25T13:24:08.573Z",
+    "updatedAt": "2026-03-25T13:24:08.573Z"
   },
   {
     "id": "048ab2ad46712250",
@@ -108,35 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69c39bbd9a794737bb322be0",
     "publishedAt": "2026-03-25T08:50:02.000Z",
-    "createdAt": "2026-03-25T11:45:53.120Z",
-    "updatedAt": "2026-03-25T11:45:53.120Z"
-  },
-  {
-    "id": "3523c72055c6d79e",
-    "title": "Макдэвид набрал 1200 очков третьим по скорости в истории НХЛ",
-    "sport": "Хоккей",
-    "category": "Хоккей",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/2/35/347744242397352.jpeg",
-    "teaser": "Макдэвид набрал 1200 очков третьим по скорости в истории НХЛ",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69c38e019a79472ef905e9d2",
-    "publishedAt": "2026-03-25T07:55:52.000Z",
-    "createdAt": "2026-03-25T11:45:55.355Z",
-    "updatedAt": "2026-03-25T11:45:55.355Z"
-  },
-  {
-    "id": "95d584d2d2158354",
-    "title": "Работавший в КХЛ тренер вторым в истории НХЛ провел 2000 матчей",
-    "sport": "Хоккей",
-    "category": "Хоккей",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/9/29/347744238914299.jpeg",
-    "teaser": "Работавший в КХЛ тренер вторым в истории НХЛ провел 2000 матчей",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69c38ef39a794753b5d96d3a",
-    "publishedAt": "2026-03-25T07:53:17.000Z",
-    "createdAt": "2026-03-25T11:45:54.235Z",
-    "updatedAt": "2026-03-25T11:45:54.235Z"
+    "createdAt": "2026-03-25T13:24:09.651Z",
+    "updatedAt": "2026-03-25T13:24:09.651Z"
   }
 ]
