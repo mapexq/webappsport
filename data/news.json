@@ -1,5 +1,89 @@
 [
   {
+    "id": "135f26dabe621a48",
+    "title": "Физиотерапевт клуба «Осер» стал мэром одноименного французского города",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/6/21/347744500222216.jpeg",
+    "teaser": "Физиотерапевт клуба «Осер» стал мэром одноименного французского города",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69c3ec859a79471c7c8e7940",
+    "publishedAt": "2026-03-25T14:26:01.000Z",
+    "createdAt": "2026-03-25T15:05:42.478Z",
+    "updatedAt": "2026-03-25T15:05:42.478Z"
+  },
+  {
+    "id": "d57d213557757fd4",
+    "title": "Тренер «Крыльев» объяснил переговоры с «Актобе» спонтанной встречей",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/1/71/347744473354711.jpeg",
+    "teaser": "Тренер «Крыльев» объяснил переговоры с «Актобе» спонтанной встречей",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69c3e7d09a7947221ab4b4d9",
+    "publishedAt": "2026-03-25T14:13:04.000Z",
+    "createdAt": "2026-03-25T15:05:43.521Z",
+    "updatedAt": "2026-03-25T15:05:43.521Z"
+  },
+  {
+    "id": "327fb4d515186d0f",
+    "title": "Горнолыжница Шиффрин повторила 47-летний рекорд по победам на Кубке мира",
+    "sport": "Другое",
+    "category": "Другие",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/6/46/347744472447466.jpeg",
+    "teaser": "Горнолыжница Шиффрин повторила 47-летний рекорд по победам на Кубке мира",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69c3e4a79a79472a71d94820",
+    "publishedAt": "2026-03-25T14:10:51.000Z",
+    "createdAt": "2026-03-25T15:05:44.547Z",
+    "updatedAt": "2026-03-25T15:05:44.547Z"
+  },
+  {
+    "id": "e662ef1f1cc3c26a",
+    "title": "Стадион «Реала» на неделю переоборудуют для теннисных тренировок",
+    "sport": "Теннис",
+    "category": "Теннис",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/5/56/347744445906565.jpeg",
+    "teaser": "Стадион «Реала» на неделю переоборудуют для теннисных тренировок",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69c3dcce9a79473d4266ddf4",
+    "publishedAt": "2026-03-25T13:35:57.000Z",
+    "createdAt": "2026-03-25T15:05:46.777Z",
+    "updatedAt": "2026-03-25T15:05:46.777Z"
+  },
+  {
+    "id": "1436e190f3b3119d",
+    "title": "Фетисов заявил, что Кучеров играет в советский",
+    "sport": "Хоккей",
+    "category": "Хоккей",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/5/90/347744445744905.jpeg",
+    "teaser": "Фетисов заявил, что Кучеров играет в советский",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69c3d9419a7947a7d2885395",
+    "publishedAt": "2026-03-25T13:25:58.000Z",
+    "createdAt": "2026-03-25T15:05:47.750Z",
+    "updatedAt": "2026-03-25T15:05:47.750Z"
+  },
+  {
+    "id": "2081375f6c0fd33a",
+    "title": "Получавшая угрозы в свой адрес теннисистка из топ-100 завела OnlyFans",
+    "sport": "Теннис",
+    "category": "Теннис",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/7/16/347744421716167.jpeg",
+    "teaser": "Получавшая угрозы в свой адрес теннисистка из топ-100 завела OnlyFans",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69c3d1119a79474a01d7710b",
+    "publishedAt": "2026-03-25T13:10:44.000Z",
+    "createdAt": "2026-03-25T15:05:45.594Z",
+    "updatedAt": "2026-03-25T15:05:45.594Z"
+  },
+  {
     "id": "2b0dfb8e644e65a8",
     "title": "Загитова и Валиева выступят на турнире шоу-программ «Русский вызов»",
     "sport": "Другое",
@@ -10,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69c3c8c99a794734c0c5f81a",
     "publishedAt": "2026-03-25T12:49:24.000Z",
-    "createdAt": "2026-03-25T13:24:00.046Z",
-    "updatedAt": "2026-03-25T13:24:00.046Z"
+    "createdAt": "2026-03-25T15:05:48.783Z",
+    "updatedAt": "2026-03-25T15:05:48.783Z"
   },
   {
     "id": "8e6f3f2e5d5da52d",
@@ -24,8 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69c3cb529a7947722c8cca05",
     "publishedAt": "2026-03-25T11:57:35.000Z",
-    "createdAt": "2026-03-25T13:24:01.139Z",
-    "updatedAt": "2026-03-25T13:24:01.139Z"
+    "createdAt": "2026-03-25T15:05:49.805Z",
+    "updatedAt": "2026-03-25T15:05:49.805Z"
   },
   {
     "id": "a2b5adf2c110a97d",
@@ -38,22 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69c3c5b69a7947614d4d1c12",
     "publishedAt": "2026-03-25T11:37:51.000Z",
-    "createdAt": "2026-03-25T13:24:02.501Z",
-    "updatedAt": "2026-03-25T13:24:02.501Z"
-  },
-  {
-    "id": "392d470e662b3e50",
-    "title": "В «Крыльях Советов» отреагировали на сообщения о возможном уходе тренера",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/0/06/347744377568060.jpeg",
-    "teaser": "В «Крыльях Советов» отреагировали на сообщения о возможном уходе тренера",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69c3c5599a79474fc415776f",
-    "publishedAt": "2026-03-25T11:36:15.000Z",
-    "createdAt": "2026-03-25T13:24:04.555Z",
-    "updatedAt": "2026-03-25T13:24:04.555Z"
+    "createdAt": "2026-03-25T15:05:50.986Z",
+    "updatedAt": "2026-03-25T15:05:50.986Z"
   },
   {
     "id": "cb782d8ba0e56497",
@@ -66,77 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69c3bf799a79476f3aa2a206",
     "publishedAt": "2026-03-25T11:23:04.000Z",
-    "createdAt": "2026-03-25T13:24:03.454Z",
-    "updatedAt": "2026-03-25T13:24:03.454Z"
-  },
-  {
-    "id": "034281f023566d2a",
-    "title": "Сын Криштиану Роналду провел тренировку с академией «Реала»",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/1/89/347744353689891.jpeg",
-    "teaser": "Сын Криштиану Роналду провел тренировку с академией «Реала»",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69c3b7e09a79474ba8c26641",
-    "publishedAt": "2026-03-25T11:19:41.000Z",
-    "createdAt": "2026-03-25T13:24:05.401Z",
-    "updatedAt": "2026-03-25T13:24:05.401Z"
-  },
-  {
-    "id": "88c255a61c43038c",
-    "title": "ЦСКА объявил о назначении нового тренера в штаб Челестини",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/6/05/347744331387056.jpeg",
-    "teaser": "ЦСКА объявил о назначении нового тренера в штаб Челестини",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69c3b1db9a79473c0ef7a16d",
-    "publishedAt": "2026-03-25T10:17:43.000Z",
-    "createdAt": "2026-03-25T13:24:06.460Z",
-    "updatedAt": "2026-03-25T13:24:06.460Z"
-  },
-  {
-    "id": "5a8198dc0d0451c7",
-    "title": "Дегтярев заявил, что World Athletics рассмотрит допуск юниоров в июле",
-    "sport": "Другое",
-    "category": "Другие",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/4/75/347744323992754.jpeg",
-    "teaser": "Дегтярев заявил, что World Athletics рассмотрит допуск юниоров в июле",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69c3ab4e9a7947e36957d806",
-    "publishedAt": "2026-03-25T10:06:26.000Z",
-    "createdAt": "2026-03-25T13:24:07.507Z",
-    "updatedAt": "2026-03-25T13:24:07.507Z"
-  },
-  {
-    "id": "aef09e2f009dec9a",
-    "title": "Третьяк заявил, что ФХР ищет возможность сыграть с США и Канадой",
-    "sport": "Хоккей",
-    "category": "Хоккей",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/4/70/347744300575704.jpeg",
-    "teaser": "Третьяк заявил, что ФХР ищет возможность сыграть с США и Канадой",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69c3a3019a79475b6c75a102",
-    "publishedAt": "2026-03-25T09:21:13.000Z",
-    "createdAt": "2026-03-25T13:24:08.573Z",
-    "updatedAt": "2026-03-25T13:24:08.573Z"
-  },
-  {
-    "id": "048ab2ad46712250",
-    "title": "Конор Макгрегор подтвердил возвращение в UFC после пятилетнего перерыва",
-    "sport": "Единоборства",
-    "category": "Единоборства",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/9/55/347744277496559.jpeg",
-    "teaser": "Конор Макгрегор подтвердил возвращение в UFC после пятилетнего перерыва",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69c39bbd9a794737bb322be0",
-    "publishedAt": "2026-03-25T08:50:02.000Z",
-    "createdAt": "2026-03-25T13:24:09.651Z",
-    "updatedAt": "2026-03-25T13:24:09.651Z"
+    "createdAt": "2026-03-25T15:05:52.048Z",
+    "updatedAt": "2026-03-25T15:05:52.048Z"
   }
 ]
