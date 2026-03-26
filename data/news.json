@@ -1,5 +1,75 @@
 [
   {
+    "id": "46d02d55347bff33",
+    "title": "Три футболиста пропустили тренировку сборной России",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/1/19/347745395453191.png",
+    "teaser": "Три футболиста пропустили тренировку сборной России",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69c5523e9a79475a86ff6b8f",
+    "publishedAt": "2026-03-26T16:22:08.000Z",
+    "createdAt": "2026-03-26T17:10:13.688Z",
+    "updatedAt": "2026-03-26T17:10:13.688Z"
+  },
+  {
+    "id": "465c7abfea418d55",
+    "title": "Первый российский чемпион Игр по тхэквондо объявил о завершении карьеры",
+    "sport": "Другое",
+    "category": "Другие",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/9/13/347745397297139.jpeg",
+    "teaser": "Первый российский чемпион Игр по тхэквондо объявил о завершении карьеры",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69c54b549a7947513349c93a",
+    "publishedAt": "2026-03-26T15:53:34.000Z",
+    "createdAt": "2026-03-26T17:10:12.609Z",
+    "updatedAt": "2026-03-26T17:10:12.609Z"
+  },
+  {
+    "id": "d0cdb7ee3c7ad92d",
+    "title": "Фигурист Малинин выиграл короткую программу на чемпионате мира в Праге",
+    "sport": "Другое",
+    "category": "Фигурное катание",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/7/39/347745389246397.jpeg",
+    "teaser": "Фигурист Малинин выиграл короткую программу на чемпионате мира в Праге",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69c542e49a7947736518b164",
+    "publishedAt": "2026-03-26T15:36:39.000Z",
+    "createdAt": "2026-03-26T17:10:15.870Z",
+    "updatedAt": "2026-03-26T17:10:15.870Z"
+  },
+  {
+    "id": "39727a295064ff25",
+    "title": "Хоккеист «Авангарда» получил травму после силового приема у борта",
+    "sport": "Хоккей",
+    "category": "Хоккей",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/2/48/347745365493482.png",
+    "teaser": "Хоккеист «Авангарда» получил травму после силового приема у борта",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69c5472f9a79474b45c8f586",
+    "publishedAt": "2026-03-26T15:29:08.000Z",
+    "createdAt": "2026-03-26T17:10:14.795Z",
+    "updatedAt": "2026-03-26T17:10:14.795Z"
+  },
+  {
+    "id": "f48ad9a6aabf56b6",
+    "title": "Вонн назвала падение на Олимпиаде в Милане «ужасным финалом карьеры»",
+    "sport": "Другое",
+    "category": "Другие",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/0/36/347745342813360.jpeg",
+    "teaser": "Вонн назвала падение на Олимпиаде в Милане «ужасным финалом карьеры»",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69c53e229a7947435c1c231d",
+    "publishedAt": "2026-03-26T14:42:45.000Z",
+    "createdAt": "2026-03-26T17:10:22.167Z",
+    "updatedAt": "2026-03-26T17:10:22.167Z"
+  },
+  {
     "id": "ebca61f783cf949f",
     "title": "МОК запретил трансгендерам участвовать в женских турнирах на Олимпиаде",
     "sport": "Другое",
@@ -10,8 +80,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69c5309b9a7947431df9cebf",
     "publishedAt": "2026-03-26T13:32:40.000Z",
-    "createdAt": "2026-03-26T15:11:48.450Z",
-    "updatedAt": "2026-03-26T15:11:48.450Z"
+    "createdAt": "2026-03-26T17:10:16.956Z",
+    "updatedAt": "2026-03-26T17:10:16.956Z"
   },
   {
     "id": "228710c1c37a0760",
@@ -24,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69c523759a79471c2dd0a329",
     "publishedAt": "2026-03-26T12:57:21.000Z",
-    "createdAt": "2026-03-26T15:11:49.612Z",
-    "updatedAt": "2026-03-26T15:11:49.612Z"
+    "createdAt": "2026-03-26T17:10:18.060Z",
+    "updatedAt": "2026-03-26T17:10:18.060Z"
   },
   {
     "id": "f17204eddea1316e",
@@ -38,8 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69c518b89a794735d5e03583",
     "publishedAt": "2026-03-26T12:08:03.000Z",
-    "createdAt": "2026-03-26T15:11:52.870Z",
-    "updatedAt": "2026-03-26T15:11:52.870Z"
+    "createdAt": "2026-03-26T17:10:21.077Z",
+    "updatedAt": "2026-03-26T17:10:21.077Z"
   },
   {
     "id": "4926f7a5aa40ec13",
@@ -52,8 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69c50f069a7947b7f0819b0d",
     "publishedAt": "2026-03-26T11:31:29.000Z",
-    "createdAt": "2026-03-26T15:11:53.917Z",
-    "updatedAt": "2026-03-26T15:11:53.917Z"
+    "createdAt": "2026-03-26T17:10:23.365Z",
+    "updatedAt": "2026-03-26T17:10:23.365Z"
   },
   {
     "id": "e14ace4ce4623756",
@@ -66,77 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69c50c759a7947404bd3ac97",
     "publishedAt": "2026-03-26T11:15:24.000Z",
-    "createdAt": "2026-03-26T15:11:50.773Z",
-    "updatedAt": "2026-03-26T15:11:50.773Z"
-  },
-  {
-    "id": "6f4ffc1fef388fcb",
-    "title": "Хоккеисты «Торпедо» застряли в Череповце из-за ограничений на полеты",
-    "sport": "Хоккей",
-    "category": "Хоккей",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/0/18/347745199181180.png",
-    "teaser": "Хоккеисты «Торпедо» застряли в Череповце из-за ограничений на полеты",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69c506549a79471cad7fec63",
-    "publishedAt": "2026-03-26T10:27:36.000Z",
-    "createdAt": "2026-03-26T15:11:55.075Z",
-    "updatedAt": "2026-03-26T15:11:55.075Z"
-  },
-  {
-    "id": "2d0ed77ab4e90c8e",
-    "title": "Двукратная олимпийская чемпионка по волейболу умерла на 82‑м году жизни",
-    "sport": "Другое",
-    "category": "Другие",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/1/94/347745199218941.jpeg",
-    "teaser": "Двукратная олимпийская чемпионка по волейболу умерла на 82‑м году жизни",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69c504e29a7947fe3dac2c8b",
-    "publishedAt": "2026-03-26T10:26:52.000Z",
-    "createdAt": "2026-03-26T15:11:56.291Z",
-    "updatedAt": "2026-03-26T15:11:56.291Z"
-  },
-  {
-    "id": "501cac2eaeb3662f",
-    "title": "Биатлонист Бажин выиграл суперпасьют на чемпионате России",
-    "sport": "Другое",
-    "category": "Биатлон",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/5/33/347745191296335.png",
-    "teaser": "Биатлонист Бажин выиграл суперпасьют на чемпионате России",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69c502f59a7947aeb17601d9",
-    "publishedAt": "2026-03-26T10:09:56.000Z",
-    "createdAt": "2026-03-26T15:11:58.678Z",
-    "updatedAt": "2026-03-26T15:11:58.678Z"
-  },
-  {
-    "id": "d69d51cb0e214ef5",
-    "title": "Глава UFC рассказал, когда Махачев проведет свой следующий бой",
-    "sport": "Единоборства",
-    "category": "Единоборства",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/8/91/347745184008918.jpeg",
-    "teaser": "Глава UFC рассказал, когда Махачев проведет свой следующий бой",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69c4fcee9a794701cf7f08e2",
-    "publishedAt": "2026-03-26T10:09:09.000Z",
-    "createdAt": "2026-03-26T15:11:57.475Z",
-    "updatedAt": "2026-03-26T15:11:57.475Z"
-  },
-  {
-    "id": "1baeab497b8f84d7",
-    "title": "Ферстаппен выгнал журналиста с пресс-конференции Гран-при Японии",
-    "sport": "Другое",
-    "category": "Другие",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/6/39/347745159968396.jpeg",
-    "teaser": "Ферстаппен выгнал журналиста с пресс-конференции Гран-при Японии",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69c4f5179a7947293b9a5184",
-    "publishedAt": "2026-03-26T09:22:42.000Z",
-    "createdAt": "2026-03-26T15:11:59.859Z",
-    "updatedAt": "2026-03-26T15:11:59.859Z"
+    "createdAt": "2026-03-26T17:10:19.152Z",
+    "updatedAt": "2026-03-26T17:10:19.152Z"
   }
 ]
