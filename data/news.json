@@ -1,5 +1,89 @@
 [
   {
+    "id": "ad36b6686c1b91ff",
+    "title": "Роналду вернулся в Саудовскую Аравию после лечения в Испании",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/4/15/347745508459154.png",
+    "teaser": "Роналду вернулся в Саудовскую Аравию после лечения в Испании",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69c57f239a79477b43b27c01",
+    "publishedAt": "2026-03-26T19:05:11.000Z",
+    "createdAt": "2026-03-26T19:16:00.470Z",
+    "updatedAt": "2026-03-26T19:16:00.470Z"
+  },
+  {
+    "id": "bf9640122d96dde3",
+    "title": "Московское «Динамо» потерпело второе поражение подряд в Кубке Гагарина",
+    "sport": "Хоккей",
+    "category": "Хоккей",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/7/40/347745501882407.png",
+    "teaser": "Московское «Динамо» потерпело второе поражение подряд в Кубке Гагарина",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69c57bf59a7947fed501507c",
+    "publishedAt": "2026-03-26T19:01:21.000Z",
+    "createdAt": "2026-03-26T19:16:01.457Z",
+    "updatedAt": "2026-03-26T19:16:01.457Z"
+  },
+  {
+    "id": "288ca16e0962502f",
+    "title": "Сафонов выйдет в стартовом составе сборной России на матч с Никарагуа",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/5/49/347745481407495.jpeg",
+    "teaser": "Сафонов выйдет в стартовом составе сборной России на матч с Никарагуа",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69c5723c9a7947408ecf7e7e",
+    "publishedAt": "2026-03-26T18:19:45.000Z",
+    "createdAt": "2026-03-26T19:15:59.479Z",
+    "updatedAt": "2026-03-26T19:15:59.479Z"
+  },
+  {
+    "id": "e966194e3e357e68",
+    "title": "Карпин объяснил отсутствие Соболева и Кривцова в сборной России",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/8/99/347745479481998.png",
+    "teaser": "Карпин объяснил отсутствие Соболева и Кривцова в сборной России",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69c56c5a9a794761aaaba952",
+    "publishedAt": "2026-03-26T18:12:17.000Z",
+    "createdAt": "2026-03-26T19:16:04.675Z",
+    "updatedAt": "2026-03-26T19:16:04.675Z"
+  },
+  {
+    "id": "57377668914ca792",
+    "title": "Состоялась первая сенсация в плей-офф КХЛ",
+    "sport": "Хоккей",
+    "category": "Хоккей",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/2/34/347745417198342.jpeg",
+    "teaser": "Состоялась первая сенсация в плей-офф КХЛ",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69c558559a794733fd8b946d",
+    "publishedAt": "2026-03-26T17:48:30.000Z",
+    "createdAt": "2026-03-26T19:16:03.632Z",
+    "updatedAt": "2026-03-26T19:16:03.632Z"
+  },
+  {
+    "id": "f51b3739d436afae",
+    "title": "Суд в Нью-Йорке отклонил иск украинки против WTA из-за допуска россиянок",
+    "sport": "Теннис",
+    "category": "Теннис",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/0/27/347745446097270.jpeg",
+    "teaser": "Суд в Нью-Йорке отклонил иск украинки против WTA из-за допуска россиянок",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69c55deb9a794768f3534533",
+    "publishedAt": "2026-03-26T17:27:13.000Z",
+    "createdAt": "2026-03-26T19:16:02.571Z",
+    "updatedAt": "2026-03-26T19:16:02.571Z"
+  },
+  {
     "id": "46d02d55347bff33",
     "title": "Три футболиста пропустили тренировку сборной России",
     "sport": "Футбол",
@@ -10,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69c5523e9a79475a86ff6b8f",
     "publishedAt": "2026-03-26T16:22:08.000Z",
-    "createdAt": "2026-03-26T17:10:13.688Z",
-    "updatedAt": "2026-03-26T17:10:13.688Z"
+    "createdAt": "2026-03-26T19:16:06.749Z",
+    "updatedAt": "2026-03-26T19:16:06.749Z"
   },
   {
     "id": "465c7abfea418d55",
@@ -24,8 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69c54b549a7947513349c93a",
     "publishedAt": "2026-03-26T15:53:34.000Z",
-    "createdAt": "2026-03-26T17:10:12.609Z",
-    "updatedAt": "2026-03-26T17:10:12.609Z"
+    "createdAt": "2026-03-26T19:16:05.666Z",
+    "updatedAt": "2026-03-26T19:16:05.666Z"
   },
   {
     "id": "d0cdb7ee3c7ad92d",
@@ -38,8 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69c542e49a7947736518b164",
     "publishedAt": "2026-03-26T15:36:39.000Z",
-    "createdAt": "2026-03-26T17:10:15.870Z",
-    "updatedAt": "2026-03-26T17:10:15.870Z"
+    "createdAt": "2026-03-26T19:16:08.817Z",
+    "updatedAt": "2026-03-26T19:16:08.817Z"
   },
   {
     "id": "39727a295064ff25",
@@ -52,91 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69c5472f9a79474b45c8f586",
     "publishedAt": "2026-03-26T15:29:08.000Z",
-    "createdAt": "2026-03-26T17:10:14.795Z",
-    "updatedAt": "2026-03-26T17:10:14.795Z"
-  },
-  {
-    "id": "f48ad9a6aabf56b6",
-    "title": "Вонн назвала падение на Олимпиаде в Милане «ужасным финалом карьеры»",
-    "sport": "Другое",
-    "category": "Другие",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/0/36/347745342813360.jpeg",
-    "teaser": "Вонн назвала падение на Олимпиаде в Милане «ужасным финалом карьеры»",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69c53e229a7947435c1c231d",
-    "publishedAt": "2026-03-26T14:42:45.000Z",
-    "createdAt": "2026-03-26T17:10:22.167Z",
-    "updatedAt": "2026-03-26T17:10:22.167Z"
-  },
-  {
-    "id": "ebca61f783cf949f",
-    "title": "МОК запретил трансгендерам участвовать в женских турнирах на Олимпиаде",
-    "sport": "Другое",
-    "category": "Другие",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/0/86/347745324264860.png",
-    "teaser": "МОК запретил трансгендерам участвовать в женских турнирах на Олимпиаде",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69c5309b9a7947431df9cebf",
-    "publishedAt": "2026-03-26T13:32:40.000Z",
-    "createdAt": "2026-03-26T17:10:16.956Z",
-    "updatedAt": "2026-03-26T17:10:16.956Z"
-  },
-  {
-    "id": "228710c1c37a0760",
-    "title": "Потенциально чемпионский матч ПСЖ отложили из-за еврокубка",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/4/15/347745287139154.jpeg",
-    "teaser": "Потенциально чемпионский матч ПСЖ отложили из-за еврокубка",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69c523759a79471c2dd0a329",
-    "publishedAt": "2026-03-26T12:57:21.000Z",
-    "createdAt": "2026-03-26T17:10:18.060Z",
-    "updatedAt": "2026-03-26T17:10:18.060Z"
-  },
-  {
-    "id": "f17204eddea1316e",
-    "title": "Мама Месси Жмыря опровергла его переход в «Спартак»",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "/images/news-placeholder.jpg",
-    "teaser": "Мама Месси Жмыря опровергла его переход в «Спартак»",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69c518b89a794735d5e03583",
-    "publishedAt": "2026-03-26T12:08:03.000Z",
-    "createdAt": "2026-03-26T17:10:21.077Z",
-    "updatedAt": "2026-03-26T17:10:21.077Z"
-  },
-  {
-    "id": "4926f7a5aa40ec13",
-    "title": "Коростелев назвал глупыми призывы отстранить американцев от турниров",
-    "sport": "Другое",
-    "category": "Другие",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/7/67/347745222772677.png",
-    "teaser": "Коростелев назвал глупыми призывы отстранить американцев от турниров",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69c50f069a7947b7f0819b0d",
-    "publishedAt": "2026-03-26T11:31:29.000Z",
-    "createdAt": "2026-03-26T17:10:23.365Z",
-    "updatedAt": "2026-03-26T17:10:23.365Z"
-  },
-  {
-    "id": "e14ace4ce4623756",
-    "title": "Бё назвал полученную после бана Устюгова бронзу «победой чистого спорта»",
-    "sport": "Другое",
-    "category": "Биатлон",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/3/48/347745224327483.jpeg",
-    "teaser": "Бё назвал полученную после бана Устюгова бронзу «победой чистого спорта»",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69c50c759a7947404bd3ac97",
-    "publishedAt": "2026-03-26T11:15:24.000Z",
-    "createdAt": "2026-03-26T17:10:19.152Z",
-    "updatedAt": "2026-03-26T17:10:19.152Z"
+    "createdAt": "2026-03-26T19:16:07.741Z",
+    "updatedAt": "2026-03-26T19:16:07.741Z"
   }
 ]
