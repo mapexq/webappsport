@@ -1,5 +1,61 @@
 [
   {
+    "id": "91602bdf753231a2",
+    "title": "«Интер Майами» назвал трибуну домашнего стадиона в честь Месси",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/0/45/347746250835450.jpeg",
+    "teaser": "«Интер Майами» назвал трибуну домашнего стадиона в честь Месси",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69c69bfa9a79477515b3cb5a",
+    "publishedAt": "2026-03-27T15:31:33.000Z",
+    "createdAt": "2026-03-27T15:59:22.861Z",
+    "updatedAt": "2026-03-27T15:59:22.861Z"
+  },
+  {
+    "id": "d8210d64917d8d2d",
+    "title": "Стал известен стартовый состав сборной России на матч с Никарагуа",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/1/31/347746141304311.jpeg",
+    "teaser": "Стал известен стартовый состав сборной России на матч с Никарагуа",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69c676379a7947188d043ad9",
+    "publishedAt": "2026-03-27T15:18:05.000Z",
+    "createdAt": "2026-03-27T15:59:23.931Z",
+    "updatedAt": "2026-03-27T15:59:23.931Z"
+  },
+  {
+    "id": "47591110b3f7a9a0",
+    "title": "«Зенит» продлил контракт с порвавшим «кресты» 18-летним форвардом",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/3/67/347746232562673.jpeg",
+    "teaser": "«Зенит» продлил контракт с порвавшим «кресты» 18-летним форвардом",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69c6973f9a7947100ce643e8",
+    "publishedAt": "2026-03-27T15:11:47.000Z",
+    "createdAt": "2026-03-27T15:59:26.010Z",
+    "updatedAt": "2026-03-27T15:59:26.010Z"
+  },
+  {
+    "id": "6bf6186d95547663",
+    "title": "Игрок «Салавата Юлаева» повторил рекорд защитников по матчам в плей-офф",
+    "sport": "Хоккей",
+    "category": "Хоккей",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/6/65/347746231021656.jpeg",
+    "teaser": "Игрок «Салавата Юлаева» повторил рекорд защитников по матчам в плей-офф",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69c693099a794745791a918d",
+    "publishedAt": "2026-03-27T15:10:33.000Z",
+    "createdAt": "2026-03-27T15:59:25.000Z",
+    "updatedAt": "2026-03-27T15:59:25.000Z"
+  },
+  {
     "id": "34ced782e8a3ae58",
     "title": "Джокович снялся со второго подряд турнира серии «Мастерс»",
     "sport": "Теннис",
@@ -10,8 +66,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69c690959a79476b6fae90ef",
     "publishedAt": "2026-03-27T14:45:02.000Z",
-    "createdAt": "2026-03-27T14:56:49.780Z",
-    "updatedAt": "2026-03-27T14:56:49.780Z"
+    "createdAt": "2026-03-27T15:59:27.106Z",
+    "updatedAt": "2026-03-27T15:59:27.106Z"
   },
   {
     "id": "30749e6a8e516619",
@@ -24,8 +80,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69c689589a79476c3398b881",
     "publishedAt": "2026-03-27T14:20:30.000Z",
-    "createdAt": "2026-03-27T14:56:50.797Z",
-    "updatedAt": "2026-03-27T14:56:50.797Z"
+    "createdAt": "2026-03-27T15:59:28.227Z",
+    "updatedAt": "2026-03-27T15:59:28.227Z"
   },
   {
     "id": "9daaf3c307733d81",
@@ -38,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69c682239a7947d8c6427fb8",
     "publishedAt": "2026-03-27T14:18:45.000Z",
-    "createdAt": "2026-03-27T14:56:51.770Z",
-    "updatedAt": "2026-03-27T14:56:51.770Z"
+    "createdAt": "2026-03-27T15:59:29.288Z",
+    "updatedAt": "2026-03-27T15:59:29.288Z"
   },
   {
     "id": "8a07cc8b8a131c63",
@@ -52,22 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69c6899b9a79474d465308bc",
     "publishedAt": "2026-03-27T14:03:38.000Z",
-    "createdAt": "2026-03-27T14:56:54.927Z",
-    "updatedAt": "2026-03-27T14:56:54.927Z"
-  },
-  {
-    "id": "4738af43e1a5e268",
-    "title": "Бывшая седьмая ракетка мира объявил о завершении карьеры",
-    "sport": "Теннис",
-    "category": "Теннис",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/4/70/347746179164704.jpeg",
-    "teaser": "Бывшая седьмая ракетка мира объявил о завершении карьеры",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69c682719a79471d830f0cc2",
-    "publishedAt": "2026-03-27T13:52:10.000Z",
-    "createdAt": "2026-03-27T14:56:55.959Z",
-    "updatedAt": "2026-03-27T14:56:55.959Z"
+    "createdAt": "2026-03-27T15:59:32.568Z",
+    "updatedAt": "2026-03-27T15:59:32.568Z"
   },
   {
     "id": "0c545c702440c306",
@@ -80,8 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69c6799e9a79474fb69c77d2",
     "publishedAt": "2026-03-27T13:00:34.000Z",
-    "createdAt": "2026-03-27T14:56:53.887Z",
-    "updatedAt": "2026-03-27T14:56:53.887Z"
+    "createdAt": "2026-03-27T15:59:31.472Z",
+    "updatedAt": "2026-03-27T15:59:31.472Z"
   },
   {
     "id": "48f2337fc25a1b2d",
@@ -94,49 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69c672e09a79476da49bac0d",
     "publishedAt": "2026-03-27T12:53:51.000Z",
-    "createdAt": "2026-03-27T14:56:52.856Z",
-    "updatedAt": "2026-03-27T14:56:52.856Z"
-  },
-  {
-    "id": "18ee4e95bb86bb3e",
-    "title": "Экс-тренер «Реала» Джон Тошак опроверг слова сына про его деменцию",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/2/93/347746117706932.jpeg",
-    "teaser": "Экс-тренер «Реала» Джон Тошак опроверг слова сына про его деменцию",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69c66d089a794740df03f9b9",
-    "publishedAt": "2026-03-27T11:58:05.000Z",
-    "createdAt": "2026-03-27T14:56:56.975Z",
-    "updatedAt": "2026-03-27T14:56:56.975Z"
-  },
-  {
-    "id": "2cdefe2f900345df",
-    "title": "Экс-тренер сборной Англии по футболу вернулся к работе в 78 лет",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/1/57/347746099049571.jpeg",
-    "teaser": "Экс-тренер сборной Англии по футболу вернулся к работе в 78 лет",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69c6613a9a79479184ae7d85",
-    "publishedAt": "2026-03-27T11:32:05.000Z",
-    "createdAt": "2026-03-27T14:56:59.074Z",
-    "updatedAt": "2026-03-27T14:56:59.074Z"
-  },
-  {
-    "id": "3e2893a92daa7157",
-    "title": "Хабиб Нурмагомедов назвал дикостью женские ММА",
-    "sport": "Единоборства",
-    "category": "Единоборства",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/5/07/347746082812075.jpeg",
-    "teaser": "Хабиб Нурмагомедов назвал дикостью женские ММА",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69c65bd99a79474822c6a324",
-    "publishedAt": "2026-03-27T11:13:24.000Z",
-    "createdAt": "2026-03-27T14:56:57.974Z",
-    "updatedAt": "2026-03-27T14:56:57.974Z"
+    "createdAt": "2026-03-27T15:59:30.420Z",
+    "updatedAt": "2026-03-27T15:59:30.420Z"
   }
 ]
