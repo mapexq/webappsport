@@ -1,5 +1,47 @@
 [
   {
+    "id": "2cdefe2f900345df",
+    "title": "Экс-тренер сборной Англии по футболу вернулся к работе в 78 лет",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/1/57/347746099049571.jpeg",
+    "teaser": "Экс-тренер сборной Англии по футболу вернулся к работе в 78 лет",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69c6613a9a79479184ae7d85",
+    "publishedAt": "2026-03-27T11:32:05.000Z",
+    "createdAt": "2026-03-27T11:45:42.328Z",
+    "updatedAt": "2026-03-27T11:45:42.328Z"
+  },
+  {
+    "id": "3e2893a92daa7157",
+    "title": "Хабиб Нурмагомедов назвал дикостью женские ММА",
+    "sport": "Единоборства",
+    "category": "Единоборства",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/5/07/347746082812075.jpeg",
+    "teaser": "Хабиб Нурмагомедов назвал дикостью женские ММА",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69c65bd99a79474822c6a324",
+    "publishedAt": "2026-03-27T11:13:24.000Z",
+    "createdAt": "2026-03-27T11:45:41.267Z",
+    "updatedAt": "2026-03-27T11:45:41.267Z"
+  },
+  {
+    "id": "3c257ae0153886a2",
+    "title": "Тренер «Вашингтона» назвал невероятным хет‑трик Овечкина в матче с «Ютой»",
+    "sport": "Хоккей",
+    "category": "Хоккей",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/9/64/347746068083649.jpeg",
+    "teaser": "Тренер «Вашингтона» назвал невероятным хет‑трик Овечкина в матче с «Ютой»",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69c656349a7947d8f656ad35",
+    "publishedAt": "2026-03-27T10:52:20.000Z",
+    "createdAt": "2026-03-27T11:45:43.528Z",
+    "updatedAt": "2026-03-27T11:45:43.528Z"
+  },
+  {
     "id": "ed4251d97d1662d7",
     "title": "Умер бывший капитан хоккейного «Нефтехимика» Геннадий Першин",
     "sport": "Хоккей",
@@ -10,8 +52,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69c6581a9a79470a2825129f",
     "publishedAt": "2026-03-27T10:41:09.000Z",
-    "createdAt": "2026-03-27T10:54:14.354Z",
-    "updatedAt": "2026-03-27T10:54:14.354Z"
+    "createdAt": "2026-03-27T11:45:44.674Z",
+    "updatedAt": "2026-03-27T11:45:44.674Z"
   },
   {
     "id": "4775feae4d83a9da",
@@ -24,8 +66,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69c64e589a794773a0869da4",
     "publishedAt": "2026-03-27T09:55:40.000Z",
-    "createdAt": "2026-03-27T10:54:15.395Z",
-    "updatedAt": "2026-03-27T10:54:15.395Z"
+    "createdAt": "2026-03-27T11:45:45.860Z",
+    "updatedAt": "2026-03-27T11:45:45.860Z"
   },
   {
     "id": "696bc97757e27dd1",
@@ -38,8 +80,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69c64d159a79478d0c35b3f9",
     "publishedAt": "2026-03-27T09:41:21.000Z",
-    "createdAt": "2026-03-27T10:54:18.530Z",
-    "updatedAt": "2026-03-27T10:54:18.530Z"
+    "createdAt": "2026-03-27T11:45:49.288Z",
+    "updatedAt": "2026-03-27T11:45:49.288Z"
   },
   {
     "id": "ca81bd75c7af1de4",
@@ -52,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69c643e69a7947e9be861c08",
     "publishedAt": "2026-03-27T09:34:41.000Z",
-    "createdAt": "2026-03-27T10:54:16.483Z",
-    "updatedAt": "2026-03-27T10:54:16.483Z"
+    "createdAt": "2026-03-27T11:45:47.021Z",
+    "updatedAt": "2026-03-27T11:45:47.021Z"
   },
   {
     "id": "93ead826a147612b",
@@ -66,8 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69c63c8c9a7947232a97d635",
     "publishedAt": "2026-03-27T09:18:07.000Z",
-    "createdAt": "2026-03-27T10:54:17.509Z",
-    "updatedAt": "2026-03-27T10:54:17.509Z"
+    "createdAt": "2026-03-27T11:45:48.206Z",
+    "updatedAt": "2026-03-27T11:45:48.206Z"
   },
   {
     "id": "d626654c1d38c1c7",
@@ -80,8 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69c63b7e9a79470dcf4dfb1d",
     "publishedAt": "2026-03-27T08:40:52.000Z",
-    "createdAt": "2026-03-27T10:54:19.609Z",
-    "updatedAt": "2026-03-27T10:54:19.609Z"
+    "createdAt": "2026-03-27T11:45:50.645Z",
+    "updatedAt": "2026-03-27T11:45:50.645Z"
   },
   {
     "id": "c7afbdc01e18cac1",
@@ -94,49 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69c6346a9a7947bb7d439894",
     "publishedAt": "2026-03-27T08:30:47.000Z",
-    "createdAt": "2026-03-27T10:54:20.774Z",
-    "updatedAt": "2026-03-27T10:54:20.774Z"
-  },
-  {
-    "id": "37224d7947957b9b",
-    "title": "Макдэвид догнал Кучерова в гонке бомбардиров сезона НХЛ",
-    "sport": "Хоккей",
-    "category": "Хоккей",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/4/17/347745964179174.jpeg",
-    "teaser": "Макдэвид догнал Кучерова в гонке бомбардиров сезона НХЛ",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69c62df69a7947a5856c0c7a",
-    "publishedAt": "2026-03-27T07:56:42.000Z",
-    "createdAt": "2026-03-27T10:54:21.793Z",
-    "updatedAt": "2026-03-27T10:54:21.793Z"
-  },
-  {
-    "id": "2b7a888435e9933a",
-    "title": "Сборная Боливии сыграет с командой Ирака за выход на ЧМ-2026",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/9/77/347745959522779.jpeg",
-    "teaser": "Сборная Боливии сыграет с командой Ирака за выход на ЧМ-2026",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69c62f3a9a79475e5758076b",
-    "publishedAt": "2026-03-27T07:53:27.000Z",
-    "createdAt": "2026-03-27T10:54:24.014Z",
-    "updatedAt": "2026-03-27T10:54:24.014Z"
-  },
-  {
-    "id": "6294d1c7b8ab7b28",
-    "title": "Соболенко обыграла Рыбакину и вышла в финал второго «тысячника» подряд",
-    "sport": "Теннис",
-    "category": "Теннис",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/0/44/347745954599440.jpeg",
-    "teaser": "Соболенко обыграла Рыбакину и вышла в финал второго «тысячника» подряд",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69c62d4a9a79477c54173452",
-    "publishedAt": "2026-03-27T07:31:56.000Z",
-    "createdAt": "2026-03-27T10:54:22.884Z",
-    "updatedAt": "2026-03-27T10:54:22.884Z"
+    "createdAt": "2026-03-27T11:45:51.817Z",
+    "updatedAt": "2026-03-27T11:45:51.817Z"
   }
 ]
