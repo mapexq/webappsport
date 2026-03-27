@@ -1,17 +1,87 @@
 [
   {
-    "id": "857dc4482e1f15bd",
-    "title": "Трамп заявил, что МОК благодаря нему запретил трансгендеров на Олимпиадах",
+    "id": "ed4251d97d1662d7",
+    "title": "Умер бывший капитан хоккейного «Нефтехимика» Геннадий Першин",
+    "sport": "Хоккей",
+    "category": "Хоккей",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/6/82/347746063821826.jpeg",
+    "teaser": "Умер бывший капитан хоккейного «Нефтехимика» Геннадий Першин",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69c6581a9a79470a2825129f",
+    "publishedAt": "2026-03-27T10:41:09.000Z",
+    "createdAt": "2026-03-27T10:54:14.354Z",
+    "updatedAt": "2026-03-27T10:54:14.354Z"
+  },
+  {
+    "id": "4775feae4d83a9da",
+    "title": "НХЛ сравнила третий гол Овечкина с чемпионским броском Майкла Джордана",
+    "sport": "Хоккей",
+    "category": "Хоккей",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/3/97/347746048070973.jpeg",
+    "teaser": "НХЛ сравнила третий гол Овечкина с чемпионским броском Майкла Джордана",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69c64e589a794773a0869da4",
+    "publishedAt": "2026-03-27T09:55:40.000Z",
+    "createdAt": "2026-03-27T10:54:15.395Z",
+    "updatedAt": "2026-03-27T10:54:15.395Z"
+  },
+  {
+    "id": "696bc97757e27dd1",
+    "title": "Биатлонистка Халили завоевала третье золото на чемпионате России",
+    "sport": "Другое",
+    "category": "Биатлон",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/0/60/347746036044600.jpeg",
+    "teaser": "Биатлонистка Халили завоевала третье золото на чемпионате России",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69c64d159a79478d0c35b3f9",
+    "publishedAt": "2026-03-27T09:41:21.000Z",
+    "createdAt": "2026-03-27T10:54:18.530Z",
+    "updatedAt": "2026-03-27T10:54:18.530Z"
+  },
+  {
+    "id": "ca81bd75c7af1de4",
+    "title": "Иран запретил своим спортивным командам выезжать во «враждебные» страны",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/1/37/347746032207371.jpeg",
+    "teaser": "Иран запретил своим спортивным командам выезжать во «враждебные» страны",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69c643e69a7947e9be861c08",
+    "publishedAt": "2026-03-27T09:34:41.000Z",
+    "createdAt": "2026-03-27T10:54:16.483Z",
+    "updatedAt": "2026-03-27T10:54:16.483Z"
+  },
+  {
+    "id": "93ead826a147612b",
+    "title": "В Иране собрались конфисковать имущество экс‑игрока «Зенита» Азмуна",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/7/17/347746005323177.jpeg",
+    "teaser": "В Иране собрались конфисковать имущество экс‑игрока «Зенита» Азмуна",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69c63c8c9a7947232a97d635",
+    "publishedAt": "2026-03-27T09:18:07.000Z",
+    "createdAt": "2026-03-27T10:54:17.509Z",
+    "updatedAt": "2026-03-27T10:54:17.509Z"
+  },
+  {
+    "id": "d626654c1d38c1c7",
+    "title": "Трамп заявил, что МОК благодаря ему запретил трансгендеров на Олимпиадах",
     "sport": "Другое",
     "category": "Другие",
     "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/3/83/347745991202833.jpeg",
-    "teaser": "Трамп заявил, что МОК благодаря нему запретил трансгендеров на Олимпиадах",
+    "teaser": "Трамп заявил, что МОК благодаря ему запретил трансгендеров на Олимпиадах",
     "fullContent": "",
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69c63b7e9a79470dcf4dfb1d",
     "publishedAt": "2026-03-27T08:40:52.000Z",
-    "createdAt": "2026-03-27T09:00:37.658Z",
-    "updatedAt": "2026-03-27T09:00:37.658Z"
+    "createdAt": "2026-03-27T10:54:19.609Z",
+    "updatedAt": "2026-03-27T10:54:19.609Z"
   },
   {
     "id": "c7afbdc01e18cac1",
@@ -24,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69c6346a9a7947bb7d439894",
     "publishedAt": "2026-03-27T08:30:47.000Z",
-    "createdAt": "2026-03-27T09:00:38.903Z",
-    "updatedAt": "2026-03-27T09:00:38.903Z"
+    "createdAt": "2026-03-27T10:54:20.774Z",
+    "updatedAt": "2026-03-27T10:54:20.774Z"
   },
   {
     "id": "37224d7947957b9b",
@@ -38,8 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69c62df69a7947a5856c0c7a",
     "publishedAt": "2026-03-27T07:56:42.000Z",
-    "createdAt": "2026-03-27T09:00:40.046Z",
-    "updatedAt": "2026-03-27T09:00:40.046Z"
+    "createdAt": "2026-03-27T10:54:21.793Z",
+    "updatedAt": "2026-03-27T10:54:21.793Z"
   },
   {
     "id": "2b7a888435e9933a",
@@ -52,8 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69c62f3a9a79475e5758076b",
     "publishedAt": "2026-03-27T07:53:27.000Z",
-    "createdAt": "2026-03-27T09:00:42.525Z",
-    "updatedAt": "2026-03-27T09:00:42.525Z"
+    "createdAt": "2026-03-27T10:54:24.014Z",
+    "updatedAt": "2026-03-27T10:54:24.014Z"
   },
   {
     "id": "6294d1c7b8ab7b28",
@@ -66,77 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69c62d4a9a79477c54173452",
     "publishedAt": "2026-03-27T07:31:56.000Z",
-    "createdAt": "2026-03-27T09:00:41.341Z",
-    "updatedAt": "2026-03-27T09:00:41.341Z"
-  },
-  {
-    "id": "e15b34852cbfb37e",
-    "title": "Шайба Панарина помогла «Лос-Анджелесу» разгромить «Ванкувер» в матче НХЛ",
-    "sport": "Хоккей",
-    "category": "Хоккей",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/8/52/347745950464528.jpeg",
-    "teaser": "Шайба Панарина помогла «Лос-Анджелесу» разгромить «Ванкувер» в матче НХЛ",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69c62a7e9a7947bbac50bfc2",
-    "publishedAt": "2026-03-27T07:29:38.000Z",
-    "createdAt": "2026-03-27T09:00:44.849Z",
-    "updatedAt": "2026-03-27T09:00:44.849Z"
-  },
-  {
-    "id": "460b456f618fc2e1",
-    "title": "Овечкин впервые за полгода оформил хет-трик и стал второй звездой дня НХЛ",
-    "sport": "Хоккей",
-    "category": "Хоккей",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/0/98/347745923286980.jpeg",
-    "teaser": "Овечкин впервые за полгода оформил хет-трик и стал второй звездой дня НХЛ",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69c61e899a794720fbbdd246",
-    "publishedAt": "2026-03-27T07:03:08.000Z",
-    "createdAt": "2026-03-27T09:00:43.664Z",
-    "updatedAt": "2026-03-27T09:00:43.664Z"
-  },
-  {
-    "id": "0eebcba8ca20510a",
-    "title": "Российский одноклубник Овечкина впервые сделал дубль в матче НХЛ",
-    "sport": "Хоккей",
-    "category": "Хоккей",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/6/52/347745944345526.jpeg",
-    "teaser": "Российский одноклубник Овечкина впервые сделал дубль в матче НХЛ",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69c624f29a7947a532b1ac60",
-    "publishedAt": "2026-03-27T07:03:03.000Z",
-    "createdAt": "2026-03-27T09:00:45.993Z",
-    "updatedAt": "2026-03-27T09:00:45.993Z"
-  },
-  {
-    "id": "3bf41825af53a34e",
-    "title": "Сборная Украины не попала на чемпионат мира по футболу",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/9/32/347745583582329.jpeg",
-    "teaser": "Сборная Украины не попала на чемпионат мира по футболу",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69c59a6f9a7947f06a52d335",
-    "publishedAt": "2026-03-26T21:56:53.000Z",
-    "createdAt": "2026-03-27T09:00:47.132Z",
-    "updatedAt": "2026-03-27T09:00:47.132Z"
-  },
-  {
-    "id": "789a65350cafd8b9",
-    "title": "Форварда «Салавата Юлаева» Кузнецова дисквалифицировали на один матч КХЛ",
-    "sport": "Хоккей",
-    "category": "Хоккей",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/4/89/347745609291894.jpeg",
-    "teaser": "Форварда «Салавата Юлаева» Кузнецова дисквалифицировали на один матч КХЛ",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69c5a2e99a7947beb354b2d3",
-    "publishedAt": "2026-03-26T21:49:38.000Z",
-    "createdAt": "2026-03-27T09:00:48.231Z",
-    "updatedAt": "2026-03-27T09:00:48.231Z"
+    "createdAt": "2026-03-27T10:54:22.884Z",
+    "updatedAt": "2026-03-27T10:54:22.884Z"
   }
 ]
