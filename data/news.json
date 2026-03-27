@@ -1,5 +1,33 @@
 [
   {
+    "id": "db33a6c0a1f6a63b",
+    "title": "Вице-чемпион КХЛ сократил отставание в серии плей-офф с «Ак Барсом»",
+    "sport": "Хоккей",
+    "category": "Хоккей",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/5/53/347746274785535.jpeg",
+    "teaser": "Вице-чемпион КХЛ сократил отставание в серии плей-офф с «Ак Барсом»",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69c6aa319a7947385e1b807f",
+    "publishedAt": "2026-03-27T16:41:42.000Z",
+    "createdAt": "2026-03-27T17:04:28.210Z",
+    "updatedAt": "2026-03-27T17:04:28.210Z"
+  },
+  {
+    "id": "f492ced1d833dd7c",
+    "title": "«Салават Юлаев» вышел вперед в серии плей-офф КХЛ с «Автомобилистом»",
+    "sport": "Хоккей",
+    "category": "Хоккей",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/4/74/347746266398744.jpeg",
+    "teaser": "«Салават Юлаев» вышел вперед в серии плей-офф КХЛ с «Автомобилистом»",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69c6a72c9a794702cbe2f674",
+    "publishedAt": "2026-03-27T16:31:41.000Z",
+    "createdAt": "2026-03-27T17:04:29.253Z",
+    "updatedAt": "2026-03-27T17:04:29.253Z"
+  },
+  {
     "id": "91602bdf753231a2",
     "title": "«Интер Майами» назвал трибуну домашнего стадиона в честь Месси",
     "sport": "Футбол",
@@ -10,8 +38,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69c69bfa9a79477515b3cb5a",
     "publishedAt": "2026-03-27T15:31:33.000Z",
-    "createdAt": "2026-03-27T15:59:22.861Z",
-    "updatedAt": "2026-03-27T15:59:22.861Z"
+    "createdAt": "2026-03-27T17:04:30.285Z",
+    "updatedAt": "2026-03-27T17:04:30.285Z"
   },
   {
     "id": "d8210d64917d8d2d",
@@ -24,8 +52,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69c676379a7947188d043ad9",
     "publishedAt": "2026-03-27T15:18:05.000Z",
-    "createdAt": "2026-03-27T15:59:23.931Z",
-    "updatedAt": "2026-03-27T15:59:23.931Z"
+    "createdAt": "2026-03-27T17:04:31.310Z",
+    "updatedAt": "2026-03-27T17:04:31.310Z"
   },
   {
     "id": "47591110b3f7a9a0",
@@ -38,8 +66,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69c6973f9a7947100ce643e8",
     "publishedAt": "2026-03-27T15:11:47.000Z",
-    "createdAt": "2026-03-27T15:59:26.010Z",
-    "updatedAt": "2026-03-27T15:59:26.010Z"
+    "createdAt": "2026-03-27T17:04:33.426Z",
+    "updatedAt": "2026-03-27T17:04:33.426Z"
   },
   {
     "id": "6bf6186d95547663",
@@ -52,8 +80,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69c693099a794745791a918d",
     "publishedAt": "2026-03-27T15:10:33.000Z",
-    "createdAt": "2026-03-27T15:59:25.000Z",
-    "updatedAt": "2026-03-27T15:59:25.000Z"
+    "createdAt": "2026-03-27T17:04:32.302Z",
+    "updatedAt": "2026-03-27T17:04:32.302Z"
   },
   {
     "id": "34ced782e8a3ae58",
@@ -66,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69c690959a79476b6fae90ef",
     "publishedAt": "2026-03-27T14:45:02.000Z",
-    "createdAt": "2026-03-27T15:59:27.106Z",
-    "updatedAt": "2026-03-27T15:59:27.106Z"
+    "createdAt": "2026-03-27T17:04:34.460Z",
+    "updatedAt": "2026-03-27T17:04:34.460Z"
   },
   {
     "id": "30749e6a8e516619",
@@ -80,8 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69c689589a79476c3398b881",
     "publishedAt": "2026-03-27T14:20:30.000Z",
-    "createdAt": "2026-03-27T15:59:28.227Z",
-    "updatedAt": "2026-03-27T15:59:28.227Z"
+    "createdAt": "2026-03-27T17:04:35.466Z",
+    "updatedAt": "2026-03-27T17:04:35.466Z"
   },
   {
     "id": "9daaf3c307733d81",
@@ -94,36 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69c682239a7947d8c6427fb8",
     "publishedAt": "2026-03-27T14:18:45.000Z",
-    "createdAt": "2026-03-27T15:59:29.288Z",
-    "updatedAt": "2026-03-27T15:59:29.288Z"
-  },
-  {
-    "id": "8a07cc8b8a131c63",
-    "title": "Филиппов впервые в сезоне не отобрался в финал спринта на Кубке мира",
-    "sport": "Другое",
-    "category": "Другие",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/1/22/347746198870221.jpeg",
-    "teaser": "Филиппов впервые в сезоне не отобрался в финал спринта на Кубке мира",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69c6899b9a79474d465308bc",
-    "publishedAt": "2026-03-27T14:03:38.000Z",
-    "createdAt": "2026-03-27T15:59:32.568Z",
-    "updatedAt": "2026-03-27T15:59:32.568Z"
-  },
-  {
-    "id": "0c545c702440c306",
-    "title": "Паралимпиец Шеббо не попал на встречу с Путиным в Кремле из‑за COVID‑19",
-    "sport": "Другое",
-    "category": "Другие",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/5/51/347746158755515.jpeg",
-    "teaser": "Паралимпиец Шеббо не попал на встречу с Путиным в Кремле из‑за COVID‑19",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69c6799e9a79474fb69c77d2",
-    "publishedAt": "2026-03-27T13:00:34.000Z",
-    "createdAt": "2026-03-27T15:59:31.472Z",
-    "updatedAt": "2026-03-27T15:59:31.472Z"
+    "createdAt": "2026-03-27T17:04:36.488Z",
+    "updatedAt": "2026-03-27T17:04:36.488Z"
   },
   {
     "id": "48f2337fc25a1b2d",
@@ -136,7 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69c672e09a79476da49bac0d",
     "publishedAt": "2026-03-27T12:53:51.000Z",
-    "createdAt": "2026-03-27T15:59:30.420Z",
-    "updatedAt": "2026-03-27T15:59:30.420Z"
+    "createdAt": "2026-03-27T17:04:37.510Z",
+    "updatedAt": "2026-03-27T17:04:37.510Z"
   }
 ]
