@@ -1,5 +1,75 @@
 [
   {
+    "id": "b8e9245aa2b9e7a1",
+    "title": "Сборная России обыграла Никарагуа в матче с пенальти и удалением",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/0/80/347746342701800.jpeg",
+    "teaser": "Сборная России обыграла Никарагуа в матче с пенальти и удалением",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69c6c4919a79479c2daf3ef7",
+    "publishedAt": "2026-03-27T18:31:41.000Z",
+    "createdAt": "2026-03-27T19:02:57.564Z",
+    "updatedAt": "2026-03-27T19:02:57.564Z"
+  },
+  {
+    "id": "46ab276b82a2b82d",
+    "title": "«Кайрат» на автобусе добирался в Петербург из-за закрытия «Пулково»",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/1/84/347746336717841.jpeg",
+    "teaser": "«Кайрат» на автобусе добирался в Петербург из-за закрытия «Пулково»",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69c6bd1b9a79475ebb947fca",
+    "publishedAt": "2026-03-27T18:21:15.000Z",
+    "createdAt": "2026-03-27T19:02:58.588Z",
+    "updatedAt": "2026-03-27T19:02:58.588Z"
+  },
+  {
+    "id": "abaf1aaf1509ff40",
+    "title": "Умерла первая британская олимпийская чемпионка в легкой атлетике",
+    "sport": "Другое",
+    "category": "Другие",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/4/54/347746333003544.jpeg",
+    "teaser": "Умерла первая британская олимпийская чемпионка в легкой атлетике",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69c6c1359a79475591496635",
+    "publishedAt": "2026-03-27T18:06:39.000Z",
+    "createdAt": "2026-03-27T19:02:59.621Z",
+    "updatedAt": "2026-03-27T19:02:59.621Z"
+  },
+  {
+    "id": "b56e426dafd022ee",
+    "title": "Экс-капитан сборной России Смертин пробежал 73 км перед суточным забегом",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/0/57/347746310470570.jpeg",
+    "teaser": "Экс-капитан сборной России Смертин пробежал 73 км перед суточным забегом",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69c6b2e99a79474ab2110ec0",
+    "publishedAt": "2026-03-27T17:43:05.000Z",
+    "createdAt": "2026-03-27T19:03:00.691Z",
+    "updatedAt": "2026-03-27T19:03:00.691Z"
+  },
+  {
+    "id": "f75246fdea8d9e3c",
+    "title": "Журова заявила, что футбольный матч России и США может пройти перед ЧМ",
+    "sport": "Другое",
+    "category": "Другие",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/7/13/347746307502137.jpeg",
+    "teaser": "Журова заявила, что футбольный матч России и США может пройти перед ЧМ",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69c6b5f89a7947c246feae3f",
+    "publishedAt": "2026-03-27T16:57:04.000Z",
+    "createdAt": "2026-03-27T19:03:01.766Z",
+    "updatedAt": "2026-03-27T19:03:01.766Z"
+  },
+  {
     "id": "db33a6c0a1f6a63b",
     "title": "Вице-чемпион КХЛ сократил отставание в серии плей-офф с «Ак Барсом»",
     "sport": "Хоккей",
@@ -10,8 +80,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69c6aa319a7947385e1b807f",
     "publishedAt": "2026-03-27T16:41:42.000Z",
-    "createdAt": "2026-03-27T17:04:28.210Z",
-    "updatedAt": "2026-03-27T17:04:28.210Z"
+    "createdAt": "2026-03-27T19:03:02.785Z",
+    "updatedAt": "2026-03-27T19:03:02.785Z"
   },
   {
     "id": "f492ced1d833dd7c",
@@ -24,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69c6a72c9a794702cbe2f674",
     "publishedAt": "2026-03-27T16:31:41.000Z",
-    "createdAt": "2026-03-27T17:04:29.253Z",
-    "updatedAt": "2026-03-27T17:04:29.253Z"
+    "createdAt": "2026-03-27T19:03:03.863Z",
+    "updatedAt": "2026-03-27T19:03:03.863Z"
   },
   {
     "id": "91602bdf753231a2",
@@ -38,22 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69c69bfa9a79477515b3cb5a",
     "publishedAt": "2026-03-27T15:31:33.000Z",
-    "createdAt": "2026-03-27T17:04:30.285Z",
-    "updatedAt": "2026-03-27T17:04:30.285Z"
-  },
-  {
-    "id": "d8210d64917d8d2d",
-    "title": "Стал известен стартовый состав сборной России на матч с Никарагуа",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/1/31/347746141304311.jpeg",
-    "teaser": "Стал известен стартовый состав сборной России на матч с Никарагуа",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69c676379a7947188d043ad9",
-    "publishedAt": "2026-03-27T15:18:05.000Z",
-    "createdAt": "2026-03-27T17:04:31.310Z",
-    "updatedAt": "2026-03-27T17:04:31.310Z"
+    "createdAt": "2026-03-27T19:03:04.946Z",
+    "updatedAt": "2026-03-27T19:03:04.946Z"
   },
   {
     "id": "47591110b3f7a9a0",
@@ -66,8 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69c6973f9a7947100ce643e8",
     "publishedAt": "2026-03-27T15:11:47.000Z",
-    "createdAt": "2026-03-27T17:04:33.426Z",
-    "updatedAt": "2026-03-27T17:04:33.426Z"
+    "createdAt": "2026-03-27T19:03:07.077Z",
+    "updatedAt": "2026-03-27T19:03:07.077Z"
   },
   {
     "id": "6bf6186d95547663",
@@ -80,63 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69c693099a794745791a918d",
     "publishedAt": "2026-03-27T15:10:33.000Z",
-    "createdAt": "2026-03-27T17:04:32.302Z",
-    "updatedAt": "2026-03-27T17:04:32.302Z"
-  },
-  {
-    "id": "34ced782e8a3ae58",
-    "title": "Джокович снялся со второго подряд турнира серии «Мастерс»",
-    "sport": "Теннис",
-    "category": "Теннис",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/0/62/347746219461620.jpeg",
-    "teaser": "Джокович снялся со второго подряд турнира серии «Мастерс»",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69c690959a79476b6fae90ef",
-    "publishedAt": "2026-03-27T14:45:02.000Z",
-    "createdAt": "2026-03-27T17:04:34.460Z",
-    "updatedAt": "2026-03-27T17:04:34.460Z"
-  },
-  {
-    "id": "30749e6a8e516619",
-    "title": "Австрийская футболистка погибла в автокатастрофе в возрасте 20 лет",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/3/51/347746205789513.png",
-    "teaser": "Австрийская футболистка погибла в автокатастрофе в возрасте 20 лет",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69c689589a79476c3398b881",
-    "publishedAt": "2026-03-27T14:20:30.000Z",
-    "createdAt": "2026-03-27T17:04:35.466Z",
-    "updatedAt": "2026-03-27T17:04:35.466Z"
-  },
-  {
-    "id": "9daaf3c307733d81",
-    "title": "Паралимпийская чемпионка Багиян стала заслуженным мастером спорта России",
-    "sport": "Другое",
-    "category": "Другие",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/7/05/347746172926057.jpeg",
-    "teaser": "Паралимпийская чемпионка Багиян стала заслуженным мастером спорта России",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69c682239a7947d8c6427fb8",
-    "publishedAt": "2026-03-27T14:18:45.000Z",
-    "createdAt": "2026-03-27T17:04:36.488Z",
-    "updatedAt": "2026-03-27T17:04:36.488Z"
-  },
-  {
-    "id": "48f2337fc25a1b2d",
-    "title": "Рыночная стоимость Сафонова в ПСЖ выросла на €7 млн за четыре месяца",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/5/58/347746152120585.jpeg",
-    "teaser": "Рыночная стоимость Сафонова в ПСЖ выросла на €7 млн за четыре месяца",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69c672e09a79476da49bac0d",
-    "publishedAt": "2026-03-27T12:53:51.000Z",
-    "createdAt": "2026-03-27T17:04:37.510Z",
-    "updatedAt": "2026-03-27T17:04:37.510Z"
+    "createdAt": "2026-03-27T19:03:05.981Z",
+    "updatedAt": "2026-03-27T19:03:05.981Z"
   }
 ]
