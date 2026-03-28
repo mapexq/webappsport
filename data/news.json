@@ -1,5 +1,47 @@
 [
   {
+    "id": "3f2d56d4670e9d90",
+    "title": "Биатлонист Халили выиграл марафон на чемпионате России",
+    "sport": "Другое",
+    "category": "Биатлон",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/4/32/347746868158324.jpeg",
+    "teaser": "Биатлонист Халили выиграл марафон на чемпионате России",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69c7922b9a7947f39a32b880",
+    "publishedAt": "2026-03-28T08:38:26.000Z",
+    "createdAt": "2026-03-28T08:49:24.870Z",
+    "updatedAt": "2026-03-28T08:49:24.870Z"
+  },
+  {
+    "id": "2ba4a15fea6f93f2",
+    "title": "Леброн Джеймс стал первым игроком в истории НБА, отдавшим ассист сыну",
+    "sport": "Баскетбол",
+    "category": "Баскетбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/7/95/347746851876957.jpeg",
+    "teaser": "Леброн Джеймс стал первым игроком в истории НБА, отдавшим ассист сыну",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69c78ade9a79471ee0851d9f",
+    "publishedAt": "2026-03-28T08:15:21.000Z",
+    "createdAt": "2026-03-28T08:49:25.998Z",
+    "updatedAt": "2026-03-28T08:49:25.998Z"
+  },
+  {
+    "id": "7c2be939e239485f",
+    "title": "Тайгера Вудса освободили после ареста за вождение в нетрезвом виде",
+    "sport": "Другое",
+    "category": "Другие",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/3/21/347746833424213.jpeg",
+    "teaser": "Тайгера Вудса освободили после ареста за вождение в нетрезвом виде",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69c784929a79472d23bf8196",
+    "publishedAt": "2026-03-28T08:09:04.000Z",
+    "createdAt": "2026-03-28T08:49:23.887Z",
+    "updatedAt": "2026-03-28T08:49:23.887Z"
+  },
+  {
     "id": "5f5d59919670835e",
     "title": "Российский гимнаст с нейтральным статусом провалил допинг‑тест",
     "sport": "Другое",
@@ -10,8 +52,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69c780309a794731f4698a57",
     "publishedAt": "2026-03-28T07:23:26.000Z",
-    "createdAt": "2026-03-28T07:47:56.933Z",
-    "updatedAt": "2026-03-28T07:47:56.933Z"
+    "createdAt": "2026-03-28T08:49:26.976Z",
+    "updatedAt": "2026-03-28T08:49:26.976Z"
   },
   {
     "id": "8d3739d061d89ecf",
@@ -24,8 +66,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69c77d929a79471af18a013d",
     "publishedAt": "2026-03-28T07:13:40.000Z",
-    "createdAt": "2026-03-28T07:47:57.897Z",
-    "updatedAt": "2026-03-28T07:47:57.897Z"
+    "createdAt": "2026-03-28T08:49:28.019Z",
+    "updatedAt": "2026-03-28T08:49:28.019Z"
   },
   {
     "id": "854e4e49d59a9f28",
@@ -38,8 +80,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/696f80269a794709e22f4a19",
     "publishedAt": "2026-03-28T06:01:17.000Z",
-    "createdAt": "2026-03-28T07:48:00.024Z",
-    "updatedAt": "2026-03-28T07:48:00.024Z"
+    "createdAt": "2026-03-28T08:49:30.285Z",
+    "updatedAt": "2026-03-28T08:49:30.285Z"
   },
   {
     "id": "084e3b15e35cdeb6",
@@ -52,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69c6ea199a7947acaaae8041",
     "publishedAt": "2026-03-27T21:15:11.000Z",
-    "createdAt": "2026-03-28T07:47:58.860Z",
-    "updatedAt": "2026-03-28T07:47:58.860Z"
+    "createdAt": "2026-03-28T08:49:29.067Z",
+    "updatedAt": "2026-03-28T08:49:29.067Z"
   },
   {
     "id": "f2f3a47f32bc2db6",
@@ -66,8 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69c6db8f9a794783dc28c2f1",
     "publishedAt": "2026-03-27T20:35:25.000Z",
-    "createdAt": "2026-03-28T07:48:01.114Z",
-    "updatedAt": "2026-03-28T07:48:01.114Z"
+    "createdAt": "2026-03-28T08:49:31.256Z",
+    "updatedAt": "2026-03-28T08:49:31.256Z"
   },
   {
     "id": "fa160c4375cc3acd",
@@ -80,22 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69c6c7f79a7947360e8aa082",
     "publishedAt": "2026-03-27T19:08:20.000Z",
-    "createdAt": "2026-03-28T07:48:02.076Z",
-    "updatedAt": "2026-03-28T07:48:02.076Z"
-  },
-  {
-    "id": "a2abcb3b6c17c1af",
-    "title": "СКА сократил отставание от ЦСКА в серии плей-офф КХЛ",
-    "sport": "Хоккей",
-    "category": "Хоккей",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/5/13/347746377509135.jpeg",
-    "teaser": "СКА сократил отставание от ЦСКА в серии плей-офф КХЛ",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69c6ce1d9a7947293edceb16",
-    "publishedAt": "2026-03-27T19:05:06.000Z",
-    "createdAt": "2026-03-28T07:48:04.072Z",
-    "updatedAt": "2026-03-28T07:48:04.072Z"
+    "createdAt": "2026-03-28T08:49:32.353Z",
+    "updatedAt": "2026-03-28T08:49:32.353Z"
   },
   {
     "id": "a8eea0eb61d2e576",
@@ -108,35 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69c6ce329a7947248f4e3ca4",
     "publishedAt": "2026-03-27T19:03:15.000Z",
-    "createdAt": "2026-03-28T07:48:03.085Z",
-    "updatedAt": "2026-03-28T07:48:03.085Z"
-  },
-  {
-    "id": "b8e9245aa2b9e7a1",
-    "title": "Сборная России обыграла Никарагуа в матче с пенальти и удалением",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/0/80/347746342701800.jpeg",
-    "teaser": "Сборная России обыграла Никарагуа в матче с пенальти и удалением",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69c6c4919a79479c2daf3ef7",
-    "publishedAt": "2026-03-27T18:31:41.000Z",
-    "createdAt": "2026-03-28T07:48:05.031Z",
-    "updatedAt": "2026-03-28T07:48:05.031Z"
-  },
-  {
-    "id": "5781c2462f845634",
-    "title": "«Кайрат» на автобусе добирался в Петербург из-за закрытия Пулково",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/1/84/347746336717841.jpeg",
-    "teaser": "«Кайрат» на автобусе добирался в Петербург из-за закрытия Пулково",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69c6bd1b9a79475ebb947fca",
-    "publishedAt": "2026-03-27T18:21:15.000Z",
-    "createdAt": "2026-03-28T07:48:06.058Z",
-    "updatedAt": "2026-03-28T07:48:06.058Z"
+    "createdAt": "2026-03-28T08:49:33.408Z",
+    "updatedAt": "2026-03-28T08:49:33.408Z"
   }
 ]
