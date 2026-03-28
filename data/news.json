@@ -1,5 +1,47 @@
 [
   {
+    "id": "5c0fc58f31e991d3",
+    "title": "Фигурист Илья Малинин стал трехкратным чемпионом мира",
+    "sport": "Другое",
+    "category": "Фигурное катание",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/9/81/347747121279819.jpeg",
+    "teaser": "Фигурист Илья Малинин стал трехкратным чемпионом мира",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69c7ed649a7947079db7f022",
+    "publishedAt": "2026-03-28T15:26:28.000Z",
+    "createdAt": "2026-03-28T15:36:48.870Z",
+    "updatedAt": "2026-03-28T15:36:48.870Z"
+  },
+  {
+    "id": "1af27926911ea6ca",
+    "title": "Впервые в сезоне россиянка победила на этапе Кубка мира по фехтованию",
+    "sport": "Другое",
+    "category": "Другие",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/3/50/347747100059503.jpeg",
+    "teaser": "Впервые в сезоне россиянка победила на этапе Кубка мира по фехтованию",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69c7eb089a7947693a9227d3",
+    "publishedAt": "2026-03-28T14:55:28.000Z",
+    "createdAt": "2026-03-28T15:36:51.112Z",
+    "updatedAt": "2026-03-28T15:36:51.112Z"
+  },
+  {
+    "id": "41947f8148ed2f63",
+    "title": "Депутат Свищев заявил, что перспектив по возвращению пива на стадионы нет",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/2/69/347747081763692.jpeg",
+    "teaser": "Депутат Свищев заявил, что перспектив по возвращению пива на стадионы нет",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69c7e5969a794741dd339b32",
+    "publishedAt": "2026-03-28T14:44:11.000Z",
+    "createdAt": "2026-03-28T15:36:49.961Z",
+    "updatedAt": "2026-03-28T15:36:49.961Z"
+  },
+  {
     "id": "b202ad4ed4f5e8d5",
     "title": "«Авангард» вырвал вторую победу у «Нефтехимика» в серии плей-офф КХЛ",
     "sport": "Хоккей",
@@ -10,8 +52,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69bab1ca9a794754325a9f71",
     "publishedAt": "2026-03-28T13:57:08.000Z",
-    "createdAt": "2026-03-28T14:37:23.024Z",
-    "updatedAt": "2026-03-28T14:37:23.024Z"
+    "createdAt": "2026-03-28T15:36:52.219Z",
+    "updatedAt": "2026-03-28T15:36:52.219Z"
   },
   {
     "id": "a0cc4ac543be97cd",
@@ -24,8 +66,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69bc0b979a794761b6567147",
     "publishedAt": "2026-03-28T13:02:21.000Z",
-    "createdAt": "2026-03-28T14:37:25.246Z",
-    "updatedAt": "2026-03-28T14:37:25.246Z"
+    "createdAt": "2026-03-28T15:36:54.559Z",
+    "updatedAt": "2026-03-28T15:36:54.559Z"
   },
   {
     "id": "057d5a1f1b207a27",
@@ -38,8 +80,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69c7c9569a79477160a712f2",
     "publishedAt": "2026-03-28T12:38:16.000Z",
-    "createdAt": "2026-03-28T14:37:24.149Z",
-    "updatedAt": "2026-03-28T14:37:24.149Z"
+    "createdAt": "2026-03-28T15:36:53.366Z",
+    "updatedAt": "2026-03-28T15:36:53.366Z"
   },
   {
     "id": "d455c44e0fda3e42",
@@ -52,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69c7bfc39a79475b7e8c0094",
     "publishedAt": "2026-03-28T11:57:30.000Z",
-    "createdAt": "2026-03-28T14:37:26.313Z",
-    "updatedAt": "2026-03-28T14:37:26.313Z"
+    "createdAt": "2026-03-28T15:36:55.716Z",
+    "updatedAt": "2026-03-28T15:36:55.716Z"
   },
   {
     "id": "46442d7da37c9850",
@@ -66,8 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69c7b8549a794743453d7a0b",
     "publishedAt": "2026-03-28T11:25:15.000Z",
-    "createdAt": "2026-03-28T14:37:28.456Z",
-    "updatedAt": "2026-03-28T14:37:28.456Z"
+    "createdAt": "2026-03-28T15:36:57.970Z",
+    "updatedAt": "2026-03-28T15:36:57.970Z"
   },
   {
     "id": "af04d8f715b4e4c6",
@@ -80,8 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69bee80b9a79472f0657259a",
     "publishedAt": "2026-03-28T11:12:49.000Z",
-    "createdAt": "2026-03-28T14:37:27.365Z",
-    "updatedAt": "2026-03-28T14:37:27.365Z"
+    "createdAt": "2026-03-28T15:36:56.811Z",
+    "updatedAt": "2026-03-28T15:36:56.811Z"
   },
   {
     "id": "07f6b85c09265d45",
@@ -94,49 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69c7a7539a79477db8422e73",
     "publishedAt": "2026-03-28T10:27:17.000Z",
-    "createdAt": "2026-03-28T14:37:29.510Z",
-    "updatedAt": "2026-03-28T14:37:29.510Z"
-  },
-  {
-    "id": "e8bd4aff8b2eb096",
-    "title": "Союз биатлонистов России объявил об уходе из сборной тренера Каминского",
-    "sport": "Другое",
-    "category": "Биатлон",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/4/30/347746927732304.jpeg",
-    "teaser": "Союз биатлонистов России объявил об уходе из сборной тренера Каминского",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69c7a94b9a79476397848684",
-    "publishedAt": "2026-03-28T10:20:48.000Z",
-    "createdAt": "2026-03-28T14:37:30.592Z",
-    "updatedAt": "2026-03-28T14:37:30.592Z"
-  },
-  {
-    "id": "d9872988bb5ec2c0",
-    "title": "Махачкалинский клуб РПЛ отменил открытую тренировку из-за сильных дождей",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/7/13/347580980462137.png",
-    "teaser": "Махачкалинский клуб РПЛ отменил открытую тренировку из-за сильных дождей",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69c7a41d9a79477600a373ca",
-    "publishedAt": "2026-03-28T10:00:58.000Z",
-    "createdAt": "2026-03-28T14:37:32.521Z",
-    "updatedAt": "2026-03-28T14:37:32.521Z"
-  },
-  {
-    "id": "1b38a50550f587fa",
-    "title": "Тарасова восхитилась победой фигуристки Сакамото на чемпионате мира",
-    "sport": "Другое",
-    "category": "Фигурное катание",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/4/68/347746882619684.jpeg",
-    "teaser": "Тарасова восхитилась победой фигуристки Сакамото на чемпионате мира",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69c797c19a7947412221876c",
-    "publishedAt": "2026-03-28T09:03:27.000Z",
-    "createdAt": "2026-03-28T14:37:33.576Z",
-    "updatedAt": "2026-03-28T14:37:33.576Z"
+    "createdAt": "2026-03-28T15:36:59.135Z",
+    "updatedAt": "2026-03-28T15:36:59.135Z"
   }
 ]
