@@ -1,5 +1,47 @@
 [
   {
+    "id": "07f6b85c09265d45",
+    "title": "Большунов выиграл гонку на 3 км в финале Кубка России в Апатитах",
+    "sport": "Другое",
+    "category": "Другие",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/8/32/347746922324328.jpeg",
+    "teaser": "Большунов выиграл гонку на 3 км в финале Кубка России в Апатитах",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69c7a7539a79477db8422e73",
+    "publishedAt": "2026-03-28T10:27:17.000Z",
+    "createdAt": "2026-03-28T10:38:43.641Z",
+    "updatedAt": "2026-03-28T10:38:43.641Z"
+  },
+  {
+    "id": "e8bd4aff8b2eb096",
+    "title": "Союз биатлонистов России объявил об уходе из сборной тренера Каминского",
+    "sport": "Другое",
+    "category": "Биатлон",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/4/30/347746927732304.jpeg",
+    "teaser": "Союз биатлонистов России объявил об уходе из сборной тренера Каминского",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69c7a94b9a79476397848684",
+    "publishedAt": "2026-03-28T10:20:48.000Z",
+    "createdAt": "2026-03-28T10:38:44.683Z",
+    "updatedAt": "2026-03-28T10:38:44.683Z"
+  },
+  {
+    "id": "d9872988bb5ec2c0",
+    "title": "Махачкалинский клуб РПЛ отменил открытую тренировку из-за сильных дождей",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/7/13/347580980462137.png",
+    "teaser": "Махачкалинский клуб РПЛ отменил открытую тренировку из-за сильных дождей",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69c7a41d9a79477600a373ca",
+    "publishedAt": "2026-03-28T10:00:58.000Z",
+    "createdAt": "2026-03-28T10:38:46.552Z",
+    "updatedAt": "2026-03-28T10:38:46.552Z"
+  },
+  {
     "id": "bf190d88bc17b04a",
     "title": "Чемпионка ОИ Степанова выиграла гонку на 3 км в финале Кубка России",
     "sport": "Другое",
@@ -10,8 +52,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69c79c059a794725da2b227f",
     "publishedAt": "2026-03-28T09:22:12.000Z",
-    "createdAt": "2026-03-28T09:43:07.242Z",
-    "updatedAt": "2026-03-28T09:43:07.242Z"
+    "createdAt": "2026-03-28T10:38:48.775Z",
+    "updatedAt": "2026-03-28T10:38:48.775Z"
   },
   {
     "id": "1b38a50550f587fa",
@@ -24,8 +66,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69c797c19a7947412221876c",
     "publishedAt": "2026-03-28T09:03:27.000Z",
-    "createdAt": "2026-03-28T09:43:06.251Z",
-    "updatedAt": "2026-03-28T09:43:06.251Z"
+    "createdAt": "2026-03-28T10:38:47.641Z",
+    "updatedAt": "2026-03-28T10:38:47.641Z"
   },
   {
     "id": "3f2d56d4670e9d90",
@@ -38,8 +80,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69c7922b9a7947f39a32b880",
     "publishedAt": "2026-03-28T08:38:26.000Z",
-    "createdAt": "2026-03-28T09:43:09.339Z",
-    "updatedAt": "2026-03-28T09:43:09.339Z"
+    "createdAt": "2026-03-28T10:38:50.847Z",
+    "updatedAt": "2026-03-28T10:38:50.847Z"
   },
   {
     "id": "2ba4a15fea6f93f2",
@@ -52,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69c78ade9a79471ee0851d9f",
     "publishedAt": "2026-03-28T08:15:21.000Z",
-    "createdAt": "2026-03-28T09:43:10.315Z",
-    "updatedAt": "2026-03-28T09:43:10.315Z"
+    "createdAt": "2026-03-28T10:38:51.959Z",
+    "updatedAt": "2026-03-28T10:38:51.959Z"
   },
   {
     "id": "7c2be939e239485f",
@@ -66,8 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69c784929a79472d23bf8196",
     "publishedAt": "2026-03-28T08:09:04.000Z",
-    "createdAt": "2026-03-28T09:43:08.291Z",
-    "updatedAt": "2026-03-28T09:43:08.291Z"
+    "createdAt": "2026-03-28T10:38:49.773Z",
+    "updatedAt": "2026-03-28T10:38:49.773Z"
   },
   {
     "id": "5f5d59919670835e",
@@ -80,8 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69c780309a794731f4698a57",
     "publishedAt": "2026-03-28T07:23:26.000Z",
-    "createdAt": "2026-03-28T09:43:11.369Z",
-    "updatedAt": "2026-03-28T09:43:11.369Z"
+    "createdAt": "2026-03-28T10:38:53.032Z",
+    "updatedAt": "2026-03-28T10:38:53.032Z"
   },
   {
     "id": "8d3739d061d89ecf",
@@ -94,49 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69c77d929a79471af18a013d",
     "publishedAt": "2026-03-28T07:13:40.000Z",
-    "createdAt": "2026-03-28T09:43:12.436Z",
-    "updatedAt": "2026-03-28T09:43:12.436Z"
-  },
-  {
-    "id": "854e4e49d59a9f28",
-    "title": "Как в Альпах исчезают горнолыжные курорты из-за глобального потепления",
-    "sport": "Другое",
-    "category": "Другие",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/7/62/347700307473627.jpeg",
-    "teaser": "Как в Альпах исчезают горнолыжные курорты из-за глобального потепления",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/696f80269a794709e22f4a19",
-    "publishedAt": "2026-03-28T06:01:17.000Z",
-    "createdAt": "2026-03-28T09:43:14.715Z",
-    "updatedAt": "2026-03-28T09:43:14.715Z"
-  },
-  {
-    "id": "084e3b15e35cdeb6",
-    "title": "Японская фигуристка Сакамото стала четырехкратной чемпионкой мира",
-    "sport": "Другое",
-    "category": "Фигурное катание",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/5/37/347746451807375.jpeg",
-    "teaser": "Японская фигуристка Сакамото стала четырехкратной чемпионкой мира",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69c6ea199a7947acaaae8041",
-    "publishedAt": "2026-03-27T21:15:11.000Z",
-    "createdAt": "2026-03-28T09:43:13.488Z",
-    "updatedAt": "2026-03-28T09:43:13.488Z"
-  },
-  {
-    "id": "f2f3a47f32bc2db6",
-    "title": "Фигуристка получила порез коньком на шоу Навки",
-    "sport": "Другое",
-    "category": "Фигурное катание",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/8/66/347746411860668.jpeg",
-    "teaser": "Фигуристка получила порез коньком на шоу Навки",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69c6db8f9a794783dc28c2f1",
-    "publishedAt": "2026-03-27T20:35:25.000Z",
-    "createdAt": "2026-03-28T09:43:15.767Z",
-    "updatedAt": "2026-03-28T09:43:15.767Z"
+    "createdAt": "2026-03-28T10:38:54.105Z",
+    "updatedAt": "2026-03-28T10:38:54.105Z"
   }
 ]
