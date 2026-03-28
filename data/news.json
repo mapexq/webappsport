@@ -1,5 +1,47 @@
 [
   {
+    "id": "a0cc4ac543be97cd",
+    "title": "Лучший клуб «регулярки» КХЛ выиграл третий матч в первом раунде плей-офф",
+    "sport": "Хоккей",
+    "category": "Хоккей",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/6/11/347747017050116.jpeg",
+    "teaser": "Лучший клуб «регулярки» КХЛ выиграл третий матч в первом раунде плей-офф",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69bc0b979a794761b6567147",
+    "publishedAt": "2026-03-28T13:02:21.000Z",
+    "createdAt": "2026-03-28T13:06:52.225Z",
+    "updatedAt": "2026-03-28T13:06:52.225Z"
+  },
+  {
+    "id": "057d5a1f1b207a27",
+    "title": "Получившей порез коньком на шоу Навки фигуристке наложили четыре шва",
+    "sport": "Другое",
+    "category": "Фигурное катание",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/2/72/347747009209722.jpeg",
+    "teaser": "Получившей порез коньком на шоу Навки фигуристке наложили четыре шва",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69c7c9569a79477160a712f2",
+    "publishedAt": "2026-03-28T12:38:16.000Z",
+    "createdAt": "2026-03-28T13:06:51.255Z",
+    "updatedAt": "2026-03-28T13:06:51.255Z"
+  },
+  {
+    "id": "d455c44e0fda3e42",
+    "title": "Российские синхронистки взяли золото в дуэтах на этапе КМ в Париже",
+    "sport": "Другое",
+    "category": "Другие",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/1/03/347746985252031.jpeg",
+    "teaser": "Российские синхронистки взяли золото в дуэтах на этапе КМ в Париже",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69c7bfc39a79475b7e8c0094",
+    "publishedAt": "2026-03-28T11:57:30.000Z",
+    "createdAt": "2026-03-28T13:06:53.289Z",
+    "updatedAt": "2026-03-28T13:06:53.289Z"
+  },
+  {
     "id": "46442d7da37c9850",
     "title": "Игроку «Сибири» выбили зуб в матче плей-офф КХЛ с «Металлургом»",
     "sport": "Хоккей",
@@ -10,8 +52,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69c7b8549a794743453d7a0b",
     "publishedAt": "2026-03-28T11:25:15.000Z",
-    "createdAt": "2026-03-28T11:33:15.901Z",
-    "updatedAt": "2026-03-28T11:33:15.901Z"
+    "createdAt": "2026-03-28T13:06:55.199Z",
+    "updatedAt": "2026-03-28T13:06:55.199Z"
   },
   {
     "id": "af04d8f715b4e4c6",
@@ -24,8 +66,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69bee80b9a79472f0657259a",
     "publishedAt": "2026-03-28T11:12:49.000Z",
-    "createdAt": "2026-03-28T11:33:14.857Z",
-    "updatedAt": "2026-03-28T11:33:14.857Z"
+    "createdAt": "2026-03-28T13:06:54.278Z",
+    "updatedAt": "2026-03-28T13:06:54.278Z"
   },
   {
     "id": "07f6b85c09265d45",
@@ -38,8 +80,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69c7a7539a79477db8422e73",
     "publishedAt": "2026-03-28T10:27:17.000Z",
-    "createdAt": "2026-03-28T11:33:16.835Z",
-    "updatedAt": "2026-03-28T11:33:16.835Z"
+    "createdAt": "2026-03-28T13:06:56.850Z",
+    "updatedAt": "2026-03-28T13:06:56.850Z"
   },
   {
     "id": "e8bd4aff8b2eb096",
@@ -52,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69c7a94b9a79476397848684",
     "publishedAt": "2026-03-28T10:20:48.000Z",
-    "createdAt": "2026-03-28T11:33:17.882Z",
-    "updatedAt": "2026-03-28T11:33:17.882Z"
+    "createdAt": "2026-03-28T13:06:57.872Z",
+    "updatedAt": "2026-03-28T13:06:57.872Z"
   },
   {
     "id": "d9872988bb5ec2c0",
@@ -66,8 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69c7a41d9a79477600a373ca",
     "publishedAt": "2026-03-28T10:00:58.000Z",
-    "createdAt": "2026-03-28T11:33:19.765Z",
-    "updatedAt": "2026-03-28T11:33:19.765Z"
+    "createdAt": "2026-03-28T13:06:59.736Z",
+    "updatedAt": "2026-03-28T13:06:59.736Z"
   },
   {
     "id": "bf190d88bc17b04a",
@@ -80,8 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69c79c059a794725da2b227f",
     "publishedAt": "2026-03-28T09:22:12.000Z",
-    "createdAt": "2026-03-28T11:33:21.878Z",
-    "updatedAt": "2026-03-28T11:33:21.878Z"
+    "createdAt": "2026-03-28T13:07:01.819Z",
+    "updatedAt": "2026-03-28T13:07:01.819Z"
   },
   {
     "id": "1b38a50550f587fa",
@@ -94,49 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69c797c19a7947412221876c",
     "publishedAt": "2026-03-28T09:03:27.000Z",
-    "createdAt": "2026-03-28T11:33:20.865Z",
-    "updatedAt": "2026-03-28T11:33:20.865Z"
-  },
-  {
-    "id": "3f2d56d4670e9d90",
-    "title": "Биатлонист Халили выиграл марафон на чемпионате России",
-    "sport": "Другое",
-    "category": "Биатлон",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/4/32/347746868158324.jpeg",
-    "teaser": "Биатлонист Халили выиграл марафон на чемпионате России",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69c7922b9a7947f39a32b880",
-    "publishedAt": "2026-03-28T08:38:26.000Z",
-    "createdAt": "2026-03-28T11:33:23.957Z",
-    "updatedAt": "2026-03-28T11:33:23.957Z"
-  },
-  {
-    "id": "2ba4a15fea6f93f2",
-    "title": "Леброн Джеймс стал первым игроком в истории НБА, отдавшим ассист сыну",
-    "sport": "Баскетбол",
-    "category": "Баскетбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/7/95/347746851876957.jpeg",
-    "teaser": "Леброн Джеймс стал первым игроком в истории НБА, отдавшим ассист сыну",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69c78ade9a79471ee0851d9f",
-    "publishedAt": "2026-03-28T08:15:21.000Z",
-    "createdAt": "2026-03-28T11:33:25.046Z",
-    "updatedAt": "2026-03-28T11:33:25.046Z"
-  },
-  {
-    "id": "7c2be939e239485f",
-    "title": "Тайгера Вудса освободили после ареста за вождение в нетрезвом виде",
-    "sport": "Другое",
-    "category": "Другие",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/3/21/347746833424213.jpeg",
-    "teaser": "Тайгера Вудса освободили после ареста за вождение в нетрезвом виде",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69c784929a79472d23bf8196",
-    "publishedAt": "2026-03-28T08:09:04.000Z",
-    "createdAt": "2026-03-28T11:33:22.928Z",
-    "updatedAt": "2026-03-28T11:33:22.928Z"
+    "createdAt": "2026-03-28T13:07:00.763Z",
+    "updatedAt": "2026-03-28T13:07:00.763Z"
   }
 ]
