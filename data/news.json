@@ -1,5 +1,33 @@
 [
   {
+    "id": "bf190d88bc17b04a",
+    "title": "Чемпионка ОИ Степанова выиграла гонку на 3 км в финале Кубка России",
+    "sport": "Другое",
+    "category": "Другие",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/8/24/347746893776248.jpeg",
+    "teaser": "Чемпионка ОИ Степанова выиграла гонку на 3 км в финале Кубка России",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69c79c059a794725da2b227f",
+    "publishedAt": "2026-03-28T09:22:12.000Z",
+    "createdAt": "2026-03-28T09:43:07.242Z",
+    "updatedAt": "2026-03-28T09:43:07.242Z"
+  },
+  {
+    "id": "1b38a50550f587fa",
+    "title": "Тарасова восхитилась победой фигуристки Сакамото на чемпионате мира",
+    "sport": "Другое",
+    "category": "Фигурное катание",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/4/68/347746882619684.jpeg",
+    "teaser": "Тарасова восхитилась победой фигуристки Сакамото на чемпионате мира",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69c797c19a7947412221876c",
+    "publishedAt": "2026-03-28T09:03:27.000Z",
+    "createdAt": "2026-03-28T09:43:06.251Z",
+    "updatedAt": "2026-03-28T09:43:06.251Z"
+  },
+  {
     "id": "3f2d56d4670e9d90",
     "title": "Биатлонист Халили выиграл марафон на чемпионате России",
     "sport": "Другое",
@@ -10,8 +38,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69c7922b9a7947f39a32b880",
     "publishedAt": "2026-03-28T08:38:26.000Z",
-    "createdAt": "2026-03-28T08:49:24.870Z",
-    "updatedAt": "2026-03-28T08:49:24.870Z"
+    "createdAt": "2026-03-28T09:43:09.339Z",
+    "updatedAt": "2026-03-28T09:43:09.339Z"
   },
   {
     "id": "2ba4a15fea6f93f2",
@@ -24,8 +52,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69c78ade9a79471ee0851d9f",
     "publishedAt": "2026-03-28T08:15:21.000Z",
-    "createdAt": "2026-03-28T08:49:25.998Z",
-    "updatedAt": "2026-03-28T08:49:25.998Z"
+    "createdAt": "2026-03-28T09:43:10.315Z",
+    "updatedAt": "2026-03-28T09:43:10.315Z"
   },
   {
     "id": "7c2be939e239485f",
@@ -38,8 +66,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69c784929a79472d23bf8196",
     "publishedAt": "2026-03-28T08:09:04.000Z",
-    "createdAt": "2026-03-28T08:49:23.887Z",
-    "updatedAt": "2026-03-28T08:49:23.887Z"
+    "createdAt": "2026-03-28T09:43:08.291Z",
+    "updatedAt": "2026-03-28T09:43:08.291Z"
   },
   {
     "id": "5f5d59919670835e",
@@ -52,8 +80,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69c780309a794731f4698a57",
     "publishedAt": "2026-03-28T07:23:26.000Z",
-    "createdAt": "2026-03-28T08:49:26.976Z",
-    "updatedAt": "2026-03-28T08:49:26.976Z"
+    "createdAt": "2026-03-28T09:43:11.369Z",
+    "updatedAt": "2026-03-28T09:43:11.369Z"
   },
   {
     "id": "8d3739d061d89ecf",
@@ -66,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69c77d929a79471af18a013d",
     "publishedAt": "2026-03-28T07:13:40.000Z",
-    "createdAt": "2026-03-28T08:49:28.019Z",
-    "updatedAt": "2026-03-28T08:49:28.019Z"
+    "createdAt": "2026-03-28T09:43:12.436Z",
+    "updatedAt": "2026-03-28T09:43:12.436Z"
   },
   {
     "id": "854e4e49d59a9f28",
@@ -80,8 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/696f80269a794709e22f4a19",
     "publishedAt": "2026-03-28T06:01:17.000Z",
-    "createdAt": "2026-03-28T08:49:30.285Z",
-    "updatedAt": "2026-03-28T08:49:30.285Z"
+    "createdAt": "2026-03-28T09:43:14.715Z",
+    "updatedAt": "2026-03-28T09:43:14.715Z"
   },
   {
     "id": "084e3b15e35cdeb6",
@@ -94,8 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69c6ea199a7947acaaae8041",
     "publishedAt": "2026-03-27T21:15:11.000Z",
-    "createdAt": "2026-03-28T08:49:29.067Z",
-    "updatedAt": "2026-03-28T08:49:29.067Z"
+    "createdAt": "2026-03-28T09:43:13.488Z",
+    "updatedAt": "2026-03-28T09:43:13.488Z"
   },
   {
     "id": "f2f3a47f32bc2db6",
@@ -108,35 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69c6db8f9a794783dc28c2f1",
     "publishedAt": "2026-03-27T20:35:25.000Z",
-    "createdAt": "2026-03-28T08:49:31.256Z",
-    "updatedAt": "2026-03-28T08:49:31.256Z"
-  },
-  {
-    "id": "fa160c4375cc3acd",
-    "title": "Журналист сообщил, что Украину ограбили перед матчем стыкового раунда ЧМ",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/7/40/347746363898407.jpeg",
-    "teaser": "Журналист сообщил, что Украину ограбили перед матчем стыкового раунда ЧМ",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69c6c7f79a7947360e8aa082",
-    "publishedAt": "2026-03-27T19:08:20.000Z",
-    "createdAt": "2026-03-28T08:49:32.353Z",
-    "updatedAt": "2026-03-28T08:49:32.353Z"
-  },
-  {
-    "id": "a8eea0eb61d2e576",
-    "title": "Российскому призеру ОИ не дали визу для участия в финале Кубка мира",
-    "sport": "Другое",
-    "category": "Другие",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/6/69/347746366256696.jpeg",
-    "teaser": "Российскому призеру ОИ не дали визу для участия в финале Кубка мира",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69c6ce329a7947248f4e3ca4",
-    "publishedAt": "2026-03-27T19:03:15.000Z",
-    "createdAt": "2026-03-28T08:49:33.408Z",
-    "updatedAt": "2026-03-28T08:49:33.408Z"
+    "createdAt": "2026-03-28T09:43:15.767Z",
+    "updatedAt": "2026-03-28T09:43:15.767Z"
   }
 ]
