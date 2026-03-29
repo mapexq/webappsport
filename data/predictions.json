@@ -1,6 +1,6 @@
 [
   {
-    "id": 1774780816189,
+    "id": 1774784096622,
     "eventName": "Велес — Иртыш",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -16,7 +16,7 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1774780816190,
+    "id": 1774784096623,
     "eventName": "Машук-КМВ — Ленинградец",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -32,7 +32,7 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1774780816191,
+    "id": 1774784096624,
     "eventName": "Калуга — Торпедо Миасс",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -48,7 +48,7 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1774780816192,
+    "id": 1774784096625,
     "eventName": "Чайка — Челябинск",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -64,7 +64,7 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1774780816193,
+    "id": 1774784096626,
     "eventName": "Динамо Махачкала — 2 — Нарт",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -80,7 +80,7 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1774780816194,
+    "id": 1774784096627,
     "eventName": "Волгарь — Текстильщик",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -96,7 +96,7 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1774780816195,
+    "id": 1774784096628,
     "eventName": "Арсенал Тула — Сокол",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -112,7 +112,7 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1774780816196,
+    "id": 1774784096629,
     "eventName": "Колумбия — Франция",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -128,34 +128,34 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1774780816197,
+    "id": 1774784096630,
     "eventName": "Матч",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
     "expert": {
-      "name": "Ак Барс",
-      "avatar": "https://wp1.bookmaker-ratings.ru/bookmaker-ratings.ru/wp-content/uploads/2021/04/1-35-3.jpg?ssl=1&w=40",
+      "name": "Александр Трибуш",
+      "avatar": "https://wp1.bookmaker-ratings.ru/bookmaker-ratings.ru/wp-content/uploads/2024/03/1-16.png?ssl=1&w=40",
       "status": "expert",
-      "winRate": 68
+      "winRate": 76
     },
     "prediction": "1",
-    "odds": 4.6,
+    "odds": 3.66,
     "comment": "Комментарий к прогнозу",
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1774780816198,
+    "id": 1774784096631,
     "eventName": "Матч",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
     "expert": {
-      "name": "Ак Барс",
-      "avatar": "https://wp1.bookmaker-ratings.ru/bookmaker-ratings.ru/wp-content/uploads/2021/04/1-35-3.jpg?ssl=1&w=40",
+      "name": "Александр Трибуш",
+      "avatar": "https://wp1.bookmaker-ratings.ru/bookmaker-ratings.ru/wp-content/uploads/2024/03/1-16.png?ssl=1&w=40",
       "status": "expert",
-      "winRate": 68
+      "winRate": 76
     },
     "prediction": "Первые шаги в ставкахКак зарегистрироваться в БККак обыграть букмекера и можно ли на этом зарабатыватьКак начать делать ставки на спорт? Пошаговая инструкция для начинающихСмотреть все",
-    "odds": 4.6,
+    "odds": 3.66,
     "comment": "Комментарий к прогнозу",
     "source": "Sports Analytics Pro"
   }
