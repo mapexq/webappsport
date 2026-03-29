@@ -1,5 +1,19 @@
 [
   {
+    "id": "1b2f1ac0d54a316d",
+    "title": "Ферстаппен допустил уход из «Формулы-1»",
+    "sport": "Другое",
+    "category": "Формула-1",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/6/89/347748111355896.jpeg",
+    "teaser": "Ферстаппен допустил уход из «Формулы-1»",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69c974509a79475dbec3bec3",
+    "publishedAt": "2026-03-29T19:08:04.000Z",
+    "createdAt": "2026-03-29T19:36:35.840Z",
+    "updatedAt": "2026-03-29T19:36:35.840Z"
+  },
+  {
     "id": "ca6545e294935677",
     "title": "Тренер ЦСКА повторил рекорд Билялетдинова по победам в плей-офф КХЛ",
     "sport": "Хоккей",
@@ -10,8 +24,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69c96e039a794748bf225f60",
     "publishedAt": "2026-03-29T18:33:06.000Z",
-    "createdAt": "2026-03-29T18:52:40.214Z",
-    "updatedAt": "2026-03-29T18:52:40.214Z"
+    "createdAt": "2026-03-29T19:36:34.976Z",
+    "updatedAt": "2026-03-29T19:36:34.976Z"
   },
   {
     "id": "92212d0f85c7d7ca",
@@ -24,8 +38,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69c963ad9a7947012fe15e81",
     "publishedAt": "2026-03-29T17:57:44.000Z",
-    "createdAt": "2026-03-29T18:52:41.262Z",
-    "updatedAt": "2026-03-29T18:52:41.262Z"
+    "createdAt": "2026-03-29T19:36:36.920Z",
+    "updatedAt": "2026-03-29T19:36:36.920Z"
   },
   {
     "id": "745e5adf82b4ff04",
@@ -38,8 +52,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69c94d199a794759c7bf6c6e",
     "publishedAt": "2026-03-29T17:36:13.000Z",
-    "createdAt": "2026-03-29T18:52:44.299Z",
-    "updatedAt": "2026-03-29T18:52:44.299Z"
+    "createdAt": "2026-03-29T19:36:40.425Z",
+    "updatedAt": "2026-03-29T19:36:40.425Z"
   },
   {
     "id": "fa1aecbaaad795fe",
@@ -52,8 +66,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69c956049a79471cf676eace",
     "publishedAt": "2026-03-29T17:02:32.000Z",
-    "createdAt": "2026-03-29T18:52:42.355Z",
-    "updatedAt": "2026-03-29T18:52:42.355Z"
+    "createdAt": "2026-03-29T19:36:38.193Z",
+    "updatedAt": "2026-03-29T19:36:38.193Z"
   },
   {
     "id": "7b184951e694f892",
@@ -66,8 +80,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69c94d849a7947b6137d4591",
     "publishedAt": "2026-03-29T16:29:03.000Z",
-    "createdAt": "2026-03-29T18:52:45.422Z",
-    "updatedAt": "2026-03-29T18:52:45.422Z"
+    "createdAt": "2026-03-29T19:36:41.489Z",
+    "updatedAt": "2026-03-29T19:36:41.489Z"
   },
   {
     "id": "e6bce7ddf9a2a9d7",
@@ -80,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69c9270e9a7947756e43c633",
     "publishedAt": "2026-03-29T15:40:15.000Z",
-    "createdAt": "2026-03-29T18:52:47.262Z",
-    "updatedAt": "2026-03-29T18:52:47.262Z"
+    "createdAt": "2026-03-29T19:36:43.639Z",
+    "updatedAt": "2026-03-29T19:36:43.639Z"
   },
   {
     "id": "023851c558a827f7",
@@ -94,8 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69c93f709a7947e125fd53d5",
     "publishedAt": "2026-03-29T15:22:04.000Z",
-    "createdAt": "2026-03-29T18:52:46.382Z",
-    "updatedAt": "2026-03-29T18:52:46.382Z"
+    "createdAt": "2026-03-29T19:36:42.558Z",
+    "updatedAt": "2026-03-29T19:36:42.558Z"
   },
   {
     "id": "2a36f592848276a0",
@@ -108,8 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69c93a7b9a794766ecfe159d",
     "publishedAt": "2026-03-29T14:59:25.000Z",
-    "createdAt": "2026-03-29T18:52:48.350Z",
-    "updatedAt": "2026-03-29T18:52:48.350Z"
+    "createdAt": "2026-03-29T19:36:44.721Z",
+    "updatedAt": "2026-03-29T19:36:44.721Z"
   },
   {
     "id": "c28a16902296953e",
@@ -122,21 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69c924c69a79472c9bfbd92b",
     "publishedAt": "2026-03-29T14:26:34.000Z",
-    "createdAt": "2026-03-29T18:52:49.548Z",
-    "updatedAt": "2026-03-29T18:52:49.548Z"
-  },
-  {
-    "id": "bf4d3090b773d461",
-    "title": "В Евролиге заявили, что пока не допустят российские баскетбольные клубы",
-    "sport": "Баскетбол",
-    "category": "Баскетбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/0/86/347747917890860.png",
-    "teaser": "В Евролиге заявили, что пока не допустят российские баскетбольные клубы",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69c926d89a7947f70964be1d",
-    "publishedAt": "2026-03-29T13:44:36.000Z",
-    "createdAt": "2026-03-29T18:52:50.643Z",
-    "updatedAt": "2026-03-29T18:52:50.643Z"
+    "createdAt": "2026-03-29T19:36:45.810Z",
+    "updatedAt": "2026-03-29T19:36:45.810Z"
   }
 ]
