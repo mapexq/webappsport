@@ -1,5 +1,19 @@
 [
   {
+    "id": "7b184951e694f892",
+    "title": "СКА оказался в шаге от вылета из Кубка Гагарина",
+    "sport": "Хоккей",
+    "category": "Хоккей",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/2/02/347748011420022.png",
+    "teaser": "СКА оказался в шаге от вылета из Кубка Гагарина",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69c94d849a7947b6137d4591",
+    "publishedAt": "2026-03-29T16:29:03.000Z",
+    "createdAt": "2026-03-29T16:41:55.545Z",
+    "updatedAt": "2026-03-29T16:41:55.545Z"
+  },
+  {
     "id": "023851c558a827f7",
     "title": "Глава Международной федерации хоккея покинет свой пост в октябре",
     "sport": "Хоккей",
@@ -10,8 +24,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69c93f709a7947e125fd53d5",
     "publishedAt": "2026-03-29T15:22:04.000Z",
-    "createdAt": "2026-03-29T15:37:53.065Z",
-    "updatedAt": "2026-03-29T15:37:53.066Z"
+    "createdAt": "2026-03-29T16:41:56.675Z",
+    "updatedAt": "2026-03-29T16:41:56.675Z"
   },
   {
     "id": "2a36f592848276a0",
@@ -24,8 +38,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69c93a7b9a794766ecfe159d",
     "publishedAt": "2026-03-29T14:59:25.000Z",
-    "createdAt": "2026-03-29T15:37:54.195Z",
-    "updatedAt": "2026-03-29T15:37:54.195Z"
+    "createdAt": "2026-03-29T16:41:57.685Z",
+    "updatedAt": "2026-03-29T16:41:57.685Z"
   },
   {
     "id": "c28a16902296953e",
@@ -38,8 +52,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69c924c69a79472c9bfbd92b",
     "publishedAt": "2026-03-29T14:26:34.000Z",
-    "createdAt": "2026-03-29T15:37:55.326Z",
-    "updatedAt": "2026-03-29T15:37:55.326Z"
+    "createdAt": "2026-03-29T16:41:58.814Z",
+    "updatedAt": "2026-03-29T16:41:58.814Z"
   },
   {
     "id": "bf4d3090b773d461",
@@ -52,8 +66,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69c926d89a7947f70964be1d",
     "publishedAt": "2026-03-29T13:44:36.000Z",
-    "createdAt": "2026-03-29T15:37:56.466Z",
-    "updatedAt": "2026-03-29T15:37:56.466Z"
+    "createdAt": "2026-03-29T16:41:59.931Z",
+    "updatedAt": "2026-03-29T16:41:59.931Z"
   },
   {
     "id": "c190c8f814771e04",
@@ -66,8 +80,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69c91a099a79474b534b6d41",
     "publishedAt": "2026-03-29T12:58:29.000Z",
-    "createdAt": "2026-03-29T15:37:58.597Z",
-    "updatedAt": "2026-03-29T15:37:58.597Z"
+    "createdAt": "2026-03-29T16:42:02.279Z",
+    "updatedAt": "2026-03-29T16:42:02.279Z"
   },
   {
     "id": "f42e8a4604ed552d",
@@ -80,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69c911329a794724fefccdcb",
     "publishedAt": "2026-03-29T12:55:57.000Z",
-    "createdAt": "2026-03-29T15:37:57.517Z",
-    "updatedAt": "2026-03-29T15:37:57.517Z"
+    "createdAt": "2026-03-29T16:42:01.142Z",
+    "updatedAt": "2026-03-29T16:42:01.142Z"
   },
   {
     "id": "1b5d9d85cfe944b1",
@@ -94,8 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69c90e5a9a79475c332b0e81",
     "publishedAt": "2026-03-29T12:16:42.000Z",
-    "createdAt": "2026-03-29T15:38:00.795Z",
-    "updatedAt": "2026-03-29T15:38:00.795Z"
+    "createdAt": "2026-03-29T16:42:04.529Z",
+    "updatedAt": "2026-03-29T16:42:04.529Z"
   },
   {
     "id": "086e9bf050d24dea",
@@ -108,8 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69c907249a7947665582702a",
     "publishedAt": "2026-03-29T11:22:42.000Z",
-    "createdAt": "2026-03-29T15:38:02.759Z",
-    "updatedAt": "2026-03-29T15:38:02.759Z"
+    "createdAt": "2026-03-29T16:42:06.576Z",
+    "updatedAt": "2026-03-29T16:42:06.576Z"
   },
   {
     "id": "4bf6042c7a625e3d",
@@ -122,21 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69c8fd319a7947c172f6f0cd",
     "publishedAt": "2026-03-29T10:59:19.000Z",
-    "createdAt": "2026-03-29T15:37:59.728Z",
-    "updatedAt": "2026-03-29T15:37:59.728Z"
-  },
-  {
-    "id": "a72c14db8f3647fe",
-    "title": "Гонщик Mercedes стал самым молодым лидером сезона «Формулы-1» в истории",
-    "sport": "Другое",
-    "category": "Формула-1",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/9/12/347747751674129.jpeg",
-    "teaser": "Гонщик Mercedes стал самым молодым лидером сезона «Формулы-1» в истории",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69c8eb4d9a7947837e17a5c3",
-    "publishedAt": "2026-03-29T09:26:25.000Z",
-    "createdAt": "2026-03-29T15:38:03.831Z",
-    "updatedAt": "2026-03-29T15:38:03.831Z"
+    "createdAt": "2026-03-29T16:42:03.398Z",
+    "updatedAt": "2026-03-29T16:42:03.398Z"
   }
 ]
