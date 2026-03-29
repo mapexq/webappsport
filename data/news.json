@@ -1,5 +1,33 @@
 [
   {
+    "id": "c28a16902296953e",
+    "title": "Российская фристайлистка взяла бронзу на этапе Кубка мира в Швейцарии",
+    "sport": "Другое",
+    "category": "Другие",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/3/31/347747942363313.png",
+    "teaser": "Российская фристайлистка взяла бронзу на этапе Кубка мира в Швейцарии",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69c924c69a79472c9bfbd92b",
+    "publishedAt": "2026-03-29T14:26:34.000Z",
+    "createdAt": "2026-03-29T14:38:54.297Z",
+    "updatedAt": "2026-03-29T14:38:54.297Z"
+  },
+  {
+    "id": "bf4d3090b773d461",
+    "title": "В Евролиге заявили, что пока не допустят российские баскетбольные клубы",
+    "sport": "Баскетбол",
+    "category": "Баскетбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/0/86/347747917890860.png",
+    "teaser": "В Евролиге заявили, что пока не допустят российские баскетбольные клубы",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69c926d89a7947f70964be1d",
+    "publishedAt": "2026-03-29T13:44:36.000Z",
+    "createdAt": "2026-03-29T14:38:55.345Z",
+    "updatedAt": "2026-03-29T14:38:55.345Z"
+  },
+  {
     "id": "c190c8f814771e04",
     "title": "«Салават Юлаев» оказался в шаге от выхода во второй раунд Кубка Гагарина",
     "sport": "Хоккей",
@@ -10,8 +38,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69c91a099a79474b534b6d41",
     "publishedAt": "2026-03-29T12:58:29.000Z",
-    "createdAt": "2026-03-29T13:08:16.273Z",
-    "updatedAt": "2026-03-29T13:08:16.273Z"
+    "createdAt": "2026-03-29T14:38:57.560Z",
+    "updatedAt": "2026-03-29T14:38:57.560Z"
   },
   {
     "id": "f42e8a4604ed552d",
@@ -24,8 +52,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69c911329a794724fefccdcb",
     "publishedAt": "2026-03-29T12:55:57.000Z",
-    "createdAt": "2026-03-29T13:08:15.188Z",
-    "updatedAt": "2026-03-29T13:08:15.188Z"
+    "createdAt": "2026-03-29T14:38:56.496Z",
+    "updatedAt": "2026-03-29T14:38:56.496Z"
   },
   {
     "id": "1b5d9d85cfe944b1",
@@ -38,8 +66,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69c90e5a9a79475c332b0e81",
     "publishedAt": "2026-03-29T12:16:42.000Z",
-    "createdAt": "2026-03-29T13:08:18.436Z",
-    "updatedAt": "2026-03-29T13:08:18.436Z"
+    "createdAt": "2026-03-29T14:38:59.638Z",
+    "updatedAt": "2026-03-29T14:38:59.638Z"
   },
   {
     "id": "086e9bf050d24dea",
@@ -52,8 +80,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69c907249a7947665582702a",
     "publishedAt": "2026-03-29T11:22:42.000Z",
-    "createdAt": "2026-03-29T13:08:20.498Z",
-    "updatedAt": "2026-03-29T13:08:20.498Z"
+    "createdAt": "2026-03-29T14:39:01.427Z",
+    "updatedAt": "2026-03-29T14:39:01.427Z"
   },
   {
     "id": "4bf6042c7a625e3d",
@@ -66,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69c8fd319a7947c172f6f0cd",
     "publishedAt": "2026-03-29T10:59:19.000Z",
-    "createdAt": "2026-03-29T13:08:17.352Z",
-    "updatedAt": "2026-03-29T13:08:17.352Z"
+    "createdAt": "2026-03-29T14:38:58.584Z",
+    "updatedAt": "2026-03-29T14:38:58.584Z"
   },
   {
     "id": "0ba46e266d946fbf",
@@ -80,8 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69c8f18b9a7947444fa0da7c",
     "publishedAt": "2026-03-29T09:43:54.000Z",
-    "createdAt": "2026-03-29T13:08:22.832Z",
-    "updatedAt": "2026-03-29T13:08:22.832Z"
+    "createdAt": "2026-03-29T14:39:03.466Z",
+    "updatedAt": "2026-03-29T14:39:03.466Z"
   },
   {
     "id": "a72c14db8f3647fe",
@@ -94,36 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69c8eb4d9a7947837e17a5c3",
     "publishedAt": "2026-03-29T09:26:25.000Z",
-    "createdAt": "2026-03-29T13:08:21.746Z",
-    "updatedAt": "2026-03-29T13:08:21.746Z"
-  },
-  {
-    "id": "943b81698fa7886b",
-    "title": "Малинин назвал ЧМ в Праге одним из самых легких турниров в карьере",
-    "sport": "Другое",
-    "category": "Фигурное катание",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/3/25/347747226706253.jpeg",
-    "teaser": "Малинин назвал ЧМ в Праге одним из самых легких турниров в карьере",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69c81e1a9a7947d479eee7ca",
-    "publishedAt": "2026-03-28T18:35:44.000Z",
-    "createdAt": "2026-03-29T13:08:25.132Z",
-    "updatedAt": "2026-03-29T13:08:25.132Z"
-  },
-  {
-    "id": "581ce90861f28172",
-    "title": "«Зенит» обыграл участника Лиги чемпионов в товарищеском матче",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/0/01/347747204245010.jpeg",
-    "teaser": "«Зенит» обыграл участника Лиги чемпионов в товарищеском матче",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69b9ae169a794709f65d1eac",
-    "publishedAt": "2026-03-28T17:59:51.000Z",
-    "createdAt": "2026-03-29T13:08:26.278Z",
-    "updatedAt": "2026-03-29T13:08:26.278Z"
+    "createdAt": "2026-03-29T14:39:02.465Z",
+    "updatedAt": "2026-03-29T14:39:02.465Z"
   },
   {
     "id": "3694b557f43812c5",
@@ -136,7 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69c811e99a79470658e7760f",
     "publishedAt": "2026-03-28T17:48:59.000Z",
-    "createdAt": "2026-03-29T13:08:23.987Z",
-    "updatedAt": "2026-03-29T13:08:23.987Z"
+    "createdAt": "2026-03-29T14:39:04.562Z",
+    "updatedAt": "2026-03-29T14:39:04.562Z"
   }
 ]
