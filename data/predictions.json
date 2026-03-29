@@ -1,6 +1,6 @@
 [
   {
-    "id": 1774802509977,
+    "id": 1774805832367,
     "eventName": "Сибирь — Металлург Магнитогорск",
     "discipline": "Хоккей",
     "tournament": "Чемпионат",
@@ -16,7 +16,7 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1774802509978,
+    "id": 1774805832369,
     "eventName": "Рейнджерс — Флорида",
     "discipline": "Хоккей",
     "tournament": "НХЛ",
@@ -32,7 +32,7 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1774802509979,
+    "id": 1774805832370,
     "eventName": "Колумбия — Франция",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -48,7 +48,7 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1774802509980,
+    "id": 1774805832371,
     "eventName": "Иржи Лехечка — Янник Синнер",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -64,7 +64,7 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1774802509981,
+    "id": 1774805832372,
     "eventName": "Каролина — Монреаль",
     "discipline": "Хоккей",
     "tournament": "Ла Лига",
@@ -80,7 +80,7 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1774802509982,
+    "id": 1774805832373,
     "eventName": "Коламбус — Бостон",
     "discipline": "Хоккей",
     "tournament": "НБА",
@@ -96,7 +96,7 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1774802509983,
+    "id": 1774805832374,
     "eventName": "Тампа-Бэй — Нэшвилл",
     "discipline": "Хоккей",
     "tournament": "НХЛ",
@@ -112,7 +112,7 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1774802509984,
+    "id": 1774805832375,
     "eventName": "Нью-Джерси — Чикаго",
     "discipline": "Хоккей",
     "tournament": "НХЛ",
@@ -128,7 +128,7 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1774802509985,
+    "id": 1774805832376,
     "eventName": "Филадельфия — Даллас",
     "discipline": "Хоккей",
     "tournament": "НБА",
@@ -144,7 +144,7 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1774802509986,
+    "id": 1774805832377,
     "eventName": "Матч",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -154,7 +154,7 @@
       "status": "expert",
       "winRate": 75
     },
-    "prediction": "Т",
+    "prediction": "М",
     "odds": 1.75,
     "comment": "Комментарий к прогнозу",
     "source": "Sports Analytics Pro"
