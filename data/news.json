@@ -1,5 +1,61 @@
 [
   {
+    "id": "6de1778a5b87daf4",
+    "title": "«Сибирь» сенсационно обыграла чемпиона регулярки",
+    "sport": "Хоккей",
+    "category": "Хоккей",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/0/28/347748883331280.jpeg",
+    "teaser": "«Сибирь» сенсационно обыграла чемпиона регулярки",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69ca87039a7947e695e6f403",
+    "publishedAt": "2026-03-30T16:38:19.000Z",
+    "createdAt": "2026-03-30T17:03:01.228Z",
+    "updatedAt": "2026-03-30T17:03:01.228Z"
+  },
+  {
+    "id": "6ac007f6a9d73fc3",
+    "title": "Илье Ковальчуку заблокировали банковские счета за долги по налогам",
+    "sport": "Хоккей",
+    "category": "Хоккей",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/6/72/347748879843726.png",
+    "teaser": "Илье Ковальчуку заблокировали банковские счета за долги по налогам",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69ca9ecc9a7947981627d966",
+    "publishedAt": "2026-03-30T16:28:11.000Z",
+    "createdAt": "2026-03-30T17:03:02.197Z",
+    "updatedAt": "2026-03-30T17:03:02.197Z"
+  },
+  {
+    "id": "a5991a1cd153679d",
+    "title": "Российская гимнастка не повернулась к флагам во время гимна Украины",
+    "sport": "Другое",
+    "category": "Другие",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/3/74/347748826962743.jpeg",
+    "teaser": "Российская гимнастка не повернулась к флагам во время гимна Украины",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69ca8a389a794718f9d8d13a",
+    "publishedAt": "2026-03-30T15:24:59.000Z",
+    "createdAt": "2026-03-30T17:03:03.232Z",
+    "updatedAt": "2026-03-30T17:03:03.232Z"
+  },
+  {
+    "id": "c1934ce52e5dc6ea",
+    "title": "Сафонов и Тюкавин пропустили тренировку сборной России перед игрой с Мали",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "/images/news-placeholder.jpg",
+    "teaser": "Сафонов и Тюкавин пропустили тренировку сборной России перед игрой с Мали",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69ca8e5c9a794778f7bf7803",
+    "publishedAt": "2026-03-30T15:12:24.000Z",
+    "createdAt": "2026-03-30T17:03:05.039Z",
+    "updatedAt": "2026-03-30T17:03:05.039Z"
+  },
+  {
     "id": "df0d416203c885b8",
     "title": "Победный пенальти «Зенита» в Кубке России признали ошибочным",
     "sport": "Футбол",
@@ -10,22 +66,22 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69ca83689a79471fc59b0866",
     "publishedAt": "2026-03-30T14:52:48.000Z",
-    "createdAt": "2026-03-30T15:09:59.589Z",
-    "updatedAt": "2026-03-30T15:09:59.589Z"
+    "createdAt": "2026-03-30T17:03:06.011Z",
+    "updatedAt": "2026-03-30T17:03:06.011Z"
   },
   {
-    "id": "658bcff788b4d5f4",
-    "title": "Вратаря «Металлурга» удалили до конца матча в плей-офф КХЛ",
+    "id": "f78fcda7615555f0",
+    "title": "В плей-офф КХЛ произошло редкое удаление вратаря до конца матча",
     "sport": "Хоккей",
     "category": "Хоккей",
     "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/5/39/347748799601395.jpeg",
-    "teaser": "Вратаря «Металлурга» удалили до конца матча в плей-офф КХЛ",
+    "teaser": "В плей-офф КХЛ произошло редкое удаление вратаря до конца матча",
     "fullContent": "",
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69ca82899a7947e1e5e6169b",
     "publishedAt": "2026-03-30T14:44:41.000Z",
-    "createdAt": "2026-03-30T15:10:00.968Z",
-    "updatedAt": "2026-03-30T15:10:00.968Z"
+    "createdAt": "2026-03-30T17:03:06.984Z",
+    "updatedAt": "2026-03-30T17:03:06.984Z"
   },
   {
     "id": "40e359efb6108772",
@@ -38,22 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69ca83119a794739e8e6434b",
     "publishedAt": "2026-03-30T14:32:35.000Z",
-    "createdAt": "2026-03-30T15:10:03.217Z",
-    "updatedAt": "2026-03-30T15:10:03.217Z"
-  },
-  {
-    "id": "07b0a8601a8f24be",
-    "title": "Защитник «Чикаго» Левшунов провел два матча НХЛ с переломом руки",
-    "sport": "Хоккей",
-    "category": "Хоккей",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/8/08/347748791057088.jpeg",
-    "teaser": "Защитник «Чикаго» Левшунов провел два матча НХЛ с переломом руки",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69ca7f349a794756f5cf4cf8",
-    "publishedAt": "2026-03-30T14:14:53.000Z",
-    "createdAt": "2026-03-30T15:10:08.257Z",
-    "updatedAt": "2026-03-30T15:10:08.257Z"
+    "createdAt": "2026-03-30T17:03:08.904Z",
+    "updatedAt": "2026-03-30T17:03:08.904Z"
   },
   {
     "id": "4ae299aeb79c6cdc",
@@ -66,8 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69ca79d39a7947f12e8fd32b",
     "publishedAt": "2026-03-30T14:02:28.000Z",
-    "createdAt": "2026-03-30T15:10:05.050Z",
-    "updatedAt": "2026-03-30T15:10:05.050Z"
+    "createdAt": "2026-03-30T17:03:09.931Z",
+    "updatedAt": "2026-03-30T17:03:09.931Z"
   },
   {
     "id": "ec0078f8b1a5d7a5",
@@ -80,22 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69ca741b9a79471e59311259",
     "publishedAt": "2026-03-30T13:47:00.000Z",
-    "createdAt": "2026-03-30T15:10:02.030Z",
-    "updatedAt": "2026-03-30T15:10:02.030Z"
-  },
-  {
-    "id": "e36ff75f9309abe5",
-    "title": "Чемпион Олимпиады по биатлону в 30 лет решил выступать в велоспорте",
-    "sport": "Другое",
-    "category": "Биатлон",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/4/40/347748757368404.jpeg",
-    "teaser": "Чемпион Олимпиады по биатлону в 30 лет решил выступать в велоспорте",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69ca6f079a7947d7d8a00a47",
-    "publishedAt": "2026-03-30T13:44:57.000Z",
-    "createdAt": "2026-03-30T15:10:07.152Z",
-    "updatedAt": "2026-03-30T15:10:07.152Z"
+    "createdAt": "2026-03-30T17:03:07.938Z",
+    "updatedAt": "2026-03-30T17:03:07.938Z"
   },
   {
     "id": "fb36d9b80a9921a6",
@@ -108,35 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69ca6cd29a7947eef3b1567d",
     "publishedAt": "2026-03-30T13:26:31.000Z",
-    "createdAt": "2026-03-30T15:10:06.052Z",
-    "updatedAt": "2026-03-30T15:10:06.052Z"
-  },
-  {
-    "id": "1655ac140e5fd4dd",
-    "title": "Владимир Путин наградил орденом Павла Буре в канун его 55-летия",
-    "sport": "Хоккей",
-    "category": "Хоккей",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/9/08/347748750787089.png",
-    "teaser": "Владимир Путин наградил орденом Павла Буре в канун его 55-летия",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69ca6fb59a794769bf639442",
-    "publishedAt": "2026-03-30T13:11:57.000Z",
-    "createdAt": "2026-03-30T15:10:09.379Z",
-    "updatedAt": "2026-03-30T15:10:09.379Z"
-  },
-  {
-    "id": "70883aaaa1f7d6c4",
-    "title": "Петросян рассказала о потере российского паспорта и ключей на Олимпиаде",
-    "sport": "Другое",
-    "category": "Фигурное катание",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/1/70/347748692835701.jpeg",
-    "teaser": "Петросян рассказала о потере российского паспорта и ключей на Олимпиаде",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69ca590b9a7947565140a10e",
-    "publishedAt": "2026-03-30T11:29:18.000Z",
-    "createdAt": "2026-03-30T15:10:10.516Z",
-    "updatedAt": "2026-03-30T15:10:10.516Z"
+    "createdAt": "2026-03-30T17:03:10.974Z",
+    "updatedAt": "2026-03-30T17:03:10.974Z"
   }
 ]
