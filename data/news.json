@@ -1,5 +1,47 @@
 [
   {
+    "id": "fb4bbe2bf555bf28",
+    "title": "Все россияне сыграли вничью вторые партии на турнире претендентов FIDE",
+    "sport": "Другое",
+    "category": "Другие",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/9/39/347748956597399.png",
+    "teaser": "Все россияне сыграли вничью вторые партии на турнире претендентов FIDE",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69cabfdc9a79475c0810ff84",
+    "publishedAt": "2026-03-30T18:47:04.000Z",
+    "createdAt": "2026-03-30T19:07:46.177Z",
+    "updatedAt": "2026-03-30T19:07:46.177Z"
+  },
+  {
+    "id": "8c494db5655691a3",
+    "title": "Слуцкий заявил, что ЦСКА пошел на поводу у Челестини",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/5/31/347748937494315.png",
+    "teaser": "Слуцкий заявил, что ЦСКА пошел на поводу у Челестини",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69cab6259a79477a82a7f4ce",
+    "publishedAt": "2026-03-30T18:34:59.000Z",
+    "createdAt": "2026-03-30T19:07:42.236Z",
+    "updatedAt": "2026-03-30T19:07:42.236Z"
+  },
+  {
+    "id": "ed87914b056ae634",
+    "title": "Карпин объяснил отсутствие Сафонова на тренировке сборной России",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/0/80/347748912865800.jpeg",
+    "teaser": "Карпин объяснил отсутствие Сафонова на тренировке сборной России",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69caaddc9a79479c4e27a402",
+    "publishedAt": "2026-03-30T17:25:45.000Z",
+    "createdAt": "2026-03-30T19:07:44.231Z",
+    "updatedAt": "2026-03-30T19:07:44.231Z"
+  },
+  {
     "id": "6de1778a5b87daf4",
     "title": "«Сибирь» сенсационно обыграла чемпиона регулярки",
     "sport": "Хоккей",
@@ -10,8 +52,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69ca87039a7947e695e6f403",
     "publishedAt": "2026-03-30T16:38:19.000Z",
-    "createdAt": "2026-03-30T17:03:01.228Z",
-    "updatedAt": "2026-03-30T17:03:01.228Z"
+    "createdAt": "2026-03-30T19:07:43.250Z",
+    "updatedAt": "2026-03-30T19:07:43.250Z"
   },
   {
     "id": "6ac007f6a9d73fc3",
@@ -24,8 +66,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69ca9ecc9a7947981627d966",
     "publishedAt": "2026-03-30T16:28:11.000Z",
-    "createdAt": "2026-03-30T17:03:02.197Z",
-    "updatedAt": "2026-03-30T17:03:02.197Z"
+    "createdAt": "2026-03-30T19:07:45.231Z",
+    "updatedAt": "2026-03-30T19:07:45.231Z"
   },
   {
     "id": "a5991a1cd153679d",
@@ -38,8 +80,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69ca8a389a794718f9d8d13a",
     "publishedAt": "2026-03-30T15:24:59.000Z",
-    "createdAt": "2026-03-30T17:03:03.232Z",
-    "updatedAt": "2026-03-30T17:03:03.232Z"
+    "createdAt": "2026-03-30T19:07:47.106Z",
+    "updatedAt": "2026-03-30T19:07:47.106Z"
   },
   {
     "id": "c1934ce52e5dc6ea",
@@ -52,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69ca8e5c9a794778f7bf7803",
     "publishedAt": "2026-03-30T15:12:24.000Z",
-    "createdAt": "2026-03-30T17:03:05.039Z",
-    "updatedAt": "2026-03-30T17:03:05.039Z"
+    "createdAt": "2026-03-30T19:07:48.955Z",
+    "updatedAt": "2026-03-30T19:07:48.955Z"
   },
   {
     "id": "df0d416203c885b8",
@@ -66,8 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69ca83689a79471fc59b0866",
     "publishedAt": "2026-03-30T14:52:48.000Z",
-    "createdAt": "2026-03-30T17:03:06.011Z",
-    "updatedAt": "2026-03-30T17:03:06.011Z"
+    "createdAt": "2026-03-30T19:07:50.008Z",
+    "updatedAt": "2026-03-30T19:07:50.008Z"
   },
   {
     "id": "f78fcda7615555f0",
@@ -80,36 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69ca82899a7947e1e5e6169b",
     "publishedAt": "2026-03-30T14:44:41.000Z",
-    "createdAt": "2026-03-30T17:03:06.984Z",
-    "updatedAt": "2026-03-30T17:03:06.984Z"
-  },
-  {
-    "id": "40e359efb6108772",
-    "title": "«Кардифф» не смог отсудить €122 млн за погибшего в авиакатастрофе игрока",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/5/29/347748803567295.jpeg",
-    "teaser": "«Кардифф» не смог отсудить €122 млн за погибшего в авиакатастрофе игрока",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69ca83119a794739e8e6434b",
-    "publishedAt": "2026-03-30T14:32:35.000Z",
-    "createdAt": "2026-03-30T17:03:08.904Z",
-    "updatedAt": "2026-03-30T17:03:08.904Z"
-  },
-  {
-    "id": "4ae299aeb79c6cdc",
-    "title": "Емельяненко заявил о планах после 50 лет выступить на ЧР по боевому самбо",
-    "sport": "Единоборства",
-    "category": "Единоборства",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/5/86/347748787070865.jpeg",
-    "teaser": "Емельяненко заявил о планах после 50 лет выступить на ЧР по боевому самбо",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69ca79d39a7947f12e8fd32b",
-    "publishedAt": "2026-03-30T14:02:28.000Z",
-    "createdAt": "2026-03-30T17:03:09.931Z",
-    "updatedAt": "2026-03-30T17:03:09.931Z"
+    "createdAt": "2026-03-30T19:07:51.040Z",
+    "updatedAt": "2026-03-30T19:07:51.040Z"
   },
   {
     "id": "ec0078f8b1a5d7a5",
@@ -122,21 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69ca741b9a79471e59311259",
     "publishedAt": "2026-03-30T13:47:00.000Z",
-    "createdAt": "2026-03-30T17:03:07.938Z",
-    "updatedAt": "2026-03-30T17:03:07.938Z"
-  },
-  {
-    "id": "fb36d9b80a9921a6",
-    "title": "19-летнему победителю гонки «Формулы-1» не дали шампанское на награждении",
-    "sport": "Другое",
-    "category": "Формула-1",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/2/51/347748752698512.jpeg",
-    "teaser": "19-летнему победителю гонки «Формулы-1» не дали шампанское на награждении",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69ca6cd29a7947eef3b1567d",
-    "publishedAt": "2026-03-30T13:26:31.000Z",
-    "createdAt": "2026-03-30T17:03:10.974Z",
-    "updatedAt": "2026-03-30T17:03:10.974Z"
+    "createdAt": "2026-03-30T19:07:52.066Z",
+    "updatedAt": "2026-03-30T19:07:52.066Z"
   }
 ]
