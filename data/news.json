@@ -1,5 +1,89 @@
 [
   {
+    "id": "2fc0c861587b371e",
+    "title": "Матч сборной России рассудит арбитр, при котором она выигрывала 11:0",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/9/98/347748621953989.png",
+    "teaser": "Матч сборной России рассудит арбитр, при котором она выигрывала 11:0",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69ca3f5e9a794770e1eba905",
+    "publishedAt": "2026-03-30T09:45:52.000Z",
+    "createdAt": "2026-03-30T10:21:34.126Z",
+    "updatedAt": "2026-03-30T10:21:34.126Z"
+  },
+  {
+    "id": "3b32bbe0813841ef",
+    "title": "Победителя Нью-Йоркского марафона дисквалифицировали за допинг",
+    "sport": "Другое",
+    "category": "Другие",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/9/66/347748620021669.jpeg",
+    "teaser": "Победителя Нью-Йоркского марафона дисквалифицировали за допинг",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69ca3de29a794704a19ba0c6",
+    "publishedAt": "2026-03-30T09:22:09.000Z",
+    "createdAt": "2026-03-30T10:21:35.179Z",
+    "updatedAt": "2026-03-30T10:21:35.179Z"
+  },
+  {
+    "id": "dae9123ff2f590d7",
+    "title": "ISU отказался пересматривать штраф британских фигуристов на ЧМ",
+    "sport": "Другое",
+    "category": "Фигурное катание",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/1/25/347748588088251.jpeg",
+    "teaser": "ISU отказался пересматривать штраф британских фигуристов на ЧМ",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69ca2e809a794713e07cbc58",
+    "publishedAt": "2026-03-30T08:48:48.000Z",
+    "createdAt": "2026-03-30T10:21:36.320Z",
+    "updatedAt": "2026-03-30T10:21:36.320Z"
+  },
+  {
+    "id": "74bec89df8180757",
+    "title": "Бывший спортивный директор «Спартака» Амарал отказался от работы в России",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/1/35/347748565484351.jpeg",
+    "teaser": "Бывший спортивный директор «Спартака» Амарал отказался от работы в России",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69ca27639a7947becfa4719d",
+    "publishedAt": "2026-03-30T08:26:25.000Z",
+    "createdAt": "2026-03-30T10:21:37.386Z",
+    "updatedAt": "2026-03-30T10:21:37.386Z"
+  },
+  {
+    "id": "29564428e54ab57f",
+    "title": "Малкин вернулся к тренировкам с «Питтсбургом» после травмы",
+    "sport": "Хоккей",
+    "category": "Хоккей",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/9/69/347748554081699.jpeg",
+    "teaser": "Малкин вернулся к тренировкам с «Питтсбургом» после травмы",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69ca22b99a7947fd759238f3",
+    "publishedAt": "2026-03-30T08:15:57.000Z",
+    "createdAt": "2026-03-30T10:21:38.552Z",
+    "updatedAt": "2026-03-30T10:21:38.552Z"
+  },
+  {
+    "id": "a1c880aaa9181a74",
+    "title": "Иван Демидов возглавил список лучших бомбардиров среди новичков в НХЛ",
+    "sport": "Хоккей",
+    "category": "Хоккей",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/2/19/347748543427192.jpeg",
+    "teaser": "Иван Демидов возглавил список лучших бомбардиров среди новичков в НХЛ",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69ca1d529a79474c6636aaf0",
+    "publishedAt": "2026-03-30T08:06:28.000Z",
+    "createdAt": "2026-03-30T10:21:39.674Z",
+    "updatedAt": "2026-03-30T10:21:39.674Z"
+  },
+  {
     "id": "e9c52a3b3f4d61c2",
     "title": "Андреева и Медведев сохранили свои места в топ‑10 в рейтингах WTA и ATP",
     "sport": "Теннис",
@@ -10,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69ca13989a7947039c83b354",
     "publishedAt": "2026-03-30T07:57:43.000Z",
-    "createdAt": "2026-03-30T08:22:54.934Z",
-    "updatedAt": "2026-03-30T08:22:54.934Z"
+    "createdAt": "2026-03-30T10:21:40.825Z",
+    "updatedAt": "2026-03-30T10:21:40.825Z"
   },
   {
     "id": "35b1ff8711c00d10",
@@ -24,8 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69ca14e99a794712b47ef46e",
     "publishedAt": "2026-03-30T07:52:19.000Z",
-    "createdAt": "2026-03-30T08:22:55.972Z",
-    "updatedAt": "2026-03-30T08:22:55.972Z"
+    "createdAt": "2026-03-30T10:21:41.886Z",
+    "updatedAt": "2026-03-30T10:21:41.886Z"
   },
   {
     "id": "1b2f1ac0d54a316d",
@@ -38,8 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69c974509a79475dbec3bec3",
     "publishedAt": "2026-03-29T19:08:04.000Z",
-    "createdAt": "2026-03-30T08:22:58.348Z",
-    "updatedAt": "2026-03-30T08:22:58.348Z"
+    "createdAt": "2026-03-30T10:21:44.097Z",
+    "updatedAt": "2026-03-30T10:21:44.097Z"
   },
   {
     "id": "ca6545e294935677",
@@ -52,91 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69c96e039a794748bf225f60",
     "publishedAt": "2026-03-29T18:33:06.000Z",
-    "createdAt": "2026-03-30T08:22:57.238Z",
-    "updatedAt": "2026-03-30T08:22:57.238Z"
-  },
-  {
-    "id": "92212d0f85c7d7ca",
-    "title": "Российский шахматист проиграл на старте турнира претендентов",
-    "sport": "Другое",
-    "category": "Другие",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/3/50/347748070049503.png",
-    "teaser": "Российский шахматист проиграл на старте турнира претендентов",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69c963ad9a7947012fe15e81",
-    "publishedAt": "2026-03-29T17:57:44.000Z",
-    "createdAt": "2026-03-30T08:22:59.493Z",
-    "updatedAt": "2026-03-30T08:22:59.493Z"
-  },
-  {
-    "id": "745e5adf82b4ff04",
-    "title": "«Торпедо» отыгралось с 0:2 и вырвало у «Северстали» победу в овертайме",
-    "sport": "Хоккей",
-    "category": "Хоккей",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/5/63/347748003634635.png",
-    "teaser": "«Торпедо» отыгралось с 0:2 и вырвало у «Северстали» победу в овертайме",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69c94d199a794759c7bf6c6e",
-    "publishedAt": "2026-03-29T17:36:13.000Z",
-    "createdAt": "2026-03-30T08:23:02.898Z",
-    "updatedAt": "2026-03-30T08:23:02.898Z"
-  },
-  {
-    "id": "fa1aecbaaad795fe",
-    "title": "Британия оспорила наказание своих фигуристов на ЧМ, стоившее им бронзы",
-    "sport": "Другое",
-    "category": "Фигурное катание",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/1/96/347748031593961.jpeg",
-    "teaser": "Британия оспорила наказание своих фигуристов на ЧМ, стоившее им бронзы",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69c956049a79471cf676eace",
-    "publishedAt": "2026-03-29T17:02:32.000Z",
-    "createdAt": "2026-03-30T08:23:00.610Z",
-    "updatedAt": "2026-03-30T08:23:00.610Z"
-  },
-  {
-    "id": "7b184951e694f892",
-    "title": "СКА оказался в шаге от вылета из Кубка Гагарина",
-    "sport": "Хоккей",
-    "category": "Хоккей",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/2/02/347748011420022.png",
-    "teaser": "СКА оказался в шаге от вылета из Кубка Гагарина",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69c94d849a7947b6137d4591",
-    "publishedAt": "2026-03-29T16:29:03.000Z",
-    "createdAt": "2026-03-30T08:23:04.000Z",
-    "updatedAt": "2026-03-30T08:23:04.000Z"
-  },
-  {
-    "id": "e6bce7ddf9a2a9d7",
-    "title": "«Ак Барс» в третий раз победил «Трактор» в плей-офф КХЛ",
-    "sport": "Хоккей",
-    "category": "Хоккей",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/4/13/347747945761134.png",
-    "teaser": "«Ак Барс» в третий раз победил «Трактор» в плей-офф КХЛ",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69c9270e9a7947756e43c633",
-    "publishedAt": "2026-03-29T15:40:15.000Z",
-    "createdAt": "2026-03-30T08:23:06.225Z",
-    "updatedAt": "2026-03-30T08:23:06.225Z"
-  },
-  {
-    "id": "023851c558a827f7",
-    "title": "Глава Международной федерации хоккея покинет свой пост в октябре",
-    "sport": "Хоккей",
-    "category": "Хоккей",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/4/82/347747975512824.jpeg",
-    "teaser": "Глава Международной федерации хоккея покинет свой пост в октябре",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69c93f709a7947e125fd53d5",
-    "publishedAt": "2026-03-29T15:22:04.000Z",
-    "createdAt": "2026-03-30T08:23:05.113Z",
-    "updatedAt": "2026-03-30T08:23:05.113Z"
+    "createdAt": "2026-03-30T10:21:43.036Z",
+    "updatedAt": "2026-03-30T10:21:43.036Z"
   }
 ]
