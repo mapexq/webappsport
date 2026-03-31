@@ -1,5 +1,75 @@
 [
   {
+    "id": "360f1f975208de17",
+    "title": "Украина потребовала лишить российскую гимнастку нейтрального статуса",
+    "sport": "Другое",
+    "category": "Другие",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/1/47/347749680665471.jpeg",
+    "teaser": "Украина потребовала лишить российскую гимнастку нейтрального статуса",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69cbd7e99a79471ed36a4637",
+    "publishedAt": "2026-03-31T14:58:21.000Z",
+    "createdAt": "2026-03-31T15:08:12.623Z",
+    "updatedAt": "2026-03-31T15:08:12.623Z"
+  },
+  {
+    "id": "c8b7fdbfb93dc396",
+    "title": "Тарасова назвала изменение правил ISU ошибочными для фигурного катания",
+    "sport": "Другое",
+    "category": "Фигурное катание",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/8/23/347749666276238.jpeg",
+    "teaser": "Тарасова назвала изменение правил ISU ошибочными для фигурного катания",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69cbd3ad9a79475c941e0418",
+    "publishedAt": "2026-03-31T14:34:45.000Z",
+    "createdAt": "2026-03-31T15:08:13.772Z",
+    "updatedAt": "2026-03-31T15:08:13.772Z"
+  },
+  {
+    "id": "1a6c47172ae2eac7",
+    "title": "Вратаря «Металлурга» оштрафовали за удар клюшкой в плей‑офф КХЛ",
+    "sport": "Хоккей",
+    "category": "Хоккей",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/0/75/347749649963750.jpeg",
+    "teaser": "Вратаря «Металлурга» оштрафовали за удар клюшкой в плей‑офф КХЛ",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69cbce189a79476d32f38e4a",
+    "publishedAt": "2026-03-31T14:12:07.000Z",
+    "createdAt": "2026-03-31T15:08:16.020Z",
+    "updatedAt": "2026-03-31T15:08:16.020Z"
+  },
+  {
+    "id": "be99435db5779947",
+    "title": "Коростелев словом «пропасть» сравнил смазку лыж в Норвегии и России",
+    "sport": "Другое",
+    "category": "Другие",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/6/02/347749644684026.jpeg",
+    "teaser": "Коростелев словом «пропасть» сравнил смазку лыж в Норвегии и России",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69cbc7d19a7947d782130d78",
+    "publishedAt": "2026-03-31T14:02:43.000Z",
+    "createdAt": "2026-03-31T15:08:14.866Z",
+    "updatedAt": "2026-03-31T15:08:14.866Z"
+  },
+  {
+    "id": "a7d7b11433eee021",
+    "title": "Итальянского военного задержали за съемку тренировки сборной Боснии",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/7/18/347749627567187.jpeg",
+    "teaser": "Итальянского военного задержали за съемку тренировки сборной Боснии",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69cbc1d09a79474de06c7b82",
+    "publishedAt": "2026-03-31T13:48:16.000Z",
+    "createdAt": "2026-03-31T15:08:17.314Z",
+    "updatedAt": "2026-03-31T15:08:17.315Z"
+  },
+  {
     "id": "c5774c90c1f8df5f",
     "title": "«Зенит» не оштрафовал Соболева за празднование гола «Спартаку» в маске",
     "sport": "Футбол",
@@ -10,8 +80,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69cbb8159a794715e3347bee",
     "publishedAt": "2026-03-31T12:40:10.000Z",
-    "createdAt": "2026-03-31T13:54:32.238Z",
-    "updatedAt": "2026-03-31T13:54:32.238Z"
+    "createdAt": "2026-03-31T15:08:19.566Z",
+    "updatedAt": "2026-03-31T15:08:19.566Z"
   },
   {
     "id": "b0972940ca4cc406",
@@ -24,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69cbbcbc9a794759ca0ab5f3",
     "publishedAt": "2026-03-31T12:37:42.000Z",
-    "createdAt": "2026-03-31T13:54:31.187Z",
-    "updatedAt": "2026-03-31T13:54:31.187Z"
+    "createdAt": "2026-03-31T15:08:18.411Z",
+    "updatedAt": "2026-03-31T15:08:18.411Z"
   },
   {
     "id": "0d5f96d31b96462a",
@@ -38,8 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69cbb04e9a794707b5ea852b",
     "publishedAt": "2026-03-31T12:12:38.000Z",
-    "createdAt": "2026-03-31T13:54:33.300Z",
-    "updatedAt": "2026-03-31T13:54:33.300Z"
+    "createdAt": "2026-03-31T15:08:20.706Z",
+    "updatedAt": "2026-03-31T15:08:20.706Z"
   },
   {
     "id": "3166fa0f4ebb9b6b",
@@ -52,8 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69cbac5a9a794762de8410ea",
     "publishedAt": "2026-03-31T11:36:21.000Z",
-    "createdAt": "2026-03-31T13:54:35.354Z",
-    "updatedAt": "2026-03-31T13:54:35.354Z"
+    "createdAt": "2026-03-31T15:08:22.988Z",
+    "updatedAt": "2026-03-31T15:08:22.988Z"
   },
   {
     "id": "cad3e1c67a913717",
@@ -66,77 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69cba02c9a79476b8ba1ef52",
     "publishedAt": "2026-03-31T11:35:16.000Z",
-    "createdAt": "2026-03-31T13:54:34.300Z",
-    "updatedAt": "2026-03-31T13:54:34.300Z"
-  },
-  {
-    "id": "5bd15f9e7944754a",
-    "title": "Кремлев заявил о готовности организовать третий бой Бивола и Бетербиева",
-    "sport": "Единоборства",
-    "category": "Единоборства",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/2/62/347749557230622.jpeg",
-    "teaser": "Кремлев заявил о готовности организовать третий бой Бивола и Бетербиева",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69cba5a09a7947eb553dca52",
-    "publishedAt": "2026-03-31T11:31:45.000Z",
-    "createdAt": "2026-03-31T13:54:36.454Z",
-    "updatedAt": "2026-03-31T13:54:36.454Z"
-  },
-  {
-    "id": "9d6a9d6a048a8f1f",
-    "title": "В футбольном «Рубине» рассказали о возможном слиянии с «Нефтехимиком»",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/9/86/347749549435869.jpeg",
-    "teaser": "В футбольном «Рубине» рассказали о возможном слиянии с «Нефтехимиком»",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69cba9b19a79472d148e8000",
-    "publishedAt": "2026-03-31T11:23:58.000Z",
-    "createdAt": "2026-03-31T13:54:37.500Z",
-    "updatedAt": "2026-03-31T13:54:37.500Z"
-  },
-  {
-    "id": "a03f1fc0289ca030",
-    "title": "Федерация гандбола России окажет помощь семье умершего Кокшарова",
-    "sport": "Другое",
-    "category": "Другие",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/9/49/347749542020499.jpeg",
-    "teaser": "Федерация гандбола России окажет помощь семье умершего Кокшарова",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69cba6b69a79471ff5809085",
-    "publishedAt": "2026-03-31T11:07:58.000Z",
-    "createdAt": "2026-03-31T13:54:38.562Z",
-    "updatedAt": "2026-03-31T13:54:38.562Z"
-  },
-  {
-    "id": "31c1f2d805fc9e4f",
-    "title": "Журова предложила выдвинуть Овечкина на пост главы IIHF",
-    "sport": "Хоккей",
-    "category": "Хоккей",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/0/48/347749519414480.jpeg",
-    "teaser": "Журова предложила выдвинуть Овечкина на пост главы IIHF",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69cb9dbd9a794705b8c800f4",
-    "publishedAt": "2026-03-31T10:25:01.000Z",
-    "createdAt": "2026-03-31T13:54:39.628Z",
-    "updatedAt": "2026-03-31T13:54:39.628Z"
-  },
-  {
-    "id": "54d7df6a70851214",
-    "title": "Нового главного тренера «Спартака» номинировали на награду РПЛ",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/4/41/347749508904414.jpeg",
-    "teaser": "Нового главного тренера «Спартака» номинировали на награду РПЛ",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69cb99ae9a79474a85005f5b",
-    "publishedAt": "2026-03-31T10:10:56.000Z",
-    "createdAt": "2026-03-31T13:54:40.690Z",
-    "updatedAt": "2026-03-31T13:54:40.690Z"
+    "createdAt": "2026-03-31T15:08:21.799Z",
+    "updatedAt": "2026-03-31T15:08:21.799Z"
   }
 ]
