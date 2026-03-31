@@ -1,5 +1,61 @@
 [
   {
+    "id": "95a76768c7bf8ad4",
+    "title": "Инфантино заявил, что сборная Ирана сыграет на ЧМ‑2026 в США",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/2/70/347749751264702.jpeg",
+    "teaser": "Инфантино заявил, что сборная Ирана сыграет на ЧМ‑2026 в США",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69cbf6a89a79474f0a9187c5",
+    "publishedAt": "2026-03-31T18:27:23.000Z",
+    "createdAt": "2026-03-31T19:10:02.574Z",
+    "updatedAt": "2026-03-31T19:10:02.574Z"
+  },
+  {
+    "id": "99b54466fdec4108",
+    "title": "Хоккеиста «Ак Барса» удалили за выпавший на лед пульсометр в матче КХЛ",
+    "sport": "Хоккей",
+    "category": "Хоккей",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/4/73/347749801886734.jpeg",
+    "teaser": "Хоккеиста «Ак Барса» удалили за выпавший на лед пульсометр в матче КХЛ",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69cc09769a7947d8ae22aefc",
+    "publishedAt": "2026-03-31T18:13:31.000Z",
+    "createdAt": "2026-03-31T19:10:03.593Z",
+    "updatedAt": "2026-03-31T19:10:03.593Z"
+  },
+  {
+    "id": "b3edcfc52858818f",
+    "title": "Российская шахматистка одержала первую победу на турнире претенденток",
+    "sport": "Другое",
+    "category": "Другие",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/4/87/756678354777874.jpg",
+    "teaser": "Российская шахматистка одержала первую победу на турнире претенденток",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69cc01729a7947968b2ca422",
+    "publishedAt": "2026-03-31T18:03:33.000Z",
+    "createdAt": "2026-03-31T19:10:05.347Z",
+    "updatedAt": "2026-03-31T19:10:05.347Z"
+  },
+  {
+    "id": "1cd804cbcc299176",
+    "title": "В КХЛ забросили самую быструю шайбу в истории плей-офф",
+    "sport": "Хоккей",
+    "category": "Хоккей",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/4/68/347749752741684.jpeg",
+    "teaser": "В КХЛ забросили самую быструю шайбу в истории плей-офф",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69cbf8f59a79476fbb507c9f",
+    "publishedAt": "2026-03-31T17:12:06.000Z",
+    "createdAt": "2026-03-31T19:10:06.424Z",
+    "updatedAt": "2026-03-31T19:10:06.424Z"
+  },
+  {
     "id": "65cb22af9f487c43",
     "title": "Непобежденный боксер из США подал иск к обвинившей его в насилии женщине",
     "sport": "Единоборства",
@@ -10,8 +66,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69cbe3349a794785a93bd1be",
     "publishedAt": "2026-03-31T16:59:10.000Z",
-    "createdAt": "2026-03-31T17:04:52.936Z",
-    "updatedAt": "2026-03-31T17:04:52.936Z"
+    "createdAt": "2026-03-31T19:10:09.653Z",
+    "updatedAt": "2026-03-31T19:10:09.653Z"
   },
   {
     "id": "3cac9a808da59b21",
@@ -24,8 +80,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69cbf24b9a7947dca23f3665",
     "publishedAt": "2026-03-31T16:36:00.000Z",
-    "createdAt": "2026-03-31T17:04:51.865Z",
-    "updatedAt": "2026-03-31T17:04:51.865Z"
+    "createdAt": "2026-03-31T19:10:08.582Z",
+    "updatedAt": "2026-03-31T19:10:08.582Z"
   },
   {
     "id": "d5c373d4466da102",
@@ -38,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69cbf3819a794716adce6ef3",
     "publishedAt": "2026-03-31T16:35:09.000Z",
-    "createdAt": "2026-03-31T17:04:54.811Z",
-    "updatedAt": "2026-03-31T17:04:54.811Z"
+    "createdAt": "2026-03-31T19:10:10.739Z",
+    "updatedAt": "2026-03-31T19:10:10.739Z"
   },
   {
     "id": "61d1305b4baab545",
@@ -52,22 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69cbed529a79471dc0f40531",
     "publishedAt": "2026-03-31T16:24:04.000Z",
-    "createdAt": "2026-03-31T17:04:50.810Z",
-    "updatedAt": "2026-03-31T17:04:50.810Z"
-  },
-  {
-    "id": "b11b9a5ad3e70283",
-    "title": "Канадская премьер-лига опробует новые правила ФИФА на определения офсайда",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/3/10/347749726232103.jpeg",
-    "teaser": "Канадская премьер-лига опробует новые правила ФИФА на определения офсайда",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69cbec179a794720965ab9e5",
-    "publishedAt": "2026-03-31T16:08:28.000Z",
-    "createdAt": "2026-03-31T17:04:58.296Z",
-    "updatedAt": "2026-03-31T17:04:58.296Z"
+    "createdAt": "2026-03-31T19:10:07.511Z",
+    "updatedAt": "2026-03-31T19:10:07.511Z"
   },
   {
     "id": "aebe8ce0f32772ab",
@@ -80,8 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69cbb1a99a794704a6a7b5fe",
     "publishedAt": "2026-03-31T15:41:37.000Z",
-    "createdAt": "2026-03-31T17:04:55.913Z",
-    "updatedAt": "2026-03-31T17:04:55.913Z"
+    "createdAt": "2026-03-31T19:10:11.843Z",
+    "updatedAt": "2026-03-31T19:10:11.843Z"
   },
   {
     "id": "3e0749025ec55a4a",
@@ -94,49 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69cbd9179a7947aeb4037f7b",
     "publishedAt": "2026-03-31T15:39:07.000Z",
-    "createdAt": "2026-03-31T17:04:57.167Z",
-    "updatedAt": "2026-03-31T17:04:57.167Z"
-  },
-  {
-    "id": "3f1cbc51b8c20246",
-    "title": "У звезды НБА прервалась серия из 421 матча в старте из-за похода в туалет",
-    "sport": "Баскетбол",
-    "category": "Баскетбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/7/27/347749676321277.jpeg",
-    "teaser": "У звезды НБА прервалась серия из 421 матча в старте из-за похода в туалет",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69cbdb2f9a7947af8590556b",
-    "publishedAt": "2026-03-31T15:10:26.000Z",
-    "createdAt": "2026-03-31T17:04:59.453Z",
-    "updatedAt": "2026-03-31T17:04:59.453Z"
-  },
-  {
-    "id": "360f1f975208de17",
-    "title": "Украина потребовала лишить российскую гимнастку нейтрального статуса",
-    "sport": "Другое",
-    "category": "Другие",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/1/47/347749680665471.jpeg",
-    "teaser": "Украина потребовала лишить российскую гимнастку нейтрального статуса",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69cbd7e99a79471ed36a4637",
-    "publishedAt": "2026-03-31T14:58:21.000Z",
-    "createdAt": "2026-03-31T17:05:00.599Z",
-    "updatedAt": "2026-03-31T17:05:00.599Z"
-  },
-  {
-    "id": "c8b7fdbfb93dc396",
-    "title": "Тарасова назвала изменение правил ISU ошибочными для фигурного катания",
-    "sport": "Другое",
-    "category": "Фигурное катание",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/8/23/347749666276238.jpeg",
-    "teaser": "Тарасова назвала изменение правил ISU ошибочными для фигурного катания",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69cbd3ad9a79475c941e0418",
-    "publishedAt": "2026-03-31T14:34:45.000Z",
-    "createdAt": "2026-03-31T17:05:01.780Z",
-    "updatedAt": "2026-03-31T17:05:01.780Z"
+    "createdAt": "2026-03-31T19:10:12.951Z",
+    "updatedAt": "2026-03-31T19:10:12.951Z"
   }
 ]
