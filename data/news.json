@@ -1,5 +1,75 @@
 [
   {
+    "id": "3166fa0f4ebb9b6b",
+    "title": "Большунов выиграл третью подряд гонку в финале Кубка России",
+    "sport": "Другое",
+    "category": "Другие",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/7/65/347749556698657.jpeg",
+    "teaser": "Большунов выиграл третью подряд гонку в финале Кубка России",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69cbac5a9a794762de8410ea",
+    "publishedAt": "2026-03-31T11:36:21.000Z",
+    "createdAt": "2026-03-31T11:56:30.514Z",
+    "updatedAt": "2026-03-31T11:56:30.514Z"
+  },
+  {
+    "id": "cad3e1c67a913717",
+    "title": "Экс-тренер сборной России Максимов сообщил подробности смерти Кокшарова",
+    "sport": "Другое",
+    "category": "Другие",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/4/87/347749533531874.jpeg",
+    "teaser": "Экс-тренер сборной России Максимов сообщил подробности смерти Кокшарова",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69cba02c9a79476b8ba1ef52",
+    "publishedAt": "2026-03-31T11:35:16.000Z",
+    "createdAt": "2026-03-31T11:56:29.393Z",
+    "updatedAt": "2026-03-31T11:56:29.393Z"
+  },
+  {
+    "id": "5bd15f9e7944754a",
+    "title": "Кремлев заявил о готовности организовать третий бой Бивола и Бетербиева",
+    "sport": "Единоборства",
+    "category": "Единоборства",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/2/62/347749557230622.jpeg",
+    "teaser": "Кремлев заявил о готовности организовать третий бой Бивола и Бетербиева",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69cba5a09a7947eb553dca52",
+    "publishedAt": "2026-03-31T11:31:45.000Z",
+    "createdAt": "2026-03-31T11:56:31.585Z",
+    "updatedAt": "2026-03-31T11:56:31.585Z"
+  },
+  {
+    "id": "9d6a9d6a048a8f1f",
+    "title": "В футбольном «Рубине» рассказали о возможном слиянии с «Нефтехимиком»",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/9/86/347749549435869.jpeg",
+    "teaser": "В футбольном «Рубине» рассказали о возможном слиянии с «Нефтехимиком»",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69cba9b19a79472d148e8000",
+    "publishedAt": "2026-03-31T11:23:58.000Z",
+    "createdAt": "2026-03-31T11:56:32.642Z",
+    "updatedAt": "2026-03-31T11:56:32.642Z"
+  },
+  {
+    "id": "a03f1fc0289ca030",
+    "title": "Федерация гандбола России окажет помощь семье умершего Кокшарова",
+    "sport": "Другое",
+    "category": "Другие",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/9/49/347749542020499.jpeg",
+    "teaser": "Федерация гандбола России окажет помощь семье умершего Кокшарова",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69cba6b69a79471ff5809085",
+    "publishedAt": "2026-03-31T11:07:58.000Z",
+    "createdAt": "2026-03-31T11:56:33.750Z",
+    "updatedAt": "2026-03-31T11:56:33.750Z"
+  },
+  {
     "id": "31c1f2d805fc9e4f",
     "title": "Журова предложила выдвинуть Овечкина на пост главы IIHF",
     "sport": "Хоккей",
@@ -10,8 +80,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69cb9dbd9a794705b8c800f4",
     "publishedAt": "2026-03-31T10:25:01.000Z",
-    "createdAt": "2026-03-31T10:59:42.053Z",
-    "updatedAt": "2026-03-31T10:59:42.053Z"
+    "createdAt": "2026-03-31T11:56:35.234Z",
+    "updatedAt": "2026-03-31T11:56:35.234Z"
   },
   {
     "id": "54d7df6a70851214",
@@ -24,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69cb99ae9a79474a85005f5b",
     "publishedAt": "2026-03-31T10:10:56.000Z",
-    "createdAt": "2026-03-31T10:59:43.064Z",
-    "updatedAt": "2026-03-31T10:59:43.064Z"
+    "createdAt": "2026-03-31T11:56:36.343Z",
+    "updatedAt": "2026-03-31T11:56:36.343Z"
   },
   {
     "id": "17d3fe24b0be0b87",
@@ -38,8 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69cb969f9a79472ceeecf1e0",
     "publishedAt": "2026-03-31T10:09:19.000Z",
-    "createdAt": "2026-03-31T10:59:44.185Z",
-    "updatedAt": "2026-03-31T10:59:44.185Z"
+    "createdAt": "2026-03-31T11:56:37.389Z",
+    "updatedAt": "2026-03-31T11:56:37.389Z"
   },
   {
     "id": "1154a7e72226d903",
@@ -52,8 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69cb955b9a79474ef4b63e81",
     "publishedAt": "2026-03-31T09:45:39.000Z",
-    "createdAt": "2026-03-31T10:59:50.584Z",
-    "updatedAt": "2026-03-31T10:59:50.584Z"
+    "createdAt": "2026-03-31T11:56:39.521Z",
+    "updatedAt": "2026-03-31T11:56:39.521Z"
   },
   {
     "id": "afbee3ce3035f5f7",
@@ -66,77 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69cb90cd9a79470e3e83f96f",
     "publishedAt": "2026-03-31T09:31:22.000Z",
-    "createdAt": "2026-03-31T10:59:49.434Z",
-    "updatedAt": "2026-03-31T10:59:49.434Z"
-  },
-  {
-    "id": "bbf569cd8d48048b",
-    "title": "«Динамо» Махачкала окажет помощь пострадавшим от наводнения в Дагестане",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/1/99/347749482931991.jpeg",
-    "teaser": "«Динамо» Махачкала окажет помощь пострадавшим от наводнения в Дагестане",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69cb88ff9a7947bee1a0f5f8",
-    "publishedAt": "2026-03-31T09:27:41.000Z",
-    "createdAt": "2026-03-31T10:59:52.860Z",
-    "updatedAt": "2026-03-31T10:59:52.860Z"
-  },
-  {
-    "id": "f9cb3819ec26cc2d",
-    "title": "Главного тренера сборной Ганы уволили за 2,5 месяца до начала ЧМ-2026",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/9/47/347749449392479.jpeg",
-    "teaser": "Главного тренера сборной Ганы уволили за 2,5 месяца до начала ЧМ-2026",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69cb7d709a794773c1ddfc34",
-    "publishedAt": "2026-03-31T08:38:44.000Z",
-    "createdAt": "2026-03-31T10:59:51.745Z",
-    "updatedAt": "2026-03-31T10:59:51.745Z"
-  },
-  {
-    "id": "35e461f03ba3047d",
-    "title": "Инфантино пообещал обеспечить Ирану лучшие условия на ЧМ-2026",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/8/00/347749422798008.jpeg",
-    "teaser": "Инфантино пообещал обеспечить Ирану лучшие условия на ЧМ-2026",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69cb73ed9a794790b9be2fa7",
-    "publishedAt": "2026-03-31T08:03:44.000Z",
-    "createdAt": "2026-03-31T10:59:53.972Z",
-    "updatedAt": "2026-03-31T10:59:53.972Z"
-  },
-  {
-    "id": "491d4d880e59e366",
-    "title": "Кросби восьмым в истории НХЛ сделал 1100 голевых передач",
-    "sport": "Хоккей",
-    "category": "Хоккей",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/4/15/347749407659154.jpeg",
-    "teaser": "Кросби восьмым в истории НХЛ сделал 1100 голевых передач",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69cb72179a7947355728d65c",
-    "publishedAt": "2026-03-31T07:35:42.000Z",
-    "createdAt": "2026-03-31T10:59:55.135Z",
-    "updatedAt": "2026-03-31T10:59:55.135Z"
-  },
-  {
-    "id": "6f0f7dfce71d7695",
-    "title": "19-летний форвард «Сан-Хосе Шаркс» повторил достижение Гретцки",
-    "sport": "Хоккей",
-    "category": "Хоккей",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/6/26/347749400501266.jpeg",
-    "teaser": "19-летний форвард «Сан-Хосе Шаркс» повторил достижение Гретцки",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69cb6b909a79476ddab0dd21",
-    "publishedAt": "2026-03-31T07:14:59.000Z",
-    "createdAt": "2026-03-31T10:59:56.258Z",
-    "updatedAt": "2026-03-31T10:59:56.258Z"
+    "createdAt": "2026-03-31T11:56:38.455Z",
+    "updatedAt": "2026-03-31T11:56:38.455Z"
   }
 ]
