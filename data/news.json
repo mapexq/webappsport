@@ -1,5 +1,75 @@
 [
   {
+    "id": "c85cc2166866ae58",
+    "title": "Овечкин побил рекорд НХЛ по победным голам с учетом плей-офф",
+    "sport": "Хоккей",
+    "category": "Хоккей",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/2/18/347750336815182.jpeg",
+    "teaser": "Овечкин побил рекорд НХЛ по победным голам с учетом плей-офф",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69ccda379a7947c39cd2de0a",
+    "publishedAt": "2026-04-01T09:03:43.000Z",
+    "createdAt": "2026-04-01T09:13:57.914Z",
+    "updatedAt": "2026-04-01T09:13:57.914Z"
+  },
+  {
+    "id": "436768d54d39beaa",
+    "title": "В НХЛ состоялась третья драка вратарей за сезон с участием россиянина",
+    "sport": "Хоккей",
+    "category": "Хоккей",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/2/58/347750324796582.jpeg",
+    "teaser": "В НХЛ состоялась третья драка вратарей за сезон с участием россиянина",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69ccccb59a7947f038126a3d",
+    "publishedAt": "2026-04-01T08:53:37.000Z",
+    "createdAt": "2026-04-01T09:13:58.856Z",
+    "updatedAt": "2026-04-01T09:13:58.856Z"
+  },
+  {
+    "id": "3f5cab74841266f8",
+    "title": "Англия впервые проиграла азиатской сборной по футболу",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/5/13/347750290388135.jpeg",
+    "teaser": "Англия впервые проиграла азиатской сборной по футболу",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69ccc5109a794728bdd41881",
+    "publishedAt": "2026-04-01T08:22:34.000Z",
+    "createdAt": "2026-04-01T09:14:00.020Z",
+    "updatedAt": "2026-04-01T09:14:00.020Z"
+  },
+  {
+    "id": "96f33c3d458a3637",
+    "title": "Какие сборные вышли на чемпионат мира по футболу 2026 года",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/0/96/347605209142960.jpeg",
+    "teaser": "Какие сборные вышли на чемпионат мира по футболу 2026 года",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/68ef5eaa9a7947325479daad",
+    "publishedAt": "2026-04-01T07:26:02.000Z",
+    "createdAt": "2026-04-01T09:14:01.215Z",
+    "updatedAt": "2026-04-01T09:14:01.215Z"
+  },
+  {
+    "id": "7c3b4faa951d0014",
+    "title": "Овечкин сделал дубль через матч после хет-трика",
+    "sport": "Хоккей",
+    "category": "Хоккей",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/9/56/347750266237569.jpeg",
+    "teaser": "Овечкин сделал дубль через матч после хет-трика",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69ccbc489a79472a7cb354c4",
+    "publishedAt": "2026-04-01T07:14:48.000Z",
+    "createdAt": "2026-04-01T09:14:02.153Z",
+    "updatedAt": "2026-04-01T09:14:02.153Z"
+  },
+  {
     "id": "90490bdc7c793511",
     "title": "Сборная Италии в третий раз подряд не вышла на чемпионат мира по футболу",
     "sport": "Футбол",
@@ -10,8 +80,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69cc1fbe9a7947434d3c2d81",
     "publishedAt": "2026-03-31T21:55:45.000Z",
-    "createdAt": "2026-04-01T07:47:16.966Z",
-    "updatedAt": "2026-04-01T07:47:16.966Z"
+    "createdAt": "2026-04-01T09:14:03.350Z",
+    "updatedAt": "2026-04-01T09:14:03.350Z"
   },
   {
     "id": "d068b1df7a08d296",
@@ -24,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69cc24dd9a79474c46241622",
     "publishedAt": "2026-03-31T20:12:07.000Z",
-    "createdAt": "2026-04-01T07:47:17.981Z",
-    "updatedAt": "2026-04-01T07:47:17.981Z"
+    "createdAt": "2026-04-01T09:14:04.437Z",
+    "updatedAt": "2026-04-01T09:14:04.437Z"
   },
   {
     "id": "8535ba2cd7d36a48",
@@ -38,8 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69cc1b019a79477caabc0e10",
     "publishedAt": "2026-03-31T20:04:07.000Z",
-    "createdAt": "2026-04-01T07:47:19.981Z",
-    "updatedAt": "2026-04-01T07:47:19.981Z"
+    "createdAt": "2026-04-01T09:14:06.740Z",
+    "updatedAt": "2026-04-01T09:14:06.740Z"
   },
   {
     "id": "fdb82140c57632c0",
@@ -52,8 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69cc102f9a794771254da457",
     "publishedAt": "2026-03-31T19:07:45.000Z",
-    "createdAt": "2026-04-01T07:47:21.050Z",
-    "updatedAt": "2026-04-01T07:47:21.050Z"
+    "createdAt": "2026-04-01T09:14:07.914Z",
+    "updatedAt": "2026-04-01T09:14:07.914Z"
   },
   {
     "id": "2a089c796ff9aa2e",
@@ -66,77 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69cc10a99a79474bd1266288",
     "publishedAt": "2026-03-31T19:00:58.000Z",
-    "createdAt": "2026-04-01T07:47:18.977Z",
-    "updatedAt": "2026-04-01T07:47:18.977Z"
-  },
-  {
-    "id": "937955d52582eea6",
-    "title": "«Торпедо» сенсационно вышло в 1/4 финала плей-офф КХЛ",
-    "sport": "Хоккей",
-    "category": "Хоккей",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/6/51/347749841553516.jpeg",
-    "teaser": "«Торпедо» сенсационно вышло в 1/4 финала плей-офф КХЛ",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69cc18cc9a7947ab842dd04c",
-    "publishedAt": "2026-03-31T18:59:47.000Z",
-    "createdAt": "2026-04-01T07:47:22.071Z",
-    "updatedAt": "2026-04-01T07:47:22.071Z"
-  },
-  {
-    "id": "95a76768c7bf8ad4",
-    "title": "Инфантино заявил, что сборная Ирана сыграет на ЧМ‑2026 в США",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/2/70/347749751264702.jpeg",
-    "teaser": "Инфантино заявил, что сборная Ирана сыграет на ЧМ‑2026 в США",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69cbf6a89a79474f0a9187c5",
-    "publishedAt": "2026-03-31T18:27:23.000Z",
-    "createdAt": "2026-04-01T07:47:23.056Z",
-    "updatedAt": "2026-04-01T07:47:23.056Z"
-  },
-  {
-    "id": "99b54466fdec4108",
-    "title": "Хоккеиста «Ак Барса» удалили за выпавший на лед пульсометр в матче КХЛ",
-    "sport": "Хоккей",
-    "category": "Хоккей",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/4/73/347749801886734.jpeg",
-    "teaser": "Хоккеиста «Ак Барса» удалили за выпавший на лед пульсометр в матче КХЛ",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69cc09769a7947d8ae22aefc",
-    "publishedAt": "2026-03-31T18:13:31.000Z",
-    "createdAt": "2026-04-01T07:47:24.043Z",
-    "updatedAt": "2026-04-01T07:47:24.043Z"
-  },
-  {
-    "id": "b3edcfc52858818f",
-    "title": "Российская шахматистка одержала первую победу на турнире претенденток",
-    "sport": "Другое",
-    "category": "Другие",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/4/87/756678354777874.jpg",
-    "teaser": "Российская шахматистка одержала первую победу на турнире претенденток",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69cc01729a7947968b2ca422",
-    "publishedAt": "2026-03-31T18:03:33.000Z",
-    "createdAt": "2026-04-01T07:47:25.835Z",
-    "updatedAt": "2026-04-01T07:47:25.835Z"
-  },
-  {
-    "id": "1cd804cbcc299176",
-    "title": "В КХЛ забросили самую быструю шайбу в истории плей-офф",
-    "sport": "Хоккей",
-    "category": "Хоккей",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/4/68/347749752741684.jpeg",
-    "teaser": "В КХЛ забросили самую быструю шайбу в истории плей-офф",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69cbf8f59a79476fbb507c9f",
-    "publishedAt": "2026-03-31T17:12:06.000Z",
-    "createdAt": "2026-04-01T07:47:26.869Z",
-    "updatedAt": "2026-04-01T07:47:26.869Z"
+    "createdAt": "2026-04-01T09:14:05.537Z",
+    "updatedAt": "2026-04-01T09:14:05.537Z"
   }
 ]
