@@ -1,5 +1,61 @@
 [
   {
+    "id": "0a449bf9c513eb4b",
+    "title": "Спортдиректор «Спартака» объяснил, почему Карседо подходит команде",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/5/61/347750691676615.png",
+    "teaser": "Спортдиректор «Спартака» объяснил, почему Карседо подходит команде",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69cd66129a794765bb30736a",
+    "publishedAt": "2026-04-01T18:59:58.000Z",
+    "createdAt": "2026-04-01T19:11:28.690Z",
+    "updatedAt": "2026-04-01T19:11:28.690Z"
+  },
+  {
+    "id": "5011417209c10dd1",
+    "title": "Кучеров признан первой звездой марта в НХЛ",
+    "sport": "Хоккей",
+    "category": "Хоккей",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/2/34/347750679038342.jpeg",
+    "teaser": "Кучеров признан первой звездой марта в НХЛ",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69cd60d69a79477fdd3f8382",
+    "publishedAt": "2026-04-01T18:33:53.000Z",
+    "createdAt": "2026-04-01T19:11:27.719Z",
+    "updatedAt": "2026-04-01T19:11:27.719Z"
+  },
+  {
+    "id": "5463eaa321871300",
+    "title": "Российский шахматист потерпел второе поражение на турнире претендентов",
+    "sport": "Другое",
+    "category": "Другие",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/2/71/347750637974712.png",
+    "teaser": "Российский шахматист потерпел второе поражение на турнире претендентов",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69cd52939a79472ebf1b8125",
+    "publishedAt": "2026-04-01T17:52:12.000Z",
+    "createdAt": "2026-04-01T19:11:33.112Z",
+    "updatedAt": "2026-04-01T19:11:33.112Z"
+  },
+  {
+    "id": "0708fe4dab91d054",
+    "title": "Легионер ЦСКА извинился перед тренером и вернется к тренировкам с основой",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/6/65/347750618598656.png",
+    "teaser": "Легионер ЦСКА извинился перед тренером и вернется к тренировкам с основой",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69cd4b319a7947bed24cfd9f",
+    "publishedAt": "2026-04-01T17:47:24.000Z",
+    "createdAt": "2026-04-01T19:11:32.042Z",
+    "updatedAt": "2026-04-01T19:11:32.042Z"
+  },
+  {
     "id": "b5a70ebfe2981082",
     "title": "«Авангард» вышел в четвертьфинал Кубка Гагарина",
     "sport": "Хоккей",
@@ -10,8 +66,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69cd3b9e9a79477a9a4f256a",
     "publishedAt": "2026-04-01T16:27:27.000Z",
-    "createdAt": "2026-04-01T17:02:24.412Z",
-    "updatedAt": "2026-04-01T17:02:24.412Z"
+    "createdAt": "2026-04-01T19:11:35.116Z",
+    "updatedAt": "2026-04-01T19:11:35.116Z"
   },
   {
     "id": "b631195c3e5a79ba",
@@ -24,8 +80,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69cd40389a794735adf4552b",
     "publishedAt": "2026-04-01T16:17:43.000Z",
-    "createdAt": "2026-04-01T17:02:23.455Z",
-    "updatedAt": "2026-04-01T17:02:23.455Z"
+    "createdAt": "2026-04-01T19:11:34.159Z",
+    "updatedAt": "2026-04-01T19:11:34.159Z"
   },
   {
     "id": "89b9ba3f389c74ce",
@@ -38,36 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69cd3c539a7947efd271fb5c",
     "publishedAt": "2026-04-01T16:00:08.000Z",
-    "createdAt": "2026-04-01T17:02:27.846Z",
-    "updatedAt": "2026-04-01T17:02:27.846Z"
-  },
-  {
-    "id": "08927cb333c77c0f",
-    "title": "Министр спорта Италии потребовал отставки президента федерации футбола",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/8/51/347750556734518.jpeg",
-    "teaser": "Министр спорта Италии потребовал отставки президента федерации футбола",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69cd2a6e9a79475c2e829fa6",
-    "publishedAt": "2026-04-01T15:16:38.000Z",
-    "createdAt": "2026-04-01T17:02:33.244Z",
-    "updatedAt": "2026-04-01T17:02:33.244Z"
-  },
-  {
-    "id": "0d6534f714d1d6ad",
-    "title": "Вяльбе возглавит российскую делегацию на конгрессе FIS в Сербии",
-    "sport": "Другое",
-    "category": "Другие",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/8/81/347750545833818.jpeg",
-    "teaser": "Вяльбе возглавит российскую делегацию на конгрессе FIS в Сербии",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69cd2b2b9a7947f7d15791ee",
-    "publishedAt": "2026-04-01T14:55:28.000Z",
-    "createdAt": "2026-04-01T17:02:30.060Z",
-    "updatedAt": "2026-04-01T17:02:30.060Z"
+    "createdAt": "2026-04-01T19:11:36.356Z",
+    "updatedAt": "2026-04-01T19:11:36.356Z"
   },
   {
     "id": "b5e4b996a99dae34",
@@ -80,36 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69cd29069a79478b18f555cf",
     "publishedAt": "2026-04-01T14:41:54.000Z",
-    "createdAt": "2026-04-01T17:02:28.941Z",
-    "updatedAt": "2026-04-01T17:02:28.941Z"
-  },
-  {
-    "id": "4cca302c275098f7",
-    "title": "Смолов назвал свое главное разочарование за время игры в сборной",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/7/01/347750524839017.jpeg",
-    "teaser": "Смолов назвал свое главное разочарование за время игры в сборной",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69cd1baf9a79472ba866ce05",
-    "publishedAt": "2026-04-01T14:33:25.000Z",
-    "createdAt": "2026-04-01T17:02:31.148Z",
-    "updatedAt": "2026-04-01T17:02:31.148Z"
-  },
-  {
-    "id": "3c68a6527dc8045c",
-    "title": "Покинувший «Крылья Советов» тренер не возглавит «Актобе»",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/7/51/347750518625517.jpeg",
-    "teaser": "Покинувший «Крылья Советов» тренер не возглавит «Актобе»",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69cd1e7e9a7947d33457d687",
-    "publishedAt": "2026-04-01T14:06:13.000Z",
-    "createdAt": "2026-04-01T17:02:32.164Z",
-    "updatedAt": "2026-04-01T17:02:32.164Z"
+    "createdAt": "2026-04-01T19:11:37.362Z",
+    "updatedAt": "2026-04-01T19:11:37.362Z"
   },
   {
     "id": "bd0526889ead4337",
@@ -122,8 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/690c81229a794782c729527a",
     "publishedAt": "2026-04-01T10:02:09.000Z",
-    "createdAt": "2026-04-01T17:02:26.690Z",
-    "updatedAt": "2026-04-01T17:02:26.690Z"
+    "createdAt": "2026-04-01T19:11:31.064Z",
+    "updatedAt": "2026-04-01T19:11:31.064Z"
   },
   {
     "id": "96f33c3d458a3637",
@@ -136,7 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/68ef5eaa9a7947325479daad",
     "publishedAt": "2026-04-01T07:26:02.000Z",
-    "createdAt": "2026-04-01T17:02:25.525Z",
-    "updatedAt": "2026-04-01T17:02:25.525Z"
+    "createdAt": "2026-04-01T19:11:30.029Z",
+    "updatedAt": "2026-04-01T19:11:30.029Z"
   }
 ]
