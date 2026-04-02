@@ -1,5 +1,75 @@
 [
   {
+    "id": "a3a9cd7d44728b19",
+    "title": "Лукашенко забил вратарю четвертьфиналиста КХЛ на тренировке",
+    "sport": "Хоккей",
+    "category": "Хоккей",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/4/97/347751245437974.png",
+    "teaser": "Лукашенко забил вратарю четвертьфиналиста КХЛ на тренировке",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69ce3d039a7947c51c8998be",
+    "publishedAt": "2026-04-02T10:29:49.000Z",
+    "createdAt": "2026-04-02T10:57:16.992Z",
+    "updatedAt": "2026-04-02T10:57:16.992Z"
+  },
+  {
+    "id": "d54a9072fc6d3a63",
+    "title": "Украина пожаловалась МОК на российских скалолазов",
+    "sport": "Другое",
+    "category": "Другие",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/8/11/347751232377118.png",
+    "teaser": "Украина пожаловалась МОК на российских скалолазов",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69ce34939a794735ab50a8e7",
+    "publishedAt": "2026-04-02T10:20:59.000Z",
+    "createdAt": "2026-04-02T10:57:17.964Z",
+    "updatedAt": "2026-04-02T10:57:17.964Z"
+  },
+  {
+    "id": "ca44d36a5bc73e0b",
+    "title": "В Литве ввели санкции против спортсменов, выступивших на турнире в России",
+    "sport": "Другое",
+    "category": "Другие",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/0/66/347751241858660.jpeg",
+    "teaser": "В Литве ввели санкции против спортсменов, выступивших на турнире в России",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69ce37e49a79475fd9214b2a",
+    "publishedAt": "2026-04-02T10:18:02.000Z",
+    "createdAt": "2026-04-02T10:57:18.937Z",
+    "updatedAt": "2026-04-02T10:57:18.937Z"
+  },
+  {
+    "id": "4e5fc554d2bfe1fa",
+    "title": "ФИФА подняла цены на билеты на финал чемпионата мира до $11 тыс",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/4/98/347751202749984.jpeg",
+    "teaser": "ФИФА подняла цены на билеты на финал чемпионата мира до $11 тыс",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69ce2d669a79472e4e97b050",
+    "publishedAt": "2026-04-02T09:46:42.000Z",
+    "createdAt": "2026-04-02T10:57:19.970Z",
+    "updatedAt": "2026-04-02T10:57:19.970Z"
+  },
+  {
+    "id": "fd8417734e85115c",
+    "title": "World Triathlon допустил российских юниоров на турниры с флагом и гимном",
+    "sport": "Другое",
+    "category": "Другие",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/8/78/347751218837788.jpeg",
+    "teaser": "World Triathlon допустил российских юниоров на турниры с флагом и гимном",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69ce345b9a7947c09505e303",
+    "publishedAt": "2026-04-02T09:37:06.000Z",
+    "createdAt": "2026-04-02T10:57:20.819Z",
+    "updatedAt": "2026-04-02T10:57:20.819Z"
+  },
+  {
     "id": "b4a8c978b5fad815",
     "title": "La Gazzetta dello Sport подсчитала убытки Италии из-за невыхода на ЧМ",
     "sport": "Футбол",
@@ -10,8 +80,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69ce1a779a794786936dcbdb",
     "publishedAt": "2026-04-02T09:01:49.000Z",
-    "createdAt": "2026-04-02T09:05:35.222Z",
-    "updatedAt": "2026-04-02T09:05:35.222Z"
+    "createdAt": "2026-04-02T10:57:21.844Z",
+    "updatedAt": "2026-04-02T10:57:21.844Z"
   },
   {
     "id": "bc578460443e863b",
@@ -24,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69ce21bf9a7947e1afe91064",
     "publishedAt": "2026-04-02T08:34:12.000Z",
-    "createdAt": "2026-04-02T09:05:37.248Z",
-    "updatedAt": "2026-04-02T09:05:37.248Z"
+    "createdAt": "2026-04-02T10:57:23.913Z",
+    "updatedAt": "2026-04-02T10:57:23.913Z"
   },
   {
     "id": "9881243f3c6c29cd",
@@ -38,8 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69ce07c89a794749a627be8b",
     "publishedAt": "2026-04-02T08:17:11.000Z",
-    "createdAt": "2026-04-02T09:05:36.245Z",
-    "updatedAt": "2026-04-02T09:05:36.245Z"
+    "createdAt": "2026-04-02T10:57:22.892Z",
+    "updatedAt": "2026-04-02T10:57:22.892Z"
   },
   {
     "id": "31a03f44db2f3484",
@@ -52,78 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69ce0bcd9a794771eebc8a90",
     "publishedAt": "2026-04-02T07:29:00.000Z",
-    "createdAt": "2026-04-02T09:05:38.066Z",
-    "updatedAt": "2026-04-02T09:05:38.066Z"
-  },
-  {
-    "id": "6282c9054dddf663",
-    "title": "Стали известны три пары четвертьфинала Кубка Гагарина",
-    "sport": "Хоккей",
-    "category": "Хоккей",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/9/55/347750718028559.jpeg",
-    "teaser": "Стали известны три пары четвертьфинала Кубка Гагарина",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69cd6dad9a79476e9248651c",
-    "publishedAt": "2026-04-01T20:08:01.000Z",
-    "createdAt": "2026-04-02T09:05:41.142Z",
-    "updatedAt": "2026-04-02T09:05:41.142Z"
-  },
-  {
-    "id": "bec2a3a3ca953765",
-    "title": "Чемпион КХЛ вышел в четвертьфинал Кубка Гагарина, обыграв «Спартак»",
-    "sport": "Хоккей",
-    "category": "Хоккей",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/0/53/347750655826530.jpeg",
-    "teaser": "Чемпион КХЛ вышел в четвертьфинал Кубка Гагарина, обыграв «Спартак»",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69cd52de9a7947f57d4db641",
-    "publishedAt": "2026-04-01T19:58:12.000Z",
-    "createdAt": "2026-04-02T09:05:42.170Z",
-    "updatedAt": "2026-04-02T09:05:42.170Z"
-  },
-  {
-    "id": "0a449bf9c513eb4b",
-    "title": "Спортдиректор «Спартака» объяснил, почему Карседо подходит команде",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/5/61/347750691676615.png",
-    "teaser": "Спортдиректор «Спартака» объяснил, почему Карседо подходит команде",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69cd66129a794765bb30736a",
-    "publishedAt": "2026-04-01T18:59:58.000Z",
-    "createdAt": "2026-04-02T09:05:44.225Z",
-    "updatedAt": "2026-04-02T09:05:44.225Z"
-  },
-  {
-    "id": "5011417209c10dd1",
-    "title": "Кучеров признан первой звездой марта в НХЛ",
-    "sport": "Хоккей",
-    "category": "Хоккей",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/2/34/347750679038342.jpeg",
-    "teaser": "Кучеров признан первой звездой марта в НХЛ",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69cd60d69a79477fdd3f8382",
-    "publishedAt": "2026-04-01T18:33:53.000Z",
-    "createdAt": "2026-04-02T09:05:43.218Z",
-    "updatedAt": "2026-04-02T09:05:43.218Z"
-  },
-  {
-    "id": "bd0526889ead4337",
-    "title": "Какие рекорды Овечкин побил в НХЛ",
-    "sport": "Хоккей",
-    "category": "Хоккей",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/7/93/347624313317937.jpeg",
-    "teaser": "Какие рекорды Овечкин побил в НХЛ",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/690c81229a794782c729527a",
-    "publishedAt": "2026-04-01T10:02:09.000Z",
-    "createdAt": "2026-04-02T09:05:40.119Z",
-    "updatedAt": "2026-04-02T09:05:40.119Z"
+    "createdAt": "2026-04-02T10:57:25.780Z",
+    "updatedAt": "2026-04-02T10:57:25.780Z"
   },
   {
     "id": "96f33c3d458a3637",
@@ -136,7 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/68ef5eaa9a7947325479daad",
     "publishedAt": "2026-04-01T07:26:02.000Z",
-    "createdAt": "2026-04-02T09:05:39.107Z",
-    "updatedAt": "2026-04-02T09:05:39.107Z"
+    "createdAt": "2026-04-02T10:57:27.173Z",
+    "updatedAt": "2026-04-02T10:57:27.173Z"
   }
 ]
