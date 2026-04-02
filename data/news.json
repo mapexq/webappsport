@@ -1,5 +1,75 @@
 [
   {
+    "id": "a121c6ec5dad05a8",
+    "title": "Испанского велогонщика увезли в больницу на вертолете после ДТП",
+    "sport": "Другое",
+    "category": "Другие",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/0/48/347751457142480.png",
+    "teaser": "Испанского велогонщика увезли в больницу на вертолете после ДТП",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69ce929f9a794726bbfad297",
+    "publishedAt": "2026-04-02T16:45:45.000Z",
+    "createdAt": "2026-04-02T17:01:48.924Z",
+    "updatedAt": "2026-04-02T17:01:48.924Z"
+  },
+  {
+    "id": "0ce0310e0169932a",
+    "title": "Буффон покинул сборную Италии после проигрыша команды на отборе ЧМ",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/2/82/347751464333822.jpeg",
+    "teaser": "Буффон покинул сборную Италии после проигрыша команды на отборе ЧМ",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69ce91319a79475f7e9b3413",
+    "publishedAt": "2026-04-02T16:36:31.000Z",
+    "createdAt": "2026-04-02T17:01:49.894Z",
+    "updatedAt": "2026-04-02T17:01:49.894Z"
+  },
+  {
+    "id": "031af01874259baf",
+    "title": "Глава «Газпрома» встретился с Ларионовым после вылета СКА из плей-офф КХЛ",
+    "sport": "Хоккей",
+    "category": "Хоккей",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/0/18/347751432915180.jpeg",
+    "teaser": "Глава «Газпрома» встретился с Ларионовым после вылета СКА из плей-офф КХЛ",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69ce861b9a794709f12d2c1c",
+    "publishedAt": "2026-04-02T15:26:08.000Z",
+    "createdAt": "2026-04-02T17:01:52.932Z",
+    "updatedAt": "2026-04-02T17:01:52.932Z"
+  },
+  {
+    "id": "a330b621d8bb0988",
+    "title": "Гамова и Алекно стали кандидатами на включение в Зал славы волейбола",
+    "sport": "Другое",
+    "category": "Другие",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/3/34/347751412890343.png",
+    "teaser": "Гамова и Алекно стали кандидатами на включение в Зал славы волейбола",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69ce817a9a7947597f48b2c0",
+    "publishedAt": "2026-04-02T15:11:20.000Z",
+    "createdAt": "2026-04-02T17:01:51.924Z",
+    "updatedAt": "2026-04-02T17:01:51.924Z"
+  },
+  {
+    "id": "291e5a6a2159c637",
+    "title": "Футбольный «Локомотив» продлил контракт с вратарем сборной России",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/5/76/347751408083765.jpeg",
+    "teaser": "Футбольный «Локомотив» продлил контракт с вратарем сборной России",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69ce7b909a794784e927fc61",
+    "publishedAt": "2026-04-02T14:56:25.000Z",
+    "createdAt": "2026-04-02T17:01:50.902Z",
+    "updatedAt": "2026-04-02T17:01:50.902Z"
+  },
+  {
     "id": "6e63ba7bc7c79de2",
     "title": "Клуб КХЛ продлил контракт с тренерским штабом после вылета из плей-офф",
     "sport": "Хоккей",
@@ -10,8 +80,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69ce70b09a79470cd4b5ac29",
     "publishedAt": "2026-04-02T14:10:15.000Z",
-    "createdAt": "2026-04-02T15:01:52.095Z",
-    "updatedAt": "2026-04-02T15:01:52.095Z"
+    "createdAt": "2026-04-02T17:01:57.080Z",
+    "updatedAt": "2026-04-02T17:01:57.080Z"
   },
   {
     "id": "c1aad9d12bcb80e2",
@@ -24,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69ce72789a7947367d051e21",
     "publishedAt": "2026-04-02T14:01:40.000Z",
-    "createdAt": "2026-04-02T15:01:48.788Z",
-    "updatedAt": "2026-04-02T15:01:48.788Z"
+    "createdAt": "2026-04-02T17:01:53.967Z",
+    "updatedAt": "2026-04-02T17:01:53.967Z"
   },
   {
     "id": "47415119800b89fa",
@@ -38,8 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69ce66949a7947ad0deab930",
     "publishedAt": "2026-04-02T13:43:51.000Z",
-    "createdAt": "2026-04-02T15:01:49.935Z",
-    "updatedAt": "2026-04-02T15:01:49.935Z"
+    "createdAt": "2026-04-02T17:01:54.995Z",
+    "updatedAt": "2026-04-02T17:01:54.995Z"
   },
   {
     "id": "e147e91f9f3110a5",
@@ -52,22 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69ce69f69a79475f13e0bc52",
     "publishedAt": "2026-04-02T13:38:02.000Z",
-    "createdAt": "2026-04-02T15:01:51.020Z",
-    "updatedAt": "2026-04-02T15:01:51.020Z"
-  },
-  {
-    "id": "55a6daa771d804be",
-    "title": "Экс-тренер «Зенита» покинул пост главного тренера сборной Румынии",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/8/38/347751334325388.jpeg",
-    "teaser": "Экс-тренер «Зенита» покинул пост главного тренера сборной Румынии",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69ce5d9a9a79479a0bb2179d",
-    "publishedAt": "2026-04-02T13:33:32.000Z",
-    "createdAt": "2026-04-02T15:01:53.233Z",
-    "updatedAt": "2026-04-02T15:01:53.233Z"
+    "createdAt": "2026-04-02T17:01:56.067Z",
+    "updatedAt": "2026-04-02T17:01:56.067Z"
   },
   {
     "id": "fd1c83a19bf9bbad",
@@ -80,63 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69ce65069a794751d308305d",
     "publishedAt": "2026-04-02T13:22:12.000Z",
-    "createdAt": "2026-04-02T15:01:54.461Z",
-    "updatedAt": "2026-04-02T15:01:54.461Z"
-  },
-  {
-    "id": "fb150203b71890e6",
-    "title": "Экс-футболисты сборной России назвали фаворитов ЧМ-2026",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/0/86/347751319383860.png",
-    "teaser": "Экс-футболисты сборной России назвали фаворитов ЧМ-2026",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69ce54ea9a79477a18ad8b14",
-    "publishedAt": "2026-04-02T12:22:24.000Z",
-    "createdAt": "2026-04-02T15:01:56.526Z",
-    "updatedAt": "2026-04-02T15:01:56.526Z"
-  },
-  {
-    "id": "dcb5517453663a12",
-    "title": "Совет ISU отложил вопрос допуска российских фигуристов-юниоров до лета",
-    "sport": "Другое",
-    "category": "Фигурное катание",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/7/20/347751290684207.jpeg",
-    "teaser": "Совет ISU отложил вопрос допуска российских фигуристов-юниоров до лета",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69ce4fc19a7947c69e1367f3",
-    "publishedAt": "2026-04-02T11:47:24.000Z",
-    "createdAt": "2026-04-02T15:01:58.018Z",
-    "updatedAt": "2026-04-02T15:01:58.018Z"
-  },
-  {
-    "id": "a3a9cd7d44728b19",
-    "title": "Лукашенко забил вратарю четвертьфиналиста КХЛ на тренировке",
-    "sport": "Хоккей",
-    "category": "Хоккей",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/4/97/347751245437974.png",
-    "teaser": "Лукашенко забил вратарю четвертьфиналиста КХЛ на тренировке",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69ce3d039a7947c51c8998be",
-    "publishedAt": "2026-04-02T10:29:49.000Z",
-    "createdAt": "2026-04-02T15:01:59.205Z",
-    "updatedAt": "2026-04-02T15:01:59.205Z"
-  },
-  {
-    "id": "d54a9072fc6d3a63",
-    "title": "Украина пожаловалась МОК на российских скалолазов",
-    "sport": "Другое",
-    "category": "Другие",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/8/11/347751232377118.png",
-    "teaser": "Украина пожаловалась МОК на российских скалолазов",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69ce34939a794735ab50a8e7",
-    "publishedAt": "2026-04-02T10:20:59.000Z",
-    "createdAt": "2026-04-02T15:02:00.369Z",
-    "updatedAt": "2026-04-02T15:02:00.369Z"
+    "createdAt": "2026-04-02T17:01:58.114Z",
+    "updatedAt": "2026-04-02T17:01:58.114Z"
   }
 ]
