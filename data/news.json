@@ -1,5 +1,61 @@
 [
   {
+    "id": "b4a8c978b5fad815",
+    "title": "La Gazzetta dello Sport подсчитала убытки Италии из-за невыхода на ЧМ",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/1/92/347751161739921.jpeg",
+    "teaser": "La Gazzetta dello Sport подсчитала убытки Италии из-за невыхода на ЧМ",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69ce1a779a794786936dcbdb",
+    "publishedAt": "2026-04-02T09:01:49.000Z",
+    "createdAt": "2026-04-02T09:05:35.222Z",
+    "updatedAt": "2026-04-02T09:05:35.222Z"
+  },
+  {
+    "id": "bc578460443e863b",
+    "title": "РПЛ назвала лучшего тренера марта",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/3/26/347751180932263.jpeg",
+    "teaser": "РПЛ назвала лучшего тренера марта",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69ce21bf9a7947e1afe91064",
+    "publishedAt": "2026-04-02T08:34:12.000Z",
+    "createdAt": "2026-04-02T09:05:37.248Z",
+    "updatedAt": "2026-04-02T09:05:37.248Z"
+  },
+  {
+    "id": "9881243f3c6c29cd",
+    "title": "Панарин отметился уникальным достижением в НХЛ среди европейцев",
+    "sport": "Хоккей",
+    "category": "Хоккей",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/4/70/347751106736704.jpeg",
+    "teaser": "Панарин отметился уникальным достижением в НХЛ среди европейцев",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69ce07c89a794749a627be8b",
+    "publishedAt": "2026-04-02T08:17:11.000Z",
+    "createdAt": "2026-04-02T09:05:36.245Z",
+    "updatedAt": "2026-04-02T09:05:36.245Z"
+  },
+  {
+    "id": "31a03f44db2f3484",
+    "title": "Майкл Джордан возглавил список самых высокооплачиваемых спортсменов",
+    "sport": "Другое",
+    "category": "Другие",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/4/45/347751122885454.jpeg",
+    "teaser": "Майкл Джордан возглавил список самых высокооплачиваемых спортсменов",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69ce0bcd9a794771eebc8a90",
+    "publishedAt": "2026-04-02T07:29:00.000Z",
+    "createdAt": "2026-04-02T09:05:38.066Z",
+    "updatedAt": "2026-04-02T09:05:38.066Z"
+  },
+  {
     "id": "6282c9054dddf663",
     "title": "Стали известны три пары четвертьфинала Кубка Гагарина",
     "sport": "Хоккей",
@@ -10,8 +66,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69cd6dad9a79476e9248651c",
     "publishedAt": "2026-04-01T20:08:01.000Z",
-    "createdAt": "2026-04-02T07:21:37.941Z",
-    "updatedAt": "2026-04-02T07:21:37.941Z"
+    "createdAt": "2026-04-02T09:05:41.142Z",
+    "updatedAt": "2026-04-02T09:05:41.142Z"
   },
   {
     "id": "bec2a3a3ca953765",
@@ -24,8 +80,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69cd52de9a7947f57d4db641",
     "publishedAt": "2026-04-01T19:58:12.000Z",
-    "createdAt": "2026-04-02T07:21:39.082Z",
-    "updatedAt": "2026-04-02T07:21:39.082Z"
+    "createdAt": "2026-04-02T09:05:42.170Z",
+    "updatedAt": "2026-04-02T09:05:42.170Z"
   },
   {
     "id": "0a449bf9c513eb4b",
@@ -38,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69cd66129a794765bb30736a",
     "publishedAt": "2026-04-01T18:59:58.000Z",
-    "createdAt": "2026-04-02T07:21:43.066Z",
-    "updatedAt": "2026-04-02T07:21:43.066Z"
+    "createdAt": "2026-04-02T09:05:44.225Z",
+    "updatedAt": "2026-04-02T09:05:44.225Z"
   },
   {
     "id": "5011417209c10dd1",
@@ -52,64 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69cd60d69a79477fdd3f8382",
     "publishedAt": "2026-04-01T18:33:53.000Z",
-    "createdAt": "2026-04-02T07:21:42.034Z",
-    "updatedAt": "2026-04-02T07:21:42.034Z"
-  },
-  {
-    "id": "5463eaa321871300",
-    "title": "Российский шахматист потерпел второе поражение на турнире претендентов",
-    "sport": "Другое",
-    "category": "Другие",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/2/71/347750637974712.png",
-    "teaser": "Российский шахматист потерпел второе поражение на турнире претендентов",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69cd52939a79472ebf1b8125",
-    "publishedAt": "2026-04-01T17:52:12.000Z",
-    "createdAt": "2026-04-02T07:21:45.180Z",
-    "updatedAt": "2026-04-02T07:21:45.180Z"
-  },
-  {
-    "id": "0708fe4dab91d054",
-    "title": "Легионер ЦСКА извинился перед тренером и вернется к тренировкам с основой",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/6/65/347750618598656.png",
-    "teaser": "Легионер ЦСКА извинился перед тренером и вернется к тренировкам с основой",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69cd4b319a7947bed24cfd9f",
-    "publishedAt": "2026-04-01T17:47:24.000Z",
-    "createdAt": "2026-04-02T07:21:44.117Z",
-    "updatedAt": "2026-04-02T07:21:44.117Z"
-  },
-  {
-    "id": "b5a70ebfe2981082",
-    "title": "«Авангард» вышел в четвертьфинал Кубка Гагарина",
-    "sport": "Хоккей",
-    "category": "Хоккей",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/0/19/347750581539190.png",
-    "teaser": "«Авангард» вышел в четвертьфинал Кубка Гагарина",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69cd3b9e9a79477a9a4f256a",
-    "publishedAt": "2026-04-01T16:27:27.000Z",
-    "createdAt": "2026-04-02T07:21:47.326Z",
-    "updatedAt": "2026-04-02T07:21:47.326Z"
-  },
-  {
-    "id": "b631195c3e5a79ba",
-    "title": "Лидер КХЛ вышел во второй раунд Кубка Гагарина",
-    "sport": "Хоккей",
-    "category": "Хоккей",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/0/93/347750591577930.png",
-    "teaser": "Лидер КХЛ вышел во второй раунд Кубка Гагарина",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69cd40389a794735adf4552b",
-    "publishedAt": "2026-04-01T16:17:43.000Z",
-    "createdAt": "2026-04-02T07:21:46.262Z",
-    "updatedAt": "2026-04-02T07:21:46.262Z"
+    "createdAt": "2026-04-02T09:05:43.218Z",
+    "updatedAt": "2026-04-02T09:05:43.218Z"
   },
   {
     "id": "bd0526889ead4337",
@@ -122,8 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/690c81229a794782c729527a",
     "publishedAt": "2026-04-01T10:02:09.000Z",
-    "createdAt": "2026-04-02T07:21:41.172Z",
-    "updatedAt": "2026-04-02T07:21:41.172Z"
+    "createdAt": "2026-04-02T09:05:40.119Z",
+    "updatedAt": "2026-04-02T09:05:40.119Z"
   },
   {
     "id": "96f33c3d458a3637",
@@ -136,7 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/68ef5eaa9a7947325479daad",
     "publishedAt": "2026-04-01T07:26:02.000Z",
-    "createdAt": "2026-04-02T07:21:40.166Z",
-    "updatedAt": "2026-04-02T07:21:40.166Z"
+    "createdAt": "2026-04-02T09:05:39.107Z",
+    "updatedAt": "2026-04-02T09:05:39.107Z"
   }
 ]
