@@ -1,5 +1,89 @@
 [
   {
+    "id": "6e63ba7bc7c79de2",
+    "title": "Клуб КХЛ продлил контракт с тренерским штабом после вылета из плей-офф",
+    "sport": "Хоккей",
+    "category": "Хоккей",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/8/88/347751384660888.jpeg",
+    "teaser": "Клуб КХЛ продлил контракт с тренерским штабом после вылета из плей-офф",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69ce70b09a79470cd4b5ac29",
+    "publishedAt": "2026-04-02T14:10:15.000Z",
+    "createdAt": "2026-04-02T15:01:52.095Z",
+    "updatedAt": "2026-04-02T15:01:52.095Z"
+  },
+  {
+    "id": "c1aad9d12bcb80e2",
+    "title": "Глава Итальянской федерации футбола подал в отставку после пропуска ЧМ",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/7/62/347751379467627.jpeg",
+    "teaser": "Глава Итальянской федерации футбола подал в отставку после пропуска ЧМ",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69ce72789a7947367d051e21",
+    "publishedAt": "2026-04-02T14:01:40.000Z",
+    "createdAt": "2026-04-02T15:01:48.788Z",
+    "updatedAt": "2026-04-02T15:01:48.788Z"
+  },
+  {
+    "id": "47415119800b89fa",
+    "title": "Олимпийскую чемпионку по лыжным гонкам дисквалифицировали за допинг",
+    "sport": "Другое",
+    "category": "Другие",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/4/96/347751358861964.jpeg",
+    "teaser": "Олимпийскую чемпионку по лыжным гонкам дисквалифицировали за допинг",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69ce66949a7947ad0deab930",
+    "publishedAt": "2026-04-02T13:43:51.000Z",
+    "createdAt": "2026-04-02T15:01:49.935Z",
+    "updatedAt": "2026-04-02T15:01:49.935Z"
+  },
+  {
+    "id": "e147e91f9f3110a5",
+    "title": "Овечкин сыграет в «Матче года» в Санкт-Петербурге",
+    "sport": "Хоккей",
+    "category": "Хоккей",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/5/54/347751362163545.jpeg",
+    "teaser": "Овечкин сыграет в «Матче года» в Санкт-Петербурге",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69ce69f69a79475f13e0bc52",
+    "publishedAt": "2026-04-02T13:38:02.000Z",
+    "createdAt": "2026-04-02T15:01:51.020Z",
+    "updatedAt": "2026-04-02T15:01:51.020Z"
+  },
+  {
+    "id": "55a6daa771d804be",
+    "title": "Экс-тренер «Зенита» покинул пост главного тренера сборной Румынии",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/8/38/347751334325388.jpeg",
+    "teaser": "Экс-тренер «Зенита» покинул пост главного тренера сборной Румынии",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69ce5d9a9a79479a0bb2179d",
+    "publishedAt": "2026-04-02T13:33:32.000Z",
+    "createdAt": "2026-04-02T15:01:53.233Z",
+    "updatedAt": "2026-04-02T15:01:53.233Z"
+  },
+  {
+    "id": "fd1c83a19bf9bbad",
+    "title": "В КХЛ за весь сезон только два тренера получили штрафы за критику судей",
+    "sport": "Хоккей",
+    "category": "Хоккей",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/1/88/347751341891881.png",
+    "teaser": "В КХЛ за весь сезон только два тренера получили штрафы за критику судей",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69ce65069a794751d308305d",
+    "publishedAt": "2026-04-02T13:22:12.000Z",
+    "createdAt": "2026-04-02T15:01:54.461Z",
+    "updatedAt": "2026-04-02T15:01:54.461Z"
+  },
+  {
     "id": "fb150203b71890e6",
     "title": "Экс-футболисты сборной России назвали фаворитов ЧМ-2026",
     "sport": "Футбол",
@@ -10,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69ce54ea9a79477a18ad8b14",
     "publishedAt": "2026-04-02T12:22:24.000Z",
-    "createdAt": "2026-04-02T13:27:12.763Z",
-    "updatedAt": "2026-04-02T13:27:12.763Z"
+    "createdAt": "2026-04-02T15:01:56.526Z",
+    "updatedAt": "2026-04-02T15:01:56.526Z"
   },
   {
     "id": "dcb5517453663a12",
@@ -24,36 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69ce4fc19a7947c69e1367f3",
     "publishedAt": "2026-04-02T11:47:24.000Z",
-    "createdAt": "2026-04-02T13:27:13.871Z",
-    "updatedAt": "2026-04-02T13:27:13.871Z"
-  },
-  {
-    "id": "1aa45fd852b23a66",
-    "title": "Глава УЕФА пригрозил Италии забрать Евро-2032",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/4/40/347751293103404.jpeg",
-    "teaser": "Глава УЕФА пригрозил Италии забрать Евро-2032",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69ce4bfd9a7947659286ac2f",
-    "publishedAt": "2026-04-02T11:31:12.000Z",
-    "createdAt": "2026-04-02T13:27:15.850Z",
-    "updatedAt": "2026-04-02T13:27:15.850Z"
-  },
-  {
-    "id": "44344260ce6138cc",
-    "title": "Глава КХЛ Морозов сообщил о введении льготы для клубов в потолке зарплат",
-    "sport": "Хоккей",
-    "category": "Хоккей",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/7/39/347751259600397.jpeg",
-    "teaser": "Глава КХЛ Морозов сообщил о введении льготы для клубов в потолке зарплат",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69ce42839a794726904f048d",
-    "publishedAt": "2026-04-02T11:07:52.000Z",
-    "createdAt": "2026-04-02T13:27:19.228Z",
-    "updatedAt": "2026-04-02T13:27:19.228Z"
+    "createdAt": "2026-04-02T15:01:58.018Z",
+    "updatedAt": "2026-04-02T15:01:58.018Z"
   },
   {
     "id": "a3a9cd7d44728b19",
@@ -66,8 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69ce3d039a7947c51c8998be",
     "publishedAt": "2026-04-02T10:29:49.000Z",
-    "createdAt": "2026-04-02T13:27:16.938Z",
-    "updatedAt": "2026-04-02T13:27:16.938Z"
+    "createdAt": "2026-04-02T15:01:59.205Z",
+    "updatedAt": "2026-04-02T15:01:59.205Z"
   },
   {
     "id": "d54a9072fc6d3a63",
@@ -80,63 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69ce34939a794735ab50a8e7",
     "publishedAt": "2026-04-02T10:20:59.000Z",
-    "createdAt": "2026-04-02T13:27:18.128Z",
-    "updatedAt": "2026-04-02T13:27:18.128Z"
-  },
-  {
-    "id": "ca44d36a5bc73e0b",
-    "title": "В Литве ввели санкции против спортсменов, выступивших на турнире в России",
-    "sport": "Другое",
-    "category": "Другие",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/0/66/347751241858660.jpeg",
-    "teaser": "В Литве ввели санкции против спортсменов, выступивших на турнире в России",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69ce37e49a79475fd9214b2a",
-    "publishedAt": "2026-04-02T10:18:02.000Z",
-    "createdAt": "2026-04-02T13:27:20.329Z",
-    "updatedAt": "2026-04-02T13:27:20.329Z"
-  },
-  {
-    "id": "4e5fc554d2bfe1fa",
-    "title": "ФИФА подняла цены на билеты на финал чемпионата мира до $11 тыс",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/4/98/347751202749984.jpeg",
-    "teaser": "ФИФА подняла цены на билеты на финал чемпионата мира до $11 тыс",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69ce2d669a79472e4e97b050",
-    "publishedAt": "2026-04-02T09:46:42.000Z",
-    "createdAt": "2026-04-02T13:27:21.437Z",
-    "updatedAt": "2026-04-02T13:27:21.437Z"
-  },
-  {
-    "id": "fd8417734e85115c",
-    "title": "World Triathlon допустил российских юниоров на турниры с флагом и гимном",
-    "sport": "Другое",
-    "category": "Другие",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/8/78/347751218837788.jpeg",
-    "teaser": "World Triathlon допустил российских юниоров на турниры с флагом и гимном",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69ce345b9a7947c09505e303",
-    "publishedAt": "2026-04-02T09:37:06.000Z",
-    "createdAt": "2026-04-02T13:27:22.527Z",
-    "updatedAt": "2026-04-02T13:27:22.527Z"
-  },
-  {
-    "id": "b4a8c978b5fad815",
-    "title": "La Gazzetta dello Sport подсчитала убытки Италии из-за невыхода на ЧМ",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/1/92/347751161739921.jpeg",
-    "teaser": "La Gazzetta dello Sport подсчитала убытки Италии из-за невыхода на ЧМ",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69ce1a779a794786936dcbdb",
-    "publishedAt": "2026-04-02T09:01:49.000Z",
-    "createdAt": "2026-04-02T13:27:23.627Z",
-    "updatedAt": "2026-04-02T13:27:23.627Z"
+    "createdAt": "2026-04-02T15:02:00.369Z",
+    "updatedAt": "2026-04-02T15:02:00.369Z"
   }
 ]
