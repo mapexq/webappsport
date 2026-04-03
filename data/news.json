@@ -1,5 +1,33 @@
 [
   {
+    "id": "1cb04d7573a0434a",
+    "title": "Кокорин пригласил Соболева перейти в кипрский «Арис»",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/1/36/347752364354361.jpeg",
+    "teaser": "Кокорин пригласил Соболева перейти в кипрский «Арис»",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69cff0199a7947ac3392b0fb",
+    "publishedAt": "2026-04-03T17:25:40.000Z",
+    "createdAt": "2026-04-03T17:39:12.712Z",
+    "updatedAt": "2026-04-03T17:39:12.712Z"
+  },
+  {
+    "id": "eb3afa2488e408f1",
+    "title": "Российский шахматист третий раз сыграл вничью на турнире претендентов",
+    "sport": "Другое",
+    "category": "Другие",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/3/33/347752307328333.jpeg",
+    "teaser": "Российский шахматист третий раз сыграл вничью на турнире претендентов",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69cfdef69a79478a73064da3",
+    "publishedAt": "2026-04-03T16:53:36.000Z",
+    "createdAt": "2026-04-03T17:39:14.692Z",
+    "updatedAt": "2026-04-03T17:39:14.692Z"
+  },
+  {
     "id": "424f04ec766bfd70",
     "title": "Миранчук заявил, что не думал о получении гражданства США",
     "sport": "Футбол",
@@ -10,8 +38,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69cfe3bd9a79477553e291f1",
     "publishedAt": "2026-04-03T16:13:50.000Z",
-    "createdAt": "2026-04-03T16:49:30.621Z",
-    "updatedAt": "2026-04-03T16:49:30.621Z"
+    "createdAt": "2026-04-03T17:39:13.701Z",
+    "updatedAt": "2026-04-03T17:39:13.701Z"
   },
   {
     "id": "e1e5e6d5d47327db",
@@ -24,8 +52,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69cfdabc9a794767f6ebcc33",
     "publishedAt": "2026-04-03T16:00:04.000Z",
-    "createdAt": "2026-04-03T16:49:32.824Z",
-    "updatedAt": "2026-04-03T16:49:32.824Z"
+    "createdAt": "2026-04-03T17:39:16.681Z",
+    "updatedAt": "2026-04-03T17:39:16.681Z"
   },
   {
     "id": "18a835f130ee8eb0",
@@ -38,8 +66,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69cfd1369a794759ea14a74a",
     "publishedAt": "2026-04-03T15:37:06.000Z",
-    "createdAt": "2026-04-03T16:49:31.728Z",
-    "updatedAt": "2026-04-03T16:49:31.728Z"
+    "createdAt": "2026-04-03T17:39:15.693Z",
+    "updatedAt": "2026-04-03T17:39:15.693Z"
   },
   {
     "id": "40ddad7e5c91edba",
@@ -52,8 +80,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69cfcf309a79475a5e0688c4",
     "publishedAt": "2026-04-03T14:56:21.000Z",
-    "createdAt": "2026-04-03T16:49:33.917Z",
-    "updatedAt": "2026-04-03T16:49:33.917Z"
+    "createdAt": "2026-04-03T17:39:17.748Z",
+    "updatedAt": "2026-04-03T17:39:17.748Z"
   },
   {
     "id": "4eb869b9530655e8",
@@ -66,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69cfc9ac9a79470b4e52ffa9",
     "publishedAt": "2026-04-03T14:32:39.000Z",
-    "createdAt": "2026-04-03T16:49:36.075Z",
-    "updatedAt": "2026-04-03T16:49:36.075Z"
+    "createdAt": "2026-04-03T17:39:20.040Z",
+    "updatedAt": "2026-04-03T17:39:20.040Z"
   },
   {
     "id": "cc0eb574473ce135",
@@ -80,8 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69cfc0d59a794745d5b75746",
     "publishedAt": "2026-04-03T14:31:20.000Z",
-    "createdAt": "2026-04-03T16:49:38.382Z",
-    "updatedAt": "2026-04-03T16:49:38.382Z"
+    "createdAt": "2026-04-03T17:39:22.121Z",
+    "updatedAt": "2026-04-03T17:39:22.121Z"
   },
   {
     "id": "d563598ee659eb5f",
@@ -94,22 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69cfc33d9a7947a83c440a23",
     "publishedAt": "2026-04-03T14:06:26.000Z",
-    "createdAt": "2026-04-03T16:49:35.000Z",
-    "updatedAt": "2026-04-03T16:49:35.000Z"
-  },
-  {
-    "id": "951702764b65a8ad",
-    "title": "Капитан МЮ повторил рекорд Роналду по наградам «Игрок месяца» в АПЛ",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/6/25/347752236321256.jpeg",
-    "teaser": "Капитан МЮ повторил рекорд Роналду по наградам «Игрок месяца» в АПЛ",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69cfbe4f9a79470cadef921a",
-    "publishedAt": "2026-04-03T14:05:25.000Z",
-    "createdAt": "2026-04-03T16:49:39.465Z",
-    "updatedAt": "2026-04-03T16:49:39.465Z"
+    "createdAt": "2026-04-03T17:39:18.866Z",
+    "updatedAt": "2026-04-03T17:39:18.866Z"
   },
   {
     "id": "e4ac4b5ea5325c2e",
@@ -122,21 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69cfa0829a79477ec6a57dc3",
     "publishedAt": "2026-04-03T13:22:33.000Z",
-    "createdAt": "2026-04-03T16:49:37.236Z",
-    "updatedAt": "2026-04-03T16:49:37.236Z"
-  },
-  {
-    "id": "222c1689f263bb5f",
-    "title": "Петросян сравнила уровень российских соревнований и Олимпиады",
-    "sport": "Другое",
-    "category": "Фигурное катание",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/8/17/347752211292178.jpeg",
-    "teaser": "Петросян сравнила уровень российских соревнований и Олимпиады",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69cfb8f89a794726eb3dfbb0",
-    "publishedAt": "2026-04-03T13:18:41.000Z",
-    "createdAt": "2026-04-03T16:49:40.563Z",
-    "updatedAt": "2026-04-03T16:49:40.563Z"
+    "createdAt": "2026-04-03T17:39:21.114Z",
+    "updatedAt": "2026-04-03T17:39:21.114Z"
   }
 ]
