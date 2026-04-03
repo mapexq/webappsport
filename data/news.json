@@ -1,5 +1,61 @@
 [
   {
+    "id": "cb59d6404d0952d0",
+    "title": "Клуб КХЛ решил оставить тренера после вылета в первом раунде плей-офф",
+    "sport": "Хоккей",
+    "category": "Хоккей",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/5/54/347752198778545.jpeg",
+    "teaser": "Клуб КХЛ решил оставить тренера после вылета в первом раунде плей-офф",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69cfacf59a794711e725f301",
+    "publishedAt": "2026-04-03T13:04:30.000Z",
+    "createdAt": "2026-04-03T13:16:03.585Z",
+    "updatedAt": "2026-04-03T13:16:03.585Z"
+  },
+  {
+    "id": "28bee67e8e34b485",
+    "title": "В «Челси» футболиста отстранили за слова о возможном переходе в «Реал»",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/3/35/347752186656353.jpeg",
+    "teaser": "В «Челси» футболиста отстранили за слова о возможном переходе в «Реал»",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69cfa6b19a7947bce3456347",
+    "publishedAt": "2026-04-03T12:41:04.000Z",
+    "createdAt": "2026-04-03T13:16:04.548Z",
+    "updatedAt": "2026-04-03T13:16:04.548Z"
+  },
+  {
+    "id": "440a2f18808838ad",
+    "title": "Главный тренер сборной Италии ушел в отставку из-за пропуска ЧМ",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/2/83/347752189992832.jpeg",
+    "teaser": "Главный тренер сборной Италии ушел в отставку из-за пропуска ЧМ",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69cfae479a7947d604d14932",
+    "publishedAt": "2026-04-03T12:30:05.000Z",
+    "createdAt": "2026-04-03T13:16:02.629Z",
+    "updatedAt": "2026-04-03T13:16:02.629Z"
+  },
+  {
+    "id": "e5ce7dd79d05c348",
+    "title": "Прокурор выступил против прекращения дела Смолова о драке в «Кофемании»",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/2/34/347752180101342.jpeg",
+    "teaser": "Прокурор выступил против прекращения дела Смолова о драке в «Кофемании»",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69cfad1c9a79471a02424723",
+    "publishedAt": "2026-04-03T12:18:53.000Z",
+    "createdAt": "2026-04-03T13:16:01.551Z",
+    "updatedAt": "2026-04-03T13:16:01.551Z"
+  },
+  {
     "id": "e410b3e4d9f1a3d3",
     "title": "Бывший тренер «Зенита» перенес инфаркт",
     "sport": "Футбол",
@@ -10,8 +66,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69cf96399a79472ec4463e55",
     "publishedAt": "2026-04-03T11:21:39.000Z",
-    "createdAt": "2026-04-03T11:41:04.799Z",
-    "updatedAt": "2026-04-03T11:41:04.799Z"
+    "createdAt": "2026-04-03T13:16:05.562Z",
+    "updatedAt": "2026-04-03T13:16:05.562Z"
   },
   {
     "id": "5afafa6dc68551e4",
@@ -24,8 +80,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69cf98e39a79473eb4cf8d89",
     "publishedAt": "2026-04-03T10:56:42.000Z",
-    "createdAt": "2026-04-03T11:41:05.808Z",
-    "updatedAt": "2026-04-03T11:41:05.808Z"
+    "createdAt": "2026-04-03T13:16:06.580Z",
+    "updatedAt": "2026-04-03T13:16:06.580Z"
   },
   {
     "id": "1392da0aed4aac69",
@@ -38,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69cf90689a7947df9918efa6",
     "publishedAt": "2026-04-03T10:54:50.000Z",
-    "createdAt": "2026-04-03T11:41:06.826Z",
-    "updatedAt": "2026-04-03T11:41:06.827Z"
+    "createdAt": "2026-04-03T13:16:07.627Z",
+    "updatedAt": "2026-04-03T13:16:07.627Z"
   },
   {
     "id": "0f16ba3462e7bd2f",
@@ -52,8 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69cf8da59a79476c26887e3d",
     "publishedAt": "2026-04-03T10:16:14.000Z",
-    "createdAt": "2026-04-03T11:41:07.824Z",
-    "updatedAt": "2026-04-03T11:41:07.824Z"
+    "createdAt": "2026-04-03T13:16:08.718Z",
+    "updatedAt": "2026-04-03T13:16:08.718Z"
   },
   {
     "id": "56fc0cbffc2274e1",
@@ -66,22 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69cf76e59a79471816dd2caa",
     "publishedAt": "2026-04-03T10:02:13.000Z",
-    "createdAt": "2026-04-03T11:41:08.788Z",
-    "updatedAt": "2026-04-03T11:41:08.788Z"
-  },
-  {
-    "id": "ff7feded72e1e489",
-    "title": "Свищев назвал дату конференции по объединению лыжных федераций",
-    "sport": "Другое",
-    "category": "Другие",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/3/05/347752098475053.jpeg",
-    "teaser": "Свищев назвал дату конференции по объединению лыжных федераций",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69cf88169a79474ed639e721",
-    "publishedAt": "2026-04-03T10:00:38.000Z",
-    "createdAt": "2026-04-03T11:41:10.735Z",
-    "updatedAt": "2026-04-03T11:41:10.735Z"
+    "createdAt": "2026-04-03T13:16:09.740Z",
+    "updatedAt": "2026-04-03T13:16:09.740Z"
   },
   {
     "id": "d7e491b73efebc98",
@@ -94,49 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69cf7ea39a794780a5301326",
     "publishedAt": "2026-04-03T09:33:10.000Z",
-    "createdAt": "2026-04-03T11:41:09.793Z",
-    "updatedAt": "2026-04-03T11:41:09.793Z"
-  },
-  {
-    "id": "fd0845656b16e2ab",
-    "title": "Гол футболиста «Спартака» признали лучшим по итогам марта в РПЛ",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/8/44/347752073523448.jpeg",
-    "teaser": "Гол футболиста «Спартака» признали лучшим по итогам марта в РПЛ",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69cf7eaa9a794767d7f2b599",
-    "publishedAt": "2026-04-03T09:19:03.000Z",
-    "createdAt": "2026-04-03T11:41:11.768Z",
-    "updatedAt": "2026-04-03T11:41:11.768Z"
-  },
-  {
-    "id": "99142959ab903112",
-    "title": "КХЛ назвала лучших игроков первого раунда Кубка Гагарина",
-    "sport": "Хоккей",
-    "category": "Хоккей",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/1/13/347752042685131.jpeg",
-    "teaser": "КХЛ назвала лучших игроков первого раунда Кубка Гагарина",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69cf77739a79475d49d5b82b",
-    "publishedAt": "2026-04-03T08:31:57.000Z",
-    "createdAt": "2026-04-03T11:41:12.753Z",
-    "updatedAt": "2026-04-03T11:41:12.753Z"
-  },
-  {
-    "id": "1e821400b2ef6ae6",
-    "title": "Россиянин установил уникальное достижение в истории своего клуба в НХЛ",
-    "sport": "Хоккей",
-    "category": "Хоккей",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/1/04/347752019887041.jpeg",
-    "teaser": "Россиянин установил уникальное достижение в истории своего клуба в НХЛ",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69cf6e9b9a7947479be392e6",
-    "publishedAt": "2026-04-03T08:05:58.000Z",
-    "createdAt": "2026-04-03T11:41:13.692Z",
-    "updatedAt": "2026-04-03T11:41:13.692Z"
+    "createdAt": "2026-04-03T13:16:10.768Z",
+    "updatedAt": "2026-04-03T13:16:10.768Z"
   }
 ]
