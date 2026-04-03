@@ -1,5 +1,47 @@
 [
   {
+    "id": "e410b3e4d9f1a3d3",
+    "title": "Бывший тренер «Зенита» перенес инфаркт",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/4/49/347752121293494.jpeg",
+    "teaser": "Бывший тренер «Зенита» перенес инфаркт",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69cf96399a79472ec4463e55",
+    "publishedAt": "2026-04-03T11:21:39.000Z",
+    "createdAt": "2026-04-03T11:41:04.799Z",
+    "updatedAt": "2026-04-03T11:41:04.799Z"
+  },
+  {
+    "id": "5afafa6dc68551e4",
+    "title": "Большунов впервые за пять гонок остался без золота в финале Кубка России",
+    "sport": "Другое",
+    "category": "Другие",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/6/12/347752128391126.jpeg",
+    "teaser": "Большунов впервые за пять гонок остался без золота в финале Кубка России",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69cf98e39a79473eb4cf8d89",
+    "publishedAt": "2026-04-03T10:56:42.000Z",
+    "createdAt": "2026-04-03T11:41:05.808Z",
+    "updatedAt": "2026-04-03T11:41:05.808Z"
+  },
+  {
+    "id": "1392da0aed4aac69",
+    "title": "У двукратного чемпиона СССР по футболу обнаружили опухоль",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/4/71/347752128234714.jpeg",
+    "teaser": "У двукратного чемпиона СССР по футболу обнаружили опухоль",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69cf90689a7947df9918efa6",
+    "publishedAt": "2026-04-03T10:54:50.000Z",
+    "createdAt": "2026-04-03T11:41:06.826Z",
+    "updatedAt": "2026-04-03T11:41:06.827Z"
+  },
+  {
     "id": "0f16ba3462e7bd2f",
     "title": "Клуб Единой лиги ВТБ расторг контракт с американцем из-за каннабиса",
     "sport": "Баскетбол",
@@ -10,8 +52,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69cf8da59a79476c26887e3d",
     "publishedAt": "2026-04-03T10:16:14.000Z",
-    "createdAt": "2026-04-03T10:49:52.406Z",
-    "updatedAt": "2026-04-03T10:49:52.406Z"
+    "createdAt": "2026-04-03T11:41:07.824Z",
+    "updatedAt": "2026-04-03T11:41:07.824Z"
   },
   {
     "id": "56fc0cbffc2274e1",
@@ -24,8 +66,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69cf76e59a79471816dd2caa",
     "publishedAt": "2026-04-03T10:02:13.000Z",
-    "createdAt": "2026-04-03T10:49:53.378Z",
-    "updatedAt": "2026-04-03T10:49:53.378Z"
+    "createdAt": "2026-04-03T11:41:08.788Z",
+    "updatedAt": "2026-04-03T11:41:08.788Z"
   },
   {
     "id": "ff7feded72e1e489",
@@ -38,8 +80,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69cf88169a79474ed639e721",
     "publishedAt": "2026-04-03T10:00:38.000Z",
-    "createdAt": "2026-04-03T10:49:55.432Z",
-    "updatedAt": "2026-04-03T10:49:55.432Z"
+    "createdAt": "2026-04-03T11:41:10.735Z",
+    "updatedAt": "2026-04-03T11:41:10.735Z"
   },
   {
     "id": "d7e491b73efebc98",
@@ -52,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69cf7ea39a794780a5301326",
     "publishedAt": "2026-04-03T09:33:10.000Z",
-    "createdAt": "2026-04-03T10:49:54.401Z",
-    "updatedAt": "2026-04-03T10:49:54.401Z"
+    "createdAt": "2026-04-03T11:41:09.793Z",
+    "updatedAt": "2026-04-03T11:41:09.793Z"
   },
   {
     "id": "fd0845656b16e2ab",
@@ -66,8 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69cf7eaa9a794767d7f2b599",
     "publishedAt": "2026-04-03T09:19:03.000Z",
-    "createdAt": "2026-04-03T10:49:56.377Z",
-    "updatedAt": "2026-04-03T10:49:56.377Z"
+    "createdAt": "2026-04-03T11:41:11.768Z",
+    "updatedAt": "2026-04-03T11:41:11.768Z"
   },
   {
     "id": "99142959ab903112",
@@ -80,22 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69cf77739a79475d49d5b82b",
     "publishedAt": "2026-04-03T08:31:57.000Z",
-    "createdAt": "2026-04-03T10:49:57.183Z",
-    "updatedAt": "2026-04-03T10:49:57.183Z"
-  },
-  {
-    "id": "a2c21b09fb59e22e",
-    "title": "Лучшего бомбардира ЧМ-2014 госпитализировали после матча сборных",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/2/37/347752027334372.jpeg",
-    "teaser": "Лучшего бомбардира ЧМ-2014 госпитализировали после матча сборных",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69cf69aa9a79476edaeb555a",
-    "publishedAt": "2026-04-03T08:27:53.000Z",
-    "createdAt": "2026-04-03T10:49:59.169Z",
-    "updatedAt": "2026-04-03T10:49:59.169Z"
+    "createdAt": "2026-04-03T11:41:12.753Z",
+    "updatedAt": "2026-04-03T11:41:12.753Z"
   },
   {
     "id": "1e821400b2ef6ae6",
@@ -108,35 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69cf6e9b9a7947479be392e6",
     "publishedAt": "2026-04-03T08:05:58.000Z",
-    "createdAt": "2026-04-03T10:49:58.162Z",
-    "updatedAt": "2026-04-03T10:49:58.162Z"
-  },
-  {
-    "id": "e0606aef35747076",
-    "title": "Один из лучших клубов в истории НХЛ впервые за 10 лет не попал в плей-офф",
-    "sport": "Хоккей",
-    "category": "Хоккей",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/6/70/347752010586706.jpeg",
-    "teaser": "Один из лучших клубов в истории НХЛ впервые за 10 лет не попал в плей-офф",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69cf6af69a7947a7416229c1",
-    "publishedAt": "2026-04-03T07:52:05.000Z",
-    "createdAt": "2026-04-03T10:50:00.192Z",
-    "updatedAt": "2026-04-03T10:50:00.192Z"
-  },
-  {
-    "id": "33c45ef5bde42da1",
-    "title": "Россиянин повторил достижение Кучерова по сезонам с 40 голами в НХЛ",
-    "sport": "Хоккей",
-    "category": "Хоккей",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/8/99/347751997831998.jpeg",
-    "teaser": "Россиянин повторил достижение Кучерова по сезонам с 40 голами в НХЛ",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69cf61a19a79474e91e35fe1",
-    "publishedAt": "2026-04-03T07:40:53.000Z",
-    "createdAt": "2026-04-03T10:50:01.219Z",
-    "updatedAt": "2026-04-03T10:50:01.219Z"
+    "createdAt": "2026-04-03T11:41:13.692Z",
+    "updatedAt": "2026-04-03T11:41:13.692Z"
   }
 ]
