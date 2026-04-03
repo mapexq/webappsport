@@ -1,5 +1,89 @@
 [
   {
+    "id": "4eb869b9530655e8",
+    "title": "Смолов рассказал, при каких обстоятельствах может возобновить карьеру",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/9/57/347752260330579.jpeg",
+    "teaser": "Смолов рассказал, при каких обстоятельствах может возобновить карьеру",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69cfc9ac9a79470b4e52ffa9",
+    "publishedAt": "2026-04-03T14:32:39.000Z",
+    "createdAt": "2026-04-03T14:50:37.891Z",
+    "updatedAt": "2026-04-03T14:50:37.891Z"
+  },
+  {
+    "id": "cc0eb574473ce135",
+    "title": "Петросян рассказала про свои эмоции после неудачного проката на ОИ",
+    "sport": "Другое",
+    "category": "Фигурное катание",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/8/66/347752260485668.jpeg",
+    "teaser": "Петросян рассказала про свои эмоции после неудачного проката на ОИ",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69cfc0d59a794745d5b75746",
+    "publishedAt": "2026-04-03T14:31:20.000Z",
+    "createdAt": "2026-04-03T14:50:40.102Z",
+    "updatedAt": "2026-04-03T14:50:40.102Z"
+  },
+  {
+    "id": "d563598ee659eb5f",
+    "title": "Смолов рассказал об облегчении после прекращения дела о драке в кафе",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/9/54/347752248245549.jpeg",
+    "teaser": "Смолов рассказал об облегчении после прекращения дела о драке в кафе",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69cfc33d9a7947a83c440a23",
+    "publishedAt": "2026-04-03T14:06:26.000Z",
+    "createdAt": "2026-04-03T14:50:37.087Z",
+    "updatedAt": "2026-04-03T14:50:37.087Z"
+  },
+  {
+    "id": "951702764b65a8ad",
+    "title": "Капитан МЮ повторил рекорд Роналду по наградам «Игрок месяца» в АПЛ",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/6/25/347752236321256.jpeg",
+    "teaser": "Капитан МЮ повторил рекорд Роналду по наградам «Игрок месяца» в АПЛ",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69cfbe4f9a79470cadef921a",
+    "publishedAt": "2026-04-03T14:05:25.000Z",
+    "createdAt": "2026-04-03T14:50:41.098Z",
+    "updatedAt": "2026-04-03T14:50:41.098Z"
+  },
+  {
+    "id": "e4ac4b5ea5325c2e",
+    "title": "Судья прекратил дело против Смолова за драку в «Кофемании»",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/7/65/347752147878657.jpeg",
+    "teaser": "Судья прекратил дело против Смолова за драку в «Кофемании»",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69cfa0829a79477ec6a57dc3",
+    "publishedAt": "2026-04-03T13:22:33.000Z",
+    "createdAt": "2026-04-03T14:50:39.112Z",
+    "updatedAt": "2026-04-03T14:50:39.112Z"
+  },
+  {
+    "id": "222c1689f263bb5f",
+    "title": "Петросян сравнила уровень российских соревнований и Олимпиады",
+    "sport": "Другое",
+    "category": "Фигурное катание",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/8/17/347752211292178.jpeg",
+    "teaser": "Петросян сравнила уровень российских соревнований и Олимпиады",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69cfb8f89a794726eb3dfbb0",
+    "publishedAt": "2026-04-03T13:18:41.000Z",
+    "createdAt": "2026-04-03T14:50:42.020Z",
+    "updatedAt": "2026-04-03T14:50:42.020Z"
+  },
+  {
     "id": "cb59d6404d0952d0",
     "title": "Клуб КХЛ решил оставить тренера после вылета в первом раунде плей-офф",
     "sport": "Хоккей",
@@ -10,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69cfacf59a794711e725f301",
     "publishedAt": "2026-04-03T13:04:30.000Z",
-    "createdAt": "2026-04-03T13:16:03.585Z",
-    "updatedAt": "2026-04-03T13:16:03.585Z"
+    "createdAt": "2026-04-03T14:50:44.707Z",
+    "updatedAt": "2026-04-03T14:50:44.707Z"
   },
   {
     "id": "28bee67e8e34b485",
@@ -24,8 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69cfa6b19a7947bce3456347",
     "publishedAt": "2026-04-03T12:41:04.000Z",
-    "createdAt": "2026-04-03T13:16:04.548Z",
-    "updatedAt": "2026-04-03T13:16:04.548Z"
+    "createdAt": "2026-04-03T14:50:45.639Z",
+    "updatedAt": "2026-04-03T14:50:45.639Z"
   },
   {
     "id": "440a2f18808838ad",
@@ -38,8 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69cfae479a7947d604d14932",
     "publishedAt": "2026-04-03T12:30:05.000Z",
-    "createdAt": "2026-04-03T13:16:02.629Z",
-    "updatedAt": "2026-04-03T13:16:02.629Z"
+    "createdAt": "2026-04-03T14:50:42.946Z",
+    "updatedAt": "2026-04-03T14:50:42.946Z"
   },
   {
     "id": "e5ce7dd79d05c348",
@@ -52,91 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69cfad1c9a79471a02424723",
     "publishedAt": "2026-04-03T12:18:53.000Z",
-    "createdAt": "2026-04-03T13:16:01.551Z",
-    "updatedAt": "2026-04-03T13:16:01.551Z"
-  },
-  {
-    "id": "e410b3e4d9f1a3d3",
-    "title": "Бывший тренер «Зенита» перенес инфаркт",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/4/49/347752121293494.jpeg",
-    "teaser": "Бывший тренер «Зенита» перенес инфаркт",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69cf96399a79472ec4463e55",
-    "publishedAt": "2026-04-03T11:21:39.000Z",
-    "createdAt": "2026-04-03T13:16:05.562Z",
-    "updatedAt": "2026-04-03T13:16:05.562Z"
-  },
-  {
-    "id": "5afafa6dc68551e4",
-    "title": "Большунов впервые за пять гонок остался без золота в финале Кубка России",
-    "sport": "Другое",
-    "category": "Другие",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/6/12/347752128391126.jpeg",
-    "teaser": "Большунов впервые за пять гонок остался без золота в финале Кубка России",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69cf98e39a79473eb4cf8d89",
-    "publishedAt": "2026-04-03T10:56:42.000Z",
-    "createdAt": "2026-04-03T13:16:06.580Z",
-    "updatedAt": "2026-04-03T13:16:06.580Z"
-  },
-  {
-    "id": "1392da0aed4aac69",
-    "title": "У двукратного чемпиона СССР по футболу обнаружили опухоль",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/4/71/347752128234714.jpeg",
-    "teaser": "У двукратного чемпиона СССР по футболу обнаружили опухоль",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69cf90689a7947df9918efa6",
-    "publishedAt": "2026-04-03T10:54:50.000Z",
-    "createdAt": "2026-04-03T13:16:07.627Z",
-    "updatedAt": "2026-04-03T13:16:07.627Z"
-  },
-  {
-    "id": "0f16ba3462e7bd2f",
-    "title": "Клуб Единой лиги ВТБ расторг контракт с американцем из-за каннабиса",
-    "sport": "Баскетбол",
-    "category": "Баскетбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/3/60/347752100243603.jpeg",
-    "teaser": "Клуб Единой лиги ВТБ расторг контракт с американцем из-за каннабиса",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69cf8da59a79476c26887e3d",
-    "publishedAt": "2026-04-03T10:16:14.000Z",
-    "createdAt": "2026-04-03T13:16:08.718Z",
-    "updatedAt": "2026-04-03T13:16:08.718Z"
-  },
-  {
-    "id": "56fc0cbffc2274e1",
-    "title": "Кенийский боксер скончался в больнице после боя",
-    "sport": "Единоборства",
-    "category": "Единоборства",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/6/89/347752053533896.jpeg",
-    "teaser": "Кенийский боксер скончался в больнице после боя",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69cf76e59a79471816dd2caa",
-    "publishedAt": "2026-04-03T10:02:13.000Z",
-    "createdAt": "2026-04-03T13:16:09.740Z",
-    "updatedAt": "2026-04-03T13:16:09.740Z"
-  },
-  {
-    "id": "d7e491b73efebc98",
-    "title": "РФС не согласовал фанатам «Зенита» два баннера на матч со «Спартаком»",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/3/99/347752062549993.jpeg",
-    "teaser": "РФС не согласовал фанатам «Зенита» два баннера на матч со «Спартаком»",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69cf7ea39a794780a5301326",
-    "publishedAt": "2026-04-03T09:33:10.000Z",
-    "createdAt": "2026-04-03T13:16:10.768Z",
-    "updatedAt": "2026-04-03T13:16:10.768Z"
+    "createdAt": "2026-04-03T14:50:43.824Z",
+    "updatedAt": "2026-04-03T14:50:43.824Z"
   }
 ]
