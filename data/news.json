@@ -1,5 +1,61 @@
 [
   {
+    "id": "654a69e499ed5e3f",
+    "title": "«Динамо» упустило победу над аутсайдером РПЛ, выигрывая 2:0 и 3:2",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/1/88/347753186381881.jpeg",
+    "teaser": "«Динамо» упустило победу над аутсайдером РПЛ, выигрывая 2:0 и 3:2",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69d136129a79471b210f3bd5",
+    "publishedAt": "2026-04-04T16:30:19.000Z",
+    "createdAt": "2026-04-04T16:42:19.707Z",
+    "updatedAt": "2026-04-04T16:42:19.707Z"
+  },
+  {
+    "id": "cef25cd9f35200d2",
+    "title": "«Реал» впервые за три года проиграл «Мальорке»",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/3/48/347753183677483.jpeg",
+    "teaser": "«Реал» впервые за три года проиграл «Мальорке»",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69d135229a79475981edcf51",
+    "publishedAt": "2026-04-04T16:13:45.000Z",
+    "createdAt": "2026-04-04T16:42:20.719Z",
+    "updatedAt": "2026-04-04T16:42:20.719Z"
+  },
+  {
+    "id": "acf1738a3f4e23ae",
+    "title": "«Бавария» выиграла матч чемпионата Германии, уступая 0:2 до 81-й минуты",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/3/68/347753175329683.jpeg",
+    "teaser": "«Бавария» выиграла матч чемпионата Германии, уступая 0:2 до 81-й минуты",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69d131b99a7947554728f2c3",
+    "publishedAt": "2026-04-04T15:53:09.000Z",
+    "createdAt": "2026-04-04T16:42:21.606Z",
+    "updatedAt": "2026-04-04T16:42:21.606Z"
+  },
+  {
+    "id": "3d9960b056486ca6",
+    "title": "Форвард «Спартака» пропустит дерби из-за праздника выхода ДР Конго на ЧМ",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/7/61/347753165458617.jpeg",
+    "teaser": "Форвард «Спартака» пропустит дерби из-за праздника выхода ДР Конго на ЧМ",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69d12e139a79474bcb78f9aa",
+    "publishedAt": "2026-04-04T15:41:37.000Z",
+    "createdAt": "2026-04-04T16:42:22.691Z",
+    "updatedAt": "2026-04-04T16:42:22.691Z"
+  },
+  {
     "id": "fe1fa6482b37c0fd",
     "title": "Аргентинец в 36 лет впервые вышел в финал турнира ATP и побил рекорд",
     "sport": "Теннис",
@@ -10,8 +66,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69d1255d9a794723cd3f9806",
     "publishedAt": "2026-04-04T15:02:21.000Z",
-    "createdAt": "2026-04-04T15:37:47.782Z",
-    "updatedAt": "2026-04-04T15:37:47.782Z"
+    "createdAt": "2026-04-04T16:42:24.690Z",
+    "updatedAt": "2026-04-04T16:42:24.690Z"
   },
   {
     "id": "d1f04a5d4d3de3c1",
@@ -24,8 +80,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69d123949a794777b1856f56",
     "publishedAt": "2026-04-04T14:49:15.000Z",
-    "createdAt": "2026-04-04T15:37:46.696Z",
-    "updatedAt": "2026-04-04T15:37:46.696Z"
+    "createdAt": "2026-04-04T16:42:23.580Z",
+    "updatedAt": "2026-04-04T16:42:23.580Z"
   },
   {
     "id": "1bcb8192bb129e13",
@@ -38,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69d115c09a7947192b066630",
     "publishedAt": "2026-04-04T14:11:11.000Z",
-    "createdAt": "2026-04-04T15:37:48.854Z",
-    "updatedAt": "2026-04-04T15:37:48.854Z"
+    "createdAt": "2026-04-04T16:42:25.664Z",
+    "updatedAt": "2026-04-04T16:42:25.664Z"
   },
   {
     "id": "1e4c29399af5d9d6",
@@ -52,8 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69d110199a7947cffad262f7",
     "publishedAt": "2026-04-04T13:36:24.000Z",
-    "createdAt": "2026-04-04T15:37:50.383Z",
-    "updatedAt": "2026-04-04T15:37:50.383Z"
+    "createdAt": "2026-04-04T16:42:26.728Z",
+    "updatedAt": "2026-04-04T16:42:26.728Z"
   },
   {
     "id": "d4e8a8e30f63a745",
@@ -66,8 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69d10eae9a79478514ae584c",
     "publishedAt": "2026-04-04T13:18:45.000Z",
-    "createdAt": "2026-04-04T15:37:51.508Z",
-    "updatedAt": "2026-04-04T15:37:51.508Z"
+    "createdAt": "2026-04-04T16:42:27.699Z",
+    "updatedAt": "2026-04-04T16:42:27.699Z"
   },
   {
     "id": "88555c3e6e14e5f4",
@@ -80,63 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69d109cd9a79472e58307f0c",
     "publishedAt": "2026-04-04T13:02:21.000Z",
-    "createdAt": "2026-04-04T15:37:52.645Z",
-    "updatedAt": "2026-04-04T15:37:52.645Z"
-  },
-  {
-    "id": "12df8f0a273f550a",
-    "title": "Юран возглавит клуб из высшего дивизиона чемпионата Турции",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/9/98/347753049180989.jpeg",
-    "teaser": "Юран возглавит клуб из высшего дивизиона чемпионата Турции",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69d1009a9a794778ca14b924",
-    "publishedAt": "2026-04-04T12:22:15.000Z",
-    "createdAt": "2026-04-04T15:37:53.842Z",
-    "updatedAt": "2026-04-04T15:37:53.842Z"
-  },
-  {
-    "id": "079420989d0b4442",
-    "title": "ЦСКА вырвал победу у «Акрона», несмотря на гол Дзюбы",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/9/37/347753027322379.jpeg",
-    "teaser": "ЦСКА вырвал победу у «Акрона», несмотря на гол Дзюбы",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69d0f7ef9a79479956cdad6e",
-    "publishedAt": "2026-04-04T11:58:47.000Z",
-    "createdAt": "2026-04-04T15:37:54.972Z",
-    "updatedAt": "2026-04-04T15:37:54.972Z"
-  },
-  {
-    "id": "6a9ff61581a4da31",
-    "title": "Французское RFI назвало «позором» ошибку Сафонова в матче с «Тулузой»",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/3/17/347753013570173.jpeg",
-    "teaser": "Французское RFI назвало «позором» ошибку Сафонова в матче с «Тулузой»",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69d0f2b49a7947749b0047f8",
-    "publishedAt": "2026-04-04T11:24:39.000Z",
-    "createdAt": "2026-04-04T15:37:56.116Z",
-    "updatedAt": "2026-04-04T15:37:56.116Z"
-  },
-  {
-    "id": "d1b4e77a2dc2e45d",
-    "title": "В РПЛ впервые забили гол после углового, назначенного по новым правилам",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/9/66/347753000998669.jpeg",
-    "teaser": "В РПЛ впервые забили гол после углового, назначенного по новым правилам",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69d0ed839a794765500b9267",
-    "publishedAt": "2026-04-04T11:02:08.000Z",
-    "createdAt": "2026-04-04T15:37:57.210Z",
-    "updatedAt": "2026-04-04T15:37:57.210Z"
+    "createdAt": "2026-04-04T16:42:28.831Z",
+    "updatedAt": "2026-04-04T16:42:28.831Z"
   }
 ]
