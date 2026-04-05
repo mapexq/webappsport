@@ -1,5 +1,33 @@
 [
   {
+    "id": "038009f72893d6af",
+    "title": "«Спартак» впервые с 2020 года победил «Локомотив», пропустив первым",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/9/16/347754132889169.png",
+    "teaser": "«Спартак» впервые с 2020 года победил «Локомотив», пропустив первым",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69d2a6109a7947637a05eac6",
+    "publishedAt": "2026-04-05T18:32:21.000Z",
+    "createdAt": "2026-04-05T18:53:58.246Z",
+    "updatedAt": "2026-04-05T18:53:58.246Z"
+  },
+  {
+    "id": "4767799dbed3bb78",
+    "title": "Российский гроссмейстер потерпел третье поражение на турнире претендентов",
+    "sport": "Другое",
+    "category": "Другие",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/3/87/347754108171873.png",
+    "teaser": "Российский гроссмейстер потерпел третье поражение на турнире претендентов",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69d29d5d9a79475a79c36fa6",
+    "publishedAt": "2026-04-05T18:11:22.000Z",
+    "createdAt": "2026-04-05T18:53:59.319Z",
+    "updatedAt": "2026-04-05T18:53:59.319Z"
+  },
+  {
     "id": "703609523607f4e2",
     "title": "Клуб НХЛ с одним из лучших российских вратарей уволил главного тренера",
     "sport": "Хоккей",
@@ -10,8 +38,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69d296ae9a7947bd27ea1b2d",
     "publishedAt": "2026-04-05T17:25:24.000Z",
-    "createdAt": "2026-04-05T17:37:44.069Z",
-    "updatedAt": "2026-04-05T17:37:44.069Z"
+    "createdAt": "2026-04-05T18:54:01.748Z",
+    "updatedAt": "2026-04-05T18:54:01.748Z"
   },
   {
     "id": "f5ce37ed9ffcb80c",
@@ -24,8 +52,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69d286f79a79470bfacc4517",
     "publishedAt": "2026-04-05T16:46:52.000Z",
-    "createdAt": "2026-04-05T17:37:43.114Z",
-    "updatedAt": "2026-04-05T17:37:43.115Z"
+    "createdAt": "2026-04-05T18:54:00.732Z",
+    "updatedAt": "2026-04-05T18:54:00.732Z"
   },
   {
     "id": "715aa636a6f1a5d3",
@@ -38,8 +66,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69d280319a7947e76bfb16d1",
     "publishedAt": "2026-04-05T15:55:06.000Z",
-    "createdAt": "2026-04-05T17:37:44.997Z",
-    "updatedAt": "2026-04-05T17:37:44.997Z"
+    "createdAt": "2026-04-05T18:54:02.705Z",
+    "updatedAt": "2026-04-05T18:54:02.705Z"
   },
   {
     "id": "7d30fa07aadb0286",
@@ -52,8 +80,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69d2792a9a7947ae68df3c06",
     "publishedAt": "2026-04-05T15:28:22.000Z",
-    "createdAt": "2026-04-05T17:37:46.480Z",
-    "updatedAt": "2026-04-05T17:37:46.480Z"
+    "createdAt": "2026-04-05T18:54:03.776Z",
+    "updatedAt": "2026-04-05T18:54:03.776Z"
   },
   {
     "id": "8fd2b32ab273bd14",
@@ -66,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69d271789a79474c7c7c99c3",
     "publishedAt": "2026-04-05T14:41:19.000Z",
-    "createdAt": "2026-04-05T17:37:48.511Z",
-    "updatedAt": "2026-04-05T17:37:48.511Z"
+    "createdAt": "2026-04-05T18:54:05.908Z",
+    "updatedAt": "2026-04-05T18:54:05.908Z"
   },
   {
     "id": "2729bb3d4294cf98",
@@ -80,8 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69d2624a9a794718e29799b2",
     "publishedAt": "2026-04-05T13:43:18.000Z",
-    "createdAt": "2026-04-05T17:37:47.487Z",
-    "updatedAt": "2026-04-05T17:37:47.487Z"
+    "createdAt": "2026-04-05T18:54:04.852Z",
+    "updatedAt": "2026-04-05T18:54:04.852Z"
   },
   {
     "id": "dbaf5ad57fa222e3",
@@ -94,8 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69d25dcc9a79474c65af1d57",
     "publishedAt": "2026-04-05T13:12:37.000Z",
-    "createdAt": "2026-04-05T17:37:49.625Z",
-    "updatedAt": "2026-04-05T17:37:49.625Z"
+    "createdAt": "2026-04-05T18:54:06.986Z",
+    "updatedAt": "2026-04-05T18:54:06.986Z"
   },
   {
     "id": "38eef199caa0965f",
@@ -108,35 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69d2507d9a79471b999afa8b",
     "publishedAt": "2026-04-05T13:01:54.000Z",
-    "createdAt": "2026-04-05T17:37:50.680Z",
-    "updatedAt": "2026-04-05T17:37:50.680Z"
-  },
-  {
-    "id": "be3d9c161868ef12",
-    "title": "Состояние экс-тренера «Зенита» Луческу ухудшилось после инфаркта",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/3/77/347753893603773.jpeg",
-    "teaser": "Состояние экс-тренера «Зенита» Луческу ухудшилось после инфаркта",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69d24aa09a79472a6ff5075d",
-    "publishedAt": "2026-04-05T11:59:34.000Z",
-    "createdAt": "2026-04-05T17:37:51.660Z",
-    "updatedAt": "2026-04-05T17:37:51.660Z"
-  },
-  {
-    "id": "99b123b50b7eb75c",
-    "title": "Овечкин в 40 лет сделал самый быстрый ассистентский дубль в карьере",
-    "sport": "Хоккей",
-    "category": "Хоккей",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/1/94/347753863183941.jpeg",
-    "teaser": "Овечкин в 40 лет сделал самый быстрый ассистентский дубль в карьере",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69d2332a9a79476aeeabb943",
-    "publishedAt": "2026-04-05T11:14:16.000Z",
-    "createdAt": "2026-04-05T17:37:52.727Z",
-    "updatedAt": "2026-04-05T17:37:52.727Z"
+    "createdAt": "2026-04-05T18:54:08.086Z",
+    "updatedAt": "2026-04-05T18:54:08.086Z"
   }
 ]
