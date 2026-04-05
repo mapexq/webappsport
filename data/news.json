@@ -1,17 +1,31 @@
 [
   {
-    "id": "038009f72893d6af",
-    "title": "«Спартак» впервые с 2020 года победил «Локомотив», пропустив первым",
+    "id": "e0bd7139b787dcbd",
+    "title": "Стали известны полуфинальные пары Кубка Англии",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/9/98/347754151090989.png",
+    "teaser": "Стали известны полуфинальные пары Кубка Англии",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69d2aee99a7947e12cc7e9b9",
+    "publishedAt": "2026-04-05T19:08:37.000Z",
+    "createdAt": "2026-04-05T19:38:03.494Z",
+    "updatedAt": "2026-04-05T19:38:03.494Z"
+  },
+  {
+    "id": "497d7c51d85ab1a3",
+    "title": "«Спартак» впервые с 2020 года одержал волевую победу над «Локомотивом»",
     "sport": "Футбол",
     "category": "Футбол",
     "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/9/16/347754132889169.png",
-    "teaser": "«Спартак» впервые с 2020 года победил «Локомотив», пропустив первым",
+    "teaser": "«Спартак» впервые с 2020 года одержал волевую победу над «Локомотивом»",
     "fullContent": "",
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69d2a6109a7947637a05eac6",
     "publishedAt": "2026-04-05T18:32:21.000Z",
-    "createdAt": "2026-04-05T18:53:58.246Z",
-    "updatedAt": "2026-04-05T18:53:58.246Z"
+    "createdAt": "2026-04-05T19:38:01.674Z",
+    "updatedAt": "2026-04-05T19:38:01.674Z"
   },
   {
     "id": "4767799dbed3bb78",
@@ -24,8 +38,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69d29d5d9a79475a79c36fa6",
     "publishedAt": "2026-04-05T18:11:22.000Z",
-    "createdAt": "2026-04-05T18:53:59.319Z",
-    "updatedAt": "2026-04-05T18:53:59.319Z"
+    "createdAt": "2026-04-05T19:38:04.564Z",
+    "updatedAt": "2026-04-05T19:38:04.564Z"
   },
   {
     "id": "703609523607f4e2",
@@ -38,8 +52,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69d296ae9a7947bd27ea1b2d",
     "publishedAt": "2026-04-05T17:25:24.000Z",
-    "createdAt": "2026-04-05T18:54:01.748Z",
-    "updatedAt": "2026-04-05T18:54:01.748Z"
+    "createdAt": "2026-04-05T19:38:06.687Z",
+    "updatedAt": "2026-04-05T19:38:06.687Z"
   },
   {
     "id": "f5ce37ed9ffcb80c",
@@ -52,8 +66,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69d286f79a79470bfacc4517",
     "publishedAt": "2026-04-05T16:46:52.000Z",
-    "createdAt": "2026-04-05T18:54:00.732Z",
-    "updatedAt": "2026-04-05T18:54:00.732Z"
+    "createdAt": "2026-04-05T19:38:05.605Z",
+    "updatedAt": "2026-04-05T19:38:05.605Z"
   },
   {
     "id": "715aa636a6f1a5d3",
@@ -66,8 +80,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69d280319a7947e76bfb16d1",
     "publishedAt": "2026-04-05T15:55:06.000Z",
-    "createdAt": "2026-04-05T18:54:02.705Z",
-    "updatedAt": "2026-04-05T18:54:02.705Z"
+    "createdAt": "2026-04-05T19:38:08.129Z",
+    "updatedAt": "2026-04-05T19:38:08.129Z"
   },
   {
     "id": "7d30fa07aadb0286",
@@ -80,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69d2792a9a7947ae68df3c06",
     "publishedAt": "2026-04-05T15:28:22.000Z",
-    "createdAt": "2026-04-05T18:54:03.776Z",
-    "updatedAt": "2026-04-05T18:54:03.776Z"
+    "createdAt": "2026-04-05T19:38:09.179Z",
+    "updatedAt": "2026-04-05T19:38:09.179Z"
   },
   {
     "id": "8fd2b32ab273bd14",
@@ -94,8 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69d271789a79474c7c7c99c3",
     "publishedAt": "2026-04-05T14:41:19.000Z",
-    "createdAt": "2026-04-05T18:54:05.908Z",
-    "updatedAt": "2026-04-05T18:54:05.908Z"
+    "createdAt": "2026-04-05T19:38:11.312Z",
+    "updatedAt": "2026-04-05T19:38:11.312Z"
   },
   {
     "id": "2729bb3d4294cf98",
@@ -108,8 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69d2624a9a794718e29799b2",
     "publishedAt": "2026-04-05T13:43:18.000Z",
-    "createdAt": "2026-04-05T18:54:04.852Z",
-    "updatedAt": "2026-04-05T18:54:04.852Z"
+    "createdAt": "2026-04-05T19:38:10.257Z",
+    "updatedAt": "2026-04-05T19:38:10.257Z"
   },
   {
     "id": "dbaf5ad57fa222e3",
@@ -122,21 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69d25dcc9a79474c65af1d57",
     "publishedAt": "2026-04-05T13:12:37.000Z",
-    "createdAt": "2026-04-05T18:54:06.986Z",
-    "updatedAt": "2026-04-05T18:54:06.986Z"
-  },
-  {
-    "id": "38eef199caa0965f",
-    "title": "Женщина родила ребенка на арене во время матча НХЛ",
-    "sport": "Хоккей",
-    "category": "Хоккей",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/2/70/347753931052702.jpeg",
-    "teaser": "Женщина родила ребенка на арене во время матча НХЛ",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69d2507d9a79471b999afa8b",
-    "publishedAt": "2026-04-05T13:01:54.000Z",
-    "createdAt": "2026-04-05T18:54:08.086Z",
-    "updatedAt": "2026-04-05T18:54:08.086Z"
+    "createdAt": "2026-04-05T19:38:12.364Z",
+    "updatedAt": "2026-04-05T19:38:12.364Z"
   }
 ]
