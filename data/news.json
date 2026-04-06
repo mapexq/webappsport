@@ -1,5 +1,61 @@
 [
   {
+    "id": "ccb63ab8743054df",
+    "title": "Болельщик умер во время футбольного матча Первой лиги в Туле",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "/images/news-placeholder.jpg",
+    "teaser": "Болельщик умер во время футбольного матча Первой лиги в Туле",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69d3bd759a79472937f02bb4",
+    "publishedAt": "2026-04-06T14:32:21.000Z",
+    "createdAt": "2026-04-06T14:54:58.890Z",
+    "updatedAt": "2026-04-06T14:54:58.890Z"
+  },
+  {
+    "id": "89ab24106d555400",
+    "title": "Ла Лига подаст жалобу на фанатов «Севильи» за пожелания смерти команде",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/0/46/347754833482460.jpeg",
+    "teaser": "Ла Лига подаст жалобу на фанатов «Севильи» за пожелания смерти команде",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69d3b5439a794752e36ca7c2",
+    "publishedAt": "2026-04-06T14:15:41.000Z",
+    "createdAt": "2026-04-06T14:54:59.905Z",
+    "updatedAt": "2026-04-06T14:54:59.905Z"
+  },
+  {
+    "id": "25166db4caf1d3e8",
+    "title": "«Авангард» продлил контракт с одним из лидеров",
+    "sport": "Хоккей",
+    "category": "Хоккей",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/4/56/347754839747564.jpeg",
+    "teaser": "«Авангард» продлил контракт с одним из лидеров",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69d3b9599a79475daf3dada8",
+    "publishedAt": "2026-04-06T14:11:54.000Z",
+    "createdAt": "2026-04-06T14:55:01.966Z",
+    "updatedAt": "2026-04-06T14:55:01.966Z"
+  },
+  {
+    "id": "d5456001da4b1f74",
+    "title": "Фанаты «Зенита» отказались от мата в адрес «Спартака» в Страстную неделю",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/9/56/347754824131569.jpeg",
+    "teaser": "Фанаты «Зенита» отказались от мата в адрес «Спартака» в Страстную неделю",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69d3ae3c9a79470346af09ec",
+    "publishedAt": "2026-04-06T13:48:59.000Z",
+    "createdAt": "2026-04-06T14:55:00.905Z",
+    "updatedAt": "2026-04-06T14:55:00.905Z"
+  },
+  {
     "id": "30c85053edb43450",
     "title": "Рублев рассказал о победе на «лошадиной» дозе обезболивающих",
     "sport": "Теннис",
@@ -10,8 +66,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69d3a94a9a79472f96766752",
     "publishedAt": "2026-04-06T13:16:40.000Z",
-    "createdAt": "2026-04-06T13:22:36.167Z",
-    "updatedAt": "2026-04-06T13:22:36.167Z"
+    "createdAt": "2026-04-06T14:55:04.024Z",
+    "updatedAt": "2026-04-06T14:55:04.024Z"
   },
   {
     "id": "b02fa02fd57e6510",
@@ -24,8 +80,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69d39eaa9a7947755a7706e1",
     "publishedAt": "2026-04-06T12:40:13.000Z",
-    "createdAt": "2026-04-06T13:22:37.158Z",
-    "updatedAt": "2026-04-06T13:22:37.158Z"
+    "createdAt": "2026-04-06T14:55:05.075Z",
+    "updatedAt": "2026-04-06T14:55:05.075Z"
   },
   {
     "id": "6ecd34d5fcd25c15",
@@ -38,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69d395279a794795a8a4d9c7",
     "publishedAt": "2026-04-06T12:06:11.000Z",
-    "createdAt": "2026-04-06T13:22:35.224Z",
-    "updatedAt": "2026-04-06T13:22:35.225Z"
+    "createdAt": "2026-04-06T14:55:02.992Z",
+    "updatedAt": "2026-04-06T14:55:02.992Z"
   },
   {
     "id": "5b92602e7239cc2c",
@@ -52,8 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69d386b79a7947b8e3edb0f7",
     "publishedAt": "2026-04-06T11:14:16.000Z",
-    "createdAt": "2026-04-06T13:22:39.179Z",
-    "updatedAt": "2026-04-06T13:22:39.179Z"
+    "createdAt": "2026-04-06T14:55:07.137Z",
+    "updatedAt": "2026-04-06T14:55:07.137Z"
   },
   {
     "id": "c95277ee566a0e23",
@@ -66,8 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69d388179a794714b3c1e3d2",
     "publishedAt": "2026-04-06T11:09:13.000Z",
-    "createdAt": "2026-04-06T13:22:40.160Z",
-    "updatedAt": "2026-04-06T13:22:40.160Z"
+    "createdAt": "2026-04-06T14:55:08.175Z",
+    "updatedAt": "2026-04-06T14:55:08.175Z"
   },
   {
     "id": "13283359cb5c6286",
@@ -80,63 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69d385709a794709a6e4bd23",
     "publishedAt": "2026-04-06T10:37:18.000Z",
-    "createdAt": "2026-04-06T13:22:38.164Z",
-    "updatedAt": "2026-04-06T13:22:38.164Z"
-  },
-  {
-    "id": "9b286eef348a55db",
-    "title": "В московском «Динамо» ответили на вопрос о назначении Ротенберга тренером",
-    "sport": "Хоккей",
-    "category": "Хоккей",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/7/43/347754696372437.jpeg",
-    "teaser": "В московском «Динамо» ответили на вопрос о назначении Ротенберга тренером",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69d37cfd9a7947406ffc9fc4",
-    "publishedAt": "2026-04-06T10:12:56.000Z",
-    "createdAt": "2026-04-06T13:22:41.093Z",
-    "updatedAt": "2026-04-06T13:22:41.093Z"
-  },
-  {
-    "id": "a3108be49c135823",
-    "title": "В РПЛ опровергли угрозу срыва матча «Сочи» — «Рубин»",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/2/41/347754682748412.png",
-    "teaser": "В РПЛ опровергли угрозу срыва матча «Сочи» — «Рубин»",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69d37e199a79470131334927",
-    "publishedAt": "2026-04-06T09:57:19.000Z",
-    "createdAt": "2026-04-06T13:22:42.002Z",
-    "updatedAt": "2026-04-06T13:22:42.002Z"
-  },
-  {
-    "id": "83d12c4752cdc490",
-    "title": "Семь футболистов африканской сборной пропали в ЮАР",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/0/17/347754639600170.jpeg",
-    "teaser": "Семь футболистов африканской сборной пропали в ЮАР",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69d36a039a7947194343c33a",
-    "publishedAt": "2026-04-06T08:37:03.000Z",
-    "createdAt": "2026-04-06T13:22:42.992Z",
-    "updatedAt": "2026-04-06T13:22:42.992Z"
-  },
-  {
-    "id": "73ecd5eaf425da99",
-    "title": "Российские теннисисты Рублев и Хачанов поднялись в рейтинге ATP",
-    "sport": "Теннис",
-    "category": "Теннис",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/6/42/347754616862426.jpeg",
-    "teaser": "Российские теннисисты Рублев и Хачанов поднялись в рейтинге ATP",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69d361469a79472a798f5c71",
-    "publishedAt": "2026-04-06T07:58:14.000Z",
-    "createdAt": "2026-04-06T13:22:44.008Z",
-    "updatedAt": "2026-04-06T13:22:44.008Z"
+    "createdAt": "2026-04-06T14:55:06.090Z",
+    "updatedAt": "2026-04-06T14:55:06.090Z"
   }
 ]
