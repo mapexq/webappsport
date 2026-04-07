@@ -1,5 +1,47 @@
 [
   {
+    "id": "1c95f03252e564a0",
+    "title": "ЦСКА досрочно выиграл регулярный чемпионат баскетбольной Единой лиги ВТБ",
+    "sport": "Баскетбол",
+    "category": "Баскетбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/6/89/347755903408896.jpeg",
+    "teaser": "ЦСКА досрочно выиграл регулярный чемпионат баскетбольной Единой лиги ВТБ",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69d5566d9a7947664bda8b76",
+    "publishedAt": "2026-04-07T19:46:43.000Z",
+    "createdAt": "2026-04-07T20:55:01.550Z",
+    "updatedAt": "2026-04-07T20:55:01.550Z"
+  },
+  {
+    "id": "aa4636651ea38f48",
+    "title": "В Федерации футбола Румынии назвали смерть Луческу черным днем для страны",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/4/26/347755886598264.jpeg",
+    "teaser": "В Федерации футбола Румынии назвали смерть Луческу черным днем для страны",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69d550a69a79476f4cefaedd",
+    "publishedAt": "2026-04-07T19:07:42.000Z",
+    "createdAt": "2026-04-07T20:55:02.617Z",
+    "updatedAt": "2026-04-07T20:55:02.617Z"
+  },
+  {
+    "id": "c738e68c04b77a98",
+    "title": "«Атлетико» — «Барселона»: где смотреть ответный матч 1/4 финала ЛЧ",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/5/29/347749439413295.jpeg",
+    "teaser": "«Атлетико» — «Барселона»: где смотреть ответный матч 1/4 финала ЛЧ",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69cb7eb39a794728fee42a50",
+    "publishedAt": "2026-04-07T19:00:00.000Z",
+    "createdAt": "2026-04-07T20:55:04.500Z",
+    "updatedAt": "2026-04-07T20:55:04.501Z"
+  },
+  {
     "id": "034802364448a66a",
     "title": "Суперкомпьютер оценил шансы четвертьфиналистов Лиги чемпионов",
     "sport": "Футбол",
@@ -10,8 +52,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69d545229a7947f578eaa1f6",
     "publishedAt": "2026-04-07T18:35:05.000Z",
-    "createdAt": "2026-04-07T19:13:01.813Z",
-    "updatedAt": "2026-04-07T19:13:01.814Z"
+    "createdAt": "2026-04-07T20:55:06.601Z",
+    "updatedAt": "2026-04-07T20:55:06.601Z"
   },
   {
     "id": "7d8360277bb6e4e3",
@@ -24,8 +66,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69d546a89a794795164c4c18",
     "publishedAt": "2026-04-07T18:09:26.000Z",
-    "createdAt": "2026-04-07T19:13:00.796Z",
-    "updatedAt": "2026-04-07T19:13:00.796Z"
+    "createdAt": "2026-04-07T20:55:05.552Z",
+    "updatedAt": "2026-04-07T20:55:05.552Z"
   },
   {
     "id": "bfac5dabb55f2a59",
@@ -38,8 +80,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69d532599a7947f12926a4cb",
     "publishedAt": "2026-04-07T17:10:08.000Z",
-    "createdAt": "2026-04-07T19:13:03.805Z",
-    "updatedAt": "2026-04-07T19:13:03.805Z"
+    "createdAt": "2026-04-07T20:55:07.699Z",
+    "updatedAt": "2026-04-07T20:55:07.699Z"
   },
   {
     "id": "f80299d5dd18b113",
@@ -52,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69d5310b9a7947d62d5bc83d",
     "publishedAt": "2026-04-07T17:08:10.000Z",
-    "createdAt": "2026-04-07T19:13:02.781Z",
-    "updatedAt": "2026-04-07T19:13:02.781Z"
+    "createdAt": "2026-04-07T20:55:08.767Z",
+    "updatedAt": "2026-04-07T20:55:08.767Z"
   },
   {
     "id": "f15aea59fe5100c0",
@@ -66,8 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69cb80c59a79474166967afc",
     "publishedAt": "2026-04-07T16:45:00.000Z",
-    "createdAt": "2026-04-07T19:13:05.628Z",
-    "updatedAt": "2026-04-07T19:13:05.628Z"
+    "createdAt": "2026-04-07T20:55:10.686Z",
+    "updatedAt": "2026-04-07T20:55:10.686Z"
   },
   {
     "id": "ece55e5c9bb3c02c",
@@ -80,8 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69d529e29a7947c43ce1bb24",
     "publishedAt": "2026-04-07T16:36:52.000Z",
-    "createdAt": "2026-04-07T19:13:06.665Z",
-    "updatedAt": "2026-04-07T19:13:06.665Z"
+    "createdAt": "2026-04-07T20:55:11.714Z",
+    "updatedAt": "2026-04-07T20:55:11.714Z"
   },
   {
     "id": "d035bfd31360213c",
@@ -94,49 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69d523fd9a794756320490e9",
     "publishedAt": "2026-04-07T15:59:53.000Z",
-    "createdAt": "2026-04-07T19:13:07.842Z",
-    "updatedAt": "2026-04-07T19:13:07.842Z"
-  },
-  {
-    "id": "bff46ba70881f6e2",
-    "title": "В IBU выразили уверенность в решении по недопуску российских биатлонистов",
-    "sport": "Другое",
-    "category": "Биатлон",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/0/62/347755743993620.jpeg",
-    "teaser": "В IBU выразили уверенность в решении по недопуску российских биатлонистов",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69d518d39a7947d9e35e77ad",
-    "publishedAt": "2026-04-07T15:14:04.000Z",
-    "createdAt": "2026-04-07T19:13:08.850Z",
-    "updatedAt": "2026-04-07T19:13:08.850Z"
-  },
-  {
-    "id": "b0732d459f2ec31e",
-    "title": "В ISU заявили, что срок возвращения российских юниоров пока не определен",
-    "sport": "Другое",
-    "category": "Фигурное катание",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/8/05/347755723514058.jpeg",
-    "teaser": "В ISU заявили, что срок возвращения российских юниоров пока не определен",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69d510bb9a794744b67699d2",
-    "publishedAt": "2026-04-07T14:41:37.000Z",
-    "createdAt": "2026-04-07T19:13:09.909Z",
-    "updatedAt": "2026-04-07T19:13:09.909Z"
-  },
-  {
-    "id": "6d2de43a9473e542",
-    "title": "Сборная России провела первый официальный матч в игровых видах с 2022-го",
-    "sport": "Другое",
-    "category": "Другие",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/4/37/347755719618374.jpeg",
-    "teaser": "Сборная России провела первый официальный матч в игровых видах с 2022-го",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69d512139a79477f53b9de79",
-    "publishedAt": "2026-04-07T14:34:40.000Z",
-    "createdAt": "2026-04-07T19:13:10.955Z",
-    "updatedAt": "2026-04-07T19:13:10.955Z"
+    "createdAt": "2026-04-07T20:55:12.753Z",
+    "updatedAt": "2026-04-07T20:55:12.753Z"
   }
 ]
