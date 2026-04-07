@@ -1,17 +1,73 @@
 [
   {
-    "id": "409d60195ae0e251",
-    "title": "В «Тракторе» заявили о намерении расстаться со всеми легионерами",
+    "id": "431fba730809c02d",
+    "title": "Состоялась первая тренерская отставка в клубе-участнике Кубка Гагарина",
+    "sport": "Хоккей",
+    "category": "Хоккей",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/9/88/347755579357889.png",
+    "teaser": "Состоялась первая тренерская отставка в клубе-участнике Кубка Гагарина",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69d4dadf9a7947302d1f8a99",
+    "publishedAt": "2026-04-07T10:43:02.000Z",
+    "createdAt": "2026-04-07T11:03:00.676Z",
+    "updatedAt": "2026-04-07T11:03:00.676Z"
+  },
+  {
+    "id": "de1c58166a5a86e7",
+    "title": "Тренер подрался с родителем в школе экс-капитана сборной России",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/4/50/347755564703504.png",
+    "teaser": "Тренер подрался с родителем в школе экс-капитана сборной России",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69d4d1fb9a79478f1f9c065c",
+    "publishedAt": "2026-04-07T10:13:21.000Z",
+    "createdAt": "2026-04-07T11:03:01.842Z",
+    "updatedAt": "2026-04-07T11:03:01.842Z"
+  },
+  {
+    "id": "4c1ec33e0ace6fd3",
+    "title": "Гендиректор «Динамо» не исключил возможность возвращения Смолова в клуб",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/2/82/347755530727822.jpeg",
+    "teaser": "Гендиректор «Динамо» не исключил возможность возвращения Смолова в клуб",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69d4bdc29a79474675c292b9",
+    "publishedAt": "2026-04-07T09:49:37.000Z",
+    "createdAt": "2026-04-07T11:03:03.005Z",
+    "updatedAt": "2026-04-07T11:03:03.005Z"
+  },
+  {
+    "id": "20694677d5da2660",
+    "title": "Самый титулованный синхронист в мире взял паузу в карьере ради тренерства",
+    "sport": "Другое",
+    "category": "Другие",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/1/71/347755520447711.jpeg",
+    "teaser": "Самый титулованный синхронист в мире взял паузу в карьере ради тренерства",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69d4c2b59a79476920ae07c2",
+    "publishedAt": "2026-04-07T09:04:46.000Z",
+    "createdAt": "2026-04-07T11:03:04.171Z",
+    "updatedAt": "2026-04-07T11:03:04.171Z"
+  },
+  {
+    "id": "051ef920433d85da",
+    "title": "Клуб КХЛ заявил о намерении расстаться со всеми легионерами",
     "sport": "Хоккей",
     "category": "Хоккей",
     "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/7/05/347755508331057.jpeg",
-    "teaser": "В «Тракторе» заявили о намерении расстаться со всеми легионерами",
+    "teaser": "Клуб КХЛ заявил о намерении расстаться со всеми легионерами",
     "fullContent": "",
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69d4bec29a7947c64807be95",
     "publishedAt": "2026-04-07T08:50:22.000Z",
-    "createdAt": "2026-04-07T09:10:53.913Z",
-    "updatedAt": "2026-04-07T09:10:53.913Z"
+    "createdAt": "2026-04-07T11:03:05.320Z",
+    "updatedAt": "2026-04-07T11:03:05.320Z"
   },
   {
     "id": "1460b54669de2b1e",
@@ -24,8 +80,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69d4b46c9a79477a6190ec06",
     "publishedAt": "2026-04-07T08:23:30.000Z",
-    "createdAt": "2026-04-07T09:10:54.914Z",
-    "updatedAt": "2026-04-07T09:10:54.914Z"
+    "createdAt": "2026-04-07T11:03:06.488Z",
+    "updatedAt": "2026-04-07T11:03:06.488Z"
   },
   {
     "id": "8993fe2d34360c9f",
@@ -38,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69d4ac379a7947ec4a760ba3",
     "publishedAt": "2026-04-07T08:15:40.000Z",
-    "createdAt": "2026-04-07T09:10:56.796Z",
-    "updatedAt": "2026-04-07T09:10:56.796Z"
+    "createdAt": "2026-04-07T11:03:08.576Z",
+    "updatedAt": "2026-04-07T11:03:08.576Z"
   },
   {
     "id": "e8aa942cf81d9134",
@@ -52,8 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69d4a3da9a794776a6d398b8",
     "publishedAt": "2026-04-07T07:21:12.000Z",
-    "createdAt": "2026-04-07T09:10:57.853Z",
-    "updatedAt": "2026-04-07T09:10:57.853Z"
+    "createdAt": "2026-04-07T11:03:09.737Z",
+    "updatedAt": "2026-04-07T11:03:09.737Z"
   },
   {
     "id": "d890836b19c2ac0f",
@@ -66,8 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69d49e559a79472e317acf61",
     "publishedAt": "2026-04-07T06:52:36.000Z",
-    "createdAt": "2026-04-07T09:10:58.904Z",
-    "updatedAt": "2026-04-07T09:10:58.904Z"
+    "createdAt": "2026-04-07T11:03:10.690Z",
+    "updatedAt": "2026-04-07T11:03:10.690Z"
   },
   {
     "id": "bb46a3318c382096",
@@ -80,63 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69d402529a7947731827c0ff",
     "publishedAt": "2026-04-06T20:47:59.000Z",
-    "createdAt": "2026-04-07T09:10:59.949Z",
-    "updatedAt": "2026-04-07T09:10:59.949Z"
-  },
-  {
-    "id": "7309e864679a2f3f",
-    "title": "Олимпийская чемпионка Загитова получила второе высшее образование",
-    "sport": "Другое",
-    "category": "Фигурное катание",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/4/98/347755058736984.jpeg",
-    "teaser": "Олимпийская чемпионка Загитова получила второе высшее образование",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69d4109d9a7947f8d896b3a2",
-    "publishedAt": "2026-04-06T20:43:07.000Z",
-    "createdAt": "2026-04-07T09:11:01.008Z",
-    "updatedAt": "2026-04-07T09:11:01.008Z"
-  },
-  {
-    "id": "38d80150cb6c1464",
-    "title": "Команда Тутберидзе сообщила о проведении ранее отмененного шоу в Астане",
-    "sport": "Другое",
-    "category": "Фигурное катание",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/0/39/347754989984390.jpeg",
-    "teaser": "Команда Тутберидзе сообщила о проведении ранее отмененного шоу в Астане",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69d3f4259a794778c3895466",
-    "publishedAt": "2026-04-06T18:57:28.000Z",
-    "createdAt": "2026-04-07T09:11:02.079Z",
-    "updatedAt": "2026-04-07T09:11:02.079Z"
-  },
-  {
-    "id": "dc5b229787fcfeda",
-    "title": "Клуб НХЛ сообщил о возвращении двух россиян после тяжелых травм",
-    "sport": "Хоккей",
-    "category": "Хоккей",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/5/82/347754985894825.jpeg",
-    "teaser": "Клуб НХЛ сообщил о возвращении двух россиян после тяжелых травм",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69d3f51e9a79470e7d866f86",
-    "publishedAt": "2026-04-06T18:32:37.000Z",
-    "createdAt": "2026-04-07T09:11:03.156Z",
-    "updatedAt": "2026-04-07T09:11:03.156Z"
-  },
-  {
-    "id": "1a04af4117d92b34",
-    "title": "Умер экс-глава WADA, запустивший расследования о допинге в России",
-    "sport": "Другое",
-    "category": "Другие",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/3/82/347754923423823.png",
-    "teaser": "Умер экс-глава WADA, запустивший расследования о допинге в России",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69d3dbdf9a7947bd894119a2",
-    "publishedAt": "2026-04-06T16:46:19.000Z",
-    "createdAt": "2026-04-07T09:11:04.240Z",
-    "updatedAt": "2026-04-07T09:11:04.240Z"
+    "createdAt": "2026-04-07T11:03:11.856Z",
+    "updatedAt": "2026-04-07T11:03:11.856Z"
   }
 ]
