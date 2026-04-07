@@ -1,5 +1,75 @@
 [
   {
+    "id": "b0732d459f2ec31e",
+    "title": "В ISU заявили, что срок возвращения российских юниоров пока не определен",
+    "sport": "Другое",
+    "category": "Фигурное катание",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/8/05/347755723514058.jpeg",
+    "teaser": "В ISU заявили, что срок возвращения российских юниоров пока не определен",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69d510bb9a794744b67699d2",
+    "publishedAt": "2026-04-07T14:41:37.000Z",
+    "createdAt": "2026-04-07T15:15:15.780Z",
+    "updatedAt": "2026-04-07T15:15:15.780Z"
+  },
+  {
+    "id": "98b55c9080027a80",
+    "title": "Сборная России провела первый официальный матч в игровых видах с 2022 г",
+    "sport": "Другое",
+    "category": "Другие",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/4/37/347755719618374.jpeg",
+    "teaser": "Сборная России провела первый официальный матч в игровых видах с 2022 г",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69d512139a79477f53b9de79",
+    "publishedAt": "2026-04-07T14:34:40.000Z",
+    "createdAt": "2026-04-07T15:15:14.706Z",
+    "updatedAt": "2026-04-07T15:15:14.706Z"
+  },
+  {
+    "id": "cf1821d03477eef8",
+    "title": "«Питтсбург» вызвал российского вратаря в основной состав из АХЛ",
+    "sport": "Хоккей",
+    "category": "Хоккей",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/8/30/347755709421308.jpeg",
+    "teaser": "«Питтсбург» вызвал российского вратаря в основной состав из АХЛ",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69d50dd49a794740df593186",
+    "publishedAt": "2026-04-07T14:33:13.000Z",
+    "createdAt": "2026-04-07T15:15:17.912Z",
+    "updatedAt": "2026-04-07T15:15:17.912Z"
+  },
+  {
+    "id": "9d50c36291666502",
+    "title": "Карпин рассказал о своей главной ошибке в тренерской карьере",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/4/48/347755706131484.jpeg",
+    "teaser": "Карпин рассказал о своей главной ошибке в тренерской карьере",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69d50b199a794744158fc302",
+    "publishedAt": "2026-04-07T14:31:52.000Z",
+    "createdAt": "2026-04-07T15:15:16.806Z",
+    "updatedAt": "2026-04-07T15:15:16.806Z"
+  },
+  {
+    "id": "bb08d33296618c65",
+    "title": "Клуб НХЛ запретил болельщику посещать игры за нацистское приветствие",
+    "sport": "Хоккей",
+    "category": "Хоккей",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/7/61/347755699313617.jpeg",
+    "teaser": "Клуб НХЛ запретил болельщику посещать игры за нацистское приветствие",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69d508a29a79472fea4a84d2",
+    "publishedAt": "2026-04-07T14:06:18.000Z",
+    "createdAt": "2026-04-07T15:15:18.860Z",
+    "updatedAt": "2026-04-07T15:15:18.860Z"
+  },
+  {
     "id": "08889560087887ec",
     "title": "Карлсен назвал узбекского шахматиста выдающимся талантом",
     "sport": "Другое",
@@ -10,8 +80,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69d4fdb39a794780af55359c",
     "publishedAt": "2026-04-07T13:32:14.000Z",
-    "createdAt": "2026-04-07T13:43:12.171Z",
-    "updatedAt": "2026-04-07T13:43:12.171Z"
+    "createdAt": "2026-04-07T15:15:19.928Z",
+    "updatedAt": "2026-04-07T15:15:19.928Z"
   },
   {
     "id": "dd8dc81fa181e2f8",
@@ -24,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69d4f33b9a7947e8b1f99f38",
     "publishedAt": "2026-04-07T13:02:03.000Z",
-    "createdAt": "2026-04-07T13:43:13.026Z",
-    "updatedAt": "2026-04-07T13:43:13.026Z"
+    "createdAt": "2026-04-07T15:15:20.981Z",
+    "updatedAt": "2026-04-07T15:15:20.981Z"
   },
   {
     "id": "282a9da1e63daf33",
@@ -38,8 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69d4f0379a7947668a23b019",
     "publishedAt": "2026-04-07T12:24:02.000Z",
-    "createdAt": "2026-04-07T13:43:15.204Z",
-    "updatedAt": "2026-04-07T13:43:15.204Z"
+    "createdAt": "2026-04-07T15:15:22.010Z",
+    "updatedAt": "2026-04-07T15:15:22.010Z"
   },
   {
     "id": "e5155c01ecadeaf6",
@@ -52,8 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69d4daa69a7947c5c7aec643",
     "publishedAt": "2026-04-07T11:53:41.000Z",
-    "createdAt": "2026-04-07T13:43:16.235Z",
-    "updatedAt": "2026-04-07T13:43:16.235Z"
+    "createdAt": "2026-04-07T15:15:23.068Z",
+    "updatedAt": "2026-04-07T15:15:23.068Z"
   },
   {
     "id": "027c6361110583e0",
@@ -66,77 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/683e8f769a7947ffed6541cf",
     "publishedAt": "2026-04-07T11:47:33.000Z",
-    "createdAt": "2026-04-07T13:43:14.187Z",
-    "updatedAt": "2026-04-07T13:43:14.187Z"
-  },
-  {
-    "id": "56d50066efbfc920",
-    "title": "Обвиненный в провале московского «Динамо» тренер возглавил клуб КХЛ",
-    "sport": "Хоккей",
-    "category": "Хоккей",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/8/02/347755618474028.png",
-    "teaser": "Обвиненный в провале московского «Динамо» тренер возглавил клуб КХЛ",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69d4e8e19a79470ea1efc6ce",
-    "publishedAt": "2026-04-07T11:43:14.000Z",
-    "createdAt": "2026-04-07T13:43:17.211Z",
-    "updatedAt": "2026-04-07T13:43:17.211Z"
-  },
-  {
-    "id": "431fba730809c02d",
-    "title": "Состоялась первая тренерская отставка в клубе-участнике Кубка Гагарина",
-    "sport": "Хоккей",
-    "category": "Хоккей",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/9/88/347755579357889.png",
-    "teaser": "Состоялась первая тренерская отставка в клубе-участнике Кубка Гагарина",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69d4dadf9a7947302d1f8a99",
-    "publishedAt": "2026-04-07T10:43:02.000Z",
-    "createdAt": "2026-04-07T13:43:18.196Z",
-    "updatedAt": "2026-04-07T13:43:18.196Z"
-  },
-  {
-    "id": "de1c58166a5a86e7",
-    "title": "Тренер подрался с родителем в школе экс-капитана сборной России",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/4/50/347755564703504.png",
-    "teaser": "Тренер подрался с родителем в школе экс-капитана сборной России",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69d4d1fb9a79478f1f9c065c",
-    "publishedAt": "2026-04-07T10:13:21.000Z",
-    "createdAt": "2026-04-07T13:43:19.234Z",
-    "updatedAt": "2026-04-07T13:43:19.234Z"
-  },
-  {
-    "id": "4c1ec33e0ace6fd3",
-    "title": "Гендиректор «Динамо» не исключил возможность возвращения Смолова в клуб",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/2/82/347755530727822.jpeg",
-    "teaser": "Гендиректор «Динамо» не исключил возможность возвращения Смолова в клуб",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69d4bdc29a79474675c292b9",
-    "publishedAt": "2026-04-07T09:49:37.000Z",
-    "createdAt": "2026-04-07T13:43:20.374Z",
-    "updatedAt": "2026-04-07T13:43:20.374Z"
-  },
-  {
-    "id": "20694677d5da2660",
-    "title": "Самый титулованный синхронист в мире взял паузу в карьере ради тренерства",
-    "sport": "Другое",
-    "category": "Другие",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/1/71/347755520447711.jpeg",
-    "teaser": "Самый титулованный синхронист в мире взял паузу в карьере ради тренерства",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69d4c2b59a79476920ae07c2",
-    "publishedAt": "2026-04-07T09:04:46.000Z",
-    "createdAt": "2026-04-07T13:43:21.430Z",
-    "updatedAt": "2026-04-07T13:43:21.430Z"
+    "createdAt": "2026-04-07T15:15:24.205Z",
+    "updatedAt": "2026-04-07T15:15:24.205Z"
   }
 ]
