@@ -1,5 +1,33 @@
 [
   {
+    "id": "e96dddf878fe5a7a",
+    "title": "Рублев после разгромного поражения Медведева тоже вылетел с «Мастерса»",
+    "sport": "Теннис",
+    "category": "Теннис",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/7/11/347756450326117.jpeg",
+    "teaser": "Рублев после разгромного поражения Медведева тоже вылетел с «Мастерса»",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69d62e909a79475dc898edaa",
+    "publishedAt": "2026-04-08T10:51:23.000Z",
+    "createdAt": "2026-04-08T11:03:34.635Z",
+    "updatedAt": "2026-04-08T11:03:34.635Z"
+  },
+  {
+    "id": "0c091b568f103093",
+    "title": "Медведев потерпел самое разгромное поражение в карьере",
+    "sport": "Теннис",
+    "category": "Теннис",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/4/43/347756431079434.jpeg",
+    "teaser": "Медведев потерпел самое разгромное поражение в карьере",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69d6288d9a794722b7664881",
+    "publishedAt": "2026-04-08T10:17:23.000Z",
+    "createdAt": "2026-04-08T11:03:35.668Z",
+    "updatedAt": "2026-04-08T11:03:35.668Z"
+  },
+  {
     "id": "106c64994083e2db",
     "title": "Коммерческий директор JAMI LUP SPORT — о трансформации медиапотребления",
     "sport": "Другое",
@@ -10,8 +38,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69d3f7729a7947242fc2938b",
     "publishedAt": "2026-04-08T07:00:00.000Z",
-    "createdAt": "2026-04-08T09:10:18.299Z",
-    "updatedAt": "2026-04-08T09:10:18.299Z"
+    "createdAt": "2026-04-08T11:03:39.926Z",
+    "updatedAt": "2026-04-08T11:03:39.926Z"
   },
   {
     "id": "94a175b90205e232",
@@ -24,8 +52,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69d54fdf9a7947615a5a9ec8",
     "publishedAt": "2026-04-08T06:20:29.000Z",
-    "createdAt": "2026-04-08T09:10:14.749Z",
-    "updatedAt": "2026-04-08T09:10:14.749Z"
+    "createdAt": "2026-04-08T11:03:36.708Z",
+    "updatedAt": "2026-04-08T11:03:36.708Z"
   },
   {
     "id": "7c0a569606cbfc0a",
@@ -38,8 +66,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69d4af579a7947a9f8d80c0d",
     "publishedAt": "2026-04-08T04:01:13.000Z",
-    "createdAt": "2026-04-08T09:10:15.873Z",
-    "updatedAt": "2026-04-08T09:10:15.873Z"
+    "createdAt": "2026-04-08T11:03:37.723Z",
+    "updatedAt": "2026-04-08T11:03:37.723Z"
   },
   {
     "id": "521545495794cda3",
@@ -52,8 +80,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69d565919a79477d7fb83556",
     "publishedAt": "2026-04-07T21:22:40.000Z",
-    "createdAt": "2026-04-08T09:10:17.006Z",
-    "updatedAt": "2026-04-08T09:10:17.006Z"
+    "createdAt": "2026-04-08T11:03:38.769Z",
+    "updatedAt": "2026-04-08T11:03:38.769Z"
   },
   {
     "id": "58aaa7f2a8896796",
@@ -66,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69d55e779a794773fd3358ad",
     "publishedAt": "2026-04-07T21:01:28.000Z",
-    "createdAt": "2026-04-08T09:10:19.407Z",
-    "updatedAt": "2026-04-08T09:10:19.407Z"
+    "createdAt": "2026-04-08T11:03:40.970Z",
+    "updatedAt": "2026-04-08T11:03:40.970Z"
   },
   {
     "id": "1c95f03252e564a0",
@@ -80,8 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69d5566d9a7947664bda8b76",
     "publishedAt": "2026-04-07T19:46:43.000Z",
-    "createdAt": "2026-04-08T09:10:20.506Z",
-    "updatedAt": "2026-04-08T09:10:20.506Z"
+    "createdAt": "2026-04-08T11:03:42.035Z",
+    "updatedAt": "2026-04-08T11:03:42.035Z"
   },
   {
     "id": "aa4636651ea38f48",
@@ -94,22 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69d550a69a79476f4cefaedd",
     "publishedAt": "2026-04-07T19:07:42.000Z",
-    "createdAt": "2026-04-08T09:10:21.632Z",
-    "updatedAt": "2026-04-08T09:10:21.632Z"
-  },
-  {
-    "id": "c738e68c04b77a98",
-    "title": "«Атлетико» — «Барселона»: где смотреть ответный матч 1/4 финала ЛЧ",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/5/29/347749439413295.jpeg",
-    "teaser": "«Атлетико» — «Барселона»: где смотреть ответный матч 1/4 финала ЛЧ",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69cb7eb39a794728fee42a50",
-    "publishedAt": "2026-04-07T19:00:00.000Z",
-    "createdAt": "2026-04-08T09:10:24.649Z",
-    "updatedAt": "2026-04-08T09:10:24.649Z"
+    "createdAt": "2026-04-08T11:03:43.002Z",
+    "updatedAt": "2026-04-08T11:03:43.002Z"
   },
   {
     "id": "034802364448a66a",
@@ -122,21 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69d545229a7947f578eaa1f6",
     "publishedAt": "2026-04-07T18:35:05.000Z",
-    "createdAt": "2026-04-08T09:10:22.721Z",
-    "updatedAt": "2026-04-08T09:10:22.721Z"
-  },
-  {
-    "id": "bfac5dabb55f2a59",
-    "title": "НХЛ оштрафовала рекордсмена сборной России за симуляцию",
-    "sport": "Хоккей",
-    "category": "Хоккей",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/3/26/347755799209263.jpeg",
-    "teaser": "НХЛ оштрафовала рекордсмена сборной России за симуляцию",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69d532599a7947f12926a4cb",
-    "publishedAt": "2026-04-07T17:10:08.000Z",
-    "createdAt": "2026-04-08T09:10:25.751Z",
-    "updatedAt": "2026-04-08T09:10:25.751Z"
+    "createdAt": "2026-04-08T11:03:44.158Z",
+    "updatedAt": "2026-04-08T11:03:44.158Z"
   }
 ]
