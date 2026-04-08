@@ -1,5 +1,47 @@
 [
   {
+    "id": "8851648c1b6af21a",
+    "title": "«Локомотив» обыграл «Салават Юлаев» в матче 1/4 финала плей-офф КХЛ",
+    "sport": "Хоккей",
+    "category": "Хоккей",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/3/63/347756743495633.jpeg",
+    "teaser": "«Локомотив» обыграл «Салават Юлаев» в матче 1/4 финала плей-офф КХЛ",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69d67f239a79478fe9d69568",
+    "publishedAt": "2026-04-08T19:01:58.000Z",
+    "createdAt": "2026-04-08T19:25:05.221Z",
+    "updatedAt": "2026-04-08T19:25:05.221Z"
+  },
+  {
+    "id": "2f116458ac6dddde",
+    "title": "Чемпиона «Формулы-1» рассматривали в качестве шофера «папамобиля»",
+    "sport": "Другое",
+    "category": "Формула-1",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/5/05/347756695168055.jpeg",
+    "teaser": "Чемпиона «Формулы-1» рассматривали в качестве шофера «папамобиля»",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69d68c819a7947f8e308f312",
+    "publishedAt": "2026-04-08T18:19:12.000Z",
+    "createdAt": "2026-04-08T19:25:06.323Z",
+    "updatedAt": "2026-04-08T19:25:06.323Z"
+  },
+  {
+    "id": "5b07f56d36836da5",
+    "title": "Отец украинского атлета объяснил его снятие с Олимпиады давлением России",
+    "sport": "Другое",
+    "category": "Другие",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/5/83/347756652052835.jpeg",
+    "teaser": "Отец украинского атлета объяснил его снятие с Олимпиады давлением России",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69d6794b9a79476b7bd567b8",
+    "publishedAt": "2026-04-08T17:05:20.000Z",
+    "createdAt": "2026-04-08T19:25:07.516Z",
+    "updatedAt": "2026-04-08T19:25:07.516Z"
+  },
+  {
     "id": "b439a5b11279d730",
     "title": "«Авангард» обыграл ЦСКА в стартовом матче четвертьфинала Кубка Гагарина",
     "sport": "Хоккей",
@@ -10,8 +52,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69d67d229a79474eda408923",
     "publishedAt": "2026-04-08T16:21:01.000Z",
-    "createdAt": "2026-04-08T17:11:21.898Z",
-    "updatedAt": "2026-04-08T17:11:21.898Z"
+    "createdAt": "2026-04-08T19:25:09.921Z",
+    "updatedAt": "2026-04-08T19:25:09.921Z"
   },
   {
     "id": "28bd02f19e68b3b5",
@@ -24,8 +66,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69d66fcc9a7947819fe67593",
     "publishedAt": "2026-04-08T15:43:45.000Z",
-    "createdAt": "2026-04-08T17:11:22.891Z",
-    "updatedAt": "2026-04-08T17:11:22.891Z"
+    "createdAt": "2026-04-08T19:25:11.041Z",
+    "updatedAt": "2026-04-08T19:25:11.041Z"
   },
   {
     "id": "8786ce9afdd01a76",
@@ -38,8 +80,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69d668ea9a794703820077db",
     "publishedAt": "2026-04-08T15:10:34.000Z",
-    "createdAt": "2026-04-08T17:11:23.933Z",
-    "updatedAt": "2026-04-08T17:11:23.933Z"
+    "createdAt": "2026-04-08T19:25:12.165Z",
+    "updatedAt": "2026-04-08T19:25:12.165Z"
   },
   {
     "id": "27cafa30aef1d81e",
@@ -52,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/68d017759a7947d172e4d190",
     "publishedAt": "2026-04-08T15:08:06.000Z",
-    "createdAt": "2026-04-08T17:11:24.920Z",
-    "updatedAt": "2026-04-08T17:11:24.920Z"
+    "createdAt": "2026-04-08T19:25:13.432Z",
+    "updatedAt": "2026-04-08T19:25:13.432Z"
   },
   {
     "id": "4526632088423822",
@@ -66,8 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69d666a69a794792005aaa02",
     "publishedAt": "2026-04-08T15:05:05.000Z",
-    "createdAt": "2026-04-08T17:11:25.931Z",
-    "updatedAt": "2026-04-08T17:11:25.931Z"
+    "createdAt": "2026-04-08T19:25:14.599Z",
+    "updatedAt": "2026-04-08T19:25:14.599Z"
   },
   {
     "id": "a5361330781f0720",
@@ -80,50 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69d662499a7947ceccb2f6db",
     "publishedAt": "2026-04-08T14:34:09.000Z",
-    "createdAt": "2026-04-08T17:11:27.293Z",
-    "updatedAt": "2026-04-08T17:11:27.293Z"
-  },
-  {
-    "id": "c9d24771be8f2acb",
-    "title": "В СБР заявили о возможном допуске российских биатлонистов в сентябре",
-    "sport": "Другое",
-    "category": "Биатлон",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/1/72/347756564430721.png",
-    "teaser": "В СБР заявили о возможном допуске российских биатлонистов в сентябре",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69d655da9a7947844b989d3e",
-    "publishedAt": "2026-04-08T13:59:44.000Z",
-    "createdAt": "2026-04-08T17:11:28.284Z",
-    "updatedAt": "2026-04-08T17:11:28.284Z"
-  },
-  {
-    "id": "ba657d9403691335",
-    "title": "Берреттини назвал разгром Медведева одним из лучших матчей в жизни",
-    "sport": "Теннис",
-    "category": "Теннис",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/5/05/347756555101055.jpeg",
-    "teaser": "Берреттини назвал разгром Медведева одним из лучших матчей в жизни",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69d6566c9a79475b2d98eb3e",
-    "publishedAt": "2026-04-08T13:44:49.000Z",
-    "createdAt": "2026-04-08T17:11:29.363Z",
-    "updatedAt": "2026-04-08T17:11:29.363Z"
-  },
-  {
-    "id": "9d8aa4ea0caf7d62",
-    "title": "Белый дом потребовал от ФИФА запретить трансгендеров в женском футболе",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/1/52/347756537826521.jpeg",
-    "teaser": "Белый дом потребовал от ФИФА запретить трансгендеров в женском футболе",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69d6507a9a7947691be4ff1b",
-    "publishedAt": "2026-04-08T13:26:02.000Z",
-    "createdAt": "2026-04-08T17:11:31.629Z",
-    "updatedAt": "2026-04-08T17:11:31.629Z"
+    "createdAt": "2026-04-08T19:25:15.724Z",
+    "updatedAt": "2026-04-08T19:25:15.724Z"
   },
   {
     "id": "106c64994083e2db",
@@ -136,7 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69d3f7729a7947242fc2938b",
     "publishedAt": "2026-04-08T07:00:00.000Z",
-    "createdAt": "2026-04-08T17:11:30.631Z",
-    "updatedAt": "2026-04-08T17:11:30.631Z"
+    "createdAt": "2026-04-08T19:25:08.822Z",
+    "updatedAt": "2026-04-08T19:25:08.822Z"
   }
 ]
