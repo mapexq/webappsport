@@ -1,5 +1,89 @@
 [
   {
+    "id": "cdb9082ca872ebc6",
+    "title": "Тренера клуба РПЛ оштрафовали на ₽100 тыс. за нецензурное интервью",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/4/89/347757420543894.png",
+    "teaser": "Тренера клуба РПЛ оштрафовали на ₽100 тыс. за нецензурное интервью",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69d7a4829a794716238a53bc",
+    "publishedAt": "2026-04-09T13:49:38.000Z",
+    "createdAt": "2026-04-09T13:56:42.521Z",
+    "updatedAt": "2026-04-09T13:56:42.521Z"
+  },
+  {
+    "id": "25b26547e61fcc5b",
+    "title": "Российские ватерполисты одержали третью подряд победу на Кубке мира",
+    "sport": "Другое",
+    "category": "Другие",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/1/64/347757395697641.jpeg",
+    "teaser": "Российские ватерполисты одержали третью подряд победу на Кубке мира",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69d79f929a79475f12a2189c",
+    "publishedAt": "2026-04-09T13:08:42.000Z",
+    "createdAt": "2026-04-09T13:56:44.416Z",
+    "updatedAt": "2026-04-09T13:56:44.416Z"
+  },
+  {
+    "id": "84ade81055a42522",
+    "title": "Умер первый чемпион мира в метании диска",
+    "sport": "Другое",
+    "category": "Другие",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/6/85/347757393643856.jpeg",
+    "teaser": "Умер первый чемпион мира в метании диска",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69d79b169a794782f92a1074",
+    "publishedAt": "2026-04-09T13:00:29.000Z",
+    "createdAt": "2026-04-09T13:56:45.230Z",
+    "updatedAt": "2026-04-09T13:56:45.230Z"
+  },
+  {
+    "id": "935e7c3e5e40f07e",
+    "title": "Доннарумма опроверг информацию о требовании бонусов в сборной Италии",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/2/89/347757344595892.jpeg",
+    "teaser": "Доннарумма опроверг информацию о требовании бонусов в сборной Италии",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69d78e7e9a7947daf491abc6",
+    "publishedAt": "2026-04-09T12:06:54.000Z",
+    "createdAt": "2026-04-09T13:56:43.471Z",
+    "updatedAt": "2026-04-09T13:56:43.471Z"
+  },
+  {
+    "id": "a774b5dbbb0cd8ae",
+    "title": "Названа дата матча «Спартак» — ЦСКА за выход в Суперфинал Кубка России",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/8/52/347757339989528.jpeg",
+    "teaser": "Названа дата матча «Спартак» — ЦСКА за выход в Суперфинал Кубка России",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69d7879c9a7947bed73d5fc9",
+    "publishedAt": "2026-04-09T11:50:08.000Z",
+    "createdAt": "2026-04-09T13:56:46.294Z",
+    "updatedAt": "2026-04-09T13:56:46.294Z"
+  },
+  {
+    "id": "4e70d0a8b168930a",
+    "title": "Гоночный инженер Ферстаппена уйдет к конкурентам по «Формуле-1»",
+    "sport": "Другое",
+    "category": "Формула-1",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/6/94/347757296147946.jpeg",
+    "teaser": "Гоночный инженер Ферстаппена уйдет к конкурентам по «Формуле-1»",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69d77ab19a7947fe4cc7a672",
+    "publishedAt": "2026-04-09T10:48:07.000Z",
+    "createdAt": "2026-04-09T13:56:48.404Z",
+    "updatedAt": "2026-04-09T13:56:48.404Z"
+  },
+  {
     "id": "470950090e56a1b6",
     "title": "Губернатор Хабаровского края заявил о разочаровании игрой «Амура» в КХЛ",
     "sport": "Хоккей",
@@ -10,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69d775fa9a79475b96c59481",
     "publishedAt": "2026-04-09T10:19:50.000Z",
-    "createdAt": "2026-04-09T11:04:25.343Z",
-    "updatedAt": "2026-04-09T11:04:25.343Z"
+    "createdAt": "2026-04-09T13:56:47.336Z",
+    "updatedAt": "2026-04-09T13:56:47.336Z"
   },
   {
     "id": "59d2aef9a3e5df06",
@@ -24,8 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69d76f959a79471e04001bb9",
     "publishedAt": "2026-04-09T10:09:47.000Z",
-    "createdAt": "2026-04-09T11:04:26.375Z",
-    "updatedAt": "2026-04-09T11:04:26.375Z"
+    "createdAt": "2026-04-09T13:56:49.439Z",
+    "updatedAt": "2026-04-09T13:56:49.439Z"
   },
   {
     "id": "64ca01c234ac6c69",
@@ -38,8 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69d769b49a7947726e29184c",
     "publishedAt": "2026-04-09T09:35:23.000Z",
-    "createdAt": "2026-04-09T11:04:27.392Z",
-    "updatedAt": "2026-04-09T11:04:27.392Z"
+    "createdAt": "2026-04-09T13:56:50.510Z",
+    "updatedAt": "2026-04-09T13:56:50.510Z"
   },
   {
     "id": "14556fb7dbe293b0",
@@ -52,91 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69d760849a7947c16672539d",
     "publishedAt": "2026-04-09T09:09:11.000Z",
-    "createdAt": "2026-04-09T11:04:28.472Z",
-    "updatedAt": "2026-04-09T11:04:28.472Z"
-  },
-  {
-    "id": "d6f376392f239827",
-    "title": "В «Вашингтоне» Овечкину дали время на принятие решения о будущем в НХЛ",
-    "sport": "Хоккей",
-    "category": "Хоккей",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/9/44/347757214046449.jpeg",
-    "teaser": "В «Вашингтоне» Овечкину дали время на принятие решения о будущем в НХЛ",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69d759e19a7947393e84c72c",
-    "publishedAt": "2026-04-09T08:22:33.000Z",
-    "createdAt": "2026-04-09T11:04:29.523Z",
-    "updatedAt": "2026-04-09T11:04:29.523Z"
-  },
-  {
-    "id": "c6de7654e1270e05",
-    "title": "Лидер сезона НХЛ оторвался по очкам от Кучерова после хет-трика",
-    "sport": "Хоккей",
-    "category": "Хоккей",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/5/76/347757185795765.jpeg",
-    "teaser": "Лидер сезона НХЛ оторвался по очкам от Кучерова после хет-трика",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69d750339a79474285d53828",
-    "publishedAt": "2026-04-09T07:40:04.000Z",
-    "createdAt": "2026-04-09T11:04:30.512Z",
-    "updatedAt": "2026-04-09T11:04:30.512Z"
-  },
-  {
-    "id": "0ad02c324bcdc056",
-    "title": "Сафонов рассказал об эмоциях после матча 1/4 финала Лиги чемпионов",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/7/19/347757169643197.jpeg",
-    "teaser": "Сафонов рассказал об эмоциях после матча 1/4 финала Лиги чемпионов",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69d748379a79474238d9a473",
-    "publishedAt": "2026-04-09T07:35:36.000Z",
-    "createdAt": "2026-04-09T11:04:31.568Z",
-    "updatedAt": "2026-04-09T11:04:31.568Z"
-  },
-  {
-    "id": "532c86b06af1ce03",
-    "title": "Овечкин продлил безголевую серию до четырех матчей",
-    "sport": "Хоккей",
-    "category": "Хоккей",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/1/43/347757162222431.jpeg",
-    "teaser": "Овечкин продлил безголевую серию до четырех матчей",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69d743149a7947332a5ec036",
-    "publishedAt": "2026-04-09T07:33:59.000Z",
-    "createdAt": "2026-04-09T11:04:32.684Z",
-    "updatedAt": "2026-04-09T11:04:32.684Z"
-  },
-  {
-    "id": "b2bb8ca1fde9f8a7",
-    "title": "В МХЛ провели самый длинный матч в истории с 8 периодами",
-    "sport": "Хоккей",
-    "category": "Хоккей",
-    "imageUrl": "/images/news-placeholder.jpg",
-    "teaser": "В МХЛ провели самый длинный матч в истории с 8 периодами",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69d72eca9a79475568c766ce",
-    "publishedAt": "2026-04-09T05:32:14.000Z",
-    "createdAt": "2026-04-09T11:04:34.607Z",
-    "updatedAt": "2026-04-09T11:04:34.607Z"
-  },
-  {
-    "id": "93982deda3b91d7e",
-    "title": "«Сухой» матч Сафонова помог ПСЖ обыграть «Ливерпуль» в Лиге Чемпионов",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/5/08/347756804972085.jpeg",
-    "teaser": "«Сухой» матч Сафонова помог ПСЖ обыграть «Ливерпуль» в Лиге Чемпионов",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69d67e9b9a7947f470e6aa26",
-    "publishedAt": "2026-04-08T21:07:28.000Z",
-    "createdAt": "2026-04-09T11:04:35.994Z",
-    "updatedAt": "2026-04-09T11:04:35.994Z"
+    "createdAt": "2026-04-09T13:56:51.560Z",
+    "updatedAt": "2026-04-09T13:56:51.560Z"
   }
 ]
