@@ -1,5 +1,89 @@
 [
   {
+    "id": "ac519e812316414c",
+    "title": "«Ак Барс» обыграл минское «Динамо» в стартовом матче четвертьфинала КХЛ",
+    "sport": "Хоккей",
+    "category": "Хоккей",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/2/29/347757595269292.jpeg",
+    "teaser": "«Ак Барс» обыграл минское «Динамо» в стартовом матче четвертьфинала КХЛ",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69d7d3e99a79473990747642",
+    "publishedAt": "2026-04-09T18:59:37.000Z",
+    "createdAt": "2026-04-09T19:16:39.062Z",
+    "updatedAt": "2026-04-09T19:16:39.062Z"
+  },
+  {
+    "id": "587531b4222480ac",
+    "title": "В Андорре начали расследование контрабанды часов для футболистов Ла Лиги",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/2/49/347757578664492.jpeg",
+    "teaser": "В Андорре начали расследование контрабанды часов для футболистов Ла Лиги",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69d7e48a9a79472205d9eeb3",
+    "publishedAt": "2026-04-09T18:36:49.000Z",
+    "createdAt": "2026-04-09T19:16:40.085Z",
+    "updatedAt": "2026-04-09T19:16:40.085Z"
+  },
+  {
+    "id": "addd45ecfd91341a",
+    "title": "Футболист «Монако» Головин получил травму",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/5/28/347757568641285.png",
+    "teaser": "Футболист «Монако» Головин получил травму",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69d7e5af9a794771b3622c73",
+    "publishedAt": "2026-04-09T18:22:37.000Z",
+    "createdAt": "2026-04-09T19:16:35.699Z",
+    "updatedAt": "2026-04-09T19:16:35.699Z"
+  },
+  {
+    "id": "f8e67bb215477fdb",
+    "title": "Стало известно о состоянии юниоров после пожара на ЧМ в Бразилии",
+    "sport": "Другое",
+    "category": "Другие",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/1/90/347757558131901.jpeg",
+    "teaser": "Стало известно о состоянии юниоров после пожара на ЧМ в Бразилии",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69d7dd379a794720797af33e",
+    "publishedAt": "2026-04-09T18:18:50.000Z",
+    "createdAt": "2026-04-09T19:16:36.792Z",
+    "updatedAt": "2026-04-09T19:16:36.792Z"
+  },
+  {
+    "id": "3f3e1d6f21894b8a",
+    "title": "Вторая ракетка России не смогла защитить титул чемпионки турнира в Линце",
+    "sport": "Теннис",
+    "category": "Теннис",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/6/94/347757562246946.jpeg",
+    "teaser": "Вторая ракетка России не смогла защитить титул чемпионки турнира в Линце",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69d7e1579a79476e62319910",
+    "publishedAt": "2026-04-09T17:48:54.000Z",
+    "createdAt": "2026-04-09T19:16:41.114Z",
+    "updatedAt": "2026-04-09T19:16:41.114Z"
+  },
+  {
+    "id": "46274f51c9ada020",
+    "title": "Российский шахматист лишился шансов на титульный матч с чемпионом мира",
+    "sport": "Другое",
+    "category": "Другие",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/1/52/347757542453521.png",
+    "teaser": "Российский шахматист лишился шансов на титульный матч с чемпионом мира",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69d7d8399a79470739590d97",
+    "publishedAt": "2026-04-09T17:26:12.000Z",
+    "createdAt": "2026-04-09T19:16:38.154Z",
+    "updatedAt": "2026-04-09T19:16:38.154Z"
+  },
+  {
     "id": "60625732a7b6d57a",
     "title": "Лучший клуб «регулярки» начал с победы второй раунд плей-офф КХЛ",
     "sport": "Хоккей",
@@ -10,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69d7bc039a79478ecd43bdee",
     "publishedAt": "2026-04-09T16:34:53.000Z",
-    "createdAt": "2026-04-09T17:13:48.174Z",
-    "updatedAt": "2026-04-09T17:13:48.174Z"
+    "createdAt": "2026-04-09T19:16:42.131Z",
+    "updatedAt": "2026-04-09T19:16:42.131Z"
   },
   {
     "id": "166d706d4c8ad9d3",
@@ -24,8 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69d7c9ac9a794781a30819dc",
     "publishedAt": "2026-04-09T16:26:34.000Z",
-    "createdAt": "2026-04-09T17:13:49.146Z",
-    "updatedAt": "2026-04-09T17:13:49.146Z"
+    "createdAt": "2026-04-09T19:16:43.171Z",
+    "updatedAt": "2026-04-09T19:16:43.171Z"
   },
   {
     "id": "732c90a6b1971875",
@@ -38,8 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69d7c2d39a79479471b19a76",
     "publishedAt": "2026-04-09T16:01:02.000Z",
-    "createdAt": "2026-04-09T17:13:50.104Z",
-    "updatedAt": "2026-04-09T17:13:50.104Z"
+    "createdAt": "2026-04-09T19:16:44.219Z",
+    "updatedAt": "2026-04-09T19:16:44.219Z"
   },
   {
     "id": "d6833a94de14f8de",
@@ -52,91 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69d7c4bb9a7947d654f16fad",
     "publishedAt": "2026-04-09T15:54:35.000Z",
-    "createdAt": "2026-04-09T17:13:51.150Z",
-    "updatedAt": "2026-04-09T17:13:51.150Z"
-  },
-  {
-    "id": "5a4fdd77adf6e40f",
-    "title": "Нойер стал игроком недели в ЛЧ после лучшего матча в плей-офф с 2017 года",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/6/97/347757453531976.jpeg",
-    "teaser": "Нойер стал игроком недели в ЛЧ после лучшего матча в плей-офф с 2017 года",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69d7b5c79a794796cae3e878",
-    "publishedAt": "2026-04-09T15:04:43.000Z",
-    "createdAt": "2026-04-09T17:13:52.185Z",
-    "updatedAt": "2026-04-09T17:13:52.185Z"
-  },
-  {
-    "id": "48eb30dd0f29cc0c",
-    "title": "Первая ракетка мира Соболенко снялась с турнира в Штутгарте из-за травмы",
-    "sport": "Теннис",
-    "category": "Теннис",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/9/95/347757424106959.jpeg",
-    "teaser": "Первая ракетка мира Соболенко снялась с турнира в Штутгарте из-за травмы",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69d7a8e29a7947b202195b2e",
-    "publishedAt": "2026-04-09T14:35:26.000Z",
-    "createdAt": "2026-04-09T17:13:56.439Z",
-    "updatedAt": "2026-04-09T17:13:56.439Z"
-  },
-  {
-    "id": "d6c18e45bfcb34b0",
-    "title": "В Бухаресте назовут стадион в честь Мирчи Луческу",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/6/41/347757436794416.jpeg",
-    "teaser": "В Бухаресте назовут стадион в честь Мирчи Луческу",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69d7b18f9a7947264e711263",
-    "publishedAt": "2026-04-09T14:33:48.000Z",
-    "createdAt": "2026-04-09T17:13:53.246Z",
-    "updatedAt": "2026-04-09T17:13:53.246Z"
-  },
-  {
-    "id": "0b9952ace73ee5c7",
-    "title": "Футболиста «Ахмата» отстранили на два матча за удар соперника по лицу",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/9/76/347757435097769.jpeg",
-    "teaser": "Футболиста «Ахмата» отстранили на два матча за удар соперника по лицу",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69d7addb9a794732829b2c72",
-    "publishedAt": "2026-04-09T14:20:05.000Z",
-    "createdAt": "2026-04-09T17:13:54.304Z",
-    "updatedAt": "2026-04-09T17:13:54.304Z"
-  },
-  {
-    "id": "053674ec8b045401",
-    "title": "РФС оштрафовал нецензурно выругавшегося в интервью 12 раз Евсеева",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/4/89/347757420543894.png",
-    "teaser": "РФС оштрафовал нецензурно выругавшегося в интервью 12 раз Евсеева",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69d7a4829a794716238a53bc",
-    "publishedAt": "2026-04-09T13:49:38.000Z",
-    "createdAt": "2026-04-09T17:13:55.329Z",
-    "updatedAt": "2026-04-09T17:13:55.329Z"
-  },
-  {
-    "id": "935e7c3e5e40f07e",
-    "title": "Доннарумма опроверг информацию о требовании бонусов в сборной Италии",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/2/89/347757344595892.jpeg",
-    "teaser": "Доннарумма опроверг информацию о требовании бонусов в сборной Италии",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69d78e7e9a7947daf491abc6",
-    "publishedAt": "2026-04-09T12:06:54.000Z",
-    "createdAt": "2026-04-09T17:13:57.466Z",
-    "updatedAt": "2026-04-09T17:13:57.466Z"
+    "createdAt": "2026-04-09T19:16:45.223Z",
+    "updatedAt": "2026-04-09T19:16:45.223Z"
   }
 ]
