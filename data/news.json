@@ -1,5 +1,61 @@
 [
   {
+    "id": "470950090e56a1b6",
+    "title": "Губернатор Хабаровского края заявил о разочаровании игрой «Амура» в КХЛ",
+    "sport": "Хоккей",
+    "category": "Хоккей",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/4/67/347757293019674.jpeg",
+    "teaser": "Губернатор Хабаровского края заявил о разочаровании игрой «Амура» в КХЛ",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69d775fa9a79475b96c59481",
+    "publishedAt": "2026-04-09T10:19:50.000Z",
+    "createdAt": "2026-04-09T11:04:25.343Z",
+    "updatedAt": "2026-04-09T11:04:25.343Z"
+  },
+  {
+    "id": "59d2aef9a3e5df06",
+    "title": "Лыжник Коростелев заявил, что еще не получил призовые за Кубок мира",
+    "sport": "Другое",
+    "category": "Другие",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/9/39/347757265614399.png",
+    "teaser": "Лыжник Коростелев заявил, что еще не получил призовые за Кубок мира",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69d76f959a79471e04001bb9",
+    "publishedAt": "2026-04-09T10:09:47.000Z",
+    "createdAt": "2026-04-09T11:04:26.375Z",
+    "updatedAt": "2026-04-09T11:04:26.375Z"
+  },
+  {
+    "id": "64ca01c234ac6c69",
+    "title": "Игрок баскетбольного клуба научил папу римского вращать мяч на пальце",
+    "sport": "Баскетбол",
+    "category": "Баскетбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/4/24/347757266395244.jpeg",
+    "teaser": "Игрок баскетбольного клуба научил папу римского вращать мяч на пальце",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69d769b49a7947726e29184c",
+    "publishedAt": "2026-04-09T09:35:23.000Z",
+    "createdAt": "2026-04-09T11:04:27.392Z",
+    "updatedAt": "2026-04-09T11:04:27.392Z"
+  },
+  {
+    "id": "14556fb7dbe293b0",
+    "title": "Президент UFC опроверг слова Махачева о причинах срыва боя с Топурией",
+    "sport": "Единоборства",
+    "category": "Единоборства",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/0/40/347757240826400.jpeg",
+    "teaser": "Президент UFC опроверг слова Махачева о причинах срыва боя с Топурией",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69d760849a7947c16672539d",
+    "publishedAt": "2026-04-09T09:09:11.000Z",
+    "createdAt": "2026-04-09T11:04:28.472Z",
+    "updatedAt": "2026-04-09T11:04:28.472Z"
+  },
+  {
     "id": "d6f376392f239827",
     "title": "В «Вашингтоне» Овечкину дали время на принятие решения о будущем в НХЛ",
     "sport": "Хоккей",
@@ -10,8 +66,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69d759e19a7947393e84c72c",
     "publishedAt": "2026-04-09T08:22:33.000Z",
-    "createdAt": "2026-04-09T09:16:03.346Z",
-    "updatedAt": "2026-04-09T09:16:03.346Z"
+    "createdAt": "2026-04-09T11:04:29.523Z",
+    "updatedAt": "2026-04-09T11:04:29.523Z"
   },
   {
     "id": "c6de7654e1270e05",
@@ -24,8 +80,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69d750339a79474285d53828",
     "publishedAt": "2026-04-09T07:40:04.000Z",
-    "createdAt": "2026-04-09T09:16:04.505Z",
-    "updatedAt": "2026-04-09T09:16:04.505Z"
+    "createdAt": "2026-04-09T11:04:30.512Z",
+    "updatedAt": "2026-04-09T11:04:30.512Z"
   },
   {
     "id": "0ad02c324bcdc056",
@@ -38,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69d748379a79474238d9a473",
     "publishedAt": "2026-04-09T07:35:36.000Z",
-    "createdAt": "2026-04-09T09:16:05.665Z",
-    "updatedAt": "2026-04-09T09:16:05.665Z"
+    "createdAt": "2026-04-09T11:04:31.568Z",
+    "updatedAt": "2026-04-09T11:04:31.568Z"
   },
   {
     "id": "532c86b06af1ce03",
@@ -52,8 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69d743149a7947332a5ec036",
     "publishedAt": "2026-04-09T07:33:59.000Z",
-    "createdAt": "2026-04-09T09:16:06.809Z",
-    "updatedAt": "2026-04-09T09:16:06.809Z"
+    "createdAt": "2026-04-09T11:04:32.684Z",
+    "updatedAt": "2026-04-09T11:04:32.684Z"
   },
   {
     "id": "b2bb8ca1fde9f8a7",
@@ -66,8 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69d72eca9a79475568c766ce",
     "publishedAt": "2026-04-09T05:32:14.000Z",
-    "createdAt": "2026-04-09T09:16:08.844Z",
-    "updatedAt": "2026-04-09T09:16:08.844Z"
+    "createdAt": "2026-04-09T11:04:34.607Z",
+    "updatedAt": "2026-04-09T11:04:34.607Z"
   },
   {
     "id": "93982deda3b91d7e",
@@ -80,63 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69d67e9b9a7947f470e6aa26",
     "publishedAt": "2026-04-08T21:07:28.000Z",
-    "createdAt": "2026-04-09T09:16:10.191Z",
-    "updatedAt": "2026-04-09T09:16:10.191Z"
-  },
-  {
-    "id": "2676c1dd0bfe4c67",
-    "title": "«Атлетико» обыграл «Барселону» в первом матче 1/4 финала Лиги чемпионов",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/5/50/347756814483505.jpeg",
-    "teaser": "«Атлетико» обыграл «Барселону» в первом матче 1/4 финала Лиги чемпионов",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69d681ad9a7947d70867a6b3",
-    "publishedAt": "2026-04-08T21:06:27.000Z",
-    "createdAt": "2026-04-09T09:16:11.377Z",
-    "updatedAt": "2026-04-09T09:16:11.377Z"
-  },
-  {
-    "id": "105839ffe6a74a2e",
-    "title": "«Спартак» прервал 14-летнюю серию поражений в гостях у «Зенита»",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/7/80/347756736140807.jpeg",
-    "teaser": "«Спартак» прервал 14-летнюю серию поражений в гостях у «Зенита»",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69d687d49a7947b87e120d63",
-    "publishedAt": "2026-04-08T20:08:14.000Z",
-    "createdAt": "2026-04-09T09:16:12.395Z",
-    "updatedAt": "2026-04-09T09:16:12.395Z"
-  },
-  {
-    "id": "11113c430756cc47",
-    "title": "Сафонов сыграет в стартовом составе ПСЖ в ЛЧ после «позорной» ошибки",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/3/23/347756734352233.jpeg",
-    "teaser": "Сафонов сыграет в стартовом составе ПСЖ в ЛЧ после «позорной» ошибки",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69d69e3b9a79470ed1b76a08",
-    "publishedAt": "2026-04-08T19:11:08.000Z",
-    "createdAt": "2026-04-09T09:16:13.537Z",
-    "updatedAt": "2026-04-09T09:16:13.537Z"
-  },
-  {
-    "id": "8851648c1b6af21a",
-    "title": "«Локомотив» обыграл «Салават Юлаев» в матче 1/4 финала плей-офф КХЛ",
-    "sport": "Хоккей",
-    "category": "Хоккей",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/3/63/347756743495633.jpeg",
-    "teaser": "«Локомотив» обыграл «Салават Юлаев» в матче 1/4 финала плей-офф КХЛ",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69d67f239a79478fe9d69568",
-    "publishedAt": "2026-04-08T19:01:58.000Z",
-    "createdAt": "2026-04-09T09:16:14.746Z",
-    "updatedAt": "2026-04-09T09:16:14.746Z"
+    "createdAt": "2026-04-09T11:04:35.994Z",
+    "updatedAt": "2026-04-09T11:04:35.994Z"
   }
 ]
