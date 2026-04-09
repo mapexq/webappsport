@@ -1,17 +1,73 @@
 [
   {
-    "id": "cdb9082ca872ebc6",
-    "title": "Тренера клуба РПЛ оштрафовали на ₽100 тыс. за нецензурное интервью",
+    "id": "5a4fdd77adf6e40f",
+    "title": "Нойер стал игроком недели в ЛЧ после лучшего матча в плей-офф с 2017 года",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/6/97/347757453531976.jpeg",
+    "teaser": "Нойер стал игроком недели в ЛЧ после лучшего матча в плей-офф с 2017 года",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69d7b5c79a794796cae3e878",
+    "publishedAt": "2026-04-09T15:04:43.000Z",
+    "createdAt": "2026-04-09T15:43:24.123Z",
+    "updatedAt": "2026-04-09T15:43:24.123Z"
+  },
+  {
+    "id": "48eb30dd0f29cc0c",
+    "title": "Первая ракетка мира Соболенко снялась с турнира в Штутгарте из-за травмы",
+    "sport": "Теннис",
+    "category": "Теннис",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/9/95/347757424106959.jpeg",
+    "teaser": "Первая ракетка мира Соболенко снялась с турнира в Штутгарте из-за травмы",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69d7a8e29a7947b202195b2e",
+    "publishedAt": "2026-04-09T14:35:26.000Z",
+    "createdAt": "2026-04-09T15:43:27.011Z",
+    "updatedAt": "2026-04-09T15:43:27.011Z"
+  },
+  {
+    "id": "d6c18e45bfcb34b0",
+    "title": "В Бухаресте назовут стадион в честь Мирчи Луческу",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/6/41/347757436794416.jpeg",
+    "teaser": "В Бухаресте назовут стадион в честь Мирчи Луческу",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69d7b18f9a7947264e711263",
+    "publishedAt": "2026-04-09T14:33:48.000Z",
+    "createdAt": "2026-04-09T15:43:25.081Z",
+    "updatedAt": "2026-04-09T15:43:25.081Z"
+  },
+  {
+    "id": "0b9952ace73ee5c7",
+    "title": "Футболиста «Ахмата» отстранили на два матча за удар соперника по лицу",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/9/76/347757435097769.jpeg",
+    "teaser": "Футболиста «Ахмата» отстранили на два матча за удар соперника по лицу",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69d7addb9a794732829b2c72",
+    "publishedAt": "2026-04-09T14:20:05.000Z",
+    "createdAt": "2026-04-09T15:43:26.071Z",
+    "updatedAt": "2026-04-09T15:43:26.071Z"
+  },
+  {
+    "id": "053674ec8b045401",
+    "title": "РФС оштрафовал нецензурно выругавшегося в интервью 12 раз Евсеева",
     "sport": "Футбол",
     "category": "Футбол",
     "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/4/89/347757420543894.png",
-    "teaser": "Тренера клуба РПЛ оштрафовали на ₽100 тыс. за нецензурное интервью",
+    "teaser": "РФС оштрафовал нецензурно выругавшегося в интервью 12 раз Евсеева",
     "fullContent": "",
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69d7a4829a794716238a53bc",
     "publishedAt": "2026-04-09T13:49:38.000Z",
-    "createdAt": "2026-04-09T13:56:42.521Z",
-    "updatedAt": "2026-04-09T13:56:42.521Z"
+    "createdAt": "2026-04-09T15:43:28.013Z",
+    "updatedAt": "2026-04-09T15:43:28.013Z"
   },
   {
     "id": "25b26547e61fcc5b",
@@ -24,8 +80,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69d79f929a79475f12a2189c",
     "publishedAt": "2026-04-09T13:08:42.000Z",
-    "createdAt": "2026-04-09T13:56:44.416Z",
-    "updatedAt": "2026-04-09T13:56:44.416Z"
+    "createdAt": "2026-04-09T15:43:29.997Z",
+    "updatedAt": "2026-04-09T15:43:29.997Z"
   },
   {
     "id": "84ade81055a42522",
@@ -38,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69d79b169a794782f92a1074",
     "publishedAt": "2026-04-09T13:00:29.000Z",
-    "createdAt": "2026-04-09T13:56:45.230Z",
-    "updatedAt": "2026-04-09T13:56:45.230Z"
+    "createdAt": "2026-04-09T15:43:30.933Z",
+    "updatedAt": "2026-04-09T15:43:30.933Z"
   },
   {
     "id": "935e7c3e5e40f07e",
@@ -52,8 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69d78e7e9a7947daf491abc6",
     "publishedAt": "2026-04-09T12:06:54.000Z",
-    "createdAt": "2026-04-09T13:56:43.471Z",
-    "updatedAt": "2026-04-09T13:56:43.471Z"
+    "createdAt": "2026-04-09T15:43:29.001Z",
+    "updatedAt": "2026-04-09T15:43:29.001Z"
   },
   {
     "id": "a774b5dbbb0cd8ae",
@@ -66,22 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69d7879c9a7947bed73d5fc9",
     "publishedAt": "2026-04-09T11:50:08.000Z",
-    "createdAt": "2026-04-09T13:56:46.294Z",
-    "updatedAt": "2026-04-09T13:56:46.294Z"
-  },
-  {
-    "id": "4e70d0a8b168930a",
-    "title": "Гоночный инженер Ферстаппена уйдет к конкурентам по «Формуле-1»",
-    "sport": "Другое",
-    "category": "Формула-1",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/6/94/347757296147946.jpeg",
-    "teaser": "Гоночный инженер Ферстаппена уйдет к конкурентам по «Формуле-1»",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69d77ab19a7947fe4cc7a672",
-    "publishedAt": "2026-04-09T10:48:07.000Z",
-    "createdAt": "2026-04-09T13:56:48.404Z",
-    "updatedAt": "2026-04-09T13:56:48.404Z"
+    "createdAt": "2026-04-09T15:43:31.888Z",
+    "updatedAt": "2026-04-09T15:43:31.888Z"
   },
   {
     "id": "470950090e56a1b6",
@@ -94,49 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69d775fa9a79475b96c59481",
     "publishedAt": "2026-04-09T10:19:50.000Z",
-    "createdAt": "2026-04-09T13:56:47.336Z",
-    "updatedAt": "2026-04-09T13:56:47.336Z"
-  },
-  {
-    "id": "59d2aef9a3e5df06",
-    "title": "Лыжник Коростелев заявил, что еще не получил призовые за Кубок мира",
-    "sport": "Другое",
-    "category": "Другие",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/9/39/347757265614399.png",
-    "teaser": "Лыжник Коростелев заявил, что еще не получил призовые за Кубок мира",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69d76f959a79471e04001bb9",
-    "publishedAt": "2026-04-09T10:09:47.000Z",
-    "createdAt": "2026-04-09T13:56:49.439Z",
-    "updatedAt": "2026-04-09T13:56:49.439Z"
-  },
-  {
-    "id": "64ca01c234ac6c69",
-    "title": "Игрок баскетбольного клуба научил папу римского вращать мяч на пальце",
-    "sport": "Баскетбол",
-    "category": "Баскетбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/4/24/347757266395244.jpeg",
-    "teaser": "Игрок баскетбольного клуба научил папу римского вращать мяч на пальце",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69d769b49a7947726e29184c",
-    "publishedAt": "2026-04-09T09:35:23.000Z",
-    "createdAt": "2026-04-09T13:56:50.510Z",
-    "updatedAt": "2026-04-09T13:56:50.510Z"
-  },
-  {
-    "id": "14556fb7dbe293b0",
-    "title": "Президент UFC опроверг слова Махачева о причинах срыва боя с Топурией",
-    "sport": "Единоборства",
-    "category": "Единоборства",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/0/40/347757240826400.jpeg",
-    "teaser": "Президент UFC опроверг слова Махачева о причинах срыва боя с Топурией",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69d760849a7947c16672539d",
-    "publishedAt": "2026-04-09T09:09:11.000Z",
-    "createdAt": "2026-04-09T13:56:51.560Z",
-    "updatedAt": "2026-04-09T13:56:51.560Z"
+    "createdAt": "2026-04-09T15:43:32.904Z",
+    "updatedAt": "2026-04-09T15:43:32.904Z"
   }
 ]
