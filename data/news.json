@@ -1,5 +1,33 @@
 [
   {
+    "id": "d86e888f12b066fb",
+    "title": "Топурия объяснил интерес к бою с Махачевым",
+    "sport": "Единоборства",
+    "category": "Единоборства",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/5/69/347758131220695.jpeg",
+    "teaser": "Топурия объяснил интерес к бою с Махачевым",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69d8be399a79471d38f160df",
+    "publishedAt": "2026-04-10T09:43:51.000Z",
+    "createdAt": "2026-04-10T10:11:32.033Z",
+    "updatedAt": "2026-04-10T10:11:32.033Z"
+  },
+  {
+    "id": "716629aca1e09edd",
+    "title": "Вратарь «Будё-Глимт» Хайкин получил норвежское гражданство",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/4/43/347758101313434.jpeg",
+    "teaser": "Вратарь «Будё-Глимт» Хайкин получил норвежское гражданство",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69d8b14b9a7947de85ffbdeb",
+    "publishedAt": "2026-04-10T08:47:16.000Z",
+    "createdAt": "2026-04-10T10:11:33.049Z",
+    "updatedAt": "2026-04-10T10:11:33.049Z"
+  },
+  {
     "id": "725881361b229630",
     "title": "Умер тренер трехкратного чемпиона мира по конькобежному спорту",
     "sport": "Другое",
@@ -10,8 +38,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69d8ac5d9a79474ac9d0235c",
     "publishedAt": "2026-04-10T08:07:32.000Z",
-    "createdAt": "2026-04-10T08:22:58.962Z",
-    "updatedAt": "2026-04-10T08:22:58.962Z"
+    "createdAt": "2026-04-10T10:11:34.317Z",
+    "updatedAt": "2026-04-10T10:11:34.317Z"
   },
   {
     "id": "a10dfe8fa5912337",
@@ -24,8 +52,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69d8a4289a79472a10d98357",
     "publishedAt": "2026-04-10T08:00:14.000Z",
-    "createdAt": "2026-04-10T08:22:59.915Z",
-    "updatedAt": "2026-04-10T08:22:59.915Z"
+    "createdAt": "2026-04-10T10:11:35.400Z",
+    "updatedAt": "2026-04-10T10:11:35.400Z"
   },
   {
     "id": "bce050e54e897364",
@@ -38,8 +66,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69d89c489a7947b45ebd11c5",
     "publishedAt": "2026-04-10T07:16:23.000Z",
-    "createdAt": "2026-04-10T08:23:00.882Z",
-    "updatedAt": "2026-04-10T08:23:00.882Z"
+    "createdAt": "2026-04-10T10:11:36.478Z",
+    "updatedAt": "2026-04-10T10:11:36.478Z"
   },
   {
     "id": "d1d667da2ed99b00",
@@ -52,8 +80,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69d897e39a79479745574e35",
     "publishedAt": "2026-04-10T07:05:38.000Z",
-    "createdAt": "2026-04-10T08:23:01.887Z",
-    "updatedAt": "2026-04-10T08:23:01.887Z"
+    "createdAt": "2026-04-10T10:11:37.550Z",
+    "updatedAt": "2026-04-10T10:11:37.550Z"
   },
   {
     "id": "72d0cf3ed40e268c",
@@ -66,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69d8936f9a79474675e44066",
     "publishedAt": "2026-04-10T07:04:15.000Z",
-    "createdAt": "2026-04-10T08:23:02.901Z",
-    "updatedAt": "2026-04-10T08:23:02.901Z"
+    "createdAt": "2026-04-10T10:11:38.628Z",
+    "updatedAt": "2026-04-10T10:11:38.628Z"
   },
   {
     "id": "c1b9dd39dda14e61",
@@ -80,22 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69d803f09a79475ae2290587",
     "publishedAt": "2026-04-09T20:38:51.000Z",
-    "createdAt": "2026-04-10T08:23:03.959Z",
-    "updatedAt": "2026-04-10T08:23:03.959Z"
-  },
-  {
-    "id": "ac519e812316414c",
-    "title": "«Ак Барс» обыграл минское «Динамо» в стартовом матче четвертьфинала КХЛ",
-    "sport": "Хоккей",
-    "category": "Хоккей",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/2/29/347757595269292.jpeg",
-    "teaser": "«Ак Барс» обыграл минское «Динамо» в стартовом матче четвертьфинала КХЛ",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69d7d3e99a79473990747642",
-    "publishedAt": "2026-04-09T18:59:37.000Z",
-    "createdAt": "2026-04-10T08:23:08.159Z",
-    "updatedAt": "2026-04-10T08:23:08.159Z"
+    "createdAt": "2026-04-10T10:11:39.718Z",
+    "updatedAt": "2026-04-10T10:11:39.718Z"
   },
   {
     "id": "addd45ecfd91341a",
@@ -108,8 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69d7e5af9a794771b3622c73",
     "publishedAt": "2026-04-09T18:22:37.000Z",
-    "createdAt": "2026-04-10T08:23:05.003Z",
-    "updatedAt": "2026-04-10T08:23:05.003Z"
+    "createdAt": "2026-04-10T10:11:40.799Z",
+    "updatedAt": "2026-04-10T10:11:40.799Z"
   },
   {
     "id": "f8e67bb215477fdb",
@@ -122,21 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69d7dd379a794720797af33e",
     "publishedAt": "2026-04-09T18:18:50.000Z",
-    "createdAt": "2026-04-10T08:23:06.071Z",
-    "updatedAt": "2026-04-10T08:23:06.071Z"
-  },
-  {
-    "id": "46274f51c9ada020",
-    "title": "Российский шахматист лишился шансов на титульный матч с чемпионом мира",
-    "sport": "Другое",
-    "category": "Другие",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/1/52/347757542453521.png",
-    "teaser": "Российский шахматист лишился шансов на титульный матч с чемпионом мира",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69d7d8399a79470739590d97",
-    "publishedAt": "2026-04-09T17:26:12.000Z",
-    "createdAt": "2026-04-10T08:23:07.103Z",
-    "updatedAt": "2026-04-10T08:23:07.103Z"
+    "createdAt": "2026-04-10T10:11:41.883Z",
+    "updatedAt": "2026-04-10T10:11:41.883Z"
   }
 ]
