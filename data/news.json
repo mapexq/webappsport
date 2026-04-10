@@ -1,5 +1,47 @@
 [
   {
+    "id": "ac857d01fce6dba5",
+    "title": "«Локомотив» второй раз подряд обыграл «Салават Юлаев» в Кубке Гагарина",
+    "sport": "Хоккей",
+    "category": "Хоккей",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/7/83/347758459845837.jpeg",
+    "teaser": "«Локомотив» второй раз подряд обыграл «Салават Юлаев» в Кубке Гагарина",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69d92f089a79476ca96f8833",
+    "publishedAt": "2026-04-10T18:58:46.000Z",
+    "createdAt": "2026-04-10T19:02:12.213Z",
+    "updatedAt": "2026-04-10T19:02:12.213Z"
+  },
+  {
+    "id": "f7b60f4e9be4d138",
+    "title": "Овечкина номинировали на вторую награду в НХЛ за три дня",
+    "sport": "Хоккей",
+    "category": "Хоккей",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/6/72/347758420222726.jpeg",
+    "teaser": "Овечкина номинировали на вторую награду в НХЛ за три дня",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69d92f409a79479e8f381304",
+    "publishedAt": "2026-04-10T17:40:32.000Z",
+    "createdAt": "2026-04-10T19:02:13.251Z",
+    "updatedAt": "2026-04-10T19:02:13.251Z"
+  },
+  {
+    "id": "102d0bcc0d4b26c5",
+    "title": "Баскетбольный тренер девятью матерными словами оценил игру своего клуба",
+    "sport": "Баскетбол",
+    "category": "Баскетбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/6/25/347758374685256.jpeg",
+    "teaser": "Баскетбольный тренер девятью матерными словами оценил игру своего клуба",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69d920099a7947c30e972745",
+    "publishedAt": "2026-04-10T17:05:43.000Z",
+    "createdAt": "2026-04-10T19:02:14.252Z",
+    "updatedAt": "2026-04-10T19:02:14.252Z"
+  },
+  {
     "id": "81de91a13eb01a4d",
     "title": "«Авангард» обыграл ЦСКА во втором матче четвертьфинала Кубка Гагарина",
     "sport": "Хоккей",
@@ -10,8 +52,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69d8fd869a79475fe44ce7b1",
     "publishedAt": "2026-04-10T16:07:20.000Z",
-    "createdAt": "2026-04-10T17:01:20.500Z",
-    "updatedAt": "2026-04-10T17:01:20.500Z"
+    "createdAt": "2026-04-10T19:02:15.262Z",
+    "updatedAt": "2026-04-10T19:02:15.262Z"
   },
   {
     "id": "8a74e60e3b341988",
@@ -24,8 +66,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69d91a729a79476a2ac451b4",
     "publishedAt": "2026-04-10T16:06:07.000Z",
-    "createdAt": "2026-04-10T17:01:21.499Z",
-    "updatedAt": "2026-04-10T17:01:21.499Z"
+    "createdAt": "2026-04-10T19:02:16.268Z",
+    "updatedAt": "2026-04-10T19:02:16.268Z"
   },
   {
     "id": "a2ee96402ab420b9",
@@ -38,8 +80,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69d90cb09a794720712fc899",
     "publishedAt": "2026-04-10T15:45:58.000Z",
-    "createdAt": "2026-04-10T17:01:23.781Z",
-    "updatedAt": "2026-04-10T17:01:23.781Z"
+    "createdAt": "2026-04-10T19:02:18.304Z",
+    "updatedAt": "2026-04-10T19:02:18.304Z"
   },
   {
     "id": "ddbd975b5e166801",
@@ -52,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69d916f59a7947b56844a479",
     "publishedAt": "2026-04-10T15:44:48.000Z",
-    "createdAt": "2026-04-10T17:01:22.569Z",
-    "updatedAt": "2026-04-10T17:01:22.569Z"
+    "createdAt": "2026-04-10T19:02:17.311Z",
+    "updatedAt": "2026-04-10T19:02:17.311Z"
   },
   {
     "id": "50e88d816a5d4b07",
@@ -66,8 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69d8f1879a79477286923d38",
     "publishedAt": "2026-04-10T13:46:11.000Z",
-    "createdAt": "2026-04-10T17:01:24.921Z",
-    "updatedAt": "2026-04-10T17:01:24.921Z"
+    "createdAt": "2026-04-10T19:02:19.335Z",
+    "updatedAt": "2026-04-10T19:02:19.335Z"
   },
   {
     "id": "b66e4681d177c805",
@@ -80,8 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69d8f7bf9a79472f05b753fb",
     "publishedAt": "2026-04-10T13:40:28.000Z",
-    "createdAt": "2026-04-10T17:01:26.093Z",
-    "updatedAt": "2026-04-10T17:01:26.093Z"
+    "createdAt": "2026-04-10T19:02:20.345Z",
+    "updatedAt": "2026-04-10T19:02:20.345Z"
   },
   {
     "id": "27c06ea9b835c3dc",
@@ -94,49 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69d8ea4c9a7947f8f8dba509",
     "publishedAt": "2026-04-10T12:40:44.000Z",
-    "createdAt": "2026-04-10T17:01:27.262Z",
-    "updatedAt": "2026-04-10T17:01:27.262Z"
-  },
-  {
-    "id": "755bda1d4199b265",
-    "title": "Малкин и Кросби установили уникальное достижение в НХЛ",
-    "sport": "Хоккей",
-    "category": "Хоккей",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/6/60/347758221706606.jpeg",
-    "teaser": "Малкин и Кросби установили уникальное достижение в НХЛ",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69d8e14d9a794798c8b0cd94",
-    "publishedAt": "2026-04-10T12:03:34.000Z",
-    "createdAt": "2026-04-10T17:01:28.448Z",
-    "updatedAt": "2026-04-10T17:01:28.448Z"
-  },
-  {
-    "id": "e91470133d2ce06b",
-    "title": "Джокович рассказал о планах завершить карьеру на Олимпиаде‑2028",
-    "sport": "Теннис",
-    "category": "Теннис",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/1/30/347758188995301.jpeg",
-    "teaser": "Джокович рассказал о планах завершить карьеру на Олимпиаде‑2028",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69d8d3bb9a79474faa5c13c6",
-    "publishedAt": "2026-04-10T11:22:53.000Z",
-    "createdAt": "2026-04-10T17:01:29.650Z",
-    "updatedAt": "2026-04-10T17:01:29.650Z"
-  },
-  {
-    "id": "99ef5dd77b561fe0",
-    "title": "Российские ватерполисты впервые с 2022 года вышли в 1/4 финала КМ",
-    "sport": "Другое",
-    "category": "Другие",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/8/64/347758172088648.jpeg",
-    "teaser": "Российские ватерполисты впервые с 2022 года вышли в 1/4 финала КМ",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69d8cfae9a79475df1445439",
-    "publishedAt": "2026-04-10T10:41:01.000Z",
-    "createdAt": "2026-04-10T17:01:30.573Z",
-    "updatedAt": "2026-04-10T17:01:30.573Z"
+    "createdAt": "2026-04-10T19:02:21.244Z",
+    "updatedAt": "2026-04-10T19:02:21.244Z"
   }
 ]
