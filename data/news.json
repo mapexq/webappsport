@@ -1,5 +1,47 @@
 [
   {
+    "id": "19f15f015f2d4a42",
+    "title": "Первая ракетка России вышла в финал турнира в Линце",
+    "sport": "Теннис",
+    "category": "Теннис",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/2/83/347759222581832.jpeg",
+    "teaser": "Первая ракетка России вышла в финал турнира в Линце",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69da69a99a7947c712e247b3",
+    "publishedAt": "2026-04-11T15:52:32.000Z",
+    "createdAt": "2026-04-11T16:44:18.289Z",
+    "updatedAt": "2026-04-11T16:44:18.289Z"
+  },
+  {
+    "id": "da3dd3dc5e70cd85",
+    "title": "Алькарас сыграет с Синнером в финале «Мастерса» в Монте-Карло",
+    "sport": "Теннис",
+    "category": "Теннис",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/5/68/347759212730685.jpeg",
+    "teaser": "Алькарас сыграет с Синнером в финале «Мастерса» в Монте-Карло",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69da64fa9a7947981048ecdf",
+    "publishedAt": "2026-04-11T15:41:54.000Z",
+    "createdAt": "2026-04-11T16:44:19.577Z",
+    "updatedAt": "2026-04-11T16:44:19.577Z"
+  },
+  {
+    "id": "f057c0b6119ab42f",
+    "title": "Нападающий минского «Динамо» Стась достиг отметки 1000 матчей в КХЛ",
+    "sport": "Хоккей",
+    "category": "Хоккей",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/8/82/347759198814828.jpeg",
+    "teaser": "Нападающий минского «Динамо» Стась достиг отметки 1000 матчей в КХЛ",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69da60099a79478c045602ff",
+    "publishedAt": "2026-04-11T15:34:51.000Z",
+    "createdAt": "2026-04-11T16:44:20.701Z",
+    "updatedAt": "2026-04-11T16:44:20.701Z"
+  },
+  {
     "id": "31e21ddb57ccfd07",
     "title": "Россияне выиграли первое золото на чемпионате Европы по прыжкам на батуте",
     "sport": "Другое",
@@ -10,8 +52,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69da5c6e9a7947b93060ea41",
     "publishedAt": "2026-04-11T15:03:11.000Z",
-    "createdAt": "2026-04-11T15:38:50.084Z",
-    "updatedAt": "2026-04-11T15:38:50.084Z"
+    "createdAt": "2026-04-11T16:44:22.667Z",
+    "updatedAt": "2026-04-11T16:44:22.667Z"
   },
   {
     "id": "e459bd7ba8c88620",
@@ -24,8 +66,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69da54f19a79476032e110d0",
     "publishedAt": "2026-04-11T14:56:55.000Z",
-    "createdAt": "2026-04-11T15:38:51.061Z",
-    "updatedAt": "2026-04-11T15:38:51.061Z"
+    "createdAt": "2026-04-11T16:44:23.824Z",
+    "updatedAt": "2026-04-11T16:44:23.824Z"
   },
   {
     "id": "763f9c7e85f90399",
@@ -38,8 +80,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69da4bd29a7947d454a869a5",
     "publishedAt": "2026-04-11T13:42:39.000Z",
-    "createdAt": "2026-04-11T15:38:52.067Z",
-    "updatedAt": "2026-04-11T15:38:52.067Z"
+    "createdAt": "2026-04-11T16:44:24.977Z",
+    "updatedAt": "2026-04-11T16:44:24.977Z"
   },
   {
     "id": "f34e20197c5b0232",
@@ -52,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69da39389a794774073f7a8d",
     "publishedAt": "2026-04-11T13:11:52.000Z",
-    "createdAt": "2026-04-11T15:38:53.132Z",
-    "updatedAt": "2026-04-11T15:38:53.132Z"
+    "createdAt": "2026-04-11T16:44:26.114Z",
+    "updatedAt": "2026-04-11T16:44:26.114Z"
   },
   {
     "id": "a0bfdcd3088868fd",
@@ -66,8 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69da30959a79474b606eaeba",
     "publishedAt": "2026-04-11T12:58:42.000Z",
-    "createdAt": "2026-04-11T15:38:54.171Z",
-    "updatedAt": "2026-04-11T15:38:54.171Z"
+    "createdAt": "2026-04-11T16:44:27.189Z",
+    "updatedAt": "2026-04-11T16:44:27.189Z"
   },
   {
     "id": "00adbd4a4b895667",
@@ -80,8 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69da3b1d9a794796765468b3",
     "publishedAt": "2026-04-11T12:56:02.000Z",
-    "createdAt": "2026-04-11T15:38:55.190Z",
-    "updatedAt": "2026-04-11T15:38:55.190Z"
+    "createdAt": "2026-04-11T16:44:28.324Z",
+    "updatedAt": "2026-04-11T16:44:28.324Z"
   },
   {
     "id": "f1a72f4da99806dd",
@@ -94,49 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69da29e69a79473c5115862e",
     "publishedAt": "2026-04-11T11:30:21.000Z",
-    "createdAt": "2026-04-11T15:38:56.212Z",
-    "updatedAt": "2026-04-11T15:38:56.212Z"
-  },
-  {
-    "id": "f29fb29af3a830ef",
-    "title": "Главный тренер «Балтики» Талалаев перенес операцию",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/8/52/347759048352528.jpeg",
-    "teaser": "Главный тренер «Балтики» Талалаев перенес операцию",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69da25a09a7947d39a9dbaca",
-    "publishedAt": "2026-04-11T11:23:01.000Z",
-    "createdAt": "2026-04-11T15:38:57.238Z",
-    "updatedAt": "2026-04-11T15:38:57.238Z"
-  },
-  {
-    "id": "6b4fbf725a085746",
-    "title": "Леброн Джеймс набрал 12 тыс. результативных передач за карьеру в НБА",
-    "sport": "Баскетбол",
-    "category": "Баскетбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/4/12/347758991147124.jpeg",
-    "teaser": "Леброн Джеймс набрал 12 тыс. результативных передач за карьеру в НБА",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69da0fd79a7947822138720e",
-    "publishedAt": "2026-04-11T10:29:21.000Z",
-    "createdAt": "2026-04-11T15:38:58.287Z",
-    "updatedAt": "2026-04-11T15:38:58.287Z"
-  },
-  {
-    "id": "a92145961f90f5d4",
-    "title": "Лыжница Гончарова выиграла масс-старт на чемпионате России",
-    "sport": "Другое",
-    "category": "Другие",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/8/17/347759005964178.jpeg",
-    "teaser": "Лыжница Гончарова выиграла масс-старт на чемпионате России",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69da16db9a79472ffa5a4641",
-    "publishedAt": "2026-04-11T09:53:08.000Z",
-    "createdAt": "2026-04-11T15:38:59.344Z",
-    "updatedAt": "2026-04-11T15:38:59.344Z"
+    "createdAt": "2026-04-11T16:44:29.454Z",
+    "updatedAt": "2026-04-11T16:44:29.454Z"
   }
 ]
