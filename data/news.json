@@ -1,33 +1,5 @@
 [
   {
-    "id": "6ec23a15e369a833",
-    "title": "Первая ракетка России вышла в финал турнира в Линце",
-    "sport": "Теннис",
-    "category": "Теннис",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/2/83/347759222581832.jpeg",
-    "teaser": "Первая ракетка России вышла в финал турнира в Линце",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69da69a99a7947c712e247b3",
-    "publishedAt": "2026-04-11T18:55:00.476Z",
-    "createdAt": "2026-04-11T18:55:00.477Z",
-    "updatedAt": "2026-04-11T18:55:00.477Z"
-  },
-  {
-    "id": "6fd2d84caa7879f3",
-    "title": "«Бавария» установила новый рекорд Бундеслиги по забитым голам за сезон",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/6/22/347759313584226.jpeg",
-    "teaser": "«Бавария» установила новый рекорд Бундеслиги по забитым голам за сезон",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69da8b979a794721a2875383",
-    "publishedAt": "2026-04-11T18:54:42.859Z",
-    "createdAt": "2026-04-11T18:54:42.861Z",
-    "updatedAt": "2026-04-11T18:54:42.861Z"
-  },
-  {
     "id": "ca891af831b6f660",
     "title": "«Балтика» без Талалаева сыграла вничью с «Пари НН» в матче 24-го тура РПЛ",
     "sport": "Футбол",
@@ -38,8 +10,22 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69da886e9a7947093392bf01",
     "publishedAt": "2026-04-11T18:44:46.000Z",
-    "createdAt": "2026-04-11T18:54:28.722Z",
-    "updatedAt": "2026-04-11T18:54:28.722Z"
+    "createdAt": "2026-04-11T19:38:31.642Z",
+    "updatedAt": "2026-04-11T19:38:31.642Z"
+  },
+  {
+    "id": "6ac3aaff0c423e33",
+    "title": "«Бавария» установила новый рекорд Бундеслиги по забитым голам за сезон",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/6/22/347759313584226.jpeg",
+    "teaser": "«Бавария» установила новый рекорд Бундеслиги по забитым голам за сезон",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69da8b979a794721a2875383",
+    "publishedAt": "2026-04-11T18:22:25.000Z",
+    "createdAt": "2026-04-11T19:38:32.716Z",
+    "updatedAt": "2026-04-11T19:38:32.716Z"
   },
   {
     "id": "bc323f10ea729b7b",
@@ -52,8 +38,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69da81499a7947dd06d63eb4",
     "publishedAt": "2026-04-11T17:55:04.000Z",
-    "createdAt": "2026-04-11T18:54:44.139Z",
-    "updatedAt": "2026-04-11T18:54:44.139Z"
+    "createdAt": "2026-04-11T19:38:33.764Z",
+    "updatedAt": "2026-04-11T19:38:33.764Z"
   },
   {
     "id": "b65f95c3e5c94286",
@@ -66,8 +52,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69da76bc9a79477e8ffe07ae",
     "publishedAt": "2026-04-11T17:29:46.000Z",
-    "createdAt": "2026-04-11T18:54:45.189Z",
-    "updatedAt": "2026-04-11T18:54:45.190Z"
+    "createdAt": "2026-04-11T19:38:34.727Z",
+    "updatedAt": "2026-04-11T19:38:34.727Z"
   },
   {
     "id": "7e9d34774a113d1b",
@@ -80,8 +66,22 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69da5d799a79475d0a57ef38",
     "publishedAt": "2026-04-11T17:03:32.000Z",
-    "createdAt": "2026-04-11T18:54:46.236Z",
-    "updatedAt": "2026-04-11T18:54:46.236Z"
+    "createdAt": "2026-04-11T19:38:35.690Z",
+    "updatedAt": "2026-04-11T19:38:35.690Z"
+  },
+  {
+    "id": "19f15f015f2d4a42",
+    "title": "Первая ракетка России вышла в финал турнира в Линце",
+    "sport": "Теннис",
+    "category": "Теннис",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/2/83/347759222581832.jpeg",
+    "teaser": "Первая ракетка России вышла в финал турнира в Линце",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69da69a99a7947c712e247b3",
+    "publishedAt": "2026-04-11T15:52:32.000Z",
+    "createdAt": "2026-04-11T19:38:37.026Z",
+    "updatedAt": "2026-04-11T19:38:37.026Z"
   },
   {
     "id": "da3dd3dc5e70cd85",
@@ -94,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69da64fa9a7947981048ecdf",
     "publishedAt": "2026-04-11T15:41:54.000Z",
-    "createdAt": "2026-04-11T18:55:02.240Z",
-    "updatedAt": "2026-04-11T18:55:02.240Z"
+    "createdAt": "2026-04-11T19:38:38.065Z",
+    "updatedAt": "2026-04-11T19:38:38.065Z"
   },
   {
     "id": "f057c0b6119ab42f",
@@ -108,8 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69da60099a79478c045602ff",
     "publishedAt": "2026-04-11T15:34:51.000Z",
-    "createdAt": "2026-04-11T18:55:03.273Z",
-    "updatedAt": "2026-04-11T18:55:03.273Z"
+    "createdAt": "2026-04-11T19:38:39.093Z",
+    "updatedAt": "2026-04-11T19:38:39.093Z"
   },
   {
     "id": "31e21ddb57ccfd07",
@@ -122,8 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69da5c6e9a7947b93060ea41",
     "publishedAt": "2026-04-11T15:03:11.000Z",
-    "createdAt": "2026-04-11T18:55:05.126Z",
-    "updatedAt": "2026-04-11T18:55:05.126Z"
+    "createdAt": "2026-04-11T19:38:40.908Z",
+    "updatedAt": "2026-04-11T19:38:40.908Z"
   },
   {
     "id": "e459bd7ba8c88620",
@@ -136,7 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69da54f19a79476032e110d0",
     "publishedAt": "2026-04-11T14:56:55.000Z",
-    "createdAt": "2026-04-11T18:55:06.198Z",
-    "updatedAt": "2026-04-11T18:55:06.198Z"
+    "createdAt": "2026-04-11T19:38:41.911Z",
+    "updatedAt": "2026-04-11T19:38:41.911Z"
   }
 ]
