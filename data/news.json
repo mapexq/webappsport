@@ -1,5 +1,33 @@
 [
   {
+    "id": "763f9c7e85f90399",
+    "title": "Синнер обыграл Зверева и впервые вышел в финал «Мастерса» в Монте-Карло",
+    "sport": "Теннис",
+    "category": "Теннис",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/9/77/347759141316779.jpeg",
+    "teaser": "Синнер обыграл Зверева и впервые вышел в финал «Мастерса» в Монте-Карло",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69da4bd29a7947d454a869a5",
+    "publishedAt": "2026-04-11T13:42:39.000Z",
+    "createdAt": "2026-04-11T14:40:48.499Z",
+    "updatedAt": "2026-04-11T14:40:48.499Z"
+  },
+  {
+    "id": "f34e20197c5b0232",
+    "title": "Клуб Черчесова сыграл вничью с «Крыльями Советов» в матче РПЛ",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/2/75/347759096974752.jpeg",
+    "teaser": "Клуб Черчесова сыграл вничью с «Крыльями Советов» в матче РПЛ",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69da39389a794774073f7a8d",
+    "publishedAt": "2026-04-11T13:11:52.000Z",
+    "createdAt": "2026-04-11T14:40:49.589Z",
+    "updatedAt": "2026-04-11T14:40:49.589Z"
+  },
+  {
     "id": "a0bfdcd3088868fd",
     "title": "Чемпион «регулярки» второй раз подряд обыграл «Торпедо» в плей-офф КХЛ",
     "sport": "Хоккей",
@@ -10,8 +38,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69da30959a79474b606eaeba",
     "publishedAt": "2026-04-11T12:58:42.000Z",
-    "createdAt": "2026-04-11T13:10:50.773Z",
-    "updatedAt": "2026-04-11T13:10:50.773Z"
+    "createdAt": "2026-04-11T14:40:50.685Z",
+    "updatedAt": "2026-04-11T14:40:50.685Z"
   },
   {
     "id": "00adbd4a4b895667",
@@ -24,8 +52,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69da3b1d9a794796765468b3",
     "publishedAt": "2026-04-11T12:56:02.000Z",
-    "createdAt": "2026-04-11T13:10:51.811Z",
-    "updatedAt": "2026-04-11T13:10:51.811Z"
+    "createdAt": "2026-04-11T14:40:51.837Z",
+    "updatedAt": "2026-04-11T14:40:51.837Z"
   },
   {
     "id": "f1a72f4da99806dd",
@@ -38,8 +66,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69da29e69a79473c5115862e",
     "publishedAt": "2026-04-11T11:30:21.000Z",
-    "createdAt": "2026-04-11T13:10:53.088Z",
-    "updatedAt": "2026-04-11T13:10:53.088Z"
+    "createdAt": "2026-04-11T14:40:53.091Z",
+    "updatedAt": "2026-04-11T14:40:53.091Z"
   },
   {
     "id": "f29fb29af3a830ef",
@@ -52,8 +80,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69da25a09a7947d39a9dbaca",
     "publishedAt": "2026-04-11T11:23:01.000Z",
-    "createdAt": "2026-04-11T13:10:54.254Z",
-    "updatedAt": "2026-04-11T13:10:54.254Z"
+    "createdAt": "2026-04-11T14:40:54.193Z",
+    "updatedAt": "2026-04-11T14:40:54.193Z"
   },
   {
     "id": "6b4fbf725a085746",
@@ -66,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69da0fd79a7947822138720e",
     "publishedAt": "2026-04-11T10:29:21.000Z",
-    "createdAt": "2026-04-11T13:10:55.282Z",
-    "updatedAt": "2026-04-11T13:10:55.282Z"
+    "createdAt": "2026-04-11T14:40:55.378Z",
+    "updatedAt": "2026-04-11T14:40:55.378Z"
   },
   {
     "id": "a92145961f90f5d4",
@@ -80,11 +108,11 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69da16db9a79472ffa5a4641",
     "publishedAt": "2026-04-11T09:53:08.000Z",
-    "createdAt": "2026-04-11T13:10:56.375Z",
-    "updatedAt": "2026-04-11T13:10:56.375Z"
+    "createdAt": "2026-04-11T14:40:56.533Z",
+    "updatedAt": "2026-04-11T14:40:56.533Z"
   },
   {
-    "id": "64f85871cceee8b1",
+    "id": "9cbb691ace57c848",
     "title": "Малкин вошел в топ-3 самых результативных игроков НХЛ старше 39 лет",
     "sport": "Хоккей",
     "category": "Хоккей",
@@ -93,50 +121,22 @@
     "fullContent": "",
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69d9fecd9a79470be5fda5a8",
-    "publishedAt": "2026-04-11T09:49:50.000Z",
-    "createdAt": "2026-04-11T13:10:57.405Z",
-    "updatedAt": "2026-04-11T13:10:57.405Z"
+    "publishedAt": "2026-04-11T09:49:51.000Z",
+    "createdAt": "2026-04-11T14:40:57.690Z",
+    "updatedAt": "2026-04-11T14:40:57.690Z"
   },
   {
-    "id": "5ec2bdeb7e80d2db",
-    "title": "ФИФА не перенесет матчи Ирана на чемпионате мира-2026 из США",
+    "id": "16debe89f2fdf6c3",
+    "title": "ФИФА не перенесет матчи Ирана на чемпионате мира — 2026 из США",
     "sport": "Футбол",
     "category": "Футбол",
     "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/8/79/347758915340798.jpeg",
-    "teaser": "ФИФА не перенесет матчи Ирана на чемпионате мира-2026 из США",
+    "teaser": "ФИФА не перенесет матчи Ирана на чемпионате мира — 2026 из США",
     "fullContent": "",
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69d9f0599a79473b93c43260",
     "publishedAt": "2026-04-11T09:14:18.000Z",
-    "createdAt": "2026-04-11T13:10:58.471Z",
-    "updatedAt": "2026-04-11T13:10:58.471Z"
-  },
-  {
-    "id": "9930a99e8638c99f",
-    "title": "Овечкин забрал клюшку, которой ему отдали пас на тысячную шайбу в НХЛ",
-    "sport": "Хоккей",
-    "category": "Хоккей",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/5/21/347758879412215.jpeg",
-    "teaser": "Овечкин забрал клюшку, которой ему отдали пас на тысячную шайбу в НХЛ",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69d9e6129a79473c3444542e",
-    "publishedAt": "2026-04-11T07:16:24.000Z",
-    "createdAt": "2026-04-11T13:10:59.555Z",
-    "updatedAt": "2026-04-11T13:10:59.555Z"
-  },
-  {
-    "id": "1e3e361d22bc7eee",
-    "title": "Матч за чемпионство. Главные интриги тура РПЛ",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/3/01/347758174390013.jpeg",
-    "teaser": "Матч за чемпионство. Главные интриги тура РПЛ",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69d608869a7947280837c324",
-    "publishedAt": "2026-04-11T07:01:05.000Z",
-    "createdAt": "2026-04-11T13:11:00.623Z",
-    "updatedAt": "2026-04-11T13:11:00.623Z"
+    "createdAt": "2026-04-11T14:40:58.867Z",
+    "updatedAt": "2026-04-11T14:40:58.867Z"
   }
 ]
