@@ -1,5 +1,33 @@
 [
   {
+    "id": "25b67bb9bb3d135c",
+    "title": "Большунов выиграл масс-старт на 70 км на чемпионате России",
+    "sport": "Другое",
+    "category": "Другие",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/4/69/347759898296694.png",
+    "teaser": "Большунов выиграл масс-старт на 70 км на чемпионате России",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69db74339a79477ff3139a42",
+    "publishedAt": "2026-04-12T10:36:15.000Z",
+    "createdAt": "2026-04-12T10:45:32.590Z",
+    "updatedAt": "2026-04-12T10:45:32.590Z"
+  },
+  {
+    "id": "e7ea1cb051bab724",
+    "title": "Впервые в топ-5 футбольных лиг Европы женщину назначили главным тренером",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/6/36/347759877975366.jpeg",
+    "teaser": "Впервые в топ-5 футбольных лиг Европы женщину назначили главным тренером",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69db6c409a794703aa8029ef",
+    "publishedAt": "2026-04-12T10:18:31.000Z",
+    "createdAt": "2026-04-12T10:45:31.621Z",
+    "updatedAt": "2026-04-12T10:45:31.621Z"
+  },
+  {
     "id": "02db339a9ec5e2f5",
     "title": "Российского чемпиона UFC Махачева обокрали в Италии",
     "sport": "Единоборства",
@@ -10,8 +38,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69db61759a794709b860e26b",
     "publishedAt": "2026-04-12T09:42:09.000Z",
-    "createdAt": "2026-04-12T09:53:06.163Z",
-    "updatedAt": "2026-04-12T09:53:06.163Z"
+    "createdAt": "2026-04-12T10:45:33.553Z",
+    "updatedAt": "2026-04-12T10:45:33.553Z"
   },
   {
     "id": "9e35e9418ed6a14a",
@@ -24,8 +52,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69ce59e59a7947188efbf249",
     "publishedAt": "2026-04-12T06:49:04.000Z",
-    "createdAt": "2026-04-12T09:53:08.605Z",
-    "updatedAt": "2026-04-12T09:53:08.605Z"
+    "createdAt": "2026-04-12T10:45:36.806Z",
+    "updatedAt": "2026-04-12T10:45:36.806Z"
   },
   {
     "id": "f653c4b7b33178c8",
@@ -38,8 +66,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69d89d1d9a79477d5b09ce08",
     "publishedAt": "2026-04-12T06:46:01.000Z",
-    "createdAt": "2026-04-12T09:53:09.965Z",
-    "updatedAt": "2026-04-12T09:53:09.965Z"
+    "createdAt": "2026-04-12T10:45:34.660Z",
+    "updatedAt": "2026-04-12T10:45:34.660Z"
   },
   {
     "id": "7d6f4316d299ffee",
@@ -52,8 +80,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69db288f9a794760eec830f4",
     "publishedAt": "2026-04-12T05:32:37.000Z",
-    "createdAt": "2026-04-12T09:53:11.119Z",
-    "updatedAt": "2026-04-12T09:53:11.119Z"
+    "createdAt": "2026-04-12T10:45:38.894Z",
+    "updatedAt": "2026-04-12T10:45:38.894Z"
   },
   {
     "id": "1c9663e282bb8305",
@@ -66,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69db23f49a79470270000bf3",
     "publishedAt": "2026-04-12T05:14:40.000Z",
-    "createdAt": "2026-04-12T09:53:07.302Z",
-    "updatedAt": "2026-04-12T09:53:07.302Z"
+    "createdAt": "2026-04-12T10:45:37.873Z",
+    "updatedAt": "2026-04-12T10:45:37.873Z"
   },
   {
     "id": "9e69d2c2b7f1d707",
@@ -80,8 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69d4ed669a79471455a16c67",
     "publishedAt": "2026-04-11T21:03:00.000Z",
-    "createdAt": "2026-04-12T09:53:12.281Z",
-    "updatedAt": "2026-04-12T09:53:12.281Z"
+    "createdAt": "2026-04-12T10:45:35.695Z",
+    "updatedAt": "2026-04-12T10:45:35.695Z"
   },
   {
     "id": "d91f18ae6c943fea",
@@ -94,8 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69da886e9a7947093392bf01",
     "publishedAt": "2026-04-11T18:44:46.000Z",
-    "createdAt": "2026-04-12T09:53:13.428Z",
-    "updatedAt": "2026-04-12T09:53:13.428Z"
+    "createdAt": "2026-04-12T10:45:39.934Z",
+    "updatedAt": "2026-04-12T10:45:39.934Z"
   },
   {
     "id": "6ac3aaff0c423e33",
@@ -108,35 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69da8b979a794721a2875383",
     "publishedAt": "2026-04-11T18:22:25.000Z",
-    "createdAt": "2026-04-12T09:53:14.636Z",
-    "updatedAt": "2026-04-12T09:53:14.636Z"
-  },
-  {
-    "id": "bc323f10ea729b7b",
-    "title": "Малкин и Кросби пропустят матч против «Вашингтона» Овечкина из-за травм",
-    "sport": "Хоккей",
-    "category": "Хоккей",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/9/39/347759284387399.jpeg",
-    "teaser": "Малкин и Кросби пропустят матч против «Вашингтона» Овечкина из-за травм",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69da81499a7947dd06d63eb4",
-    "publishedAt": "2026-04-11T17:55:04.000Z",
-    "createdAt": "2026-04-12T09:53:15.794Z",
-    "updatedAt": "2026-04-12T09:53:15.794Z"
-  },
-  {
-    "id": "b65f95c3e5c94286",
-    "title": "Впервые в истории АПЛ футболист из Бразилии достиг 20 голов за сезон",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/1/48/347759263848481.jpeg",
-    "teaser": "Впервые в истории АПЛ футболист из Бразилии достиг 20 голов за сезон",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69da76bc9a79477e8ffe07ae",
-    "publishedAt": "2026-04-11T17:29:46.000Z",
-    "createdAt": "2026-04-12T09:53:16.957Z",
-    "updatedAt": "2026-04-12T09:53:16.957Z"
+    "createdAt": "2026-04-12T10:45:40.973Z",
+    "updatedAt": "2026-04-12T10:45:40.973Z"
   }
 ]
