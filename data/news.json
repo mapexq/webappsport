@@ -1,17 +1,31 @@
 [
   {
-    "id": "6b5d31d6e23736aa",
-    "title": "Синнер победил Алькараса в Монте-Карло и снова будет первой ракеткой мира",
+    "id": "1f2420926395e4bf",
+    "title": "Российские ватерполисты сыграют с украинцами за седьмое место Кубка мира",
+    "sport": "Другое",
+    "category": "Другие",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/2/82/347760111944822.png",
+    "teaser": "Российские ватерполисты сыграют с украинцами за седьмое место Кубка мира",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69dbc2a19a79471ec15098ef",
+    "publishedAt": "2026-04-12T16:31:47.000Z",
+    "createdAt": "2026-04-12T16:48:12.918Z",
+    "updatedAt": "2026-04-12T16:48:12.918Z"
+  },
+  {
+    "id": "45ad15cd4ecf9d2b",
+    "title": "Синнер победил Алькараса и впервые с ноября возглавил мировой рейтинг",
     "sport": "Теннис",
     "category": "Теннис",
     "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/5/75/347760078506755.jpeg",
-    "teaser": "Синнер победил Алькараса в Монте-Карло и снова будет первой ракеткой мира",
+    "teaser": "Синнер победил Алькараса и впервые с ноября возглавил мировой рейтинг",
     "fullContent": "",
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69dba9489a7947072e518eb2",
     "publishedAt": "2026-04-12T15:35:22.000Z",
-    "createdAt": "2026-04-12T15:41:12.129Z",
-    "updatedAt": "2026-04-12T15:41:12.129Z"
+    "createdAt": "2026-04-12T16:48:13.988Z",
+    "updatedAt": "2026-04-12T16:48:13.988Z"
   },
   {
     "id": "b55756f32d020ba3",
@@ -24,8 +38,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69dbabb79a7947af1d1d99ac",
     "publishedAt": "2026-04-12T15:32:02.000Z",
-    "createdAt": "2026-04-12T15:41:13.152Z",
-    "updatedAt": "2026-04-12T15:41:13.152Z"
+    "createdAt": "2026-04-12T16:48:15.084Z",
+    "updatedAt": "2026-04-12T16:48:15.084Z"
   },
   {
     "id": "64f468030a41a759",
@@ -38,8 +52,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69dbab949a7947072e518eb5",
     "publishedAt": "2026-04-12T15:27:18.000Z",
-    "createdAt": "2026-04-12T15:41:14.123Z",
-    "updatedAt": "2026-04-12T15:41:14.123Z"
+    "createdAt": "2026-04-12T16:48:16.181Z",
+    "updatedAt": "2026-04-12T16:48:16.181Z"
   },
   {
     "id": "d8c35ab86dbc5fc8",
@@ -52,8 +66,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69db9a9c9a7947418c7d67df",
     "publishedAt": "2026-04-12T14:07:23.000Z",
-    "createdAt": "2026-04-12T15:41:15.186Z",
-    "updatedAt": "2026-04-12T15:41:15.186Z"
+    "createdAt": "2026-04-12T16:48:17.285Z",
+    "updatedAt": "2026-04-12T16:48:17.285Z"
   },
   {
     "id": "8e90959c01812c5d",
@@ -66,8 +80,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69db80b29a7947c6b07a1f56",
     "publishedAt": "2026-04-12T13:08:14.000Z",
-    "createdAt": "2026-04-12T15:41:19.531Z",
-    "updatedAt": "2026-04-12T15:41:19.531Z"
+    "createdAt": "2026-04-12T16:48:22.343Z",
+    "updatedAt": "2026-04-12T16:48:22.343Z"
   },
   {
     "id": "469e303130533010",
@@ -80,22 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69db8df79a79474551e17540",
     "publishedAt": "2026-04-12T12:54:00.000Z",
-    "createdAt": "2026-04-12T15:41:20.556Z",
-    "updatedAt": "2026-04-12T15:41:20.556Z"
-  },
-  {
-    "id": "f27196acd255eabe",
-    "title": "Евгения Кузнецова унесли на носилках со льда в матче с «Локомотивом»",
-    "sport": "Хоккей",
-    "category": "Хоккей",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/8/48/347759940205488.png",
-    "teaser": "Евгения Кузнецова унесли на носилках со льда в матче с «Локомотивом»",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69db84209a7947053484be64",
-    "publishedAt": "2026-04-12T11:51:46.000Z",
-    "createdAt": "2026-04-12T15:41:21.623Z",
-    "updatedAt": "2026-04-12T15:41:21.623Z"
+    "createdAt": "2026-04-12T16:48:23.481Z",
+    "updatedAt": "2026-04-12T16:48:23.481Z"
   },
   {
     "id": "9e35e9418ed6a14a",
@@ -108,8 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69ce59e59a7947188efbf249",
     "publishedAt": "2026-04-12T06:49:04.000Z",
-    "createdAt": "2026-04-12T15:41:16.339Z",
-    "updatedAt": "2026-04-12T15:41:16.339Z"
+    "createdAt": "2026-04-12T16:48:18.593Z",
+    "updatedAt": "2026-04-12T16:48:18.593Z"
   },
   {
     "id": "f653c4b7b33178c8",
@@ -122,8 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69d89d1d9a79477d5b09ce08",
     "publishedAt": "2026-04-12T06:46:01.000Z",
-    "createdAt": "2026-04-12T15:41:18.517Z",
-    "updatedAt": "2026-04-12T15:41:18.517Z"
+    "createdAt": "2026-04-12T16:48:21.278Z",
+    "updatedAt": "2026-04-12T16:48:21.278Z"
   },
   {
     "id": "9e69d2c2b7f1d707",
@@ -136,7 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69d4ed669a79471455a16c67",
     "publishedAt": "2026-04-11T21:03:00.000Z",
-    "createdAt": "2026-04-12T15:41:17.357Z",
-    "updatedAt": "2026-04-12T15:41:17.357Z"
+    "createdAt": "2026-04-12T16:48:19.932Z",
+    "updatedAt": "2026-04-12T16:48:19.932Z"
   }
 ]
