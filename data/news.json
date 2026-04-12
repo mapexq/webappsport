@@ -1,5 +1,89 @@
 [
   {
+    "id": "02db339a9ec5e2f5",
+    "title": "Российского чемпиона UFC Махачева обокрали в Италии",
+    "sport": "Единоборства",
+    "category": "Единоборства",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/5/76/347759865717765.png",
+    "teaser": "Российского чемпиона UFC Махачева обокрали в Италии",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69db61759a794709b860e26b",
+    "publishedAt": "2026-04-12T09:42:09.000Z",
+    "createdAt": "2026-04-12T09:53:06.163Z",
+    "updatedAt": "2026-04-12T09:53:06.163Z"
+  },
+  {
+    "id": "9e35e9418ed6a14a",
+    "title": "«Чувствуем себя обманутыми». Какие проблемы возникли за два месяца до ЧМ",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/9/75/347751453224759.jpeg",
+    "teaser": "«Чувствуем себя обманутыми». Какие проблемы возникли за два месяца до ЧМ",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69ce59e59a7947188efbf249",
+    "publishedAt": "2026-04-12T06:49:04.000Z",
+    "createdAt": "2026-04-12T09:53:08.605Z",
+    "updatedAt": "2026-04-12T09:53:08.605Z"
+  },
+  {
+    "id": "f653c4b7b33178c8",
+    "title": "Как глава одного из «жестоких наркокартелей» вернул Тайсона Фьюри в бокс",
+    "sport": "Единоборства",
+    "category": "Единоборства",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/9/94/347758200425949.jpeg",
+    "teaser": "Как глава одного из «жестоких наркокартелей» вернул Тайсона Фьюри в бокс",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69d89d1d9a79477d5b09ce08",
+    "publishedAt": "2026-04-12T06:46:01.000Z",
+    "createdAt": "2026-04-12T09:53:09.965Z",
+    "updatedAt": "2026-04-12T09:53:09.965Z"
+  },
+  {
+    "id": "7d6f4316d299ffee",
+    "title": "Овечкин прервал безголевую серию в матче против команды Кросби и Малкина",
+    "sport": "Хоккей",
+    "category": "Хоккей",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/6/74/347759710276746.jpeg",
+    "teaser": "Овечкин прервал безголевую серию в матче против команды Кросби и Малкина",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69db288f9a794760eec830f4",
+    "publishedAt": "2026-04-12T05:32:37.000Z",
+    "createdAt": "2026-04-12T09:53:11.119Z",
+    "updatedAt": "2026-04-12T09:53:11.119Z"
+  },
+  {
+    "id": "1c9663e282bb8305",
+    "title": "Тайсон Фьюри победил россиянина в первом бою после возвращения",
+    "sport": "Единоборства",
+    "category": "Единоборства",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/1/98/347759694970981.jpeg",
+    "teaser": "Тайсон Фьюри победил россиянина в первом бою после возвращения",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69db23f49a79470270000bf3",
+    "publishedAt": "2026-04-12T05:14:40.000Z",
+    "createdAt": "2026-04-12T09:53:07.302Z",
+    "updatedAt": "2026-04-12T09:53:07.302Z"
+  },
+  {
+    "id": "9e69d2c2b7f1d707",
+    "title": "За какую команду болел и каким спортом увлекался Юрий Гагарин",
+    "sport": "Другое",
+    "category": "Другие",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/4/29/347757264425294.jpeg",
+    "teaser": "За какую команду болел и каким спортом увлекался Юрий Гагарин",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69d4ed669a79471455a16c67",
+    "publishedAt": "2026-04-11T21:03:00.000Z",
+    "createdAt": "2026-04-12T09:53:12.281Z",
+    "updatedAt": "2026-04-12T09:53:12.281Z"
+  },
+  {
     "id": "d91f18ae6c943fea",
     "title": "«Балтика» впервые за полгода пропустила дома в РПЛ и сыграла вничью",
     "sport": "Футбол",
@@ -10,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69da886e9a7947093392bf01",
     "publishedAt": "2026-04-11T18:44:46.000Z",
-    "createdAt": "2026-04-12T08:56:43.533Z",
-    "updatedAt": "2026-04-12T08:56:43.533Z"
+    "createdAt": "2026-04-12T09:53:13.428Z",
+    "updatedAt": "2026-04-12T09:53:13.428Z"
   },
   {
     "id": "6ac3aaff0c423e33",
@@ -24,8 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69da8b979a794721a2875383",
     "publishedAt": "2026-04-11T18:22:25.000Z",
-    "createdAt": "2026-04-12T08:56:44.610Z",
-    "updatedAt": "2026-04-12T08:56:44.610Z"
+    "createdAt": "2026-04-12T09:53:14.636Z",
+    "updatedAt": "2026-04-12T09:53:14.636Z"
   },
   {
     "id": "bc323f10ea729b7b",
@@ -38,8 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69da81499a7947dd06d63eb4",
     "publishedAt": "2026-04-11T17:55:04.000Z",
-    "createdAt": "2026-04-12T08:56:45.767Z",
-    "updatedAt": "2026-04-12T08:56:45.767Z"
+    "createdAt": "2026-04-12T09:53:15.794Z",
+    "updatedAt": "2026-04-12T09:53:15.794Z"
   },
   {
     "id": "b65f95c3e5c94286",
@@ -52,91 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69da76bc9a79477e8ffe07ae",
     "publishedAt": "2026-04-11T17:29:46.000Z",
-    "createdAt": "2026-04-12T08:56:46.892Z",
-    "updatedAt": "2026-04-12T08:56:46.892Z"
-  },
-  {
-    "id": "7e9d34774a113d1b",
-    "title": "«Ак барс» второй раз обыграл минское «Динамо» в плей-офф КХЛ",
-    "sport": "Хоккей",
-    "category": "Хоккей",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/4/97/347759185518974.jpeg",
-    "teaser": "«Ак барс» второй раз обыграл минское «Динамо» в плей-офф КХЛ",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69da5d799a79475d0a57ef38",
-    "publishedAt": "2026-04-11T17:03:32.000Z",
-    "createdAt": "2026-04-12T08:56:48.027Z",
-    "updatedAt": "2026-04-12T08:56:48.027Z"
-  },
-  {
-    "id": "19f15f015f2d4a42",
-    "title": "Первая ракетка России вышла в финал турнира в Линце",
-    "sport": "Теннис",
-    "category": "Теннис",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/2/83/347759222581832.jpeg",
-    "teaser": "Первая ракетка России вышла в финал турнира в Линце",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69da69a99a7947c712e247b3",
-    "publishedAt": "2026-04-11T15:52:32.000Z",
-    "createdAt": "2026-04-12T08:56:49.171Z",
-    "updatedAt": "2026-04-12T08:56:49.171Z"
-  },
-  {
-    "id": "da3dd3dc5e70cd85",
-    "title": "Алькарас сыграет с Синнером в финале «Мастерса» в Монте-Карло",
-    "sport": "Теннис",
-    "category": "Теннис",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/5/68/347759212730685.jpeg",
-    "teaser": "Алькарас сыграет с Синнером в финале «Мастерса» в Монте-Карло",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69da64fa9a7947981048ecdf",
-    "publishedAt": "2026-04-11T15:41:54.000Z",
-    "createdAt": "2026-04-12T08:56:50.321Z",
-    "updatedAt": "2026-04-12T08:56:50.321Z"
-  },
-  {
-    "id": "f057c0b6119ab42f",
-    "title": "Нападающий минского «Динамо» Стась достиг отметки 1000 матчей в КХЛ",
-    "sport": "Хоккей",
-    "category": "Хоккей",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/8/82/347759198814828.jpeg",
-    "teaser": "Нападающий минского «Динамо» Стась достиг отметки 1000 матчей в КХЛ",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69da60099a79478c045602ff",
-    "publishedAt": "2026-04-11T15:34:51.000Z",
-    "createdAt": "2026-04-12T08:56:51.494Z",
-    "updatedAt": "2026-04-12T08:56:51.494Z"
-  },
-  {
-    "id": "31e21ddb57ccfd07",
-    "title": "Россияне выиграли первое золото на чемпионате Европы по прыжкам на батуте",
-    "sport": "Другое",
-    "category": "Другие",
-    "imageUrl": "/images/news-placeholder.jpg",
-    "teaser": "Россияне выиграли первое золото на чемпионате Европы по прыжкам на батуте",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69da5c6e9a7947b93060ea41",
-    "publishedAt": "2026-04-11T15:03:11.000Z",
-    "createdAt": "2026-04-12T08:56:53.564Z",
-    "updatedAt": "2026-04-12T08:56:53.564Z"
-  },
-  {
-    "id": "e459bd7ba8c88620",
-    "title": "«Арсенал» проиграл третий раз за последние четыре матча во всех турнирах",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/4/32/347759175064324.jpeg",
-    "teaser": "«Арсенал» проиграл третий раз за последние четыре матча во всех турнирах",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69da54f19a79476032e110d0",
-    "publishedAt": "2026-04-11T14:56:55.000Z",
-    "createdAt": "2026-04-12T08:56:55.072Z",
-    "updatedAt": "2026-04-12T08:56:55.072Z"
+    "createdAt": "2026-04-12T09:53:16.957Z",
+    "updatedAt": "2026-04-12T09:53:16.957Z"
   }
 ]
