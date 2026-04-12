@@ -1,5 +1,47 @@
 [
   {
+    "id": "6b5d31d6e23736aa",
+    "title": "Синнер победил Алькараса в Монте-Карло и снова будет первой ракеткой мира",
+    "sport": "Теннис",
+    "category": "Теннис",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/5/75/347760078506755.jpeg",
+    "teaser": "Синнер победил Алькараса в Монте-Карло и снова будет первой ракеткой мира",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69dba9489a7947072e518eb2",
+    "publishedAt": "2026-04-12T15:35:22.000Z",
+    "createdAt": "2026-04-12T15:41:12.129Z",
+    "updatedAt": "2026-04-12T15:41:12.129Z"
+  },
+  {
+    "id": "b55756f32d020ba3",
+    "title": "«Спартак» сыграл вничью с «Ростовом» в 300-м матче Зобнина",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/7/36/347760052935367.png",
+    "teaser": "«Спартак» сыграл вничью с «Ростовом» в 300-м матче Зобнина",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69dbabb79a7947af1d1d99ac",
+    "publishedAt": "2026-04-12T15:32:02.000Z",
+    "createdAt": "2026-04-12T15:41:13.152Z",
+    "updatedAt": "2026-04-12T15:41:13.152Z"
+  },
+  {
+    "id": "64f468030a41a759",
+    "title": "«Локомотив» вырвал ничью у махачкалинского «Динамо»",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/9/27/347760058314279.png",
+    "teaser": "«Локомотив» вырвал ничью у махачкалинского «Динамо»",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69dbab949a7947072e518eb5",
+    "publishedAt": "2026-04-12T15:27:18.000Z",
+    "createdAt": "2026-04-12T15:41:14.123Z",
+    "updatedAt": "2026-04-12T15:41:14.123Z"
+  },
+  {
     "id": "d8c35ab86dbc5fc8",
     "title": "Андреева победила сменившую гражданство россиянку в финале турнира WTA",
     "sport": "Теннис",
@@ -10,8 +52,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69db9a9c9a7947418c7d67df",
     "publishedAt": "2026-04-12T14:07:23.000Z",
-    "createdAt": "2026-04-12T14:45:43.695Z",
-    "updatedAt": "2026-04-12T14:45:43.695Z"
+    "createdAt": "2026-04-12T15:41:15.186Z",
+    "updatedAt": "2026-04-12T15:41:15.186Z"
   },
   {
     "id": "8e90959c01812c5d",
@@ -24,8 +66,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69db80b29a7947c6b07a1f56",
     "publishedAt": "2026-04-12T13:08:14.000Z",
-    "createdAt": "2026-04-12T14:45:44.722Z",
-    "updatedAt": "2026-04-12T14:45:44.722Z"
+    "createdAt": "2026-04-12T15:41:19.531Z",
+    "updatedAt": "2026-04-12T15:41:19.531Z"
   },
   {
     "id": "469e303130533010",
@@ -38,22 +80,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69db8df79a79474551e17540",
     "publishedAt": "2026-04-12T12:54:00.000Z",
-    "createdAt": "2026-04-12T14:45:45.752Z",
-    "updatedAt": "2026-04-12T14:45:45.752Z"
-  },
-  {
-    "id": "affd33f49a5e955a",
-    "title": "Россиянин потерпел первое поражение в UFC, пропустив удар ногой в голову",
-    "sport": "Единоборства",
-    "category": "Единоборства",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/8/76/347759959407768.jpeg",
-    "teaser": "Россиянин потерпел первое поражение в UFC, пропустив удар ногой в голову",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69db808d9a7947276b31a6ec",
-    "publishedAt": "2026-04-12T12:15:50.000Z",
-    "createdAt": "2026-04-12T14:45:47.783Z",
-    "updatedAt": "2026-04-12T14:45:47.783Z"
+    "createdAt": "2026-04-12T15:41:20.556Z",
+    "updatedAt": "2026-04-12T15:41:20.556Z"
   },
   {
     "id": "f27196acd255eabe",
@@ -66,36 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69db84209a7947053484be64",
     "publishedAt": "2026-04-12T11:51:46.000Z",
-    "createdAt": "2026-04-12T14:45:46.786Z",
-    "updatedAt": "2026-04-12T14:45:46.786Z"
-  },
-  {
-    "id": "5bb23633395c7428",
-    "title": "UFC по просьбе Трампа включил седьмой бой в кард турнира в Белом доме",
-    "sport": "Единоборства",
-    "category": "Единоборства",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/3/84/347759912980843.jpeg",
-    "teaser": "UFC по просьбе Трампа включил седьмой бой в кард турнира в Белом доме",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69db78199a7947799f027177",
-    "publishedAt": "2026-04-12T11:14:23.000Z",
-    "createdAt": "2026-04-12T14:45:48.775Z",
-    "updatedAt": "2026-04-12T14:45:48.775Z"
-  },
-  {
-    "id": "25b67bb9bb3d135c",
-    "title": "Большунов выиграл масс-старт на 70 км на чемпионате России",
-    "sport": "Другое",
-    "category": "Другие",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/4/69/347759898296694.png",
-    "teaser": "Большунов выиграл масс-старт на 70 км на чемпионате России",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69db74339a79477ff3139a42",
-    "publishedAt": "2026-04-12T10:36:15.000Z",
-    "createdAt": "2026-04-12T14:45:53.183Z",
-    "updatedAt": "2026-04-12T14:45:53.183Z"
+    "createdAt": "2026-04-12T15:41:21.623Z",
+    "updatedAt": "2026-04-12T15:41:21.623Z"
   },
   {
     "id": "9e35e9418ed6a14a",
@@ -108,8 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69ce59e59a7947188efbf249",
     "publishedAt": "2026-04-12T06:49:04.000Z",
-    "createdAt": "2026-04-12T14:45:50.995Z",
-    "updatedAt": "2026-04-12T14:45:50.995Z"
+    "createdAt": "2026-04-12T15:41:16.339Z",
+    "updatedAt": "2026-04-12T15:41:16.339Z"
   },
   {
     "id": "f653c4b7b33178c8",
@@ -122,8 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69d89d1d9a79477d5b09ce08",
     "publishedAt": "2026-04-12T06:46:01.000Z",
-    "createdAt": "2026-04-12T14:45:52.200Z",
-    "updatedAt": "2026-04-12T14:45:52.200Z"
+    "createdAt": "2026-04-12T15:41:18.517Z",
+    "updatedAt": "2026-04-12T15:41:18.517Z"
   },
   {
     "id": "9e69d2c2b7f1d707",
@@ -136,7 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69d4ed669a79471455a16c67",
     "publishedAt": "2026-04-11T21:03:00.000Z",
-    "createdAt": "2026-04-12T14:45:49.810Z",
-    "updatedAt": "2026-04-12T14:45:49.810Z"
+    "createdAt": "2026-04-12T15:41:17.357Z",
+    "updatedAt": "2026-04-12T15:41:17.357Z"
   }
 ]
