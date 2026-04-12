@@ -1,5 +1,61 @@
 [
   {
+    "id": "8e90959c01812c5d",
+    "title": "«Локомотив» оказался в шаге от выхода в полуфинал Кубка Гагарина",
+    "sport": "Хоккей",
+    "category": "Хоккей",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/7/19/347759991541197.png",
+    "teaser": "«Локомотив» оказался в шаге от выхода в полуфинал Кубка Гагарина",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69db80b29a7947c6b07a1f56",
+    "publishedAt": "2026-04-12T13:08:14.000Z",
+    "createdAt": "2026-04-12T13:13:13.634Z",
+    "updatedAt": "2026-04-12T13:13:13.634Z"
+  },
+  {
+    "id": "469e303130533010",
+    "title": "ЦСКА сенсационно проиграл худшей команде РПЛ",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/3/39/347759982239393.png",
+    "teaser": "ЦСКА сенсационно проиграл худшей команде РПЛ",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69db8df79a79474551e17540",
+    "publishedAt": "2026-04-12T12:54:00.000Z",
+    "createdAt": "2026-04-12T13:13:14.796Z",
+    "updatedAt": "2026-04-12T13:13:14.796Z"
+  },
+  {
+    "id": "affd33f49a5e955a",
+    "title": "Россиянин потерпел первое поражение в UFC, пропустив удар ногой в голову",
+    "sport": "Единоборства",
+    "category": "Единоборства",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/8/76/347759959407768.jpeg",
+    "teaser": "Россиянин потерпел первое поражение в UFC, пропустив удар ногой в голову",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69db808d9a7947276b31a6ec",
+    "publishedAt": "2026-04-12T12:15:50.000Z",
+    "createdAt": "2026-04-12T13:13:17.046Z",
+    "updatedAt": "2026-04-12T13:13:17.046Z"
+  },
+  {
+    "id": "f27196acd255eabe",
+    "title": "Евгения Кузнецова унесли на носилках со льда в матче с «Локомотивом»",
+    "sport": "Хоккей",
+    "category": "Хоккей",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/8/48/347759940205488.png",
+    "teaser": "Евгения Кузнецова унесли на носилках со льда в матче с «Локомотивом»",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69db84209a7947053484be64",
+    "publishedAt": "2026-04-12T11:51:46.000Z",
+    "createdAt": "2026-04-12T13:13:15.943Z",
+    "updatedAt": "2026-04-12T13:13:15.943Z"
+  },
+  {
     "id": "5bb23633395c7428",
     "title": "UFC по просьбе Трампа включил седьмой бой в кард турнира в Белом доме",
     "sport": "Единоборства",
@@ -10,8 +66,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69db78199a7947799f027177",
     "publishedAt": "2026-04-12T11:14:23.000Z",
-    "createdAt": "2026-04-12T11:38:03.584Z",
-    "updatedAt": "2026-04-12T11:38:03.584Z"
+    "createdAt": "2026-04-12T13:13:18.193Z",
+    "updatedAt": "2026-04-12T13:13:18.193Z"
   },
   {
     "id": "25b67bb9bb3d135c",
@@ -24,22 +80,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69db74339a79477ff3139a42",
     "publishedAt": "2026-04-12T10:36:15.000Z",
-    "createdAt": "2026-04-12T11:38:04.668Z",
-    "updatedAt": "2026-04-12T11:38:04.668Z"
-  },
-  {
-    "id": "e7ea1cb051bab724",
-    "title": "Впервые в топ-5 футбольных лиг Европы женщину назначили главным тренером",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/6/36/347759877975366.jpeg",
-    "teaser": "Впервые в топ-5 футбольных лиг Европы женщину назначили главным тренером",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69db6c409a794703aa8029ef",
-    "publishedAt": "2026-04-12T10:18:31.000Z",
-    "createdAt": "2026-04-12T11:38:05.825Z",
-    "updatedAt": "2026-04-12T11:38:05.825Z"
+    "createdAt": "2026-04-12T13:13:23.228Z",
+    "updatedAt": "2026-04-12T13:13:23.228Z"
   },
   {
     "id": "02db339a9ec5e2f5",
@@ -52,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69db61759a794709b860e26b",
     "publishedAt": "2026-04-12T09:42:09.000Z",
-    "createdAt": "2026-04-12T11:38:06.968Z",
-    "updatedAt": "2026-04-12T11:38:06.968Z"
+    "createdAt": "2026-04-12T13:13:24.417Z",
+    "updatedAt": "2026-04-12T13:13:24.417Z"
   },
   {
     "id": "9e35e9418ed6a14a",
@@ -66,8 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69ce59e59a7947188efbf249",
     "publishedAt": "2026-04-12T06:49:04.000Z",
-    "createdAt": "2026-04-12T11:38:10.878Z",
-    "updatedAt": "2026-04-12T11:38:10.878Z"
+    "createdAt": "2026-04-12T13:13:20.718Z",
+    "updatedAt": "2026-04-12T13:13:20.718Z"
   },
   {
     "id": "f653c4b7b33178c8",
@@ -80,36 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69d89d1d9a79477d5b09ce08",
     "publishedAt": "2026-04-12T06:46:01.000Z",
-    "createdAt": "2026-04-12T11:38:08.365Z",
-    "updatedAt": "2026-04-12T11:38:08.365Z"
-  },
-  {
-    "id": "7d6f4316d299ffee",
-    "title": "Овечкин прервал безголевую серию в матче против команды Кросби и Малкина",
-    "sport": "Хоккей",
-    "category": "Хоккей",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/6/74/347759710276746.jpeg",
-    "teaser": "Овечкин прервал безголевую серию в матче против команды Кросби и Малкина",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69db288f9a794760eec830f4",
-    "publishedAt": "2026-04-12T05:32:37.000Z",
-    "createdAt": "2026-04-12T11:38:13.130Z",
-    "updatedAt": "2026-04-12T11:38:13.130Z"
-  },
-  {
-    "id": "1c9663e282bb8305",
-    "title": "Тайсон Фьюри победил россиянина в первом бою после возвращения",
-    "sport": "Единоборства",
-    "category": "Единоборства",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/1/98/347759694970981.jpeg",
-    "teaser": "Тайсон Фьюри победил россиянина в первом бою после возвращения",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69db23f49a79470270000bf3",
-    "publishedAt": "2026-04-12T05:14:40.000Z",
-    "createdAt": "2026-04-12T11:38:11.972Z",
-    "updatedAt": "2026-04-12T11:38:11.972Z"
+    "createdAt": "2026-04-12T13:13:22.076Z",
+    "updatedAt": "2026-04-12T13:13:22.076Z"
   },
   {
     "id": "9e69d2c2b7f1d707",
@@ -122,21 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69d4ed669a79471455a16c67",
     "publishedAt": "2026-04-11T21:03:00.000Z",
-    "createdAt": "2026-04-12T11:38:09.537Z",
-    "updatedAt": "2026-04-12T11:38:09.537Z"
-  },
-  {
-    "id": "d91f18ae6c943fea",
-    "title": "«Балтика» впервые за полгода пропустила дома в РПЛ и сыграла вничью",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/4/08/347759295744084.jpeg",
-    "teaser": "«Балтика» впервые за полгода пропустила дома в РПЛ и сыграла вничью",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69da886e9a7947093392bf01",
-    "publishedAt": "2026-04-11T18:44:46.000Z",
-    "createdAt": "2026-04-12T11:38:14.629Z",
-    "updatedAt": "2026-04-12T11:38:14.629Z"
+    "createdAt": "2026-04-12T13:13:19.358Z",
+    "updatedAt": "2026-04-12T13:13:19.358Z"
   }
 ]
