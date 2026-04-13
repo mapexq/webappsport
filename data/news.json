@@ -1,5 +1,47 @@
 [
   {
+    "id": "29b1761d4e1e4651",
+    "title": "«Динамо» дало «Акрону» отыграться с 0:2, но вырвало победу в концовке",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/1/20/347760976396201.png",
+    "teaser": "«Динамо» дало «Акрону» отыграться с 0:2, но вырвало победу в концовке",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69dd114f9a794742eb1704db",
+    "publishedAt": "2026-04-13T16:33:18.000Z",
+    "createdAt": "2026-04-13T17:10:43.290Z",
+    "updatedAt": "2026-04-13T17:10:43.290Z"
+  },
+  {
+    "id": "62674423f76b2ebf",
+    "title": "Клебо вслед за Эрлингом Холандом вложился в мировой шахматный тур",
+    "sport": "Другое",
+    "category": "Другие",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/8/59/347760954727598.jpeg",
+    "teaser": "Клебо вслед за Эрлингом Холандом вложился в мировой шахматный тур",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69dd0df49a794702aa0a3373",
+    "publishedAt": "2026-04-13T16:00:51.000Z",
+    "createdAt": "2026-04-13T17:10:45.206Z",
+    "updatedAt": "2026-04-13T17:10:45.206Z"
+  },
+  {
+    "id": "0eb5603bca8b2bd3",
+    "title": "У Иман Хелиф сорвался дебют в профессиональном боксе",
+    "sport": "Единоборства",
+    "category": "Единоборства",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/4/58/347760950804584.jpeg",
+    "teaser": "У Иман Хелиф сорвался дебют в профессиональном боксе",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69dd0ad79a79475bb53bf9e5",
+    "publishedAt": "2026-04-13T15:52:12.000Z",
+    "createdAt": "2026-04-13T17:10:44.252Z",
+    "updatedAt": "2026-04-13T17:10:44.252Z"
+  },
+  {
     "id": "75e5258f15a5467f",
     "title": "Клуб бундеслиги осудил сексистские комментарии про своего тренера-женщину",
     "sport": "Футбол",
@@ -10,8 +52,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69dd00009a79473c98127e6b",
     "publishedAt": "2026-04-13T15:07:27.000Z",
-    "createdAt": "2026-04-13T15:19:54.697Z",
-    "updatedAt": "2026-04-13T15:19:54.697Z"
+    "createdAt": "2026-04-13T17:10:47.242Z",
+    "updatedAt": "2026-04-13T17:10:47.242Z"
   },
   {
     "id": "0f36272bde4b1b86",
@@ -24,8 +66,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69dcff249a79478b4cb8a686",
     "publishedAt": "2026-04-13T15:06:07.000Z",
-    "createdAt": "2026-04-13T15:19:55.749Z",
-    "updatedAt": "2026-04-13T15:19:55.749Z"
+    "createdAt": "2026-04-13T17:10:46.224Z",
+    "updatedAt": "2026-04-13T17:10:46.224Z"
   },
   {
     "id": "a1d6b9d3752d5a6c",
@@ -38,8 +80,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69dcf4fd9a79472c3f22ec1c",
     "publishedAt": "2026-04-13T14:28:34.000Z",
-    "createdAt": "2026-04-13T15:19:56.857Z",
-    "updatedAt": "2026-04-13T15:19:56.857Z"
+    "createdAt": "2026-04-13T17:10:49.180Z",
+    "updatedAt": "2026-04-13T17:10:49.180Z"
   },
   {
     "id": "c40eeb4b2e89bb61",
@@ -52,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69dced7c9a794760e530440b",
     "publishedAt": "2026-04-13T14:21:11.000Z",
-    "createdAt": "2026-04-13T15:19:53.656Z",
-    "updatedAt": "2026-04-13T15:19:53.656Z"
+    "createdAt": "2026-04-13T17:10:48.253Z",
+    "updatedAt": "2026-04-13T17:10:48.253Z"
   },
   {
     "id": "4b24d23f7c7ae0af",
@@ -66,8 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69dcf4649a79472b830be700",
     "publishedAt": "2026-04-13T14:18:49.000Z",
-    "createdAt": "2026-04-13T15:19:57.960Z",
-    "updatedAt": "2026-04-13T15:19:57.960Z"
+    "createdAt": "2026-04-13T17:10:50.208Z",
+    "updatedAt": "2026-04-13T17:10:50.208Z"
   },
   {
     "id": "976c8a108ee3f01d",
@@ -80,22 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69dce5549a79472b2162cd7a",
     "publishedAt": "2026-04-13T14:16:29.000Z",
-    "createdAt": "2026-04-13T15:19:59.064Z",
-    "updatedAt": "2026-04-13T15:19:59.064Z"
-  },
-  {
-    "id": "db12e9be011d1723",
-    "title": "Дегтярев назвал решение World Aquatics о допуске россиян «плодом диалога»",
-    "sport": "Другое",
-    "category": "Другие",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/2/53/347760862497532.jpeg",
-    "teaser": "Дегтярев назвал решение World Aquatics о допуске россиян «плодом диалога»",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69dce9d39a794790132ec6a7",
-    "publishedAt": "2026-04-13T13:35:08.000Z",
-    "createdAt": "2026-04-13T15:20:03.616Z",
-    "updatedAt": "2026-04-13T15:20:03.616Z"
+    "createdAt": "2026-04-13T17:10:51.228Z",
+    "updatedAt": "2026-04-13T17:10:51.228Z"
   },
   {
     "id": "f892ccd91a230855",
@@ -108,35 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69dcebbf9a7947f6559c66b8",
     "publishedAt": "2026-04-13T13:31:50.000Z",
-    "createdAt": "2026-04-13T15:20:00.164Z",
-    "updatedAt": "2026-04-13T15:20:00.164Z"
-  },
-  {
-    "id": "377d9d7c49bf4679",
-    "title": "Олимпийский призер фигурист Кагияма взял паузу в карьере",
-    "sport": "Другое",
-    "category": "Фигурное катание",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/4/56/347760840154564.jpeg",
-    "teaser": "Олимпийский призер фигурист Кагияма взял паузу в карьере",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69dce1359a79473166dac8b6",
-    "publishedAt": "2026-04-13T13:03:15.000Z",
-    "createdAt": "2026-04-13T15:20:02.712Z",
-    "updatedAt": "2026-04-13T15:20:02.712Z"
-  },
-  {
-    "id": "3319502c38f75f1e",
-    "title": "World Aquatics допустила россиян к взрослым турнирам с флагом и гимном",
-    "sport": "Другое",
-    "category": "Другие",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/2/98/347760830478982.jpeg",
-    "teaser": "World Aquatics допустила россиян к взрослым турнирам с флагом и гимном",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69dcddf29a79472097f1b05a",
-    "publishedAt": "2026-04-13T12:22:29.000Z",
-    "createdAt": "2026-04-13T15:20:01.272Z",
-    "updatedAt": "2026-04-13T15:20:01.272Z"
+    "createdAt": "2026-04-13T17:10:52.256Z",
+    "updatedAt": "2026-04-13T17:10:52.256Z"
   }
 ]
