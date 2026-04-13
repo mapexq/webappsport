@@ -305,7 +305,7 @@ export class PredictionsParser {
   extractExpertName($el, $) {
     // Ищем текст, который выглядит как имя (обычно перед кнопкой "Подписаться")
     const text = $el.text();
-    const match = text.match(/([А-ЯЁ][а-яё]+\s+[А-ЯЁ][а-яё]+)/);
+    const match = text.match(/([А-ЯЁA-Z][а-яёa-z]+\s+[А-ЯЁA-Z][а-яёa-z]+)/);
     if (match) {
       // Проверяем, что это не название команды
       const name = match[1];
@@ -336,14 +336,12 @@ export class PredictionsParser {
       let $parent = $subscribeBtn.parent();
       for (let i = 0; i < 3; i++) {
         const text = $parent.text();
-        // Ищем паттерн имени (2 слова с заглавными буквами)
-        const match = text.match(/([А-ЯЁ][а-яё]+\s+[А-ЯЁ][а-яё]+)/);
+        const match = text.match(/([А-ЯЁA-Z][а-яёa-z]+\s+[А-ЯЁA-Z][а-яёa-z]+)/);
         if (match) {
           const name = match[1];
           // Проверяем, что это не название команды
-          if (!name.includes('Сити') && !name.includes('Мадрид') && 
-              !name.includes('Барселона') && !name.includes('Ливерпуль') &&
-              !name.includes('Арсенал') && !name.includes('Челси')) {
+          const forbiddenWords = ['Сити', 'Мадрид', 'Барселона', 'Ливерпуль', 'Арсенал', 'Челси', 'Манчестер', 'Юнайтед', 'Бавария', 'Дортмунд', 'Ювентус', 'Милан', 'Интер', 'Реал', 'ПСЖ', 'Спартак', 'Динамо', 'Зенит', 'ЦСКА', 'Локомотив', 'Атлетико', 'Севилья', 'Наполи', 'Рома', 'Юн'];
+          if (!forbiddenWords.some(word => name.includes(word))) {
             return name;
           }
         }
@@ -351,15 +349,16 @@ export class PredictionsParser {
       }
     }
     
-    // Метод 3: Ищем в тексте карточки
     const cardText = $card.text();
-    const nameMatches = cardText.match(/([А-ЯЁ][а-яё]+\s+[А-ЯЁ][а-яё]+)/g);
+    const nameMatches = cardText.match(/([А-ЯЁA-Z][а-яёa-z]+\s+[А-ЯЁA-Z][а-яёa-z]+)/g);
     if (nameMatches) {
       for (const match of nameMatches) {
         const name = match.trim();
+        const forbiddenWords = ['Сити', 'Мадрид', 'Барселона', 'Ливерпуль', 'Арсенал', 'Челси', 'Манчестер', 'Юнайтед', 'Бавария', 'Дортмунд', 'Ювентус', 'Милан', 'Интер', 'Реал', 'ПСЖ', 'Спартак', 'Динамо', 'Зенит', 'ЦСКА', 'Локомотив', 'Атлетико', 'Севилья', 'Наполи', 'Рома', 'Юн'];
         if (name.length > 5 && name.length < 30 && 
             !name.includes('прогноз') && !name.includes('ставка') &&
-            !name.includes('Подписаться') && !name.includes('Ординар')) {
+            !name.includes('Подписаться') && !name.includes('Ординар') &&
+            !forbiddenWords.some(word => name.includes(word))) {
           return name;
         }
       }
@@ -1057,6 +1056,23 @@ export class PredictionsParser {
       // Просто используем его без агрессивной очистки
       let eventName = pred.matchInfo?.teams || pred.title?.split(':')[0] || 'Матч';
       
+      // Очищаем название команды (события)
+      if (eventName === 'Матч' && pred.title) {
+        eventName = pred.title.split(':')[0];
+        if (eventName.toLowerCase().includes('прогноз')) {
+          eventName = eventName.replace(/прогноз.*/i, '').trim();
+        }
+      }
+      
+      // Дополнительная очистка eventName от "хлама"
+      eventName = eventName.replace(/^(Через\s+\d+\s+(?:минут|час|часа|часов)(?:ы|а|ов)?|Сегодня|Вчера|Завтра)/i, '').trim();
+      eventName = eventName.replace(/^[А-ЯЁ][а-яё]+\s+[А-ЯЁ][а-яё]+\s+•\s+/i, '').trim(); // Remove things like "Владимир Светлый • "
+      
+      // Если все равно пустое
+      if (!eventName || eventName.length < 3) {
+        eventName = 'Матч';
+      }
+
       // Очищаем лигу от лишнего текста
       let tournament = pred.matchInfo?.league || 'Чемпионат';
       tournament = tournament.replace(/[ПХ12]\d*.*$/, '').trim(); // Удаляем прогноз если попал
@@ -1070,7 +1086,7 @@ export class PredictionsParser {
         if (eventLower.includes('нхл') || eventLower.includes('айлендерс') || eventLower.includes('рейнджерс') || 
             eventLower.includes('флорида') || eventLower.includes('торонто') || eventLower.includes('колорадо') ||
             eventLower.includes('ванкувер') || eventLower.includes('эдмонтон') || eventLower.includes('миннесота') ||
-            eventLower.includes('вегас') || eventLower.includes('чикаго') || eventLower.includes('тампа')) {
+            eventLower.includes('вегас') || eventLower.includes('чикаго') || eventLower.includes('тампа') || eventLower.includes('вашингтон')) {
           tournament = 'НХЛ';
         } else if (eventLower.includes('нба') || eventLower.includes('филадельфия') || eventLower.includes('вашингтон') ||
                    eventLower.includes('сан-антонио') || eventLower.includes('мемфис') || eventLower.includes('бостон') ||
@@ -1079,7 +1095,7 @@ export class PredictionsParser {
           tournament = 'НБА';
         } else if (eventLower.includes('ла лига') || eventLower.includes('атлетик') || eventLower.includes('реал')) {
           tournament = 'Ла Лига';
-        } else if (eventLower.includes('апл') || eventLower.includes('вулверхэмптон') || eventLower.includes('ноттингем')) {
+        } else if (eventLower.includes('апл') || eventLower.includes('вулверхэмптон') || eventLower.includes('ноттингем') || eventLower.includes('челси') || eventLower.includes('арсенал')) {
           tournament = 'АПЛ';
         } else {
           tournament = 'Чемпионат';
@@ -1100,8 +1116,8 @@ export class PredictionsParser {
         tournament: tournament || 'Чемпионат',
         expert: {
           name: pred.expertName || 'Эксперт',
-          avatar: pred.avatar || 'https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=100&h=100&fit=crop',
-          status: pred.expertStatus || 'expert',
+          avatar: pred.avatar && pred.avatar.startsWith('http') ? pred.avatar : 'https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=100&h=100&fit=crop',
+          status: 'expert', // Hardcoding to expert as requested
           winRate: this.getWinRateForExpert(pred.expertName || 'Эксперт')
         },
         prediction: pred.prediction || 'Прогноз',

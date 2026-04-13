@@ -41,6 +41,18 @@ export function BookmakerCard({ bookmaker }: BookmakerCardProps) {
         <p className="text-sm text-green-400 font-bold text-[18px]">{bookmaker.bonus}</p>
       </div>
 
+      {/* Promo Code Badge */}
+      {bookmaker.promoCode && (
+        <div className="mb-6 p-4 bg-zinc-800/80 border border-green-400/20 rounded-lg">
+          <div className="flex items-center justify-between">
+            <span className="text-zinc-400 text-[14px] font-bold">Промокод</span>
+            <div className="px-4 py-1.5 bg-green-400/10 border border-green-400/30 rounded-lg">
+              <span className="text-green-400 font-black text-[16px] tracking-widest">{bookmaker.promoCode}</span>
+            </div>
+          </div>
+        </div>
+      )}
+
       {/* Features */}
       <div className="mb-6 space-y-3">
         {bookmaker.features.map((feature, index) => (

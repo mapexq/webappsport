@@ -10,14 +10,7 @@ interface PredictionCardProps {
 
 export function PredictionCard({ prediction }: PredictionCardProps) {
   const getStatusLabel = () => {
-    switch (prediction.expert.status) {
-      case 'expert':
-        return 'Эксперт';
-      case 'capper':
-        return 'Каппер';
-      default:
-        return 'Любитель';
-    }
+    return 'Эксперт';
   };
   const [isExpanded, setIsExpanded] = useState(false);
   

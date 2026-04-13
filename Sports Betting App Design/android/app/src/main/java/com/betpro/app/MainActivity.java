@@ -1,12 +1,16 @@
 package com.betpro.app;
 
 import android.os.Bundle;
+import android.view.View;
 import android.webkit.WebSettings;
 import android.webkit.WebView;
 import android.webkit.WebChromeClient;
 import android.webkit.WebResourceRequest;
 import android.net.Uri;
 import androidx.activity.OnBackPressedCallback;
+import androidx.core.view.ViewCompat;
+import androidx.core.view.WindowInsetsCompat;
+import androidx.core.graphics.Insets;
 import com.getcapacitor.BridgeActivity;
 import com.getcapacitor.BridgeWebViewClient;
 
@@ -66,6 +70,14 @@ public class MainActivity extends BridgeActivity {
         webView = getBridge().getWebView();
         
         if (webView != null) {
+            // WebView не перекрывает системные кнопки навигации
+            webView.setFitsSystemWindows(true);
+            ViewCompat.setOnApplyWindowInsetsListener(webView, (v, windowInsets) -> {
+                Insets insets = windowInsets.getInsets(WindowInsetsCompat.Type.systemBars());
+                v.setPadding(insets.left, insets.top, insets.right, insets.bottom);
+                return WindowInsetsCompat.CONSUMED;
+            });
+            
             WebSettings settings = webView.getSettings();
             
             // Разрешаем смешанный контент

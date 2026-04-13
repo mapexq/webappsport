@@ -81,6 +81,7 @@ export default defineConfig({
         'figma:asset/3bc1eb74c46ec574d7315a990f6fceb4adc3890f.png': path.resolve(__dirname, './src/assets/3bc1eb74c46ec574d7315a990f6fceb4adc3890f.png'),
         'figma:asset/3b56f5d213635bf6ff3ccb28b441710973364831.png': path.resolve(__dirname, './src/assets/3b56f5d213635bf6ff3ccb28b441710973364831.png'),
         'figma:asset/2872bb2c2135d0987d3464fff4b02318446ae333.png': path.resolve(__dirname, './src/assets/2872bb2c2135d0987d3464fff4b02318446ae333.png'),
+        'figma:asset/BET-M.png': path.resolve(__dirname, './src/assets/BET-M.png'),
         'embla-carousel-react@8.6.0': 'embla-carousel-react',
         'cmdk@1.1.1': 'cmdk',
         'class-variance-authority@0.7.1': 'class-variance-authority',

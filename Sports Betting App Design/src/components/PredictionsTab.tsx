@@ -33,7 +33,7 @@ export function PredictionsTab() {
   const [isFeaturedExpanded, setIsFeaturedExpanded] = useState(false);
   const [isRefreshing, setIsRefreshing] = useState(false);
   const [predictions, setPredictions] = useState<Prediction[]>([]);
-  const [loading, setLoading] = useState(true);
+  const [loading, setLoading] = useState(false);
 
   // Загружаем прогнозы при монтировании компонента
   useEffect(() => {
@@ -42,7 +42,6 @@ export function PredictionsTab() {
 
   const loadPredictions = async () => {
     try {
-      setLoading(true);
       const data = await apiService.getPredictions();
       setPredictions(data);
     } catch (error) {
@@ -53,8 +52,6 @@ export function PredictionsTab() {
       });
       // Используем моковые данные при ошибке
       setPredictions(predictions);
-    } finally {
-      setLoading(false);
     }
   };
 
@@ -130,25 +127,7 @@ export function PredictionsTab() {
     ? Math.max(...predictions.map(p => p.odds))
     : 0;
   
-  if (loading) {
-    return (
-      <div className="space-y-8 px-4">
-        <div className="flex items-center justify-center py-20">
-          <div className="text-zinc-400">Загрузка прогнозов...</div>
-        </div>
-      </div>
-    );
-  }
 
-  if (predictions.length === 0) {
-    return (
-      <div className="space-y-8 px-4">
-        <div className="flex items-center justify-center py-20">
-          <div className="text-zinc-400">Прогнозы не найдены</div>
-        </div>
-      </div>
-    );
-  }
 
   return (
     <div className="space-y-8 px-4">
@@ -234,8 +213,7 @@ export function PredictionsTab() {
                 <div className="text-base text-white mb-1 font-bold text-[16px]">{featuredPrediction.expert.name}</div>
                 <div className="flex items-center gap-2 text-sm">
                   <span className="text-zinc-500 font-bold text-[14px]">
-                    {featuredPrediction.expert.status === 'capper' ? 'Каппер' : 
-                     featuredPrediction.expert.status === 'expert' ? 'Эксперт' : 'Любитель'}
+                    Эксперт
                   </span>
                   <span className="text-zinc-600 font-bold">•</span>
                   <span className="text-green-400 font-bold text-[15px]">{featuredPrediction.expert.winRate}%</span>

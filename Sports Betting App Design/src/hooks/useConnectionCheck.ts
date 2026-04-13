@@ -5,78 +5,42 @@ import { logger } from '../utils/logger';
 
 /**
  * Хук для проверки подключения к интернету
- * Выполняет проверку при монтировании компонента
+ * Показывает плашку только если интернет отсутствует стабильно (10+ секунд)
  */
 export function useConnectionCheck() {
   const { setConnectionIssue } = useAppStore();
-  const isInitialCheck = useRef(true);
+  const offlineTimerRef = useRef<ReturnType<typeof setTimeout> | null>(null);
 
   useEffect(() => {
-    const performCheck = async (showNotification: boolean = true) => {
-      try {
-        logger.log('🔍 Проверка подключения...');
-        const issue = await checkConnection();
-        
-        if (issue) {
-          logger.log(`⚠️ Обнаружена проблема подключения: ${issue}`);
-          // Показываем уведомление только если это не первая загрузка или если явно запрошено
-          if (showNotification) {
-            setConnectionIssue(issue);
-          }
-        } else {
-          logger.log('✅ Подключение в порядке');
-          // При первой загрузке с интернетом не показываем уведомление
-          // Уведомление исчезнет только после нажатия "Повторить попытку"
-          if (!isInitialCheck.current) {
-            // Если это не первая проверка, не сбрасываем уведомление автоматически
-            // Пользователь должен нажать "Повторить попытку"
-          }
-        }
-      } catch (error) {
-        logger.error('Ошибка при проверке подключения:', error);
-        // В случае ошибки не блокируем доступ
-        if (!isInitialCheck.current) {
-          // Не сбрасываем уведомление автоматически
-        }
-      }
-    };
-
-    // При первой загрузке проверяем, но не показываем уведомление если все в порядке
-    const initialCheck = async () => {
-      try {
-        logger.log('🔍 Начальная проверка подключения...');
-        const issue = await checkConnection();
-        
-        if (issue) {
-          logger.log(`⚠️ Обнаружена проблема при загрузке: ${issue}`);
-          setConnectionIssue(issue);
-        } else {
-          logger.log('✅ Подключение в порядке при загрузке');
-          // Не устанавливаем connectionIssue, чтобы не показывать уведомление
-        }
-        
-        isInitialCheck.current = false;
-      } catch (error) {
-        logger.error('Ошибка при начальной проверке:', error);
-        isInitialCheck.current = false;
-      }
-    };
-
-    initialCheck();
-
-    // Слушаем события изменения онлайн-статуса
-    // При потере интернета показываем уведомление
-    const handleOffline = () => {
-      logger.log('📴 Подключение потеряно');
+    // При первой загрузке — проверяем только navigator.onLine
+    // Не делаем fetch-проверку, чтобы не блокировать при слабом интернете
+    if (!navigator.onLine) {
+      logger.log('📴 Нет интернета при загрузке');
       setConnectionIssue('offline');
+    }
+
+    const handleOffline = () => {
+      logger.log('📴 Событие offline — ждём 10 секунд перед показом плашки...');
+      // Не показываем сразу — ждём 10 секунд
+      if (offlineTimerRef.current) clearTimeout(offlineTimerRef.current);
+      offlineTimerRef.current = setTimeout(() => {
+        // Проверяем ещё раз — всё ещё offline?
+        if (!navigator.onLine) {
+          logger.log('📴 Интернет отсутствует 10+ секунд — показываем плашку');
+          setConnectionIssue('offline');
+        }
+      }, 10000);
     };
 
-    // При восстановлении интернета НЕ убираем уведомление автоматически
-    // Пользователь должен нажать "Повторить попытку"
     const handleOnline = () => {
-      logger.log('🌐 Подключение восстановлено (ожидание нажатия "Повторить попытку")');
-      // Не вызываем performCheck автоматически
-      // Уведомление останется до нажатия кнопки
+      logger.log('🌐 Событие online — убираем таймер и плашку');
+      // Отменяем таймер если интернет вернулся
+      if (offlineTimerRef.current) {
+        clearTimeout(offlineTimerRef.current);
+        offlineTimerRef.current = null;
+      }
+      // Автоматически убираем плашку при восстановлении
+      setConnectionIssue(null);
     };
 
     window.addEventListener('online', handleOnline);
@@ -85,7 +49,7 @@ export function useConnectionCheck() {
     return () => {
       window.removeEventListener('online', handleOnline);
       window.removeEventListener('offline', handleOffline);
+      if (offlineTimerRef.current) clearTimeout(offlineTimerRef.current);
     };
   }, [setConnectionIssue]);
 }
-

@@ -12,6 +12,7 @@ import fonbetLogo from 'figma:asset/3bc1eb74c46ec574d7315a990f6fceb4adc3890f.png
 import betcityLogo from 'figma:asset/d5f6e2a54d59fbdf604fa5f548a11e632a42d3bb.png';
 import olimpbetLogo from 'figma:asset/5a58907bd1c0a85a50111916d1b41e528bd68503.png';
 import baltbetLogo from 'figma:asset/2872bb2c2135d0987d3464fff4b02318446ae333.png';
+import betmLogo from 'figma:asset/BET-M.png';
 
 export interface Bookmaker {
   id: number;
@@ -24,6 +25,8 @@ export interface Bookmaker {
   features: string[];
   license: string;
   url: string;
+  promoCode?: string;
+  promoBonus?: string;
 }
 
 import { apiService } from '../services/api';
@@ -39,7 +42,7 @@ const DEFAULT_BOOKMAKERS: Bookmaker[] = [
     bonusAmount: 5000,
     features: ['Быстрая регистрация', 'Программа лояльности', 'Киберспорт линии'],
     license: 'Лицензия ФНС России',
-    url: 'https://pari.ru/',
+    url: '',
   },
   {
     id: 2,
@@ -51,7 +54,7 @@ const DEFAULT_BOOKMAKERS: Bookmaker[] = [
     bonusAmount: 15000,
     features: ['Моментальные выплаты', 'Высокие коэффициенты', 'Широкая линия событий'],
     license: 'Лицензия ФНС России',
-    url: 'https://fon.bet/',
+    url: '',
   },
   {
     id: 3,
@@ -63,7 +66,7 @@ const DEFAULT_BOOKMAKERS: Bookmaker[] = [
     bonusAmount: 3000,
     features: ['Быстрая верификация', 'Cashback программа', 'Live ставки'],
     license: 'Лицензия ФНС России',
-    url: 'https://betsxwin.pro/click?o=213&a=45502&sub_id3=aso',
+    url: '',
   },
   {
     id: 4,
@@ -75,7 +78,7 @@ const DEFAULT_BOOKMAKERS: Bookmaker[] = [
     bonusAmount: 10000,
     features: ['Быстрые выплаты', 'Щедрые бонусы', 'Статистика и аналитика'],
     license: 'Лицензия ФНС России',
-    url: 'https://betsxwin.pro/click?o=223&a=45502&sub_id1=983rKDx2&sub_id2=15&sub_id3=asobrand',
+    url: '',
   },
   {
     id: 5,
@@ -87,7 +90,7 @@ const DEFAULT_BOOKMAKERS: Bookmaker[] = [
     bonusAmount: 2000,
     features: ['Более 20 лет на рынке', 'Множество акций', 'Круглосуточная поддержка'],
     license: 'Лицензия ФНС России',
-    url: 'https://betsxwin.pro/click?o=6&a=45502&link_id=519',
+    url: '',
   },
   {
     id: 6,
@@ -99,7 +102,7 @@ const DEFAULT_BOOKMAKERS: Bookmaker[] = [
     bonusAmount: 25000,
     features: ['Простая регистрация', 'Хорошие коэффициенты', 'Кэшаут live-ставок'],
     license: 'Лицензия ФНС России',
-    url: 'https://betsxwin.pro/click?o=227&a=45502&link_id=1376&sub_id1=4352&sub_id2=7&sub_id3=aso',
+    url: '',
   },
   {
     id: 7,
@@ -111,7 +114,7 @@ const DEFAULT_BOOKMAKERS: Bookmaker[] = [
     bonusAmount: 25000,
     features: ['Высокие коэффициенты', 'Широкая линия событий', 'Профессиональная поддержка'],
     license: 'Лицензия ФНС России',
-    url: 'https://trk.ppdu.ru/click/mR8zseZl?erid=2SDnjcvZvQm',
+    url: '',
   },
   {
     id: 8,
@@ -123,19 +126,19 @@ const DEFAULT_BOOKMAKERS: Bookmaker[] = [
     bonusAmount: 8000,
     features: ['Высокие лимиты', 'Широкая линия', 'Удобный интерфейс'],
     license: 'Лицензия ФНС России',
-    url: 'https://www.olimp.bet/',
+    url: '',
   },
   {
     id: 9,
     name: 'Baltbet',
     logo: 'BT',
     logoImage: baltbetLogo,
-    rating: 4.2,
+    rating: 4.1,
     bonus: 'До 8 000 ₽ Фрибет',
     bonusAmount: 8000,
     features: ['Неплохие выплаты', 'Кэшбэк до 8%', 'Хорошие коэффициенты'],
     license: 'Лицензия ФНС России',
-    url: 'https://iplogger.com/2q85A4',
+    url: '',
   },
   {
     id: 10,
@@ -147,12 +150,27 @@ const DEFAULT_BOOKMAKERS: Bookmaker[] = [
     bonusAmount: 15000,
     features: ['Огромная линия', 'Круглосуточная поддержка', 'Высокие коэффициенты'],
     license: 'Международная лицензия',
-    url: 'https://posing-beautifully-operating-oklahoma.trycloudflare.com/redirect/aHR0cHM6Ly9tZWxiZXQucnUv',
+    url: '',
+  },
+  {
+    id: 11,
+    name: 'BET-M',
+    logo: 'BM',
+    logoImage: betmLogo,
+    rating: 4.2,
+    bonus: 'До 7 000 ₽ Фрибет',
+    bonusAmount: 7000,
+    features: ['Удобный интерфейс', 'Быстрые выплаты', 'Широкая линия событий'],
+    license: 'Лицензия ФНС России',
+    url: '',
+    promoCode: 'MAPEX',
+    promoBonus: 'Фрибет до 7 000 ₽',
   },
 ];
 
 // Функция для открытия ссылки (в Capacitor приложении откроется в том же WebView)
 const openBookmakerUrl = (url: string) => {
+  if (!url) return;
   // Используем window.location для открытия в том же WebView
   // WebViewClient в MainActivity перехватит это и откроет в WebView
   window.location.href = url;
@@ -169,6 +187,7 @@ export function BonusesTab() {
           const updated = prevBookmakers.map(bm => {
             const remote = config.find(r => r.id === bm.id);
             if (remote) {
+              // URL приходит ТОЛЬКО из GitHub конфига
               return { ...bm, ...remote, logoImage: bm.logoImage, logo: bm.logo };
             }
             return bm;
