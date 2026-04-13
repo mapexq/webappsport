@@ -1,5 +1,61 @@
 [
   {
+    "id": "d33ee687e2c88a62",
+    "title": "Во всех сериях Кубка Гагарина лидеры оказались в шаге от полуфинала",
+    "sport": "Хоккей",
+    "category": "Хоккей",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/6/46/347761054760466.png",
+    "teaser": "Во всех сериях Кубка Гагарина лидеры оказались в шаге от полуфинала",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69dd31109a7947d014a6db30",
+    "publishedAt": "2026-04-13T19:06:36.000Z",
+    "createdAt": "2026-04-13T19:21:05.290Z",
+    "updatedAt": "2026-04-13T19:21:05.290Z"
+  },
+  {
+    "id": "982f5e94c2db3180",
+    "title": "Трехкратный обладатель Кубка Стэнли объявил о завершении карьеры",
+    "sport": "Хоккей",
+    "category": "Хоккей",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/8/96/347761033133968.jpeg",
+    "teaser": "Трехкратный обладатель Кубка Стэнли объявил о завершении карьеры",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69dd2cd29a794762a0b6637f",
+    "publishedAt": "2026-04-13T18:29:38.000Z",
+    "createdAt": "2026-04-13T19:21:07.550Z",
+    "updatedAt": "2026-04-13T19:21:07.550Z"
+  },
+  {
+    "id": "c4dd769f045fc158",
+    "title": "Чемпион «регулярки» выиграл третий матч подряд в серии плей-офф КХЛ",
+    "sport": "Хоккей",
+    "category": "Хоккей",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/5/58/347761011741585.jpeg",
+    "teaser": "Чемпион «регулярки» выиграл третий матч подряд в серии плей-офф КХЛ",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69dd23209a79473f9557f7ba",
+    "publishedAt": "2026-04-13T18:24:06.000Z",
+    "createdAt": "2026-04-13T19:21:06.634Z",
+    "updatedAt": "2026-04-13T19:21:06.634Z"
+  },
+  {
+    "id": "a90461ebcb2563e1",
+    "title": "Оказавшийся в зоне вылета «Тоттенхэм» потерял капитана до конца сезона",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/0/23/347760996181230.jpeg",
+    "teaser": "Оказавшийся в зоне вылета «Тоттенхэм» потерял капитана до конца сезона",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69dd20d49a79477af915a5cc",
+    "publishedAt": "2026-04-13T17:15:22.000Z",
+    "createdAt": "2026-04-13T19:21:09.581Z",
+    "updatedAt": "2026-04-13T19:21:09.581Z"
+  },
+  {
     "id": "29b1761d4e1e4651",
     "title": "«Динамо» дало «Акрону» отыграться с 0:2, но вырвало победу в концовке",
     "sport": "Футбол",
@@ -10,8 +66,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69dd114f9a794742eb1704db",
     "publishedAt": "2026-04-13T16:33:18.000Z",
-    "createdAt": "2026-04-13T17:10:43.290Z",
-    "updatedAt": "2026-04-13T17:10:43.290Z"
+    "createdAt": "2026-04-13T19:21:08.562Z",
+    "updatedAt": "2026-04-13T19:21:08.562Z"
   },
   {
     "id": "62674423f76b2ebf",
@@ -24,8 +80,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69dd0df49a794702aa0a3373",
     "publishedAt": "2026-04-13T16:00:51.000Z",
-    "createdAt": "2026-04-13T17:10:45.206Z",
-    "updatedAt": "2026-04-13T17:10:45.206Z"
+    "createdAt": "2026-04-13T19:21:11.551Z",
+    "updatedAt": "2026-04-13T19:21:11.551Z"
   },
   {
     "id": "0eb5603bca8b2bd3",
@@ -38,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69dd0ad79a79475bb53bf9e5",
     "publishedAt": "2026-04-13T15:52:12.000Z",
-    "createdAt": "2026-04-13T17:10:44.252Z",
-    "updatedAt": "2026-04-13T17:10:44.252Z"
+    "createdAt": "2026-04-13T19:21:10.593Z",
+    "updatedAt": "2026-04-13T19:21:10.593Z"
   },
   {
     "id": "75e5258f15a5467f",
@@ -52,8 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69dd00009a79473c98127e6b",
     "publishedAt": "2026-04-13T15:07:27.000Z",
-    "createdAt": "2026-04-13T17:10:47.242Z",
-    "updatedAt": "2026-04-13T17:10:47.242Z"
+    "createdAt": "2026-04-13T19:21:13.629Z",
+    "updatedAt": "2026-04-13T19:21:13.629Z"
   },
   {
     "id": "0f36272bde4b1b86",
@@ -66,22 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69dcff249a79478b4cb8a686",
     "publishedAt": "2026-04-13T15:06:07.000Z",
-    "createdAt": "2026-04-13T17:10:46.224Z",
-    "updatedAt": "2026-04-13T17:10:46.224Z"
-  },
-  {
-    "id": "a1d6b9d3752d5a6c",
-    "title": "Дегтярев назвал бойкот украинских ватерполистов закономерным поражением",
-    "sport": "Другое",
-    "category": "Другие",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/0/60/347760885425600.png",
-    "teaser": "Дегтярев назвал бойкот украинских ватерполистов закономерным поражением",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69dcf4fd9a79472c3f22ec1c",
-    "publishedAt": "2026-04-13T14:28:34.000Z",
-    "createdAt": "2026-04-13T17:10:49.180Z",
-    "updatedAt": "2026-04-13T17:10:49.180Z"
+    "createdAt": "2026-04-13T19:21:12.563Z",
+    "updatedAt": "2026-04-13T19:21:12.563Z"
   },
   {
     "id": "c40eeb4b2e89bb61",
@@ -94,49 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69dced7c9a794760e530440b",
     "publishedAt": "2026-04-13T14:21:11.000Z",
-    "createdAt": "2026-04-13T17:10:48.253Z",
-    "updatedAt": "2026-04-13T17:10:48.253Z"
-  },
-  {
-    "id": "4b24d23f7c7ae0af",
-    "title": "Мазепин признался, что его удивил отказ украинцев от матча с Россией",
-    "sport": "Другое",
-    "category": "Другие",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/9/40/347760890829409.jpeg",
-    "teaser": "Мазепин признался, что его удивил отказ украинцев от матча с Россией",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69dcf4649a79472b830be700",
-    "publishedAt": "2026-04-13T14:18:49.000Z",
-    "createdAt": "2026-04-13T17:10:50.208Z",
-    "updatedAt": "2026-04-13T17:10:50.208Z"
-  },
-  {
-    "id": "976c8a108ee3f01d",
-    "title": "Глава Федерации водных видов спорта заявил, что не верит в бойкот России",
-    "sport": "Другое",
-    "category": "Другие",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/0/58/347760848890580.jpeg",
-    "teaser": "Глава Федерации водных видов спорта заявил, что не верит в бойкот России",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69dce5549a79472b2162cd7a",
-    "publishedAt": "2026-04-13T14:16:29.000Z",
-    "createdAt": "2026-04-13T17:10:51.228Z",
-    "updatedAt": "2026-04-13T17:10:51.228Z"
-  },
-  {
-    "id": "f892ccd91a230855",
-    "title": "Россия получила право проводить чемпионаты мира и Европы по водным видам",
-    "sport": "Другое",
-    "category": "Другие",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/0/39/347760861848390.png",
-    "teaser": "Россия получила право проводить чемпионаты мира и Европы по водным видам",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69dcebbf9a7947f6559c66b8",
-    "publishedAt": "2026-04-13T13:31:50.000Z",
-    "createdAt": "2026-04-13T17:10:52.256Z",
-    "updatedAt": "2026-04-13T17:10:52.256Z"
+    "createdAt": "2026-04-13T19:21:14.653Z",
+    "updatedAt": "2026-04-13T19:21:14.653Z"
   }
 ]
