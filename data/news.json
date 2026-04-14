@@ -1,5 +1,61 @@
 [
   {
+    "id": "d0fdea642c060995",
+    "title": "УЕФА отклонил жалобу «Барселоны» на судейство в матче ЛЧ с «Атлетико»",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/8/52/347761661385528.jpeg",
+    "teaser": "УЕФА отклонил жалобу «Барселоны» на судейство в матче ЛЧ с «Атлетико»",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69de21c89a794772a089fdce",
+    "publishedAt": "2026-04-14T11:38:56.000Z",
+    "createdAt": "2026-04-14T12:00:38.301Z",
+    "updatedAt": "2026-04-14T12:00:38.301Z"
+  },
+  {
+    "id": "5b6fcc750c78a569",
+    "title": "Россиянка проиграла 123-й ракетке мира на старте турнира WTA во Франции",
+    "sport": "Теннис",
+    "category": "Теннис",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/2/44/347761644570442.jpeg",
+    "teaser": "Россиянка проиграла 123-й ракетке мира на старте турнира WTA во Франции",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69de1e499a7947255138ad04",
+    "publishedAt": "2026-04-14T11:07:05.000Z",
+    "createdAt": "2026-04-14T12:00:40.414Z",
+    "updatedAt": "2026-04-14T12:00:40.414Z"
+  },
+  {
+    "id": "f1b59ff1695a669c",
+    "title": "Умерла чемпионка Игр-1960 Людмила Лысенко",
+    "sport": "Другое",
+    "category": "Другие",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/7/13/347761638750137.jpeg",
+    "teaser": "Умерла чемпионка Игр-1960 Людмила Лысенко",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69de1a389a79473f01d84598",
+    "publishedAt": "2026-04-14T10:57:40.000Z",
+    "createdAt": "2026-04-14T12:00:39.331Z",
+    "updatedAt": "2026-04-14T12:00:39.331Z"
+  },
+  {
+    "id": "e8b25465531ef99c",
+    "title": "Коростелев признался, что пока не готов соперничать с Клебо",
+    "sport": "Другое",
+    "category": "Другие",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/5/83/347761625854835.jpeg",
+    "teaser": "Коростелев признался, что пока не готов соперничать с Клебо",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69de13e29a7947157e8d1325",
+    "publishedAt": "2026-04-14T10:33:17.000Z",
+    "createdAt": "2026-04-14T12:00:41.543Z",
+    "updatedAt": "2026-04-14T12:00:41.543Z"
+  },
+  {
     "id": "2ebf4a24cc69e6c7",
     "title": "Представитель Дзюбы опроверг слухи о переходе футболиста в «Родину»",
     "sport": "Футбол",
@@ -10,8 +66,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69de081d9a794774d2a8e54c",
     "publishedAt": "2026-04-14T10:09:50.000Z",
-    "createdAt": "2026-04-14T10:19:32.757Z",
-    "updatedAt": "2026-04-14T10:19:32.757Z"
+    "createdAt": "2026-04-14T12:00:43.634Z",
+    "updatedAt": "2026-04-14T12:00:43.634Z"
   },
   {
     "id": "e18c0eedc5fdd563",
@@ -24,8 +80,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69de02599a794733140bb92c",
     "publishedAt": "2026-04-14T09:59:56.000Z",
-    "createdAt": "2026-04-14T10:19:31.486Z",
-    "updatedAt": "2026-04-14T10:19:31.486Z"
+    "createdAt": "2026-04-14T12:00:42.613Z",
+    "updatedAt": "2026-04-14T12:00:42.613Z"
   },
   {
     "id": "9259f186cc3c912a",
@@ -38,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69ddfd109a79472d6718a9bc",
     "publishedAt": "2026-04-14T09:06:04.000Z",
-    "createdAt": "2026-04-14T10:19:33.807Z",
-    "updatedAt": "2026-04-14T10:19:33.807Z"
+    "createdAt": "2026-04-14T12:00:44.683Z",
+    "updatedAt": "2026-04-14T12:00:44.683Z"
   },
   {
     "id": "4e342db27b53a7a6",
@@ -52,8 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69dde8499a794702254f45c6",
     "publishedAt": "2026-04-14T08:43:04.000Z",
-    "createdAt": "2026-04-14T10:19:36.991Z",
-    "updatedAt": "2026-04-14T10:19:36.991Z"
+    "createdAt": "2026-04-14T12:00:47.806Z",
+    "updatedAt": "2026-04-14T12:00:47.806Z"
   },
   {
     "id": "0f3f35a6a4a6183c",
@@ -66,8 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69ddf7e49a7947494b830ae7",
     "publishedAt": "2026-04-14T08:38:08.000Z",
-    "createdAt": "2026-04-14T10:19:34.858Z",
-    "updatedAt": "2026-04-14T10:19:34.858Z"
+    "createdAt": "2026-04-14T12:00:45.737Z",
+    "updatedAt": "2026-04-14T12:00:45.737Z"
   },
   {
     "id": "ab31e41af0a79d7f",
@@ -80,63 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69ddf3f19a79472d2d81ea36",
     "publishedAt": "2026-04-14T08:31:21.000Z",
-    "createdAt": "2026-04-14T10:19:35.912Z",
-    "updatedAt": "2026-04-14T10:19:35.912Z"
-  },
-  {
-    "id": "b91dca5cde559d6a",
-    "title": "Чемпиона России в составе ЦСКА уволили из «Черноморца» спустя 2,5 месяца",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/5/37/347761530712375.jpeg",
-    "teaser": "Чемпиона России в составе ЦСКА уволили из «Черноморца» спустя 2,5 месяца",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69ddf07f9a79472dd1caa7db",
-    "publishedAt": "2026-04-14T08:17:26.000Z",
-    "createdAt": "2026-04-14T10:19:38.048Z",
-    "updatedAt": "2026-04-14T10:19:38.048Z"
-  },
-  {
-    "id": "8c8d41286fb97f21",
-    "title": "Четвертая ракетка России выиграла первый матч с февраля",
-    "sport": "Теннис",
-    "category": "Теннис",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/5/52/347761505663525.jpeg",
-    "teaser": "Четвертая ракетка России выиграла первый матч с февраля",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69dde7b09a794764b8903216",
-    "publishedAt": "2026-04-14T07:30:12.000Z",
-    "createdAt": "2026-04-14T10:19:40.170Z",
-    "updatedAt": "2026-04-14T10:19:40.170Z"
-  },
-  {
-    "id": "c5585d6ea668590c",
-    "title": "Кучеров во второй раз в карьере набрал 130 очков за сезон НХЛ",
-    "sport": "Хоккей",
-    "category": "Хоккей",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/1/42/347761489032421.jpeg",
-    "teaser": "Кучеров во второй раз в карьере набрал 130 очков за сезон НХЛ",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69dddeff9a79477e3ea1aeb3",
-    "publishedAt": "2026-04-14T07:04:11.000Z",
-    "createdAt": "2026-04-14T10:19:39.105Z",
-    "updatedAt": "2026-04-14T10:19:39.105Z"
-  },
-  {
-    "id": "42c80a847a7ad01b",
-    "title": "Стали известны все участники Кубка Стэнли",
-    "sport": "Хоккей",
-    "category": "Хоккей",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/1/86/347761474668861.jpeg",
-    "teaser": "Стали известны все участники Кубка Стэнли",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69ddd8fa9a794705d09d6ee2",
-    "publishedAt": "2026-04-14T06:25:35.000Z",
-    "createdAt": "2026-04-14T10:19:41.237Z",
-    "updatedAt": "2026-04-14T10:19:41.237Z"
+    "createdAt": "2026-04-14T12:00:46.767Z",
+    "updatedAt": "2026-04-14T12:00:46.767Z"
   }
 ]
