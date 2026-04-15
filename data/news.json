@@ -1,5 +1,61 @@
 [
   {
+    "id": "d0ee8bd5788203c9",
+    "title": "Норвежская ассоциация биатлона лишила почетного звания экс-главу IBU",
+    "sport": "Другое",
+    "category": "Биатлон",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/0/17/347762458041170.jpeg",
+    "teaser": "Норвежская ассоциация биатлона лишила почетного звания экс-главу IBU",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69df58449a7947677d9931f0",
+    "publishedAt": "2026-04-15T09:51:41.000Z",
+    "createdAt": "2026-04-15T10:20:03.655Z",
+    "updatedAt": "2026-04-15T10:20:03.655Z"
+  },
+  {
+    "id": "ce883fe88b696798",
+    "title": "Стала известна дата матча за Суперкубок России по футболу",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/2/15/347762451466152.png",
+    "teaser": "Стала известна дата матча за Суперкубок России по футболу",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69df59359a794725ee0cd392",
+    "publishedAt": "2026-04-15T09:39:44.000Z",
+    "createdAt": "2026-04-15T10:20:04.586Z",
+    "updatedAt": "2026-04-15T10:20:04.586Z"
+  },
+  {
+    "id": "85bfd87d220d067f",
+    "title": "Ирина Винер стала почетным членом World Gymnastics",
+    "sport": "Другое",
+    "category": "Другие",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/3/80/347762431920803.jpeg",
+    "teaser": "Ирина Винер стала почетным членом World Gymnastics",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69df50359a7947547d335042",
+    "publishedAt": "2026-04-15T09:32:19.000Z",
+    "createdAt": "2026-04-15T10:20:06.485Z",
+    "updatedAt": "2026-04-15T10:20:06.485Z"
+  },
+  {
+    "id": "b2aac04776cc22b1",
+    "title": "РФС назвал дату старта нового сезона РПЛ",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/0/10/347762446812100.png",
+    "teaser": "РФС назвал дату старта нового сезона РПЛ",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69df567d9a79472f79da2c16",
+    "publishedAt": "2026-04-15T09:25:00.000Z",
+    "createdAt": "2026-04-15T10:20:05.538Z",
+    "updatedAt": "2026-04-15T10:20:05.538Z"
+  },
+  {
     "id": "a84af207fe5dbac2",
     "title": "Стали известны все пары плей-офф НХЛ в Восточной конференции",
     "sport": "Хоккей",
@@ -10,8 +66,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69df45ae9a794751cd40dc38",
     "publishedAt": "2026-04-15T08:36:13.000Z",
-    "createdAt": "2026-04-15T08:47:19.872Z",
-    "updatedAt": "2026-04-15T08:47:19.872Z"
+    "createdAt": "2026-04-15T10:20:07.483Z",
+    "updatedAt": "2026-04-15T10:20:07.483Z"
   },
   {
     "id": "5a7aea270efb7c81",
@@ -24,8 +80,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69df3e4c9a7947392bf5f016",
     "publishedAt": "2026-04-15T08:08:16.000Z",
-    "createdAt": "2026-04-15T08:47:21.029Z",
-    "updatedAt": "2026-04-15T08:47:21.029Z"
+    "createdAt": "2026-04-15T10:20:08.474Z",
+    "updatedAt": "2026-04-15T10:20:08.474Z"
   },
   {
     "id": "c29a320a97f6dbbc",
@@ -38,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69df2f959a7947fef2c66cfd",
     "publishedAt": "2026-04-15T07:43:37.000Z",
-    "createdAt": "2026-04-15T08:47:22.062Z",
-    "updatedAt": "2026-04-15T08:47:22.062Z"
+    "createdAt": "2026-04-15T10:20:09.460Z",
+    "updatedAt": "2026-04-15T10:20:09.460Z"
   },
   {
     "id": "bbd6e555fd2f475e",
@@ -52,8 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69df36409a7947fc0fed0fef",
     "publishedAt": "2026-04-15T07:35:35.000Z",
-    "createdAt": "2026-04-15T08:47:23.089Z",
-    "updatedAt": "2026-04-15T08:47:23.089Z"
+    "createdAt": "2026-04-15T10:20:10.444Z",
+    "updatedAt": "2026-04-15T10:20:10.444Z"
   },
   {
     "id": "3dd0982bcd51d4eb",
@@ -66,22 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69de067c9a794739b352dcc0",
     "publishedAt": "2026-04-15T06:37:39.000Z",
-    "createdAt": "2026-04-15T08:47:24.119Z",
-    "updatedAt": "2026-04-15T08:47:24.119Z"
-  },
-  {
-    "id": "0b06b2d8eb162e19",
-    "title": "Кто из россиян завоевывал Кубок Стэнли",
-    "sport": "Хоккей",
-    "category": "Хоккей",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/0/80/347186537965800.jpeg",
-    "teaser": "Кто из россиян завоевывал Кубок Стэнли",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/667a36a19a79471459ba4950",
-    "publishedAt": "2026-04-15T06:32:18.000Z",
-    "createdAt": "2026-04-15T08:47:26.266Z",
-    "updatedAt": "2026-04-15T08:47:26.266Z"
+    "createdAt": "2026-04-15T10:20:11.488Z",
+    "updatedAt": "2026-04-15T10:20:11.488Z"
   },
   {
     "id": "470c084a725724ce",
@@ -94,49 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69df2a0b9a794746c62c3f2d",
     "publishedAt": "2026-04-15T06:30:22.000Z",
-    "createdAt": "2026-04-15T08:47:25.146Z",
-    "updatedAt": "2026-04-15T08:47:25.146Z"
-  },
-  {
-    "id": "f5ef1cd6e2d93701",
-    "title": "Овечкин установил антирекорд в последнем сезоне НХЛ по контракту",
-    "sport": "Хоккей",
-    "category": "Хоккей",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/9/43/347762305983439.jpeg",
-    "teaser": "Овечкин установил антирекорд в последнем сезоне НХЛ по контракту",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69df204c9a7947d1af58658d",
-    "publishedAt": "2026-04-15T05:37:51.000Z",
-    "createdAt": "2026-04-15T08:47:27.290Z",
-    "updatedAt": "2026-04-15T08:47:27.290Z"
-  },
-  {
-    "id": "ba64232a4916e36e",
-    "title": "Овечкин стал соавтором победного гола в последнем матче НХЛ по контракту",
-    "sport": "Хоккей",
-    "category": "Хоккей",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/1/48/347762309910481.jpeg",
-    "teaser": "Овечкин стал соавтором победного гола в последнем матче НХЛ по контракту",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69df1bf49a7947a84f4310ec",
-    "publishedAt": "2026-04-15T05:15:30.000Z",
-    "createdAt": "2026-04-15T08:47:29.134Z",
-    "updatedAt": "2026-04-15T08:47:29.134Z"
-  },
-  {
-    "id": "531a5436fa5df661",
-    "title": "Сколько заработал Овечкин за карьеру в НХЛ",
-    "sport": "Хоккей",
-    "category": "Хоккей",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/9/43/347543241068439.jpeg",
-    "teaser": "Сколько заработал Овечкин за карьеру в НХЛ",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6891aeda9a79471857f33573",
-    "publishedAt": "2026-04-15T05:03:22.000Z",
-    "createdAt": "2026-04-15T08:47:30.170Z",
-    "updatedAt": "2026-04-15T08:47:30.170Z"
+    "createdAt": "2026-04-15T10:20:12.491Z",
+    "updatedAt": "2026-04-15T10:20:12.491Z"
   }
 ]
