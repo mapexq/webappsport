@@ -1,5 +1,61 @@
 [
   {
+    "id": "f5ef1cd6e2d93701",
+    "title": "Овечкин установил антирекорд в последнем сезоне НХЛ по контракту",
+    "sport": "Хоккей",
+    "category": "Хоккей",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/9/43/347762305983439.jpeg",
+    "teaser": "Овечкин установил антирекорд в последнем сезоне НХЛ по контракту",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69df204c9a7947d1af58658d",
+    "publishedAt": "2026-04-15T05:37:51.000Z",
+    "createdAt": "2026-04-15T06:03:21.647Z",
+    "updatedAt": "2026-04-15T06:03:21.647Z"
+  },
+  {
+    "id": "ba64232a4916e36e",
+    "title": "Овечкин стал соавтором победного гола в последнем матче НХЛ по контракту",
+    "sport": "Хоккей",
+    "category": "Хоккей",
+    "imageUrl": "/images/news-placeholder.jpg",
+    "teaser": "Овечкин стал соавтором победного гола в последнем матче НХЛ по контракту",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69df1bf49a7947a84f4310ec",
+    "publishedAt": "2026-04-15T05:15:30.000Z",
+    "createdAt": "2026-04-15T06:03:23.630Z",
+    "updatedAt": "2026-04-15T06:03:23.630Z"
+  },
+  {
+    "id": "531a5436fa5df661",
+    "title": "Сколько заработал Овечкин за карьеру в НХЛ",
+    "sport": "Хоккей",
+    "category": "Хоккей",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/9/43/347543241068439.jpeg",
+    "teaser": "Сколько заработал Овечкин за карьеру в НХЛ",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6891aeda9a79471857f33573",
+    "publishedAt": "2026-04-15T05:03:22.000Z",
+    "createdAt": "2026-04-15T06:03:24.775Z",
+    "updatedAt": "2026-04-15T06:03:24.775Z"
+  },
+  {
+    "id": "91fd6503d33ecd36",
+    "title": "Почему Овечкин не должен был стать звездой НХЛ",
+    "sport": "Хоккей",
+    "category": "Хоккей",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/5/61/347725479069615.jpeg",
+    "teaser": "Почему Овечкин не должен был стать звездой НХЛ",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69a6bb769a7947473d345f49",
+    "publishedAt": "2026-04-15T04:33:07.000Z",
+    "createdAt": "2026-04-15T06:03:26.113Z",
+    "updatedAt": "2026-04-15T06:03:26.113Z"
+  },
+  {
     "id": "6a16954fb07815e1",
     "title": "«Атлетико» выбил «Барселону» из Лиги чемпионов и вышел в полуфинал",
     "sport": "Футбол",
@@ -10,8 +66,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69de9f559a794750c825f4db",
     "publishedAt": "2026-04-14T21:16:57.000Z",
-    "createdAt": "2026-04-15T03:18:24.280Z",
-    "updatedAt": "2026-04-15T03:18:24.281Z"
+    "createdAt": "2026-04-15T06:03:28.382Z",
+    "updatedAt": "2026-04-15T06:03:28.382Z"
   },
   {
     "id": "084c223db3ae9c70",
@@ -24,8 +80,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69de92989a7947ee93dadebe",
     "publishedAt": "2026-04-14T21:14:24.000Z",
-    "createdAt": "2026-04-15T03:18:23.205Z",
-    "updatedAt": "2026-04-15T03:18:23.205Z"
+    "createdAt": "2026-04-15T06:03:27.245Z",
+    "updatedAt": "2026-04-15T06:03:27.245Z"
   },
   {
     "id": "ca30c14f615f6f41",
@@ -38,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69de96a79a7947013fe494df",
     "publishedAt": "2026-04-14T20:31:06.000Z",
-    "createdAt": "2026-04-15T03:18:25.318Z",
-    "updatedAt": "2026-04-15T03:18:25.318Z"
+    "createdAt": "2026-04-15T06:03:29.464Z",
+    "updatedAt": "2026-04-15T06:03:29.464Z"
   },
   {
     "id": "84c02092e645127a",
@@ -52,8 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69de86b69a79471a3a083dcf",
     "publishedAt": "2026-04-14T19:01:08.000Z",
-    "createdAt": "2026-04-15T03:18:26.338Z",
-    "updatedAt": "2026-04-15T03:18:26.338Z"
+    "createdAt": "2026-04-15T06:03:30.783Z",
+    "updatedAt": "2026-04-15T06:03:30.783Z"
   },
   {
     "id": "cfb5aec2ee97b4a9",
@@ -66,8 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69de807b9a79471bb05be340",
     "publishedAt": "2026-04-14T18:31:47.000Z",
-    "createdAt": "2026-04-15T03:18:27.310Z",
-    "updatedAt": "2026-04-15T03:18:27.310Z"
+    "createdAt": "2026-04-15T06:03:31.937Z",
+    "updatedAt": "2026-04-15T06:03:31.937Z"
   },
   {
     "id": "43c5349b0b50c873",
@@ -80,63 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69de7d459a7947bbe1b2249b",
     "publishedAt": "2026-04-14T18:02:36.000Z",
-    "createdAt": "2026-04-15T03:18:28.326Z",
-    "updatedAt": "2026-04-15T03:18:28.326Z"
-  },
-  {
-    "id": "600d0a4241d7be85",
-    "title": "Клуб Месси лишился главного тренера",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/4/05/347761876720054.jpeg",
-    "teaser": "Клуб Месси лишился главного тренера",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69de78e29a79473e9e76410e",
-    "publishedAt": "2026-04-14T17:35:24.000Z",
-    "createdAt": "2026-04-15T03:18:30.321Z",
-    "updatedAt": "2026-04-15T03:18:30.321Z"
-  },
-  {
-    "id": "70630fc441bcbbf5",
-    "title": "Овечкин впервые за 8 лет сыграет во всех матчах регулярки сезона НХЛ",
-    "sport": "Хоккей",
-    "category": "Хоккей",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/2/90/347761865886902.jpeg",
-    "teaser": "Овечкин впервые за 8 лет сыграет во всех матчах регулярки сезона НХЛ",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69de74ac9a79476e81d6f7f1",
-    "publishedAt": "2026-04-14T17:21:37.000Z",
-    "createdAt": "2026-04-15T03:18:29.236Z",
-    "updatedAt": "2026-04-15T03:18:29.236Z"
-  },
-  {
-    "id": "300cf58ebf658df2",
-    "title": "УЕФА планирует получить более €1 млрд со спонсорства клубных турниров",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/6/80/347761824967806.jpeg",
-    "teaser": "УЕФА планирует получить более €1 млрд со спонсорства клубных турниров",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69de593e9a79471eac47fb93",
-    "publishedAt": "2026-04-14T17:19:35.000Z",
-    "createdAt": "2026-04-15T03:18:31.341Z",
-    "updatedAt": "2026-04-15T03:18:31.341Z"
-  },
-  {
-    "id": "04a9082ec5b62fc2",
-    "title": "Гроссмейстер из Узбекистана сыграет за мировую шахматную корону",
-    "sport": "Другое",
-    "category": "Другие",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/5/48/347761533069485.jpeg",
-    "teaser": "Гроссмейстер из Узбекистана сыграет за мировую шахматную корону",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69ddf2939a7947e2ec6087b7",
-    "publishedAt": "2026-04-14T16:25:58.000Z",
-    "createdAt": "2026-04-15T03:18:32.517Z",
-    "updatedAt": "2026-04-15T03:18:32.517Z"
+    "createdAt": "2026-04-15T06:03:33.141Z",
+    "updatedAt": "2026-04-15T06:03:33.141Z"
   }
 ]
