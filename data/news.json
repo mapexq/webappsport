@@ -1,5 +1,33 @@
 [
   {
+    "id": "23b12b51ee8e37d7",
+    "title": "Четвертая ракетка России не смогла выйти в 1/4 финала турнира в Штутгарте",
+    "sport": "Теннис",
+    "category": "Теннис",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/2/73/347763654069732.jpeg",
+    "teaser": "Четвертая ракетка России не смогла выйти в 1/4 финала турнира в Штутгарте",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69e12c129a794772c2209a8e",
+    "publishedAt": "2026-04-16T19:25:46.000Z",
+    "createdAt": "2026-04-16T20:02:37.333Z",
+    "updatedAt": "2026-04-16T20:02:37.333Z"
+  },
+  {
+    "id": "8d75705942166ad0",
+    "title": "Неймар ответил на вопрос о готовности перейти в MLS",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/4/27/347763619858274.jpeg",
+    "teaser": "Неймар ответил на вопрос о готовности перейти в MLS",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69e121be9a79477f89c57eff",
+    "publishedAt": "2026-04-16T18:13:24.000Z",
+    "createdAt": "2026-04-16T20:02:38.411Z",
+    "updatedAt": "2026-04-16T20:02:38.411Z"
+  },
+  {
     "id": "f1887734314ba0b6",
     "title": "Овечкин рассказал, что хотел бы услышать от руководства «Вашингтона»",
     "sport": "Хоккей",
@@ -10,8 +38,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69e118109a79477a16634a5b",
     "publishedAt": "2026-04-16T18:04:48.000Z",
-    "createdAt": "2026-04-16T18:11:01.842Z",
-    "updatedAt": "2026-04-16T18:11:01.842Z"
+    "createdAt": "2026-04-16T20:02:39.419Z",
+    "updatedAt": "2026-04-16T20:02:39.419Z"
   },
   {
     "id": "50b8e1eaef19c648",
@@ -24,8 +52,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69e11bf79a79474e403647fc",
     "publishedAt": "2026-04-16T17:44:04.000Z",
-    "createdAt": "2026-04-16T18:11:02.927Z",
-    "updatedAt": "2026-04-16T18:11:02.927Z"
+    "createdAt": "2026-04-16T20:02:40.428Z",
+    "updatedAt": "2026-04-16T20:02:40.428Z"
   },
   {
     "id": "ea80b3c23adca5cc",
@@ -38,8 +66,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69e104bf9a7947cf5e1ded0b",
     "publishedAt": "2026-04-16T16:22:21.000Z",
-    "createdAt": "2026-04-16T18:11:05.216Z",
-    "updatedAt": "2026-04-16T18:11:05.216Z"
+    "createdAt": "2026-04-16T20:02:41.426Z",
+    "updatedAt": "2026-04-16T20:02:41.426Z"
   },
   {
     "id": "e84adff51f7c14be",
@@ -52,8 +80,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69e0f5199a794749f671a1e0",
     "publishedAt": "2026-04-16T16:03:26.000Z",
-    "createdAt": "2026-04-16T18:11:06.346Z",
-    "updatedAt": "2026-04-16T18:11:06.346Z"
+    "createdAt": "2026-04-16T20:02:43.436Z",
+    "updatedAt": "2026-04-16T20:02:43.436Z"
   },
   {
     "id": "89217759ad61f007",
@@ -66,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69e0f9499a7947d8e1d7e736",
     "publishedAt": "2026-04-16T15:38:09.000Z",
-    "createdAt": "2026-04-16T18:11:04.069Z",
-    "updatedAt": "2026-04-16T18:11:04.069Z"
+    "createdAt": "2026-04-16T20:02:42.439Z",
+    "updatedAt": "2026-04-16T20:02:42.439Z"
   },
   {
     "id": "b95321fdb66fac22",
@@ -80,8 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69e0fd489a794790d1685fbe",
     "publishedAt": "2026-04-16T15:26:39.000Z",
-    "createdAt": "2026-04-16T18:11:07.494Z",
-    "updatedAt": "2026-04-16T18:11:07.494Z"
+    "createdAt": "2026-04-16T20:02:44.439Z",
+    "updatedAt": "2026-04-16T20:02:44.439Z"
   },
   {
     "id": "127ee3504c4d721a",
@@ -94,8 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69e0f4939a794713a3d95b24",
     "publishedAt": "2026-04-16T15:00:17.000Z",
-    "createdAt": "2026-04-16T18:11:09.529Z",
-    "updatedAt": "2026-04-16T18:11:09.529Z"
+    "createdAt": "2026-04-16T20:02:46.249Z",
+    "updatedAt": "2026-04-16T20:02:46.249Z"
   },
   {
     "id": "db3e5b1544a758e4",
@@ -108,35 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69e0e8ca9a794756d2dd80d3",
     "publishedAt": "2026-04-16T14:47:30.000Z",
-    "createdAt": "2026-04-16T18:11:10.670Z",
-    "updatedAt": "2026-04-16T18:11:10.670Z"
-  },
-  {
-    "id": "6877b448434f67c0",
-    "title": "Туктамышева заявила, что не все поняли ее номер о домашнем насилии",
-    "sport": "Другое",
-    "category": "Фигурное катание",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/0/18/347763498284180.jpeg",
-    "teaser": "Туктамышева заявила, что не все поняли ее номер о домашнем насилии",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69e0ee049a79476be45a8ead",
-    "publishedAt": "2026-04-16T14:41:31.000Z",
-    "createdAt": "2026-04-16T18:11:12.963Z",
-    "updatedAt": "2026-04-16T18:11:12.963Z"
-  },
-  {
-    "id": "4daa626eec0a96a6",
-    "title": "Российской легкоатлетке отказали в смене спортивного гражданства",
-    "sport": "Другое",
-    "category": "Другие",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/0/09/347763484618090.jpeg",
-    "teaser": "Российской легкоатлетке отказали в смене спортивного гражданства",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69e0e6039a79471e75f575bc",
-    "publishedAt": "2026-04-16T14:25:46.000Z",
-    "createdAt": "2026-04-16T18:11:11.822Z",
-    "updatedAt": "2026-04-16T18:11:11.822Z"
+    "createdAt": "2026-04-16T20:02:47.275Z",
+    "updatedAt": "2026-04-16T20:02:47.275Z"
   }
 ]
