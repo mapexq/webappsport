@@ -1,5 +1,61 @@
 [
   {
+    "id": "615c9f817b656db3",
+    "title": "«Ролан Гаррос» поднял призовые, но они уступают остальным «мэйджорам»",
+    "sport": "Теннис",
+    "category": "Теннис",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/6/60/347763394266606.jpeg",
+    "teaser": "«Ролан Гаррос» поднял призовые, но они уступают остальным «мэйджорам»",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69e0c6219a79473d6f2e2ab7",
+    "publishedAt": "2026-04-16T11:44:38.000Z",
+    "createdAt": "2026-04-16T12:01:07.974Z",
+    "updatedAt": "2026-04-16T12:01:07.974Z"
+  },
+  {
+    "id": "5295f46837f8c74a",
+    "title": "Лидер атак «Ливерпуля» пропустит ЧМ-2026 из-за разрыва ахилла",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/0/36/347763369160360.jpeg",
+    "teaser": "Лидер атак «Ливерпуля» пропустит ЧМ-2026 из-за разрыва ахилла",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69e0bb8c9a79478f4a71b079",
+    "publishedAt": "2026-04-16T11:08:31.000Z",
+    "createdAt": "2026-04-16T12:01:06.825Z",
+    "updatedAt": "2026-04-16T12:01:06.825Z"
+  },
+  {
+    "id": "f75cda91bb935ea3",
+    "title": "Роналду стало плохо во время матча с «Аль-Иттифаком»",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/2/38/347763345288382.png",
+    "teaser": "Роналду стало плохо во время матча с «Аль-Иттифаком»",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69e0b65f9a794710218dec6e",
+    "publishedAt": "2026-04-16T10:37:35.000Z",
+    "createdAt": "2026-04-16T12:01:08.985Z",
+    "updatedAt": "2026-04-16T12:01:08.985Z"
+  },
+  {
+    "id": "48c512638c233353",
+    "title": "«Автомобилист» расторг контракт с одним из лидеров по инициативе игрока",
+    "sport": "Хоккей",
+    "category": "Хоккей",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/9/08/347763349067089.jpeg",
+    "teaser": "«Автомобилист» расторг контракт с одним из лидеров по инициативе игрока",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69e0b3759a7947606395d154",
+    "publishedAt": "2026-04-16T10:36:38.000Z",
+    "createdAt": "2026-04-16T12:01:09.990Z",
+    "updatedAt": "2026-04-16T12:01:09.990Z"
+  },
+  {
     "id": "bcc3fe6a1bbe8cb8",
     "title": "Организаторы Игр-2032 не отказались от реки с крокодилами после жалоб",
     "sport": "Другое",
@@ -10,8 +66,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69e0aa5f9a79473bb8d95c06",
     "publishedAt": "2026-04-16T10:03:15.000Z",
-    "createdAt": "2026-04-16T10:19:27.275Z",
-    "updatedAt": "2026-04-16T10:19:27.275Z"
+    "createdAt": "2026-04-16T12:01:12.085Z",
+    "updatedAt": "2026-04-16T12:01:12.085Z"
   },
   {
     "id": "c53a30a73fc31f57",
@@ -24,8 +80,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69e0aa7c9a7947b4cb2f3f79",
     "publishedAt": "2026-04-16T09:48:09.000Z",
-    "createdAt": "2026-04-16T10:19:26.277Z",
-    "updatedAt": "2026-04-16T10:19:26.277Z"
+    "createdAt": "2026-04-16T12:01:11.011Z",
+    "updatedAt": "2026-04-16T12:01:11.011Z"
   },
   {
     "id": "ec4783352ed4d8d0",
@@ -38,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69e0955c9a794702bddfd29b",
     "publishedAt": "2026-04-16T09:37:27.000Z",
-    "createdAt": "2026-04-16T10:19:28.338Z",
-    "updatedAt": "2026-04-16T10:19:28.339Z"
+    "createdAt": "2026-04-16T12:01:13.146Z",
+    "updatedAt": "2026-04-16T12:01:13.146Z"
   },
   {
     "id": "0496fd9a223ee473",
@@ -52,8 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69e0959b9a79470221951a67",
     "publishedAt": "2026-04-16T08:19:33.000Z",
-    "createdAt": "2026-04-16T10:19:29.773Z",
-    "updatedAt": "2026-04-16T10:19:29.773Z"
+    "createdAt": "2026-04-16T12:01:14.206Z",
+    "updatedAt": "2026-04-16T12:01:14.206Z"
   },
   {
     "id": "460b832859ca8758",
@@ -66,8 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69e080689a79474899201ff3",
     "publishedAt": "2026-04-16T07:15:24.000Z",
-    "createdAt": "2026-04-16T10:19:31.061Z",
-    "updatedAt": "2026-04-16T10:19:31.061Z"
+    "createdAt": "2026-04-16T12:01:15.219Z",
+    "updatedAt": "2026-04-16T12:01:15.219Z"
   },
   {
     "id": "a2ad82c137295a57",
@@ -80,63 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69e07c649a7947c60f2ac770",
     "publishedAt": "2026-04-16T07:05:51.000Z",
-    "createdAt": "2026-04-16T10:19:32.163Z",
-    "updatedAt": "2026-04-16T10:19:32.163Z"
-  },
-  {
-    "id": "8d7592958fb154aa",
-    "title": "Стали известны пары полуфинала Лиги чемпионов",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/6/42/347762845265426.jpeg",
-    "teaser": "Стали известны пары полуфинала Лиги чемпионов",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69dff2289a7947335a30fdae",
-    "publishedAt": "2026-04-15T21:16:50.000Z",
-    "createdAt": "2026-04-16T10:19:33.270Z",
-    "updatedAt": "2026-04-16T10:19:33.270Z"
-  },
-  {
-    "id": "b80eeaaac25a2a4c",
-    "title": "«Бавария» обыграла «Реал» и сыграет в полуфинале ЛЧ с ПСЖ Сафонова",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/3/94/347762870552943.jpeg",
-    "teaser": "«Бавария» обыграла «Реал» и сыграет в полуфинале ЛЧ с ПСЖ Сафонова",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69dfdfa09a7947bf690a35ca",
-    "publishedAt": "2026-04-15T21:06:53.000Z",
-    "createdAt": "2026-04-16T10:19:34.375Z",
-    "updatedAt": "2026-04-16T10:19:34.375Z"
-  },
-  {
-    "id": "780dd8e7b90649a7",
-    "title": "«Торпедо» в овертайме вырвало победу у «Металлурга» в матче плей-офф КХЛ",
-    "sport": "Хоккей",
-    "category": "Хоккей",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/5/22/347762816328225.jpeg",
-    "teaser": "«Торпедо» в овертайме вырвало победу у «Металлурга» в матче плей-офф КХЛ",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69dfd4919a79476d33f792d7",
-    "publishedAt": "2026-04-15T19:50:05.000Z",
-    "createdAt": "2026-04-16T10:19:35.443Z",
-    "updatedAt": "2026-04-16T10:19:35.443Z"
-  },
-  {
-    "id": "8a52205096618a26",
-    "title": "«Ак Барс» вышел в полуфинал Кубка Гагарина",
-    "sport": "Хоккей",
-    "category": "Хоккей",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/1/75/347762765271751.jpeg",
-    "teaser": "«Ак Барс» вышел в полуфинал Кубка Гагарина",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69dfd17b9a7947d0fa7021a3",
-    "publishedAt": "2026-04-15T19:37:53.000Z",
-    "createdAt": "2026-04-16T10:19:36.565Z",
-    "updatedAt": "2026-04-16T10:19:36.565Z"
+    "createdAt": "2026-04-16T12:01:16.498Z",
+    "updatedAt": "2026-04-16T12:01:16.498Z"
   }
 ]
