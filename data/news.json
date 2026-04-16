@@ -1,5 +1,75 @@
 [
   {
+    "id": "ea80b3c23adca5cc",
+    "title": "Месси купил испанский клуб из пятого дивизиона",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/4/13/347763545456134.jpeg",
+    "teaser": "Месси купил испанский клуб из пятого дивизиона",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69e104bf9a7947cf5e1ded0b",
+    "publishedAt": "2026-04-16T16:22:21.000Z",
+    "createdAt": "2026-04-16T16:45:31.177Z",
+    "updatedAt": "2026-04-16T16:45:31.177Z"
+  },
+  {
+    "id": "e84adff51f7c14be",
+    "title": "«Авангард» обыграл ЦСКА и стал третьим полуфиналистом Кубка Гагарина",
+    "sport": "Хоккей",
+    "category": "Хоккей",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/9/76/347763548935769.jpeg",
+    "teaser": "«Авангард» обыграл ЦСКА и стал третьим полуфиналистом Кубка Гагарина",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69e0f5199a794749f671a1e0",
+    "publishedAt": "2026-04-16T16:03:26.000Z",
+    "createdAt": "2026-04-16T16:45:32.229Z",
+    "updatedAt": "2026-04-16T16:45:32.229Z"
+  },
+  {
+    "id": "89217759ad61f007",
+    "title": "Овечкин заявил о надежде еще сыграть за «Вашингтон» в НХЛ",
+    "sport": "Хоккей",
+    "category": "Хоккей",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/4/22/347763521916224.jpeg",
+    "teaser": "Овечкин заявил о надежде еще сыграть за «Вашингтон» в НХЛ",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69e0f9499a7947d8e1d7e736",
+    "publishedAt": "2026-04-16T15:38:09.000Z",
+    "createdAt": "2026-04-16T16:45:30.179Z",
+    "updatedAt": "2026-04-16T16:45:30.179Z"
+  },
+  {
+    "id": "b95321fdb66fac22",
+    "title": "Племянник Тарасовой рассказал о положительной динамике в ее лечении",
+    "sport": "Другое",
+    "category": "Фигурное катание",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/8/84/347763529426848.png",
+    "teaser": "Племянник Тарасовой рассказал о положительной динамике в ее лечении",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69e0fd489a794790d1685fbe",
+    "publishedAt": "2026-04-16T15:26:39.000Z",
+    "createdAt": "2026-04-16T16:45:33.215Z",
+    "updatedAt": "2026-04-16T16:45:33.215Z"
+  },
+  {
+    "id": "127ee3504c4d721a",
+    "title": "Российский дзюдоист завоевал золото чемпионата Европы",
+    "sport": "Другое",
+    "category": "Другие",
+    "imageUrl": "/images/news-placeholder.jpg",
+    "teaser": "Российский дзюдоист завоевал золото чемпионата Европы",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69e0f4939a794713a3d95b24",
+    "publishedAt": "2026-04-16T15:00:17.000Z",
+    "createdAt": "2026-04-16T16:45:35.087Z",
+    "updatedAt": "2026-04-16T16:45:35.087Z"
+  },
+  {
     "id": "db3e5b1544a758e4",
     "title": "Мирра Андреева вышла в четвертьфинал турнира в Штутгарте",
     "sport": "Теннис",
@@ -10,8 +80,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69e0e8ca9a794756d2dd80d3",
     "publishedAt": "2026-04-16T14:47:30.000Z",
-    "createdAt": "2026-04-16T14:59:59.433Z",
-    "updatedAt": "2026-04-16T14:59:59.433Z"
+    "createdAt": "2026-04-16T16:45:36.128Z",
+    "updatedAt": "2026-04-16T16:45:36.128Z"
   },
   {
     "id": "6877b448434f67c0",
@@ -24,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69e0ee049a79476be45a8ead",
     "publishedAt": "2026-04-16T14:41:31.000Z",
-    "createdAt": "2026-04-16T15:00:00.329Z",
-    "updatedAt": "2026-04-16T15:00:00.329Z"
+    "createdAt": "2026-04-16T16:45:38.220Z",
+    "updatedAt": "2026-04-16T16:45:38.220Z"
   },
   {
     "id": "4daa626eec0a96a6",
@@ -38,8 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69e0e6039a79471e75f575bc",
     "publishedAt": "2026-04-16T14:25:46.000Z",
-    "createdAt": "2026-04-16T15:00:01.321Z",
-    "updatedAt": "2026-04-16T15:00:01.321Z"
+    "createdAt": "2026-04-16T16:45:37.174Z",
+    "updatedAt": "2026-04-16T16:45:37.174Z"
   },
   {
     "id": "e217dd635e6ca39e",
@@ -52,8 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69e0e1ef9a794733affcbac8",
     "publishedAt": "2026-04-16T13:50:07.000Z",
-    "createdAt": "2026-04-16T15:00:02.500Z",
-    "updatedAt": "2026-04-16T15:00:02.500Z"
+    "createdAt": "2026-04-16T16:45:39.320Z",
+    "updatedAt": "2026-04-16T16:45:39.320Z"
   },
   {
     "id": "d7498625b2571991",
@@ -66,77 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69e0d2009a7947ece2402e1c",
     "publishedAt": "2026-04-16T13:40:36.000Z",
-    "createdAt": "2026-04-16T15:00:03.619Z",
-    "updatedAt": "2026-04-16T15:00:03.619Z"
-  },
-  {
-    "id": "441eb1406097bf3f",
-    "title": "Кенийскому рекордсмену мира в беге сократили отстранение за допинг",
-    "sport": "Другое",
-    "category": "Другие",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/5/61/347763450985615.jpeg",
-    "teaser": "Кенийскому рекордсмену мира в беге сократили отстранение за допинг",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69e0da4a9a794701f34e1c0a",
-    "publishedAt": "2026-04-16T13:28:29.000Z",
-    "createdAt": "2026-04-16T15:00:05.843Z",
-    "updatedAt": "2026-04-16T15:00:05.843Z"
-  },
-  {
-    "id": "550543ff83a23c28",
-    "title": "Самый забивной швед в истории КХЛ завершил карьеру",
-    "sport": "Хоккей",
-    "category": "Хоккей",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/2/81/347763437688812.png",
-    "teaser": "Самый забивной швед в истории КХЛ завершил карьеру",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69e0da769a79474f8ebaade5",
-    "publishedAt": "2026-04-16T13:20:34.000Z",
-    "createdAt": "2026-04-16T15:00:04.749Z",
-    "updatedAt": "2026-04-16T15:00:04.749Z"
-  },
-  {
-    "id": "a585760896ab7d78",
-    "title": "Василевский стал главным фаворитом на приз лучшему вратарю НХЛ",
-    "sport": "Хоккей",
-    "category": "Хоккей",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/0/10/347763429804100.jpeg",
-    "teaser": "Василевский стал главным фаворитом на приз лучшему вратарю НХЛ",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69e0d1419a79470d083ea785",
-    "publishedAt": "2026-04-16T12:54:34.000Z",
-    "createdAt": "2026-04-16T15:00:06.945Z",
-    "updatedAt": "2026-04-16T15:00:06.945Z"
-  },
-  {
-    "id": "41d3f5cacd85d317",
-    "title": "Тренера Швейцарии уволили за подделку COVID-сертификата на ОИ‑2022",
-    "sport": "Хоккей",
-    "category": "Хоккей",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/2/53/347763408816532.png",
-    "teaser": "Тренера Швейцарии уволили за подделку COVID-сертификата на ОИ‑2022",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69e0cd339a7947d87dfeae57",
-    "publishedAt": "2026-04-16T12:19:30.000Z",
-    "createdAt": "2026-04-16T15:00:08.367Z",
-    "updatedAt": "2026-04-16T15:00:08.367Z"
-  },
-  {
-    "id": "47c893877d457a71",
-    "title": "Президент «Реала» после провала в ЛЧ назвал сезон разочарованием",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/8/93/347763395446938.jpeg",
-    "teaser": "Президент «Реала» после провала в ЛЧ назвал сезон разочарованием",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69e0c4c89a794764dbe63514",
-    "publishedAt": "2026-04-16T11:51:51.000Z",
-    "createdAt": "2026-04-16T15:00:09.482Z",
-    "updatedAt": "2026-04-16T15:00:09.482Z"
+    "createdAt": "2026-04-16T16:45:40.395Z",
+    "updatedAt": "2026-04-16T16:45:40.395Z"
   }
 ]
