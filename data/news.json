@@ -1,5 +1,75 @@
 [
   {
+    "id": "ec97bbd3d13a9e2f",
+    "title": "США пригрозили не пустить европейских чиновников на ЧМ-2026",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/8/94/347764244696948.jpeg",
+    "teaser": "США пригрозили не пустить европейских чиновников на ЧМ-2026",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69e2119b9a7947c09d466dc2",
+    "publishedAt": "2026-04-17T11:32:57.000Z",
+    "createdAt": "2026-04-17T11:55:27.899Z",
+    "updatedAt": "2026-04-17T11:55:27.899Z"
+  },
+  {
+    "id": "d031848acf649466",
+    "title": "Глава РУСАДА оценила шансы выиграть дело у WADA в CAS",
+    "sport": "Другое",
+    "category": "Другие",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/7/26/347764236803267.jpeg",
+    "teaser": "Глава РУСАДА оценила шансы выиграть дело у WADA в CAS",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69e212c69a79475461d59d50",
+    "publishedAt": "2026-04-17T11:16:37.000Z",
+    "createdAt": "2026-04-17T11:55:28.962Z",
+    "updatedAt": "2026-04-17T11:55:28.962Z"
+  },
+  {
+    "id": "1014c3b65629c379",
+    "title": "Джокович снялся с третьего турнира серии «Мастерс» подряд",
+    "sport": "Теннис",
+    "category": "Теннис",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/0/41/347764227025410.jpeg",
+    "teaser": "Джокович снялся с третьего турнира серии «Мастерс» подряд",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69e20aa89a7947f034b83523",
+    "publishedAt": "2026-04-17T10:57:44.000Z",
+    "createdAt": "2026-04-17T11:55:30.022Z",
+    "updatedAt": "2026-04-17T11:55:30.022Z"
+  },
+  {
+    "id": "000e471fde9bc94c",
+    "title": "Свищев пообещал, что Губерниев и Вяльбе сработаются в лыжных гонках",
+    "sport": "Другое",
+    "category": "Другие",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/7/44/347764208708447.jpeg",
+    "teaser": "Свищев пообещал, что Губерниев и Вяльбе сработаются в лыжных гонках",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69e201f19a7947060522e731",
+    "publishedAt": "2026-04-17T10:57:04.000Z",
+    "createdAt": "2026-04-17T11:55:31.082Z",
+    "updatedAt": "2026-04-17T11:55:31.082Z"
+  },
+  {
+    "id": "70c21b9c277565ec",
+    "title": "РПЛ продлила спонсорский контракт с официальным букмекером лиги",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/6/41/347764205384416.jpeg",
+    "teaser": "РПЛ продлила спонсорский контракт с официальным букмекером лиги",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69e2069d9a7947be5b5f9268",
+    "publishedAt": "2026-04-17T10:20:28.000Z",
+    "createdAt": "2026-04-17T11:55:33.015Z",
+    "updatedAt": "2026-04-17T11:55:33.015Z"
+  },
+  {
     "id": "2b52ec69d9cf8026",
     "title": "У Российской премьер-лиги сменился титульный спонсор",
     "sport": "Футбол",
@@ -10,8 +80,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69e1e9299a7947ae2bd161ec",
     "publishedAt": "2026-04-17T09:49:54.000Z",
-    "createdAt": "2026-04-17T10:16:56.543Z",
-    "updatedAt": "2026-04-17T10:16:56.543Z"
+    "createdAt": "2026-04-17T11:55:31.947Z",
+    "updatedAt": "2026-04-17T11:55:31.947Z"
   },
   {
     "id": "42ed490aacfd0353",
@@ -24,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69e1f9329a794765cbc7b44f",
     "publishedAt": "2026-04-17T09:46:34.000Z",
-    "createdAt": "2026-04-17T10:16:57.585Z",
-    "updatedAt": "2026-04-17T10:16:57.585Z"
+    "createdAt": "2026-04-17T11:55:34.082Z",
+    "updatedAt": "2026-04-17T11:55:34.082Z"
   },
   {
     "id": "ea2f9c96a07c3a10",
@@ -38,8 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69e1fbbd9a7947868105b4b4",
     "publishedAt": "2026-04-17T09:43:35.000Z",
-    "createdAt": "2026-04-17T10:16:58.600Z",
-    "updatedAt": "2026-04-17T10:16:58.600Z"
+    "createdAt": "2026-04-17T11:55:35.140Z",
+    "updatedAt": "2026-04-17T11:55:35.140Z"
   },
   {
     "id": "4e73fc2213352a31",
@@ -52,8 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69e1ee8a9a794783217b562f",
     "publishedAt": "2026-04-17T08:58:17.000Z",
-    "createdAt": "2026-04-17T10:16:59.623Z",
-    "updatedAt": "2026-04-17T10:16:59.623Z"
+    "createdAt": "2026-04-17T11:55:36.193Z",
+    "updatedAt": "2026-04-17T11:55:36.193Z"
   },
   {
     "id": "07aace250ffb657e",
@@ -66,77 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69e1e6f79a794790811dfb67",
     "publishedAt": "2026-04-17T08:39:22.000Z",
-    "createdAt": "2026-04-17T10:17:00.658Z",
-    "updatedAt": "2026-04-17T10:17:00.658Z"
-  },
-  {
-    "id": "4d7794caa397e71c",
-    "title": "Умер бывший тренер двух российских баскетбольных команд",
-    "sport": "Баскетбол",
-    "category": "Баскетбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/1/31/347764140102311.jpeg",
-    "teaser": "Умер бывший тренер двух российских баскетбольных команд",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69e1e6369a79477552bf3bff",
-    "publishedAt": "2026-04-17T08:26:20.000Z",
-    "createdAt": "2026-04-17T10:17:01.585Z",
-    "updatedAt": "2026-04-17T10:17:01.585Z"
-  },
-  {
-    "id": "b6ab30086940d812",
-    "title": "Российского бойца Царукяна высадили из самолета в США",
-    "sport": "Единоборства",
-    "category": "Единоборства",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/0/75/347764091588750.jpeg",
-    "teaser": "Российского бойца Царукяна высадили из самолета в США",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69e1d4ef9a79474e928109df",
-    "publishedAt": "2026-04-17T07:45:48.000Z",
-    "createdAt": "2026-04-17T10:17:02.600Z",
-    "updatedAt": "2026-04-17T10:17:02.600Z"
-  },
-  {
-    "id": "de3c3a191f9161a1",
-    "title": "Олимпийские чемпионы в фигурном катании объявили о завершении карьеры",
-    "sport": "Другое",
-    "category": "Фигурное катание",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/1/90/347764110575901.jpeg",
-    "teaser": "Олимпийские чемпионы в фигурном катании объявили о завершении карьеры",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69e1dd9c9a7947609b4f9ec9",
-    "publishedAt": "2026-04-17T07:38:25.000Z",
-    "createdAt": "2026-04-17T10:17:03.633Z",
-    "updatedAt": "2026-04-17T10:17:03.633Z"
-  },
-  {
-    "id": "dd3c0d8e920626b0",
-    "title": "Россиянин впервые в истории НХЛ стал лидером сезона по силовым приемам",
-    "sport": "Хоккей",
-    "category": "Хоккей",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/3/99/347764104086993.jpeg",
-    "teaser": "Россиянин впервые в истории НХЛ стал лидером сезона по силовым приемам",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69de5a029a794794ed56aa8d",
-    "publishedAt": "2026-04-17T07:26:50.000Z",
-    "createdAt": "2026-04-17T10:17:04.653Z",
-    "updatedAt": "2026-04-17T10:17:04.653Z"
-  },
-  {
-    "id": "c5b3717e03bccaf5",
-    "title": "Россиянин второй сезон подряд стал самым грубым игроком НХЛ",
-    "sport": "Хоккей",
-    "category": "Хоккей",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/2/57/347761788393572.jpeg",
-    "teaser": "Россиянин второй сезон подряд стал самым грубым игроком НХЛ",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69de55579a794771f33f2cc4",
-    "publishedAt": "2026-04-17T07:19:15.000Z",
-    "createdAt": "2026-04-17T10:17:05.682Z",
-    "updatedAt": "2026-04-17T10:17:05.682Z"
+    "createdAt": "2026-04-17T11:55:37.202Z",
+    "updatedAt": "2026-04-17T11:55:37.202Z"
   }
 ]
