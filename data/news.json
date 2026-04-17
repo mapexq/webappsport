@@ -1,5 +1,75 @@
 [
   {
+    "id": "31b8fe2b5b0e0593",
+    "title": "Инфантино объяснил сильное повышение цен билетов на матчи ЧМ-2026",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/1/10/347764307133101.jpeg",
+    "teaser": "Инфантино объяснил сильное повышение цен билетов на матчи ЧМ-2026",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69e22e0a9a794724213e9183",
+    "publishedAt": "2026-04-17T13:30:03.000Z",
+    "createdAt": "2026-04-17T13:44:23.508Z",
+    "updatedAt": "2026-04-17T13:44:23.508Z"
+  },
+  {
+    "id": "b2df2f615214990c",
+    "title": "Победителя турнира претендентов FIDE торжественно встретили в Узбекистане",
+    "sport": "Другое",
+    "category": "Другие",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/9/01/347764301506019.jpeg",
+    "teaser": "Победителя турнира претендентов FIDE торжественно встретили в Узбекистане",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69e2281e9a79473293b3e71d",
+    "publishedAt": "2026-04-17T13:11:29.000Z",
+    "createdAt": "2026-04-17T13:44:24.499Z",
+    "updatedAt": "2026-04-17T13:44:24.499Z"
+  },
+  {
+    "id": "fcdd5a33c08224ac",
+    "title": "Рублев четвертый раз в сезоне вышел в полуфинал на турнире ATP",
+    "sport": "Теннис",
+    "category": "Теннис",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/5/46/347764283024465.jpeg",
+    "teaser": "Рублев четвертый раз в сезоне вышел в полуфинал на турнире ATP",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69e224d89a794761879273bb",
+    "publishedAt": "2026-04-17T12:41:24.000Z",
+    "createdAt": "2026-04-17T13:44:25.506Z",
+    "updatedAt": "2026-04-17T13:44:25.506Z"
+  },
+  {
+    "id": "430d6e8bbeb71666",
+    "title": "РФС отменил красную карточку игрока «Зенита» в матче с «Краснодаром»",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/7/48/347764283928487.jpeg",
+    "teaser": "РФС отменил красную карточку игрока «Зенита» в матче с «Краснодаром»",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69e223219a7947f4652625b9",
+    "publishedAt": "2026-04-17T12:23:09.000Z",
+    "createdAt": "2026-04-17T13:44:26.630Z",
+    "updatedAt": "2026-04-17T13:44:26.630Z"
+  },
+  {
+    "id": "c99f655d58f74c24",
+    "title": "РФС признал ошибочным назначение пенальти в ворота ЦСКА в матче с «Сочи»",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/6/98/347764263553986.jpeg",
+    "teaser": "РФС признал ошибочным назначение пенальти в ворота ЦСКА в матче с «Сочи»",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69e219b89a7947ac2c295d3c",
+    "publishedAt": "2026-04-17T11:50:07.000Z",
+    "createdAt": "2026-04-17T13:44:27.646Z",
+    "updatedAt": "2026-04-17T13:44:27.646Z"
+  },
+  {
     "id": "ec97bbd3d13a9e2f",
     "title": "США пригрозили не пустить европейских чиновников на ЧМ-2026",
     "sport": "Футбол",
@@ -10,8 +80,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69e2119b9a7947c09d466dc2",
     "publishedAt": "2026-04-17T11:32:57.000Z",
-    "createdAt": "2026-04-17T11:55:27.899Z",
-    "updatedAt": "2026-04-17T11:55:27.899Z"
+    "createdAt": "2026-04-17T13:44:28.642Z",
+    "updatedAt": "2026-04-17T13:44:28.642Z"
   },
   {
     "id": "d031848acf649466",
@@ -24,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69e212c69a79475461d59d50",
     "publishedAt": "2026-04-17T11:16:37.000Z",
-    "createdAt": "2026-04-17T11:55:28.962Z",
-    "updatedAt": "2026-04-17T11:55:28.962Z"
+    "createdAt": "2026-04-17T13:44:29.653Z",
+    "updatedAt": "2026-04-17T13:44:29.653Z"
   },
   {
     "id": "1014c3b65629c379",
@@ -38,8 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69e20aa89a7947f034b83523",
     "publishedAt": "2026-04-17T10:57:44.000Z",
-    "createdAt": "2026-04-17T11:55:30.022Z",
-    "updatedAt": "2026-04-17T11:55:30.022Z"
+    "createdAt": "2026-04-17T13:44:30.684Z",
+    "updatedAt": "2026-04-17T13:44:30.684Z"
   },
   {
     "id": "000e471fde9bc94c",
@@ -52,22 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69e201f19a7947060522e731",
     "publishedAt": "2026-04-17T10:57:04.000Z",
-    "createdAt": "2026-04-17T11:55:31.082Z",
-    "updatedAt": "2026-04-17T11:55:31.082Z"
-  },
-  {
-    "id": "70c21b9c277565ec",
-    "title": "РПЛ продлила спонсорский контракт с официальным букмекером лиги",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/6/41/347764205384416.jpeg",
-    "teaser": "РПЛ продлила спонсорский контракт с официальным букмекером лиги",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69e2069d9a7947be5b5f9268",
-    "publishedAt": "2026-04-17T10:20:28.000Z",
-    "createdAt": "2026-04-17T11:55:33.015Z",
-    "updatedAt": "2026-04-17T11:55:33.015Z"
+    "createdAt": "2026-04-17T13:44:31.681Z",
+    "updatedAt": "2026-04-17T13:44:31.681Z"
   },
   {
     "id": "2b52ec69d9cf8026",
@@ -80,63 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69e1e9299a7947ae2bd161ec",
     "publishedAt": "2026-04-17T09:49:54.000Z",
-    "createdAt": "2026-04-17T11:55:31.947Z",
-    "updatedAt": "2026-04-17T11:55:31.947Z"
-  },
-  {
-    "id": "42ed490aacfd0353",
-    "title": "Попросившие убежище иранские футболистки дали первый комментарий",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/9/67/347764183125679.jpeg",
-    "teaser": "Попросившие убежище иранские футболистки дали первый комментарий",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69e1f9329a794765cbc7b44f",
-    "publishedAt": "2026-04-17T09:46:34.000Z",
-    "createdAt": "2026-04-17T11:55:34.082Z",
-    "updatedAt": "2026-04-17T11:55:34.082Z"
-  },
-  {
-    "id": "ea2f9c96a07c3a10",
-    "title": "Тренер призвал Большунова устранить причины провалов на старте сезона",
-    "sport": "Другое",
-    "category": "Другие",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/9/66/347764177791669.jpeg",
-    "teaser": "Тренер призвал Большунова устранить причины провалов на старте сезона",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69e1fbbd9a7947868105b4b4",
-    "publishedAt": "2026-04-17T09:43:35.000Z",
-    "createdAt": "2026-04-17T11:55:35.140Z",
-    "updatedAt": "2026-04-17T11:55:35.140Z"
-  },
-  {
-    "id": "4e73fc2213352a31",
-    "title": "Чемпиона Португалии по легкой атлетике ввели в искусственную кому",
-    "sport": "Другое",
-    "category": "Другие",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/5/28/347764157982285.jpeg",
-    "teaser": "Чемпиона Португалии по легкой атлетике ввели в искусственную кому",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69e1ee8a9a794783217b562f",
-    "publishedAt": "2026-04-17T08:58:17.000Z",
-    "createdAt": "2026-04-17T11:55:36.193Z",
-    "updatedAt": "2026-04-17T11:55:36.193Z"
-  },
-  {
-    "id": "07aace250ffb657e",
-    "title": "Племянник рассказал о состоянии госпитализированной Татьяны Тарасовой",
-    "sport": "Другое",
-    "category": "Фигурное катание",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/6/61/347764124939616.jpeg",
-    "teaser": "Племянник рассказал о состоянии госпитализированной Татьяны Тарасовой",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69e1e6f79a794790811dfb67",
-    "publishedAt": "2026-04-17T08:39:22.000Z",
-    "createdAt": "2026-04-17T11:55:37.202Z",
-    "updatedAt": "2026-04-17T11:55:37.202Z"
+    "createdAt": "2026-04-17T13:44:32.681Z",
+    "updatedAt": "2026-04-17T13:44:32.682Z"
   }
 ]
