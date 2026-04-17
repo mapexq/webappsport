@@ -1,5 +1,61 @@
 [
   {
+    "id": "bdf21b9746311448",
+    "title": "Юный форвард «Динамо» завершит сезон в системе клуба НХЛ",
+    "sport": "Хоккей",
+    "category": "Хоккей",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/3/17/347764470892173.jpeg",
+    "teaser": "Юный форвард «Динамо» завершит сезон в системе клуба НХЛ",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69e26e289a7947815f5bd4c8",
+    "publishedAt": "2026-04-17T17:44:18.000Z",
+    "createdAt": "2026-04-17T17:56:44.360Z",
+    "updatedAt": "2026-04-17T17:56:44.360Z"
+  },
+  {
+    "id": "6df60c9d0db361e1",
+    "title": "Стали известны пары полуфинала Кубка Гагарина",
+    "sport": "Хоккей",
+    "category": "Хоккей",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/8/26/347764411527268.jpeg",
+    "teaser": "Стали известны пары полуфинала Кубка Гагарина",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69e257039a7947165a40dba5",
+    "publishedAt": "2026-04-17T16:56:27.000Z",
+    "createdAt": "2026-04-17T17:56:45.258Z",
+    "updatedAt": "2026-04-17T17:56:45.258Z"
+  },
+  {
+    "id": "606e90135bfc120e",
+    "title": "Лучший клуб «регулярки» последним вышел в полуфинал плей-офф КХЛ",
+    "sport": "Хоккей",
+    "category": "Хоккей",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/3/42/347764405199423.jpeg",
+    "teaser": "Лучший клуб «регулярки» последним вышел в полуфинал плей-офф КХЛ",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69e2548b9a79478e598df8ac",
+    "publishedAt": "2026-04-17T16:54:55.000Z",
+    "createdAt": "2026-04-17T17:56:46.279Z",
+    "updatedAt": "2026-04-17T17:56:46.279Z"
+  },
+  {
+    "id": "7b968097b4933bdb",
+    "title": "Ефимова надела футболку «Спартака» на награждение в Петербурге",
+    "sport": "Другое",
+    "category": "Другие",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/1/98/347764440114981.jpeg",
+    "teaser": "Ефимова надела футболку «Спартака» на награждение в Петербурге",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69e2622f9a79472bb7208dad",
+    "publishedAt": "2026-04-17T16:52:25.000Z",
+    "createdAt": "2026-04-17T17:56:47.251Z",
+    "updatedAt": "2026-04-17T17:56:47.251Z"
+  },
+  {
     "id": "e097c9cff26f1ba8",
     "title": "Чемпионке Уимблдона-2023 грозит дисквалификация за отказ от допинг-пробы",
     "sport": "Теннис",
@@ -10,8 +66,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69e252b29a794785631c8cba",
     "publishedAt": "2026-04-17T16:04:30.000Z",
-    "createdAt": "2026-04-17T16:58:27.923Z",
-    "updatedAt": "2026-04-17T16:58:27.923Z"
+    "createdAt": "2026-04-17T17:56:49.236Z",
+    "updatedAt": "2026-04-17T17:56:49.236Z"
   },
   {
     "id": "e9c252d0894e9755",
@@ -24,8 +80,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69e24dd89a79477557d30e57",
     "publishedAt": "2026-04-17T15:42:00.000Z",
-    "createdAt": "2026-04-17T16:58:26.811Z",
-    "updatedAt": "2026-04-17T16:58:26.811Z"
+    "createdAt": "2026-04-17T17:56:48.249Z",
+    "updatedAt": "2026-04-17T17:56:48.249Z"
   },
   {
     "id": "caf75fb11d59dd98",
@@ -38,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69e24f639a79470270a3359c",
     "publishedAt": "2026-04-17T15:39:31.000Z",
-    "createdAt": "2026-04-17T16:58:28.870Z",
-    "updatedAt": "2026-04-17T16:58:28.870Z"
+    "createdAt": "2026-04-17T17:56:50.244Z",
+    "updatedAt": "2026-04-17T17:56:50.244Z"
   },
   {
     "id": "6b9cc9a56e322850",
@@ -52,8 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69e248349a79477b5f34638a",
     "publishedAt": "2026-04-17T15:20:31.000Z",
-    "createdAt": "2026-04-17T16:58:30.749Z",
-    "updatedAt": "2026-04-17T16:58:30.749Z"
+    "createdAt": "2026-04-17T17:56:52.228Z",
+    "updatedAt": "2026-04-17T17:56:52.228Z"
   },
   {
     "id": "23698071e685bc4d",
@@ -66,8 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69e246889a79476859a2ff29",
     "publishedAt": "2026-04-17T15:16:04.000Z",
-    "createdAt": "2026-04-17T16:58:29.730Z",
-    "updatedAt": "2026-04-17T16:58:29.730Z"
+    "createdAt": "2026-04-17T17:56:51.247Z",
+    "updatedAt": "2026-04-17T17:56:51.247Z"
   },
   {
     "id": "dad967281c493d08",
@@ -80,63 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69e23caa9a79470ee464b3ce",
     "publishedAt": "2026-04-17T14:44:16.000Z",
-    "createdAt": "2026-04-17T16:58:31.689Z",
-    "updatedAt": "2026-04-17T16:58:31.689Z"
-  },
-  {
-    "id": "88cfbf147c880e21",
-    "title": "Алькарас вслед за Джоковичем снялся с «Мастерс» в Мадриде",
-    "sport": "Теннис",
-    "category": "Теннис",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/0/32/347764354626320.jpeg",
-    "teaser": "Алькарас вслед за Джоковичем снялся с «Мастерс» в Мадриде",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69e2402c9a7947017a4f6b48",
-    "publishedAt": "2026-04-17T14:37:58.000Z",
-    "createdAt": "2026-04-17T16:58:32.717Z",
-    "updatedAt": "2026-04-17T16:58:32.717Z"
-  },
-  {
-    "id": "bd3696a2432974c4",
-    "title": "«Челси» продлил контракт с одним из самых дорогих футболистов клуба",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/7/76/347764348777767.jpeg",
-    "teaser": "«Челси» продлил контракт с одним из самых дорогих футболистов клуба",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69e23b2d9a79479ccba5151c",
-    "publishedAt": "2026-04-17T14:23:40.000Z",
-    "createdAt": "2026-04-17T16:58:34.691Z",
-    "updatedAt": "2026-04-17T16:58:34.691Z"
-  },
-  {
-    "id": "31b8fe2b5b0e0593",
-    "title": "Инфантино объяснил сильное повышение цен билетов на матчи ЧМ-2026",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/1/10/347764307133101.jpeg",
-    "teaser": "Инфантино объяснил сильное повышение цен билетов на матчи ЧМ-2026",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69e22e0a9a794724213e9183",
-    "publishedAt": "2026-04-17T13:30:03.000Z",
-    "createdAt": "2026-04-17T16:58:33.696Z",
-    "updatedAt": "2026-04-17T16:58:33.696Z"
-  },
-  {
-    "id": "b2df2f615214990c",
-    "title": "Победителя турнира претендентов FIDE торжественно встретили в Узбекистане",
-    "sport": "Другое",
-    "category": "Другие",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/9/01/347764301506019.jpeg",
-    "teaser": "Победителя турнира претендентов FIDE торжественно встретили в Узбекистане",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69e2281e9a79473293b3e71d",
-    "publishedAt": "2026-04-17T13:11:29.000Z",
-    "createdAt": "2026-04-17T16:58:35.741Z",
-    "updatedAt": "2026-04-17T16:58:35.741Z"
+    "createdAt": "2026-04-17T17:56:53.196Z",
+    "updatedAt": "2026-04-17T17:56:53.196Z"
   }
 ]
