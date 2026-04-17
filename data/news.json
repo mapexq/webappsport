@@ -1,5 +1,47 @@
 [
   {
+    "id": "9739a4600e2d7659",
+    "title": "Худший клуб РПЛ впервые в сезоне выиграл два матча подряд",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/2/49/347764505031492.jpeg",
+    "teaser": "Худший клуб РПЛ впервые в сезоне выиграл два матча подряд",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69e277539a7947d664021743",
+    "publishedAt": "2026-04-17T18:35:13.000Z",
+    "createdAt": "2026-04-17T19:13:33.344Z",
+    "updatedAt": "2026-04-17T19:13:33.344Z"
+  },
+  {
+    "id": "db43b828acb96744",
+    "title": "Мирра Андреева победила бывшую первую ракетку мира на турнире в Штутгарте",
+    "sport": "Теннис",
+    "category": "Теннис",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/6/52/347764463359526.jpeg",
+    "teaser": "Мирра Андреева победила бывшую первую ракетку мира на турнире в Штутгарте",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69e269c89a7947ac5b893976",
+    "publishedAt": "2026-04-17T18:10:03.000Z",
+    "createdAt": "2026-04-17T19:13:32.358Z",
+    "updatedAt": "2026-04-17T19:13:32.358Z"
+  },
+  {
+    "id": "9c57f25e179c3d8e",
+    "title": "ESPN сообщил о нежелании капитана «Зенита» Сантоса продлевать контракт",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/8/03/347764477248038.jpeg",
+    "teaser": "ESPN сообщил о нежелании капитана «Зенита» Сантоса продлевать контракт",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69e26d719a7947a024fae917",
+    "publishedAt": "2026-04-17T17:59:05.000Z",
+    "createdAt": "2026-04-17T19:13:34.183Z",
+    "updatedAt": "2026-04-17T19:13:34.183Z"
+  },
+  {
     "id": "bdf21b9746311448",
     "title": "Юный форвард «Динамо» завершит сезон в системе клуба НХЛ",
     "sport": "Хоккей",
@@ -10,8 +52,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69e26e289a7947815f5bd4c8",
     "publishedAt": "2026-04-17T17:44:18.000Z",
-    "createdAt": "2026-04-17T17:56:44.360Z",
-    "updatedAt": "2026-04-17T17:56:44.360Z"
+    "createdAt": "2026-04-17T19:13:35.176Z",
+    "updatedAt": "2026-04-17T19:13:35.176Z"
   },
   {
     "id": "6df60c9d0db361e1",
@@ -24,8 +66,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69e257039a7947165a40dba5",
     "publishedAt": "2026-04-17T16:56:27.000Z",
-    "createdAt": "2026-04-17T17:56:45.258Z",
-    "updatedAt": "2026-04-17T17:56:45.258Z"
+    "createdAt": "2026-04-17T19:13:36.224Z",
+    "updatedAt": "2026-04-17T19:13:36.224Z"
   },
   {
     "id": "606e90135bfc120e",
@@ -38,8 +80,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69e2548b9a79478e598df8ac",
     "publishedAt": "2026-04-17T16:54:55.000Z",
-    "createdAt": "2026-04-17T17:56:46.279Z",
-    "updatedAt": "2026-04-17T17:56:46.279Z"
+    "createdAt": "2026-04-17T19:13:37.201Z",
+    "updatedAt": "2026-04-17T19:13:37.201Z"
   },
   {
     "id": "7b968097b4933bdb",
@@ -52,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69e2622f9a79472bb7208dad",
     "publishedAt": "2026-04-17T16:52:25.000Z",
-    "createdAt": "2026-04-17T17:56:47.251Z",
-    "updatedAt": "2026-04-17T17:56:47.251Z"
+    "createdAt": "2026-04-17T19:13:38.352Z",
+    "updatedAt": "2026-04-17T19:13:38.352Z"
   },
   {
     "id": "e097c9cff26f1ba8",
@@ -66,8 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69e252b29a794785631c8cba",
     "publishedAt": "2026-04-17T16:04:30.000Z",
-    "createdAt": "2026-04-17T17:56:49.236Z",
-    "updatedAt": "2026-04-17T17:56:49.236Z"
+    "createdAt": "2026-04-17T19:13:40.366Z",
+    "updatedAt": "2026-04-17T19:13:40.366Z"
   },
   {
     "id": "e9c252d0894e9755",
@@ -80,8 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69e24dd89a79477557d30e57",
     "publishedAt": "2026-04-17T15:42:00.000Z",
-    "createdAt": "2026-04-17T17:56:48.249Z",
-    "updatedAt": "2026-04-17T17:56:48.249Z"
+    "createdAt": "2026-04-17T19:13:39.310Z",
+    "updatedAt": "2026-04-17T19:13:39.310Z"
   },
   {
     "id": "caf75fb11d59dd98",
@@ -94,49 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69e24f639a79470270a3359c",
     "publishedAt": "2026-04-17T15:39:31.000Z",
-    "createdAt": "2026-04-17T17:56:50.244Z",
-    "updatedAt": "2026-04-17T17:56:50.244Z"
-  },
-  {
-    "id": "6b9cc9a56e322850",
-    "title": "Клуб НХЛ уволил генменеджера после худшего за 27 лет сезона",
-    "sport": "Хоккей",
-    "category": "Хоккей",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/6/62/347764382099626.jpeg",
-    "teaser": "Клуб НХЛ уволил генменеджера после худшего за 27 лет сезона",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69e248349a79477b5f34638a",
-    "publishedAt": "2026-04-17T15:20:31.000Z",
-    "createdAt": "2026-04-17T17:56:52.228Z",
-    "updatedAt": "2026-04-17T17:56:52.228Z"
-  },
-  {
-    "id": "23698071e685bc4d",
-    "title": "Захарян пропустит финал Кубка Испании из-за болезни",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/2/76/347764379450762.jpeg",
-    "teaser": "Захарян пропустит финал Кубка Испании из-за болезни",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69e246889a79476859a2ff29",
-    "publishedAt": "2026-04-17T15:16:04.000Z",
-    "createdAt": "2026-04-17T17:56:51.247Z",
-    "updatedAt": "2026-04-17T17:56:51.247Z"
-  },
-  {
-    "id": "dad967281c493d08",
-    "title": "Победитель Аргентины на ЧМ-2022 уволен из сборной Саудовской Аравии",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/1/83/347764357579831.jpeg",
-    "teaser": "Победитель Аргентины на ЧМ-2022 уволен из сборной Саудовской Аравии",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69e23caa9a79470ee464b3ce",
-    "publishedAt": "2026-04-17T14:44:16.000Z",
-    "createdAt": "2026-04-17T17:56:53.196Z",
-    "updatedAt": "2026-04-17T17:56:53.196Z"
+    "createdAt": "2026-04-17T19:13:41.405Z",
+    "updatedAt": "2026-04-17T19:13:41.405Z"
   }
 ]
