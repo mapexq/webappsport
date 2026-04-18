@@ -1,5 +1,33 @@
 [
   {
+    "id": "b88c11e1334d09c0",
+    "title": "Один из лучших тренеров в истории НБА Док Риверс завершил карьеру",
+    "sport": "Баскетбол",
+    "category": "Баскетбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/8/77/347765029126778.jpeg",
+    "teaser": "Один из лучших тренеров в истории НБА Док Риверс завершил карьеру",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69e348549a794718365962c9",
+    "publishedAt": "2026-04-18T09:47:56.000Z",
+    "createdAt": "2026-04-18T09:55:40.007Z",
+    "updatedAt": "2026-04-18T09:55:40.007Z"
+  },
+  {
+    "id": "7f00c2f3aab77650",
+    "title": "Польша не допустит российских спортсменов на ЧЕ-2027 по прыжкам в воду",
+    "sport": "Другое",
+    "category": "Другие",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/1/80/347765031937801.jpeg",
+    "teaser": "Польша не допустит российских спортсменов на ЧЕ-2027 по прыжкам в воду",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69e349659a79473ad170a945",
+    "publishedAt": "2026-04-18T09:25:24.000Z",
+    "createdAt": "2026-04-18T09:55:39.078Z",
+    "updatedAt": "2026-04-18T09:55:39.078Z"
+  },
+  {
     "id": "1b46b3267be1ee71",
     "title": "Губерниев рассказал о будущей примирительной встрече с Вяльбе",
     "sport": "Другое",
@@ -10,8 +38,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69e3435a9a794750d4b26954",
     "publishedAt": "2026-04-18T08:53:33.000Z",
-    "createdAt": "2026-04-18T08:57:42.925Z",
-    "updatedAt": "2026-04-18T08:57:42.925Z"
+    "createdAt": "2026-04-18T09:55:41.113Z",
+    "updatedAt": "2026-04-18T09:55:41.113Z"
   },
   {
     "id": "49de392ad4f5336e",
@@ -24,8 +52,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69e33be09a7947a692528266",
     "publishedAt": "2026-04-18T08:19:24.000Z",
-    "createdAt": "2026-04-18T08:57:45.964Z",
-    "updatedAt": "2026-04-18T08:57:45.964Z"
+    "createdAt": "2026-04-18T09:55:44.291Z",
+    "updatedAt": "2026-04-18T09:55:44.291Z"
   },
   {
     "id": "ea5a2e6dc3adb80a",
@@ -38,8 +66,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69e336769a794758e6aa3dd2",
     "publishedAt": "2026-04-18T07:58:18.000Z",
-    "createdAt": "2026-04-18T08:57:43.972Z",
-    "updatedAt": "2026-04-18T08:57:43.972Z"
+    "createdAt": "2026-04-18T09:55:42.127Z",
+    "updatedAt": "2026-04-18T09:55:42.127Z"
   },
   {
     "id": "a125a4f406a15945",
@@ -52,8 +80,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69e331719a7947510935c926",
     "publishedAt": "2026-04-18T07:39:46.000Z",
-    "createdAt": "2026-04-18T08:57:45.014Z",
-    "updatedAt": "2026-04-18T08:57:45.014Z"
+    "createdAt": "2026-04-18T09:55:43.236Z",
+    "updatedAt": "2026-04-18T09:55:43.236Z"
   },
   {
     "id": "02a8e693b6a810b6",
@@ -66,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69e32d189a7947c7a13afb8a",
     "publishedAt": "2026-04-18T07:17:06.000Z",
-    "createdAt": "2026-04-18T08:57:47.010Z",
-    "updatedAt": "2026-04-18T08:57:47.010Z"
+    "createdAt": "2026-04-18T09:55:45.467Z",
+    "updatedAt": "2026-04-18T09:55:45.467Z"
   },
   {
     "id": "1593fe7c6724ce26",
@@ -80,8 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69e225b69a794765c870ea67",
     "publishedAt": "2026-04-18T07:02:43.000Z",
-    "createdAt": "2026-04-18T08:57:48.330Z",
-    "updatedAt": "2026-04-18T08:57:48.330Z"
+    "createdAt": "2026-04-18T09:55:46.588Z",
+    "updatedAt": "2026-04-18T09:55:46.588Z"
   },
   {
     "id": "e5c63278c9531473",
@@ -94,8 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69e2968a9a79477507ed1a05",
     "publishedAt": "2026-04-17T20:41:56.000Z",
-    "createdAt": "2026-04-18T08:57:49.346Z",
-    "updatedAt": "2026-04-18T08:57:49.346Z"
+    "createdAt": "2026-04-18T09:55:47.874Z",
+    "updatedAt": "2026-04-18T09:55:47.874Z"
   },
   {
     "id": "e49f1cf90a04fae5",
@@ -108,35 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69e282559a79476884d594c9",
     "publishedAt": "2026-04-17T19:25:23.000Z",
-    "createdAt": "2026-04-18T08:57:50.367Z",
-    "updatedAt": "2026-04-18T08:57:50.367Z"
-  },
-  {
-    "id": "9739a4600e2d7659",
-    "title": "Худший клуб РПЛ впервые в сезоне выиграл два матча подряд",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/2/49/347764505031492.jpeg",
-    "teaser": "Худший клуб РПЛ впервые в сезоне выиграл два матча подряд",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69e277539a7947d664021743",
-    "publishedAt": "2026-04-17T18:35:13.000Z",
-    "createdAt": "2026-04-18T08:57:52.418Z",
-    "updatedAt": "2026-04-18T08:57:52.418Z"
-  },
-  {
-    "id": "db43b828acb96744",
-    "title": "Мирра Андреева победила бывшую первую ракетку мира на турнире в Штутгарте",
-    "sport": "Теннис",
-    "category": "Теннис",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/6/52/347764463359526.jpeg",
-    "teaser": "Мирра Андреева победила бывшую первую ракетку мира на турнире в Штутгарте",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69e269c89a7947ac5b893976",
-    "publishedAt": "2026-04-17T18:10:03.000Z",
-    "createdAt": "2026-04-18T08:57:51.395Z",
-    "updatedAt": "2026-04-18T08:57:51.395Z"
+    "createdAt": "2026-04-18T09:55:48.995Z",
+    "updatedAt": "2026-04-18T09:55:48.995Z"
   }
 ]
