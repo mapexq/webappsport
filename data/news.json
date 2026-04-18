@@ -1,5 +1,47 @@
 [
   {
+    "id": "264393d2828337e0",
+    "title": "Российский дзюдоист Арбузов стал двукратным чемпионом Европы",
+    "sport": "Другое",
+    "category": "Другие",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/9/11/347765157029119.jpeg",
+    "teaser": "Российский дзюдоист Арбузов стал двукратным чемпионом Европы",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69e37a259a7947a47beaed6f",
+    "publishedAt": "2026-04-18T12:39:59.000Z",
+    "createdAt": "2026-04-18T13:13:50.751Z",
+    "updatedAt": "2026-04-18T13:13:50.751Z"
+  },
+  {
+    "id": "e8565147986843c8",
+    "title": "Футболист «Реала» похудел на 6 кг за несколько дней из-за гастроэнтерита",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/4/46/347765149327464.jpeg",
+    "teaser": "Футболист «Реала» похудел на 6 кг за несколько дней из-за гастроэнтерита",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69e377149a794735ef59e805",
+    "publishedAt": "2026-04-18T12:31:48.000Z",
+    "createdAt": "2026-04-18T13:13:51.721Z",
+    "updatedAt": "2026-04-18T13:13:51.721Z"
+  },
+  {
+    "id": "dbe45b81a9773f59",
+    "title": "Россиянка вышла в финал крупного турнира WTA в Штутгарте в парном разряде",
+    "sport": "Теннис",
+    "category": "Теннис",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/8/46/347765124341468.jpeg",
+    "teaser": "Россиянка вышла в финал крупного турнира WTA в Штутгарте в парном разряде",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69e36d7a9a79474d0cebaed7",
+    "publishedAt": "2026-04-18T11:47:49.000Z",
+    "createdAt": "2026-04-18T13:13:53.648Z",
+    "updatedAt": "2026-04-18T13:13:53.648Z"
+  },
+  {
     "id": "59f8a6cb63047f92",
     "title": "Умер бывший тренер Андрея Кириленко",
     "sport": "Баскетбол",
@@ -10,22 +52,22 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69e36bb59a79471e46fbe782",
     "publishedAt": "2026-04-18T11:37:41.000Z",
-    "createdAt": "2026-04-18T11:39:03.375Z",
-    "updatedAt": "2026-04-18T11:39:03.375Z"
+    "createdAt": "2026-04-18T13:13:52.679Z",
+    "updatedAt": "2026-04-18T13:13:52.679Z"
   },
   {
-    "id": "7467a7f247c740f4",
-    "title": "Футболист «Монако» Головин восстановился от травмы",
+    "id": "2af1103086bb3cf2",
+    "title": "Футболист «Монако» Головин восстановился после травмы",
     "sport": "Футбол",
     "category": "Футбол",
     "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/2/03/347765113098032.jpeg",
-    "teaser": "Футболист «Монако» Головин восстановился от травмы",
+    "teaser": "Футболист «Монако» Головин восстановился после травмы",
     "fullContent": "",
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69e3691d9a7947635e3f0744",
     "publishedAt": "2026-04-18T11:25:26.000Z",
-    "createdAt": "2026-04-18T11:39:04.408Z",
-    "updatedAt": "2026-04-18T11:39:04.408Z"
+    "createdAt": "2026-04-18T13:13:54.658Z",
+    "updatedAt": "2026-04-18T13:13:54.658Z"
   },
   {
     "id": "b6313964a72da593",
@@ -38,8 +80,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69e35e569a794759098cc0dc",
     "publishedAt": "2026-04-18T10:59:54.000Z",
-    "createdAt": "2026-04-18T11:39:05.491Z",
-    "updatedAt": "2026-04-18T11:39:05.491Z"
+    "createdAt": "2026-04-18T13:13:55.614Z",
+    "updatedAt": "2026-04-18T13:13:55.614Z"
   },
   {
     "id": "caa46075ae478fd3",
@@ -52,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69e35b829a794712c18adeaf",
     "publishedAt": "2026-04-18T10:28:56.000Z",
-    "createdAt": "2026-04-18T11:39:06.762Z",
-    "updatedAt": "2026-04-18T11:39:06.762Z"
+    "createdAt": "2026-04-18T13:13:56.586Z",
+    "updatedAt": "2026-04-18T13:13:56.586Z"
   },
   {
     "id": "b88c11e1334d09c0",
@@ -66,8 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69e348549a794718365962c9",
     "publishedAt": "2026-04-18T09:47:56.000Z",
-    "createdAt": "2026-04-18T11:39:08.980Z",
-    "updatedAt": "2026-04-18T11:39:08.980Z"
+    "createdAt": "2026-04-18T13:13:58.510Z",
+    "updatedAt": "2026-04-18T13:13:58.510Z"
   },
   {
     "id": "7f00c2f3aab77650",
@@ -80,8 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69e349659a79473ad170a945",
     "publishedAt": "2026-04-18T09:25:24.000Z",
-    "createdAt": "2026-04-18T11:39:07.907Z",
-    "updatedAt": "2026-04-18T11:39:07.907Z"
+    "createdAt": "2026-04-18T13:13:57.542Z",
+    "updatedAt": "2026-04-18T13:13:57.542Z"
   },
   {
     "id": "1b46b3267be1ee71",
@@ -94,49 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69e3435a9a794750d4b26954",
     "publishedAt": "2026-04-18T08:53:33.000Z",
-    "createdAt": "2026-04-18T11:39:10.130Z",
-    "updatedAt": "2026-04-18T11:39:10.130Z"
-  },
-  {
-    "id": "ea5a2e6dc3adb80a",
-    "title": "Глава украинского футбола рассказал о плане на случай допуска россиян",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/1/25/347764983325251.jpeg",
-    "teaser": "Глава украинского футбола рассказал о плане на случай допуска россиян",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69e336769a794758e6aa3dd2",
-    "publishedAt": "2026-04-18T07:58:18.000Z",
-    "createdAt": "2026-04-18T11:39:11.263Z",
-    "updatedAt": "2026-04-18T11:39:11.263Z"
-  },
-  {
-    "id": "a125a4f406a15945",
-    "title": "Россиянин по прозвищу Пельмень победил на турнире по пощечинам Power Slap",
-    "sport": "Другое",
-    "category": "Другие",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/9/84/347764971493849.jpeg",
-    "teaser": "Россиянин по прозвищу Пельмень победил на турнире по пощечинам Power Slap",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69e331719a7947510935c926",
-    "publishedAt": "2026-04-18T07:39:46.000Z",
-    "createdAt": "2026-04-18T11:39:12.405Z",
-    "updatedAt": "2026-04-18T11:39:12.405Z"
-  },
-  {
-    "id": "02a8e693b6a810b6",
-    "title": "Джерси Овечкина стали вторыми по продажам в регулярном чемпионате НХЛ",
-    "sport": "Хоккей",
-    "category": "Хоккей",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/4/89/347764959552894.jpeg",
-    "teaser": "Джерси Овечкина стали вторыми по продажам в регулярном чемпионате НХЛ",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69e32d189a7947c7a13afb8a",
-    "publishedAt": "2026-04-18T07:17:06.000Z",
-    "createdAt": "2026-04-18T11:39:13.562Z",
-    "updatedAt": "2026-04-18T11:39:13.562Z"
+    "createdAt": "2026-04-18T13:13:59.485Z",
+    "updatedAt": "2026-04-18T13:13:59.485Z"
   }
 ]
