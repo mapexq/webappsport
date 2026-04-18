@@ -1,17 +1,31 @@
 [
   {
-    "id": "3aa6fba11cecc092",
-    "title": "Умер бронзовый призер ЧМ-1978 года по баскетболу Оскар Шмидт",
+    "id": "1593fe7c6724ce26",
+    "title": "Почему первой женщине-тренеру не позволят остаться в команде из топ-5 лиг",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/2/79/347764957537792.jpeg",
+    "teaser": "Почему первой женщине-тренеру не позволят остаться в команде из топ-5 лиг",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69e225b69a794765c870ea67",
+    "publishedAt": "2026-04-18T07:02:43.000Z",
+    "createdAt": "2026-04-18T07:17:02.087Z",
+    "updatedAt": "2026-04-18T07:17:02.087Z"
+  },
+  {
+    "id": "e5c63278c9531473",
+    "title": "Умер лучший бомбардир в истории олимпийских баскетбольных турниров",
     "sport": "Баскетбол",
     "category": "Баскетбол",
     "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/5/10/347764581397105.jpeg",
-    "teaser": "Умер бронзовый призер ЧМ-1978 года по баскетболу Оскар Шмидт",
+    "teaser": "Умер лучший бомбардир в истории олимпийских баскетбольных турниров",
     "fullContent": "",
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69e2968a9a79477507ed1a05",
     "publishedAt": "2026-04-17T20:41:56.000Z",
-    "createdAt": "2026-04-18T05:11:52.108Z",
-    "updatedAt": "2026-04-18T05:11:52.108Z"
+    "createdAt": "2026-04-18T07:17:03.068Z",
+    "updatedAt": "2026-04-18T07:17:03.068Z"
   },
   {
     "id": "e49f1cf90a04fae5",
@@ -24,8 +38,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69e282559a79476884d594c9",
     "publishedAt": "2026-04-17T19:25:23.000Z",
-    "createdAt": "2026-04-18T05:11:53.058Z",
-    "updatedAt": "2026-04-18T05:11:53.058Z"
+    "createdAt": "2026-04-18T07:17:04.018Z",
+    "updatedAt": "2026-04-18T07:17:04.018Z"
   },
   {
     "id": "9739a4600e2d7659",
@@ -38,8 +52,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69e277539a7947d664021743",
     "publishedAt": "2026-04-17T18:35:13.000Z",
-    "createdAt": "2026-04-18T05:11:55.309Z",
-    "updatedAt": "2026-04-18T05:11:55.309Z"
+    "createdAt": "2026-04-18T07:17:05.925Z",
+    "updatedAt": "2026-04-18T07:17:05.925Z"
   },
   {
     "id": "db43b828acb96744",
@@ -52,8 +66,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69e269c89a7947ac5b893976",
     "publishedAt": "2026-04-17T18:10:03.000Z",
-    "createdAt": "2026-04-18T05:11:54.141Z",
-    "updatedAt": "2026-04-18T05:11:54.141Z"
+    "createdAt": "2026-04-18T07:17:04.971Z",
+    "updatedAt": "2026-04-18T07:17:04.971Z"
   },
   {
     "id": "9c57f25e179c3d8e",
@@ -66,8 +80,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69e26d719a7947a024fae917",
     "publishedAt": "2026-04-17T17:59:05.000Z",
-    "createdAt": "2026-04-18T05:11:56.393Z",
-    "updatedAt": "2026-04-18T05:11:56.393Z"
+    "createdAt": "2026-04-18T07:17:06.915Z",
+    "updatedAt": "2026-04-18T07:17:06.915Z"
   },
   {
     "id": "bdf21b9746311448",
@@ -80,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69e26e289a7947815f5bd4c8",
     "publishedAt": "2026-04-17T17:44:18.000Z",
-    "createdAt": "2026-04-18T05:11:57.533Z",
-    "updatedAt": "2026-04-18T05:11:57.533Z"
+    "createdAt": "2026-04-18T07:17:07.950Z",
+    "updatedAt": "2026-04-18T07:17:07.950Z"
   },
   {
     "id": "6df60c9d0db361e1",
@@ -94,8 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69e257039a7947165a40dba5",
     "publishedAt": "2026-04-17T16:56:27.000Z",
-    "createdAt": "2026-04-18T05:11:58.684Z",
-    "updatedAt": "2026-04-18T05:11:58.684Z"
+    "createdAt": "2026-04-18T07:17:08.965Z",
+    "updatedAt": "2026-04-18T07:17:08.965Z"
   },
   {
     "id": "606e90135bfc120e",
@@ -108,8 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69e2548b9a79478e598df8ac",
     "publishedAt": "2026-04-17T16:54:55.000Z",
-    "createdAt": "2026-04-18T05:11:59.828Z",
-    "updatedAt": "2026-04-18T05:11:59.828Z"
+    "createdAt": "2026-04-18T07:17:09.927Z",
+    "updatedAt": "2026-04-18T07:17:09.927Z"
   },
   {
     "id": "7b968097b4933bdb",
@@ -122,21 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69e2622f9a79472bb7208dad",
     "publishedAt": "2026-04-17T16:52:25.000Z",
-    "createdAt": "2026-04-18T05:12:00.976Z",
-    "updatedAt": "2026-04-18T05:12:00.976Z"
-  },
-  {
-    "id": "e9c252d0894e9755",
-    "title": "РФС вновь оштрафовал Евсеева на 100 тыс. рублей за мат в интервью",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/5/62/347764394863625.jpeg",
-    "teaser": "РФС вновь оштрафовал Евсеева на 100 тыс. рублей за мат в интервью",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69e24dd89a79477557d30e57",
-    "publishedAt": "2026-04-17T15:42:00.000Z",
-    "createdAt": "2026-04-18T05:12:02.197Z",
-    "updatedAt": "2026-04-18T05:12:02.197Z"
+    "createdAt": "2026-04-18T07:17:10.986Z",
+    "updatedAt": "2026-04-18T07:17:10.986Z"
   }
 ]
