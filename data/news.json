@@ -1,5 +1,47 @@
 [
   {
+    "id": "93f890bf631011f9",
+    "title": "Футболист ЦСКА и сборной России получил травму в матче с «Крыльями»",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/6/09/347765296716096.jpeg",
+    "teaser": "Футболист ЦСКА и сборной России получил травму в матче с «Крыльями»",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69e3b0ce9a794721822f20ec",
+    "publishedAt": "2026-04-18T16:32:03.000Z",
+    "createdAt": "2026-04-18T16:50:22.135Z",
+    "updatedAt": "2026-04-18T16:50:22.135Z"
+  },
+  {
+    "id": "f643ca7f9cd793a1",
+    "title": "Мирра Андреева проиграла второй ракетке мира в полуфинале в Штутгарте",
+    "sport": "Теннис",
+    "category": "Теннис",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/4/97/347765281739974.jpeg",
+    "teaser": "Мирра Андреева проиграла второй ракетке мира в полуфинале в Штутгарте",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69e3aaf49a7947509265ea73",
+    "publishedAt": "2026-04-18T16:08:05.000Z",
+    "createdAt": "2026-04-18T16:50:21.155Z",
+    "updatedAt": "2026-04-18T16:50:21.155Z"
+  },
+  {
+    "id": "39081fdd01d6956d",
+    "title": "Рекордный гол Дзюбы принес «Акрону» ничью в матче с «Рубином»",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/2/18/347765268037182.jpeg",
+    "teaser": "Рекордный гол Дзюбы принес «Акрону» ничью в матче с «Рубином»",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69e3a5829a7947c990929f3b",
+    "publishedAt": "2026-04-18T16:00:25.000Z",
+    "createdAt": "2026-04-18T16:50:23.025Z",
+    "updatedAt": "2026-04-18T16:50:23.025Z"
+  },
+  {
     "id": "53f6791b3cc6d128",
     "title": "Первая женщина-тренер в топ-5 лиг Европы проиграла дебютный матч",
     "sport": "Футбол",
@@ -10,8 +52,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69e3a2e49a794734b48ff707",
     "publishedAt": "2026-04-18T15:34:43.000Z",
-    "createdAt": "2026-04-18T15:42:02.052Z",
-    "updatedAt": "2026-04-18T15:42:02.052Z"
+    "createdAt": "2026-04-18T16:50:24.131Z",
+    "updatedAt": "2026-04-18T16:50:24.131Z"
   },
   {
     "id": "708f8d654acbbe9c",
@@ -24,8 +66,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69e393669a7947472d2ba369",
     "publishedAt": "2026-04-18T14:26:16.000Z",
-    "createdAt": "2026-04-18T15:42:04.249Z",
-    "updatedAt": "2026-04-18T15:42:04.249Z"
+    "createdAt": "2026-04-18T16:50:26.336Z",
+    "updatedAt": "2026-04-18T16:50:26.336Z"
   },
   {
     "id": "270439b300f3ffed",
@@ -38,8 +80,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69e38af39a7947f5b7e69a3f",
     "publishedAt": "2026-04-18T13:50:58.000Z",
-    "createdAt": "2026-04-18T15:42:03.181Z",
-    "updatedAt": "2026-04-18T15:42:03.181Z"
+    "createdAt": "2026-04-18T16:50:25.223Z",
+    "updatedAt": "2026-04-18T16:50:25.223Z"
   },
   {
     "id": "a760a888d1961bfc",
@@ -52,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69e3882e9a794765b92556f1",
     "publishedAt": "2026-04-18T13:42:44.000Z",
-    "createdAt": "2026-04-18T15:42:05.372Z",
-    "updatedAt": "2026-04-18T15:42:05.372Z"
+    "createdAt": "2026-04-18T16:50:27.429Z",
+    "updatedAt": "2026-04-18T16:50:27.429Z"
   },
   {
     "id": "1d84805bbf745a9a",
@@ -66,8 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69e381b89a79473bc4a6db2b",
     "publishedAt": "2026-04-18T13:26:35.000Z",
-    "createdAt": "2026-04-18T15:42:06.545Z",
-    "updatedAt": "2026-04-18T15:42:06.545Z"
+    "createdAt": "2026-04-18T16:50:28.522Z",
+    "updatedAt": "2026-04-18T16:50:28.522Z"
   },
   {
     "id": "264393d2828337e0",
@@ -80,8 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69e37a259a7947a47beaed6f",
     "publishedAt": "2026-04-18T12:39:59.000Z",
-    "createdAt": "2026-04-18T15:42:07.683Z",
-    "updatedAt": "2026-04-18T15:42:07.683Z"
+    "createdAt": "2026-04-18T16:50:29.659Z",
+    "updatedAt": "2026-04-18T16:50:29.659Z"
   },
   {
     "id": "e8565147986843c8",
@@ -94,49 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69e377149a794735ef59e805",
     "publishedAt": "2026-04-18T12:31:48.000Z",
-    "createdAt": "2026-04-18T15:42:08.594Z",
-    "updatedAt": "2026-04-18T15:42:08.594Z"
-  },
-  {
-    "id": "dbe45b81a9773f59",
-    "title": "Россиянка вышла в финал крупного турнира WTA в Штутгарте в парном разряде",
-    "sport": "Теннис",
-    "category": "Теннис",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/8/46/347765124341468.jpeg",
-    "teaser": "Россиянка вышла в финал крупного турнира WTA в Штутгарте в парном разряде",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69e36d7a9a79474d0cebaed7",
-    "publishedAt": "2026-04-18T11:47:49.000Z",
-    "createdAt": "2026-04-18T15:42:10.845Z",
-    "updatedAt": "2026-04-18T15:42:10.845Z"
-  },
-  {
-    "id": "59f8a6cb63047f92",
-    "title": "Умер бывший тренер Андрея Кириленко",
-    "sport": "Баскетбол",
-    "category": "Баскетбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/5/12/347765119588125.jpeg",
-    "teaser": "Умер бывший тренер Андрея Кириленко",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69e36bb59a79471e46fbe782",
-    "publishedAt": "2026-04-18T11:37:41.000Z",
-    "createdAt": "2026-04-18T15:42:09.714Z",
-    "updatedAt": "2026-04-18T15:42:09.714Z"
-  },
-  {
-    "id": "2af1103086bb3cf2",
-    "title": "Футболист «Монако» Головин восстановился после травмы",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/2/03/347765113098032.jpeg",
-    "teaser": "Футболист «Монако» Головин восстановился после травмы",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69e3691d9a7947635e3f0744",
-    "publishedAt": "2026-04-18T11:25:26.000Z",
-    "createdAt": "2026-04-18T15:42:11.975Z",
-    "updatedAt": "2026-04-18T15:42:11.975Z"
+    "createdAt": "2026-04-18T16:50:30.757Z",
+    "updatedAt": "2026-04-18T16:50:30.757Z"
   }
 ]
