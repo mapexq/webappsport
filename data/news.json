@@ -1,5 +1,47 @@
 [
   {
+    "id": "59f8a6cb63047f92",
+    "title": "Умер бывший тренер Андрея Кириленко",
+    "sport": "Баскетбол",
+    "category": "Баскетбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/5/12/347765119588125.jpeg",
+    "teaser": "Умер бывший тренер Андрея Кириленко",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69e36bb59a79471e46fbe782",
+    "publishedAt": "2026-04-18T11:37:41.000Z",
+    "createdAt": "2026-04-18T11:39:03.375Z",
+    "updatedAt": "2026-04-18T11:39:03.375Z"
+  },
+  {
+    "id": "7467a7f247c740f4",
+    "title": "Футболист «Монако» Головин восстановился от травмы",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/2/03/347765113098032.jpeg",
+    "teaser": "Футболист «Монако» Головин восстановился от травмы",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69e3691d9a7947635e3f0744",
+    "publishedAt": "2026-04-18T11:25:26.000Z",
+    "createdAt": "2026-04-18T11:39:04.408Z",
+    "updatedAt": "2026-04-18T11:39:04.408Z"
+  },
+  {
+    "id": "b6313964a72da593",
+    "title": "«Локомотив» с минимальным счетом обыграл аутсайдера РПЛ",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/8/14/347765085685148.jpeg",
+    "teaser": "«Локомотив» с минимальным счетом обыграл аутсайдера РПЛ",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69e35e569a794759098cc0dc",
+    "publishedAt": "2026-04-18T10:59:54.000Z",
+    "createdAt": "2026-04-18T11:39:05.491Z",
+    "updatedAt": "2026-04-18T11:39:05.491Z"
+  },
+  {
     "id": "caa46075ae478fd3",
     "title": "Племянник Тарасовой назвал ожидаемые сроки ее выписки из больницы",
     "sport": "Другое",
@@ -10,8 +52,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69e35b829a794712c18adeaf",
     "publishedAt": "2026-04-18T10:28:56.000Z",
-    "createdAt": "2026-04-18T10:49:07.368Z",
-    "updatedAt": "2026-04-18T10:49:07.368Z"
+    "createdAt": "2026-04-18T11:39:06.762Z",
+    "updatedAt": "2026-04-18T11:39:06.762Z"
   },
   {
     "id": "b88c11e1334d09c0",
@@ -24,8 +66,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69e348549a794718365962c9",
     "publishedAt": "2026-04-18T09:47:56.000Z",
-    "createdAt": "2026-04-18T10:49:09.417Z",
-    "updatedAt": "2026-04-18T10:49:09.417Z"
+    "createdAt": "2026-04-18T11:39:08.980Z",
+    "updatedAt": "2026-04-18T11:39:08.980Z"
   },
   {
     "id": "7f00c2f3aab77650",
@@ -38,8 +80,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69e349659a79473ad170a945",
     "publishedAt": "2026-04-18T09:25:24.000Z",
-    "createdAt": "2026-04-18T10:49:08.394Z",
-    "updatedAt": "2026-04-18T10:49:08.394Z"
+    "createdAt": "2026-04-18T11:39:07.907Z",
+    "updatedAt": "2026-04-18T11:39:07.907Z"
   },
   {
     "id": "1b46b3267be1ee71",
@@ -52,22 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69e3435a9a794750d4b26954",
     "publishedAt": "2026-04-18T08:53:33.000Z",
-    "createdAt": "2026-04-18T10:49:10.445Z",
-    "updatedAt": "2026-04-18T10:49:10.445Z"
-  },
-  {
-    "id": "49de392ad4f5336e",
-    "title": "Фрэнк Лэмпард вернул «Ковентри» в Английскую премьер-лигу спустя 25 лет",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/2/92/347764998492922.jpeg",
-    "teaser": "Фрэнк Лэмпард вернул «Ковентри» в Английскую премьер-лигу спустя 25 лет",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69e33be09a7947a692528266",
-    "publishedAt": "2026-04-18T08:19:24.000Z",
-    "createdAt": "2026-04-18T10:49:13.689Z",
-    "updatedAt": "2026-04-18T10:49:13.689Z"
+    "createdAt": "2026-04-18T11:39:10.130Z",
+    "updatedAt": "2026-04-18T11:39:10.130Z"
   },
   {
     "id": "ea5a2e6dc3adb80a",
@@ -80,8 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69e336769a794758e6aa3dd2",
     "publishedAt": "2026-04-18T07:58:18.000Z",
-    "createdAt": "2026-04-18T10:49:11.478Z",
-    "updatedAt": "2026-04-18T10:49:11.478Z"
+    "createdAt": "2026-04-18T11:39:11.263Z",
+    "updatedAt": "2026-04-18T11:39:11.263Z"
   },
   {
     "id": "a125a4f406a15945",
@@ -94,8 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69e331719a7947510935c926",
     "publishedAt": "2026-04-18T07:39:46.000Z",
-    "createdAt": "2026-04-18T10:49:12.515Z",
-    "updatedAt": "2026-04-18T10:49:12.515Z"
+    "createdAt": "2026-04-18T11:39:12.405Z",
+    "updatedAt": "2026-04-18T11:39:12.405Z"
   },
   {
     "id": "02a8e693b6a810b6",
@@ -108,35 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69e32d189a7947c7a13afb8a",
     "publishedAt": "2026-04-18T07:17:06.000Z",
-    "createdAt": "2026-04-18T10:49:14.770Z",
-    "updatedAt": "2026-04-18T10:49:14.770Z"
-  },
-  {
-    "id": "1593fe7c6724ce26",
-    "title": "Почему первой женщине-тренеру не позволят остаться в команде из топ-5 лиг",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/2/79/347764957537792.jpeg",
-    "teaser": "Почему первой женщине-тренеру не позволят остаться в команде из топ-5 лиг",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69e225b69a794765c870ea67",
-    "publishedAt": "2026-04-18T07:02:43.000Z",
-    "createdAt": "2026-04-18T10:49:15.823Z",
-    "updatedAt": "2026-04-18T10:49:15.823Z"
-  },
-  {
-    "id": "e5c63278c9531473",
-    "title": "Умер лучший бомбардир в истории олимпийских баскетбольных турниров",
-    "sport": "Баскетбол",
-    "category": "Баскетбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/5/10/347764581397105.jpeg",
-    "teaser": "Умер лучший бомбардир в истории олимпийских баскетбольных турниров",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69e2968a9a79477507ed1a05",
-    "publishedAt": "2026-04-17T20:41:56.000Z",
-    "createdAt": "2026-04-18T10:49:16.857Z",
-    "updatedAt": "2026-04-18T10:49:16.857Z"
+    "createdAt": "2026-04-18T11:39:13.562Z",
+    "updatedAt": "2026-04-18T11:39:13.562Z"
   }
 ]
