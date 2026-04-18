@@ -1,5 +1,61 @@
 [
   {
+    "id": "708f8d654acbbe9c",
+    "title": "Клуб Слуцкого выиграл третий подряд матч в чемпионате Китая",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/0/19/347765224607190.jpeg",
+    "teaser": "Клуб Слуцкого выиграл третий подряд матч в чемпионате Китая",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69e393669a7947472d2ba369",
+    "publishedAt": "2026-04-18T14:26:16.000Z",
+    "createdAt": "2026-04-18T14:46:29.902Z",
+    "updatedAt": "2026-04-18T14:46:29.902Z"
+  },
+  {
+    "id": "270439b300f3ffed",
+    "title": "Рублев впервые за год вышел в финал турнира ATP",
+    "sport": "Теннис",
+    "category": "Теннис",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/1/91/347765199689911.jpeg",
+    "teaser": "Рублев впервые за год вышел в финал турнира ATP",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69e38af39a7947f5b7e69a3f",
+    "publishedAt": "2026-04-18T13:50:58.000Z",
+    "createdAt": "2026-04-18T14:46:28.836Z",
+    "updatedAt": "2026-04-18T14:46:28.836Z"
+  },
+  {
+    "id": "a760a888d1961bfc",
+    "title": "Бывшему футболисту «Шинника» ампутировали ногу из-за рака",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/6/15/347765192455156.jpeg",
+    "teaser": "Бывшему футболисту «Шинника» ампутировали ногу из-за рака",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69e3882e9a794765b92556f1",
+    "publishedAt": "2026-04-18T13:42:44.000Z",
+    "createdAt": "2026-04-18T14:46:31.063Z",
+    "updatedAt": "2026-04-18T14:46:31.063Z"
+  },
+  {
+    "id": "1d84805bbf745a9a",
+    "title": "ЦСКА второй тур подряд не смог обыграть одного из аутсайдеров РПЛ",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/6/03/347765176023036.jpeg",
+    "teaser": "ЦСКА второй тур подряд не смог обыграть одного из аутсайдеров РПЛ",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69e381b89a79473bc4a6db2b",
+    "publishedAt": "2026-04-18T13:26:35.000Z",
+    "createdAt": "2026-04-18T14:46:32.193Z",
+    "updatedAt": "2026-04-18T14:46:32.193Z"
+  },
+  {
     "id": "264393d2828337e0",
     "title": "Российский дзюдоист Арбузов стал двукратным чемпионом Европы",
     "sport": "Другое",
@@ -10,8 +66,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69e37a259a7947a47beaed6f",
     "publishedAt": "2026-04-18T12:39:59.000Z",
-    "createdAt": "2026-04-18T13:13:50.751Z",
-    "updatedAt": "2026-04-18T13:13:50.751Z"
+    "createdAt": "2026-04-18T14:46:33.307Z",
+    "updatedAt": "2026-04-18T14:46:33.307Z"
   },
   {
     "id": "e8565147986843c8",
@@ -24,8 +80,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69e377149a794735ef59e805",
     "publishedAt": "2026-04-18T12:31:48.000Z",
-    "createdAt": "2026-04-18T13:13:51.721Z",
-    "updatedAt": "2026-04-18T13:13:51.721Z"
+    "createdAt": "2026-04-18T14:46:34.455Z",
+    "updatedAt": "2026-04-18T14:46:34.455Z"
   },
   {
     "id": "dbe45b81a9773f59",
@@ -38,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69e36d7a9a79474d0cebaed7",
     "publishedAt": "2026-04-18T11:47:49.000Z",
-    "createdAt": "2026-04-18T13:13:53.648Z",
-    "updatedAt": "2026-04-18T13:13:53.648Z"
+    "createdAt": "2026-04-18T14:46:36.697Z",
+    "updatedAt": "2026-04-18T14:46:36.697Z"
   },
   {
     "id": "59f8a6cb63047f92",
@@ -52,8 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69e36bb59a79471e46fbe782",
     "publishedAt": "2026-04-18T11:37:41.000Z",
-    "createdAt": "2026-04-18T13:13:52.679Z",
-    "updatedAt": "2026-04-18T13:13:52.679Z"
+    "createdAt": "2026-04-18T14:46:35.557Z",
+    "updatedAt": "2026-04-18T14:46:35.557Z"
   },
   {
     "id": "2af1103086bb3cf2",
@@ -66,8 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69e3691d9a7947635e3f0744",
     "publishedAt": "2026-04-18T11:25:26.000Z",
-    "createdAt": "2026-04-18T13:13:54.658Z",
-    "updatedAt": "2026-04-18T13:13:54.658Z"
+    "createdAt": "2026-04-18T14:46:37.819Z",
+    "updatedAt": "2026-04-18T14:46:37.819Z"
   },
   {
     "id": "b6313964a72da593",
@@ -80,63 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69e35e569a794759098cc0dc",
     "publishedAt": "2026-04-18T10:59:54.000Z",
-    "createdAt": "2026-04-18T13:13:55.614Z",
-    "updatedAt": "2026-04-18T13:13:55.614Z"
-  },
-  {
-    "id": "caa46075ae478fd3",
-    "title": "Племянник Тарасовой назвал ожидаемые сроки ее выписки из больницы",
-    "sport": "Другое",
-    "category": "Фигурное катание",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/4/29/347765078253294.jpeg",
-    "teaser": "Племянник Тарасовой назвал ожидаемые сроки ее выписки из больницы",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69e35b829a794712c18adeaf",
-    "publishedAt": "2026-04-18T10:28:56.000Z",
-    "createdAt": "2026-04-18T13:13:56.586Z",
-    "updatedAt": "2026-04-18T13:13:56.586Z"
-  },
-  {
-    "id": "b88c11e1334d09c0",
-    "title": "Один из лучших тренеров в истории НБА Док Риверс завершил карьеру",
-    "sport": "Баскетбол",
-    "category": "Баскетбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/8/77/347765029126778.jpeg",
-    "teaser": "Один из лучших тренеров в истории НБА Док Риверс завершил карьеру",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69e348549a794718365962c9",
-    "publishedAt": "2026-04-18T09:47:56.000Z",
-    "createdAt": "2026-04-18T13:13:58.510Z",
-    "updatedAt": "2026-04-18T13:13:58.510Z"
-  },
-  {
-    "id": "7f00c2f3aab77650",
-    "title": "Польша не допустит российских спортсменов на ЧЕ-2027 по прыжкам в воду",
-    "sport": "Другое",
-    "category": "Другие",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/1/80/347765031937801.jpeg",
-    "teaser": "Польша не допустит российских спортсменов на ЧЕ-2027 по прыжкам в воду",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69e349659a79473ad170a945",
-    "publishedAt": "2026-04-18T09:25:24.000Z",
-    "createdAt": "2026-04-18T13:13:57.542Z",
-    "updatedAt": "2026-04-18T13:13:57.542Z"
-  },
-  {
-    "id": "1b46b3267be1ee71",
-    "title": "Губерниев рассказал о будущей примирительной встрече с Вяльбе",
-    "sport": "Другое",
-    "category": "Другие",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/4/22/347765016814224.jpeg",
-    "teaser": "Губерниев рассказал о будущей примирительной встрече с Вяльбе",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69e3435a9a794750d4b26954",
-    "publishedAt": "2026-04-18T08:53:33.000Z",
-    "createdAt": "2026-04-18T13:13:59.485Z",
-    "updatedAt": "2026-04-18T13:13:59.485Z"
+    "createdAt": "2026-04-18T14:46:38.937Z",
+    "updatedAt": "2026-04-18T14:46:38.937Z"
   }
 ]
