@@ -1,5 +1,47 @@
 [
   {
+    "id": "c2ff1e191a571763",
+    "title": "«Краснодар» не смог вернуть лидерство в РПЛ, сыграв вничью с «Балтикой»",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/3/62/347766231239623.jpeg",
+    "teaser": "«Краснодар» не смог вернуть лидерство в РПЛ, сыграв вничью с «Балтикой»",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69e5055b9a79477f047c9886",
+    "publishedAt": "2026-04-19T18:32:07.000Z",
+    "createdAt": "2026-04-19T18:59:36.801Z",
+    "updatedAt": "2026-04-19T18:59:36.801Z"
+  },
+  {
+    "id": "7163ec1aa73d19c7",
+    "title": "«Бавария» в 35-й раз стала чемпионом Германии",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/3/44/347766216857443.jpeg",
+    "teaser": "«Бавария» в 35-й раз стала чемпионом Германии",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69e518669a79471d9e429e9d",
+    "publishedAt": "2026-04-19T18:08:19.000Z",
+    "createdAt": "2026-04-19T18:59:37.913Z",
+    "updatedAt": "2026-04-19T18:59:37.913Z"
+  },
+  {
+    "id": "28099ec3513a6675",
+    "title": "Тренер «Балтики» попросил Радимова «следить за языком» в прямом эфире",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/7/79/347766190882797.png",
+    "teaser": "Тренер «Балтики» попросил Радимова «следить за языком» в прямом эфире",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69e50e0d9a7947695bbac67e",
+    "publishedAt": "2026-04-19T17:51:53.000Z",
+    "createdAt": "2026-04-19T18:59:38.971Z",
+    "updatedAt": "2026-04-19T18:59:38.971Z"
+  },
+  {
     "id": "f52129457d7025d4",
     "title": "«Манчестер Сити» обыграл лидера АПЛ, несмотря на грубую ошибку Доннаруммы",
     "sport": "Футбол",
@@ -10,8 +52,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69e5052e9a79477f047c9883",
     "publishedAt": "2026-04-19T17:28:57.000Z",
-    "createdAt": "2026-04-19T17:39:59.393Z",
-    "updatedAt": "2026-04-19T17:39:59.393Z"
+    "createdAt": "2026-04-19T18:59:40.072Z",
+    "updatedAt": "2026-04-19T18:59:40.072Z"
   },
   {
     "id": "8a32083f6112c87a",
@@ -24,8 +66,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69e4f85c9a7947137962d1d3",
     "publishedAt": "2026-04-19T16:17:02.000Z",
-    "createdAt": "2026-04-19T17:40:01.275Z",
-    "updatedAt": "2026-04-19T17:40:01.275Z"
+    "createdAt": "2026-04-19T18:59:42.227Z",
+    "updatedAt": "2026-04-19T18:59:42.227Z"
   },
   {
     "id": "9bff124a405eacde",
@@ -38,8 +80,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69e4f8279a794761fd9733de",
     "publishedAt": "2026-04-19T16:02:04.000Z",
-    "createdAt": "2026-04-19T17:40:00.340Z",
-    "updatedAt": "2026-04-19T17:40:00.340Z"
+    "createdAt": "2026-04-19T18:59:41.175Z",
+    "updatedAt": "2026-04-19T18:59:41.175Z"
   },
   {
     "id": "ee98682f15fe88a9",
@@ -52,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69e4e6e49a794733806ed4c9",
     "publishedAt": "2026-04-19T14:49:12.000Z",
-    "createdAt": "2026-04-19T17:40:02.224Z",
-    "updatedAt": "2026-04-19T17:40:02.224Z"
+    "createdAt": "2026-04-19T18:59:43.138Z",
+    "updatedAt": "2026-04-19T18:59:43.138Z"
   },
   {
     "id": "373267bfd6083664",
@@ -66,22 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69e4e0f09a79472335ffe30e",
     "publishedAt": "2026-04-19T14:23:55.000Z",
-    "createdAt": "2026-04-19T17:40:04.208Z",
-    "updatedAt": "2026-04-19T17:40:04.208Z"
-  },
-  {
-    "id": "f6bb88955d8cbe6e",
-    "title": "Вратарь забил гол от своей штрафной во Второй лиге",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/1/32/347766055743321.png",
-    "teaser": "Вратарь забил гол от своей штрафной во Второй лиге",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69e4d37f9a7947f9208cd99b",
-    "publishedAt": "2026-04-19T13:50:06.000Z",
-    "createdAt": "2026-04-19T17:40:06.182Z",
-    "updatedAt": "2026-04-19T17:40:06.182Z"
+    "createdAt": "2026-04-19T18:59:45.403Z",
+    "updatedAt": "2026-04-19T18:59:45.403Z"
   },
   {
     "id": "24371bd584b96fe6",
@@ -94,8 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69e4d3519a79472810782abb",
     "publishedAt": "2026-04-19T13:29:43.000Z",
-    "createdAt": "2026-04-19T17:40:03.219Z",
-    "updatedAt": "2026-04-19T17:40:03.219Z"
+    "createdAt": "2026-04-19T18:59:44.287Z",
+    "updatedAt": "2026-04-19T18:59:44.287Z"
   },
   {
     "id": "76484be35d0a8e9d",
@@ -108,35 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69e4cd949a7947162a56a95c",
     "publishedAt": "2026-04-19T12:52:52.000Z",
-    "createdAt": "2026-04-19T17:40:05.203Z",
-    "updatedAt": "2026-04-19T17:40:05.203Z"
-  },
-  {
-    "id": "57cfdedf41747929",
-    "title": "Роман Ротенберг заявил о готовности возглавить московское «Динамо»",
-    "sport": "Хоккей",
-    "category": "Хоккей",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/8/88/347766008207888.png",
-    "teaser": "Роман Ротенберг заявил о готовности возглавить московское «Динамо»",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69e4c6429a7947d6e9feb36c",
-    "publishedAt": "2026-04-19T12:24:57.000Z",
-    "createdAt": "2026-04-19T17:40:07.167Z",
-    "updatedAt": "2026-04-19T17:40:07.167Z"
-  },
-  {
-    "id": "7b9729c8e3597352",
-    "title": "В Канаде впервые на топ-уровне засчитали гол по правилу «офсайда Венгера»",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/8/43/347765972422438.png",
-    "teaser": "В Канаде впервые на топ-уровне засчитали гол по правилу «офсайда Венгера»",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69e4b76d9a7947bb0b7d7697",
-    "publishedAt": "2026-04-19T11:39:16.000Z",
-    "createdAt": "2026-04-19T17:40:08.118Z",
-    "updatedAt": "2026-04-19T17:40:08.118Z"
+    "createdAt": "2026-04-19T18:59:46.438Z",
+    "updatedAt": "2026-04-19T18:59:46.438Z"
   }
 ]
