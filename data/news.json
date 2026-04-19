@@ -1,5 +1,47 @@
 [
   {
+    "id": "373267bfd6083664",
+    "title": "Российский теннисист впервые за полтора года взял трофей под эгидой ATP",
+    "sport": "Теннис",
+    "category": "Теннис",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/5/18/347766075204185.png",
+    "teaser": "Российский теннисист впервые за полтора года взял трофей под эгидой ATP",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69e4e0f09a79472335ffe30e",
+    "publishedAt": "2026-04-19T14:23:55.000Z",
+    "createdAt": "2026-04-19T14:47:34.634Z",
+    "updatedAt": "2026-04-19T14:47:34.634Z"
+  },
+  {
+    "id": "f6bb88955d8cbe6e",
+    "title": "Вратарь забил гол от своей штрафной во Второй лиге",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/1/32/347766055743321.png",
+    "teaser": "Вратарь забил гол от своей штрафной во Второй лиге",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69e4d37f9a7947f9208cd99b",
+    "publishedAt": "2026-04-19T13:50:06.000Z",
+    "createdAt": "2026-04-19T14:47:33.513Z",
+    "updatedAt": "2026-04-19T14:47:33.513Z"
+  },
+  {
+    "id": "24371bd584b96fe6",
+    "title": "«Зенит» возглавил РПЛ после трудной победы над махачкалинским «Динамо»",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/0/50/347766042188500.png",
+    "teaser": "«Зенит» возглавил РПЛ после трудной победы над махачкалинским «Динамо»",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69e4d3519a79472810782abb",
+    "publishedAt": "2026-04-19T13:29:43.000Z",
+    "createdAt": "2026-04-19T14:47:32.390Z",
+    "updatedAt": "2026-04-19T14:47:32.390Z"
+  },
+  {
     "id": "76484be35d0a8e9d",
     "title": "Рыбакина выиграла крупный турнир в Штутгарте",
     "sport": "Теннис",
@@ -10,8 +52,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69e4cd949a7947162a56a95c",
     "publishedAt": "2026-04-19T12:52:52.000Z",
-    "createdAt": "2026-04-19T13:13:53.393Z",
-    "updatedAt": "2026-04-19T13:13:53.393Z"
+    "createdAt": "2026-04-19T14:47:35.782Z",
+    "updatedAt": "2026-04-19T14:47:35.782Z"
   },
   {
     "id": "57cfdedf41747929",
@@ -24,8 +66,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69e4c6429a7947d6e9feb36c",
     "publishedAt": "2026-04-19T12:24:57.000Z",
-    "createdAt": "2026-04-19T13:13:54.395Z",
-    "updatedAt": "2026-04-19T13:13:54.395Z"
+    "createdAt": "2026-04-19T14:47:37.033Z",
+    "updatedAt": "2026-04-19T14:47:37.033Z"
   },
   {
     "id": "7b9729c8e3597352",
@@ -38,8 +80,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69e4b76d9a7947bb0b7d7697",
     "publishedAt": "2026-04-19T11:39:16.000Z",
-    "createdAt": "2026-04-19T13:13:55.454Z",
-    "updatedAt": "2026-04-19T13:13:55.454Z"
+    "createdAt": "2026-04-19T14:47:38.064Z",
+    "updatedAt": "2026-04-19T14:47:38.064Z"
   },
   {
     "id": "b3ea047097eb7c5c",
@@ -52,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69e4ae1b9a794783ab49c2a6",
     "publishedAt": "2026-04-19T10:51:12.000Z",
-    "createdAt": "2026-04-19T13:13:56.506Z",
-    "updatedAt": "2026-04-19T13:13:56.506Z"
+    "createdAt": "2026-04-19T14:47:39.200Z",
+    "updatedAt": "2026-04-19T14:47:39.200Z"
   },
   {
     "id": "edc52e51fb2ee89a",
@@ -66,8 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69e4a0e79a79472c397b2856",
     "publishedAt": "2026-04-19T09:49:03.000Z",
-    "createdAt": "2026-04-19T13:13:58.531Z",
-    "updatedAt": "2026-04-19T13:13:58.531Z"
+    "createdAt": "2026-04-19T14:47:41.462Z",
+    "updatedAt": "2026-04-19T14:47:41.462Z"
   },
   {
     "id": "d57f8023d5e51e3e",
@@ -80,8 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69e49c309a7947560fc8fddc",
     "publishedAt": "2026-04-19T09:28:31.000Z",
-    "createdAt": "2026-04-19T13:13:57.541Z",
-    "updatedAt": "2026-04-19T13:13:57.541Z"
+    "createdAt": "2026-04-19T14:47:40.330Z",
+    "updatedAt": "2026-04-19T14:47:40.330Z"
   },
   {
     "id": "3e236c6d1ed818d4",
@@ -94,49 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69e3cebb9a794789818394b9",
     "publishedAt": "2026-04-19T07:00:43.000Z",
-    "createdAt": "2026-04-19T13:13:59.531Z",
-    "updatedAt": "2026-04-19T13:13:59.531Z"
-  },
-  {
-    "id": "9ace5358b089e3af",
-    "title": "«Динамо» в большинстве не смогло обыграть аутсайдера РПЛ",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/1/12/347765355821121.jpeg",
-    "teaser": "«Динамо» в большинстве не смогло обыграть аутсайдера РПЛ",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69e3c7b39a79475ad3b4258d",
-    "publishedAt": "2026-04-18T18:26:51.000Z",
-    "createdAt": "2026-04-19T13:14:00.597Z",
-    "updatedAt": "2026-04-19T13:14:00.597Z"
-  },
-  {
-    "id": "7a398f54e27336f3",
-    "title": "Плющенко заявил, что его ученица делала три сальто подряд раньше Малинина",
-    "sport": "Другое",
-    "category": "Фигурное катание",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/9/99/347765348359999.jpeg",
-    "teaser": "Плющенко заявил, что его ученица делала три сальто подряд раньше Малинина",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69e3c4c59a7947a157513a5c",
-    "publishedAt": "2026-04-18T17:59:47.000Z",
-    "createdAt": "2026-04-19T13:14:01.683Z",
-    "updatedAt": "2026-04-19T13:14:01.683Z"
-  },
-  {
-    "id": "338724cba645ed10",
-    "title": "Дзюба заявил, что ему «поплохело» в концовке матча с «Рубином»",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/0/59/347765322068590.jpeg",
-    "teaser": "Дзюба заявил, что ему «поплохело» в концовке матча с «Рубином»",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69e3babe9a7947dd12610644",
-    "publishedAt": "2026-04-18T17:14:37.000Z",
-    "createdAt": "2026-04-19T13:14:02.784Z",
-    "updatedAt": "2026-04-19T13:14:02.784Z"
+    "createdAt": "2026-04-19T14:47:42.615Z",
+    "updatedAt": "2026-04-19T14:47:42.615Z"
   }
 ]
