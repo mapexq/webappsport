@@ -1,5 +1,33 @@
 [
   {
+    "id": "8a32083f6112c87a",
+    "title": "Рублев проиграл в финале крупного турнира в Барселоне",
+    "sport": "Теннис",
+    "category": "Теннис",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/9/83/347766134999839.jpeg",
+    "teaser": "Рублев проиграл в финале крупного турнира в Барселоне",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69e4f85c9a7947137962d1d3",
+    "publishedAt": "2026-04-19T16:17:02.000Z",
+    "createdAt": "2026-04-19T16:50:01.653Z",
+    "updatedAt": "2026-04-19T16:50:01.653Z"
+  },
+  {
+    "id": "9bff124a405eacde",
+    "title": "«Спартак» уверенно обыграл клуб Черчесова",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/8/94/347766143540948.png",
+    "teaser": "«Спартак» уверенно обыграл клуб Черчесова",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69e4f8279a794761fd9733de",
+    "publishedAt": "2026-04-19T16:02:04.000Z",
+    "createdAt": "2026-04-19T16:50:00.577Z",
+    "updatedAt": "2026-04-19T16:50:00.577Z"
+  },
+  {
     "id": "ee98682f15fe88a9",
     "title": "Российская теннисистка выиграла крупный турнир в Штутгарте в парах",
     "sport": "Теннис",
@@ -10,8 +38,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69e4e6e49a794733806ed4c9",
     "publishedAt": "2026-04-19T14:49:12.000Z",
-    "createdAt": "2026-04-19T15:42:16.707Z",
-    "updatedAt": "2026-04-19T15:42:16.707Z"
+    "createdAt": "2026-04-19T16:50:02.750Z",
+    "updatedAt": "2026-04-19T16:50:02.750Z"
   },
   {
     "id": "373267bfd6083664",
@@ -24,8 +52,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69e4e0f09a79472335ffe30e",
     "publishedAt": "2026-04-19T14:23:55.000Z",
-    "createdAt": "2026-04-19T15:42:19.956Z",
-    "updatedAt": "2026-04-19T15:42:19.956Z"
+    "createdAt": "2026-04-19T16:50:04.985Z",
+    "updatedAt": "2026-04-19T16:50:04.985Z"
   },
   {
     "id": "f6bb88955d8cbe6e",
@@ -38,8 +66,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69e4d37f9a7947f9208cd99b",
     "publishedAt": "2026-04-19T13:50:06.000Z",
-    "createdAt": "2026-04-19T15:42:18.896Z",
-    "updatedAt": "2026-04-19T15:42:18.896Z"
+    "createdAt": "2026-04-19T16:50:07.181Z",
+    "updatedAt": "2026-04-19T16:50:07.181Z"
   },
   {
     "id": "24371bd584b96fe6",
@@ -52,8 +80,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69e4d3519a79472810782abb",
     "publishedAt": "2026-04-19T13:29:43.000Z",
-    "createdAt": "2026-04-19T15:42:17.807Z",
-    "updatedAt": "2026-04-19T15:42:17.807Z"
+    "createdAt": "2026-04-19T16:50:03.903Z",
+    "updatedAt": "2026-04-19T16:50:03.903Z"
   },
   {
     "id": "76484be35d0a8e9d",
@@ -66,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69e4cd949a7947162a56a95c",
     "publishedAt": "2026-04-19T12:52:52.000Z",
-    "createdAt": "2026-04-19T15:42:21.097Z",
-    "updatedAt": "2026-04-19T15:42:21.097Z"
+    "createdAt": "2026-04-19T16:50:06.074Z",
+    "updatedAt": "2026-04-19T16:50:06.074Z"
   },
   {
     "id": "57cfdedf41747929",
@@ -80,8 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69e4c6429a7947d6e9feb36c",
     "publishedAt": "2026-04-19T12:24:57.000Z",
-    "createdAt": "2026-04-19T15:42:22.219Z",
-    "updatedAt": "2026-04-19T15:42:22.219Z"
+    "createdAt": "2026-04-19T16:50:08.264Z",
+    "updatedAt": "2026-04-19T16:50:08.264Z"
   },
   {
     "id": "7b9729c8e3597352",
@@ -94,8 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69e4b76d9a7947bb0b7d7697",
     "publishedAt": "2026-04-19T11:39:16.000Z",
-    "createdAt": "2026-04-19T15:42:23.317Z",
-    "updatedAt": "2026-04-19T15:42:23.317Z"
+    "createdAt": "2026-04-19T16:50:09.243Z",
+    "updatedAt": "2026-04-19T16:50:09.243Z"
   },
   {
     "id": "b3ea047097eb7c5c",
@@ -108,35 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69e4ae1b9a794783ab49c2a6",
     "publishedAt": "2026-04-19T10:51:12.000Z",
-    "createdAt": "2026-04-19T15:42:24.420Z",
-    "updatedAt": "2026-04-19T15:42:24.420Z"
-  },
-  {
-    "id": "edc52e51fb2ee89a",
-    "title": "Капризов повторил снайперский рекорд «Миннесоты» в Кубке Стэнли",
-    "sport": "Хоккей",
-    "category": "Хоккей",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/1/46/347765911312461.jpeg",
-    "teaser": "Капризов повторил снайперский рекорд «Миннесоты» в Кубке Стэнли",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69e4a0e79a79472c397b2856",
-    "publishedAt": "2026-04-19T09:49:03.000Z",
-    "createdAt": "2026-04-19T15:42:26.704Z",
-    "updatedAt": "2026-04-19T15:42:26.704Z"
-  },
-  {
-    "id": "d57f8023d5e51e3e",
-    "title": "Дзюба опроверг информацию о переговорах с клубом второго дивизиона",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/5/15/347765900167155.png",
-    "teaser": "Дзюба опроверг информацию о переговорах с клубом второго дивизиона",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69e49c309a7947560fc8fddc",
-    "publishedAt": "2026-04-19T09:28:31.000Z",
-    "createdAt": "2026-04-19T15:42:25.534Z",
-    "updatedAt": "2026-04-19T15:42:25.534Z"
+    "createdAt": "2026-04-19T16:50:10.351Z",
+    "updatedAt": "2026-04-19T16:50:10.351Z"
   }
 ]
