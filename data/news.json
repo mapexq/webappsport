@@ -1,5 +1,47 @@
 [
   {
+    "id": "76484be35d0a8e9d",
+    "title": "Рыбакина выиграла крупный турнир в Штутгарте",
+    "sport": "Теннис",
+    "category": "Теннис",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/2/09/347766025334092.png",
+    "teaser": "Рыбакина выиграла крупный турнир в Штутгарте",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69e4cd949a7947162a56a95c",
+    "publishedAt": "2026-04-19T12:52:52.000Z",
+    "createdAt": "2026-04-19T13:13:53.393Z",
+    "updatedAt": "2026-04-19T13:13:53.393Z"
+  },
+  {
+    "id": "57cfdedf41747929",
+    "title": "Роман Ротенберг заявил о готовности возглавить московское «Динамо»",
+    "sport": "Хоккей",
+    "category": "Хоккей",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/8/88/347766008207888.png",
+    "teaser": "Роман Ротенберг заявил о готовности возглавить московское «Динамо»",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69e4c6429a7947d6e9feb36c",
+    "publishedAt": "2026-04-19T12:24:57.000Z",
+    "createdAt": "2026-04-19T13:13:54.395Z",
+    "updatedAt": "2026-04-19T13:13:54.395Z"
+  },
+  {
+    "id": "7b9729c8e3597352",
+    "title": "В Канаде впервые на топ-уровне засчитали гол по правилу «офсайда Венгера»",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/8/43/347765972422438.png",
+    "teaser": "В Канаде впервые на топ-уровне засчитали гол по правилу «офсайда Венгера»",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69e4b76d9a7947bb0b7d7697",
+    "publishedAt": "2026-04-19T11:39:16.000Z",
+    "createdAt": "2026-04-19T13:13:55.454Z",
+    "updatedAt": "2026-04-19T13:13:55.454Z"
+  },
+  {
     "id": "b3ea047097eb7c5c",
     "title": "Хамзат Чимаев подписал контракт с борцовским промоушеном RAF",
     "sport": "Единоборства",
@@ -10,8 +52,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69e4ae1b9a794783ab49c2a6",
     "publishedAt": "2026-04-19T10:51:12.000Z",
-    "createdAt": "2026-04-19T11:39:58.595Z",
-    "updatedAt": "2026-04-19T11:39:58.595Z"
+    "createdAt": "2026-04-19T13:13:56.506Z",
+    "updatedAt": "2026-04-19T13:13:56.506Z"
   },
   {
     "id": "edc52e51fb2ee89a",
@@ -24,8 +66,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69e4a0e79a79472c397b2856",
     "publishedAt": "2026-04-19T09:49:03.000Z",
-    "createdAt": "2026-04-19T11:40:00.769Z",
-    "updatedAt": "2026-04-19T11:40:00.769Z"
+    "createdAt": "2026-04-19T13:13:58.531Z",
+    "updatedAt": "2026-04-19T13:13:58.531Z"
   },
   {
     "id": "d57f8023d5e51e3e",
@@ -38,8 +80,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69e49c309a7947560fc8fddc",
     "publishedAt": "2026-04-19T09:28:31.000Z",
-    "createdAt": "2026-04-19T11:39:59.682Z",
-    "updatedAt": "2026-04-19T11:39:59.682Z"
+    "createdAt": "2026-04-19T13:13:57.541Z",
+    "updatedAt": "2026-04-19T13:13:57.541Z"
   },
   {
     "id": "3e236c6d1ed818d4",
@@ -52,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69e3cebb9a794789818394b9",
     "publishedAt": "2026-04-19T07:00:43.000Z",
-    "createdAt": "2026-04-19T11:40:01.890Z",
-    "updatedAt": "2026-04-19T11:40:01.890Z"
+    "createdAt": "2026-04-19T13:13:59.531Z",
+    "updatedAt": "2026-04-19T13:13:59.531Z"
   },
   {
     "id": "9ace5358b089e3af",
@@ -66,8 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69e3c7b39a79475ad3b4258d",
     "publishedAt": "2026-04-18T18:26:51.000Z",
-    "createdAt": "2026-04-19T11:40:02.991Z",
-    "updatedAt": "2026-04-19T11:40:02.991Z"
+    "createdAt": "2026-04-19T13:14:00.597Z",
+    "updatedAt": "2026-04-19T13:14:00.597Z"
   },
   {
     "id": "7a398f54e27336f3",
@@ -80,8 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69e3c4c59a7947a157513a5c",
     "publishedAt": "2026-04-18T17:59:47.000Z",
-    "createdAt": "2026-04-19T11:40:04.064Z",
-    "updatedAt": "2026-04-19T11:40:04.064Z"
+    "createdAt": "2026-04-19T13:14:01.683Z",
+    "updatedAt": "2026-04-19T13:14:01.683Z"
   },
   {
     "id": "338724cba645ed10",
@@ -94,49 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69e3babe9a7947dd12610644",
     "publishedAt": "2026-04-18T17:14:37.000Z",
-    "createdAt": "2026-04-19T11:40:05.145Z",
-    "updatedAt": "2026-04-19T11:40:05.145Z"
-  },
-  {
-    "id": "93f890bf631011f9",
-    "title": "Футболист ЦСКА и сборной России получил травму в матче с «Крыльями»",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/6/09/347765296716096.jpeg",
-    "teaser": "Футболист ЦСКА и сборной России получил травму в матче с «Крыльями»",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69e3b0ce9a794721822f20ec",
-    "publishedAt": "2026-04-18T16:32:03.000Z",
-    "createdAt": "2026-04-19T11:40:07.287Z",
-    "updatedAt": "2026-04-19T11:40:07.287Z"
-  },
-  {
-    "id": "f643ca7f9cd793a1",
-    "title": "Мирра Андреева проиграла второй ракетке мира в полуфинале в Штутгарте",
-    "sport": "Теннис",
-    "category": "Теннис",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/4/97/347765281739974.jpeg",
-    "teaser": "Мирра Андреева проиграла второй ракетке мира в полуфинале в Штутгарте",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69e3aaf49a7947509265ea73",
-    "publishedAt": "2026-04-18T16:08:05.000Z",
-    "createdAt": "2026-04-19T11:40:06.160Z",
-    "updatedAt": "2026-04-19T11:40:06.160Z"
-  },
-  {
-    "id": "39081fdd01d6956d",
-    "title": "Рекордный гол Дзюбы принес «Акрону» ничью в матче с «Рубином»",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/2/18/347765268037182.jpeg",
-    "teaser": "Рекордный гол Дзюбы принес «Акрону» ничью в матче с «Рубином»",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69e3a5829a7947c990929f3b",
-    "publishedAt": "2026-04-18T16:00:25.000Z",
-    "createdAt": "2026-04-19T11:40:08.490Z",
-    "updatedAt": "2026-04-19T11:40:08.490Z"
+    "createdAt": "2026-04-19T13:14:02.784Z",
+    "updatedAt": "2026-04-19T13:14:02.784Z"
   }
 ]
