@@ -1,5 +1,61 @@
 [
   {
+    "id": "fe084e45a3ae2e95",
+    "title": "Покинувший поле на носилках вратарь «Ливерпуля» избежал серьезной травмы",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/4/82/347766810129824.jpeg",
+    "teaser": "Покинувший поле на носилках вратарь «Ливерпуля» избежал серьезной травмы",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69e5ff539a79471188beeeac",
+    "publishedAt": "2026-04-20T10:55:44.000Z",
+    "createdAt": "2026-04-20T11:22:21.297Z",
+    "updatedAt": "2026-04-20T11:22:21.297Z"
+  },
+  {
+    "id": "ec2d626eff2b14b9",
+    "title": "У госпитализированного с сотрясением Евгения Кузнецова нашли пневмонию",
+    "sport": "Хоккей",
+    "category": "Хоккей",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/4/99/347766797212994.jpeg",
+    "teaser": "У госпитализированного с сотрясением Евгения Кузнецова нашли пневмонию",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69e5f68b9a79473686e39715",
+    "publishedAt": "2026-04-20T10:38:16.000Z",
+    "createdAt": "2026-04-20T11:22:20.231Z",
+    "updatedAt": "2026-04-20T11:22:20.231Z"
+  },
+  {
+    "id": "a98df9475d58d074",
+    "title": "Вратарь Волк объяснил, как отбил пенальти Соболева",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/7/18/347766777093187.png",
+    "teaser": "Вратарь Волк объяснил, как отбил пенальти Соболева",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69e5f1ed9a79471ad3f29817",
+    "publishedAt": "2026-04-20T10:05:06.000Z",
+    "createdAt": "2026-04-20T11:22:23.389Z",
+    "updatedAt": "2026-04-20T11:22:23.389Z"
+  },
+  {
+    "id": "b4ab70da0ba269c9",
+    "title": "Племянник попавшей в больницу Тарасовой рассказал о ее бодром настроении",
+    "sport": "Другое",
+    "category": "Фигурное катание",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/2/13/347766767042132.png",
+    "teaser": "Племянник попавшей в больницу Тарасовой рассказал о ее бодром настроении",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69e5ef1a9a79471ba46f6504",
+    "publishedAt": "2026-04-20T09:31:38.000Z",
+    "createdAt": "2026-04-20T11:22:22.347Z",
+    "updatedAt": "2026-04-20T11:22:22.347Z"
+  },
+  {
     "id": "0e729193d1e92e96",
     "title": "КХЛ назвала лучших игроков второго раунда Кубка Гагарина",
     "sport": "Хоккей",
@@ -10,8 +66,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69e5deaa9a79472d46f81690",
     "publishedAt": "2026-04-20T08:35:07.000Z",
-    "createdAt": "2026-04-20T09:09:51.932Z",
-    "updatedAt": "2026-04-20T09:09:51.932Z"
+    "createdAt": "2026-04-20T11:22:24.431Z",
+    "updatedAt": "2026-04-20T11:22:24.431Z"
   },
   {
     "id": "d8e99f44ba1b8e8a",
@@ -24,8 +80,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69e5d2269a79473e4738f8da",
     "publishedAt": "2026-04-20T08:32:05.000Z",
-    "createdAt": "2026-04-20T09:09:52.922Z",
-    "updatedAt": "2026-04-20T09:09:52.922Z"
+    "createdAt": "2026-04-20T11:22:25.636Z",
+    "updatedAt": "2026-04-20T11:22:25.636Z"
   },
   {
     "id": "608294cdb9cd73de",
@@ -38,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69e5d9219a7947823490f2ab",
     "publishedAt": "2026-04-20T08:03:57.000Z",
-    "createdAt": "2026-04-20T09:09:53.904Z",
-    "updatedAt": "2026-04-20T09:09:53.904Z"
+    "createdAt": "2026-04-20T11:22:26.672Z",
+    "updatedAt": "2026-04-20T11:22:26.672Z"
   },
   {
     "id": "40b2575ca4b7363a",
@@ -52,8 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69e5ccc09a7947081cb6bf6d",
     "publishedAt": "2026-04-20T07:28:11.000Z",
-    "createdAt": "2026-04-20T09:09:54.788Z",
-    "updatedAt": "2026-04-20T09:09:54.788Z"
+    "createdAt": "2026-04-20T11:22:27.717Z",
+    "updatedAt": "2026-04-20T11:22:27.717Z"
   },
   {
     "id": "16b3b1da8325abe5",
@@ -66,8 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69e5c5799a7947382547c2fa",
     "publishedAt": "2026-04-20T07:04:06.000Z",
-    "createdAt": "2026-04-20T09:09:55.802Z",
-    "updatedAt": "2026-04-20T09:09:55.802Z"
+    "createdAt": "2026-04-20T11:22:29.852Z",
+    "updatedAt": "2026-04-20T11:22:29.852Z"
   },
   {
     "id": "dc8d5fc455c1d84f",
@@ -80,63 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69e5c2059a7947072ae5f726",
     "publishedAt": "2026-04-20T06:20:54.000Z",
-    "createdAt": "2026-04-20T09:09:56.752Z",
-    "updatedAt": "2026-04-20T09:09:56.752Z"
-  },
-  {
-    "id": "8f5016b33b7fa42f",
-    "title": "Суперкомпьютер назвал главного претендента на чемпионство в РПЛ",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/3/31/347766246586313.png",
-    "teaser": "Суперкомпьютер назвал главного претендента на чемпионство в РПЛ",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69e524049a7947a746bf1cef",
-    "publishedAt": "2026-04-19T19:01:49.000Z",
-    "createdAt": "2026-04-20T09:09:58.754Z",
-    "updatedAt": "2026-04-20T09:09:58.754Z"
-  },
-  {
-    "id": "c2ff1e191a571763",
-    "title": "«Краснодар» не смог вернуть лидерство в РПЛ, сыграв вничью с «Балтикой»",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/3/62/347766231239623.jpeg",
-    "teaser": "«Краснодар» не смог вернуть лидерство в РПЛ, сыграв вничью с «Балтикой»",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69e5055b9a79477f047c9886",
-    "publishedAt": "2026-04-19T18:32:07.000Z",
-    "createdAt": "2026-04-20T09:09:57.753Z",
-    "updatedAt": "2026-04-20T09:09:57.753Z"
-  },
-  {
-    "id": "7163ec1aa73d19c7",
-    "title": "«Бавария» в 35-й раз стала чемпионом Германии",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/3/44/347766216857443.jpeg",
-    "teaser": "«Бавария» в 35-й раз стала чемпионом Германии",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69e518669a79471d9e429e9d",
-    "publishedAt": "2026-04-19T18:08:19.000Z",
-    "createdAt": "2026-04-20T09:09:59.760Z",
-    "updatedAt": "2026-04-20T09:09:59.760Z"
-  },
-  {
-    "id": "28099ec3513a6675",
-    "title": "Тренер «Балтики» попросил Радимова «следить за языком» в прямом эфире",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/7/79/347766190882797.png",
-    "teaser": "Тренер «Балтики» попросил Радимова «следить за языком» в прямом эфире",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69e50e0d9a7947695bbac67e",
-    "publishedAt": "2026-04-19T17:51:53.000Z",
-    "createdAt": "2026-04-20T09:10:00.762Z",
-    "updatedAt": "2026-04-20T09:10:00.762Z"
+    "createdAt": "2026-04-20T11:22:28.792Z",
+    "updatedAt": "2026-04-20T11:22:28.792Z"
   }
 ]
