@@ -1,5 +1,61 @@
 [
   {
+    "id": "d0d4cab31805d991",
+    "title": "Алькарас получил спортивный «Оскар» как лучший атлет года",
+    "sport": "Теннис",
+    "category": "Теннис",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/5/29/347767104659295.jpeg",
+    "teaser": "Алькарас получил спортивный «Оскар» как лучший атлет года",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69e6729b9a79471cccbf001e",
+    "publishedAt": "2026-04-20T18:58:22.000Z",
+    "createdAt": "2026-04-20T19:15:02.138Z",
+    "updatedAt": "2026-04-20T19:15:02.138Z"
+  },
+  {
+    "id": "e3c4e3cb124f52df",
+    "title": "11-летний российский шахматиcт выиграл юношеский чемпионат мира по блицу",
+    "sport": "Другое",
+    "category": "Другие",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/3/80/347767069669803.png",
+    "teaser": "11-летний российский шахматиcт выиграл юношеский чемпионат мира по блицу",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69e665849a794734773c443e",
+    "publishedAt": "2026-04-20T18:11:34.000Z",
+    "createdAt": "2026-04-20T19:15:03.137Z",
+    "updatedAt": "2026-04-20T19:15:03.137Z"
+  },
+  {
+    "id": "1f9e4a40649225a5",
+    "title": "Бразильский игрок «Динамо» выбыл до конца сезона из-за травмы",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/3/73/347767054140733.jpeg",
+    "teaser": "Бразильский игрок «Динамо» выбыл до конца сезона из-за травмы",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69e65cf39a79475c19037fab",
+    "publishedAt": "2026-04-20T17:34:22.000Z",
+    "createdAt": "2026-04-20T19:15:04.129Z",
+    "updatedAt": "2026-04-20T19:15:04.129Z"
+  },
+  {
+    "id": "eb8fc48221c3336f",
+    "title": "Выступающий за США сын Юргена Клинсманна получил перелом шеи в Италии",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/6/88/347767029773886.jpeg",
+    "teaser": "Выступающий за США сын Юргена Клинсманна получил перелом шеи в Италии",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69e655e89a7947470c52ed0c",
+    "publishedAt": "2026-04-20T17:08:04.000Z",
+    "createdAt": "2026-04-20T19:15:05.104Z",
+    "updatedAt": "2026-04-20T19:15:05.104Z"
+  },
+  {
     "id": "7d5a961799b9bc00",
     "title": "Футболист итальянского клуба подрался с болельщиком из-за фотографии",
     "sport": "Футбол",
@@ -10,8 +66,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69e64fcf9a7947b5e569306d",
     "publishedAt": "2026-04-20T16:46:53.000Z",
-    "createdAt": "2026-04-20T17:11:37.435Z",
-    "updatedAt": "2026-04-20T17:11:37.435Z"
+    "createdAt": "2026-04-20T19:15:06.108Z",
+    "updatedAt": "2026-04-20T19:15:06.108Z"
   },
   {
     "id": "b51d67ed63a10de1",
@@ -24,8 +80,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69e646229a79477959a28d7a",
     "publishedAt": "2026-04-20T15:57:34.000Z",
-    "createdAt": "2026-04-20T17:11:39.695Z",
-    "updatedAt": "2026-04-20T17:11:39.695Z"
+    "createdAt": "2026-04-20T19:15:08.123Z",
+    "updatedAt": "2026-04-20T19:15:08.123Z"
   },
   {
     "id": "346e860194ed55d7",
@@ -38,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69e63f8b9a79478c0a45e591",
     "publishedAt": "2026-04-20T15:40:41.000Z",
-    "createdAt": "2026-04-20T17:11:38.517Z",
-    "updatedAt": "2026-04-20T17:11:38.517Z"
+    "createdAt": "2026-04-20T19:15:07.127Z",
+    "updatedAt": "2026-04-20T19:15:07.127Z"
   },
   {
     "id": "e6dcf075599e7881",
@@ -52,8 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69e61ed99a7947daeed2d1b2",
     "publishedAt": "2026-04-20T15:09:43.000Z",
-    "createdAt": "2026-04-20T17:11:40.788Z",
-    "updatedAt": "2026-04-20T17:11:40.788Z"
+    "createdAt": "2026-04-20T19:15:09.117Z",
+    "updatedAt": "2026-04-20T19:15:09.117Z"
   },
   {
     "id": "bf59f2df0d6a7646",
@@ -66,22 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69e633cb9a794784256535c3",
     "publishedAt": "2026-04-20T14:39:01.000Z",
-    "createdAt": "2026-04-20T17:11:41.904Z",
-    "updatedAt": "2026-04-20T17:11:41.904Z"
-  },
-  {
-    "id": "8811cdcfc25381f7",
-    "title": "В Норвегии заявили об отсутствии согласия ФИФА на вызов Хайкина в сборную",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/4/96/347766922627964.jpeg",
-    "teaser": "В Норвегии заявили об отсутствии согласия ФИФА на вызов Хайкина в сборную",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69e6284b9a794763a66f1d46",
-    "publishedAt": "2026-04-20T14:33:36.000Z",
-    "createdAt": "2026-04-20T17:11:44.196Z",
-    "updatedAt": "2026-04-20T17:11:44.196Z"
+    "createdAt": "2026-04-20T19:15:10.119Z",
+    "updatedAt": "2026-04-20T19:15:10.119Z"
   },
   {
     "id": "ea3b454e61572e04",
@@ -94,49 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69e62c289a7947269deab0af",
     "publishedAt": "2026-04-20T13:51:18.000Z",
-    "createdAt": "2026-04-20T17:11:43.029Z",
-    "updatedAt": "2026-04-20T17:11:43.029Z"
-  },
-  {
-    "id": "84337829209033f5",
-    "title": "Не игравший с января Ник Кирьос вернется на корт перед Уимблдоном",
-    "sport": "Теннис",
-    "category": "Теннис",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/2/89/347766910298892.jpeg",
-    "teaser": "Не игравший с января Ник Кирьос вернется на корт перед Уимблдоном",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69e624539a7947640ed6a9a9",
-    "publishedAt": "2026-04-20T13:23:36.000Z",
-    "createdAt": "2026-04-20T17:11:46.609Z",
-    "updatedAt": "2026-04-20T17:11:46.609Z"
-  },
-  {
-    "id": "058b63b8b02d52d0",
-    "title": "Сборная Румынии по футболу назначила тренера вместо умершего Луческу",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/9/88/347766909416889.jpeg",
-    "teaser": "Сборная Румынии по футболу назначила тренера вместо умершего Луческу",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69e621629a7947b587b69c48",
-    "publishedAt": "2026-04-20T13:19:59.000Z",
-    "createdAt": "2026-04-20T17:11:47.744Z",
-    "updatedAt": "2026-04-20T17:11:47.744Z"
-  },
-  {
-    "id": "5f71d731078a5e1b",
-    "title": "В «Динамо» рассказали, когда примут решение по главному тренеру Гусеву",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/2/14/347766899894142.jpeg",
-    "teaser": "В «Динамо» рассказали, когда примут решение по главному тренеру Гусеву",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69e620129a7947a4488f89f6",
-    "publishedAt": "2026-04-20T13:12:44.000Z",
-    "createdAt": "2026-04-20T17:11:45.466Z",
-    "updatedAt": "2026-04-20T17:11:45.466Z"
+    "createdAt": "2026-04-20T19:15:11.168Z",
+    "updatedAt": "2026-04-20T19:15:11.168Z"
   }
 ]
