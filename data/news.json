@@ -1,5 +1,89 @@
 [
   {
+    "id": "0e729193d1e92e96",
+    "title": "КХЛ назвала лучших игроков второго раунда Кубка Гагарина",
+    "sport": "Хоккей",
+    "category": "Хоккей",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/6/02/347766731863026.jpeg",
+    "teaser": "КХЛ назвала лучших игроков второго раунда Кубка Гагарина",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69e5deaa9a79472d46f81690",
+    "publishedAt": "2026-04-20T08:35:07.000Z",
+    "createdAt": "2026-04-20T09:09:51.932Z",
+    "updatedAt": "2026-04-20T09:09:51.932Z"
+  },
+  {
+    "id": "d8e99f44ba1b8e8a",
+    "title": "Игрок самого титулованного клуба НХЛ повторил рекорд 92-летней давности",
+    "sport": "Хоккей",
+    "category": "Хоккей",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/2/66/347766700691662.jpeg",
+    "teaser": "Игрок самого титулованного клуба НХЛ повторил рекорд 92-летней давности",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69e5d2269a79473e4738f8da",
+    "publishedAt": "2026-04-20T08:32:05.000Z",
+    "createdAt": "2026-04-20T09:09:52.922Z",
+    "updatedAt": "2026-04-20T09:09:52.922Z"
+  },
+  {
+    "id": "608294cdb9cd73de",
+    "title": "Мирра Андреева и Андрей Рублев поднялись в рейтингах WTA и ATP",
+    "sport": "Теннис",
+    "category": "Теннис",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/9/80/347766717157809.jpeg",
+    "teaser": "Мирра Андреева и Андрей Рублев поднялись в рейтингах WTA и ATP",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69e5d9219a7947823490f2ab",
+    "publishedAt": "2026-04-20T08:03:57.000Z",
+    "createdAt": "2026-04-20T09:09:53.904Z",
+    "updatedAt": "2026-04-20T09:09:53.904Z"
+  },
+  {
+    "id": "40b2575ca4b7363a",
+    "title": "Дзюба вместе с Месси и Роналду вошел в топ-3 рейтинга CIES",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/4/86/347766685455864.jpeg",
+    "teaser": "Дзюба вместе с Месси и Роналду вошел в топ-3 рейтинга CIES",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69e5ccc09a7947081cb6bf6d",
+    "publishedAt": "2026-04-20T07:28:11.000Z",
+    "createdAt": "2026-04-20T09:09:54.788Z",
+    "updatedAt": "2026-04-20T09:09:54.788Z"
+  },
+  {
+    "id": "16b3b1da8325abe5",
+    "title": "Клуб НХЛ без россиян выиграл первый матч в Кубке Стэнли за 15 лет",
+    "sport": "Хоккей",
+    "category": "Хоккей",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/5/05/347766671644055.jpeg",
+    "teaser": "Клуб НХЛ без россиян выиграл первый матч в Кубке Стэнли за 15 лет",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69e5c5799a7947382547c2fa",
+    "publishedAt": "2026-04-20T07:04:06.000Z",
+    "createdAt": "2026-04-20T09:09:55.802Z",
+    "updatedAt": "2026-04-20T09:09:55.802Z"
+  },
+  {
+    "id": "dc8d5fc455c1d84f",
+    "title": "Кучеров вторым из россиян набрал 120 передач в плей‑офф НХЛ",
+    "sport": "Хоккей",
+    "category": "Хоккей",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/8/47/347766655488478.jpeg",
+    "teaser": "Кучеров вторым из россиян набрал 120 передач в плей‑офф НХЛ",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69e5c2059a7947072ae5f726",
+    "publishedAt": "2026-04-20T06:20:54.000Z",
+    "createdAt": "2026-04-20T09:09:56.752Z",
+    "updatedAt": "2026-04-20T09:09:56.752Z"
+  },
+  {
     "id": "8f5016b33b7fa42f",
     "title": "Суперкомпьютер назвал главного претендента на чемпионство в РПЛ",
     "sport": "Футбол",
@@ -10,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69e524049a7947a746bf1cef",
     "publishedAt": "2026-04-19T19:01:49.000Z",
-    "createdAt": "2026-04-20T06:20:46.082Z",
-    "updatedAt": "2026-04-20T06:20:46.082Z"
+    "createdAt": "2026-04-20T09:09:58.754Z",
+    "updatedAt": "2026-04-20T09:09:58.754Z"
   },
   {
     "id": "c2ff1e191a571763",
@@ -24,8 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69e5055b9a79477f047c9886",
     "publishedAt": "2026-04-19T18:32:07.000Z",
-    "createdAt": "2026-04-20T06:20:45.216Z",
-    "updatedAt": "2026-04-20T06:20:45.216Z"
+    "createdAt": "2026-04-20T09:09:57.753Z",
+    "updatedAt": "2026-04-20T09:09:57.753Z"
   },
   {
     "id": "7163ec1aa73d19c7",
@@ -38,8 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69e518669a79471d9e429e9d",
     "publishedAt": "2026-04-19T18:08:19.000Z",
-    "createdAt": "2026-04-20T06:20:47.339Z",
-    "updatedAt": "2026-04-20T06:20:47.339Z"
+    "createdAt": "2026-04-20T09:09:59.760Z",
+    "updatedAt": "2026-04-20T09:09:59.760Z"
   },
   {
     "id": "28099ec3513a6675",
@@ -52,91 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69e50e0d9a7947695bbac67e",
     "publishedAt": "2026-04-19T17:51:53.000Z",
-    "createdAt": "2026-04-20T06:20:48.400Z",
-    "updatedAt": "2026-04-20T06:20:48.400Z"
-  },
-  {
-    "id": "f52129457d7025d4",
-    "title": "«Манчестер Сити» обыграл лидера АПЛ, несмотря на грубую ошибку Доннаруммы",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/4/24/347766183978244.jpeg",
-    "teaser": "«Манчестер Сити» обыграл лидера АПЛ, несмотря на грубую ошибку Доннаруммы",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69e5052e9a79477f047c9883",
-    "publishedAt": "2026-04-19T17:28:57.000Z",
-    "createdAt": "2026-04-20T06:20:49.422Z",
-    "updatedAt": "2026-04-20T06:20:49.422Z"
-  },
-  {
-    "id": "8a32083f6112c87a",
-    "title": "Рублев проиграл в финале крупного турнира в Барселоне",
-    "sport": "Теннис",
-    "category": "Теннис",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/9/83/347766134999839.jpeg",
-    "teaser": "Рублев проиграл в финале крупного турнира в Барселоне",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69e4f85c9a7947137962d1d3",
-    "publishedAt": "2026-04-19T16:17:02.000Z",
-    "createdAt": "2026-04-20T06:20:51.517Z",
-    "updatedAt": "2026-04-20T06:20:51.517Z"
-  },
-  {
-    "id": "9bff124a405eacde",
-    "title": "«Спартак» уверенно обыграл клуб Черчесова",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/8/94/347766143540948.png",
-    "teaser": "«Спартак» уверенно обыграл клуб Черчесова",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69e4f8279a794761fd9733de",
-    "publishedAt": "2026-04-19T16:02:04.000Z",
-    "createdAt": "2026-04-20T06:20:50.426Z",
-    "updatedAt": "2026-04-20T06:20:50.426Z"
-  },
-  {
-    "id": "ee98682f15fe88a9",
-    "title": "Российская теннисистка выиграла крупный турнир в Штутгарте в парах",
-    "sport": "Теннис",
-    "category": "Теннис",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/4/92/347766090829924.png",
-    "teaser": "Российская теннисистка выиграла крупный турнир в Штутгарте в парах",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69e4e6e49a794733806ed4c9",
-    "publishedAt": "2026-04-19T14:49:12.000Z",
-    "createdAt": "2026-04-20T06:20:52.570Z",
-    "updatedAt": "2026-04-20T06:20:52.570Z"
-  },
-  {
-    "id": "373267bfd6083664",
-    "title": "Российский теннисист впервые за полтора года взял трофей под эгидой ATP",
-    "sport": "Теннис",
-    "category": "Теннис",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/5/18/347766075204185.png",
-    "teaser": "Российский теннисист впервые за полтора года взял трофей под эгидой ATP",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69e4e0f09a79472335ffe30e",
-    "publishedAt": "2026-04-19T14:23:55.000Z",
-    "createdAt": "2026-04-20T06:20:54.810Z",
-    "updatedAt": "2026-04-20T06:20:54.810Z"
-  },
-  {
-    "id": "24371bd584b96fe6",
-    "title": "«Зенит» возглавил РПЛ после трудной победы над махачкалинским «Динамо»",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/0/50/347766042188500.png",
-    "teaser": "«Зенит» возглавил РПЛ после трудной победы над махачкалинским «Динамо»",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69e4d3519a79472810782abb",
-    "publishedAt": "2026-04-19T13:29:43.000Z",
-    "createdAt": "2026-04-20T06:20:53.650Z",
-    "updatedAt": "2026-04-20T06:20:53.650Z"
+    "createdAt": "2026-04-20T09:10:00.762Z",
+    "updatedAt": "2026-04-20T09:10:00.762Z"
   }
 ]
