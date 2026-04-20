@@ -1,5 +1,61 @@
 [
   {
+    "id": "7d5a961799b9bc00",
+    "title": "Футболист итальянского клуба подрался с болельщиком из-за фотографии",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/9/33/347767026512339.jpeg",
+    "teaser": "Футболист итальянского клуба подрался с болельщиком из-за фотографии",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69e64fcf9a7947b5e569306d",
+    "publishedAt": "2026-04-20T16:46:53.000Z",
+    "createdAt": "2026-04-20T17:11:37.435Z",
+    "updatedAt": "2026-04-20T17:11:37.435Z"
+  },
+  {
+    "id": "b51d67ed63a10de1",
+    "title": "«Балтика» не жаловалась на жесты лучшего бомбардира РПЛ во время матча",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/0/29/347766989728290.png",
+    "teaser": "«Балтика» не жаловалась на жесты лучшего бомбардира РПЛ во время матча",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69e646229a79477959a28d7a",
+    "publishedAt": "2026-04-20T15:57:34.000Z",
+    "createdAt": "2026-04-20T17:11:39.695Z",
+    "updatedAt": "2026-04-20T17:11:39.695Z"
+  },
+  {
+    "id": "346e860194ed55d7",
+    "title": "Шнайдер рассказала об отказе Мирры Андреевой играть в паре",
+    "sport": "Теннис",
+    "category": "Теннис",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/6/96/347766994409966.jpeg",
+    "teaser": "Шнайдер рассказала об отказе Мирры Андреевой играть в паре",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69e63f8b9a79478c0a45e591",
+    "publishedAt": "2026-04-20T15:40:41.000Z",
+    "createdAt": "2026-04-20T17:11:38.517Z",
+    "updatedAt": "2026-04-20T17:11:38.517Z"
+  },
+  {
+    "id": "e6dcf075599e7881",
+    "title": "Бразильская триатлонистка утонула во время турнира Ironman в США",
+    "sport": "Другое",
+    "category": "Другие",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/5/02/347766969093025.jpeg",
+    "teaser": "Бразильская триатлонистка утонула во время турнира Ironman в США",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69e61ed99a7947daeed2d1b2",
+    "publishedAt": "2026-04-20T15:09:43.000Z",
+    "createdAt": "2026-04-20T17:11:40.788Z",
+    "updatedAt": "2026-04-20T17:11:40.788Z"
+  },
+  {
     "id": "bf59f2df0d6a7646",
     "title": "RMC Sport узнал о победе Сафонова в борьбе за место в основе ПСЖ",
     "sport": "Футбол",
@@ -10,8 +66,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69e633cb9a794784256535c3",
     "publishedAt": "2026-04-20T14:39:01.000Z",
-    "createdAt": "2026-04-20T15:21:12.713Z",
-    "updatedAt": "2026-04-20T15:21:12.713Z"
+    "createdAt": "2026-04-20T17:11:41.904Z",
+    "updatedAt": "2026-04-20T17:11:41.904Z"
   },
   {
     "id": "8811cdcfc25381f7",
@@ -24,8 +80,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69e6284b9a794763a66f1d46",
     "publishedAt": "2026-04-20T14:33:36.000Z",
-    "createdAt": "2026-04-20T15:21:15.019Z",
-    "updatedAt": "2026-04-20T15:21:15.019Z"
+    "createdAt": "2026-04-20T17:11:44.196Z",
+    "updatedAt": "2026-04-20T17:11:44.196Z"
   },
   {
     "id": "ea3b454e61572e04",
@@ -38,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69e62c289a7947269deab0af",
     "publishedAt": "2026-04-20T13:51:18.000Z",
-    "createdAt": "2026-04-20T15:21:13.851Z",
-    "updatedAt": "2026-04-20T15:21:13.851Z"
+    "createdAt": "2026-04-20T17:11:43.029Z",
+    "updatedAt": "2026-04-20T17:11:43.029Z"
   },
   {
     "id": "84337829209033f5",
@@ -52,22 +108,22 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69e624539a7947640ed6a9a9",
     "publishedAt": "2026-04-20T13:23:36.000Z",
-    "createdAt": "2026-04-20T15:21:17.243Z",
-    "updatedAt": "2026-04-20T15:21:17.243Z"
+    "createdAt": "2026-04-20T17:11:46.609Z",
+    "updatedAt": "2026-04-20T17:11:46.609Z"
   },
   {
-    "id": "5dd65b2459b6df83",
-    "title": "Сборная Румынии по футболу назначила нового тренера вместо Луческу",
+    "id": "058b63b8b02d52d0",
+    "title": "Сборная Румынии по футболу назначила тренера вместо умершего Луческу",
     "sport": "Футбол",
     "category": "Футбол",
     "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/9/88/347766909416889.jpeg",
-    "teaser": "Сборная Румынии по футболу назначила нового тренера вместо Луческу",
+    "teaser": "Сборная Румынии по футболу назначила тренера вместо умершего Луческу",
     "fullContent": "",
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69e621629a7947b587b69c48",
     "publishedAt": "2026-04-20T13:19:59.000Z",
-    "createdAt": "2026-04-20T15:21:18.258Z",
-    "updatedAt": "2026-04-20T15:21:18.258Z"
+    "createdAt": "2026-04-20T17:11:47.744Z",
+    "updatedAt": "2026-04-20T17:11:47.744Z"
   },
   {
     "id": "5f71d731078a5e1b",
@@ -80,63 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69e620129a7947a4488f89f6",
     "publishedAt": "2026-04-20T13:12:44.000Z",
-    "createdAt": "2026-04-20T15:21:16.091Z",
-    "updatedAt": "2026-04-20T15:21:16.091Z"
-  },
-  {
-    "id": "9975811d2d2c8ef8",
-    "title": "Автор победной шайбы «Динамо» в Кубке Гагарина завершил карьеру",
-    "sport": "Хоккей",
-    "category": "Хоккей",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/9/91/347766879817919.png",
-    "teaser": "Автор победной шайбы «Динамо» в Кубке Гагарина завершил карьеру",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69e618429a794745f2dc7b95",
-    "publishedAt": "2026-04-20T12:42:08.000Z",
-    "createdAt": "2026-04-20T15:21:19.321Z",
-    "updatedAt": "2026-04-20T15:21:19.321Z"
-  },
-  {
-    "id": "1c6c00997464012c",
-    "title": "World Athletics усилила контроль за лидирующей по допинг-случаям Индией",
-    "sport": "Другое",
-    "category": "Другие",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/1/15/347766863750151.jpeg",
-    "teaser": "World Athletics усилила контроль за лидирующей по допинг-случаям Индией",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69e60e709a7947bce20d8f8e",
-    "publishedAt": "2026-04-20T12:05:30.000Z",
-    "createdAt": "2026-04-20T15:21:21.511Z",
-    "updatedAt": "2026-04-20T15:21:21.511Z"
-  },
-  {
-    "id": "4fff012f55156983",
-    "title": "Джокович стал рекордсменом по пребыванию в топ-5 рейтинга ATP",
-    "sport": "Теннис",
-    "category": "Теннис",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/1/95/347766839601951.jpeg",
-    "teaser": "Джокович стал рекордсменом по пребыванию в топ-5 рейтинга ATP",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69e609039a7947d3c72e7111",
-    "publishedAt": "2026-04-20T11:39:45.000Z",
-    "createdAt": "2026-04-20T15:21:20.427Z",
-    "updatedAt": "2026-04-20T15:21:20.427Z"
-  },
-  {
-    "id": "6324abc801dfdf4d",
-    "title": "Василевский установил антирекорд НХЛ среди российских вратарей",
-    "sport": "Хоккей",
-    "category": "Хоккей",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/2/37/347766823515372.jpeg",
-    "teaser": "Василевский установил антирекорд НХЛ среди российских вратарей",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69e5fee59a7947d8e59768c1",
-    "publishedAt": "2026-04-20T11:22:07.000Z",
-    "createdAt": "2026-04-20T15:21:22.675Z",
-    "updatedAt": "2026-04-20T15:21:22.675Z"
+    "createdAt": "2026-04-20T17:11:45.466Z",
+    "updatedAt": "2026-04-20T17:11:45.466Z"
   }
 ]
