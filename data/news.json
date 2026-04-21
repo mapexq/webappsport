@@ -1,5 +1,33 @@
 [
   {
+    "id": "0d5687efea5dd55c",
+    "title": "ЦСКА потерял очки в третьем матче РПЛ подряд",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/7/62/347767962153627.jpeg",
+    "teaser": "ЦСКА потерял очки в третьем матче РПЛ подряд",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69e7bc6e9a7947f91902733d",
+    "publishedAt": "2026-04-21T18:51:11.000Z",
+    "createdAt": "2026-04-21T20:07:08.142Z",
+    "updatedAt": "2026-04-21T20:07:08.142Z"
+  },
+  {
+    "id": "4567b5e3c0eea81d",
+    "title": "Россиянка с «баранкой» проиграла на старте «тысячника» WTA в Мадриде",
+    "sport": "Теннис",
+    "category": "Теннис",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/9/26/347767944730269.jpeg",
+    "teaser": "Россиянка с «баранкой» проиграла на старте «тысячника» WTA в Мадриде",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69e7b8629a79471248272b80",
+    "publishedAt": "2026-04-21T18:06:34.000Z",
+    "createdAt": "2026-04-21T20:07:09.123Z",
+    "updatedAt": "2026-04-21T20:07:09.123Z"
+  },
+  {
     "id": "ca84608d2456471b",
     "title": "Российские борцы Сефершаев и Емелин стали трехкратными чемпионами Европы",
     "sport": "Футбол",
@@ -10,8 +38,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69e7b0c59a7947d76f9860d8",
     "publishedAt": "2026-04-21T17:26:35.000Z",
-    "createdAt": "2026-04-21T18:02:23.436Z",
-    "updatedAt": "2026-04-21T18:02:23.436Z"
+    "createdAt": "2026-04-21T20:07:10.129Z",
+    "updatedAt": "2026-04-21T20:07:10.129Z"
   },
   {
     "id": "dac953fa5ffd81b7",
@@ -24,8 +52,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69e7a5449a7947968145b11c",
     "publishedAt": "2026-04-21T17:09:47.000Z",
-    "createdAt": "2026-04-21T18:02:26.511Z",
-    "updatedAt": "2026-04-21T18:02:26.511Z"
+    "createdAt": "2026-04-21T20:07:12.938Z",
+    "updatedAt": "2026-04-21T20:07:12.938Z"
   },
   {
     "id": "96998c259333453a",
@@ -38,8 +66,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69e79d809a79476ee0646515",
     "publishedAt": "2026-04-21T16:49:51.000Z",
-    "createdAt": "2026-04-21T18:02:24.547Z",
-    "updatedAt": "2026-04-21T18:02:24.547Z"
+    "createdAt": "2026-04-21T20:07:11.157Z",
+    "updatedAt": "2026-04-21T20:07:11.157Z"
   },
   {
     "id": "2531cd74a3c75fab",
@@ -52,8 +80,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69e7954d9a79476fc24ffe57",
     "publishedAt": "2026-04-21T15:55:47.000Z",
-    "createdAt": "2026-04-21T18:02:27.650Z",
-    "updatedAt": "2026-04-21T18:02:27.650Z"
+    "createdAt": "2026-04-21T20:07:13.951Z",
+    "updatedAt": "2026-04-21T20:07:13.951Z"
   },
   {
     "id": "88e2e77fb98e258b",
@@ -66,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69e78c239a7947565e0b73c1",
     "publishedAt": "2026-04-21T15:31:02.000Z",
-    "createdAt": "2026-04-21T18:02:28.774Z",
-    "updatedAt": "2026-04-21T18:02:28.774Z"
+    "createdAt": "2026-04-21T20:07:14.891Z",
+    "updatedAt": "2026-04-21T20:07:14.891Z"
   },
   {
     "id": "3b537fd37d346fc7",
@@ -80,8 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69e78e109a7947b30ea67b37",
     "publishedAt": "2026-04-21T15:17:38.000Z",
-    "createdAt": "2026-04-21T18:02:29.858Z",
-    "updatedAt": "2026-04-21T18:02:29.858Z"
+    "createdAt": "2026-04-21T20:07:15.925Z",
+    "updatedAt": "2026-04-21T20:07:15.925Z"
   },
   {
     "id": "5dbe7630a600358f",
@@ -94,22 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69e78bcd9a79473e7bf9b522",
     "publishedAt": "2026-04-21T15:12:36.000Z",
-    "createdAt": "2026-04-21T18:02:30.984Z",
-    "updatedAt": "2026-04-21T18:02:30.984Z"
-  },
-  {
-    "id": "bafea03db31fe6ee",
-    "title": "Коростелев вспомнил, как Большунов побеждал на КМ в отсутствие норвежцев",
-    "sport": "Другое",
-    "category": "Другие",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/3/14/347767822347143.jpeg",
-    "teaser": "Коростелев вспомнил, как Большунов побеждал на КМ в отсутствие норвежцев",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69e786f39a794784343f38c1",
-    "publishedAt": "2026-04-21T14:45:37.000Z",
-    "createdAt": "2026-04-21T18:02:33.034Z",
-    "updatedAt": "2026-04-21T18:02:33.034Z"
+    "createdAt": "2026-04-21T20:07:16.933Z",
+    "updatedAt": "2026-04-21T20:07:16.933Z"
   },
   {
     "id": "ed9ec8cc309ff45c",
@@ -122,21 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69e782f99a794778a6c1514d",
     "publishedAt": "2026-04-21T14:23:04.000Z",
-    "createdAt": "2026-04-21T18:02:31.918Z",
-    "updatedAt": "2026-04-21T18:02:31.918Z"
-  },
-  {
-    "id": "eac1a7ccabc3a776",
-    "title": "Гимн России впервые с 2022 года прозвучал на турнире в игровых видах",
-    "sport": "Другое",
-    "category": "Другие",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/9/08/347767792742089.jpeg",
-    "teaser": "Гимн России впервые с 2022 года прозвучал на турнире в игровых видах",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69e77b579a7947d5dc28045b",
-    "publishedAt": "2026-04-21T13:54:48.000Z",
-    "createdAt": "2026-04-21T18:02:33.927Z",
-    "updatedAt": "2026-04-21T18:02:33.927Z"
+    "createdAt": "2026-04-21T20:07:17.929Z",
+    "updatedAt": "2026-04-21T20:07:17.929Z"
   }
 ]
