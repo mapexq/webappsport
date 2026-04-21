@@ -1,5 +1,75 @@
 [
   {
+    "id": "2531cd74a3c75fab",
+    "title": "Акинфеев рассказал о воспалении после полученной травмы",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/5/05/347767860060055.jpeg",
+    "teaser": "Акинфеев рассказал о воспалении после полученной травмы",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69e7954d9a79476fc24ffe57",
+    "publishedAt": "2026-04-21T15:55:47.000Z",
+    "createdAt": "2026-04-21T16:13:48.427Z",
+    "updatedAt": "2026-04-21T16:13:48.427Z"
+  },
+  {
+    "id": "88e2e77fb98e258b",
+    "title": "Павлюченкова победила украинку на «тысячнике» в Мадриде, проиграв сет 0:6",
+    "sport": "Теннис",
+    "category": "Теннис",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/9/23/347767824537239.jpeg",
+    "teaser": "Павлюченкова победила украинку на «тысячнике» в Мадриде, проиграв сет 0:6",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69e78c239a7947565e0b73c1",
+    "publishedAt": "2026-04-21T15:31:02.000Z",
+    "createdAt": "2026-04-21T16:13:49.440Z",
+    "updatedAt": "2026-04-21T16:13:49.440Z"
+  },
+  {
+    "id": "3b537fd37d346fc7",
+    "title": "Российские ватерполистки выиграли первый матч с флагом и гимном на КМ",
+    "sport": "Другое",
+    "category": "Другие",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/1/97/347767837542971.jpeg",
+    "teaser": "Российские ватерполистки выиграли первый матч с флагом и гимном на КМ",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69e78e109a7947b30ea67b37",
+    "publishedAt": "2026-04-21T15:17:38.000Z",
+    "createdAt": "2026-04-21T16:13:50.389Z",
+    "updatedAt": "2026-04-21T16:13:50.389Z"
+  },
+  {
+    "id": "5dbe7630a600358f",
+    "title": "В Буркина-Фасо подтвердили товарищеский матч со сборной России",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/8/89/347767827372898.png",
+    "teaser": "В Буркина-Фасо подтвердили товарищеский матч со сборной России",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69e78bcd9a79473e7bf9b522",
+    "publishedAt": "2026-04-21T15:12:36.000Z",
+    "createdAt": "2026-04-21T16:13:51.454Z",
+    "updatedAt": "2026-04-21T16:13:51.454Z"
+  },
+  {
+    "id": "bafea03db31fe6ee",
+    "title": "Коростелев вспомнил, как Большунов побеждал на КМ в отсутствие норвежцев",
+    "sport": "Другое",
+    "category": "Другие",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/3/14/347767822347143.jpeg",
+    "teaser": "Коростелев вспомнил, как Большунов побеждал на КМ в отсутствие норвежцев",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69e786f39a794784343f38c1",
+    "publishedAt": "2026-04-21T14:45:37.000Z",
+    "createdAt": "2026-04-21T16:13:53.509Z",
+    "updatedAt": "2026-04-21T16:13:53.509Z"
+  },
+  {
     "id": "ed9ec8cc309ff45c",
     "title": "«Динамо» назвало нового главного тренера после провального сезона в КХЛ",
     "sport": "Хоккей",
@@ -10,22 +80,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69e782f99a794778a6c1514d",
     "publishedAt": "2026-04-21T14:23:04.000Z",
-    "createdAt": "2026-04-21T14:49:22.466Z",
-    "updatedAt": "2026-04-21T14:49:22.466Z"
-  },
-  {
-    "id": "3621757d78ef0787",
-    "title": "Гендиректор «Салавата Юлаева» обвинил клубы КХЛ в потере приличия",
-    "sport": "Хоккей",
-    "category": "Хоккей",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/4/77/347767768419774.jpeg",
-    "teaser": "Гендиректор «Салавата Юлаева» обвинил клубы КХЛ в потере приличия",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69e771869a79476e0119fa57",
-    "publishedAt": "2026-04-21T13:55:06.000Z",
-    "createdAt": "2026-04-21T14:49:24.571Z",
-    "updatedAt": "2026-04-21T14:49:24.571Z"
+    "createdAt": "2026-04-21T16:13:52.408Z",
+    "updatedAt": "2026-04-21T16:13:52.408Z"
   },
   {
     "id": "eac1a7ccabc3a776",
@@ -38,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69e77b579a7947d5dc28045b",
     "publishedAt": "2026-04-21T13:54:48.000Z",
-    "createdAt": "2026-04-21T14:49:23.413Z",
-    "updatedAt": "2026-04-21T14:49:23.413Z"
+    "createdAt": "2026-04-21T16:13:54.537Z",
+    "updatedAt": "2026-04-21T16:13:54.537Z"
   },
   {
     "id": "dcb5cb8bec5d8cbe",
@@ -52,8 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69e7708b9a79478879fd8e75",
     "publishedAt": "2026-04-21T13:07:41.000Z",
-    "createdAt": "2026-04-21T14:49:25.652Z",
-    "updatedAt": "2026-04-21T14:49:25.652Z"
+    "createdAt": "2026-04-21T16:13:55.580Z",
+    "updatedAt": "2026-04-21T16:13:55.580Z"
   },
   {
     "id": "bf534e982350dc46",
@@ -66,8 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69e772519a7947034fdcdcd2",
     "publishedAt": "2026-04-21T13:03:48.000Z",
-    "createdAt": "2026-04-21T14:49:27.691Z",
-    "updatedAt": "2026-04-21T14:49:27.691Z"
+    "createdAt": "2026-04-21T16:13:57.664Z",
+    "updatedAt": "2026-04-21T16:13:57.664Z"
   },
   {
     "id": "04829a8e741231f6",
@@ -80,63 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69e76da59a7947862baad4fe",
     "publishedAt": "2026-04-21T12:52:42.000Z",
-    "createdAt": "2026-04-21T14:49:26.745Z",
-    "updatedAt": "2026-04-21T14:49:26.745Z"
-  },
-  {
-    "id": "a62e42332181fe36",
-    "title": "РФС начал переговоры о проведении трех матчей сборной в июне",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/5/75/347767744877755.jpeg",
-    "teaser": "РФС начал переговоры о проведении трех матчей сборной в июне",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69e768e29a7947b575487a8e",
-    "publishedAt": "2026-04-21T12:41:43.000Z",
-    "createdAt": "2026-04-21T14:49:28.853Z",
-    "updatedAt": "2026-04-21T14:49:28.853Z"
-  },
-  {
-    "id": "8a93859df37ecd66",
-    "title": "Футболист датского клуба перенес две операции после ножевого ранения",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/9/25/347767709556259.jpeg",
-    "teaser": "Футболист датского клуба перенес две операции после ножевого ранения",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69e75b549a794732918d20c1",
-    "publishedAt": "2026-04-21T11:44:23.000Z",
-    "createdAt": "2026-04-21T14:49:32.198Z",
-    "updatedAt": "2026-04-21T14:49:32.198Z"
-  },
-  {
-    "id": "8465e5f51217a1ae",
-    "title": "В Милане раскрыли сеть эскорт-услуг для футболистов и пилота «Формулы-1»",
-    "sport": "Другое",
-    "category": "Другие",
-    "imageUrl": "/images/news-placeholder.jpg",
-    "teaser": "В Милане раскрыли сеть эскорт-услуг для футболистов и пилота «Формулы-1»",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69e755e89a79478827ae3a44",
-    "publishedAt": "2026-04-21T11:42:25.000Z",
-    "createdAt": "2026-04-21T14:49:30.994Z",
-    "updatedAt": "2026-04-21T14:49:30.994Z"
-  },
-  {
-    "id": "e6036a52a90f74e3",
-    "title": "Самый возрастной игрок нынешнего сезона КХЛ продолжит карьеру",
-    "sport": "Хоккей",
-    "category": "Хоккей",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/6/41/347767685306416.jpeg",
-    "teaser": "Самый возрастной игрок нынешнего сезона КХЛ продолжит карьеру",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69e755df9a7947417fcb84e4",
-    "publishedAt": "2026-04-21T11:17:56.000Z",
-    "createdAt": "2026-04-21T14:49:33.316Z",
-    "updatedAt": "2026-04-21T14:49:33.316Z"
+    "createdAt": "2026-04-21T16:13:56.622Z",
+    "updatedAt": "2026-04-21T16:13:56.622Z"
   }
 ]
