@@ -1,5 +1,19 @@
 [
   {
+    "id": "40e688ed498360ab",
+    "title": "В Берлине минутой молчания почтили память советской баскетболистки",
+    "sport": "Баскетбол",
+    "category": "Баскетбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/4/54/347768008763544.jpeg",
+    "teaser": "В Берлине минутой молчания почтили память советской баскетболистки",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69e7d12c9a7947257c5ce9bc",
+    "publishedAt": "2026-04-21T20:36:42.000Z",
+    "createdAt": "2026-04-21T21:51:24.814Z",
+    "updatedAt": "2026-04-21T21:51:24.814Z"
+  },
+  {
     "id": "0d5687efea5dd55c",
     "title": "ЦСКА потерял очки в третьем матче РПЛ подряд",
     "sport": "Футбол",
@@ -10,8 +24,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69e7bc6e9a7947f91902733d",
     "publishedAt": "2026-04-21T18:51:11.000Z",
-    "createdAt": "2026-04-21T20:07:08.142Z",
-    "updatedAt": "2026-04-21T20:07:08.142Z"
+    "createdAt": "2026-04-21T21:51:25.914Z",
+    "updatedAt": "2026-04-21T21:51:25.914Z"
   },
   {
     "id": "4567b5e3c0eea81d",
@@ -24,8 +38,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69e7b8629a79471248272b80",
     "publishedAt": "2026-04-21T18:06:34.000Z",
-    "createdAt": "2026-04-21T20:07:09.123Z",
-    "updatedAt": "2026-04-21T20:07:09.123Z"
+    "createdAt": "2026-04-21T21:51:26.964Z",
+    "updatedAt": "2026-04-21T21:51:26.964Z"
   },
   {
     "id": "ca84608d2456471b",
@@ -38,8 +52,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69e7b0c59a7947d76f9860d8",
     "publishedAt": "2026-04-21T17:26:35.000Z",
-    "createdAt": "2026-04-21T20:07:10.129Z",
-    "updatedAt": "2026-04-21T20:07:10.129Z"
+    "createdAt": "2026-04-21T21:51:28.011Z",
+    "updatedAt": "2026-04-21T21:51:28.011Z"
   },
   {
     "id": "dac953fa5ffd81b7",
@@ -52,8 +66,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69e7a5449a7947968145b11c",
     "publishedAt": "2026-04-21T17:09:47.000Z",
-    "createdAt": "2026-04-21T20:07:12.938Z",
-    "updatedAt": "2026-04-21T20:07:12.938Z"
+    "createdAt": "2026-04-21T21:51:30.935Z",
+    "updatedAt": "2026-04-21T21:51:30.935Z"
   },
   {
     "id": "96998c259333453a",
@@ -66,8 +80,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69e79d809a79476ee0646515",
     "publishedAt": "2026-04-21T16:49:51.000Z",
-    "createdAt": "2026-04-21T20:07:11.157Z",
-    "updatedAt": "2026-04-21T20:07:11.157Z"
+    "createdAt": "2026-04-21T21:51:29.058Z",
+    "updatedAt": "2026-04-21T21:51:29.058Z"
   },
   {
     "id": "2531cd74a3c75fab",
@@ -80,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69e7954d9a79476fc24ffe57",
     "publishedAt": "2026-04-21T15:55:47.000Z",
-    "createdAt": "2026-04-21T20:07:13.951Z",
-    "updatedAt": "2026-04-21T20:07:13.951Z"
+    "createdAt": "2026-04-21T21:51:31.978Z",
+    "updatedAt": "2026-04-21T21:51:31.978Z"
   },
   {
     "id": "88e2e77fb98e258b",
@@ -94,8 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69e78c239a7947565e0b73c1",
     "publishedAt": "2026-04-21T15:31:02.000Z",
-    "createdAt": "2026-04-21T20:07:14.891Z",
-    "updatedAt": "2026-04-21T20:07:14.891Z"
+    "createdAt": "2026-04-21T21:51:33.088Z",
+    "updatedAt": "2026-04-21T21:51:33.088Z"
   },
   {
     "id": "3b537fd37d346fc7",
@@ -108,8 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69e78e109a7947b30ea67b37",
     "publishedAt": "2026-04-21T15:17:38.000Z",
-    "createdAt": "2026-04-21T20:07:15.925Z",
-    "updatedAt": "2026-04-21T20:07:15.925Z"
+    "createdAt": "2026-04-21T21:51:34.171Z",
+    "updatedAt": "2026-04-21T21:51:34.171Z"
   },
   {
     "id": "5dbe7630a600358f",
@@ -122,21 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69e78bcd9a79473e7bf9b522",
     "publishedAt": "2026-04-21T15:12:36.000Z",
-    "createdAt": "2026-04-21T20:07:16.933Z",
-    "updatedAt": "2026-04-21T20:07:16.933Z"
-  },
-  {
-    "id": "ed9ec8cc309ff45c",
-    "title": "«Динамо» назвало нового главного тренера после провального сезона в КХЛ",
-    "sport": "Хоккей",
-    "category": "Хоккей",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/9/11/347767809419119.jpeg",
-    "teaser": "«Динамо» назвало нового главного тренера после провального сезона в КХЛ",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69e782f99a794778a6c1514d",
-    "publishedAt": "2026-04-21T14:23:04.000Z",
-    "createdAt": "2026-04-21T20:07:17.929Z",
-    "updatedAt": "2026-04-21T20:07:17.929Z"
+    "createdAt": "2026-04-21T21:51:35.234Z",
+    "updatedAt": "2026-04-21T21:51:35.234Z"
   }
 ]
