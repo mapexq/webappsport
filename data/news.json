@@ -1,5 +1,47 @@
 [
   {
+    "id": "24b70f179bd8b796",
+    "title": "Бывшая вторая ракетка мира впервые стала мамой",
+    "sport": "Теннис",
+    "category": "Теннис",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/0/34/347768501764340.jpeg",
+    "teaser": "Бывшая вторая ракетка мира впервые стала мамой",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69e890999a79474b75e44c79",
+    "publishedAt": "2026-04-22T09:47:48.000Z",
+    "createdAt": "2026-04-22T10:22:04.938Z",
+    "updatedAt": "2026-04-22T10:22:04.938Z"
+  },
+  {
+    "id": "096d1b9aa3723a93",
+    "title": "Призер ОИ в прыжках с трамплина пьяным попал в аварию на велосипеде",
+    "sport": "Другое",
+    "category": "Другие",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/0/35/347768478846350.jpeg",
+    "teaser": "Призер ОИ в прыжках с трамплина пьяным попал в аварию на велосипеде",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69e8869e9a79472932f55fe9",
+    "publishedAt": "2026-04-22T09:47:25.000Z",
+    "createdAt": "2026-04-22T10:22:04.130Z",
+    "updatedAt": "2026-04-22T10:22:04.130Z"
+  },
+  {
+    "id": "f3edcbc352f998d4",
+    "title": "Фетисов рассказал, когда Овечкин приедет в Россию после сезона НХЛ",
+    "sport": "Хоккей",
+    "category": "Хоккей",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/8/33/347768480635338.jpeg",
+    "teaser": "Фетисов рассказал, когда Овечкин приедет в Россию после сезона НХЛ",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69e88c7f9a7947d1eadc8396",
+    "publishedAt": "2026-04-22T09:32:06.000Z",
+    "createdAt": "2026-04-22T10:22:05.880Z",
+    "updatedAt": "2026-04-22T10:22:05.880Z"
+  },
+  {
     "id": "528e88a8e7d9e414",
     "title": "Бывший игрок «Барселоны» возглавит сборную Мексики после ЧМ-2026",
     "sport": "Футбол",
@@ -10,8 +52,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69e87dc49a79478a804b7b20",
     "publishedAt": "2026-04-22T08:37:55.000Z",
-    "createdAt": "2026-04-22T08:50:42.720Z",
-    "updatedAt": "2026-04-22T08:50:42.720Z"
+    "createdAt": "2026-04-22T10:22:07.910Z",
+    "updatedAt": "2026-04-22T10:22:07.910Z"
   },
   {
     "id": "f545a584f990e449",
@@ -24,8 +66,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69e881629a79470e69f26a58",
     "publishedAt": "2026-04-22T08:26:28.000Z",
-    "createdAt": "2026-04-22T08:50:41.667Z",
-    "updatedAt": "2026-04-22T08:50:41.667Z"
+    "createdAt": "2026-04-22T10:22:06.886Z",
+    "updatedAt": "2026-04-22T10:22:06.886Z"
   },
   {
     "id": "a1beba5c94ac5c46",
@@ -38,8 +80,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69e879079a7947a028de81ee",
     "publishedAt": "2026-04-22T07:50:18.000Z",
-    "createdAt": "2026-04-22T08:50:43.810Z",
-    "updatedAt": "2026-04-22T08:50:43.810Z"
+    "createdAt": "2026-04-22T10:22:08.895Z",
+    "updatedAt": "2026-04-22T10:22:08.895Z"
   },
   {
     "id": "e4338600156b0c63",
@@ -52,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69e872bb9a7947f65722d462",
     "publishedAt": "2026-04-22T07:48:17.000Z",
-    "createdAt": "2026-04-22T08:50:44.840Z",
-    "updatedAt": "2026-04-22T08:50:44.840Z"
+    "createdAt": "2026-04-22T10:22:09.912Z",
+    "updatedAt": "2026-04-22T10:22:09.912Z"
   },
   {
     "id": "22b22414c6d17d39",
@@ -66,8 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69e8744c9a7947cda6a79c42",
     "publishedAt": "2026-04-22T07:17:00.000Z",
-    "createdAt": "2026-04-22T08:50:45.830Z",
-    "updatedAt": "2026-04-22T08:50:45.830Z"
+    "createdAt": "2026-04-22T10:22:10.866Z",
+    "updatedAt": "2026-04-22T10:22:10.866Z"
   },
   {
     "id": "db69b5606fe35cef",
@@ -80,8 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69e866c39a7947e26349d970",
     "publishedAt": "2026-04-22T07:13:58.000Z",
-    "createdAt": "2026-04-22T08:50:46.902Z",
-    "updatedAt": "2026-04-22T08:50:46.902Z"
+    "createdAt": "2026-04-22T10:22:11.857Z",
+    "updatedAt": "2026-04-22T10:22:11.857Z"
   },
   {
     "id": "12f632d0c971292d",
@@ -94,49 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69e86cc49a794790282fcf61",
     "publishedAt": "2026-04-22T07:06:56.000Z",
-    "createdAt": "2026-04-22T08:50:47.910Z",
-    "updatedAt": "2026-04-22T08:50:47.910Z"
-  },
-  {
-    "id": "0fa082d622762537",
-    "title": "«Лестер» вылетел в 3-й дивизион в год 10-летия сенсационного чемпионства",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/1/65/347768056376651.jpeg",
-    "teaser": "«Лестер» вылетел в 3-й дивизион в год 10-летия сенсационного чемпионства",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69e7e3349a79474e881c01f1",
-    "publishedAt": "2026-04-21T21:24:53.000Z",
-    "createdAt": "2026-04-22T08:50:48.971Z",
-    "updatedAt": "2026-04-22T08:50:48.971Z"
-  },
-  {
-    "id": "35603ef3a93a1072",
-    "title": "Weeam узнала, что «Ан-Наср» может включить сына Роналду в основной состав",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/1/64/347768029744641.jpeg",
-    "teaser": "Weeam узнала, что «Ан-Наср» может включить сына Роналду в основной состав",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69e7d99a9a794754503a0102",
-    "publishedAt": "2026-04-21T21:20:20.000Z",
-    "createdAt": "2026-04-22T08:50:50.034Z",
-    "updatedAt": "2026-04-22T08:50:50.034Z"
-  },
-  {
-    "id": "40e688ed498360ab",
-    "title": "В Берлине минутой молчания почтили память советской баскетболистки",
-    "sport": "Баскетбол",
-    "category": "Баскетбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/4/54/347768008763544.jpeg",
-    "teaser": "В Берлине минутой молчания почтили память советской баскетболистки",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69e7d12c9a7947257c5ce9bc",
-    "publishedAt": "2026-04-21T20:36:42.000Z",
-    "createdAt": "2026-04-22T08:50:51.132Z",
-    "updatedAt": "2026-04-22T08:50:51.132Z"
+    "createdAt": "2026-04-22T10:22:12.867Z",
+    "updatedAt": "2026-04-22T10:22:12.867Z"
   }
 ]
