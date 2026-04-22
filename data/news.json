@@ -1,6 +1,90 @@
 [
   {
-    "id": "76319f7908855aa1",
+    "id": "1367eecf7a5cf024",
+    "title": "Двукратный обладатель Кубка Стэнли завершил карьеру в 39 лет",
+    "sport": "Хоккей",
+    "category": "Хоккей",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/6/29/347768719219296.jpeg",
+    "teaser": "Двукратный обладатель Кубка Стэнли завершил карьеру в 39 лет",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69e8e9cb9a794782c7c93165",
+    "publishedAt": "2026-04-22T15:58:53.000Z",
+    "createdAt": "2026-04-22T16:12:08.904Z",
+    "updatedAt": "2026-04-22T16:12:08.904Z"
+  },
+  {
+    "id": "791ccb22ad364a48",
+    "title": "В «Тракторе» опровергли слухи о назначении Ротенберга главным тренером",
+    "sport": "Хоккей",
+    "category": "Хоккей",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/5/89/347768721870895.jpeg",
+    "teaser": "В «Тракторе» опровергли слухи о назначении Ротенберга главным тренером",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69e8e8be9a7947a2e99c0668",
+    "publishedAt": "2026-04-22T15:54:48.000Z",
+    "createdAt": "2026-04-22T16:12:10.002Z",
+    "updatedAt": "2026-04-22T16:12:10.002Z"
+  },
+  {
+    "id": "0c3167600545ea22",
+    "title": "Журова связала проверку главы РУСАДА с допуском россиян на турниры",
+    "sport": "Другое",
+    "category": "Другие",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/3/80/347768588724803.jpeg",
+    "teaser": "Журова связала проверку главы РУСАДА с допуском россиян на турниры",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69e8b0989a7947ed5e19f7f9",
+    "publishedAt": "2026-04-22T15:26:49.000Z",
+    "createdAt": "2026-04-22T16:12:07.851Z",
+    "updatedAt": "2026-04-22T16:12:07.851Z"
+  },
+  {
+    "id": "a9072f7a9c39fe5e",
+    "title": "В ЦСКА заявили, что не будут увольнять Челестини до конца сезона",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/7/19/347768706178197.jpeg",
+    "teaser": "В ЦСКА заявили, что не будут увольнять Челестини до конца сезона",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69e8dfb59a7947442e47b74d",
+    "publishedAt": "2026-04-22T15:23:22.000Z",
+    "createdAt": "2026-04-22T16:12:10.988Z",
+    "updatedAt": "2026-04-22T16:12:10.988Z"
+  },
+  {
+    "id": "78ec85addebe780e",
+    "title": "«Шанхай» Слуцкого выиграл четвертый подряд матч в чемпионате Китая",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/9/03/347768690077039.jpeg",
+    "teaser": "«Шанхай» Слуцкого выиграл четвертый подряд матч в чемпионате Китая",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69e8dd0f9a7947ff427ae1a9",
+    "publishedAt": "2026-04-22T15:12:27.000Z",
+    "createdAt": "2026-04-22T16:12:12.029Z",
+    "updatedAt": "2026-04-22T16:12:12.029Z"
+  },
+  {
+    "id": "d7f4bb1cd1db1440",
+    "title": "В Испании подтвердили оправдание Неймара по делу о переходе в «Барселону»",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/9/35/347768642737359.jpeg",
+    "teaser": "В Испании подтвердили оправдание Неймара по делу о переходе в «Барселону»",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69e8c4829a794759c24a5990",
+    "publishedAt": "2026-04-22T15:10:54.000Z",
+    "createdAt": "2026-04-22T16:12:13.082Z",
+    "updatedAt": "2026-04-22T16:12:13.082Z"
+  },
+  {
+    "id": "a633892c8d8f07c3",
     "title": "Чемпионку Европы по бодибилдингу задержали по подозрению в убийстве мужа",
     "sport": "Другое",
     "category": "Другие",
@@ -9,9 +93,9 @@
     "fullContent": "",
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69e8d4879a7947ad9303e81e",
-    "publishedAt": "2026-04-22T14:43:47.000Z",
-    "createdAt": "2026-04-22T14:49:14.029Z",
-    "updatedAt": "2026-04-22T14:49:14.029Z"
+    "publishedAt": "2026-04-22T14:43:48.000Z",
+    "createdAt": "2026-04-22T16:12:14.115Z",
+    "updatedAt": "2026-04-22T16:12:14.115Z"
   },
   {
     "id": "058fb4e926856aba",
@@ -24,8 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69e8c3c99a79475b4eedd874",
     "publishedAt": "2026-04-22T13:25:36.000Z",
-    "createdAt": "2026-04-22T14:49:15.178Z",
-    "updatedAt": "2026-04-22T14:49:15.178Z"
+    "createdAt": "2026-04-22T16:12:15.184Z",
+    "updatedAt": "2026-04-22T16:12:15.184Z"
   },
   {
     "id": "848b957ba82ec13e",
@@ -38,8 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69e8c4919a794729ae5650b7",
     "publishedAt": "2026-04-22T13:21:35.000Z",
-    "createdAt": "2026-04-22T14:49:16.338Z",
-    "updatedAt": "2026-04-22T14:49:16.338Z"
+    "createdAt": "2026-04-22T16:12:17.313Z",
+    "updatedAt": "2026-04-22T16:12:17.313Z"
   },
   {
     "id": "63ef3d46fa589730",
@@ -52,91 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69e8c0559a7947e2d7bee26b",
     "publishedAt": "2026-04-22T12:58:53.000Z",
-    "createdAt": "2026-04-22T14:49:17.506Z",
-    "updatedAt": "2026-04-22T14:49:17.506Z"
-  },
-  {
-    "id": "87434a86927b770a",
-    "title": "Агент рассказал о состоянии здоровья хоккеиста Евгения Кузнецова",
-    "sport": "Хоккей",
-    "category": "Хоккей",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/6/27/347768602995276.jpeg",
-    "teaser": "Агент рассказал о состоянии здоровья хоккеиста Евгения Кузнецова",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69e8b99d9a794791cf9a69d3",
-    "publishedAt": "2026-04-22T12:49:30.000Z",
-    "createdAt": "2026-04-22T14:49:18.725Z",
-    "updatedAt": "2026-04-22T14:49:18.725Z"
-  },
-  {
-    "id": "3966e91a92bc2d2f",
-    "title": "Винус Уильямс заявила о намерении сыграть на «Ролан Гаррос» в 45 лет",
-    "sport": "Теннис",
-    "category": "Теннис",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/3/04/347768568120043.jpeg",
-    "teaser": "Винус Уильямс заявила о намерении сыграть на «Ролан Гаррос» в 45 лет",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69e8aece9a79471870e7ced4",
-    "publishedAt": "2026-04-22T11:38:43.000Z",
-    "createdAt": "2026-04-22T14:49:19.938Z",
-    "updatedAt": "2026-04-22T14:49:19.938Z"
-  },
-  {
-    "id": "a64c9efcf8d04114",
-    "title": "Лидер «Спартака» объяснил, почему предпочел москвичей «Зениту»",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/4/41/347768566222414.jpeg",
-    "teaser": "Лидер «Спартака» объяснил, почему предпочел москвичей «Зениту»",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69e8a9f79a794765afb104fa",
-    "publishedAt": "2026-04-22T11:27:36.000Z",
-    "createdAt": "2026-04-22T14:49:21.082Z",
-    "updatedAt": "2026-04-22T14:49:21.082Z"
-  },
-  {
-    "id": "63efa849f996a566",
-    "title": "Уволенный из «Крыльев Советов» тренер заявил, что клубу нужен был повод",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/2/81/347768539524812.jpeg",
-    "teaser": "Уволенный из «Крыльев Советов» тренер заявил, что клубу нужен был повод",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69e8a36c9a7947112a253056",
-    "publishedAt": "2026-04-22T11:00:43.000Z",
-    "createdAt": "2026-04-22T14:49:22.181Z",
-    "updatedAt": "2026-04-22T14:49:22.181Z"
-  },
-  {
-    "id": "760cefcf2ddcec49",
-    "title": "Российский рекордсмен ЛЧ заявил, что не перейдет в РПЛ даже в «Зенит»",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/6/36/347768526694366.jpeg",
-    "teaser": "Российский рекордсмен ЛЧ заявил, что не перейдет в РПЛ даже в «Зенит»",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69e89e729a7947e22befb750",
-    "publishedAt": "2026-04-22T10:24:16.000Z",
-    "createdAt": "2026-04-22T14:49:23.337Z",
-    "updatedAt": "2026-04-22T14:49:23.337Z"
-  },
-  {
-    "id": "a1406b62fb8ae0cf",
-    "title": "Игрок «Реал Сосьедад» назвал Арсена Захаряна «Водкаряном»",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/6/47/347768525169476.jpeg",
-    "teaser": "Игрок «Реал Сосьедад» назвал Арсена Захаряна «Водкаряном»",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69e899b49a79471c832a81d1",
-    "publishedAt": "2026-04-22T10:19:09.000Z",
-    "createdAt": "2026-04-22T14:49:24.430Z",
-    "updatedAt": "2026-04-22T14:49:24.430Z"
+    "createdAt": "2026-04-22T16:12:16.243Z",
+    "updatedAt": "2026-04-22T16:12:16.243Z"
   }
 ]
