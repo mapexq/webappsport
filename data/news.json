@@ -1,5 +1,75 @@
 [
   {
+    "id": "3966e91a92bc2d2f",
+    "title": "Винус Уильямс заявила о намерении сыграть на «Ролан Гаррос» в 45 лет",
+    "sport": "Теннис",
+    "category": "Теннис",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/3/04/347768568120043.jpeg",
+    "teaser": "Винус Уильямс заявила о намерении сыграть на «Ролан Гаррос» в 45 лет",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69e8aece9a79471870e7ced4",
+    "publishedAt": "2026-04-22T11:38:43.000Z",
+    "createdAt": "2026-04-22T12:01:46.926Z",
+    "updatedAt": "2026-04-22T12:01:46.926Z"
+  },
+  {
+    "id": "a64c9efcf8d04114",
+    "title": "Лидер «Спартака» объяснил, почему предпочел москвичей «Зениту»",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/4/41/347768566222414.jpeg",
+    "teaser": "Лидер «Спартака» объяснил, почему предпочел москвичей «Зениту»",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69e8a9f79a794765afb104fa",
+    "publishedAt": "2026-04-22T11:27:36.000Z",
+    "createdAt": "2026-04-22T12:01:48.007Z",
+    "updatedAt": "2026-04-22T12:01:48.007Z"
+  },
+  {
+    "id": "63efa849f996a566",
+    "title": "Уволенный из «Крыльев Советов» тренер заявил, что клубу нужен был повод",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/2/81/347768539524812.jpeg",
+    "teaser": "Уволенный из «Крыльев Советов» тренер заявил, что клубу нужен был повод",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69e8a36c9a7947112a253056",
+    "publishedAt": "2026-04-22T11:00:43.000Z",
+    "createdAt": "2026-04-22T12:01:49.152Z",
+    "updatedAt": "2026-04-22T12:01:49.152Z"
+  },
+  {
+    "id": "760cefcf2ddcec49",
+    "title": "Российский рекордсмен ЛЧ заявил, что не перейдет в РПЛ даже в «Зенит»",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/6/36/347768526694366.jpeg",
+    "teaser": "Российский рекордсмен ЛЧ заявил, что не перейдет в РПЛ даже в «Зенит»",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69e89e729a7947e22befb750",
+    "publishedAt": "2026-04-22T10:24:16.000Z",
+    "createdAt": "2026-04-22T12:01:50.297Z",
+    "updatedAt": "2026-04-22T12:01:50.297Z"
+  },
+  {
+    "id": "a1406b62fb8ae0cf",
+    "title": "Игрок «Реал Сосьедад» назвал Арсена Захаряна «Водкаряном»",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/6/47/347768525169476.jpeg",
+    "teaser": "Игрок «Реал Сосьедад» назвал Арсена Захаряна «Водкаряном»",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69e899b49a79471c832a81d1",
+    "publishedAt": "2026-04-22T10:19:09.000Z",
+    "createdAt": "2026-04-22T12:01:51.444Z",
+    "updatedAt": "2026-04-22T12:01:51.444Z"
+  },
+  {
     "id": "24b70f179bd8b796",
     "title": "Бывшая вторая ракетка мира впервые стала мамой",
     "sport": "Теннис",
@@ -10,8 +80,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69e890999a79474b75e44c79",
     "publishedAt": "2026-04-22T09:47:48.000Z",
-    "createdAt": "2026-04-22T10:22:04.938Z",
-    "updatedAt": "2026-04-22T10:22:04.938Z"
+    "createdAt": "2026-04-22T12:01:53.856Z",
+    "updatedAt": "2026-04-22T12:01:53.856Z"
   },
   {
     "id": "096d1b9aa3723a93",
@@ -24,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69e8869e9a79472932f55fe9",
     "publishedAt": "2026-04-22T09:47:25.000Z",
-    "createdAt": "2026-04-22T10:22:04.130Z",
-    "updatedAt": "2026-04-22T10:22:04.130Z"
+    "createdAt": "2026-04-22T12:01:52.725Z",
+    "updatedAt": "2026-04-22T12:01:52.725Z"
   },
   {
     "id": "f3edcbc352f998d4",
@@ -38,8 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69e88c7f9a7947d1eadc8396",
     "publishedAt": "2026-04-22T09:32:06.000Z",
-    "createdAt": "2026-04-22T10:22:05.880Z",
-    "updatedAt": "2026-04-22T10:22:05.880Z"
+    "createdAt": "2026-04-22T12:01:55.005Z",
+    "updatedAt": "2026-04-22T12:01:55.005Z"
   },
   {
     "id": "528e88a8e7d9e414",
@@ -52,8 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69e87dc49a79478a804b7b20",
     "publishedAt": "2026-04-22T08:37:55.000Z",
-    "createdAt": "2026-04-22T10:22:07.910Z",
-    "updatedAt": "2026-04-22T10:22:07.910Z"
+    "createdAt": "2026-04-22T12:01:57.349Z",
+    "updatedAt": "2026-04-22T12:01:57.349Z"
   },
   {
     "id": "f545a584f990e449",
@@ -66,77 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69e881629a79470e69f26a58",
     "publishedAt": "2026-04-22T08:26:28.000Z",
-    "createdAt": "2026-04-22T10:22:06.886Z",
-    "updatedAt": "2026-04-22T10:22:06.886Z"
-  },
-  {
-    "id": "a1beba5c94ac5c46",
-    "title": "Фанаты разбили заградительное стекло в матче плей-офф НХЛ клуба Панарина",
-    "sport": "Хоккей",
-    "category": "Хоккей",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/0/53/347768432151530.jpeg",
-    "teaser": "Фанаты разбили заградительное стекло в матче плей-офф НХЛ клуба Панарина",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69e879079a7947a028de81ee",
-    "publishedAt": "2026-04-22T07:50:18.000Z",
-    "createdAt": "2026-04-22T10:22:08.895Z",
-    "updatedAt": "2026-04-22T10:22:08.895Z"
-  },
-  {
-    "id": "e4338600156b0c63",
-    "title": "Лучший защитник сезона НБА получил сотрясение во время матча плей-офф",
-    "sport": "Баскетбол",
-    "category": "Баскетбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/1/04/347768429712041.jpeg",
-    "teaser": "Лучший защитник сезона НБА получил сотрясение во время матча плей-офф",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69e872bb9a7947f65722d462",
-    "publishedAt": "2026-04-22T07:48:17.000Z",
-    "createdAt": "2026-04-22T10:22:09.912Z",
-    "updatedAt": "2026-04-22T10:22:09.912Z"
-  },
-  {
-    "id": "22b22414c6d17d39",
-    "title": "«Бостон» выиграл матч плей-офф НХЛ благодаря голу с центра площадки",
-    "sport": "Хоккей",
-    "category": "Хоккей",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/9/51/347768418529519.jpeg",
-    "teaser": "«Бостон» выиграл матч плей-офф НХЛ благодаря голу с центра площадки",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69e8744c9a7947cda6a79c42",
-    "publishedAt": "2026-04-22T07:17:00.000Z",
-    "createdAt": "2026-04-22T10:22:10.866Z",
-    "updatedAt": "2026-04-22T10:22:10.866Z"
-  },
-  {
-    "id": "db69b5606fe35cef",
-    "title": "Кучеров впервые с 2023 года забросил шайбу в плей-офф НХЛ",
-    "sport": "Хоккей",
-    "category": "Хоккей",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/5/60/347768392356605.jpeg",
-    "teaser": "Кучеров впервые с 2023 года забросил шайбу в плей-офф НХЛ",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69e866c39a7947e26349d970",
-    "publishedAt": "2026-04-22T07:13:58.000Z",
-    "createdAt": "2026-04-22T10:22:11.857Z",
-    "updatedAt": "2026-04-22T10:22:11.857Z"
-  },
-  {
-    "id": "12f632d0c971292d",
-    "title": "Панарин забил за «Лос-Анджелес» во втором подряд матче в плей-офф НХЛ",
-    "sport": "Хоккей",
-    "category": "Хоккей",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/2/83/347768409053832.jpeg",
-    "teaser": "Панарин забил за «Лос-Анджелес» во втором подряд матче в плей-офф НХЛ",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69e86cc49a794790282fcf61",
-    "publishedAt": "2026-04-22T07:06:56.000Z",
-    "createdAt": "2026-04-22T10:22:12.867Z",
-    "updatedAt": "2026-04-22T10:22:12.867Z"
+    "createdAt": "2026-04-22T12:01:56.201Z",
+    "updatedAt": "2026-04-22T12:01:56.201Z"
   }
 ]
