@@ -1,5 +1,75 @@
 [
   {
+    "id": "df431969f33c8a0f",
+    "title": "Российский тяжелоатлет с рекордом завоевал золото на ЧЕ в Батуми",
+    "sport": "Другое",
+    "category": "Другие",
+    "imageUrl": "/images/news-placeholder.jpg",
+    "teaser": "Российский тяжелоатлет с рекордом завоевал золото на ЧЕ в Батуми",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69e907b49a79475dcbbc2181",
+    "publishedAt": "2026-04-22T17:58:53.000Z",
+    "createdAt": "2026-04-22T18:03:21.571Z",
+    "updatedAt": "2026-04-22T18:03:21.571Z"
+  },
+  {
+    "id": "5f6ee999e8e5f8ce",
+    "title": "AS узнал, что Жозе Моуринью попросился в «Реал»",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/2/27/347768783512272.jpeg",
+    "teaser": "AS узнал, что Жозе Моуринью попросился в «Реал»",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69e8fe8c9a79477a154eb311",
+    "publishedAt": "2026-04-22T17:45:46.000Z",
+    "createdAt": "2026-04-22T18:03:22.418Z",
+    "updatedAt": "2026-04-22T18:03:22.418Z"
+  },
+  {
+    "id": "2d4c856434294b27",
+    "title": "Путин назвал позорным и трусливым поведение прежнего руководства МОК",
+    "sport": "Другое",
+    "category": "Другие",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/0/99/347768784291990.jpeg",
+    "teaser": "Путин назвал позорным и трусливым поведение прежнего руководства МОК",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69e9033e9a79473a6b6f432d",
+    "publishedAt": "2026-04-22T17:33:15.000Z",
+    "createdAt": "2026-04-22T18:03:23.464Z",
+    "updatedAt": "2026-04-22T18:03:23.464Z"
+  },
+  {
+    "id": "cb1a773d14be03eb",
+    "title": "«Челси» уволил второго за три месяца тренера",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/4/96/347768751590964.jpeg",
+    "teaser": "«Челси» уволил второго за три месяца тренера",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69e8f6599a7947ea050c5857",
+    "publishedAt": "2026-04-22T16:33:46.000Z",
+    "createdAt": "2026-04-22T18:03:24.461Z",
+    "updatedAt": "2026-04-22T18:03:24.461Z"
+  },
+  {
+    "id": "a9b1d343871b8eda",
+    "title": "«Оренбург» победил «Пари Нижний Новгород» в матче аутсайдеров РПЛ",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/8/68/347768731702688.jpeg",
+    "teaser": "«Оренбург» победил «Пари Нижний Новгород» в матче аутсайдеров РПЛ",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69e8ee949a7947167c7193fa",
+    "publishedAt": "2026-04-22T16:31:20.000Z",
+    "createdAt": "2026-04-22T18:03:25.461Z",
+    "updatedAt": "2026-04-22T18:03:25.461Z"
+  },
+  {
     "id": "1367eecf7a5cf024",
     "title": "Двукратный обладатель Кубка Стэнли завершил карьеру в 39 лет",
     "sport": "Хоккей",
@@ -10,8 +80,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69e8e9cb9a794782c7c93165",
     "publishedAt": "2026-04-22T15:58:53.000Z",
-    "createdAt": "2026-04-22T16:12:08.904Z",
-    "updatedAt": "2026-04-22T16:12:08.904Z"
+    "createdAt": "2026-04-22T18:03:27.496Z",
+    "updatedAt": "2026-04-22T18:03:27.496Z"
   },
   {
     "id": "791ccb22ad364a48",
@@ -24,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69e8e8be9a7947a2e99c0668",
     "publishedAt": "2026-04-22T15:54:48.000Z",
-    "createdAt": "2026-04-22T16:12:10.002Z",
-    "updatedAt": "2026-04-22T16:12:10.002Z"
+    "createdAt": "2026-04-22T18:03:28.496Z",
+    "updatedAt": "2026-04-22T18:03:28.496Z"
   },
   {
     "id": "0c3167600545ea22",
@@ -38,8 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69e8b0989a7947ed5e19f7f9",
     "publishedAt": "2026-04-22T15:26:49.000Z",
-    "createdAt": "2026-04-22T16:12:07.851Z",
-    "updatedAt": "2026-04-22T16:12:07.851Z"
+    "createdAt": "2026-04-22T18:03:26.458Z",
+    "updatedAt": "2026-04-22T18:03:26.458Z"
   },
   {
     "id": "a9072f7a9c39fe5e",
@@ -52,8 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69e8dfb59a7947442e47b74d",
     "publishedAt": "2026-04-22T15:23:22.000Z",
-    "createdAt": "2026-04-22T16:12:10.988Z",
-    "updatedAt": "2026-04-22T16:12:10.988Z"
+    "createdAt": "2026-04-22T18:03:29.639Z",
+    "updatedAt": "2026-04-22T18:03:29.639Z"
   },
   {
     "id": "78ec85addebe780e",
@@ -66,77 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69e8dd0f9a7947ff427ae1a9",
     "publishedAt": "2026-04-22T15:12:27.000Z",
-    "createdAt": "2026-04-22T16:12:12.029Z",
-    "updatedAt": "2026-04-22T16:12:12.029Z"
-  },
-  {
-    "id": "d7f4bb1cd1db1440",
-    "title": "В Испании подтвердили оправдание Неймара по делу о переходе в «Барселону»",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/9/35/347768642737359.jpeg",
-    "teaser": "В Испании подтвердили оправдание Неймара по делу о переходе в «Барселону»",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69e8c4829a794759c24a5990",
-    "publishedAt": "2026-04-22T15:10:54.000Z",
-    "createdAt": "2026-04-22T16:12:13.082Z",
-    "updatedAt": "2026-04-22T16:12:13.082Z"
-  },
-  {
-    "id": "a633892c8d8f07c3",
-    "title": "Чемпионку Европы по бодибилдингу задержали по подозрению в убийстве мужа",
-    "sport": "Другое",
-    "category": "Другие",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/7/43/347768679793437.jpeg",
-    "teaser": "Чемпионку Европы по бодибилдингу задержали по подозрению в убийстве мужа",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69e8d4879a7947ad9303e81e",
-    "publishedAt": "2026-04-22T14:43:48.000Z",
-    "createdAt": "2026-04-22T16:12:14.115Z",
-    "updatedAt": "2026-04-22T16:12:14.115Z"
-  },
-  {
-    "id": "058fb4e926856aba",
-    "title": "Касаткина проиграла шестой ракетке Украины на «тысячнике» WTA в Мадриде",
-    "sport": "Теннис",
-    "category": "Теннис",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/9/71/347768622129719.jpeg",
-    "teaser": "Касаткина проиграла шестой ракетке Украины на «тысячнике» WTA в Мадриде",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69e8c3c99a79475b4eedd874",
-    "publishedAt": "2026-04-22T13:25:36.000Z",
-    "createdAt": "2026-04-22T16:12:15.184Z",
-    "updatedAt": "2026-04-22T16:12:15.184Z"
-  },
-  {
-    "id": "848b957ba82ec13e",
-    "title": "Павлюченкова проиграла седьмой подряд матч в основной сетке турниров WTA",
-    "sport": "Теннис",
-    "category": "Теннис",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/8/81/347768624084818.jpeg",
-    "teaser": "Павлюченкова проиграла седьмой подряд матч в основной сетке турниров WTA",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69e8c4919a794729ae5650b7",
-    "publishedAt": "2026-04-22T13:21:35.000Z",
-    "createdAt": "2026-04-22T16:12:17.313Z",
-    "updatedAt": "2026-04-22T16:12:17.313Z"
-  },
-  {
-    "id": "63ef3d46fa589730",
-    "title": "Татьяна Тарасова рассказала о самочувствии после выписки из больницы",
-    "sport": "Другое",
-    "category": "Фигурное катание",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/4/01/347768617436014.jpeg",
-    "teaser": "Татьяна Тарасова рассказала о самочувствии после выписки из больницы",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69e8c0559a7947e2d7bee26b",
-    "publishedAt": "2026-04-22T12:58:53.000Z",
-    "createdAt": "2026-04-22T16:12:16.243Z",
-    "updatedAt": "2026-04-22T16:12:16.243Z"
+    "createdAt": "2026-04-22T18:03:30.694Z",
+    "updatedAt": "2026-04-22T18:03:30.694Z"
   }
 ]
