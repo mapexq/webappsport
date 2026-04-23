@@ -1,5 +1,89 @@
 [
   {
+    "id": "b9da52c43e4b164a",
+    "title": "Клуб Дзюбы продлил серию без побед в РПЛ до 10 матчей",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/9/46/347769625100469.png",
+    "teaser": "Клуб Дзюбы продлил серию без побед в РПЛ до 10 матчей",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69ea33599a7947f94d8ee00e",
+    "publishedAt": "2026-04-23T16:51:28.000Z",
+    "createdAt": "2026-04-23T17:25:23.103Z",
+    "updatedAt": "2026-04-23T17:25:23.103Z"
+  },
+  {
+    "id": "bf28f1c1c8c29e39",
+    "title": "Экс-чемпион мира по боксу Федор Чудинов попал под санкции ЕС",
+    "sport": "Единоборства",
+    "category": "Единоборства",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/7/40/347769618897407.png",
+    "teaser": "Экс-чемпион мира по боксу Федор Чудинов попал под санкции ЕС",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69ea45cd9a794749c77ddf50",
+    "publishedAt": "2026-04-23T16:45:16.000Z",
+    "createdAt": "2026-04-23T17:25:20.908Z",
+    "updatedAt": "2026-04-23T17:25:20.908Z"
+  },
+  {
+    "id": "71429e0cb2f37a10",
+    "title": "FIBA допустила российских баскетболистов до юношеской Лиги наций 3×3",
+    "sport": "Баскетбол",
+    "category": "Баскетбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/9/29/347769591216299.jpeg",
+    "teaser": "FIBA допустила российских баскетболистов до юношеской Лиги наций 3×3",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69ea3a689a79477ba7be7dbb",
+    "publishedAt": "2026-04-23T15:59:14.000Z",
+    "createdAt": "2026-04-23T17:25:25.271Z",
+    "updatedAt": "2026-04-23T17:25:25.271Z"
+  },
+  {
+    "id": "a713610abd68a41a",
+    "title": "Имя Станковича упомянули в расследовании дела сети эскорт-услуг в Италии",
+    "sport": "Другое",
+    "category": "Другие",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/1/38/347769561766381.jpeg",
+    "teaser": "Имя Станковича упомянули в расследовании дела сети эскорт-услуг в Италии",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69ea2b109a794780eab6d2f3",
+    "publishedAt": "2026-04-23T15:58:37.000Z",
+    "createdAt": "2026-04-23T17:25:22.010Z",
+    "updatedAt": "2026-04-23T17:25:22.010Z"
+  },
+  {
+    "id": "750438720b6a8b43",
+    "title": "В Италии назвали оскорбительной идею заменить их сборной Иран на ЧМ-2026",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/5/02/347769588594025.jpeg",
+    "teaser": "В Италии назвали оскорбительной идею заменить их сборной Иран на ЧМ-2026",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69ea38749a7947a52a9b1d89",
+    "publishedAt": "2026-04-23T15:47:25.000Z",
+    "createdAt": "2026-04-23T17:25:24.193Z",
+    "updatedAt": "2026-04-23T17:25:24.193Z"
+  },
+  {
+    "id": "cc03cb4d49b25e91",
+    "title": "Мейвезер вслед за Усиком выйдет на ринг против кикбоксера",
+    "sport": "Единоборства",
+    "category": "Единоборства",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/0/96/347769524507960.jpeg",
+    "teaser": "Мейвезер вслед за Усиком выйдет на ринг против кикбоксера",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69ea1dd99a7947aea47316cd",
+    "publishedAt": "2026-04-23T15:12:43.000Z",
+    "createdAt": "2026-04-23T17:25:26.363Z",
+    "updatedAt": "2026-04-23T17:25:26.363Z"
+  },
+  {
     "id": "0d792db497ce91fe",
     "title": "Панарин рассказал, что нервничал перед первой игрой Кубка Стэнли-2026",
     "sport": "Хоккей",
@@ -10,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69ea2b219a7947a35db59666",
     "publishedAt": "2026-04-23T14:52:45.000Z",
-    "createdAt": "2026-04-23T15:16:42.359Z",
-    "updatedAt": "2026-04-23T15:16:42.359Z"
+    "createdAt": "2026-04-23T17:25:27.508Z",
+    "updatedAt": "2026-04-23T17:25:27.508Z"
   },
   {
     "id": "57df813a30ecbb6d",
@@ -24,8 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69ea20dc9a7947733418983e",
     "publishedAt": "2026-04-23T13:55:22.000Z",
-    "createdAt": "2026-04-23T15:16:45.918Z",
-    "updatedAt": "2026-04-23T15:16:45.918Z"
+    "createdAt": "2026-04-23T17:25:30.826Z",
+    "updatedAt": "2026-04-23T17:25:30.826Z"
   },
   {
     "id": "d4c13365b89888bf",
@@ -38,22 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69ea15c49a794751182df04b",
     "publishedAt": "2026-04-23T13:46:21.000Z",
-    "createdAt": "2026-04-23T15:16:43.708Z",
-    "updatedAt": "2026-04-23T15:16:43.708Z"
-  },
-  {
-    "id": "85f4532e4ae6e48c",
-    "title": "Шнайдер стартовала на крупном турнире в Мадриде с волевой победы",
-    "sport": "Теннис",
-    "category": "Теннис",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/6/53/347769486507536.jpeg",
-    "teaser": "Шнайдер стартовала на крупном турнире в Мадриде с волевой победы",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69ea157d9a7947bec4926706",
-    "publishedAt": "2026-04-23T13:22:43.000Z",
-    "createdAt": "2026-04-23T15:16:47.340Z",
-    "updatedAt": "2026-04-23T15:16:47.340Z"
+    "createdAt": "2026-04-23T17:25:28.628Z",
+    "updatedAt": "2026-04-23T17:25:28.628Z"
   },
   {
     "id": "e724fd69d715c4a8",
@@ -66,77 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69ea0d199a7947e0a7616de9",
     "publishedAt": "2026-04-23T13:20:57.000Z",
-    "createdAt": "2026-04-23T15:16:44.847Z",
-    "updatedAt": "2026-04-23T15:16:44.847Z"
-  },
-  {
-    "id": "7c346d5b850ab31d",
-    "title": "Лучший бомбардир «Барселоны» Ямаль выбыл до конца сезона из-за травмы",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/8/24/347769453483248.jpeg",
-    "teaser": "Лучший бомбардир «Барселоны» Ямаль выбыл до конца сезона из-за травмы",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69ea08779a7947bf3f0779d0",
-    "publishedAt": "2026-04-23T12:09:43.000Z",
-    "createdAt": "2026-04-23T15:16:48.486Z",
-    "updatedAt": "2026-04-23T15:16:48.486Z"
-  },
-  {
-    "id": "619e14dcb53eed2f",
-    "title": "У конфликтующего с ФИФА профсоюза игроков появился конкурент",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/9/53/347769429163539.jpeg",
-    "teaser": "У конфликтующего с ФИФА профсоюза игроков появился конкурент",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69e9fef69a79470c04a5e487",
-    "publishedAt": "2026-04-23T11:56:46.000Z",
-    "createdAt": "2026-04-23T15:16:51.770Z",
-    "updatedAt": "2026-04-23T15:16:51.770Z"
-  },
-  {
-    "id": "22ca9cd41a0947da",
-    "title": "Президент FIS пошел на новые выборы от Грузии",
-    "sport": "Другое",
-    "category": "Другие",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/8/11/347769430145118.jpeg",
-    "teaser": "Президент FIS пошел на новые выборы от Грузии",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69e9fdfe9a7947e08b9579a6",
-    "publishedAt": "2026-04-23T11:46:45.000Z",
-    "createdAt": "2026-04-23T15:16:49.556Z",
-    "updatedAt": "2026-04-23T15:16:49.556Z"
-  },
-  {
-    "id": "8618f552303d077b",
-    "title": "Умер бывший глава департамента профессионального футбола РФС Куликов",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/8/57/347769418475578.jpeg",
-    "teaser": "Умер бывший глава департамента профессионального футбола РФС Куликов",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69e9f7f49a7947221988c9e2",
-    "publishedAt": "2026-04-23T11:12:30.000Z",
-    "createdAt": "2026-04-23T15:16:52.969Z",
-    "updatedAt": "2026-04-23T15:16:52.969Z"
-  },
-  {
-    "id": "397f4a0becd81a26",
-    "title": "Гендиректор WTA ушла в отставку, проработав меньше двух лет",
-    "sport": "Теннис",
-    "category": "Теннис",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/8/80/347769401765808.jpeg",
-    "teaser": "Гендиректор WTA ушла в отставку, проработав меньше двух лет",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69e9f4329a794778b57e6b41",
-    "publishedAt": "2026-04-23T10:57:21.000Z",
-    "createdAt": "2026-04-23T15:16:50.689Z",
-    "updatedAt": "2026-04-23T15:16:50.689Z"
+    "createdAt": "2026-04-23T17:25:29.732Z",
+    "updatedAt": "2026-04-23T17:25:29.732Z"
   }
 ]
