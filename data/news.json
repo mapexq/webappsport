@@ -1,5 +1,89 @@
 [
   {
+    "id": "083411e437d82be5",
+    "title": "«Ахмат» и «Балтика» разошлись миром в матче 26-го тура РПЛ",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/7/01/347769692466017.jpeg",
+    "teaser": "«Ахмат» и «Балтика» разошлись миром в матче 26-го тура РПЛ",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69ea52289a794776982c3022",
+    "publishedAt": "2026-04-23T19:03:52.000Z",
+    "createdAt": "2026-04-23T19:20:19.391Z",
+    "updatedAt": "2026-04-23T19:20:19.391Z"
+  },
+  {
+    "id": "d7cc222fd50b34d3",
+    "title": "«Краснодар» обыграл «Спартак» и вернулся на первое место в РПЛ",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/6/10/347769684545106.png",
+    "teaser": "«Краснодар» обыграл «Спартак» и вернулся на первое место в РПЛ",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69ea53d09a79474a3d424cef",
+    "publishedAt": "2026-04-23T18:51:50.000Z",
+    "createdAt": "2026-04-23T19:20:18.572Z",
+    "updatedAt": "2026-04-23T19:20:18.572Z"
+  },
+  {
+    "id": "a1739fbea8ff5a4b",
+    "title": "Мирра Андреева выиграла первый матч на крупном турнире в Мадриде",
+    "sport": "Теннис",
+    "category": "Теннис",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/5/90/347769654624905.jpeg",
+    "teaser": "Мирра Андреева выиграла первый матч на крупном турнире в Мадриде",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69ea56ce9a794742c444a133",
+    "publishedAt": "2026-04-23T18:44:22.000Z",
+    "createdAt": "2026-04-23T19:20:21.322Z",
+    "updatedAt": "2026-04-23T19:20:21.322Z"
+  },
+  {
+    "id": "a71c8f5103521977",
+    "title": "Украинская штангистка отказалась от фото с россиянкой на ЧЕ",
+    "sport": "Другое",
+    "category": "Другие",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/0/19/347769656005190.jpeg",
+    "teaser": "Украинская штангистка отказалась от фото с россиянкой на ЧЕ",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69ea563b9a794750ad5676ca",
+    "publishedAt": "2026-04-23T18:01:50.000Z",
+    "createdAt": "2026-04-23T19:20:20.362Z",
+    "updatedAt": "2026-04-23T19:20:20.362Z"
+  },
+  {
+    "id": "fd00b0840e817a59",
+    "title": "Лидер РПЛ по «сухим» матчам выбыл на три недели из-за травмы",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/4/63/347769638643634.jpeg",
+    "teaser": "Лидер РПЛ по «сухим» матчам выбыл на три недели из-за травмы",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69ea4e519a7947137d15c4a1",
+    "publishedAt": "2026-04-23T17:09:35.000Z",
+    "createdAt": "2026-04-23T19:20:23.381Z",
+    "updatedAt": "2026-04-23T19:20:23.381Z"
+  },
+  {
+    "id": "63110289cd03a709",
+    "title": "Дегтярев назвал «половинчатым» решение FIBA о допуске россиян",
+    "sport": "Баскетбол",
+    "category": "Баскетбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/9/24/347769627777249.jpeg",
+    "teaser": "Дегтярев назвал «половинчатым» решение FIBA о допуске россиян",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69ea4a509a7947d456bdfc32",
+    "publishedAt": "2026-04-23T16:54:20.000Z",
+    "createdAt": "2026-04-23T19:20:24.431Z",
+    "updatedAt": "2026-04-23T19:20:24.431Z"
+  },
+  {
     "id": "b9da52c43e4b164a",
     "title": "Клуб Дзюбы продлил серию без побед в РПЛ до 10 матчей",
     "sport": "Футбол",
@@ -10,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69ea33599a7947f94d8ee00e",
     "publishedAt": "2026-04-23T16:51:28.000Z",
-    "createdAt": "2026-04-23T17:25:23.103Z",
-    "updatedAt": "2026-04-23T17:25:23.103Z"
+    "createdAt": "2026-04-23T19:20:26.551Z",
+    "updatedAt": "2026-04-23T19:20:26.551Z"
   },
   {
     "id": "bf28f1c1c8c29e39",
@@ -24,22 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69ea45cd9a794749c77ddf50",
     "publishedAt": "2026-04-23T16:45:16.000Z",
-    "createdAt": "2026-04-23T17:25:20.908Z",
-    "updatedAt": "2026-04-23T17:25:20.908Z"
-  },
-  {
-    "id": "71429e0cb2f37a10",
-    "title": "FIBA допустила российских баскетболистов до юношеской Лиги наций 3×3",
-    "sport": "Баскетбол",
-    "category": "Баскетбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/9/29/347769591216299.jpeg",
-    "teaser": "FIBA допустила российских баскетболистов до юношеской Лиги наций 3×3",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69ea3a689a79477ba7be7dbb",
-    "publishedAt": "2026-04-23T15:59:14.000Z",
-    "createdAt": "2026-04-23T17:25:25.271Z",
-    "updatedAt": "2026-04-23T17:25:25.271Z"
+    "createdAt": "2026-04-23T19:20:22.339Z",
+    "updatedAt": "2026-04-23T19:20:22.339Z"
   },
   {
     "id": "a713610abd68a41a",
@@ -52,8 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69ea2b109a794780eab6d2f3",
     "publishedAt": "2026-04-23T15:58:37.000Z",
-    "createdAt": "2026-04-23T17:25:22.010Z",
-    "updatedAt": "2026-04-23T17:25:22.010Z"
+    "createdAt": "2026-04-23T19:20:25.515Z",
+    "updatedAt": "2026-04-23T19:20:25.515Z"
   },
   {
     "id": "750438720b6a8b43",
@@ -66,77 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69ea38749a7947a52a9b1d89",
     "publishedAt": "2026-04-23T15:47:25.000Z",
-    "createdAt": "2026-04-23T17:25:24.193Z",
-    "updatedAt": "2026-04-23T17:25:24.193Z"
-  },
-  {
-    "id": "cc03cb4d49b25e91",
-    "title": "Мейвезер вслед за Усиком выйдет на ринг против кикбоксера",
-    "sport": "Единоборства",
-    "category": "Единоборства",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/0/96/347769524507960.jpeg",
-    "teaser": "Мейвезер вслед за Усиком выйдет на ринг против кикбоксера",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69ea1dd99a7947aea47316cd",
-    "publishedAt": "2026-04-23T15:12:43.000Z",
-    "createdAt": "2026-04-23T17:25:26.363Z",
-    "updatedAt": "2026-04-23T17:25:26.363Z"
-  },
-  {
-    "id": "0d792db497ce91fe",
-    "title": "Панарин рассказал, что нервничал перед первой игрой Кубка Стэнли-2026",
-    "sport": "Хоккей",
-    "category": "Хоккей",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/0/89/347769553056890.jpeg",
-    "teaser": "Панарин рассказал, что нервничал перед первой игрой Кубка Стэнли-2026",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69ea2b219a7947a35db59666",
-    "publishedAt": "2026-04-23T14:52:45.000Z",
-    "createdAt": "2026-04-23T17:25:27.508Z",
-    "updatedAt": "2026-04-23T17:25:27.508Z"
-  },
-  {
-    "id": "57df813a30ecbb6d",
-    "title": "Россиянка проиграла теннисистке из второй сотни на турнире в Мадриде",
-    "sport": "Теннис",
-    "category": "Теннис",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/1/13/347769516196131.jpeg",
-    "teaser": "Россиянка проиграла теннисистке из второй сотни на турнире в Мадриде",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69ea20dc9a7947733418983e",
-    "publishedAt": "2026-04-23T13:55:22.000Z",
-    "createdAt": "2026-04-23T17:25:30.826Z",
-    "updatedAt": "2026-04-23T17:25:30.826Z"
-  },
-  {
-    "id": "d4c13365b89888bf",
-    "title": "В Иране раскритиковали идею США о замене их сборной на Италию на ЧМ-2026",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/7/77/347769508923777.jpeg",
-    "teaser": "В Иране раскритиковали идею США о замене их сборной на Италию на ЧМ-2026",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69ea15c49a794751182df04b",
-    "publishedAt": "2026-04-23T13:46:21.000Z",
-    "createdAt": "2026-04-23T17:25:28.628Z",
-    "updatedAt": "2026-04-23T17:25:28.628Z"
-  },
-  {
-    "id": "e724fd69d715c4a8",
-    "title": "Два футболиста «Реала» выбыли из строя с одинаковыми травмами",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/4/14/347769479092144.jpeg",
-    "teaser": "Два футболиста «Реала» выбыли из строя с одинаковыми травмами",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69ea0d199a7947e0a7616de9",
-    "publishedAt": "2026-04-23T13:20:57.000Z",
-    "createdAt": "2026-04-23T17:25:29.732Z",
-    "updatedAt": "2026-04-23T17:25:29.732Z"
+    "createdAt": "2026-04-23T19:20:27.773Z",
+    "updatedAt": "2026-04-23T19:20:27.773Z"
   }
 ]
