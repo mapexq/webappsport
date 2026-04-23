@@ -1,5 +1,33 @@
 [
   {
+    "id": "82f99bef6da876eb",
+    "title": "В McLaren пообещали «совершенно новую» машину к Гран‑при Майами",
+    "sport": "Другое",
+    "category": "Формула-1",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/9/88/347769737661889.jpeg",
+    "teaser": "В McLaren пообещали «совершенно новую» машину к Гран‑при Майами",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69ea74419a79470dcdf97f05",
+    "publishedAt": "2026-04-23T20:16:10.000Z",
+    "createdAt": "2026-04-23T20:58:12.146Z",
+    "updatedAt": "2026-04-23T20:58:12.146Z"
+  },
+  {
+    "id": "b27030b2806f0e7c",
+    "title": "Турнирная таблица РПЛ",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/4/29/347769713787294.jpeg",
+    "teaser": "Турнирная таблица РПЛ",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69e7b2c09a79473b80296e66",
+    "publishedAt": "2026-04-23T19:54:11.000Z",
+    "createdAt": "2026-04-23T20:58:13.821Z",
+    "updatedAt": "2026-04-23T20:58:13.821Z"
+  },
+  {
     "id": "083411e437d82be5",
     "title": "«Ахмат» и «Балтика» разошлись миром в матче 26-го тура РПЛ",
     "sport": "Футбол",
@@ -10,8 +38,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69ea52289a794776982c3022",
     "publishedAt": "2026-04-23T19:03:52.000Z",
-    "createdAt": "2026-04-23T19:20:19.391Z",
-    "updatedAt": "2026-04-23T19:20:19.391Z"
+    "createdAt": "2026-04-23T20:58:15.989Z",
+    "updatedAt": "2026-04-23T20:58:15.989Z"
   },
   {
     "id": "d7cc222fd50b34d3",
@@ -24,8 +52,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69ea53d09a79474a3d424cef",
     "publishedAt": "2026-04-23T18:51:50.000Z",
-    "createdAt": "2026-04-23T19:20:18.572Z",
-    "updatedAt": "2026-04-23T19:20:18.572Z"
+    "createdAt": "2026-04-23T20:58:14.980Z",
+    "updatedAt": "2026-04-23T20:58:14.980Z"
   },
   {
     "id": "a1739fbea8ff5a4b",
@@ -38,8 +66,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69ea56ce9a794742c444a133",
     "publishedAt": "2026-04-23T18:44:22.000Z",
-    "createdAt": "2026-04-23T19:20:21.322Z",
-    "updatedAt": "2026-04-23T19:20:21.322Z"
+    "createdAt": "2026-04-23T20:58:17.982Z",
+    "updatedAt": "2026-04-23T20:58:17.982Z"
   },
   {
     "id": "a71c8f5103521977",
@@ -52,8 +80,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69ea563b9a794750ad5676ca",
     "publishedAt": "2026-04-23T18:01:50.000Z",
-    "createdAt": "2026-04-23T19:20:20.362Z",
-    "updatedAt": "2026-04-23T19:20:20.362Z"
+    "createdAt": "2026-04-23T20:58:16.991Z",
+    "updatedAt": "2026-04-23T20:58:16.991Z"
   },
   {
     "id": "fd00b0840e817a59",
@@ -66,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69ea4e519a7947137d15c4a1",
     "publishedAt": "2026-04-23T17:09:35.000Z",
-    "createdAt": "2026-04-23T19:20:23.381Z",
-    "updatedAt": "2026-04-23T19:20:23.381Z"
+    "createdAt": "2026-04-23T20:58:20.052Z",
+    "updatedAt": "2026-04-23T20:58:20.052Z"
   },
   {
     "id": "63110289cd03a709",
@@ -80,22 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69ea4a509a7947d456bdfc32",
     "publishedAt": "2026-04-23T16:54:20.000Z",
-    "createdAt": "2026-04-23T19:20:24.431Z",
-    "updatedAt": "2026-04-23T19:20:24.431Z"
-  },
-  {
-    "id": "b9da52c43e4b164a",
-    "title": "Клуб Дзюбы продлил серию без побед в РПЛ до 10 матчей",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/9/46/347769625100469.png",
-    "teaser": "Клуб Дзюбы продлил серию без побед в РПЛ до 10 матчей",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69ea33599a7947f94d8ee00e",
-    "publishedAt": "2026-04-23T16:51:28.000Z",
-    "createdAt": "2026-04-23T19:20:26.551Z",
-    "updatedAt": "2026-04-23T19:20:26.551Z"
+    "createdAt": "2026-04-23T20:58:21.108Z",
+    "updatedAt": "2026-04-23T20:58:21.108Z"
   },
   {
     "id": "bf28f1c1c8c29e39",
@@ -108,8 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69ea45cd9a794749c77ddf50",
     "publishedAt": "2026-04-23T16:45:16.000Z",
-    "createdAt": "2026-04-23T19:20:22.339Z",
-    "updatedAt": "2026-04-23T19:20:22.339Z"
+    "createdAt": "2026-04-23T20:58:19.050Z",
+    "updatedAt": "2026-04-23T20:58:19.050Z"
   },
   {
     "id": "a713610abd68a41a",
@@ -122,21 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69ea2b109a794780eab6d2f3",
     "publishedAt": "2026-04-23T15:58:37.000Z",
-    "createdAt": "2026-04-23T19:20:25.515Z",
-    "updatedAt": "2026-04-23T19:20:25.515Z"
-  },
-  {
-    "id": "750438720b6a8b43",
-    "title": "В Италии назвали оскорбительной идею заменить их сборной Иран на ЧМ-2026",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/5/02/347769588594025.jpeg",
-    "teaser": "В Италии назвали оскорбительной идею заменить их сборной Иран на ЧМ-2026",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69ea38749a7947a52a9b1d89",
-    "publishedAt": "2026-04-23T15:47:25.000Z",
-    "createdAt": "2026-04-23T19:20:27.773Z",
-    "updatedAt": "2026-04-23T19:20:27.773Z"
+    "createdAt": "2026-04-23T20:58:22.299Z",
+    "updatedAt": "2026-04-23T20:58:22.299Z"
   }
 ]
