@@ -1,5 +1,33 @@
 [
   {
+    "id": "3d07edd88eb46b4b",
+    "title": "В Иране заявили о «полной готовности» футбольной сборной к ЧМ-2026",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/9/45/347769375663459.png",
+    "teaser": "В Иране заявили о «полной готовности» футбольной сборной к ЧМ-2026",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69e9e8669a7947a4136a5ba3",
+    "publishedAt": "2026-04-23T10:14:08.000Z",
+    "createdAt": "2026-04-23T10:25:16.800Z",
+    "updatedAt": "2026-04-23T10:25:16.800Z"
+  },
+  {
+    "id": "a780d4eb302d3700",
+    "title": "Дочь главного тренера «Зенита» получила нейтральный статус от FEI",
+    "sport": "Другое",
+    "category": "Другие",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/6/66/347769358060666.jpeg",
+    "teaser": "Дочь главного тренера «Зенита» получила нейтральный статус от FEI",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69e9dcdf9a7947abc8cff8d1",
+    "publishedAt": "2026-04-23T09:35:47.000Z",
+    "createdAt": "2026-04-23T10:25:17.800Z",
+    "updatedAt": "2026-04-23T10:25:17.800Z"
+  },
+  {
     "id": "03524257014beb5e",
     "title": "В «Автомобилисте» заявили, что один из лидеров клуба подвел команду",
     "sport": "Хоккей",
@@ -10,8 +38,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69e9d6d29a7947d547240287",
     "publishedAt": "2026-04-23T08:45:41.000Z",
-    "createdAt": "2026-04-23T08:55:45.179Z",
-    "updatedAt": "2026-04-23T08:55:45.179Z"
+    "createdAt": "2026-04-23T10:25:18.847Z",
+    "updatedAt": "2026-04-23T10:25:18.847Z"
   },
   {
     "id": "2e21169e69b5cd5e",
@@ -24,8 +52,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69e9c9c89a7947735eecfdd2",
     "publishedAt": "2026-04-23T08:02:35.000Z",
-    "createdAt": "2026-04-23T08:55:46.133Z",
-    "updatedAt": "2026-04-23T08:55:46.133Z"
+    "createdAt": "2026-04-23T10:25:19.859Z",
+    "updatedAt": "2026-04-23T10:25:19.859Z"
   },
   {
     "id": "2a01b864dd9d99d0",
@@ -38,8 +66,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69e9c1f89a79477f585184cb",
     "publishedAt": "2026-04-23T07:22:36.000Z",
-    "createdAt": "2026-04-23T08:55:47.180Z",
-    "updatedAt": "2026-04-23T08:55:47.180Z"
+    "createdAt": "2026-04-23T10:25:20.805Z",
+    "updatedAt": "2026-04-23T10:25:20.805Z"
   },
   {
     "id": "20e376f997e121fd",
@@ -52,8 +80,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69e9b88f9a7947124581753a",
     "publishedAt": "2026-04-23T07:05:13.000Z",
-    "createdAt": "2026-04-23T08:55:48.290Z",
-    "updatedAt": "2026-04-23T08:55:48.290Z"
+    "createdAt": "2026-04-23T10:25:21.807Z",
+    "updatedAt": "2026-04-23T10:25:21.807Z"
   },
   {
     "id": "001db15019c28b5f",
@@ -66,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69e931ac9a79472c523e1a70",
     "publishedAt": "2026-04-22T21:17:48.000Z",
-    "createdAt": "2026-04-23T08:55:49.341Z",
-    "updatedAt": "2026-04-23T08:55:49.341Z"
+    "createdAt": "2026-04-23T10:25:22.765Z",
+    "updatedAt": "2026-04-23T10:25:22.765Z"
   },
   {
     "id": "ad1400f9bb88a063",
@@ -80,8 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69e927299a79472f7be3fcb9",
     "publishedAt": "2026-04-22T20:05:21.000Z",
-    "createdAt": "2026-04-23T08:55:50.354Z",
-    "updatedAt": "2026-04-23T08:55:50.354Z"
+    "createdAt": "2026-04-23T10:25:23.731Z",
+    "updatedAt": "2026-04-23T10:25:23.731Z"
   },
   {
     "id": "bfa838cf07224296",
@@ -94,8 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69e90cac9a79473dcbedf881",
     "publishedAt": "2026-04-22T18:51:19.000Z",
-    "createdAt": "2026-04-23T08:55:52.403Z",
-    "updatedAt": "2026-04-23T08:55:52.403Z"
+    "createdAt": "2026-04-23T10:25:25.827Z",
+    "updatedAt": "2026-04-23T10:25:25.827Z"
   },
   {
     "id": "0b57a30778ad1078",
@@ -108,35 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69e90bec9a79470460c581e8",
     "publishedAt": "2026-04-22T18:50:13.000Z",
-    "createdAt": "2026-04-23T08:55:51.394Z",
-    "updatedAt": "2026-04-23T08:55:51.394Z"
-  },
-  {
-    "id": "df431969f33c8a0f",
-    "title": "Российский тяжелоатлет с рекордом завоевал золото на ЧЕ в Батуми",
-    "sport": "Другое",
-    "category": "Другие",
-    "imageUrl": "/images/news-placeholder.jpg",
-    "teaser": "Российский тяжелоатлет с рекордом завоевал золото на ЧЕ в Батуми",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69e907b49a79475dcbbc2181",
-    "publishedAt": "2026-04-22T17:58:53.000Z",
-    "createdAt": "2026-04-23T08:55:54.221Z",
-    "updatedAt": "2026-04-23T08:55:54.221Z"
-  },
-  {
-    "id": "5f6ee999e8e5f8ce",
-    "title": "AS узнал, что Жозе Моуринью попросился в «Реал»",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/2/27/347768783512272.jpeg",
-    "teaser": "AS узнал, что Жозе Моуринью попросился в «Реал»",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69e8fe8c9a79477a154eb311",
-    "publishedAt": "2026-04-22T17:45:46.000Z",
-    "createdAt": "2026-04-23T08:55:55.127Z",
-    "updatedAt": "2026-04-23T08:55:55.127Z"
+    "createdAt": "2026-04-23T10:25:24.772Z",
+    "updatedAt": "2026-04-23T10:25:24.772Z"
   }
 ]
