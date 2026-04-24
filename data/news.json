@@ -1,5 +1,89 @@
 [
   {
+    "id": "99ad9f433c4d859a",
+    "title": "«Формула-1» объявила о возвращении в календарь Гран-при Турции",
+    "sport": "Другое",
+    "category": "Формула-1",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/7/25/347770334942257.jpeg",
+    "teaser": "«Формула-1» объявила о возвращении в календарь Гран-при Турции",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69eb60e59a79477d63bcb2e6",
+    "publishedAt": "2026-04-24T12:41:00.000Z",
+    "createdAt": "2026-04-24T13:49:39.118Z",
+    "updatedAt": "2026-04-24T13:49:39.118Z"
+  },
+  {
+    "id": "c7532a97b123169e",
+    "title": "Футболист «Зенита» заявил, что «охреневает» от цен на помидоры",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/9/70/347770331755709.jpeg",
+    "teaser": "Футболист «Зенита» заявил, что «охреневает» от цен на помидоры",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69eb5cab9a7947251fb7b221",
+    "publishedAt": "2026-04-24T12:38:37.000Z",
+    "createdAt": "2026-04-24T13:49:38.084Z",
+    "updatedAt": "2026-04-24T13:49:38.084Z"
+  },
+  {
+    "id": "162688275ce53462",
+    "title": "Российская синхронистка-чемпионка перешла в бобслей",
+    "sport": "Другое",
+    "category": "Другие",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/0/54/347770315534540.jpeg",
+    "teaser": "Российская синхронистка-чемпионка перешла в бобслей",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69eb59719a7947625d09fd2a",
+    "publishedAt": "2026-04-24T12:06:24.000Z",
+    "createdAt": "2026-04-24T13:49:40.171Z",
+    "updatedAt": "2026-04-24T13:49:40.171Z"
+  },
+  {
+    "id": "d44c1dd30673432e",
+    "title": "Серебряный призер Игр Филиппов посетил пять вулканов на Камчатке за сутки",
+    "sport": "Другое",
+    "category": "Другие",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/1/08/347770311394081.jpeg",
+    "teaser": "Серебряный призер Игр Филиппов посетил пять вулканов на Камчатке за сутки",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69eb538f9a7947cdba234ebc",
+    "publishedAt": "2026-04-24T12:02:01.000Z",
+    "createdAt": "2026-04-24T13:49:41.222Z",
+    "updatedAt": "2026-04-24T13:49:41.222Z"
+  },
+  {
+    "id": "5b187578bca4cfff",
+    "title": "В Египте заявили, что Салах сыграет в матче против сборной России в мае",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/3/27/347770290855273.jpeg",
+    "teaser": "В Египте заявили, что Салах сыграет в матче против сборной России в мае",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69eb4be09a7947e612028dc8",
+    "publishedAt": "2026-04-24T11:31:26.000Z",
+    "createdAt": "2026-04-24T13:49:42.288Z",
+    "updatedAt": "2026-04-24T13:49:42.288Z"
+  },
+  {
+    "id": "cbaa7d13bb3ea4bf",
+    "title": "Раньери покинул «Рому» после конфликта с главным тренером",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/3/14/347770278757143.jpeg",
+    "teaser": "Раньери покинул «Рому» после конфликта с главным тренером",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69eb4aff9a79477005350df6",
+    "publishedAt": "2026-04-24T11:30:09.000Z",
+    "createdAt": "2026-04-24T13:49:43.365Z",
+    "updatedAt": "2026-04-24T13:49:43.365Z"
+  },
+  {
     "id": "e34c7f2906e411d3",
     "title": "Андрей Падин возглавит мужскую сборную России по биатлону",
     "sport": "Другое",
@@ -10,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69eb43029a79470502695601",
     "publishedAt": "2026-04-24T10:54:07.000Z",
-    "createdAt": "2026-04-24T11:11:00.435Z",
-    "updatedAt": "2026-04-24T11:11:00.435Z"
+    "createdAt": "2026-04-24T13:49:44.401Z",
+    "updatedAt": "2026-04-24T13:49:44.401Z"
   },
   {
     "id": "e4ce72b1f96a2022",
@@ -24,8 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69eb38229a7947317442a523",
     "publishedAt": "2026-04-24T10:29:16.000Z",
-    "createdAt": "2026-04-24T11:11:02.215Z",
-    "updatedAt": "2026-04-24T11:11:02.215Z"
+    "createdAt": "2026-04-24T13:49:46.606Z",
+    "updatedAt": "2026-04-24T13:49:46.606Z"
   },
   {
     "id": "942b5e495898a492",
@@ -38,8 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69eb3beb9a7947819ea14a8e",
     "publishedAt": "2026-04-24T10:21:41.000Z",
-    "createdAt": "2026-04-24T11:11:01.250Z",
-    "updatedAt": "2026-04-24T11:11:01.250Z"
+    "createdAt": "2026-04-24T13:49:45.581Z",
+    "updatedAt": "2026-04-24T13:49:45.581Z"
   },
   {
     "id": "43dd08879b66c211",
@@ -52,91 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69eb26c89a79476198b9eec6",
     "publishedAt": "2026-04-24T09:31:55.000Z",
-    "createdAt": "2026-04-24T11:11:03.251Z",
-    "updatedAt": "2026-04-24T11:11:03.251Z"
-  },
-  {
-    "id": "5aed86668beb013d",
-    "title": "Названо время начала матча «Спартак» — ЦСКА за выход в суперфинал Кубка",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/0/49/347770213978490.jpeg",
-    "teaser": "Названо время начала матча «Спартак» — ЦСКА за выход в суперфинал Кубка",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69eb316d9a794780d7ed30a2",
-    "publishedAt": "2026-04-24T09:16:39.000Z",
-    "createdAt": "2026-04-24T11:11:04.267Z",
-    "updatedAt": "2026-04-24T11:11:04.267Z"
-  },
-  {
-    "id": "a14082eb58999dd0",
-    "title": "Клуб КХЛ «Торпедо» продлил контракт с главным тренером",
-    "sport": "Хоккей",
-    "category": "Хоккей",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/2/78/347770182413782.jpeg",
-    "teaser": "Клуб КХЛ «Торпедо» продлил контракт с главным тренером",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69eb25679a794759159cc277",
-    "publishedAt": "2026-04-24T08:19:13.000Z",
-    "createdAt": "2026-04-24T11:11:06.363Z",
-    "updatedAt": "2026-04-24T11:11:06.363Z"
-  },
-  {
-    "id": "b816adb51d9a5d18",
-    "title": "Третьяк призвал Овечкина провести еще один сезон в НХЛ",
-    "sport": "Хоккей",
-    "category": "Хоккей",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/1/50/347770177200501.jpeg",
-    "teaser": "Третьяк призвал Овечкина провести еще один сезон в НХЛ",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69eb23319a79478c66a71a5a",
-    "publishedAt": "2026-04-24T08:13:08.000Z",
-    "createdAt": "2026-04-24T11:11:05.291Z",
-    "updatedAt": "2026-04-24T11:11:05.291Z"
-  },
-  {
-    "id": "295c253ad289a399",
-    "title": "Трамп назвал интересным вопрос о замене сборной Ирана на Италию на ЧМ-26",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/3/13/347770169071133.jpeg",
-    "teaser": "Трамп назвал интересным вопрос о замене сборной Ирана на Италию на ЧМ-26",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69eb1bde9a794776e43e18f3",
-    "publishedAt": "2026-04-24T08:11:46.000Z",
-    "createdAt": "2026-04-24T11:11:07.697Z",
-    "updatedAt": "2026-04-24T11:11:07.697Z"
-  },
-  {
-    "id": "fc25b580b98f1ef7",
-    "title": "«Каролина» с двумя россиянами выиграла третий матч серии плей-офф НХЛ",
-    "sport": "Хоккей",
-    "category": "Хоккей",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/1/52/347770169199521.jpeg",
-    "teaser": "«Каролина» с двумя россиянами выиграла третий матч серии плей-офф НХЛ",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69eb19c19a7947a225775827",
-    "publishedAt": "2026-04-24T07:36:51.000Z",
-    "createdAt": "2026-04-24T11:11:09.769Z",
-    "updatedAt": "2026-04-24T11:11:09.769Z"
-  },
-  {
-    "id": "377bfd6a629e4e37",
-    "title": "Глава УЕФА заявил, что перестал понимать трактовки правил судьями",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/9/16/347770144484169.jpeg",
-    "teaser": "Глава УЕФА заявил, что перестал понимать трактовки правил судьями",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69eb0d639a79475ccef13a07",
-    "publishedAt": "2026-04-24T07:15:57.000Z",
-    "createdAt": "2026-04-24T11:11:08.734Z",
-    "updatedAt": "2026-04-24T11:11:08.734Z"
+    "createdAt": "2026-04-24T13:49:47.652Z",
+    "updatedAt": "2026-04-24T13:49:47.652Z"
   }
 ]
