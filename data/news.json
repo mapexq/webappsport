@@ -1,5 +1,47 @@
 [
   {
+    "id": "c4bd9b1294913b4e",
+    "title": "«Авангард» повел в серии с «Локомотивом» в полуфинале Кубка Гагарина",
+    "sport": "Хоккей",
+    "category": "Хоккей",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/3/20/347770533757203.jpeg",
+    "teaser": "«Авангард» повел в серии с «Локомотивом» в полуфинале Кубка Гагарина",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69ebabd39a7947be860b887e",
+    "publishedAt": "2026-04-24T18:42:16.000Z",
+    "createdAt": "2026-04-24T19:01:33.770Z",
+    "updatedAt": "2026-04-24T19:01:33.770Z"
+  },
+  {
+    "id": "5628ae4bb0f7b24d",
+    "title": "Садулаев вышел в финал своего первого с 2020 года чемпионата Европы",
+    "sport": "Другое",
+    "category": "Другие",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/7/07/347770525704077.jpeg",
+    "teaser": "Садулаев вышел в финал своего первого с 2020 года чемпионата Европы",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69eba9be9a7947de22df9d63",
+    "publishedAt": "2026-04-24T17:53:36.000Z",
+    "createdAt": "2026-04-24T19:01:34.760Z",
+    "updatedAt": "2026-04-24T19:01:34.760Z"
+  },
+  {
+    "id": "bac26c007a057c6a",
+    "title": "Рублев проиграл в первом матче на «Мастерс» в Мадриде",
+    "sport": "Теннис",
+    "category": "Теннис",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/6/59/347770511088596.jpeg",
+    "teaser": "Рублев проиграл в первом матче на «Мастерс» в Мадриде",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69eba5ad9a79473cf5d91e1f",
+    "publishedAt": "2026-04-24T17:42:49.000Z",
+    "createdAt": "2026-04-24T19:01:35.744Z",
+    "updatedAt": "2026-04-24T19:01:35.744Z"
+  },
+  {
     "id": "1de1e74d2206ccdd",
     "title": "Россиянин стал обязательным претендентом на титул чемпиона мира IBF",
     "sport": "Единоборства",
@@ -10,8 +52,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69eb976b9a794711fa2d34a9",
     "publishedAt": "2026-04-24T16:43:44.000Z",
-    "createdAt": "2026-04-24T17:04:21.017Z",
-    "updatedAt": "2026-04-24T17:04:21.017Z"
+    "createdAt": "2026-04-24T19:01:37.832Z",
+    "updatedAt": "2026-04-24T19:01:37.832Z"
   },
   {
     "id": "f8f6b58d00493f51",
@@ -24,8 +66,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69eb8f469a79473b13a86279",
     "publishedAt": "2026-04-24T16:40:12.000Z",
-    "createdAt": "2026-04-24T17:04:20.171Z",
-    "updatedAt": "2026-04-24T17:04:20.171Z"
+    "createdAt": "2026-04-24T19:01:36.796Z",
+    "updatedAt": "2026-04-24T19:01:36.796Z"
   },
   {
     "id": "c17cb36d76e88d55",
@@ -38,8 +80,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69eb90af9a79474e88eff896",
     "publishedAt": "2026-04-24T16:00:27.000Z",
-    "createdAt": "2026-04-24T17:04:22.108Z",
-    "updatedAt": "2026-04-24T17:04:22.108Z"
+    "createdAt": "2026-04-24T19:01:38.787Z",
+    "updatedAt": "2026-04-24T19:01:38.787Z"
   },
   {
     "id": "debc44031c7c0654",
@@ -52,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69eb874c9a794753e37a0fe4",
     "publishedAt": "2026-04-24T15:31:32.000Z",
-    "createdAt": "2026-04-24T17:04:25.044Z",
-    "updatedAt": "2026-04-24T17:04:25.044Z"
+    "createdAt": "2026-04-24T19:01:41.706Z",
+    "updatedAt": "2026-04-24T19:01:41.706Z"
   },
   {
     "id": "99fb4acb2e697f2f",
@@ -66,8 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69eb7fc99a79477ba5239f03",
     "publishedAt": "2026-04-24T15:26:00.000Z",
-    "createdAt": "2026-04-24T17:04:23.103Z",
-    "updatedAt": "2026-04-24T17:04:23.103Z"
+    "createdAt": "2026-04-24T19:01:39.839Z",
+    "updatedAt": "2026-04-24T19:01:39.839Z"
   },
   {
     "id": "40489fd5301a3e36",
@@ -80,50 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69eb78649a79470aaff905e6",
     "publishedAt": "2026-04-24T14:41:42.000Z",
-    "createdAt": "2026-04-24T17:04:26.104Z",
-    "updatedAt": "2026-04-24T17:04:26.104Z"
-  },
-  {
-    "id": "84777f93523b837d",
-    "title": "Оскорбивший Винисиуса игрок «Бенфики» дисквалифицирован на шесть матчей",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/8/28/347770371154288.jpeg",
-    "teaser": "Оскорбивший Винисиуса игрок «Бенфики» дисквалифицирован на шесть матчей",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69eb69079a794775444ad771",
-    "publishedAt": "2026-04-24T14:09:09.000Z",
-    "createdAt": "2026-04-24T17:04:28.217Z",
-    "updatedAt": "2026-04-24T17:04:28.217Z"
-  },
-  {
-    "id": "0341ffe351e0a0a7",
-    "title": "Андреева и Шнайдер выиграли первый совместный матч в парах в этом сезоне",
-    "sport": "Теннис",
-    "category": "Теннис",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/7/37/347770379250377.jpeg",
-    "teaser": "Андреева и Шнайдер выиграли первый совместный матч в парах в этом сезоне",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69eb67f09a794709e10eeb96",
-    "publishedAt": "2026-04-24T14:05:11.000Z",
-    "createdAt": "2026-04-24T17:04:29.286Z",
-    "updatedAt": "2026-04-24T17:04:29.286Z"
-  },
-  {
-    "id": "905ed0eb2902afa6",
-    "title": "РФС дисквалифицировал тренера «Зенита» за нецензурную брань в адрес судьи",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/6/41/347770372812416.jpeg",
-    "teaser": "РФС дисквалифицировал тренера «Зенита» за нецензурную брань в адрес судьи",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69eb6cd49a79478c593b6c4d",
-    "publishedAt": "2026-04-24T14:03:59.000Z",
-    "createdAt": "2026-04-24T17:04:30.424Z",
-    "updatedAt": "2026-04-24T17:04:30.424Z"
+    "createdAt": "2026-04-24T19:01:42.756Z",
+    "updatedAt": "2026-04-24T19:01:42.756Z"
   },
   {
     "id": "fcbea3958695c295",
@@ -136,7 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69eb75609a794700fb0457d5",
     "publishedAt": "2026-04-24T14:01:17.000Z",
-    "createdAt": "2026-04-24T17:04:27.151Z",
-    "updatedAt": "2026-04-24T17:04:27.151Z"
+    "createdAt": "2026-04-24T19:01:43.979Z",
+    "updatedAt": "2026-04-24T19:01:43.979Z"
   }
 ]
