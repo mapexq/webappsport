@@ -1,5 +1,75 @@
 [
   {
+    "id": "e34c7f2906e411d3",
+    "title": "Андрей Падин возглавит мужскую сборную России по биатлону",
+    "sport": "Другое",
+    "category": "Биатлон",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/0/20/347770277352200.jpeg",
+    "teaser": "Андрей Падин возглавит мужскую сборную России по биатлону",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69eb43029a79470502695601",
+    "publishedAt": "2026-04-24T10:54:07.000Z",
+    "createdAt": "2026-04-24T11:11:00.435Z",
+    "updatedAt": "2026-04-24T11:11:00.435Z"
+  },
+  {
+    "id": "e4ce72b1f96a2022",
+    "title": "Тренер «Спартака» заявил, что его отсутствие из-за операции изменило клуб",
+    "sport": "Хоккей",
+    "category": "Хоккей",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/4/46/347770231489464.jpeg",
+    "teaser": "Тренер «Спартака» заявил, что его отсутствие из-за операции изменило клуб",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69eb38229a7947317442a523",
+    "publishedAt": "2026-04-24T10:29:16.000Z",
+    "createdAt": "2026-04-24T11:11:02.215Z",
+    "updatedAt": "2026-04-24T11:11:02.215Z"
+  },
+  {
+    "id": "942b5e495898a492",
+    "title": "Белорусского одноклубника Овечкина признали лучшим новичком сезона АХЛ",
+    "sport": "Хоккей",
+    "category": "Хоккей",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/1/00/347770240053001.jpeg",
+    "teaser": "Белорусского одноклубника Овечкина признали лучшим новичком сезона АХЛ",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69eb3beb9a7947819ea14a8e",
+    "publishedAt": "2026-04-24T10:21:41.000Z",
+    "createdAt": "2026-04-24T11:11:01.250Z",
+    "updatedAt": "2026-04-24T11:11:01.250Z"
+  },
+  {
+    "id": "43dd08879b66c211",
+    "title": "В Латвии задумались о лишении тренерской лицензии игравшего в КХЛ вратаря",
+    "sport": "Хоккей",
+    "category": "Хоккей",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/9/48/347770210413489.jpeg",
+    "teaser": "В Латвии задумались о лишении тренерской лицензии игравшего в КХЛ вратаря",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69eb26c89a79476198b9eec6",
+    "publishedAt": "2026-04-24T09:31:55.000Z",
+    "createdAt": "2026-04-24T11:11:03.251Z",
+    "updatedAt": "2026-04-24T11:11:03.251Z"
+  },
+  {
+    "id": "5aed86668beb013d",
+    "title": "Названо время начала матча «Спартак» — ЦСКА за выход в суперфинал Кубка",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/0/49/347770213978490.jpeg",
+    "teaser": "Названо время начала матча «Спартак» — ЦСКА за выход в суперфинал Кубка",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69eb316d9a794780d7ed30a2",
+    "publishedAt": "2026-04-24T09:16:39.000Z",
+    "createdAt": "2026-04-24T11:11:04.267Z",
+    "updatedAt": "2026-04-24T11:11:04.267Z"
+  },
+  {
     "id": "a14082eb58999dd0",
     "title": "Клуб КХЛ «Торпедо» продлил контракт с главным тренером",
     "sport": "Хоккей",
@@ -10,8 +80,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69eb25679a794759159cc277",
     "publishedAt": "2026-04-24T08:19:13.000Z",
-    "createdAt": "2026-04-24T09:03:30.189Z",
-    "updatedAt": "2026-04-24T09:03:30.189Z"
+    "createdAt": "2026-04-24T11:11:06.363Z",
+    "updatedAt": "2026-04-24T11:11:06.363Z"
   },
   {
     "id": "b816adb51d9a5d18",
@@ -24,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69eb23319a79478c66a71a5a",
     "publishedAt": "2026-04-24T08:13:08.000Z",
-    "createdAt": "2026-04-24T09:03:29.063Z",
-    "updatedAt": "2026-04-24T09:03:29.063Z"
+    "createdAt": "2026-04-24T11:11:05.291Z",
+    "updatedAt": "2026-04-24T11:11:05.291Z"
   },
   {
     "id": "295c253ad289a399",
@@ -38,8 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69eb1bde9a794776e43e18f3",
     "publishedAt": "2026-04-24T08:11:46.000Z",
-    "createdAt": "2026-04-24T09:03:31.263Z",
-    "updatedAt": "2026-04-24T09:03:31.263Z"
+    "createdAt": "2026-04-24T11:11:07.697Z",
+    "updatedAt": "2026-04-24T11:11:07.697Z"
   },
   {
     "id": "fc25b580b98f1ef7",
@@ -52,22 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69eb19c19a7947a225775827",
     "publishedAt": "2026-04-24T07:36:51.000Z",
-    "createdAt": "2026-04-24T09:03:33.381Z",
-    "updatedAt": "2026-04-24T09:03:33.381Z"
-  },
-  {
-    "id": "440740f66ebb3c41",
-    "title": "Футболист махачкалинского «Динамо» получил перелом в матче с клубом Дзюбы",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/1/21/347770144840211.jpeg",
-    "teaser": "Футболист махачкалинского «Динамо» получил перелом в матче с клубом Дзюбы",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69eb16ba9a79470ef6e97915",
-    "publishedAt": "2026-04-24T07:28:28.000Z",
-    "createdAt": "2026-04-24T09:03:34.500Z",
-    "updatedAt": "2026-04-24T09:03:34.500Z"
+    "createdAt": "2026-04-24T11:11:09.769Z",
+    "updatedAt": "2026-04-24T11:11:09.769Z"
   },
   {
     "id": "377bfd6a629e4e37",
@@ -80,63 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69eb0d639a79475ccef13a07",
     "publishedAt": "2026-04-24T07:15:57.000Z",
-    "createdAt": "2026-04-24T09:03:32.329Z",
-    "updatedAt": "2026-04-24T09:03:32.329Z"
-  },
-  {
-    "id": "28e9b2c9637d75d5",
-    "title": "«Лос-Анджелес» Панарина остался в шаге от вылета из Кубка Стэнли",
-    "sport": "Хоккей",
-    "category": "Хоккей",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/0/11/347770115863110.jpeg",
-    "teaser": "«Лос-Анджелес» Панарина остался в шаге от вылета из Кубка Стэнли",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69eb084f9a79471d3c5dc483",
-    "publishedAt": "2026-04-24T06:41:40.000Z",
-    "createdAt": "2026-04-24T09:03:35.626Z",
-    "updatedAt": "2026-04-24T09:03:35.626Z"
-  },
-  {
-    "id": "82f99bef6da876eb",
-    "title": "В McLaren пообещали «совершенно новую» машину к Гран‑при Майами",
-    "sport": "Другое",
-    "category": "Формула-1",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/9/88/347769737661889.jpeg",
-    "teaser": "В McLaren пообещали «совершенно новую» машину к Гран‑при Майами",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69ea74419a79470dcdf97f05",
-    "publishedAt": "2026-04-23T20:16:10.000Z",
-    "createdAt": "2026-04-24T09:03:36.733Z",
-    "updatedAt": "2026-04-24T09:03:36.733Z"
-  },
-  {
-    "id": "b27030b2806f0e7c",
-    "title": "Турнирная таблица РПЛ",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/4/29/347769713787294.jpeg",
-    "teaser": "Турнирная таблица РПЛ",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69e7b2c09a79473b80296e66",
-    "publishedAt": "2026-04-23T19:54:11.000Z",
-    "createdAt": "2026-04-24T09:03:38.828Z",
-    "updatedAt": "2026-04-24T09:03:38.828Z"
-  },
-  {
-    "id": "d7cc222fd50b34d3",
-    "title": "«Краснодар» обыграл «Спартак» и вернулся на первое место в РПЛ",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/6/10/347769684545106.png",
-    "teaser": "«Краснодар» обыграл «Спартак» и вернулся на первое место в РПЛ",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69ea53d09a79474a3d424cef",
-    "publishedAt": "2026-04-23T18:51:50.000Z",
-    "createdAt": "2026-04-24T09:03:39.911Z",
-    "updatedAt": "2026-04-24T09:03:39.911Z"
+    "createdAt": "2026-04-24T11:11:08.734Z",
+    "updatedAt": "2026-04-24T11:11:08.734Z"
   }
 ]
