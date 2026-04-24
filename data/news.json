@@ -1,5 +1,75 @@
 [
   {
+    "id": "1de1e74d2206ccdd",
+    "title": "Россиянин стал обязательным претендентом на титул чемпиона мира IBF",
+    "sport": "Единоборства",
+    "category": "Единоборства",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/7/35/347770474917357.jpeg",
+    "teaser": "Россиянин стал обязательным претендентом на титул чемпиона мира IBF",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69eb976b9a794711fa2d34a9",
+    "publishedAt": "2026-04-24T16:43:44.000Z",
+    "createdAt": "2026-04-24T17:04:21.017Z",
+    "updatedAt": "2026-04-24T17:04:21.017Z"
+  },
+  {
+    "id": "f8f6b58d00493f51",
+    "title": "В РПЛ заявили о нежелании всех клубов ужесточать лимит на легионеров",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/0/27/347770463624270.jpeg",
+    "teaser": "В РПЛ заявили о нежелании всех клубов ужесточать лимит на легионеров",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69eb8f469a79473b13a86279",
+    "publishedAt": "2026-04-24T16:40:12.000Z",
+    "createdAt": "2026-04-24T17:04:20.171Z",
+    "updatedAt": "2026-04-24T17:04:20.171Z"
+  },
+  {
+    "id": "c17cb36d76e88d55",
+    "title": "Алькарас не будет защищать титул на «Ролан Гаррос» из-за травмы",
+    "sport": "Теннис",
+    "category": "Теннис",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/6/32/347770457295326.jpeg",
+    "teaser": "Алькарас не будет защищать титул на «Ролан Гаррос» из-за травмы",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69eb90af9a79474e88eff896",
+    "publishedAt": "2026-04-24T16:00:27.000Z",
+    "createdAt": "2026-04-24T17:04:22.108Z",
+    "updatedAt": "2026-04-24T17:04:22.108Z"
+  },
+  {
+    "id": "debc44031c7c0654",
+    "title": "Экс-главу федерации снукера Афганистана убили накануне соревнований",
+    "sport": "Другое",
+    "category": "Другие",
+    "imageUrl": "/images/news-placeholder.jpg",
+    "teaser": "Экс-главу федерации снукера Афганистана убили накануне соревнований",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69eb874c9a794753e37a0fe4",
+    "publishedAt": "2026-04-24T15:31:32.000Z",
+    "createdAt": "2026-04-24T17:04:25.044Z",
+    "updatedAt": "2026-04-24T17:04:25.044Z"
+  },
+  {
+    "id": "99fb4acb2e697f2f",
+    "title": "Экс-футболист сборной Нигерии умер на поле во время матча",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/9/40/347770422758409.jpeg",
+    "teaser": "Экс-футболист сборной Нигерии умер на поле во время матча",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69eb7fc99a79477ba5239f03",
+    "publishedAt": "2026-04-24T15:26:00.000Z",
+    "createdAt": "2026-04-24T17:04:23.103Z",
+    "updatedAt": "2026-04-24T17:04:23.103Z"
+  },
+  {
     "id": "40489fd5301a3e36",
     "title": "На платформе ФИФА выставили билеты на финал ЧМ-2026 стоимостью $2,3 млн",
     "sport": "Футбол",
@@ -10,8 +80,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69eb78649a79470aaff905e6",
     "publishedAt": "2026-04-24T14:41:42.000Z",
-    "createdAt": "2026-04-24T15:12:50.522Z",
-    "updatedAt": "2026-04-24T15:12:50.522Z"
+    "createdAt": "2026-04-24T17:04:26.104Z",
+    "updatedAt": "2026-04-24T17:04:26.104Z"
   },
   {
     "id": "84777f93523b837d",
@@ -24,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69eb69079a794775444ad771",
     "publishedAt": "2026-04-24T14:09:09.000Z",
-    "createdAt": "2026-04-24T15:12:52.495Z",
-    "updatedAt": "2026-04-24T15:12:52.495Z"
+    "createdAt": "2026-04-24T17:04:28.217Z",
+    "updatedAt": "2026-04-24T17:04:28.217Z"
   },
   {
     "id": "0341ffe351e0a0a7",
@@ -38,8 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69eb67f09a794709e10eeb96",
     "publishedAt": "2026-04-24T14:05:11.000Z",
-    "createdAt": "2026-04-24T15:12:53.508Z",
-    "updatedAt": "2026-04-24T15:12:53.508Z"
+    "createdAt": "2026-04-24T17:04:29.286Z",
+    "updatedAt": "2026-04-24T17:04:29.286Z"
   },
   {
     "id": "905ed0eb2902afa6",
@@ -52,8 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69eb6cd49a79478c593b6c4d",
     "publishedAt": "2026-04-24T14:03:59.000Z",
-    "createdAt": "2026-04-24T15:12:54.675Z",
-    "updatedAt": "2026-04-24T15:12:54.675Z"
+    "createdAt": "2026-04-24T17:04:30.424Z",
+    "updatedAt": "2026-04-24T17:04:30.424Z"
   },
   {
     "id": "fcbea3958695c295",
@@ -66,77 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69eb75609a794700fb0457d5",
     "publishedAt": "2026-04-24T14:01:17.000Z",
-    "createdAt": "2026-04-24T15:12:51.447Z",
-    "updatedAt": "2026-04-24T15:12:51.447Z"
-  },
-  {
-    "id": "99ad9f433c4d859a",
-    "title": "«Формула-1» объявила о возвращении в календарь Гран-при Турции",
-    "sport": "Другое",
-    "category": "Формула-1",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/7/25/347770334942257.jpeg",
-    "teaser": "«Формула-1» объявила о возвращении в календарь Гран-при Турции",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69eb60e59a79477d63bcb2e6",
-    "publishedAt": "2026-04-24T12:41:00.000Z",
-    "createdAt": "2026-04-24T15:12:56.915Z",
-    "updatedAt": "2026-04-24T15:12:56.915Z"
-  },
-  {
-    "id": "c7532a97b123169e",
-    "title": "Футболист «Зенита» заявил, что «охреневает» от цен на помидоры",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/9/70/347770331755709.jpeg",
-    "teaser": "Футболист «Зенита» заявил, что «охреневает» от цен на помидоры",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69eb5cab9a7947251fb7b221",
-    "publishedAt": "2026-04-24T12:38:37.000Z",
-    "createdAt": "2026-04-24T15:12:55.790Z",
-    "updatedAt": "2026-04-24T15:12:55.790Z"
-  },
-  {
-    "id": "162688275ce53462",
-    "title": "Российская синхронистка-чемпионка перешла в бобслей",
-    "sport": "Другое",
-    "category": "Другие",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/0/54/347770315534540.jpeg",
-    "teaser": "Российская синхронистка-чемпионка перешла в бобслей",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69eb59719a7947625d09fd2a",
-    "publishedAt": "2026-04-24T12:06:24.000Z",
-    "createdAt": "2026-04-24T15:12:58.031Z",
-    "updatedAt": "2026-04-24T15:12:58.031Z"
-  },
-  {
-    "id": "d44c1dd30673432e",
-    "title": "Серебряный призер Игр Филиппов посетил пять вулканов на Камчатке за сутки",
-    "sport": "Другое",
-    "category": "Другие",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/1/08/347770311394081.jpeg",
-    "teaser": "Серебряный призер Игр Филиппов посетил пять вулканов на Камчатке за сутки",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69eb538f9a7947cdba234ebc",
-    "publishedAt": "2026-04-24T12:02:01.000Z",
-    "createdAt": "2026-04-24T15:12:59.208Z",
-    "updatedAt": "2026-04-24T15:12:59.208Z"
-  },
-  {
-    "id": "5b187578bca4cfff",
-    "title": "В Египте заявили, что Салах сыграет в матче против сборной России в мае",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/3/27/347770290855273.jpeg",
-    "teaser": "В Египте заявили, что Салах сыграет в матче против сборной России в мае",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69eb4be09a7947e612028dc8",
-    "publishedAt": "2026-04-24T11:31:26.000Z",
-    "createdAt": "2026-04-24T15:13:00.354Z",
-    "updatedAt": "2026-04-24T15:13:00.354Z"
+    "createdAt": "2026-04-24T17:04:27.151Z",
+    "updatedAt": "2026-04-24T17:04:27.151Z"
   }
 ]
