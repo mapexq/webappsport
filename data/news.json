@@ -1,5 +1,75 @@
 [
   {
+    "id": "40489fd5301a3e36",
+    "title": "На платформе ФИФА выставили билеты на финал ЧМ-2026 стоимостью $2,3 млн",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/4/61/347770403706614.jpeg",
+    "teaser": "На платформе ФИФА выставили билеты на финал ЧМ-2026 стоимостью $2,3 млн",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69eb78649a79470aaff905e6",
+    "publishedAt": "2026-04-24T14:41:42.000Z",
+    "createdAt": "2026-04-24T15:12:50.522Z",
+    "updatedAt": "2026-04-24T15:12:50.522Z"
+  },
+  {
+    "id": "84777f93523b837d",
+    "title": "Оскорбивший Винисиуса игрок «Бенфики» дисквалифицирован на шесть матчей",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/8/28/347770371154288.jpeg",
+    "teaser": "Оскорбивший Винисиуса игрок «Бенфики» дисквалифицирован на шесть матчей",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69eb69079a794775444ad771",
+    "publishedAt": "2026-04-24T14:09:09.000Z",
+    "createdAt": "2026-04-24T15:12:52.495Z",
+    "updatedAt": "2026-04-24T15:12:52.495Z"
+  },
+  {
+    "id": "0341ffe351e0a0a7",
+    "title": "Андреева и Шнайдер выиграли первый совместный матч в парах в этом сезоне",
+    "sport": "Теннис",
+    "category": "Теннис",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/7/37/347770379250377.jpeg",
+    "teaser": "Андреева и Шнайдер выиграли первый совместный матч в парах в этом сезоне",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69eb67f09a794709e10eeb96",
+    "publishedAt": "2026-04-24T14:05:11.000Z",
+    "createdAt": "2026-04-24T15:12:53.508Z",
+    "updatedAt": "2026-04-24T15:12:53.508Z"
+  },
+  {
+    "id": "905ed0eb2902afa6",
+    "title": "РФС дисквалифицировал тренера «Зенита» за нецензурную брань в адрес судьи",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/6/41/347770372812416.jpeg",
+    "teaser": "РФС дисквалифицировал тренера «Зенита» за нецензурную брань в адрес судьи",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69eb6cd49a79478c593b6c4d",
+    "publishedAt": "2026-04-24T14:03:59.000Z",
+    "createdAt": "2026-04-24T15:12:54.675Z",
+    "updatedAt": "2026-04-24T15:12:54.675Z"
+  },
+  {
+    "id": "fcbea3958695c295",
+    "title": "В РПЛ изменили лимит на легионеров",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/2/21/347770388702212.jpeg",
+    "teaser": "В РПЛ изменили лимит на легионеров",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69eb75609a794700fb0457d5",
+    "publishedAt": "2026-04-24T14:01:17.000Z",
+    "createdAt": "2026-04-24T15:12:51.447Z",
+    "updatedAt": "2026-04-24T15:12:51.447Z"
+  },
+  {
     "id": "99ad9f433c4d859a",
     "title": "«Формула-1» объявила о возвращении в календарь Гран-при Турции",
     "sport": "Другое",
@@ -10,8 +80,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69eb60e59a79477d63bcb2e6",
     "publishedAt": "2026-04-24T12:41:00.000Z",
-    "createdAt": "2026-04-24T13:49:39.118Z",
-    "updatedAt": "2026-04-24T13:49:39.118Z"
+    "createdAt": "2026-04-24T15:12:56.915Z",
+    "updatedAt": "2026-04-24T15:12:56.915Z"
   },
   {
     "id": "c7532a97b123169e",
@@ -24,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69eb5cab9a7947251fb7b221",
     "publishedAt": "2026-04-24T12:38:37.000Z",
-    "createdAt": "2026-04-24T13:49:38.084Z",
-    "updatedAt": "2026-04-24T13:49:38.084Z"
+    "createdAt": "2026-04-24T15:12:55.790Z",
+    "updatedAt": "2026-04-24T15:12:55.790Z"
   },
   {
     "id": "162688275ce53462",
@@ -38,8 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69eb59719a7947625d09fd2a",
     "publishedAt": "2026-04-24T12:06:24.000Z",
-    "createdAt": "2026-04-24T13:49:40.171Z",
-    "updatedAt": "2026-04-24T13:49:40.171Z"
+    "createdAt": "2026-04-24T15:12:58.031Z",
+    "updatedAt": "2026-04-24T15:12:58.031Z"
   },
   {
     "id": "d44c1dd30673432e",
@@ -52,8 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69eb538f9a7947cdba234ebc",
     "publishedAt": "2026-04-24T12:02:01.000Z",
-    "createdAt": "2026-04-24T13:49:41.222Z",
-    "updatedAt": "2026-04-24T13:49:41.222Z"
+    "createdAt": "2026-04-24T15:12:59.208Z",
+    "updatedAt": "2026-04-24T15:12:59.208Z"
   },
   {
     "id": "5b187578bca4cfff",
@@ -66,77 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69eb4be09a7947e612028dc8",
     "publishedAt": "2026-04-24T11:31:26.000Z",
-    "createdAt": "2026-04-24T13:49:42.288Z",
-    "updatedAt": "2026-04-24T13:49:42.288Z"
-  },
-  {
-    "id": "cbaa7d13bb3ea4bf",
-    "title": "Раньери покинул «Рому» после конфликта с главным тренером",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/3/14/347770278757143.jpeg",
-    "teaser": "Раньери покинул «Рому» после конфликта с главным тренером",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69eb4aff9a79477005350df6",
-    "publishedAt": "2026-04-24T11:30:09.000Z",
-    "createdAt": "2026-04-24T13:49:43.365Z",
-    "updatedAt": "2026-04-24T13:49:43.365Z"
-  },
-  {
-    "id": "e34c7f2906e411d3",
-    "title": "Андрей Падин возглавит мужскую сборную России по биатлону",
-    "sport": "Другое",
-    "category": "Биатлон",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/0/20/347770277352200.jpeg",
-    "teaser": "Андрей Падин возглавит мужскую сборную России по биатлону",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69eb43029a79470502695601",
-    "publishedAt": "2026-04-24T10:54:07.000Z",
-    "createdAt": "2026-04-24T13:49:44.401Z",
-    "updatedAt": "2026-04-24T13:49:44.401Z"
-  },
-  {
-    "id": "e4ce72b1f96a2022",
-    "title": "Тренер «Спартака» заявил, что его отсутствие из-за операции изменило клуб",
-    "sport": "Хоккей",
-    "category": "Хоккей",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/4/46/347770231489464.jpeg",
-    "teaser": "Тренер «Спартака» заявил, что его отсутствие из-за операции изменило клуб",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69eb38229a7947317442a523",
-    "publishedAt": "2026-04-24T10:29:16.000Z",
-    "createdAt": "2026-04-24T13:49:46.606Z",
-    "updatedAt": "2026-04-24T13:49:46.606Z"
-  },
-  {
-    "id": "942b5e495898a492",
-    "title": "Белорусского одноклубника Овечкина признали лучшим новичком сезона АХЛ",
-    "sport": "Хоккей",
-    "category": "Хоккей",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/1/00/347770240053001.jpeg",
-    "teaser": "Белорусского одноклубника Овечкина признали лучшим новичком сезона АХЛ",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69eb3beb9a7947819ea14a8e",
-    "publishedAt": "2026-04-24T10:21:41.000Z",
-    "createdAt": "2026-04-24T13:49:45.581Z",
-    "updatedAt": "2026-04-24T13:49:45.581Z"
-  },
-  {
-    "id": "43dd08879b66c211",
-    "title": "В Латвии задумались о лишении тренерской лицензии игравшего в КХЛ вратаря",
-    "sport": "Хоккей",
-    "category": "Хоккей",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/9/48/347770210413489.jpeg",
-    "teaser": "В Латвии задумались о лишении тренерской лицензии игравшего в КХЛ вратаря",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69eb26c89a79476198b9eec6",
-    "publishedAt": "2026-04-24T09:31:55.000Z",
-    "createdAt": "2026-04-24T13:49:47.652Z",
-    "updatedAt": "2026-04-24T13:49:47.652Z"
+    "createdAt": "2026-04-24T15:13:00.354Z",
+    "updatedAt": "2026-04-24T15:13:00.354Z"
   }
 ]
