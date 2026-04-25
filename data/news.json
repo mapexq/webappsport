@@ -1,5 +1,61 @@
 [
   {
+    "id": "3c9d7de2377c5313",
+    "title": "Рекордный гол с углового вернул «Арсенал» на первое место в АПЛ",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/9/45/347771420014459.jpeg",
+    "teaser": "Рекордный гол с углового вернул «Арсенал» на первое место в АПЛ",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69ed08c39a79477a9d9a22bd",
+    "publishedAt": "2026-04-25T18:38:59.000Z",
+    "createdAt": "2026-04-25T19:01:24.307Z",
+    "updatedAt": "2026-04-25T19:01:24.307Z"
+  },
+  {
+    "id": "787a1d184db11aaa",
+    "title": "ЦСКА потерял очки в четвертом матче РПЛ подряд",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/8/43/347771409624438.jpeg",
+    "teaser": "ЦСКА потерял очки в четвертом матче РПЛ подряд",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69ed01fe9a79474dce50be26",
+    "publishedAt": "2026-04-25T18:26:14.000Z",
+    "createdAt": "2026-04-25T19:01:23.220Z",
+    "updatedAt": "2026-04-25T19:01:23.220Z"
+  },
+  {
+    "id": "1f3b278d6ac1a2db",
+    "title": "Садулаев завоевал золото на своем первом с 2020 года чемпионате Европы",
+    "sport": "Другое",
+    "category": "Другие",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/4/13/347771394440134.jpeg",
+    "teaser": "Садулаев завоевал золото на своем первом с 2020 года чемпионате Европы",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69ecfe719a79470376ef85d4",
+    "publishedAt": "2026-04-25T18:21:05.000Z",
+    "createdAt": "2026-04-25T19:01:26.616Z",
+    "updatedAt": "2026-04-25T19:01:26.616Z"
+  },
+  {
+    "id": "3a81aa73476a1f54",
+    "title": "Генсек РФС отреагировал на слова Андрея Шевченко о допуске России",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/9/28/347771386280289.jpeg",
+    "teaser": "Генсек РФС отреагировал на слова Андрея Шевченко о допуске России",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69ecfb989a79470526177d27",
+    "publishedAt": "2026-04-25T17:44:04.000Z",
+    "createdAt": "2026-04-25T19:01:27.572Z",
+    "updatedAt": "2026-04-25T19:01:27.572Z"
+  },
+  {
     "id": "3c2f53eafcf3cbbf",
     "title": "Сайт «Спартака» «упал» после старта продаж билетов на матч с ЦСКА",
     "sport": "Футбол",
@@ -10,8 +66,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69ecf1679a79470df2f9a659",
     "publishedAt": "2026-04-25T16:56:51.000Z",
-    "createdAt": "2026-04-25T17:42:44.068Z",
-    "updatedAt": "2026-04-25T17:42:44.068Z"
+    "createdAt": "2026-04-25T19:01:29.359Z",
+    "updatedAt": "2026-04-25T19:01:29.359Z"
   },
   {
     "id": "6f8caaaa938aed06",
@@ -24,8 +80,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69ecec519a79478af7de0d5a",
     "publishedAt": "2026-04-25T16:40:00.000Z",
-    "createdAt": "2026-04-25T17:42:42.269Z",
-    "updatedAt": "2026-04-25T17:42:42.269Z"
+    "createdAt": "2026-04-25T19:01:30.500Z",
+    "updatedAt": "2026-04-25T19:01:30.500Z"
   },
   {
     "id": "4e03d445b95aa6ee",
@@ -38,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69ecde3e9a794785933bba9d",
     "publishedAt": "2026-04-25T15:55:49.000Z",
-    "createdAt": "2026-04-25T17:42:44.906Z",
-    "updatedAt": "2026-04-25T17:42:44.906Z"
+    "createdAt": "2026-04-25T19:01:31.451Z",
+    "updatedAt": "2026-04-25T19:01:31.451Z"
   },
   {
     "id": "1d8163247eefe098",
@@ -52,8 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69ece0209a794727b8a6d101",
     "publishedAt": "2026-04-25T15:46:40.000Z",
-    "createdAt": "2026-04-25T17:42:46.001Z",
-    "updatedAt": "2026-04-25T17:42:46.001Z"
+    "createdAt": "2026-04-25T19:01:32.520Z",
+    "updatedAt": "2026-04-25T19:01:32.520Z"
   },
   {
     "id": "cbe620d6ec987c10",
@@ -66,22 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69ecdafa9a7947c4ca14d24e",
     "publishedAt": "2026-04-25T15:28:46.000Z",
-    "createdAt": "2026-04-25T17:42:47.051Z",
-    "updatedAt": "2026-04-25T17:42:47.051Z"
-  },
-  {
-    "id": "27bc0f4d010aefe3",
-    "title": "Бразильский защитник «Реала» пропустит ЧМ-2026 из-за травмы",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/3/02/347771284256023.jpeg",
-    "teaser": "Бразильский защитник «Реала» пропустит ЧМ-2026 из-за травмы",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69ecd3cb9a794716a44f1e81",
-    "publishedAt": "2026-04-25T14:54:18.000Z",
-    "createdAt": "2026-04-25T17:42:49.185Z",
-    "updatedAt": "2026-04-25T17:42:49.185Z"
+    "createdAt": "2026-04-25T19:01:33.485Z",
+    "updatedAt": "2026-04-25T19:01:33.485Z"
   },
   {
     "id": "d68a474defaf62f0",
@@ -94,49 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69ecc2ac9a79477abaaff2f7",
     "publishedAt": "2026-04-25T14:00:09.000Z",
-    "createdAt": "2026-04-25T17:42:48.130Z",
-    "updatedAt": "2026-04-25T17:42:48.130Z"
-  },
-  {
-    "id": "f212c6ca10545dce",
-    "title": "«Ростов» проиграл одному из аутсайдеров РПЛ после грубой ошибки вратаря",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/1/20/347771219441201.jpeg",
-    "teaser": "«Ростов» проиграл одному из аутсайдеров РПЛ после грубой ошибки вратаря",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69ecba709a794770c8ef220d",
-    "publishedAt": "2026-04-25T13:31:27.000Z",
-    "createdAt": "2026-04-25T17:42:50.245Z",
-    "updatedAt": "2026-04-25T17:42:50.245Z"
-  },
-  {
-    "id": "2973e497b632d3e8",
-    "title": "Лучший клуб «регулярки» проиграл первый матч полуфинала плей-офф КХЛ",
-    "sport": "Хоккей",
-    "category": "Хоккей",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/3/44/347771210234443.jpeg",
-    "teaser": "Лучший клуб «регулярки» проиграл первый матч полуфинала плей-офф КХЛ",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69d62b4b9a7947515141719b",
-    "publishedAt": "2026-04-25T13:19:01.000Z",
-    "createdAt": "2026-04-25T17:42:51.307Z",
-    "updatedAt": "2026-04-25T17:42:51.307Z"
-  },
-  {
-    "id": "8693b65b45c92630",
-    "title": "Андреева четвертый раз подряд вышла в 1/8 финала «тысячника» в Мадриде",
-    "sport": "Теннис",
-    "category": "Теннис",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/2/98/347771202453982.jpeg",
-    "teaser": "Андреева четвертый раз подряд вышла в 1/8 финала «тысячника» в Мадриде",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69d77e8c9a79477dd81b6203",
-    "publishedAt": "2026-04-25T12:38:39.000Z",
-    "createdAt": "2026-04-25T17:42:52.646Z",
-    "updatedAt": "2026-04-25T17:42:52.646Z"
+    "createdAt": "2026-04-25T19:01:34.520Z",
+    "updatedAt": "2026-04-25T19:01:34.520Z"
   }
 ]
