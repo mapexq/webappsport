@@ -1,5 +1,33 @@
 [
   {
+    "id": "c95eb898cdb8d3f9",
+    "title": "Массовая драка произошла в Турции после победы российского боксера",
+    "sport": "Единоборства",
+    "category": "Единоборства",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/8/36/347772244589368.png",
+    "teaser": "Массовая драка произошла в Турции после победы российского боксера",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69ee43e19a7947f6461a6b94",
+    "publishedAt": "2026-04-26T17:39:12.000Z",
+    "createdAt": "2026-04-26T17:45:13.014Z",
+    "updatedAt": "2026-04-26T17:45:13.014Z"
+  },
+  {
+    "id": "e1232b3c4850cb81",
+    "title": "«Авангард» обыграл «Локомотив» в матче плей-офф с двумя массовыми драками",
+    "sport": "Хоккей",
+    "category": "Хоккей",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/7/45/347772225611457.png",
+    "teaser": "«Авангард» обыграл «Локомотив» в матче плей-офф с двумя массовыми драками",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69ee43469a7947e9bf3a1b52",
+    "publishedAt": "2026-04-26T17:08:40.000Z",
+    "createdAt": "2026-04-26T17:45:14.043Z",
+    "updatedAt": "2026-04-26T17:45:14.043Z"
+  },
+  {
     "id": "5e95175cc9a137c0",
     "title": "Матч плей-офф КХЛ прерывали на из-за массовой драки",
     "sport": "Хоккей",
@@ -10,8 +38,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69ee3bd19a794783475095f1",
     "publishedAt": "2026-04-26T16:50:22.000Z",
-    "createdAt": "2026-04-26T16:52:37.006Z",
-    "updatedAt": "2026-04-26T16:52:37.006Z"
+    "createdAt": "2026-04-26T17:45:15.862Z",
+    "updatedAt": "2026-04-26T17:45:15.862Z"
   },
   {
     "id": "d5ea94019050b28f",
@@ -24,8 +52,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69ee1ee79a7947dd9dfec733",
     "publishedAt": "2026-04-26T16:21:40.000Z",
-    "createdAt": "2026-04-26T16:52:39.104Z",
-    "updatedAt": "2026-04-26T16:52:39.104Z"
+    "createdAt": "2026-04-26T17:45:18.249Z",
+    "updatedAt": "2026-04-26T17:45:18.249Z"
   },
   {
     "id": "9fb45da2b182bca2",
@@ -38,8 +66,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69ee1f1f9a794781478b6807",
     "publishedAt": "2026-04-26T16:03:58.000Z",
-    "createdAt": "2026-04-26T16:52:41.135Z",
-    "updatedAt": "2026-04-26T16:52:41.135Z"
+    "createdAt": "2026-04-26T17:45:20.508Z",
+    "updatedAt": "2026-04-26T17:45:20.508Z"
   },
   {
     "id": "6d57a992c037ecb7",
@@ -52,8 +80,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69ee1f639a79477bb4760064",
     "publishedAt": "2026-04-26T16:02:02.000Z",
-    "createdAt": "2026-04-26T16:52:38.094Z",
-    "updatedAt": "2026-04-26T16:52:38.094Z"
+    "createdAt": "2026-04-26T17:45:17.084Z",
+    "updatedAt": "2026-04-26T17:45:17.084Z"
   },
   {
     "id": "b51ef922a8404cc5",
@@ -66,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69ee2b409a7947201248202e",
     "publishedAt": "2026-04-26T15:34:19.000Z",
-    "createdAt": "2026-04-26T16:52:40.126Z",
-    "updatedAt": "2026-04-26T16:52:40.126Z"
+    "createdAt": "2026-04-26T17:45:19.374Z",
+    "updatedAt": "2026-04-26T17:45:19.374Z"
   },
   {
     "id": "20592e4e6fd2a0f9",
@@ -80,8 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69ee24889a7947f11150a4f5",
     "publishedAt": "2026-04-26T14:59:21.000Z",
-    "createdAt": "2026-04-26T16:52:42.142Z",
-    "updatedAt": "2026-04-26T16:52:42.142Z"
+    "createdAt": "2026-04-26T17:45:21.640Z",
+    "updatedAt": "2026-04-26T17:45:21.640Z"
   },
   {
     "id": "76a96c08ec0082ef",
@@ -94,36 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69ee1eb09a7947a009b0bb95",
     "publishedAt": "2026-04-26T14:38:47.000Z",
-    "createdAt": "2026-04-26T16:52:43.211Z",
-    "updatedAt": "2026-04-26T16:52:43.211Z"
-  },
-  {
-    "id": "cfe7c9054fbae172",
-    "title": "Отец Ферстаппена перевернулся на своей машине на «Ралли Валлонии»",
-    "sport": "Другое",
-    "category": "Другие",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/0/34/347772087744340.jpeg",
-    "teaser": "Отец Ферстаппена перевернулся на своей машине на «Ралли Валлонии»",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69ee0d8a9a7947aa981291ed",
-    "publishedAt": "2026-04-26T13:24:37.000Z",
-    "createdAt": "2026-04-26T16:52:45.243Z",
-    "updatedAt": "2026-04-26T16:52:45.243Z"
-  },
-  {
-    "id": "5dfbacd286e5e7e8",
-    "title": "Российским болельщикам разрешили использовать вувузелы с условием",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/8/99/347772038524998.jpeg",
-    "teaser": "Российским болельщикам разрешили использовать вувузелы с условием",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69ede9979a79477e389548fc",
-    "publishedAt": "2026-04-26T13:03:57.000Z",
-    "createdAt": "2026-04-26T16:52:46.290Z",
-    "updatedAt": "2026-04-26T16:52:46.290Z"
+    "createdAt": "2026-04-26T17:45:22.767Z",
+    "updatedAt": "2026-04-26T17:45:22.767Z"
   },
   {
     "id": "f6451d296fbc7aa3",
@@ -136,7 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69ee07aa9a7947ad3783500b",
     "publishedAt": "2026-04-26T13:02:55.000Z",
-    "createdAt": "2026-04-26T16:52:44.228Z",
-    "updatedAt": "2026-04-26T16:52:44.228Z"
+    "createdAt": "2026-04-26T17:45:23.888Z",
+    "updatedAt": "2026-04-26T17:45:23.888Z"
   }
 ]
