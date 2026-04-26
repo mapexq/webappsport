@@ -1,5 +1,61 @@
 [
   {
+    "id": "5e95175cc9a137c0",
+    "title": "Матч плей-офф КХЛ прерывали на из-за массовой драки",
+    "sport": "Хоккей",
+    "category": "Хоккей",
+    "imageUrl": "/images/news-placeholder.jpg",
+    "teaser": "Матч плей-офф КХЛ прерывали на из-за массовой драки",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69ee3bd19a794783475095f1",
+    "publishedAt": "2026-04-26T16:50:22.000Z",
+    "createdAt": "2026-04-26T16:52:37.006Z",
+    "updatedAt": "2026-04-26T16:52:37.006Z"
+  },
+  {
+    "id": "d5ea94019050b28f",
+    "title": "Определились финалисты Кубка Англии",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/6/02/347772200004026.jpeg",
+    "teaser": "Определились финалисты Кубка Англии",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69ee1ee79a7947dd9dfec733",
+    "publishedAt": "2026-04-26T16:21:40.000Z",
+    "createdAt": "2026-04-26T16:52:39.104Z",
+    "updatedAt": "2026-04-26T16:52:39.104Z"
+  },
+  {
+    "id": "9fb45da2b182bca2",
+    "title": "«Динамо» впервые за три тура победило в РПЛ, обыграв аутсайдера",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/8/29/347772162688298.png",
+    "teaser": "«Динамо» впервые за три тура победило в РПЛ, обыграв аутсайдера",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69ee1f1f9a794781478b6807",
+    "publishedAt": "2026-04-26T16:03:58.000Z",
+    "createdAt": "2026-04-26T16:52:41.135Z",
+    "updatedAt": "2026-04-26T16:52:41.135Z"
+  },
+  {
+    "id": "6d57a992c037ecb7",
+    "title": "«Краснодар» сохранил лидерство в РПЛ, обыграв махачкалинское «Динамо»",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/5/22/347772189838225.jpeg",
+    "teaser": "«Краснодар» сохранил лидерство в РПЛ, обыграв махачкалинское «Динамо»",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69ee1f639a79477bb4760064",
+    "publishedAt": "2026-04-26T16:02:02.000Z",
+    "createdAt": "2026-04-26T16:52:38.094Z",
+    "updatedAt": "2026-04-26T16:52:38.094Z"
+  },
+  {
     "id": "b51ef922a8404cc5",
     "title": "В КХЛ одновременно удалили всех находившихся на льду полевых игроков",
     "sport": "Хоккей",
@@ -10,8 +66,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69ee2b409a7947201248202e",
     "publishedAt": "2026-04-26T15:34:19.000Z",
-    "createdAt": "2026-04-26T15:49:25.078Z",
-    "updatedAt": "2026-04-26T15:49:25.078Z"
+    "createdAt": "2026-04-26T16:52:40.126Z",
+    "updatedAt": "2026-04-26T16:52:40.126Z"
   },
   {
     "id": "20592e4e6fd2a0f9",
@@ -24,8 +80,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69ee24889a7947f11150a4f5",
     "publishedAt": "2026-04-26T14:59:21.000Z",
-    "createdAt": "2026-04-26T15:49:26.089Z",
-    "updatedAt": "2026-04-26T15:49:26.089Z"
+    "createdAt": "2026-04-26T16:52:42.142Z",
+    "updatedAt": "2026-04-26T16:52:42.142Z"
   },
   {
     "id": "76a96c08ec0082ef",
@@ -38,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69ee1eb09a7947a009b0bb95",
     "publishedAt": "2026-04-26T14:38:47.000Z",
-    "createdAt": "2026-04-26T15:49:27.162Z",
-    "updatedAt": "2026-04-26T15:49:27.162Z"
+    "createdAt": "2026-04-26T16:52:43.211Z",
+    "updatedAt": "2026-04-26T16:52:43.211Z"
   },
   {
     "id": "cfe7c9054fbae172",
@@ -52,8 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69ee0d8a9a7947aa981291ed",
     "publishedAt": "2026-04-26T13:24:37.000Z",
-    "createdAt": "2026-04-26T15:49:29.257Z",
-    "updatedAt": "2026-04-26T15:49:29.257Z"
+    "createdAt": "2026-04-26T16:52:45.243Z",
+    "updatedAt": "2026-04-26T16:52:45.243Z"
   },
   {
     "id": "5dfbacd286e5e7e8",
@@ -66,8 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69ede9979a79477e389548fc",
     "publishedAt": "2026-04-26T13:03:57.000Z",
-    "createdAt": "2026-04-26T15:49:32.148Z",
-    "updatedAt": "2026-04-26T15:49:32.148Z"
+    "createdAt": "2026-04-26T16:52:46.290Z",
+    "updatedAt": "2026-04-26T16:52:46.290Z"
   },
   {
     "id": "f6451d296fbc7aa3",
@@ -80,63 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69ee07aa9a7947ad3783500b",
     "publishedAt": "2026-04-26T13:02:55.000Z",
-    "createdAt": "2026-04-26T15:49:28.244Z",
-    "updatedAt": "2026-04-26T15:49:28.244Z"
-  },
-  {
-    "id": "51ad766c490f6678",
-    "title": "Впервые в истории человек пробежал марафон менее чем за два часа",
-    "sport": "Другое",
-    "category": "Другие",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/6/89/347772057781896.jpeg",
-    "teaser": "Впервые в истории человек пробежал марафон менее чем за два часа",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69edfb4a9a794746f581dff3",
-    "publishedAt": "2026-04-26T12:19:22.000Z",
-    "createdAt": "2026-04-26T15:49:33.226Z",
-    "updatedAt": "2026-04-26T15:49:33.226Z"
-  },
-  {
-    "id": "d5d49f72047e758b",
-    "title": "Болельщикам запретили баннеры, не соответствующие традиционным ценностям",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/1/49/347771984209491.png",
-    "teaser": "Болельщикам запретили баннеры, не соответствующие традиционным ценностям",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69eddd399a7947bf45ff42e5",
-    "publishedAt": "2026-04-26T11:38:26.000Z",
-    "createdAt": "2026-04-26T15:49:31.075Z",
-    "updatedAt": "2026-04-26T15:49:31.075Z"
-  },
-  {
-    "id": "cd13d36c93451cc7",
-    "title": "В Бельгии 21-летний велогонщик погиб в результате ДТП во время тренировки",
-    "sport": "Другое",
-    "category": "Другие",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/0/20/347772016678200.png",
-    "teaser": "В Бельгии 21-летний велогонщик погиб в результате ДТП во время тренировки",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69edf0c29a7947d944225e7f",
-    "publishedAt": "2026-04-26T11:19:11.000Z",
-    "createdAt": "2026-04-26T15:49:34.310Z",
-    "updatedAt": "2026-04-26T15:49:34.310Z"
-  },
-  {
-    "id": "42c97b3a5490246b",
-    "title": "Россиянин выиграл Дюссельдорфский марафон и побил 19-летний рекорд страны",
-    "sport": "Другое",
-    "category": "Другие",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/8/93/347771996984938.png",
-    "teaser": "Россиянин выиграл Дюссельдорфский марафон и побил 19-летний рекорд страны",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69ede94c9a79471e90d3d5e0",
-    "publishedAt": "2026-04-26T10:58:03.000Z",
-    "createdAt": "2026-04-26T15:49:35.384Z",
-    "updatedAt": "2026-04-26T15:49:35.384Z"
+    "createdAt": "2026-04-26T16:52:44.228Z",
+    "updatedAt": "2026-04-26T16:52:44.228Z"
   }
 ]
