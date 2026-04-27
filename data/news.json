@@ -1,5 +1,89 @@
 [
   {
+    "id": "a360acd936936c1c",
+    "title": "Мирра Андреева вышла в 1/4 финала «тысячника» в Мадриде",
+    "sport": "Теннис",
+    "category": "Теннис",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/1/52/347773028558521.jpeg",
+    "teaser": "Мирра Андреева вышла в 1/4 финала «тысячника» в Мадриде",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69ef78109a79471db9c35351",
+    "publishedAt": "2026-04-27T16:20:08.000Z",
+    "createdAt": "2026-04-27T16:45:23.575Z",
+    "updatedAt": "2026-04-27T16:45:23.575Z"
+  },
+  {
+    "id": "fd0d8f9f0dfde7fb",
+    "title": "Фьюри и Джошуа договорились о проведении одного из самых ожидаемых боев",
+    "sport": "Единоборства",
+    "category": "Единоборства",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/9/41/347773054703419.jpeg",
+    "teaser": "Фьюри и Джошуа договорились о проведении одного из самых ожидаемых боев",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69ef7ef29a79474924619bf7",
+    "publishedAt": "2026-04-27T16:05:06.000Z",
+    "createdAt": "2026-04-27T16:45:24.676Z",
+    "updatedAt": "2026-04-27T16:45:24.676Z"
+  },
+  {
+    "id": "94a320915ea4e56c",
+    "title": "Медведев вышел в 1/8 финала «Мастерс» в Мадриде",
+    "sport": "Теннис",
+    "category": "Теннис",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/2/51/347773024153512.jpeg",
+    "teaser": "Медведев вышел в 1/8 финала «Мастерс» в Мадриде",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69ef79bd9a79478076da77d8",
+    "publishedAt": "2026-04-27T15:15:07.000Z",
+    "createdAt": "2026-04-27T16:45:25.825Z",
+    "updatedAt": "2026-04-27T16:45:25.825Z"
+  },
+  {
+    "id": "3fc4c65b234dfc95",
+    "title": "Скончалась двукратная чемпионка СССР по фигурному катанию",
+    "sport": "Другое",
+    "category": "Фигурное катание",
+    "imageUrl": "/images/news-placeholder.jpg",
+    "teaser": "Скончалась двукратная чемпионка СССР по фигурному катанию",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69ef75149a79479cc216eeee",
+    "publishedAt": "2026-04-27T14:50:23.000Z",
+    "createdAt": "2026-04-27T16:45:29.269Z",
+    "updatedAt": "2026-04-27T16:45:29.269Z"
+  },
+  {
+    "id": "c7a2b94ecb84561d",
+    "title": "Путин поцеловал юную гимнастку в лоб и пожелал ей успехов",
+    "sport": "Другое",
+    "category": "Другие",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/6/23/347773038607236.jpeg",
+    "teaser": "Путин поцеловал юную гимнастку в лоб и пожелал ей успехов",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69ef68ba9a7947f5d3eaed4c",
+    "publishedAt": "2026-04-27T14:38:02.000Z",
+    "createdAt": "2026-04-27T16:45:30.421Z",
+    "updatedAt": "2026-04-27T16:45:30.421Z"
+  },
+  {
+    "id": "98ddd67275c6c860",
+    "title": "Акинфеев пропустит остаток сезона из-за травмы",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/3/47/347772999648473.jpeg",
+    "teaser": "Акинфеев пропустит остаток сезона из-за травмы",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69ef6e559a79475be012e935",
+    "publishedAt": "2026-04-27T14:30:49.000Z",
+    "createdAt": "2026-04-27T16:45:27.303Z",
+    "updatedAt": "2026-04-27T16:45:27.303Z"
+  },
+  {
     "id": "01e299c90fc3d110",
     "title": "Хоккеиста клуба КХЛ вызвали в расположение сборной Словакии перед ЧМ",
     "sport": "Хоккей",
@@ -10,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69ef60ae9a7947f9f80f3544",
     "publishedAt": "2026-04-27T13:38:44.000Z",
-    "createdAt": "2026-04-27T14:07:50.298Z",
-    "updatedAt": "2026-04-27T14:07:50.298Z"
+    "createdAt": "2026-04-27T16:45:31.519Z",
+    "updatedAt": "2026-04-27T16:45:31.519Z"
   },
   {
     "id": "7d7b98cb83af0082",
@@ -24,8 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69ef5a949a794735dafafe0f",
     "publishedAt": "2026-04-27T13:02:40.000Z",
-    "createdAt": "2026-04-27T14:07:52.591Z",
-    "updatedAt": "2026-04-27T14:07:52.591Z"
+    "createdAt": "2026-04-27T16:45:33.743Z",
+    "updatedAt": "2026-04-27T16:45:33.743Z"
   },
   {
     "id": "6b548dd8d34125d8",
@@ -38,22 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69ef537c9a79476dc377b6bb",
     "publishedAt": "2026-04-27T13:01:29.000Z",
-    "createdAt": "2026-04-27T14:07:51.445Z",
-    "updatedAt": "2026-04-27T14:07:51.445Z"
-  },
-  {
-    "id": "3fbcfb3c47260dda",
-    "title": "Акинфеев фразой «не сошел с ума» опроверг регистрацию знака «нога бога»",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/2/66/347772916394662.jpeg",
-    "teaser": "Акинфеев фразой «не сошел с ума» опроверг регистрацию знака «нога бога»",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69ef4abe9a7947fe36068801",
-    "publishedAt": "2026-04-27T12:50:50.000Z",
-    "createdAt": "2026-04-27T14:07:53.714Z",
-    "updatedAt": "2026-04-27T14:07:53.714Z"
+    "createdAt": "2026-04-27T16:45:32.636Z",
+    "updatedAt": "2026-04-27T16:45:32.636Z"
   },
   {
     "id": "6c8aad630b7df49c",
@@ -66,77 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69ef55bf9a794725245e8afe",
     "publishedAt": "2026-04-27T12:45:30.000Z",
-    "createdAt": "2026-04-27T14:07:54.832Z",
-    "updatedAt": "2026-04-27T14:07:54.832Z"
-  },
-  {
-    "id": "759d0d1e61bf46b7",
-    "title": "Китайский BYD подтвердил переговоры о вступлении в «Формулу-1»",
-    "sport": "Другое",
-    "category": "Формула-1",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/5/10/347772893125105.png",
-    "teaser": "Китайский BYD подтвердил переговоры о вступлении в «Формулу-1»",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69ef415d9a79475bc5dc43af",
-    "publishedAt": "2026-04-27T12:08:48.000Z",
-    "createdAt": "2026-04-27T14:07:55.955Z",
-    "updatedAt": "2026-04-27T14:07:55.955Z"
-  },
-  {
-    "id": "c16f6910cc21d937",
-    "title": "Тарасова рассказала об улучшении самочувствия после выписки из больницы",
-    "sport": "Другое",
-    "category": "Фигурное катание",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/8/20/347772866300208.jpeg",
-    "teaser": "Тарасова рассказала об улучшении самочувствия после выписки из больницы",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69ef3c069a794769bd807fd7",
-    "publishedAt": "2026-04-27T11:23:21.000Z",
-    "createdAt": "2026-04-27T14:07:56.898Z",
-    "updatedAt": "2026-04-27T14:07:56.898Z"
-  },
-  {
-    "id": "405421609e891064",
-    "title": "Массовое ДТП с 26 машинами произошло на гонке NASCAR в США",
-    "sport": "Другое",
-    "category": "Другие",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/3/88/347772852389883.jpeg",
-    "teaser": "Массовое ДТП с 26 машинами произошло на гонке NASCAR в США",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69ef30dd9a7947242ee529d4",
-    "publishedAt": "2026-04-27T10:55:56.000Z",
-    "createdAt": "2026-04-27T14:07:58.019Z",
-    "updatedAt": "2026-04-27T14:07:58.019Z"
-  },
-  {
-    "id": "0e38d72a8af33686",
-    "title": "Стали известны новые соперники сборной России",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/6/03/347772848915036.png",
-    "teaser": "Стали известны новые соперники сборной России",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69ef35ac9a79479eab7880ee",
-    "publishedAt": "2026-04-27T10:19:30.000Z",
-    "createdAt": "2026-04-27T14:07:59.164Z",
-    "updatedAt": "2026-04-27T14:07:59.164Z"
-  },
-  {
-    "id": "98be73bf0058ead3",
-    "title": "Джерси Уэйна Гретцки продали на аукционе за рекордные $2,8 млн",
-    "sport": "Хоккей",
-    "category": "Хоккей",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/5/92/347772793625925.png",
-    "teaser": "Джерси Уэйна Гретцки продали на аукционе за рекордные $2,8 млн",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69ef1b429a794741401b5690",
-    "publishedAt": "2026-04-27T09:10:13.000Z",
-    "createdAt": "2026-04-27T14:08:00.260Z",
-    "updatedAt": "2026-04-27T14:08:00.260Z"
+    "createdAt": "2026-04-27T16:45:34.856Z",
+    "updatedAt": "2026-04-27T16:45:34.856Z"
   }
 ]
