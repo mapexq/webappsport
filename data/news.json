@@ -1,5 +1,89 @@
 [
   {
+    "id": "01e299c90fc3d110",
+    "title": "Хоккеиста клуба КХЛ вызвали в расположение сборной Словакии перед ЧМ",
+    "sport": "Хоккей",
+    "category": "Хоккей",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/5/32/347772966608325.jpeg",
+    "teaser": "Хоккеиста клуба КХЛ вызвали в расположение сборной Словакии перед ЧМ",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69ef60ae9a7947f9f80f3544",
+    "publishedAt": "2026-04-27T13:38:44.000Z",
+    "createdAt": "2026-04-27T14:07:50.298Z",
+    "updatedAt": "2026-04-27T14:07:50.298Z"
+  },
+  {
+    "id": "7d7b98cb83af0082",
+    "title": "СКА расторг контракт с помощником Ларионова, который возглавит «Динамо»",
+    "sport": "Хоккей",
+    "category": "Хоккей",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/1/77/347772947025771.jpeg",
+    "teaser": "СКА расторг контракт с помощником Ларионова, который возглавит «Динамо»",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69ef5a949a794735dafafe0f",
+    "publishedAt": "2026-04-27T13:02:40.000Z",
+    "createdAt": "2026-04-27T14:07:52.591Z",
+    "updatedAt": "2026-04-27T14:07:52.591Z"
+  },
+  {
+    "id": "6b548dd8d34125d8",
+    "title": "Семак установил рекорд «Зенита» по числу матчей на посту главного тренера",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/0/41/347772923060410.jpeg",
+    "teaser": "Семак установил рекорд «Зенита» по числу матчей на посту главного тренера",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69ef537c9a79476dc377b6bb",
+    "publishedAt": "2026-04-27T13:01:29.000Z",
+    "createdAt": "2026-04-27T14:07:51.445Z",
+    "updatedAt": "2026-04-27T14:07:51.445Z"
+  },
+  {
+    "id": "3fbcfb3c47260dda",
+    "title": "Акинфеев фразой «не сошел с ума» опроверг регистрацию знака «нога бога»",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/2/66/347772916394662.jpeg",
+    "teaser": "Акинфеев фразой «не сошел с ума» опроверг регистрацию знака «нога бога»",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69ef4abe9a7947fe36068801",
+    "publishedAt": "2026-04-27T12:50:50.000Z",
+    "createdAt": "2026-04-27T14:07:53.714Z",
+    "updatedAt": "2026-04-27T14:07:53.714Z"
+  },
+  {
+    "id": "6c8aad630b7df49c",
+    "title": "Уволенный из сборной Италии Гаттузо заявил о готовности работать в России",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/2/22/347772933181222.jpeg",
+    "teaser": "Уволенный из сборной Италии Гаттузо заявил о готовности работать в России",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69ef55bf9a794725245e8afe",
+    "publishedAt": "2026-04-27T12:45:30.000Z",
+    "createdAt": "2026-04-27T14:07:54.832Z",
+    "updatedAt": "2026-04-27T14:07:54.832Z"
+  },
+  {
+    "id": "759d0d1e61bf46b7",
+    "title": "Китайский BYD подтвердил переговоры о вступлении в «Формулу-1»",
+    "sport": "Другое",
+    "category": "Формула-1",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/5/10/347772893125105.png",
+    "teaser": "Китайский BYD подтвердил переговоры о вступлении в «Формулу-1»",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69ef415d9a79475bc5dc43af",
+    "publishedAt": "2026-04-27T12:08:48.000Z",
+    "createdAt": "2026-04-27T14:07:55.955Z",
+    "updatedAt": "2026-04-27T14:07:55.955Z"
+  },
+  {
     "id": "c16f6910cc21d937",
     "title": "Тарасова рассказала об улучшении самочувствия после выписки из больницы",
     "sport": "Другое",
@@ -10,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69ef3c069a794769bd807fd7",
     "publishedAt": "2026-04-27T11:23:21.000Z",
-    "createdAt": "2026-04-27T11:48:38.462Z",
-    "updatedAt": "2026-04-27T11:48:38.462Z"
+    "createdAt": "2026-04-27T14:07:56.898Z",
+    "updatedAt": "2026-04-27T14:07:56.898Z"
   },
   {
     "id": "405421609e891064",
@@ -24,8 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69ef30dd9a7947242ee529d4",
     "publishedAt": "2026-04-27T10:55:56.000Z",
-    "createdAt": "2026-04-27T11:48:39.627Z",
-    "updatedAt": "2026-04-27T11:48:39.627Z"
+    "createdAt": "2026-04-27T14:07:58.019Z",
+    "updatedAt": "2026-04-27T14:07:58.019Z"
   },
   {
     "id": "0e38d72a8af33686",
@@ -38,8 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69ef35ac9a79479eab7880ee",
     "publishedAt": "2026-04-27T10:19:30.000Z",
-    "createdAt": "2026-04-27T11:48:40.774Z",
-    "updatedAt": "2026-04-27T11:48:40.774Z"
+    "createdAt": "2026-04-27T14:07:59.164Z",
+    "updatedAt": "2026-04-27T14:07:59.164Z"
   },
   {
     "id": "98be73bf0058ead3",
@@ -52,91 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69ef1b429a794741401b5690",
     "publishedAt": "2026-04-27T09:10:13.000Z",
-    "createdAt": "2026-04-27T11:48:41.865Z",
-    "updatedAt": "2026-04-27T11:48:41.865Z"
-  },
-  {
-    "id": "f92504692134dbab",
-    "title": "Легенда «Ливерпуля» рискует пропустить матч с Россией из‑за травмы",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/4/94/347772763407944.jpeg",
-    "teaser": "Легенда «Ливерпуля» рискует пропустить матч с Россией из‑за травмы",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69ef12a09a794741aa863167",
-    "publishedAt": "2026-04-27T08:11:21.000Z",
-    "createdAt": "2026-04-27T11:48:43.011Z",
-    "updatedAt": "2026-04-27T11:48:43.011Z"
-  },
-  {
-    "id": "7a86d826e55d70c0",
-    "title": "ФИФА увеличила призовой фонд ЧМ‑2026 после жалоб стран на расходы",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/6/00/347772742061006.jpeg",
-    "teaser": "ФИФА увеличила призовой фонд ЧМ‑2026 после жалоб стран на расходы",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69ef08709a794719321a0e3e",
-    "publishedAt": "2026-04-27T07:33:53.000Z",
-    "createdAt": "2026-04-27T11:48:44.166Z",
-    "updatedAt": "2026-04-27T11:48:44.166Z"
-  },
-  {
-    "id": "892b34b8230d33de",
-    "title": "«Лос-Анджелес» с Панариным вылетел из плей-офф НХЛ",
-    "sport": "Хоккей",
-    "category": "Хоккей",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/7/21/347772719206217.jpeg",
-    "teaser": "«Лос-Анджелес» с Панариным вылетел из плей-офф НХЛ",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69ef017a9a79471bc2662cc6",
-    "publishedAt": "2026-04-27T06:57:11.000Z",
-    "createdAt": "2026-04-27T11:48:45.311Z",
-    "updatedAt": "2026-04-27T11:48:45.311Z"
-  },
-  {
-    "id": "77d4790c4058ec1c",
-    "title": "Кучеров вышел на второе место среди россиян по очкам в плей-офф НХЛ",
-    "sport": "Хоккей",
-    "category": "Хоккей",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/7/50/347772706497507.jpeg",
-    "teaser": "Кучеров вышел на второе место среди россиян по очкам в плей-офф НХЛ",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69eefc779a79473a114cc1dd",
-    "publishedAt": "2026-04-27T06:50:37.000Z",
-    "createdAt": "2026-04-27T11:48:46.413Z",
-    "updatedAt": "2026-04-27T11:48:46.413Z"
-  },
-  {
-    "id": "98cd3575c8eefa42",
-    "title": "Как изменился расклад в чемпионской гонке РПЛ за три тура до финиша",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/5/00/347772216232005.jpeg",
-    "teaser": "Как изменился расклад в чемпионской гонке РПЛ за три тура до финиша",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69ee159c9a7947fe2e50daac",
-    "publishedAt": "2026-04-27T06:02:19.000Z",
-    "createdAt": "2026-04-27T11:48:47.588Z",
-    "updatedAt": "2026-04-27T11:48:47.588Z"
-  },
-  {
-    "id": "2883116d94da2723",
-    "title": "Ватерполистки России выиграли Кубок мира после гола на последней секунде",
-    "sport": "Другое",
-    "category": "Другие",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/5/71/347772659117715.jpeg",
-    "teaser": "Ватерполистки России выиграли Кубок мира после гола на последней секунде",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69eeecda9a7947789e6bb189",
-    "publishedAt": "2026-04-27T05:06:17.000Z",
-    "createdAt": "2026-04-27T11:48:48.707Z",
-    "updatedAt": "2026-04-27T11:48:48.707Z"
+    "createdAt": "2026-04-27T14:08:00.260Z",
+    "updatedAt": "2026-04-27T14:08:00.260Z"
   }
 ]
