@@ -1,5 +1,61 @@
 [
   {
+    "id": "e68a637404af87a8",
+    "title": "Бывшего тренера «Спартака» уволили из турецкого «Фенербахче»",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/8/77/347773198591778.jpeg",
+    "teaser": "Бывшего тренера «Спартака» уволили из турецкого «Фенербахче»",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69efbc149a794707051b94e4",
+    "publishedAt": "2026-04-27T20:06:19.000Z",
+    "createdAt": "2026-04-27T20:11:55.519Z",
+    "updatedAt": "2026-04-27T20:11:55.519Z"
+  },
+  {
+    "id": "7c37c543e1c338b0",
+    "title": "Клуб Дзюбы прервал десятиматчевую серию поражений в РПЛ",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/3/55/347773161321553.jpeg",
+    "teaser": "Клуб Дзюбы прервал десятиматчевую серию поражений в РПЛ",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69efa9ea9a794794be542fab",
+    "publishedAt": "2026-04-27T19:23:22.000Z",
+    "createdAt": "2026-04-27T20:11:57.168Z",
+    "updatedAt": "2026-04-27T20:11:57.168Z"
+  },
+  {
+    "id": "84c2d490fb371578",
+    "title": "Волейболисты московского «Динамо» стали пятикратными чемпионами России",
+    "sport": "Другое",
+    "category": "Другие",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/5/97/347773141394975.jpeg",
+    "teaser": "Волейболисты московского «Динамо» стали пятикратными чемпионами России",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69efa5d79a794734deafa31e",
+    "publishedAt": "2026-04-27T18:27:28.000Z",
+    "createdAt": "2026-04-27T20:11:58.297Z",
+    "updatedAt": "2026-04-27T20:11:58.297Z"
+  },
+  {
+    "id": "011aaf834549636c",
+    "title": "Россиянина оштрафовали на $5 тыс. за удар соперника в матче НХЛ",
+    "sport": "Хоккей",
+    "category": "Хоккей",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/2/13/347773128495132.jpeg",
+    "teaser": "Россиянина оштрафовали на $5 тыс. за удар соперника в матче НХЛ",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69ef9f099a79471cec58020d",
+    "publishedAt": "2026-04-27T18:11:56.000Z",
+    "createdAt": "2026-04-27T20:11:59.460Z",
+    "updatedAt": "2026-04-27T20:11:59.460Z"
+  },
+  {
     "id": "c083cb10f6d44ae8",
     "title": "Один из лучших снайперов сезона КХЛ подписал контракт с клубом НХЛ",
     "sport": "Хоккей",
@@ -10,8 +66,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69ef91f29a79470d3a24337b",
     "publishedAt": "2026-04-27T17:23:42.000Z",
-    "createdAt": "2026-04-27T18:06:29.037Z",
-    "updatedAt": "2026-04-27T18:06:29.037Z"
+    "createdAt": "2026-04-27T20:12:00.645Z",
+    "updatedAt": "2026-04-27T20:12:00.645Z"
   },
   {
     "id": "c556e16622e0307f",
@@ -24,8 +80,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69ef88809a7947dc1b1516ab",
     "publishedAt": "2026-04-27T16:45:51.000Z",
-    "createdAt": "2026-04-27T18:06:30.166Z",
-    "updatedAt": "2026-04-27T18:06:30.166Z"
+    "createdAt": "2026-04-27T20:12:01.837Z",
+    "updatedAt": "2026-04-27T20:12:01.837Z"
   },
   {
     "id": "a360acd936936c1c",
@@ -38,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69ef78109a79471db9c35351",
     "publishedAt": "2026-04-27T16:20:08.000Z",
-    "createdAt": "2026-04-27T18:06:31.338Z",
-    "updatedAt": "2026-04-27T18:06:31.338Z"
+    "createdAt": "2026-04-27T20:12:02.993Z",
+    "updatedAt": "2026-04-27T20:12:02.993Z"
   },
   {
     "id": "fd0d8f9f0dfde7fb",
@@ -52,8 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69ef7ef29a79474924619bf7",
     "publishedAt": "2026-04-27T16:05:06.000Z",
-    "createdAt": "2026-04-27T18:06:32.541Z",
-    "updatedAt": "2026-04-27T18:06:32.541Z"
+    "createdAt": "2026-04-27T20:12:04.135Z",
+    "updatedAt": "2026-04-27T20:12:04.135Z"
   },
   {
     "id": "94a320915ea4e56c",
@@ -66,36 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69ef79bd9a79478076da77d8",
     "publishedAt": "2026-04-27T15:15:07.000Z",
-    "createdAt": "2026-04-27T18:06:33.692Z",
-    "updatedAt": "2026-04-27T18:06:33.692Z"
-  },
-  {
-    "id": "3fc4c65b234dfc95",
-    "title": "Скончалась двукратная чемпионка СССР по фигурному катанию",
-    "sport": "Другое",
-    "category": "Фигурное катание",
-    "imageUrl": "/images/news-placeholder.jpg",
-    "teaser": "Скончалась двукратная чемпионка СССР по фигурному катанию",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69ef75149a79479cc216eeee",
-    "publishedAt": "2026-04-27T14:50:23.000Z",
-    "createdAt": "2026-04-27T18:06:37.026Z",
-    "updatedAt": "2026-04-27T18:06:37.026Z"
-  },
-  {
-    "id": "c7a2b94ecb84561d",
-    "title": "Путин поцеловал юную гимнастку в лоб и пожелал ей успехов",
-    "sport": "Другое",
-    "category": "Другие",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/6/23/347773038607236.jpeg",
-    "teaser": "Путин поцеловал юную гимнастку в лоб и пожелал ей успехов",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69ef68ba9a7947f5d3eaed4c",
-    "publishedAt": "2026-04-27T14:38:02.000Z",
-    "createdAt": "2026-04-27T18:06:38.194Z",
-    "updatedAt": "2026-04-27T18:06:38.194Z"
+    "createdAt": "2026-04-27T20:12:05.281Z",
+    "updatedAt": "2026-04-27T20:12:05.281Z"
   },
   {
     "id": "98ddd67275c6c860",
@@ -108,35 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69ef6e559a79475be012e935",
     "publishedAt": "2026-04-27T14:30:49.000Z",
-    "createdAt": "2026-04-27T18:06:34.880Z",
-    "updatedAt": "2026-04-27T18:06:34.880Z"
-  },
-  {
-    "id": "01e299c90fc3d110",
-    "title": "Хоккеиста клуба КХЛ вызвали в расположение сборной Словакии перед ЧМ",
-    "sport": "Хоккей",
-    "category": "Хоккей",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/5/32/347772966608325.jpeg",
-    "teaser": "Хоккеиста клуба КХЛ вызвали в расположение сборной Словакии перед ЧМ",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69ef60ae9a7947f9f80f3544",
-    "publishedAt": "2026-04-27T13:38:44.000Z",
-    "createdAt": "2026-04-27T18:06:39.384Z",
-    "updatedAt": "2026-04-27T18:06:39.384Z"
-  },
-  {
-    "id": "6b548dd8d34125d8",
-    "title": "Семак установил рекорд «Зенита» по числу матчей на посту главного тренера",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/0/41/347772923060410.jpeg",
-    "teaser": "Семак установил рекорд «Зенита» по числу матчей на посту главного тренера",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69ef537c9a79476dc377b6bb",
-    "publishedAt": "2026-04-27T13:01:29.000Z",
-    "createdAt": "2026-04-27T18:06:40.598Z",
-    "updatedAt": "2026-04-27T18:06:40.598Z"
+    "createdAt": "2026-04-27T20:12:06.412Z",
+    "updatedAt": "2026-04-27T20:12:06.412Z"
   }
 ]
