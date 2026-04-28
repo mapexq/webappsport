@@ -1,5 +1,89 @@
 [
   {
+    "id": "a3cab65045f966ba",
+    "title": "Уволенный из «Крыльев» тренер спустя месяц возглавил чемпиона Белоруссии",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/3/07/347773854323073.jpeg",
+    "teaser": "Уволенный из «Крыльев» тренер спустя месяц возглавил чемпиона Белоруссии",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69f0bf019a794770c42c7fb9",
+    "publishedAt": "2026-04-28T14:20:57.000Z",
+    "createdAt": "2026-04-28T14:26:22.089Z",
+    "updatedAt": "2026-04-28T14:26:22.089Z"
+  },
+  {
+    "id": "d66b585162dc756b",
+    "title": "Завоевавший 19 трофеев с «Манчестер Сити» защитник покинет клуб",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/1/78/347773827328781.jpeg",
+    "teaser": "Завоевавший 19 трофеев с «Манчестер Сити» защитник покинет клуб",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69f0b5109a7947284b618031",
+    "publishedAt": "2026-04-28T13:33:25.000Z",
+    "createdAt": "2026-04-28T14:26:23.127Z",
+    "updatedAt": "2026-04-28T14:26:23.127Z"
+  },
+  {
+    "id": "7164d50f66b58a7f",
+    "title": "Мирра Андреева впервые в карьере вышла в полуфинал «тысячника» в Мадриде",
+    "sport": "Теннис",
+    "category": "Теннис",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/3/11/347773802969113.jpeg",
+    "teaser": "Мирра Андреева впервые в карьере вышла в полуфинал «тысячника» в Мадриде",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69f0ab3b9a79472f2148d934",
+    "publishedAt": "2026-04-28T13:08:56.000Z",
+    "createdAt": "2026-04-28T14:26:24.273Z",
+    "updatedAt": "2026-04-28T14:26:24.273Z"
+  },
+  {
+    "id": "05982a8c1494b38c",
+    "title": "Клуб КХЛ сохранил тренера, несмотря на вылет в первом раунде плей-офф",
+    "sport": "Хоккей",
+    "category": "Хоккей",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/7/69/347773795506697.jpeg",
+    "teaser": "Клуб КХЛ сохранил тренера, несмотря на вылет в первом раунде плей-офф",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69f0a89e9a79471c8a0ccb80",
+    "publishedAt": "2026-04-28T12:43:55.000Z",
+    "createdAt": "2026-04-28T14:26:26.475Z",
+    "updatedAt": "2026-04-28T14:26:26.475Z"
+  },
+  {
+    "id": "542a7896f3d630ed",
+    "title": "Ошибка игрока в американскийпомогла спасти жизнь болельщику",
+    "sport": "Другое",
+    "category": "Другие",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/3/36/347773772600363.jpeg",
+    "teaser": "Ошибка игрока в американскийпомогла спасти жизнь болельщику",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69f09f879a794735474adb74",
+    "publishedAt": "2026-04-28T12:34:40.000Z",
+    "createdAt": "2026-04-28T14:26:25.375Z",
+    "updatedAt": "2026-04-28T14:26:25.375Z"
+  },
+  {
+    "id": "0f65f9607a31eabc",
+    "title": "Журова заявила, что Овечкин идеально бы «вписался» в Госдуму",
+    "sport": "Хоккей",
+    "category": "Хоккей",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/5/51/347773767058515.jpeg",
+    "teaser": "Журова заявила, что Овечкин идеально бы «вписался» в Госдуму",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69f09d5c9a794724aeb52a35",
+    "publishedAt": "2026-04-28T12:17:40.000Z",
+    "createdAt": "2026-04-28T14:26:27.510Z",
+    "updatedAt": "2026-04-28T14:26:27.510Z"
+  },
+  {
     "id": "8a34f07246f74e1e",
     "title": "Синнер повторил достижение Федерера и Джоковича на турнирах «Мастерс»",
     "sport": "Теннис",
@@ -10,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69f092759a79471479411e05",
     "publishedAt": "2026-04-28T11:15:10.000Z",
-    "createdAt": "2026-04-28T11:49:48.752Z",
-    "updatedAt": "2026-04-28T11:49:48.752Z"
+    "createdAt": "2026-04-28T14:26:28.605Z",
+    "updatedAt": "2026-04-28T14:26:28.605Z"
   },
   {
     "id": "9e5868d134bf17e6",
@@ -24,8 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69f084e09a7947444cbe0134",
     "publishedAt": "2026-04-28T10:55:26.000Z",
-    "createdAt": "2026-04-28T11:49:49.745Z",
-    "updatedAt": "2026-04-28T11:49:49.745Z"
+    "createdAt": "2026-04-28T14:26:29.695Z",
+    "updatedAt": "2026-04-28T14:26:29.695Z"
   },
   {
     "id": "b08a8199fe2d3a07",
@@ -38,8 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69f08cef9a7947bff0d90594",
     "publishedAt": "2026-04-28T10:46:00.000Z",
-    "createdAt": "2026-04-28T11:49:50.773Z",
-    "updatedAt": "2026-04-28T11:49:50.773Z"
+    "createdAt": "2026-04-28T14:26:30.794Z",
+    "updatedAt": "2026-04-28T14:26:30.794Z"
   },
   {
     "id": "9adabc5347e525d1",
@@ -52,91 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69f086779a79472cb3627814",
     "publishedAt": "2026-04-28T10:18:01.000Z",
-    "createdAt": "2026-04-28T11:49:51.732Z",
-    "updatedAt": "2026-04-28T11:49:51.732Z"
-  },
-  {
-    "id": "b9394cd5142dbacf",
-    "title": "«Ахмат» лишился основного вратаря до конца сезона РПЛ",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/4/37/347773692727374.jpeg",
-    "teaser": "«Ахмат» лишился основного вратаря до конца сезона РПЛ",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69f080799a7947f187472ff2",
-    "publishedAt": "2026-04-28T09:58:02.000Z",
-    "createdAt": "2026-04-28T11:49:52.748Z",
-    "updatedAt": "2026-04-28T11:49:52.748Z"
-  },
-  {
-    "id": "0e968708909796ff",
-    "title": "РПЛ сообщила о рекордной для сезона посещаемости в 27-м туре",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/9/56/347773697849569.jpeg",
-    "teaser": "РПЛ сообщила о рекордной для сезона посещаемости в 27-м туре",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69f082539a7947c4e4dda281",
-    "publishedAt": "2026-04-28T09:56:50.000Z",
-    "createdAt": "2026-04-28T11:49:53.822Z",
-    "updatedAt": "2026-04-28T11:49:53.822Z"
-  },
-  {
-    "id": "34890887c15e69c9",
-    "title": "Адвокат Сафонова рассказал о «судебном пузыре» экс-жены футболиста",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/7/34/347773662611347.jpeg",
-    "teaser": "Адвокат Сафонова рассказал о «судебном пузыре» экс-жены футболиста",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69f074c59a79470a99e730c1",
-    "publishedAt": "2026-04-28T09:51:11.000Z",
-    "createdAt": "2026-04-28T11:49:54.821Z",
-    "updatedAt": "2026-04-28T11:49:54.821Z"
-  },
-  {
-    "id": "1f7abdd67cdb566a",
-    "title": "Полиция Ванкувера отказала Инфантино в кортеже во время конгресса ФИФА",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/3/61/347773642560613.jpeg",
-    "teaser": "Полиция Ванкувера отказала Инфантино в кортеже во время конгресса ФИФА",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69f06cf69a79476e33bb7218",
-    "publishedAt": "2026-04-28T08:36:58.000Z",
-    "createdAt": "2026-04-28T11:49:55.844Z",
-    "updatedAt": "2026-04-28T11:49:55.844Z"
-  },
-  {
-    "id": "3fe46bfcd4d803bc",
-    "title": "Анатолий Карпов заявил, что не купил бы себе шахматы за $4 млн",
-    "sport": "Другое",
-    "category": "Другие",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/2/82/347773630324822.jpeg",
-    "teaser": "Анатолий Карпов заявил, что не купил бы себе шахматы за $4 млн",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69f068189a794772f1c4e08f",
-    "publishedAt": "2026-04-28T08:19:55.000Z",
-    "createdAt": "2026-04-28T11:49:56.911Z",
-    "updatedAt": "2026-04-28T11:49:56.911Z"
-  },
-  {
-    "id": "e67a8e8a1a6c8464",
-    "title": "КХЛ оштрафовала двух главных тренеров за массовую драку в плей-офф",
-    "sport": "Хоккей",
-    "category": "Хоккей",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/9/35/347773612950359.jpeg",
-    "teaser": "КХЛ оштрафовала двух главных тренеров за массовую драку в плей-офф",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69f061399a79471aca1d4708",
-    "publishedAt": "2026-04-28T07:49:38.000Z",
-    "createdAt": "2026-04-28T11:49:58.179Z",
-    "updatedAt": "2026-04-28T11:49:58.179Z"
+    "createdAt": "2026-04-28T14:26:31.886Z",
+    "updatedAt": "2026-04-28T14:26:31.886Z"
   }
 ]
