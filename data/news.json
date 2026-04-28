@@ -1,17 +1,45 @@
 [
   {
-    "id": "8ab99552818eab98",
-    "title": "У лыжников Натальи и Александра Терентьевых родился сын",
+    "id": "9c69b917ca8a7cbf",
+    "title": "Экс-главу «Фонбета» приговорили к восьми годам колонии за взятку",
+    "sport": "Другое",
+    "category": "Другие",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/9/12/347773977213129.jpeg",
+    "teaser": "Экс-главу «Фонбета» приговорили к восьми годам колонии за взятку",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69f0ef909a79472d9e61b538",
+    "publishedAt": "2026-04-28T18:05:55.000Z",
+    "createdAt": "2026-04-28T18:22:50.508Z",
+    "updatedAt": "2026-04-28T18:22:50.508Z"
+  },
+  {
+    "id": "2e128dcd975b3911",
+    "title": "Российских участников Олимпиады-2026 внесли в базу «Миротворца»",
+    "sport": "Другое",
+    "category": "Другие",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/4/81/347773969465814.jpeg",
+    "teaser": "Российских участников Олимпиады-2026 внесли в базу «Миротворца»",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69f0ec639a7947fe5b9c7ca5",
+    "publishedAt": "2026-04-28T17:47:25.000Z",
+    "createdAt": "2026-04-28T18:22:51.619Z",
+    "updatedAt": "2026-04-28T18:22:51.619Z"
+  },
+  {
+    "id": "c2da6a8526819530",
+    "title": "У лыжников Натальи и Александра Терентьевых родился второй ребенок",
     "sport": "Другое",
     "category": "Другие",
     "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/5/66/347773938304665.jpeg",
-    "teaser": "У лыжников Натальи и Александра Терентьевых родился сын",
+    "teaser": "У лыжников Натальи и Александра Терентьевых родился второй ребенок",
     "fullContent": "",
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69f0e0789a79475244222431",
     "publishedAt": "2026-04-28T16:50:25.000Z",
-    "createdAt": "2026-04-28T16:56:48.090Z",
-    "updatedAt": "2026-04-28T16:56:48.090Z"
+    "createdAt": "2026-04-28T18:22:52.709Z",
+    "updatedAt": "2026-04-28T18:22:52.709Z"
   },
   {
     "id": "1fcbbfbfa9a08337",
@@ -24,8 +52,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69f0dbd09a7947d8b4a35cf6",
     "publishedAt": "2026-04-28T16:30:17.000Z",
-    "createdAt": "2026-04-28T16:56:49.139Z",
-    "updatedAt": "2026-04-28T16:56:49.139Z"
+    "createdAt": "2026-04-28T18:22:53.856Z",
+    "updatedAt": "2026-04-28T18:22:53.856Z"
   },
   {
     "id": "ff1a1f3183aa6488",
@@ -38,8 +66,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69f0d7839a794731ad64c7a0",
     "publishedAt": "2026-04-28T16:16:47.000Z",
-    "createdAt": "2026-04-28T16:56:50.170Z",
-    "updatedAt": "2026-04-28T16:56:50.170Z"
+    "createdAt": "2026-04-28T18:22:54.987Z",
+    "updatedAt": "2026-04-28T18:22:54.987Z"
   },
   {
     "id": "e39cf1492a948f89",
@@ -52,8 +80,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69f0d4779a7947fed19e51c2",
     "publishedAt": "2026-04-28T15:52:46.000Z",
-    "createdAt": "2026-04-28T16:56:51.070Z",
-    "updatedAt": "2026-04-28T16:56:51.070Z"
+    "createdAt": "2026-04-28T18:22:56.176Z",
+    "updatedAt": "2026-04-28T18:22:56.176Z"
   },
   {
     "id": "bca4deb30dc13df0",
@@ -66,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69f0d2b69a7947b49dcdfd27",
     "publishedAt": "2026-04-28T15:42:41.000Z",
-    "createdAt": "2026-04-28T16:56:53.879Z",
-    "updatedAt": "2026-04-28T16:56:53.879Z"
+    "createdAt": "2026-04-28T18:22:59.508Z",
+    "updatedAt": "2026-04-28T18:22:59.508Z"
   },
   {
     "id": "b64dd6dca2190a40",
@@ -80,8 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69f0ce519a7947029df8bd22",
     "publishedAt": "2026-04-28T15:27:25.000Z",
-    "createdAt": "2026-04-28T16:56:52.096Z",
-    "updatedAt": "2026-04-28T16:56:52.096Z"
+    "createdAt": "2026-04-28T18:22:57.378Z",
+    "updatedAt": "2026-04-28T18:22:57.378Z"
   },
   {
     "id": "b407e3338f127ff1",
@@ -94,8 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69f0c2d39a79473454856589",
     "publishedAt": "2026-04-28T14:38:55.000Z",
-    "createdAt": "2026-04-28T16:56:54.695Z",
-    "updatedAt": "2026-04-28T16:56:54.695Z"
+    "createdAt": "2026-04-28T18:23:00.702Z",
+    "updatedAt": "2026-04-28T18:23:00.702Z"
   },
   {
     "id": "a3cab65045f966ba",
@@ -108,35 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69f0bf019a794770c42c7fb9",
     "publishedAt": "2026-04-28T14:20:57.000Z",
-    "createdAt": "2026-04-28T16:56:55.712Z",
-    "updatedAt": "2026-04-28T16:56:55.712Z"
-  },
-  {
-    "id": "d66b585162dc756b",
-    "title": "Завоевавший 19 трофеев с «Манчестер Сити» защитник покинет клуб",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/1/78/347773827328781.jpeg",
-    "teaser": "Завоевавший 19 трофеев с «Манчестер Сити» защитник покинет клуб",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69f0b5109a7947284b618031",
-    "publishedAt": "2026-04-28T13:33:25.000Z",
-    "createdAt": "2026-04-28T16:56:56.727Z",
-    "updatedAt": "2026-04-28T16:56:56.727Z"
-  },
-  {
-    "id": "7164d50f66b58a7f",
-    "title": "Мирра Андреева впервые в карьере вышла в полуфинал «тысячника» в Мадриде",
-    "sport": "Теннис",
-    "category": "Теннис",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/3/11/347773802969113.jpeg",
-    "teaser": "Мирра Андреева впервые в карьере вышла в полуфинал «тысячника» в Мадриде",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69f0ab3b9a79472f2148d934",
-    "publishedAt": "2026-04-28T13:08:56.000Z",
-    "createdAt": "2026-04-28T16:56:57.698Z",
-    "updatedAt": "2026-04-28T16:56:57.698Z"
+    "createdAt": "2026-04-28T18:23:02.014Z",
+    "updatedAt": "2026-04-28T18:23:02.014Z"
   }
 ]
