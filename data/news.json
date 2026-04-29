@@ -1,5 +1,75 @@
 [
   {
+    "id": "9e664d0082cba1e3",
+    "title": "Молодежный чемпионат мира по футболу 2029 года примут Армения и Грузия",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/3/25/347774480333253.jpeg",
+    "teaser": "Молодежный чемпионат мира по футболу 2029 года примут Армения и Грузия",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69f1b0029a7947ce6d47abc9",
+    "publishedAt": "2026-04-29T07:47:40.000Z",
+    "createdAt": "2026-04-29T09:13:25.773Z",
+    "updatedAt": "2026-04-29T09:13:25.773Z"
+  },
+  {
+    "id": "5f124ee430a1cf73",
+    "title": "Сафонов оценил победный матч ПСЖ в полуфинале ЛЧ с рекордным числом голов",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/8/72/347774453948728.jpeg",
+    "teaser": "Сафонов оценил победный матч ПСЖ в полуфинале ЛЧ с рекордным числом голов",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69f1a73a9a7947589c0f285b",
+    "publishedAt": "2026-04-29T07:19:28.000Z",
+    "createdAt": "2026-04-29T09:13:28.096Z",
+    "updatedAt": "2026-04-29T09:13:28.096Z"
+  },
+  {
+    "id": "54658f476e970d2f",
+    "title": "Россиянин установил рекорд в «Миннесоте» по забитым шайбам в плей-офф НХЛ",
+    "sport": "Хоккей",
+    "category": "Хоккей",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/3/68/347774438859683.jpeg",
+    "teaser": "Россиянин установил рекорд в «Миннесоте» по забитым шайбам в плей-офф НХЛ",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69f19fda9a7947f9bafc046d",
+    "publishedAt": "2026-04-29T07:15:14.000Z",
+    "createdAt": "2026-04-29T09:13:26.941Z",
+    "updatedAt": "2026-04-29T09:13:26.941Z"
+  },
+  {
+    "id": "45b7767283ce9b5a",
+    "title": "ПСЖ Сафонова обыграл «Баварию» с рекордным числом голов в полуфинале ЛЧ",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/3/67/347774119388673.jpeg",
+    "teaser": "ПСЖ Сафонова обыграл «Баварию» с рекордным числом голов в полуфинале ЛЧ",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69f11e639a794793667115a4",
+    "publishedAt": "2026-04-28T21:11:47.000Z",
+    "createdAt": "2026-04-29T09:13:29.184Z",
+    "updatedAt": "2026-04-29T09:13:29.184Z"
+  },
+  {
+    "id": "0ec8ca44805be59a",
+    "title": "Экс-глава «Фонбет» получил срок за взятку. Чем известен Сергей Анохин",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/9/22/347381447004229.jpeg",
+    "teaser": "Экс-глава «Фонбет» получил срок за взятку. Чем известен Сергей Анохин",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/679a082f9a794747aabf7b8b",
+    "publishedAt": "2026-04-28T21:08:44.000Z",
+    "createdAt": "2026-04-29T09:13:30.440Z",
+    "updatedAt": "2026-04-29T09:13:30.440Z"
+  },
+  {
     "id": "7257679c5798d1a0",
     "title": "Россиянин проведет бой за статус обязательного претендента на титул WBA",
     "sport": "Единоборства",
@@ -10,8 +80,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69f0fb6f9a794725f02af987",
     "publishedAt": "2026-04-28T18:39:26.000Z",
-    "createdAt": "2026-04-29T06:29:45.390Z",
-    "updatedAt": "2026-04-29T06:29:45.390Z"
+    "createdAt": "2026-04-29T09:13:33.843Z",
+    "updatedAt": "2026-04-29T09:13:33.843Z"
   },
   {
     "id": "b3716b0479f2d97b",
@@ -24,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69f0ef909a79472d9e61b538",
     "publishedAt": "2026-04-28T18:05:55.000Z",
-    "createdAt": "2026-04-29T06:29:43.191Z",
-    "updatedAt": "2026-04-29T06:29:43.191Z"
+    "createdAt": "2026-04-29T09:13:31.591Z",
+    "updatedAt": "2026-04-29T09:13:31.591Z"
   },
   {
     "id": "2e128dcd975b3911",
@@ -38,8 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69f0ec639a7947fe5b9c7ca5",
     "publishedAt": "2026-04-28T17:47:25.000Z",
-    "createdAt": "2026-04-29T06:29:44.278Z",
-    "updatedAt": "2026-04-29T06:29:44.278Z"
+    "createdAt": "2026-04-29T09:13:32.683Z",
+    "updatedAt": "2026-04-29T09:13:32.683Z"
   },
   {
     "id": "c2da6a8526819530",
@@ -52,8 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69f0e0789a79475244222431",
     "publishedAt": "2026-04-28T16:50:25.000Z",
-    "createdAt": "2026-04-29T06:29:46.379Z",
-    "updatedAt": "2026-04-29T06:29:46.379Z"
+    "createdAt": "2026-04-29T09:13:34.955Z",
+    "updatedAt": "2026-04-29T09:13:34.955Z"
   },
   {
     "id": "1fcbbfbfa9a08337",
@@ -66,77 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69f0dbd09a7947d8b4a35cf6",
     "publishedAt": "2026-04-28T16:30:17.000Z",
-    "createdAt": "2026-04-29T06:29:47.429Z",
-    "updatedAt": "2026-04-29T06:29:47.429Z"
-  },
-  {
-    "id": "ff1a1f3183aa6488",
-    "title": "Чемпион КХЛ отыгрался с 0:2 и сократил отставание в полуфинале плей-офф",
-    "sport": "Хоккей",
-    "category": "Хоккей",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/5/06/347773915479065.jpeg",
-    "teaser": "Чемпион КХЛ отыгрался с 0:2 и сократил отставание в полуфинале плей-офф",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69f0d7839a794731ad64c7a0",
-    "publishedAt": "2026-04-28T16:16:47.000Z",
-    "createdAt": "2026-04-29T06:29:48.474Z",
-    "updatedAt": "2026-04-29T06:29:48.474Z"
-  },
-  {
-    "id": "e39cf1492a948f89",
-    "title": "Самая титулованная легкоатлетка в истории возобновила карьеру в 40 лет",
-    "sport": "Другое",
-    "category": "Другие",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/9/66/347773908370669.jpeg",
-    "teaser": "Самая титулованная легкоатлетка в истории возобновила карьеру в 40 лет",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69f0d4779a7947fed19e51c2",
-    "publishedAt": "2026-04-28T15:52:46.000Z",
-    "createdAt": "2026-04-29T06:29:49.517Z",
-    "updatedAt": "2026-04-29T06:29:49.517Z"
-  },
-  {
-    "id": "bca4deb30dc13df0",
-    "title": "Российского чемпиона Европы по гребле дисквалифицировали на два года",
-    "sport": "Другое",
-    "category": "Другие",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/4/87/756678354777874.jpg",
-    "teaser": "Российского чемпиона Европы по гребле дисквалифицировали на два года",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69f0d2b69a7947b49dcdfd27",
-    "publishedAt": "2026-04-28T15:42:41.000Z",
-    "createdAt": "2026-04-29T06:29:52.417Z",
-    "updatedAt": "2026-04-29T06:29:52.417Z"
-  },
-  {
-    "id": "b64dd6dca2190a40",
-    "title": "Олимпийский чемпион по тяжелой атлетике Плюкфельдер умер в 97 лет",
-    "sport": "Другое",
-    "category": "Другие",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/7/68/347773891783687.jpeg",
-    "teaser": "Олимпийский чемпион по тяжелой атлетике Плюкфельдер умер в 97 лет",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69f0ce519a7947029df8bd22",
-    "publishedAt": "2026-04-28T15:27:25.000Z",
-    "createdAt": "2026-04-29T06:29:50.581Z",
-    "updatedAt": "2026-04-29T06:29:50.581Z"
-  },
-  {
-    "id": "b407e3338f127ff1",
-    "title": "Макрон сделал прогноз на полуфинал Лиги чемпионов ПСЖ — «Бавария»",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/6/83/347773862596836.jpeg",
-    "teaser": "Макрон сделал прогноз на полуфинал Лиги чемпионов ПСЖ — «Бавария»",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69f0c2d39a79473454856589",
-    "publishedAt": "2026-04-28T14:38:55.000Z",
-    "createdAt": "2026-04-29T06:29:53.515Z",
-    "updatedAt": "2026-04-29T06:29:53.515Z"
+    "createdAt": "2026-04-29T09:13:36.153Z",
+    "updatedAt": "2026-04-29T09:13:36.153Z"
   }
 ]
