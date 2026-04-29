@@ -1,5 +1,61 @@
 [
   {
+    "id": "5d4b9d79f5e9a116",
+    "title": "Медалист чемпионата мира оценил игру Сафонова в полуфинале Лиги чемпионов",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/9/35/347774537006359.jpeg",
+    "teaser": "Медалист чемпионата мира оценил игру Сафонова в полуфинале Лиги чемпионов",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69f1c2269a794765c9b1bd86",
+    "publishedAt": "2026-04-29T10:58:52.000Z",
+    "createdAt": "2026-04-29T11:42:29.443Z",
+    "updatedAt": "2026-04-29T11:42:29.443Z"
+  },
+  {
+    "id": "dd823343ccb97937",
+    "title": "Журналист узнал, что конкурент Сафонова в ПСЖ может покинуть клуб летом",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/6/76/347774592371766.jpeg",
+    "teaser": "Журналист узнал, что конкурент Сафонова в ПСЖ может покинуть клуб летом",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69f1db9d9a7947309f9f78c5",
+    "publishedAt": "2026-04-29T10:55:17.000Z",
+    "createdAt": "2026-04-29T11:42:30.532Z",
+    "updatedAt": "2026-04-29T11:42:30.532Z"
+  },
+  {
+    "id": "09eeb79dd298f238",
+    "title": "Макдэвид назвал российского форварда «Эдмонтона» одним из лучших игроков",
+    "sport": "Хоккей",
+    "category": "Хоккей",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/9/95/347774562274959.jpeg",
+    "teaser": "Макдэвид назвал российского форварда «Эдмонтона» одним из лучших игроков",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69f1d2b29a794745626e265e",
+    "publishedAt": "2026-04-29T10:07:39.000Z",
+    "createdAt": "2026-04-29T11:42:31.798Z",
+    "updatedAt": "2026-04-29T11:42:31.798Z"
+  },
+  {
+    "id": "cc234ee46a967ac3",
+    "title": "Медведев заявил, что доволен качеством игры после вылета с «Мастерс»",
+    "sport": "Теннис",
+    "category": "Теннис",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/1/41/347774531013411.jpeg",
+    "teaser": "Медведев заявил, что доволен качеством игры после вылета с «Мастерс»",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69f1c3f89a79473f2f8864f0",
+    "publishedAt": "2026-04-29T09:24:56.000Z",
+    "createdAt": "2026-04-29T11:42:32.878Z",
+    "updatedAt": "2026-04-29T11:42:32.878Z"
+  },
+  {
     "id": "9e664d0082cba1e3",
     "title": "Молодежный чемпионат мира по футболу 2029 года примут Армения и Грузия",
     "sport": "Футбол",
@@ -10,8 +66,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69f1b0029a7947ce6d47abc9",
     "publishedAt": "2026-04-29T07:47:40.000Z",
-    "createdAt": "2026-04-29T09:13:25.773Z",
-    "updatedAt": "2026-04-29T09:13:25.773Z"
+    "createdAt": "2026-04-29T11:42:33.970Z",
+    "updatedAt": "2026-04-29T11:42:33.970Z"
   },
   {
     "id": "5f124ee430a1cf73",
@@ -24,8 +80,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69f1a73a9a7947589c0f285b",
     "publishedAt": "2026-04-29T07:19:28.000Z",
-    "createdAt": "2026-04-29T09:13:28.096Z",
-    "updatedAt": "2026-04-29T09:13:28.096Z"
+    "createdAt": "2026-04-29T11:42:36.219Z",
+    "updatedAt": "2026-04-29T11:42:36.219Z"
   },
   {
     "id": "54658f476e970d2f",
@@ -38,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69f19fda9a7947f9bafc046d",
     "publishedAt": "2026-04-29T07:15:14.000Z",
-    "createdAt": "2026-04-29T09:13:26.941Z",
-    "updatedAt": "2026-04-29T09:13:26.941Z"
+    "createdAt": "2026-04-29T11:42:35.121Z",
+    "updatedAt": "2026-04-29T11:42:35.121Z"
   },
   {
     "id": "45b7767283ce9b5a",
@@ -52,8 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69f11e639a794793667115a4",
     "publishedAt": "2026-04-28T21:11:47.000Z",
-    "createdAt": "2026-04-29T09:13:29.184Z",
-    "updatedAt": "2026-04-29T09:13:29.184Z"
+    "createdAt": "2026-04-29T11:42:37.307Z",
+    "updatedAt": "2026-04-29T11:42:37.307Z"
   },
   {
     "id": "0ec8ca44805be59a",
@@ -66,22 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/679a082f9a794747aabf7b8b",
     "publishedAt": "2026-04-28T21:08:44.000Z",
-    "createdAt": "2026-04-29T09:13:30.440Z",
-    "updatedAt": "2026-04-29T09:13:30.440Z"
-  },
-  {
-    "id": "7257679c5798d1a0",
-    "title": "Россиянин проведет бой за статус обязательного претендента на титул WBA",
-    "sport": "Единоборства",
-    "category": "Единоборства",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/1/97/347774007141971.jpeg",
-    "teaser": "Россиянин проведет бой за статус обязательного претендента на титул WBA",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69f0fb6f9a794725f02af987",
-    "publishedAt": "2026-04-28T18:39:26.000Z",
-    "createdAt": "2026-04-29T09:13:33.843Z",
-    "updatedAt": "2026-04-29T09:13:33.843Z"
+    "createdAt": "2026-04-29T11:42:38.478Z",
+    "updatedAt": "2026-04-29T11:42:38.478Z"
   },
   {
     "id": "b3716b0479f2d97b",
@@ -94,49 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69f0ef909a79472d9e61b538",
     "publishedAt": "2026-04-28T18:05:55.000Z",
-    "createdAt": "2026-04-29T09:13:31.591Z",
-    "updatedAt": "2026-04-29T09:13:31.591Z"
-  },
-  {
-    "id": "2e128dcd975b3911",
-    "title": "Российских участников Олимпиады-2026 внесли в базу «Миротворца»",
-    "sport": "Другое",
-    "category": "Другие",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/4/81/347773969465814.jpeg",
-    "teaser": "Российских участников Олимпиады-2026 внесли в базу «Миротворца»",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69f0ec639a7947fe5b9c7ca5",
-    "publishedAt": "2026-04-28T17:47:25.000Z",
-    "createdAt": "2026-04-29T09:13:32.683Z",
-    "updatedAt": "2026-04-29T09:13:32.683Z"
-  },
-  {
-    "id": "c2da6a8526819530",
-    "title": "У лыжников Натальи и Александра Терентьевых родился второй ребенок",
-    "sport": "Другое",
-    "category": "Другие",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/5/66/347773938304665.jpeg",
-    "teaser": "У лыжников Натальи и Александра Терентьевых родился второй ребенок",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69f0e0789a79475244222431",
-    "publishedAt": "2026-04-28T16:50:25.000Z",
-    "createdAt": "2026-04-29T09:13:34.955Z",
-    "updatedAt": "2026-04-29T09:13:34.955Z"
-  },
-  {
-    "id": "1fcbbfbfa9a08337",
-    "title": "Кучерова номинировали на приз лучшему игроку НХЛ по версии хоккеистов",
-    "sport": "Хоккей",
-    "category": "Хоккей",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/6/93/347773926397936.jpeg",
-    "teaser": "Кучерова номинировали на приз лучшему игроку НХЛ по версии хоккеистов",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69f0dbd09a7947d8b4a35cf6",
-    "publishedAt": "2026-04-28T16:30:17.000Z",
-    "createdAt": "2026-04-29T09:13:36.153Z",
-    "updatedAt": "2026-04-29T09:13:36.153Z"
+    "createdAt": "2026-04-29T11:42:39.664Z",
+    "updatedAt": "2026-04-29T11:42:39.664Z"
   }
 ]
