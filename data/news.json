@@ -1,5 +1,33 @@
 [
   {
+    "id": "1a2716cfc60b6c68",
+    "title": "Конкурент Сафонова в ПСЖ пропустит несколько недель из-за травмы",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/7/83/347774867527837.jpeg",
+    "teaser": "Конкурент Сафонова в ПСЖ пропустит несколько недель из-за травмы",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69f247c59a79470085cd1326",
+    "publishedAt": "2026-04-29T19:25:36.000Z",
+    "createdAt": "2026-04-29T20:13:52.289Z",
+    "updatedAt": "2026-04-29T20:13:52.289Z"
+  },
+  {
+    "id": "6bcac07be5c5e74c",
+    "title": "«Ак Барс» вышел вперед в серии 1/2 финала плей-офф КХЛ с «Металлургом»",
+    "sport": "Хоккей",
+    "category": "Хоккей",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/8/90/347774850808908.jpeg",
+    "teaser": "«Ак Барс» вышел вперед в серии 1/2 финала плей-офф КХЛ с «Металлургом»",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69f23e0b9a79474e1fd716ee",
+    "publishedAt": "2026-04-29T19:22:57.000Z",
+    "createdAt": "2026-04-29T20:13:51.200Z",
+    "updatedAt": "2026-04-29T20:13:51.200Z"
+  },
+  {
     "id": "deffb682abb2953b",
     "title": "Польские политики из противоборствующих партий сошлись в поединке ММА",
     "sport": "Единоборства",
@@ -10,8 +38,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69f23f1d9a79473066727a68",
     "publishedAt": "2026-04-29T17:52:13.000Z",
-    "createdAt": "2026-04-29T18:15:34.476Z",
-    "updatedAt": "2026-04-29T18:15:34.476Z"
+    "createdAt": "2026-04-29T20:13:54.532Z",
+    "updatedAt": "2026-04-29T20:13:54.532Z"
   },
   {
     "id": "ed19143d4574d4be",
@@ -24,8 +52,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69f233769a79475294f81516",
     "publishedAt": "2026-04-29T17:13:28.000Z",
-    "createdAt": "2026-04-29T18:15:35.295Z",
-    "updatedAt": "2026-04-29T18:15:35.295Z"
+    "createdAt": "2026-04-29T20:13:55.586Z",
+    "updatedAt": "2026-04-29T20:13:55.586Z"
   },
   {
     "id": "5c583a88a02799ab",
@@ -38,8 +66,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69f22b479a794705b4943209",
     "publishedAt": "2026-04-29T16:36:30.000Z",
-    "createdAt": "2026-04-29T18:15:36.393Z",
-    "updatedAt": "2026-04-29T18:15:36.393Z"
+    "createdAt": "2026-04-29T20:13:56.742Z",
+    "updatedAt": "2026-04-29T20:13:56.742Z"
   },
   {
     "id": "abb5d6b7570a6f2c",
@@ -52,8 +80,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69f221709a7947c24bce5b4b",
     "publishedAt": "2026-04-29T15:51:03.000Z",
-    "createdAt": "2026-04-29T18:15:37.365Z",
-    "updatedAt": "2026-04-29T18:15:37.365Z"
+    "createdAt": "2026-04-29T20:13:57.868Z",
+    "updatedAt": "2026-04-29T20:13:57.868Z"
   },
   {
     "id": "3500c8e32ee663c1",
@@ -66,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69f21b159a7947337c408352",
     "publishedAt": "2026-04-29T15:36:57.000Z",
-    "createdAt": "2026-04-29T18:15:38.385Z",
-    "updatedAt": "2026-04-29T18:15:38.385Z"
+    "createdAt": "2026-04-29T20:13:59.007Z",
+    "updatedAt": "2026-04-29T20:13:59.007Z"
   },
   {
     "id": "c0dacc4106a14ee7",
@@ -80,8 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69f21c629a7947155ea1e765",
     "publishedAt": "2026-04-29T15:26:16.000Z",
-    "createdAt": "2026-04-29T18:15:39.405Z",
-    "updatedAt": "2026-04-29T18:15:39.405Z"
+    "createdAt": "2026-04-29T20:14:00.184Z",
+    "updatedAt": "2026-04-29T20:14:00.184Z"
   },
   {
     "id": "bdce948d8b35ed9d",
@@ -94,8 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69f215109a7947f2a3cb48d4",
     "publishedAt": "2026-04-29T14:58:57.000Z",
-    "createdAt": "2026-04-29T18:15:40.523Z",
-    "updatedAt": "2026-04-29T18:15:40.523Z"
+    "createdAt": "2026-04-29T20:14:01.324Z",
+    "updatedAt": "2026-04-29T20:14:01.324Z"
   },
   {
     "id": "23d3965bb3ce2c18",
@@ -108,35 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69f209f39a7947a649fa3e17",
     "publishedAt": "2026-04-29T14:08:04.000Z",
-    "createdAt": "2026-04-29T18:15:41.567Z",
-    "updatedAt": "2026-04-29T18:15:41.567Z"
-  },
-  {
-    "id": "fb43f6297db44fe5",
-    "title": "Царукян заявил, что Путин построил спортзал для Хабиба Нурмагомедова",
-    "sport": "Единоборства",
-    "category": "Единоборства",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/8/15/347774683338158.png",
-    "teaser": "Царукян заявил, что Путин построил спортзал для Хабиба Нурмагомедова",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69f1fcd99a79478fd701505f",
-    "publishedAt": "2026-04-29T13:21:25.000Z",
-    "createdAt": "2026-04-29T18:15:42.547Z",
-    "updatedAt": "2026-04-29T18:15:42.547Z"
-  },
-  {
-    "id": "efe583d2a3197dca",
-    "title": "Экс-футболист фразой «деньги грели» объяснил переезд в «холодную» Россию",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/1/48/347774653332481.jpeg",
-    "teaser": "Экс-футболист фразой «деньги грели» объяснил переезд в «холодную» Россию",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69f1eb9b9a79474591752ac8",
-    "publishedAt": "2026-04-29T12:53:57.000Z",
-    "createdAt": "2026-04-29T18:15:43.598Z",
-    "updatedAt": "2026-04-29T18:15:43.598Z"
+    "createdAt": "2026-04-29T20:14:02.437Z",
+    "updatedAt": "2026-04-29T20:14:02.437Z"
   }
 ]
