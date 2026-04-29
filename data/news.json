@@ -1,5 +1,61 @@
 [
   {
+    "id": "fb43f6297db44fe5",
+    "title": "Царукян заявил, что Путин построил спортзал для Хабиба Нурмагомедова",
+    "sport": "Единоборства",
+    "category": "Единоборства",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/8/15/347774683338158.png",
+    "teaser": "Царукян заявил, что Путин построил спортзал для Хабиба Нурмагомедова",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69f1fcd99a79478fd701505f",
+    "publishedAt": "2026-04-29T13:21:25.000Z",
+    "createdAt": "2026-04-29T14:12:17.897Z",
+    "updatedAt": "2026-04-29T14:12:17.897Z"
+  },
+  {
+    "id": "efe583d2a3197dca",
+    "title": "Экс-футболист фразой «деньги грели» объяснил переезд в «холодную» Россию",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/1/48/347774653332481.jpeg",
+    "teaser": "Экс-футболист фразой «деньги грели» объяснил переезд в «холодную» Россию",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69f1eb9b9a79474591752ac8",
+    "publishedAt": "2026-04-29T12:53:57.000Z",
+    "createdAt": "2026-04-29T14:12:19.069Z",
+    "updatedAt": "2026-04-29T14:12:19.069Z"
+  },
+  {
+    "id": "bf78f0c7e074a356",
+    "title": "Тренер команды Медиалиги возглавил клуб РПЛ",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/1/96/347774645871961.jpeg",
+    "teaser": "Тренер команды Медиалиги возглавил клуб РПЛ",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69f1f3de9a794726ba3d2f1d",
+    "publishedAt": "2026-04-29T12:28:05.000Z",
+    "createdAt": "2026-04-29T14:12:20.231Z",
+    "updatedAt": "2026-04-29T14:12:20.231Z"
+  },
+  {
+    "id": "f7368242d62d4f33",
+    "title": "World Boxing допустила россиян до своих турниров в нейтральном статусе",
+    "sport": "Единоборства",
+    "category": "Единоборства",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/9/40/347774634695409.jpeg",
+    "teaser": "World Boxing допустила россиян до своих турниров в нейтральном статусе",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69f1edbb9a7947420c611ed6",
+    "publishedAt": "2026-04-29T11:58:47.000Z",
+    "createdAt": "2026-04-29T14:12:21.324Z",
+    "updatedAt": "2026-04-29T14:12:21.324Z"
+  },
+  {
     "id": "5d4b9d79f5e9a116",
     "title": "Медалист чемпионата мира оценил игру Сафонова в полуфинале Лиги чемпионов",
     "sport": "Футбол",
@@ -10,8 +66,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69f1c2269a794765c9b1bd86",
     "publishedAt": "2026-04-29T10:58:52.000Z",
-    "createdAt": "2026-04-29T11:42:29.443Z",
-    "updatedAt": "2026-04-29T11:42:29.443Z"
+    "createdAt": "2026-04-29T14:12:22.522Z",
+    "updatedAt": "2026-04-29T14:12:22.522Z"
   },
   {
     "id": "dd823343ccb97937",
@@ -24,8 +80,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69f1db9d9a7947309f9f78c5",
     "publishedAt": "2026-04-29T10:55:17.000Z",
-    "createdAt": "2026-04-29T11:42:30.532Z",
-    "updatedAt": "2026-04-29T11:42:30.532Z"
+    "createdAt": "2026-04-29T14:12:23.561Z",
+    "updatedAt": "2026-04-29T14:12:23.561Z"
   },
   {
     "id": "09eeb79dd298f238",
@@ -38,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69f1d2b29a794745626e265e",
     "publishedAt": "2026-04-29T10:07:39.000Z",
-    "createdAt": "2026-04-29T11:42:31.798Z",
-    "updatedAt": "2026-04-29T11:42:31.798Z"
+    "createdAt": "2026-04-29T14:12:24.862Z",
+    "updatedAt": "2026-04-29T14:12:24.862Z"
   },
   {
     "id": "cc234ee46a967ac3",
@@ -52,8 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69f1c3f89a79473f2f8864f0",
     "publishedAt": "2026-04-29T09:24:56.000Z",
-    "createdAt": "2026-04-29T11:42:32.878Z",
-    "updatedAt": "2026-04-29T11:42:32.878Z"
+    "createdAt": "2026-04-29T14:12:26.039Z",
+    "updatedAt": "2026-04-29T14:12:26.039Z"
   },
   {
     "id": "9e664d0082cba1e3",
@@ -66,22 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69f1b0029a7947ce6d47abc9",
     "publishedAt": "2026-04-29T07:47:40.000Z",
-    "createdAt": "2026-04-29T11:42:33.970Z",
-    "updatedAt": "2026-04-29T11:42:33.970Z"
-  },
-  {
-    "id": "5f124ee430a1cf73",
-    "title": "Сафонов оценил победный матч ПСЖ в полуфинале ЛЧ с рекордным числом голов",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/8/72/347774453948728.jpeg",
-    "teaser": "Сафонов оценил победный матч ПСЖ в полуфинале ЛЧ с рекордным числом голов",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69f1a73a9a7947589c0f285b",
-    "publishedAt": "2026-04-29T07:19:28.000Z",
-    "createdAt": "2026-04-29T11:42:36.219Z",
-    "updatedAt": "2026-04-29T11:42:36.219Z"
+    "createdAt": "2026-04-29T14:12:27.195Z",
+    "updatedAt": "2026-04-29T14:12:27.195Z"
   },
   {
     "id": "54658f476e970d2f",
@@ -94,49 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69f19fda9a7947f9bafc046d",
     "publishedAt": "2026-04-29T07:15:14.000Z",
-    "createdAt": "2026-04-29T11:42:35.121Z",
-    "updatedAt": "2026-04-29T11:42:35.121Z"
-  },
-  {
-    "id": "45b7767283ce9b5a",
-    "title": "ПСЖ Сафонова обыграл «Баварию» с рекордным числом голов в полуфинале ЛЧ",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/3/67/347774119388673.jpeg",
-    "teaser": "ПСЖ Сафонова обыграл «Баварию» с рекордным числом голов в полуфинале ЛЧ",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69f11e639a794793667115a4",
-    "publishedAt": "2026-04-28T21:11:47.000Z",
-    "createdAt": "2026-04-29T11:42:37.307Z",
-    "updatedAt": "2026-04-29T11:42:37.307Z"
-  },
-  {
-    "id": "0ec8ca44805be59a",
-    "title": "Экс-глава «Фонбет» получил срок за взятку. Чем известен Сергей Анохин",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/9/22/347381447004229.jpeg",
-    "teaser": "Экс-глава «Фонбет» получил срок за взятку. Чем известен Сергей Анохин",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/679a082f9a794747aabf7b8b",
-    "publishedAt": "2026-04-28T21:08:44.000Z",
-    "createdAt": "2026-04-29T11:42:38.478Z",
-    "updatedAt": "2026-04-29T11:42:38.478Z"
-  },
-  {
-    "id": "b3716b0479f2d97b",
-    "title": "Экс-гендиректора «Фонбет»приговорили к восьми годам колонии за взятку",
-    "sport": "Другое",
-    "category": "Другие",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/9/12/347773977213129.jpeg",
-    "teaser": "Экс-гендиректора «Фонбет»приговорили к восьми годам колонии за взятку",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69f0ef909a79472d9e61b538",
-    "publishedAt": "2026-04-28T18:05:55.000Z",
-    "createdAt": "2026-04-29T11:42:39.664Z",
-    "updatedAt": "2026-04-29T11:42:39.664Z"
+    "createdAt": "2026-04-29T14:12:28.520Z",
+    "updatedAt": "2026-04-29T14:12:28.520Z"
   }
 ]
