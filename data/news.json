@@ -1,5 +1,47 @@
 [
   {
+    "id": "26edee91a71bc19b",
+    "title": "Радулов получил 20-минутный штраф после матча плей-офф с «Авангардом»",
+    "sport": "Хоккей",
+    "category": "Хоккей",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/5/19/347775687681195.jpeg",
+    "teaser": "Радулов получил 20-минутный штраф после матча плей-офф с «Авангардом»",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69f3883d9a7947482c5232f5",
+    "publishedAt": "2026-04-30T17:21:27.000Z",
+    "createdAt": "2026-04-30T18:13:57.084Z",
+    "updatedAt": "2026-04-30T18:13:57.084Z"
+  },
+  {
+    "id": "56f8ca68d03e207e",
+    "title": "ЦСКА на три сезона продлил контракт с обладателем Кубка Гагарина",
+    "sport": "Хоккей",
+    "category": "Хоккей",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/5/61/347775671959615.jpeg",
+    "teaser": "ЦСКА на три сезона продлил контракт с обладателем Кубка Гагарина",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69f383509a79476a8c28f204",
+    "publishedAt": "2026-04-30T16:49:51.000Z",
+    "createdAt": "2026-04-30T18:13:58.157Z",
+    "updatedAt": "2026-04-30T18:13:58.157Z"
+  },
+  {
+    "id": "f0a5380681953ec6",
+    "title": "Мирра Андреева впервые в карьере вышла в финал «тысячника» в Мадриде",
+    "sport": "Теннис",
+    "category": "Теннис",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/8/86/347775650724868.jpeg",
+    "teaser": "Мирра Андреева впервые в карьере вышла в финал «тысячника» в Мадриде",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69f37a669a7947a6715bef01",
+    "publishedAt": "2026-04-30T16:16:31.000Z",
+    "createdAt": "2026-04-30T18:13:59.211Z",
+    "updatedAt": "2026-04-30T18:13:59.211Z"
+  },
+  {
     "id": "500ab45b6ff46b1b",
     "title": "«Авангард» оказался в шаге от выхода в финал Кубка Гагарина",
     "sport": "Хоккей",
@@ -10,8 +52,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69f36b589a7947b3c8c325e2",
     "publishedAt": "2026-04-30T15:59:06.000Z",
-    "createdAt": "2026-04-30T16:24:13.319Z",
-    "updatedAt": "2026-04-30T16:24:13.319Z"
+    "createdAt": "2026-04-30T18:14:00.203Z",
+    "updatedAt": "2026-04-30T18:14:00.203Z"
   },
   {
     "id": "c79553a51bd8e02f",
@@ -24,8 +66,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69f370619a794739cacadb31",
     "publishedAt": "2026-04-30T15:30:56.000Z",
-    "createdAt": "2026-04-30T16:24:14.449Z",
-    "updatedAt": "2026-04-30T16:24:14.449Z"
+    "createdAt": "2026-04-30T18:14:01.251Z",
+    "updatedAt": "2026-04-30T18:14:01.251Z"
   },
   {
     "id": "0fffbe45cbdb511d",
@@ -38,8 +80,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69f368e49a79479c1b275e22",
     "publishedAt": "2026-04-30T15:01:08.000Z",
-    "createdAt": "2026-04-30T16:24:15.518Z",
-    "updatedAt": "2026-04-30T16:24:15.518Z"
+    "createdAt": "2026-04-30T18:14:02.253Z",
+    "updatedAt": "2026-04-30T18:14:02.253Z"
   },
   {
     "id": "44a5b078902b987b",
@@ -52,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69f35f859a794749951d9daf",
     "publishedAt": "2026-04-30T14:41:36.000Z",
-    "createdAt": "2026-04-30T16:24:16.647Z",
-    "updatedAt": "2026-04-30T16:24:16.647Z"
+    "createdAt": "2026-04-30T18:14:03.298Z",
+    "updatedAt": "2026-04-30T18:14:03.298Z"
   },
   {
     "id": "aebd737a4de7a919",
@@ -66,8 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69f3563b9a7947894174a3f7",
     "publishedAt": "2026-04-30T13:58:33.000Z",
-    "createdAt": "2026-04-30T16:24:17.775Z",
-    "updatedAt": "2026-04-30T16:24:17.775Z"
+    "createdAt": "2026-04-30T18:14:04.347Z",
+    "updatedAt": "2026-04-30T18:14:04.347Z"
   },
   {
     "id": "1e2de9fbfedec091",
@@ -80,8 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69f35ab89a79477e4c42f638",
     "publishedAt": "2026-04-30T13:57:07.000Z",
-    "createdAt": "2026-04-30T16:24:18.913Z",
-    "updatedAt": "2026-04-30T16:24:18.913Z"
+    "createdAt": "2026-04-30T18:14:05.411Z",
+    "updatedAt": "2026-04-30T18:14:05.411Z"
   },
   {
     "id": "79522fa14df29673",
@@ -94,49 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69f350f19a794762f8c84c48",
     "publishedAt": "2026-04-30T13:20:55.000Z",
-    "createdAt": "2026-04-30T16:24:20.038Z",
-    "updatedAt": "2026-04-30T16:24:20.038Z"
-  },
-  {
-    "id": "726f96b62bfe9e81",
-    "title": "Канада выделит $106 млн на обеспечение безопасности ЧМ-2026",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/6/66/347775509287666.jpeg",
-    "teaser": "Канада выделит $106 млн на обеспечение безопасности ЧМ-2026",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69f342429a794714b3fd7cdb",
-    "publishedAt": "2026-04-30T12:45:56.000Z",
-    "createdAt": "2026-04-30T16:24:21.107Z",
-    "updatedAt": "2026-04-30T16:24:21.107Z"
-  },
-  {
-    "id": "655b461f03cedc03",
-    "title": "Финалист Евро-2024 Майну продлил контракт с «Манчестер Юнайтед»",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/8/86/347775524154868.jpeg",
-    "teaser": "Финалист Евро-2024 Майну продлил контракт с «Манчестер Юнайтед»",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69f347d39a79476dc8b900c5",
-    "publishedAt": "2026-04-30T12:45:44.000Z",
-    "createdAt": "2026-04-30T16:24:22.209Z",
-    "updatedAt": "2026-04-30T16:24:22.209Z"
-  },
-  {
-    "id": "eee9d2ac4f915ecf",
-    "title": "Тренер «Вегаса» назвал звездой оформившего хет-трик в НХЛ россиянина",
-    "sport": "Хоккей",
-    "category": "Хоккей",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/1/00/347775477946001.jpeg",
-    "teaser": "Тренер «Вегаса» назвал звездой оформившего хет-трик в НХЛ россиянина",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69f336119a79472f9606239d",
-    "publishedAt": "2026-04-30T11:28:50.000Z",
-    "createdAt": "2026-04-30T16:24:23.357Z",
-    "updatedAt": "2026-04-30T16:24:23.357Z"
+    "createdAt": "2026-04-30T18:14:06.458Z",
+    "updatedAt": "2026-04-30T18:14:06.458Z"
   }
 ]
