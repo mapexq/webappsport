@@ -1,5 +1,47 @@
 [
   {
+    "id": "a683c42fa54f2869",
+    "title": "WADA вынесло санкции против 291 российского спортсмена",
+    "sport": "Другое",
+    "category": "Другие",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/7/09/347775747262097.jpeg",
+    "teaser": "WADA вынесло санкции против 291 российского спортсмена",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69f3a0dd9a79471b243ae49d",
+    "publishedAt": "2026-04-30T19:43:59.000Z",
+    "createdAt": "2026-04-30T20:12:12.946Z",
+    "updatedAt": "2026-04-30T20:12:12.946Z"
+  },
+  {
+    "id": "b537f59d8dd9f453",
+    "title": "Капитана «Фенербахче» дисквалифицировали на год за ставки",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/0/96/347775726990960.jpeg",
+    "teaser": "Капитана «Фенербахче» дисквалифицировали на год за ставки",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69f391089a79473a13744381",
+    "publishedAt": "2026-04-30T19:20:54.000Z",
+    "createdAt": "2026-04-30T20:12:14.469Z",
+    "updatedAt": "2026-04-30T20:12:14.469Z"
+  },
+  {
+    "id": "b9d3f8816649ccec",
+    "title": "Инфантино подтвердил участие Ирана в ЧМ-2026 в США",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/9/48/347775718775489.jpeg",
+    "teaser": "Инфантино подтвердил участие Ирана в ЧМ-2026 в США",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69f395d79a7947aa6cc3a55f",
+    "publishedAt": "2026-04-30T18:18:32.000Z",
+    "createdAt": "2026-04-30T20:12:15.574Z",
+    "updatedAt": "2026-04-30T20:12:15.574Z"
+  },
+  {
     "id": "26edee91a71bc19b",
     "title": "Радулов получил 20-минутный штраф после матча плей-офф с «Авангардом»",
     "sport": "Хоккей",
@@ -10,8 +52,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69f3883d9a7947482c5232f5",
     "publishedAt": "2026-04-30T17:21:27.000Z",
-    "createdAt": "2026-04-30T18:13:57.084Z",
-    "updatedAt": "2026-04-30T18:13:57.084Z"
+    "createdAt": "2026-04-30T20:12:16.751Z",
+    "updatedAt": "2026-04-30T20:12:16.751Z"
   },
   {
     "id": "56f8ca68d03e207e",
@@ -24,8 +66,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69f383509a79476a8c28f204",
     "publishedAt": "2026-04-30T16:49:51.000Z",
-    "createdAt": "2026-04-30T18:13:58.157Z",
-    "updatedAt": "2026-04-30T18:13:58.157Z"
+    "createdAt": "2026-04-30T20:12:18.003Z",
+    "updatedAt": "2026-04-30T20:12:18.003Z"
   },
   {
     "id": "f0a5380681953ec6",
@@ -38,8 +80,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69f37a669a7947a6715bef01",
     "publishedAt": "2026-04-30T16:16:31.000Z",
-    "createdAt": "2026-04-30T18:13:59.211Z",
-    "updatedAt": "2026-04-30T18:13:59.211Z"
+    "createdAt": "2026-04-30T20:12:19.205Z",
+    "updatedAt": "2026-04-30T20:12:19.205Z"
   },
   {
     "id": "500ab45b6ff46b1b",
@@ -52,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69f36b589a7947b3c8c325e2",
     "publishedAt": "2026-04-30T15:59:06.000Z",
-    "createdAt": "2026-04-30T18:14:00.203Z",
-    "updatedAt": "2026-04-30T18:14:00.203Z"
+    "createdAt": "2026-04-30T20:12:20.402Z",
+    "updatedAt": "2026-04-30T20:12:20.402Z"
   },
   {
     "id": "c79553a51bd8e02f",
@@ -66,8 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69f370619a794739cacadb31",
     "publishedAt": "2026-04-30T15:30:56.000Z",
-    "createdAt": "2026-04-30T18:14:01.251Z",
-    "updatedAt": "2026-04-30T18:14:01.251Z"
+    "createdAt": "2026-04-30T20:12:21.601Z",
+    "updatedAt": "2026-04-30T20:12:21.601Z"
   },
   {
     "id": "0fffbe45cbdb511d",
@@ -80,8 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69f368e49a79479c1b275e22",
     "publishedAt": "2026-04-30T15:01:08.000Z",
-    "createdAt": "2026-04-30T18:14:02.253Z",
-    "updatedAt": "2026-04-30T18:14:02.253Z"
+    "createdAt": "2026-04-30T20:12:22.847Z",
+    "updatedAt": "2026-04-30T20:12:22.847Z"
   },
   {
     "id": "44a5b078902b987b",
@@ -94,49 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69f35f859a794749951d9daf",
     "publishedAt": "2026-04-30T14:41:36.000Z",
-    "createdAt": "2026-04-30T18:14:03.298Z",
-    "updatedAt": "2026-04-30T18:14:03.298Z"
-  },
-  {
-    "id": "aebd737a4de7a919",
-    "title": "Рекордсмену мира в марафоне подарили автономера с временем его забега",
-    "sport": "Другое",
-    "category": "Другие",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/4/23/347775561641234.jpeg",
-    "teaser": "Рекордсмену мира в марафоне подарили автономера с временем его забега",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69f3563b9a7947894174a3f7",
-    "publishedAt": "2026-04-30T13:58:33.000Z",
-    "createdAt": "2026-04-30T18:14:04.347Z",
-    "updatedAt": "2026-04-30T18:14:04.347Z"
-  },
-  {
-    "id": "1e2de9fbfedec091",
-    "title": "Действующий победитель «Мастерс» в Мадриде не смог защитить титул",
-    "sport": "Теннис",
-    "category": "Теннис",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/2/63/347775568842632.jpeg",
-    "teaser": "Действующий победитель «Мастерс» в Мадриде не смог защитить титул",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69f35ab89a79477e4c42f638",
-    "publishedAt": "2026-04-30T13:57:07.000Z",
-    "createdAt": "2026-04-30T18:14:05.411Z",
-    "updatedAt": "2026-04-30T18:14:05.411Z"
-  },
-  {
-    "id": "79522fa14df29673",
-    "title": "Хабиб Нурмагомедов опроверг слова Царукяна о помощи Путина со спортзалом",
-    "sport": "Единоборства",
-    "category": "Единоборства",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/4/30/347775545801304.jpeg",
-    "teaser": "Хабиб Нурмагомедов опроверг слова Царукяна о помощи Путина со спортзалом",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69f350f19a794762f8c84c48",
-    "publishedAt": "2026-04-30T13:20:55.000Z",
-    "createdAt": "2026-04-30T18:14:06.458Z",
-    "updatedAt": "2026-04-30T18:14:06.458Z"
+    "createdAt": "2026-04-30T20:12:23.861Z",
+    "updatedAt": "2026-04-30T20:12:23.861Z"
   }
 ]
