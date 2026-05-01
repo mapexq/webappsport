@@ -1,5 +1,61 @@
 [
   {
+    "id": "d1e2eb2e0f946387",
+    "title": "Хоккейное «Динамо» лишилось спортивного директора",
+    "sport": "Хоккей",
+    "category": "Хоккей",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/8/25/347776318177258.jpeg",
+    "teaser": "Хоккейное «Динамо» лишилось спортивного директора",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69f4822e9a7947623636bf68",
+    "publishedAt": "2026-05-01T10:42:38.000Z",
+    "createdAt": "2026-05-01T11:12:02.385Z",
+    "updatedAt": "2026-05-01T11:12:02.385Z"
+  },
+  {
+    "id": "0f23f435aa74c399",
+    "title": "Мирра Андреева оценила свои шансы в финале турнира в Мадриде с украинкой",
+    "sport": "Теннис",
+    "category": "Теннис",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/7/74/347776298327747.jpeg",
+    "teaser": "Мирра Андреева оценила свои шансы в финале турнира в Мадриде с украинкой",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69f378219a79472603182e1c",
+    "publishedAt": "2026-05-01T10:13:15.000Z",
+    "createdAt": "2026-05-01T11:12:03.468Z",
+    "updatedAt": "2026-05-01T11:12:03.468Z"
+  },
+  {
+    "id": "1b2b3458728baa7f",
+    "title": "13 российских бодибилдеров пропустят ЧЕ в Испании из-за отказа в визах",
+    "sport": "Другое",
+    "category": "Другие",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/5/01/347776286649015.jpeg",
+    "teaser": "13 российских бодибилдеров пропустят ЧЕ в Испании из-за отказа в визах",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69f0719a9a79476779f7c6b8",
+    "publishedAt": "2026-05-01T09:54:26.000Z",
+    "createdAt": "2026-05-01T11:12:04.601Z",
+    "updatedAt": "2026-05-01T11:12:04.601Z"
+  },
+  {
+    "id": "ef248a5872a400a7",
+    "title": "Делегаты Израиля и Палестины отказались пожимать руки на конгрессе ФИФА",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/8/95/347776267242958.jpeg",
+    "teaser": "Делегаты Израиля и Палестины отказались пожимать руки на конгрессе ФИФА",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69e7aa949a794742a995cfbf",
+    "publishedAt": "2026-05-01T09:18:00.000Z",
+    "createdAt": "2026-05-01T11:12:05.722Z",
+    "updatedAt": "2026-05-01T11:12:05.722Z"
+  },
+  {
     "id": "4beff629b5377ae0",
     "title": "Матч плей-офф НБА завершился с разницей в 51 очко",
     "sport": "Баскетбол",
@@ -10,8 +66,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69f466219a7947498f237d8f",
     "publishedAt": "2026-05-01T08:44:58.000Z",
-    "createdAt": "2026-05-01T09:04:43.078Z",
-    "updatedAt": "2026-05-01T09:04:43.078Z"
+    "createdAt": "2026-05-01T11:12:06.845Z",
+    "updatedAt": "2026-05-01T11:12:06.845Z"
   },
   {
     "id": "bb4fddca44dd78ed",
@@ -24,8 +80,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69f4628a9a7947035e3dbd97",
     "publishedAt": "2026-05-01T08:29:18.000Z",
-    "createdAt": "2026-05-01T09:04:44.127Z",
-    "updatedAt": "2026-05-01T09:04:44.127Z"
+    "createdAt": "2026-05-01T11:12:07.970Z",
+    "updatedAt": "2026-05-01T11:12:07.970Z"
   },
   {
     "id": "4daac5b31deb9852",
@@ -38,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69f45a909a79479d3c5f0f5a",
     "publishedAt": "2026-05-01T07:56:07.000Z",
-    "createdAt": "2026-05-01T09:04:45.213Z",
-    "updatedAt": "2026-05-01T09:04:45.213Z"
+    "createdAt": "2026-05-01T11:12:09.096Z",
+    "updatedAt": "2026-05-01T11:12:09.096Z"
   },
   {
     "id": "768b3a3e160cee17",
@@ -52,8 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69f455ec9a7947565c62aafb",
     "publishedAt": "2026-05-01T07:37:25.000Z",
-    "createdAt": "2026-05-01T09:04:46.242Z",
-    "updatedAt": "2026-05-01T09:04:46.242Z"
+    "createdAt": "2026-05-01T11:12:10.223Z",
+    "updatedAt": "2026-05-01T11:12:10.223Z"
   },
   {
     "id": "81dcebccd51b2837",
@@ -66,8 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69f452549a794780622f244b",
     "publishedAt": "2026-05-01T07:25:22.000Z",
-    "createdAt": "2026-05-01T09:04:47.283Z",
-    "updatedAt": "2026-05-01T09:04:47.283Z"
+    "createdAt": "2026-05-01T11:12:11.450Z",
+    "updatedAt": "2026-05-01T11:12:11.450Z"
   },
   {
     "id": "92caeb3e891a5efd",
@@ -80,63 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69f44fef9a7947aef75c0666",
     "publishedAt": "2026-05-01T07:10:37.000Z",
-    "createdAt": "2026-05-01T09:04:48.404Z",
-    "updatedAt": "2026-05-01T09:04:48.404Z"
-  },
-  {
-    "id": "07ca53a11fe23c1c",
-    "title": "Выбьет ли ЦСКА из чемпионской гонки «Зенит». Главное о 28-м туре РПЛ",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/6/48/347775402118486.jpeg",
-    "teaser": "Выбьет ли ЦСКА из чемпионской гонки «Зенит». Главное о 28-м туре РПЛ",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69f1e55f9a7947ef24a65789",
-    "publishedAt": "2026-05-01T06:03:32.000Z",
-    "createdAt": "2026-05-01T09:04:50.366Z",
-    "updatedAt": "2026-05-01T09:04:50.366Z"
-  },
-  {
-    "id": "b74afad035753a21",
-    "title": "Обвинившая канадского фигуриста в насилии раскрыла личность спустя 14 лет",
-    "sport": "Другое",
-    "category": "Фигурное катание",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/6/92/347775806087926.jpeg",
-    "teaser": "Обвинившая канадского фигуриста в насилии раскрыла личность спустя 14 лет",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69f3a98c9a7947764a9124cd",
-    "publishedAt": "2026-04-30T21:42:13.000Z",
-    "createdAt": "2026-05-01T09:04:51.470Z",
-    "updatedAt": "2026-05-01T09:04:51.470Z"
-  },
-  {
-    "id": "b297396168fd2064",
-    "title": "Инфантино заявил о намерении переизбираться на пост главы ФИФА",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/5/04/347775817383045.jpeg",
-    "teaser": "Инфантино заявил о намерении переизбираться на пост главы ФИФА",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69f3baec9a79475964d6e6a9",
-    "publishedAt": "2026-04-30T21:25:43.000Z",
-    "createdAt": "2026-05-01T09:04:52.652Z",
-    "updatedAt": "2026-05-01T09:04:52.652Z"
-  },
-  {
-    "id": "11f61478db27c5e6",
-    "title": "Как изменился расклад в чемпионской гонке РПЛ за три тура до финиша",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/5/00/347772216232005.jpeg",
-    "teaser": "Как изменился расклад в чемпионской гонке РПЛ за три тура до финиша",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69ee159c9a7947fe2e50daac",
-    "publishedAt": "2026-04-30T21:01:35.000Z",
-    "createdAt": "2026-05-01T09:04:53.764Z",
-    "updatedAt": "2026-05-01T09:04:53.764Z"
+    "createdAt": "2026-05-01T11:12:12.587Z",
+    "updatedAt": "2026-05-01T11:12:12.587Z"
   }
 ]
