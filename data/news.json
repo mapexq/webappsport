@@ -1,5 +1,61 @@
 [
   {
+    "id": "2374e51b73abaafb",
+    "title": "Футболист «Крыльев Советов» потерял сознание в матче со «Спартаком»",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/9/45/347776519204459.jpeg",
+    "teaser": "Футболист «Крыльев Советов» потерял сознание в матче со «Спартаком»",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69f4d0889a794758975261d1",
+    "publishedAt": "2026-05-01T16:15:33.000Z",
+    "createdAt": "2026-05-01T17:02:34.068Z",
+    "updatedAt": "2026-05-01T17:02:34.068Z"
+  },
+  {
+    "id": "7c098afe9d61123e",
+    "title": "«Спартак» впервые за 2,5 года проиграл «Крыльям Советов»",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/1/72/347776486447721.jpeg",
+    "teaser": "«Спартак» впервые за 2,5 года проиграл «Крыльям Советов»",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69de58c59a79477a35af4f9c",
+    "publishedAt": "2026-05-01T16:03:17.000Z",
+    "createdAt": "2026-05-01T17:02:33.114Z",
+    "updatedAt": "2026-05-01T17:02:33.114Z"
+  },
+  {
+    "id": "a44d8161423a095b",
+    "title": "Синнер побил рекорд Федерера и Джоковича на турнирах «Мастерс»",
+    "sport": "Теннис",
+    "category": "Теннис",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/5/08/347776498000085.jpeg",
+    "teaser": "Синнер побил рекорд Федерера и Джоковича на турнирах «Мастерс»",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69f4c8549a79472eac794086",
+    "publishedAt": "2026-05-01T15:46:03.000Z",
+    "createdAt": "2026-05-01T17:02:35.084Z",
+    "updatedAt": "2026-05-01T17:02:35.084Z"
+  },
+  {
+    "id": "b6c6253a3c679672",
+    "title": "РФС поддержал назначение пенальти «Зениту» в матче с «Локомотивом»",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/1/19/347776480316191.jpeg",
+    "teaser": "РФС поддержал назначение пенальти «Зениту» в матче с «Локомотивом»",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69ea20569a79477eae6d3a93",
+    "publishedAt": "2026-05-01T15:12:59.000Z",
+    "createdAt": "2026-05-01T17:02:36.137Z",
+    "updatedAt": "2026-05-01T17:02:36.137Z"
+  },
+  {
     "id": "754610499c507eaf",
     "title": "Лучший клуб регулярки оказался в шаге от вылета в полуфинале плей-офф КХЛ",
     "sport": "Хоккей",
@@ -10,8 +66,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69ea339a9a7947c6ec2ef1b5",
     "publishedAt": "2026-05-01T14:27:58.000Z",
-    "createdAt": "2026-05-01T15:01:08.490Z",
-    "updatedAt": "2026-05-01T15:01:08.490Z"
+    "createdAt": "2026-05-01T17:02:37.907Z",
+    "updatedAt": "2026-05-01T17:02:37.907Z"
   },
   {
     "id": "7dcca5bf3bd90609",
@@ -24,8 +80,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69f4ad309a7947530e135334",
     "publishedAt": "2026-05-01T14:01:46.000Z",
-    "createdAt": "2026-05-01T15:01:09.530Z",
-    "updatedAt": "2026-05-01T15:01:09.530Z"
+    "createdAt": "2026-05-01T17:02:38.947Z",
+    "updatedAt": "2026-05-01T17:02:38.947Z"
   },
   {
     "id": "c0a2ec4a399c9d17",
@@ -38,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69f4aa749a794707e1ed8779",
     "publishedAt": "2026-05-01T13:38:04.000Z",
-    "createdAt": "2026-05-01T15:01:10.636Z",
-    "updatedAt": "2026-05-01T15:01:10.636Z"
+    "createdAt": "2026-05-01T17:02:40.130Z",
+    "updatedAt": "2026-05-01T17:02:40.130Z"
   },
   {
     "id": "e46f440d389dfc66",
@@ -52,8 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69f49ec29a7947245f81dc0b",
     "publishedAt": "2026-05-01T12:57:45.000Z",
-    "createdAt": "2026-05-01T15:01:11.808Z",
-    "updatedAt": "2026-05-01T15:01:11.808Z"
+    "createdAt": "2026-05-01T17:02:41.151Z",
+    "updatedAt": "2026-05-01T17:02:41.151Z"
   },
   {
     "id": "208fc077e645ded6",
@@ -66,8 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69f1bb9d9a794792d17569c4",
     "publishedAt": "2026-05-01T12:37:06.000Z",
-    "createdAt": "2026-05-01T15:01:12.889Z",
-    "updatedAt": "2026-05-01T15:01:12.889Z"
+    "createdAt": "2026-05-01T17:02:42.185Z",
+    "updatedAt": "2026-05-01T17:02:42.185Z"
   },
   {
     "id": "12478f336a78501e",
@@ -80,63 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69f494db9a794743294c0558",
     "publishedAt": "2026-05-01T11:59:17.000Z",
-    "createdAt": "2026-05-01T15:01:13.979Z",
-    "updatedAt": "2026-05-01T15:01:13.979Z"
-  },
-  {
-    "id": "91593d39a91ebe71",
-    "title": "Фуркад добавил в свою коллекцию отобранное у Устюгова золото ОИ-2010",
-    "sport": "Другое",
-    "category": "Биатлон",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/6/58/347776338408586.jpeg",
-    "teaser": "Фуркад добавил в свою коллекцию отобранное у Устюгова золото ОИ-2010",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69f20e3c9a79471f3aeeffce",
-    "publishedAt": "2026-05-01T11:18:21.000Z",
-    "createdAt": "2026-05-01T15:01:15.383Z",
-    "updatedAt": "2026-05-01T15:01:15.383Z"
-  },
-  {
-    "id": "d1e2eb2e0f946387",
-    "title": "Хоккейное «Динамо» лишилось спортивного директора",
-    "sport": "Хоккей",
-    "category": "Хоккей",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/8/25/347776318177258.jpeg",
-    "teaser": "Хоккейное «Динамо» лишилось спортивного директора",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69f4822e9a7947623636bf68",
-    "publishedAt": "2026-05-01T10:42:38.000Z",
-    "createdAt": "2026-05-01T15:01:16.487Z",
-    "updatedAt": "2026-05-01T15:01:16.487Z"
-  },
-  {
-    "id": "0f23f435aa74c399",
-    "title": "Мирра Андреева оценила свои шансы в финале турнира в Мадриде с украинкой",
-    "sport": "Теннис",
-    "category": "Теннис",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/7/74/347776298327747.jpeg",
-    "teaser": "Мирра Андреева оценила свои шансы в финале турнира в Мадриде с украинкой",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69f378219a79472603182e1c",
-    "publishedAt": "2026-05-01T10:13:15.000Z",
-    "createdAt": "2026-05-01T15:01:17.583Z",
-    "updatedAt": "2026-05-01T15:01:17.583Z"
-  },
-  {
-    "id": "1b2b3458728baa7f",
-    "title": "13 российских бодибилдеров пропустят ЧЕ в Испании из-за отказа в визах",
-    "sport": "Другое",
-    "category": "Другие",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/5/01/347776286649015.jpeg",
-    "teaser": "13 российских бодибилдеров пропустят ЧЕ в Испании из-за отказа в визах",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69f0719a9a79476779f7c6b8",
-    "publishedAt": "2026-05-01T09:54:26.000Z",
-    "createdAt": "2026-05-01T15:01:18.671Z",
-    "updatedAt": "2026-05-01T15:01:18.671Z"
+    "createdAt": "2026-05-01T17:02:43.203Z",
+    "updatedAt": "2026-05-01T17:02:43.203Z"
   }
 ]
