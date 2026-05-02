@@ -1,5 +1,61 @@
 [
   {
+    "id": "8bd8ae26a171b39c",
+    "title": "Болид пилота «Формулы-1» загорелся перед спринтом на Гран-при Майами",
+    "sport": "Другое",
+    "category": "Формула-1",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/5/37/347777396809375.jpeg",
+    "teaser": "Болид пилота «Формулы-1» загорелся перед спринтом на Гран-при Майами",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69f627939a7947ad52e38bcb",
+    "publishedAt": "2026-05-02T16:42:45.000Z",
+    "createdAt": "2026-05-02T16:56:31.708Z",
+    "updatedAt": "2026-05-02T16:56:31.708Z"
+  },
+  {
+    "id": "b3b8e06ebd507a88",
+    "title": "Мирра Андреева проиграла украинке в финале «тысячника» в Мадриде",
+    "sport": "Теннис",
+    "category": "Теннис",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/6/36/347777379442366.jpeg",
+    "teaser": "Мирра Андреева проиграла украинке в финале «тысячника» в Мадриде",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69f620a59a79473c1cd34cb5",
+    "publishedAt": "2026-05-02T16:31:27.000Z",
+    "createdAt": "2026-05-02T16:56:30.702Z",
+    "updatedAt": "2026-05-02T16:56:30.702Z"
+  },
+  {
+    "id": "24bb81c79bd190ac",
+    "title": "Чемпион КХЛ сократил отставание в полуфинале плей-офф с «Авангардом»",
+    "sport": "Хоккей",
+    "category": "Хоккей",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/7/24/347777376793247.jpeg",
+    "teaser": "Чемпион КХЛ сократил отставание в полуфинале плей-офф с «Авангардом»",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69f61f8d9a7947357beb9378",
+    "publishedAt": "2026-05-02T16:19:22.000Z",
+    "createdAt": "2026-05-02T16:56:32.739Z",
+    "updatedAt": "2026-05-02T16:56:32.739Z"
+  },
+  {
+    "id": "39d7ddb4788fae23",
+    "title": "«Уфа» не смогла вылететь на матч Первой лиги в Хабаровск",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/7/02/347777372163027.jpeg",
+    "teaser": "«Уфа» не смогла вылететь на матч Первой лиги в Хабаровск",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69f61d449a79470761617335",
+    "publishedAt": "2026-05-02T15:58:05.000Z",
+    "createdAt": "2026-05-02T16:56:33.755Z",
+    "updatedAt": "2026-05-02T16:56:33.755Z"
+  },
+  {
     "id": "a8b02760fe58600c",
     "title": "«Рубин» в большинстве победил «Балтику» в матче РПЛ",
     "sport": "Футбол",
@@ -10,8 +66,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69f611289a7947320b1b2e7e",
     "publishedAt": "2026-05-02T15:28:06.000Z",
-    "createdAt": "2026-05-02T15:53:28.344Z",
-    "updatedAt": "2026-05-02T15:53:28.344Z"
+    "createdAt": "2026-05-02T16:56:34.765Z",
+    "updatedAt": "2026-05-02T16:56:34.765Z"
   },
   {
     "id": "ffc53e821e836144",
@@ -24,8 +80,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69f608229a7947311f1c2fde",
     "publishedAt": "2026-05-02T14:23:59.000Z",
-    "createdAt": "2026-05-02T15:53:29.413Z",
-    "updatedAt": "2026-05-02T15:53:29.413Z"
+    "createdAt": "2026-05-02T16:56:35.830Z",
+    "updatedAt": "2026-05-02T16:56:35.830Z"
   },
   {
     "id": "942de5617acc76b7",
@@ -38,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69f5ffc39a7947b7f6448fad",
     "publishedAt": "2026-05-02T13:47:45.000Z",
-    "createdAt": "2026-05-02T15:53:31.649Z",
-    "updatedAt": "2026-05-02T15:53:31.649Z"
+    "createdAt": "2026-05-02T16:56:37.908Z",
+    "updatedAt": "2026-05-02T16:56:37.908Z"
   },
   {
     "id": "871a82b0337c0c3a",
@@ -52,8 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69f5fd819a79477d050079bf",
     "publishedAt": "2026-05-02T13:39:45.000Z",
-    "createdAt": "2026-05-02T15:53:30.584Z",
-    "updatedAt": "2026-05-02T15:53:30.584Z"
+    "createdAt": "2026-05-02T16:56:36.837Z",
+    "updatedAt": "2026-05-02T16:56:36.837Z"
   },
   {
     "id": "b31c5b68da810a96",
@@ -66,8 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69f5ea6f9a7947e2daf7a0e1",
     "publishedAt": "2026-05-02T12:58:06.000Z",
-    "createdAt": "2026-05-02T15:53:32.712Z",
-    "updatedAt": "2026-05-02T15:53:32.712Z"
+    "createdAt": "2026-05-02T16:56:38.937Z",
+    "updatedAt": "2026-05-02T16:56:38.937Z"
   },
   {
     "id": "e983be8c87ab6a68",
@@ -80,63 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69f5e8929a7947a654c38518",
     "publishedAt": "2026-05-02T12:11:52.000Z",
-    "createdAt": "2026-05-02T15:53:33.784Z",
-    "updatedAt": "2026-05-02T15:53:33.784Z"
-  },
-  {
-    "id": "a9f179ff0d20d04a",
-    "title": "Бывший футболист «Зенита» Халк расторг контракт с «Атлетико Минейро»",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/8/50/347777218734508.jpeg",
-    "teaser": "Бывший футболист «Зенита» Халк расторг контракт с «Атлетико Минейро»",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69f5e1f09a7947a496b700c7",
-    "publishedAt": "2026-05-02T11:42:39.000Z",
-    "createdAt": "2026-05-02T15:53:34.846Z",
-    "updatedAt": "2026-05-02T15:53:34.846Z"
-  },
-  {
-    "id": "524151c70639bdac",
-    "title": "Футболист «Локомотива» и сборной России получил травму колена",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/5/31/347777192467315.jpeg",
-    "teaser": "Футболист «Локомотива» и сборной России получил травму колена",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69f5d7aa9a7947903637066c",
-    "publishedAt": "2026-05-02T10:58:14.000Z",
-    "createdAt": "2026-05-02T15:53:35.911Z",
-    "updatedAt": "2026-05-02T15:53:35.911Z"
-  },
-  {
-    "id": "359c625f2b99f96f",
-    "title": "Украинский депутат и олимпийский чемпион Беленюк дебютирует в ММА",
-    "sport": "Единоборства",
-    "category": "Единоборства",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/2/09/347777168039092.jpeg",
-    "teaser": "Украинский депутат и олимпийский чемпион Беленюк дебютирует в ММА",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69f5ce349a794760bad80777",
-    "publishedAt": "2026-05-02T10:22:59.000Z",
-    "createdAt": "2026-05-02T15:53:37.049Z",
-    "updatedAt": "2026-05-02T15:53:37.049Z"
-  },
-  {
-    "id": "883cb0e5d66174a8",
-    "title": "Потерявший сознание игрок «Крыльев Советов» рассказал о своем состоянии",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/3/63/347777153245633.jpeg",
-    "teaser": "Потерявший сознание игрок «Крыльев Советов» рассказал о своем состоянии",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69f5c8649a79471d457de17f",
-    "publishedAt": "2026-05-02T09:54:55.000Z",
-    "createdAt": "2026-05-02T15:53:38.182Z",
-    "updatedAt": "2026-05-02T15:53:38.182Z"
+    "createdAt": "2026-05-02T16:56:39.952Z",
+    "updatedAt": "2026-05-02T16:56:39.952Z"
   }
 ]
