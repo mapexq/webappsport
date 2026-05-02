@@ -1,5 +1,75 @@
 [
   {
+    "id": "75a28e0e4467836f",
+    "title": "Потерявший сознание игрок «Крыльев Советов» рассказал о своем состоянии",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/3/63/347777153245633.jpeg",
+    "teaser": "Потерявший сознание игрок «Крыльев Советов» рассказал о своем состоянии",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69f5c8649a79471d457de17f",
+    "publishedAt": "2026-05-02T09:54:54.000Z",
+    "createdAt": "2026-05-02T10:02:31.792Z",
+    "updatedAt": "2026-05-02T10:02:31.792Z"
+  },
+  {
+    "id": "716b93af53d7c09e",
+    "title": "Экс-капитан сборной России Смертин пробежал 24-часовой марафон",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/3/11/347777148246113.jpeg",
+    "teaser": "Экс-капитан сборной России Смертин пробежал 24-часовой марафон",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69f5c6599a79477a68ef224f",
+    "publishedAt": "2026-05-02T09:47:03.000Z",
+    "createdAt": "2026-05-02T10:02:32.800Z",
+    "updatedAt": "2026-05-02T10:02:32.800Z"
+  },
+  {
+    "id": "c5f054af318e4d26",
+    "title": "Сафонов впервые с января не попал в заявку ПСЖ на матч",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/7/31/347777121326317.jpeg",
+    "teaser": "Сафонов впервые с января не попал в заявку ПСЖ на матч",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69f5bbca9a794755a2dc8bb3",
+    "publishedAt": "2026-05-02T09:00:58.000Z",
+    "createdAt": "2026-05-02T10:02:33.827Z",
+    "updatedAt": "2026-05-02T10:02:33.827Z"
+  },
+  {
+    "id": "58bae089e8b78cb1",
+    "title": "Умер бывший пилот «Формулы-1» и паралимпийский чемпион Дзанарди",
+    "sport": "Другое",
+    "category": "Другие",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/5/37/347777103994375.jpeg",
+    "teaser": "Умер бывший пилот «Формулы-1» и паралимпийский чемпион Дзанарди",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69f5b4fa9a7947829b051a0b",
+    "publishedAt": "2026-05-02T08:38:44.000Z",
+    "createdAt": "2026-05-02T10:02:34.855Z",
+    "updatedAt": "2026-05-02T10:02:34.855Z"
+  },
+  {
+    "id": "0cda6397d2748a79",
+    "title": "На Украине голландский тренер «Кривбасса» на русском оскорбил арбитра",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/0/64/347777097838640.jpeg",
+    "teaser": "На Украине голландский тренер «Кривбасса» на русском оскорбил арбитра",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69f5b2b29a79472060558b50",
+    "publishedAt": "2026-05-02T08:23:36.000Z",
+    "createdAt": "2026-05-02T10:02:35.922Z",
+    "updatedAt": "2026-05-02T10:02:35.922Z"
+  },
+  {
     "id": "7ec550c1c9b9f847",
     "title": "Игрок «Далласа» получил максимальный штраф за удар клюшкой Капризова",
     "sport": "Хоккей",
@@ -10,8 +80,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69f5ab689a79478178bb8fc8",
     "publishedAt": "2026-05-02T07:51:22.000Z",
-    "createdAt": "2026-05-02T08:23:27.544Z",
-    "updatedAt": "2026-05-02T08:23:27.544Z"
+    "createdAt": "2026-05-02T10:02:36.940Z",
+    "updatedAt": "2026-05-02T10:02:36.940Z"
   },
   {
     "id": "3bec91a5788f8147",
@@ -24,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69f5a86a9a7947a36e3b7ab1",
     "publishedAt": "2026-05-02T07:41:21.000Z",
-    "createdAt": "2026-05-02T08:23:28.631Z",
-    "updatedAt": "2026-05-02T08:23:28.631Z"
+    "createdAt": "2026-05-02T10:02:38.021Z",
+    "updatedAt": "2026-05-02T10:02:38.021Z"
   },
   {
     "id": "f4a459ac438b0dab",
@@ -38,8 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69f5a51d9a79478d13c7de76",
     "publishedAt": "2026-05-02T07:24:58.000Z",
-    "createdAt": "2026-05-02T08:23:29.796Z",
-    "updatedAt": "2026-05-02T08:23:29.796Z"
+    "createdAt": "2026-05-02T10:02:38.984Z",
+    "updatedAt": "2026-05-02T10:02:38.984Z"
   },
   {
     "id": "236ea5dac9f39c1b",
@@ -52,8 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69f5a2e69a79477ada897179",
     "publishedAt": "2026-05-02T07:14:31.000Z",
-    "createdAt": "2026-05-02T08:23:30.945Z",
-    "updatedAt": "2026-05-02T08:23:30.945Z"
+    "createdAt": "2026-05-02T10:02:39.950Z",
+    "updatedAt": "2026-05-02T10:02:39.950Z"
   },
   {
     "id": "c7864fb10d87cda6",
@@ -66,77 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69f4f4059a7947760cb1c2a6",
     "publishedAt": "2026-05-01T18:49:07.000Z",
-    "createdAt": "2026-05-02T08:23:32.086Z",
-    "updatedAt": "2026-05-02T08:23:32.086Z"
-  },
-  {
-    "id": "e8d66ef493c05eab",
-    "title": "«Локомотив» и «Динамо» впервые с 2023 года сыграли вничью в РПЛ",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/9/73/347776583777739.jpeg",
-    "teaser": "«Локомотив» и «Динамо» впервые с 2023 года сыграли вничью в РПЛ",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69f4e9b29a79470b8f7556e0",
-    "publishedAt": "2026-05-01T18:28:08.000Z",
-    "createdAt": "2026-05-02T08:23:33.236Z",
-    "updatedAt": "2026-05-02T08:23:33.236Z"
-  },
-  {
-    "id": "5a8c433dc1f2f3b9",
-    "title": "Малкин перейдет в другой клуб НХЛ, если «Питтсбург» не продлит контракт",
-    "sport": "Хоккей",
-    "category": "Хоккей",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/9/77/347776568993779.jpeg",
-    "teaser": "Малкин перейдет в другой клуб НХЛ, если «Питтсбург» не продлит контракт",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69f4e4139a79478ea9e87401",
-    "publishedAt": "2026-05-01T17:46:34.000Z",
-    "createdAt": "2026-05-02T08:23:34.315Z",
-    "updatedAt": "2026-05-02T08:23:34.315Z"
-  },
-  {
-    "id": "0a4bad7bccafca83",
-    "title": "Потерявшему сознание игроку «Крыльев» диагностировали сотрясение мозга",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/1/69/347776554016691.jpeg",
-    "teaser": "Потерявшему сознание игроку «Крыльев» диагностировали сотрясение мозга",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69f4dde89a7947645bc893fe",
-    "publishedAt": "2026-05-01T17:15:01.000Z",
-    "createdAt": "2026-05-02T08:23:35.462Z",
-    "updatedAt": "2026-05-02T08:23:35.462Z"
-  },
-  {
-    "id": "2374e51b73abaafb",
-    "title": "Футболист «Крыльев Советов» потерял сознание в матче со «Спартаком»",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/9/45/347776519204459.jpeg",
-    "teaser": "Футболист «Крыльев Советов» потерял сознание в матче со «Спартаком»",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69f4d0889a794758975261d1",
-    "publishedAt": "2026-05-01T16:15:33.000Z",
-    "createdAt": "2026-05-02T08:23:37.739Z",
-    "updatedAt": "2026-05-02T08:23:37.739Z"
-  },
-  {
-    "id": "7c098afe9d61123e",
-    "title": "«Спартак» впервые за 2,5 года проиграл «Крыльям Советов»",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/1/72/347776486447721.jpeg",
-    "teaser": "«Спартак» впервые за 2,5 года проиграл «Крыльям Советов»",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69de58c59a79477a35af4f9c",
-    "publishedAt": "2026-05-01T16:03:17.000Z",
-    "createdAt": "2026-05-02T08:23:36.632Z",
-    "updatedAt": "2026-05-02T08:23:36.632Z"
+    "createdAt": "2026-05-02T10:02:40.975Z",
+    "updatedAt": "2026-05-02T10:02:40.975Z"
   }
 ]
