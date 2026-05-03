@@ -1,5 +1,47 @@
 [
   {
+    "id": "98e6bee6ae90288b",
+    "title": "Саудовский клуб Роналду прервал 16-матчевую серию побед",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/7/95/347778400244957.jpeg",
+    "teaser": "Саудовский клуб Роналду прервал 16-матчевую серию побед",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69f7ac4f9a79476d100bc039",
+    "publishedAt": "2026-05-03T20:34:02.000Z",
+    "createdAt": "2026-05-03T20:52:50.585Z",
+    "updatedAt": "2026-05-03T20:52:50.585Z"
+  },
+  {
+    "id": "d16d6e03581d1853",
+    "title": "Российская волейболистка выиграла Лигу чемпионов с турецким клубом",
+    "sport": "Другое",
+    "category": "Другие",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/5/28/347778376813285.jpeg",
+    "teaser": "Российская волейболистка выиграла Лигу чемпионов с турецким клубом",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69f7a25a9a7947b4f5797017",
+    "publishedAt": "2026-05-03T20:06:39.000Z",
+    "createdAt": "2026-05-03T20:52:51.547Z",
+    "updatedAt": "2026-05-03T20:52:51.547Z"
+  },
+  {
+    "id": "c8e5c916606a9f7e",
+    "title": "«Пари НН» проиграл «Ахмату» в первом матче с новым тренером",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/0/34/347778332507340.jpeg",
+    "teaser": "«Пари НН» проиграл «Ахмату» в первом матче с новым тренером",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69f78ba69a7947b33424d66a",
+    "publishedAt": "2026-05-03T19:16:11.000Z",
+    "createdAt": "2026-05-03T20:52:54.432Z",
+    "updatedAt": "2026-05-03T20:52:54.432Z"
+  },
+  {
     "id": "853cf48602db9f4b",
     "title": "Антонелли выиграл третий подряд этап Гран-при в сезоне «Формулы-1»",
     "sport": "Другое",
@@ -10,8 +52,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69f796299a7947418b29e666",
     "publishedAt": "2026-05-03T19:04:59.000Z",
-    "createdAt": "2026-05-03T19:07:56.657Z",
-    "updatedAt": "2026-05-03T19:07:56.657Z"
+    "createdAt": "2026-05-03T20:52:52.502Z",
+    "updatedAt": "2026-05-03T20:52:52.502Z"
   },
   {
     "id": "5eebe206ea6443c6",
@@ -24,8 +66,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69f78ca59a7947670770d191",
     "publishedAt": "2026-05-03T18:22:05.000Z",
-    "createdAt": "2026-05-03T19:07:57.761Z",
-    "updatedAt": "2026-05-03T19:07:57.761Z"
+    "createdAt": "2026-05-03T20:52:53.461Z",
+    "updatedAt": "2026-05-03T20:52:53.461Z"
   },
   {
     "id": "9ef3e7f27bc03d39",
@@ -38,8 +80,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69f77be29a794759ba2a36b8",
     "publishedAt": "2026-05-03T17:25:04.000Z",
-    "createdAt": "2026-05-03T19:07:58.980Z",
-    "updatedAt": "2026-05-03T19:07:58.980Z"
+    "createdAt": "2026-05-03T20:52:55.458Z",
+    "updatedAt": "2026-05-03T20:52:55.458Z"
   },
   {
     "id": "caa252f5111f9e7e",
@@ -52,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69f776d99a7947bddc183353",
     "publishedAt": "2026-05-03T16:47:34.000Z",
-    "createdAt": "2026-05-03T19:08:00.227Z",
-    "updatedAt": "2026-05-03T19:08:00.227Z"
+    "createdAt": "2026-05-03T20:52:56.495Z",
+    "updatedAt": "2026-05-03T20:52:56.495Z"
   },
   {
     "id": "3d96ec34447317d3",
@@ -66,8 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69f7685c9a79475b305acf33",
     "publishedAt": "2026-05-03T16:07:29.000Z",
-    "createdAt": "2026-05-03T19:08:01.560Z",
-    "updatedAt": "2026-05-03T19:08:01.560Z"
+    "createdAt": "2026-05-03T20:52:57.530Z",
+    "updatedAt": "2026-05-03T20:52:57.530Z"
   },
   {
     "id": "b39f84481b61942a",
@@ -80,22 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69f76d109a79473cfd494275",
     "publishedAt": "2026-05-03T16:01:53.000Z",
-    "createdAt": "2026-05-03T19:08:02.812Z",
-    "updatedAt": "2026-05-03T19:08:02.812Z"
-  },
-  {
-    "id": "7a7c9e5420eb4bae",
-    "title": "Разин фразой «сделали много подарков» оценил поражение «Металлурга»",
-    "sport": "Хоккей",
-    "category": "Хоккей",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/4/49/347778214364494.jpeg",
-    "teaser": "Разин фразой «сделали много подарков» оценил поражение «Металлурга»",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69f765009a79474324b261af",
-    "publishedAt": "2026-05-03T15:27:36.000Z",
-    "createdAt": "2026-05-03T19:08:05.189Z",
-    "updatedAt": "2026-05-03T19:08:05.189Z"
+    "createdAt": "2026-05-03T20:52:58.560Z",
+    "updatedAt": "2026-05-03T20:52:58.560Z"
   },
   {
     "id": "46b4edcb06f268dc",
@@ -108,35 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69f75faf9a794768aac42b99",
     "publishedAt": "2026-05-03T15:20:53.000Z",
-    "createdAt": "2026-05-03T19:08:04.045Z",
-    "updatedAt": "2026-05-03T19:08:04.045Z"
-  },
-  {
-    "id": "782c0c3f3089c093",
-    "title": "Андреева и Шнайдер проиграли в парном финале турнира в Мадриде",
-    "sport": "Теннис",
-    "category": "Теннис",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/2/04/347778163459042.jpeg",
-    "teaser": "Андреева и Шнайдер проиграли в парном финале турнира в Мадриде",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69f751989a7947dd0c721e28",
-    "publishedAt": "2026-05-03T14:23:27.000Z",
-    "createdAt": "2026-05-03T19:08:07.592Z",
-    "updatedAt": "2026-05-03T19:08:07.592Z"
-  },
-  {
-    "id": "8ffd36eda8890aa6",
-    "title": "«Ак Барс» стал первым финалистом Кубка Гагарина",
-    "sport": "Хоккей",
-    "category": "Хоккей",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/0/92/347778123324920.jpeg",
-    "teaser": "«Ак Барс» стал первым финалистом Кубка Гагарина",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69f720ec9a794714bb9c8a92",
-    "publishedAt": "2026-05-03T14:16:46.000Z",
-    "createdAt": "2026-05-03T19:08:06.358Z",
-    "updatedAt": "2026-05-03T19:08:06.358Z"
+    "createdAt": "2026-05-03T20:52:59.672Z",
+    "updatedAt": "2026-05-03T20:52:59.672Z"
   }
 ]
