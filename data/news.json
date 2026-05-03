@@ -1,5 +1,47 @@
 [
   {
+    "id": "5ddeff6274627b23",
+    "title": "Президент FIA заявил о внедрении двигателей V8 в «Формулу‑1» с 2031 года",
+    "sport": "Другое",
+    "category": "Формула-1",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/1/33/347778099956331.jpeg",
+    "teaser": "Президент FIA заявил о внедрении двигателей V8 в «Формулу‑1» с 2031 года",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69f734ca9a794748a8fab027",
+    "publishedAt": "2026-05-03T12:50:58.000Z",
+    "createdAt": "2026-05-03T13:23:15.234Z",
+    "updatedAt": "2026-05-03T13:23:15.234Z"
+  },
+  {
+    "id": "340e968f91eeaa17",
+    "title": "Семак заявил об ухудшении судейства в РПЛ в этом сезоне",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/7/85/347778053129857.jpeg",
+    "teaser": "Семак заявил об ухудшении судейства в РПЛ в этом сезоне",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69f725549a7947c2348c1be5",
+    "publishedAt": "2026-05-03T12:28:55.000Z",
+    "createdAt": "2026-05-03T13:23:16.310Z",
+    "updatedAt": "2026-05-03T13:23:16.310Z"
+  },
+  {
+    "id": "6225e03f51f7fa3a",
+    "title": "В США команда по пиклболу погибла в авиакатастрофе по пути на турнир",
+    "sport": "Другое",
+    "category": "Другие",
+    "imageUrl": "/images/news-placeholder.jpg",
+    "teaser": "В США команда по пиклболу погибла в авиакатастрофе по пути на турнир",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69f727d89a79470d5b634996",
+    "publishedAt": "2026-05-03T11:57:31.000Z",
+    "createdAt": "2026-05-03T13:23:18.209Z",
+    "updatedAt": "2026-05-03T13:23:18.209Z"
+  },
+  {
     "id": "e8a1e77f0f551971",
     "title": "AS узнала, почему Зидан не возглавил «Реал» после увольнения Алонсо",
     "sport": "Футбол",
@@ -10,8 +52,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69f715c79a7947209392c7d4",
     "publishedAt": "2026-05-03T10:56:57.000Z",
-    "createdAt": "2026-05-03T11:49:42.895Z",
-    "updatedAt": "2026-05-03T11:49:42.895Z"
+    "createdAt": "2026-05-03T13:23:19.060Z",
+    "updatedAt": "2026-05-03T13:23:19.060Z"
   },
   {
     "id": "f488d3a86b589e65",
@@ -24,8 +66,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69f70e299a7947a3148a35a7",
     "publishedAt": "2026-05-03T10:00:54.000Z",
-    "createdAt": "2026-05-03T11:49:43.986Z",
-    "updatedAt": "2026-05-03T11:49:43.986Z"
+    "createdAt": "2026-05-03T13:23:20.126Z",
+    "updatedAt": "2026-05-03T13:23:20.126Z"
   },
   {
     "id": "510b2963d3b7a3e0",
@@ -38,8 +80,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69f6f7889a79470a538b5d5f",
     "publishedAt": "2026-05-03T09:26:55.000Z",
-    "createdAt": "2026-05-03T11:49:45.034Z",
-    "updatedAt": "2026-05-03T11:49:45.034Z"
+    "createdAt": "2026-05-03T13:23:21.190Z",
+    "updatedAt": "2026-05-03T13:23:21.190Z"
   },
   {
     "id": "0c62efc75649b482",
@@ -52,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69f6fc639a79479569103b13",
     "publishedAt": "2026-05-03T08:21:17.000Z",
-    "createdAt": "2026-05-03T11:49:46.095Z",
-    "updatedAt": "2026-05-03T11:49:46.095Z"
+    "createdAt": "2026-05-03T13:23:22.244Z",
+    "updatedAt": "2026-05-03T13:23:22.244Z"
   },
   {
     "id": "b15c17216b4538b3",
@@ -66,8 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69f6f05b9a7947065db09b1f",
     "publishedAt": "2026-05-03T08:10:34.000Z",
-    "createdAt": "2026-05-03T11:49:47.143Z",
-    "updatedAt": "2026-05-03T11:49:47.143Z"
+    "createdAt": "2026-05-03T13:23:23.622Z",
+    "updatedAt": "2026-05-03T13:23:23.622Z"
   },
   {
     "id": "fc30b270a1afe7e4",
@@ -80,8 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69f6e9a09a79475e4f224965",
     "publishedAt": "2026-05-03T07:21:48.000Z",
-    "createdAt": "2026-05-03T11:49:48.229Z",
-    "updatedAt": "2026-05-03T11:49:48.229Z"
+    "createdAt": "2026-05-03T13:23:24.621Z",
+    "updatedAt": "2026-05-03T13:23:24.621Z"
   },
   {
     "id": "4eca2520e61a2270",
@@ -94,49 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69f6e5639a79474ec569c3e9",
     "publishedAt": "2026-05-03T06:30:38.000Z",
-    "createdAt": "2026-05-03T11:49:49.455Z",
-    "updatedAt": "2026-05-03T11:49:49.455Z"
-  },
-  {
-    "id": "7c607e85d2309f57",
-    "title": "Умер серебряный призер Олимпиады-1976 по гребле Евгений Дулеев",
-    "sport": "Другое",
-    "category": "Другие",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/4/87/756678354777874.jpg",
-    "teaser": "Умер серебряный призер Олимпиады-1976 по гребле Евгений Дулеев",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69f6437b9a7947982ec6132b",
-    "publishedAt": "2026-05-02T18:36:42.000Z",
-    "createdAt": "2026-05-03T11:49:53.450Z",
-    "updatedAt": "2026-05-03T11:49:53.450Z"
-  },
-  {
-    "id": "19e2f2d818466edc",
-    "title": "Андреева расплакалась после поражения от украинки в финале в Мадриде",
-    "sport": "Теннис",
-    "category": "Теннис",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/0/64/347777449274640.jpeg",
-    "teaser": "Андреева расплакалась после поражения от украинки в финале в Мадриде",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69f63bbf9a7947cb98652ed2",
-    "publishedAt": "2026-05-02T18:09:12.000Z",
-    "createdAt": "2026-05-03T11:49:50.503Z",
-    "updatedAt": "2026-05-03T11:49:50.503Z"
-  },
-  {
-    "id": "eba2e461aeed4b26",
-    "title": "«Зенит» обыграл ЦСКА и вышел в лидеры РПЛ",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/7/22/347777431258227.jpeg",
-    "teaser": "«Зенит» обыграл ЦСКА и вышел в лидеры РПЛ",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69f634d09a79474c55877fc9",
-    "publishedAt": "2026-05-02T17:55:02.000Z",
-    "createdAt": "2026-05-03T11:49:51.563Z",
-    "updatedAt": "2026-05-03T11:49:51.563Z"
+    "createdAt": "2026-05-03T13:23:25.687Z",
+    "updatedAt": "2026-05-03T13:23:25.687Z"
   }
 ]
