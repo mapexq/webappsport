@@ -1,5 +1,61 @@
 [
   {
+    "id": "0c62efc75649b482",
+    "title": "На Казанском марафоне обновили рекорд России спустя неделю",
+    "sport": "Другое",
+    "category": "Другие",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/5/93/347777948030935.jpeg",
+    "teaser": "На Казанском марафоне обновили рекорд России спустя неделю",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69f6fc639a79479569103b13",
+    "publishedAt": "2026-05-03T08:21:17.000Z",
+    "createdAt": "2026-05-03T08:50:34.226Z",
+    "updatedAt": "2026-05-03T08:50:34.226Z"
+  },
+  {
+    "id": "b15c17216b4538b3",
+    "title": "В НХЛ превзошли рекорд Могильного в Кубке Стэнли 33-летней давности",
+    "sport": "Хоккей",
+    "category": "Хоккей",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/4/48/347777918966484.jpeg",
+    "teaser": "В НХЛ превзошли рекорд Могильного в Кубке Стэнли 33-летней давности",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69f6f05b9a7947065db09b1f",
+    "publishedAt": "2026-05-03T08:10:34.000Z",
+    "createdAt": "2026-05-03T08:50:35.230Z",
+    "updatedAt": "2026-05-03T08:50:35.230Z"
+  },
+  {
+    "id": "fc30b270a1afe7e4",
+    "title": "Американка Уолш обновила мировой рекорд в плавании на 100 м баттерфляем",
+    "sport": "Другое",
+    "category": "Другие",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/9/68/347777900198689.jpeg",
+    "teaser": "Американка Уолш обновила мировой рекорд в плавании на 100 м баттерфляем",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69f6e9a09a79475e4f224965",
+    "publishedAt": "2026-05-03T07:21:48.000Z",
+    "createdAt": "2026-05-03T08:50:36.239Z",
+    "updatedAt": "2026-05-03T08:50:36.239Z"
+  },
+  {
+    "id": "4eca2520e61a2270",
+    "title": "Старт Гран‑при Майами перенесли на три часа из‑за непогоды",
+    "sport": "Другое",
+    "category": "Формула-1",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/3/95/347777891364953.jpeg",
+    "teaser": "Старт Гран‑при Майами перенесли на три часа из‑за непогоды",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69f6e5639a79474ec569c3e9",
+    "publishedAt": "2026-05-03T06:30:38.000Z",
+    "createdAt": "2026-05-03T08:50:37.252Z",
+    "updatedAt": "2026-05-03T08:50:37.252Z"
+  },
+  {
     "id": "7c607e85d2309f57",
     "title": "Умер серебряный призер Олимпиады-1976 по гребле Евгений Дулеев",
     "sport": "Другое",
@@ -10,8 +66,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69f6437b9a7947982ec6132b",
     "publishedAt": "2026-05-02T18:36:42.000Z",
-    "createdAt": "2026-05-03T06:31:01.624Z",
-    "updatedAt": "2026-05-03T06:31:01.624Z"
+    "createdAt": "2026-05-03T08:50:41.338Z",
+    "updatedAt": "2026-05-03T08:50:41.338Z"
   },
   {
     "id": "19e2f2d818466edc",
@@ -24,8 +80,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69f63bbf9a7947cb98652ed2",
     "publishedAt": "2026-05-02T18:09:12.000Z",
-    "createdAt": "2026-05-03T06:30:58.858Z",
-    "updatedAt": "2026-05-03T06:30:58.858Z"
+    "createdAt": "2026-05-03T08:50:38.344Z",
+    "updatedAt": "2026-05-03T08:50:38.344Z"
   },
   {
     "id": "eba2e461aeed4b26",
@@ -38,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69f634d09a79474c55877fc9",
     "publishedAt": "2026-05-02T17:55:02.000Z",
-    "createdAt": "2026-05-03T06:30:59.741Z",
-    "updatedAt": "2026-05-03T06:30:59.741Z"
+    "createdAt": "2026-05-03T08:50:39.420Z",
+    "updatedAt": "2026-05-03T08:50:39.420Z"
   },
   {
     "id": "05844345792a7bdb",
@@ -52,8 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69f633239a794719a730795c",
     "publishedAt": "2026-05-02T17:27:35.000Z",
-    "createdAt": "2026-05-03T06:31:02.666Z",
-    "updatedAt": "2026-05-03T06:31:02.666Z"
+    "createdAt": "2026-05-03T08:50:42.355Z",
+    "updatedAt": "2026-05-03T08:50:42.355Z"
   },
   {
     "id": "8bd8ae26a171b39c",
@@ -66,8 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69f627939a7947ad52e38bcb",
     "publishedAt": "2026-05-02T16:42:45.000Z",
-    "createdAt": "2026-05-03T06:31:04.645Z",
-    "updatedAt": "2026-05-03T06:31:04.645Z"
+    "createdAt": "2026-05-03T08:50:44.508Z",
+    "updatedAt": "2026-05-03T08:50:44.508Z"
   },
   {
     "id": "b3b8e06ebd507a88",
@@ -80,63 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69f620a59a79473c1cd34cb5",
     "publishedAt": "2026-05-02T16:31:27.000Z",
-    "createdAt": "2026-05-03T06:31:03.544Z",
-    "updatedAt": "2026-05-03T06:31:03.544Z"
-  },
-  {
-    "id": "24bb81c79bd190ac",
-    "title": "Чемпион КХЛ сократил отставание в полуфинале плей-офф с «Авангардом»",
-    "sport": "Хоккей",
-    "category": "Хоккей",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/7/24/347777376793247.jpeg",
-    "teaser": "Чемпион КХЛ сократил отставание в полуфинале плей-офф с «Авангардом»",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69f61f8d9a7947357beb9378",
-    "publishedAt": "2026-05-02T16:19:22.000Z",
-    "createdAt": "2026-05-03T06:31:05.740Z",
-    "updatedAt": "2026-05-03T06:31:05.740Z"
-  },
-  {
-    "id": "39d7ddb4788fae23",
-    "title": "«Уфа» не смогла вылететь на матч Первой лиги в Хабаровск",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/7/02/347777372163027.jpeg",
-    "teaser": "«Уфа» не смогла вылететь на матч Первой лиги в Хабаровск",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69f61d449a79470761617335",
-    "publishedAt": "2026-05-02T15:58:05.000Z",
-    "createdAt": "2026-05-03T06:31:06.828Z",
-    "updatedAt": "2026-05-03T06:31:06.828Z"
-  },
-  {
-    "id": "a8b02760fe58600c",
-    "title": "«Рубин» в большинстве победил «Балтику» в матче РПЛ",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/9/08/347777340208089.jpeg",
-    "teaser": "«Рубин» в большинстве победил «Балтику» в матче РПЛ",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69f611289a7947320b1b2e7e",
-    "publishedAt": "2026-05-02T15:28:06.000Z",
-    "createdAt": "2026-05-03T06:31:07.930Z",
-    "updatedAt": "2026-05-03T06:31:07.930Z"
-  },
-  {
-    "id": "ffc53e821e836144",
-    "title": "Иноуэ в седьмой раз защитил титул абсолютного чемпиона мира по боксу",
-    "sport": "Единоборства",
-    "category": "Единоборства",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/1/55/347777316554551.jpeg",
-    "teaser": "Иноуэ в седьмой раз защитил титул абсолютного чемпиона мира по боксу",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69f608229a7947311f1c2fde",
-    "publishedAt": "2026-05-02T14:23:59.000Z",
-    "createdAt": "2026-05-03T06:31:08.826Z",
-    "updatedAt": "2026-05-03T06:31:08.826Z"
+    "createdAt": "2026-05-03T08:50:43.446Z",
+    "updatedAt": "2026-05-03T08:50:43.446Z"
   }
 ]
