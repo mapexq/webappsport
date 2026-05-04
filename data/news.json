@@ -1,5 +1,89 @@
 [
   {
+    "id": "c014b2d9082147aa",
+    "title": "Даниил Медведев поднялся на девятое место в рейтинге АТР",
+    "sport": "Теннис",
+    "category": "Теннис",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/2/14/347778823808142.jpeg",
+    "teaser": "Даниил Медведев поднялся на девятое место в рейтинге АТР",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69f852619a7947ee6255d57e",
+    "publishedAt": "2026-05-04T08:19:22.000Z",
+    "createdAt": "2026-05-04T09:25:54.882Z",
+    "updatedAt": "2026-05-04T09:25:54.882Z"
+  },
+  {
+    "id": "3884f01e6a727249",
+    "title": "Тарасенко установил уникальное достижение в истории клуба НХЛ",
+    "sport": "Хоккей",
+    "category": "Хоккей",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/8/69/347778782612698.jpeg",
+    "teaser": "Тарасенко установил уникальное достижение в истории клуба НХЛ",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69f840ff9a79478d04c2ef50",
+    "publishedAt": "2026-05-04T08:02:32.000Z",
+    "createdAt": "2026-05-04T09:25:56.043Z",
+    "updatedAt": "2026-05-04T09:25:56.043Z"
+  },
+  {
+    "id": "48503221171ba698",
+    "title": "Стали известны все пары второго раунда Кубка Стэнли",
+    "sport": "Хоккей",
+    "category": "Хоккей",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/8/32/347778769271328.jpeg",
+    "teaser": "Стали известны все пары второго раунда Кубка Стэнли",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69f83ddd9a79470a2155d7ad",
+    "publishedAt": "2026-05-04T07:46:47.000Z",
+    "createdAt": "2026-05-04T09:25:58.282Z",
+    "updatedAt": "2026-05-04T09:25:58.282Z"
+  },
+  {
+    "id": "c11881883d04eeaf",
+    "title": "В плей-офф НХЛ установили рекорд XXI века по числу авторов голов",
+    "sport": "Хоккей",
+    "category": "Хоккей",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/0/89/347778754686890.jpeg",
+    "teaser": "В плей-офф НХЛ установили рекорд XXI века по числу авторов голов",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69f836f79a7947cc8924e392",
+    "publishedAt": "2026-05-04T07:45:54.000Z",
+    "createdAt": "2026-05-04T09:25:57.172Z",
+    "updatedAt": "2026-05-04T09:25:57.173Z"
+  },
+  {
+    "id": "3d21c968a3848ed6",
+    "title": "Мирра Андреева поднялась на седьмое место в рейтинге WTA",
+    "sport": "Теннис",
+    "category": "Теннис",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/2/57/347778791254572.jpeg",
+    "teaser": "Мирра Андреева поднялась на седьмое место в рейтинге WTA",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69f846419a79477824aa1854",
+    "publishedAt": "2026-05-04T07:34:22.000Z",
+    "createdAt": "2026-05-04T09:25:59.409Z",
+    "updatedAt": "2026-05-04T09:25:59.409Z"
+  },
+  {
+    "id": "469503bcd991b1c5",
+    "title": "Футбольный ЦСКА объявил об уходе главного тренера",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/8/20/347778797575208.jpeg",
+    "teaser": "Футбольный ЦСКА объявил об уходе главного тренера",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69f849229a7947a7aaa064ec",
+    "publishedAt": "2026-05-04T07:25:24.000Z",
+    "createdAt": "2026-05-04T09:25:53.840Z",
+    "updatedAt": "2026-05-04T09:25:53.840Z"
+  },
+  {
     "id": "98e6bee6ae90288b",
     "title": "Саудовский клуб Роналду прервал 16-матчевую серию побед",
     "sport": "Футбол",
@@ -10,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69f7ac4f9a79476d100bc039",
     "publishedAt": "2026-05-03T20:34:02.000Z",
-    "createdAt": "2026-05-04T06:44:58.238Z",
-    "updatedAt": "2026-05-04T06:44:58.238Z"
+    "createdAt": "2026-05-04T09:26:00.535Z",
+    "updatedAt": "2026-05-04T09:26:00.535Z"
   },
   {
     "id": "d16d6e03581d1853",
@@ -24,22 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69f7a25a9a7947b4f5797017",
     "publishedAt": "2026-05-03T20:06:39.000Z",
-    "createdAt": "2026-05-04T06:44:59.365Z",
-    "updatedAt": "2026-05-04T06:44:59.365Z"
-  },
-  {
-    "id": "c8e5c916606a9f7e",
-    "title": "«Пари НН» проиграл «Ахмату» в первом матче с новым тренером",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/0/34/347778332507340.jpeg",
-    "teaser": "«Пари НН» проиграл «Ахмату» в первом матче с новым тренером",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69f78ba69a7947b33424d66a",
-    "publishedAt": "2026-05-03T19:16:11.000Z",
-    "createdAt": "2026-05-04T06:45:02.814Z",
-    "updatedAt": "2026-05-04T06:45:02.814Z"
+    "createdAt": "2026-05-04T09:26:01.675Z",
+    "updatedAt": "2026-05-04T09:26:01.675Z"
   },
   {
     "id": "853cf48602db9f4b",
@@ -52,8 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69f796299a7947418b29e666",
     "publishedAt": "2026-05-03T19:04:59.000Z",
-    "createdAt": "2026-05-04T06:45:00.563Z",
-    "updatedAt": "2026-05-04T06:45:00.563Z"
+    "createdAt": "2026-05-04T09:26:02.800Z",
+    "updatedAt": "2026-05-04T09:26:02.800Z"
   },
   {
     "id": "5eebe206ea6443c6",
@@ -66,77 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69f78ca59a7947670770d191",
     "publishedAt": "2026-05-03T18:22:05.000Z",
-    "createdAt": "2026-05-04T06:45:01.686Z",
-    "updatedAt": "2026-05-04T06:45:01.686Z"
-  },
-  {
-    "id": "9ef3e7f27bc03d39",
-    "title": "«Манчестер Юнайтед» обеспечил себе место в ЛЧ в следующем сезоне",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/5/58/347778277220585.jpeg",
-    "teaser": "«Манчестер Юнайтед» обеспечил себе место в ЛЧ в следующем сезоне",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69f77be29a794759ba2a36b8",
-    "publishedAt": "2026-05-03T17:25:04.000Z",
-    "createdAt": "2026-05-04T06:45:03.947Z",
-    "updatedAt": "2026-05-04T06:45:03.947Z"
-  },
-  {
-    "id": "caa252f5111f9e7e",
-    "title": "Синнер первым в истории выиграл пять турниров серии «Мастерс» подряд",
-    "sport": "Теннис",
-    "category": "Теннис",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/8/61/347778263175618.jpeg",
-    "teaser": "Синнер первым в истории выиграл пять турниров серии «Мастерс» подряд",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69f776d99a7947bddc183353",
-    "publishedAt": "2026-05-03T16:47:34.000Z",
-    "createdAt": "2026-05-04T06:45:05.070Z",
-    "updatedAt": "2026-05-04T06:45:05.070Z"
-  },
-  {
-    "id": "3d96ec34447317d3",
-    "title": "«Краснодар» обыграл клуб Дзюбы и вернул себе лидерство в РПЛ",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/5/28/347778221510285.jpeg",
-    "teaser": "«Краснодар» обыграл клуб Дзюбы и вернул себе лидерство в РПЛ",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69f7685c9a79475b305acf33",
-    "publishedAt": "2026-05-03T16:07:29.000Z",
-    "createdAt": "2026-05-04T06:45:06.192Z",
-    "updatedAt": "2026-05-04T06:45:06.192Z"
-  },
-  {
-    "id": "b39f84481b61942a",
-    "title": "Российский теннисист стал победителем второго подряд «Челленджера»",
-    "sport": "Теннис",
-    "category": "Теннис",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/2/16/347778234718162.jpeg",
-    "teaser": "Российский теннисист стал победителем второго подряд «Челленджера»",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69f76d109a79473cfd494275",
-    "publishedAt": "2026-05-03T16:01:53.000Z",
-    "createdAt": "2026-05-04T06:45:07.318Z",
-    "updatedAt": "2026-05-04T06:45:07.318Z"
-  },
-  {
-    "id": "46b4edcb06f268dc",
-    "title": "Алекса Фергюсона госпитализировали перед матчем чемпионата Англии",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/8/71/347778205384718.jpeg",
-    "teaser": "Алекса Фергюсона госпитализировали перед матчем чемпионата Англии",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69f75faf9a794768aac42b99",
-    "publishedAt": "2026-05-03T15:20:53.000Z",
-    "createdAt": "2026-05-04T06:45:08.474Z",
-    "updatedAt": "2026-05-04T06:45:08.474Z"
+    "createdAt": "2026-05-04T09:26:03.977Z",
+    "updatedAt": "2026-05-04T09:26:03.977Z"
   }
 ]
