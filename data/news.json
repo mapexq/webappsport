@@ -1,5 +1,89 @@
 [
   {
+    "id": "f7ef70f94c295431",
+    "title": "«Акрон» раскрыл, какую травму получил Дзюба",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/8/88/347779126840888.jpeg",
+    "teaser": "«Акрон» раскрыл, какую травму получил Дзюба",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69f8c8359a7947e4afe02815",
+    "publishedAt": "2026-05-04T16:44:54.000Z",
+    "createdAt": "2026-05-04T16:51:23.782Z",
+    "updatedAt": "2026-05-04T16:51:23.782Z"
+  },
+  {
+    "id": "ce2a0dd1d5666577",
+    "title": "Футболист «Реала» получил пятую травму в сезоне",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/5/53/347779112247535.jpeg",
+    "teaser": "Футболист «Реала» получил пятую травму в сезоне",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69f8c2259a79476dfe2a115d",
+    "publishedAt": "2026-05-04T16:21:36.000Z",
+    "createdAt": "2026-05-04T16:51:24.918Z",
+    "updatedAt": "2026-05-04T16:51:24.918Z"
+  },
+  {
+    "id": "c8e7cbdb8d0947df",
+    "title": "Потерявшего сознание футболиста «Крыльев Советов» выписали из больницы",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/9/52/347779074873529.jpeg",
+    "teaser": "Потерявшего сознание футболиста «Крыльев Советов» выписали из больницы",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69f8b3b29a794706704979b4",
+    "publishedAt": "2026-05-04T15:19:25.000Z",
+    "createdAt": "2026-05-04T16:51:26.116Z",
+    "updatedAt": "2026-05-04T16:51:26.116Z"
+  },
+  {
+    "id": "0c3248af53ca1d0f",
+    "title": "Marca узнала, какой клуб может возглавить Челестини после ухода из ЦСКА",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/1/38/347779060114381.jpeg",
+    "teaser": "Marca узнала, какой клуб может возглавить Челестини после ухода из ЦСКА",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69f8ad989a79473341a24113",
+    "publishedAt": "2026-05-04T14:55:41.000Z",
+    "createdAt": "2026-05-04T16:51:28.472Z",
+    "updatedAt": "2026-05-04T16:51:28.472Z"
+  },
+  {
+    "id": "43de7a0fecaadff4",
+    "title": "«Бавария» не разрешила ПСЖ остановиться в «счастливом» отеле перед ЛЧ",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/0/97/347779059805970.jpeg",
+    "teaser": "«Бавария» не разрешила ПСЖ остановиться в «счастливом» отеле перед ЛЧ",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69f8ad599a794747b9f0f922",
+    "publishedAt": "2026-05-04T14:54:23.000Z",
+    "createdAt": "2026-05-04T16:51:27.291Z",
+    "updatedAt": "2026-05-04T16:51:27.291Z"
+  },
+  {
+    "id": "a6ea469cf0c61f4d",
+    "title": "Вяльбе заявила, что ей плевать на название должности в лыжной федерации",
+    "sport": "Другое",
+    "category": "Другие",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/1/96/347779038335961.jpeg",
+    "teaser": "Вяльбе заявила, что ей плевать на название должности в лыжной федерации",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69f8a6729a7947d4f4c7eb43",
+    "publishedAt": "2026-05-04T14:20:15.000Z",
+    "createdAt": "2026-05-04T16:51:29.644Z",
+    "updatedAt": "2026-05-04T16:51:29.644Z"
+  },
+  {
     "id": "8296e94c8507b4e5",
     "title": "МОК приостановил деятельность комитета по киберспорту",
     "sport": "Другое",
@@ -10,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69f89ae99a7947d9abb66a67",
     "publishedAt": "2026-05-04T13:41:18.000Z",
-    "createdAt": "2026-05-04T14:15:41.534Z",
-    "updatedAt": "2026-05-04T14:15:41.534Z"
+    "createdAt": "2026-05-04T16:51:30.800Z",
+    "updatedAt": "2026-05-04T16:51:30.800Z"
   },
   {
     "id": "466d6e763038d7c9",
@@ -24,8 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69f884c59a7947104e854a61",
     "publishedAt": "2026-05-04T12:58:55.000Z",
-    "createdAt": "2026-05-04T14:15:42.591Z",
-    "updatedAt": "2026-05-04T14:15:42.591Z"
+    "createdAt": "2026-05-04T16:51:31.942Z",
+    "updatedAt": "2026-05-04T16:51:31.942Z"
   },
   {
     "id": "0fedf890f0ddc1e5",
@@ -38,8 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69f88d599a79476450b417dd",
     "publishedAt": "2026-05-04T12:42:05.000Z",
-    "createdAt": "2026-05-04T14:15:43.664Z",
-    "updatedAt": "2026-05-04T14:15:43.664Z"
+    "createdAt": "2026-05-04T16:51:33.119Z",
+    "updatedAt": "2026-05-04T16:51:33.119Z"
   },
   {
     "id": "07f717db42e86282",
@@ -52,91 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69f881329a7947249bfffae7",
     "publishedAt": "2026-05-04T12:32:43.000Z",
-    "createdAt": "2026-05-04T14:15:44.690Z",
-    "updatedAt": "2026-05-04T14:15:44.690Z"
-  },
-  {
-    "id": "dac808010b64f679",
-    "title": "Челестини признал, что не смог убедить ЦСКА в возможности побед",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/8/24/347778920847248.jpeg",
-    "teaser": "Челестини признал, что не смог убедить ЦСКА в возможности побед",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69f876039a794778a319b3f0",
-    "publishedAt": "2026-05-04T11:27:27.000Z",
-    "createdAt": "2026-05-04T14:15:45.710Z",
-    "updatedAt": "2026-05-04T14:15:45.710Z"
-  },
-  {
-    "id": "4e5ea93e9dab7278",
-    "title": "Российские керлингисты пропустят юниорский ЧМ в Канаде из‑за невыдачи виз",
-    "sport": "Другое",
-    "category": "Другие",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/1/24/347778932150241.jpeg",
-    "teaser": "Российские керлингисты пропустят юниорский ЧМ в Канаде из‑за невыдачи виз",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69f87d159a794767fd88b36f",
-    "publishedAt": "2026-05-04T11:25:40.000Z",
-    "createdAt": "2026-05-04T14:15:46.749Z",
-    "updatedAt": "2026-05-04T14:15:46.749Z"
-  },
-  {
-    "id": "45e6781ecba7a23d",
-    "title": "Подписавший контракт с клубом НХЛ вратарь попрощался с «Металлургом»",
-    "sport": "Хоккей",
-    "category": "Хоккей",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/8/53/347778895333538.jpeg",
-    "teaser": "Подписавший контракт с клубом НХЛ вратарь попрощался с «Металлургом»",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69f86d7a9a794709e6bdbdcb",
-    "publishedAt": "2026-05-04T10:26:17.000Z",
-    "createdAt": "2026-05-04T14:15:48.091Z",
-    "updatedAt": "2026-05-04T14:15:48.091Z"
-  },
-  {
-    "id": "00acb7fb4250c15b",
-    "title": "Что известно о пойманном на допинге футболисте «Спартака» Заболотном",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/9/75/347778864123759.jpeg",
-    "teaser": "Что известно о пойманном на допинге футболисте «Спартака» Заболотном",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69f852bd9a79476f5c274418",
-    "publishedAt": "2026-05-04T09:33:38.000Z",
-    "createdAt": "2026-05-04T14:15:49.135Z",
-    "updatedAt": "2026-05-04T14:15:49.135Z"
-  },
-  {
-    "id": "1122e2f990a4c4f8",
-    "title": "Спортсмены из КНДР впервые за восемь лет посетят Южную Корею",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/7/55/347778867239557.jpeg",
-    "teaser": "Спортсмены из КНДР впервые за восемь лет посетят Южную Корею",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69f863379a7947c15c1c6de3",
-    "publishedAt": "2026-05-04T09:31:54.000Z",
-    "createdAt": "2026-05-04T14:15:50.170Z",
-    "updatedAt": "2026-05-04T14:15:50.170Z"
-  },
-  {
-    "id": "469503bcd991b1c5",
-    "title": "Футбольный ЦСКА объявил об уходе главного тренера",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/8/20/347778797575208.jpeg",
-    "teaser": "Футбольный ЦСКА объявил об уходе главного тренера",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69f849229a7947a7aaa064ec",
-    "publishedAt": "2026-05-04T07:25:24.000Z",
-    "createdAt": "2026-05-04T14:15:51.297Z",
-    "updatedAt": "2026-05-04T14:15:51.297Z"
+    "createdAt": "2026-05-04T16:51:34.308Z",
+    "updatedAt": "2026-05-04T16:51:34.308Z"
   }
 ]
