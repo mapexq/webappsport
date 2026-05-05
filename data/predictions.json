@@ -1,38 +1,6 @@
 [
   {
-    "id": 1777952534007,
-    "eventName": "Вегас — Анахайм",
-    "discipline": "Хоккей",
-    "tournament": "НХЛ",
-    "expert": {
-      "name": "Александр Сальников",
-      "avatar": "https://wp1.bookmaker-ratings.ru/bookmaker-ratings.ru/wp-content/uploads/2025/09/D675C251-7673-4C89-A894-7CB04D1FF617-68cd210b040af.jpg?ssl=1&w=60",
-      "status": "expert",
-      "winRate": 85
-    },
-    "prediction": "Тотал больше (5.5)",
-    "odds": 1.6,
-    "comment": "Открытая игра, высокая результативность обеих команд, слабые места в обороне. Статистика в первом раунде:Средний тотал шайб за матч Вегас 6,5 Утки 7,7 Вегас будет давить с первых минут, используя поддержку трибун. Анахайм попытается сдержать натиск и ловить соперника на контратаках.",
-    "source": "Sports Analytics Pro"
-  },
-  {
-    "id": 1777952534008,
-    "eventName": "Вегас — Анахайм",
-    "discipline": "Хоккей",
-    "tournament": "НХЛ",
-    "expert": {
-      "name": "Артем Матюшенко",
-      "avatar": "https://bookmaker-ratings.ru/static/images/badges/is-kapper.svg?v=30092024",
-      "status": "expert",
-      "winRate": 87
-    },
-    "prediction": "Тотал (6.5) Б",
-    "odds": 2.18,
-    "comment": "Комментарий к прогнозу",
-    "source": "Sports Analytics Pro"
-  },
-  {
-    "id": 1777952534009,
+    "id": 1777962127229,
     "eventName": "Колорадо — Миннесота",
     "discipline": "Хоккей",
     "tournament": "НХЛ",
@@ -48,7 +16,7 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1777952534010,
+    "id": 1777962127230,
     "eventName": "Арсенал — Атлетико",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -64,7 +32,7 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1777952534011,
+    "id": 1777962127231,
     "eventName": "Арсенал — Атлетико Мадрид",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -80,7 +48,7 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1777952534012,
+    "id": 1777962127232,
     "eventName": "Арсенал — Атлетико",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -96,7 +64,7 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1777952534013,
+    "id": 1777962127233,
     "eventName": "Марко Трунгеллити — Закари Свайда",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -112,7 +80,7 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1777952534014,
+    "id": 1777962127234,
     "eventName": "Спартак — ЦСКА",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -128,7 +96,7 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1777952534015,
+    "id": 1777962127235,
     "eventName": "Бавария — ПСЖ",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -144,7 +112,7 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1777952534017,
+    "id": 1777962127236,
     "eventName": "Монако — Олимпиакос (3-й матч)",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
