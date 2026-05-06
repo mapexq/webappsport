@@ -1,5 +1,47 @@
 [
   {
+    "id": "1af09d206a5166af",
+    "title": "Как «Спартак» обыграл ЦСКА и вышел в финал Кубка России. Фоторепортаж",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/7/94/347780928839947.jpeg",
+    "teaser": "Как «Спартак» обыграл ЦСКА и вышел в финал Кубка России. Фоторепортаж",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69fb77239a7947fce28e0744",
+    "publishedAt": "2026-05-06T20:13:14.000Z",
+    "createdAt": "2026-05-06T20:27:10.924Z",
+    "updatedAt": "2026-05-06T20:27:10.924Z"
+  },
+  {
+    "id": "cc1bf38b692e4cee",
+    "title": "Россиянка проиграла 160-й ракетке мира на старте «тысячника» в Риме",
+    "sport": "Теннис",
+    "category": "Теннис",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/3/55/347780946977553.jpeg",
+    "teaser": "Россиянка проиграла 160-й ракетке мира на старте «тысячника» в Риме",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69fb8df59a794772e329e368",
+    "publishedAt": "2026-05-06T20:10:11.000Z",
+    "createdAt": "2026-05-06T20:27:11.872Z",
+    "updatedAt": "2026-05-06T20:27:11.872Z"
+  },
+  {
+    "id": "27b172caa06dc109",
+    "title": "«Спартак» обыграл ЦСКА и вышел в суперфинал Кубка России по футболу",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/7/08/347780916073087.jpeg",
+    "teaser": "«Спартак» обыграл ЦСКА и вышел в суперфинал Кубка России по футболу",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69fb7a379a7947047c3a5696",
+    "publishedAt": "2026-05-06T19:06:29.000Z",
+    "createdAt": "2026-05-06T20:27:12.905Z",
+    "updatedAt": "2026-05-06T20:27:12.905Z"
+  },
+  {
     "id": "f71f5b9e4b23e867",
     "title": "Инфантино пообещал хот‑дог и колу за билет на финал ЧМ за $2 млн",
     "sport": "Футбол",
@@ -10,8 +52,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69fb6bab9a794764cbffa275",
     "publishedAt": "2026-05-06T17:46:12.000Z",
-    "createdAt": "2026-05-06T18:21:16.302Z",
-    "updatedAt": "2026-05-06T18:21:16.302Z"
+    "createdAt": "2026-05-06T20:27:13.974Z",
+    "updatedAt": "2026-05-06T20:27:13.974Z"
   },
   {
     "id": "660b6d2715500c23",
@@ -24,8 +66,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69fb71479a7947ddaae63a41",
     "publishedAt": "2026-05-06T17:13:47.000Z",
-    "createdAt": "2026-05-06T18:21:17.310Z",
-    "updatedAt": "2026-05-06T18:21:17.310Z"
+    "createdAt": "2026-05-06T20:27:14.992Z",
+    "updatedAt": "2026-05-06T20:27:14.992Z"
   },
   {
     "id": "cf50601ecc0e708b",
@@ -38,8 +80,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69fb66599a79474fed0fc142",
     "publishedAt": "2026-05-06T16:44:07.000Z",
-    "createdAt": "2026-05-06T18:21:18.260Z",
-    "updatedAt": "2026-05-06T18:21:18.260Z"
+    "createdAt": "2026-05-06T20:27:16.028Z",
+    "updatedAt": "2026-05-06T20:27:16.028Z"
   },
   {
     "id": "8f20ab61d41100dc",
@@ -52,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69fb5b939a794773685badc8",
     "publishedAt": "2026-05-06T16:00:34.000Z",
-    "createdAt": "2026-05-06T18:21:19.277Z",
-    "updatedAt": "2026-05-06T18:21:19.277Z"
+    "createdAt": "2026-05-06T20:27:17.025Z",
+    "updatedAt": "2026-05-06T20:27:17.025Z"
   },
   {
     "id": "ef81945d5f28d2cf",
@@ -66,8 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69fb618b9a7947af78234292",
     "publishedAt": "2026-05-06T15:48:50.000Z",
-    "createdAt": "2026-05-06T18:21:20.225Z",
-    "updatedAt": "2026-05-06T18:21:20.225Z"
+    "createdAt": "2026-05-06T20:27:18.344Z",
+    "updatedAt": "2026-05-06T20:27:18.344Z"
   },
   {
     "id": "484fe8fe549188d1",
@@ -80,36 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69fb55ae9a79479167a745a7",
     "publishedAt": "2026-05-06T15:17:35.000Z",
-    "createdAt": "2026-05-06T18:21:21.234Z",
-    "updatedAt": "2026-05-06T18:21:21.234Z"
-  },
-  {
-    "id": "151eb4a4a9559d9f",
-    "title": "Инфантино заявил, что увеличение числа участников ЧМ повысит конкуренцию",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/7/42/347780780637427.jpeg",
-    "teaser": "Инфантино заявил, что увеличение числа участников ЧМ повысит конкуренцию",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69fb4dd09a79471668804b64",
-    "publishedAt": "2026-05-06T14:51:03.000Z",
-    "createdAt": "2026-05-06T18:21:23.193Z",
-    "updatedAt": "2026-05-06T18:21:23.193Z"
-  },
-  {
-    "id": "9b34595b9e88a1f7",
-    "title": "Праправнук легендарного летчика Кожедуба откроет матч «Спартак» — ЦСКА",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/4/87/756678354777874.jpg",
-    "teaser": "Праправнук легендарного летчика Кожедуба откроет матч «Спартак» — ЦСКА",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69fb49149a79479a169ac139",
-    "publishedAt": "2026-05-06T14:25:18.000Z",
-    "createdAt": "2026-05-06T18:21:25.016Z",
-    "updatedAt": "2026-05-06T18:21:25.016Z"
+    "createdAt": "2026-05-06T20:27:19.420Z",
+    "updatedAt": "2026-05-06T20:27:19.420Z"
   },
   {
     "id": "8faf7e5b28483d9c",
@@ -122,21 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69fb440d9a79472be4ce6dc7",
     "publishedAt": "2026-05-06T14:22:36.000Z",
-    "createdAt": "2026-05-06T18:21:22.244Z",
-    "updatedAt": "2026-05-06T18:21:22.244Z"
-  },
-  {
-    "id": "4684b6639dd8fb3c",
-    "title": "Один из лучших бомбардиров РПЛ перенес операцию",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/1/48/347780747354481.jpeg",
-    "teaser": "Один из лучших бомбардиров РПЛ перенес операцию",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69fb442b9a7947d037d739cf",
-    "publishedAt": "2026-05-06T13:51:38.000Z",
-    "createdAt": "2026-05-06T18:21:25.997Z",
-    "updatedAt": "2026-05-06T18:21:25.997Z"
+    "createdAt": "2026-05-06T20:27:20.451Z",
+    "updatedAt": "2026-05-06T20:27:20.451Z"
   }
 ]
