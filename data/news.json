@@ -1,5 +1,61 @@
 [
   {
+    "id": "8f20ab61d41100dc",
+    "title": "В Испании узнали о 10 требованиях Жозе Моуринью для возвращения в «Реал»",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/9/07/347780825476079.png",
+    "teaser": "В Испании узнали о 10 требованиях Жозе Моуринью для возвращения в «Реал»",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69fb5b939a794773685badc8",
+    "publishedAt": "2026-05-06T16:00:34.000Z",
+    "createdAt": "2026-05-06T16:46:38.807Z",
+    "updatedAt": "2026-05-06T16:46:38.807Z"
+  },
+  {
+    "id": "ef81945d5f28d2cf",
+    "title": "Футболист сборной России перенес операцию на колене",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/4/34/347780822303344.jpeg",
+    "teaser": "Футболист сборной России перенес операцию на колене",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69fb618b9a7947af78234292",
+    "publishedAt": "2026-05-06T15:48:50.000Z",
+    "createdAt": "2026-05-06T16:46:39.651Z",
+    "updatedAt": "2026-05-06T16:46:39.651Z"
+  },
+  {
+    "id": "484fe8fe549188d1",
+    "title": "Коростелев ответил Вяльбе на совет «притухнуть и тренироваться»",
+    "sport": "Другое",
+    "category": "Другие",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/8/72/347780802067728.jpeg",
+    "teaser": "Коростелев ответил Вяльбе на совет «притухнуть и тренироваться»",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69fb55ae9a79479167a745a7",
+    "publishedAt": "2026-05-06T15:17:35.000Z",
+    "createdAt": "2026-05-06T16:46:40.622Z",
+    "updatedAt": "2026-05-06T16:46:40.622Z"
+  },
+  {
+    "id": "151eb4a4a9559d9f",
+    "title": "Инфантино заявил, что увеличение числа участников ЧМ повысит конкуренцию",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/7/42/347780780637427.jpeg",
+    "teaser": "Инфантино заявил, что увеличение числа участников ЧМ повысит конкуренцию",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69fb4dd09a79471668804b64",
+    "publishedAt": "2026-05-06T14:51:03.000Z",
+    "createdAt": "2026-05-06T16:46:41.600Z",
+    "updatedAt": "2026-05-06T16:46:41.600Z"
+  },
+  {
     "id": "9b34595b9e88a1f7",
     "title": "Праправнук легендарного летчика Кожедуба откроет матч «Спартак» — ЦСКА",
     "sport": "Футбол",
@@ -10,8 +66,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69fb49149a79479a169ac139",
     "publishedAt": "2026-05-06T14:25:18.000Z",
-    "createdAt": "2026-05-06T14:27:54.185Z",
-    "updatedAt": "2026-05-06T14:27:54.185Z"
+    "createdAt": "2026-05-06T16:46:44.364Z",
+    "updatedAt": "2026-05-06T16:46:44.364Z"
   },
   {
     "id": "8faf7e5b28483d9c",
@@ -24,8 +80,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69fb440d9a79472be4ce6dc7",
     "publishedAt": "2026-05-06T14:22:36.000Z",
-    "createdAt": "2026-05-06T14:27:52.354Z",
-    "updatedAt": "2026-05-06T14:27:52.354Z"
+    "createdAt": "2026-05-06T16:46:42.434Z",
+    "updatedAt": "2026-05-06T16:46:42.434Z"
   },
   {
     "id": "4684b6639dd8fb3c",
@@ -38,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69fb442b9a7947d037d739cf",
     "publishedAt": "2026-05-06T13:51:38.000Z",
-    "createdAt": "2026-05-06T14:27:55.303Z",
-    "updatedAt": "2026-05-06T14:27:55.303Z"
+    "createdAt": "2026-05-06T16:46:45.199Z",
+    "updatedAt": "2026-05-06T16:46:45.199Z"
   },
   {
     "id": "750f982ef944e5aa",
@@ -52,8 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69fb3eb49a794765cfefaeb9",
     "publishedAt": "2026-05-06T13:37:26.000Z",
-    "createdAt": "2026-05-06T14:27:56.392Z",
-    "updatedAt": "2026-05-06T14:27:56.392Z"
+    "createdAt": "2026-05-06T16:46:46.172Z",
+    "updatedAt": "2026-05-06T16:46:46.172Z"
   },
   {
     "id": "f3e955bca07c8ecc",
@@ -66,8 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69fb3ad09a79473463e40783",
     "publishedAt": "2026-05-06T13:13:26.000Z",
-    "createdAt": "2026-05-06T14:27:57.381Z",
-    "updatedAt": "2026-05-06T14:27:57.381Z"
+    "createdAt": "2026-05-06T16:46:47.176Z",
+    "updatedAt": "2026-05-06T16:46:47.176Z"
   },
   {
     "id": "be6583704d82274c",
@@ -80,63 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69fb33ea9a79473f4e56e378",
     "publishedAt": "2026-05-06T12:42:05.000Z",
-    "createdAt": "2026-05-06T14:27:58.488Z",
-    "updatedAt": "2026-05-06T14:27:58.488Z"
-  },
-  {
-    "id": "4966722d562d8c22",
-    "title": "В «Уфе» обвинили «СКА-Хабаровск» во лжи по поводу ситуации с «технарем»",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/9/18/347780659059189.jpeg",
-    "teaser": "В «Уфе» обвинили «СКА-Хабаровск» во лжи по поводу ситуации с «технарем»",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69fb21be9a794745f4318ece",
-    "publishedAt": "2026-05-06T11:53:11.000Z",
-    "createdAt": "2026-05-06T14:28:00.553Z",
-    "updatedAt": "2026-05-06T14:28:00.553Z"
-  },
-  {
-    "id": "3d8ceb7f51e26d30",
-    "title": "Старейший экс-пилот «Формулы-1» умер в возрасте 100 лет",
-    "sport": "Другое",
-    "category": "Формула-1",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/0/92/347780666894920.jpeg",
-    "teaser": "Старейший экс-пилот «Формулы-1» умер в возрасте 100 лет",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69fb24ef9a794751e45623ca",
-    "publishedAt": "2026-05-06T11:49:22.000Z",
-    "createdAt": "2026-05-06T14:27:59.474Z",
-    "updatedAt": "2026-05-06T14:27:59.474Z"
-  },
-  {
-    "id": "bf373252248101a6",
-    "title": "В «Металлурге» сообщили о вероятном отъезде в НХЛ лучшего снайпера КХЛ",
-    "sport": "Хоккей",
-    "category": "Хоккей",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/4/20/347780660665204.jpeg",
-    "teaser": "В «Металлурге» сообщили о вероятном отъезде в НХЛ лучшего снайпера КХЛ",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69fb223d9a79476ed08a615e",
-    "publishedAt": "2026-05-06T11:31:54.000Z",
-    "createdAt": "2026-05-06T14:28:01.620Z",
-    "updatedAt": "2026-05-06T14:28:01.620Z"
-  },
-  {
-    "id": "74f059b9b14e7e45",
-    "title": "Российская теннисистка проиграла дебютный матч на «тысячнике» WTA",
-    "sport": "Теннис",
-    "category": "Теннис",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/4/87/347780645560874.jpeg",
-    "teaser": "Российская теннисистка проиграла дебютный матч на «тысячнике» WTA",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69fb1c679a7947819e0ca514",
-    "publishedAt": "2026-05-06T10:55:28.000Z",
-    "createdAt": "2026-05-06T14:28:02.696Z",
-    "updatedAt": "2026-05-06T14:28:02.696Z"
+    "createdAt": "2026-05-06T16:46:48.208Z",
+    "updatedAt": "2026-05-06T16:46:48.208Z"
   }
 ]
