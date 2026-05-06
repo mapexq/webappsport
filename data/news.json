@@ -1,5 +1,47 @@
 [
   {
+    "id": "f71f5b9e4b23e867",
+    "title": "Инфантино пообещал хот‑дог и колу за билет на финал ЧМ за $2 млн",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/0/59/347780878005590.jpeg",
+    "teaser": "Инфантино пообещал хот‑дог и колу за билет на финал ЧМ за $2 млн",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69fb6bab9a794764cbffa275",
+    "publishedAt": "2026-05-06T17:46:12.000Z",
+    "createdAt": "2026-05-06T18:21:16.302Z",
+    "updatedAt": "2026-05-06T18:21:16.302Z"
+  },
+  {
+    "id": "660b6d2715500c23",
+    "title": "Рекордсмен «Зенита» по числу трофеев покинет клуб по окончании сезона",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/9/30/347780866491309.jpeg",
+    "teaser": "Рекордсмен «Зенита» по числу трофеев покинет клуб по окончании сезона",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69fb71479a7947ddaae63a41",
+    "publishedAt": "2026-05-06T17:13:47.000Z",
+    "createdAt": "2026-05-06T18:21:17.310Z",
+    "updatedAt": "2026-05-06T18:21:17.310Z"
+  },
+  {
+    "id": "cf50601ecc0e708b",
+    "title": "Даниил Медведев поддержал идею бойкота турниров «Большого шлема»",
+    "sport": "Теннис",
+    "category": "Теннис",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/7/79/347780843445797.jpeg",
+    "teaser": "Даниил Медведев поддержал идею бойкота турниров «Большого шлема»",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69fb66599a79474fed0fc142",
+    "publishedAt": "2026-05-06T16:44:07.000Z",
+    "createdAt": "2026-05-06T18:21:18.260Z",
+    "updatedAt": "2026-05-06T18:21:18.260Z"
+  },
+  {
     "id": "8f20ab61d41100dc",
     "title": "В Испании узнали о 10 требованиях Жозе Моуринью для возвращения в «Реал»",
     "sport": "Футбол",
@@ -10,8 +52,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69fb5b939a794773685badc8",
     "publishedAt": "2026-05-06T16:00:34.000Z",
-    "createdAt": "2026-05-06T16:46:38.807Z",
-    "updatedAt": "2026-05-06T16:46:38.807Z"
+    "createdAt": "2026-05-06T18:21:19.277Z",
+    "updatedAt": "2026-05-06T18:21:19.277Z"
   },
   {
     "id": "ef81945d5f28d2cf",
@@ -24,8 +66,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69fb618b9a7947af78234292",
     "publishedAt": "2026-05-06T15:48:50.000Z",
-    "createdAt": "2026-05-06T16:46:39.651Z",
-    "updatedAt": "2026-05-06T16:46:39.651Z"
+    "createdAt": "2026-05-06T18:21:20.225Z",
+    "updatedAt": "2026-05-06T18:21:20.225Z"
   },
   {
     "id": "484fe8fe549188d1",
@@ -38,8 +80,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69fb55ae9a79479167a745a7",
     "publishedAt": "2026-05-06T15:17:35.000Z",
-    "createdAt": "2026-05-06T16:46:40.622Z",
-    "updatedAt": "2026-05-06T16:46:40.622Z"
+    "createdAt": "2026-05-06T18:21:21.234Z",
+    "updatedAt": "2026-05-06T18:21:21.234Z"
   },
   {
     "id": "151eb4a4a9559d9f",
@@ -52,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69fb4dd09a79471668804b64",
     "publishedAt": "2026-05-06T14:51:03.000Z",
-    "createdAt": "2026-05-06T16:46:41.600Z",
-    "updatedAt": "2026-05-06T16:46:41.600Z"
+    "createdAt": "2026-05-06T18:21:23.193Z",
+    "updatedAt": "2026-05-06T18:21:23.193Z"
   },
   {
     "id": "9b34595b9e88a1f7",
@@ -66,8 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69fb49149a79479a169ac139",
     "publishedAt": "2026-05-06T14:25:18.000Z",
-    "createdAt": "2026-05-06T16:46:44.364Z",
-    "updatedAt": "2026-05-06T16:46:44.364Z"
+    "createdAt": "2026-05-06T18:21:25.016Z",
+    "updatedAt": "2026-05-06T18:21:25.016Z"
   },
   {
     "id": "8faf7e5b28483d9c",
@@ -80,8 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69fb440d9a79472be4ce6dc7",
     "publishedAt": "2026-05-06T14:22:36.000Z",
-    "createdAt": "2026-05-06T16:46:42.434Z",
-    "updatedAt": "2026-05-06T16:46:42.434Z"
+    "createdAt": "2026-05-06T18:21:22.244Z",
+    "updatedAt": "2026-05-06T18:21:22.244Z"
   },
   {
     "id": "4684b6639dd8fb3c",
@@ -94,49 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69fb442b9a7947d037d739cf",
     "publishedAt": "2026-05-06T13:51:38.000Z",
-    "createdAt": "2026-05-06T16:46:45.199Z",
-    "updatedAt": "2026-05-06T16:46:45.199Z"
-  },
-  {
-    "id": "750f982ef944e5aa",
-    "title": "Агент Кисляка исключил переход игрока ЦСКА в «проукраинскую» «Бенфику»",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/3/67/347780739835673.jpeg",
-    "teaser": "Агент Кисляка исключил переход игрока ЦСКА в «проукраинскую» «Бенфику»",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69fb3eb49a794765cfefaeb9",
-    "publishedAt": "2026-05-06T13:37:26.000Z",
-    "createdAt": "2026-05-06T16:46:46.172Z",
-    "updatedAt": "2026-05-06T16:46:46.172Z"
-  },
-  {
-    "id": "f3e955bca07c8ecc",
-    "title": "Оскорбивший Винисиуса аргентинец дисквалифицирован на два матча сборной",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/0/08/347780723234080.jpeg",
-    "teaser": "Оскорбивший Винисиуса аргентинец дисквалифицирован на два матча сборной",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69fb3ad09a79473463e40783",
-    "publishedAt": "2026-05-06T13:13:26.000Z",
-    "createdAt": "2026-05-06T16:46:47.176Z",
-    "updatedAt": "2026-05-06T16:46:47.176Z"
-  },
-  {
-    "id": "be6583704d82274c",
-    "title": "Непобежденный сын Кости Цзю выиграл чемпионский бой WBO",
-    "sport": "Единоборства",
-    "category": "Единоборства",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/3/05/347780705702053.jpeg",
-    "teaser": "Непобежденный сын Кости Цзю выиграл чемпионский бой WBO",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69fb33ea9a79473f4e56e378",
-    "publishedAt": "2026-05-06T12:42:05.000Z",
-    "createdAt": "2026-05-06T16:46:48.208Z",
-    "updatedAt": "2026-05-06T16:46:48.208Z"
+    "createdAt": "2026-05-06T18:21:25.997Z",
+    "updatedAt": "2026-05-06T18:21:25.997Z"
   }
 ]
