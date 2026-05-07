@@ -1,5 +1,75 @@
 [
   {
+    "id": "3ceeee663d1380c2",
+    "title": "Игрок «Реала» попал в больницу после драки с одноклубником на тренировке",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/3/33/347781617004333.jpeg",
+    "teaser": "Игрок «Реала» попал в больницу после драки с одноклубником на тренировке",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69fc93419a7947c760b8d13a",
+    "publishedAt": "2026-05-07T13:55:44.000Z",
+    "createdAt": "2026-05-07T14:28:49.323Z",
+    "updatedAt": "2026-05-07T14:28:49.323Z"
+  },
+  {
+    "id": "d9f15286bbf28658",
+    "title": "Adidas показал ролик к ЧМ о непобедимой команде с Шаламе, Месси, Бекхэмом",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/2/72/347781597748722.jpeg",
+    "teaser": "Adidas показал ролик к ЧМ о непобедимой команде с Шаламе, Месси, Бекхэмом",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69fc8b0d9a7947f1fbc33648",
+    "publishedAt": "2026-05-07T13:42:07.000Z",
+    "createdAt": "2026-05-07T14:28:50.325Z",
+    "updatedAt": "2026-05-07T14:28:50.325Z"
+  },
+  {
+    "id": "f5a7303e694d0c9a",
+    "title": "МОК отказался от санкций против белорусских спортсменов",
+    "sport": "Другое",
+    "category": "Другие",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/2/96/347781627922962.jpeg",
+    "teaser": "МОК отказался от санкций против белорусских спортсменов",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69fc95379a79471eecb98407",
+    "publishedAt": "2026-05-07T13:38:29.000Z",
+    "createdAt": "2026-05-07T14:28:48.314Z",
+    "updatedAt": "2026-05-07T14:28:48.314Z"
+  },
+  {
+    "id": "095bb6310a925c93",
+    "title": "Петиция за уход Мбаппе из «Реала» набрала более 30 млн голосов за два дня",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/8/96/347781571590968.jpeg",
+    "teaser": "Петиция за уход Мбаппе из «Реала» набрала более 30 млн голосов за два дня",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69fc7f1d9a794749e9bab69e",
+    "publishedAt": "2026-05-07T12:48:35.000Z",
+    "createdAt": "2026-05-07T14:28:51.273Z",
+    "updatedAt": "2026-05-07T14:28:51.273Z"
+  },
+  {
+    "id": "9d52a3d8c54e3ee7",
+    "title": "Le Parisien узнала, что Сафонов намеренно выбивал мячи в аут в матче ЛЧ",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/1/03/347781555099031.jpeg",
+    "teaser": "Le Parisien узнала, что Сафонов намеренно выбивал мячи в аут в матче ЛЧ",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69fc7a379a79478e5dfd82b1",
+    "publishedAt": "2026-05-07T12:12:36.000Z",
+    "createdAt": "2026-05-07T14:28:52.272Z",
+    "updatedAt": "2026-05-07T14:28:52.272Z"
+  },
+  {
     "id": "f44c3eb1298d265b",
     "title": "Сафонов назвал непростым путь ПСЖ к финалу Лиги чемпионов",
     "sport": "Футбол",
@@ -10,8 +80,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69fc71e59a79470bd3f20814",
     "publishedAt": "2026-05-07T11:39:39.000Z",
-    "createdAt": "2026-05-07T11:52:14.743Z",
-    "updatedAt": "2026-05-07T11:52:14.743Z"
+    "createdAt": "2026-05-07T14:28:53.337Z",
+    "updatedAt": "2026-05-07T14:28:53.337Z"
   },
   {
     "id": "526f0e41e576cb43",
@@ -24,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69fc6cfb9a7947f22e66e66a",
     "publishedAt": "2026-05-07T11:03:20.000Z",
-    "createdAt": "2026-05-07T11:52:15.706Z",
-    "updatedAt": "2026-05-07T11:52:15.706Z"
+    "createdAt": "2026-05-07T14:28:54.283Z",
+    "updatedAt": "2026-05-07T14:28:54.283Z"
   },
   {
     "id": "0647c08ff1a4e5cc",
@@ -38,8 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69fc665a9a79477d30824e44",
     "publishedAt": "2026-05-07T10:54:42.000Z",
-    "createdAt": "2026-05-07T11:52:16.738Z",
-    "updatedAt": "2026-05-07T11:52:16.738Z"
+    "createdAt": "2026-05-07T14:28:55.425Z",
+    "updatedAt": "2026-05-07T14:28:55.425Z"
   },
   {
     "id": "1d2eaf95e73e6728",
@@ -52,8 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69fc5b199a79474e1be625ed",
     "publishedAt": "2026-05-07T10:21:27.000Z",
-    "createdAt": "2026-05-07T11:52:17.701Z",
-    "updatedAt": "2026-05-07T11:52:17.701Z"
+    "createdAt": "2026-05-07T14:28:56.497Z",
+    "updatedAt": "2026-05-07T14:28:56.497Z"
   },
   {
     "id": "22bfab4553e49e7e",
@@ -66,77 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69fc53aa9a7947e35088059b",
     "publishedAt": "2026-05-07T09:17:13.000Z",
-    "createdAt": "2026-05-07T11:52:18.668Z",
-    "updatedAt": "2026-05-07T11:52:18.668Z"
-  },
-  {
-    "id": "434c4dbce664cd40",
-    "title": "Призера Олимпиады из Белоруссии отстранили за положительную допинг-пробу",
-    "sport": "Другое",
-    "category": "Другие",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/3/36/347781429325363.jpeg",
-    "teaser": "Призера Олимпиады из Белоруссии отстранили за положительную допинг-пробу",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69fc4c5b9a7947a1baf5ee7d",
-    "publishedAt": "2026-05-07T08:42:56.000Z",
-    "createdAt": "2026-05-07T11:52:19.704Z",
-    "updatedAt": "2026-05-07T11:52:19.704Z"
-  },
-  {
-    "id": "cba01f0710bf81ca",
-    "title": "Во Франции задержали 127 человек после выхода ПСЖ в финал Лиги чемпионов",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/9/98/347781404688989.jpeg",
-    "teaser": "Во Франции задержали 127 человек после выхода ПСЖ в финал Лиги чемпионов",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69fc3fdf9a79478122d6242c",
-    "publishedAt": "2026-05-07T08:06:30.000Z",
-    "createdAt": "2026-05-07T11:52:20.777Z",
-    "updatedAt": "2026-05-07T11:52:20.777Z"
-  },
-  {
-    "id": "bc6c7d0dcc112fc2",
-    "title": "Трамп на встрече в Белом доме назвал Нурмагомедова особенным бойцом",
-    "sport": "Единоборства",
-    "category": "Единоборства",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/7/59/347781365491597.jpeg",
-    "teaser": "Трамп на встрече в Белом доме назвал Нурмагомедова особенным бойцом",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69fc2ffa9a7947efd56a38e1",
-    "publishedAt": "2026-05-07T07:31:59.000Z",
-    "createdAt": "2026-05-07T11:52:21.776Z",
-    "updatedAt": "2026-05-07T11:52:21.776Z"
-  },
-  {
-    "id": "0d2abd313a5b1d30",
-    "title": "Победитель Лиги чемпионов объявил о завершении карьеры из-за травмы",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/4/34/347781382143344.jpeg",
-    "teaser": "Победитель Лиги чемпионов объявил о завершении карьеры из-за травмы",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69fc388b9a79479c47eaf05a",
-    "publishedAt": "2026-05-07T07:31:39.000Z",
-    "createdAt": "2026-05-07T11:52:22.749Z",
-    "updatedAt": "2026-05-07T11:52:22.749Z"
-  },
-  {
-    "id": "c09354225d476a6d",
-    "title": "Россиянин прервал шестиматчевую серию без очков в плей-офф НХЛ",
-    "sport": "Хоккей",
-    "category": "Хоккей",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/8/49/347781347512498.jpeg",
-    "teaser": "Россиянин прервал шестиматчевую серию без очков в плей-офф НХЛ",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69fc2bd69a7947f0e7792ced",
-    "publishedAt": "2026-05-07T07:10:08.000Z",
-    "createdAt": "2026-05-07T11:52:23.809Z",
-    "updatedAt": "2026-05-07T11:52:23.809Z"
+    "createdAt": "2026-05-07T14:28:57.566Z",
+    "updatedAt": "2026-05-07T14:28:57.566Z"
   }
 ]
