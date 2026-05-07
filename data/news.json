@@ -1,5 +1,61 @@
 [
   {
+    "id": "f612d5ed37928a03",
+    "title": "Умерла победительница чемпионата мира 1961 года по фехтованию",
+    "sport": "Другое",
+    "category": "Другие",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/0/66/347781833681660.jpeg",
+    "teaser": "Умерла победительница чемпионата мира 1961 года по фехтованию",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69fce8389a7947f2ec5afa47",
+    "publishedAt": "2026-05-07T19:57:17.000Z",
+    "createdAt": "2026-05-07T20:18:20.562Z",
+    "updatedAt": "2026-05-07T20:18:20.562Z"
+  },
+  {
+    "id": "5888de51e85775fb",
+    "title": "«Краснодар» сыграет со «Спартаком» в суперфинале Кубка России по футболу",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/3/56/347781823299563.jpeg",
+    "teaser": "«Краснодар» сыграет со «Спартаком» в суперфинале Кубка России по футболу",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69fcc21a9a79476ccaf4e14d",
+    "publishedAt": "2026-05-07T19:55:11.000Z",
+    "createdAt": "2026-05-07T20:18:19.625Z",
+    "updatedAt": "2026-05-07T20:18:19.625Z"
+  },
+  {
+    "id": "797b78149948c699",
+    "title": "Игрок «Реала» частично потерял память после драки с одноклубником",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/8/74/347781814582748.jpeg",
+    "teaser": "Игрок «Реала» частично потерял память после драки с одноклубником",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69fcce249a794771ce5d21c3",
+    "publishedAt": "2026-05-07T19:32:16.000Z",
+    "createdAt": "2026-05-07T20:18:21.592Z",
+    "updatedAt": "2026-05-07T20:18:21.592Z"
+  },
+  {
+    "id": "1bdeffbc79a0363e",
+    "title": "Агент сообщил о предложении из Швейцарии для хоккеиста Евгения Кузнецова",
+    "sport": "Хоккей",
+    "category": "Хоккей",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/5/57/347781793636575.jpeg",
+    "teaser": "Агент сообщил о предложении из Швейцарии для хоккеиста Евгения Кузнецова",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69fcd9729a79479441cb6c4c",
+    "publishedAt": "2026-05-07T19:05:39.000Z",
+    "createdAt": "2026-05-07T20:18:22.579Z",
+    "updatedAt": "2026-05-07T20:18:22.579Z"
+  },
+  {
     "id": "324d1e0c6e9b4c9d",
     "title": "Трамп заявил, что не стал бы платить $1 тыс. за билет на ЧМ‑2026",
     "sport": "Футбол",
@@ -10,8 +66,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69fcc6229a7947c7f6e8863a",
     "publishedAt": "2026-05-07T17:47:25.000Z",
-    "createdAt": "2026-05-07T18:49:05.798Z",
-    "updatedAt": "2026-05-07T18:49:05.798Z"
+    "createdAt": "2026-05-07T20:18:23.595Z",
+    "updatedAt": "2026-05-07T20:18:23.595Z"
   },
   {
     "id": "b8338b9b421a51df",
@@ -24,8 +80,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69fcb9b59a79470b396a8245",
     "publishedAt": "2026-05-07T16:57:04.000Z",
-    "createdAt": "2026-05-07T18:49:06.847Z",
-    "updatedAt": "2026-05-07T18:49:06.847Z"
+    "createdAt": "2026-05-07T20:18:24.614Z",
+    "updatedAt": "2026-05-07T20:18:24.614Z"
   },
   {
     "id": "8b6458c9020878fc",
@@ -38,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69fcb0009a7947089e4d2dd4",
     "publishedAt": "2026-05-07T16:43:29.000Z",
-    "createdAt": "2026-05-07T18:49:07.934Z",
-    "updatedAt": "2026-05-07T18:49:07.934Z"
+    "createdAt": "2026-05-07T20:18:25.623Z",
+    "updatedAt": "2026-05-07T20:18:25.623Z"
   },
   {
     "id": "dc90f9d7f38ec935",
@@ -52,8 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69fcb27e9a79474a61f8d7e6",
     "publishedAt": "2026-05-07T16:21:03.000Z",
-    "createdAt": "2026-05-07T18:49:09.061Z",
-    "updatedAt": "2026-05-07T18:49:09.061Z"
+    "createdAt": "2026-05-07T20:18:26.738Z",
+    "updatedAt": "2026-05-07T20:18:26.738Z"
   },
   {
     "id": "56f80ef510d18bb1",
@@ -66,8 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69fcaeb49a794762bc05a153",
     "publishedAt": "2026-05-07T15:41:59.000Z",
-    "createdAt": "2026-05-07T18:49:10.202Z",
-    "updatedAt": "2026-05-07T18:49:10.202Z"
+    "createdAt": "2026-05-07T20:18:27.770Z",
+    "updatedAt": "2026-05-07T20:18:27.770Z"
   },
   {
     "id": "8b38f692873c7824",
@@ -80,63 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69fca42a9a79479527da98d7",
     "publishedAt": "2026-05-07T15:13:45.000Z",
-    "createdAt": "2026-05-07T18:49:11.277Z",
-    "updatedAt": "2026-05-07T18:49:11.277Z"
-  },
-  {
-    "id": "cb99278cf62cf890",
-    "title": "Дегтярев назвал разочаровывающим решение МОК по восстановлению ОКР",
-    "sport": "Другое",
-    "category": "Другие",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/6/29/347781664960296.jpeg",
-    "teaser": "Дегтярев назвал разочаровывающим решение МОК по восстановлению ОКР",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69fca7339a79474405f7180f",
-    "publishedAt": "2026-05-07T15:12:46.000Z",
-    "createdAt": "2026-05-07T18:49:12.405Z",
-    "updatedAt": "2026-05-07T18:49:12.405Z"
-  },
-  {
-    "id": "98a1f5b3333329b8",
-    "title": "Уголовное дело экс-директора «Торпедо» о подкупе судей направлено в суд",
-    "sport": "Другое",
-    "category": "Другие",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/9/93/347781646060939.jpeg",
-    "teaser": "Уголовное дело экс-директора «Торпедо» о подкупе судей направлено в суд",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69fc9e9a9a7947b893985b05",
-    "publishedAt": "2026-05-07T15:11:21.000Z",
-    "createdAt": "2026-05-07T18:49:13.495Z",
-    "updatedAt": "2026-05-07T18:49:13.495Z"
-  },
-  {
-    "id": "449d81c9abaafdbd",
-    "title": "Футболист «Динамо» в третий раз стал лучшим игроком месяца в РПЛ",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/5/68/347781599653685.jpeg",
-    "teaser": "Футболист «Динамо» в третий раз стал лучшим игроком месяца в РПЛ",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69fc90e99a794764b05e0914",
-    "publishedAt": "2026-05-07T14:29:51.000Z",
-    "createdAt": "2026-05-07T18:49:16.574Z",
-    "updatedAt": "2026-05-07T18:49:16.574Z"
-  },
-  {
-    "id": "f5a7303e694d0c9a",
-    "title": "МОК отказался от санкций против белорусских спортсменов",
-    "sport": "Другое",
-    "category": "Другие",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/2/24/347781654995242.jpeg",
-    "teaser": "МОК отказался от санкций против белорусских спортсменов",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69fc95379a79471eecb98407",
-    "publishedAt": "2026-05-07T13:38:29.000Z",
-    "createdAt": "2026-05-07T18:49:15.452Z",
-    "updatedAt": "2026-05-07T18:49:15.452Z"
+    "createdAt": "2026-05-07T20:18:28.790Z",
+    "updatedAt": "2026-05-07T20:18:28.790Z"
   }
 ]
