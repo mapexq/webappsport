@@ -1,5 +1,47 @@
 [
   {
+    "id": "25c4ff3171e9b715",
+    "title": "«Локомотив» обыграл «Балтику» и обеспечил себе третье место в РПЛ",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/8/03/347784374493038.jpeg",
+    "teaser": "«Локомотив» обыграл «Балтику» и обеспечил себе третье место в РПЛ",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a00b29f9a79473c47c1077f",
+    "publishedAt": "2026-05-10T18:55:53.000Z",
+    "createdAt": "2026-05-10T19:12:48.757Z",
+    "updatedAt": "2026-05-10T19:12:48.757Z"
+  },
+  {
+    "id": "4ffeadad156d8646",
+    "title": "Шнайдер и Андреева стартовали с победы на парном «тысячнике» в Риме",
+    "sport": "Теннис",
+    "category": "Теннис",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/8/79/347784362807798.png",
+    "teaser": "Шнайдер и Андреева стартовали с победы на парном «тысячнике» в Риме",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a00c6c29a7947223eeb6265",
+    "publishedAt": "2026-05-10T18:27:52.000Z",
+    "createdAt": "2026-05-10T19:12:49.786Z",
+    "updatedAt": "2026-05-10T19:12:49.786Z"
+  },
+  {
+    "id": "927d211955d673d7",
+    "title": "В махачкалинском «Динамо» сочли безобразным судейство в матче с «Ахматом»",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/0/37/347784343427370.jpeg",
+    "teaser": "В махачкалинском «Динамо» сочли безобразным судейство в матче с «Ахматом»",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a00bfdc9a79476f8c1ca4a7",
+    "publishedAt": "2026-05-10T18:16:26.000Z",
+    "createdAt": "2026-05-10T19:12:50.752Z",
+    "updatedAt": "2026-05-10T19:12:50.752Z"
+  },
+  {
     "id": "125df18fac820a51",
     "title": "«Сочи» вылетел из РПЛ",
     "sport": "Футбол",
@@ -10,8 +52,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a00a2699a7947dae76af40f",
     "publishedAt": "2026-05-10T16:25:33.000Z",
-    "createdAt": "2026-05-10T17:55:15.978Z",
-    "updatedAt": "2026-05-10T17:55:15.978Z"
+    "createdAt": "2026-05-10T19:12:51.841Z",
+    "updatedAt": "2026-05-10T19:12:51.841Z"
   },
   {
     "id": "5a02c001067775c2",
@@ -24,8 +66,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a00a88c9a7947320383cbda",
     "publishedAt": "2026-05-10T16:05:12.000Z",
-    "createdAt": "2026-05-10T17:55:17.131Z",
-    "updatedAt": "2026-05-10T17:55:17.131Z"
+    "createdAt": "2026-05-10T19:12:52.918Z",
+    "updatedAt": "2026-05-10T19:12:52.918Z"
   },
   {
     "id": "53ed743ca28455ed",
@@ -38,8 +80,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a009ed69a794734370fc7e8",
     "publishedAt": "2026-05-10T15:29:42.000Z",
-    "createdAt": "2026-05-10T17:55:18.327Z",
-    "updatedAt": "2026-05-10T17:55:18.327Z"
+    "createdAt": "2026-05-10T19:12:54.513Z",
+    "updatedAt": "2026-05-10T19:12:54.513Z"
   },
   {
     "id": "d9509d4529675744",
@@ -52,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a009b459a7947ae17aba683",
     "publishedAt": "2026-05-10T15:18:54.000Z",
-    "createdAt": "2026-05-10T17:55:19.488Z",
-    "updatedAt": "2026-05-10T17:55:19.488Z"
+    "createdAt": "2026-05-10T19:12:55.561Z",
+    "updatedAt": "2026-05-10T19:12:55.561Z"
   },
   {
     "id": "ff182a7c9149d22c",
@@ -66,8 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a00949e9a794719b3b83e5e",
     "publishedAt": "2026-05-10T15:11:29.000Z",
-    "createdAt": "2026-05-10T17:55:20.627Z",
-    "updatedAt": "2026-05-10T17:55:20.627Z"
+    "createdAt": "2026-05-10T19:12:56.666Z",
+    "updatedAt": "2026-05-10T19:12:56.666Z"
   },
   {
     "id": "35068b2f13eb0826",
@@ -80,8 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a00883f9a7947b0f0432607",
     "publishedAt": "2026-05-10T14:24:02.000Z",
-    "createdAt": "2026-05-10T17:55:22.930Z",
-    "updatedAt": "2026-05-10T17:55:22.930Z"
+    "createdAt": "2026-05-10T19:12:58.800Z",
+    "updatedAt": "2026-05-10T19:12:58.800Z"
   },
   {
     "id": "a097dabd39a0492d",
@@ -94,49 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a008c1d9a794792fb286341",
     "publishedAt": "2026-05-10T14:09:00.000Z",
-    "createdAt": "2026-05-10T17:55:21.804Z",
-    "updatedAt": "2026-05-10T17:55:21.804Z"
-  },
-  {
-    "id": "f9b3c241e4be10fc",
-    "title": "Капитаном сборной Канады на ЧМ‑2026 стал 19-летний нападающий «Сан-Хосе»",
-    "sport": "Хоккей",
-    "category": "Хоккей",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/6/95/347784203315956.jpeg",
-    "teaser": "Капитаном сборной Канады на ЧМ‑2026 стал 19-летний нападающий «Сан-Хосе»",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a0087419a7947b00cabfc4b",
-    "publishedAt": "2026-05-10T14:01:01.000Z",
-    "createdAt": "2026-05-10T17:55:24.040Z",
-    "updatedAt": "2026-05-10T17:55:24.040Z"
-  },
-  {
-    "id": "3f3fac5770926d6d",
-    "title": "Самсонова проиграла сменившей гражданство Потаповой на «тысячнике» в Риме",
-    "sport": "Теннис",
-    "category": "Теннис",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/3/48/347784192374483.jpeg",
-    "teaser": "Самсонова проиграла сменившей гражданство Потаповой на «тысячнике» в Риме",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a0084499a79470b32906c5a",
-    "publishedAt": "2026-05-10T13:54:59.000Z",
-    "createdAt": "2026-05-10T17:55:25.197Z",
-    "updatedAt": "2026-05-10T17:55:25.197Z"
-  },
-  {
-    "id": "395fdb9cba4d6732",
-    "title": "Фанаты футбольного клуба «Славия» сорвали чемпионство своей команды",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/5/88/347784162815885.jpeg",
-    "teaser": "Фанаты футбольного клуба «Славия» сорвали чемпионство своей команды",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a00746d9a7947f2b934ded9",
-    "publishedAt": "2026-05-10T13:38:01.000Z",
-    "createdAt": "2026-05-10T17:55:26.344Z",
-    "updatedAt": "2026-05-10T17:55:26.344Z"
+    "createdAt": "2026-05-10T19:12:57.729Z",
+    "updatedAt": "2026-05-10T19:12:57.729Z"
   }
 ]
