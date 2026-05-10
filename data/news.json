@@ -1,5 +1,47 @@
 [
   {
+    "id": "501ad3c196dffdd2",
+    "title": "Болельщики «Барселоны» по ошибке закидали камнями автобус своей команды",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/7/67/347784427518677.jpeg",
+    "teaser": "Болельщики «Барселоны» по ошибке закидали камнями автобус своей команды",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a00df389a7947d2ae05cd86",
+    "publishedAt": "2026-05-10T20:08:07.000Z",
+    "createdAt": "2026-05-10T20:55:10.044Z",
+    "updatedAt": "2026-05-10T20:55:10.044Z"
+  },
+  {
+    "id": "a331c59fe1ee928b",
+    "title": "Португальский клуб с россиянином выиграл Лигу чемпионов по футзалу",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/0/85/347784405260850.jpeg",
+    "teaser": "Португальский клуб с россиянином выиграл Лигу чемпионов по футзалу",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a00d6249a7947b4b75f7ce5",
+    "publishedAt": "2026-05-10T19:17:43.000Z",
+    "createdAt": "2026-05-10T20:55:11.182Z",
+    "updatedAt": "2026-05-10T20:55:11.183Z"
+  },
+  {
+    "id": "773eea48ed99ac4c",
+    "title": "Сафонов второй раз подряд остался в запасе ПСЖ на матч чемпионата Франции",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/6/99/347784393348996.jpeg",
+    "teaser": "Сафонов второй раз подряд остался в запасе ПСЖ на матч чемпионата Франции",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a00cf7b9a79479974f564c5",
+    "publishedAt": "2026-05-10T19:15:17.000Z",
+    "createdAt": "2026-05-10T20:55:12.314Z",
+    "updatedAt": "2026-05-10T20:55:12.314Z"
+  },
+  {
     "id": "25c4ff3171e9b715",
     "title": "«Локомотив» обыграл «Балтику» и обеспечил себе третье место в РПЛ",
     "sport": "Футбол",
@@ -10,8 +52,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a00b29f9a79473c47c1077f",
     "publishedAt": "2026-05-10T18:55:53.000Z",
-    "createdAt": "2026-05-10T19:12:48.757Z",
-    "updatedAt": "2026-05-10T19:12:48.757Z"
+    "createdAt": "2026-05-10T20:55:13.470Z",
+    "updatedAt": "2026-05-10T20:55:13.470Z"
   },
   {
     "id": "4ffeadad156d8646",
@@ -24,8 +66,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a00c6c29a7947223eeb6265",
     "publishedAt": "2026-05-10T18:27:52.000Z",
-    "createdAt": "2026-05-10T19:12:49.786Z",
-    "updatedAt": "2026-05-10T19:12:49.786Z"
+    "createdAt": "2026-05-10T20:55:14.589Z",
+    "updatedAt": "2026-05-10T20:55:14.589Z"
   },
   {
     "id": "927d211955d673d7",
@@ -38,8 +80,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a00bfdc9a79476f8c1ca4a7",
     "publishedAt": "2026-05-10T18:16:26.000Z",
-    "createdAt": "2026-05-10T19:12:50.752Z",
-    "updatedAt": "2026-05-10T19:12:50.752Z"
+    "createdAt": "2026-05-10T20:55:15.707Z",
+    "updatedAt": "2026-05-10T20:55:15.707Z"
   },
   {
     "id": "125df18fac820a51",
@@ -52,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a00a2699a7947dae76af40f",
     "publishedAt": "2026-05-10T16:25:33.000Z",
-    "createdAt": "2026-05-10T19:12:51.841Z",
-    "updatedAt": "2026-05-10T19:12:51.841Z"
+    "createdAt": "2026-05-10T20:55:16.850Z",
+    "updatedAt": "2026-05-10T20:55:16.850Z"
   },
   {
     "id": "5a02c001067775c2",
@@ -66,8 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a00a88c9a7947320383cbda",
     "publishedAt": "2026-05-10T16:05:12.000Z",
-    "createdAt": "2026-05-10T19:12:52.918Z",
-    "updatedAt": "2026-05-10T19:12:52.918Z"
+    "createdAt": "2026-05-10T20:55:17.977Z",
+    "updatedAt": "2026-05-10T20:55:17.977Z"
   },
   {
     "id": "53ed743ca28455ed",
@@ -80,8 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a009ed69a794734370fc7e8",
     "publishedAt": "2026-05-10T15:29:42.000Z",
-    "createdAt": "2026-05-10T19:12:54.513Z",
-    "updatedAt": "2026-05-10T19:12:54.513Z"
+    "createdAt": "2026-05-10T20:55:19.197Z",
+    "updatedAt": "2026-05-10T20:55:19.197Z"
   },
   {
     "id": "d9509d4529675744",
@@ -94,49 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a009b459a7947ae17aba683",
     "publishedAt": "2026-05-10T15:18:54.000Z",
-    "createdAt": "2026-05-10T19:12:55.561Z",
-    "updatedAt": "2026-05-10T19:12:55.561Z"
-  },
-  {
-    "id": "ff182a7c9149d22c",
-    "title": "Итальянский клуб Фабрегаса впервые в истории сыграет в еврокубках",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/2/55/347784242114552.jpeg",
-    "teaser": "Итальянский клуб Фабрегаса впервые в истории сыграет в еврокубках",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a00949e9a794719b3b83e5e",
-    "publishedAt": "2026-05-10T15:11:29.000Z",
-    "createdAt": "2026-05-10T19:12:56.666Z",
-    "updatedAt": "2026-05-10T19:12:56.666Z"
-  },
-  {
-    "id": "35068b2f13eb0826",
-    "title": "Шнайдер не смогла выйти в 1/8 финала «тысячника» в Риме",
-    "sport": "Теннис",
-    "category": "Теннис",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/8/70/347784207798708.jpeg",
-    "teaser": "Шнайдер не смогла выйти в 1/8 финала «тысячника» в Риме",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a00883f9a7947b0f0432607",
-    "publishedAt": "2026-05-10T14:24:02.000Z",
-    "createdAt": "2026-05-10T19:12:58.800Z",
-    "updatedAt": "2026-05-10T19:12:58.800Z"
-  },
-  {
-    "id": "a097dabd39a0492d",
-    "title": "«Зенит» обыграл аутсайдера РПЛ и вышел в лидеры чемпионата",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/3/70/347784214882703.jpeg",
-    "teaser": "«Зенит» обыграл аутсайдера РПЛ и вышел в лидеры чемпионата",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a008c1d9a794792fb286341",
-    "publishedAt": "2026-05-10T14:09:00.000Z",
-    "createdAt": "2026-05-10T19:12:57.729Z",
-    "updatedAt": "2026-05-10T19:12:57.729Z"
+    "createdAt": "2026-05-10T20:55:20.331Z",
+    "updatedAt": "2026-05-10T20:55:20.331Z"
   }
 ]
