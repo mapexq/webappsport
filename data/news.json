@@ -1,5 +1,33 @@
 [
   {
+    "id": "125df18fac820a51",
+    "title": "«Сочи» вылетел из РПЛ",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/2/73/347784277208732.jpeg",
+    "teaser": "«Сочи» вылетел из РПЛ",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a00a2699a7947dae76af40f",
+    "publishedAt": "2026-05-10T16:25:33.000Z",
+    "createdAt": "2026-05-10T17:55:15.978Z",
+    "updatedAt": "2026-05-10T17:55:15.978Z"
+  },
+  {
+    "id": "5a02c001067775c2",
+    "title": "Хачанов вышел в 1/8 финала «тысячника» в Риме",
+    "sport": "Теннис",
+    "category": "Теннис",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/2/62/347784285410622.jpeg",
+    "teaser": "Хачанов вышел в 1/8 финала «тысячника» в Риме",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a00a88c9a7947320383cbda",
+    "publishedAt": "2026-05-10T16:05:12.000Z",
+    "createdAt": "2026-05-10T17:55:17.131Z",
+    "updatedAt": "2026-05-10T17:55:17.131Z"
+  },
+  {
     "id": "53ed743ca28455ed",
     "title": "«Шахтер» 16-й раз в истории завоевал титул чемпиона Украины",
     "sport": "Футбол",
@@ -10,8 +38,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a009ed69a794734370fc7e8",
     "publishedAt": "2026-05-10T15:29:42.000Z",
-    "createdAt": "2026-05-10T16:01:47.369Z",
-    "updatedAt": "2026-05-10T16:01:47.369Z"
+    "createdAt": "2026-05-10T17:55:18.327Z",
+    "updatedAt": "2026-05-10T17:55:18.327Z"
   },
   {
     "id": "d9509d4529675744",
@@ -24,8 +52,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a009b459a7947ae17aba683",
     "publishedAt": "2026-05-10T15:18:54.000Z",
-    "createdAt": "2026-05-10T16:01:48.440Z",
-    "updatedAt": "2026-05-10T16:01:48.440Z"
+    "createdAt": "2026-05-10T17:55:19.488Z",
+    "updatedAt": "2026-05-10T17:55:19.488Z"
   },
   {
     "id": "ff182a7c9149d22c",
@@ -38,8 +66,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a00949e9a794719b3b83e5e",
     "publishedAt": "2026-05-10T15:11:29.000Z",
-    "createdAt": "2026-05-10T16:01:49.525Z",
-    "updatedAt": "2026-05-10T16:01:49.525Z"
+    "createdAt": "2026-05-10T17:55:20.627Z",
+    "updatedAt": "2026-05-10T17:55:20.627Z"
   },
   {
     "id": "35068b2f13eb0826",
@@ -52,8 +80,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a00883f9a7947b0f0432607",
     "publishedAt": "2026-05-10T14:24:02.000Z",
-    "createdAt": "2026-05-10T16:01:51.835Z",
-    "updatedAt": "2026-05-10T16:01:51.835Z"
+    "createdAt": "2026-05-10T17:55:22.930Z",
+    "updatedAt": "2026-05-10T17:55:22.930Z"
   },
   {
     "id": "a097dabd39a0492d",
@@ -66,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a008c1d9a794792fb286341",
     "publishedAt": "2026-05-10T14:09:00.000Z",
-    "createdAt": "2026-05-10T16:01:50.714Z",
-    "updatedAt": "2026-05-10T16:01:50.714Z"
+    "createdAt": "2026-05-10T17:55:21.804Z",
+    "updatedAt": "2026-05-10T17:55:21.804Z"
   },
   {
     "id": "f9b3c241e4be10fc",
@@ -80,8 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a0087419a7947b00cabfc4b",
     "publishedAt": "2026-05-10T14:01:01.000Z",
-    "createdAt": "2026-05-10T16:01:52.919Z",
-    "updatedAt": "2026-05-10T16:01:52.919Z"
+    "createdAt": "2026-05-10T17:55:24.040Z",
+    "updatedAt": "2026-05-10T17:55:24.040Z"
   },
   {
     "id": "3f3fac5770926d6d",
@@ -94,8 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a0084499a79470b32906c5a",
     "publishedAt": "2026-05-10T13:54:59.000Z",
-    "createdAt": "2026-05-10T16:01:53.999Z",
-    "updatedAt": "2026-05-10T16:01:53.999Z"
+    "createdAt": "2026-05-10T17:55:25.197Z",
+    "updatedAt": "2026-05-10T17:55:25.197Z"
   },
   {
     "id": "395fdb9cba4d6732",
@@ -108,35 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a00746d9a7947f2b934ded9",
     "publishedAt": "2026-05-10T13:38:01.000Z",
-    "createdAt": "2026-05-10T16:01:55.068Z",
-    "updatedAt": "2026-05-10T16:01:55.068Z"
-  },
-  {
-    "id": "954e0fb83a0b2911",
-    "title": "Иранская теннисистка снялась с финала турнира из-за соперницы из Израиля",
-    "sport": "Теннис",
-    "category": "Теннис",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/1/21/347784185697211.jpeg",
-    "teaser": "Иранская теннисистка снялась с финала турнира из-за соперницы из Израиля",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a007d669a7947368f882ef0",
-    "publishedAt": "2026-05-10T13:30:49.000Z",
-    "createdAt": "2026-05-10T16:01:56.139Z",
-    "updatedAt": "2026-05-10T16:01:56.139Z"
-  },
-  {
-    "id": "9f4b956a0926b64c",
-    "title": "Волков фразой «когда-нибудь закончу выигрывать» оценил победу в UFC",
-    "sport": "Единоборства",
-    "category": "Единоборства",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/9/88/347784014697889.jpeg",
-    "teaser": "Волков фразой «когда-нибудь закончу выигрывать» оценил победу в UFC",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a003f699a79470dea6574fd",
-    "publishedAt": "2026-05-10T08:54:53.000Z",
-    "createdAt": "2026-05-10T16:01:57.446Z",
-    "updatedAt": "2026-05-10T16:01:57.446Z"
+    "createdAt": "2026-05-10T17:55:26.344Z",
+    "updatedAt": "2026-05-10T17:55:26.344Z"
   }
 ]
