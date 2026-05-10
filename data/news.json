@@ -1,5 +1,61 @@
 [
   {
+    "id": "35068b2f13eb0826",
+    "title": "Шнайдер не смогла выйти в 1/8 финала «тысячника» в Риме",
+    "sport": "Теннис",
+    "category": "Теннис",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/8/70/347784207798708.jpeg",
+    "teaser": "Шнайдер не смогла выйти в 1/8 финала «тысячника» в Риме",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a00883f9a7947b0f0432607",
+    "publishedAt": "2026-05-10T14:24:02.000Z",
+    "createdAt": "2026-05-10T14:58:03.905Z",
+    "updatedAt": "2026-05-10T14:58:03.905Z"
+  },
+  {
+    "id": "a097dabd39a0492d",
+    "title": "«Зенит» обыграл аутсайдера РПЛ и вышел в лидеры чемпионата",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/3/70/347784214882703.jpeg",
+    "teaser": "«Зенит» обыграл аутсайдера РПЛ и вышел в лидеры чемпионата",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a008c1d9a794792fb286341",
+    "publishedAt": "2026-05-10T14:09:00.000Z",
+    "createdAt": "2026-05-10T14:58:02.913Z",
+    "updatedAt": "2026-05-10T14:58:02.913Z"
+  },
+  {
+    "id": "f9b3c241e4be10fc",
+    "title": "Капитаном сборной Канады на ЧМ‑2026 стал 19-летний нападающий «Сан-Хосе»",
+    "sport": "Хоккей",
+    "category": "Хоккей",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/6/95/347784203315956.jpeg",
+    "teaser": "Капитаном сборной Канады на ЧМ‑2026 стал 19-летний нападающий «Сан-Хосе»",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a0087419a7947b00cabfc4b",
+    "publishedAt": "2026-05-10T14:01:01.000Z",
+    "createdAt": "2026-05-10T14:58:04.896Z",
+    "updatedAt": "2026-05-10T14:58:04.896Z"
+  },
+  {
+    "id": "3f3fac5770926d6d",
+    "title": "Самсонова проиграла сменившей гражданство Потаповой на «тысячнике» в Риме",
+    "sport": "Теннис",
+    "category": "Теннис",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/3/48/347784192374483.jpeg",
+    "teaser": "Самсонова проиграла сменившей гражданство Потаповой на «тысячнике» в Риме",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a0084499a79470b32906c5a",
+    "publishedAt": "2026-05-10T13:54:59.000Z",
+    "createdAt": "2026-05-10T14:58:05.900Z",
+    "updatedAt": "2026-05-10T14:58:05.900Z"
+  },
+  {
     "id": "395fdb9cba4d6732",
     "title": "Фанаты футбольного клуба «Славия» сорвали чемпионство своей команды",
     "sport": "Футбол",
@@ -10,8 +66,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a00746d9a7947f2b934ded9",
     "publishedAt": "2026-05-10T13:38:01.000Z",
-    "createdAt": "2026-05-10T13:47:10.949Z",
-    "updatedAt": "2026-05-10T13:47:10.949Z"
+    "createdAt": "2026-05-10T14:58:06.944Z",
+    "updatedAt": "2026-05-10T14:58:06.944Z"
   },
   {
     "id": "954e0fb83a0b2911",
@@ -24,8 +80,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a007d669a7947368f882ef0",
     "publishedAt": "2026-05-10T13:30:49.000Z",
-    "createdAt": "2026-05-10T13:47:12.048Z",
-    "updatedAt": "2026-05-10T13:47:12.048Z"
+    "createdAt": "2026-05-10T14:58:07.993Z",
+    "updatedAt": "2026-05-10T14:58:07.993Z"
   },
   {
     "id": "afbb48f409e0f493",
@@ -38,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a0062ba9a79471b61adb8ae",
     "publishedAt": "2026-05-10T12:06:45.000Z",
-    "createdAt": "2026-05-10T13:47:13.107Z",
-    "updatedAt": "2026-05-10T13:47:13.107Z"
+    "createdAt": "2026-05-10T14:58:10.125Z",
+    "updatedAt": "2026-05-10T14:58:10.125Z"
   },
   {
     "id": "b17c20162d46afc2",
@@ -52,8 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a0069ee9a794755958dfe50",
     "publishedAt": "2026-05-10T11:57:22.000Z",
-    "createdAt": "2026-05-10T13:47:15.346Z",
-    "updatedAt": "2026-05-10T13:47:15.346Z"
+    "createdAt": "2026-05-10T14:58:11.178Z",
+    "updatedAt": "2026-05-10T14:58:11.178Z"
   },
   {
     "id": "710329665cee46b9",
@@ -66,36 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a005b289a7947914892f72a",
     "publishedAt": "2026-05-10T11:43:21.000Z",
-    "createdAt": "2026-05-10T13:47:16.380Z",
-    "updatedAt": "2026-05-10T13:47:16.380Z"
-  },
-  {
-    "id": "be61fb51b6420355",
-    "title": "Глава UFC назвал причину поражения Чимаева в титульном бою",
-    "sport": "Единоборства",
-    "category": "Единоборства",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/0/73/347784049659730.jpeg",
-    "teaser": "Глава UFC назвал причину поражения Чимаева в титульном бою",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a004abc9a7947d90dadfffc",
-    "publishedAt": "2026-05-10T10:57:27.000Z",
-    "createdAt": "2026-05-10T13:47:17.485Z",
-    "updatedAt": "2026-05-10T13:47:17.485Z"
-  },
-  {
-    "id": "dd1cb56899c021b1",
-    "title": "«Cпорное судейство». В чем причины поражения Чимаева в бою за титул UFC",
-    "sport": "Единоборства",
-    "category": "Единоборства",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/5/47/347783958651475.jpeg",
-    "teaser": "«Cпорное судейство». В чем причины поражения Чимаева в бою за титул UFC",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a00291e9a7947259971cfa1",
-    "publishedAt": "2026-05-10T09:59:35.000Z",
-    "createdAt": "2026-05-10T13:47:18.636Z",
-    "updatedAt": "2026-05-10T13:47:18.636Z"
+    "createdAt": "2026-05-10T14:58:12.278Z",
+    "updatedAt": "2026-05-10T14:58:12.278Z"
   },
   {
     "id": "9f4b956a0926b64c",
@@ -108,35 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a003f699a79470dea6574fd",
     "publishedAt": "2026-05-10T08:54:53.000Z",
-    "createdAt": "2026-05-10T13:47:14.220Z",
-    "updatedAt": "2026-05-10T13:47:14.220Z"
-  },
-  {
-    "id": "680fc66c053cbefb",
-    "title": "Лучшего российского тяжеловеса в UFC освистали после победы",
-    "sport": "Единоборства",
-    "category": "Единоборства",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/2/49/347784003318492.jpeg",
-    "teaser": "Лучшего российского тяжеловеса в UFC освистали после победы",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a0038809a79475f2f8ce2af",
-    "publishedAt": "2026-05-10T08:46:41.000Z",
-    "createdAt": "2026-05-10T13:47:20.867Z",
-    "updatedAt": "2026-05-10T13:47:20.867Z"
-  },
-  {
-    "id": "a6c72777395e5b3e",
-    "title": "Клуб НХЛ установил рекорд XXI века по числу побед подряд в Кубке Стэнли",
-    "sport": "Хоккей",
-    "category": "Хоккей",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/7/05/347783961795057.jpeg",
-    "teaser": "Клуб НХЛ установил рекорд XXI века по числу побед подряд в Кубке Стэнли",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a0027d59a7947259971cf9a",
-    "publishedAt": "2026-05-10T07:45:19.000Z",
-    "createdAt": "2026-05-10T13:47:19.761Z",
-    "updatedAt": "2026-05-10T13:47:19.761Z"
+    "createdAt": "2026-05-10T14:58:09.079Z",
+    "updatedAt": "2026-05-10T14:58:09.079Z"
   }
 ]
