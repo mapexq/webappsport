@@ -1,5 +1,61 @@
 [
   {
+    "id": "395fdb9cba4d6732",
+    "title": "Фанаты футбольного клуба «Славия» сорвали чемпионство своей команды",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/5/88/347784162815885.jpeg",
+    "teaser": "Фанаты футбольного клуба «Славия» сорвали чемпионство своей команды",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a00746d9a7947f2b934ded9",
+    "publishedAt": "2026-05-10T13:38:01.000Z",
+    "createdAt": "2026-05-10T13:47:10.949Z",
+    "updatedAt": "2026-05-10T13:47:10.949Z"
+  },
+  {
+    "id": "954e0fb83a0b2911",
+    "title": "Иранская теннисистка снялась с финала турнира из-за соперницы из Израиля",
+    "sport": "Теннис",
+    "category": "Теннис",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/1/21/347784185697211.jpeg",
+    "teaser": "Иранская теннисистка снялась с финала турнира из-за соперницы из Израиля",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a007d669a7947368f882ef0",
+    "publishedAt": "2026-05-10T13:30:49.000Z",
+    "createdAt": "2026-05-10T13:47:12.048Z",
+    "updatedAt": "2026-05-10T13:47:12.048Z"
+  },
+  {
+    "id": "afbb48f409e0f493",
+    "title": "Мбаппе не попал в заявку «Реала» на «Эль-Класико»",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/2/20/347784117010202.jpeg",
+    "teaser": "Мбаппе не попал в заявку «Реала» на «Эль-Класико»",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a0062ba9a79471b61adb8ae",
+    "publishedAt": "2026-05-10T12:06:45.000Z",
+    "createdAt": "2026-05-10T13:47:13.107Z",
+    "updatedAt": "2026-05-10T13:47:13.107Z"
+  },
+  {
+    "id": "b17c20162d46afc2",
+    "title": "«Оренбург» обыграл «Крылья Советов» и покинул зону стыковых матчей РПЛ",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/1/90/347784127080901.jpeg",
+    "teaser": "«Оренбург» обыграл «Крылья Советов» и покинул зону стыковых матчей РПЛ",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a0069ee9a794755958dfe50",
+    "publishedAt": "2026-05-10T11:57:22.000Z",
+    "createdAt": "2026-05-10T13:47:15.346Z",
+    "updatedAt": "2026-05-10T13:47:15.346Z"
+  },
+  {
     "id": "710329665cee46b9",
     "title": "На сайте перепродажи ФИФА появились билеты на финал ЧМ-26 за $11,5 млн",
     "sport": "Футбол",
@@ -10,8 +66,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a005b289a7947914892f72a",
     "publishedAt": "2026-05-10T11:43:21.000Z",
-    "createdAt": "2026-05-10T11:56:23.711Z",
-    "updatedAt": "2026-05-10T11:56:23.711Z"
+    "createdAt": "2026-05-10T13:47:16.380Z",
+    "updatedAt": "2026-05-10T13:47:16.380Z"
   },
   {
     "id": "be61fb51b6420355",
@@ -24,8 +80,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a004abc9a7947d90dadfffc",
     "publishedAt": "2026-05-10T10:57:27.000Z",
-    "createdAt": "2026-05-10T11:56:24.673Z",
-    "updatedAt": "2026-05-10T11:56:24.673Z"
+    "createdAt": "2026-05-10T13:47:17.485Z",
+    "updatedAt": "2026-05-10T13:47:17.485Z"
   },
   {
     "id": "dd1cb56899c021b1",
@@ -38,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a00291e9a7947259971cfa1",
     "publishedAt": "2026-05-10T09:59:35.000Z",
-    "createdAt": "2026-05-10T11:56:25.929Z",
-    "updatedAt": "2026-05-10T11:56:25.929Z"
+    "createdAt": "2026-05-10T13:47:18.636Z",
+    "updatedAt": "2026-05-10T13:47:18.636Z"
   },
   {
     "id": "9f4b956a0926b64c",
@@ -52,8 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a003f699a79470dea6574fd",
     "publishedAt": "2026-05-10T08:54:53.000Z",
-    "createdAt": "2026-05-10T11:56:26.958Z",
-    "updatedAt": "2026-05-10T11:56:26.958Z"
+    "createdAt": "2026-05-10T13:47:14.220Z",
+    "updatedAt": "2026-05-10T13:47:14.220Z"
   },
   {
     "id": "680fc66c053cbefb",
@@ -66,22 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a0038809a79475f2f8ce2af",
     "publishedAt": "2026-05-10T08:46:41.000Z",
-    "createdAt": "2026-05-10T11:56:28.144Z",
-    "updatedAt": "2026-05-10T11:56:28.144Z"
-  },
-  {
-    "id": "729122f613d602ba",
-    "title": "Чимаев после проигрыша сообщил UFC о желании сменить весовую категорию",
-    "sport": "Единоборства",
-    "category": "Единоборства",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/7/99/347783982805997.jpeg",
-    "teaser": "Чимаев после проигрыша сообщил UFC о желании сменить весовую категорию",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a002e8b9a7947db6229f2d8",
-    "publishedAt": "2026-05-10T08:15:50.000Z",
-    "createdAt": "2026-05-10T11:56:29.109Z",
-    "updatedAt": "2026-05-10T11:56:29.109Z"
+    "createdAt": "2026-05-10T13:47:20.867Z",
+    "updatedAt": "2026-05-10T13:47:20.867Z"
   },
   {
     "id": "a6c72777395e5b3e",
@@ -94,49 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a0027d59a7947259971cf9a",
     "publishedAt": "2026-05-10T07:45:19.000Z",
-    "createdAt": "2026-05-10T11:56:30.137Z",
-    "updatedAt": "2026-05-10T11:56:30.137Z"
-  },
-  {
-    "id": "d11ec373af95779c",
-    "title": "Капризов возглавил гонку бомбардиров плей-офф НХЛ",
-    "sport": "Хоккей",
-    "category": "Хоккей",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/4/11/347783941160114.jpeg",
-    "teaser": "Капризов возглавил гонку бомбардиров плей-офф НХЛ",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a0020919a7947014ecc6d51",
-    "publishedAt": "2026-05-10T07:39:05.000Z",
-    "createdAt": "2026-05-10T11:56:31.168Z",
-    "updatedAt": "2026-05-10T11:56:31.168Z"
-  },
-  {
-    "id": "2d946bbef12725d7",
-    "title": "Чимаев потерпел «шокирующее» поражение и лишился пояса чемпиона UFC",
-    "sport": "Единоборства",
-    "category": "Единоборства",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/4/17/347783474137174.jpeg",
-    "teaser": "Чимаев потерпел «шокирующее» поражение и лишился пояса чемпиона UFC",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69ff6f189a79474c4de74173",
-    "publishedAt": "2026-05-10T05:27:42.000Z",
-    "createdAt": "2026-05-10T11:56:32.150Z",
-    "updatedAt": "2026-05-10T11:56:32.150Z"
-  },
-  {
-    "id": "bf74e285535aff7e",
-    "title": "Как изменился расклад в чемпионской гонке РПЛ за два тура до финиша",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/5/00/347772216232005.jpeg",
-    "teaser": "Как изменился расклад в чемпионской гонке РПЛ за два тура до финиша",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69ee159c9a7947fe2e50daac",
-    "publishedAt": "2026-05-09T21:00:47.000Z",
-    "createdAt": "2026-05-10T11:56:33.173Z",
-    "updatedAt": "2026-05-10T11:56:33.173Z"
+    "createdAt": "2026-05-10T13:47:19.761Z",
+    "updatedAt": "2026-05-10T13:47:19.761Z"
   }
 ]
