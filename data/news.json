@@ -1,5 +1,19 @@
 [
   {
+    "id": "386dc52040207014",
+    "title": "В Российской премьер-лиге сменился лидер за тур до финиша",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/1/65/347785235346651.jpeg",
+    "teaser": "В Российской премьер-лиге сменился лидер за тур до финиша",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69cd54b49a794778d8729818",
+    "publishedAt": "2026-05-11T19:02:53.000Z",
+    "createdAt": "2026-05-11T20:50:44.786Z",
+    "updatedAt": "2026-05-11T20:50:44.786Z"
+  },
+  {
     "id": "e1d7ae555c25f828",
     "title": "Футболист «Краснодара» повторил рекорд РПЛ по голевым передачам за сезон",
     "sport": "Футбол",
@@ -10,8 +24,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69d3b3c09a794770cbbbf327",
     "publishedAt": "2026-05-11T18:12:31.000Z",
-    "createdAt": "2026-05-11T18:59:55.387Z",
-    "updatedAt": "2026-05-11T18:59:55.387Z"
+    "createdAt": "2026-05-11T20:50:45.905Z",
+    "updatedAt": "2026-05-11T20:50:45.905Z"
   },
   {
     "id": "353dba74db762e88",
@@ -24,8 +38,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69d3745b9a7947d7ca210f13",
     "publishedAt": "2026-05-11T18:04:32.000Z",
-    "createdAt": "2026-05-11T18:59:56.394Z",
-    "updatedAt": "2026-05-11T18:59:56.394Z"
+    "createdAt": "2026-05-11T20:50:47.040Z",
+    "updatedAt": "2026-05-11T20:50:47.040Z"
   },
   {
     "id": "dadf5701bde3f3a7",
@@ -38,8 +52,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69dfaac59a794780c38df107",
     "publishedAt": "2026-05-11T17:34:45.000Z",
-    "createdAt": "2026-05-11T18:59:57.443Z",
-    "updatedAt": "2026-05-11T18:59:57.443Z"
+    "createdAt": "2026-05-11T20:50:48.174Z",
+    "updatedAt": "2026-05-11T20:50:48.174Z"
   },
   {
     "id": "780add254cecc206",
@@ -52,8 +66,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69e1ff999a79472d409c915d",
     "publishedAt": "2026-05-11T17:14:23.000Z",
-    "createdAt": "2026-05-11T18:59:58.579Z",
-    "updatedAt": "2026-05-11T18:59:58.579Z"
+    "createdAt": "2026-05-11T20:50:49.297Z",
+    "updatedAt": "2026-05-11T20:50:49.297Z"
   },
   {
     "id": "8bdcf49d3daedac6",
@@ -66,8 +80,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a020af09a794716ee4472a4",
     "publishedAt": "2026-05-11T17:05:49.000Z",
-    "createdAt": "2026-05-11T18:59:59.563Z",
-    "updatedAt": "2026-05-11T18:59:59.563Z"
+    "createdAt": "2026-05-11T20:50:50.641Z",
+    "updatedAt": "2026-05-11T20:50:50.641Z"
   },
   {
     "id": "e2d2455e1766235b",
@@ -80,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69e8ca409a794748b43ad2f5",
     "publishedAt": "2026-05-11T16:26:07.000Z",
-    "createdAt": "2026-05-11T19:00:00.629Z",
-    "updatedAt": "2026-05-11T19:00:00.629Z"
+    "createdAt": "2026-05-11T20:50:51.824Z",
+    "updatedAt": "2026-05-11T20:50:51.824Z"
   },
   {
     "id": "007689f9304d602e",
@@ -94,8 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69e8a9889a7947518ca8c89d",
     "publishedAt": "2026-05-11T16:18:06.000Z",
-    "createdAt": "2026-05-11T19:00:01.654Z",
-    "updatedAt": "2026-05-11T19:00:01.654Z"
+    "createdAt": "2026-05-11T20:50:52.901Z",
+    "updatedAt": "2026-05-11T20:50:52.901Z"
   },
   {
     "id": "dc0e66619794407c",
@@ -108,8 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69f75dd19a7947112a534f33",
     "publishedAt": "2026-05-11T15:20:41.000Z",
-    "createdAt": "2026-05-11T19:00:02.685Z",
-    "updatedAt": "2026-05-11T19:00:02.685Z"
+    "createdAt": "2026-05-11T20:50:54.027Z",
+    "updatedAt": "2026-05-11T20:50:54.027Z"
   },
   {
     "id": "9b4547c46fe049a6",
@@ -122,21 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69ef28e69a794749a382ed1d",
     "publishedAt": "2026-05-11T15:08:12.000Z",
-    "createdAt": "2026-05-11T19:00:03.735Z",
-    "updatedAt": "2026-05-11T19:00:03.735Z"
-  },
-  {
-    "id": "ac09b01f746fc03b",
-    "title": "ЦСКА вырвал победу у аутсайдера РПЛ, уступая до 88-й минуты",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/1/24/347785066082241.jpeg",
-    "teaser": "ЦСКА вырвал победу у аутсайдера РПЛ, уступая до 88-й минуты",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69f73c799a7947349650f4b8",
-    "publishedAt": "2026-05-11T14:16:52.000Z",
-    "createdAt": "2026-05-11T19:00:04.814Z",
-    "updatedAt": "2026-05-11T19:00:04.814Z"
+    "createdAt": "2026-05-11T20:50:55.162Z",
+    "updatedAt": "2026-05-11T20:50:55.162Z"
   }
 ]
