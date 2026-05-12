@@ -1,5 +1,19 @@
 [
   {
+    "id": "c4a6a7db7ec76317",
+    "title": "В НБА повторили рекорд по набранным очкам за половину матча плей-офф",
+    "sport": "Баскетбол",
+    "category": "Баскетбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/5/24/347785669304245.jpeg",
+    "teaser": "В НБА повторили рекорд по набранным очкам за половину матча плей-офф",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a02c34b9a7947d1091ce09b",
+    "publishedAt": "2026-05-12T07:09:09.000Z",
+    "createdAt": "2026-05-12T07:46:20.273Z",
+    "updatedAt": "2026-05-12T07:46:20.273Z"
+  },
+  {
     "id": "386dc52040207014",
     "title": "В Российской премьер-лиге сменился лидер за тур до финиша",
     "sport": "Футбол",
@@ -10,8 +24,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69cd54b49a794778d8729818",
     "publishedAt": "2026-05-11T19:02:53.000Z",
-    "createdAt": "2026-05-12T04:39:38.213Z",
-    "updatedAt": "2026-05-12T04:39:38.213Z"
+    "createdAt": "2026-05-12T07:46:21.510Z",
+    "updatedAt": "2026-05-12T07:46:21.510Z"
   },
   {
     "id": "e1d7ae555c25f828",
@@ -24,8 +38,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69d3b3c09a794770cbbbf327",
     "publishedAt": "2026-05-11T18:12:31.000Z",
-    "createdAt": "2026-05-12T04:39:39.246Z",
-    "updatedAt": "2026-05-12T04:39:39.246Z"
+    "createdAt": "2026-05-12T07:46:22.654Z",
+    "updatedAt": "2026-05-12T07:46:22.654Z"
   },
   {
     "id": "353dba74db762e88",
@@ -38,8 +52,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69d3745b9a7947d7ca210f13",
     "publishedAt": "2026-05-11T18:04:32.000Z",
-    "createdAt": "2026-05-12T04:39:40.293Z",
-    "updatedAt": "2026-05-12T04:39:40.293Z"
+    "createdAt": "2026-05-12T07:46:23.827Z",
+    "updatedAt": "2026-05-12T07:46:23.827Z"
   },
   {
     "id": "dadf5701bde3f3a7",
@@ -52,8 +66,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69dfaac59a794780c38df107",
     "publishedAt": "2026-05-11T17:34:45.000Z",
-    "createdAt": "2026-05-12T04:39:41.338Z",
-    "updatedAt": "2026-05-12T04:39:41.338Z"
+    "createdAt": "2026-05-12T07:46:24.757Z",
+    "updatedAt": "2026-05-12T07:46:24.757Z"
   },
   {
     "id": "780add254cecc206",
@@ -66,8 +80,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69e1ff999a79472d409c915d",
     "publishedAt": "2026-05-11T17:14:23.000Z",
-    "createdAt": "2026-05-12T04:39:42.414Z",
-    "updatedAt": "2026-05-12T04:39:42.414Z"
+    "createdAt": "2026-05-12T07:46:25.909Z",
+    "updatedAt": "2026-05-12T07:46:25.909Z"
   },
   {
     "id": "8bdcf49d3daedac6",
@@ -80,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a020af09a794716ee4472a4",
     "publishedAt": "2026-05-11T17:05:49.000Z",
-    "createdAt": "2026-05-12T04:39:43.431Z",
-    "updatedAt": "2026-05-12T04:39:43.431Z"
+    "createdAt": "2026-05-12T07:46:27.181Z",
+    "updatedAt": "2026-05-12T07:46:27.181Z"
   },
   {
     "id": "e2d2455e1766235b",
@@ -94,8 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69e8ca409a794748b43ad2f5",
     "publishedAt": "2026-05-11T16:26:07.000Z",
-    "createdAt": "2026-05-12T04:39:44.576Z",
-    "updatedAt": "2026-05-12T04:39:44.576Z"
+    "createdAt": "2026-05-12T07:46:28.450Z",
+    "updatedAt": "2026-05-12T07:46:28.450Z"
   },
   {
     "id": "007689f9304d602e",
@@ -108,8 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69e8a9889a7947518ca8c89d",
     "publishedAt": "2026-05-11T16:18:06.000Z",
-    "createdAt": "2026-05-12T04:39:45.584Z",
-    "updatedAt": "2026-05-12T04:39:45.584Z"
+    "createdAt": "2026-05-12T07:46:29.662Z",
+    "updatedAt": "2026-05-12T07:46:29.662Z"
   },
   {
     "id": "dc0e66619794407c",
@@ -122,21 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69f75dd19a7947112a534f33",
     "publishedAt": "2026-05-11T15:20:41.000Z",
-    "createdAt": "2026-05-12T04:39:46.641Z",
-    "updatedAt": "2026-05-12T04:39:46.641Z"
-  },
-  {
-    "id": "9b4547c46fe049a6",
-    "title": "УЕФА назвал судей на финалы еврокубков",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/3/33/347785115937333.jpeg",
-    "teaser": "УЕФА назвал судей на финалы еврокубков",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69ef28e69a794749a382ed1d",
-    "publishedAt": "2026-05-11T15:08:12.000Z",
-    "createdAt": "2026-05-12T04:39:47.773Z",
-    "updatedAt": "2026-05-12T04:39:47.773Z"
+    "createdAt": "2026-05-12T07:46:30.827Z",
+    "updatedAt": "2026-05-12T07:46:30.827Z"
   }
 ]
