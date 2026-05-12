@@ -1,5 +1,61 @@
 [
   {
+    "id": "8d429874874e065e",
+    "title": "В «Реале» заявили, что футболисты в клубе дерутся регулярно",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/0/51/347786094979510.jpeg",
+    "teaser": "В «Реале» заявили, что футболисты в клубе дерутся регулярно",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a0369279a79471f8cb4f6bf",
+    "publishedAt": "2026-05-12T18:22:58.000Z",
+    "createdAt": "2026-05-12T19:00:24.151Z",
+    "updatedAt": "2026-05-12T19:00:24.151Z"
+  },
+  {
+    "id": "327fe3eed7d8042f",
+    "title": "Рублев вышел в 1/4 финала «Мастерс» в Риме, где сыграет с Синнером",
+    "sport": "Теннис",
+    "category": "Теннис",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/7/37/347786039140377.jpeg",
+    "teaser": "Рублев вышел в 1/4 финала «Мастерс» в Риме, где сыграет с Синнером",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a0355c79a79471ea27193aa",
+    "publishedAt": "2026-05-12T17:42:15.000Z",
+    "createdAt": "2026-05-12T19:00:25.123Z",
+    "updatedAt": "2026-05-12T19:00:25.123Z"
+  },
+  {
+    "id": "789b53f2646f00af",
+    "title": "В «Питтсбурге» заявили о желании продлить контракт с Малкиным",
+    "sport": "Хоккей",
+    "category": "Хоккей",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/8/25/347786067371258.jpeg",
+    "teaser": "В «Питтсбурге» заявили о желании продлить контракт с Малкиным",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a035e249a7947449f644761",
+    "publishedAt": "2026-05-12T17:34:06.000Z",
+    "createdAt": "2026-05-12T19:00:26.156Z",
+    "updatedAt": "2026-05-12T19:00:26.156Z"
+  },
+  {
+    "id": "be6c9782a9e59246",
+    "title": "Путин поручил заняться популяризацией самбо среди россиян",
+    "sport": "Единоборства",
+    "category": "Единоборства",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/5/51/347786050422515.jpeg",
+    "teaser": "Путин поручил заняться популяризацией самбо среди россиян",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a0359bb9a7947f272f2c8f7",
+    "publishedAt": "2026-05-12T17:06:14.000Z",
+    "createdAt": "2026-05-12T19:00:27.107Z",
+    "updatedAt": "2026-05-12T19:00:27.107Z"
+  },
+  {
     "id": "377592c144dd1fab",
     "title": "Вратаря «Пари НН» пригласили на заседание КДК после критики фанатов",
     "sport": "Футбол",
@@ -10,8 +66,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a03484b9a79477da4dd8e20",
     "publishedAt": "2026-05-12T15:59:10.000Z",
-    "createdAt": "2026-05-12T16:24:16.156Z",
-    "updatedAt": "2026-05-12T16:24:16.156Z"
+    "createdAt": "2026-05-12T19:00:28.126Z",
+    "updatedAt": "2026-05-12T19:00:28.126Z"
   },
   {
     "id": "3f749335e982c6ac",
@@ -24,8 +80,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a033b339a79475b7a8146d7",
     "publishedAt": "2026-05-12T15:27:26.000Z",
-    "createdAt": "2026-05-12T16:24:17.097Z",
-    "updatedAt": "2026-05-12T16:24:17.097Z"
+    "createdAt": "2026-05-12T19:00:29.077Z",
+    "updatedAt": "2026-05-12T19:00:29.077Z"
   },
   {
     "id": "5ff7a02d0367b085",
@@ -38,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a033d019a79478523677e6b",
     "publishedAt": "2026-05-12T15:19:40.000Z",
-    "createdAt": "2026-05-12T16:24:18.103Z",
-    "updatedAt": "2026-05-12T16:24:18.103Z"
+    "createdAt": "2026-05-12T19:00:30.031Z",
+    "updatedAt": "2026-05-12T19:00:30.031Z"
   },
   {
     "id": "23dc105a48ab4ddd",
@@ -52,8 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a032c1a9a794754a38b9e4b",
     "publishedAt": "2026-05-12T14:38:43.000Z",
-    "createdAt": "2026-05-12T16:24:19.138Z",
-    "updatedAt": "2026-05-12T16:24:19.138Z"
+    "createdAt": "2026-05-12T19:00:30.977Z",
+    "updatedAt": "2026-05-12T19:00:30.977Z"
   },
   {
     "id": "c366bd057d01b4e3",
@@ -66,22 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a0334d69a79476af8aea7c4",
     "publishedAt": "2026-05-12T14:36:50.000Z",
-    "createdAt": "2026-05-12T16:24:21.164Z",
-    "updatedAt": "2026-05-12T16:24:21.164Z"
-  },
-  {
-    "id": "eb18c6ba4ceaae66",
-    "title": "Серхио Рамос стал совладельцем «Севильи»",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/6/83/347785946251836.jpeg",
-    "teaser": "Серхио Рамос стал совладельцем «Севильи»",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a0330259a79474a51d8b96b",
-    "publishedAt": "2026-05-12T14:22:47.000Z",
-    "createdAt": "2026-05-12T16:24:22.115Z",
-    "updatedAt": "2026-05-12T16:24:22.115Z"
+    "createdAt": "2026-05-12T19:00:32.978Z",
+    "updatedAt": "2026-05-12T19:00:32.978Z"
   },
   {
     "id": "96377f7f24dbfe64",
@@ -94,49 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a0324d59a7947723612aa82",
     "publishedAt": "2026-05-12T14:02:48.000Z",
-    "createdAt": "2026-05-12T16:24:20.158Z",
-    "updatedAt": "2026-05-12T16:24:20.158Z"
-  },
-  {
-    "id": "4aae10015a857f3c",
-    "title": "Экс-капитана «Барселоны» Пике оштрафовали за незаконную торговлю акциями",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/1/57/347785894686571.jpeg",
-    "teaser": "Экс-капитана «Барселоны» Пике оштрафовали за незаконную торговлю акциями",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a031ba79a79479b66118094",
-    "publishedAt": "2026-05-12T13:39:06.000Z",
-    "createdAt": "2026-05-12T16:24:23.149Z",
-    "updatedAt": "2026-05-12T16:24:23.150Z"
-  },
-  {
-    "id": "51795d238f69eccc",
-    "title": "«Барселона» продлит контракт с тренером до 2028 года",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/4/21/347785875454214.jpeg",
-    "teaser": "«Барселона» продлит контракт с тренером до 2028 года",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a03109b9a7947943e3cae23",
-    "publishedAt": "2026-05-12T12:28:48.000Z",
-    "createdAt": "2026-05-12T16:24:24.167Z",
-    "updatedAt": "2026-05-12T16:24:24.167Z"
-  },
-  {
-    "id": "ebad3b09523b038f",
-    "title": "Двукратная олимпийская чемпионка по велогонкам ушла из спорта",
-    "sport": "Другое",
-    "category": "Другие",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/8/26/347785852391268.jpeg",
-    "teaser": "Двукратная олимпийская чемпионка по велогонкам ушла из спорта",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a030ba49a7947a7f3eff955",
-    "publishedAt": "2026-05-12T12:00:22.000Z",
-    "createdAt": "2026-05-12T16:24:25.225Z",
-    "updatedAt": "2026-05-12T16:24:25.225Z"
+    "createdAt": "2026-05-12T19:00:31.992Z",
+    "updatedAt": "2026-05-12T19:00:31.992Z"
   }
 ]

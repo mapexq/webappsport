@@ -1,6 +1,6 @@
 [
   {
-    "id": 1778603051131,
+    "id": 1778612419131,
     "eventName": "Матч",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -16,7 +16,7 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1778603051133,
+    "id": 1778612419132,
     "eventName": "Матч",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -32,7 +32,7 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1778603051134,
+    "id": 1778612419133,
     "eventName": "Матч",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -48,7 +48,7 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1778603051135,
+    "id": 1778612419134,
     "eventName": "Матч",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -64,7 +64,7 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1778603051136,
+    "id": 1778612419135,
     "eventName": "Сельта — Леванте",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -80,7 +80,7 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1778603051137,
+    "id": 1778612419136,
     "eventName": "Сельта — Леванте",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -96,7 +96,7 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1778603051138,
+    "id": 1778612419137,
     "eventName": "Сельта — Леванте",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -112,7 +112,7 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1778603051139,
+    "id": 1778612419138,
     "eventName": "Сельта — Леванте",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -128,23 +128,23 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1778603051140,
-    "eventName": "Кори Гауфф — Мирра Андреева",
+    "id": 1778612419139,
+    "eventName": "Хапоэль Тель-Авив — Хапоэль Петах-Тиква",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
     "expert": {
-      "name": "Павел Кириченко",
-      "avatar": "https://wp0.bookmaker-ratings.ru/bookmaker-ratings.ru/wp-content/uploads/2023/11/Kirichenko.png?ssl=1&w=60",
+      "name": "Дмитрий Фролов",
+      "avatar": "https://wp0.bookmaker-ratings.ru/bookmaker-ratings.ru/wp-content/uploads/2026/01/1c52db2f-f4b1-4db8-8df1-d6c6410b85c6-rb-webp-696931330fe22-696931331d86c.webp?ssl=1&w=60",
       "status": "expert",
       "winRate": 78
     },
-    "prediction": "Брейки ТБ(6.5)",
-    "odds": 1.73,
-    "comment": "Кори Гауфф и Мирра Андреева встретятся на турнире WTA в Риме. В Риме классический европейский грунт, довольно медленный. Подача здесь не даёт весомого преимущества, впрочем и на более быстрых покрытиях от этой пары вряд ли можно ожидать стабильных холдов своих подач. Гауфф свои последние два матча в Риме закатывала трехсетовики с огромным количеством брейков. Весьма вероятно, что американка может втянуть в похожий матч и Мирру. В прошлом сезоне девушки дважды встречались на грунте и дважды тотал 6,5 брейка пробивали в двух сетах. Предлагаю поставить на такой исход и в их предстоящей встрече.",
+    "prediction": "Забьёт Хапоэль Петах-Тиква (Нет)",
+    "odds": 2.37,
+    "comment": "Не знаю что да как у них, но кажется по именам гости аутсайдер явный",
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1778603051141,
+    "id": 1778612419141,
     "eventName": "Осасуна — Атлетико Мадрид",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
