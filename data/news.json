@@ -1,5 +1,89 @@
 [
   {
+    "id": "51795d238f69eccc",
+    "title": "«Барселона» продлит контракт с тренером до 2028 года",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/4/21/347785875454214.jpeg",
+    "teaser": "«Барселона» продлит контракт с тренером до 2028 года",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a03109b9a7947943e3cae23",
+    "publishedAt": "2026-05-12T12:28:48.000Z",
+    "createdAt": "2026-05-12T13:07:33.115Z",
+    "updatedAt": "2026-05-12T13:07:33.115Z"
+  },
+  {
+    "id": "ebad3b09523b038f",
+    "title": "Двукратная олимпийская чемпионка по велогонкам ушла из спорта",
+    "sport": "Другое",
+    "category": "Другие",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/8/26/347785852391268.jpeg",
+    "teaser": "Двукратная олимпийская чемпионка по велогонкам ушла из спорта",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a030ba49a7947a7f3eff955",
+    "publishedAt": "2026-05-12T12:00:22.000Z",
+    "createdAt": "2026-05-12T13:07:34.134Z",
+    "updatedAt": "2026-05-12T13:07:34.134Z"
+  },
+  {
+    "id": "be5d7fa0551f9d24",
+    "title": "КХЛ объявила претендентов на приз лучшему игроку регулярного чемпионата",
+    "sport": "Хоккей",
+    "category": "Хоккей",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/2/19/347785839843192.jpeg",
+    "teaser": "КХЛ объявила претендентов на приз лучшему игроку регулярного чемпионата",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a0302049a794760584ed693",
+    "publishedAt": "2026-05-12T11:17:30.000Z",
+    "createdAt": "2026-05-12T13:07:35.192Z",
+    "updatedAt": "2026-05-12T13:07:35.192Z"
+  },
+  {
+    "id": "d1b444a5396ef3b5",
+    "title": "Правительство утвердило выплаты призерам Олимпиады-2026",
+    "sport": "Другое",
+    "category": "Другие",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/2/53/347785828903532.jpeg",
+    "teaser": "Правительство утвердило выплаты призерам Олимпиады-2026",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a0303589a794718a4df03b9",
+    "publishedAt": "2026-05-12T11:08:45.000Z",
+    "createdAt": "2026-05-12T13:07:36.230Z",
+    "updatedAt": "2026-05-12T13:07:36.230Z"
+  },
+  {
+    "id": "5de9e9cfbc84c0c1",
+    "title": "Минское «Динамо» продлило контракт с рекордсменом КХЛ Лиможем",
+    "sport": "Хоккей",
+    "category": "Хоккей",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/9/77/347785818359779.jpeg",
+    "teaser": "Минское «Динамо» продлило контракт с рекордсменом КХЛ Лиможем",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a02ff939a7947ca65963834",
+    "publishedAt": "2026-05-12T10:42:41.000Z",
+    "createdAt": "2026-05-12T13:07:37.254Z",
+    "updatedAt": "2026-05-12T13:07:37.254Z"
+  },
+  {
+    "id": "b0e68291415bca8b",
+    "title": "Илья Малинин допустил, что на год уйдет из фигурного катания",
+    "sport": "Другое",
+    "category": "Фигурное катание",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/1/10/347785808164101.jpeg",
+    "teaser": "Илья Малинин допустил, что на год уйдет из фигурного катания",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a02f9c89a79473ddb8da881",
+    "publishedAt": "2026-05-12T10:35:17.000Z",
+    "createdAt": "2026-05-12T13:07:38.595Z",
+    "updatedAt": "2026-05-12T13:07:38.595Z"
+  },
+  {
     "id": "4d05c1777f9b572f",
     "title": "Карпин вызвал в сборную России капитана юношеского «Манчестер Юнайтед»",
     "sport": "Футбол",
@@ -10,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a02ed1e9a7947dca56e49ef",
     "publishedAt": "2026-05-12T09:22:56.000Z",
-    "createdAt": "2026-05-12T10:37:17.215Z",
-    "updatedAt": "2026-05-12T10:37:17.215Z"
+    "createdAt": "2026-05-12T13:07:39.939Z",
+    "updatedAt": "2026-05-12T13:07:39.939Z"
   },
   {
     "id": "b86fd7198d5c98ee",
@@ -24,8 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a02e5b29a7947193fe7f396",
     "publishedAt": "2026-05-12T09:15:48.000Z",
-    "createdAt": "2026-05-12T10:37:18.104Z",
-    "updatedAt": "2026-05-12T10:37:18.104Z"
+    "createdAt": "2026-05-12T13:07:40.971Z",
+    "updatedAt": "2026-05-12T13:07:40.971Z"
   },
   {
     "id": "b51c1f4834a2b518",
@@ -38,8 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a02e13b9a794741a2036e0f",
     "publishedAt": "2026-05-12T09:02:54.000Z",
-    "createdAt": "2026-05-12T10:37:19.272Z",
-    "updatedAt": "2026-05-12T10:37:19.272Z"
+    "createdAt": "2026-05-12T13:07:42.019Z",
+    "updatedAt": "2026-05-12T13:07:42.019Z"
   },
   {
     "id": "f26ff6d08ef73831",
@@ -52,91 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a02d7ff9a79478ef595bf21",
     "publishedAt": "2026-05-12T08:23:36.000Z",
-    "createdAt": "2026-05-12T10:37:20.187Z",
-    "updatedAt": "2026-05-12T10:37:20.187Z"
-  },
-  {
-    "id": "61da9235477a4cb0",
-    "title": "Овечкин получил степень кандидата педагогических наук",
-    "sport": "Хоккей",
-    "category": "Хоккей",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/7/15/347785730340157.jpeg",
-    "teaser": "Овечкин получил степень кандидата педагогических наук",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a02dcde9a79479f221bed5c",
-    "publishedAt": "2026-05-12T08:17:34.000Z",
-    "createdAt": "2026-05-12T10:37:21.121Z",
-    "updatedAt": "2026-05-12T10:37:21.121Z"
-  },
-  {
-    "id": "341cb1a05c3d5e8d",
-    "title": "В «Динамо» назвали причину эвакуации арены после матча с «Краснодаром»",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/4/80/347785710593804.jpeg",
-    "teaser": "В «Динамо» назвали причину эвакуации арены после матча с «Краснодаром»",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a02d4799a79479eb2ec93cf",
-    "publishedAt": "2026-05-12T07:41:57.000Z",
-    "createdAt": "2026-05-12T10:37:22.091Z",
-    "updatedAt": "2026-05-12T10:37:22.091Z"
-  },
-  {
-    "id": "10b1db89b0a1f85f",
-    "title": "Два игрока «Зенита» вошли в расширенный состав сборной Бразилии на ЧМ",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/8/89/347785699169898.jpeg",
-    "teaser": "Два игрока «Зенита» вошли в расширенный состав сборной Бразилии на ЧМ",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a02c8bc9a79476b1653958a",
-    "publishedAt": "2026-05-12T07:37:41.000Z",
-    "createdAt": "2026-05-12T10:37:23.101Z",
-    "updatedAt": "2026-05-12T10:37:23.101Z"
-  },
-  {
-    "id": "c4a6a7db7ec76317",
-    "title": "В НБА повторили рекорд по набранным очкам за половину матча плей-офф",
-    "sport": "Баскетбол",
-    "category": "Баскетбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/5/24/347785669304245.jpeg",
-    "teaser": "В НБА повторили рекорд по набранным очкам за половину матча плей-офф",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a02c34b9a7947d1091ce09b",
-    "publishedAt": "2026-05-12T07:09:09.000Z",
-    "createdAt": "2026-05-12T10:37:24.103Z",
-    "updatedAt": "2026-05-12T10:37:24.103Z"
-  },
-  {
-    "id": "386dc52040207014",
-    "title": "В Российской премьер-лиге сменился лидер за тур до финиша",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/1/65/347785235346651.jpeg",
-    "teaser": "В Российской премьер-лиге сменился лидер за тур до финиша",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69cd54b49a794778d8729818",
-    "publishedAt": "2026-05-11T19:02:53.000Z",
-    "createdAt": "2026-05-12T10:37:25.119Z",
-    "updatedAt": "2026-05-12T10:37:25.119Z"
-  },
-  {
-    "id": "e1d7ae555c25f828",
-    "title": "Футболист «Краснодара» повторил рекорд РПЛ по голевым передачам за сезон",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/4/14/347785229422144.jpeg",
-    "teaser": "Футболист «Краснодара» повторил рекорд РПЛ по голевым передачам за сезон",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69d3b3c09a794770cbbbf327",
-    "publishedAt": "2026-05-11T18:12:31.000Z",
-    "createdAt": "2026-05-12T10:37:26.203Z",
-    "updatedAt": "2026-05-12T10:37:26.203Z"
+    "createdAt": "2026-05-12T13:07:43.096Z",
+    "updatedAt": "2026-05-12T13:07:43.096Z"
   }
 ]
