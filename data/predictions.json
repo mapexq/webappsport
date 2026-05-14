@@ -1,6 +1,6 @@
 [
   {
-    "id": 1778734191200,
+    "id": 1778744753844,
     "eventName": "Матч",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -16,7 +16,7 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1778734191201,
+    "id": 1778744753845,
     "eventName": "Матч",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -32,7 +32,7 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1778734191202,
+    "id": 1778744753846,
     "eventName": "Матч",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -48,7 +48,7 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1778734191203,
+    "id": 1778744753847,
     "eventName": "Матч",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -64,71 +64,87 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1778734191204,
-    "eventName": "Колорадо — Миннесота",
-    "discipline": "Хоккей",
-    "tournament": "НХЛ",
-    "expert": {
-      "name": "Михаил Брагин",
-      "avatar": "https://wp0.bookmaker-ratings.ru/bookmaker-ratings.ru/wp-content/uploads/2026/05/x_c13abee4-rb-webp-6a04f4763c60c-6a04f4763f791.webp?ssl=1&w=60",
-      "status": "expert",
-      "winRate": 69
-    },
-    "prediction": "Индивидуальный тотал 1 Больше (3.5)",
-    "odds": 1.85,
-    "comment": "Дома игра будет яркой шайб будет много предпологаю что уже в первом периоде 2:0 тотол 3,5 рик. Но риски всегда оправдываются",
-    "source": "Sports Analytics Pro"
-  },
-  {
-    "id": 1778734191205,
-    "eventName": "Ланс — ПСЖ",
+    "id": 1778744753848,
+    "eventName": "Ростов — Зенит",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
     "expert": {
-      "name": "Алим Калибатов",
-      "avatar": "https://wp0.bookmaker-ratings.ru/bookmaker-ratings.ru/wp-content/uploads/2026/04/3dcfa3e614753a9566b9342464293-rb-webp-69d34c667554e-69d34c667cd17.webp?ssl=1&w=60",
+      "name": "Иван Ермолаев",
+      "avatar": "https://bookmaker-ratings.ru/static/images/badges/is-kapper.svg?v=30092024",
       "status": "expert",
-      "winRate": 73
+      "winRate": 78
     },
-    "prediction": "Тотал (3.5) М",
-    "odds": 1.7,
-    "comment": "\"Ланс\" себе гарантировал серебряные медали и ПСЖ уже де-факто чемпион. Ну и с учетом того что предстоит финал ЛЧ, не исключаю ротацию, дабы поберечь игроков основного состава. Да и хозяевам еще играть финал Кубка Франции, уверен, что обе команды уже будут играть с оглядкой на свои важнейшие матчи в концовке сезона. Думаю, много голов здесь мы не увидим, на ТМ (3.5) дают 1.70. Его и беру.",
+    "prediction": "Индивидуальный тотал 2 Больше (1.5)",
+    "odds": 1.56,
+    "comment": "потому что Зенит в борьбе за чемпионство должен быть очень заряжен на высокий темп и также команда из Петербурга обязана забить несколько голов ростовчанам",
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1778734191206,
-    "eventName": "Сочи — Ахмат",
+    "id": 1778744753849,
+    "eventName": "ЦСКА Москва — Локомотив Москва",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
     "expert": {
-      "name": "Олег Промокодкин",
+      "name": "Артур Садыков",
+      "avatar": "https://bookmaker-ratings.ru/static/images/badges/is-kapper.svg?v=30092024",
+      "status": "expert",
+      "winRate": 79
+    },
+    "prediction": "Обе забьют - Да",
+    "odds": 1.71,
+    "comment": "В московском дерби ни одна команда не должна остаться без гола",
+    "source": "Sports Analytics Pro"
+  },
+  {
+    "id": 1778744753851,
+    "eventName": "Крылья Советов — Акрон",
+    "discipline": "Футбол",
+    "tournament": "Чемпионат",
+    "expert": {
+      "name": "Крылья Советов",
       "avatar": "https://bookmaker-ratings.ru/static/images/badges/is-kapper.svg?v=30092024",
       "status": "expert",
       "winRate": 83
     },
-    "prediction": "Обе забьют - Да",
-    "odds": 1.72,
-    "comment": "В последнее время команды не уходят с поля без забитых мячей",
+    "prediction": "Тотал меньше (2.5)",
+    "odds": 1.9,
+    "comment": "Жду низовой футбол с минимальным количеством голов.",
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1778734191207,
-    "eventName": "Краснодар — Оренбург",
+    "id": 1778744753852,
+    "eventName": "Сочи — Ахмат",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
     "expert": {
-      "name": "Вадя Склютов",
+      "name": "Алексей Новиков",
       "avatar": "https://bookmaker-ratings.ru/static/images/badges/is-kapper.svg?v=30092024",
       "status": "expert",
-      "winRate": 87
+      "winRate": 78
     },
-    "prediction": "Индивидуальный тотал 1 Больше (2.5)",
-    "odds": 2.3,
-    "comment": "Краснодар всю злость спустит на бедную оренбкрскую команду",
+    "prediction": "Ничья",
+    "odds": 3.72,
+    "comment": "Никто уже не решает турнирных задач. Видится ничья.",
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1778734191208,
+    "id": 1778744753853,
+    "eventName": "Крылья Советов — Акрон",
+    "discipline": "Футбол",
+    "tournament": "Чемпионат",
+    "expert": {
+      "name": "Олег Антипичев",
+      "avatar": "https://bookmaker-ratings.ru/static/images/badges/is-kapper.svg?v=30092024",
+      "status": "expert",
+      "winRate": 89
+    },
+    "prediction": "Ничья",
+    "odds": 3.55,
+    "comment": "Борьба за непопадание в стыковые матчи. Акрон должен забивать, а Крылья порадуют своих болельщиков и разойдутся миром.",
+    "source": "Sports Analytics Pro"
+  },
+  {
+    "id": 1778744753854,
     "eventName": "Сочи — Ахмат",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -140,23 +156,7 @@
     },
     "prediction": "Тотал Сочи больше (2)",
     "odds": 4.35,
-    "comment": "Как правило вылетевшая команда должна хлопнуть дверью. Сочи Тота больше 1,5",
-    "source": "Sports Analytics Pro"
-  },
-  {
-    "id": 1778734191209,
-    "eventName": "Крылья Советов — Акрон",
-    "discipline": "Футбол",
-    "tournament": "Чемпионат",
-    "expert": {
-      "name": "Алексей Чиряков",
-      "avatar": "https://bookmaker-ratings.ru/static/images/badges/is-kapper.svg?v=30092024",
-      "status": "expert",
-      "winRate": 83
-    },
-    "prediction": "Тотал больше (3.5)",
-    "odds": 3.2,
-    "comment": "Самарское дерби должны показать красивый забивной футбол. Ура каникулы.Т. Б 3.5",
+    "comment": "Как правило Сочи должен хлопнуть дверью. Здравствуй. Первая лига.",
     "source": "Sports Analytics Pro"
   }
 ]
