@@ -1,5 +1,47 @@
 [
   {
+    "id": "72f997b007197048",
+    "title": "В Иране заявили, что проблема с визами в США на ЧМ-2026 еще не решена",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/4/83/347787912410834.jpeg",
+    "teaser": "В Иране заявили, что проблема с визами в США на ЧМ-2026 еще не решена",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a061c8b9a7947392a003cd8",
+    "publishedAt": "2026-05-14T20:54:35.000Z",
+    "createdAt": "2026-05-14T21:16:47.046Z",
+    "updatedAt": "2026-05-14T21:16:47.046Z"
+  },
+  {
+    "id": "8e412a594622603d",
+    "title": "Медведев вышел в полуфинал турнира «Мастерс», где встретится с Синнером",
+    "sport": "Теннис",
+    "category": "Теннис",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/9/29/347787848295299.jpeg",
+    "teaser": "Медведев вышел в полуфинал турнира «Мастерс», где встретится с Синнером",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a060f9a9a7947b2265cd1ce",
+    "publishedAt": "2026-05-14T20:08:41.000Z",
+    "createdAt": "2026-05-14T21:16:48.160Z",
+    "updatedAt": "2026-05-14T21:16:48.160Z"
+  },
+  {
+    "id": "1a777de288ccf9bc",
+    "title": "Конкурент Сафонова в ПСЖ не попал в состав сборной Франции на ЧМ-2026",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/6/04/347787868868046.jpeg",
+    "teaser": "Конкурент Сафонова в ПСЖ не попал в состав сборной Франции на ЧМ-2026",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a061f3f9a79473ebe995e6b",
+    "publishedAt": "2026-05-14T19:51:35.000Z",
+    "createdAt": "2026-05-14T21:16:49.270Z",
+    "updatedAt": "2026-05-14T21:16:49.270Z"
+  },
+  {
     "id": "94f2a7365bec3852",
     "title": "Лучший снайпер КХЛ подписал трехлетний контракт в НХЛ",
     "sport": "Хоккей",
@@ -10,8 +52,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a0611569a7947570328d2b4",
     "publishedAt": "2026-05-14T18:32:43.000Z",
-    "createdAt": "2026-05-14T19:56:55.653Z",
-    "updatedAt": "2026-05-14T19:56:55.653Z"
+    "createdAt": "2026-05-14T21:16:50.388Z",
+    "updatedAt": "2026-05-14T21:16:50.388Z"
   },
   {
     "id": "897953b86c15a3ce",
@@ -24,8 +66,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a0609f89a7947601324f1a4",
     "publishedAt": "2026-05-14T18:06:28.000Z",
-    "createdAt": "2026-05-14T19:56:57.739Z",
-    "updatedAt": "2026-05-14T19:56:57.739Z"
+    "createdAt": "2026-05-14T21:16:52.432Z",
+    "updatedAt": "2026-05-14T21:16:52.432Z"
   },
   {
     "id": "83698f43890f85a2",
@@ -38,8 +80,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a0600e79a7947b0f3c09db0",
     "publishedAt": "2026-05-14T17:28:28.000Z",
-    "createdAt": "2026-05-14T19:56:58.886Z",
-    "updatedAt": "2026-05-14T19:56:58.886Z"
+    "createdAt": "2026-05-14T21:16:54.664Z",
+    "updatedAt": "2026-05-14T21:16:54.664Z"
   },
   {
     "id": "19a7e406e1dec005",
@@ -52,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a05fad79a7947926cbd03b5",
     "publishedAt": "2026-05-14T17:01:02.000Z",
-    "createdAt": "2026-05-14T19:56:59.980Z",
-    "updatedAt": "2026-05-14T19:56:59.980Z"
+    "createdAt": "2026-05-14T21:16:55.790Z",
+    "updatedAt": "2026-05-14T21:16:55.790Z"
   },
   {
     "id": "76544df1a2e587aa",
@@ -66,22 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a05f45a9a794723bc3f16c9",
     "publishedAt": "2026-05-14T16:47:36.000Z",
-    "createdAt": "2026-05-14T19:57:02.176Z",
-    "updatedAt": "2026-05-14T19:57:02.176Z"
-  },
-  {
-    "id": "855d65e52773ee00",
-    "title": "РФС оштрафовал обматерившего болельщиков вратаря",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/0/13/347787743857130.jpeg",
-    "teaser": "РФС оштрафовал обматерившего болельщиков вратаря",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a05ef219a7947532f623107",
-    "publishedAt": "2026-05-14T16:19:02.000Z",
-    "createdAt": "2026-05-14T19:57:04.490Z",
-    "updatedAt": "2026-05-14T19:57:04.490Z"
+    "createdAt": "2026-05-14T21:16:58.038Z",
+    "updatedAt": "2026-05-14T21:16:58.038Z"
   },
   {
     "id": "b2829fadd86f6b0e",
@@ -94,36 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a05e1f79a79471470a8a694",
     "publishedAt": "2026-05-14T15:57:28.000Z",
-    "createdAt": "2026-05-14T19:57:01.084Z",
-    "updatedAt": "2026-05-14T19:57:01.084Z"
-  },
-  {
-    "id": "6db90bfb153f50e3",
-    "title": "«Спартак» продлил контракт с участником Матча звезд КХЛ",
-    "sport": "Хоккей",
-    "category": "Хоккей",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/0/83/347787713244830.jpeg",
-    "teaser": "«Спартак» продлил контракт с участником Матча звезд КХЛ",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a05e2c89a7947919701202a",
-    "publishedAt": "2026-05-14T15:24:10.000Z",
-    "createdAt": "2026-05-14T19:57:06.704Z",
-    "updatedAt": "2026-05-14T19:57:06.704Z"
-  },
-  {
-    "id": "b86c7b6bdcbdcb59",
-    "title": "Джейк Пол предложил экс-чемпиону мира Саулю Альваресу $200 млн за бой",
-    "sport": "Единоборства",
-    "category": "Единоборства",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/5/59/347787698615595.jpeg",
-    "teaser": "Джейк Пол предложил экс-чемпиону мира Саулю Альваресу $200 млн за бой",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a05d8b79a7947deb6eff638",
-    "publishedAt": "2026-05-14T15:20:37.000Z",
-    "createdAt": "2026-05-14T19:57:05.594Z",
-    "updatedAt": "2026-05-14T19:57:05.594Z"
+    "createdAt": "2026-05-14T21:16:56.905Z",
+    "updatedAt": "2026-05-14T21:16:56.905Z"
   },
   {
     "id": "8e4511128bdcbbce",
@@ -136,7 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69b3dbb19a794759ed3a7ae1",
     "publishedAt": "2026-05-13T21:01:29.000Z",
-    "createdAt": "2026-05-14T19:57:03.367Z",
-    "updatedAt": "2026-05-14T19:57:03.367Z"
+    "createdAt": "2026-05-14T21:16:53.554Z",
+    "updatedAt": "2026-05-14T21:16:53.554Z"
   }
 ]
