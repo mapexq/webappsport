@@ -1,5 +1,33 @@
 [
   {
+    "id": "94f2a7365bec3852",
+    "title": "Лучший снайпер КХЛ подписал трехлетний контракт в НХЛ",
+    "sport": "Хоккей",
+    "category": "Хоккей",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/4/77/347787833623774.png",
+    "teaser": "Лучший снайпер КХЛ подписал трехлетний контракт в НХЛ",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a0611569a7947570328d2b4",
+    "publishedAt": "2026-05-14T18:32:43.000Z",
+    "createdAt": "2026-05-14T19:56:55.653Z",
+    "updatedAt": "2026-05-14T19:56:55.653Z"
+  },
+  {
+    "id": "897953b86c15a3ce",
+    "title": "Умер первый чемпион мира по рукопашному бою Дериглазов",
+    "sport": "Единоборства",
+    "category": "Единоборства",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/9/19/347787818429199.jpeg",
+    "teaser": "Умер первый чемпион мира по рукопашному бою Дериглазов",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a0609f89a7947601324f1a4",
+    "publishedAt": "2026-05-14T18:06:28.000Z",
+    "createdAt": "2026-05-14T19:56:57.739Z",
+    "updatedAt": "2026-05-14T19:56:57.739Z"
+  },
+  {
     "id": "83698f43890f85a2",
     "title": "Сборная Бразилии продлила контракт с Карло Анчелотти",
     "sport": "Футбол",
@@ -10,8 +38,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a0600e79a7947b0f3c09db0",
     "publishedAt": "2026-05-14T17:28:28.000Z",
-    "createdAt": "2026-05-14T17:57:16.518Z",
-    "updatedAt": "2026-05-14T17:57:16.518Z"
+    "createdAt": "2026-05-14T19:56:58.886Z",
+    "updatedAt": "2026-05-14T19:56:58.886Z"
   },
   {
     "id": "19a7e406e1dec005",
@@ -24,8 +52,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a05fad79a7947926cbd03b5",
     "publishedAt": "2026-05-14T17:01:02.000Z",
-    "createdAt": "2026-05-14T17:57:17.468Z",
-    "updatedAt": "2026-05-14T17:57:17.468Z"
+    "createdAt": "2026-05-14T19:56:59.980Z",
+    "updatedAt": "2026-05-14T19:56:59.980Z"
   },
   {
     "id": "76544df1a2e587aa",
@@ -38,8 +66,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a05f45a9a794723bc3f16c9",
     "publishedAt": "2026-05-14T16:47:36.000Z",
-    "createdAt": "2026-05-14T17:57:19.544Z",
-    "updatedAt": "2026-05-14T17:57:19.544Z"
+    "createdAt": "2026-05-14T19:57:02.176Z",
+    "updatedAt": "2026-05-14T19:57:02.176Z"
   },
   {
     "id": "855d65e52773ee00",
@@ -52,8 +80,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a05ef219a7947532f623107",
     "publishedAt": "2026-05-14T16:19:02.000Z",
-    "createdAt": "2026-05-14T17:57:20.549Z",
-    "updatedAt": "2026-05-14T17:57:20.549Z"
+    "createdAt": "2026-05-14T19:57:04.490Z",
+    "updatedAt": "2026-05-14T19:57:04.490Z"
   },
   {
     "id": "b2829fadd86f6b0e",
@@ -66,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a05e1f79a79471470a8a694",
     "publishedAt": "2026-05-14T15:57:28.000Z",
-    "createdAt": "2026-05-14T17:57:18.485Z",
-    "updatedAt": "2026-05-14T17:57:18.485Z"
+    "createdAt": "2026-05-14T19:57:01.084Z",
+    "updatedAt": "2026-05-14T19:57:01.084Z"
   },
   {
     "id": "6db90bfb153f50e3",
@@ -80,8 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a05e2c89a7947919701202a",
     "publishedAt": "2026-05-14T15:24:10.000Z",
-    "createdAt": "2026-05-14T17:57:23.586Z",
-    "updatedAt": "2026-05-14T17:57:23.586Z"
+    "createdAt": "2026-05-14T19:57:06.704Z",
+    "updatedAt": "2026-05-14T19:57:06.704Z"
   },
   {
     "id": "b86c7b6bdcbdcb59",
@@ -94,36 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a05d8b79a7947deb6eff638",
     "publishedAt": "2026-05-14T15:20:37.000Z",
-    "createdAt": "2026-05-14T17:57:22.602Z",
-    "updatedAt": "2026-05-14T17:57:22.602Z"
-  },
-  {
-    "id": "4518cfc8cb4a8e79",
-    "title": "Андреева и Шнайдер второй год подряд вышли в полуфинал турнира в Риме",
-    "sport": "Теннис",
-    "category": "Теннис",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/6/68/347787689586686.jpeg",
-    "teaser": "Андреева и Шнайдер второй год подряд вышли в полуфинал турнира в Риме",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a05d9869a79471b107ae44f",
-    "publishedAt": "2026-05-14T14:36:40.000Z",
-    "createdAt": "2026-05-14T17:57:24.649Z",
-    "updatedAt": "2026-05-14T17:57:24.649Z"
-  },
-  {
-    "id": "78986f167a724454",
-    "title": "Голкипер «Краснодара» признан лучшим вратарем Кубка России",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/6/25/347787677382256.jpeg",
-    "teaser": "Голкипер «Краснодара» признан лучшим вратарем Кубка России",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a05d3889a794746de1665f8",
-    "publishedAt": "2026-05-14T14:25:20.000Z",
-    "createdAt": "2026-05-14T17:57:25.713Z",
-    "updatedAt": "2026-05-14T17:57:25.713Z"
+    "createdAt": "2026-05-14T19:57:05.594Z",
+    "updatedAt": "2026-05-14T19:57:05.594Z"
   },
   {
     "id": "8e4511128bdcbbce",
@@ -136,7 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69b3dbb19a794759ed3a7ae1",
     "publishedAt": "2026-05-13T21:01:29.000Z",
-    "createdAt": "2026-05-14T17:57:21.609Z",
-    "updatedAt": "2026-05-14T17:57:21.609Z"
+    "createdAt": "2026-05-14T19:57:03.367Z",
+    "updatedAt": "2026-05-14T19:57:03.367Z"
   }
 ]
