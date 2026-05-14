@@ -1,5 +1,89 @@
 [
   {
+    "id": "83698f43890f85a2",
+    "title": "Сборная Бразилии продлила контракт с Карло Анчелотти",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/2/73/347787792306732.jpeg",
+    "teaser": "Сборная Бразилии продлила контракт с Карло Анчелотти",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a0600e79a7947b0f3c09db0",
+    "publishedAt": "2026-05-14T17:28:28.000Z",
+    "createdAt": "2026-05-14T17:57:16.518Z",
+    "updatedAt": "2026-05-14T17:57:16.518Z"
+  },
+  {
+    "id": "19a7e406e1dec005",
+    "title": "Сборная Колумбии выбрала трех игроков РПЛ в расширенный состав на ЧМ-2026",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/3/79/347787778682793.png",
+    "teaser": "Сборная Колумбии выбрала трех игроков РПЛ в расширенный состав на ЧМ-2026",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a05fad79a7947926cbd03b5",
+    "publishedAt": "2026-05-14T17:01:02.000Z",
+    "createdAt": "2026-05-14T17:57:17.468Z",
+    "updatedAt": "2026-05-14T17:57:17.468Z"
+  },
+  {
+    "id": "76544df1a2e587aa",
+    "title": "Чемпионы мира Пирло и Матерацци приедут на суперфинал Кубка России",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/6/44/347787762427446.jpeg",
+    "teaser": "Чемпионы мира Пирло и Матерацци приедут на суперфинал Кубка России",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a05f45a9a794723bc3f16c9",
+    "publishedAt": "2026-05-14T16:47:36.000Z",
+    "createdAt": "2026-05-14T17:57:19.544Z",
+    "updatedAt": "2026-05-14T17:57:19.544Z"
+  },
+  {
+    "id": "855d65e52773ee00",
+    "title": "РФС оштрафовал обматерившего болельщиков вратаря",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/0/13/347787743857130.jpeg",
+    "teaser": "РФС оштрафовал обматерившего болельщиков вратаря",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a05ef219a7947532f623107",
+    "publishedAt": "2026-05-14T16:19:02.000Z",
+    "createdAt": "2026-05-14T17:57:20.549Z",
+    "updatedAt": "2026-05-14T17:57:20.549Z"
+  },
+  {
+    "id": "b2829fadd86f6b0e",
+    "title": "Министр обороны Израиля осудил лидера «Барселоны» за флаг Палестины",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/6/73/347787705499736.jpeg",
+    "teaser": "Министр обороны Израиля осудил лидера «Барселоны» за флаг Палестины",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a05e1f79a79471470a8a694",
+    "publishedAt": "2026-05-14T15:57:28.000Z",
+    "createdAt": "2026-05-14T17:57:18.485Z",
+    "updatedAt": "2026-05-14T17:57:18.485Z"
+  },
+  {
+    "id": "6db90bfb153f50e3",
+    "title": "«Спартак» продлил контракт с участником Матча звезд КХЛ",
+    "sport": "Хоккей",
+    "category": "Хоккей",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/0/83/347787713244830.jpeg",
+    "teaser": "«Спартак» продлил контракт с участником Матча звезд КХЛ",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a05e2c89a7947919701202a",
+    "publishedAt": "2026-05-14T15:24:10.000Z",
+    "createdAt": "2026-05-14T17:57:23.586Z",
+    "updatedAt": "2026-05-14T17:57:23.586Z"
+  },
+  {
     "id": "b86c7b6bdcbdcb59",
     "title": "Джейк Пол предложил экс-чемпиону мира Саулю Альваресу $200 млн за бой",
     "sport": "Единоборства",
@@ -10,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a05d8b79a7947deb6eff638",
     "publishedAt": "2026-05-14T15:20:37.000Z",
-    "createdAt": "2026-05-14T15:24:50.036Z",
-    "updatedAt": "2026-05-14T15:24:50.036Z"
+    "createdAt": "2026-05-14T17:57:22.602Z",
+    "updatedAt": "2026-05-14T17:57:22.602Z"
   },
   {
     "id": "4518cfc8cb4a8e79",
@@ -24,8 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a05d9869a79471b107ae44f",
     "publishedAt": "2026-05-14T14:36:40.000Z",
-    "createdAt": "2026-05-14T15:24:51.009Z",
-    "updatedAt": "2026-05-14T15:24:51.009Z"
+    "createdAt": "2026-05-14T17:57:24.649Z",
+    "updatedAt": "2026-05-14T17:57:24.649Z"
   },
   {
     "id": "78986f167a724454",
@@ -38,92 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a05d3889a794746de1665f8",
     "publishedAt": "2026-05-14T14:25:20.000Z",
-    "createdAt": "2026-05-14T15:24:51.979Z",
-    "updatedAt": "2026-05-14T15:24:51.979Z"
-  },
-  {
-    "id": "f4a9550cdcd00327",
-    "title": "Синнер заявил, что Рублева на пике формы сложно обыграть",
-    "sport": "Теннис",
-    "category": "Теннис",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/3/59/347787674054593.jpeg",
-    "teaser": "Синнер заявил, что Рублева на пике формы сложно обыграть",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a05d3389a79470186084125",
-    "publishedAt": "2026-05-14T14:23:26.000Z",
-    "createdAt": "2026-05-14T15:24:52.783Z",
-    "updatedAt": "2026-05-14T15:24:52.783Z"
-  },
-  {
-    "id": "43aebcb167a3ddf8",
-    "title": "Клуб НХЛ уволил тренера после двух финалов Кубка Стэнли",
-    "sport": "Хоккей",
-    "category": "Хоккей",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/3/40/347787656141403.jpeg",
-    "teaser": "Клуб НХЛ уволил тренера после двух финалов Кубка Стэнли",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a05c9059a794787cfa295d6",
-    "publishedAt": "2026-05-14T13:47:46.000Z",
-    "createdAt": "2026-05-14T15:24:54.539Z",
-    "updatedAt": "2026-05-14T15:24:54.539Z"
-  },
-  {
-    "id": "7e5c751e381a955b",
-    "title": "Синнер побил рекорд Джоковича по победам на турнирах «Мастерс»",
-    "sport": "Теннис",
-    "category": "Теннис",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/2/31/347787654770312.jpeg",
-    "teaser": "Синнер побил рекорд Джоковича по победам на турнирах «Мастерс»",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a05cb469a794751d85bdc26",
-    "publishedAt": "2026-05-14T13:44:16.000Z",
-    "createdAt": "2026-05-14T15:24:53.738Z",
-    "updatedAt": "2026-05-14T15:24:53.738Z"
-  },
-  {
-    "id": "34083ae0c0d487d7",
-    "title": "АПЛ назвала претендентов на приз лучшему игроку и тренеру сезона",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/9/42/347787640498429.jpeg",
-    "teaser": "АПЛ назвала претендентов на приз лучшему игроку и тренеру сезона",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a05c3f79a79471c6ffba8a8",
-    "publishedAt": "2026-05-14T13:41:25.000Z",
-    "createdAt": "2026-05-14T15:24:55.560Z",
-    "updatedAt": "2026-05-14T15:24:55.560Z"
-  },
-  {
-    "id": "c82f8ccee86568ba",
-    "title": "CAS провел закрытые слушания по иску российских биатлонистов",
-    "sport": "Другое",
-    "category": "Биатлон",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/1/30/347787634295301.png",
-    "teaser": "CAS провел закрытые слушания по иску российских биатлонистов",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a05c0239a794714b7f2aee0",
-    "publishedAt": "2026-05-14T13:05:05.000Z",
-    "createdAt": "2026-05-14T15:24:58.599Z",
-    "updatedAt": "2026-05-14T15:24:58.599Z"
-  },
-  {
-    "id": "482046272ccb320a",
-    "title": "Рублев проиграл первой ракетке мира на «Мастерсе» в Риме",
-    "sport": "Теннис",
-    "category": "Теннис",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/3/88/347787582415883.jpeg",
-    "teaser": "Рублев проиграл первой ракетке мира на «Мастерсе» в Риме",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a05b2389a794750dc55aff7",
-    "publishedAt": "2026-05-14T12:50:48.000Z",
-    "createdAt": "2026-05-14T15:24:57.601Z",
-    "updatedAt": "2026-05-14T15:24:57.601Z"
+    "createdAt": "2026-05-14T17:57:25.713Z",
+    "updatedAt": "2026-05-14T17:57:25.713Z"
   },
   {
     "id": "8e4511128bdcbbce",
@@ -136,7 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69b3dbb19a794759ed3a7ae1",
     "publishedAt": "2026-05-13T21:01:29.000Z",
-    "createdAt": "2026-05-14T15:24:56.624Z",
-    "updatedAt": "2026-05-14T15:24:56.624Z"
+    "createdAt": "2026-05-14T17:57:21.609Z",
+    "updatedAt": "2026-05-14T17:57:21.609Z"
   }
 ]
