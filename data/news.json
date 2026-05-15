@@ -1,5 +1,47 @@
 [
   {
+    "id": "94397a04764d00c6",
+    "title": "Сборная Швейцарии обыграла США в первом матче ЧМ по хоккею",
+    "sport": "Хоккей",
+    "category": "Хоккей",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/7/60/347788767159607.jpeg",
+    "teaser": "Сборная Швейцарии обыграла США в первом матче ЧМ по хоккею",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a077f559a7947674c70e151",
+    "publishedAt": "2026-05-15T20:58:09.000Z",
+    "createdAt": "2026-05-15T22:02:37.430Z",
+    "updatedAt": "2026-05-15T22:02:37.430Z"
+  },
+  {
+    "id": "98ab01f16797369c",
+    "title": "Сборная Чехии обыграла команду Дании на старте ЧМ по хоккею",
+    "sport": "Хоккей",
+    "category": "Хоккей",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/1/73/347788771074731.jpeg",
+    "teaser": "Сборная Чехии обыграла команду Дании на старте ЧМ по хоккею",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a07806b9a7947515aa7f86d",
+    "publishedAt": "2026-05-15T20:56:37.000Z",
+    "createdAt": "2026-05-15T22:02:38.577Z",
+    "updatedAt": "2026-05-15T22:02:38.577Z"
+  },
+  {
+    "id": "05edaee39876dca4",
+    "title": "Полуфинал турнира в Риме между Синнером и Медведевым прервали из-за дождя",
+    "sport": "Теннис",
+    "category": "Теннис",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/0/44/347788759049440.jpeg",
+    "teaser": "Полуфинал турнира в Риме между Синнером и Медведевым прервали из-за дождя",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a077c949a79470327dd7228",
+    "publishedAt": "2026-05-15T20:47:38.000Z",
+    "createdAt": "2026-05-15T22:02:39.625Z",
+    "updatedAt": "2026-05-15T22:02:39.625Z"
+  },
+  {
     "id": "2c40f2178cb53390",
     "title": "Чемпион КХЛ «Локомотив» вышел вперед в финальной серии Кубка Гагарина",
     "sport": "Хоккей",
@@ -10,8 +52,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a07625c9a7947c32ca65d28",
     "publishedAt": "2026-05-15T18:35:34.000Z",
-    "createdAt": "2026-05-15T20:17:48.363Z",
-    "updatedAt": "2026-05-15T20:17:48.363Z"
+    "createdAt": "2026-05-15T22:02:40.768Z",
+    "updatedAt": "2026-05-15T22:02:40.768Z"
   },
   {
     "id": "e72540ed8ce94167",
@@ -24,8 +66,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a07580a9a794783be4a7664",
     "publishedAt": "2026-05-15T18:19:31.000Z",
-    "createdAt": "2026-05-15T20:17:50.306Z",
-    "updatedAt": "2026-05-15T20:17:50.306Z"
+    "createdAt": "2026-05-15T22:02:41.816Z",
+    "updatedAt": "2026-05-15T22:02:41.816Z"
   },
   {
     "id": "9952d686f036c79f",
@@ -38,8 +80,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a0759309a794716ea86c5b5",
     "publishedAt": "2026-05-15T17:44:03.000Z",
-    "createdAt": "2026-05-15T20:17:49.339Z",
-    "updatedAt": "2026-05-15T20:17:49.339Z"
+    "createdAt": "2026-05-15T22:02:42.874Z",
+    "updatedAt": "2026-05-15T22:02:42.874Z"
   },
   {
     "id": "caf6ad5822be69ff",
@@ -52,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a07512d9a7947d33fefe7d1",
     "publishedAt": "2026-05-15T17:25:45.000Z",
-    "createdAt": "2026-05-15T20:17:51.321Z",
-    "updatedAt": "2026-05-15T20:17:51.321Z"
+    "createdAt": "2026-05-15T22:02:43.915Z",
+    "updatedAt": "2026-05-15T22:02:43.915Z"
   },
   {
     "id": "6ccc988bc460884d",
@@ -66,8 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a074be29a794730f8d3a022",
     "publishedAt": "2026-05-15T17:04:42.000Z",
-    "createdAt": "2026-05-15T20:17:52.303Z",
-    "updatedAt": "2026-05-15T20:17:52.303Z"
+    "createdAt": "2026-05-15T22:02:44.975Z",
+    "updatedAt": "2026-05-15T22:02:44.975Z"
   },
   {
     "id": "aa331a90ea960d0a",
@@ -80,8 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a074ee79a794755a5152852",
     "publishedAt": "2026-05-15T17:00:16.000Z",
-    "createdAt": "2026-05-15T20:17:53.363Z",
-    "updatedAt": "2026-05-15T20:17:53.363Z"
+    "createdAt": "2026-05-15T22:02:46.013Z",
+    "updatedAt": "2026-05-15T22:02:46.013Z"
   },
   {
     "id": "d3461b41ec212402",
@@ -94,49 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a0747039a79473cc1c6b668",
     "publishedAt": "2026-05-15T16:58:44.000Z",
-    "createdAt": "2026-05-15T20:17:54.358Z",
-    "updatedAt": "2026-05-15T20:17:54.358Z"
-  },
-  {
-    "id": "d50d760e3069af85",
-    "title": "Сборная Финляндии выиграла стартовый матч на ЧМ по хоккею",
-    "sport": "Хоккей",
-    "category": "Хоккей",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/0/78/347788618713780.jpeg",
-    "teaser": "Сборная Финляндии выиграла стартовый матч на ЧМ по хоккею",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a0747039a79477dd4f6b880",
-    "publishedAt": "2026-05-15T16:33:53.000Z",
-    "createdAt": "2026-05-15T20:17:55.370Z",
-    "updatedAt": "2026-05-15T20:17:55.370Z"
-  },
-  {
-    "id": "6474345c101dcc5b",
-    "title": "Нойер продлил контракт с «Баварией»",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/0/94/347788579684940.jpeg",
-    "teaser": "Нойер продлил контракт с «Баварией»",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a0737ae9a79475e30868384",
-    "publishedAt": "2026-05-15T15:25:46.000Z",
-    "createdAt": "2026-05-15T20:17:56.520Z",
-    "updatedAt": "2026-05-15T20:17:56.520Z"
-  },
-  {
-    "id": "01a8dac33688fa7e",
-    "title": "Голландский защитник «Манчестер Юнайтед» пропустит ЧМ-2026 из-за травмы",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/6/06/347788573836066.jpeg",
-    "teaser": "Голландский защитник «Манчестер Юнайтед» пропустит ЧМ-2026 из-за травмы",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a0735839a79478320b45df9",
-    "publishedAt": "2026-05-15T15:20:43.000Z",
-    "createdAt": "2026-05-15T20:17:57.565Z",
-    "updatedAt": "2026-05-15T20:17:57.565Z"
+    "createdAt": "2026-05-15T22:02:47.468Z",
+    "updatedAt": "2026-05-15T22:02:47.468Z"
   }
 ]
