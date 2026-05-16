@@ -1,17 +1,45 @@
 [
   {
-    "id": "413f08fd799a688e",
-    "title": "Стали известны судьи на решающие матчи Российской премьер-лиги",
+    "id": "2062350cdb54d95b",
+    "title": "Немецкий боксер нокаутировал соперника первым ударом",
+    "sport": "Единоборства",
+    "category": "Единоборства",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/4/52/347789235243524.jpeg",
+    "teaser": "Немецкий боксер нокаутировал соперника первым ударом",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69cb82679a794755e77eae31",
+    "publishedAt": "2026-05-16T09:33:40.000Z",
+    "createdAt": "2026-05-16T10:20:15.404Z",
+    "updatedAt": "2026-05-16T10:20:15.404Z"
+  },
+  {
+    "id": "9204f1f0fa0e7194",
+    "title": "NYP назвала соперника и дату следующего боя Конора Макгрегора в UFC",
+    "sport": "Единоборства",
+    "category": "Единоборства",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/3/22/347789213004223.jpeg",
+    "teaser": "NYP назвала соперника и дату следующего боя Конора Макгрегора в UFC",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a02ebbb9a794767de342990",
+    "publishedAt": "2026-05-16T09:00:26.000Z",
+    "createdAt": "2026-05-16T10:20:16.405Z",
+    "updatedAt": "2026-05-16T10:20:16.405Z"
+  },
+  {
+    "id": "2b1f4b8235cb504e",
+    "title": "Сергей Карасев рассудит «Зенит» и «Ростов» в последнем туре РПЛ",
     "sport": "Футбол",
     "category": "Футбол",
     "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/2/87/347789192470872.jpeg",
-    "teaser": "Стали известны судьи на решающие матчи Российской премьер-лиги",
+    "teaser": "Сергей Карасев рассудит «Зенит» и «Ростов» в последнем туре РПЛ",
     "fullContent": "",
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a04b2f59a79472142195606",
     "publishedAt": "2026-05-16T08:22:22.000Z",
-    "createdAt": "2026-05-16T08:50:33.636Z",
-    "updatedAt": "2026-05-16T08:50:33.636Z"
+    "createdAt": "2026-05-16T10:20:17.468Z",
+    "updatedAt": "2026-05-16T10:20:17.468Z"
   },
   {
     "id": "a6e9cc4f4b36ce3b",
@@ -24,8 +52,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a04d64b9a7947fcfd83bf43",
     "publishedAt": "2026-05-16T08:02:53.000Z",
-    "createdAt": "2026-05-16T08:50:34.579Z",
-    "updatedAt": "2026-05-16T08:50:34.579Z"
+    "createdAt": "2026-05-16T10:20:18.481Z",
+    "updatedAt": "2026-05-16T10:20:18.481Z"
   },
   {
     "id": "d1e8f6775e7d12b6",
@@ -38,8 +66,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a070ba09a7947d06ee28b1f",
     "publishedAt": "2026-05-16T07:33:32.000Z",
-    "createdAt": "2026-05-16T08:50:35.599Z",
-    "updatedAt": "2026-05-16T08:50:35.599Z"
+    "createdAt": "2026-05-16T10:20:19.492Z",
+    "updatedAt": "2026-05-16T10:20:19.492Z"
   },
   {
     "id": "6a9b8c2687e1e18d",
@@ -52,8 +80,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a0816b89a79471db33d4f49",
     "publishedAt": "2026-05-16T07:15:01.000Z",
-    "createdAt": "2026-05-16T08:50:36.563Z",
-    "updatedAt": "2026-05-16T08:50:36.563Z"
+    "createdAt": "2026-05-16T10:20:20.504Z",
+    "updatedAt": "2026-05-16T10:20:20.504Z"
   },
   {
     "id": "94397a04764d00c6",
@@ -66,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a077f559a7947674c70e151",
     "publishedAt": "2026-05-15T20:58:09.000Z",
-    "createdAt": "2026-05-16T08:50:37.361Z",
-    "updatedAt": "2026-05-16T08:50:37.361Z"
+    "createdAt": "2026-05-16T10:20:21.518Z",
+    "updatedAt": "2026-05-16T10:20:21.518Z"
   },
   {
     "id": "98ab01f16797369c",
@@ -80,8 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a07806b9a7947515aa7f86d",
     "publishedAt": "2026-05-15T20:56:37.000Z",
-    "createdAt": "2026-05-16T08:50:38.353Z",
-    "updatedAt": "2026-05-16T08:50:38.353Z"
+    "createdAt": "2026-05-16T10:20:22.539Z",
+    "updatedAt": "2026-05-16T10:20:22.539Z"
   },
   {
     "id": "05edaee39876dca4",
@@ -94,8 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a077c949a79470327dd7228",
     "publishedAt": "2026-05-15T20:47:38.000Z",
-    "createdAt": "2026-05-16T08:50:39.324Z",
-    "updatedAt": "2026-05-16T08:50:39.324Z"
+    "createdAt": "2026-05-16T10:20:23.580Z",
+    "updatedAt": "2026-05-16T10:20:23.580Z"
   },
   {
     "id": "2c40f2178cb53390",
@@ -108,35 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a07625c9a7947c32ca65d28",
     "publishedAt": "2026-05-15T18:35:34.000Z",
-    "createdAt": "2026-05-16T08:50:40.217Z",
-    "updatedAt": "2026-05-16T08:50:40.217Z"
-  },
-  {
-    "id": "e72540ed8ce94167",
-    "title": "Форвард махачкалинского «Динамо» вошел в состав сборной Туниса на ЧМ-2026",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/4/92/347788671841924.jpeg",
-    "teaser": "Форвард махачкалинского «Динамо» вошел в состав сборной Туниса на ЧМ-2026",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a07580a9a794783be4a7664",
-    "publishedAt": "2026-05-15T18:19:31.000Z",
-    "createdAt": "2026-05-16T08:50:41.172Z",
-    "updatedAt": "2026-05-16T08:50:41.172Z"
-  },
-  {
-    "id": "9952d686f036c79f",
-    "title": "Защитник «Ак Барса» повторил бомбардирский рекорд плей-офф КХЛ",
-    "sport": "Хоккей",
-    "category": "Хоккей",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/1/61/347788665381611.jpeg",
-    "teaser": "Защитник «Ак Барса» повторил бомбардирский рекорд плей-офф КХЛ",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a0759309a794716ea86c5b5",
-    "publishedAt": "2026-05-15T17:44:03.000Z",
-    "createdAt": "2026-05-16T08:50:42.189Z",
-    "updatedAt": "2026-05-16T08:50:42.189Z"
+    "createdAt": "2026-05-16T10:20:24.702Z",
+    "updatedAt": "2026-05-16T10:20:24.702Z"
   }
 ]
