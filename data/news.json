@@ -1,5 +1,75 @@
 [
   {
+    "id": "d2a1ac9914564e00",
+    "title": "Футболист сборной ДР Конго Бонгонда объявил об уходе из «Спартака»",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/5/87/347789307156875.jpeg",
+    "teaser": "Футболист сборной ДР Конго Бонгонда объявил об уходе из «Спартака»",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69df7ccd9a794774c67e7282",
+    "publishedAt": "2026-05-16T11:33:02.000Z",
+    "createdAt": "2026-05-16T11:55:24.651Z",
+    "updatedAt": "2026-05-16T11:55:24.651Z"
+  },
+  {
+    "id": "982cbec860da4ec7",
+    "title": "Левандовский объявил об уходе из «Барселоны»",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/2/66/347789296400662.jpeg",
+    "teaser": "Левандовский объявил об уходе из «Барселоны»",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a084fb89a79472e62d25ff0",
+    "publishedAt": "2026-05-16T11:14:10.000Z",
+    "createdAt": "2026-05-16T11:55:25.720Z",
+    "updatedAt": "2026-05-16T11:55:25.720Z"
+  },
+  {
+    "id": "deb0c5c52dcfada7",
+    "title": "Джина Карано сообщила, что сбросила более 45 кг для боя с Рондой Раузи",
+    "sport": "Единоборства",
+    "category": "Единоборства",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/9/99/347789279552999.jpeg",
+    "teaser": "Джина Карано сообщила, что сбросила более 45 кг для боя с Рондой Раузи",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69c26c6a9a79473922c74237",
+    "publishedAt": "2026-05-16T11:02:52.000Z",
+    "createdAt": "2026-05-16T11:55:26.655Z",
+    "updatedAt": "2026-05-16T11:55:26.655Z"
+  },
+  {
+    "id": "d38b0c0980d591e0",
+    "title": "Умер тренер титулованных российских гребцов Владимир Тетерев",
+    "sport": "Другое",
+    "category": "Другие",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/7/46/347789275510467.jpeg",
+    "teaser": "Умер тренер титулованных российских гребцов Владимир Тетерев",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69b995319a7947e66f54578a",
+    "publishedAt": "2026-05-16T10:36:22.000Z",
+    "createdAt": "2026-05-16T11:55:27.825Z",
+    "updatedAt": "2026-05-16T11:55:27.825Z"
+  },
+  {
+    "id": "457c759399a5ee7f",
+    "title": "Россиянка победила чемпионку Australian Open на турнире WTA в Страсбурге",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/5/37/347789267731375.jpeg",
+    "teaser": "Россиянка победила чемпионку Australian Open на турнире WTA в Страсбурге",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69c58bb19a79477a80608439",
+    "publishedAt": "2026-05-16T10:26:01.000Z",
+    "createdAt": "2026-05-16T11:55:28.956Z",
+    "updatedAt": "2026-05-16T11:55:28.956Z"
+  },
+  {
     "id": "2062350cdb54d95b",
     "title": "Немецкий боксер нокаутировал соперника первым ударом",
     "sport": "Единоборства",
@@ -10,8 +80,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69cb82679a794755e77eae31",
     "publishedAt": "2026-05-16T09:33:40.000Z",
-    "createdAt": "2026-05-16T10:20:15.404Z",
-    "updatedAt": "2026-05-16T10:20:15.404Z"
+    "createdAt": "2026-05-16T11:55:30.083Z",
+    "updatedAt": "2026-05-16T11:55:30.083Z"
   },
   {
     "id": "9204f1f0fa0e7194",
@@ -24,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a02ebbb9a794767de342990",
     "publishedAt": "2026-05-16T09:00:26.000Z",
-    "createdAt": "2026-05-16T10:20:16.405Z",
-    "updatedAt": "2026-05-16T10:20:16.405Z"
+    "createdAt": "2026-05-16T11:55:31.236Z",
+    "updatedAt": "2026-05-16T11:55:31.236Z"
   },
   {
     "id": "2b1f4b8235cb504e",
@@ -38,8 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a04b2f59a79472142195606",
     "publishedAt": "2026-05-16T08:22:22.000Z",
-    "createdAt": "2026-05-16T10:20:17.468Z",
-    "updatedAt": "2026-05-16T10:20:17.468Z"
+    "createdAt": "2026-05-16T11:55:32.360Z",
+    "updatedAt": "2026-05-16T11:55:32.360Z"
   },
   {
     "id": "a6e9cc4f4b36ce3b",
@@ -52,8 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a04d64b9a7947fcfd83bf43",
     "publishedAt": "2026-05-16T08:02:53.000Z",
-    "createdAt": "2026-05-16T10:20:18.481Z",
-    "updatedAt": "2026-05-16T10:20:18.481Z"
+    "createdAt": "2026-05-16T11:55:33.530Z",
+    "updatedAt": "2026-05-16T11:55:33.530Z"
   },
   {
     "id": "d1e8f6775e7d12b6",
@@ -66,77 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a070ba09a7947d06ee28b1f",
     "publishedAt": "2026-05-16T07:33:32.000Z",
-    "createdAt": "2026-05-16T10:20:19.492Z",
-    "updatedAt": "2026-05-16T10:20:19.492Z"
-  },
-  {
-    "id": "6a9b8c2687e1e18d",
-    "title": "Клуб НХЛ серьезно наказали за отказ общаться со СМИ после матча плей-офф",
-    "sport": "Хоккей",
-    "category": "Хоккей",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/0/03/347789150486030.jpeg",
-    "teaser": "Клуб НХЛ серьезно наказали за отказ общаться со СМИ после матча плей-офф",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a0816b89a79471db33d4f49",
-    "publishedAt": "2026-05-16T07:15:01.000Z",
-    "createdAt": "2026-05-16T10:20:20.504Z",
-    "updatedAt": "2026-05-16T10:20:20.504Z"
-  },
-  {
-    "id": "94397a04764d00c6",
-    "title": "Сборная Швейцарии обыграла США в первом матче ЧМ по хоккею",
-    "sport": "Хоккей",
-    "category": "Хоккей",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/7/60/347788767159607.jpeg",
-    "teaser": "Сборная Швейцарии обыграла США в первом матче ЧМ по хоккею",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a077f559a7947674c70e151",
-    "publishedAt": "2026-05-15T20:58:09.000Z",
-    "createdAt": "2026-05-16T10:20:21.518Z",
-    "updatedAt": "2026-05-16T10:20:21.518Z"
-  },
-  {
-    "id": "98ab01f16797369c",
-    "title": "Сборная Чехии обыграла команду Дании на старте ЧМ по хоккею",
-    "sport": "Хоккей",
-    "category": "Хоккей",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/1/73/347788771074731.jpeg",
-    "teaser": "Сборная Чехии обыграла команду Дании на старте ЧМ по хоккею",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a07806b9a7947515aa7f86d",
-    "publishedAt": "2026-05-15T20:56:37.000Z",
-    "createdAt": "2026-05-16T10:20:22.539Z",
-    "updatedAt": "2026-05-16T10:20:22.539Z"
-  },
-  {
-    "id": "05edaee39876dca4",
-    "title": "Полуфинал турнира в Риме между Синнером и Медведевым прервали из-за дождя",
-    "sport": "Теннис",
-    "category": "Теннис",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/0/44/347788759049440.jpeg",
-    "teaser": "Полуфинал турнира в Риме между Синнером и Медведевым прервали из-за дождя",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a077c949a79470327dd7228",
-    "publishedAt": "2026-05-15T20:47:38.000Z",
-    "createdAt": "2026-05-16T10:20:23.580Z",
-    "updatedAt": "2026-05-16T10:20:23.580Z"
-  },
-  {
-    "id": "2c40f2178cb53390",
-    "title": "Чемпион КХЛ «Локомотив» вышел вперед в финальной серии Кубка Гагарина",
-    "sport": "Хоккей",
-    "category": "Хоккей",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/5/17/347788689007175.jpeg",
-    "teaser": "Чемпион КХЛ «Локомотив» вышел вперед в финальной серии Кубка Гагарина",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a07625c9a7947c32ca65d28",
-    "publishedAt": "2026-05-15T18:35:34.000Z",
-    "createdAt": "2026-05-16T10:20:24.702Z",
-    "updatedAt": "2026-05-16T10:20:24.702Z"
+    "createdAt": "2026-05-16T11:55:34.675Z",
+    "updatedAt": "2026-05-16T11:55:34.675Z"
   }
 ]
