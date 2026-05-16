@@ -1,5 +1,75 @@
 [
   {
+    "id": "a8e32d50e66dda3d",
+    "title": "Сборная Канады разгромила Италию на ЧМ по хоккею со счетом 6:0",
+    "sport": "Хоккей",
+    "category": "Хоккей",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/7/17/347789490870177.jpeg",
+    "teaser": "Сборная Канады разгромила Италию на ЧМ по хоккею со счетом 6:0",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a0779359a79471d38dbe7ad",
+    "publishedAt": "2026-05-16T16:44:01.000Z",
+    "createdAt": "2026-05-16T17:03:54.215Z",
+    "updatedAt": "2026-05-16T17:03:54.215Z"
+  },
+  {
+    "id": "8a59a6c96e65e5b1",
+    "title": "Мирра Андреева и Диана Шнайдер вышли в финал второго «тысячника» подряд",
+    "sport": "Теннис",
+    "category": "Теннис",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/3/08/347789416669083.jpeg",
+    "teaser": "Мирра Андреева и Диана Шнайдер вышли в финал второго «тысячника» подряд",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69b58d429a794754f6ca476b",
+    "publishedAt": "2026-05-16T16:27:19.000Z",
+    "createdAt": "2026-05-16T17:03:53.133Z",
+    "updatedAt": "2026-05-16T17:03:53.133Z"
+  },
+  {
+    "id": "844eafeb5e284056",
+    "title": "«Бавария» побила рекорд «Реала» по голам за сезон в топ-5 лигах Европы",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/8/33/347789478091338.jpeg",
+    "teaser": "«Бавария» побила рекорд «Реала» по голам за сезон в топ-5 лигах Европы",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a0763609a7947da85eb901d",
+    "publishedAt": "2026-05-16T16:19:09.000Z",
+    "createdAt": "2026-05-16T17:03:55.352Z",
+    "updatedAt": "2026-05-16T17:03:55.352Z"
+  },
+  {
+    "id": "8a560e13744dfc9f",
+    "title": "«Манчестер Сити» обыграл «Челси» в финале Кубка Англии",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/4/82/347789454253824.jpeg",
+    "teaser": "«Манчестер Сити» обыграл «Челси» в финале Кубка Англии",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69bd27c19a79478b723e6c8c",
+    "publishedAt": "2026-05-16T15:56:16.000Z",
+    "createdAt": "2026-05-16T17:03:56.520Z",
+    "updatedAt": "2026-05-16T17:03:56.520Z"
+  },
+  {
+    "id": "3e20b8c297447881",
+    "title": "«Бавария» завершила сезон в чемпионате Германии разгромом над «Кельном»",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/8/61/347789455686618.jpeg",
+    "teaser": "«Бавария» завершила сезон в чемпионате Германии разгромом над «Кельном»",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a0757909a79475c8acc0e61",
+    "publishedAt": "2026-05-16T15:43:04.000Z",
+    "createdAt": "2026-05-16T17:03:57.705Z",
+    "updatedAt": "2026-05-16T17:03:57.705Z"
+  },
+  {
     "id": "4e26ec8af6ad5409",
     "title": "Свищев анонсировал совместную встречу с Вяльбе и Губерниевым",
     "sport": "Другое",
@@ -10,8 +80,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69b460d59a79477df711cf0a",
     "publishedAt": "2026-05-16T14:49:45.000Z",
-    "createdAt": "2026-05-16T15:01:39.189Z",
-    "updatedAt": "2026-05-16T15:01:39.189Z"
+    "createdAt": "2026-05-16T17:03:58.854Z",
+    "updatedAt": "2026-05-16T17:03:58.854Z"
   },
   {
     "id": "3f1e146104a20311",
@@ -24,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69bc25689a7947cae28a932f",
     "publishedAt": "2026-05-16T14:21:30.000Z",
-    "createdAt": "2026-05-16T15:01:40.221Z",
-    "updatedAt": "2026-05-16T15:01:40.221Z"
+    "createdAt": "2026-05-16T17:04:00.038Z",
+    "updatedAt": "2026-05-16T17:04:00.038Z"
   },
   {
     "id": "d445b09861bd52d4",
@@ -38,8 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69b474c89a7947af9cf970dd",
     "publishedAt": "2026-05-16T13:59:49.000Z",
-    "createdAt": "2026-05-16T15:01:41.185Z",
-    "updatedAt": "2026-05-16T15:01:41.185Z"
+    "createdAt": "2026-05-16T17:04:01.221Z",
+    "updatedAt": "2026-05-16T17:04:01.221Z"
   },
   {
     "id": "ccf3fa6f11923a09",
@@ -52,8 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69b93c449a79473a1344a47a",
     "publishedAt": "2026-05-16T13:32:43.000Z",
-    "createdAt": "2026-05-16T15:01:42.210Z",
-    "updatedAt": "2026-05-16T15:01:42.210Z"
+    "createdAt": "2026-05-16T17:04:02.340Z",
+    "updatedAt": "2026-05-16T17:04:02.340Z"
   },
   {
     "id": "abc9811642d237a2",
@@ -66,77 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69c109cd9a7947cb5b439cf6",
     "publishedAt": "2026-05-16T12:40:05.000Z",
-    "createdAt": "2026-05-16T15:01:43.219Z",
-    "updatedAt": "2026-05-16T15:01:43.219Z"
-  },
-  {
-    "id": "e837710883aadefd",
-    "title": "Клуб совладельца Fix Price стал победителем Первой лиги",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/0/54/347789313675540.jpeg",
-    "teaser": "Клуб совладельца Fix Price стал победителем Первой лиги",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69c285c09a7947e7239d78ef",
-    "publishedAt": "2026-05-16T11:57:04.000Z",
-    "createdAt": "2026-05-16T15:01:44.438Z",
-    "updatedAt": "2026-05-16T15:01:44.438Z"
-  },
-  {
-    "id": "d2a1ac9914564e00",
-    "title": "Футболист сборной ДР Конго Бонгонда объявил об уходе из «Спартака»",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/5/87/347789307156875.jpeg",
-    "teaser": "Футболист сборной ДР Конго Бонгонда объявил об уходе из «Спартака»",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69df7ccd9a794774c67e7282",
-    "publishedAt": "2026-05-16T11:33:02.000Z",
-    "createdAt": "2026-05-16T15:01:45.459Z",
-    "updatedAt": "2026-05-16T15:01:45.459Z"
-  },
-  {
-    "id": "0a470ffcbfd50951",
-    "title": "Левандовски объявил об уходе из «Барселоны»",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/2/66/347789296400662.jpeg",
-    "teaser": "Левандовски объявил об уходе из «Барселоны»",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a084fb89a79472e62d25ff0",
-    "publishedAt": "2026-05-16T11:14:10.000Z",
-    "createdAt": "2026-05-16T15:01:46.411Z",
-    "updatedAt": "2026-05-16T15:01:46.411Z"
-  },
-  {
-    "id": "deb0c5c52dcfada7",
-    "title": "Джина Карано сообщила, что сбросила более 45 кг для боя с Рондой Раузи",
-    "sport": "Единоборства",
-    "category": "Единоборства",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/9/99/347789279552999.jpeg",
-    "teaser": "Джина Карано сообщила, что сбросила более 45 кг для боя с Рондой Раузи",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69c26c6a9a79473922c74237",
-    "publishedAt": "2026-05-16T11:02:52.000Z",
-    "createdAt": "2026-05-16T15:01:47.439Z",
-    "updatedAt": "2026-05-16T15:01:47.439Z"
-  },
-  {
-    "id": "d38b0c0980d591e0",
-    "title": "Умер тренер титулованных российских гребцов Владимир Тетерев",
-    "sport": "Другое",
-    "category": "Другие",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/7/46/347789275510467.jpeg",
-    "teaser": "Умер тренер титулованных российских гребцов Владимир Тетерев",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69b995319a7947e66f54578a",
-    "publishedAt": "2026-05-16T10:36:22.000Z",
-    "createdAt": "2026-05-16T15:01:48.468Z",
-    "updatedAt": "2026-05-16T15:01:48.468Z"
+    "createdAt": "2026-05-16T17:04:03.478Z",
+    "updatedAt": "2026-05-16T17:04:03.478Z"
   }
 ]
