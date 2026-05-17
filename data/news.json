@@ -1,17 +1,45 @@
 [
   {
-    "id": "2121fe4eccc1e508",
-    "title": "Легенда UFC Ронда Роузи победила звезду «Мандалорца» за 17 секунд",
+    "id": "27ec687f06ca23fc",
+    "title": "UFC официально анонсировал первый за пять лет бой Макгрегора",
+    "sport": "Единоборства",
+    "category": "Единоборства",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/4/82/347790100040824.png",
+    "teaser": "UFC официально анонсировал первый за пять лет бой Макгрегора",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a0989759a79471d7852a3be",
+    "publishedAt": "2026-05-17T09:44:28.000Z",
+    "createdAt": "2026-05-17T09:51:46.582Z",
+    "updatedAt": "2026-05-17T09:51:46.582Z"
+  },
+  {
+    "id": "a4535a5cd25cc8c0",
+    "title": "Хаби Алонсо возглавил «Челси»",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/6/21/347790080909216.jpeg",
+    "teaser": "Хаби Алонсо возглавил «Челси»",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a09823f9a794719a5ec2fe3",
+    "publishedAt": "2026-05-17T09:15:55.000Z",
+    "createdAt": "2026-05-17T09:51:45.493Z",
+    "updatedAt": "2026-05-17T09:51:45.493Z"
+  },
+  {
+    "id": "0c194559eaa2fa57",
+    "title": "Легенда UFC Ронда Роузи победила Джину Карано за 17 секунд",
     "sport": "Единоборства",
     "category": "Единоборства",
     "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/1/18/347789558582181.jpeg",
-    "teaser": "Легенда UFC Ронда Роузи победила звезду «Мандалорца» за 17 секунд",
+    "teaser": "Легенда UFC Ронда Роузи победила Джину Карано за 17 секунд",
     "fullContent": "",
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a08b5f79a79472fcf059a4b",
-    "publishedAt": "2026-05-17T06:07:09.000Z",
-    "createdAt": "2026-05-17T07:35:29.708Z",
-    "updatedAt": "2026-05-17T07:35:29.708Z"
+    "publishedAt": "2026-05-17T04:13:57.000Z",
+    "createdAt": "2026-05-17T09:51:47.670Z",
+    "updatedAt": "2026-05-17T09:51:47.670Z"
   },
   {
     "id": "d6c400d4cf255b27",
@@ -24,8 +52,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a06f7cf9a79474fa9d9e6fb",
     "publishedAt": "2026-05-16T21:02:37.000Z",
-    "createdAt": "2026-05-17T07:35:30.875Z",
-    "updatedAt": "2026-05-17T07:35:30.875Z"
+    "createdAt": "2026-05-17T09:51:49.818Z",
+    "updatedAt": "2026-05-17T09:51:49.818Z"
   },
   {
     "id": "28c18cb08b543a86",
@@ -38,8 +66,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69b6fdd49a7947406094dfad",
     "publishedAt": "2026-05-16T18:57:56.000Z",
-    "createdAt": "2026-05-17T07:35:32.041Z",
-    "updatedAt": "2026-05-17T07:35:32.041Z"
+    "createdAt": "2026-05-17T09:51:48.786Z",
+    "updatedAt": "2026-05-17T09:51:48.786Z"
   },
   {
     "id": "249e2d09b04669c4",
@@ -52,8 +80,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a077afe9a79471b4cf7c873",
     "publishedAt": "2026-05-16T18:20:59.000Z",
-    "createdAt": "2026-05-17T07:35:33.144Z",
-    "updatedAt": "2026-05-17T07:35:33.144Z"
+    "createdAt": "2026-05-17T09:51:50.920Z",
+    "updatedAt": "2026-05-17T09:51:50.920Z"
   },
   {
     "id": "34050b47a7074fdb",
@@ -66,22 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a08a0cb9a7947157d50eb81",
     "publishedAt": "2026-05-16T17:32:31.000Z",
-    "createdAt": "2026-05-17T07:35:35.441Z",
-    "updatedAt": "2026-05-17T07:35:35.441Z"
-  },
-  {
-    "id": "a8e32d50e66dda3d",
-    "title": "Сборная Канады разгромила Италию на ЧМ по хоккею со счетом 6:0",
-    "sport": "Хоккей",
-    "category": "Хоккей",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/7/17/347789490870177.jpeg",
-    "teaser": "Сборная Канады разгромила Италию на ЧМ по хоккею со счетом 6:0",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a0779359a79471d38dbe7ad",
-    "publishedAt": "2026-05-16T16:44:01.000Z",
-    "createdAt": "2026-05-17T07:35:40.133Z",
-    "updatedAt": "2026-05-17T07:35:40.133Z"
+    "createdAt": "2026-05-17T09:51:53.167Z",
+    "updatedAt": "2026-05-17T09:51:53.167Z"
   },
   {
     "id": "8a59a6c96e65e5b1",
@@ -94,8 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69b58d429a794754f6ca476b",
     "publishedAt": "2026-05-16T16:27:19.000Z",
-    "createdAt": "2026-05-17T07:35:34.308Z",
-    "updatedAt": "2026-05-17T07:35:34.308Z"
+    "createdAt": "2026-05-17T09:51:52.100Z",
+    "updatedAt": "2026-05-17T09:51:52.100Z"
   },
   {
     "id": "1b14943dc223c142",
@@ -108,22 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a0763609a7947da85eb901d",
     "publishedAt": "2026-05-16T16:19:09.000Z",
-    "createdAt": "2026-05-17T07:35:36.545Z",
-    "updatedAt": "2026-05-17T07:35:36.545Z"
-  },
-  {
-    "id": "8a560e13744dfc9f",
-    "title": "«Манчестер Сити» обыграл «Челси» в финале Кубка Англии",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/4/82/347789454253824.jpeg",
-    "teaser": "«Манчестер Сити» обыграл «Челси» в финале Кубка Англии",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69bd27c19a79478b723e6c8c",
-    "publishedAt": "2026-05-16T15:56:16.000Z",
-    "createdAt": "2026-05-17T07:35:38.992Z",
-    "updatedAt": "2026-05-17T07:35:38.992Z"
+    "createdAt": "2026-05-17T09:51:54.288Z",
+    "updatedAt": "2026-05-17T09:51:54.288Z"
   },
   {
     "id": "f0e1d8c6b37a90d2",
@@ -136,7 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a0757909a79475c8acc0e61",
     "publishedAt": "2026-05-16T15:43:04.000Z",
-    "createdAt": "2026-05-17T07:35:37.780Z",
-    "updatedAt": "2026-05-17T07:35:37.780Z"
+    "createdAt": "2026-05-17T09:51:55.403Z",
+    "updatedAt": "2026-05-17T09:51:55.403Z"
   }
 ]
