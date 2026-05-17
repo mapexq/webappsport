@@ -1,5 +1,75 @@
 [
   {
+    "id": "c46b85a59088ba01",
+    "title": "Даниил Медведев ответил на вопрос о бойкоте «Большого шлема» из-за денег",
+    "sport": "Теннис",
+    "category": "Теннис",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/2/18/347790202077182.jpeg",
+    "teaser": "Даниил Медведев ответил на вопрос о бойкоте «Большого шлема» из-за денег",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a09b17f9a79470e782a779b",
+    "publishedAt": "2026-05-17T13:21:31.000Z",
+    "createdAt": "2026-05-17T13:42:38.001Z",
+    "updatedAt": "2026-05-17T13:42:38.001Z"
+  },
+  {
+    "id": "3c6107d5dd7e8d96",
+    "title": "Российский хоккеист установил рекорд клуба НХЛ в XXI веке",
+    "sport": "Хоккей",
+    "category": "Хоккей",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/8/27/347790222350278.jpeg",
+    "teaser": "Российский хоккеист установил рекорд клуба НХЛ в XXI веке",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a09b9589a7947fbec607a82",
+    "publishedAt": "2026-05-17T13:04:33.000Z",
+    "createdAt": "2026-05-17T13:42:39.062Z",
+    "updatedAt": "2026-05-17T13:42:39.062Z"
+  },
+  {
+    "id": "59453cf96d6604de",
+    "title": "Сборная США по хоккею одержала первую победу на чемпионате мира",
+    "sport": "Хоккей",
+    "category": "Хоккей",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/4/10/347790175198104.png",
+    "teaser": "Сборная США по хоккею одержала первую победу на чемпионате мира",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a09a1c49a7947474ee4b67b",
+    "publishedAt": "2026-05-17T12:36:25.000Z",
+    "createdAt": "2026-05-17T13:42:40.497Z",
+    "updatedAt": "2026-05-17T13:42:40.497Z"
+  },
+  {
+    "id": "da6105cc7d7722d7",
+    "title": "Спортивная команда из КНДР впервые с 2018 года приехала в Южную Корею",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/9/19/347790194822199.png",
+    "teaser": "Спортивная команда из КНДР впервые с 2018 года приехала в Южную Корею",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a09a7ac9a794747f89276a5",
+    "publishedAt": "2026-05-17T12:08:25.000Z",
+    "createdAt": "2026-05-17T13:42:42.773Z",
+    "updatedAt": "2026-05-17T13:42:42.773Z"
+  },
+  {
+    "id": "660bb9bac151b3c8",
+    "title": "Мирра Андреева и Диана Шнайдер выиграли «тысячник» WTA в Риме",
+    "sport": "Теннис",
+    "category": "Теннис",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/0/69/347790148613690.jpeg",
+    "teaser": "Мирра Андреева и Диана Шнайдер выиграли «тысячник» WTA в Риме",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a099c779a7947c03163e19d",
+    "publishedAt": "2026-05-17T11:20:03.000Z",
+    "createdAt": "2026-05-17T13:42:41.658Z",
+    "updatedAt": "2026-05-17T13:42:41.658Z"
+  },
+  {
     "id": "25890be13bc8f896",
     "title": "НХЛ в пятый раз подряд не разрешит привезти Кубок Стэнли в Россию",
     "sport": "Хоккей",
@@ -10,8 +80,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a098fc69a79470f7c8d5062",
     "publishedAt": "2026-05-17T10:16:31.000Z",
-    "createdAt": "2026-05-17T11:13:07.139Z",
-    "updatedAt": "2026-05-17T11:13:07.139Z"
+    "createdAt": "2026-05-17T13:42:43.881Z",
+    "updatedAt": "2026-05-17T13:42:43.881Z"
   },
   {
     "id": "27ec687f06ca23fc",
@@ -24,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a0989759a79471d7852a3be",
     "publishedAt": "2026-05-17T09:44:28.000Z",
-    "createdAt": "2026-05-17T11:13:08.144Z",
-    "updatedAt": "2026-05-17T11:13:08.144Z"
+    "createdAt": "2026-05-17T13:42:45.036Z",
+    "updatedAt": "2026-05-17T13:42:45.036Z"
   },
   {
     "id": "a4535a5cd25cc8c0",
@@ -38,8 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a09823f9a794719a5ec2fe3",
     "publishedAt": "2026-05-17T09:15:55.000Z",
-    "createdAt": "2026-05-17T11:13:09.199Z",
-    "updatedAt": "2026-05-17T11:13:09.199Z"
+    "createdAt": "2026-05-17T13:42:46.150Z",
+    "updatedAt": "2026-05-17T13:42:46.150Z"
   },
   {
     "id": "0c194559eaa2fa57",
@@ -52,22 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a08b5f79a79472fcf059a4b",
     "publishedAt": "2026-05-17T04:13:57.000Z",
-    "createdAt": "2026-05-17T11:13:10.205Z",
-    "updatedAt": "2026-05-17T11:13:10.205Z"
-  },
-  {
-    "id": "d6c400d4cf255b27",
-    "title": "Станет ли «Зенит» самым титулованным клубом. Главное о «золотом» туре РПЛ",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/8/26/347788605463268.jpeg",
-    "teaser": "Станет ли «Зенит» самым титулованным клубом. Главное о «золотом» туре РПЛ",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a06f7cf9a79474fa9d9e6fb",
-    "publishedAt": "2026-05-16T21:02:37.000Z",
-    "createdAt": "2026-05-17T11:13:12.364Z",
-    "updatedAt": "2026-05-17T11:13:12.364Z"
+    "createdAt": "2026-05-17T13:42:47.357Z",
+    "updatedAt": "2026-05-17T13:42:47.357Z"
   },
   {
     "id": "28c18cb08b543a86",
@@ -80,63 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69b6fdd49a7947406094dfad",
     "publishedAt": "2026-05-16T18:57:56.000Z",
-    "createdAt": "2026-05-17T11:13:11.288Z",
-    "updatedAt": "2026-05-17T11:13:11.288Z"
-  },
-  {
-    "id": "249e2d09b04669c4",
-    "title": "Экс-защитник «Зенита» и сборной Украины Ракицкий завершил карьеру",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/1/27/347789554103271.jpeg",
-    "teaser": "Экс-защитник «Зенита» и сборной Украины Ракицкий завершил карьеру",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a077afe9a79471b4cf7c873",
-    "publishedAt": "2026-05-16T18:20:59.000Z",
-    "createdAt": "2026-05-17T11:13:13.476Z",
-    "updatedAt": "2026-05-17T11:13:13.476Z"
-  },
-  {
-    "id": "34050b47a7074fdb",
-    "title": "Клуб «Ахмат» исключил бойца Джихада Юнусова после конфликта с женщинами",
-    "sport": "Единоборства",
-    "category": "Единоборства",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/8/47/347789503609478.png",
-    "teaser": "Клуб «Ахмат» исключил бойца Джихада Юнусова после конфликта с женщинами",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a08a0cb9a7947157d50eb81",
-    "publishedAt": "2026-05-16T17:32:31.000Z",
-    "createdAt": "2026-05-17T11:13:15.631Z",
-    "updatedAt": "2026-05-17T11:13:15.631Z"
-  },
-  {
-    "id": "8a59a6c96e65e5b1",
-    "title": "Мирра Андреева и Диана Шнайдер вышли в финал второго «тысячника» подряд",
-    "sport": "Теннис",
-    "category": "Теннис",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/3/08/347789416669083.jpeg",
-    "teaser": "Мирра Андреева и Диана Шнайдер вышли в финал второго «тысячника» подряд",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69b58d429a794754f6ca476b",
-    "publishedAt": "2026-05-16T16:27:19.000Z",
-    "createdAt": "2026-05-17T11:13:14.560Z",
-    "updatedAt": "2026-05-17T11:13:14.560Z"
-  },
-  {
-    "id": "1b14943dc223c142",
-    "title": "«Бавария» побила рекорд «Реала» по голам за сезон в топ-5 лиг Европы",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/8/33/347789478091338.jpeg",
-    "teaser": "«Бавария» побила рекорд «Реала» по голам за сезон в топ-5 лиг Европы",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a0763609a7947da85eb901d",
-    "publishedAt": "2026-05-16T16:19:09.000Z",
-    "createdAt": "2026-05-17T11:13:16.753Z",
-    "updatedAt": "2026-05-17T11:13:16.753Z"
+    "createdAt": "2026-05-17T13:42:48.478Z",
+    "updatedAt": "2026-05-17T13:42:48.478Z"
   }
 ]
