@@ -1,6 +1,6 @@
 [
   {
-    "id": 1779163448528,
+    "id": 1779179470273,
     "eventName": "Матч",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -16,7 +16,7 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1779163448529,
+    "id": 1779179470275,
     "eventName": "Матч",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -32,7 +32,7 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1779163448530,
+    "id": 1779179470276,
     "eventName": "Матч",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -48,7 +48,7 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1779163448531,
+    "id": 1779179470277,
     "eventName": "Матч",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -64,23 +64,23 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1779163448532,
-    "eventName": "Баффало — Монреаль",
-    "discipline": "Хоккей",
-    "tournament": "Ла Лига",
+    "id": 1779179470278,
+    "eventName": "Борнмут — Манчестер Сити",
+    "discipline": "Футбол",
+    "tournament": "Чемпионат",
     "expert": {
-      "name": "Дмитрий Фролов",
-      "avatar": "https://wp0.bookmaker-ratings.ru/bookmaker-ratings.ru/wp-content/uploads/2026/01/1c52db2f-f4b1-4db8-8df1-d6c6410b85c6-rb-webp-696931330fe22-696931331d86c.webp?ssl=1&w=60",
+      "name": "Aleksei Кот",
+      "avatar": "https://bookmaker-ratings.ru/static/images/badges/is-kapper.svg?v=30092024",
       "status": "expert",
-      "winRate": 78
+      "winRate": 86
     },
-    "prediction": "Тотал меньше (5.5)",
-    "odds": 1.89,
-    "comment": "Видимо, после перестрелки предыдущего матча, возможно немного успокоятся",
+    "prediction": "Ф1(+1.5)",
+    "odds": 1.5,
+    "comment": "Борнмут очень хорошо играет дома + мативацыя еврокубков Манчестер должен побеждать гонка зачемпионство не закончена поэтому жду минимальныйразрыв в счеёте и победу Сити в этой игре",
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1779163448533,
+    "id": 1779179470279,
     "eventName": "Италия — Норвегия",
     "discipline": "Хоккей",
     "tournament": "Чемпионат",
@@ -96,7 +96,7 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1779163448534,
+    "id": 1779179470280,
     "eventName": "Латвия — Австрия",
     "discipline": "Хоккей",
     "tournament": "Чемпионат",
@@ -112,7 +112,7 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1779163448535,
+    "id": 1779179470281,
     "eventName": "Венгрия — Великобритания",
     "discipline": "Хоккей",
     "tournament": "Чемпионат",
@@ -128,7 +128,7 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1779163448537,
+    "id": 1779179470282,
     "eventName": "Борнмут — Манчестер Сити",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -144,7 +144,7 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1779163448538,
+    "id": 1779179470283,
     "eventName": "Кэмерон Норри — Мариано Навоне",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
