@@ -1,5 +1,89 @@
 [
   {
+    "id": "b8623029b389c29b",
+    "title": "Двух украинских баскетболистов пожизненно дисквалифицировали за ставки",
+    "sport": "Баскетбол",
+    "category": "Баскетбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/0/86/347793095042860.jpeg",
+    "teaser": "Двух украинских баскетболистов пожизненно дисквалифицировали за ставки",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a0e1a489a7947072fa749ca",
+    "publishedAt": "2026-05-20T20:57:05.000Z",
+    "createdAt": "2026-05-20T21:01:12.525Z",
+    "updatedAt": "2026-05-20T21:01:12.525Z"
+  },
+  {
+    "id": "629409922671d16d",
+    "title": "«Астон Вилла» впервые с 1982 года завоевала еврокубковый трофей",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/8/96/347793081498968.jpeg",
+    "teaser": "«Астон Вилла» впервые с 1982 года завоевала еврокубковый трофей",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a0df1219a794744daab11e5",
+    "publishedAt": "2026-05-20T20:54:28.000Z",
+    "createdAt": "2026-05-20T21:01:11.481Z",
+    "updatedAt": "2026-05-20T21:01:11.481Z"
+  },
+  {
+    "id": "16164e7ff336ff55",
+    "title": "Теннисисты ограничат общение с прессой на «Ролан Гаррос» в знак протеста",
+    "sport": "Теннис",
+    "category": "Теннис",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/7/75/347793054042757.jpeg",
+    "teaser": "Теннисисты ограничат общение с прессой на «Ролан Гаррос» в знак протеста",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a0e00d99a79475167aed8f1",
+    "publishedAt": "2026-05-20T19:53:26.000Z",
+    "createdAt": "2026-05-20T21:01:14.723Z",
+    "updatedAt": "2026-05-20T21:01:14.724Z"
+  },
+  {
+    "id": "5790e569e6a7e88f",
+    "title": "Принц Уильям прибыл на финал Лиги Европы поболеть за «Астон Виллу»",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/4/07/347793045512074.jpeg",
+    "teaser": "Принц Уильям прибыл на финал Лиги Европы поболеть за «Астон Виллу»",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a0e050a9a79476074d24a7d",
+    "publishedAt": "2026-05-20T19:41:44.000Z",
+    "createdAt": "2026-05-20T21:01:13.665Z",
+    "updatedAt": "2026-05-20T21:01:13.665Z"
+  },
+  {
+    "id": "9553b6972d65efe0",
+    "title": "Globo узнал условия вызова Неймара в сборную Бразилии на ЧМ-2026",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/9/77/347793020364779.jpeg",
+    "teaser": "Globo узнал условия вызова Неймара в сборную Бразилии на ЧМ-2026",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a0df8649a79476d5d309a36",
+    "publishedAt": "2026-05-20T18:52:21.000Z",
+    "createdAt": "2026-05-20T21:01:15.656Z",
+    "updatedAt": "2026-05-20T21:01:15.656Z"
+  },
+  {
+    "id": "429f87c2a4c46688",
+    "title": "Клуб Дзюбы выиграл первый стыковой матч за право сыграть в РПЛ",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/6/44/347792999869446.jpeg",
+    "teaser": "Клуб Дзюбы выиграл первый стыковой матч за право сыграть в РПЛ",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a0de4f09a7947e6ce89631e",
+    "publishedAt": "2026-05-20T18:35:43.000Z",
+    "createdAt": "2026-05-20T21:01:16.649Z",
+    "updatedAt": "2026-05-20T21:01:16.649Z"
+  },
+  {
     "id": "05827bf5f50cb672",
     "title": "«Астон Вилла» и «Фрайбург» назвали стартовые составы на финал Лиги Европы",
     "sport": "Футбол",
@@ -10,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a0df6579a794757a55f02d4",
     "publishedAt": "2026-05-20T18:04:24.000Z",
-    "createdAt": "2026-05-20T18:22:31.094Z",
-    "updatedAt": "2026-05-20T18:22:31.094Z"
+    "createdAt": "2026-05-20T21:01:17.742Z",
+    "updatedAt": "2026-05-20T21:01:17.742Z"
   },
   {
     "id": "1515eaa1110a54f9",
@@ -24,8 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a0dd8779a7947464aaf3b4d",
     "publishedAt": "2026-05-20T17:37:35.000Z",
-    "createdAt": "2026-05-20T18:22:32.175Z",
-    "updatedAt": "2026-05-20T18:22:32.175Z"
+    "createdAt": "2026-05-20T21:01:18.789Z",
+    "updatedAt": "2026-05-20T21:01:18.789Z"
   },
   {
     "id": "ad1187e022279071",
@@ -38,8 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a0de5419a79475241f6a42c",
     "publishedAt": "2026-05-20T17:06:50.000Z",
-    "createdAt": "2026-05-20T18:22:33.196Z",
-    "updatedAt": "2026-05-20T18:22:33.196Z"
+    "createdAt": "2026-05-20T21:01:19.864Z",
+    "updatedAt": "2026-05-20T21:01:19.864Z"
   },
   {
     "id": "bac1afddb83f5155",
@@ -52,91 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a0dd8689a7947d191ad8412",
     "publishedAt": "2026-05-20T16:32:25.000Z",
-    "createdAt": "2026-05-20T18:22:34.233Z",
-    "updatedAt": "2026-05-20T18:22:34.233Z"
-  },
-  {
-    "id": "50f04d081c9bdcd5",
-    "title": "УЕФА утвердил новый формат отбора на чемпионаты Европы с 2028 года",
-    "sport": "Хоккей",
-    "category": "Хоккей",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/7/42/347792896888427.jpeg",
-    "teaser": "УЕФА утвердил новый формат отбора на чемпионаты Европы с 2028 года",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a0dcd169a794727ebf3069c",
-    "publishedAt": "2026-05-20T15:38:21.000Z",
-    "createdAt": "2026-05-20T18:22:35.320Z",
-    "updatedAt": "2026-05-20T18:22:35.320Z"
-  },
-  {
-    "id": "8a991794a969cf37",
-    "title": "Тренера клуба ВХЛ дисквалифицировали на матч финала плей-офф",
-    "sport": "Хоккей",
-    "category": "Хоккей",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/7/97/347792877689977.jpeg",
-    "teaser": "Тренера клуба ВХЛ дисквалифицировали на матч финала плей-офф",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a0dc2469a7947d18c5ce046",
-    "publishedAt": "2026-05-20T15:03:30.000Z",
-    "createdAt": "2026-05-20T18:22:38.326Z",
-    "updatedAt": "2026-05-20T18:22:38.326Z"
-  },
-  {
-    "id": "9fa5c29e15ad92ea",
-    "title": "Суперфинал Кубка России рассудит самый молодой арбитр в истории",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/0/54/347792886176540.jpeg",
-    "teaser": "Суперфинал Кубка России рассудит самый молодой арбитр в истории",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a0dc5ee9a79478a17ccedfe",
-    "publishedAt": "2026-05-20T15:02:32.000Z",
-    "createdAt": "2026-05-20T18:22:36.344Z",
-    "updatedAt": "2026-05-20T18:22:36.344Z"
-  },
-  {
-    "id": "884a7d03d08be398",
-    "title": "Две россиянки из семи вышли в финал квалификации «Ролан Гаррос»",
-    "sport": "Теннис",
-    "category": "Теннис",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/3/97/347792876206973.jpeg",
-    "teaser": "Две россиянки из семи вышли в финал квалификации «Ролан Гаррос»",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a0dc61d9a79473e81346eeb",
-    "publishedAt": "2026-05-20T14:48:41.000Z",
-    "createdAt": "2026-05-20T18:22:39.354Z",
-    "updatedAt": "2026-05-20T18:22:39.354Z"
-  },
-  {
-    "id": "68b6987770bf83b1",
-    "title": "В «Динамо» вернется немецкий тренер, покинувший клуб в 2022 году",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/1/72/347792867096721.jpeg",
-    "teaser": "В «Динамо» вернется немецкий тренер, покинувший клуб в 2022 году",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a0dc28e9a7947d18c5ce04f",
-    "publishedAt": "2026-05-20T14:43:50.000Z",
-    "createdAt": "2026-05-20T18:22:37.307Z",
-    "updatedAt": "2026-05-20T18:22:37.307Z"
-  },
-  {
-    "id": "89f1b544e51506fe",
-    "title": "Кокорин покинет клуб, в котором отыграл четыре сезона",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/9/22/347792822396229.jpeg",
-    "teaser": "Кокорин покинет клуб, в котором отыграл четыре сезона",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a0db10f9a7947d1922d2cb2",
-    "publishedAt": "2026-05-20T13:11:23.000Z",
-    "createdAt": "2026-05-20T18:22:40.414Z",
-    "updatedAt": "2026-05-20T18:22:40.414Z"
+    "createdAt": "2026-05-20T21:01:20.930Z",
+    "updatedAt": "2026-05-20T21:01:20.930Z"
   }
 ]
