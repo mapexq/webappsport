@@ -1,5 +1,75 @@
 [
   {
+    "id": "4e597f303b341321",
+    "title": "Футбольное «Динамо» объявило об уходе главного тренера",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/1/26/347794369515261.jpeg",
+    "teaser": "Футбольное «Динамо» объявило об уходе главного тренера",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a100d5c9a794792faa0e985",
+    "publishedAt": "2026-05-22T08:09:40.000Z",
+    "createdAt": "2026-05-22T08:24:35.966Z",
+    "updatedAt": "2026-05-22T08:24:35.966Z"
+  },
+  {
+    "id": "0b923470d9cb5422",
+    "title": "Главный тренер клуба Роналду объявил об уходе после чемпионства",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/8/14/347794340367148.jpeg",
+    "teaser": "Главный тренер клуба Роналду объявил об уходе после чемпионства",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a0ffcb89a79479885a4c567",
+    "publishedAt": "2026-05-22T07:51:56.000Z",
+    "createdAt": "2026-05-22T08:24:37.040Z",
+    "updatedAt": "2026-05-22T08:24:37.040Z"
+  },
+  {
+    "id": "9f6b2196ef5fabbc",
+    "title": "«Монреаль» с Демидовым сенсационно обыграл самую русскую команду НХЛ",
+    "sport": "Хоккей",
+    "category": "Хоккей",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/5/17/347794310379175.jpeg",
+    "teaser": "«Монреаль» с Демидовым сенсационно обыграл самую русскую команду НХЛ",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a0ff4699a79475a104b3fb6",
+    "publishedAt": "2026-05-22T07:03:32.000Z",
+    "createdAt": "2026-05-22T08:24:38.131Z",
+    "updatedAt": "2026-05-22T08:24:38.131Z"
+  },
+  {
+    "id": "029cd1afe9aaefdf",
+    "title": "Умер двукратный чемпион NASCAR Кайл Буш",
+    "sport": "Другое",
+    "category": "Другие",
+    "imageUrl": "/images/news-placeholder.jpg",
+    "teaser": "Умер двукратный чемпион NASCAR Кайл Буш",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a0fa7b89a79474409042b18",
+    "publishedAt": "2026-05-22T00:48:30.000Z",
+    "createdAt": "2026-05-22T08:24:40.204Z",
+    "updatedAt": "2026-05-22T08:24:40.204Z"
+  },
+  {
+    "id": "11a521d38d4ac87e",
+    "title": "Путин поздравил «Локомотив» с завоеванием Кубка Гагарина",
+    "sport": "Хоккей",
+    "category": "Хоккей",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/1/25/347793977352251.jpeg",
+    "teaser": "Путин поздравил «Локомотив» с завоеванием Кубка Гагарина",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a0f73159a79477a0591e189",
+    "publishedAt": "2026-05-21T22:52:20.000Z",
+    "createdAt": "2026-05-22T08:24:41.389Z",
+    "updatedAt": "2026-05-22T08:24:41.389Z"
+  },
+  {
     "id": "f29ba8c67fde3d32",
     "title": "Дегтярев назвал второй титул «Локомотива» показателем системной работы",
     "sport": "Хоккей",
@@ -10,8 +80,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a0f63559a794723e0fd1d56",
     "publishedAt": "2026-05-21T20:56:41.000Z",
-    "createdAt": "2026-05-22T04:09:12.033Z",
-    "updatedAt": "2026-05-22T04:09:12.033Z"
+    "createdAt": "2026-05-22T08:24:43.748Z",
+    "updatedAt": "2026-05-22T08:24:43.748Z"
   },
   {
     "id": "b7dd1ac6a8d4195d",
@@ -24,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a0f626b9a7947956e56a37b",
     "publishedAt": "2026-05-21T20:54:02.000Z",
-    "createdAt": "2026-05-22T04:09:10.943Z",
-    "updatedAt": "2026-05-22T04:09:10.943Z"
+    "createdAt": "2026-05-22T08:24:42.577Z",
+    "updatedAt": "2026-05-22T08:24:42.577Z"
   },
   {
     "id": "ea1319a84f4ae1ba",
@@ -38,8 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a0f5e4c9a794787511ff57c",
     "publishedAt": "2026-05-21T19:51:05.000Z",
-    "createdAt": "2026-05-22T04:09:13.119Z",
-    "updatedAt": "2026-05-22T04:09:13.119Z"
+    "createdAt": "2026-05-22T08:24:44.913Z",
+    "updatedAt": "2026-05-22T08:24:44.913Z"
   },
   {
     "id": "be5a947808618e88",
@@ -52,22 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a0f56109a79475a4468e06c",
     "publishedAt": "2026-05-21T19:45:49.000Z",
-    "createdAt": "2026-05-22T04:09:15.775Z",
-    "updatedAt": "2026-05-22T04:09:15.775Z"
-  },
-  {
-    "id": "c5dd2fdaa262339f",
-    "title": "КХЛ назвала самого ценного игрока Кубка Гагарина",
-    "sport": "Хоккей",
-    "category": "Хоккей",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/8/12/347793908926128.png",
-    "teaser": "КХЛ назвала самого ценного игрока Кубка Гагарина",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a0f57d99a794707a53d561a",
-    "publishedAt": "2026-05-21T19:15:41.000Z",
-    "createdAt": "2026-05-22T04:09:16.909Z",
-    "updatedAt": "2026-05-22T04:09:16.909Z"
+    "createdAt": "2026-05-22T08:24:47.254Z",
+    "updatedAt": "2026-05-22T08:24:47.254Z"
   },
   {
     "id": "8cc902d12fd0c75f",
@@ -80,63 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a0f3d919a794742aacf1490",
     "publishedAt": "2026-05-21T18:55:45.000Z",
-    "createdAt": "2026-05-22T04:09:14.613Z",
-    "updatedAt": "2026-05-22T04:09:14.613Z"
-  },
-  {
-    "id": "35ff9d8872f7649a",
-    "title": "Журналист NYT узнал о возвращении вице-чемпиона Олимпиады из АХЛ в Россию",
-    "sport": "Хоккей",
-    "category": "Хоккей",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/7/46/347793877946467.jpeg",
-    "teaser": "Журналист NYT узнал о возвращении вице-чемпиона Олимпиады из АХЛ в Россию",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a0f49929a7947775d45fb17",
-    "publishedAt": "2026-05-21T18:51:36.000Z",
-    "createdAt": "2026-05-22T04:09:19.192Z",
-    "updatedAt": "2026-05-22T04:09:19.192Z"
-  },
-  {
-    "id": "2d1c3f345ae6c022",
-    "title": "Гарри Магуайр заявил о шоке из-за непопадания в сборную Англии на ЧМ-2026",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/5/31/347793839235315.jpeg",
-    "teaser": "Гарри Магуайр заявил о шоке из-за непопадания в сборную Англии на ЧМ-2026",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a0f3e4d9a7947bca654e29f",
-    "publishedAt": "2026-05-21T17:39:17.000Z",
-    "createdAt": "2026-05-22T04:09:20.340Z",
-    "updatedAt": "2026-05-22T04:09:20.340Z"
-  },
-  {
-    "id": "8d356cbab41ec140",
-    "title": "Сын Плющенко прокомментировал переход в сборную Азербайджана",
-    "sport": "Другое",
-    "category": "Фигурное катание",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/8/99/347793823180998.jpeg",
-    "teaser": "Сын Плющенко прокомментировал переход в сборную Азербайджана",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a0f34e79a79479746b92584",
-    "publishedAt": "2026-05-21T17:11:56.000Z",
-    "createdAt": "2026-05-22T04:09:18.055Z",
-    "updatedAt": "2026-05-22T04:09:18.055Z"
-  },
-  {
-    "id": "fd4d0812554ef433",
-    "title": "Сборная Канады с трудом спаслась от проигрыша Норвегии на ЧМ по хоккею",
-    "sport": "Хоккей",
-    "category": "Хоккей",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/2/24/347793794303242.png",
-    "teaser": "Сборная Канады с трудом спаслась от проигрыша Норвегии на ЧМ по хоккею",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a0f2a679a794722a7a6a5be",
-    "publishedAt": "2026-05-21T16:56:58.000Z",
-    "createdAt": "2026-05-22T04:09:21.511Z",
-    "updatedAt": "2026-05-22T04:09:21.511Z"
+    "createdAt": "2026-05-22T08:24:46.095Z",
+    "updatedAt": "2026-05-22T08:24:46.095Z"
   }
 ]
