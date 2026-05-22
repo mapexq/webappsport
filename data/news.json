@@ -1,5 +1,89 @@
 [
   {
+    "id": "4043f846bcef6d93",
+    "title": "Сборная Канады выиграла пятый подряд матч на ЧМ по хоккею",
+    "sport": "Хоккей",
+    "category": "Хоккей",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/5/32/347794677547325.jpeg",
+    "teaser": "Сборная Канады выиграла пятый подряд матч на ЧМ по хоккею",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a1085b49a794713ccfad507",
+    "publishedAt": "2026-05-22T16:41:29.000Z",
+    "createdAt": "2026-05-22T17:11:31.969Z",
+    "updatedAt": "2026-05-22T17:11:31.969Z"
+  },
+  {
+    "id": "35e875a30b5b9427",
+    "title": "Кокорин забил первый в сезоне гол в последнем матче за кипрский «Арис»",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/1/93/347794659703931.jpeg",
+    "teaser": "Кокорин забил первый в сезоне гол в последнем матче за кипрский «Арис»",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a107ed29a79471572ba5ac7",
+    "publishedAt": "2026-05-22T16:32:08.000Z",
+    "createdAt": "2026-05-22T17:11:30.962Z",
+    "updatedAt": "2026-05-22T17:11:30.962Z"
+  },
+  {
+    "id": "e61ba88d2671fed3",
+    "title": "«Реал» объявил об уходе четырехкратного победителя Лиги чемпионов",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/0/94/347794665871940.jpeg",
+    "teaser": "«Реал» объявил об уходе четырехкратного победителя Лиги чемпионов",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a107bb09a79471d8d921b3f",
+    "publishedAt": "2026-05-22T16:29:08.000Z",
+    "createdAt": "2026-05-22T17:11:32.880Z",
+    "updatedAt": "2026-05-22T17:11:32.881Z"
+  },
+  {
+    "id": "bac6a56924cf1955",
+    "title": "Рублев поддержал протест против турниров «Большого шлема»",
+    "sport": "Теннис",
+    "category": "Теннис",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/7/98/347794653077987.jpeg",
+    "teaser": "Рублев поддержал протест против турниров «Большого шлема»",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a1076ad9a79471cbb7b8d07",
+    "publishedAt": "2026-05-22T16:16:35.000Z",
+    "createdAt": "2026-05-22T17:11:33.944Z",
+    "updatedAt": "2026-05-22T17:11:33.944Z"
+  },
+  {
+    "id": "a326f87d810ed8fc",
+    "title": "Чемпионат мира по борьбе перенесли из Бахрейна в Астану",
+    "sport": "Единоборства",
+    "category": "Единоборства",
+    "imageUrl": "/images/news-placeholder.jpg",
+    "teaser": "Чемпионат мира по борьбе перенесли из Бахрейна в Астану",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a106d9e9a7947ecf1c31822",
+    "publishedAt": "2026-05-22T15:44:03.000Z",
+    "createdAt": "2026-05-22T17:11:35.925Z",
+    "updatedAt": "2026-05-22T17:11:35.925Z"
+  },
+  {
+    "id": "0ec848ae5d9e19ca",
+    "title": "Четвертая ракетка России пробился в основную сетку «Ролан Гаррос»",
+    "sport": "Теннис",
+    "category": "Теннис",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/4/45/347794582110454.jpeg",
+    "teaser": "Четвертая ракетка России пробился в основную сетку «Ролан Гаррос»",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a1060759a79475171f1d0a1",
+    "publishedAt": "2026-05-22T14:56:21.000Z",
+    "createdAt": "2026-05-22T17:11:39.065Z",
+    "updatedAt": "2026-05-22T17:11:39.065Z"
+  },
+  {
     "id": "7a64b95a57293351",
     "title": "Смолов заявил, что «с высокой вероятностью» закончил карьеру футболиста",
     "sport": "Футбол",
@@ -10,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a1061789a79476cb0395876",
     "publishedAt": "2026-05-22T14:43:58.000Z",
-    "createdAt": "2026-05-22T14:49:33.550Z",
-    "updatedAt": "2026-05-22T14:49:33.550Z"
+    "createdAt": "2026-05-22T17:11:37.033Z",
+    "updatedAt": "2026-05-22T17:11:37.033Z"
   },
   {
     "id": "88051ccc24d68923",
@@ -24,8 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a10656a9a794710b6dbd53b",
     "publishedAt": "2026-05-22T14:36:45.000Z",
-    "createdAt": "2026-05-22T14:49:34.648Z",
-    "updatedAt": "2026-05-22T14:49:34.648Z"
+    "createdAt": "2026-05-22T17:11:38.150Z",
+    "updatedAt": "2026-05-22T17:11:38.150Z"
   },
   {
     "id": "a1a34d2e25b92b68",
@@ -38,8 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a105a009a7947289f2da88f",
     "publishedAt": "2026-05-22T14:15:36.000Z",
-    "createdAt": "2026-05-22T14:49:35.765Z",
-    "updatedAt": "2026-05-22T14:49:35.765Z"
+    "createdAt": "2026-05-22T17:11:40.232Z",
+    "updatedAt": "2026-05-22T17:11:40.232Z"
   },
   {
     "id": "52def324d83d7e77",
@@ -52,91 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a1053ce9a79475df006fb4c",
     "publishedAt": "2026-05-22T13:31:38.000Z",
-    "createdAt": "2026-05-22T14:49:36.881Z",
-    "updatedAt": "2026-05-22T14:49:36.881Z"
-  },
-  {
-    "id": "925f18394d1b2d34",
-    "title": "Футболист ЦСКА отсудил у «Аэрофлота» ₽6,8 млн за билеты на Мальдивы",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/9/28/347794545194289.jpeg",
-    "teaser": "Футболист ЦСКА отсудил у «Аэрофлота» ₽6,8 млн за билеты на Мальдивы",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a104a939a794717caa5a236",
-    "publishedAt": "2026-05-22T13:22:15.000Z",
-    "createdAt": "2026-05-22T14:49:37.936Z",
-    "updatedAt": "2026-05-22T14:49:37.936Z"
-  },
-  {
-    "id": "529604407d86518e",
-    "title": "Павлюченко назвал себя «дураком» за отказ перейти в европейский клуб",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/5/37/347794530510375.jpeg",
-    "teaser": "Павлюченко назвал себя «дураком» за отказ перейти в европейский клуб",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a104c429a7947c13c5438f1",
-    "publishedAt": "2026-05-22T12:48:04.000Z",
-    "createdAt": "2026-05-22T14:49:39.117Z",
-    "updatedAt": "2026-05-22T14:49:39.117Z"
-  },
-  {
-    "id": "e0ad5b9f2bcb66ec",
-    "title": "Сихарулидзе пожелал сыну Плющенко реализовать себя в Азербайджане",
-    "sport": "Другое",
-    "category": "Фигурное катание",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/9/13/347794522161139.jpeg",
-    "teaser": "Сихарулидзе пожелал сыну Плющенко реализовать себя в Азербайджане",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a1045e79a79472472ea7f28",
-    "publishedAt": "2026-05-22T12:40:17.000Z",
-    "createdAt": "2026-05-22T14:49:40.220Z",
-    "updatedAt": "2026-05-22T14:49:40.220Z"
-  },
-  {
-    "id": "d3fcaec0094aa809",
-    "title": "Англия представила «шокирующий» состав на чемпионат мира 2026 года",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/1/71/347794449788711.jpeg",
-    "teaser": "Англия представила «шокирующий» состав на чемпионат мира 2026 года",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a1021369a7947341cbc2c6e",
-    "publishedAt": "2026-05-22T12:27:17.000Z",
-    "createdAt": "2026-05-22T14:49:41.328Z",
-    "updatedAt": "2026-05-22T14:49:41.328Z"
-  },
-  {
-    "id": "94b2cc74297b338c",
-    "title": "Bloomberg включил Месси в список миллиардеров",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/0/61/347794504755610.jpeg",
-    "teaser": "Bloomberg включил Месси в список миллиардеров",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a10421b9a794774fc02788f",
-    "publishedAt": "2026-05-22T12:12:45.000Z",
-    "createdAt": "2026-05-22T14:49:42.462Z",
-    "updatedAt": "2026-05-22T14:49:42.462Z"
-  },
-  {
-    "id": "b29c87636382cbae",
-    "title": "«Динамо» вновь возглавил немецкий тренер, покинувший клуб в 2022 году",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/6/58/347792628010586.jpeg",
-    "teaser": "«Динамо» вновь возглавил немецкий тренер, покинувший клуб в 2022 году",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a0d650f9a79471264db5c1a",
-    "publishedAt": "2026-05-22T11:25:05.000Z",
-    "createdAt": "2026-05-22T14:49:43.386Z",
-    "updatedAt": "2026-05-22T14:49:43.386Z"
+    "createdAt": "2026-05-22T17:11:41.361Z",
+    "updatedAt": "2026-05-22T17:11:41.361Z"
   }
 ]
