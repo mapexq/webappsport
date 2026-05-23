@@ -1,5 +1,75 @@
 [
   {
+    "id": "d2eb48c86c81fbeb",
+    "title": "Украинский каратист отказался от совместного фото с россиянином на ЧЕ",
+    "sport": "Другое",
+    "category": "Другие",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/4/67/347795413811674.jpeg",
+    "teaser": "Украинский каратист отказался от совместного фото с россиянином на ЧЕ",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a0ae0509a79470d09dd3837",
+    "publishedAt": "2026-05-23T13:09:11.000Z",
+    "createdAt": "2026-05-23T13:48:23.014Z",
+    "updatedAt": "2026-05-23T13:48:23.014Z"
+  },
+  {
+    "id": "3037444a76e4e72d",
+    "title": "Сборная Латвии сенсационно обыграла олимпийских чемпионов на ЧМ по хоккею",
+    "sport": "Хоккей",
+    "category": "Хоккей",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/6/59/347795400221596.jpeg",
+    "teaser": "Сборная Латвии сенсационно обыграла олимпийских чемпионов на ЧМ по хоккею",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a11a0049a7947877191ebda",
+    "publishedAt": "2026-05-23T12:48:46.000Z",
+    "createdAt": "2026-05-23T13:48:24.098Z",
+    "updatedAt": "2026-05-23T13:48:24.098Z"
+  },
+  {
+    "id": "5b37855d6bb0ac7b",
+    "title": "ФИФА запретила российскому рекордсмену ЛЧ играть за Норвегию до 2028 года",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/6/80/347795392099806.jpeg",
+    "teaser": "ФИФА запретила российскому рекордсмену ЛЧ играть за Норвегию до 2028 года",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a06d2a59a794749db192f05",
+    "publishedAt": "2026-05-23T12:36:34.000Z",
+    "createdAt": "2026-05-23T13:48:25.177Z",
+    "updatedAt": "2026-05-23T13:48:25.177Z"
+  },
+  {
+    "id": "7da556487e71a923",
+    "title": "Минимум 34 из 42 участников «Олимпиады на стероидах» будут на допинге",
+    "sport": "Другое",
+    "category": "Другие",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/4/05/347795362115054.jpeg",
+    "teaser": "Минимум 34 из 42 участников «Олимпиады на стероидах» будут на допинге",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a08b8939a79472a758f2a00",
+    "publishedAt": "2026-05-23T12:01:13.000Z",
+    "createdAt": "2026-05-23T13:48:26.296Z",
+    "updatedAt": "2026-05-23T13:48:26.296Z"
+  },
+  {
+    "id": "8e8704f5fc88e03b",
+    "title": "Карпин вызвал в сборную нового форварда на ближайшие товарищеские матчи",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/3/91/347795350292913.jpeg",
+    "teaser": "Карпин вызвал в сборную нового форварда на ближайшие товарищеские матчи",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a08b9a29a7947373b41eb42",
+    "publishedAt": "2026-05-23T11:22:01.000Z",
+    "createdAt": "2026-05-23T13:48:27.422Z",
+    "updatedAt": "2026-05-23T13:48:27.422Z"
+  },
+  {
     "id": "42cea2ae4e8f99cd",
     "title": "В «Динамо» поставили перед новым главным тренером задачу выиграть трофей",
     "sport": "Футбол",
@@ -10,11 +80,11 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a09d2679a7947c63112e62b",
     "publishedAt": "2026-05-23T11:15:03.000Z",
-    "createdAt": "2026-05-23T11:16:44.556Z",
-    "updatedAt": "2026-05-23T11:16:44.556Z"
+    "createdAt": "2026-05-23T13:48:28.550Z",
+    "updatedAt": "2026-05-23T13:48:28.550Z"
   },
   {
-    "id": "287584bc83254cc9",
+    "id": "19049d3408948856",
     "title": "Четырехкратный чемпион «Формулы-1» Ален Прост пострадал при ограблении",
     "sport": "Другое",
     "category": "Формула-1",
@@ -23,9 +93,9 @@
     "fullContent": "",
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a09d1b59a79474439240e48",
-    "publishedAt": "2026-05-23T11:04:33.000Z",
-    "createdAt": "2026-05-23T11:16:45.625Z",
-    "updatedAt": "2026-05-23T11:16:45.625Z"
+    "publishedAt": "2026-05-23T11:04:37.000Z",
+    "createdAt": "2026-05-23T13:48:29.717Z",
+    "updatedAt": "2026-05-23T13:48:29.717Z"
   },
   {
     "id": "ddef78b9741101ab",
@@ -38,8 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a09ede59a79478435d7f56c",
     "publishedAt": "2026-05-23T10:22:22.000Z",
-    "createdAt": "2026-05-23T11:16:46.723Z",
-    "updatedAt": "2026-05-23T11:16:46.723Z"
+    "createdAt": "2026-05-23T13:48:30.870Z",
+    "updatedAt": "2026-05-23T13:48:30.870Z"
   },
   {
     "id": "9764edd4df60bab3",
@@ -52,8 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a0e14c69a794761a5554d19",
     "publishedAt": "2026-05-23T10:07:10.000Z",
-    "createdAt": "2026-05-23T11:16:47.748Z",
-    "updatedAt": "2026-05-23T11:16:47.748Z"
+    "createdAt": "2026-05-23T13:48:31.980Z",
+    "updatedAt": "2026-05-23T13:48:31.980Z"
   },
   {
     "id": "f4fa6e9933024b2d",
@@ -66,77 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a1179a19a79474621372c91",
     "publishedAt": "2026-05-23T10:06:11.000Z",
-    "createdAt": "2026-05-23T11:16:48.833Z",
-    "updatedAt": "2026-05-23T11:16:48.833Z"
-  },
-  {
-    "id": "06a05af7bd4e8b4e",
-    "title": "Ферстаппен заявил, что не покинет «Формулу-1» в следующем сезоне",
-    "sport": "Другое",
-    "category": "Формула-1",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/1/01/347795289355011.jpeg",
-    "teaser": "Ферстаппен заявил, что не покинет «Формулу-1» в следующем сезоне",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a0f32ef9a79470ab5ea5fb3",
-    "publishedAt": "2026-05-23T09:43:42.000Z",
-    "createdAt": "2026-05-23T11:16:49.910Z",
-    "updatedAt": "2026-05-23T11:16:49.910Z"
-  },
-  {
-    "id": "e27c81f9548710f2",
-    "title": "Анатолий Карпов заявил, что Магнус Карлсен «зазнался»",
-    "sport": "Другое",
-    "category": "Другие",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/4/36/347795278893364.jpeg",
-    "teaser": "Анатолий Карпов заявил, что Магнус Карлсен «зазнался»",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a10a7469a7947360373f3f1",
-    "publishedAt": "2026-05-23T09:23:06.000Z",
-    "createdAt": "2026-05-23T11:16:50.988Z",
-    "updatedAt": "2026-05-23T11:16:50.988Z"
-  },
-  {
-    "id": "2bddb1557b2113aa",
-    "title": "Умер чемпион СССР по футболу в составе «Спартака» Сергей Рожков",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/9/96/347795264513969.jpeg",
-    "teaser": "Умер чемпион СССР по футболу в составе «Спартака» Сергей Рожков",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a116b0c9a7947e904e14e6f",
-    "publishedAt": "2026-05-23T09:01:20.000Z",
-    "createdAt": "2026-05-23T11:16:52.023Z",
-    "updatedAt": "2026-05-23T11:16:52.023Z"
-  },
-  {
-    "id": "a85fc635e0028888",
-    "title": "Вице-чемпионка России Муравьева призвала не верить слухам про ее карьеру",
-    "sport": "Другое",
-    "category": "Фигурное катание",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/5/96/347795248506965.jpeg",
-    "teaser": "Вице-чемпионка России Муравьева призвала не верить слухам про ее карьеру",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a1164d59a79471bcaa14eff",
-    "publishedAt": "2026-05-23T08:37:10.000Z",
-    "createdAt": "2026-05-23T11:16:53.101Z",
-    "updatedAt": "2026-05-23T11:16:53.101Z"
-  },
-  {
-    "id": "406235de0a06d1fa",
-    "title": "Хоккеиста Александра Радулова внесли в базу «Миротворца»",
-    "sport": "Хоккей",
-    "category": "Хоккей",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/2/17/347795217140172.jpeg",
-    "teaser": "Хоккеиста Александра Радулова внесли в базу «Миротворца»",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a11588d9a794713ea053f85",
-    "publishedAt": "2026-05-23T07:49:46.000Z",
-    "createdAt": "2026-05-23T11:16:54.172Z",
-    "updatedAt": "2026-05-23T11:16:54.172Z"
+    "createdAt": "2026-05-23T13:48:33.079Z",
+    "updatedAt": "2026-05-23T13:48:33.079Z"
   }
 ]
