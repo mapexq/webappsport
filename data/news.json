@@ -1,5 +1,75 @@
 [
   {
+    "id": "487fd14d487156ac",
+    "title": "Футболисты «Спартака» облили тренера шампанским на пресс-конференции",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/0/20/347796518973200.png",
+    "teaser": "Футболисты «Спартака» облили тренера шампанским на пресс-конференции",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a1354889a7947bf65012165",
+    "publishedAt": "2026-05-24T19:54:41.000Z",
+    "createdAt": "2026-05-24T20:09:55.558Z",
+    "updatedAt": "2026-05-24T20:09:55.558Z"
+  },
+  {
+    "id": "a1cbf37033d67f1e",
+    "title": "Как «Спартак» в пятый раз выиграл Кубок России",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/9/66/347796501223669.jpeg",
+    "teaser": "Как «Спартак» в пятый раз выиграл Кубок России",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a13200d9a7947ee96af8d12",
+    "publishedAt": "2026-05-24T19:38:27.000Z",
+    "createdAt": "2026-05-24T20:09:54.519Z",
+    "updatedAt": "2026-05-24T20:09:54.519Z"
+  },
+  {
+    "id": "8ebaf05fae346050",
+    "title": "Карседо извинился перед вратарем «Спартака» за замену в финале Кубка",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/4/96/347796501641964.png",
+    "teaser": "Карседо извинился перед вратарем «Спартака» за замену в финале Кубка",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a134d009a79472f878730a2",
+    "publishedAt": "2026-05-24T19:19:05.000Z",
+    "createdAt": "2026-05-24T20:09:58.862Z",
+    "updatedAt": "2026-05-24T20:09:58.862Z"
+  },
+  {
+    "id": "529fa2643232cb50",
+    "title": "Фанаты «Спартака» после победы в Кубке спели на стадионе песню МакSим",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/3/41/347796484676413.png",
+    "teaser": "Фанаты «Спартака» после победы в Кубке спели на стадионе песню МакSим",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a1347889a79474c3ddbfe93",
+    "publishedAt": "2026-05-24T18:59:22.000Z",
+    "createdAt": "2026-05-24T20:09:59.848Z",
+    "updatedAt": "2026-05-24T20:09:59.848Z"
+  },
+  {
+    "id": "ec9fb72a089fecf0",
+    "title": "Футболист «Спартака» сломал Кубок России во время празднования",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/6/24/347796463388246.png",
+    "teaser": "Футболист «Спартака» сломал Кубок России во время празднования",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a133e899a79470c9e3973c4",
+    "publishedAt": "2026-05-24T18:22:57.000Z",
+    "createdAt": "2026-05-24T20:09:56.652Z",
+    "updatedAt": "2026-05-24T20:09:56.652Z"
+  },
+  {
     "id": "aac760de53651693",
     "title": "«Акрон» расстался с тренером, который сохранил ему прописку в РПЛ",
     "sport": "Футбол",
@@ -10,8 +80,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a1331609a7947e57215fa4e",
     "publishedAt": "2026-05-24T17:41:49.000Z",
-    "createdAt": "2026-05-24T18:01:28.008Z",
-    "updatedAt": "2026-05-24T18:01:28.008Z"
+    "createdAt": "2026-05-24T20:10:01.944Z",
+    "updatedAt": "2026-05-24T20:10:01.944Z"
   },
   {
     "id": "6fadd6d76f899927",
@@ -24,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a1315159a79476250f86aee",
     "publishedAt": "2026-05-24T17:29:23.000Z",
-    "createdAt": "2026-05-24T18:01:26.977Z",
-    "updatedAt": "2026-05-24T18:01:26.977Z"
+    "createdAt": "2026-05-24T20:10:00.818Z",
+    "updatedAt": "2026-05-24T20:10:00.818Z"
   },
   {
     "id": "91d942822eb3df6a",
@@ -38,22 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a1314e79a79476250f86aea",
     "publishedAt": "2026-05-24T17:19:59.000Z",
-    "createdAt": "2026-05-24T18:01:25.887Z",
-    "updatedAt": "2026-05-24T18:01:25.887Z"
-  },
-  {
-    "id": "08275b7e71211e71",
-    "title": "Мирра Андреева с уверенной победы стартовала на «Ролан Гаррос»",
-    "sport": "Теннис",
-    "category": "Теннис",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/8/44/347796379440448.jpeg",
-    "teaser": "Мирра Андреева с уверенной победы стартовала на «Ролан Гаррос»",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a1313aa9a794733409ba11f",
-    "publishedAt": "2026-05-24T15:54:08.000Z",
-    "createdAt": "2026-05-24T18:01:31.292Z",
-    "updatedAt": "2026-05-24T18:01:31.292Z"
+    "createdAt": "2026-05-24T20:09:57.739Z",
+    "updatedAt": "2026-05-24T20:09:57.739Z"
   },
   {
     "id": "089c1c8a85f8cb91",
@@ -66,22 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a130b4b9a79471bf2ebea16",
     "publishedAt": "2026-05-24T15:29:56.000Z",
-    "createdAt": "2026-05-24T18:01:29.100Z",
-    "updatedAt": "2026-05-24T18:01:29.100Z"
-  },
-  {
-    "id": "f2ef6e3c72b21aad",
-    "title": "Клуб Слуцкого продлил серию без побед до шести матчей",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/2/03/347796280269032.jpeg",
-    "teaser": "Клуб Слуцкого продлил серию без побед до шести матчей",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a12f7119a7947b1c2d78f72",
-    "publishedAt": "2026-05-24T14:27:38.000Z",
-    "createdAt": "2026-05-24T18:01:35.688Z",
-    "updatedAt": "2026-05-24T18:01:35.688Z"
+    "createdAt": "2026-05-24T20:10:02.969Z",
+    "updatedAt": "2026-05-24T20:10:02.969Z"
   },
   {
     "id": "72947fb176f6ccea",
@@ -94,49 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a12c0b99a7947c3e94e941f",
     "publishedAt": "2026-05-24T11:26:48.000Z",
-    "createdAt": "2026-05-24T18:01:30.195Z",
-    "updatedAt": "2026-05-24T18:01:30.195Z"
-  },
-  {
-    "id": "cd4d600b729b29bb",
-    "title": "Протесты и фавориты. Главное о «Ролан Гаррос» — 2026",
-    "sport": "Теннис",
-    "category": "Теннис",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/2/06/347795428568062.jpeg",
-    "teaser": "Протесты и фавориты. Главное о «Ролан Гаррос» — 2026",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a117c939a79474b5bfbaaa5",
-    "publishedAt": "2026-05-24T07:00:41.000Z",
-    "createdAt": "2026-05-24T18:01:32.382Z",
-    "updatedAt": "2026-05-24T18:01:32.382Z"
-  },
-  {
-    "id": "18a9b36edd479014",
-    "title": "Россиянин в деле. Кто из медалистов выступит на «Олимпиаде на стероидах»",
-    "sport": "Другое",
-    "category": "Другие",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/7/16/347652883657167.jpeg",
-    "teaser": "Россиянин в деле. Кто из медалистов выступит на «Олимпиаде на стероидах»",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/68e8df259a7947ce151da787",
-    "publishedAt": "2026-05-24T04:38:07.000Z",
-    "createdAt": "2026-05-24T18:01:33.467Z",
-    "updatedAt": "2026-05-24T18:01:33.467Z"
-  },
-  {
-    "id": "7c75478a76a81758",
-    "title": "Последний шанс «Спартака» и «Краснодара». Главное о финале Кубка России",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/3/90/347793645961903.jpeg",
-    "teaser": "Последний шанс «Спартака» и «Краснодара». Главное о финале Кубка России",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a0c36889a79476399a87aea",
-    "publishedAt": "2026-05-23T21:02:24.000Z",
-    "createdAt": "2026-05-24T18:01:34.582Z",
-    "updatedAt": "2026-05-24T18:01:34.582Z"
+    "createdAt": "2026-05-24T20:10:04.060Z",
+    "updatedAt": "2026-05-24T20:10:04.060Z"
   }
 ]
