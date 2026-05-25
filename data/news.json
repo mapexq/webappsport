@@ -1,5 +1,89 @@
 [
   {
+    "id": "83b1a6ff819608e7",
+    "title": "Лучшего бомбардира РПЛ с травмой включили в состав Колумбии на ЧМ-2026",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/2/66/347797335451662.png",
+    "teaser": "Лучшего бомбардира РПЛ с травмой включили в состав Колумбии на ЧМ-2026",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a148e8b9a7947b56733c142",
+    "publishedAt": "2026-05-25T18:39:48.000Z",
+    "createdAt": "2026-05-25T18:46:23.868Z",
+    "updatedAt": "2026-05-25T18:46:23.868Z"
+  },
+  {
+    "id": "fa926ad5c20b0531",
+    "title": "Рублев вышел во второй круг турнира «Ролан Гаррос»",
+    "sport": "Теннис",
+    "category": "Теннис",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/0/39/347797322779390.jpeg",
+    "teaser": "Рублев вышел во второй круг турнира «Ролан Гаррос»",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a144cfd9a794713c5f5f221",
+    "publishedAt": "2026-05-25T18:18:11.000Z",
+    "createdAt": "2026-05-25T18:46:22.869Z",
+    "updatedAt": "2026-05-25T18:46:22.869Z"
+  },
+  {
+    "id": "0c97269454e6a1aa",
+    "title": "Сборная Норвегии впервые за 14 лет вышла в четвертьфинал ЧМ по хоккею",
+    "sport": "Хоккей",
+    "category": "Хоккей",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/5/24/347797306889245.png",
+    "teaser": "Сборная Норвегии впервые за 14 лет вышла в четвертьфинал ЧМ по хоккею",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a14860f9a7947ff8c5fecf9",
+    "publishedAt": "2026-05-25T17:49:37.000Z",
+    "createdAt": "2026-05-25T18:46:25.039Z",
+    "updatedAt": "2026-05-25T18:46:25.039Z"
+  },
+  {
+    "id": "b2ccff6babb844fa",
+    "title": "Сборная США победила Венгрию на ЧМ по хоккею, но пока не вышла в плей-офф",
+    "sport": "Хоккей",
+    "category": "Хоккей",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/9/49/347797231682499.png",
+    "teaser": "Сборная США победила Венгрию на ЧМ по хоккею, но пока не вышла в плей-офф",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a146b079a79471176d2dd39",
+    "publishedAt": "2026-05-25T17:11:23.000Z",
+    "createdAt": "2026-05-25T18:46:30.509Z",
+    "updatedAt": "2026-05-25T18:46:30.509Z"
+  },
+  {
+    "id": "a772eb7f29467bb1",
+    "title": "ПСЖ запретили парад на Елисейских Полях в честь победы в Лиге чемпионов",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/2/82/347797266646822.png",
+    "teaser": "ПСЖ запретили парад на Елисейских Полях в честь победы в Лиге чемпионов",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a1473419a794783ee773e4e",
+    "publishedAt": "2026-05-25T17:03:51.000Z",
+    "createdAt": "2026-05-25T18:46:28.338Z",
+    "updatedAt": "2026-05-25T18:46:28.338Z"
+  },
+  {
+    "id": "7e24fb4f048edb96",
+    "title": "«Милан» отправил в отставку главного тренера после непопадания в ЛЧ",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/5/71/347797272945715.jpeg",
+    "teaser": "«Милан» отправил в отставку главного тренера после непопадания в ЛЧ",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a1478969a7947ea021b84a6",
+    "publishedAt": "2026-05-25T16:53:21.000Z",
+    "createdAt": "2026-05-25T18:46:29.392Z",
+    "updatedAt": "2026-05-25T18:46:29.392Z"
+  },
+  {
     "id": "5cbbc92bb1af9fb9",
     "title": "«Автомобилист» расторг контракт с лучшим бомбардиром сезона",
     "sport": "Хоккей",
@@ -10,22 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a1468469a7947805d10a3e6",
     "publishedAt": "2026-05-25T15:58:01.000Z",
-    "createdAt": "2026-05-25T16:25:12.644Z",
-    "updatedAt": "2026-05-25T16:25:12.644Z"
-  },
-  {
-    "id": "4f0bc0e23dcbd909",
-    "title": "Футбольное «Торпедо» объявило об увольнении пяти тренеров",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/8/91/347797219454918.jpeg",
-    "teaser": "Футбольное «Торпедо» объявило об увольнении пяти тренеров",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a1463519a7947aceaf9be7f",
-    "publishedAt": "2026-05-25T15:24:07.000Z",
-    "createdAt": "2026-05-25T16:25:14.513Z",
-    "updatedAt": "2026-05-25T16:25:14.513Z"
+    "createdAt": "2026-05-25T18:46:32.427Z",
+    "updatedAt": "2026-05-25T18:46:32.427Z"
   },
   {
     "id": "b3ac2dacb08faae3",
@@ -38,78 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a145efe9a7947e29214ec49",
     "publishedAt": "2026-05-25T15:03:49.000Z",
-    "createdAt": "2026-05-25T16:25:13.692Z",
-    "updatedAt": "2026-05-25T16:25:13.692Z"
-  },
-  {
-    "id": "17e505820363cadb",
-    "title": "Журналист узнал, какой клуб возглавит уволенный из сборной Италии тренер",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/6/50/347797192828506.jpeg",
-    "teaser": "Журналист узнал, какой клуб возглавит уволенный из сборной Италии тренер",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a1458219a7947598e92744a",
-    "publishedAt": "2026-05-25T14:40:43.000Z",
-    "createdAt": "2026-05-25T16:25:18.577Z",
-    "updatedAt": "2026-05-25T16:25:18.577Z"
-  },
-  {
-    "id": "53fbe451646616cd",
-    "title": "У игрока сборной Саудовской Аравии перед ЧМ украли паспорт в Амстердаме",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/8/78/347797177012788.png",
-    "teaser": "У игрока сборной Саудовской Аравии перед ЧМ украли паспорт в Амстердаме",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a1455ea9a7947ce79340872",
-    "publishedAt": "2026-05-25T14:30:49.000Z",
-    "createdAt": "2026-05-25T16:25:17.529Z",
-    "updatedAt": "2026-05-25T16:25:17.529Z"
-  },
-  {
-    "id": "e8057ead1d8b82ff",
-    "title": "ЦСКА объявил об автоматическом продлении контракта с Лукиным",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/3/65/347797178598653.jpeg",
-    "teaser": "ЦСКА объявил об автоматическом продлении контракта с Лукиным",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a1454929a79479959a26edd",
-    "publishedAt": "2026-05-25T14:11:16.000Z",
-    "createdAt": "2026-05-25T16:25:19.670Z",
-    "updatedAt": "2026-05-25T16:25:19.670Z"
-  },
-  {
-    "id": "8c5155346ed6af75",
-    "title": "Бывший футболист «Спартака» завершил карьеру",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/4/99/347797147565994.jpeg",
-    "teaser": "Бывший футболист «Спартака» завершил карьеру",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a1446fe9a7947017cddae18",
-    "publishedAt": "2026-05-25T13:44:27.000Z",
-    "createdAt": "2026-05-25T16:25:21.730Z",
-    "updatedAt": "2026-05-25T16:25:21.730Z"
-  },
-  {
-    "id": "85ee979f501875cf",
-    "title": "Российская теннисистка объяснила нежелание играть за сборную Италии",
-    "sport": "Теннис",
-    "category": "Теннис",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/0/72/347797137702720.png",
-    "teaser": "Российская теннисистка объяснила нежелание играть за сборную Италии",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a1446b69a79471b8dcbdcb5",
-    "publishedAt": "2026-05-25T13:31:16.000Z",
-    "createdAt": "2026-05-25T16:25:20.704Z",
-    "updatedAt": "2026-05-25T16:25:20.704Z"
+    "createdAt": "2026-05-25T18:46:31.567Z",
+    "updatedAt": "2026-05-25T18:46:31.567Z"
   },
   {
     "id": "4b9b014a3d382776",
@@ -122,8 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a1186db9a79475ae5fc5a92",
     "publishedAt": "2026-05-25T08:42:04.000Z",
-    "createdAt": "2026-05-25T16:25:15.542Z",
-    "updatedAt": "2026-05-25T16:25:15.542Z"
+    "createdAt": "2026-05-25T18:46:27.293Z",
+    "updatedAt": "2026-05-25T18:46:27.293Z"
   },
   {
     "id": "80f19d29eb2f0832",
@@ -136,7 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a1302d99a7947ac156fd6d0",
     "publishedAt": "2026-05-25T06:05:23.000Z",
-    "createdAt": "2026-05-25T16:25:16.571Z",
-    "updatedAt": "2026-05-25T16:25:16.571Z"
+    "createdAt": "2026-05-25T18:46:26.226Z",
+    "updatedAt": "2026-05-25T18:46:26.226Z"
   }
 ]
