@@ -1,5 +1,75 @@
 [
   {
+    "id": "a7b888b9d7e2eac4",
+    "title": "Футболист вылетевшего из РПЛ клуба попал в состав сборной Панамы на ЧМ-26",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/7/70/347798245181707.jpeg",
+    "teaser": "Футболист вылетевшего из РПЛ клуба попал в состав сборной Панамы на ЧМ-26",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a15f4cb9a79479337cd62ad",
+    "publishedAt": "2026-05-26T19:53:30.000Z",
+    "createdAt": "2026-05-26T20:16:23.217Z",
+    "updatedAt": "2026-05-26T20:16:23.217Z"
+  },
+  {
+    "id": "5535f9cdff88a002",
+    "title": "Сборная России по футболу прилетела на товарищеский матч с Египтом в Каир",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/6/10/347798215022106.jpeg",
+    "teaser": "Сборная России по футболу прилетела на товарищеский матч с Египтом в Каир",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a15e8a09a79473869b94d1f",
+    "publishedAt": "2026-05-26T19:01:05.000Z",
+    "createdAt": "2026-05-26T20:16:24.283Z",
+    "updatedAt": "2026-05-26T20:16:24.283Z"
+  },
+  {
+    "id": "3a4352776e16f878",
+    "title": "Малкин подписал новый контракт с «Питтсбургом»",
+    "sport": "Хоккей",
+    "category": "Хоккей",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/6/66/347798195977666.jpeg",
+    "teaser": "Малкин подписал новый контракт с «Питтсбургом»",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a15e4279a79474db43dffbf",
+    "publishedAt": "2026-05-26T18:26:16.000Z",
+    "createdAt": "2026-05-26T20:16:25.289Z",
+    "updatedAt": "2026-05-26T20:16:25.290Z"
+  },
+  {
+    "id": "99617b08fc4bbc81",
+    "title": "Россиянка разгромно проиграла украинке на старте «Ролан Гаррос»",
+    "sport": "Теннис",
+    "category": "Теннис",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/6/14/347798180214146.jpeg",
+    "teaser": "Россиянка разгромно проиграла украинке на старте «Ролан Гаррос»",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a15ddf09a794737bdce14ec",
+    "publishedAt": "2026-05-26T18:13:27.000Z",
+    "createdAt": "2026-05-26T20:16:26.357Z",
+    "updatedAt": "2026-05-26T20:16:26.357Z"
+  },
+  {
+    "id": "1c86fee7ff5316a6",
+    "title": "Бублик третьим из топ-10 вылетел в первом раунде «Ролан Гаррос»",
+    "sport": "Теннис",
+    "category": "Теннис",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/4/53/347798170008534.jpeg",
+    "teaser": "Бублик третьим из топ-10 вылетел в первом раунде «Ролан Гаррос»",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a15da039a79473b1c893cee",
+    "publishedAt": "2026-05-26T17:48:17.000Z",
+    "createdAt": "2026-05-26T20:16:27.447Z",
+    "updatedAt": "2026-05-26T20:16:27.447Z"
+  },
+  {
     "id": "4257598079f491b5",
     "title": "Молдавский футболист «Спартака» попрощался с клубом",
     "sport": "Футбол",
@@ -10,8 +80,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a15ccd79a79474739124833",
     "publishedAt": "2026-05-26T16:57:57.000Z",
-    "createdAt": "2026-05-26T17:30:17.425Z",
-    "updatedAt": "2026-05-26T17:30:17.425Z"
+    "createdAt": "2026-05-26T20:16:29.434Z",
+    "updatedAt": "2026-05-26T20:16:29.434Z"
   },
   {
     "id": "4b34f268aef35f99",
@@ -24,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a15cddf9a7947227a116771",
     "publishedAt": "2026-05-26T16:53:54.000Z",
-    "createdAt": "2026-05-26T17:30:16.419Z",
-    "updatedAt": "2026-05-26T17:30:16.419Z"
+    "createdAt": "2026-05-26T20:16:28.440Z",
+    "updatedAt": "2026-05-26T20:16:28.440Z"
   },
   {
     "id": "29031a31380cf6f8",
@@ -38,8 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a15ca5f9a794725fd5682ea",
     "publishedAt": "2026-05-26T16:52:31.000Z",
-    "createdAt": "2026-05-26T17:30:20.632Z",
-    "updatedAt": "2026-05-26T17:30:20.632Z"
+    "createdAt": "2026-05-26T20:16:33.030Z",
+    "updatedAt": "2026-05-26T20:16:33.030Z"
   },
   {
     "id": "5204fabb4fee109e",
@@ -52,22 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a15c6e29a79471221e92db0",
     "publishedAt": "2026-05-26T16:40:04.000Z",
-    "createdAt": "2026-05-26T17:30:18.508Z",
-    "updatedAt": "2026-05-26T17:30:18.508Z"
-  },
-  {
-    "id": "5ddff4443e3e6faa",
-    "title": "«Югра» победила в ВХЛ и получила титул чемпиона России по хоккею",
-    "sport": "Хоккей",
-    "category": "Хоккей",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/4/40/347798123365404.jpeg",
-    "teaser": "«Югра» победила в ВХЛ и получила титул чемпиона России по хоккею",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a15c28c9a79477473440db7",
-    "publishedAt": "2026-05-26T16:25:04.000Z",
-    "createdAt": "2026-05-26T17:30:21.751Z",
-    "updatedAt": "2026-05-26T17:30:21.751Z"
+    "createdAt": "2026-05-26T20:16:30.550Z",
+    "updatedAt": "2026-05-26T20:16:30.550Z"
   },
   {
     "id": "5624a02e601d0105",
@@ -80,63 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a15be3d9a794706bde5dd7b",
     "publishedAt": "2026-05-26T16:22:42.000Z",
-    "createdAt": "2026-05-26T17:30:19.591Z",
-    "updatedAt": "2026-05-26T17:30:19.591Z"
-  },
-  {
-    "id": "2305919dc052bee4",
-    "title": "L'Equipe включила Сафонова в топ-10 голкиперов мира",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/4/78/347798039712784.jpeg",
-    "teaser": "L'Equipe включила Сафонова в топ-10 голкиперов мира",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a15a02f9a7947b75bb23319",
-    "publishedAt": "2026-05-26T16:08:08.000Z",
-    "createdAt": "2026-05-26T17:30:22.847Z",
-    "updatedAt": "2026-05-26T17:30:22.847Z"
-  },
-  {
-    "id": "f25f9fb2ff343e64",
-    "title": "Стала известна дата следующего боя чемпиона PFL Усмана Нурмагомедова",
-    "sport": "Единоборства",
-    "category": "Единоборства",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/5/44/347798092067445.jpeg",
-    "teaser": "Стала известна дата следующего боя чемпиона PFL Усмана Нурмагомедова",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a15bb749a7947edd9bb3f01",
-    "publishedAt": "2026-05-26T15:58:12.000Z",
-    "createdAt": "2026-05-26T17:30:23.931Z",
-    "updatedAt": "2026-05-26T17:30:23.931Z"
-  },
-  {
-    "id": "c0e918085be4519b",
-    "title": "Помощник Карпина рассказал, кто из вратарей сыграет в матче против Египта",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/9/83/347798092992839.jpeg",
-    "teaser": "Помощник Карпина рассказал, кто из вратарей сыграет в матче против Египта",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a15b74f9a794770940e1b0e",
-    "publishedAt": "2026-05-26T15:37:15.000Z",
-    "createdAt": "2026-05-26T17:30:25.006Z",
-    "updatedAt": "2026-05-26T17:30:25.006Z"
-  },
-  {
-    "id": "9b0cb312c2c15daa",
-    "title": "Коллекционную карточку звезды НБА продали за рекордные $5,11 млн",
-    "sport": "Баскетбол",
-    "category": "Баскетбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/6/29/347798052798296.jpeg",
-    "teaser": "Коллекционную карточку звезды НБА продали за рекордные $5,11 млн",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a15ac139a794736d0bf631a",
-    "publishedAt": "2026-05-26T14:49:13.000Z",
-    "createdAt": "2026-05-26T17:30:26.069Z",
-    "updatedAt": "2026-05-26T17:30:26.069Z"
+    "createdAt": "2026-05-26T20:16:31.941Z",
+    "updatedAt": "2026-05-26T20:16:31.941Z"
   }
 ]
