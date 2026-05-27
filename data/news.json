@@ -1,5 +1,61 @@
 [
   {
+    "id": "f8bfcc93d211b63c",
+    "title": "Финал Лиги конференций приостановили для оказания медпомощи болельщику",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/9/50/347799134435509.jpeg",
+    "teaser": "Финал Лиги конференций приостановили для оказания медпомощи болельщику",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a174a1f9a79478582187a52",
+    "publishedAt": "2026-05-27T20:18:27.000Z",
+    "createdAt": "2026-05-27T21:04:01.024Z",
+    "updatedAt": "2026-05-27T21:04:01.024Z"
+  },
+  {
+    "id": "02de78a319c18fa1",
+    "title": "Карпин объяснил вызов футболиста «Манчестер Юнайтед» в сборную",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/2/33/347799082556332.jpeg",
+    "teaser": "Карпин объяснил вызов футболиста «Манчестер Юнайтед» в сборную",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a173c1e9a7947c70cda30d8",
+    "publishedAt": "2026-05-27T20:10:47.000Z",
+    "createdAt": "2026-05-27T21:04:02.062Z",
+    "updatedAt": "2026-05-27T21:04:02.062Z"
+  },
+  {
+    "id": "16ab09dce6708ae5",
+    "title": "В Российскую премьер-лигу приняли два клуба",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/5/20/347799055726205.png",
+    "teaser": "В Российскую премьер-лигу приняли два клуба",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a17328b9a794729c491440c",
+    "publishedAt": "2026-05-27T18:41:30.000Z",
+    "createdAt": "2026-05-27T21:04:04.217Z",
+    "updatedAt": "2026-05-27T21:04:04.217Z"
+  },
+  {
+    "id": "fd8bc47cab1a01c1",
+    "title": "Головин пропустит матчи сборной России из-за перелома пальца",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/7/33/347799058572337.png",
+    "teaser": "Головин пропустит матчи сборной России из-за перелома пальца",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a1734859a794726a4c91908",
+    "publishedAt": "2026-05-27T18:36:13.000Z",
+    "createdAt": "2026-05-27T21:04:03.126Z",
+    "updatedAt": "2026-05-27T21:04:03.126Z"
+  },
+  {
     "id": "22eaedf6e6f61433",
     "title": "Чех несколько минут не мог встать с корта после победы на «Ролан Гаррос»",
     "sport": "Теннис",
@@ -10,8 +66,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a17295b9a7947a72e015814",
     "publishedAt": "2026-05-27T17:53:40.000Z",
-    "createdAt": "2026-05-27T18:03:51.539Z",
-    "updatedAt": "2026-05-27T18:03:51.539Z"
+    "createdAt": "2026-05-27T21:04:05.221Z",
+    "updatedAt": "2026-05-27T21:04:05.221Z"
   },
   {
     "id": "96d9ab523790ce8f",
@@ -24,8 +80,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a17105c9a79473dab66eb92",
     "publishedAt": "2026-05-27T17:48:10.000Z",
-    "createdAt": "2026-05-27T18:03:53.735Z",
-    "updatedAt": "2026-05-27T18:03:53.735Z"
+    "createdAt": "2026-05-27T21:04:07.449Z",
+    "updatedAt": "2026-05-27T21:04:07.449Z"
   },
   {
     "id": "9f110ac0cfe69a4d",
@@ -38,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a171f879a79473d1edb63b0",
     "publishedAt": "2026-05-27T17:23:54.000Z",
-    "createdAt": "2026-05-27T18:03:52.632Z",
-    "updatedAt": "2026-05-27T18:03:52.632Z"
+    "createdAt": "2026-05-27T21:04:06.374Z",
+    "updatedAt": "2026-05-27T21:04:06.374Z"
   },
   {
     "id": "2b1b9250a96c9425",
@@ -52,8 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a171c2f9a7947e1fea9b1bc",
     "publishedAt": "2026-05-27T17:04:59.000Z",
-    "createdAt": "2026-05-27T18:03:54.837Z",
-    "updatedAt": "2026-05-27T18:03:54.837Z"
+    "createdAt": "2026-05-27T21:04:08.519Z",
+    "updatedAt": "2026-05-27T21:04:08.519Z"
   },
   {
     "id": "ae55267d3aee07ba",
@@ -66,8 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a1713799a79475ba475a15a",
     "publishedAt": "2026-05-27T16:11:32.000Z",
-    "createdAt": "2026-05-27T18:03:55.963Z",
-    "updatedAt": "2026-05-27T18:03:55.963Z"
+    "createdAt": "2026-05-27T21:04:09.518Z",
+    "updatedAt": "2026-05-27T21:04:09.518Z"
   },
   {
     "id": "1ec18be259dd2888",
@@ -80,63 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a1707f19a79470f23526102",
     "publishedAt": "2026-05-27T15:53:44.000Z",
-    "createdAt": "2026-05-27T18:03:57.057Z",
-    "updatedAt": "2026-05-27T18:03:57.057Z"
-  },
-  {
-    "id": "83d93feb98fa01e5",
-    "title": "Модный дом Gucci станет титульным партнером одной из команд «Формулы-1»",
-    "sport": "Другое",
-    "category": "Формула-1",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/5/09/347798940456095.jpeg",
-    "teaser": "Модный дом Gucci станет титульным партнером одной из команд «Формулы-1»",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a1704069a79475d6e192071",
-    "publishedAt": "2026-05-27T15:16:49.000Z",
-    "createdAt": "2026-05-27T18:03:58.162Z",
-    "updatedAt": "2026-05-27T18:03:58.162Z"
-  },
-  {
-    "id": "091f72c14161b148",
-    "title": "Нойер не сыграет в товарищеском матче сборной Германии из-за травмы",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/5/61/347798921042615.jpeg",
-    "teaser": "Нойер не сыграет в товарищеском матче сборной Германии из-за травмы",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a16ff0f9a79474b76b3fa73",
-    "publishedAt": "2026-05-27T15:00:48.000Z",
-    "createdAt": "2026-05-27T18:04:01.366Z",
-    "updatedAt": "2026-05-27T18:04:01.366Z"
-  },
-  {
-    "id": "7d3384139ac7aef5",
-    "title": "Бронзовый призер ЧЕ-2012 по гимнастике Да Силва погиб в ДТП во Франции",
-    "sport": "Другое",
-    "category": "Другие",
-    "imageUrl": "/images/news-placeholder.jpg",
-    "teaser": "Бронзовый призер ЧЕ-2012 по гимнастике Да Силва погиб в ДТП во Франции",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a16f8ea9a79474a77ac93ea",
-    "publishedAt": "2026-05-27T14:48:03.000Z",
-    "createdAt": "2026-05-27T18:04:00.257Z",
-    "updatedAt": "2026-05-27T18:04:00.257Z"
-  },
-  {
-    "id": "40cccaeee32c76ca",
-    "title": "Джокович побил рекорд Федерера на турнирах «Большого шлема»",
-    "sport": "Теннис",
-    "category": "Теннис",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/5/59/347798795050595.png",
-    "teaser": "Джокович побил рекорд Федерера на турнирах «Большого шлема»",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a16ce099a79475896c7ae9c",
-    "publishedAt": "2026-05-27T13:57:30.000Z",
-    "createdAt": "2026-05-27T18:04:02.829Z",
-    "updatedAt": "2026-05-27T18:04:02.829Z"
+    "createdAt": "2026-05-27T21:04:10.607Z",
+    "updatedAt": "2026-05-27T21:04:10.607Z"
   }
 ]
