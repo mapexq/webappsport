@@ -1,5 +1,89 @@
 [
   {
+    "id": "a53e4ad93d29d0e1",
+    "title": "COPE узнала о срыве сделки по покупке «Севильи» Серхио Рамосом",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/1/04/347799549668041.jpeg",
+    "teaser": "COPE узнала о срыве сделки по покупке «Севильи» Серхио Рамосом",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a17e80f9a79479c07572f06",
+    "publishedAt": "2026-05-28T08:04:42.000Z",
+    "createdAt": "2026-05-28T08:46:25.915Z",
+    "updatedAt": "2026-05-28T08:46:25.915Z"
+  },
+  {
+    "id": "2cbd6d0556fe5409",
+    "title": "Самая русская команда НХЛ оказалась в шаге от выхода в финал Кубка Стэнли",
+    "sport": "Хоккей",
+    "category": "Хоккей",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/0/54/347799494970540.jpeg",
+    "teaser": "Самая русская команда НХЛ оказалась в шаге от выхода в финал Кубка Стэнли",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a17dd0a9a794773cd8529ec",
+    "publishedAt": "2026-05-28T07:17:35.000Z",
+    "createdAt": "2026-05-28T08:46:27.680Z",
+    "updatedAt": "2026-05-28T08:46:27.680Z"
+  },
+  {
+    "id": "dfd4883f09018489",
+    "title": "Дисциплинарный совет IIHF аннулировал решение о недопуске сборных России",
+    "sport": "Хоккей",
+    "category": "Хоккей",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/5/35/347799534948355.jpeg",
+    "teaser": "Дисциплинарный совет IIHF аннулировал решение о недопуске сборных России",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a17e8c09a7947ef2c78995d",
+    "publishedAt": "2026-05-28T07:07:44.000Z",
+    "createdAt": "2026-05-28T08:46:24.688Z",
+    "updatedAt": "2026-05-28T08:46:24.688Z"
+  },
+  {
+    "id": "8414f0457f0d3a96",
+    "title": "Тренер сборной Сенегала пригрозил бойкотом ЧМ из-за отсутствия контракта",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/4/76/347799512607764.jpeg",
+    "teaser": "Тренер сборной Сенегала пригрозил бойкотом ЧМ из-за отсутствия контракта",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a17e08c9a7947a03f707ea7",
+    "publishedAt": "2026-05-28T07:07:07.000Z",
+    "createdAt": "2026-05-28T08:46:29.656Z",
+    "updatedAt": "2026-05-28T08:46:29.656Z"
+  },
+  {
+    "id": "e9e9862ca98036e6",
+    "title": "В США три штата начали расследование из-за обмана ФИФА с билетами на ЧМ",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/4/69/347799190477694.jpeg",
+    "teaser": "В США три штата начали расследование из-за обмана ФИФА с билетами на ЧМ",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a1764fd9a794737c175459a",
+    "publishedAt": "2026-05-28T05:35:35.000Z",
+    "createdAt": "2026-05-28T08:46:28.716Z",
+    "updatedAt": "2026-05-28T08:46:28.716Z"
+  },
+  {
+    "id": "616695fcd4c9a0f5",
+    "title": "«Почините табло». Как живущий в ХХ веке клуб дошел до финала Еврокубка",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/1/84/347793164248841.jpeg",
+    "teaser": "«Почините табло». Как живущий в ХХ веке клуб дошел до финала Еврокубка",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a0c758c9a7947e5065a3b66",
+    "publishedAt": "2026-05-28T04:02:09.000Z",
+    "createdAt": "2026-05-28T08:46:30.658Z",
+    "updatedAt": "2026-05-28T08:46:30.658Z"
+  },
+  {
     "id": "4e3e3a6fb16495fd",
     "title": "Девять клубов АПЛ выступят еврокубках в следующем сезоне",
     "sport": "Футбол",
@@ -10,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a175e029a79470dfc033486",
     "publishedAt": "2026-05-27T21:41:20.000Z",
-    "createdAt": "2026-05-28T04:07:27.285Z",
-    "updatedAt": "2026-05-28T04:07:27.285Z"
+    "createdAt": "2026-05-28T08:46:32.622Z",
+    "updatedAt": "2026-05-28T08:46:32.622Z"
   },
   {
     "id": "0619e758aa3c1c96",
@@ -24,8 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a1740d29a79474e157e84ef",
     "publishedAt": "2026-05-27T21:40:31.000Z",
-    "createdAt": "2026-05-28T04:07:29.162Z",
-    "updatedAt": "2026-05-28T04:07:29.162Z"
+    "createdAt": "2026-05-28T08:46:34.594Z",
+    "updatedAt": "2026-05-28T08:46:34.594Z"
   },
   {
     "id": "cd6602b83244c793",
@@ -38,8 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a17516d9a79475242749987",
     "publishedAt": "2026-05-27T21:12:14.000Z",
-    "createdAt": "2026-05-28T04:07:26.240Z",
-    "updatedAt": "2026-05-28T04:07:26.240Z"
+    "createdAt": "2026-05-28T08:46:31.650Z",
+    "updatedAt": "2026-05-28T08:46:31.650Z"
   },
   {
     "id": "f8bfcc93d211b63c",
@@ -52,91 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a174a1f9a79478582187a52",
     "publishedAt": "2026-05-27T20:18:27.000Z",
-    "createdAt": "2026-05-28T04:07:28.328Z",
-    "updatedAt": "2026-05-28T04:07:28.328Z"
-  },
-  {
-    "id": "02de78a319c18fa1",
-    "title": "Карпин объяснил вызов футболиста «Манчестер Юнайтед» в сборную",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/2/33/347799082556332.jpeg",
-    "teaser": "Карпин объяснил вызов футболиста «Манчестер Юнайтед» в сборную",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a173c1e9a7947c70cda30d8",
-    "publishedAt": "2026-05-27T20:10:47.000Z",
-    "createdAt": "2026-05-28T04:07:30.257Z",
-    "updatedAt": "2026-05-28T04:07:30.257Z"
-  },
-  {
-    "id": "16ab09dce6708ae5",
-    "title": "В Российскую премьер-лигу приняли два клуба",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/5/20/347799055726205.png",
-    "teaser": "В Российскую премьер-лигу приняли два клуба",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a17328b9a794729c491440c",
-    "publishedAt": "2026-05-27T18:41:30.000Z",
-    "createdAt": "2026-05-28T04:07:32.389Z",
-    "updatedAt": "2026-05-28T04:07:32.389Z"
-  },
-  {
-    "id": "fd8bc47cab1a01c1",
-    "title": "Головин пропустит матчи сборной России из-за перелома пальца",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/7/33/347799058572337.png",
-    "teaser": "Головин пропустит матчи сборной России из-за перелома пальца",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a1734859a794726a4c91908",
-    "publishedAt": "2026-05-27T18:36:13.000Z",
-    "createdAt": "2026-05-28T04:07:31.306Z",
-    "updatedAt": "2026-05-28T04:07:31.306Z"
-  },
-  {
-    "id": "22eaedf6e6f61433",
-    "title": "Чех несколько минут не мог встать с корта после победы на «Ролан Гаррос»",
-    "sport": "Теннис",
-    "category": "Теннис",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/3/04/347799032420043.jpeg",
-    "teaser": "Чех несколько минут не мог встать с корта после победы на «Ролан Гаррос»",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a17295b9a7947a72e015814",
-    "publishedAt": "2026-05-27T17:53:40.000Z",
-    "createdAt": "2026-05-28T04:07:33.438Z",
-    "updatedAt": "2026-05-28T04:07:33.438Z"
-  },
-  {
-    "id": "96d9ab523790ce8f",
-    "title": "Джокович вышел в третий круг «Ролан Гаррос» в рекордном матче",
-    "sport": "Теннис",
-    "category": "Теннис",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/6/17/347798970174176.jpeg",
-    "teaser": "Джокович вышел в третий круг «Ролан Гаррос» в рекордном матче",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a17105c9a79473dab66eb92",
-    "publishedAt": "2026-05-27T17:48:10.000Z",
-    "createdAt": "2026-05-28T04:07:35.336Z",
-    "updatedAt": "2026-05-28T04:07:35.336Z"
-  },
-  {
-    "id": "9f110ac0cfe69a4d",
-    "title": "Тренер бросил теннисиста в разгар «Ролан Гаррос» и улетел в Майами",
-    "sport": "Теннис",
-    "category": "Теннис",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/6/94/347799012290946.jpeg",
-    "teaser": "Тренер бросил теннисиста в разгар «Ролан Гаррос» и улетел в Майами",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a171f879a79473d1edb63b0",
-    "publishedAt": "2026-05-27T17:23:54.000Z",
-    "createdAt": "2026-05-28T04:07:34.278Z",
-    "updatedAt": "2026-05-28T04:07:34.278Z"
+    "createdAt": "2026-05-28T08:46:33.605Z",
+    "updatedAt": "2026-05-28T08:46:33.605Z"
   }
 ]
