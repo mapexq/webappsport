@@ -1,17 +1,73 @@
 [
   {
-    "id": "399e0d24b6adca72",
-    "title": "Онлайн ПСЖ — «Арсенал». Онлайн финала Лиги чемпионов 0:1 6 Хаверц ПСЖ 2 тайм Арсенал",
+    "id": "e27a30f89359f148",
+    "title": "Сафонов стал первым россиянином, дважды выигравшим Лигу чемпионов",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/8/02/347801679956028.jpeg",
+    "teaser": "Сафонов стал первым россиянином, дважды выигравшим Лигу чемпионов",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a196aaf9a79471620dd9593",
+    "publishedAt": "2026-05-30T19:00:00.000Z",
+    "createdAt": "2026-05-30T19:25:14.414Z",
+    "updatedAt": "2026-05-30T19:25:14.414Z"
+  },
+  {
+    "id": "645185e5c29db147",
+    "title": "Впервые в истории клуб с россиянином второй год подряд выиграл ЛЧ",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/4/87/756678354777874.jpg",
+    "teaser": "Впервые в истории клуб с россиянином второй год подряд выиграл ЛЧ",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a1adf979a7947a38e50b948",
+    "publishedAt": "2026-05-30T19:00:00.000Z",
+    "createdAt": "2026-05-30T19:25:15.568Z",
+    "updatedAt": "2026-05-30T19:25:15.568Z"
+  },
+  {
+    "id": "d6dec167f342ae9c",
+    "title": "ПСЖ — «Арсенал». Онлайн финала Лиги чемпионов Дембеле (п) 65 1:1 Серия пенальти 4:3 6 Хаверц ПСЖ Завершен Арсенал",
     "sport": "Другое",
     "category": "Общее",
     "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/4/62/347801410667624.png",
-    "teaser": "Онлайн ПСЖ — «Арсенал». Онлайн финала Лиги чемпионов 0:1 6 Хаверц ПСЖ 2 тайм Арсенал",
+    "teaser": "ПСЖ — «Арсенал». Онлайн финала Лиги чемпионов Дембеле (п) 65 1:1 Серия пенальти 4:3 6 Хаверц ПСЖ Зав",
     "fullContent": "",
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a1acc019a794756a664deb1",
     "publishedAt": "2026-05-30T19:00:00.000Z",
-    "createdAt": "2026-05-30T17:14:39.906Z",
-    "updatedAt": "2026-05-30T17:14:39.906Z"
+    "createdAt": "2026-05-30T19:25:16.555Z",
+    "updatedAt": "2026-05-30T19:25:16.555Z"
+  },
+  {
+    "id": "a54d94bb7ed637a0",
+    "title": "Гауфф проиграла сменившей гражданство россиянке на «Ролан Гаррос»",
+    "sport": "Теннис",
+    "category": "Теннис",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/7/50/347801655703507.jpeg",
+    "teaser": "Гауфф проиграла сменившей гражданство россиянке на «Ролан Гаррос»",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a1b2a079a794717b5f1518a",
+    "publishedAt": "2026-05-30T19:00:00.000Z",
+    "createdAt": "2026-05-30T19:25:16.561Z",
+    "updatedAt": "2026-05-30T19:25:16.561Z"
+  },
+  {
+    "id": "495706c313a8dffe",
+    "title": "«Балтика» выкупила права на футболиста сборной Панамы",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/7/21/347801641046217.jpeg",
+    "teaser": "«Балтика» выкупила права на футболиста сборной Панамы",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a1b22da9a794708cc1e5cbd",
+    "publishedAt": "2026-05-30T19:00:00.000Z",
+    "createdAt": "2026-05-30T19:25:16.571Z",
+    "updatedAt": "2026-05-30T19:25:16.571Z"
   },
   {
     "id": "4fd630883c35fbac",
@@ -24,8 +80,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a1b0f079a794735e0a3fc8a",
     "publishedAt": "2026-05-30T19:00:00.000Z",
-    "createdAt": "2026-05-30T17:14:39.922Z",
-    "updatedAt": "2026-05-30T17:14:39.922Z"
+    "createdAt": "2026-05-30T19:25:16.577Z",
+    "updatedAt": "2026-05-30T19:25:16.577Z"
   },
   {
     "id": "5a03e166aaff4325",
@@ -38,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a1afffd9a7947ec97e853a0",
     "publishedAt": "2026-05-30T19:00:00.000Z",
-    "createdAt": "2026-05-30T17:14:39.929Z",
-    "updatedAt": "2026-05-30T17:14:39.929Z"
+    "createdAt": "2026-05-30T19:25:16.583Z",
+    "updatedAt": "2026-05-30T19:25:16.583Z"
   },
   {
     "id": "2786a537b30ae2ba",
@@ -52,8 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a1afd7a9a7947298160b26d",
     "publishedAt": "2026-05-30T19:00:00.000Z",
-    "createdAt": "2026-05-30T17:14:40.860Z",
-    "updatedAt": "2026-05-30T17:14:40.860Z"
+    "createdAt": "2026-05-30T19:25:17.615Z",
+    "updatedAt": "2026-05-30T19:25:17.615Z"
   },
   {
     "id": "eff467e0545687a3",
@@ -66,8 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a1aeb109a794710c6a8e1ab",
     "publishedAt": "2026-05-30T19:00:00.000Z",
-    "createdAt": "2026-05-30T17:14:40.870Z",
-    "updatedAt": "2026-05-30T17:14:40.870Z"
+    "createdAt": "2026-05-30T19:25:17.621Z",
+    "updatedAt": "2026-05-30T19:25:17.621Z"
   },
   {
     "id": "9e682919e3f48e27",
@@ -80,63 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a1968629a794764992a5b7e",
     "publishedAt": "2026-05-30T19:00:00.000Z",
-    "createdAt": "2026-05-30T17:14:40.877Z",
-    "updatedAt": "2026-05-30T17:14:40.877Z"
-  },
-  {
-    "id": "930594d5b6cd90ed",
-    "title": "Соболенко с «баранкой» обыграла Касаткину на «Ролан Гаррос»",
-    "sport": "Теннис",
-    "category": "Теннис",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/2/92/347801457174922.jpeg",
-    "teaser": "Соболенко с «баранкой» обыграла Касаткину на «Ролан Гаррос»",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a1addd09a79478d30dd0c38",
-    "publishedAt": "2026-05-30T19:00:00.000Z",
-    "createdAt": "2026-05-30T17:14:40.882Z",
-    "updatedAt": "2026-05-30T17:14:40.882Z"
-  },
-  {
-    "id": "d325be1942c3eef9",
-    "title": "Россиянка Калинская впервые в карьере вышла в 1/8 финала «Ролан Гаррос»",
-    "sport": "Теннис",
-    "category": "Теннис",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/2/80/347801456782802.jpeg",
-    "teaser": "Россиянка Калинская впервые в карьере вышла в 1/8 финала «Ролан Гаррос»",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a1addb59a79473ffb5e4bc0",
-    "publishedAt": "2026-05-30T19:00:00.000Z",
-    "createdAt": "2026-05-30T17:14:40.888Z",
-    "updatedAt": "2026-05-30T17:14:40.888Z"
-  },
-  {
-    "id": "e8970d4761c65e0d",
-    "title": "Дзюба не исключил возвращения в «Спартак»",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/1/49/347801477044491.jpeg",
-    "teaser": "Дзюба не исключил возвращения в «Спартак»",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a1ae5cc9a79470486169a41",
-    "publishedAt": "2026-05-30T19:00:00.000Z",
-    "createdAt": "2026-05-30T17:14:40.896Z",
-    "updatedAt": "2026-05-30T17:14:40.896Z"
-  },
-  {
-    "id": "2b9b54b8cb0ae92c",
-    "title": "Россиянин Павлович за 39 секунд нокаутировал бразильца на турнире UFC",
-    "sport": "Единоборства",
-    "category": "Единоборства",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/5/66/347800471983665.jpeg",
-    "teaser": "Россиянин Павлович за 39 секунд нокаутировал бразильца на турнире UFC",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a195d259a794788c8f70116",
-    "publishedAt": "2026-05-30T19:00:00.000Z",
-    "createdAt": "2026-05-30T17:14:40.901Z",
-    "updatedAt": "2026-05-30T17:14:40.901Z"
+    "createdAt": "2026-05-30T19:25:17.626Z",
+    "updatedAt": "2026-05-30T19:25:17.626Z"
   }
 ]
