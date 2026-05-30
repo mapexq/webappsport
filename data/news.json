@@ -1,5 +1,89 @@
 [
   {
+    "id": "41557e9f6f29f622",
+    "title": "Дзюба не исключил возвращения в «Спартак»",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/1/49/347801477044491.jpeg",
+    "teaser": "Дзюба не исключил возвращения в «Спартак»",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a1ae5cc9a79470486169a41",
+    "publishedAt": "2026-05-30T13:37:11.000Z",
+    "createdAt": "2026-05-30T13:51:20.525Z",
+    "updatedAt": "2026-05-30T13:51:20.525Z"
+  },
+  {
+    "id": "4a42c8a2568e7939",
+    "title": "Бывшая первая ракетка мира впервые вышла в 1/8 финала «Ролан Гаррос»",
+    "sport": "Теннис",
+    "category": "Теннис",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/2/18/347801445201182.jpeg",
+    "teaser": "Бывшая первая ракетка мира впервые вышла в 1/8 финала «Ролан Гаррос»",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a1ad9619a7947125f4b5271",
+    "publishedAt": "2026-05-30T12:47:55.000Z",
+    "createdAt": "2026-05-30T13:51:22.513Z",
+    "updatedAt": "2026-05-30T13:51:22.513Z"
+  },
+  {
+    "id": "e33d1a6a9505990e",
+    "title": "Россиянин Павлович за 39 секунд нокаутировал бразильца на турнире UFC",
+    "sport": "Единоборства",
+    "category": "Единоборства",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/5/66/347800471983665.jpeg",
+    "teaser": "Россиянин Павлович за 39 секунд нокаутировал бразильца на турнире UFC",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a195d259a794788c8f70116",
+    "publishedAt": "2026-05-30T12:45:04.000Z",
+    "createdAt": "2026-05-30T13:51:21.549Z",
+    "updatedAt": "2026-05-30T13:51:21.549Z"
+  },
+  {
+    "id": "63bc3d0e2d5441e1",
+    "title": "«Шанхай» Слуцкого продлил безвыигрышную серию в Китае до семи матчей",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/2/74/347801419332742.jpeg",
+    "teaser": "«Шанхай» Слуцкого продлил безвыигрышную серию в Китае до семи матчей",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a1acf389a794776208b5933",
+    "publishedAt": "2026-05-30T12:01:37.000Z",
+    "createdAt": "2026-05-30T13:51:25.601Z",
+    "updatedAt": "2026-05-30T13:51:25.601Z"
+  },
+  {
+    "id": "63f2379e59a9b364",
+    "title": "Третья ракетка России победила украинку на «Ролан Гаррос»",
+    "sport": "Теннис",
+    "category": "Теннис",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/8/92/347801413115928.jpeg",
+    "teaser": "Третья ракетка России победила украинку на «Ролан Гаррос»",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a1accc79a79477ecd2db84d",
+    "publishedAt": "2026-05-30T11:53:39.000Z",
+    "createdAt": "2026-05-30T13:51:23.566Z",
+    "updatedAt": "2026-05-30T13:51:23.566Z"
+  },
+  {
+    "id": "ccaf98ef7ac47f42",
+    "title": "«Ливерпуль» уволил главного тренера после провального сезона",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/9/43/347801402025439.jpeg",
+    "teaser": "«Ливерпуль» уволил главного тренера после провального сезона",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a1ac88d9a79477ce28a3671",
+    "publishedAt": "2026-05-30T11:30:55.000Z",
+    "createdAt": "2026-05-30T13:51:24.587Z",
+    "updatedAt": "2026-05-30T13:51:24.587Z"
+  },
+  {
     "id": "e0693a280d962fda",
     "title": "Российские гимнастки остались без медалей ЧЕ в личном многоборье",
     "sport": "Другое",
@@ -10,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a1ac5a89a7947bb09935e0c",
     "publishedAt": "2026-05-30T11:19:17.000Z",
-    "createdAt": "2026-05-30T11:25:03.949Z",
-    "updatedAt": "2026-05-30T11:25:03.949Z"
+    "createdAt": "2026-05-30T13:51:26.558Z",
+    "updatedAt": "2026-05-30T13:51:26.558Z"
   },
   {
     "id": "296052af797c2dc8",
@@ -24,8 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a1ac29c9a79479ef7f1d28f",
     "publishedAt": "2026-05-30T11:02:42.000Z",
-    "createdAt": "2026-05-30T11:25:04.752Z",
-    "updatedAt": "2026-05-30T11:25:04.752Z"
+    "createdAt": "2026-05-30T13:51:27.566Z",
+    "updatedAt": "2026-05-30T13:51:27.566Z"
   },
   {
     "id": "477f301abd1cf7f5",
@@ -38,36 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a1abef19a7947085fa510da",
     "publishedAt": "2026-05-30T10:50:04.000Z",
-    "createdAt": "2026-05-30T11:25:05.750Z",
-    "updatedAt": "2026-05-30T11:25:05.750Z"
-  },
-  {
-    "id": "e29a92919cf86f68",
-    "title": "Кто из россиян завоевывал Кубок Стэнли",
-    "sport": "Хоккей",
-    "category": "Хоккей",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/0/80/347186537965800.jpeg",
-    "teaser": "Кто из россиян завоевывал Кубок Стэнли",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/667a36a19a79471459ba4950",
-    "publishedAt": "2026-05-30T10:35:56.000Z",
-    "createdAt": "2026-05-30T11:25:09.804Z",
-    "updatedAt": "2026-05-30T11:25:09.804Z"
-  },
-  {
-    "id": "516cd593f3b4e8f7",
-    "title": "Кто из россиян выступает в Кубке Стэнли",
-    "sport": "Хоккей",
-    "category": "Хоккей",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/8/59/347801366868598.jpeg",
-    "teaser": "Кто из россиян выступает в Кубке Стэнли",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69de067c9a794739b352dcc0",
-    "publishedAt": "2026-05-30T10:29:36.000Z",
-    "createdAt": "2026-05-30T11:25:07.860Z",
-    "updatedAt": "2026-05-30T11:25:07.860Z"
+    "createdAt": "2026-05-30T13:51:28.379Z",
+    "updatedAt": "2026-05-30T13:51:28.379Z"
   },
   {
     "id": "b293b3ce4441af01",
@@ -80,63 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a1ab6e29a794798e241259f",
     "publishedAt": "2026-05-30T10:22:16.000Z",
-    "createdAt": "2026-05-30T11:25:06.838Z",
-    "updatedAt": "2026-05-30T11:25:06.838Z"
-  },
-  {
-    "id": "879c1694ec33af84",
-    "title": "Стали известны финалисты Кубка Стэнли",
-    "sport": "Хоккей",
-    "category": "Хоккей",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/9/03/347801343555039.jpeg",
-    "teaser": "Стали известны финалисты Кубка Стэнли",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a1ab1b59a79476437a5e0d9",
-    "publishedAt": "2026-05-30T10:00:04.000Z",
-    "createdAt": "2026-05-30T11:25:08.798Z",
-    "updatedAt": "2026-05-30T11:25:08.798Z"
-  },
-  {
-    "id": "34b89f210d269b03",
-    "title": "Кто из россиян становился победителем Лиги чемпионов",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/1/01/347466177949011.jpeg",
-    "teaser": "Кто из россиян становился победителем Лиги чемпионов",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/681bcb989a794791bdc4f498",
-    "publishedAt": "2026-05-30T05:01:03.000Z",
-    "createdAt": "2026-05-30T11:25:10.840Z",
-    "updatedAt": "2026-05-30T11:25:10.840Z"
-  },
-  {
-    "id": "5137704a2c88b2e7",
-    "title": "Умер трехкратный чемпион Франции в составе «Лиона» Бриан Бергунью",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/1/50/347800875414501.jpeg",
-    "teaser": "Умер трехкратный чемпион Франции в составе «Лиона» Бриан Бергунью",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a19f55f9a794727cf5fb87a",
-    "publishedAt": "2026-05-29T21:12:01.000Z",
-    "createdAt": "2026-05-30T11:25:12.846Z",
-    "updatedAt": "2026-05-30T11:25:12.846Z"
-  },
-  {
-    "id": "e8502e0a22022c41",
-    "title": "Сафонов станет первым. Главное о первом противостоянии столиц в финале ЛЧ",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/6/04/347800614418046.jpeg",
-    "teaser": "Сафонов станет первым. Главное о первом противостоянии столиц в финале ЛЧ",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a1976309a79476ceedea98b",
-    "publishedAt": "2026-05-29T21:04:21.000Z",
-    "createdAt": "2026-05-30T11:25:11.815Z",
-    "updatedAt": "2026-05-30T11:25:11.815Z"
+    "createdAt": "2026-05-30T13:51:29.345Z",
+    "updatedAt": "2026-05-30T13:51:29.345Z"
   }
 ]
