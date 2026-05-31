@@ -1,5 +1,47 @@
 [
   {
+    "id": "3a74bdd999ee169f",
+    "title": "Вингегор выиграл веломногодневку «Джиро д'Италия»",
+    "sport": "Другое",
+    "category": "Другие",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/7/31/347802511235317.png",
+    "teaser": "Вингегор выиграл веломногодневку «Джиро д'Италия»",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a1c79979a79475ac907f89d",
+    "publishedAt": "2026-05-31T18:24:21.000Z",
+    "createdAt": "2026-05-31T19:24:33.901Z",
+    "updatedAt": "2026-05-31T19:24:33.902Z"
+  },
+  {
+    "id": "7fadfe7a45697b99",
+    "title": "В Иордании сдвинули начало рабочего дня ради матчей сборной на ЧМ-2026",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/2/47/347802501682472.jpeg",
+    "teaser": "В Иордании сдвинули начало рабочего дня ради матчей сборной на ЧМ-2026",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a1c4bfe9a79477287d106b5",
+    "publishedAt": "2026-05-31T18:07:54.000Z",
+    "createdAt": "2026-05-31T19:24:34.915Z",
+    "updatedAt": "2026-05-31T19:24:34.915Z"
+  },
+  {
+    "id": "c6e048c1187ff350",
+    "title": "Сафонов не попал в символическую сборную Лиги чемпионов",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/5/55/347802488160555.jpeg",
+    "teaser": "Сафонов не попал в символическую сборную Лиги чемпионов",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a1c694d9a794706d1590f4e",
+    "publishedAt": "2026-05-31T17:42:13.000Z",
+    "createdAt": "2026-05-31T19:24:32.102Z",
+    "updatedAt": "2026-05-31T19:24:32.102Z"
+  },
+  {
     "id": "f6488b23c4f17a85",
     "title": "Мирра Андреева в третий раз подряд вышла в четвертьфинал «Ролан Гаррос»",
     "sport": "Теннис",
@@ -10,8 +52,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a1c5ea89a79470f764b4a9a",
     "publishedAt": "2026-05-31T17:03:46.000Z",
-    "createdAt": "2026-05-31T17:13:53.447Z",
-    "updatedAt": "2026-05-31T17:13:53.447Z"
+    "createdAt": "2026-05-31T19:24:36.036Z",
+    "updatedAt": "2026-05-31T19:24:36.036Z"
   },
   {
     "id": "a3309e76813adf9f",
@@ -24,8 +66,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a1c60489a7947499edf68b8",
     "publishedAt": "2026-05-31T16:53:33.000Z",
-    "createdAt": "2026-05-31T17:13:55.316Z",
-    "updatedAt": "2026-05-31T17:13:55.316Z"
+    "createdAt": "2026-05-31T19:24:38.885Z",
+    "updatedAt": "2026-05-31T19:24:38.885Z"
   },
   {
     "id": "fb95778f2a108750",
@@ -38,8 +80,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a1c589e9a7947ff03150601",
     "publishedAt": "2026-05-31T16:14:17.000Z",
-    "createdAt": "2026-05-31T17:13:58.435Z",
-    "updatedAt": "2026-05-31T17:13:58.435Z"
+    "createdAt": "2026-05-31T19:24:40.873Z",
+    "updatedAt": "2026-05-31T19:24:40.873Z"
   },
   {
     "id": "788f4d8fc6143fb4",
@@ -52,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a1c53429a7947649dd4526e",
     "publishedAt": "2026-05-31T16:01:37.000Z",
-    "createdAt": "2026-05-31T17:13:56.377Z",
-    "updatedAt": "2026-05-31T17:13:56.377Z"
+    "createdAt": "2026-05-31T19:24:39.848Z",
+    "updatedAt": "2026-05-31T19:24:39.848Z"
   },
   {
     "id": "1783e5f2037c7a6d",
@@ -66,8 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a1c4c679a7947ec5964fc0c",
     "publishedAt": "2026-05-31T15:24:05.000Z",
-    "createdAt": "2026-05-31T17:14:00.519Z",
-    "updatedAt": "2026-05-31T17:14:00.519Z"
+    "createdAt": "2026-05-31T19:24:41.890Z",
+    "updatedAt": "2026-05-31T19:24:41.890Z"
   },
   {
     "id": "fc450560eedd3c1d",
@@ -80,50 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a1c35849a79478b34adc7e1",
     "publishedAt": "2026-05-31T14:39:17.000Z",
-    "createdAt": "2026-05-31T17:13:59.451Z",
-    "updatedAt": "2026-05-31T17:13:59.451Z"
-  },
-  {
-    "id": "36f305b764316476",
-    "title": "Глава IIHF назвал сроки рассмотрения вопроса о допуске сборной России",
-    "sport": "Хоккей",
-    "category": "Хоккей",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/5/44/347802359803445.png",
-    "teaser": "Глава IIHF назвал сроки рассмотрения вопроса о допуске сборной России",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a1c3da39a7947d0134b38de",
-    "publishedAt": "2026-05-31T14:13:36.000Z",
-    "createdAt": "2026-05-31T17:14:01.587Z",
-    "updatedAt": "2026-05-31T17:14:01.587Z"
-  },
-  {
-    "id": "7a7a1e9f939b524e",
-    "title": "Шесть футболистов покинули вылетевший из РПЛ клуб",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/9/02/347802324231029.png",
-    "teaser": "Шесть футболистов покинули вылетевший из РПЛ клуб",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a1c30609a79473975775838",
-    "publishedAt": "2026-05-31T13:11:55.000Z",
-    "createdAt": "2026-05-31T17:14:04.016Z",
-    "updatedAt": "2026-05-31T17:14:04.016Z"
-  },
-  {
-    "id": "4d201dea17e674c7",
-    "title": "Сафонов после победы в ЛЧ заявил, что «не видит причин останавливаться»",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/5/05/347802312167055.png",
-    "teaser": "Сафонов после победы в ЛЧ заявил, что «не видит причин останавливаться»",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a1c2b939a794729ecc167e6",
-    "publishedAt": "2026-05-31T12:54:50.000Z",
-    "createdAt": "2026-05-31T17:14:02.799Z",
-    "updatedAt": "2026-05-31T17:14:02.799Z"
+    "createdAt": "2026-05-31T19:24:42.898Z",
+    "updatedAt": "2026-05-31T19:24:42.898Z"
   },
   {
     "id": "d0e24cb3e11eef46",
@@ -136,7 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a1b250d9a7947c3c84aaf09",
     "publishedAt": "2026-05-31T09:06:43.000Z",
-    "createdAt": "2026-05-31T17:13:57.367Z",
-    "updatedAt": "2026-05-31T17:13:57.367Z"
+    "createdAt": "2026-05-31T19:24:37.055Z",
+    "updatedAt": "2026-05-31T19:24:37.055Z"
   }
 ]
