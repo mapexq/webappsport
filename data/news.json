@@ -1,5 +1,75 @@
 [
   {
+    "id": "7a7a1e9f939b524e",
+    "title": "Шесть футболистов покинули вылетевший из РПЛ клуб",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/9/02/347802324231029.png",
+    "teaser": "Шесть футболистов покинули вылетевший из РПЛ клуб",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a1c30609a79473975775838",
+    "publishedAt": "2026-05-31T13:11:55.000Z",
+    "createdAt": "2026-05-31T13:56:57.708Z",
+    "updatedAt": "2026-05-31T13:56:57.708Z"
+  },
+  {
+    "id": "4d201dea17e674c7",
+    "title": "Сафонов после победы в ЛЧ заявил, что «не видит причин останавливаться»",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/5/05/347802312167055.png",
+    "teaser": "Сафонов после победы в ЛЧ заявил, что «не видит причин останавливаться»",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a1c2b939a794729ecc167e6",
+    "publishedAt": "2026-05-31T12:54:50.000Z",
+    "createdAt": "2026-05-31T13:56:56.750Z",
+    "updatedAt": "2026-05-31T13:56:56.750Z"
+  },
+  {
+    "id": "7d1d14ef9790c151",
+    "title": "У «Ролан Гаррос» будет новая чемпионка",
+    "sport": "Теннис",
+    "category": "Теннис",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/0/65/347802302107650.jpeg",
+    "teaser": "У «Ролан Гаррос» будет новая чемпионка",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a1c253a9a79471a70e20b34",
+    "publishedAt": "2026-05-31T12:29:35.000Z",
+    "createdAt": "2026-05-31T13:56:58.730Z",
+    "updatedAt": "2026-05-31T13:56:58.730Z"
+  },
+  {
+    "id": "3020cb71c50b3422",
+    "title": "Во Франции задержали 780 человек после победы ПСЖ в Лиге чемпионов",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/8/93/347802271614938.png",
+    "teaser": "Во Франции задержали 780 человек после победы ПСЖ в Лиге чемпионов",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a1c123c9a794751014d454d",
+    "publishedAt": "2026-05-31T11:58:47.000Z",
+    "createdAt": "2026-05-31T13:56:59.777Z",
+    "updatedAt": "2026-05-31T13:56:59.777Z"
+  },
+  {
+    "id": "fe6d2197c4c6f79a",
+    "title": "Жена объяснила отсутствие флага у Матвея Сафонова после финала ЛЧ",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/6/36/347802229627366.jpeg",
+    "teaser": "Жена объяснила отсутствие флага у Матвея Сафонова после финала ЛЧ",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a1c08939a7947152ba9e882",
+    "publishedAt": "2026-05-31T10:59:04.000Z",
+    "createdAt": "2026-05-31T13:57:02.832Z",
+    "updatedAt": "2026-05-31T13:57:02.832Z"
+  },
+  {
     "id": "2877293c9e82c014",
     "title": "Российская гимнастка победила в упражнении с обручем на чемпионате Европы",
     "sport": "Другое",
@@ -10,8 +80,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a1c092b9a7947636600b3b0",
     "publishedAt": "2026-05-31T10:26:26.000Z",
-    "createdAt": "2026-05-31T11:02:11.077Z",
-    "updatedAt": "2026-05-31T11:02:11.077Z"
+    "createdAt": "2026-05-31T13:57:01.811Z",
+    "updatedAt": "2026-05-31T13:57:01.811Z"
   },
   {
     "id": "4ef90d693875a190",
@@ -24,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a1bef719a79470d580a21a5",
     "publishedAt": "2026-05-31T09:37:24.000Z",
-    "createdAt": "2026-05-31T11:02:12.959Z",
-    "updatedAt": "2026-05-31T11:02:12.959Z"
+    "createdAt": "2026-05-31T13:57:04.841Z",
+    "updatedAt": "2026-05-31T13:57:04.841Z"
   },
   {
     "id": "efb19e966c7d8856",
@@ -38,22 +108,22 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a1bfad29a79474393ff4bb1",
     "publishedAt": "2026-05-31T09:34:36.000Z",
-    "createdAt": "2026-05-31T11:02:14.925Z",
-    "updatedAt": "2026-05-31T11:02:14.925Z"
+    "createdAt": "2026-05-31T13:57:05.953Z",
+    "updatedAt": "2026-05-31T13:57:05.953Z"
   },
   {
-    "id": "f67b35be0958b9c4",
-    "title": "Худший в ПСЖ. Как оценили игру Сафонова в Лиге чемпионов",
+    "id": "d0e24cb3e11eef46",
+    "title": "Худший в ПСЖ. Как оценили игру Сафонова в финале Лиги чемпионов",
     "sport": "Футбол",
     "category": "Футбол",
     "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/2/94/347801728698942.jpeg",
-    "teaser": "Худший в ПСЖ. Как оценили игру Сафонова в Лиге чемпионов",
+    "teaser": "Худший в ПСЖ. Как оценили игру Сафонова в финале Лиги чемпионов",
     "fullContent": "",
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a1b250d9a7947c3c84aaf09",
     "publishedAt": "2026-05-31T09:06:43.000Z",
-    "createdAt": "2026-05-31T11:02:13.929Z",
-    "updatedAt": "2026-05-31T11:02:13.929Z"
+    "createdAt": "2026-05-31T13:57:00.806Z",
+    "updatedAt": "2026-05-31T13:57:00.806Z"
   },
   {
     "id": "e394b44464798422",
@@ -66,77 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a1b67d19a79471dfc696ea5",
     "publishedAt": "2026-05-30T22:54:50.000Z",
-    "createdAt": "2026-05-31T11:02:16.705Z",
-    "updatedAt": "2026-05-31T11:02:16.705Z"
-  },
-  {
-    "id": "732b422e740bc529",
-    "title": "Глава WBA назвал чемпионский бой Бивола хорошим возвращением на ринг",
-    "sport": "Единоборства",
-    "category": "Единоборства",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/1/49/347801793477491.jpeg",
-    "teaser": "Глава WBA назвал чемпионский бой Бивола хорошим возвращением на ринг",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a1b5cdc9a7947df1ccfb14f",
-    "publishedAt": "2026-05-30T22:32:44.000Z",
-    "createdAt": "2026-05-31T11:02:20.553Z",
-    "updatedAt": "2026-05-31T11:02:20.553Z"
-  },
-  {
-    "id": "95eebd45134eb781",
-    "title": "Английский болельщик сбежал из больницы ради финала Лиги чемпионов",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/1/28/347801771934281.jpeg",
-    "teaser": "Английский болельщик сбежал из больницы ради финала Лиги чемпионов",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a1b568c9a7947bb5db3b1de",
-    "publishedAt": "2026-05-30T21:53:25.000Z",
-    "createdAt": "2026-05-31T11:02:18.729Z",
-    "updatedAt": "2026-05-31T11:02:18.729Z"
-  },
-  {
-    "id": "382e0afd39cd0a2e",
-    "title": "В Париже задержали 140 человек во время беспорядков после финала ЛЧ",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "/images/news-placeholder.jpg",
-    "teaser": "В Париже задержали 140 человек во время беспорядков после финала ЛЧ",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a1b4d459a7947b9b02e6a5f",
-    "publishedAt": "2026-05-30T21:38:09.000Z",
-    "createdAt": "2026-05-31T11:02:23.417Z",
-    "updatedAt": "2026-05-31T11:02:23.417Z"
-  },
-  {
-    "id": "66fe6908b0d839a0",
-    "title": "Сафонов заявил, что не чувствует себя героем финала Лиги чемпионов",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/1/13/347801737231131.jpeg",
-    "teaser": "Сафонов заявил, что не чувствует себя героем финала Лиги чемпионов",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a1b47869a7947bd9d83d5d4",
-    "publishedAt": "2026-05-30T21:23:06.000Z",
-    "createdAt": "2026-05-31T11:02:21.588Z",
-    "updatedAt": "2026-05-31T11:02:21.588Z"
-  },
-  {
-    "id": "65de6cb1306f2717",
-    "title": "Как Сафонов впервые стал двукратным победителем ЛЧ. Фоторепортаж",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/0/47/347801705074470.jpeg",
-    "teaser": "Как Сафонов впервые стал двукратным победителем ЛЧ. Фоторепортаж",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a1b0eb29a794785feaf46a3",
-    "publishedAt": "2026-05-30T20:38:32.000Z",
-    "createdAt": "2026-05-31T11:02:17.725Z",
-    "updatedAt": "2026-05-31T11:02:17.725Z"
+    "createdAt": "2026-05-31T13:57:07.783Z",
+    "updatedAt": "2026-05-31T13:57:07.783Z"
   }
 ]
