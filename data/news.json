@@ -1,5 +1,61 @@
 [
   {
+    "id": "a226d6700e23b716",
+    "title": "Стало известно количество футболистов из РПЛ на ЧМ-2026",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/9/84/347804312578849.jpeg",
+    "teaser": "Стало известно количество футболистов из РПЛ на ЧМ-2026",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a1f35d59a7947a52f23e17f",
+    "publishedAt": "2026-06-02T20:37:08.000Z",
+    "createdAt": "2026-06-02T21:52:16.805Z",
+    "updatedAt": "2026-06-02T21:52:16.805Z"
+  },
+  {
+    "id": "22fa0d9e71cb2142",
+    "title": "Норвегия призвала ФИФА расследовать вручение премии мира Дональду Трампу",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/4/28/347804291317284.jpeg",
+    "teaser": "Норвегия призвала ФИФА расследовать вручение премии мира Дональду Трампу",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a1f2a579a7947279f320253",
+    "publishedAt": "2026-06-02T20:32:07.000Z",
+    "createdAt": "2026-06-02T21:52:17.938Z",
+    "updatedAt": "2026-06-02T21:52:17.938Z"
+  },
+  {
+    "id": "d210c3abd389b8b0",
+    "title": "Футболку Пеле с ЧМ‑1958 выставят на аукцион за $6 млн во время ЧМ‑2026",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/8/22/347804251302228.jpeg",
+    "teaser": "Футболку Пеле с ЧМ‑1958 выставят на аукцион за $6 млн во время ЧМ‑2026",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a1f1ba69a79472274992e37",
+    "publishedAt": "2026-06-02T19:03:00.000Z",
+    "createdAt": "2026-06-02T21:52:19.139Z",
+    "updatedAt": "2026-06-02T21:52:19.139Z"
+  },
+  {
+    "id": "7d6711f0fdcd01b8",
+    "title": "Умер бывший тренер женской сборной России по спортивной борьбе Зверков",
+    "sport": "Другое",
+    "category": "Другие",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/9/84/347804248966849.jpeg",
+    "teaser": "Умер бывший тренер женской сборной России по спортивной борьбе Зверков",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a1f20a19a7947ff2132ead5",
+    "publishedAt": "2026-06-02T18:52:49.000Z",
+    "createdAt": "2026-06-02T21:52:20.326Z",
+    "updatedAt": "2026-06-02T21:52:20.326Z"
+  },
+  {
     "id": "864b4cf85b3ac077",
     "title": "Макрон встретился со сборной Франции перед ЧМ-2026",
     "sport": "Футбол",
@@ -10,8 +66,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a1f14e89a7947ac4cf8edc7",
     "publishedAt": "2026-06-02T18:28:45.000Z",
-    "createdAt": "2026-06-02T18:44:56.746Z",
-    "updatedAt": "2026-06-02T18:44:56.746Z"
+    "createdAt": "2026-06-02T21:52:21.445Z",
+    "updatedAt": "2026-06-02T21:52:21.445Z"
   },
   {
     "id": "bc2967680dc5bee9",
@@ -24,8 +80,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a1f0d839a79478619efa2c2",
     "publishedAt": "2026-06-02T17:38:21.000Z",
-    "createdAt": "2026-06-02T18:44:57.886Z",
-    "updatedAt": "2026-06-02T18:44:57.886Z"
+    "createdAt": "2026-06-02T21:52:22.612Z",
+    "updatedAt": "2026-06-02T21:52:22.612Z"
   },
   {
     "id": "2eaad39a0b586e85",
@@ -38,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a1f06d39a794739373db6fd",
     "publishedAt": "2026-06-02T16:50:58.000Z",
-    "createdAt": "2026-06-02T18:45:00.269Z",
-    "updatedAt": "2026-06-02T18:45:00.269Z"
+    "createdAt": "2026-06-02T21:52:24.907Z",
+    "updatedAt": "2026-06-02T21:52:24.907Z"
   },
   {
     "id": "e0b9cc18b474ec7b",
@@ -52,8 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a1efef99a79475c59da9e76",
     "publishedAt": "2026-06-02T16:17:21.000Z",
-    "createdAt": "2026-06-02T18:44:59.110Z",
-    "updatedAt": "2026-06-02T18:44:59.110Z"
+    "createdAt": "2026-06-02T21:52:23.767Z",
+    "updatedAt": "2026-06-02T21:52:23.767Z"
   },
   {
     "id": "f930211b56712319",
@@ -66,8 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a1efc469a794700e52e6b3d",
     "publishedAt": "2026-06-02T16:02:34.000Z",
-    "createdAt": "2026-06-02T18:45:02.496Z",
-    "updatedAt": "2026-06-02T18:45:02.496Z"
+    "createdAt": "2026-06-02T21:52:27.226Z",
+    "updatedAt": "2026-06-02T21:52:27.226Z"
   },
   {
     "id": "1be1c5c1cff1d417",
@@ -80,63 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a1ef58b9a79476a6a44cba9",
     "publishedAt": "2026-06-02T16:01:13.000Z",
-    "createdAt": "2026-06-02T18:45:01.368Z",
-    "updatedAt": "2026-06-02T18:45:01.368Z"
-  },
-  {
-    "id": "7c8ba31c36de2cfe",
-    "title": "Хоккейный «Спартак» подписал новый контракт с американским рекордсменом",
-    "sport": "Хоккей",
-    "category": "Хоккей",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/7/39/347804132333397.jpeg",
-    "teaser": "Хоккейный «Спартак» подписал новый контракт с американским рекордсменом",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a1ef3079a7947efe27f6276",
-    "publishedAt": "2026-06-02T15:26:25.000Z",
-    "createdAt": "2026-06-02T18:45:03.616Z",
-    "updatedAt": "2026-06-02T18:45:03.616Z"
-  },
-  {
-    "id": "1d62936a8f63a4c8",
-    "title": "Третья ракетка мира Зверев стал первым полуфиналистом «Ролан Гаррос»",
-    "sport": "Теннис",
-    "category": "Теннис",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/0/76/347804134377760.jpeg",
-    "teaser": "Третья ракетка мира Зверев стал первым полуфиналистом «Ролан Гаррос»",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a1ef15d9a794709795609ef",
-    "publishedAt": "2026-06-02T15:25:25.000Z",
-    "createdAt": "2026-06-02T18:45:04.765Z",
-    "updatedAt": "2026-06-02T18:45:04.765Z"
-  },
-  {
-    "id": "13e258e6771083cf",
-    "title": "Обладатель Кубка Гагарина в составе СКА перешел в «Автомобилист»",
-    "sport": "Хоккей",
-    "category": "Хоккей",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/2/23/347804103778232.jpeg",
-    "teaser": "Обладатель Кубка Гагарина в составе СКА перешел в «Автомобилист»",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a1ee5ad9a794726e7353cba",
-    "publishedAt": "2026-06-02T14:40:47.000Z",
-    "createdAt": "2026-06-02T18:45:05.905Z",
-    "updatedAt": "2026-06-02T18:45:05.905Z"
-  },
-  {
-    "id": "c6b0c6021099996b",
-    "title": "В ПСЖ осудили устроивших беспорядки во Франции болельщиков",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/6/88/347804077198886.jpeg",
-    "teaser": "В ПСЖ осудили устроивших беспорядки во Франции болельщиков",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a1ed9079a7947221695f610",
-    "publishedAt": "2026-06-02T14:33:41.000Z",
-    "createdAt": "2026-06-02T18:45:07.051Z",
-    "updatedAt": "2026-06-02T18:45:07.051Z"
+    "createdAt": "2026-06-02T21:52:26.026Z",
+    "updatedAt": "2026-06-02T21:52:26.026Z"
   }
 ]
