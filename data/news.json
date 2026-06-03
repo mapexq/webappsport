@@ -1,5 +1,61 @@
 [
   {
+    "id": "8f16c7a58bedbbc4",
+    "title": "Стали известны все участники полуфинала «Ролан Гаррос»",
+    "sport": "Теннис",
+    "category": "Теннис",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/7/47/347805196445477.jpeg",
+    "teaser": "Стали известны все участники полуфинала «Ролан Гаррос»",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a2069c49a7947dcc55e7fba",
+    "publishedAt": "2026-06-03T21:19:11.000Z",
+    "createdAt": "2026-06-03T21:53:42.061Z",
+    "updatedAt": "2026-06-03T21:53:42.061Z"
+  },
+  {
+    "id": "3fff4c3ef65731b1",
+    "title": "Тренера Кучерова и Василевского признали лучшим в сезоне НХЛ",
+    "sport": "Хоккей",
+    "category": "Хоккей",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/6/50/347805149992506.jpeg",
+    "teaser": "Тренера Кучерова и Василевского признали лучшим в сезоне НХЛ",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a207e9c9a79470c0c010ca4",
+    "publishedAt": "2026-06-03T21:16:42.000Z",
+    "createdAt": "2026-06-03T21:53:44.209Z",
+    "updatedAt": "2026-06-03T21:53:44.209Z"
+  },
+  {
+    "id": "929770c380f25774",
+    "title": "Каковы шансы увидеть первый за 17 лет российский финал на «Ролан Гаррос»",
+    "sport": "Теннис",
+    "category": "Теннис",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/9/29/347805006911299.jpeg",
+    "teaser": "Каковы шансы увидеть первый за 17 лет российский финал на «Ролан Гаррос»",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a203f739a7947bc8691528e",
+    "publishedAt": "2026-06-03T21:01:01.000Z",
+    "createdAt": "2026-06-03T21:53:43.148Z",
+    "updatedAt": "2026-06-03T21:53:43.148Z"
+  },
+  {
+    "id": "99cf092b4c7c2f8d",
+    "title": "Италия в матче с Люксембургом выставила самый молодой состав за 113 лет",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/9/68/347805139265689.jpeg",
+    "teaser": "Италия в матче с Люксембургом выставила самый молодой состав за 113 лет",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a20781a9a7947bc8bac3ea4",
+    "publishedAt": "2026-06-03T20:54:28.000Z",
+    "createdAt": "2026-06-03T21:53:45.298Z",
+    "updatedAt": "2026-06-03T21:53:45.298Z"
+  },
+  {
     "id": "4261dbe2e2e144f8",
     "title": "Ямаль второй год подряд возглавил рейтинг самых дорогих футболистов мира",
     "sport": "Футбол",
@@ -10,8 +66,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a206acb9a7947e004bbb298",
     "publishedAt": "2026-06-03T18:35:44.000Z",
-    "createdAt": "2026-06-03T18:49:55.348Z",
-    "updatedAt": "2026-06-03T18:49:55.348Z"
+    "createdAt": "2026-06-03T21:53:46.344Z",
+    "updatedAt": "2026-06-03T21:53:46.344Z"
   },
   {
     "id": "3e74bf3fb7ad4729",
@@ -24,8 +80,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a2065e49a7947f84e842caa",
     "publishedAt": "2026-06-03T17:44:05.000Z",
-    "createdAt": "2026-06-03T18:49:57.487Z",
-    "updatedAt": "2026-06-03T18:49:57.487Z"
+    "createdAt": "2026-06-03T21:53:48.347Z",
+    "updatedAt": "2026-06-03T21:53:48.347Z"
   },
   {
     "id": "650e37d1875d8dd8",
@@ -38,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a20624a9a7947ff5d3d3d8b",
     "publishedAt": "2026-06-03T17:38:04.000Z",
-    "createdAt": "2026-06-03T18:49:58.497Z",
-    "updatedAt": "2026-06-03T18:49:58.498Z"
+    "createdAt": "2026-06-03T21:53:49.349Z",
+    "updatedAt": "2026-06-03T21:53:49.349Z"
   },
   {
     "id": "4213a42bf5c4214e",
@@ -52,8 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a205fda9a7947ed46317a29",
     "publishedAt": "2026-06-03T17:21:35.000Z",
-    "createdAt": "2026-06-03T18:49:59.560Z",
-    "updatedAt": "2026-06-03T18:49:59.560Z"
+    "createdAt": "2026-06-03T21:53:50.399Z",
+    "updatedAt": "2026-06-03T21:53:50.399Z"
   },
   {
     "id": "7fc3c88430c95429",
@@ -66,8 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a205c7d9a7947b6b3e8cfb1",
     "publishedAt": "2026-06-03T17:11:14.000Z",
-    "createdAt": "2026-06-03T18:49:56.411Z",
-    "updatedAt": "2026-06-03T18:49:56.411Z"
+    "createdAt": "2026-06-03T21:53:47.348Z",
+    "updatedAt": "2026-06-03T21:53:47.348Z"
   },
   {
     "id": "5fc148d21542ebf7",
@@ -80,63 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a2052379a794764791a0f46",
     "publishedAt": "2026-06-03T16:45:54.000Z",
-    "createdAt": "2026-06-03T18:50:00.605Z",
-    "updatedAt": "2026-06-03T18:50:00.605Z"
-  },
-  {
-    "id": "40e941016de7c379",
-    "title": "Трехкратный обладатель Кубка Гагарина перешел в «Автомобилист»",
-    "sport": "Хоккей",
-    "category": "Хоккей",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/5/94/347805026400945.jpeg",
-    "teaser": "Трехкратный обладатель Кубка Гагарина перешел в «Автомобилист»",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a204e7e9a79474fd131ae67",
-    "publishedAt": "2026-06-03T16:28:56.000Z",
-    "createdAt": "2026-06-03T18:50:01.680Z",
-    "updatedAt": "2026-06-03T18:50:01.680Z"
-  },
-  {
-    "id": "4860f7d53cd34889",
-    "title": "Сборная Ирана получила визы для участия в ЧМ‑2026",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/0/57/347805019150570.png",
-    "teaser": "Сборная Ирана получила визы для участия в ЧМ‑2026",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a20488e9a79476508ca4cbc",
-    "publishedAt": "2026-06-03T16:06:40.000Z",
-    "createdAt": "2026-06-03T18:50:02.735Z",
-    "updatedAt": "2026-06-03T18:50:02.735Z"
-  },
-  {
-    "id": "f2424af754335f08",
-    "title": "Соболенко заявила о желании уйти из тенниса после поражения от Шнайдер",
-    "sport": "Теннис",
-    "category": "Теннис",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/0/19/347805004352190.jpeg",
-    "teaser": "Соболенко заявила о желании уйти из тенниса после поражения от Шнайдер",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a20434b9a794729b727e2b8",
-    "publishedAt": "2026-06-03T15:42:07.000Z",
-    "createdAt": "2026-06-03T18:50:03.728Z",
-    "updatedAt": "2026-06-03T18:50:03.728Z"
-  },
-  {
-    "id": "ae9a2b7212343c45",
-    "title": "Ferrari установила рекорд «Формулы-1» по зарплатам пилотов",
-    "sport": "Другое",
-    "category": "Формула-1",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/7/16/347804992494167.jpeg",
-    "teaser": "Ferrari установила рекорд «Формулы-1» по зарплатам пилотов",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a203f4f9a7947c84b826b09",
-    "publishedAt": "2026-06-03T15:14:36.000Z",
-    "createdAt": "2026-06-03T18:50:04.900Z",
-    "updatedAt": "2026-06-03T18:50:04.900Z"
+    "createdAt": "2026-06-03T21:53:51.459Z",
+    "updatedAt": "2026-06-03T21:53:51.459Z"
   }
 ]
