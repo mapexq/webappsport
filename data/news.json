@@ -1,5 +1,89 @@
 [
   {
+    "id": "d4ec2a21c323a191",
+    "title": "Капитан юношеского «Манчестер Юнайтед» дебютировал в сборной России",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/2/89/347806841112892.jpeg",
+    "teaser": "Капитан юношеского «Манчестер Юнайтед» дебютировал в сборной России",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a2315029a794700febe29b4",
+    "publishedAt": "2026-06-05T18:39:10.000Z",
+    "createdAt": "2026-06-05T18:59:27.408Z",
+    "updatedAt": "2026-06-05T18:59:27.408Z"
+  },
+  {
+    "id": "61528ed1358e5ece",
+    "title": "Итальянский теннисист объяснил, почему снялся с 1/2 финала «Ролан Гаррос»",
+    "sport": "Теннис",
+    "category": "Теннис",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/8/40/347806835605408.jpeg",
+    "teaser": "Итальянский теннисист объяснил, почему снялся с 1/2 финала «Ролан Гаррос»",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a230e989a794742e8f04b5c",
+    "publishedAt": "2026-06-05T18:36:55.000Z",
+    "createdAt": "2026-06-05T18:59:28.457Z",
+    "updatedAt": "2026-06-05T18:59:28.457Z"
+  },
+  {
+    "id": "bd22d52e04771a5f",
+    "title": "Фигуристка Трусова защитила диплом в МГУ",
+    "sport": "Другое",
+    "category": "Фигурное катание",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/5/80/347806791926805.jpeg",
+    "teaser": "Фигуристка Трусова защитила диплом в МГУ",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a2301b89a79474c7175df91",
+    "publishedAt": "2026-06-05T17:20:41.000Z",
+    "createdAt": "2026-06-05T18:59:29.482Z",
+    "updatedAt": "2026-06-05T18:59:29.482Z"
+  },
+  {
+    "id": "1e513fb7457c893d",
+    "title": "Стали известны финалисты «Ролан Гаррос»",
+    "sport": "Теннис",
+    "category": "Теннис",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/3/42/347806777744423.jpeg",
+    "teaser": "Стали известны финалисты «Ролан Гаррос»",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a22fc6c9a79474c7175df86",
+    "publishedAt": "2026-06-05T16:56:54.000Z",
+    "createdAt": "2026-06-05T18:59:30.565Z",
+    "updatedAt": "2026-06-05T18:59:30.565Z"
+  },
+  {
+    "id": "0a7a6946d326bfc7",
+    "title": "Валиева и Трусова вошли в резервный состав сборной России на новый сезон",
+    "sport": "Другое",
+    "category": "Фигурное катание",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/8/02/347806777514028.jpeg",
+    "teaser": "Валиева и Трусова вошли в резервный состав сборной России на новый сезон",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a22f8809a794734dacd26f3",
+    "publishedAt": "2026-06-05T16:51:23.000Z",
+    "createdAt": "2026-06-05T18:59:31.673Z",
+    "updatedAt": "2026-06-05T18:59:31.673Z"
+  },
+  {
+    "id": "0ac8870716b10641",
+    "title": "Доминик Гашек раскритиковал участие россиян в Матче звезд НХЛ",
+    "sport": "Хоккей",
+    "category": "Хоккей",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/0/04/347806756238040.jpeg",
+    "teaser": "Доминик Гашек раскритиковал участие россиян в Матче звезд НХЛ",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a22e7ae9a7947b90541bef0",
+    "publishedAt": "2026-06-05T16:29:42.000Z",
+    "createdAt": "2026-06-05T18:59:32.805Z",
+    "updatedAt": "2026-06-05T18:59:32.805Z"
+  },
+  {
     "id": "a253d4a6404ddeaf",
     "title": "Уроженка Москвы второй год подряд вышла в финал «Ролан Гаррос» в парах",
     "sport": "Теннис",
@@ -10,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a22e82d9a7947b81ce22d1d",
     "publishedAt": "2026-06-05T15:56:30.000Z",
-    "createdAt": "2026-06-05T16:01:23.770Z",
-    "updatedAt": "2026-06-05T16:01:23.770Z"
+    "createdAt": "2026-06-05T18:59:36.122Z",
+    "updatedAt": "2026-06-05T18:59:36.122Z"
   },
   {
     "id": "036d35e34450c92e",
@@ -24,8 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a22ecfe9a794766b4012baa",
     "publishedAt": "2026-06-05T15:55:28.000Z",
-    "createdAt": "2026-06-05T16:01:21.477Z",
-    "updatedAt": "2026-06-05T16:01:21.477Z"
+    "createdAt": "2026-06-05T18:59:33.928Z",
+    "updatedAt": "2026-06-05T18:59:33.928Z"
   },
   {
     "id": "6762270355e45f1f",
@@ -38,8 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a22d83a9a794793eaef5bbf",
     "publishedAt": "2026-06-05T15:52:03.000Z",
-    "createdAt": "2026-06-05T16:01:22.617Z",
-    "updatedAt": "2026-06-05T16:01:22.617Z"
+    "createdAt": "2026-06-05T18:59:35.027Z",
+    "updatedAt": "2026-06-05T18:59:35.027Z"
   },
   {
     "id": "de169c316ae6d69b",
@@ -52,91 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a22e2559a7947533c72cca7",
     "publishedAt": "2026-06-05T15:25:12.000Z",
-    "createdAt": "2026-06-05T16:01:24.948Z",
-    "updatedAt": "2026-06-05T16:01:24.948Z"
-  },
-  {
-    "id": "8a0e240a1a51ceda",
-    "title": "Тренер сборной Аргентины рассказал, какую роль в команде играет Месси",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/0/14/347806707684140.jpeg",
-    "teaser": "Тренер сборной Аргентины рассказал, какую роль в команде играет Месси",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a22db9e9a794766409a9fda",
-    "publishedAt": "2026-06-05T14:59:07.000Z",
-    "createdAt": "2026-06-05T16:01:27.167Z",
-    "updatedAt": "2026-06-05T16:01:27.167Z"
-  },
-  {
-    "id": "45446747ad5047de",
-    "title": "ФИФА изменила формат предматчевых церемоний на ЧМ-2026",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/9/17/347806684386179.jpeg",
-    "teaser": "ФИФА изменила формат предматчевых церемоний на ЧМ-2026",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a22d2f99a7947defe11b343",
-    "publishedAt": "2026-06-05T14:16:09.000Z",
-    "createdAt": "2026-06-05T16:01:26.001Z",
-    "updatedAt": "2026-06-05T16:01:26.001Z"
-  },
-  {
-    "id": "c460c30dc5dc150c",
-    "title": "СКА купил самую большую ледовую арену в мире",
-    "sport": "Хоккей",
-    "category": "Хоккей",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/8/09/347806678545098.jpeg",
-    "teaser": "СКА купил самую большую ледовую арену в мире",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a22ce259a79473ce5e38650",
-    "publishedAt": "2026-06-05T13:53:54.000Z",
-    "createdAt": "2026-06-05T16:01:28.301Z",
-    "updatedAt": "2026-06-05T16:01:28.301Z"
-  },
-  {
-    "id": "3b13ce04f2f17451",
-    "title": "Ямаля признали лучшим игроком сезона в чемпионате Испании",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/5/15/347806658296155.jpeg",
-    "teaser": "Ямаля признали лучшим игроком сезона в чемпионате Испании",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a22cc9a9a79476f43a31b8a",
-    "publishedAt": "2026-06-05T13:41:56.000Z",
-    "createdAt": "2026-06-05T16:01:29.460Z",
-    "updatedAt": "2026-06-05T16:01:29.460Z"
-  },
-  {
-    "id": "edb3a82f83e7aeff",
-    "title": "Серена Уильямс получила wild card на турнир WTA 500 в Берлине",
-    "sport": "Теннис",
-    "category": "Теннис",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/2/29/347806663522292.jpeg",
-    "teaser": "Серена Уильямс получила wild card на турнир WTA 500 в Берлине",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a22cb139a79476f48b63942",
-    "publishedAt": "2026-06-05T13:38:17.000Z",
-    "createdAt": "2026-06-05T16:01:31.793Z",
-    "updatedAt": "2026-06-05T16:01:31.793Z"
-  },
-  {
-    "id": "c2235a5eb37cd6df",
-    "title": "Во Франции пообещали взыскать ущерб с зачинщиков беспорядков после ЛЧ",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/7/71/347806648260717.jpeg",
-    "teaser": "Во Франции пообещали взыскать ущерб с зачинщиков беспорядков после ЛЧ",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a22c5a59a79474fd1330b31",
-    "publishedAt": "2026-06-05T13:17:43.000Z",
-    "createdAt": "2026-06-05T16:01:30.675Z",
-    "updatedAt": "2026-06-05T16:01:30.675Z"
+    "createdAt": "2026-06-05T18:59:37.223Z",
+    "updatedAt": "2026-06-05T18:59:37.223Z"
   }
 ]
