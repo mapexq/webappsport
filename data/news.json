@@ -1,5 +1,89 @@
 [
   {
+    "id": "e3ebe52dc7609f73",
+    "title": "Бывший игрок сборной Бразилии и «Атлетико» умер от болезни Альцгеймера",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/9/70/347806483549709.jpeg",
+    "teaser": "Бывший игрок сборной Бразилии и «Атлетико» умер от болезни Альцгеймера",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a22823b9a794749fc19fcb0",
+    "publishedAt": "2026-06-05T08:42:03.000Z",
+    "createdAt": "2026-06-05T08:46:11.511Z",
+    "updatedAt": "2026-06-05T08:46:11.511Z"
+  },
+  {
+    "id": "6ff39aa578e6f91d",
+    "title": "«Формула-1» продлила контракт на проведение Гран‑при Лас‑Вегаса",
+    "sport": "Другое",
+    "category": "Формула-1",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/0/85/347806460907850.jpeg",
+    "teaser": "«Формула-1» продлила контракт на проведение Гран‑при Лас‑Вегаса",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a227cfd9a7947f21aa4c0b7",
+    "publishedAt": "2026-06-05T07:57:24.000Z",
+    "createdAt": "2026-06-05T08:46:12.563Z",
+    "updatedAt": "2026-06-05T08:46:12.563Z"
+  },
+  {
+    "id": "8c2ee6031d9b7d40",
+    "title": "Биатлонисты Кирилл Бажин и Виктория Сливко поженились",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/8/54/347806446660548.jpeg",
+    "teaser": "Биатлонисты Кирилл Бажин и Виктория Сливко поженились",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a22780a9a794710e44297b8",
+    "publishedAt": "2026-06-05T07:35:05.000Z",
+    "createdAt": "2026-06-05T08:46:13.663Z",
+    "updatedAt": "2026-06-05T08:46:13.663Z"
+  },
+  {
+    "id": "c1e3e695ca53363f",
+    "title": "Футболисты сборной Норвегии сделали фото в стиле викингов перед ЧМ-2026",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/2/19/347806439063192.jpeg",
+    "teaser": "Футболисты сборной Норвегии сделали фото в стиле викингов перед ЧМ-2026",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a2278329a7947718746f28f",
+    "publishedAt": "2026-06-05T07:30:07.000Z",
+    "createdAt": "2026-06-05T08:46:14.763Z",
+    "updatedAt": "2026-06-05T08:46:14.763Z"
+  },
+  {
+    "id": "eef47ecb126fe2dd",
+    "title": "Три товарищеских матча с участием фаворитов ЧМ завершились сенсациями",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/3/74/347806435003743.jpeg",
+    "teaser": "Три товарищеских матча с участием фаворитов ЧМ завершились сенсациями",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a226e109a794738005cb1f0",
+    "publishedAt": "2026-06-05T07:15:26.000Z",
+    "createdAt": "2026-06-05T08:46:15.856Z",
+    "updatedAt": "2026-06-05T08:46:15.856Z"
+  },
+  {
+    "id": "8e0e9dd2eb714d70",
+    "title": "«Каролина» с двумя россиянами сравняла счет в финале Кубка Стэнли",
+    "sport": "Хоккей",
+    "category": "Хоккей",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/7/04/347806404361047.jpeg",
+    "teaser": "«Каролина» с двумя россиянами сравняла счет в финале Кубка Стэнли",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a2266e69a7947978af85434",
+    "publishedAt": "2026-06-05T07:13:15.000Z",
+    "createdAt": "2026-06-05T08:46:16.947Z",
+    "updatedAt": "2026-06-05T08:46:16.947Z"
+  },
+  {
     "id": "cefaf824a160a3d7",
     "title": "Диана Шнайдер назвала причины поражения в полуфинале «Ролан Гаррос»",
     "sport": "Теннис",
@@ -10,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a21de229a7947115a2a3d47",
     "publishedAt": "2026-06-04T20:48:03.000Z",
-    "createdAt": "2026-06-05T04:16:25.810Z",
-    "updatedAt": "2026-06-05T04:16:25.810Z"
+    "createdAt": "2026-06-05T08:46:18.045Z",
+    "updatedAt": "2026-06-05T08:46:18.045Z"
   },
   {
     "id": "b3b6baf5b778be7f",
@@ -24,8 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a21c9839a79474b938929cb",
     "publishedAt": "2026-06-04T19:48:42.000Z",
-    "createdAt": "2026-06-05T04:16:26.761Z",
-    "updatedAt": "2026-06-05T04:16:26.761Z"
+    "createdAt": "2026-06-05T08:46:19.198Z",
+    "updatedAt": "2026-06-05T08:46:19.198Z"
   },
   {
     "id": "2879cbe8800273da",
@@ -38,92 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a21c3b89a7947f3cd62f092",
     "publishedAt": "2026-06-04T19:05:57.000Z",
-    "createdAt": "2026-06-05T04:16:28.834Z",
-    "updatedAt": "2026-06-05T04:16:28.834Z"
-  },
-  {
-    "id": "515fed84ce125c1b",
-    "title": "Nike представил ролик к ЧМ-2026 с Роналду, Мбаппе и Кардашьян",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/8/23/347805964463238.jpeg",
-    "teaser": "Nike представил ролик к ЧМ-2026 с Роналду, Мбаппе и Кардашьян",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a21b61b9a7947e17188386d",
-    "publishedAt": "2026-06-04T18:40:39.000Z",
-    "createdAt": "2026-06-05T04:16:29.744Z",
-    "updatedAt": "2026-06-05T04:16:29.744Z"
-  },
-  {
-    "id": "d91e5cbef2fbb20e",
-    "title": "Как россиянки выступили в полуфинале «Ролан Гаррос». Фотогалерея",
-    "sport": "Теннис",
-    "category": "Теннис",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/3/67/347805835072673.jpeg",
-    "teaser": "Как россиянки выступили в полуфинале «Ролан Гаррос». Фотогалерея",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a217b849a794768a7dbe909",
-    "publishedAt": "2026-06-04T17:46:08.000Z",
-    "createdAt": "2026-06-05T04:16:30.819Z",
-    "updatedAt": "2026-06-05T04:16:30.819Z"
-  },
-  {
-    "id": "49c323d823d1e4ef",
-    "title": "Диана Шнайдер проиграла 114-й ракетке мира в полуфинале «Ролан Гаррос»",
-    "sport": "Теннис",
-    "category": "Теннис",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/2/51/347805916850512.jpeg",
-    "teaser": "Диана Шнайдер проиграла 114-й ракетке мира в полуфинале «Ролан Гаррос»",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a21865a9a7947631998c20f",
-    "publishedAt": "2026-06-04T17:23:09.000Z",
-    "createdAt": "2026-06-05T04:16:31.838Z",
-    "updatedAt": "2026-06-05T04:16:31.838Z"
-  },
-  {
-    "id": "e9365ff7803e1745",
-    "title": "Тюкавин не сыграет за сборную России против Буркина-Фасо",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/0/77/347805920782770.png",
-    "teaser": "Тюкавин не сыграет за сборную России против Буркина-Фасо",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a21adaa9a7947f4eb2b5fc2",
-    "publishedAt": "2026-06-04T17:11:46.000Z",
-    "createdAt": "2026-06-05T04:16:34.888Z",
-    "updatedAt": "2026-06-05T04:16:34.888Z"
-  },
-  {
-    "id": "600d7ac64dd5c441",
-    "title": "Овечкину не дали награду НХЛ за лидерство за пределами льда",
-    "sport": "Хоккей",
-    "category": "Хоккей",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/9/63/347805907723639.jpeg",
-    "teaser": "Овечкину не дали награду НХЛ за лидерство за пределами льда",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a21a1969a794748e22d7ac9",
-    "publishedAt": "2026-06-04T16:46:50.000Z",
-    "createdAt": "2026-06-05T04:16:32.854Z",
-    "updatedAt": "2026-06-05T04:16:32.854Z"
-  },
-  {
-    "id": "9e351c6189ac0154",
-    "title": "Кто из россиян доходил до финала турниров «Большого шлема»",
-    "sport": "Теннис",
-    "category": "Теннис",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/3/48/347805882806483.jpeg",
-    "teaser": "Кто из россиян доходил до финала турниров «Большого шлема»",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a2197569a794714da3bad4c",
-    "publishedAt": "2026-06-04T16:01:59.000Z",
-    "createdAt": "2026-06-05T04:16:33.872Z",
-    "updatedAt": "2026-06-05T04:16:33.872Z"
+    "createdAt": "2026-06-05T08:46:21.263Z",
+    "updatedAt": "2026-06-05T08:46:21.263Z"
   },
   {
     "id": "3cbcd08374c2abf8",
@@ -136,7 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a1fea0c9a794774c63a23e8",
     "publishedAt": "2026-06-04T15:55:16.000Z",
-    "createdAt": "2026-06-05T04:16:27.812Z",
-    "updatedAt": "2026-06-05T04:16:27.812Z"
+    "createdAt": "2026-06-05T08:46:20.361Z",
+    "updatedAt": "2026-06-05T08:46:20.361Z"
   }
 ]
