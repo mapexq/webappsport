@@ -1,5 +1,89 @@
 [
   {
+    "id": "a29a5da0bca6a956",
+    "title": "Лидер сезона «Формулы-1» Антонелли выиграл квалификацию Гран-при Монако",
+    "sport": "Теннис",
+    "category": "Теннис",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/7/19/347807614129197.jpeg",
+    "teaser": "Лидер сезона «Формулы-1» Антонелли выиграл квалификацию Гран-при Монако",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a2443109a79479f2c646f89",
+    "publishedAt": "2026-06-06T16:02:38.000Z",
+    "createdAt": "2026-06-06T16:11:12.693Z",
+    "updatedAt": "2026-06-06T16:11:12.693Z"
+  },
+  {
+    "id": "a23fd49bdafb847e",
+    "title": "Мирра Андреева пошутила, что не хотела бы снова играть против Хвалиньской",
+    "sport": "Теннис",
+    "category": "Теннис",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/7/67/347807605079677.jpeg",
+    "teaser": "Мирра Андреева пошутила, что не хотела бы снова играть против Хвалиньской",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a243f769a794774509709ba",
+    "publishedAt": "2026-06-06T15:53:36.000Z",
+    "createdAt": "2026-06-06T16:11:11.728Z",
+    "updatedAt": "2026-06-06T16:11:11.728Z"
+  },
+  {
+    "id": "1c54f98ad7b66f0a",
+    "title": "Хвалиньская фразой «была слишком хороша» оценила победу Андреевой",
+    "sport": "Теннис",
+    "category": "Теннис",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/3/99/347807596555993.jpeg",
+    "teaser": "Хвалиньская фразой «была слишком хороша» оценила победу Андреевой",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a243c3c9a794774509709ac",
+    "publishedAt": "2026-06-06T15:39:01.000Z",
+    "createdAt": "2026-06-06T16:11:13.864Z",
+    "updatedAt": "2026-06-06T16:11:13.864Z"
+  },
+  {
+    "id": "693c1564e50a86e1",
+    "title": "Пятый раз в истории россиянина признали лучшим голкипером сезона в НХЛ",
+    "sport": "Хоккей",
+    "category": "Хоккей",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/2/73/347807586948732.jpeg",
+    "teaser": "Пятый раз в истории россиянина признали лучшим голкипером сезона в НХЛ",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a2438789a794757720afcaf",
+    "publishedAt": "2026-06-06T15:18:29.000Z",
+    "createdAt": "2026-06-06T16:11:15.130Z",
+    "updatedAt": "2026-06-06T16:11:15.130Z"
+  },
+  {
+    "id": "bba964a5e830fb57",
+    "title": "Сколько призовых заработали российские теннисисты на «Ролан Гаррос»",
+    "sport": "Теннис",
+    "category": "Теннис",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/7/15/347806571759157.jpeg",
+    "teaser": "Сколько призовых заработали российские теннисисты на «Ролан Гаррос»",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a22ab609a7947d96ecc5e89",
+    "publishedAt": "2026-06-06T15:03:18.000Z",
+    "createdAt": "2026-06-06T16:11:16.102Z",
+    "updatedAt": "2026-06-06T16:11:16.102Z"
+  },
+  {
+    "id": "3c0fad37c0c66bf8",
+    "title": "Российская теннисистка Мирра Андреева выиграла турнир «Ролан Гаррос»",
+    "sport": "Теннис",
+    "category": "Теннис",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/1/28/347807563784281.jpeg",
+    "teaser": "Российская теннисистка Мирра Андреева выиграла турнир «Ролан Гаррос»",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a2421359a794713219e4704",
+    "publishedAt": "2026-06-06T14:51:59.000Z",
+    "createdAt": "2026-06-06T16:11:17.075Z",
+    "updatedAt": "2026-06-06T16:11:17.075Z"
+  },
+  {
     "id": "9a83eb86f0f82708",
     "title": "Сафонов вошел в топ-10 самых дорогих вратарей мира",
     "sport": "Футбол",
@@ -10,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a2410db9a794738ffb04282",
     "publishedAt": "2026-06-06T12:54:59.000Z",
-    "createdAt": "2026-06-06T14:45:54.347Z",
-    "updatedAt": "2026-06-06T14:45:54.347Z"
+    "createdAt": "2026-06-06T16:11:18.008Z",
+    "updatedAt": "2026-06-06T16:11:18.008Z"
   },
   {
     "id": "41992866200f657d",
@@ -24,8 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a24124a9a7947721eb985c9",
     "publishedAt": "2026-06-06T12:35:49.000Z",
-    "createdAt": "2026-06-06T14:45:55.363Z",
-    "updatedAt": "2026-06-06T14:45:55.363Z"
+    "createdAt": "2026-06-06T16:11:18.995Z",
+    "updatedAt": "2026-06-06T16:11:18.995Z"
   },
   {
     "id": "1695bf55a915387d",
@@ -38,22 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a2406039a7947c08b4492ad",
     "publishedAt": "2026-06-06T11:59:42.000Z",
-    "createdAt": "2026-06-06T14:45:56.370Z",
-    "updatedAt": "2026-06-06T14:45:56.370Z"
-  },
-  {
-    "id": "fe17b85ce755dc21",
-    "title": "Аргентинец в 41 год стал старейшим победителем «Ролан Гаррос» в парах",
-    "sport": "Теннис",
-    "category": "Теннис",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/8/60/347807428215608.jpeg",
-    "teaser": "Аргентинец в 41 год стал старейшим победителем «Ролан Гаррос» в парах",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a23fa629a79472b53b5b15e",
-    "publishedAt": "2026-06-06T11:04:00.000Z",
-    "createdAt": "2026-06-06T14:45:58.494Z",
-    "updatedAt": "2026-06-06T14:45:58.494Z"
+    "createdAt": "2026-06-06T16:11:20.053Z",
+    "updatedAt": "2026-06-06T16:11:20.053Z"
   },
   {
     "id": "9785bc5df8f2fae2",
@@ -66,77 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a23f3219a79472269c6afcb",
     "publishedAt": "2026-06-06T10:41:41.000Z",
-    "createdAt": "2026-06-06T14:45:57.436Z",
-    "updatedAt": "2026-06-06T14:45:57.436Z"
-  },
-  {
-    "id": "6edfc1ea081d3884",
-    "title": "Руководитель команды «Формулы-1» Ferrari попал в больницу",
-    "sport": "Другое",
-    "category": "Формула-1",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/5/93/347807400018935.jpeg",
-    "teaser": "Руководитель команды «Формулы-1» Ferrari попал в больницу",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a23ef7e9a7947ae029101fb",
-    "publishedAt": "2026-06-06T10:05:17.000Z",
-    "createdAt": "2026-06-06T14:45:59.565Z",
-    "updatedAt": "2026-06-06T14:45:59.565Z"
-  },
-  {
-    "id": "b9cdf7b14f9d9139",
-    "title": "СКА и «Металлург» совершили крупный обмен в КХЛ",
-    "sport": "Хоккей",
-    "category": "Хоккей",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/2/97/347807387691972.jpeg",
-    "teaser": "СКА и «Металлург» совершили крупный обмен в КХЛ",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a23eaa29a79476581833184",
-    "publishedAt": "2026-06-06T09:48:04.000Z",
-    "createdAt": "2026-06-06T14:46:00.685Z",
-    "updatedAt": "2026-06-06T14:46:00.685Z"
-  },
-  {
-    "id": "5011869fcdfa4441",
-    "title": "Легендарный тренер заявил, что Андреева не может проиграть «Ролан Гаррос»",
-    "sport": "Теннис",
-    "category": "Теннис",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/1/00/347807365899001.jpeg",
-    "teaser": "Легендарный тренер заявил, что Андреева не может проиграть «Ролан Гаррос»",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a23e2139a7947f7c12cfc5d",
-    "publishedAt": "2026-06-06T09:16:59.000Z",
-    "createdAt": "2026-06-06T14:46:02.837Z",
-    "updatedAt": "2026-06-06T14:46:02.837Z"
-  },
-  {
-    "id": "360859553759a5bc",
-    "title": "ФИФА после критики разрешила проносить пластиковые бутылки на матчи ЧМ",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/7/32/347807346034327.jpeg",
-    "teaser": "ФИФА после критики разрешила проносить пластиковые бутылки на матчи ЧМ",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a23d9da9a794714dd3b3b29",
-    "publishedAt": "2026-06-06T08:39:32.000Z",
-    "createdAt": "2026-06-06T14:46:03.940Z",
-    "updatedAt": "2026-06-06T14:46:03.940Z"
-  },
-  {
-    "id": "e97d5f636ae47de9",
-    "title": "Российская финалистка юниорского «Ролан Гаррос» сменит гражданство",
-    "sport": "Теннис",
-    "category": "Теннис",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/2/29/347807337075292.jpeg",
-    "teaser": "Российская финалистка юниорского «Ролан Гаррос» сменит гражданство",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a23d6d39a7947c7652288f9",
-    "publishedAt": "2026-06-06T08:23:41.000Z",
-    "createdAt": "2026-06-06T14:46:01.744Z",
-    "updatedAt": "2026-06-06T14:46:01.744Z"
+    "createdAt": "2026-06-06T16:11:21.259Z",
+    "updatedAt": "2026-06-06T16:11:21.259Z"
   }
 ]
