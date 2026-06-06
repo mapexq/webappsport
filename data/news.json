@@ -1,5 +1,75 @@
 [
   {
+    "id": "6edfc1ea081d3884",
+    "title": "Руководитель команды «Формулы-1» Ferrari попал в больницу",
+    "sport": "Другое",
+    "category": "Формула-1",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/5/93/347807400018935.jpeg",
+    "teaser": "Руководитель команды «Формулы-1» Ferrari попал в больницу",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a23ef7e9a7947ae029101fb",
+    "publishedAt": "2026-06-06T10:05:17.000Z",
+    "createdAt": "2026-06-06T10:10:13.869Z",
+    "updatedAt": "2026-06-06T10:10:13.869Z"
+  },
+  {
+    "id": "b9cdf7b14f9d9139",
+    "title": "СКА и «Металлург» совершили крупный обмен в КХЛ",
+    "sport": "Хоккей",
+    "category": "Хоккей",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/2/97/347807387691972.jpeg",
+    "teaser": "СКА и «Металлург» совершили крупный обмен в КХЛ",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a23eaa29a79476581833184",
+    "publishedAt": "2026-06-06T09:48:04.000Z",
+    "createdAt": "2026-06-06T10:10:14.861Z",
+    "updatedAt": "2026-06-06T10:10:14.861Z"
+  },
+  {
+    "id": "5011869fcdfa4441",
+    "title": "Легендарный тренер заявил, что Андреева не может проиграть «Ролан Гаррос»",
+    "sport": "Теннис",
+    "category": "Теннис",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/1/00/347807365899001.jpeg",
+    "teaser": "Легендарный тренер заявил, что Андреева не может проиграть «Ролан Гаррос»",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a23e2139a7947f7c12cfc5d",
+    "publishedAt": "2026-06-06T09:16:59.000Z",
+    "createdAt": "2026-06-06T10:10:15.947Z",
+    "updatedAt": "2026-06-06T10:10:15.947Z"
+  },
+  {
+    "id": "360859553759a5bc",
+    "title": "ФИФА после критики разрешила проносить пластиковые бутылки на матчи ЧМ",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/7/32/347807346034327.jpeg",
+    "teaser": "ФИФА после критики разрешила проносить пластиковые бутылки на матчи ЧМ",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a23d9da9a794714dd3b3b29",
+    "publishedAt": "2026-06-06T08:39:32.000Z",
+    "createdAt": "2026-06-06T10:10:17.986Z",
+    "updatedAt": "2026-06-06T10:10:17.986Z"
+  },
+  {
+    "id": "e97d5f636ae47de9",
+    "title": "Российская финалистка юниорского «Ролан Гаррос» сменит гражданство",
+    "sport": "Теннис",
+    "category": "Теннис",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/2/29/347807337075292.jpeg",
+    "teaser": "Российская финалистка юниорского «Ролан Гаррос» сменит гражданство",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a23d6d39a7947c7652288f9",
+    "publishedAt": "2026-06-06T08:23:41.000Z",
+    "createdAt": "2026-06-06T10:10:16.991Z",
+    "updatedAt": "2026-06-06T10:10:16.991Z"
+  },
+  {
     "id": "cbc852579cd7e4e8",
     "title": "Один из самых молодых футболистов ЧМ-2026 пропустит турнир из-за травмы",
     "sport": "Футбол",
@@ -10,8 +80,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a23cc9d9a79476fc5891752",
     "publishedAt": "2026-06-06T07:41:46.000Z",
-    "createdAt": "2026-06-06T07:51:52.940Z",
-    "updatedAt": "2026-06-06T07:51:52.940Z"
+    "createdAt": "2026-06-06T10:10:19.049Z",
+    "updatedAt": "2026-06-06T10:10:19.049Z"
   },
   {
     "id": "ad8b81ea76d3e5fd",
@@ -24,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a23c92c9a79474beac16f60",
     "publishedAt": "2026-06-06T07:26:38.000Z",
-    "createdAt": "2026-06-06T07:51:54.050Z",
-    "updatedAt": "2026-06-06T07:51:54.050Z"
+    "createdAt": "2026-06-06T10:10:20.042Z",
+    "updatedAt": "2026-06-06T10:10:20.042Z"
   },
   {
     "id": "d72771aea16262cc",
@@ -38,8 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a23c6c59a79472c4ed240fa",
     "publishedAt": "2026-06-06T07:12:10.000Z",
-    "createdAt": "2026-06-06T07:51:55.128Z",
-    "updatedAt": "2026-06-06T07:51:55.128Z"
+    "createdAt": "2026-06-06T10:10:21.092Z",
+    "updatedAt": "2026-06-06T10:10:21.092Z"
   },
   {
     "id": "a3b931bbbb2d7e38",
@@ -52,8 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a22abd59a79477d12e068c3",
     "publishedAt": "2026-06-06T05:31:36.000Z",
-    "createdAt": "2026-06-06T07:51:56.268Z",
-    "updatedAt": "2026-06-06T07:51:56.268Z"
+    "createdAt": "2026-06-06T10:10:22.096Z",
+    "updatedAt": "2026-06-06T10:10:22.096Z"
   },
   {
     "id": "0deea055a32c9114",
@@ -66,77 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a2291a49a79477ad5cce969",
     "publishedAt": "2026-06-05T21:17:25.000Z",
-    "createdAt": "2026-06-06T07:51:57.353Z",
-    "updatedAt": "2026-06-06T07:51:57.353Z"
-  },
-  {
-    "id": "8b125b23c829c2ef",
-    "title": "Карпин оценил дебют капитана юношеского «Манчестер Юнайтед» за сборную",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/0/18/347806921255180.jpeg",
-    "teaser": "Карпин оценил дебют капитана юношеского «Манчестер Юнайтед» за сборную",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a2332039a7947181c9a8ac2",
-    "publishedAt": "2026-06-05T20:54:27.000Z",
-    "createdAt": "2026-06-06T07:51:58.467Z",
-    "updatedAt": "2026-06-06T07:51:58.467Z"
-  },
-  {
-    "id": "1f39aae731b06190",
-    "title": "Экс-хоккеиста ЦСКА дисквалифицировали за допинг",
-    "sport": "Хоккей",
-    "category": "Хоккей",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/9/77/347806905907779.jpeg",
-    "teaser": "Экс-хоккеиста ЦСКА дисквалифицировали за допинг",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a232a8a9a7947470750eef4",
-    "publishedAt": "2026-06-05T20:51:36.000Z",
-    "createdAt": "2026-06-06T07:51:59.558Z",
-    "updatedAt": "2026-06-06T07:51:59.558Z"
-  },
-  {
-    "id": "3c07f57be451eedd",
-    "title": "Карпин назвал «катастрофой» второй тайм матча против Буркина-Фасо",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/5/23/347806887078235.jpeg",
-    "teaser": "Карпин назвал «катастрофой» второй тайм матча против Буркина-Фасо",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a2323e79a79476d03237e0f",
-    "publishedAt": "2026-06-05T20:11:24.000Z",
-    "createdAt": "2026-06-06T07:52:00.639Z",
-    "updatedAt": "2026-06-06T07:52:00.639Z"
-  },
-  {
-    "id": "e5b2c5d98ad2ff1b",
-    "title": "Сборная России забила впервые за три матча и разгромила Буркина-Фасо",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/7/66/347806850363667.jpeg",
-    "teaser": "Сборная России забила впервые за три матча и разгромила Буркина-Фасо",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a2315769a79475d741d5c2f",
-    "publishedAt": "2026-06-05T19:04:47.000Z",
-    "createdAt": "2026-06-06T07:52:01.728Z",
-    "updatedAt": "2026-06-06T07:52:01.728Z"
-  },
-  {
-    "id": "d4ec2a21c323a191",
-    "title": "Капитан юношеского «Манчестер Юнайтед» дебютировал в сборной России",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/2/89/347806841112892.jpeg",
-    "teaser": "Капитан юношеского «Манчестер Юнайтед» дебютировал в сборной России",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a2315029a794700febe29b4",
-    "publishedAt": "2026-06-05T18:39:10.000Z",
-    "createdAt": "2026-06-06T07:52:02.849Z",
-    "updatedAt": "2026-06-06T07:52:02.849Z"
+    "createdAt": "2026-06-06T10:10:23.173Z",
+    "updatedAt": "2026-06-06T10:10:23.173Z"
   }
 ]
