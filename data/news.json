@@ -1,5 +1,47 @@
 [
   {
+    "id": "bc8696e4361e5306",
+    "title": "Зверев заявил, что прожил на «Ролан Гаррос» лучшие и худшие моменты жизни",
+    "sport": "Теннис",
+    "category": "Теннис",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/1/01/347808591993011.jpeg",
+    "teaser": "Зверев заявил, что прожил на «Ролан Гаррос» лучшие и худшие моменты жизни",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a25c1159a794766a285242a",
+    "publishedAt": "2026-06-07T19:21:07.000Z",
+    "createdAt": "2026-06-07T20:16:38.923Z",
+    "updatedAt": "2026-06-07T20:16:38.923Z"
+  },
+  {
+    "id": "cb14b09a644cffba",
+    "title": "Переживший остановку сердца Эриксен потерял сознание в матче с Украиной",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/1/04/347808565319041.png",
+    "teaser": "Переживший остановку сердца Эриксен потерял сознание в матче с Украиной",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a25b6a39a794707201a57fa",
+    "publishedAt": "2026-06-07T18:40:33.000Z",
+    "createdAt": "2026-06-07T20:16:37.850Z",
+    "updatedAt": "2026-06-07T20:16:37.850Z"
+  },
+  {
+    "id": "c6e64fef4de784ec",
+    "title": "Трехкратный чемпион НБА Кинг умер в 59 лет",
+    "sport": "Баскетбол",
+    "category": "Баскетбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/2/15/347808540185152.png",
+    "teaser": "Трехкратный чемпион НБА Кинг умер в 59 лет",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a25ac2f9a79471eb4db9fa6",
+    "publishedAt": "2026-06-07T18:19:12.000Z",
+    "createdAt": "2026-06-07T20:16:39.993Z",
+    "updatedAt": "2026-06-07T20:16:39.993Z"
+  },
+  {
     "id": "207c2f65333afd1f",
     "title": "Зверев победил на «Ролан Гаррос», впервые взяв трофей «Большого шлема»",
     "sport": "Теннис",
@@ -10,8 +52,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a2594b69a7947f70c6bcebf",
     "publishedAt": "2026-06-07T17:45:21.000Z",
-    "createdAt": "2026-06-07T18:08:15.334Z",
-    "updatedAt": "2026-06-07T18:08:15.334Z"
+    "createdAt": "2026-06-07T20:16:41.001Z",
+    "updatedAt": "2026-06-07T20:16:41.001Z"
   },
   {
     "id": "addda9f3db8069c6",
@@ -24,8 +66,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a25a10e9a79471328ebaf51",
     "publishedAt": "2026-06-07T17:16:06.000Z",
-    "createdAt": "2026-06-07T18:08:16.364Z",
-    "updatedAt": "2026-06-07T18:08:16.364Z"
+    "createdAt": "2026-06-07T20:16:42.066Z",
+    "updatedAt": "2026-06-07T20:16:42.066Z"
   },
   {
     "id": "98e8a5479a39a8e1",
@@ -38,8 +80,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a258b309a794764d8ac5f46",
     "publishedAt": "2026-06-07T16:37:57.000Z",
-    "createdAt": "2026-06-07T18:08:17.505Z",
-    "updatedAt": "2026-06-07T18:08:17.505Z"
+    "createdAt": "2026-06-07T20:16:43.159Z",
+    "updatedAt": "2026-06-07T20:16:43.159Z"
   },
   {
     "id": "3b0e803f09fc9a0f",
@@ -52,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a257f989a79478d15884a12",
     "publishedAt": "2026-06-07T15:40:38.000Z",
-    "createdAt": "2026-06-07T18:08:18.571Z",
-    "updatedAt": "2026-06-07T18:08:18.571Z"
+    "createdAt": "2026-06-07T20:16:45.237Z",
+    "updatedAt": "2026-06-07T20:16:45.237Z"
   },
   {
     "id": "582eaf6f199900ec",
@@ -66,8 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a257fb79a79471eb78fcaff",
     "publishedAt": "2026-06-07T14:43:41.000Z",
-    "createdAt": "2026-06-07T18:08:19.633Z",
-    "updatedAt": "2026-06-07T18:08:19.633Z"
+    "createdAt": "2026-06-07T20:16:46.211Z",
+    "updatedAt": "2026-06-07T20:16:46.211Z"
   },
   {
     "id": "4a146684dd6a0096",
@@ -80,50 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a2572cb9a7947953db525d0",
     "publishedAt": "2026-06-07T13:49:54.000Z",
-    "createdAt": "2026-06-07T18:08:20.698Z",
-    "updatedAt": "2026-06-07T18:08:20.698Z"
-  },
-  {
-    "id": "425a8270397b07c2",
-    "title": "Двукратный чемпион России среди юниоров ушел из группы Тутберидзе",
-    "sport": "Другое",
-    "category": "Фигурное катание",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/0/82/347808372638820.png",
-    "teaser": "Двукратный чемпион России среди юниоров ушел из группы Тутберидзе",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a256a929a794723d17881ff",
-    "publishedAt": "2026-06-07T13:18:45.000Z",
-    "createdAt": "2026-06-07T18:08:21.803Z",
-    "updatedAt": "2026-06-07T18:08:21.803Z"
-  },
-  {
-    "id": "fb07f17e45a1973a",
-    "title": "Умер тренер двукратного олимпийского чемпиона по гимнастике Воропаева",
-    "sport": "Другое",
-    "category": "Другие",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/7/48/347808364190487.png",
-    "teaser": "Умер тренер двукратного олимпийского чемпиона по гимнастике Воропаева",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a25647a9a7947f4e12c3b45",
-    "publishedAt": "2026-06-07T12:49:56.000Z",
-    "createdAt": "2026-06-07T18:08:24.008Z",
-    "updatedAt": "2026-06-07T18:08:24.008Z"
-  },
-  {
-    "id": "d1a5f25675a675ea",
-    "title": "Непомнящий не пожал руку американцу перед стартом турнира в Ташкенте",
-    "sport": "Другое",
-    "category": "Другие",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/5/26/347808320583265.png",
-    "teaser": "Непомнящий не пожал руку американцу перед стартом турнира в Ташкенте",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a2554e09a794782f2e1f41c",
-    "publishedAt": "2026-06-07T12:12:48.000Z",
-    "createdAt": "2026-06-07T18:08:22.903Z",
-    "updatedAt": "2026-06-07T18:08:22.903Z"
+    "createdAt": "2026-06-07T20:16:47.374Z",
+    "updatedAt": "2026-06-07T20:16:47.374Z"
   },
   {
     "id": "ff412af1ce28e56f",
@@ -136,7 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a243ddd9a79477fcca1b9c3",
     "publishedAt": "2026-06-06T21:00:35.000Z",
-    "createdAt": "2026-06-07T18:08:25.246Z",
-    "updatedAt": "2026-06-07T18:08:25.246Z"
+    "createdAt": "2026-06-07T20:16:44.169Z",
+    "updatedAt": "2026-06-07T20:16:44.169Z"
   }
 ]
