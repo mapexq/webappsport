@@ -1,5 +1,61 @@
 [
   {
+    "id": "4a146684dd6a0096",
+    "title": "Ферстаппен сошел на старте Гран-при Монако из-за заглохшего двигателя",
+    "sport": "Другое",
+    "category": "Формула-1",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/4/85/347808391750854.jpeg",
+    "teaser": "Ферстаппен сошел на старте Гран-при Монако из-за заглохшего двигателя",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a2572cb9a7947953db525d0",
+    "publishedAt": "2026-06-07T13:49:54.000Z",
+    "createdAt": "2026-06-07T14:05:21.250Z",
+    "updatedAt": "2026-06-07T14:05:21.250Z"
+  },
+  {
+    "id": "425a8270397b07c2",
+    "title": "Двукратный чемпион России среди юниоров ушел из группы Тутберидзе",
+    "sport": "Другое",
+    "category": "Фигурное катание",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/0/82/347808372638820.png",
+    "teaser": "Двукратный чемпион России среди юниоров ушел из группы Тутберидзе",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a256a929a794723d17881ff",
+    "publishedAt": "2026-06-07T13:18:45.000Z",
+    "createdAt": "2026-06-07T14:05:22.394Z",
+    "updatedAt": "2026-06-07T14:05:22.394Z"
+  },
+  {
+    "id": "fb07f17e45a1973a",
+    "title": "Умер тренер двукратного олимпийского чемпиона по гимнастике Воропаева",
+    "sport": "Другое",
+    "category": "Другие",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/7/48/347808364190487.png",
+    "teaser": "Умер тренер двукратного олимпийского чемпиона по гимнастике Воропаева",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a25647a9a7947f4e12c3b45",
+    "publishedAt": "2026-06-07T12:49:56.000Z",
+    "createdAt": "2026-06-07T14:05:24.687Z",
+    "updatedAt": "2026-06-07T14:05:24.687Z"
+  },
+  {
+    "id": "d1a5f25675a675ea",
+    "title": "Непомнящий не пожал руку американцу перед стартом турнира в Ташкенте",
+    "sport": "Другое",
+    "category": "Другие",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/5/26/347808320583265.png",
+    "teaser": "Непомнящий не пожал руку американцу перед стартом турнира в Ташкенте",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a2554e09a794782f2e1f41c",
+    "publishedAt": "2026-06-07T12:12:48.000Z",
+    "createdAt": "2026-06-07T14:05:23.526Z",
+    "updatedAt": "2026-06-07T14:05:23.526Z"
+  },
+  {
     "id": "df62aed4f5d485d1",
     "title": "Фигурист Гуменник стал бакалавром в сфере IТ",
     "sport": "Другое",
@@ -10,8 +66,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a2549059a79478ffca37119",
     "publishedAt": "2026-06-07T10:55:00.000Z",
-    "createdAt": "2026-06-07T11:52:36.037Z",
-    "updatedAt": "2026-06-07T11:52:36.037Z"
+    "createdAt": "2026-06-07T14:05:27.034Z",
+    "updatedAt": "2026-06-07T14:05:27.034Z"
   },
   {
     "id": "289c77f0fd0602d0",
@@ -24,8 +80,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a2540509a794710ade57654",
     "publishedAt": "2026-06-07T10:10:40.000Z",
-    "createdAt": "2026-06-07T11:52:36.994Z",
-    "updatedAt": "2026-06-07T11:52:36.994Z"
+    "createdAt": "2026-06-07T14:05:28.072Z",
+    "updatedAt": "2026-06-07T14:05:28.072Z"
   },
   {
     "id": "5dec58ef03a21b96",
@@ -38,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a2536999a7947cb934aba24",
     "publishedAt": "2026-06-07T09:42:12.000Z",
-    "createdAt": "2026-06-07T11:52:38.189Z",
-    "updatedAt": "2026-06-07T11:52:38.189Z"
+    "createdAt": "2026-06-07T14:05:29.195Z",
+    "updatedAt": "2026-06-07T14:05:29.195Z"
   },
   {
     "id": "ff412af1ce28e56f",
@@ -52,22 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a243ddd9a79477fcca1b9c3",
     "publishedAt": "2026-06-06T21:00:35.000Z",
-    "createdAt": "2026-06-07T11:52:39.221Z",
-    "updatedAt": "2026-06-07T11:52:39.221Z"
-  },
-  {
-    "id": "295837b1d5d2183b",
-    "title": "Павлюченкова оценила шансы Андреевой стать первой ракеткой мира",
-    "sport": "Теннис",
-    "category": "Теннис",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/0/90/347807714152900.jpeg",
-    "teaser": "Павлюченкова оценила шансы Андреевой стать первой ракеткой мира",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a1f46a19a7947f670d40976",
-    "publishedAt": "2026-06-06T18:57:19.000Z",
-    "createdAt": "2026-06-07T11:52:44.155Z",
-    "updatedAt": "2026-06-07T11:52:44.155Z"
+    "createdAt": "2026-06-07T14:05:25.828Z",
+    "updatedAt": "2026-06-07T14:05:25.828Z"
   },
   {
     "id": "4116fb488254da4c",
@@ -80,8 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a21ab4a9a7947233a074233",
     "publishedAt": "2026-06-06T18:41:12.000Z",
-    "createdAt": "2026-06-07T11:52:40.236Z",
-    "updatedAt": "2026-06-07T11:52:40.236Z"
+    "createdAt": "2026-06-07T14:05:30.337Z",
+    "updatedAt": "2026-06-07T14:05:30.337Z"
   },
   {
     "id": "28c798f4a34c16b7",
@@ -94,49 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a245eaa9a79470bac754cd8",
     "publishedAt": "2026-06-06T18:34:27.000Z",
-    "createdAt": "2026-06-07T11:52:41.202Z",
-    "updatedAt": "2026-06-07T11:52:41.202Z"
-  },
-  {
-    "id": "7a1ea994d2a0628d",
-    "title": "Дегтярев поздравил Андрееву с победой на «Ролан Гаррос»",
-    "sport": "Теннис",
-    "category": "Теннис",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/5/56/347807678723565.jpeg",
-    "teaser": "Дегтярев поздравил Андрееву с победой на «Ролан Гаррос»",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a201efa9a794781d2436aec",
-    "publishedAt": "2026-06-06T17:51:50.000Z",
-    "createdAt": "2026-06-07T11:52:45.179Z",
-    "updatedAt": "2026-06-07T11:52:45.179Z"
-  },
-  {
-    "id": "f553a8c672137c0e",
-    "title": "Гимнастка Дина Аверина объявила о беременности",
-    "sport": "Другое",
-    "category": "Другие",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/0/85/347807662014850.jpeg",
-    "teaser": "Гимнастка Дина Аверина объявила о беременности",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a2455b39a79471861004743",
-    "publishedAt": "2026-06-06T17:25:12.000Z",
-    "createdAt": "2026-06-07T11:52:42.107Z",
-    "updatedAt": "2026-06-07T11:52:42.107Z"
-  },
-  {
-    "id": "25df6a6d85574d40",
-    "title": "Шарапова заявила, что гордится победой Андреевой на «Ролан Гаррос»",
-    "sport": "Теннис",
-    "category": "Теннис",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/4/93/347807656887934.jpeg",
-    "teaser": "Шарапова заявила, что гордится победой Андреевой на «Ролан Гаррос»",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a2453c09a794731c0f96f2f",
-    "publishedAt": "2026-06-06T17:13:55.000Z",
-    "createdAt": "2026-06-07T11:52:43.130Z",
-    "updatedAt": "2026-06-07T11:52:43.130Z"
+    "createdAt": "2026-06-07T14:05:31.512Z",
+    "updatedAt": "2026-06-07T14:05:31.512Z"
   }
 ]
