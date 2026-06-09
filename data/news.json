@@ -1,5 +1,61 @@
 [
   {
+    "id": "f5f13ab8f7c8fd50",
+    "title": "Трампа освистали на матче финальной серии НБА в Нью-Йорке",
+    "sport": "Баскетбол",
+    "category": "Баскетбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/6/85/347809915145856.jpeg",
+    "teaser": "Трампа освистали на матче финальной серии НБА в Нью-Йорке",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a27c5a89a7947d1eab75375",
+    "publishedAt": "2026-06-09T08:27:58.000Z",
+    "createdAt": "2026-06-09T08:33:11.304Z",
+    "updatedAt": "2026-06-09T08:33:11.304Z"
+  },
+  {
+    "id": "1a9100436592fd20",
+    "title": "Лучший бомбардир в истории КХЛ перейдет в «Салават Юлаев»",
+    "sport": "Хоккей",
+    "category": "Хоккей",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/4/05/347809905131054.jpeg",
+    "teaser": "Лучший бомбардир в истории КХЛ перейдет в «Салават Юлаев»",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a27c0e59a7947816eed5b80",
+    "publishedAt": "2026-06-09T07:53:35.000Z",
+    "createdAt": "2026-06-09T08:33:12.411Z",
+    "updatedAt": "2026-06-09T08:33:12.411Z"
+  },
+  {
+    "id": "9a65d840715a9fe9",
+    "title": "Украинских спортсменов оштрафовали за отказ слушать гимн России",
+    "sport": "Другое",
+    "category": "Другие",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/7/63/347809890717637.jpeg",
+    "teaser": "Украинских спортсменов оштрафовали за отказ слушать гимн России",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a27bc179a79470c1be3a375",
+    "publishedAt": "2026-06-09T07:42:20.000Z",
+    "createdAt": "2026-06-09T08:33:13.484Z",
+    "updatedAt": "2026-06-09T08:33:13.484Z"
+  },
+  {
+    "id": "0f8e952716c6b912",
+    "title": "Расписание матчей чемпионата мира по футболу 2026 года",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/8/46/347809247809468.png",
+    "teaser": "Расписание матчей чемпионата мира по футболу 2026 года",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69cf860d9a7947b8d122f9c4",
+    "publishedAt": "2026-06-09T05:01:15.000Z",
+    "createdAt": "2026-06-09T08:33:14.570Z",
+    "updatedAt": "2026-06-09T08:33:14.570Z"
+  },
+  {
     "id": "199d58fe93a2d96c",
     "title": "Сборная Узбекистана подверглась усиленному досмотру по приезде в Нью-Йорк",
     "sport": "Футбол",
@@ -10,8 +66,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a2726139a7947bfcefed0b9",
     "publishedAt": "2026-06-08T21:42:28.000Z",
-    "createdAt": "2026-06-09T04:02:13.354Z",
-    "updatedAt": "2026-06-09T04:02:13.354Z"
+    "createdAt": "2026-06-09T08:33:17.747Z",
+    "updatedAt": "2026-06-09T08:33:17.747Z"
   },
   {
     "id": "aad1f6d2da5ebf08",
@@ -24,8 +80,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a27213a9a79477766f49ab4",
     "publishedAt": "2026-06-08T21:31:16.000Z",
-    "createdAt": "2026-06-09T04:02:11.409Z",
-    "updatedAt": "2026-06-09T04:02:11.409Z"
+    "createdAt": "2026-06-09T08:33:15.658Z",
+    "updatedAt": "2026-06-09T08:33:15.658Z"
   },
   {
     "id": "f39861b4f13f352b",
@@ -38,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69cf85b49a7947d909144464",
     "publishedAt": "2026-06-08T21:15:11.000Z",
-    "createdAt": "2026-06-09T04:02:12.382Z",
-    "updatedAt": "2026-06-09T04:02:12.382Z"
+    "createdAt": "2026-06-09T08:33:16.706Z",
+    "updatedAt": "2026-06-09T08:33:16.706Z"
   },
   {
     "id": "ae1a9efc04acaa60",
@@ -52,8 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a271a899a794757a6d42160",
     "publishedAt": "2026-06-08T21:03:58.000Z",
-    "createdAt": "2026-06-09T04:02:14.364Z",
-    "updatedAt": "2026-06-09T04:02:14.364Z"
+    "createdAt": "2026-06-09T08:33:18.863Z",
+    "updatedAt": "2026-06-09T08:33:18.863Z"
   },
   {
     "id": "e7cc5076dc143ac0",
@@ -66,22 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a2713e19a794704be35b13a",
     "publishedAt": "2026-06-08T20:22:47.000Z",
-    "createdAt": "2026-06-09T04:02:16.412Z",
-    "updatedAt": "2026-06-09T04:02:16.412Z"
-  },
-  {
-    "id": "8a5f771e246dc8a9",
-    "title": "Защитник «Арсенала» и сборной Нидерландов пропустит ЧМ-2026 из-за травмы",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/6/66/347809443365666.jpeg",
-    "teaser": "Защитник «Арсенала» и сборной Нидерландов пропустит ЧМ-2026 из-за травмы",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a270b5e9a7947099a69aae2",
-    "publishedAt": "2026-06-08T19:00:53.000Z",
-    "createdAt": "2026-06-09T04:02:17.425Z",
-    "updatedAt": "2026-06-09T04:02:17.425Z"
+    "createdAt": "2026-06-09T08:33:21.030Z",
+    "updatedAt": "2026-06-09T08:33:21.030Z"
   },
   {
     "id": "6ed8c7b3734e3ad8",
@@ -94,49 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a2707789a7947251fdbf55a",
     "publishedAt": "2026-06-08T18:50:27.000Z",
-    "createdAt": "2026-06-09T04:02:15.383Z",
-    "updatedAt": "2026-06-09T04:02:15.383Z"
-  },
-  {
-    "id": "3d37168acf4411e4",
-    "title": "Аутсайдер КХЛ назвал нового главного тренера",
-    "sport": "Хоккей",
-    "category": "Хоккей",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/3/43/347809415886433.png",
-    "teaser": "Аутсайдер КХЛ назвал нового главного тренера",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a27007c9a794773a8281e88",
-    "publishedAt": "2026-06-08T18:17:36.000Z",
-    "createdAt": "2026-06-09T04:02:19.461Z",
-    "updatedAt": "2026-06-09T04:02:19.461Z"
-  },
-  {
-    "id": "67be668318e33e2a",
-    "title": "Разбившийся в Доминикане самолет летел за бейсболистом Ядьером Молиной",
-    "sport": "Другое",
-    "category": "Другие",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/7/88/347809393604887.jpeg",
-    "teaser": "Разбившийся в Доминикане самолет летел за бейсболистом Ядьером Молиной",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a26f2619a794786d9f70dd8",
-    "publishedAt": "2026-06-08T17:31:01.000Z",
-    "createdAt": "2026-06-09T04:02:18.435Z",
-    "updatedAt": "2026-06-09T04:02:18.435Z"
-  },
-  {
-    "id": "77af53ff2beb9e77",
-    "title": "Форвард «Спартака» не сыграет за Тринидад и Тобаго против сборной России",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/0/88/347809350097880.png",
-    "teaser": "Форвард «Спартака» не сыграет за Тринидад и Тобаго против сборной России",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a26e8cf9a794762bacc3591",
-    "publishedAt": "2026-06-08T16:32:08.000Z",
-    "createdAt": "2026-06-09T04:02:20.478Z",
-    "updatedAt": "2026-06-09T04:02:20.478Z"
+    "createdAt": "2026-06-09T08:33:19.953Z",
+    "updatedAt": "2026-06-09T08:33:19.953Z"
   }
 ]
