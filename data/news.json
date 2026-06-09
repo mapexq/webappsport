@@ -1,5 +1,75 @@
 [
   {
+    "id": "87db4bc115c6e3cf",
+    "title": "Сборная России по футболу разгромила Тринидад и Тобаго",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/2/73/347810294559732.jpeg",
+    "teaser": "Сборная России по футболу разгромила Тринидад и Тобаго",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a2859d79a79473ae2cacc3b",
+    "publishedAt": "2026-06-09T18:56:05.000Z",
+    "createdAt": "2026-06-09T19:19:27.740Z",
+    "updatedAt": "2026-06-09T19:19:27.740Z"
+  },
+  {
+    "id": "6fc4fc92e158d498",
+    "title": "Серена Уильямс выиграла первый матч после возобновления карьеры",
+    "sport": "Теннис",
+    "category": "Теннис",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/5/08/347810255250085.jpeg",
+    "teaser": "Серена Уильямс выиграла первый матч после возобновления карьеры",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a284a9f9a79473124197d0f",
+    "publishedAt": "2026-06-09T18:31:26.000Z",
+    "createdAt": "2026-06-09T19:19:28.898Z",
+    "updatedAt": "2026-06-09T19:19:28.898Z"
+  },
+  {
+    "id": "38236870d3f1c6f1",
+    "title": "«Реал» объявил об уходе главного тренера",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/2/07/347810282320072.jpeg",
+    "teaser": "«Реал» объявил об уходе главного тренера",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a2855669a79473cda68ca19",
+    "publishedAt": "2026-06-09T18:08:40.000Z",
+    "createdAt": "2026-06-09T19:19:30.021Z",
+    "updatedAt": "2026-06-09T19:19:30.021Z"
+  },
+  {
+    "id": "48d459eb0719cab9",
+    "title": "«Атлетико» отказался продавать «Реалу» Альвареса за €150 млн",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/2/53/347810271544532.jpeg",
+    "teaser": "«Атлетико» отказался продавать «Реалу» Альвареса за €150 млн",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a2851349a79475cc21a2587",
+    "publishedAt": "2026-06-09T17:58:41.000Z",
+    "createdAt": "2026-06-09T19:19:31.154Z",
+    "updatedAt": "2026-06-09T19:19:31.154Z"
+  },
+  {
+    "id": "a9115b8d87a63c63",
+    "title": "В парусном спорте российским юниорам разрешили выступать с флагом",
+    "sport": "Другое",
+    "category": "Другие",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/2/10/347810244010102.jpeg",
+    "teaser": "В парусном спорте российским юниорам разрешили выступать с флагом",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a28467f9a79472b84cb9d74",
+    "publishedAt": "2026-06-09T17:09:16.000Z",
+    "createdAt": "2026-06-09T19:19:32.306Z",
+    "updatedAt": "2026-06-09T19:19:32.306Z"
+  },
+  {
     "id": "6082580ab3e36e53",
     "title": "Пловец Корнев побил рекорд России, который сам установил днем ранее",
     "sport": "Другое",
@@ -10,8 +80,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a282d5f9a794723c7d02996",
     "publishedAt": "2026-06-09T15:24:02.000Z",
-    "createdAt": "2026-06-09T16:07:22.719Z",
-    "updatedAt": "2026-06-09T16:07:22.719Z"
+    "createdAt": "2026-06-09T19:19:33.455Z",
+    "updatedAt": "2026-06-09T19:19:33.455Z"
   },
   {
     "id": "b8b08d711fb65a2e",
@@ -24,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a28212f9a794717b8374367",
     "publishedAt": "2026-06-09T14:36:49.000Z",
-    "createdAt": "2026-06-09T16:07:25.074Z",
-    "updatedAt": "2026-06-09T16:07:25.074Z"
+    "createdAt": "2026-06-09T19:19:35.933Z",
+    "updatedAt": "2026-06-09T19:19:35.933Z"
   },
   {
     "id": "6770948a06236de9",
@@ -38,8 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a281e2d9a79473557f1260a",
     "publishedAt": "2026-06-09T14:18:42.000Z",
-    "createdAt": "2026-06-09T16:07:23.893Z",
-    "updatedAt": "2026-06-09T16:07:23.893Z"
+    "createdAt": "2026-06-09T19:19:34.582Z",
+    "updatedAt": "2026-06-09T19:19:34.582Z"
   },
   {
     "id": "3c3046a2759ca9fb",
@@ -52,8 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a2816eb9a7947ddd6fd3b25",
     "publishedAt": "2026-06-09T14:09:53.000Z",
-    "createdAt": "2026-06-09T16:07:26.164Z",
-    "updatedAt": "2026-06-09T16:07:26.164Z"
+    "createdAt": "2026-06-09T19:19:37.106Z",
+    "updatedAt": "2026-06-09T19:19:37.106Z"
   },
   {
     "id": "b67a9718f23a29c3",
@@ -66,77 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a280b839a79473da9381467",
     "publishedAt": "2026-06-09T12:56:54.000Z",
-    "createdAt": "2026-06-09T16:07:27.304Z",
-    "updatedAt": "2026-06-09T16:07:27.304Z"
-  },
-  {
-    "id": "06947f010fb1e004",
-    "title": "КХЛ изменила несколько судейских правил перед новым сезоном",
-    "sport": "Хоккей",
-    "category": "Хоккей",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/5/62/347810073329625.jpeg",
-    "teaser": "КХЛ изменила несколько судейских правил перед новым сезоном",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a2803b49a7947bf14ac53d5",
-    "publishedAt": "2026-06-09T12:41:38.000Z",
-    "createdAt": "2026-06-09T16:07:28.472Z",
-    "updatedAt": "2026-06-09T16:07:28.472Z"
-  },
-  {
-    "id": "b43b9c3d5ca0105e",
-    "title": "Игравший в НХЛ вратарь Самсонов расторг контракт с худшим клубом КХЛ",
-    "sport": "Хоккей",
-    "category": "Хоккей",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/2/04/347810031116042.jpeg",
-    "teaser": "Игравший в НХЛ вратарь Самсонов расторг контракт с худшим клубом КХЛ",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a27f2fc9a7947ba5fbe792a",
-    "publishedAt": "2026-06-09T11:35:03.000Z",
-    "createdAt": "2026-06-09T16:07:29.620Z",
-    "updatedAt": "2026-06-09T16:07:29.620Z"
-  },
-  {
-    "id": "3038a71f061a5352",
-    "title": "ФИФА отменила квоты на билеты для иранских болельщиков на ЧМ-2026",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/0/36/347810010422360.jpeg",
-    "teaser": "ФИФА отменила квоты на билеты для иранских болельщиков на ЧМ-2026",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a27eb1e9a7947a480c9f43e",
-    "publishedAt": "2026-06-09T10:54:20.000Z",
-    "createdAt": "2026-06-09T16:07:30.752Z",
-    "updatedAt": "2026-06-09T16:07:30.752Z"
-  },
-  {
-    "id": "49844bb7578db105",
-    "title": "Рекордсмен КХЛ по голам за сезон перешел в «Авангард»",
-    "sport": "Хоккей",
-    "category": "Хоккей",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/1/92/347809996755921.jpeg",
-    "teaser": "Рекордсмен КХЛ по голам за сезон перешел в «Авангард»",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a27e5d49a79471d952c6c5b",
-    "publishedAt": "2026-06-09T10:15:23.000Z",
-    "createdAt": "2026-06-09T16:07:31.913Z",
-    "updatedAt": "2026-06-09T16:07:31.913Z"
-  },
-  {
-    "id": "4bac4fc128efe1f8",
-    "title": "«Зенит» продлил контракт с защитником сборной России",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/1/20/347809975400201.jpeg",
-    "teaser": "«Зенит» продлил контракт с защитником сборной России",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a27dd669a794706ace64983",
-    "publishedAt": "2026-06-09T09:41:46.000Z",
-    "createdAt": "2026-06-09T16:07:33.259Z",
-    "updatedAt": "2026-06-09T16:07:33.259Z"
+    "createdAt": "2026-06-09T19:19:38.242Z",
+    "updatedAt": "2026-06-09T19:19:38.242Z"
   }
 ]
