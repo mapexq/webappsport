@@ -1,5 +1,89 @@
 [
   {
+    "id": "6082580ab3e36e53",
+    "title": "Пловец Корнев побил рекорд России, который сам установил днем ранее",
+    "sport": "Другое",
+    "category": "Другие",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/0/18/347810180214180.jpeg",
+    "teaser": "Пловец Корнев побил рекорд России, который сам установил днем ранее",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a282d5f9a794723c7d02996",
+    "publishedAt": "2026-06-09T15:24:02.000Z",
+    "createdAt": "2026-06-09T16:07:22.719Z",
+    "updatedAt": "2026-06-09T16:07:22.719Z"
+  },
+  {
+    "id": "b8b08d711fb65a2e",
+    "title": "Латвиец Скудра вошел в тренерский штаб хоккейного «Спартака»",
+    "sport": "Хоккей",
+    "category": "Хоккей",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/9/30/347810149363309.jpeg",
+    "teaser": "Латвиец Скудра вошел в тренерский штаб хоккейного «Спартака»",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a28212f9a794717b8374367",
+    "publishedAt": "2026-06-09T14:36:49.000Z",
+    "createdAt": "2026-06-09T16:07:25.074Z",
+    "updatedAt": "2026-06-09T16:07:25.074Z"
+  },
+  {
+    "id": "6770948a06236de9",
+    "title": "Фетисов заявил, что IIHF продолжает издеваться над сборной России",
+    "sport": "Хоккей",
+    "category": "Хоккей",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/5/40/347810141320405.jpeg",
+    "teaser": "Фетисов заявил, что IIHF продолжает издеваться над сборной России",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a281e2d9a79473557f1260a",
+    "publishedAt": "2026-06-09T14:18:42.000Z",
+    "createdAt": "2026-06-09T16:07:23.893Z",
+    "updatedAt": "2026-06-09T16:07:23.893Z"
+  },
+  {
+    "id": "3c3046a2759ca9fb",
+    "title": "ФИФА за $79 будет показывать имена болельщиков на табло стадионов ЧМ-2026",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/1/92/347810122629921.jpeg",
+    "teaser": "ФИФА за $79 будет показывать имена болельщиков на табло стадионов ЧМ-2026",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a2816eb9a7947ddd6fd3b25",
+    "publishedAt": "2026-06-09T14:09:53.000Z",
+    "createdAt": "2026-06-09T16:07:26.164Z",
+    "updatedAt": "2026-06-09T16:07:26.164Z"
+  },
+  {
+    "id": "b67a9718f23a29c3",
+    "title": "Российская теннисистка с «баранкой» проиграла на старте турнира в Лондоне",
+    "sport": "Теннис",
+    "category": "Теннис",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/0/74/347810093066740.jpeg",
+    "teaser": "Российская теннисистка с «баранкой» проиграла на старте турнира в Лондоне",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a280b839a79473da9381467",
+    "publishedAt": "2026-06-09T12:56:54.000Z",
+    "createdAt": "2026-06-09T16:07:27.304Z",
+    "updatedAt": "2026-06-09T16:07:27.304Z"
+  },
+  {
+    "id": "06947f010fb1e004",
+    "title": "КХЛ изменила несколько судейских правил перед новым сезоном",
+    "sport": "Хоккей",
+    "category": "Хоккей",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/5/62/347810073329625.jpeg",
+    "teaser": "КХЛ изменила несколько судейских правил перед новым сезоном",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a2803b49a7947bf14ac53d5",
+    "publishedAt": "2026-06-09T12:41:38.000Z",
+    "createdAt": "2026-06-09T16:07:28.472Z",
+    "updatedAt": "2026-06-09T16:07:28.472Z"
+  },
+  {
     "id": "b43b9c3d5ca0105e",
     "title": "Игравший в НХЛ вратарь Самсонов расторг контракт с худшим клубом КХЛ",
     "sport": "Хоккей",
@@ -10,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a27f2fc9a7947ba5fbe792a",
     "publishedAt": "2026-06-09T11:35:03.000Z",
-    "createdAt": "2026-06-09T12:08:19.800Z",
-    "updatedAt": "2026-06-09T12:08:19.800Z"
+    "createdAt": "2026-06-09T16:07:29.620Z",
+    "updatedAt": "2026-06-09T16:07:29.620Z"
   },
   {
     "id": "3038a71f061a5352",
@@ -24,8 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a27eb1e9a7947a480c9f43e",
     "publishedAt": "2026-06-09T10:54:20.000Z",
-    "createdAt": "2026-06-09T12:08:20.883Z",
-    "updatedAt": "2026-06-09T12:08:20.883Z"
+    "createdAt": "2026-06-09T16:07:30.752Z",
+    "updatedAt": "2026-06-09T16:07:30.752Z"
   },
   {
     "id": "49844bb7578db105",
@@ -38,8 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a27e5d49a79471d952c6c5b",
     "publishedAt": "2026-06-09T10:15:23.000Z",
-    "createdAt": "2026-06-09T12:08:21.937Z",
-    "updatedAt": "2026-06-09T12:08:21.937Z"
+    "createdAt": "2026-06-09T16:07:31.913Z",
+    "updatedAt": "2026-06-09T16:07:31.913Z"
   },
   {
     "id": "4bac4fc128efe1f8",
@@ -52,91 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a27dd669a794706ace64983",
     "publishedAt": "2026-06-09T09:41:46.000Z",
-    "createdAt": "2026-06-09T12:08:23.122Z",
-    "updatedAt": "2026-06-09T12:08:23.122Z"
-  },
-  {
-    "id": "b167cff4be8894b0",
-    "title": "Сыгравший почти 100 матчей в НХЛ канадский защитник перешел в клуб КХЛ",
-    "sport": "Хоккей",
-    "category": "Хоккей",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/4/06/347809970087064.jpeg",
-    "teaser": "Сыгравший почти 100 матчей в НХЛ канадский защитник перешел в клуб КХЛ",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a27db6d9a794781a80ffa5b",
-    "publishedAt": "2026-06-09T09:40:05.000Z",
-    "createdAt": "2026-06-09T12:08:24.185Z",
-    "updatedAt": "2026-06-09T12:08:24.185Z"
-  },
-  {
-    "id": "94ee47ff2af41d1c",
-    "title": "Reuters узнал об иске Платини против Инфантино и ФИФА",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/6/80/347809939473806.jpeg",
-    "teaser": "Reuters узнал об иске Платини против Инфантино и ФИФА",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a27cf669a7947814ee61828",
-    "publishedAt": "2026-06-09T09:01:08.000Z",
-    "createdAt": "2026-06-09T12:08:25.248Z",
-    "updatedAt": "2026-06-09T12:08:25.248Z"
-  },
-  {
-    "id": "f5f13ab8f7c8fd50",
-    "title": "Трампа освистали на матче финальной серии НБА в Нью-Йорке",
-    "sport": "Баскетбол",
-    "category": "Баскетбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/6/85/347809915145856.jpeg",
-    "teaser": "Трампа освистали на матче финальной серии НБА в Нью-Йорке",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a27c5a89a7947d1eab75375",
-    "publishedAt": "2026-06-09T08:27:58.000Z",
-    "createdAt": "2026-06-09T12:08:26.360Z",
-    "updatedAt": "2026-06-09T12:08:26.360Z"
-  },
-  {
-    "id": "1a9100436592fd20",
-    "title": "Лучший бомбардир в истории КХЛ перейдет в «Салават Юлаев»",
-    "sport": "Хоккей",
-    "category": "Хоккей",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/4/05/347809905131054.jpeg",
-    "teaser": "Лучший бомбардир в истории КХЛ перейдет в «Салават Юлаев»",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a27c0e59a7947816eed5b80",
-    "publishedAt": "2026-06-09T07:53:35.000Z",
-    "createdAt": "2026-06-09T12:08:27.408Z",
-    "updatedAt": "2026-06-09T12:08:27.408Z"
-  },
-  {
-    "id": "9a65d840715a9fe9",
-    "title": "Украинских спортсменов оштрафовали за отказ слушать гимн России",
-    "sport": "Другое",
-    "category": "Другие",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/7/63/347809890717637.jpeg",
-    "teaser": "Украинских спортсменов оштрафовали за отказ слушать гимн России",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a27bc179a79470c1be3a375",
-    "publishedAt": "2026-06-09T07:42:20.000Z",
-    "createdAt": "2026-06-09T12:08:28.590Z",
-    "updatedAt": "2026-06-09T12:08:28.590Z"
-  },
-  {
-    "id": "0f8e952716c6b912",
-    "title": "Расписание матчей чемпионата мира по футболу 2026 года",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/8/46/347809247809468.png",
-    "teaser": "Расписание матчей чемпионата мира по футболу 2026 года",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69cf860d9a7947b8d122f9c4",
-    "publishedAt": "2026-06-09T05:01:15.000Z",
-    "createdAt": "2026-06-09T12:08:29.746Z",
-    "updatedAt": "2026-06-09T12:08:29.746Z"
+    "createdAt": "2026-06-09T16:07:33.259Z",
+    "updatedAt": "2026-06-09T16:07:33.259Z"
   }
 ]
