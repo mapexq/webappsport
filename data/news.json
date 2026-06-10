@@ -1,5 +1,89 @@
 [
   {
+    "id": "2bfee65f085d7d23",
+    "title": "Майгурова переизбрали президентом Союза биатлонистов России",
+    "sport": "Другое",
+    "category": "Биатлон",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/0/90/347810903646900.png",
+    "teaser": "Майгурова переизбрали президентом Союза биатлонистов России",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a2948279a79473e699e71c0",
+    "publishedAt": "2026-06-10T11:36:29.000Z",
+    "createdAt": "2026-06-10T12:26:55.777Z",
+    "updatedAt": "2026-06-10T12:26:55.777Z"
+  },
+  {
+    "id": "60c8767d682464b0",
+    "title": "В сборной Сенегала объяснили досмотр игроков на взлетной полосе в США",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/8/12/347810893342128.jpeg",
+    "teaser": "В сборной Сенегала объяснили досмотр игроков на взлетной полосе в США",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a29438a9a79472e926e000a",
+    "publishedAt": "2026-06-10T11:15:11.000Z",
+    "createdAt": "2026-06-10T12:26:56.935Z",
+    "updatedAt": "2026-06-10T12:26:56.935Z"
+  },
+  {
+    "id": "bf68823ef13ad0d6",
+    "title": "ISU объединит ЧМ по фигурному катанию с другими видами спорта в 2028 году",
+    "sport": "Другое",
+    "category": "Фигурное катание",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/7/59/347810875721597.png",
+    "teaser": "ISU объединит ЧМ по фигурному катанию с другими видами спорта в 2028 году",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a293aec9a7947a22e33e72b",
+    "publishedAt": "2026-06-10T10:36:06.000Z",
+    "createdAt": "2026-06-10T12:26:58.010Z",
+    "updatedAt": "2026-06-10T12:26:58.010Z"
+  },
+  {
+    "id": "0c8d13e2dbcba704",
+    "title": "Бывший футболист сборной России и «Спартака» возглавил «Шинник»",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/3/63/347810867437633.png",
+    "teaser": "Бывший футболист сборной России и «Спартака» возглавил «Шинник»",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a2938189a79476f6761f527",
+    "publishedAt": "2026-06-10T10:25:27.000Z",
+    "createdAt": "2026-06-10T12:27:01.419Z",
+    "updatedAt": "2026-06-10T12:27:01.419Z"
+  },
+  {
+    "id": "d0d88ccfd0ae8a43",
+    "title": "Умер бывший главный тренер сборной СССР по баскетболу Владас Гарастас",
+    "sport": "Баскетбол",
+    "category": "Баскетбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/0/99/347810825307990.png",
+    "teaser": "Умер бывший главный тренер сборной СССР по баскетболу Владас Гарастас",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a29295b9a794724d0280e0e",
+    "publishedAt": "2026-06-10T09:50:25.000Z",
+    "createdAt": "2026-06-10T12:26:59.048Z",
+    "updatedAt": "2026-06-10T12:26:59.048Z"
+  },
+  {
+    "id": "3f0727fc24b0aa4d",
+    "title": "ЧМ-2026: сколько команд участвует, какой формат и где смотреть матчи",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/8/39/347803971967398.jpeg",
+    "teaser": "ЧМ-2026: сколько команд участвует, какой формат и где смотреть матчи",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a1eb3039a7947a9ada16c0d",
+    "publishedAt": "2026-06-09T21:27:01.000Z",
+    "createdAt": "2026-06-10T12:27:00.216Z",
+    "updatedAt": "2026-06-10T12:27:00.216Z"
+  },
+  {
     "id": "87db4bc115c6e3cf",
     "title": "Сборная России по футболу разгромила Тринидад и Тобаго",
     "sport": "Футбол",
@@ -10,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a2859d79a79473ae2cacc3b",
     "publishedAt": "2026-06-09T18:56:05.000Z",
-    "createdAt": "2026-06-10T08:53:03.881Z",
-    "updatedAt": "2026-06-10T08:53:03.881Z"
+    "createdAt": "2026-06-10T12:27:02.645Z",
+    "updatedAt": "2026-06-10T12:27:02.645Z"
   },
   {
     "id": "6fc4fc92e158d498",
@@ -24,8 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a284a9f9a79473124197d0f",
     "publishedAt": "2026-06-09T18:31:26.000Z",
-    "createdAt": "2026-06-10T08:53:04.925Z",
-    "updatedAt": "2026-06-10T08:53:04.925Z"
+    "createdAt": "2026-06-10T12:27:03.795Z",
+    "updatedAt": "2026-06-10T12:27:03.795Z"
   },
   {
     "id": "38236870d3f1c6f1",
@@ -38,8 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a2855669a79473cda68ca19",
     "publishedAt": "2026-06-09T18:08:40.000Z",
-    "createdAt": "2026-06-10T08:53:05.977Z",
-    "updatedAt": "2026-06-10T08:53:05.977Z"
+    "createdAt": "2026-06-10T12:27:04.900Z",
+    "updatedAt": "2026-06-10T12:27:04.900Z"
   },
   {
     "id": "48d459eb0719cab9",
@@ -52,91 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a2851349a79475cc21a2587",
     "publishedAt": "2026-06-09T17:58:41.000Z",
-    "createdAt": "2026-06-10T08:53:07.067Z",
-    "updatedAt": "2026-06-10T08:53:07.067Z"
-  },
-  {
-    "id": "a9115b8d87a63c63",
-    "title": "В парусном спорте российским юниорам разрешили выступать с флагом",
-    "sport": "Другое",
-    "category": "Другие",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/2/10/347810244010102.jpeg",
-    "teaser": "В парусном спорте российским юниорам разрешили выступать с флагом",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a28467f9a79472b84cb9d74",
-    "publishedAt": "2026-06-09T17:09:16.000Z",
-    "createdAt": "2026-06-10T08:53:08.111Z",
-    "updatedAt": "2026-06-10T08:53:08.111Z"
-  },
-  {
-    "id": "6082580ab3e36e53",
-    "title": "Пловец Корнев побил рекорд России, который сам установил днем ранее",
-    "sport": "Другое",
-    "category": "Другие",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/0/18/347810180214180.jpeg",
-    "teaser": "Пловец Корнев побил рекорд России, который сам установил днем ранее",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a282d5f9a794723c7d02996",
-    "publishedAt": "2026-06-09T15:24:02.000Z",
-    "createdAt": "2026-06-10T08:53:09.782Z",
-    "updatedAt": "2026-06-10T08:53:09.782Z"
-  },
-  {
-    "id": "b8b08d711fb65a2e",
-    "title": "Латвиец Скудра вошел в тренерский штаб хоккейного «Спартака»",
-    "sport": "Хоккей",
-    "category": "Хоккей",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/9/30/347810149363309.jpeg",
-    "teaser": "Латвиец Скудра вошел в тренерский штаб хоккейного «Спартака»",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a28212f9a794717b8374367",
-    "publishedAt": "2026-06-09T14:36:49.000Z",
-    "createdAt": "2026-06-10T08:53:11.836Z",
-    "updatedAt": "2026-06-10T08:53:11.836Z"
-  },
-  {
-    "id": "6770948a06236de9",
-    "title": "Фетисов заявил, что IIHF продолжает издеваться над сборной России",
-    "sport": "Хоккей",
-    "category": "Хоккей",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/5/40/347810141320405.jpeg",
-    "teaser": "Фетисов заявил, что IIHF продолжает издеваться над сборной России",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a281e2d9a79473557f1260a",
-    "publishedAt": "2026-06-09T14:18:42.000Z",
-    "createdAt": "2026-06-10T08:53:10.796Z",
-    "updatedAt": "2026-06-10T08:53:10.796Z"
-  },
-  {
-    "id": "3c3046a2759ca9fb",
-    "title": "ФИФА за $79 будет показывать имена болельщиков на табло стадионов ЧМ-2026",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/1/92/347810122629921.jpeg",
-    "teaser": "ФИФА за $79 будет показывать имена болельщиков на табло стадионов ЧМ-2026",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a2816eb9a7947ddd6fd3b25",
-    "publishedAt": "2026-06-09T14:09:53.000Z",
-    "createdAt": "2026-06-10T08:53:12.904Z",
-    "updatedAt": "2026-06-10T08:53:12.904Z"
-  },
-  {
-    "id": "b67a9718f23a29c3",
-    "title": "Российская теннисистка с «баранкой» проиграла на старте турнира в Лондоне",
-    "sport": "Теннис",
-    "category": "Теннис",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/0/74/347810093066740.jpeg",
-    "teaser": "Российская теннисистка с «баранкой» проиграла на старте турнира в Лондоне",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a280b839a79473da9381467",
-    "publishedAt": "2026-06-09T12:56:54.000Z",
-    "createdAt": "2026-06-10T08:53:13.905Z",
-    "updatedAt": "2026-06-10T08:53:13.905Z"
+    "createdAt": "2026-06-10T12:27:05.981Z",
+    "updatedAt": "2026-06-10T12:27:05.981Z"
   }
 ]
