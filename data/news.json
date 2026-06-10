@@ -1,5 +1,61 @@
 [
   {
+    "id": "78f1cd5a11b075a9",
+    "title": "ЦСКА в 13-й раз стал чемпионом баскетбольной Единой лиги ВТБ",
+    "sport": "Баскетбол",
+    "category": "Баскетбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/6/00/347811172072006.png",
+    "teaser": "ЦСКА в 13-й раз стал чемпионом баскетбольной Единой лиги ВТБ",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a29aee29a7947ef520def14",
+    "publishedAt": "2026-06-10T18:49:40.000Z",
+    "createdAt": "2026-06-10T19:37:46.922Z",
+    "updatedAt": "2026-06-10T19:37:46.922Z"
+  },
+  {
+    "id": "71fb056ad4cf1cb5",
+    "title": "Андреа Бочелли выступит на открытии ЧМ-2026",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/7/77/347811157230777.jpeg",
+    "teaser": "Андреа Бочелли выступит на открытии ЧМ-2026",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a29ab389a79472c3f881ec8",
+    "publishedAt": "2026-06-10T18:37:32.000Z",
+    "createdAt": "2026-06-10T19:37:45.870Z",
+    "updatedAt": "2026-06-10T19:37:45.870Z"
+  },
+  {
+    "id": "8f4baa43ca9c0256",
+    "title": "Напарница Серены Уильямс снялась с турнира в Лондоне из-за травмы",
+    "sport": "Теннис",
+    "category": "Теннис",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/1/43/347811141083431.jpeg",
+    "teaser": "Напарница Серены Уильямс снялась с турнира в Лондоне из-за травмы",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a29a31c9a7947ac59d00049",
+    "publishedAt": "2026-06-10T17:59:36.000Z",
+    "createdAt": "2026-06-10T19:37:47.929Z",
+    "updatedAt": "2026-06-10T19:37:47.929Z"
+  },
+  {
+    "id": "4e9cf9f5e9f6ed64",
+    "title": "Дегтярев рассказал, когда ждет визита экспертов WADA в Россию",
+    "sport": "Другое",
+    "category": "Другие",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/5/66/347811065216665.png",
+    "teaser": "Дегтярев рассказал, когда ждет визита экспертов WADA в Россию",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a2987499a794746fb38499d",
+    "publishedAt": "2026-06-10T16:08:46.000Z",
+    "createdAt": "2026-06-10T19:37:48.947Z",
+    "updatedAt": "2026-06-10T19:37:48.947Z"
+  },
+  {
     "id": "023a02a429589c17",
     "title": "«Балтика» продлила контракт с защитником сборной России",
     "sport": "Футбол",
@@ -10,8 +66,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a2981e99a794771f4b3ae82",
     "publishedAt": "2026-06-10T15:54:00.000Z",
-    "createdAt": "2026-06-10T16:38:21.782Z",
-    "updatedAt": "2026-06-10T16:38:21.782Z"
+    "createdAt": "2026-06-10T19:37:53.121Z",
+    "updatedAt": "2026-06-10T19:37:53.121Z"
   },
   {
     "id": "db9828f50d8e84b3",
@@ -24,8 +80,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a297d719a794716bdab7cef",
     "publishedAt": "2026-06-10T15:23:40.000Z",
-    "createdAt": "2026-06-10T16:38:19.981Z",
-    "updatedAt": "2026-06-10T16:38:19.981Z"
+    "createdAt": "2026-06-10T19:37:49.990Z",
+    "updatedAt": "2026-06-10T19:37:49.990Z"
   },
   {
     "id": "21ae6ae368136589",
@@ -38,22 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a296c1e9a794748976c1f50",
     "publishedAt": "2026-06-10T15:00:26.000Z",
-    "createdAt": "2026-06-10T16:38:20.788Z",
-    "updatedAt": "2026-06-10T16:38:20.788Z"
-  },
-  {
-    "id": "4028db667361fbdb",
-    "title": "«Ахмат» вернул защитников «Спартаку» и ЦСКА",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/4/02/347810980659024.png",
-    "teaser": "«Ахмат» вернул защитников «Спартаку» и ЦСКА",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a295d4f9a79473d2b887edb",
-    "publishedAt": "2026-06-10T13:32:11.000Z",
-    "createdAt": "2026-06-10T16:38:25.898Z",
-    "updatedAt": "2026-06-10T16:38:25.898Z"
+    "createdAt": "2026-06-10T19:37:51.015Z",
+    "updatedAt": "2026-06-10T19:37:51.015Z"
   },
   {
     "id": "74034098c4da61d2",
@@ -66,22 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a2954729a794774f3eb9e8f",
     "publishedAt": "2026-06-10T12:29:14.000Z",
-    "createdAt": "2026-06-10T16:38:23.114Z",
-    "updatedAt": "2026-06-10T16:38:23.114Z"
-  },
-  {
-    "id": "97666ab490daeee2",
-    "title": "Вылетевший из РПЛ клуб не стал менять главного тренера",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/7/81/347810921796817.png",
-    "teaser": "Вылетевший из РПЛ клуб не стал менять главного тренера",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a294e5e9a79476c321fe3ee",
-    "publishedAt": "2026-06-10T12:00:24.000Z",
-    "createdAt": "2026-06-10T16:38:28.805Z",
-    "updatedAt": "2026-06-10T16:38:28.805Z"
+    "createdAt": "2026-06-10T19:37:54.166Z",
+    "updatedAt": "2026-06-10T19:37:54.166Z"
   },
   {
     "id": "2bfee65f085d7d23",
@@ -94,36 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a2948279a79473e699e71c0",
     "publishedAt": "2026-06-10T11:36:29.000Z",
-    "createdAt": "2026-06-10T16:38:24.041Z",
-    "updatedAt": "2026-06-10T16:38:24.041Z"
-  },
-  {
-    "id": "60c8767d682464b0",
-    "title": "В сборной Сенегала объяснили досмотр игроков на взлетной полосе в США",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/8/12/347810893342128.jpeg",
-    "teaser": "В сборной Сенегала объяснили досмотр игроков на взлетной полосе в США",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a29438a9a79472e926e000a",
-    "publishedAt": "2026-06-10T11:15:11.000Z",
-    "createdAt": "2026-06-10T16:38:24.966Z",
-    "updatedAt": "2026-06-10T16:38:24.966Z"
-  },
-  {
-    "id": "bf68823ef13ad0d6",
-    "title": "ISU объединит ЧМ по фигурному катанию с другими видами спорта в 2028 году",
-    "sport": "Другое",
-    "category": "Фигурное катание",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/7/59/347810875721597.png",
-    "teaser": "ISU объединит ЧМ по фигурному катанию с другими видами спорта в 2028 году",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a293aec9a7947a22e33e72b",
-    "publishedAt": "2026-06-10T10:36:06.000Z",
-    "createdAt": "2026-06-10T16:38:26.862Z",
-    "updatedAt": "2026-06-10T16:38:26.862Z"
+    "createdAt": "2026-06-10T19:37:55.216Z",
+    "updatedAt": "2026-06-10T19:37:55.216Z"
   },
   {
     "id": "3f0727fc24b0aa4d",
@@ -136,7 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a1eb3039a7947a9ada16c0d",
     "publishedAt": "2026-06-09T21:27:01.000Z",
-    "createdAt": "2026-06-10T16:38:27.877Z",
-    "updatedAt": "2026-06-10T16:38:27.877Z"
+    "createdAt": "2026-06-10T19:37:52.113Z",
+    "updatedAt": "2026-06-10T19:37:52.113Z"
   }
 ]
