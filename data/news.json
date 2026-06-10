@@ -1,5 +1,89 @@
 [
   {
+    "id": "023a02a429589c17",
+    "title": "«Балтика» продлила контракт с защитником сборной России",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/6/29/347811059483296.png",
+    "teaser": "«Балтика» продлила контракт с защитником сборной России",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a2981e99a794771f4b3ae82",
+    "publishedAt": "2026-06-10T15:54:00.000Z",
+    "createdAt": "2026-06-10T16:38:21.782Z",
+    "updatedAt": "2026-06-10T16:38:21.782Z"
+  },
+  {
+    "id": "db9828f50d8e84b3",
+    "title": "Пловец Егор Корнев побил четыре рекорда России за три дня",
+    "sport": "Другое",
+    "category": "Другие",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/2/68/347811046117682.jpeg",
+    "teaser": "Пловец Егор Корнев побил четыре рекорда России за три дня",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a297d719a794716bdab7cef",
+    "publishedAt": "2026-06-10T15:23:40.000Z",
+    "createdAt": "2026-06-10T16:38:19.981Z",
+    "updatedAt": "2026-06-10T16:38:19.981Z"
+  },
+  {
+    "id": "21ae6ae368136589",
+    "title": "Финский хоккеист потерял золотую медаль чемпионата мира в караоке-баре",
+    "sport": "Хоккей",
+    "category": "Хоккей",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/4/21/347811007028214.png",
+    "teaser": "Финский хоккеист потерял золотую медаль чемпионата мира в караоке-баре",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a296c1e9a794748976c1f50",
+    "publishedAt": "2026-06-10T15:00:26.000Z",
+    "createdAt": "2026-06-10T16:38:20.788Z",
+    "updatedAt": "2026-06-10T16:38:20.788Z"
+  },
+  {
+    "id": "4028db667361fbdb",
+    "title": "«Ахмат» вернул защитников «Спартаку» и ЦСКА",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/4/02/347810980659024.png",
+    "teaser": "«Ахмат» вернул защитников «Спартаку» и ЦСКА",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a295d4f9a79473d2b887edb",
+    "publishedAt": "2026-06-10T13:32:11.000Z",
+    "createdAt": "2026-06-10T16:38:25.898Z",
+    "updatedAt": "2026-06-10T16:38:25.898Z"
+  },
+  {
+    "id": "74034098c4da61d2",
+    "title": "«Крылья Советов» продлили контракт с главным тренером",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/5/76/347810938670765.png",
+    "teaser": "«Крылья Советов» продлили контракт с главным тренером",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a2954729a794774f3eb9e8f",
+    "publishedAt": "2026-06-10T12:29:14.000Z",
+    "createdAt": "2026-06-10T16:38:23.114Z",
+    "updatedAt": "2026-06-10T16:38:23.114Z"
+  },
+  {
+    "id": "97666ab490daeee2",
+    "title": "Вылетевший из РПЛ клуб не стал менять главного тренера",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/7/81/347810921796817.png",
+    "teaser": "Вылетевший из РПЛ клуб не стал менять главного тренера",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a294e5e9a79476c321fe3ee",
+    "publishedAt": "2026-06-10T12:00:24.000Z",
+    "createdAt": "2026-06-10T16:38:28.805Z",
+    "updatedAt": "2026-06-10T16:38:28.805Z"
+  },
+  {
     "id": "2bfee65f085d7d23",
     "title": "Майгурова переизбрали президентом Союза биатлонистов России",
     "sport": "Другое",
@@ -10,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a2948279a79473e699e71c0",
     "publishedAt": "2026-06-10T11:36:29.000Z",
-    "createdAt": "2026-06-10T12:26:55.777Z",
-    "updatedAt": "2026-06-10T12:26:55.777Z"
+    "createdAt": "2026-06-10T16:38:24.041Z",
+    "updatedAt": "2026-06-10T16:38:24.041Z"
   },
   {
     "id": "60c8767d682464b0",
@@ -24,8 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a29438a9a79472e926e000a",
     "publishedAt": "2026-06-10T11:15:11.000Z",
-    "createdAt": "2026-06-10T12:26:56.935Z",
-    "updatedAt": "2026-06-10T12:26:56.935Z"
+    "createdAt": "2026-06-10T16:38:24.966Z",
+    "updatedAt": "2026-06-10T16:38:24.966Z"
   },
   {
     "id": "bf68823ef13ad0d6",
@@ -38,36 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a293aec9a7947a22e33e72b",
     "publishedAt": "2026-06-10T10:36:06.000Z",
-    "createdAt": "2026-06-10T12:26:58.010Z",
-    "updatedAt": "2026-06-10T12:26:58.010Z"
-  },
-  {
-    "id": "0c8d13e2dbcba704",
-    "title": "Бывший футболист сборной России и «Спартака» возглавил «Шинник»",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/3/63/347810867437633.png",
-    "teaser": "Бывший футболист сборной России и «Спартака» возглавил «Шинник»",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a2938189a79476f6761f527",
-    "publishedAt": "2026-06-10T10:25:27.000Z",
-    "createdAt": "2026-06-10T12:27:01.419Z",
-    "updatedAt": "2026-06-10T12:27:01.419Z"
-  },
-  {
-    "id": "d0d88ccfd0ae8a43",
-    "title": "Умер бывший главный тренер сборной СССР по баскетболу Владас Гарастас",
-    "sport": "Баскетбол",
-    "category": "Баскетбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/0/99/347810825307990.png",
-    "teaser": "Умер бывший главный тренер сборной СССР по баскетболу Владас Гарастас",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a29295b9a794724d0280e0e",
-    "publishedAt": "2026-06-10T09:50:25.000Z",
-    "createdAt": "2026-06-10T12:26:59.048Z",
-    "updatedAt": "2026-06-10T12:26:59.048Z"
+    "createdAt": "2026-06-10T16:38:26.862Z",
+    "updatedAt": "2026-06-10T16:38:26.862Z"
   },
   {
     "id": "3f0727fc24b0aa4d",
@@ -80,63 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a1eb3039a7947a9ada16c0d",
     "publishedAt": "2026-06-09T21:27:01.000Z",
-    "createdAt": "2026-06-10T12:27:00.216Z",
-    "updatedAt": "2026-06-10T12:27:00.216Z"
-  },
-  {
-    "id": "87db4bc115c6e3cf",
-    "title": "Сборная России по футболу разгромила Тринидад и Тобаго",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/2/73/347810294559732.jpeg",
-    "teaser": "Сборная России по футболу разгромила Тринидад и Тобаго",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a2859d79a79473ae2cacc3b",
-    "publishedAt": "2026-06-09T18:56:05.000Z",
-    "createdAt": "2026-06-10T12:27:02.645Z",
-    "updatedAt": "2026-06-10T12:27:02.645Z"
-  },
-  {
-    "id": "6fc4fc92e158d498",
-    "title": "Серена Уильямс выиграла первый матч после возобновления карьеры",
-    "sport": "Теннис",
-    "category": "Теннис",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/5/08/347810255250085.jpeg",
-    "teaser": "Серена Уильямс выиграла первый матч после возобновления карьеры",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a284a9f9a79473124197d0f",
-    "publishedAt": "2026-06-09T18:31:26.000Z",
-    "createdAt": "2026-06-10T12:27:03.795Z",
-    "updatedAt": "2026-06-10T12:27:03.795Z"
-  },
-  {
-    "id": "38236870d3f1c6f1",
-    "title": "«Реал» объявил об уходе главного тренера",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/2/07/347810282320072.jpeg",
-    "teaser": "«Реал» объявил об уходе главного тренера",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a2855669a79473cda68ca19",
-    "publishedAt": "2026-06-09T18:08:40.000Z",
-    "createdAt": "2026-06-10T12:27:04.900Z",
-    "updatedAt": "2026-06-10T12:27:04.900Z"
-  },
-  {
-    "id": "48d459eb0719cab9",
-    "title": "«Атлетико» отказался продавать «Реалу» Альвареса за €150 млн",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/2/53/347810271544532.jpeg",
-    "teaser": "«Атлетико» отказался продавать «Реалу» Альвареса за €150 млн",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a2851349a79475cc21a2587",
-    "publishedAt": "2026-06-09T17:58:41.000Z",
-    "createdAt": "2026-06-10T12:27:05.981Z",
-    "updatedAt": "2026-06-10T12:27:05.981Z"
+    "createdAt": "2026-06-10T16:38:27.877Z",
+    "updatedAt": "2026-06-10T16:38:27.877Z"
   }
 ]
