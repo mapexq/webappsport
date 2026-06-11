@@ -1,5 +1,47 @@
 [
   {
+    "id": "bb10bbffde5bb57e",
+    "title": "Впервые на матче открытия ЧМ судья показал три красных карточки",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/4/47/347812154081474.jpeg",
+    "teaser": "Впервые на матче открытия ЧМ судья показал три красных карточки",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a2b2e359a794772b7e5eb13",
+    "publishedAt": "2026-06-11T22:00:00.000Z",
+    "createdAt": "2026-06-11T23:40:34.983Z",
+    "updatedAt": "2026-06-11T23:40:34.983Z"
+  },
+  {
+    "id": "649ccc59c5de51fa",
+    "title": "Как прошел матч открытия чемпионата мира-2026. Фоторепортаж",
+    "sport": "Другое",
+    "category": "ЧМ-2026",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/6/50/347812061200506.jpeg",
+    "teaser": "Как прошел матч открытия чемпионата мира-2026. Фоторепортаж",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a2b06dd9a7947c598e547fa",
+    "publishedAt": "2026-06-11T22:00:00.000Z",
+    "createdAt": "2026-06-11T23:40:34.989Z",
+    "updatedAt": "2026-06-11T23:40:34.989Z"
+  },
+  {
+    "id": "b7acd9be4edb017e",
+    "title": "Сборной ДР Конго разрешили въезд в США для участия в ЧМ-2026",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/3/86/347812143774863.jpeg",
+    "teaser": "Сборной ДР Конго разрешили въезд в США для участия в ЧМ-2026",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a2b291f9a7947bad0eb6e20",
+    "publishedAt": "2026-06-11T22:00:00.000Z",
+    "createdAt": "2026-06-11T23:40:34.995Z",
+    "updatedAt": "2026-06-11T23:40:34.995Z"
+  },
+  {
     "id": "583e9a7f84824564",
     "title": "Сборная Мексики обыграла ЮАР в матче ЧМ с тремя удалениями",
     "sport": "Футбол",
@@ -10,8 +52,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a2ad20c9a7947d0fc160a69",
     "publishedAt": "2026-06-11T22:00:00.000Z",
-    "createdAt": "2026-06-11T21:24:51.344Z",
-    "updatedAt": "2026-06-11T21:24:51.344Z"
+    "createdAt": "2026-06-11T23:40:35.004Z",
+    "updatedAt": "2026-06-11T23:40:35.004Z"
   },
   {
     "id": "137828d9dea7f16c",
@@ -24,8 +66,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a2aac919a79473f6f61e176",
     "publishedAt": "2026-06-11T22:00:00.000Z",
-    "createdAt": "2026-06-11T21:24:52.529Z",
-    "updatedAt": "2026-06-11T21:24:52.529Z"
+    "createdAt": "2026-06-11T23:40:36.120Z",
+    "updatedAt": "2026-06-11T23:40:36.120Z"
   },
   {
     "id": "bdcad37bacdf7433",
@@ -38,8 +80,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a2b19519a79473c72828ab7",
     "publishedAt": "2026-06-11T22:00:00.000Z",
-    "createdAt": "2026-06-11T21:24:52.536Z",
-    "updatedAt": "2026-06-11T21:24:52.536Z"
+    "createdAt": "2026-06-11T23:40:36.126Z",
+    "updatedAt": "2026-06-11T23:40:36.126Z"
   },
   {
     "id": "b7801a36d5696b65",
@@ -52,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a2b0e879a7947c9685d3058",
     "publishedAt": "2026-06-11T22:00:00.000Z",
-    "createdAt": "2026-06-11T21:24:52.542Z",
-    "updatedAt": "2026-06-11T21:24:52.542Z"
+    "createdAt": "2026-06-11T23:40:36.137Z",
+    "updatedAt": "2026-06-11T23:40:36.137Z"
   },
   {
     "id": "b43e8ecb6bdca09d",
@@ -66,8 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a2b099f9a7947c598e547ff",
     "publishedAt": "2026-06-11T22:00:00.000Z",
-    "createdAt": "2026-06-11T21:24:52.555Z",
-    "updatedAt": "2026-06-11T21:24:52.555Z"
+    "createdAt": "2026-06-11T23:40:36.142Z",
+    "updatedAt": "2026-06-11T23:40:36.142Z"
   },
   {
     "id": "b7bbf4e9f48af677",
@@ -80,8 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a0c28829a794771ddf302f6",
     "publishedAt": "2026-06-11T22:00:00.000Z",
-    "createdAt": "2026-06-11T21:24:52.560Z",
-    "updatedAt": "2026-06-11T21:24:52.560Z"
+    "createdAt": "2026-06-11T23:40:36.149Z",
+    "updatedAt": "2026-06-11T23:40:36.149Z"
   },
   {
     "id": "6366932501755f3c",
@@ -94,49 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a2ada0c9a7947ac7c8a51cd",
     "publishedAt": "2026-06-11T22:00:00.000Z",
-    "createdAt": "2026-06-11T21:24:52.567Z",
-    "updatedAt": "2026-06-11T21:24:52.567Z"
-  },
-  {
-    "id": "2d5cf95e08ccdb50",
-    "title": "Стартовал первый матч ЧМ-2026",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/3/71/347812044065713.jpeg",
-    "teaser": "Стартовал первый матч ЧМ-2026",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a2ad7f09a79474932997e34",
-    "publishedAt": "2026-06-11T22:00:00.000Z",
-    "createdAt": "2026-06-11T21:24:52.573Z",
-    "updatedAt": "2026-06-11T21:24:52.573Z"
-  },
-  {
-    "id": "f544f3f3be35b6b5",
-    "title": "Капитаном сборной Мексики на матч ЧМ стал игрок московского «Локомотива»",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/0/72/347812017615720.jpeg",
-    "teaser": "Капитаном сборной Мексики на матч ЧМ стал игрок московского «Локомотива»",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a2af96a9a79471fda86399e",
-    "publishedAt": "2026-06-11T22:00:00.000Z",
-    "createdAt": "2026-06-11T21:24:52.581Z",
-    "updatedAt": "2026-06-11T21:24:52.581Z"
-  },
-  {
-    "id": "ed87174557b9e09a",
-    "title": "В Мехико началась церемония открытия ЧМ-2026",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/8/55/347812001236558.jpeg",
-    "teaser": "В Мехико началась церемония открытия ЧМ-2026",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a2ad86b9a7947ac7c8a51c5",
-    "publishedAt": "2026-06-11T22:00:00.000Z",
-    "createdAt": "2026-06-11T21:24:52.587Z",
-    "updatedAt": "2026-06-11T21:24:52.587Z"
+    "createdAt": "2026-06-11T23:40:36.160Z",
+    "updatedAt": "2026-06-11T23:40:36.160Z"
   }
 ]
