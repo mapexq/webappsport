@@ -1,5 +1,75 @@
 [
   {
+    "id": "b1ee3be060177be2",
+    "title": "В Канаде на ЧМ продают кепки с надписью «Russia» и флаги России",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/5/70/347813001164705.jpeg",
+    "teaser": "В Канаде на ЧМ продают кепки с надписью «Russia» и флаги России",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a2c794e9a794731d9931718",
+    "publishedAt": "2026-06-12T21:39:54.000Z",
+    "createdAt": "2026-06-12T21:53:06.951Z",
+    "updatedAt": "2026-06-12T21:53:06.951Z"
+  },
+  {
+    "id": "399d0198c9b1b1ca",
+    "title": "Дэвид Бекхэм получил звезду на «Аллее славы» в Голливуде",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/0/85/347812975223850.jpeg",
+    "teaser": "Дэвид Бекхэм получил звезду на «Аллее славы» в Голливуде",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a2c6f479a7947715e6a975b",
+    "publishedAt": "2026-06-12T21:13:51.000Z",
+    "createdAt": "2026-06-12T21:53:07.995Z",
+    "updatedAt": "2026-06-12T21:53:07.995Z"
+  },
+  {
+    "id": "0534db68c7033970",
+    "title": "Сборная Боснии и Герцеговины сыграла вничью с Канадой в матче ЧМ-2026",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/1/41/347812951999411.jpeg",
+    "teaser": "Сборная Боснии и Герцеговины сыграла вничью с Канадой в матче ЧМ-2026",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a2c14db9a7947b449421f88",
+    "publishedAt": "2026-06-12T21:02:01.000Z",
+    "createdAt": "2026-06-12T21:53:09.044Z",
+    "updatedAt": "2026-06-12T21:53:09.044Z"
+  },
+  {
+    "id": "8cc68f5ce014f721",
+    "title": "ФИФА ответила на обвинения в завышении статистики посещения матча ЧМ",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/0/93/347812933323930.jpeg",
+    "teaser": "ФИФА ответила на обвинения в завышении статистики посещения матча ЧМ",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a2c5acf9a7947450d395124",
+    "publishedAt": "2026-06-12T19:50:21.000Z",
+    "createdAt": "2026-06-12T21:53:09.890Z",
+    "updatedAt": "2026-06-12T21:53:09.890Z"
+  },
+  {
+    "id": "41a361ea59075cf2",
+    "title": "Двух россиян включили в первую символическую сборную сезона НХЛ",
+    "sport": "Хоккей",
+    "category": "Хоккей",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/6/14/347812913150146.jpeg",
+    "teaser": "Двух россиян включили в первую символическую сборную сезона НХЛ",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a2c56089a79472a50f9674d",
+    "publishedAt": "2026-06-12T19:12:44.000Z",
+    "createdAt": "2026-06-12T21:53:10.930Z",
+    "updatedAt": "2026-06-12T21:53:10.930Z"
+  },
+  {
     "id": "6aa08129e88fb25e",
     "title": "Глава ФИФА пошутил о том, как расширить ЧМ для попадания сборной Италии",
     "sport": "Футбол",
@@ -10,8 +80,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a2c44519a7947142ab00628",
     "publishedAt": "2026-06-12T18:30:21.000Z",
-    "createdAt": "2026-06-12T19:09:45.881Z",
-    "updatedAt": "2026-06-12T19:09:45.881Z"
+    "createdAt": "2026-06-12T21:53:11.972Z",
+    "updatedAt": "2026-06-12T21:53:11.972Z"
   },
   {
     "id": "928f57c9d10e98ca",
@@ -24,22 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a2c403c9a794709735adbe2",
     "publishedAt": "2026-06-12T18:27:20.000Z",
-    "createdAt": "2026-06-12T19:09:47.931Z",
-    "updatedAt": "2026-06-12T19:09:47.931Z"
-  },
-  {
-    "id": "a9aba3877e55f8a4",
-    "title": "В Перу полицейские в костюмах талисманов ЧМ-2026 задержали наркоторговца",
-    "sport": "Другое",
-    "category": "ЧМ-2026",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/5/76/347812849722765.jpeg",
-    "teaser": "В Перу полицейские в костюмах талисманов ЧМ-2026 задержали наркоторговца",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a2c3d579a7947763ed62999",
-    "publishedAt": "2026-06-12T17:51:39.000Z",
-    "createdAt": "2026-06-12T19:09:51.262Z",
-    "updatedAt": "2026-06-12T19:09:51.262Z"
+    "createdAt": "2026-06-12T21:53:14.067Z",
+    "updatedAt": "2026-06-12T21:53:14.067Z"
   },
   {
     "id": "3b2f3de6e17a9664",
@@ -52,8 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a2c42cf9a79473811c7e225",
     "publishedAt": "2026-06-12T17:49:32.000Z",
-    "createdAt": "2026-06-12T19:09:46.916Z",
-    "updatedAt": "2026-06-12T19:09:46.916Z"
+    "createdAt": "2026-06-12T21:53:13.018Z",
+    "updatedAt": "2026-06-12T21:53:13.018Z"
   },
   {
     "id": "ee3b45ec52639f50",
@@ -66,50 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a2c30c79a79470557aa3b2e",
     "publishedAt": "2026-06-12T17:12:59.000Z",
-    "createdAt": "2026-06-12T19:09:49.297Z",
-    "updatedAt": "2026-06-12T19:09:49.297Z"
-  },
-  {
-    "id": "03724871eaed0514",
-    "title": "L'Équipe узнала об «агрессии» Мбаппе в переговорах о бонусах за ЧМ",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/4/69/347812831735694.jpeg",
-    "teaser": "L'Équipe узнала об «агрессии» Мбаппе в переговорах о бонусах за ЧМ",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a2c33c29a7947f1c371a6d7",
-    "publishedAt": "2026-06-12T17:07:42.000Z",
-    "createdAt": "2026-06-12T19:09:52.297Z",
-    "updatedAt": "2026-06-12T19:09:52.297Z"
-  },
-  {
-    "id": "9345a1e964431ae6",
-    "title": "На матче ЧМ оказались тысячи пустых мест при заявленной посещаемости 98%",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/8/79/347812812545798.jpeg",
-    "teaser": "На матче ЧМ оказались тысячи пустых мест при заявленной посещаемости 98%",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a2c296e9a7947bdb520ec7b",
-    "publishedAt": "2026-06-12T17:02:52.000Z",
-    "createdAt": "2026-06-12T19:09:54.333Z",
-    "updatedAt": "2026-06-12T19:09:54.333Z"
-  },
-  {
-    "id": "e8f87d0cbe81f314",
-    "title": "Овечкин назвал своих фаворитов на ЧМ-2026",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/1/77/347812771862771.jpeg",
-    "teaser": "Овечкин назвал своих фаворитов на ЧМ-2026",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a2c1d9e9a79477441d579a1",
-    "publishedAt": "2026-06-12T16:05:15.000Z",
-    "createdAt": "2026-06-12T19:09:53.315Z",
-    "updatedAt": "2026-06-12T19:09:53.315Z"
+    "createdAt": "2026-06-12T21:53:15.115Z",
+    "updatedAt": "2026-06-12T21:53:15.115Z"
   },
   {
     "id": "00c2a89cdff644b1",
@@ -122,21 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a2ad7489a7947493c46f60f",
     "publishedAt": "2026-06-12T07:18:08.000Z",
-    "createdAt": "2026-06-12T19:09:50.230Z",
-    "updatedAt": "2026-06-12T19:09:50.230Z"
-  },
-  {
-    "id": "afa35aef7a81ce78",
-    "title": "Какие рекорды побьют на чемпионате мира-2026",
-    "sport": "Другое",
-    "category": "ЧМ-2026",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/1/75/347811863886751.jpeg",
-    "teaser": "Какие рекорды побьют на чемпионате мира-2026",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a2a9d069a79477e011a17fc",
-    "publishedAt": "2026-06-12T06:17:23.000Z",
-    "createdAt": "2026-06-12T19:09:55.521Z",
-    "updatedAt": "2026-06-12T19:09:55.521Z"
+    "createdAt": "2026-06-12T21:53:16.195Z",
+    "updatedAt": "2026-06-12T21:53:16.195Z"
   }
 ]
