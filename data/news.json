@@ -1,5 +1,33 @@
 [
   {
+    "id": "6a2a44c7e12a6226",
+    "title": "Сборная Швейцарии сыграла вничью с Катаром в матче ЧМ-2026",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/7/99/347813820265997.jpeg",
+    "teaser": "Сборная Швейцарии сыграла вничью с Катаром в матче ЧМ-2026",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a2d66509a7947ebd91be921",
+    "publishedAt": "2026-06-13T21:10:39.000Z",
+    "createdAt": "2026-06-13T22:09:44.477Z",
+    "updatedAt": "2026-06-13T22:09:44.477Z"
+  },
+  {
+    "id": "868033c8561346dc",
+    "title": "Умер участник Олимпиады 1956 года легкоатлет Евгений Чен",
+    "sport": "Другое",
+    "category": "Другие",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/1/89/347813835217891.jpeg",
+    "teaser": "Умер участник Олимпиады 1956 года легкоатлет Евгений Чен",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a2dc0359a79473a6e631372",
+    "publishedAt": "2026-06-13T20:53:31.000Z",
+    "createdAt": "2026-06-13T22:09:45.318Z",
+    "updatedAt": "2026-06-13T22:09:45.318Z"
+  },
+  {
     "id": "aa9648b1812aa2fa",
     "title": "Экс-менеджер «Локомотива» продлил контракт со сборной Австрии",
     "sport": "Футбол",
@@ -10,8 +38,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a2dab2a9a7947a0ea425e92",
     "publishedAt": "2026-06-13T19:24:12.000Z",
-    "createdAt": "2026-06-13T20:19:55.342Z",
-    "updatedAt": "2026-06-13T20:19:55.342Z"
+    "createdAt": "2026-06-13T22:09:46.372Z",
+    "updatedAt": "2026-06-13T22:09:46.372Z"
   },
   {
     "id": "5821b8b3d784ba27",
@@ -24,8 +52,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a2d9b1d9a7947a0ea425e88",
     "publishedAt": "2026-06-13T18:27:37.000Z",
-    "createdAt": "2026-06-13T20:19:56.431Z",
-    "updatedAt": "2026-06-13T20:19:56.431Z"
+    "createdAt": "2026-06-13T22:09:47.366Z",
+    "updatedAt": "2026-06-13T22:09:47.366Z"
   },
   {
     "id": "c5222c8c065dfa86",
@@ -38,8 +66,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a19c29e9a7947c75a58ad71",
     "publishedAt": "2026-06-13T18:01:04.000Z",
-    "createdAt": "2026-06-13T20:19:57.486Z",
-    "updatedAt": "2026-06-13T20:19:57.486Z"
+    "createdAt": "2026-06-13T22:09:48.408Z",
+    "updatedAt": "2026-06-13T22:09:48.408Z"
   },
   {
     "id": "658231f57de39503",
@@ -52,8 +80,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a2d93199a794709daaee002",
     "publishedAt": "2026-06-13T17:35:34.000Z",
-    "createdAt": "2026-06-13T20:19:58.601Z",
-    "updatedAt": "2026-06-13T20:19:58.601Z"
+    "createdAt": "2026-06-13T22:09:49.452Z",
+    "updatedAt": "2026-06-13T22:09:49.452Z"
   },
   {
     "id": "829bb747128a4ac6",
@@ -66,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a2d852f9a794756082f4f6e",
     "publishedAt": "2026-06-13T17:04:40.000Z",
-    "createdAt": "2026-06-13T20:20:00.827Z",
-    "updatedAt": "2026-06-13T20:20:00.827Z"
+    "createdAt": "2026-06-13T22:09:51.424Z",
+    "updatedAt": "2026-06-13T22:09:51.424Z"
   },
   {
     "id": "e62e0c0b4610a61c",
@@ -80,8 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a1e9ef19a794778e043c628",
     "publishedAt": "2026-06-13T16:57:16.000Z",
-    "createdAt": "2026-06-13T20:19:59.734Z",
-    "updatedAt": "2026-06-13T20:19:59.734Z"
+    "createdAt": "2026-06-13T22:09:50.390Z",
+    "updatedAt": "2026-06-13T22:09:50.390Z"
   },
   {
     "id": "37b3c7e301a8f660",
@@ -94,36 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a1ae04b9a79476479c63928",
     "publishedAt": "2026-06-13T16:19:11.000Z",
-    "createdAt": "2026-06-13T20:20:01.953Z",
-    "updatedAt": "2026-06-13T20:20:01.953Z"
-  },
-  {
-    "id": "b2d597f544468913",
-    "title": "Рекордсмен «Ахмата» завершил карьеру после 19 сезонов в клубе",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/3/23/347813651070233.jpeg",
-    "teaser": "Рекордсмен «Ахмата» завершил карьеру после 19 сезонов в клубе",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a2d76a59a7947ebd91be926",
-    "publishedAt": "2026-06-13T15:45:53.000Z",
-    "createdAt": "2026-06-13T20:20:04.319Z",
-    "updatedAt": "2026-06-13T20:20:04.319Z"
-  },
-  {
-    "id": "63821c62738406e9",
-    "title": "Расселл выиграл квалификацию Гран-при Барселоны-Каталуньи «Формулы-1»",
-    "sport": "Другое",
-    "category": "Формула-1",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/5/67/347813637226675.jpeg",
-    "teaser": "Расселл выиграл квалификацию Гран-при Барселоны-Каталуньи «Формулы-1»",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a2d10759a79471f7532a279",
-    "publishedAt": "2026-06-13T15:20:16.000Z",
-    "createdAt": "2026-06-13T20:20:05.359Z",
-    "updatedAt": "2026-06-13T20:20:05.359Z"
+    "createdAt": "2026-06-13T22:09:52.474Z",
+    "updatedAt": "2026-06-13T22:09:52.474Z"
   },
   {
     "id": "2e3f0477cfd4cf37",
@@ -136,7 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a2d69709a7947a00104d2ad",
     "publishedAt": "2026-06-13T14:50:11.000Z",
-    "createdAt": "2026-06-13T20:20:03.050Z",
-    "updatedAt": "2026-06-13T20:20:03.050Z"
+    "createdAt": "2026-06-13T22:09:53.533Z",
+    "updatedAt": "2026-06-13T22:09:53.533Z"
   }
 ]
