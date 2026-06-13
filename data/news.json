@@ -1,5 +1,75 @@
 [
   {
+    "id": "3ac6f68b7c59ad8d",
+    "title": "В Италии возмутились шуткой Инфантино о невыходе сборной на ЧМ",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/0/55/347813333543550.jpeg",
+    "teaser": "В Италии возмутились шуткой Инфантино о невыходе сборной на ЧМ",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a2cf6509a7947a60f0a7944",
+    "publishedAt": "2026-06-13T07:27:58.000Z",
+    "createdAt": "2026-06-13T08:25:26.583Z",
+    "updatedAt": "2026-06-13T08:25:26.583Z"
+  },
+  {
+    "id": "8e2f180ebf7a14ba",
+    "title": "Оформившего первый дубль на ЧМ-2026 футболиста признали лучшим в матче",
+    "sport": "Другое",
+    "category": "ЧМ-2026",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/3/36/347813309330363.jpeg",
+    "teaser": "Оформившего первый дубль на ЧМ-2026 футболиста признали лучшим в матче",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a2cf1119a79477bd3b11f63",
+    "publishedAt": "2026-06-13T07:00:14.000Z",
+    "createdAt": "2026-06-13T08:25:27.597Z",
+    "updatedAt": "2026-06-13T08:25:27.597Z"
+  },
+  {
+    "id": "2b465e00288c9c84",
+    "title": "Сборную Англии обокрали перед стартом на ЧМ-2026 в США",
+    "sport": "Другое",
+    "category": "ЧМ-2026",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/5/24/347813292654245.jpeg",
+    "teaser": "Сборную Англии обокрали перед стартом на ЧМ-2026 в США",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a2ce94e9a79475653d84c0e",
+    "publishedAt": "2026-06-13T06:20:52.000Z",
+    "createdAt": "2026-06-13T08:25:28.660Z",
+    "updatedAt": "2026-06-13T08:25:28.660Z"
+  },
+  {
+    "id": "348a9bc0b846e72f",
+    "title": "Бразилия против фаворита группы и возвращение Турции. Интриги дня ЧМ-2026",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/3/48/347812805884483.jpeg",
+    "teaser": "Бразилия против фаворита группы и возвращение Турции. Интриги дня ЧМ-2026",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a2c06c29a79475504249c20",
+    "publishedAt": "2026-06-13T05:00:25.000Z",
+    "createdAt": "2026-06-13T08:25:29.720Z",
+    "updatedAt": "2026-06-13T08:25:29.720Z"
+  },
+  {
+    "id": "19b7716d6d9d1b78",
+    "title": "Сборная США обыграла Парагвай в первом матче группового этапа ЧМ",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/6/16/347813348024166.jpeg",
+    "teaser": "Сборная США обыграла Парагвай в первом матче группового этапа ЧМ",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a2c753b9a79473d70639a1b",
+    "publishedAt": "2026-06-13T03:12:38.000Z",
+    "createdAt": "2026-06-13T08:25:30.864Z",
+    "updatedAt": "2026-06-13T08:25:30.864Z"
+  },
+  {
     "id": "62ead6e05ecbe2c7",
     "title": "Неймар пропустит первый матч сборной Бразилии на ЧМ-2026",
     "sport": "Футбол",
@@ -10,8 +80,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a2c83079a79473d70639a20",
     "publishedAt": "2026-06-12T22:20:40.000Z",
-    "createdAt": "2026-06-13T04:17:43.471Z",
-    "updatedAt": "2026-06-13T04:17:43.471Z"
+    "createdAt": "2026-06-13T08:25:31.921Z",
+    "updatedAt": "2026-06-13T08:25:31.921Z"
   },
   {
     "id": "76c037443a55c74c",
@@ -24,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a2c7f6c9a794731d9931721",
     "publishedAt": "2026-06-12T22:06:40.000Z",
-    "createdAt": "2026-06-13T04:17:44.532Z",
-    "updatedAt": "2026-06-13T04:17:44.532Z"
+    "createdAt": "2026-06-13T08:25:32.963Z",
+    "updatedAt": "2026-06-13T08:25:32.963Z"
   },
   {
     "id": "cf25b1b058cf0921",
@@ -38,8 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a2c794e9a794731d9931718",
     "publishedAt": "2026-06-12T21:39:54.000Z",
-    "createdAt": "2026-06-13T04:17:45.621Z",
-    "updatedAt": "2026-06-13T04:17:45.621Z"
+    "createdAt": "2026-06-13T08:25:34.061Z",
+    "updatedAt": "2026-06-13T08:25:34.061Z"
   },
   {
     "id": "399d0198c9b1b1ca",
@@ -52,8 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a2c6f479a7947715e6a975b",
     "publishedAt": "2026-06-12T21:13:51.000Z",
-    "createdAt": "2026-06-13T04:17:46.715Z",
-    "updatedAt": "2026-06-13T04:17:46.715Z"
+    "createdAt": "2026-06-13T08:25:35.162Z",
+    "updatedAt": "2026-06-13T08:25:35.162Z"
   },
   {
     "id": "0534db68c7033970",
@@ -66,77 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a2c14db9a7947b449421f88",
     "publishedAt": "2026-06-12T21:02:01.000Z",
-    "createdAt": "2026-06-13T04:17:47.780Z",
-    "updatedAt": "2026-06-13T04:17:47.780Z"
-  },
-  {
-    "id": "8cc68f5ce014f721",
-    "title": "ФИФА ответила на обвинения в завышении статистики посещения матча ЧМ",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/0/93/347812933323930.jpeg",
-    "teaser": "ФИФА ответила на обвинения в завышении статистики посещения матча ЧМ",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a2c5acf9a7947450d395124",
-    "publishedAt": "2026-06-12T19:50:21.000Z",
-    "createdAt": "2026-06-13T04:17:48.834Z",
-    "updatedAt": "2026-06-13T04:17:48.834Z"
-  },
-  {
-    "id": "41a361ea59075cf2",
-    "title": "Двух россиян включили в первую символическую сборную сезона НХЛ",
-    "sport": "Хоккей",
-    "category": "Хоккей",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/6/14/347812913150146.jpeg",
-    "teaser": "Двух россиян включили в первую символическую сборную сезона НХЛ",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a2c56089a79472a50f9674d",
-    "publishedAt": "2026-06-12T19:12:44.000Z",
-    "createdAt": "2026-06-13T04:17:49.983Z",
-    "updatedAt": "2026-06-13T04:17:49.983Z"
-  },
-  {
-    "id": "6aa08129e88fb25e",
-    "title": "Глава ФИФА пошутил о том, как расширить ЧМ для попадания сборной Италии",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/2/58/347812868517582.jpeg",
-    "teaser": "Глава ФИФА пошутил о том, как расширить ЧМ для попадания сборной Италии",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a2c44519a7947142ab00628",
-    "publishedAt": "2026-06-12T18:30:21.000Z",
-    "createdAt": "2026-06-13T04:17:51.137Z",
-    "updatedAt": "2026-06-13T04:17:51.137Z"
-  },
-  {
-    "id": "928f57c9d10e98ca",
-    "title": "Двух россиян включили в символическую сборную лучших новичков НХЛ",
-    "sport": "Хоккей",
-    "category": "Хоккей",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/2/51/347812850286512.png",
-    "teaser": "Двух россиян включили в символическую сборную лучших новичков НХЛ",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a2c403c9a794709735adbe2",
-    "publishedAt": "2026-06-12T18:27:20.000Z",
-    "createdAt": "2026-06-13T04:17:53.339Z",
-    "updatedAt": "2026-06-13T04:17:53.339Z"
-  },
-  {
-    "id": "3b2f3de6e17a9664",
-    "title": "Канада отказала в визе обвиненному в изнасилованиях игроку сборной Ганы",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/0/36/347812856300360.jpeg",
-    "teaser": "Канада отказала в визе обвиненному в изнасилованиях игроку сборной Ганы",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a2c42cf9a79473811c7e225",
-    "publishedAt": "2026-06-12T17:49:32.000Z",
-    "createdAt": "2026-06-13T04:17:52.246Z",
-    "updatedAt": "2026-06-13T04:17:52.246Z"
+    "createdAt": "2026-06-13T08:25:36.247Z",
+    "updatedAt": "2026-06-13T08:25:36.247Z"
   }
 ]
