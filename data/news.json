@@ -1,5 +1,75 @@
 [
   {
+    "id": "c5222c8c065dfa86",
+    "title": "Генсек РФС заявил, что сборная России «неплохо бы смотрелась» на ЧМ-2026",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/5/14/347813735101145.jpeg",
+    "teaser": "Генсек РФС заявил, что сборная России «неплохо бы смотрелась» на ЧМ-2026",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a19c29e9a7947c75a58ad71",
+    "publishedAt": "2026-06-13T18:01:04.000Z",
+    "createdAt": "2026-06-13T18:13:07.574Z",
+    "updatedAt": "2026-06-13T18:13:07.574Z"
+  },
+  {
+    "id": "658231f57de39503",
+    "title": "Журналист узнал об интересе «Спартака» к экс-футболисту «Зенита» Малкому",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/0/45/347813717735450.jpeg",
+    "teaser": "Журналист узнал об интересе «Спартака» к экс-футболисту «Зенита» Малкому",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a2d93199a794709daaee002",
+    "publishedAt": "2026-06-13T17:35:34.000Z",
+    "createdAt": "2026-06-13T18:13:08.694Z",
+    "updatedAt": "2026-06-13T18:13:08.694Z"
+  },
+  {
+    "id": "829bb747128a4ac6",
+    "title": "Леклер заявил о стыде за аварию в квалификации Гран-при Барселоны",
+    "sport": "Другое",
+    "category": "Формула-1",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/1/90/347813696060901.jpeg",
+    "teaser": "Леклер заявил о стыде за аварию в квалификации Гран-при Барселоны",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a2d852f9a794756082f4f6e",
+    "publishedAt": "2026-06-13T17:04:40.000Z",
+    "createdAt": "2026-06-13T18:13:11.035Z",
+    "updatedAt": "2026-06-13T18:13:11.035Z"
+  },
+  {
+    "id": "e62e0c0b4610a61c",
+    "title": "Даниил Медведев проиграл 76-й ракетке мира в полуфинале в Хертогенбосе",
+    "sport": "Теннис",
+    "category": "Теннис",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/5/38/347813516166385.jpeg",
+    "teaser": "Даниил Медведев проиграл 76-й ракетке мира в полуфинале в Хертогенбосе",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a1e9ef19a794778e043c628",
+    "publishedAt": "2026-06-13T16:57:16.000Z",
+    "createdAt": "2026-06-13T18:13:09.775Z",
+    "updatedAt": "2026-06-13T18:13:09.775Z"
+  },
+  {
+    "id": "37b3c7e301a8f660",
+    "title": "В РФС рассказали о переговорах с УЕФА и ФИФА по допуску России",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/6/02/347813672603026.jpeg",
+    "teaser": "В РФС рассказали о переговорах с УЕФА и ФИФА по допуску России",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a1ae04b9a79476479c63928",
+    "publishedAt": "2026-06-13T16:19:11.000Z",
+    "createdAt": "2026-06-13T18:13:12.180Z",
+    "updatedAt": "2026-06-13T18:13:12.180Z"
+  },
+  {
     "id": "b2d597f544468913",
     "title": "Рекордсмен «Ахмата» завершил карьеру после 19 сезонов в клубе",
     "sport": "Футбол",
@@ -10,8 +80,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a2d76a59a7947ebd91be926",
     "publishedAt": "2026-06-13T15:45:53.000Z",
-    "createdAt": "2026-06-13T16:18:57.365Z",
-    "updatedAt": "2026-06-13T16:18:57.365Z"
+    "createdAt": "2026-06-13T18:13:14.767Z",
+    "updatedAt": "2026-06-13T18:13:14.767Z"
   },
   {
     "id": "63821c62738406e9",
@@ -24,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a2d10759a79471f7532a279",
     "publishedAt": "2026-06-13T15:20:16.000Z",
-    "createdAt": "2026-06-13T16:18:58.384Z",
-    "updatedAt": "2026-06-13T16:18:58.384Z"
+    "createdAt": "2026-06-13T18:13:16.056Z",
+    "updatedAt": "2026-06-13T18:13:16.056Z"
   },
   {
     "id": "2e3f0477cfd4cf37",
@@ -38,8 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a2d69709a7947a00104d2ad",
     "publishedAt": "2026-06-13T14:50:11.000Z",
-    "createdAt": "2026-06-13T16:18:56.297Z",
-    "updatedAt": "2026-06-13T16:18:56.297Z"
+    "createdAt": "2026-06-13T18:13:13.569Z",
+    "updatedAt": "2026-06-13T18:13:13.569Z"
   },
   {
     "id": "806ba56886212f99",
@@ -52,22 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a219f0f9a7947125b3fb9f7",
     "publishedAt": "2026-06-13T14:01:58.000Z",
-    "createdAt": "2026-06-13T16:19:00.516Z",
-    "updatedAt": "2026-06-13T16:19:00.516Z"
-  },
-  {
-    "id": "6f8d25386800a999",
-    "title": "Махачев рассказал, с кем бы хотел провести следующий бой в UFC",
-    "sport": "Единоборства",
-    "category": "Единоборства",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/2/18/347813583625182.jpeg",
-    "teaser": "Махачев рассказал, с кем бы хотел провести следующий бой в UFC",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a2d59fd9a79476dde9a4b28",
-    "publishedAt": "2026-06-13T13:55:55.000Z",
-    "createdAt": "2026-06-13T16:19:01.553Z",
-    "updatedAt": "2026-06-13T16:19:01.553Z"
+    "createdAt": "2026-06-13T18:13:18.579Z",
+    "updatedAt": "2026-06-13T18:13:18.579Z"
   },
   {
     "id": "551a33f6de28c784",
@@ -80,63 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a1c82a69a7947108185f784",
     "publishedAt": "2026-06-13T13:40:13.000Z",
-    "createdAt": "2026-06-13T16:18:59.466Z",
-    "updatedAt": "2026-06-13T16:18:59.466Z"
-  },
-  {
-    "id": "1b20d7cf2c0fa57a",
-    "title": "Не входящая в топ-100 россиянка обыграла Касаткину на турнире WTA",
-    "sport": "Теннис",
-    "category": "Теннис",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/5/60/347813567846605.jpeg",
-    "teaser": "Не входящая в топ-100 россиянка обыграла Касаткину на турнире WTA",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a1c851d9a794728e20d393a",
-    "publishedAt": "2026-06-13T13:29:01.000Z",
-    "createdAt": "2026-06-13T16:19:02.615Z",
-    "updatedAt": "2026-06-13T16:19:02.615Z"
-  },
-  {
-    "id": "9bd4a4cb18dcfe2b",
-    "title": "ФИФА попросила сборную Египта поменять игровую форму перед ЧМ-2026",
-    "sport": "Другое",
-    "category": "ЧМ-2026",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/0/63/347813562262630.jpeg",
-    "teaser": "ФИФА попросила сборную Египта поменять игровую форму перед ЧМ-2026",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a2d51ea9a7947c612755bf0",
-    "publishedAt": "2026-06-13T13:17:00.000Z",
-    "createdAt": "2026-06-13T16:19:04.868Z",
-    "updatedAt": "2026-06-13T16:19:04.868Z"
-  },
-  {
-    "id": "4849190d2c46e430",
-    "title": "Английский арбитр из‑за травмы пропустит свой первый матч на ЧМ‑2026",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/1/91/347813560228911.jpeg",
-    "teaser": "Английский арбитр из‑за травмы пропустит свой первый матч на ЧМ‑2026",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a1b15969a7947b037c493a5",
-    "publishedAt": "2026-06-13T13:12:25.000Z",
-    "createdAt": "2026-06-13T16:19:03.660Z",
-    "updatedAt": "2026-06-13T16:19:03.660Z"
-  },
-  {
-    "id": "127379b8d81e2e90",
-    "title": "Женский «Спартак» впервые в истории выиграл Суперкубок России по футболу",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/0/05/347813534515050.jpeg",
-    "teaser": "Женский «Спартак» впервые в истории выиграл Суперкубок России по футболу",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a2d49849a7947ae98befbcb",
-    "publishedAt": "2026-06-13T12:35:33.000Z",
-    "createdAt": "2026-06-13T16:19:05.987Z",
-    "updatedAt": "2026-06-13T16:19:05.987Z"
+    "createdAt": "2026-06-13T18:13:17.294Z",
+    "updatedAt": "2026-06-13T18:13:17.294Z"
   }
 ]
