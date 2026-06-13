@@ -1,5 +1,47 @@
 [
   {
+    "id": "b2d597f544468913",
+    "title": "Рекордсмен «Ахмата» завершил карьеру после 19 сезонов в клубе",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/3/23/347813651070233.jpeg",
+    "teaser": "Рекордсмен «Ахмата» завершил карьеру после 19 сезонов в клубе",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a2d76a59a7947ebd91be926",
+    "publishedAt": "2026-06-13T15:45:53.000Z",
+    "createdAt": "2026-06-13T16:18:57.365Z",
+    "updatedAt": "2026-06-13T16:18:57.365Z"
+  },
+  {
+    "id": "63821c62738406e9",
+    "title": "Расселл выиграл квалификацию Гран-при Барселоны-Каталуньи «Формулы-1»",
+    "sport": "Другое",
+    "category": "Формула-1",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/5/67/347813637226675.jpeg",
+    "teaser": "Расселл выиграл квалификацию Гран-при Барселоны-Каталуньи «Формулы-1»",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a2d10759a79471f7532a279",
+    "publishedAt": "2026-06-13T15:20:16.000Z",
+    "createdAt": "2026-06-13T16:18:58.384Z",
+    "updatedAt": "2026-06-13T16:18:58.384Z"
+  },
+  {
+    "id": "2e3f0477cfd4cf37",
+    "title": "Сборная Англии вернула часть украденной перед стартом ЧМ-2026 экипировки",
+    "sport": "Другое",
+    "category": "ЧМ-2026",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/6/99/347813619110996.jpeg",
+    "teaser": "Сборная Англии вернула часть украденной перед стартом ЧМ-2026 экипировки",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a2d69709a7947a00104d2ad",
+    "publishedAt": "2026-06-13T14:50:11.000Z",
+    "createdAt": "2026-06-13T16:18:56.297Z",
+    "updatedAt": "2026-06-13T16:18:56.297Z"
+  },
+  {
     "id": "806ba56886212f99",
     "title": "Россиянка проиграла 511-й ракетке мира на турнире WTA в Великобритании",
     "sport": "Теннис",
@@ -10,8 +52,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a219f0f9a7947125b3fb9f7",
     "publishedAt": "2026-06-13T14:01:58.000Z",
-    "createdAt": "2026-06-13T14:11:13.689Z",
-    "updatedAt": "2026-06-13T14:11:13.689Z"
+    "createdAt": "2026-06-13T16:19:00.516Z",
+    "updatedAt": "2026-06-13T16:19:00.516Z"
   },
   {
     "id": "6f8d25386800a999",
@@ -24,8 +66,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a2d59fd9a79476dde9a4b28",
     "publishedAt": "2026-06-13T13:55:55.000Z",
-    "createdAt": "2026-06-13T14:11:14.630Z",
-    "updatedAt": "2026-06-13T14:11:14.630Z"
+    "createdAt": "2026-06-13T16:19:01.553Z",
+    "updatedAt": "2026-06-13T16:19:01.553Z"
   },
   {
     "id": "551a33f6de28c784",
@@ -38,8 +80,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a1c82a69a7947108185f784",
     "publishedAt": "2026-06-13T13:40:13.000Z",
-    "createdAt": "2026-06-13T14:11:12.777Z",
-    "updatedAt": "2026-06-13T14:11:12.777Z"
+    "createdAt": "2026-06-13T16:18:59.466Z",
+    "updatedAt": "2026-06-13T16:18:59.466Z"
   },
   {
     "id": "1b20d7cf2c0fa57a",
@@ -52,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a1c851d9a794728e20d393a",
     "publishedAt": "2026-06-13T13:29:01.000Z",
-    "createdAt": "2026-06-13T14:11:15.645Z",
-    "updatedAt": "2026-06-13T14:11:15.645Z"
+    "createdAt": "2026-06-13T16:19:02.615Z",
+    "updatedAt": "2026-06-13T16:19:02.615Z"
   },
   {
     "id": "9bd4a4cb18dcfe2b",
@@ -66,8 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a2d51ea9a7947c612755bf0",
     "publishedAt": "2026-06-13T13:17:00.000Z",
-    "createdAt": "2026-06-13T14:11:17.571Z",
-    "updatedAt": "2026-06-13T14:11:17.571Z"
+    "createdAt": "2026-06-13T16:19:04.868Z",
+    "updatedAt": "2026-06-13T16:19:04.868Z"
   },
   {
     "id": "4849190d2c46e430",
@@ -80,8 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a1b15969a7947b037c493a5",
     "publishedAt": "2026-06-13T13:12:25.000Z",
-    "createdAt": "2026-06-13T14:11:16.609Z",
-    "updatedAt": "2026-06-13T14:11:16.609Z"
+    "createdAt": "2026-06-13T16:19:03.660Z",
+    "updatedAt": "2026-06-13T16:19:03.660Z"
   },
   {
     "id": "127379b8d81e2e90",
@@ -94,49 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a2d49849a7947ae98befbcb",
     "publishedAt": "2026-06-13T12:35:33.000Z",
-    "createdAt": "2026-06-13T14:11:18.650Z",
-    "updatedAt": "2026-06-13T14:11:18.650Z"
-  },
-  {
-    "id": "3df5313e46a85e17",
-    "title": "Даниил Медведев вышел в полуфинал пятого в сезоне турнира ATP",
-    "sport": "Теннис",
-    "category": "Теннис",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/8/58/347813525093588.jpeg",
-    "teaser": "Даниил Медведев вышел в полуфинал пятого в сезоне турнира ATP",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a2d46af9a79472f6c8f90c9",
-    "publishedAt": "2026-06-13T12:16:12.000Z",
-    "createdAt": "2026-06-13T14:11:19.663Z",
-    "updatedAt": "2026-06-13T14:11:19.663Z"
-  },
-  {
-    "id": "805bee0f96efdce2",
-    "title": "Гана пригрозила судом из-за отказа Канады во въезде игроку сборной на ЧМ",
-    "sport": "Другое",
-    "category": "ЧМ-2026",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/7/19/347813513331197.jpeg",
-    "teaser": "Гана пригрозила судом из-за отказа Канады во въезде игроку сборной на ЧМ",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a2d3d5a9a79476f9fd0d11c",
-    "publishedAt": "2026-06-13T11:58:47.000Z",
-    "createdAt": "2026-06-13T14:11:20.706Z",
-    "updatedAt": "2026-06-13T14:11:20.706Z"
-  },
-  {
-    "id": "0f073108650d44d7",
-    "title": "В Салавате простились с погибшим в 21 год хоккеистом Ядыкиным",
-    "sport": "Хоккей",
-    "category": "Хоккей",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/1/32/347813508385321.jpeg",
-    "teaser": "В Салавате простились с погибшим в 21 год хоккеистом Ядыкиным",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a1fb60e9a79474dd1fd5432",
-    "publishedAt": "2026-06-13T11:46:06.000Z",
-    "createdAt": "2026-06-13T14:11:21.726Z",
-    "updatedAt": "2026-06-13T14:11:21.726Z"
+    "createdAt": "2026-06-13T16:19:05.987Z",
+    "updatedAt": "2026-06-13T16:19:05.987Z"
   }
 ]
