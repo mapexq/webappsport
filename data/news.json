@@ -1,5 +1,47 @@
 [
   {
+    "id": "144c5c2116b954e9",
+    "title": "Агент анонсировал уход одного из лидеров хоккейного «Динамо» в «Спартак»",
+    "sport": "Хоккей",
+    "category": "Хоккей",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/5/74/347814540330745.png",
+    "teaser": "Агент анонсировал уход одного из лидеров хоккейного «Динамо» в «Спартак»",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a2ed49e9a7947686834fdd3",
+    "publishedAt": "2026-06-14T16:33:32.000Z",
+    "createdAt": "2026-06-14T17:24:26.499Z",
+    "updatedAt": "2026-06-14T17:24:26.499Z"
+  },
+  {
+    "id": "60fc05187823aa12",
+    "title": "Стало известно, что украли у сборной Англии перед стартом ЧМ-2026 в США",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/7/03/347814491115037.jpeg",
+    "teaser": "Стало известно, что украли у сборной Англии перед стартом ЧМ-2026 в США",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a2ebc1f9a79471db72e7000",
+    "publishedAt": "2026-06-14T15:59:02.000Z",
+    "createdAt": "2026-06-14T17:24:25.297Z",
+    "updatedAt": "2026-06-14T17:24:25.297Z"
+  },
+  {
+    "id": "ec09edbea73b3f5f",
+    "title": "Впервые за 43 года весь подиум «Формулы-1» заняли пилоты из одной страны",
+    "sport": "Другое",
+    "category": "Формула-1",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/6/23/347814496860236.jpeg",
+    "teaser": "Впервые за 43 года весь подиум «Формулы-1» заняли пилоты из одной страны",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a2ec3b09a7947175e679d25",
+    "publishedAt": "2026-06-14T15:44:41.000Z",
+    "createdAt": "2026-06-14T17:24:27.632Z",
+    "updatedAt": "2026-06-14T17:24:27.632Z"
+  },
+  {
     "id": "903328801ddf583b",
     "title": "Хэмилтон впервые выиграл гонку «Формулы-1» в составе Ferrari",
     "sport": "Другое",
@@ -10,8 +52,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a2eaf719a79471a8344e3bb",
     "publishedAt": "2026-06-14T14:41:57.000Z",
-    "createdAt": "2026-06-14T15:09:03.675Z",
-    "updatedAt": "2026-06-14T15:09:03.675Z"
+    "createdAt": "2026-06-14T17:24:31.177Z",
+    "updatedAt": "2026-06-14T17:24:31.177Z"
   },
   {
     "id": "b7de6cf134602c0a",
@@ -24,8 +66,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a2eabf79a7947501c6b65dd",
     "publishedAt": "2026-06-14T14:27:13.000Z",
-    "createdAt": "2026-06-14T15:09:04.677Z",
-    "updatedAt": "2026-06-14T15:09:04.677Z"
+    "createdAt": "2026-06-14T17:24:28.803Z",
+    "updatedAt": "2026-06-14T17:24:28.803Z"
   },
   {
     "id": "507ce0b1ede3e5d1",
@@ -38,8 +80,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a2ea1ae9a7947661b39da75",
     "publishedAt": "2026-06-14T13:57:24.000Z",
-    "createdAt": "2026-06-14T15:09:06.453Z",
-    "updatedAt": "2026-06-14T15:09:06.453Z"
+    "createdAt": "2026-06-14T17:24:33.139Z",
+    "updatedAt": "2026-06-14T17:24:33.139Z"
   },
   {
     "id": "a2606918160637d8",
@@ -52,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a2ea3b79a794773b08d4bc4",
     "publishedAt": "2026-06-14T13:11:38.000Z",
-    "createdAt": "2026-06-14T15:09:09.555Z",
-    "updatedAt": "2026-06-14T15:09:09.555Z"
+    "createdAt": "2026-06-14T17:24:35.291Z",
+    "updatedAt": "2026-06-14T17:24:35.291Z"
   },
   {
     "id": "5a14cf9cdbef4fcd",
@@ -66,8 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a2e9f9a9a79473166c24b85",
     "publishedAt": "2026-06-14T12:46:10.000Z",
-    "createdAt": "2026-06-14T15:09:08.509Z",
-    "updatedAt": "2026-06-14T15:09:08.509Z"
+    "createdAt": "2026-06-14T17:24:34.276Z",
+    "updatedAt": "2026-06-14T17:24:34.276Z"
   },
   {
     "id": "5c49831a63b970ac",
@@ -80,50 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a2e9bed9a7947661b39da67",
     "publishedAt": "2026-06-14T12:44:34.000Z",
-    "createdAt": "2026-06-14T15:09:10.587Z",
-    "updatedAt": "2026-06-14T15:09:10.587Z"
-  },
-  {
-    "id": "15294b476bfe9718",
-    "title": "Би-би-си узнала, что ФИФА заплатит не попавшему на ЧМ арбитру из Сомали",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/1/97/347814361320971.png",
-    "teaser": "Би-би-си узнала, что ФИФА заплатит не попавшему на ЧМ арбитру из Сомали",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a2e8e6f9a794751ead47748",
-    "publishedAt": "2026-06-14T12:05:54.000Z",
-    "createdAt": "2026-06-14T15:09:11.705Z",
-    "updatedAt": "2026-06-14T15:09:11.705Z"
-  },
-  {
-    "id": "b5b4587364d2ad97",
-    "title": "Футболисты сборной Бразилии остались недовольны газоном на стадионе в США",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/2/05/347814380616052.jpeg",
-    "teaser": "Футболисты сборной Бразилии остались недовольны газоном на стадионе в США",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a2e90969a79477d9ad45d89",
-    "publishedAt": "2026-06-14T12:05:05.000Z",
-    "createdAt": "2026-06-14T15:09:12.770Z",
-    "updatedAt": "2026-06-14T15:09:12.770Z"
-  },
-  {
-    "id": "a6cac23db2f75fd7",
-    "title": "Российские каноисты выиграли золото чемпионата Европы",
-    "sport": "Другое",
-    "category": "Другие",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/9/22/347814365942229.png",
-    "teaser": "Российские каноисты выиграли золото чемпионата Европы",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a2e8fb69a79478b61fdf7fb",
-    "publishedAt": "2026-06-14T11:41:03.000Z",
-    "createdAt": "2026-06-14T15:09:13.851Z",
-    "updatedAt": "2026-06-14T15:09:13.851Z"
+    "createdAt": "2026-06-14T17:24:36.417Z",
+    "updatedAt": "2026-06-14T17:24:36.417Z"
   },
   {
     "id": "d5daf1c1874fe81d",
@@ -136,7 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a2d2aae9a79476b9ad59afe",
     "publishedAt": "2026-06-14T04:32:08.000Z",
-    "createdAt": "2026-06-14T15:09:07.515Z",
-    "updatedAt": "2026-06-14T15:09:07.515Z"
+    "createdAt": "2026-06-14T17:24:30.061Z",
+    "updatedAt": "2026-06-14T17:24:30.061Z"
   }
 ]
