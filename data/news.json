@@ -1,5 +1,61 @@
 [
   {
+    "id": "5a6e842461885f3a",
+    "title": "«Нью-Йорк Никс» впервые за 53 года стал чемпионом НБА",
+    "sport": "Баскетбол",
+    "category": "Баскетбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/9/41/347814141527419.jpeg",
+    "teaser": "«Нью-Йорк Никс» впервые за 53 года стал чемпионом НБА",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a2e38f99a79477d9ad45d3c",
+    "publishedAt": "2026-06-14T05:38:18.000Z",
+    "createdAt": "2026-06-14T05:54:39.210Z",
+    "updatedAt": "2026-06-14T05:54:39.210Z"
+  },
+  {
+    "id": "8ec9dae9e59b64ef",
+    "title": "Германия против экс-тренера сборной России. Чего ждать от дня ЧМ-2026",
+    "sport": "Другое",
+    "category": "ЧМ-2026",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/7/00/347813613413007.jpeg",
+    "teaser": "Германия против экс-тренера сборной России. Чего ждать от дня ЧМ-2026",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a2d2aae9a79476b9ad59afe",
+    "publishedAt": "2026-06-14T04:32:08.000Z",
+    "createdAt": "2026-06-14T05:54:40.182Z",
+    "updatedAt": "2026-06-14T05:54:40.182Z"
+  },
+  {
+    "id": "dc1a5122528bbb78",
+    "title": "Сборная Шотландии обыграла Гаити в первом матче группового этапа ЧМ-2026",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "/images/news-placeholder.jpg",
+    "teaser": "Сборная Шотландии обыграла Гаити в первом матче группового этапа ЧМ-2026",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a2d745a9a7947a0ea425e73",
+    "publishedAt": "2026-06-14T03:10:32.000Z",
+    "createdAt": "2026-06-14T05:54:43.702Z",
+    "updatedAt": "2026-06-14T05:54:43.702Z"
+  },
+  {
+    "id": "3e063a8b8da3df0c",
+    "title": "Сборная Бразилии сыграла вничью с Марокко в ЧМ-2026",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/8/52/347810896297528.png",
+    "teaser": "Сборная Бразилии сыграла вничью с Марокко в ЧМ-2026",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a2d66f09a79470c7458bd35",
+    "publishedAt": "2026-06-14T00:17:21.000Z",
+    "createdAt": "2026-06-14T05:54:41.935Z",
+    "updatedAt": "2026-06-14T05:54:41.935Z"
+  },
+  {
     "id": "6a2a44c7e12a6226",
     "title": "Сборная Швейцарии сыграла вничью с Катаром в матче ЧМ-2026",
     "sport": "Футбол",
@@ -10,8 +66,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a2d66509a7947ebd91be921",
     "publishedAt": "2026-06-13T21:10:39.000Z",
-    "createdAt": "2026-06-14T00:13:40.737Z",
-    "updatedAt": "2026-06-14T00:13:40.737Z"
+    "createdAt": "2026-06-14T05:54:44.698Z",
+    "updatedAt": "2026-06-14T05:54:44.698Z"
   },
   {
     "id": "868033c8561346dc",
@@ -24,8 +80,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a2dc0359a79473a6e631372",
     "publishedAt": "2026-06-13T20:53:31.000Z",
-    "createdAt": "2026-06-14T00:13:41.805Z",
-    "updatedAt": "2026-06-14T00:13:41.805Z"
+    "createdAt": "2026-06-14T05:54:45.743Z",
+    "updatedAt": "2026-06-14T05:54:45.743Z"
   },
   {
     "id": "aa9648b1812aa2fa",
@@ -38,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a2dab2a9a7947a0ea425e92",
     "publishedAt": "2026-06-13T19:24:12.000Z",
-    "createdAt": "2026-06-14T00:13:42.855Z",
-    "updatedAt": "2026-06-14T00:13:42.855Z"
+    "createdAt": "2026-06-14T05:54:46.817Z",
+    "updatedAt": "2026-06-14T05:54:46.817Z"
   },
   {
     "id": "5821b8b3d784ba27",
@@ -52,8 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a2d9b1d9a7947a0ea425e88",
     "publishedAt": "2026-06-13T18:27:37.000Z",
-    "createdAt": "2026-06-14T00:13:43.941Z",
-    "updatedAt": "2026-06-14T00:13:43.941Z"
+    "createdAt": "2026-06-14T05:54:47.873Z",
+    "updatedAt": "2026-06-14T05:54:47.873Z"
   },
   {
     "id": "c5222c8c065dfa86",
@@ -66,8 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a19c29e9a7947c75a58ad71",
     "publishedAt": "2026-06-13T18:01:04.000Z",
-    "createdAt": "2026-06-14T00:13:44.986Z",
-    "updatedAt": "2026-06-14T00:13:44.986Z"
+    "createdAt": "2026-06-14T05:54:48.912Z",
+    "updatedAt": "2026-06-14T05:54:48.912Z"
   },
   {
     "id": "658231f57de39503",
@@ -80,63 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a2d93199a794709daaee002",
     "publishedAt": "2026-06-13T17:35:34.000Z",
-    "createdAt": "2026-06-14T00:13:46.010Z",
-    "updatedAt": "2026-06-14T00:13:46.010Z"
-  },
-  {
-    "id": "829bb747128a4ac6",
-    "title": "Леклер заявил о стыде за аварию в квалификации Гран-при Барселоны",
-    "sport": "Другое",
-    "category": "Формула-1",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/1/90/347813696060901.jpeg",
-    "teaser": "Леклер заявил о стыде за аварию в квалификации Гран-при Барселоны",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a2d852f9a794756082f4f6e",
-    "publishedAt": "2026-06-13T17:04:40.000Z",
-    "createdAt": "2026-06-14T00:13:48.128Z",
-    "updatedAt": "2026-06-14T00:13:48.128Z"
-  },
-  {
-    "id": "e62e0c0b4610a61c",
-    "title": "Даниил Медведев проиграл 76-й ракетке мира в полуфинале в Хертогенбосе",
-    "sport": "Теннис",
-    "category": "Теннис",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/5/38/347813516166385.jpeg",
-    "teaser": "Даниил Медведев проиграл 76-й ракетке мира в полуфинале в Хертогенбосе",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a1e9ef19a794778e043c628",
-    "publishedAt": "2026-06-13T16:57:16.000Z",
-    "createdAt": "2026-06-14T00:13:47.051Z",
-    "updatedAt": "2026-06-14T00:13:47.051Z"
-  },
-  {
-    "id": "37b3c7e301a8f660",
-    "title": "В РФС рассказали о переговорах с УЕФА и ФИФА по допуску России",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/6/02/347813672603026.jpeg",
-    "teaser": "В РФС рассказали о переговорах с УЕФА и ФИФА по допуску России",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a1ae04b9a79476479c63928",
-    "publishedAt": "2026-06-13T16:19:11.000Z",
-    "createdAt": "2026-06-14T00:13:49.615Z",
-    "updatedAt": "2026-06-14T00:13:49.615Z"
-  },
-  {
-    "id": "2e3f0477cfd4cf37",
-    "title": "Сборная Англии вернула часть украденной перед стартом ЧМ-2026 экипировки",
-    "sport": "Другое",
-    "category": "ЧМ-2026",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/6/99/347813619110996.jpeg",
-    "teaser": "Сборная Англии вернула часть украденной перед стартом ЧМ-2026 экипировки",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a2d69709a7947a00104d2ad",
-    "publishedAt": "2026-06-13T14:50:11.000Z",
-    "createdAt": "2026-06-14T00:13:50.685Z",
-    "updatedAt": "2026-06-14T00:13:50.685Z"
+    "createdAt": "2026-06-14T05:54:49.950Z",
+    "updatedAt": "2026-06-14T05:54:49.950Z"
   }
 ]
