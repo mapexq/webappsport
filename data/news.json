@@ -1,5 +1,61 @@
 [
   {
+    "id": "a6cac23db2f75fd7",
+    "title": "Российские каноисты выиграли золото чемпионата Европы",
+    "sport": "Другое",
+    "category": "Другие",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/9/22/347814365942229.png",
+    "teaser": "Российские каноисты выиграли золото чемпионата Европы",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a2e8fb69a79478b61fdf7fb",
+    "publishedAt": "2026-06-14T11:41:03.000Z",
+    "createdAt": "2026-06-14T12:01:27.879Z",
+    "updatedAt": "2026-06-14T12:01:27.879Z"
+  },
+  {
+    "id": "dfa89f82d1bb9f4d",
+    "title": "Сборная Англии в первый день на базе ЧМ столкнулась с угрозой торнадо",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/5/47/347814337883475.jpeg",
+    "teaser": "Сборная Англии в первый день на базе ЧМ столкнулась с угрозой торнадо",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a2e806d9a79473a4f623df3",
+    "publishedAt": "2026-06-14T10:48:07.000Z",
+    "createdAt": "2026-06-14T12:01:28.990Z",
+    "updatedAt": "2026-06-14T12:01:28.990Z"
+  },
+  {
+    "id": "147dcf1331d19618",
+    "title": "Дик Адвокат заявил, что Кюрасао «усложнит жизнь каждой команде» на ЧМ-26",
+    "sport": "Другое",
+    "category": "ЧМ-2026",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/7/97/347814309589977.jpeg",
+    "teaser": "Дик Адвокат заявил, что Кюрасао «усложнит жизнь каждой команде» на ЧМ-26",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a2e78919a794757801f8f94",
+    "publishedAt": "2026-06-14T10:31:16.000Z",
+    "createdAt": "2026-06-14T12:01:29.982Z",
+    "updatedAt": "2026-06-14T12:01:29.982Z"
+  },
+  {
+    "id": "469d74911ee97872",
+    "title": "Капитан «Зенита» оценил свой дебют на ЧМ-2026",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/9/92/347814311784929.jpeg",
+    "teaser": "Капитан «Зенита» оценил свой дебют на ЧМ-2026",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a2e786d9a7947661b39da3f",
+    "publishedAt": "2026-06-14T10:02:21.000Z",
+    "createdAt": "2026-06-14T12:01:32.934Z",
+    "updatedAt": "2026-06-14T12:01:32.934Z"
+  },
+  {
     "id": "8daac1749ddcdb7b",
     "title": "Трамп поздравил «Нью-Йорк Никс» с чемпионством в НБА",
     "sport": "Баскетбол",
@@ -10,8 +66,22 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a2e71699a79473780ed5d18",
     "publishedAt": "2026-06-14T09:36:44.000Z",
-    "createdAt": "2026-06-14T09:44:55.867Z",
-    "updatedAt": "2026-06-14T09:44:55.867Z"
+    "createdAt": "2026-06-14T12:01:35.092Z",
+    "updatedAt": "2026-06-14T12:01:35.092Z"
+  },
+  {
+    "id": "884af189963db9f7",
+    "title": "Российский каноист взял серебро на чемпионате Европы",
+    "sport": "Другое",
+    "category": "Другие",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/1/14/347814280755141.png",
+    "teaser": "Российский каноист взял серебро на чемпионате Европы",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a2e6f349a79472e2560b666",
+    "publishedAt": "2026-06-14T09:25:46.000Z",
+    "createdAt": "2026-06-14T12:01:31.036Z",
+    "updatedAt": "2026-06-14T12:01:31.036Z"
   },
   {
     "id": "4bb7154eba7e4c51",
@@ -24,22 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a2e62e09a794747e3add913",
     "publishedAt": "2026-06-14T09:00:21.000Z",
-    "createdAt": "2026-06-14T09:44:54.912Z",
-    "updatedAt": "2026-06-14T09:44:54.912Z"
-  },
-  {
-    "id": "8cb7bf61e7ae4f95",
-    "title": "После победы «Никс» в финале НБА на Манхэттене начались беспорядки. Видео",
-    "sport": "Баскетбол",
-    "category": "Баскетбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/2/57/347814155729572.jpeg",
-    "teaser": "После победы «Никс» в финале НБА на Манхэттене начались беспорядки. Видео",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a2e4f869a794756aa62f949",
-    "publishedAt": "2026-06-14T08:21:42.000Z",
-    "createdAt": "2026-06-14T09:45:00.705Z",
-    "updatedAt": "2026-06-14T09:45:00.705Z"
+    "createdAt": "2026-06-14T12:01:34.016Z",
+    "updatedAt": "2026-06-14T12:01:34.016Z"
   },
   {
     "id": "4c5c4d6c51f73d14",
@@ -52,8 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a2e58a29a7947783ad23b3b",
     "publishedAt": "2026-06-14T08:17:37.000Z",
-    "createdAt": "2026-06-14T09:44:56.884Z",
-    "updatedAt": "2026-06-14T09:44:56.884Z"
+    "createdAt": "2026-06-14T12:01:36.155Z",
+    "updatedAt": "2026-06-14T12:01:36.155Z"
   },
   {
     "id": "46b17940f820d7d6",
@@ -66,77 +122,21 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a2e4e339a794735bf556782",
     "publishedAt": "2026-06-14T07:26:31.000Z",
-    "createdAt": "2026-06-14T09:44:58.877Z",
-    "updatedAt": "2026-06-14T09:44:58.877Z"
+    "createdAt": "2026-06-14T12:01:37.208Z",
+    "updatedAt": "2026-06-14T12:01:37.208Z"
   },
   {
-    "id": "4298743e24b73f9a",
-    "title": "Поединок с участием Хамзата Чимаева закончился массовой дракой",
-    "sport": "Единоборства",
-    "category": "Единоборства",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/4/93/347814188640934.jpeg",
-    "teaser": "Поединок с участием Хамзата Чимаева закончился массовой дракой",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a2e45459a79479ab8964368",
-    "publishedAt": "2026-06-14T07:08:36.000Z",
-    "createdAt": "2026-06-14T09:45:01.706Z",
-    "updatedAt": "2026-06-14T09:45:01.706Z"
-  },
-  {
-    "id": "5a6e842461885f3a",
-    "title": "«Нью-Йорк Никс» впервые за 53 года стал чемпионом НБА",
-    "sport": "Баскетбол",
-    "category": "Баскетбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/9/41/347814141527419.jpeg",
-    "teaser": "«Нью-Йорк Никс» впервые за 53 года стал чемпионом НБА",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a2e38f99a79477d9ad45d3c",
-    "publishedAt": "2026-06-14T05:38:18.000Z",
-    "createdAt": "2026-06-14T09:45:02.725Z",
-    "updatedAt": "2026-06-14T09:45:02.725Z"
-  },
-  {
-    "id": "8ec9dae9e59b64ef",
-    "title": "Германия против экс-тренера сборной России. Чего ждать от дня ЧМ-2026",
+    "id": "d5daf1c1874fe81d",
+    "title": "Германия против экс-тренера сборной России. Чего ждать от третьего дня ЧМ",
     "sport": "Другое",
     "category": "ЧМ-2026",
     "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/7/00/347813613413007.jpeg",
-    "teaser": "Германия против экс-тренера сборной России. Чего ждать от дня ЧМ-2026",
+    "teaser": "Германия против экс-тренера сборной России. Чего ждать от третьего дня ЧМ",
     "fullContent": "",
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a2d2aae9a79476b9ad59afe",
     "publishedAt": "2026-06-14T04:32:08.000Z",
-    "createdAt": "2026-06-14T09:44:57.852Z",
-    "updatedAt": "2026-06-14T09:44:57.852Z"
-  },
-  {
-    "id": "dc1a5122528bbb78",
-    "title": "Сборная Шотландии обыграла Гаити в первом матче группового этапа ЧМ-2026",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "/images/news-placeholder.jpg",
-    "teaser": "Сборная Шотландии обыграла Гаити в первом матче группового этапа ЧМ-2026",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a2d745a9a7947a0ea425e73",
-    "publishedAt": "2026-06-14T03:10:32.000Z",
-    "createdAt": "2026-06-14T09:45:06.390Z",
-    "updatedAt": "2026-06-14T09:45:06.390Z"
-  },
-  {
-    "id": "8fdfaf9dce2046d4",
-    "title": "Сборная Бразилии сыграла вничью с Марокко на ЧМ-2026",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/8/52/347810896297528.png",
-    "teaser": "Сборная Бразилии сыграла вничью с Марокко на ЧМ-2026",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a2d66f09a79470c7458bd35",
-    "publishedAt": "2026-06-14T00:17:21.000Z",
-    "createdAt": "2026-06-14T09:45:04.587Z",
-    "updatedAt": "2026-06-14T09:45:04.587Z"
+    "createdAt": "2026-06-14T12:01:31.876Z",
+    "updatedAt": "2026-06-14T12:01:31.876Z"
   }
 ]
