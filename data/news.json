@@ -1,5 +1,61 @@
 [
   {
+    "id": "9b2041c01a1320b5",
+    "title": "Вратарь Кабо-Верде после игры ЧМ набрал более 10 млн подписчиков за сутки",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/2/27/347816502490272.jpeg",
+    "teaser": "Вратарь Кабо-Верде после игры ЧМ набрал более 10 млн подписчиков за сутки",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a31d1849a794701ad8ddcc2",
+    "publishedAt": "2026-06-16T22:58:23.000Z",
+    "createdAt": "2026-06-16T23:26:14.796Z",
+    "updatedAt": "2026-06-16T23:26:14.796Z"
+  },
+  {
+    "id": "a5bb07142966c45e",
+    "title": "Мбаппе стал лучшим бомбардиром в истории сборной Франции",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/9/84/347816448948849.jpeg",
+    "teaser": "Мбаппе стал лучшим бомбардиром в истории сборной Франции",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a31b93d9a7947bb443ae639",
+    "publishedAt": "2026-06-16T21:26:25.000Z",
+    "createdAt": "2026-06-16T23:26:13.663Z",
+    "updatedAt": "2026-06-16T23:26:13.663Z"
+  },
+  {
+    "id": "a1c97d929a53102c",
+    "title": "Дубль Мбаппе помог сборной Франции обыграть Сенегал на старте ЧМ-2026",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/7/22/347816422867227.jpeg",
+    "teaser": "Дубль Мбаппе помог сборной Франции обыграть Сенегал на старте ЧМ-2026",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a31aee09a7947c262f1431d",
+    "publishedAt": "2026-06-16T21:11:38.000Z",
+    "createdAt": "2026-06-16T23:26:15.930Z",
+    "updatedAt": "2026-06-16T23:26:15.930Z"
+  },
+  {
+    "id": "cc7cabe97a2f9158",
+    "title": "Какие рекорды Месси побил на чемпионатах мира",
+    "sport": "Другое",
+    "category": "ЧМ-2026",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/7/36/347813705301367.jpeg",
+    "teaser": "Какие рекорды Месси побил на чемпионатах мира",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a2d6b519a79476f9fd0d14c",
+    "publishedAt": "2026-06-16T21:02:44.000Z",
+    "createdAt": "2026-06-16T23:26:17.034Z",
+    "updatedAt": "2026-06-16T23:26:17.034Z"
+  },
+  {
     "id": "00e3266cc2db49b5",
     "title": "Неймар после травмы приступил к индивидуальным тренировкам на ЧМ-2026",
     "sport": "Другое",
@@ -10,8 +66,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a31a8fa9a7947144d6db7df",
     "publishedAt": "2026-06-16T20:40:48.000Z",
-    "createdAt": "2026-06-16T21:08:40.530Z",
-    "updatedAt": "2026-06-16T21:08:40.530Z"
+    "createdAt": "2026-06-16T23:26:18.179Z",
+    "updatedAt": "2026-06-16T23:26:18.179Z"
   },
   {
     "id": "d60b445f2565f980",
@@ -24,8 +80,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a3196e69a79471546c9accd",
     "publishedAt": "2026-06-16T19:27:15.000Z",
-    "createdAt": "2026-06-16T21:08:42.533Z",
-    "updatedAt": "2026-06-16T21:08:42.533Z"
+    "createdAt": "2026-06-16T23:26:20.573Z",
+    "updatedAt": "2026-06-16T23:26:20.573Z"
   },
   {
     "id": "31cef2aa81182530",
@@ -38,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a3191359a794723547fee7c",
     "publishedAt": "2026-06-16T19:24:42.000Z",
-    "createdAt": "2026-06-16T21:08:41.555Z",
-    "updatedAt": "2026-06-16T21:08:41.555Z"
+    "createdAt": "2026-06-16T23:26:19.364Z",
+    "updatedAt": "2026-06-16T23:26:19.364Z"
   },
   {
     "id": "950759d714fd22cd",
@@ -52,8 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a317d5c9a7947b5b2448aa1",
     "publishedAt": "2026-06-16T17:47:49.000Z",
-    "createdAt": "2026-06-16T21:08:43.457Z",
-    "updatedAt": "2026-06-16T21:08:43.457Z"
+    "createdAt": "2026-06-16T23:26:21.769Z",
+    "updatedAt": "2026-06-16T23:26:21.769Z"
   },
   {
     "id": "918a491cd21e5594",
@@ -66,8 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a3180719a7947a67ba7fbef",
     "publishedAt": "2026-06-16T17:32:15.000Z",
-    "createdAt": "2026-06-16T21:08:44.456Z",
-    "updatedAt": "2026-06-16T21:08:44.456Z"
+    "createdAt": "2026-06-16T23:26:22.988Z",
+    "updatedAt": "2026-06-16T23:26:22.988Z"
   },
   {
     "id": "62ba4c5b159770da",
@@ -80,63 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a317fd29a7947fb4686e43b",
     "publishedAt": "2026-06-16T17:22:30.000Z",
-    "createdAt": "2026-06-16T21:08:45.489Z",
-    "updatedAt": "2026-06-16T21:08:45.489Z"
-  },
-  {
-    "id": "89a6a1231871fc23",
-    "title": "Чайка украла банан у теннисиста во время матча на турнире «Челленджер»",
-    "sport": "Теннис",
-    "category": "Теннис",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/6/55/347816261617556.jpeg",
-    "teaser": "Чайка украла банан у теннисиста во время матча на турнире «Челленджер»",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a316fd39a79478c646b0cfd",
-    "publishedAt": "2026-06-16T16:52:33.000Z",
-    "createdAt": "2026-06-16T21:08:47.959Z",
-    "updatedAt": "2026-06-16T21:08:47.959Z"
-  },
-  {
-    "id": "c20d55a76eb0f05a",
-    "title": "«Вегас» объявил об отставке тренера после проигрыша в финале Кубка Стэнли",
-    "sport": "Хоккей",
-    "category": "Хоккей",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/1/98/347816268848981.jpeg",
-    "teaser": "«Вегас» объявил об отставке тренера после проигрыша в финале Кубка Стэнли",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a31774a9a7947848c941237",
-    "publishedAt": "2026-06-16T16:46:02.000Z",
-    "createdAt": "2026-06-16T21:08:46.539Z",
-    "updatedAt": "2026-06-16T21:08:46.539Z"
-  },
-  {
-    "id": "3f2a5ff30fb86835",
-    "title": "Умер бывший игрок НХЛ и КХЛ Кайл Колдер",
-    "sport": "Хоккей",
-    "category": "Хоккей",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/2/86/347816237191862.jpeg",
-    "teaser": "Умер бывший игрок НХЛ и КХЛ Кайл Колдер",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a316b939a79471d88f39766",
-    "publishedAt": "2026-06-16T15:47:11.000Z",
-    "createdAt": "2026-06-16T21:08:48.940Z",
-    "updatedAt": "2026-06-16T21:08:48.940Z"
-  },
-  {
-    "id": "be2d6b2824aea000",
-    "title": "«Зенит» объявил об уходе Дурана, которого клуб Роналду покупал за €77 млн",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/3/31/347816221772313.jpeg",
-    "teaser": "«Зенит» объявил об уходе Дурана, которого клуб Роналду покупал за €77 млн",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a31657a9a794747a2118204",
-    "publishedAt": "2026-06-16T15:14:41.000Z",
-    "createdAt": "2026-06-16T21:08:50.014Z",
-    "updatedAt": "2026-06-16T21:08:50.014Z"
+    "createdAt": "2026-06-16T23:26:24.345Z",
+    "updatedAt": "2026-06-16T23:26:24.345Z"
   }
 ]
