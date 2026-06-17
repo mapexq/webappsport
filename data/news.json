@@ -1,5 +1,89 @@
 [
   {
+    "id": "c886156f556e0827",
+    "title": "Призер Евро-2008 в составе сборной России стал тренером в «Рубине»",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/1/06/347817124187061.jpeg",
+    "teaser": "Призер Евро-2008 в составе сборной России стал тренером в «Рубине»",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a32c5fb9a7947293eefcfff",
+    "publishedAt": "2026-06-17T16:22:54.000Z",
+    "createdAt": "2026-06-17T16:56:33.958Z",
+    "updatedAt": "2026-06-17T16:56:33.958Z"
+  },
+  {
+    "id": "a93c64cfbe5c1371",
+    "title": "В Узбекистане перенесли начало рабочего дня из-за матча сборной на ЧМ",
+    "sport": "Другое",
+    "category": "ЧМ-2026",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/3/32/347817079544323.jpeg",
+    "teaser": "В Узбекистане перенесли начало рабочего дня из-за матча сборной на ЧМ",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a32b1c29a79474669da2fb8",
+    "publishedAt": "2026-06-17T15:25:26.000Z",
+    "createdAt": "2026-06-17T16:56:35.010Z",
+    "updatedAt": "2026-06-17T16:56:35.010Z"
+  },
+  {
+    "id": "372a730e374d5827",
+    "title": "Решающий матч Кубка России по футболу снова будет называться финалом",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/8/80/347817070740808.jpeg",
+    "teaser": "Решающий матч Кубка России по футболу снова будет называться финалом",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a32b10f9a7947b0c7caa62a",
+    "publishedAt": "2026-06-17T14:49:01.000Z",
+    "createdAt": "2026-06-17T16:56:36.121Z",
+    "updatedAt": "2026-06-17T16:56:36.121Z"
+  },
+  {
+    "id": "3fafd9690ad176f4",
+    "title": "Самый дорогой клуб НХЛ назвал нового главного тренера",
+    "sport": "Хоккей",
+    "category": "Хоккей",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/4/08/347817055623084.jpeg",
+    "teaser": "Самый дорогой клуб НХЛ назвал нового главного тренера",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a32aa2e9a79473635c67008",
+    "publishedAt": "2026-06-17T14:42:12.000Z",
+    "createdAt": "2026-06-17T16:56:37.140Z",
+    "updatedAt": "2026-06-17T16:56:37.140Z"
+  },
+  {
+    "id": "d12d7fa501732b3d",
+    "title": "Бразильский «Ботафого» сыграет с ЦСКА и «Динамо» в Братском кубке",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/0/88/347817060526880.jpeg",
+    "teaser": "Бразильский «Ботафого» сыграет с ЦСКА и «Динамо» в Братском кубке",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a32ad279a79477849303961",
+    "publishedAt": "2026-06-17T14:33:29.000Z",
+    "createdAt": "2026-06-17T16:56:40.022Z",
+    "updatedAt": "2026-06-17T16:56:40.022Z"
+  },
+  {
+    "id": "77d6ee0795d079ef",
+    "title": "Стали известны все участники «Матча года» в Санкт-Петербурге",
+    "sport": "Хоккей",
+    "category": "Хоккей",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/2/94/347817040057942.jpeg",
+    "teaser": "Стали известны все участники «Матча года» в Санкт-Петербурге",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a32a0219a79478c43d8be3c",
+    "publishedAt": "2026-06-17T13:52:40.000Z",
+    "createdAt": "2026-06-17T16:56:38.178Z",
+    "updatedAt": "2026-06-17T16:56:38.178Z"
+  },
+  {
     "id": "7154fc5518f2d10d",
     "title": "«Локомотив» продлил контракт с бразильским футболистом",
     "sport": "Футбол",
@@ -10,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a329e5d9a79471f6d519853",
     "publishedAt": "2026-06-17T13:26:08.000Z",
-    "createdAt": "2026-06-17T13:44:01.398Z",
-    "updatedAt": "2026-06-17T13:44:01.398Z"
+    "createdAt": "2026-06-17T16:56:43.177Z",
+    "updatedAt": "2026-06-17T16:56:43.177Z"
   },
   {
     "id": "da52601723765aef",
@@ -24,8 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a329bfd9a7947e3b3992718",
     "publishedAt": "2026-06-17T13:14:27.000Z",
-    "createdAt": "2026-06-17T13:43:59.468Z",
-    "updatedAt": "2026-06-17T13:43:59.468Z"
+    "createdAt": "2026-06-17T16:56:41.061Z",
+    "updatedAt": "2026-06-17T16:56:41.061Z"
   },
   {
     "id": "287bd83796086e86",
@@ -38,8 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a32947e9a794789ec3caa1f",
     "publishedAt": "2026-06-17T12:51:40.000Z",
-    "createdAt": "2026-06-17T13:44:00.432Z",
-    "updatedAt": "2026-06-17T13:44:00.432Z"
+    "createdAt": "2026-06-17T16:56:42.134Z",
+    "updatedAt": "2026-06-17T16:56:42.134Z"
   },
   {
     "id": "456689f49e0d452c",
@@ -52,91 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a328f619a7947aa50c611ed",
     "publishedAt": "2026-06-17T12:36:59.000Z",
-    "createdAt": "2026-06-17T13:44:02.345Z",
-    "updatedAt": "2026-06-17T13:44:02.345Z"
-  },
-  {
-    "id": "413940602186c2e0",
-    "title": "Загитова объявила дату открытия своей школы фигурного катания в Казани",
-    "sport": "Другое",
-    "category": "Фигурное катание",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/2/14/347816966171142.jpeg",
-    "teaser": "Загитова объявила дату открытия своей школы фигурного катания в Казани",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a3285dc9a794725285125b7",
-    "publishedAt": "2026-06-17T11:54:06.000Z",
-    "createdAt": "2026-06-17T13:44:05.498Z",
-    "updatedAt": "2026-06-17T13:44:05.498Z"
-  },
-  {
-    "id": "2811eea08b6c1504",
-    "title": "Российский футболист подписал контракт с французским клубом",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/6/54/347816960429546.jpeg",
-    "teaser": "Российский футболист подписал контракт с французским клубом",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a32860d9a79477d2d26fe51",
-    "publishedAt": "2026-06-17T11:49:16.000Z",
-    "createdAt": "2026-06-17T13:44:06.672Z",
-    "updatedAt": "2026-06-17T13:44:06.672Z"
-  },
-  {
-    "id": "e1286b850728dab7",
-    "title": "Роналдо назвал Месси величайшим игроком всех времен",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/4/14/347816958766144.jpeg",
-    "teaser": "Роналдо назвал Месси величайшим игроком всех времен",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a3281289a79477d2d26fdf4",
-    "publishedAt": "2026-06-17T11:36:30.000Z",
-    "createdAt": "2026-06-17T13:44:07.705Z",
-    "updatedAt": "2026-06-17T13:44:07.705Z"
-  },
-  {
-    "id": "b970c5e51aefbf9e",
-    "title": "Вячеслав Козлов нашел новую работу в КХЛ после увольнения из «Динамо»",
-    "sport": "Хоккей",
-    "category": "Хоккей",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/3/08/347816951334083.jpeg",
-    "teaser": "Вячеслав Козлов нашел новую работу в КХЛ после увольнения из «Динамо»",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a3282589a79477e59c7c44a",
-    "publishedAt": "2026-06-17T11:33:00.000Z",
-    "createdAt": "2026-06-17T13:44:08.706Z",
-    "updatedAt": "2026-06-17T13:44:08.707Z"
-  },
-  {
-    "id": "46b52715ad32bc6d",
-    "title": "Рекорды Месси, Мбаппе и Холанда. Как суперзвезды стартовали на ЧМ",
-    "sport": "Другое",
-    "category": "ЧМ-2026",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/9/79/347816795042799.jpeg",
-    "teaser": "Рекорды Месси, Мбаппе и Холанда. Как суперзвезды стартовали на ЧМ",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a3230d39a79471623c26995",
-    "publishedAt": "2026-06-17T07:37:40.000Z",
-    "createdAt": "2026-06-17T13:44:03.381Z",
-    "updatedAt": "2026-06-17T13:44:03.381Z"
-  },
-  {
-    "id": "14868934a62b3ee5",
-    "title": "Какие рекорды Месси побил на чемпионатах мира",
-    "sport": "Другое",
-    "category": "ЧМ-2026",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/7/36/347813705301367.jpeg",
-    "teaser": "Какие рекорды Месси побил на чемпионатах мира",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a2d6b519a79476f9fd0d14c",
-    "publishedAt": "2026-06-17T05:40:25.000Z",
-    "createdAt": "2026-06-17T13:44:04.500Z",
-    "updatedAt": "2026-06-17T13:44:04.500Z"
+    "createdAt": "2026-06-17T16:56:44.233Z",
+    "updatedAt": "2026-06-17T16:56:44.233Z"
   }
 ]
