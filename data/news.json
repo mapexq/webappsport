@@ -1,5 +1,89 @@
 [
   {
+    "id": "86b14c3d69d5eac2",
+    "title": "Экс-чемпион Bellator Шлеменко «задушил» болгарина в дебютном бою в АСА",
+    "sport": "Единоборства",
+    "category": "Единоборства",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/3/62/347818936447623.jpeg",
+    "teaser": "Экс-чемпион Bellator Шлеменко «задушил» болгарина в дебютном бою в АСА",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a3585c89a7947fc19e8ad8c",
+    "publishedAt": "2026-06-19T18:40:00.000Z",
+    "createdAt": "2026-06-19T18:59:50.148Z",
+    "updatedAt": "2026-06-19T18:59:50.148Z"
+  },
+  {
+    "id": "4a066bbc4c9c144e",
+    "title": "Медведев проиграл 81-й ракетке мира и не вышел в 1/2 финала в Галле",
+    "sport": "Теннис",
+    "category": "Теннис",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/3/41/347818889586413.jpeg",
+    "teaser": "Медведев проиграл 81-й ракетке мира и не вышел в 1/2 финала в Галле",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a3575cf9a7947f65d2633ed",
+    "publishedAt": "2026-06-19T18:09:38.000Z",
+    "createdAt": "2026-06-19T18:59:53.766Z",
+    "updatedAt": "2026-06-19T18:59:53.766Z"
+  },
+  {
+    "id": "aaf5200a1debe33a",
+    "title": "Глава ФИФА и премьер Канады расписались на флаге России на ЧМ-2026",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/8/28/347818907187288.jpeg",
+    "teaser": "Глава ФИФА и премьер Канады расписались на флаге России на ЧМ-2026",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a357e539a7947362bbb97e8",
+    "publishedAt": "2026-06-19T18:03:30.000Z",
+    "createdAt": "2026-06-19T18:59:51.278Z",
+    "updatedAt": "2026-06-19T18:59:51.278Z"
+  },
+  {
+    "id": "bad97befb80172dd",
+    "title": "TSA узнал о жалобе Алжира в ФИФА на неудаление Месси в матче ЧМ-2026",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/5/86/347818906496865.jpeg",
+    "teaser": "TSA узнал о жалобе Алжира в ФИФА на неудаление Месси в матче ЧМ-2026",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a357a5f9a7947500319fffd",
+    "publishedAt": "2026-06-19T17:58:29.000Z",
+    "createdAt": "2026-06-19T18:59:52.392Z",
+    "updatedAt": "2026-06-19T18:59:52.392Z"
+  },
+  {
+    "id": "eac68b34139801a6",
+    "title": "Соболенко отыгралась с 2:6, 0:4 и вышла в полуфинал турнира в Берлине",
+    "sport": "Теннис",
+    "category": "Теннис",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/8/39/347818883741398.jpeg",
+    "teaser": "Соболенко отыгралась с 2:6, 0:4 и вышла в полуфинал турнира в Берлине",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a35727b9a794744dfc49737",
+    "publishedAt": "2026-06-19T16:57:07.000Z",
+    "createdAt": "2026-06-19T18:59:55.993Z",
+    "updatedAt": "2026-06-19T18:59:55.993Z"
+  },
+  {
+    "id": "db3034c3fed1bdf7",
+    "title": "Один из лучших игроков в истории НХЛ Тэйвз завершил карьеру",
+    "sport": "Хоккей",
+    "category": "Хоккей",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/5/16/347818861313165.jpeg",
+    "teaser": "Один из лучших игроков в истории НХЛ Тэйвз завершил карьеру",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a356c769a79474bffc52a44",
+    "publishedAt": "2026-06-19T16:37:53.000Z",
+    "createdAt": "2026-06-19T18:59:54.880Z",
+    "updatedAt": "2026-06-19T18:59:54.880Z"
+  },
+  {
     "id": "afbca78e924e6478",
     "title": "Французского призера Олимпийских игр дисквалифицировали за допинг",
     "sport": "Другое",
@@ -10,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a355e269a794723cc643cf8",
     "publishedAt": "2026-06-19T15:51:10.000Z",
-    "createdAt": "2026-06-19T16:33:26.739Z",
-    "updatedAt": "2026-06-19T16:33:26.739Z"
+    "createdAt": "2026-06-19T18:59:57.161Z",
+    "updatedAt": "2026-06-19T18:59:57.161Z"
   },
   {
     "id": "28a04b1002bd1620",
@@ -24,8 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a355a589a79472ed2d9af30",
     "publishedAt": "2026-06-19T15:33:13.000Z",
-    "createdAt": "2026-06-19T16:33:27.815Z",
-    "updatedAt": "2026-06-19T16:33:27.815Z"
+    "createdAt": "2026-06-19T18:59:58.327Z",
+    "updatedAt": "2026-06-19T18:59:58.327Z"
   },
   {
     "id": "3738e543d57b5d8b",
@@ -38,8 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a35540e9a79473c272e63d1",
     "publishedAt": "2026-06-19T15:30:05.000Z",
-    "createdAt": "2026-06-19T16:33:28.934Z",
-    "updatedAt": "2026-06-19T16:33:28.934Z"
+    "createdAt": "2026-06-19T18:59:59.500Z",
+    "updatedAt": "2026-06-19T18:59:59.500Z"
   },
   {
     "id": "4d618742fb2f2c00",
@@ -52,91 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a354cd19a794744d4cec470",
     "publishedAt": "2026-06-19T14:46:27.000Z",
-    "createdAt": "2026-06-19T16:33:30.037Z",
-    "updatedAt": "2026-06-19T16:33:30.037Z"
-  },
-  {
-    "id": "209fa23bba3af92d",
-    "title": "Президент Аргентины вступился за Месси после фейка о смерти его отца",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/4/21/347818768528214.jpeg",
-    "teaser": "Президент Аргентины вступился за Месси после фейка о смерти его отца",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a3543089a79471409ae40d1",
-    "publishedAt": "2026-06-19T14:02:01.000Z",
-    "createdAt": "2026-06-19T16:33:31.116Z",
-    "updatedAt": "2026-06-19T16:33:31.116Z"
-  },
-  {
-    "id": "e5c14490f9366f4a",
-    "title": "УЕФА не будет вводить обязательные паузы на водопой на Евро-2028",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/0/19/347818736617190.jpeg",
-    "teaser": "УЕФА не будет вводить обязательные паузы на водопой на Евро-2028",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a3534af9a7947145dfeb5f2",
-    "publishedAt": "2026-06-19T12:56:58.000Z",
-    "createdAt": "2026-06-19T16:33:32.248Z",
-    "updatedAt": "2026-06-19T16:33:32.248Z"
-  },
-  {
-    "id": "730493b298eed8f7",
-    "title": "Немецкий тренер «Динамо» пообещал заговорить на русском через три месяца",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/6/02/347818712071026.jpeg",
-    "teaser": "Немецкий тренер «Динамо» пообещал заговорить на русском через три месяца",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a35303e9a7947017653b46a",
-    "publishedAt": "2026-06-19T12:22:22.000Z",
-    "createdAt": "2026-06-19T16:33:33.440Z",
-    "updatedAt": "2026-06-19T16:33:33.440Z"
-  },
-  {
-    "id": "814b8dd708d301b1",
-    "title": "Вратарь сборной России в форме пожарного продлил контракт с «Динамо»",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/5/28/347818707816285.jpeg",
-    "teaser": "Вратарь сборной России в форме пожарного продлил контракт с «Динамо»",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a352b059a7947017653b45a",
-    "publishedAt": "2026-06-19T12:04:25.000Z",
-    "createdAt": "2026-06-19T16:33:34.606Z",
-    "updatedAt": "2026-06-19T16:33:34.606Z"
-  },
-  {
-    "id": "3c09e0fc50107a98",
-    "title": "«Динамо» обменяло Максима Комтуа на лучшего снайпера «Спартака»",
-    "sport": "Хоккей",
-    "category": "Хоккей",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/7/02/347818684481027.jpeg",
-    "teaser": "«Динамо» обменяло Максима Комтуа на лучшего снайпера «Спартака»",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a3527679a79476ef9456fdb",
-    "publishedAt": "2026-06-19T11:50:30.000Z",
-    "createdAt": "2026-06-19T16:33:35.732Z",
-    "updatedAt": "2026-06-19T16:33:35.732Z"
-  },
-  {
-    "id": "119724dce337f347",
-    "title": "«Динамо» и «Краснодар» стали соперниками на групповом этапе Кубка России",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/0/44/347818672526440.jpeg",
-    "teaser": "«Динамо» и «Краснодар» стали соперниками на групповом этапе Кубка России",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a3522bd9a79474e4af93079",
-    "publishedAt": "2026-06-19T11:22:14.000Z",
-    "createdAt": "2026-06-19T16:33:36.867Z",
-    "updatedAt": "2026-06-19T16:33:36.867Z"
+    "createdAt": "2026-06-19T19:00:00.719Z",
+    "updatedAt": "2026-06-19T19:00:00.719Z"
   }
 ]
