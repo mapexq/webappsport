@@ -1,5 +1,89 @@
 [
   {
+    "id": "e661b9e296261a3a",
+    "title": "Хоккеисты «Каролины» вывесили флаг России на чемпионском параде в США",
+    "sport": "Хоккей",
+    "category": "Хоккей",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/0/26/347819757102260.jpeg",
+    "teaser": "Хоккеисты «Каролины» вывесили флаг России на чемпионском параде в США",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a36c5ef9a79478293dc56e2",
+    "publishedAt": "2026-06-20T17:24:42.000Z",
+    "createdAt": "2026-06-20T17:39:48.864Z",
+    "updatedAt": "2026-06-20T17:39:48.864Z"
+  },
+  {
+    "id": "25f6aa92e7516490",
+    "title": "«Реал» опроверг информацию о переговорах о трансфере Олисе из «Баварии»",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/2/75/347819749342752.jpeg",
+    "teaser": "«Реал» опроверг информацию о переговорах о трансфере Олисе из «Баварии»",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a329e679a7947eab94f51ca",
+    "publishedAt": "2026-06-20T17:08:34.000Z",
+    "createdAt": "2026-06-20T17:39:51.178Z",
+    "updatedAt": "2026-06-20T17:39:51.178Z"
+  },
+  {
+    "id": "5e9ac32cb2e0202c",
+    "title": "Зверев в полуфинале турнира ATP в Галле проиграл Фрицу седьмой раз подряд",
+    "sport": "Теннис",
+    "category": "Теннис",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/0/07/347819721524070.jpeg",
+    "teaser": "Зверев в полуфинале турнира ATP в Галле проиграл Фрицу седьмой раз подряд",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a2eddb09a79474336abdadc",
+    "publishedAt": "2026-06-20T16:21:39.000Z",
+    "createdAt": "2026-06-20T17:39:53.432Z",
+    "updatedAt": "2026-06-20T17:39:53.432Z"
+  },
+  {
+    "id": "adb4cc4401dde8a4",
+    "title": "Сын Плющенко заявил, что был готов к хейту из-за смены гражданства",
+    "sport": "Другое",
+    "category": "Фигурное катание",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/5/81/347819694213815.jpeg",
+    "teaser": "Сын Плющенко заявил, что был готов к хейту из-за смены гражданства",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a36b01a9a7947243fc9e6ec",
+    "publishedAt": "2026-06-20T15:49:16.000Z",
+    "createdAt": "2026-06-20T17:39:50.059Z",
+    "updatedAt": "2026-06-20T17:39:50.059Z"
+  },
+  {
+    "id": "2fe48e3579acb55b",
+    "title": "Соболенко установила антирекорд на турнирах WTA",
+    "sport": "Теннис",
+    "category": "Теннис",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/6/02/347819698151026.jpeg",
+    "teaser": "Соболенко установила антирекорд на турнирах WTA",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a3018f29a794700e7046827",
+    "publishedAt": "2026-06-20T15:42:45.000Z",
+    "createdAt": "2026-06-20T17:39:52.358Z",
+    "updatedAt": "2026-06-20T17:39:52.358Z"
+  },
+  {
+    "id": "afe9e5184437d00c",
+    "title": "Соболенко с «баранкой» проиграла в полуфинале турнира в Берлине",
+    "sport": "Теннис",
+    "category": "Теннис",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/0/57/347819675230570.jpeg",
+    "teaser": "Соболенко с «баранкой» проиграла в полуфинале турнира в Берлине",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a36a88e9a7947bcc189e47f",
+    "publishedAt": "2026-06-20T15:17:47.000Z",
+    "createdAt": "2026-06-20T17:39:54.506Z",
+    "updatedAt": "2026-06-20T17:39:54.506Z"
+  },
+  {
     "id": "e1ab85731cb40b8e",
     "title": "Трусова начала работу над новой произвольной программой",
     "sport": "Другое",
@@ -10,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a369f139a79471435f9bc5a",
     "publishedAt": "2026-06-20T14:24:19.000Z",
-    "createdAt": "2026-06-20T15:05:27.711Z",
-    "updatedAt": "2026-06-20T15:05:27.711Z"
+    "createdAt": "2026-06-20T17:39:55.645Z",
+    "updatedAt": "2026-06-20T17:39:55.645Z"
   },
   {
     "id": "bc8fcef867b662c9",
@@ -24,8 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a3697b69a79478df6ec7c2a",
     "publishedAt": "2026-06-20T14:11:32.000Z",
-    "createdAt": "2026-06-20T15:05:29.847Z",
-    "updatedAt": "2026-06-20T15:05:29.847Z"
+    "createdAt": "2026-06-20T17:39:57.872Z",
+    "updatedAt": "2026-06-20T17:39:57.872Z"
   },
   {
     "id": "c333834736acb69a",
@@ -38,8 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a304aab9a7947b105e63d08",
     "publishedAt": "2026-06-20T13:58:31.000Z",
-    "createdAt": "2026-06-20T15:05:28.603Z",
-    "updatedAt": "2026-06-20T15:05:28.603Z"
+    "createdAt": "2026-06-20T17:39:56.699Z",
+    "updatedAt": "2026-06-20T17:39:56.699Z"
   },
   {
     "id": "1e8d6a52f8114d49",
@@ -52,91 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a368ccf9a79472e18cd6630",
     "publishedAt": "2026-06-20T13:32:51.000Z",
-    "createdAt": "2026-06-20T15:05:30.658Z",
-    "updatedAt": "2026-06-20T15:05:30.658Z"
-  },
-  {
-    "id": "25087679c94f4fbb",
-    "title": "Алексей Швед продлил контракт с УНИКСом",
-    "sport": "Баскетбол",
-    "category": "Баскетбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/1/18/347819598523181.jpeg",
-    "teaser": "Алексей Швед продлил контракт с УНИКСом",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a2da28b9a794754d2ed8e51",
-    "publishedAt": "2026-06-20T12:54:16.000Z",
-    "createdAt": "2026-06-20T15:05:32.613Z",
-    "updatedAt": "2026-06-20T15:05:32.613Z"
-  },
-  {
-    "id": "68e045fb18d26fe5",
-    "title": "WBA отказалась от весовой категории «бриджервейт» с российским чемпионом",
-    "sport": "Единоборства",
-    "category": "Единоборства",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/9/66/347819592220669.jpeg",
-    "teaser": "WBA отказалась от весовой категории «бриджервейт» с российским чемпионом",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a36839f9a794742a2f98e9c",
-    "publishedAt": "2026-06-20T12:48:58.000Z",
-    "createdAt": "2026-06-20T15:05:31.635Z",
-    "updatedAt": "2026-06-20T15:05:31.635Z"
-  },
-  {
-    "id": "19cf7e382bc81990",
-    "title": "Пьяный водитель сбил шестерых фанатов в Мексике после матча ЧМ-2026",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/4/27/347819558528274.jpeg",
-    "teaser": "Пьяный водитель сбил шестерых фанатов в Мексике после матча ЧМ-2026",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a31a10a9a79471546c9ace1",
-    "publishedAt": "2026-06-20T11:52:59.000Z",
-    "createdAt": "2026-06-20T15:05:34.700Z",
-    "updatedAt": "2026-06-20T15:05:34.700Z"
-  },
-  {
-    "id": "62dc687df2e5b757",
-    "title": "Бывший футболист «Реала» Гаго перенес операцию из-за проблем с сердцем",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/3/93/347819532983933.jpeg",
-    "teaser": "Бывший футболист «Реала» Гаго перенес операцию из-за проблем с сердцем",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a31c19a9a7947f16fb9a407",
-    "publishedAt": "2026-06-20T11:16:26.000Z",
-    "createdAt": "2026-06-20T15:05:33.640Z",
-    "updatedAt": "2026-06-20T15:05:33.640Z"
-  },
-  {
-    "id": "e4f17df72a4ea97c",
-    "title": "Акинфеев заявил, что может не успеть восстановиться к старту сезона РПЛ",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/7/09/347819523658097.jpeg",
-    "teaser": "Акинфеев заявил, что может не успеть восстановиться к старту сезона РПЛ",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a3060599a79470e360ed092",
-    "publishedAt": "2026-06-20T10:52:00.000Z",
-    "createdAt": "2026-06-20T15:05:35.703Z",
-    "updatedAt": "2026-06-20T15:05:35.703Z"
-  },
-  {
-    "id": "9a4d1e7570dac4d2",
-    "title": "Почему на ЧМ запретили класть на землю флаги Саудовской Аравии и Ирака",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/7/79/347819482462797.jpeg",
-    "teaser": "Почему на ЧМ запретили класть на землю флаги Саудовской Аравии и Ирака",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a34467b9a7947502e3795d5",
-    "publishedAt": "2026-06-20T10:01:43.000Z",
-    "createdAt": "2026-06-20T15:05:36.718Z",
-    "updatedAt": "2026-06-20T15:05:36.718Z"
+    "createdAt": "2026-06-20T17:39:59.036Z",
+    "updatedAt": "2026-06-20T17:39:59.036Z"
   }
 ]
