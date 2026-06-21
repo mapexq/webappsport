@@ -1,5 +1,33 @@
 [
   {
+    "id": "d4b789370d2b101a",
+    "title": "Сборная Испании одержала одну из крупнейших побед на чемпионатах мира",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/9/15/347820626868159.jpeg",
+    "teaser": "Сборная Испании одержала одну из крупнейших побед на чемпионатах мира",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a381e379a79474d9dde5f50",
+    "publishedAt": "2026-06-21T18:01:50.000Z",
+    "createdAt": "2026-06-21T18:21:22.928Z",
+    "updatedAt": "2026-06-21T18:21:22.928Z"
+  },
+  {
+    "id": "7cad391b9362fdb2",
+    "title": "Тренер «Металлурга» рассказал, как мошенники угрожали его 16-летнему сыну",
+    "sport": "Хоккей",
+    "category": "Хоккей",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/9/19/347820564581199.png",
+    "teaser": "Тренер «Металлурга» рассказал, как мошенники угрожали его 16-летнему сыну",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a3805ba9a794737e7859b44",
+    "publishedAt": "2026-06-21T17:15:21.000Z",
+    "createdAt": "2026-06-21T18:21:23.915Z",
+    "updatedAt": "2026-06-21T18:21:23.915Z"
+  },
+  {
     "id": "6891c1372d616922",
     "title": "Ламин Ямаль забил дебютный гол за Испанию на ЧМ-2026",
     "sport": "Другое",
@@ -10,8 +38,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a380f0a9a79475779b4dbb6",
     "publishedAt": "2026-06-21T16:37:43.000Z",
-    "createdAt": "2026-06-21T16:48:35.952Z",
-    "updatedAt": "2026-06-21T16:48:35.952Z"
+    "createdAt": "2026-06-21T18:21:24.921Z",
+    "updatedAt": "2026-06-21T18:21:24.921Z"
   },
   {
     "id": "d0e50bbeed3f8545",
@@ -24,8 +52,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a37df679a794704290beca1",
     "publishedAt": "2026-06-21T15:28:24.000Z",
-    "createdAt": "2026-06-21T16:48:39.334Z",
-    "updatedAt": "2026-06-21T16:48:39.334Z"
+    "createdAt": "2026-06-21T18:21:28.067Z",
+    "updatedAt": "2026-06-21T18:21:28.067Z"
   },
   {
     "id": "c8a7b8ff827bf18b",
@@ -38,8 +66,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a37e5e19a7947baa92e8873",
     "publishedAt": "2026-06-21T15:17:24.000Z",
-    "createdAt": "2026-06-21T16:48:37.116Z",
-    "updatedAt": "2026-06-21T16:48:37.116Z"
+    "createdAt": "2026-06-21T18:21:25.980Z",
+    "updatedAt": "2026-06-21T18:21:25.980Z"
   },
   {
     "id": "90c97623fa737501",
@@ -52,8 +80,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a37f7d49a79476860e286d5",
     "publishedAt": "2026-06-21T14:55:37.000Z",
-    "createdAt": "2026-06-21T16:48:38.248Z",
-    "updatedAt": "2026-06-21T16:48:38.248Z"
+    "createdAt": "2026-06-21T18:21:27.049Z",
+    "updatedAt": "2026-06-21T18:21:27.049Z"
   },
   {
     "id": "3c7c56e4dfb99f31",
@@ -66,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a37f2e29a794713c618c308",
     "publishedAt": "2026-06-21T14:34:08.000Z",
-    "createdAt": "2026-06-21T16:48:41.949Z",
-    "updatedAt": "2026-06-21T16:48:41.949Z"
+    "createdAt": "2026-06-21T18:21:30.375Z",
+    "updatedAt": "2026-06-21T18:21:30.375Z"
   },
   {
     "id": "d6b3582f12090b85",
@@ -80,8 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a37e4b29a7947b07f09d7fc",
     "publishedAt": "2026-06-21T13:41:13.000Z",
-    "createdAt": "2026-06-21T16:48:43.087Z",
-    "updatedAt": "2026-06-21T16:48:43.087Z"
+    "createdAt": "2026-06-21T18:21:31.360Z",
+    "updatedAt": "2026-06-21T18:21:31.360Z"
   },
   {
     "id": "2498f03a1cb8d21e",
@@ -94,22 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a37d39e9a7947d5a1145c53",
     "publishedAt": "2026-06-21T12:32:38.000Z",
-    "createdAt": "2026-06-21T16:48:44.237Z",
-    "updatedAt": "2026-06-21T16:48:44.237Z"
-  },
-  {
-    "id": "d8c9d19fb1319fe4",
-    "title": "В ЦСКА допустили восстановление Акинфеева к старту сезона РПЛ",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/2/88/347820379844882.jpeg",
-    "teaser": "В ЦСКА допустили восстановление Акинфеева к старту сезона РПЛ",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a37bad69a7947a2bffea8b7",
-    "publishedAt": "2026-06-21T12:02:46.000Z",
-    "createdAt": "2026-06-21T16:48:45.427Z",
-    "updatedAt": "2026-06-21T16:48:45.427Z"
+    "createdAt": "2026-06-21T18:21:32.438Z",
+    "updatedAt": "2026-06-21T18:21:32.438Z"
   },
   {
     "id": "adfb15f3a1c6f6c7",
@@ -122,21 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a3563ad9a7947362bbb97c7",
     "publishedAt": "2026-06-21T10:39:00.000Z",
-    "createdAt": "2026-06-21T16:48:40.746Z",
-    "updatedAt": "2026-06-21T16:48:40.746Z"
-  },
-  {
-    "id": "81a47bb1f6849d77",
-    "title": "Какие сенсации произошли на старте чемпионата мира",
-    "sport": "Другое",
-    "category": "ЧМ-2026",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/6/46/347817084963466.jpeg",
-    "teaser": "Какие сенсации произошли на старте чемпионата мира",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a32a2189a79470b27770124",
-    "publishedAt": "2026-06-21T09:19:07.000Z",
-    "createdAt": "2026-06-21T16:48:46.509Z",
-    "updatedAt": "2026-06-21T16:48:46.509Z"
+    "createdAt": "2026-06-21T18:21:29.357Z",
+    "updatedAt": "2026-06-21T18:21:29.357Z"
   }
 ]
