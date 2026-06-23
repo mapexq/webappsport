@@ -1,5 +1,61 @@
 [
   {
+    "id": "13e55aa19c03b83b",
+    "title": "Россиянка стала первой соперницей Мирры Андреевой после «Ролан Гаррос»",
+    "sport": "Теннис",
+    "category": "Теннис",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/7/69/347822145369697.jpeg",
+    "teaser": "Россиянка стала первой соперницей Мирры Андреевой после «Ролан Гаррос»",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a3a6f4d9a79479c4b42cd4c",
+    "publishedAt": "2026-06-23T12:01:19.000Z",
+    "createdAt": "2026-06-23T12:37:40.943Z",
+    "updatedAt": "2026-06-23T12:37:40.943Z"
+  },
+  {
+    "id": "1ce3dd3394a40eec",
+    "title": "Тренер сборной Португалии назвал Роналду иконой и примером для подражания",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/5/35/347822137967355.jpeg",
+    "teaser": "Тренер сборной Португалии назвал Роналду иконой и примером для подражания",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a3a6c709a7947a086d47721",
+    "publishedAt": "2026-06-23T11:56:10.000Z",
+    "createdAt": "2026-06-23T12:37:42.180Z",
+    "updatedAt": "2026-06-23T12:37:42.180Z"
+  },
+  {
+    "id": "4240872e6192eff9",
+    "title": "World Gymnastics изменила правила после случаев с россиянкой и украинкой",
+    "sport": "Другое",
+    "category": "Другие",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/5/12/347822108926125.jpeg",
+    "teaser": "World Gymnastics изменила правила после случаев с россиянкой и украинкой",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a3a5aaa9a794755c04193c0",
+    "publishedAt": "2026-06-23T10:40:31.000Z",
+    "createdAt": "2026-06-23T12:37:43.239Z",
+    "updatedAt": "2026-06-23T12:37:43.239Z"
+  },
+  {
+    "id": "1198655e32428f63",
+    "title": "Иностранный клуб снова примет участие в Единой лиге ВТБ",
+    "sport": "Баскетбол",
+    "category": "Баскетбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/9/66/347822088310669.jpeg",
+    "teaser": "Иностранный клуб снова примет участие в Единой лиге ВТБ",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a3a54c99a7947787b8645f5",
+    "publishedAt": "2026-06-23T10:06:34.000Z",
+    "createdAt": "2026-06-23T12:37:44.309Z",
+    "updatedAt": "2026-06-23T12:37:44.309Z"
+  },
+  {
     "id": "5ef5948c14f38912",
     "title": "Почему на чемпионате мира 2026 у футболистов рвутся футболки?",
     "sport": "Футбол",
@@ -10,8 +66,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a3a45c99a79475812aa2c99",
     "publishedAt": "2026-06-23T09:33:49.000Z",
-    "createdAt": "2026-06-23T09:52:38.407Z",
-    "updatedAt": "2026-06-23T09:52:38.407Z"
+    "createdAt": "2026-06-23T12:37:45.425Z",
+    "updatedAt": "2026-06-23T12:37:45.425Z"
   },
   {
     "id": "9482ac1d6776154e",
@@ -24,8 +80,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a3a3c2d9a7947dfdb83798b",
     "publishedAt": "2026-06-23T08:57:17.000Z",
-    "createdAt": "2026-06-23T09:52:41.403Z",
-    "updatedAt": "2026-06-23T09:52:41.403Z"
+    "createdAt": "2026-06-23T12:37:48.597Z",
+    "updatedAt": "2026-06-23T12:37:48.597Z"
   },
   {
     "id": "8c412f1213e44d60",
@@ -38,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a390e1c9a79470a5cbb42d9",
     "publishedAt": "2026-06-23T08:40:40.000Z",
-    "createdAt": "2026-06-23T09:52:40.285Z",
-    "updatedAt": "2026-06-23T09:52:40.285Z"
+    "createdAt": "2026-06-23T12:37:47.419Z",
+    "updatedAt": "2026-06-23T12:37:47.419Z"
   },
   {
     "id": "d73831c264a7b331",
@@ -52,8 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a3a3f179a79476e43989c05",
     "publishedAt": "2026-06-23T08:22:18.000Z",
-    "createdAt": "2026-06-23T09:52:42.487Z",
-    "updatedAt": "2026-06-23T09:52:42.487Z"
+    "createdAt": "2026-06-23T12:37:49.647Z",
+    "updatedAt": "2026-06-23T12:37:49.647Z"
   },
   {
     "id": "fa22fdfb148523ea",
@@ -66,8 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a3a26ce9a794700c34b792e",
     "publishedAt": "2026-06-23T08:09:12.000Z",
-    "createdAt": "2026-06-23T09:52:43.529Z",
-    "updatedAt": "2026-06-23T09:52:43.529Z"
+    "createdAt": "2026-06-23T12:37:50.661Z",
+    "updatedAt": "2026-06-23T12:37:50.661Z"
   },
   {
     "id": "a83b0b0776a6c4df",
@@ -80,63 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a3a34b39a7947b16af40fe9",
     "publishedAt": "2026-06-23T08:03:05.000Z",
-    "createdAt": "2026-06-23T09:52:44.604Z",
-    "updatedAt": "2026-06-23T09:52:44.604Z"
-  },
-  {
-    "id": "d1061a6ef57d5756",
-    "title": "ЕSPN узнал о предстоящем обмене одного из лучших игроков НБА",
-    "sport": "Баскетбол",
-    "category": "Баскетбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/9/39/347821991274399.jpeg",
-    "teaser": "ЕSPN узнал о предстоящем обмене одного из лучших игроков НБА",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a3a332e9a7947bb6c347d4a",
-    "publishedAt": "2026-06-23T07:42:13.000Z",
-    "createdAt": "2026-06-23T09:52:45.669Z",
-    "updatedAt": "2026-06-23T09:52:45.669Z"
-  },
-  {
-    "id": "7982beadfd9bf663",
-    "title": "Сын Зидана помог Алжиру одержать первую победу на ЧМ впервые за 12 лет",
-    "sport": "Другое",
-    "category": "ЧМ-2026",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/0/46/347821509601460.jpeg",
-    "teaser": "Сын Зидана помог Алжиру одержать первую победу на ЧМ впервые за 12 лет",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a396fab9a79476b069d2361",
-    "publishedAt": "2026-06-23T06:58:39.000Z",
-    "createdAt": "2026-06-23T09:52:46.745Z",
-    "updatedAt": "2026-06-23T09:52:46.745Z"
-  },
-  {
-    "id": "be90cd0e4ed5e17e",
-    "title": "Сборная Испании прервала тренировку из-за сильной грозы на ЧМ-2026",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/7/10/347821950498107.jpeg",
-    "teaser": "Сборная Испании прервала тренировку из-за сильной грозы на ЧМ-2026",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a3a1d5c9a7947b8a96abf49",
-    "publishedAt": "2026-06-23T06:32:29.000Z",
-    "createdAt": "2026-06-23T09:52:47.807Z",
-    "updatedAt": "2026-06-23T09:52:47.807Z"
-  },
-  {
-    "id": "30c6ccc7e2a5c5ee",
-    "title": "Прервет ли Роналду «засуху» в матче с Узбекистаном. Главное о 13-м дне ЧМ",
-    "sport": "Другое",
-    "category": "ЧМ-2026",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/6/69/347821392484696.jpeg",
-    "teaser": "Прервет ли Роналду «засуху» в матче с Узбекистаном. Главное о 13-м дне ЧМ",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a38ea849a794796da29347b",
-    "publishedAt": "2026-06-23T05:38:57.000Z",
-    "createdAt": "2026-06-23T09:52:48.961Z",
-    "updatedAt": "2026-06-23T09:52:48.961Z"
+    "createdAt": "2026-06-23T12:37:51.756Z",
+    "updatedAt": "2026-06-23T12:37:51.756Z"
   }
 ]
