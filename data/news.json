@@ -1,5 +1,75 @@
 [
   {
+    "id": "abe4248e13aff0ca",
+    "title": "Сборная Боснии и Герцеговина выбила Катар с ЧМ-2026",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/5/21/347823306614215.jpeg",
+    "teaser": "Сборная Боснии и Герцеговина выбила Катар с ЧМ-2026",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a3c211c9a7947fb48c95794",
+    "publishedAt": "2026-06-24T21:10:43.000Z",
+    "createdAt": "2026-06-24T21:26:31.670Z",
+    "updatedAt": "2026-06-24T21:26:31.670Z"
+  },
+  {
+    "id": "444bc6b7cb037ad8",
+    "title": "Сборные Швейцарии и Канады вышли в плей-офф ЧМ-2026",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/3/65/347823268505653.jpeg",
+    "teaser": "Сборные Швейцарии и Канады вышли в плей-офф ЧМ-2026",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a3c22df9a7947147f407543",
+    "publishedAt": "2026-06-24T21:09:09.000Z",
+    "createdAt": "2026-06-24T21:26:32.777Z",
+    "updatedAt": "2026-06-24T21:26:32.777Z"
+  },
+  {
+    "id": "ca4f9777293699ac",
+    "title": "Кто вышел в плей-офф чемпионата мира-2026",
+    "sport": "Другое",
+    "category": "ЧМ-2026",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/6/27/347823200422276.jpeg",
+    "teaser": "Кто вышел в плей-офф чемпионата мира-2026",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a3c05be9a794733eb978fa7",
+    "publishedAt": "2026-06-24T21:02:15.000Z",
+    "createdAt": "2026-06-24T21:26:30.497Z",
+    "updatedAt": "2026-06-24T21:26:30.497Z"
+  },
+  {
+    "id": "50e8ebc5a4b69b07",
+    "title": "Ведущие теннисисты ограничат общение со СМИ на Уимблдоне в знак протеста",
+    "sport": "Теннис",
+    "category": "Теннис",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/1/89/347823296801891.jpeg",
+    "teaser": "Ведущие теннисисты ограничат общение со СМИ на Уимблдоне в знак протеста",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a3c2cb79a794740d4505e1f",
+    "publishedAt": "2026-06-24T20:16:29.000Z",
+    "createdAt": "2026-06-24T21:26:35.040Z",
+    "updatedAt": "2026-06-24T21:26:35.040Z"
+  },
+  {
+    "id": "00ad27d3bbda762c",
+    "title": "В Румынии потребовали отказаться от гимна и флага России на соревнованиях",
+    "sport": "Другое",
+    "category": "Другие",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/1/65/347823317530651.jpeg",
+    "teaser": "В Румынии потребовали отказаться от гимна и флага России на соревнованиях",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a3c36859a79472107a187b6",
+    "publishedAt": "2026-06-24T20:14:46.000Z",
+    "createdAt": "2026-06-24T21:26:33.917Z",
+    "updatedAt": "2026-06-24T21:26:33.917Z"
+  },
+  {
     "id": "5f0238f4c6699d48",
     "title": "В МОК заявили, что нужно больше времени для решения российского вопроса",
     "sport": "Другое",
@@ -10,8 +80,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a3c0eb59a7947bfb3bae451",
     "publishedAt": "2026-06-24T17:22:45.000Z",
-    "createdAt": "2026-06-24T19:53:22.946Z",
-    "updatedAt": "2026-06-24T19:53:22.946Z"
+    "createdAt": "2026-06-24T21:26:36.177Z",
+    "updatedAt": "2026-06-24T21:26:36.177Z"
   },
   {
     "id": "f950f2c232d51f2b",
@@ -24,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a3bf0279a794703ca0921c9",
     "publishedAt": "2026-06-24T16:29:04.000Z",
-    "createdAt": "2026-06-24T19:53:23.976Z",
-    "updatedAt": "2026-06-24T19:53:23.976Z"
+    "createdAt": "2026-06-24T21:26:37.276Z",
+    "updatedAt": "2026-06-24T21:26:37.276Z"
   },
   {
     "id": "e882b724d24239c4",
@@ -38,8 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a3bf86f9a79474b7e7ad771",
     "publishedAt": "2026-06-24T15:50:30.000Z",
-    "createdAt": "2026-06-24T19:53:25.023Z",
-    "updatedAt": "2026-06-24T19:53:25.023Z"
+    "createdAt": "2026-06-24T21:26:38.396Z",
+    "updatedAt": "2026-06-24T21:26:38.396Z"
   },
   {
     "id": "34332a2903cc6d31",
@@ -52,36 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a3bf2f59a7947426464dcaf",
     "publishedAt": "2026-06-24T15:49:02.000Z",
-    "createdAt": "2026-06-24T19:53:26.059Z",
-    "updatedAt": "2026-06-24T19:53:26.059Z"
-  },
-  {
-    "id": "f695909bf57659a4",
-    "title": "Гендиректор ФХР Курбатов утвержден кандидатом на выборах в совет IIHF",
-    "sport": "Хоккей",
-    "category": "Хоккей",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/9/63/347823128220639.jpeg",
-    "teaser": "Гендиректор ФХР Курбатов утвержден кандидатом на выборах в совет IIHF",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a3bed689a7947cb78c65961",
-    "publishedAt": "2026-06-24T14:59:04.000Z",
-    "createdAt": "2026-06-24T19:53:28.133Z",
-    "updatedAt": "2026-06-24T19:53:28.133Z"
-  },
-  {
-    "id": "062fc81c54f3322a",
-    "title": "Суперкомпьютер назвал нового фаворита ЧМ-2026",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/1/80/347823114834801.jpeg",
-    "teaser": "Суперкомпьютер назвал нового фаворита ЧМ-2026",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a3be5f99a79470c48c27261",
-    "publishedAt": "2026-06-24T14:38:27.000Z",
-    "createdAt": "2026-06-24T19:53:29.263Z",
-    "updatedAt": "2026-06-24T19:53:29.263Z"
+    "createdAt": "2026-06-24T21:26:39.557Z",
+    "updatedAt": "2026-06-24T21:26:39.557Z"
   },
   {
     "id": "74c1aa82aa550012",
@@ -94,49 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a3be1b59a7947d0f328dde0",
     "publishedAt": "2026-06-24T14:19:25.000Z",
-    "createdAt": "2026-06-24T19:53:27.083Z",
-    "updatedAt": "2026-06-24T19:53:27.083Z"
-  },
-  {
-    "id": "86d43b96e1151fad",
-    "title": "Фигуристка Луна Хендрикс завершила карьеру",
-    "sport": "Другое",
-    "category": "Фигурное катание",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/2/55/347823091304552.jpeg",
-    "teaser": "Фигуристка Луна Хендрикс завершила карьеру",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a3bdda39a7947c04cb58c84",
-    "publishedAt": "2026-06-24T14:03:42.000Z",
-    "createdAt": "2026-06-24T19:53:30.403Z",
-    "updatedAt": "2026-06-24T19:53:30.403Z"
-  },
-  {
-    "id": "42cc5e977641626e",
-    "title": "Калинская проиграла 105-й ракетке мира на турнире в Германии",
-    "sport": "Теннис",
-    "category": "Теннис",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/4/51/347823060061514.jpeg",
-    "teaser": "Калинская проиграла 105-й ракетке мира на турнире в Германии",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a3bd4b09a7947de2df7be39",
-    "publishedAt": "2026-06-24T13:11:08.000Z",
-    "createdAt": "2026-06-24T19:53:32.602Z",
-    "updatedAt": "2026-06-24T19:53:32.602Z"
-  },
-  {
-    "id": "e107a25602e2b7a5",
-    "title": "Месси ответил на вопрос об участии в ЧМ-2030",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/9/26/347823034912269.jpeg",
-    "teaser": "Месси ответил на вопрос об участии в ЧМ-2030",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a3bcadd9a7947072a20aef4",
-    "publishedAt": "2026-06-24T13:09:42.000Z",
-    "createdAt": "2026-06-24T19:53:31.506Z",
-    "updatedAt": "2026-06-24T19:53:31.506Z"
+    "createdAt": "2026-06-24T21:26:40.731Z",
+    "updatedAt": "2026-06-24T21:26:40.731Z"
   }
 ]
