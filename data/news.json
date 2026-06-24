@@ -1,17 +1,59 @@
 [
   {
-    "id": "abe4248e13aff0ca",
-    "title": "Сборная Боснии и Герцеговина выбила Катар с ЧМ-2026",
+    "id": "f5262b440f210cec",
+    "title": "Забивший гол канадский футболист побил достижение Артема Дзюбы на ЧМ",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/8/13/347823386814138.jpeg",
+    "teaser": "Забивший гол канадский футболист побил достижение Артема Дзюбы на ЧМ",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a3c52b49a7947fd3cda07a8",
+    "publishedAt": "2026-06-24T22:49:22.000Z",
+    "createdAt": "2026-06-24T23:10:24.615Z",
+    "updatedAt": "2026-06-24T23:10:24.615Z"
+  },
+  {
+    "id": "caac7070bb17d061",
+    "title": "Российского хоккеиста обменяли из «Нэшвилла» в «Колорадо»",
+    "sport": "Хоккей",
+    "category": "Хоккей",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/7/42/347823407449427.jpeg",
+    "teaser": "Российского хоккеиста обменяли из «Нэшвилла» в «Колорадо»",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a3c5b209a79476abbab3d2f",
+    "publishedAt": "2026-06-24T22:46:20.000Z",
+    "createdAt": "2026-06-24T23:10:25.714Z",
+    "updatedAt": "2026-06-24T23:10:25.714Z"
+  },
+  {
+    "id": "51f192a0b54c0472",
+    "title": "Капитан «Зенита» в третий раз подряд сыграет в старте Бразилии на ЧМ-2026",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/3/61/347823363806613.jpeg",
+    "teaser": "Капитан «Зенита» в третий раз подряд сыграет в старте Бразилии на ЧМ-2026",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a3c48b79a79477941648737",
+    "publishedAt": "2026-06-24T21:31:11.000Z",
+    "createdAt": "2026-06-24T23:10:28.071Z",
+    "updatedAt": "2026-06-24T23:10:28.071Z"
+  },
+  {
+    "id": "ec1cdfb1f6e4bd7d",
+    "title": "Сборная Боснии и Герцеговины выбила Катар с ЧМ-2026",
     "sport": "Футбол",
     "category": "Футбол",
     "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/5/21/347823306614215.jpeg",
-    "teaser": "Сборная Боснии и Герцеговина выбила Катар с ЧМ-2026",
+    "teaser": "Сборная Боснии и Герцеговины выбила Катар с ЧМ-2026",
     "fullContent": "",
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a3c211c9a7947fb48c95794",
     "publishedAt": "2026-06-24T21:10:43.000Z",
-    "createdAt": "2026-06-24T21:26:31.670Z",
-    "updatedAt": "2026-06-24T21:26:31.670Z"
+    "createdAt": "2026-06-24T23:10:29.236Z",
+    "updatedAt": "2026-06-24T23:10:29.236Z"
   },
   {
     "id": "444bc6b7cb037ad8",
@@ -24,8 +66,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a3c22df9a7947147f407543",
     "publishedAt": "2026-06-24T21:09:09.000Z",
-    "createdAt": "2026-06-24T21:26:32.777Z",
-    "updatedAt": "2026-06-24T21:26:32.777Z"
+    "createdAt": "2026-06-24T23:10:30.358Z",
+    "updatedAt": "2026-06-24T23:10:30.358Z"
   },
   {
     "id": "ca4f9777293699ac",
@@ -38,8 +80,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a3c05be9a794733eb978fa7",
     "publishedAt": "2026-06-24T21:02:15.000Z",
-    "createdAt": "2026-06-24T21:26:30.497Z",
-    "updatedAt": "2026-06-24T21:26:30.497Z"
+    "createdAt": "2026-06-24T23:10:26.735Z",
+    "updatedAt": "2026-06-24T23:10:26.735Z"
   },
   {
     "id": "50e8ebc5a4b69b07",
@@ -52,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a3c2cb79a794740d4505e1f",
     "publishedAt": "2026-06-24T20:16:29.000Z",
-    "createdAt": "2026-06-24T21:26:35.040Z",
-    "updatedAt": "2026-06-24T21:26:35.040Z"
+    "createdAt": "2026-06-24T23:10:32.574Z",
+    "updatedAt": "2026-06-24T23:10:32.574Z"
   },
   {
     "id": "00ad27d3bbda762c",
@@ -66,8 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a3c36859a79472107a187b6",
     "publishedAt": "2026-06-24T20:14:46.000Z",
-    "createdAt": "2026-06-24T21:26:33.917Z",
-    "updatedAt": "2026-06-24T21:26:33.917Z"
+    "createdAt": "2026-06-24T23:10:31.441Z",
+    "updatedAt": "2026-06-24T23:10:31.441Z"
   },
   {
     "id": "5f0238f4c6699d48",
@@ -80,8 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a3c0eb59a7947bfb3bae451",
     "publishedAt": "2026-06-24T17:22:45.000Z",
-    "createdAt": "2026-06-24T21:26:36.177Z",
-    "updatedAt": "2026-06-24T21:26:36.177Z"
+    "createdAt": "2026-06-24T23:10:33.680Z",
+    "updatedAt": "2026-06-24T23:10:33.680Z"
   },
   {
     "id": "f950f2c232d51f2b",
@@ -94,49 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a3bf0279a794703ca0921c9",
     "publishedAt": "2026-06-24T16:29:04.000Z",
-    "createdAt": "2026-06-24T21:26:37.276Z",
-    "updatedAt": "2026-06-24T21:26:37.276Z"
-  },
-  {
-    "id": "e882b724d24239c4",
-    "title": "РФС опубликовал календарь матчей клубов РПЛ в Кубке России",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/5/41/347823151330415.png",
-    "teaser": "РФС опубликовал календарь матчей клубов РПЛ в Кубке России",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a3bf86f9a79474b7e7ad771",
-    "publishedAt": "2026-06-24T15:50:30.000Z",
-    "createdAt": "2026-06-24T21:26:38.396Z",
-    "updatedAt": "2026-06-24T21:26:38.396Z"
-  },
-  {
-    "id": "34332a2903cc6d31",
-    "title": "РПЛ опубликовала календарь на новый сезон",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/3/91/347823138000913.png",
-    "teaser": "РПЛ опубликовала календарь на новый сезон",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a3bf2f59a7947426464dcaf",
-    "publishedAt": "2026-06-24T15:49:02.000Z",
-    "createdAt": "2026-06-24T21:26:39.557Z",
-    "updatedAt": "2026-06-24T21:26:39.557Z"
-  },
-  {
-    "id": "74c1aa82aa550012",
-    "title": "МОК принял поправки в хартию об усилении политического нейтралитета",
-    "sport": "Другое",
-    "category": "Другие",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/6/82/347823094230826.jpeg",
-    "teaser": "МОК принял поправки в хартию об усилении политического нейтралитета",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a3be1b59a7947d0f328dde0",
-    "publishedAt": "2026-06-24T14:19:25.000Z",
-    "createdAt": "2026-06-24T21:26:40.731Z",
-    "updatedAt": "2026-06-24T21:26:40.731Z"
+    "createdAt": "2026-06-24T23:10:34.784Z",
+    "updatedAt": "2026-06-24T23:10:34.784Z"
   }
 ]
