@@ -1,17 +1,73 @@
 [
   {
-    "id": "86c412550536ef1b",
-    "title": "ФИФА разрешила российским юношеским сборным участвовать в ЮЧМ-2026",
+    "id": "cefc8ebfc0a8590f",
+    "title": "В команде Усика заявили, что он может завершить карьеру в ближайшее время",
+    "sport": "Единоборства",
+    "category": "Единоборства",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/9/04/347823846196049.jpeg",
+    "teaser": "В команде Усика заявили, что он может завершить карьеру в ближайшее время",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a3d07b79a79474a66ac405f",
+    "publishedAt": "2026-06-25T11:12:48.000Z",
+    "createdAt": "2026-06-25T11:43:15.439Z",
+    "updatedAt": "2026-06-25T11:43:15.439Z"
+  },
+  {
+    "id": "11e35c896d45415f",
+    "title": "Роналду подвергли тщательному досмотру в аэропорту на ЧМ-2026",
+    "sport": "Другое",
+    "category": "ЧМ-2026",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/8/47/347823849378478.jpeg",
+    "teaser": "Роналду подвергли тщательному досмотру в аэропорту на ЧМ-2026",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a3d08c39a7947b62b1a0950",
+    "publishedAt": "2026-06-25T10:56:57.000Z",
+    "createdAt": "2026-06-25T11:43:13.392Z",
+    "updatedAt": "2026-06-25T11:43:13.392Z"
+  },
+  {
+    "id": "44d785d43aa1902a",
+    "title": "Автомобиль въехал в толпу болельщиков в Мексике после матча ЧМ-2026",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/6/84/347823829220846.png",
+    "teaser": "Автомобиль въехал в толпу болельщиков в Мексике после матча ЧМ-2026",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a3cf9e19a79477d42dbd667",
+    "publishedAt": "2026-06-25T10:27:56.000Z",
+    "createdAt": "2026-06-25T11:43:14.419Z",
+    "updatedAt": "2026-06-25T11:43:14.419Z"
+  },
+  {
+    "id": "15a36f89c82ba29c",
+    "title": "Вылетевший из РПЛ клуб назвал тренера на следующий сезон",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/9/26/347823789122269.png",
+    "teaser": "Вылетевший из РПЛ клуб назвал тренера на следующий сезон",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a3cf15b9a79476c004182dd",
+    "publishedAt": "2026-06-25T09:27:26.000Z",
+    "createdAt": "2026-06-25T11:43:20.332Z",
+    "updatedAt": "2026-06-25T11:43:20.332Z"
+  },
+  {
+    "id": "7a0d4ab1fe815b7a",
+    "title": "ФИФА разрешила сборным России участвовать в юношеском ЧМ-2026",
     "sport": "Другое",
     "category": "ЧМ-2026",
     "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/8/52/347810896297528.png",
-    "teaser": "ФИФА разрешила российским юношеским сборным участвовать в ЮЧМ-2026",
+    "teaser": "ФИФА разрешила сборным России участвовать в юношеском ЧМ-2026",
     "fullContent": "",
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a3cd3839a794713622678b2",
     "publishedAt": "2026-06-25T07:39:06.000Z",
-    "createdAt": "2026-06-25T08:25:51.360Z",
-    "updatedAt": "2026-06-25T08:25:51.360Z"
+    "createdAt": "2026-06-25T11:43:18.302Z",
+    "updatedAt": "2026-06-25T11:43:18.302Z"
   },
   {
     "id": "eaa45862ad1a9dcf",
@@ -24,8 +80,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a32a2189a79470b27770124",
     "publishedAt": "2026-06-25T06:56:16.000Z",
-    "createdAt": "2026-06-25T08:25:52.442Z",
-    "updatedAt": "2026-06-25T08:25:52.442Z"
+    "createdAt": "2026-06-25T11:43:19.332Z",
+    "updatedAt": "2026-06-25T11:43:19.332Z"
   },
   {
     "id": "a43a70d515d72aef",
@@ -38,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a3cc2959a7947f1c5746366",
     "publishedAt": "2026-06-25T06:26:15.000Z",
-    "createdAt": "2026-06-25T08:25:53.528Z",
-    "updatedAt": "2026-06-25T08:25:53.528Z"
+    "createdAt": "2026-06-25T11:43:21.345Z",
+    "updatedAt": "2026-06-25T11:43:21.345Z"
   },
   {
     "id": "43da34ae93158ccb",
@@ -52,8 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a3c05be9a794733eb978fa7",
     "publishedAt": "2026-06-25T05:52:15.000Z",
-    "createdAt": "2026-06-25T08:25:54.600Z",
-    "updatedAt": "2026-06-25T08:25:54.600Z"
+    "createdAt": "2026-06-25T11:43:16.462Z",
+    "updatedAt": "2026-06-25T11:43:16.462Z"
   },
   {
     "id": "558b2e4de1672297",
@@ -66,8 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a3cbaa29a7947009cbdec2d",
     "publishedAt": "2026-06-25T05:38:11.000Z",
-    "createdAt": "2026-06-25T08:25:55.562Z",
-    "updatedAt": "2026-06-25T08:25:55.562Z"
+    "createdAt": "2026-06-25T11:43:23.179Z",
+    "updatedAt": "2026-06-25T11:43:23.179Z"
   },
   {
     "id": "262ba58a75bdba42",
@@ -80,63 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a3bc0d89a794785a3548b5a",
     "publishedAt": "2026-06-25T03:11:17.000Z",
-    "createdAt": "2026-06-25T08:25:56.628Z",
-    "updatedAt": "2026-06-25T08:25:56.628Z"
-  },
-  {
-    "id": "020790742d8fbc81",
-    "title": "Чехия не смогла напрямую выйти в плей-офф чемпионата мира-2026",
-    "sport": "Другое",
-    "category": "ЧМ-2026",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/8/70/347822946091708.jpeg",
-    "teaser": "Чехия не смогла напрямую выйти в плей-офф чемпионата мира-2026",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a3ba1ee9a794722acb081fb",
-    "publishedAt": "2026-06-25T03:05:54.000Z",
-    "createdAt": "2026-06-25T08:25:57.795Z",
-    "updatedAt": "2026-06-25T08:25:57.795Z"
-  },
-  {
-    "id": "f5262b440f210cec",
-    "title": "Забивший гол канадский футболист побил достижение Артема Дзюбы на ЧМ",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/8/13/347823386814138.jpeg",
-    "teaser": "Забивший гол канадский футболист побил достижение Артема Дзюбы на ЧМ",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a3c52b49a7947fd3cda07a8",
-    "publishedAt": "2026-06-24T22:49:22.000Z",
-    "createdAt": "2026-06-25T08:25:58.811Z",
-    "updatedAt": "2026-06-25T08:25:58.811Z"
-  },
-  {
-    "id": "caac7070bb17d061",
-    "title": "Российского хоккеиста обменяли из «Нэшвилла» в «Колорадо»",
-    "sport": "Хоккей",
-    "category": "Хоккей",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/7/42/347823407449427.jpeg",
-    "teaser": "Российского хоккеиста обменяли из «Нэшвилла» в «Колорадо»",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a3c5b209a79476abbab3d2f",
-    "publishedAt": "2026-06-24T22:46:20.000Z",
-    "createdAt": "2026-06-25T08:25:59.900Z",
-    "updatedAt": "2026-06-25T08:25:59.900Z"
-  },
-  {
-    "id": "51f192a0b54c0472",
-    "title": "Капитан «Зенита» в третий раз подряд сыграет в старте Бразилии на ЧМ-2026",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/3/61/347823363806613.jpeg",
-    "teaser": "Капитан «Зенита» в третий раз подряд сыграет в старте Бразилии на ЧМ-2026",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a3c48b79a79477941648737",
-    "publishedAt": "2026-06-24T21:31:11.000Z",
-    "createdAt": "2026-06-25T08:26:01.003Z",
-    "updatedAt": "2026-06-25T08:26:01.003Z"
+    "createdAt": "2026-06-25T11:43:22.366Z",
+    "updatedAt": "2026-06-25T11:43:22.366Z"
   }
 ]
