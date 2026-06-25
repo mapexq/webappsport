@@ -1,5 +1,33 @@
 [
   {
+    "id": "129f4546cc490388",
+    "title": "Экс-рекордсмена мира по бегу отстранили на 7 лет за отказ от допинг-теста",
+    "sport": "Другое",
+    "category": "Другие",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/5/29/347824149904295.jpeg",
+    "teaser": "Экс-рекордсмена мира по бегу отстранили на 7 лет за отказ от допинг-теста",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a3d79e39a79474ccbf46791",
+    "publishedAt": "2026-06-25T19:22:27.000Z",
+    "createdAt": "2026-06-25T20:08:21.322Z",
+    "updatedAt": "2026-06-25T20:08:21.322Z"
+  },
+  {
+    "id": "edf6d9225835c42e",
+    "title": "Моуринью в шутку пожелал игрокам «Реала» вылететь с чемпионата мира",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/2/48/347824098852482.jpeg",
+    "teaser": "Моуринью в шутку пожелал игрокам «Реала» вылететь с чемпионата мира",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a3d674a9a79474476768a14",
+    "publishedAt": "2026-06-25T17:59:58.000Z",
+    "createdAt": "2026-06-25T20:08:22.330Z",
+    "updatedAt": "2026-06-25T20:08:22.330Z"
+  },
+  {
     "id": "eecebefdab6b8afe",
     "title": "Почему на ЧМ мусульманам вручают измененную версию приза лучшему игроку",
     "sport": "Футбол",
@@ -10,8 +38,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a3d40c19a7947bd86d3a9b4",
     "publishedAt": "2026-06-25T16:48:58.000Z",
-    "createdAt": "2026-06-25T17:15:50.277Z",
-    "updatedAt": "2026-06-25T17:15:50.277Z"
+    "createdAt": "2026-06-25T20:08:26.517Z",
+    "updatedAt": "2026-06-25T20:08:26.517Z"
   },
   {
     "id": "387462b80957b65c",
@@ -24,8 +52,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a3d47949a79475cd2d372af",
     "publishedAt": "2026-06-25T16:18:18.000Z",
-    "createdAt": "2026-06-25T17:15:51.324Z",
-    "updatedAt": "2026-06-25T17:15:51.324Z"
+    "createdAt": "2026-06-25T20:08:27.759Z",
+    "updatedAt": "2026-06-25T20:08:27.759Z"
   },
   {
     "id": "7e20deb316b48856",
@@ -38,22 +66,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a3d486d9a79476e21e3bcf8",
     "publishedAt": "2026-06-25T15:54:28.000Z",
-    "createdAt": "2026-06-25T17:15:55.620Z",
-    "updatedAt": "2026-06-25T17:15:55.620Z"
-  },
-  {
-    "id": "3387e192021832d2",
-    "title": "Европейская конфедерация фехтования восстановила членство России",
-    "sport": "Другое",
-    "category": "Другие",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/6/90/347824005423906.png",
-    "teaser": "Европейская конфедерация фехтования восстановила членство России",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a3d44509a7947bd86d3a9f7",
-    "publishedAt": "2026-06-25T15:22:57.000Z",
-    "createdAt": "2026-06-25T17:15:58.523Z",
-    "updatedAt": "2026-06-25T17:15:58.523Z"
+    "createdAt": "2026-06-25T20:08:28.790Z",
+    "updatedAt": "2026-06-25T20:08:28.790Z"
   },
   {
     "id": "3a2fa06469798c6b",
@@ -66,8 +80,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a3d34f79a7947269c9d6635",
     "publishedAt": "2026-06-25T14:54:35.000Z",
-    "createdAt": "2026-06-25T17:15:56.608Z",
-    "updatedAt": "2026-06-25T17:15:56.608Z"
+    "createdAt": "2026-06-25T20:08:29.802Z",
+    "updatedAt": "2026-06-25T20:08:29.802Z"
   },
   {
     "id": "aa66addf6fa1817d",
@@ -80,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a2fe79f9a7947e901d94eaa",
     "publishedAt": "2026-06-25T12:54:23.000Z",
-    "createdAt": "2026-06-25T17:15:52.602Z",
-    "updatedAt": "2026-06-25T17:15:52.602Z"
+    "createdAt": "2026-06-25T20:08:23.424Z",
+    "updatedAt": "2026-06-25T20:08:23.424Z"
   },
   {
     "id": "e148b81ff9a813de",
@@ -94,22 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a3d18699a7947706e538c76",
     "publishedAt": "2026-06-25T12:35:46.000Z",
-    "createdAt": "2026-06-25T17:15:57.624Z",
-    "updatedAt": "2026-06-25T17:15:57.624Z"
-  },
-  {
-    "id": "11e35c896d45415f",
-    "title": "Роналду подвергли тщательному досмотру в аэропорту на ЧМ-2026",
-    "sport": "Другое",
-    "category": "ЧМ-2026",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/8/47/347823849378478.jpeg",
-    "teaser": "Роналду подвергли тщательному досмотру в аэропорту на ЧМ-2026",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a3d08c39a7947b62b1a0950",
-    "publishedAt": "2026-06-25T10:56:57.000Z",
-    "createdAt": "2026-06-25T17:15:59.585Z",
-    "updatedAt": "2026-06-25T17:15:59.586Z"
+    "createdAt": "2026-06-25T20:08:31.124Z",
+    "updatedAt": "2026-06-25T20:08:31.124Z"
   },
   {
     "id": "eaa45862ad1a9dcf",
@@ -122,8 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a32a2189a79470b27770124",
     "publishedAt": "2026-06-25T06:56:16.000Z",
-    "createdAt": "2026-06-25T17:15:54.705Z",
-    "updatedAt": "2026-06-25T17:15:54.705Z"
+    "createdAt": "2026-06-25T20:08:25.450Z",
+    "updatedAt": "2026-06-25T20:08:25.450Z"
   },
   {
     "id": "43da34ae93158ccb",
@@ -136,7 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a3c05be9a794733eb978fa7",
     "publishedAt": "2026-06-25T05:52:15.000Z",
-    "createdAt": "2026-06-25T17:15:53.632Z",
-    "updatedAt": "2026-06-25T17:15:53.632Z"
+    "createdAt": "2026-06-25T20:08:24.432Z",
+    "updatedAt": "2026-06-25T20:08:24.432Z"
   }
 ]
