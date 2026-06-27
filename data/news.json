@@ -1,5 +1,61 @@
 [
   {
+    "id": "81fc9c9a852e98f6",
+    "title": "Капитана сборной Кабо-Верде обвинили в изнасиловании переводчицы",
+    "sport": "Другое",
+    "category": "ЧМ-2026",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/1/78/347825886331781.jpeg",
+    "teaser": "Капитана сборной Кабо-Верде обвинили в изнасиловании переводчицы",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a401da39a79472fa1a1bea8",
+    "publishedAt": "2026-06-27T19:55:59.000Z",
+    "createdAt": "2026-06-27T20:11:52.984Z",
+    "updatedAt": "2026-06-27T20:11:52.984Z"
+  },
+  {
+    "id": "e265170fd91768c3",
+    "title": "Нидерландская пловчиха установила рекорд мира на 100 м вольным стилем",
+    "sport": "Другое",
+    "category": "Другие",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/1/70/347825869809701.jpeg",
+    "teaser": "Нидерландская пловчиха установила рекорд мира на 100 м вольным стилем",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a401cea9a79474bbcfcad9e",
+    "publishedAt": "2026-06-27T19:09:16.000Z",
+    "createdAt": "2026-06-27T20:11:53.980Z",
+    "updatedAt": "2026-06-27T20:11:53.980Z"
+  },
+  {
+    "id": "00be10bc0d43ff01",
+    "title": "Спортдиректор рассказал о планах Усика завершить карьеру боями в США",
+    "sport": "Единоборства",
+    "category": "Единоборства",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/8/30/347825857434308.jpeg",
+    "teaser": "Спортдиректор рассказал о планах Усика завершить карьеру боями в США",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a4015709a794716b1a3b9cb",
+    "publishedAt": "2026-06-27T18:58:32.000Z",
+    "createdAt": "2026-06-27T20:11:54.971Z",
+    "updatedAt": "2026-06-27T20:11:54.971Z"
+  },
+  {
+    "id": "33ea3125e0e87b26",
+    "title": "Журналист узнал о переходе капитана «Краснодара» в саудовский «Аль-Ахли»",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/8/27/347825843493278.jpeg",
+    "teaser": "Журналист узнал о переходе капитана «Краснодара» в саудовский «Аль-Ахли»",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a4010699a794762922aa524",
+    "publishedAt": "2026-06-27T18:34:08.000Z",
+    "createdAt": "2026-06-27T20:11:55.965Z",
+    "updatedAt": "2026-06-27T20:11:55.965Z"
+  },
+  {
     "id": "b365dd8b6914a37a",
     "title": "Клуб НБА «Майами» сделал квалификационное предложение россиянину Голдину",
     "sport": "Баскетбол",
@@ -10,8 +66,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a3ff30a9a794734889e82e5",
     "publishedAt": "2026-06-27T17:50:17.000Z",
-    "createdAt": "2026-06-27T18:08:42.835Z",
-    "updatedAt": "2026-06-27T18:08:42.835Z"
+    "createdAt": "2026-06-27T20:11:57.941Z",
+    "updatedAt": "2026-06-27T20:11:57.941Z"
   },
   {
     "id": "b49dff0e668dcd7c",
@@ -24,8 +80,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a3ffbf89a7947ab71e099ce",
     "publishedAt": "2026-06-27T17:35:30.000Z",
-    "createdAt": "2026-06-27T18:08:41.864Z",
-    "updatedAt": "2026-06-27T18:08:41.864Z"
+    "createdAt": "2026-06-27T20:11:56.948Z",
+    "updatedAt": "2026-06-27T20:11:56.948Z"
   },
   {
     "id": "8d36feb822854429",
@@ -38,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a4001339a794747b6749e47",
     "publishedAt": "2026-06-27T17:27:21.000Z",
-    "createdAt": "2026-06-27T18:08:43.851Z",
-    "updatedAt": "2026-06-27T18:08:43.851Z"
+    "createdAt": "2026-06-27T20:11:58.967Z",
+    "updatedAt": "2026-06-27T20:11:58.967Z"
   },
   {
     "id": "8feb8a3be2838f96",
@@ -52,8 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a3ff7ef9a79477f47d8af9d",
     "publishedAt": "2026-06-27T16:41:22.000Z",
-    "createdAt": "2026-06-27T18:08:44.824Z",
-    "updatedAt": "2026-06-27T18:08:44.824Z"
+    "createdAt": "2026-06-27T20:11:59.895Z",
+    "updatedAt": "2026-06-27T20:11:59.895Z"
   },
   {
     "id": "396b654993663ae8",
@@ -66,8 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a3fd8e29a79479892e3e06e",
     "publishedAt": "2026-06-27T16:16:20.000Z",
-    "createdAt": "2026-06-27T18:08:45.847Z",
-    "updatedAt": "2026-06-27T18:08:45.847Z"
+    "createdAt": "2026-06-27T20:12:00.890Z",
+    "updatedAt": "2026-06-27T20:12:00.890Z"
   },
   {
     "id": "f6417a3b4ccf0387",
@@ -80,63 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a3feb039a79472fa1a1be75",
     "publishedAt": "2026-06-27T16:07:46.000Z",
-    "createdAt": "2026-06-27T18:08:46.904Z",
-    "updatedAt": "2026-06-27T18:08:46.904Z"
-  },
-  {
-    "id": "c5d332fb2fec6a9b",
-    "title": "У бывшего тренера «Севильи» и сборной Армении диагностировали рак",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/5/56/347825702460565.jpeg",
-    "teaser": "У бывшего тренера «Севильи» и сборной Армении диагностировали рак",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a3fda189a7947ff9d3dd27c",
-    "publishedAt": "2026-06-27T15:46:47.000Z",
-    "createdAt": "2026-06-27T18:08:47.914Z",
-    "updatedAt": "2026-06-27T18:08:47.914Z"
-  },
-  {
-    "id": "4ffc94eb08562c09",
-    "title": "Синнер заявил, что чувствует себя хорошо подготовленным к Уимблдону",
-    "sport": "Теннис",
-    "category": "Теннис",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/9/10/347825688753109.jpeg",
-    "teaser": "Синнер заявил, что чувствует себя хорошо подготовленным к Уимблдону",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a3fd4209a794731912e2c22",
-    "publishedAt": "2026-06-27T14:13:51.000Z",
-    "createdAt": "2026-06-27T18:08:48.872Z",
-    "updatedAt": "2026-06-27T18:08:48.872Z"
-  },
-  {
-    "id": "2ccb409e15570d4c",
-    "title": "В РФС оценили работу Карпина во главе сборной России",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/6/65/347825664929656.jpeg",
-    "teaser": "В РФС оценили работу Карпина во главе сборной России",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a3fcbd59a794731912e2c16",
-    "publishedAt": "2026-06-27T13:37:26.000Z",
-    "createdAt": "2026-06-27T18:08:49.888Z",
-    "updatedAt": "2026-06-27T18:08:49.888Z"
-  },
-  {
-    "id": "0e5e558778050326",
-    "title": "Тренер сборной Испании сообщил, что Пино может пропустить остаток ЧМ-2026",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/2/27/347825650462272.jpeg",
-    "teaser": "Тренер сборной Испании сообщил, что Пино может пропустить остаток ЧМ-2026",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a3fc4959a7947b9600cc485",
-    "publishedAt": "2026-06-27T13:07:53.000Z",
-    "createdAt": "2026-06-27T18:08:50.916Z",
-    "updatedAt": "2026-06-27T18:08:50.916Z"
+    "createdAt": "2026-06-27T20:12:01.913Z",
+    "updatedAt": "2026-06-27T20:12:01.913Z"
   }
 ]
