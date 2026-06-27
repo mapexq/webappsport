@@ -1,5 +1,75 @@
 [
   {
+    "id": "4ffc94eb08562c09",
+    "title": "Синнер заявил, что чувствует себя хорошо подготовленным к Уимблдону",
+    "sport": "Теннис",
+    "category": "Теннис",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/9/10/347825688753109.jpeg",
+    "teaser": "Синнер заявил, что чувствует себя хорошо подготовленным к Уимблдону",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a3fd4209a794731912e2c22",
+    "publishedAt": "2026-06-27T14:13:51.000Z",
+    "createdAt": "2026-06-27T14:45:41.690Z",
+    "updatedAt": "2026-06-27T14:45:41.690Z"
+  },
+  {
+    "id": "2ccb409e15570d4c",
+    "title": "В РФС оценили работу Карпина во главе сборной России",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/6/65/347825664929656.jpeg",
+    "teaser": "В РФС оценили работу Карпина во главе сборной России",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a3fcbd59a794731912e2c16",
+    "publishedAt": "2026-06-27T13:37:26.000Z",
+    "createdAt": "2026-06-27T14:45:42.728Z",
+    "updatedAt": "2026-06-27T14:45:42.728Z"
+  },
+  {
+    "id": "0e5e558778050326",
+    "title": "Тренер сборной Испании сообщил, что Пино может пропустить остаток ЧМ-2026",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/2/27/347825650462272.jpeg",
+    "teaser": "Тренер сборной Испании сообщил, что Пино может пропустить остаток ЧМ-2026",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a3fc4959a7947b9600cc485",
+    "publishedAt": "2026-06-27T13:07:53.000Z",
+    "createdAt": "2026-06-27T14:45:43.767Z",
+    "updatedAt": "2026-06-27T14:45:43.767Z"
+  },
+  {
+    "id": "1055f96b3ec27944",
+    "title": "Звонарева в 41 год выиграла крупный турнир WTA в парном разряде",
+    "sport": "Теннис",
+    "category": "Теннис",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/7/14/347825625168147.jpeg",
+    "teaser": "Звонарева в 41 год выиграла крупный турнир WTA в парном разряде",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a3962d99a79470d81df1a31",
+    "publishedAt": "2026-06-27T12:24:54.000Z",
+    "createdAt": "2026-06-27T14:45:44.803Z",
+    "updatedAt": "2026-06-27T14:45:44.803Z"
+  },
+  {
+    "id": "4f6030c68f7aba45",
+    "title": "Футболист «Зенита» и сборной России Глушенков сыграл свадьбу",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/4/52/347825624104524.jpeg",
+    "teaser": "Футболист «Зенита» и сборной России Глушенков сыграл свадьбу",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a3fbbe49a794762922aa4b4",
+    "publishedAt": "2026-06-27T12:19:50.000Z",
+    "createdAt": "2026-06-27T14:45:45.841Z",
+    "updatedAt": "2026-06-27T14:45:45.841Z"
+  },
+  {
     "id": "725117fe6cc7a762",
     "title": "Призер Евро-2016 в составе сборной Франции завершил карьеру в 36 лет",
     "sport": "Футбол",
@@ -10,8 +80,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a3931619a794745037e4e69",
     "publishedAt": "2026-06-27T11:31:09.000Z",
-    "createdAt": "2026-06-27T12:10:40.177Z",
-    "updatedAt": "2026-06-27T12:10:40.177Z"
+    "createdAt": "2026-06-27T14:45:46.949Z",
+    "updatedAt": "2026-06-27T14:45:46.949Z"
   },
   {
     "id": "b84aa850e64f5986",
@@ -24,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a36a5649a794770cb626877",
     "publishedAt": "2026-06-27T11:16:43.000Z",
-    "createdAt": "2026-06-27T12:10:41.155Z",
-    "updatedAt": "2026-06-27T12:10:41.155Z"
+    "createdAt": "2026-06-27T14:45:49.020Z",
+    "updatedAt": "2026-06-27T14:45:49.020Z"
   },
   {
     "id": "1b8fa2e2b9a3df6a",
@@ -38,8 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a2ec7b29a79471080cb41cc",
     "publishedAt": "2026-06-27T11:05:05.000Z",
-    "createdAt": "2026-06-27T12:10:44.779Z",
-    "updatedAt": "2026-06-27T12:10:44.779Z"
+    "createdAt": "2026-06-27T14:45:51.062Z",
+    "updatedAt": "2026-06-27T14:45:51.062Z"
   },
   {
     "id": "bf45599f5a9df892",
@@ -52,78 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a2d80659a79479c670b490a",
     "publishedAt": "2026-06-27T10:51:22.000Z",
-    "createdAt": "2026-06-27T12:10:42.249Z",
-    "updatedAt": "2026-06-27T12:10:42.249Z"
-  },
-  {
-    "id": "ea97a2f2da441024",
-    "title": "Кто такой Тим Пэйн. Как самый неизвестный игрок ЧМ стал популярным",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/4/91/347825554982914.jpeg",
-    "teaser": "Кто такой Тим Пэйн. Как самый неизвестный игрок ЧМ стал популярным",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a3f92429a7947b0ee8efc9f",
-    "publishedAt": "2026-06-27T10:42:12.000Z",
-    "createdAt": "2026-06-27T12:10:45.879Z",
-    "updatedAt": "2026-06-27T12:10:45.879Z"
-  },
-  {
-    "id": "71e86db8bb68205d",
-    "title": "Зырянова и члена совета директоров «Спартака» избрали в исполком РФС",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/9/45/347825545456459.jpeg",
-    "teaser": "Зырянова и члена совета директоров «Спартака» избрали в исполком РФС",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a2d7eea9a794712d110284b",
-    "publishedAt": "2026-06-27T10:10:27.000Z",
-    "createdAt": "2026-06-27T12:10:46.909Z",
-    "updatedAt": "2026-06-27T12:10:46.909Z"
-  },
-  {
-    "id": "7c107fe85443f485",
-    "title": "Тренер сборной Ирана заявил об ужасном отношении США к его команде на ЧМ",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/2/54/347825535530542.jpeg",
-    "teaser": "Тренер сборной Ирана заявил об ужасном отношении США к его команде на ЧМ",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a2d6fd29a79476dde9a4b3a",
-    "publishedAt": "2026-06-27T09:59:15.000Z",
-    "createdAt": "2026-06-27T12:10:48.089Z",
-    "updatedAt": "2026-06-27T12:10:48.089Z"
-  },
-  {
-    "id": "d4a5ba770c97bb0b",
-    "title": "Пятикратный чемпион России Кузяев покинет «Рубин»",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/7/12/347825531000127.jpeg",
-    "teaser": "Пятикратный чемпион России Кузяев покинет «Рубин»",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a2d68989a79470e865e6d6d",
-    "publishedAt": "2026-06-27T09:42:38.000Z",
-    "createdAt": "2026-06-27T12:10:49.192Z",
-    "updatedAt": "2026-06-27T12:10:49.192Z"
-  },
-  {
-    "id": "564404b2e58f4b95",
-    "title": "Самые быстрые футболисты чемпионата мира — 2026",
-    "sport": "Другое",
-    "category": "ЧМ-2026",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/4/72/347819726753724.jpeg",
-    "teaser": "Самые быстрые футболисты чемпионата мира — 2026",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a36b4ca9a7947d04419a8af",
-    "publishedAt": "2026-06-27T08:56:14.000Z",
-    "createdAt": "2026-06-27T12:10:50.290Z",
-    "updatedAt": "2026-06-27T12:10:50.290Z"
+    "createdAt": "2026-06-27T14:45:47.964Z",
+    "updatedAt": "2026-06-27T14:45:47.964Z"
   },
   {
     "id": "8038669338212408",
@@ -136,7 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a3c05be9a794733eb978fa7",
     "publishedAt": "2026-06-27T05:55:07.000Z",
-    "createdAt": "2026-06-27T12:10:43.746Z",
-    "updatedAt": "2026-06-27T12:10:43.746Z"
+    "createdAt": "2026-06-27T14:45:50.073Z",
+    "updatedAt": "2026-06-27T14:45:50.073Z"
   }
 ]
