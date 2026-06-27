@@ -1,5 +1,89 @@
 [
   {
+    "id": "b365dd8b6914a37a",
+    "title": "Клуб НБА «Майами» сделал квалификационное предложение россиянину Голдину",
+    "sport": "Баскетбол",
+    "category": "Баскетбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/4/11/347825766897114.jpeg",
+    "teaser": "Клуб НБА «Майами» сделал квалификационное предложение россиянину Голдину",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a3ff30a9a794734889e82e5",
+    "publishedAt": "2026-06-27T17:50:17.000Z",
+    "createdAt": "2026-06-27T18:08:42.835Z",
+    "updatedAt": "2026-06-27T18:08:42.835Z"
+  },
+  {
+    "id": "b49dff0e668dcd7c",
+    "title": "Бразильский «Ботафого» отказался от матчей с ЦСКА и «Динамо» в Москве",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/4/75/347825786994754.jpeg",
+    "teaser": "Бразильский «Ботафого» отказался от матчей с ЦСКА и «Динамо» в Москве",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a3ffbf89a7947ab71e099ce",
+    "publishedAt": "2026-06-27T17:35:30.000Z",
+    "createdAt": "2026-06-27T18:08:41.864Z",
+    "updatedAt": "2026-06-27T18:08:41.864Z"
+  },
+  {
+    "id": "8d36feb822854429",
+    "title": "Пятеро россиян были выбраны во втором раунде драфта НХЛ",
+    "sport": "Хоккей",
+    "category": "Хоккей",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/7/05/347825804522057.jpeg",
+    "teaser": "Пятеро россиян были выбраны во втором раунде драфта НХЛ",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a4001339a794747b6749e47",
+    "publishedAt": "2026-06-27T17:27:21.000Z",
+    "createdAt": "2026-06-27T18:08:43.851Z",
+    "updatedAt": "2026-06-27T18:08:43.851Z"
+  },
+  {
+    "id": "8feb8a3be2838f96",
+    "title": "Российского чемпиона НБА не позвали на вечеринку в честь годовщины трофея",
+    "sport": "Баскетбол",
+    "category": "Баскетбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/3/32/347825780438323.jpeg",
+    "teaser": "Российского чемпиона НБА не позвали на вечеринку в честь годовщины трофея",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a3ff7ef9a79477f47d8af9d",
+    "publishedAt": "2026-06-27T16:41:22.000Z",
+    "createdAt": "2026-06-27T18:08:44.824Z",
+    "updatedAt": "2026-06-27T18:08:44.824Z"
+  },
+  {
+    "id": "396b654993663ae8",
+    "title": "Расселл выиграл квалификацию Гран-при Австрии «Формулы-1»",
+    "sport": "Другое",
+    "category": "Формула-1",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/1/19/347825731858191.jpeg",
+    "teaser": "Расселл выиграл квалификацию Гран-при Австрии «Формулы-1»",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a3fd8e29a79479892e3e06e",
+    "publishedAt": "2026-06-27T16:16:20.000Z",
+    "createdAt": "2026-06-27T18:08:45.847Z",
+    "updatedAt": "2026-06-27T18:08:45.847Z"
+  },
+  {
+    "id": "f6417a3b4ccf0387",
+    "title": "Клуб Басты сыграет в Кубке России впервые за три года",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/7/05/347825746738057.jpeg",
+    "teaser": "Клуб Басты сыграет в Кубке России впервые за три года",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a3feb039a79472fa1a1be75",
+    "publishedAt": "2026-06-27T16:07:46.000Z",
+    "createdAt": "2026-06-27T18:08:46.904Z",
+    "updatedAt": "2026-06-27T18:08:46.904Z"
+  },
+  {
     "id": "c5d332fb2fec6a9b",
     "title": "У бывшего тренера «Севильи» и сборной Армении диагностировали рак",
     "sport": "Футбол",
@@ -10,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a3fda189a7947ff9d3dd27c",
     "publishedAt": "2026-06-27T15:46:47.000Z",
-    "createdAt": "2026-06-27T16:09:29.739Z",
-    "updatedAt": "2026-06-27T16:09:29.739Z"
+    "createdAt": "2026-06-27T18:08:47.914Z",
+    "updatedAt": "2026-06-27T18:08:47.914Z"
   },
   {
     "id": "4ffc94eb08562c09",
@@ -24,8 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a3fd4209a794731912e2c22",
     "publishedAt": "2026-06-27T14:13:51.000Z",
-    "createdAt": "2026-06-27T16:09:30.843Z",
-    "updatedAt": "2026-06-27T16:09:30.843Z"
+    "createdAt": "2026-06-27T18:08:48.872Z",
+    "updatedAt": "2026-06-27T18:08:48.872Z"
   },
   {
     "id": "2ccb409e15570d4c",
@@ -38,8 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a3fcbd59a794731912e2c16",
     "publishedAt": "2026-06-27T13:37:26.000Z",
-    "createdAt": "2026-06-27T16:09:31.962Z",
-    "updatedAt": "2026-06-27T16:09:31.962Z"
+    "createdAt": "2026-06-27T18:08:49.888Z",
+    "updatedAt": "2026-06-27T18:08:49.888Z"
   },
   {
     "id": "0e5e558778050326",
@@ -52,91 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a3fc4959a7947b9600cc485",
     "publishedAt": "2026-06-27T13:07:53.000Z",
-    "createdAt": "2026-06-27T16:09:33.043Z",
-    "updatedAt": "2026-06-27T16:09:33.043Z"
-  },
-  {
-    "id": "1055f96b3ec27944",
-    "title": "Звонарева в 41 год выиграла крупный турнир WTA в парном разряде",
-    "sport": "Теннис",
-    "category": "Теннис",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/7/14/347825625168147.jpeg",
-    "teaser": "Звонарева в 41 год выиграла крупный турнир WTA в парном разряде",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a3962d99a79470d81df1a31",
-    "publishedAt": "2026-06-27T12:24:54.000Z",
-    "createdAt": "2026-06-27T16:09:34.160Z",
-    "updatedAt": "2026-06-27T16:09:34.160Z"
-  },
-  {
-    "id": "4f6030c68f7aba45",
-    "title": "Футболист «Зенита» и сборной России Глушенков сыграл свадьбу",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/4/52/347825624104524.jpeg",
-    "teaser": "Футболист «Зенита» и сборной России Глушенков сыграл свадьбу",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a3fbbe49a794762922aa4b4",
-    "publishedAt": "2026-06-27T12:19:50.000Z",
-    "createdAt": "2026-06-27T16:09:35.223Z",
-    "updatedAt": "2026-06-27T16:09:35.223Z"
-  },
-  {
-    "id": "725117fe6cc7a762",
-    "title": "Призер Евро-2016 в составе сборной Франции завершил карьеру в 36 лет",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/7/43/347825592514437.jpeg",
-    "teaser": "Призер Евро-2016 в составе сборной Франции завершил карьеру в 36 лет",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a3931619a794745037e4e69",
-    "publishedAt": "2026-06-27T11:31:09.000Z",
-    "createdAt": "2026-06-27T16:09:36.279Z",
-    "updatedAt": "2026-06-27T16:09:36.279Z"
-  },
-  {
-    "id": "b84aa850e64f5986",
-    "title": "Лидер сборной Венесуэлы по волейболу пропал без вести после землетрясений",
-    "sport": "Другое",
-    "category": "Другие",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/1/81/347825585263811.jpeg",
-    "teaser": "Лидер сборной Венесуэлы по волейболу пропал без вести после землетрясений",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a36a5649a794770cb626877",
-    "publishedAt": "2026-06-27T11:16:43.000Z",
-    "createdAt": "2026-06-27T16:09:38.531Z",
-    "updatedAt": "2026-06-27T16:09:38.531Z"
-  },
-  {
-    "id": "bf45599f5a9df892",
-    "title": "Олимпийский чемпион Нагорный сообщил о рождении дочери",
-    "sport": "Другое",
-    "category": "Другие",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/7/46/347825572489467.jpeg",
-    "teaser": "Олимпийский чемпион Нагорный сообщил о рождении дочери",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a2d80659a79479c670b490a",
-    "publishedAt": "2026-06-27T10:51:22.000Z",
-    "createdAt": "2026-06-27T16:09:37.415Z",
-    "updatedAt": "2026-06-27T16:09:37.415Z"
-  },
-  {
-    "id": "8038669338212408",
-    "title": "Кто вышел в плей-офф чемпионата мира-2026",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/6/27/347823200422276.jpeg",
-    "teaser": "Кто вышел в плей-офф чемпионата мира-2026",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a3c05be9a794733eb978fa7",
-    "publishedAt": "2026-06-27T05:55:07.000Z",
-    "createdAt": "2026-06-27T16:09:39.654Z",
-    "updatedAt": "2026-06-27T16:09:39.654Z"
+    "createdAt": "2026-06-27T18:08:50.916Z",
+    "updatedAt": "2026-06-27T18:08:50.916Z"
   }
 ]
