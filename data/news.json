@@ -1,5 +1,89 @@
 [
   {
+    "id": "90a4c3cc82081603",
+    "title": "Вратарь Кабо-Верде попал в символическую сборную ЧМ по версии Opta",
+    "sport": "Другое",
+    "category": "ЧМ-2026",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/7/94/347826525363947.jpeg",
+    "teaser": "Вратарь Кабо-Верде попал в символическую сборную ЧМ по версии Opta",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a4117bd9a7947de56bfbcb2",
+    "publishedAt": "2026-06-28T13:46:37.000Z",
+    "createdAt": "2026-06-28T14:00:00.727Z",
+    "updatedAt": "2026-06-28T14:00:00.727Z"
+  },
+  {
+    "id": "747c5849e06d7bf6",
+    "title": "Клуб Слуцкого впервые за два месяца победил в чемпионате Китая",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/1/17/347826532585171.png",
+    "teaser": "Клуб Слуцкого впервые за два месяца победил в чемпионате Китая",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a4120d19a7947f1e840d313",
+    "publishedAt": "2026-06-28T13:45:05.000Z",
+    "createdAt": "2026-06-28T13:59:59.746Z",
+    "updatedAt": "2026-06-28T13:59:59.746Z"
+  },
+  {
+    "id": "eea7ecfd9c6b428d",
+    "title": "Расписание матчей плей-офф чемпионата мира 2026 года",
+    "sport": "Другое",
+    "category": "ЧМ-2026",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/0/86/347826456235860.jpeg",
+    "teaser": "Расписание матчей плей-офф чемпионата мира 2026 года",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a4101e59a79477f836621a3",
+    "publishedAt": "2026-06-28T13:26:55.000Z",
+    "createdAt": "2026-06-28T14:00:02.888Z",
+    "updatedAt": "2026-06-28T14:00:02.888Z"
+  },
+  {
+    "id": "8bb3e15f068ae7f2",
+    "title": "Лидер MotoGP упал в первой гонке после дисквалификации за удар судьи",
+    "sport": "Другое",
+    "category": "Другие",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/7/22/347826519731227.png",
+    "teaser": "Лидер MotoGP упал в первой гонке после дисквалификации за удар судьи",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a41195e9a7947e7d64f8c71",
+    "publishedAt": "2026-06-28T13:16:44.000Z",
+    "createdAt": "2026-06-28T14:00:01.655Z",
+    "updatedAt": "2026-06-28T14:00:01.655Z"
+  },
+  {
+    "id": "263b12b6731c4864",
+    "title": "Кто является фаворитом ЧМ-2026 перед стартом плей-офф",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/9/06/347826500055069.jpeg",
+    "teaser": "Кто является фаворитом ЧМ-2026 перед стартом плей-офф",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a410ebd9a7947a63d3b6890",
+    "publishedAt": "2026-06-28T12:44:34.000Z",
+    "createdAt": "2026-06-28T14:00:05.017Z",
+    "updatedAt": "2026-06-28T14:00:05.017Z"
+  },
+  {
+    "id": "29a77f6a509da635",
+    "title": "Семья аргентинского футболиста погибла во время землетрясения в Венесуэле",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/8/52/347810896297528.png",
+    "teaser": "Семья аргентинского футболиста погибла во время землетрясения в Венесуэле",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a410b749a79478fd89e4a42",
+    "publishedAt": "2026-06-28T12:26:36.000Z",
+    "createdAt": "2026-06-28T14:00:06.862Z",
+    "updatedAt": "2026-06-28T14:00:06.862Z"
+  },
+  {
     "id": "7bfd2cc47f921ddb",
     "title": "Тренер Аргентины заявил, что у него больше нет слов для рекордов Месси",
     "sport": "Футбол",
@@ -10,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a40ff559a79472a1f0cc121",
     "publishedAt": "2026-06-28T11:16:58.000Z",
-    "createdAt": "2026-06-28T11:49:14.903Z",
-    "updatedAt": "2026-06-28T11:49:14.903Z"
+    "createdAt": "2026-06-28T14:00:09.424Z",
+    "updatedAt": "2026-06-28T14:00:09.424Z"
   },
   {
     "id": "3879112dc82c1324",
@@ -24,8 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a40f5709a79478431e44621",
     "publishedAt": "2026-06-28T10:44:31.000Z",
-    "createdAt": "2026-06-28T11:49:16.042Z",
-    "updatedAt": "2026-06-28T11:49:16.042Z"
+    "createdAt": "2026-06-28T14:00:08.354Z",
+    "updatedAt": "2026-06-28T14:00:08.354Z"
   },
   {
     "id": "e7ac1cd1360ed034",
@@ -38,36 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a40ec219a794763acc416e1",
     "publishedAt": "2026-06-28T10:09:39.000Z",
-    "createdAt": "2026-06-28T11:49:17.195Z",
-    "updatedAt": "2026-06-28T11:49:17.195Z"
-  },
-  {
-    "id": "0d432f33bc3feef6",
-    "title": "Лучший бомбардир «Динамо» сообщил об отказе «Спартаку»",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/7/44/347826380542447.png",
-    "teaser": "Лучший бомбардир «Динамо» сообщил об отказе «Спартаку»",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a40e5d69a794753f81027db",
-    "publishedAt": "2026-06-28T09:28:58.000Z",
-    "createdAt": "2026-06-28T11:49:20.612Z",
-    "updatedAt": "2026-06-28T11:49:20.612Z"
-  },
-  {
-    "id": "aff9d4272a6f2864",
-    "title": "Как сборная Узбекистана сыграла на ЧМ-2026",
-    "sport": "Другое",
-    "category": "ЧМ-2026",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/1/86/347826278025861.jpeg",
-    "teaser": "Как сборная Узбекистана сыграла на ЧМ-2026",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a40bc199a7947b0903a4756",
-    "publishedAt": "2026-06-28T08:30:00.000Z",
-    "createdAt": "2026-06-28T11:49:21.768Z",
-    "updatedAt": "2026-06-28T11:49:21.768Z"
+    "createdAt": "2026-06-28T14:00:10.495Z",
+    "updatedAt": "2026-06-28T14:00:10.495Z"
   },
   {
     "id": "0654a592621e4d6b",
@@ -80,63 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a3379509a794728a4f3ea96",
     "publishedAt": "2026-06-28T07:46:54.000Z",
-    "createdAt": "2026-06-28T11:49:18.357Z",
-    "updatedAt": "2026-06-28T11:49:18.357Z"
-  },
-  {
-    "id": "6afeda666dc472f5",
-    "title": "Месси первым в истории чемпионатов мира забил в семи матчах подряд",
-    "sport": "Другое",
-    "category": "ЧМ-2026",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/8/61/347826284784618.jpeg",
-    "teaser": "Месси первым в истории чемпионатов мира забил в семи матчах подряд",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a40bfdd9a79477751613bd7",
-    "publishedAt": "2026-06-28T06:49:04.000Z",
-    "createdAt": "2026-06-28T11:49:24.103Z",
-    "updatedAt": "2026-06-28T11:49:24.103Z"
-  },
-  {
-    "id": "556853f17426c869",
-    "title": "На ЧМ-2026 играют «договорные» ничьи. Что происходит",
-    "sport": "Другое",
-    "category": "ЧМ-2026",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/2/61/347824608063612.jpeg",
-    "teaser": "На ЧМ-2026 играют «договорные» ничьи. Что происходит",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a3e31599a794706dc70fac2",
-    "publishedAt": "2026-06-28T06:16:39.000Z",
-    "createdAt": "2026-06-28T11:49:19.385Z",
-    "updatedAt": "2026-06-28T11:49:19.385Z"
-  },
-  {
-    "id": "262cb60eeae5f67d",
-    "title": "Почему ФИФА не наказывает за «договорные» ничьи на ЧМ-2026",
-    "sport": "Другое",
-    "category": "ЧМ-2026",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/6/83/347824587960836.jpeg",
-    "teaser": "Почему ФИФА не наказывает за «договорные» ничьи на ЧМ-2026",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a3e19289a7947237f368e2f",
-    "publishedAt": "2026-06-28T05:07:10.000Z",
-    "createdAt": "2026-06-28T11:49:22.945Z",
-    "updatedAt": "2026-06-28T11:49:22.945Z"
-  },
-  {
-    "id": "5895ca2d7b9219d7",
-    "title": "Гол экс-футболиста ЦСКА вывел сборную Хорватии в плей-офф ЧМ-2026",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/6/63/347826010548636.jpeg",
-    "teaser": "Гол экс-футболиста ЦСКА вывел сборную Хорватии в плей-офф ЧМ-2026",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a3fe2f19a794726ca29e606",
-    "publishedAt": "2026-06-27T22:59:05.000Z",
-    "createdAt": "2026-06-28T11:49:25.454Z",
-    "updatedAt": "2026-06-28T11:49:25.454Z"
+    "createdAt": "2026-06-28T14:00:03.980Z",
+    "updatedAt": "2026-06-28T14:00:03.980Z"
   }
 ]
