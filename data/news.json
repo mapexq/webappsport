@@ -1,5 +1,61 @@
 [
   {
+    "id": "7bfd2cc47f921ddb",
+    "title": "Тренер Аргентины заявил, что у него больше нет слов для рекордов Месси",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/1/37/347826452775371.jpeg",
+    "teaser": "Тренер Аргентины заявил, что у него больше нет слов для рекордов Месси",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a40ff559a79472a1f0cc121",
+    "publishedAt": "2026-06-28T11:16:58.000Z",
+    "createdAt": "2026-06-28T11:49:14.903Z",
+    "updatedAt": "2026-06-28T11:49:14.903Z"
+  },
+  {
+    "id": "3879112dc82c1324",
+    "title": "Андреева сохранила статус лучшей теннисистки сезона перед Уимблдоном",
+    "sport": "Теннис",
+    "category": "Теннис",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/0/09/347826420646090.jpeg",
+    "teaser": "Андреева сохранила статус лучшей теннисистки сезона перед Уимблдоном",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a40f5709a79478431e44621",
+    "publishedAt": "2026-06-28T10:44:31.000Z",
+    "createdAt": "2026-06-28T11:49:16.042Z",
+    "updatedAt": "2026-06-28T11:49:16.042Z"
+  },
+  {
+    "id": "e7ac1cd1360ed034",
+    "title": "Тренер сборной Австрии на примере Хичкока опроверг сговор с Алжиром",
+    "sport": "Другое",
+    "category": "ЧМ-2026",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/1/17/347826398116171.jpeg",
+    "teaser": "Тренер сборной Австрии на примере Хичкока опроверг сговор с Алжиром",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a40ec219a794763acc416e1",
+    "publishedAt": "2026-06-28T10:09:39.000Z",
+    "createdAt": "2026-06-28T11:49:17.195Z",
+    "updatedAt": "2026-06-28T11:49:17.195Z"
+  },
+  {
+    "id": "0d432f33bc3feef6",
+    "title": "Лучший бомбардир «Динамо» сообщил об отказе «Спартаку»",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/7/44/347826380542447.png",
+    "teaser": "Лучший бомбардир «Динамо» сообщил об отказе «Спартаку»",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a40e5d69a794753f81027db",
+    "publishedAt": "2026-06-28T09:28:58.000Z",
+    "createdAt": "2026-06-28T11:49:20.612Z",
+    "updatedAt": "2026-06-28T11:49:20.612Z"
+  },
+  {
     "id": "aff9d4272a6f2864",
     "title": "Как сборная Узбекистана сыграла на ЧМ-2026",
     "sport": "Другое",
@@ -10,8 +66,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a40bc199a7947b0903a4756",
     "publishedAt": "2026-06-28T08:30:00.000Z",
-    "createdAt": "2026-06-28T09:18:31.494Z",
-    "updatedAt": "2026-06-28T09:18:31.494Z"
+    "createdAt": "2026-06-28T11:49:21.768Z",
+    "updatedAt": "2026-06-28T11:49:21.768Z"
   },
   {
     "id": "0654a592621e4d6b",
@@ -24,8 +80,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a3379509a794728a4f3ea96",
     "publishedAt": "2026-06-28T07:46:54.000Z",
-    "createdAt": "2026-06-28T09:18:28.478Z",
-    "updatedAt": "2026-06-28T09:18:28.478Z"
+    "createdAt": "2026-06-28T11:49:18.357Z",
+    "updatedAt": "2026-06-28T11:49:18.357Z"
   },
   {
     "id": "6afeda666dc472f5",
@@ -38,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a40bfdd9a79477751613bd7",
     "publishedAt": "2026-06-28T06:49:04.000Z",
-    "createdAt": "2026-06-28T09:18:29.504Z",
-    "updatedAt": "2026-06-28T09:18:29.504Z"
+    "createdAt": "2026-06-28T11:49:24.103Z",
+    "updatedAt": "2026-06-28T11:49:24.103Z"
   },
   {
     "id": "556853f17426c869",
@@ -52,8 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a3e31599a794706dc70fac2",
     "publishedAt": "2026-06-28T06:16:39.000Z",
-    "createdAt": "2026-06-28T09:18:30.488Z",
-    "updatedAt": "2026-06-28T09:18:30.488Z"
+    "createdAt": "2026-06-28T11:49:19.385Z",
+    "updatedAt": "2026-06-28T11:49:19.385Z"
   },
   {
     "id": "262cb60eeae5f67d",
@@ -66,36 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a3e19289a7947237f368e2f",
     "publishedAt": "2026-06-28T05:07:10.000Z",
-    "createdAt": "2026-06-28T09:18:33.530Z",
-    "updatedAt": "2026-06-28T09:18:33.530Z"
-  },
-  {
-    "id": "796288d3a0caf200",
-    "title": "Сборная Шотландии лишилась тренера после неудачи на ЧМ-2026",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/7/53/347826042900537.jpeg",
-    "teaser": "Сборная Шотландии лишилась тренера после неудачи на ЧМ-2026",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a3ed9f89a794724a339d82f",
-    "publishedAt": "2026-06-28T00:00:34.000Z",
-    "createdAt": "2026-06-28T09:18:34.545Z",
-    "updatedAt": "2026-06-28T09:18:34.545Z"
-  },
-  {
-    "id": "251d3d1e14c8fda1",
-    "title": "Модрич стал самым возрастным ассистентом в истории чемпионатов мира",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/2/33/347826028886332.jpeg",
-    "teaser": "Модрич стал самым возрастным ассистентом в истории чемпионатов мира",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a3fefcf9a794726ca29e610",
-    "publishedAt": "2026-06-27T23:35:49.000Z",
-    "createdAt": "2026-06-28T09:18:37.711Z",
-    "updatedAt": "2026-06-28T09:18:37.711Z"
+    "createdAt": "2026-06-28T11:49:22.945Z",
+    "updatedAt": "2026-06-28T11:49:22.945Z"
   },
   {
     "id": "5895ca2d7b9219d7",
@@ -108,35 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a3fe2f19a794726ca29e606",
     "publishedAt": "2026-06-27T22:59:05.000Z",
-    "createdAt": "2026-06-28T09:18:32.522Z",
-    "updatedAt": "2026-06-28T09:18:32.522Z"
-  },
-  {
-    "id": "408b178f2b832fe7",
-    "title": "Англия победила Панаму и вышла в плей-офф ЧМ с первого места в группе",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/3/31/347825998583313.jpeg",
-    "teaser": "Англия победила Панаму и вышла в плей-офф ЧМ с первого места в группе",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a3fb9229a7947289fa00628",
-    "publishedAt": "2026-06-27T22:56:06.000Z",
-    "createdAt": "2026-06-28T09:18:35.655Z",
-    "updatedAt": "2026-06-28T09:18:35.655Z"
-  },
-  {
-    "id": "bc54f2d9d6a57a83",
-    "title": "Кейн стал лучшим бомбардиром в истории сборной Англии на ЧМ",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/5/04/347825994006045.jpeg",
-    "teaser": "Кейн стал лучшим бомбардиром в истории сборной Англии на ЧМ",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a3ed4599a79478e65a19013",
-    "publishedAt": "2026-06-27T22:34:07.000Z",
-    "createdAt": "2026-06-28T09:18:36.687Z",
-    "updatedAt": "2026-06-28T09:18:36.687Z"
+    "createdAt": "2026-06-28T11:49:25.454Z",
+    "updatedAt": "2026-06-28T11:49:25.454Z"
   }
 ]
