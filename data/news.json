@@ -1,5 +1,89 @@
 [
   {
+    "id": "c57e568c33dcbe66",
+    "title": "Холанд обошел Роналду по голам в плей-офф на чемпионатах мира по футболу",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/7/95/347828514744957.jpeg",
+    "teaser": "Холанд обошел Роналду по голам в плей-офф на чемпионатах мира по футболу",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a4425af9a79470cba8fa07c",
+    "publishedAt": "2026-06-30T20:35:32.000Z",
+    "createdAt": "2026-06-30T20:58:58.393Z",
+    "updatedAt": "2026-06-30T20:58:58.393Z"
+  },
+  {
+    "id": "ce917f8e3badaace",
+    "title": "Стал известен соперник Тайсона Фьюри перед боем с Энтони Джошуа",
+    "sport": "Единоборства",
+    "category": "Единоборства",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/5/74/347828465745745.jpeg",
+    "teaser": "Стал известен соперник Тайсона Фьюри перед боем с Энтони Джошуа",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a44103c9a794711185aab8d",
+    "publishedAt": "2026-06-30T20:35:01.000Z",
+    "createdAt": "2026-06-30T20:58:59.373Z",
+    "updatedAt": "2026-06-30T20:58:59.373Z"
+  },
+  {
+    "id": "13b479c6215130ca",
+    "title": "Холанд принес Норвегии первую в истории победу в матче плей-офф ЧМ",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/8/44/347828455964448.jpeg",
+    "teaser": "Холанд принес Норвегии первую в истории победу в матче плей-офф ЧМ",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a440b039a794768f8a0ddf5",
+    "publishedAt": "2026-06-30T19:03:28.000Z",
+    "createdAt": "2026-06-30T20:59:00.440Z",
+    "updatedAt": "2026-06-30T20:59:00.440Z"
+  },
+  {
+    "id": "005b9e12812f164e",
+    "title": "Самсонова стала соперницей Шнайдер во втором круге Уимблдона",
+    "sport": "Теннис",
+    "category": "Теннис",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/8/12/347828447150128.jpeg",
+    "teaser": "Самсонова стала соперницей Шнайдер во втором круге Уимблдона",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a440a859a7947877c8c2b81",
+    "publishedAt": "2026-06-30T18:54:38.000Z",
+    "createdAt": "2026-06-30T20:59:01.245Z",
+    "updatedAt": "2026-06-30T20:59:01.245Z"
+  },
+  {
+    "id": "813d91c7a2db5391",
+    "title": "Слуцкая заявила, что допуск фигуристов сократит отток атлетов из России",
+    "sport": "Другое",
+    "category": "Фигурное катание",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/5/21/347828436521215.jpeg",
+    "teaser": "Слуцкая заявила, что допуск фигуристов сократит отток атлетов из России",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a44036c9a7947c75c4da8f3",
+    "publishedAt": "2026-06-30T18:48:12.000Z",
+    "createdAt": "2026-06-30T20:59:02.285Z",
+    "updatedAt": "2026-06-30T20:59:02.285Z"
+  },
+  {
+    "id": "ea113da9a6c013d3",
+    "title": "Норвежец повторил рекорд Беланова и Баллака на ЧМ по футболу",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/8/17/347828433505178.jpeg",
+    "teaser": "Норвежец повторил рекорд Беланова и Баллака на ЧМ по футболу",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a4407b19a7947796f247e3b",
+    "publishedAt": "2026-06-30T18:28:57.000Z",
+    "createdAt": "2026-06-30T20:59:03.337Z",
+    "updatedAt": "2026-06-30T20:59:03.337Z"
+  },
+  {
     "id": "d0dd6709eeb9129b",
     "title": "Экс-футболист сборной России покинул греческий ПАОК",
     "sport": "Футбол",
@@ -10,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a43febf9a794736a7bed01e",
     "publishedAt": "2026-06-30T17:47:53.000Z",
-    "createdAt": "2026-06-30T18:01:56.779Z",
-    "updatedAt": "2026-06-30T18:01:56.779Z"
+    "createdAt": "2026-06-30T20:59:04.321Z",
+    "updatedAt": "2026-06-30T20:59:04.321Z"
   },
   {
     "id": "6783d9c7627f63fe",
@@ -24,36 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a43f6839a794748013d5111",
     "publishedAt": "2026-06-30T17:11:14.000Z",
-    "createdAt": "2026-06-30T18:02:00.116Z",
-    "updatedAt": "2026-06-30T18:02:00.116Z"
-  },
-  {
-    "id": "eba3fd90dd415286",
-    "title": "Россиянка обыграла четвертую ракетку Украины на старте Уимблдона",
-    "sport": "Теннис",
-    "category": "Теннис",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/9/34/347828373798349.jpeg",
-    "teaser": "Россиянка обыграла четвертую ракетку Украины на старте Уимблдона",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a43f0599a794766740c0304",
-    "publishedAt": "2026-06-30T17:00:04.000Z",
-    "createdAt": "2026-06-30T18:02:01.194Z",
-    "updatedAt": "2026-06-30T18:02:01.194Z"
-  },
-  {
-    "id": "ef0b66e6058e6ad7",
-    "title": "Хачанов стартовал с победы на Уимблдоне",
-    "sport": "Теннис",
-    "category": "Теннис",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/9/14/347828357927149.jpeg",
-    "teaser": "Хачанов стартовал с победы на Уимблдоне",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a43e7819a79471d95cfb515",
-    "publishedAt": "2026-06-30T16:46:58.000Z",
-    "createdAt": "2026-06-30T18:02:02.215Z",
-    "updatedAt": "2026-06-30T18:02:02.215Z"
+    "createdAt": "2026-06-30T20:59:07.444Z",
+    "updatedAt": "2026-06-30T20:59:07.444Z"
   },
   {
     "id": "6e86a7bffb6a61ea",
@@ -66,8 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a43eb089a79474e138bb021",
     "publishedAt": "2026-06-30T16:45:49.000Z",
-    "createdAt": "2026-06-30T18:01:57.920Z",
-    "updatedAt": "2026-06-30T18:01:57.920Z"
+    "createdAt": "2026-06-30T20:59:05.328Z",
+    "updatedAt": "2026-06-30T20:59:05.328Z"
   },
   {
     "id": "c2171205eee26b87",
@@ -80,63 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a43ed219a7947eca6c7ecab",
     "publishedAt": "2026-06-30T16:33:53.000Z",
-    "createdAt": "2026-06-30T18:01:59.056Z",
-    "updatedAt": "2026-06-30T18:01:59.056Z"
-  },
-  {
-    "id": "6eb6680783422a1f",
-    "title": "«Монако» выкупил у «Барселоны» самого молодого автора гола в истории ЛЧ",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/5/01/347828346823015.jpeg",
-    "teaser": "«Монако» выкупил у «Барселоны» самого молодого автора гола в истории ЛЧ",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a43e2dc9a79479da760808e",
-    "publishedAt": "2026-06-30T15:57:45.000Z",
-    "createdAt": "2026-06-30T18:02:04.465Z",
-    "updatedAt": "2026-06-30T18:02:04.465Z"
-  },
-  {
-    "id": "8c65eb0277fcac3a",
-    "title": "Акинфеев во второй раз вошел в число номинантов на лучшего вратаря РПЛ",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/9/28/347828333758289.jpeg",
-    "teaser": "Акинфеев во второй раз вошел в число номинантов на лучшего вратаря РПЛ",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a43dcda9a794765e3b8c110",
-    "publishedAt": "2026-06-30T15:32:48.000Z",
-    "createdAt": "2026-06-30T18:02:05.903Z",
-    "updatedAt": "2026-06-30T18:02:05.903Z"
-  },
-  {
-    "id": "a15225556dc35c97",
-    "title": "Россиянка в 19 лет проиграла дебютный матч на Уимблдоне",
-    "sport": "Теннис",
-    "category": "Теннис",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/6/20/347828303000206.jpeg",
-    "teaser": "Россиянка в 19 лет проиграла дебютный матч на Уимблдоне",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a43d4b79a7947008d39d76b",
-    "publishedAt": "2026-06-30T15:07:19.000Z",
-    "createdAt": "2026-06-30T18:02:07.027Z",
-    "updatedAt": "2026-06-30T18:02:07.027Z"
-  },
-  {
-    "id": "9dc7799078b372f9",
-    "title": "Канцлера ФРГ раскритиковали за слова о гордости после вылета сборной с ЧМ",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/3/75/347828293556753.jpeg",
-    "teaser": "Канцлера ФРГ раскритиковали за слова о гордости после вылета сборной с ЧМ",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a43c2aa9a7947b5216a2ede",
-    "publishedAt": "2026-06-30T14:56:40.000Z",
-    "createdAt": "2026-06-30T18:02:03.335Z",
-    "updatedAt": "2026-06-30T18:02:03.335Z"
+    "createdAt": "2026-06-30T20:59:06.339Z",
+    "updatedAt": "2026-06-30T20:59:06.339Z"
   }
 ]
