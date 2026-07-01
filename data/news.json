@@ -1,5 +1,47 @@
 [
   {
+    "id": "a6340a76519a4f91",
+    "title": "Мексика впервые за 40 лет победила в матче плей-офф ЧМ",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/2/67/347828504870672.jpeg",
+    "teaser": "Мексика впервые за 40 лет победила в матче плей-офф ЧМ",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a441ec59a79478ea9033e9a",
+    "publishedAt": "2026-07-01T04:04:15.000Z",
+    "createdAt": "2026-07-01T05:26:12.804Z",
+    "updatedAt": "2026-07-01T05:26:12.804Z"
+  },
+  {
+    "id": "74911ebca05e950e",
+    "title": "Сборная Франция обыграла Швецию и вышла в 1/8 финала ЧМ-2026",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/2/58/347828482803582.jpeg",
+    "teaser": "Сборная Франция обыграла Швецию и вышла в 1/8 финала ЧМ-2026",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a4415419a79478ea9033e7f",
+    "publishedAt": "2026-06-30T23:06:56.000Z",
+    "createdAt": "2026-07-01T05:26:13.894Z",
+    "updatedAt": "2026-07-01T05:26:13.894Z"
+  },
+  {
+    "id": "7168d85d17d192f2",
+    "title": "Неудачники и везунчики. Главное о сериях пенальти на чемпионатах мира",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/8/93/347785804018938.jpeg",
+    "teaser": "Неудачники и везунчики. Главное о сериях пенальти на чемпионатах мира",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69f9fb759a7947254e4ca1a9",
+    "publishedAt": "2026-06-30T21:08:10.000Z",
+    "createdAt": "2026-07-01T05:26:15.011Z",
+    "updatedAt": "2026-07-01T05:26:15.011Z"
+  },
+  {
     "id": "e63779043680926b",
     "title": "Серена Уильямс проиграла на старте Уимблдона в первом матче с 2022 года",
     "sport": "Теннис",
@@ -10,8 +52,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a442af39a7947b305ed7216",
     "publishedAt": "2026-06-30T21:03:46.000Z",
-    "createdAt": "2026-07-01T00:12:46.132Z",
-    "updatedAt": "2026-07-01T00:12:46.132Z"
+    "createdAt": "2026-07-01T05:26:16.126Z",
+    "updatedAt": "2026-07-01T05:26:16.126Z"
   },
   {
     "id": "c57e568c33dcbe66",
@@ -24,8 +66,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a4425af9a79470cba8fa07c",
     "publishedAt": "2026-06-30T20:35:32.000Z",
-    "createdAt": "2026-07-01T00:12:47.240Z",
-    "updatedAt": "2026-07-01T00:12:47.240Z"
+    "createdAt": "2026-07-01T05:26:17.180Z",
+    "updatedAt": "2026-07-01T05:26:17.180Z"
   },
   {
     "id": "ce917f8e3badaace",
@@ -38,8 +80,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a44103c9a794711185aab8d",
     "publishedAt": "2026-06-30T20:35:01.000Z",
-    "createdAt": "2026-07-01T00:12:48.390Z",
-    "updatedAt": "2026-07-01T00:12:48.390Z"
+    "createdAt": "2026-07-01T05:26:18.296Z",
+    "updatedAt": "2026-07-01T05:26:18.296Z"
   },
   {
     "id": "13b479c6215130ca",
@@ -52,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a440b039a794768f8a0ddf5",
     "publishedAt": "2026-06-30T19:03:28.000Z",
-    "createdAt": "2026-07-01T00:12:49.367Z",
-    "updatedAt": "2026-07-01T00:12:49.367Z"
+    "createdAt": "2026-07-01T05:26:19.464Z",
+    "updatedAt": "2026-07-01T05:26:19.464Z"
   },
   {
     "id": "005b9e12812f164e",
@@ -66,8 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a440a859a7947877c8c2b81",
     "publishedAt": "2026-06-30T18:54:38.000Z",
-    "createdAt": "2026-07-01T00:12:50.461Z",
-    "updatedAt": "2026-07-01T00:12:50.461Z"
+    "createdAt": "2026-07-01T05:26:20.591Z",
+    "updatedAt": "2026-07-01T05:26:20.591Z"
   },
   {
     "id": "813d91c7a2db5391",
@@ -80,22 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a44036c9a7947c75c4da8f3",
     "publishedAt": "2026-06-30T18:48:12.000Z",
-    "createdAt": "2026-07-01T00:12:51.547Z",
-    "updatedAt": "2026-07-01T00:12:51.547Z"
-  },
-  {
-    "id": "ea113da9a6c013d3",
-    "title": "Норвежец повторил рекорд Беланова и Баллака на ЧМ по футболу",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/8/17/347828433505178.jpeg",
-    "teaser": "Норвежец повторил рекорд Беланова и Баллака на ЧМ по футболу",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a4407b19a7947796f247e3b",
-    "publishedAt": "2026-06-30T18:28:57.000Z",
-    "createdAt": "2026-07-01T00:12:53.771Z",
-    "updatedAt": "2026-07-01T00:12:53.771Z"
+    "createdAt": "2026-07-01T05:26:21.807Z",
+    "updatedAt": "2026-07-01T05:26:21.807Z"
   },
   {
     "id": "d0dd6709eeb9129b",
@@ -108,35 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a43febf9a794736a7bed01e",
     "publishedAt": "2026-06-30T17:47:53.000Z",
-    "createdAt": "2026-07-01T00:12:52.632Z",
-    "updatedAt": "2026-07-01T00:12:52.632Z"
-  },
-  {
-    "id": "6e86a7bffb6a61ea",
-    "title": "Лионель Месси снялся в проморолике нового «Человека-паука»",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/7/96/347828366468967.jpeg",
-    "teaser": "Лионель Месси снялся в проморолике нового «Человека-паука»",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a43eb089a79474e138bb021",
-    "publishedAt": "2026-06-30T16:45:49.000Z",
-    "createdAt": "2026-07-01T00:12:54.882Z",
-    "updatedAt": "2026-07-01T00:12:54.882Z"
-  },
-  {
-    "id": "c2171205eee26b87",
-    "title": "Леброн Джеймс решил уйти из «Лос-Анджелес Лейкерс»",
-    "sport": "Баскетбол",
-    "category": "Баскетбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/0/94/347828365496940.jpeg",
-    "teaser": "Леброн Джеймс решил уйти из «Лос-Анджелес Лейкерс»",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a43ed219a7947eca6c7ecab",
-    "publishedAt": "2026-06-30T16:33:53.000Z",
-    "createdAt": "2026-07-01T00:12:55.989Z",
-    "updatedAt": "2026-07-01T00:12:55.989Z"
+    "createdAt": "2026-07-01T05:26:22.982Z",
+    "updatedAt": "2026-07-01T05:26:22.982Z"
   }
 ]
