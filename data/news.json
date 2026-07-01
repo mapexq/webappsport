@@ -1,5 +1,75 @@
 [
   {
+    "id": "39f26967e2edd0cc",
+    "title": "Российский форвард Кузьменко стал одноклубником Малкина",
+    "sport": "Хоккей",
+    "category": "Хоккей",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/0/77/347829334739770.jpeg",
+    "teaser": "Российский форвард Кузьменко стал одноклубником Малкина",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a45629e9a7947f29a64f041",
+    "publishedAt": "2026-07-01T19:00:00.000Z",
+    "createdAt": "2026-07-01T20:49:22.702Z",
+    "updatedAt": "2026-07-01T20:49:22.702Z"
+  },
+  {
+    "id": "cd2ffc7dded745ee",
+    "title": "Двукратный обладатель Кубка Стэнли Бобровский перешел в «Торонто»",
+    "sport": "Хоккей",
+    "category": "Хоккей",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/9/33/347829307568339.jpeg",
+    "teaser": "Двукратный обладатель Кубка Стэнли Бобровский перешел в «Торонто»",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a455d1b9a79471023d64642",
+    "publishedAt": "2026-07-01T19:00:00.000Z",
+    "createdAt": "2026-07-01T20:49:22.713Z",
+    "updatedAt": "2026-07-01T20:49:22.713Z"
+  },
+  {
+    "id": "5846cbb27a0718c0",
+    "title": "Мирра Андреева проиграла во втором круге Уимблдона",
+    "sport": "Теннис",
+    "category": "Теннис",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/4/89/347829292317894.jpeg",
+    "teaser": "Мирра Андреева проиграла во втором круге Уимблдона",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a45572f9a79473a8227793e",
+    "publishedAt": "2026-07-01T19:00:00.000Z",
+    "createdAt": "2026-07-01T20:49:22.722Z",
+    "updatedAt": "2026-07-01T20:49:22.722Z"
+  },
+  {
+    "id": "56e5253c756bab9e",
+    "title": "Умер начальник команды сборной России и бывший футболист ЦСКА Куличенко",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/3/83/347829299190833.jpeg",
+    "teaser": "Умер начальник команды сборной России и бывший футболист ЦСКА Куличенко",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a4559809a794782264fd1c2",
+    "publishedAt": "2026-07-01T19:00:00.000Z",
+    "createdAt": "2026-07-01T20:49:22.728Z",
+    "updatedAt": "2026-07-01T20:49:22.728Z"
+  },
+  {
+    "id": "67f795d3645a3180",
+    "title": "Сборная Англии впервые за 60 лет выиграла матч ЧМ, где пропустила первой",
+    "sport": "Другое",
+    "category": "ЧМ-2026",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/5/19/347829285333195.jpeg",
+    "teaser": "Сборная Англии впервые за 60 лет выиграла матч ЧМ, где пропустила первой",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a454f049a794767f1eb1255",
+    "publishedAt": "2026-07-01T19:00:00.000Z",
+    "createdAt": "2026-07-01T20:49:22.739Z",
+    "updatedAt": "2026-07-01T20:49:22.739Z"
+  },
+  {
     "id": "ac0a964bf3189747",
     "title": "Англия — ДР Конго. Онлайн матча 1/16 финала ЧМ-2026 Кейн 75 Кейн 86 2:1 7 Сипенга Англия Завершен ДР Конго",
     "sport": "Другое",
@@ -10,8 +80,22 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a44e8f89a79479b25061404",
     "publishedAt": "2026-07-01T19:00:00.000Z",
-    "createdAt": "2026-07-01T18:02:29.481Z",
-    "updatedAt": "2026-07-01T18:02:29.481Z"
+    "createdAt": "2026-07-01T20:49:23.929Z",
+    "updatedAt": "2026-07-01T20:49:23.929Z"
+  },
+  {
+    "id": "7087d59952e36797",
+    "title": "Российские батутисты отказались от этапа Кубка мира из-за запрета флага",
+    "sport": "Другое",
+    "category": "Другие",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/5/57/347829276945575.jpeg",
+    "teaser": "Российские батутисты отказались от этапа Кубка мира из-за запрета флага",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a4546dc9a794767f1eb1233",
+    "publishedAt": "2026-07-01T19:00:00.000Z",
+    "createdAt": "2026-07-01T20:49:23.937Z",
+    "updatedAt": "2026-07-01T20:49:23.937Z"
   },
   {
     "id": "c645755e2b313062",
@@ -24,8 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a4535bf9a79474129685c30",
     "publishedAt": "2026-07-01T19:00:00.000Z",
-    "createdAt": "2026-07-01T18:02:29.489Z",
-    "updatedAt": "2026-07-01T18:02:29.489Z"
+    "createdAt": "2026-07-01T20:49:23.948Z",
+    "updatedAt": "2026-07-01T20:49:23.948Z"
   },
   {
     "id": "1329dc4023cbbe41",
@@ -38,8 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a453b529a79479149785710",
     "publishedAt": "2026-07-01T19:00:00.000Z",
-    "createdAt": "2026-07-01T18:02:29.497Z",
-    "updatedAt": "2026-07-01T18:02:29.497Z"
+    "createdAt": "2026-07-01T20:49:23.954Z",
+    "updatedAt": "2026-07-01T20:49:23.954Z"
   },
   {
     "id": "01281f6ed9eaf108",
@@ -52,91 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a452fc69a79476bc5c16f14",
     "publishedAt": "2026-07-01T19:00:00.000Z",
-    "createdAt": "2026-07-01T18:02:29.508Z",
-    "updatedAt": "2026-07-01T18:02:29.508Z"
-  },
-  {
-    "id": "e535a8a3fd8584f7",
-    "title": "Даниил Медведев вышел в третий круг Уимблдона",
-    "sport": "Теннис",
-    "category": "Теннис",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/0/62/347829184713620.jpeg",
-    "teaser": "Даниил Медведев вышел в третий круг Уимблдона",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a452c3b9a79475a09654277",
-    "publishedAt": "2026-07-01T19:00:00.000Z",
-    "createdAt": "2026-07-01T18:02:29.514Z",
-    "updatedAt": "2026-07-01T18:02:29.514Z"
-  },
-  {
-    "id": "737a8214389346ac",
-    "title": "Российский защитник стал участником обмена в НХЛ",
-    "sport": "Хоккей",
-    "category": "Хоккей",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/5/05/347829192067055.jpeg",
-    "teaser": "Российский защитник стал участником обмена в НХЛ",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a4530139a794789ee4edef9",
-    "publishedAt": "2026-07-01T19:00:00.000Z",
-    "createdAt": "2026-07-01T18:02:29.519Z",
-    "updatedAt": "2026-07-01T18:02:29.519Z"
-  },
-  {
-    "id": "7e7ee59f931416f0",
-    "title": "РФС отменил лимит на молодых футболистов в Первой лиге",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/8/02/347829166228028.jpeg",
-    "teaser": "РФС отменил лимит на молодых футболистов в Первой лиге",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a4521e29a794717bbbacebd",
-    "publishedAt": "2026-07-01T19:00:00.000Z",
-    "createdAt": "2026-07-01T18:02:29.525Z",
-    "updatedAt": "2026-07-01T18:02:29.525Z"
-  },
-  {
-    "id": "2fe1aa492e5a130a",
-    "title": "Проведший шесть сезонов в НХЛ Замула подписал контракт с ЦСКА",
-    "sport": "Хоккей",
-    "category": "Хоккей",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/0/72/347829121180720.jpeg",
-    "teaser": "Проведший шесть сезонов в НХЛ Замула подписал контракт с ЦСКА",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a450fe59a79474b9f707577",
-    "publishedAt": "2026-07-01T19:00:00.000Z",
-    "createdAt": "2026-07-01T18:02:29.530Z",
-    "updatedAt": "2026-07-01T18:02:29.530Z"
-  },
-  {
-    "id": "706ee4e5c70b7243",
-    "title": "Бразильский нападающий покинул «Краснодар» после трех сезонов",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/5/54/347829110014545.jpeg",
-    "teaser": "Бразильский нападающий покинул «Краснодар» после трех сезонов",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a450ffa9a794792240b9ead",
-    "publishedAt": "2026-07-01T19:00:00.000Z",
-    "createdAt": "2026-07-01T18:02:29.537Z",
-    "updatedAt": "2026-07-01T18:02:29.537Z"
-  },
-  {
-    "id": "190ca07819326ed5",
-    "title": "Серена Уильямс получила травму колена во время матча на Уимблдоне",
-    "sport": "Теннис",
-    "category": "Теннис",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/5/50/347829091206505.jpeg",
-    "teaser": "Серена Уильямс получила травму колена во время матча на Уимблдоне",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a4508a09a79470462831ad5",
-    "publishedAt": "2026-07-01T19:00:00.000Z",
-    "createdAt": "2026-07-01T18:02:29.543Z",
-    "updatedAt": "2026-07-01T18:02:29.543Z"
+    "createdAt": "2026-07-01T20:49:23.960Z",
+    "updatedAt": "2026-07-01T20:49:23.960Z"
   }
 ]
