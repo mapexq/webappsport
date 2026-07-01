@@ -1,5 +1,89 @@
 [
   {
+    "id": "f6c062c4167eda95",
+    "title": "Российский защитник стал участником обмена в НХЛ",
+    "sport": "Хоккей",
+    "category": "Хоккей",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/5/05/347829192067055.jpeg",
+    "teaser": "Российский защитник стал участником обмена в НХЛ",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a4530139a794789ee4edef9",
+    "publishedAt": "2026-07-01T15:32:28.000Z",
+    "createdAt": "2026-07-01T15:46:22.485Z",
+    "updatedAt": "2026-07-01T15:46:22.485Z"
+  },
+  {
+    "id": "c2b493857f5e17df",
+    "title": "РФС отменил лимит на молодых футболистов в Первой лиге",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/8/02/347829166228028.jpeg",
+    "teaser": "РФС отменил лимит на молодых футболистов в Первой лиге",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a4521e29a794717bbbacebd",
+    "publishedAt": "2026-07-01T15:02:43.000Z",
+    "createdAt": "2026-07-01T15:46:23.702Z",
+    "updatedAt": "2026-07-01T15:46:23.702Z"
+  },
+  {
+    "id": "e5031d8bfd682b0a",
+    "title": "Проведший шесть сезонов в НХЛ Замула подписал контракт с ЦСКА",
+    "sport": "Хоккей",
+    "category": "Хоккей",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/0/72/347829121180720.jpeg",
+    "teaser": "Проведший шесть сезонов в НХЛ Замула подписал контракт с ЦСКА",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a450fe59a79474b9f707577",
+    "publishedAt": "2026-07-01T14:11:59.000Z",
+    "createdAt": "2026-07-01T15:46:24.785Z",
+    "updatedAt": "2026-07-01T15:46:24.785Z"
+  },
+  {
+    "id": "d9d1b57eeb761de3",
+    "title": "Бразильский нападающий покинул «Краснодар» после трех сезонов",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/5/54/347829110014545.jpeg",
+    "teaser": "Бразильский нападающий покинул «Краснодар» после трех сезонов",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a450ffa9a794792240b9ead",
+    "publishedAt": "2026-07-01T13:41:49.000Z",
+    "createdAt": "2026-07-01T15:46:25.934Z",
+    "updatedAt": "2026-07-01T15:46:25.934Z"
+  },
+  {
+    "id": "0146d24894a691e1",
+    "title": "Серена Уильямс получила травму колена во время матча на Уимблдоне",
+    "sport": "Теннис",
+    "category": "Теннис",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/5/50/347829091206505.jpeg",
+    "teaser": "Серена Уильямс получила травму колена во время матча на Уимблдоне",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a4508a09a79470462831ad5",
+    "publishedAt": "2026-07-01T13:04:38.000Z",
+    "createdAt": "2026-07-01T15:46:27.082Z",
+    "updatedAt": "2026-07-01T15:46:27.082Z"
+  },
+  {
+    "id": "245c8d2ad4cce84e",
+    "title": "Три человека погибли в Мехико при праздновании победы Мексики в матче ЧМ",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/4/72/347829062475724.jpeg",
+    "teaser": "Три человека погибли в Мехико при праздновании победы Мексики в матче ЧМ",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a44f9d89a7947996f778312",
+    "publishedAt": "2026-07-01T12:40:47.000Z",
+    "createdAt": "2026-07-01T15:46:28.216Z",
+    "updatedAt": "2026-07-01T15:46:28.216Z"
+  },
+  {
     "id": "60e51b83ab468894",
     "title": "Аргентинский защитник ЦСКА выбыл на месяц",
     "sport": "Футбол",
@@ -10,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a4501be9a7947007e9d8d71",
     "publishedAt": "2026-07-01T12:12:26.000Z",
-    "createdAt": "2026-07-01T12:41:25.204Z",
-    "updatedAt": "2026-07-01T12:41:25.204Z"
+    "createdAt": "2026-07-01T15:46:30.560Z",
+    "updatedAt": "2026-07-01T15:46:30.560Z"
   },
   {
     "id": "0b01ed465e6b5b1f",
@@ -24,8 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a44ee899a79477a9a0e7fb8",
     "publishedAt": "2026-07-01T11:19:35.000Z",
-    "createdAt": "2026-07-01T12:41:26.164Z",
-    "updatedAt": "2026-07-01T12:41:26.164Z"
+    "createdAt": "2026-07-01T15:46:31.627Z",
+    "updatedAt": "2026-07-01T15:46:31.627Z"
   },
   {
     "id": "f95b4f540ff05430",
@@ -38,8 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a44f2f59a79474978508466",
     "publishedAt": "2026-07-01T11:18:13.000Z",
-    "createdAt": "2026-07-01T12:41:24.265Z",
-    "updatedAt": "2026-07-01T12:41:24.265Z"
+    "createdAt": "2026-07-01T15:46:29.313Z",
+    "updatedAt": "2026-07-01T15:46:29.313Z"
   },
   {
     "id": "78607b1dfec05f66",
@@ -52,91 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a44ecfa9a79475c54fad3ed",
     "publishedAt": "2026-07-01T11:05:33.000Z",
-    "createdAt": "2026-07-01T12:41:27.187Z",
-    "updatedAt": "2026-07-01T12:41:27.187Z"
-  },
-  {
-    "id": "2a511c75565249bf",
-    "title": "Мхитарян продлил контракт с «Интером»",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/4/79/347829016788794.jpeg",
-    "teaser": "Мхитарян продлил контракт с «Интером»",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a44eb929a79472de8a29b13",
-    "publishedAt": "2026-07-01T10:43:16.000Z",
-    "createdAt": "2026-07-01T12:41:29.188Z",
-    "updatedAt": "2026-07-01T12:41:29.188Z"
-  },
-  {
-    "id": "746b5ca07d81992a",
-    "title": "«Спартак» объявил об уходе попавшегося на кокаине хоккеиста Морозова",
-    "sport": "Хоккей",
-    "category": "Хоккей",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/5/51/347829012774515.jpeg",
-    "teaser": "«Спартак» объявил об уходе попавшегося на кокаине хоккеиста Морозова",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a44e7549a794782b79921e9",
-    "publishedAt": "2026-07-01T10:35:33.000Z",
-    "createdAt": "2026-07-01T12:41:28.242Z",
-    "updatedAt": "2026-07-01T12:41:28.242Z"
-  },
-  {
-    "id": "f58dcce149f61ce4",
-    "title": "В Германии назвали ошибкой согласования пост Мерца о вылете сборной с ЧМ",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/5/39/347828995156395.jpeg",
-    "teaser": "В Германии назвали ошибкой согласования пост Мерца о вылете сборной с ЧМ",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a44e01e9a79477a9a0e7f55",
-    "publishedAt": "2026-07-01T10:01:01.000Z",
-    "createdAt": "2026-07-01T12:41:30.164Z",
-    "updatedAt": "2026-07-01T12:41:30.164Z"
-  },
-  {
-    "id": "ce01b5929b648642",
-    "title": "Экс-глава Футбольного союза Сербии угрожал убийством Видичу за критику",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/3/97/347828977731973.jpeg",
-    "teaser": "Экс-глава Футбольного союза Сербии угрожал убийством Видичу за критику",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a44d7d09a7947662d0c0966",
-    "publishedAt": "2026-07-01T09:38:28.000Z",
-    "createdAt": "2026-07-01T12:41:32.217Z",
-    "updatedAt": "2026-07-01T12:41:32.217Z"
-  },
-  {
-    "id": "1333ba2c4232351b",
-    "title": "Игрок сборной Италии стал фигурантом дела о связях с несовершеннолетней",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/4/00/347828962899004.jpeg",
-    "teaser": "Игрок сборной Италии стал фигурантом дела о связях с несовершеннолетней",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a44d2eb9a794717a83ab216",
-    "publishedAt": "2026-07-01T09:13:44.000Z",
-    "createdAt": "2026-07-01T12:41:31.158Z",
-    "updatedAt": "2026-07-01T12:41:31.158Z"
-  },
-  {
-    "id": "820e9c54d3074932",
-    "title": "Попавшийся на кокаине хоккеист расторг контракт со «Спартаком» ради НХЛ",
-    "sport": "Хоккей",
-    "category": "Хоккей",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/2/70/347828942842702.jpeg",
-    "teaser": "Попавшийся на кокаине хоккеист расторг контракт со «Спартаком» ради НХЛ",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a44ce929a794796aff1ac3b",
-    "publishedAt": "2026-07-01T08:36:47.000Z",
-    "createdAt": "2026-07-01T12:41:33.420Z",
-    "updatedAt": "2026-07-01T12:41:33.420Z"
+    "createdAt": "2026-07-01T15:46:32.701Z",
+    "updatedAt": "2026-07-01T15:46:32.701Z"
   }
 ]
