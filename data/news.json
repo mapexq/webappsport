@@ -1,5 +1,75 @@
 [
   {
+    "id": "f60372ab13c04a8c",
+    "title": "Новичок «Манчестер Сити» побил рекорд стоимости для английских игроков",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/4/23/347829994223234.png",
+    "teaser": "Новичок «Манчестер Сити» побил рекорд стоимости для английских игроков",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a4669709a7947839866ab5c",
+    "publishedAt": "2026-07-02T14:00:27.000Z",
+    "createdAt": "2026-07-02T15:20:44.040Z",
+    "updatedAt": "2026-07-02T15:20:44.040Z"
+  },
+  {
+    "id": "3a2a9a3955a73e3d",
+    "title": "В Торонто отменили показ матчей ЧМ на городской площади из-за жары",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/0/15/347830000113150.jpeg",
+    "teaser": "В Торонто отменили показ матчей ЧМ на городской площади из-за жары",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a46687e9a7947083e4c76d1",
+    "publishedAt": "2026-07-02T13:58:25.000Z",
+    "createdAt": "2026-07-02T15:20:45.120Z",
+    "updatedAt": "2026-07-02T15:20:45.120Z"
+  },
+  {
+    "id": "3eead56c3f52e0c7",
+    "title": "Пятая ракетка России обыграла вторую на Уимблдоне",
+    "sport": "Теннис",
+    "category": "Теннис",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/4/58/347829953370584.jpeg",
+    "teaser": "Пятая ракетка России обыграла вторую на Уимблдоне",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a4659209a7947083e4c7687",
+    "publishedAt": "2026-07-02T12:47:34.000Z",
+    "createdAt": "2026-07-02T15:20:47.408Z",
+    "updatedAt": "2026-07-02T15:20:47.408Z"
+  },
+  {
+    "id": "e8f5c1fda12eac16",
+    "title": "Фигуристка Жилина получила разрешение выступать за Азербайджан",
+    "sport": "Другое",
+    "category": "Фигурное катание",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/3/02/347829942656023.jpeg",
+    "teaser": "Фигуристка Жилина получила разрешение выступать за Азербайджан",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a4651ad9a79472473f7fc86",
+    "publishedAt": "2026-07-02T12:33:23.000Z",
+    "createdAt": "2026-07-02T15:20:49.568Z",
+    "updatedAt": "2026-07-02T15:20:49.568Z"
+  },
+  {
+    "id": "ac8eede3a04bc0de",
+    "title": "Анна Седокова обвинила бывшего мужа Яниса Тимму в домашнем насилии",
+    "sport": "Баскетбол",
+    "category": "Баскетбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/1/66/347829926769661.jpeg",
+    "teaser": "Анна Седокова обвинила бывшего мужа Яниса Тимму в домашнем насилии",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a464abe9a794757cfd62e04",
+    "publishedAt": "2026-07-02T12:20:55.000Z",
+    "createdAt": "2026-07-02T15:20:46.265Z",
+    "updatedAt": "2026-07-02T15:20:46.265Z"
+  },
+  {
     "id": "08858010fe86b403",
     "title": "Российский боксер стал чемпионом WBA после отказа Усика",
     "sport": "Единоборства",
@@ -10,8 +80,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a4643b19a7947badeeeb12a",
     "publishedAt": "2026-07-02T11:29:18.000Z",
-    "createdAt": "2026-07-02T12:11:33.052Z",
-    "updatedAt": "2026-07-02T12:11:33.052Z"
+    "createdAt": "2026-07-02T15:20:50.641Z",
+    "updatedAt": "2026-07-02T15:20:50.641Z"
   },
   {
     "id": "df4e20522054ebf5",
@@ -24,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a4641d89a79476ae2609279",
     "publishedAt": "2026-07-02T11:18:21.000Z",
-    "createdAt": "2026-07-02T12:11:33.962Z",
-    "updatedAt": "2026-07-02T12:11:33.962Z"
+    "createdAt": "2026-07-02T15:20:51.774Z",
+    "updatedAt": "2026-07-02T15:20:51.774Z"
   },
   {
     "id": "0053ea65a8efc508",
@@ -38,22 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a463c6f9a794764ba060044",
     "publishedAt": "2026-07-02T11:10:30.000Z",
-    "createdAt": "2026-07-02T12:11:34.921Z",
-    "updatedAt": "2026-07-02T12:11:34.921Z"
-  },
-  {
-    "id": "5c8fb6bf8657181c",
-    "title": "Чемпионка мира по фигурному катанию Анастасия Мишина вышла замуж",
-    "sport": "Другое",
-    "category": "Фигурное катание",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/1/00/347829884296001.jpeg",
-    "teaser": "Чемпионка мира по фигурному катанию Анастасия Мишина вышла замуж",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a463cd49a7947b41eac2a8d",
-    "publishedAt": "2026-07-02T10:44:09.000Z",
-    "createdAt": "2026-07-02T12:11:36.847Z",
-    "updatedAt": "2026-07-02T12:11:36.847Z"
+    "createdAt": "2026-07-02T15:20:52.943Z",
+    "updatedAt": "2026-07-02T15:20:52.943Z"
   },
   {
     "id": "827163ee01304c0f",
@@ -66,64 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a462f229a7947661376ea5c",
     "publishedAt": "2026-07-02T10:21:03.000Z",
-    "createdAt": "2026-07-02T12:11:35.894Z",
-    "updatedAt": "2026-07-02T12:11:35.894Z"
-  },
-  {
-    "id": "6d9243972d3b4fda",
-    "title": "Месси рассмеялся во время досмотра в аэропорту США перед матчем ЧМ",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/6/18/347829853135186.jpeg",
-    "teaser": "Месси рассмеялся во время досмотра в аэропорту США перед матчем ЧМ",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a462bbe9a7947f4e25c166a",
-    "publishedAt": "2026-07-02T10:15:35.000Z",
-    "createdAt": "2026-07-02T12:11:37.811Z",
-    "updatedAt": "2026-07-02T12:11:37.811Z"
-  },
-  {
-    "id": "14d81d324cac7d53",
-    "title": "«Не может быть заменой». Теннисисты рассказали, как относятся к паделу",
-    "sport": "Другое",
-    "category": "Другие",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/9/43/347829889148439.jpeg",
-    "teaser": "«Не может быть заменой». Теннисисты рассказали, как относятся к паделу",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a4131999a7947b0903a480a",
-    "publishedAt": "2026-07-02T10:09:14.000Z",
-    "createdAt": "2026-07-02T12:11:42.575Z",
-    "updatedAt": "2026-07-02T12:11:42.575Z"
-  },
-  {
-    "id": "116b64f9d56550ee",
-    "title": "Тренер ДР Конго узнал о смерти отца на конференции после вылета с ЧМ-2026",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/1/33/347829829397331.jpeg",
-    "teaser": "Тренер ДР Конго узнал о смерти отца на конференции после вылета с ЧМ-2026",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a46258b9a79478d461c6f52",
-    "publishedAt": "2026-07-02T09:07:57.000Z",
-    "createdAt": "2026-07-02T12:11:39.798Z",
-    "updatedAt": "2026-07-02T12:11:39.798Z"
-  },
-  {
-    "id": "b904b2c4f383ac9c",
-    "title": "Вице-чемпион Олимпиады Федотов перешел в «Спартак» из АХЛ",
-    "sport": "Хоккей",
-    "category": "Хоккей",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/9/77/347829809746779.jpeg",
-    "teaser": "Вице-чемпион Олимпиады Федотов перешел в «Спартак» из АХЛ",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a461eb59a7947661376ea1c",
-    "publishedAt": "2026-07-02T08:38:21.000Z",
-    "createdAt": "2026-07-02T12:11:40.761Z",
-    "updatedAt": "2026-07-02T12:11:40.761Z"
+    "createdAt": "2026-07-02T15:20:54.043Z",
+    "updatedAt": "2026-07-02T15:20:54.043Z"
   },
   {
     "id": "dfab83ae77e36c22",
@@ -136,7 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a4617dd9a79474eeb629bec",
     "publishedAt": "2026-07-02T08:17:31.000Z",
-    "createdAt": "2026-07-02T12:11:38.774Z",
-    "updatedAt": "2026-07-02T12:11:38.774Z"
+    "createdAt": "2026-07-02T15:20:48.543Z",
+    "updatedAt": "2026-07-02T15:20:48.543Z"
   }
 ]
