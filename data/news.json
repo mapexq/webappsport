@@ -1,5 +1,61 @@
 [
   {
+    "id": "6df9b597741981cd",
+    "title": "Сборная Испании одержала первую за 16 лет победу в плей-офф ЧМ",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/1/22/347830251310221.jpeg",
+    "teaser": "Сборная Испании одержала первую за 16 лет победу в плей-офф ЧМ",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a46c75e9a794734ad4a374b",
+    "publishedAt": "2026-07-02T21:04:41.000Z",
+    "createdAt": "2026-07-02T21:14:35.801Z",
+    "updatedAt": "2026-07-02T21:14:35.801Z"
+  },
+  {
+    "id": "b14a1a021be7c969",
+    "title": "Сколько российских фигуристов смогут выступить на международных турнирах",
+    "sport": "Другое",
+    "category": "Фигурное катание",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/3/84/347830136347843.jpeg",
+    "teaser": "Сколько российских фигуристов смогут выступить на международных турнирах",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a469c029a79472613bbc9f9",
+    "publishedAt": "2026-07-02T21:00:08.000Z",
+    "createdAt": "2026-07-02T21:14:36.814Z",
+    "updatedAt": "2026-07-02T21:14:36.814Z"
+  },
+  {
+    "id": "ab7205c987237e58",
+    "title": "Серена Уильямс сыграет с сестрой в паре на Уимблдоне, несмотря на травму",
+    "sport": "Теннис",
+    "category": "Теннис",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/8/50/347830216594508.jpeg",
+    "teaser": "Серена Уильямс сыграет с сестрой в паре на Уимблдоне, несмотря на травму",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a46bf449a7947afbba87338",
+    "publishedAt": "2026-07-02T20:15:51.000Z",
+    "createdAt": "2026-07-02T21:14:37.892Z",
+    "updatedAt": "2026-07-02T21:14:37.892Z"
+  },
+  {
+    "id": "a9e20a129e1e3dab",
+    "title": "УЕФА не стал вводить правило удаления за прикрытие рта во время споров",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/3/96/347830207567963.jpeg",
+    "teaser": "УЕФА не стал вводить правило удаления за прикрытие рта во время споров",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a46b68e9a794722f3ec4b2f",
+    "publishedAt": "2026-07-02T19:42:54.000Z",
+    "createdAt": "2026-07-02T21:14:38.912Z",
+    "updatedAt": "2026-07-02T21:14:38.912Z"
+  },
+  {
     "id": "e8ed9b14b04796b2",
     "title": "Ямаль и Кубарси повторили достижение времен Пеле на чемпионате мира",
     "sport": "Футбол",
@@ -10,8 +66,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a46ad9a9a79476766d4893d",
     "publishedAt": "2026-07-02T18:57:12.000Z",
-    "createdAt": "2026-07-02T19:39:43.905Z",
-    "updatedAt": "2026-07-02T19:39:43.905Z"
+    "createdAt": "2026-07-02T21:14:41.211Z",
+    "updatedAt": "2026-07-02T21:14:41.211Z"
   },
   {
     "id": "789e7cde2058dccd",
@@ -24,8 +80,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a46a4239a79471c65b2c047",
     "publishedAt": "2026-07-02T18:25:37.000Z",
-    "createdAt": "2026-07-02T19:39:42.877Z",
-    "updatedAt": "2026-07-02T19:39:42.877Z"
+    "createdAt": "2026-07-02T21:14:40.029Z",
+    "updatedAt": "2026-07-02T21:14:40.029Z"
   },
   {
     "id": "0b05a749930af569",
@@ -38,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a46961e9a79472d40eac258",
     "publishedAt": "2026-07-02T17:43:21.000Z",
-    "createdAt": "2026-07-02T19:39:44.982Z",
-    "updatedAt": "2026-07-02T19:39:44.982Z"
+    "createdAt": "2026-07-02T21:14:42.258Z",
+    "updatedAt": "2026-07-02T21:14:42.258Z"
   },
   {
     "id": "250ed5fa93205838",
@@ -52,22 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6891aeda9a79471857f33573",
     "publishedAt": "2026-07-02T17:35:47.000Z",
-    "createdAt": "2026-07-02T19:39:46.019Z",
-    "updatedAt": "2026-07-02T19:39:46.019Z"
-  },
-  {
-    "id": "d837ca7922ceb73b",
-    "title": "Карен Хачанов вышел в третий круг Уимблдона",
-    "sport": "Теннис",
-    "category": "Теннис",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/2/81/347830077312812.jpeg",
-    "teaser": "Карен Хачанов вышел в третий круг Уимблдона",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a46891d9a794709038e2fd6",
-    "publishedAt": "2026-07-02T17:25:28.000Z",
-    "createdAt": "2026-07-02T19:39:49.414Z",
-    "updatedAt": "2026-07-02T19:39:49.414Z"
+    "createdAt": "2026-07-02T21:14:43.401Z",
+    "updatedAt": "2026-07-02T21:14:43.401Z"
   },
   {
     "id": "0f573056b932053a",
@@ -80,22 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a46973a9a79472867069789",
     "publishedAt": "2026-07-02T17:23:04.000Z",
-    "createdAt": "2026-07-02T19:39:48.310Z",
-    "updatedAt": "2026-07-02T19:39:48.310Z"
-  },
-  {
-    "id": "01babd3d6e2db563",
-    "title": "Двукратный чемпион Евро в составе Испании завершил карьеру в 41 год",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/8/83/347830083634838.jpeg",
-    "teaser": "Двукратный чемпион Евро в составе Испании завершил карьеру в 41 год",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a468c239a794728be7e02fe",
-    "publishedAt": "2026-07-02T17:07:06.000Z",
-    "createdAt": "2026-07-02T19:39:50.511Z",
-    "updatedAt": "2026-07-02T19:39:50.511Z"
+    "createdAt": "2026-07-02T21:14:45.682Z",
+    "updatedAt": "2026-07-02T21:14:45.682Z"
   },
   {
     "id": "f3aea03a4bb1a567",
@@ -108,35 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a4693269a7947471c6d3537",
     "publishedAt": "2026-07-02T16:36:44.000Z",
-    "createdAt": "2026-07-02T19:39:47.247Z",
-    "updatedAt": "2026-07-02T19:39:47.247Z"
-  },
-  {
-    "id": "f61686f8ad1e9490",
-    "title": "Фигуристку Горбачеву допустили к полноценным тренировкам после операции",
-    "sport": "Другое",
-    "category": "Фигурное катание",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/5/86/347830094464865.jpeg",
-    "teaser": "Фигуристку Горбачеву допустили к полноценным тренировкам после операции",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a468e249a79474a8a15e62a",
-    "publishedAt": "2026-07-02T16:34:52.000Z",
-    "createdAt": "2026-07-02T19:39:51.475Z",
-    "updatedAt": "2026-07-02T19:39:51.475Z"
-  },
-  {
-    "id": "f6770a38dd018fd1",
-    "title": "Россиянка проиграла второй ракетке Украины на Уимблдоне",
-    "sport": "Теннис",
-    "category": "Теннис",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/4/51/347830024074514.jpeg",
-    "teaser": "Россиянка проиграла второй ракетке Украины на Уимблдоне",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a46746e9a794787a8ea65b6",
-    "publishedAt": "2026-07-02T16:27:44.000Z",
-    "createdAt": "2026-07-02T19:39:53.397Z",
-    "updatedAt": "2026-07-02T19:39:53.397Z"
+    "createdAt": "2026-07-02T21:14:44.485Z",
+    "updatedAt": "2026-07-02T21:14:44.485Z"
   }
 ]
