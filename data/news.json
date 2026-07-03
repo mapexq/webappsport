@@ -1,5 +1,47 @@
 [
   {
+    "id": "8172cc831a36f7f2",
+    "title": "На ЧМ-2026 обновили рекорд по количеству автоголов",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/0/89/347831126324890.jpeg",
+    "teaser": "На ЧМ-2026 обновили рекорд по количеству автоголов",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a481d969a79479c0d3d2de0",
+    "publishedAt": "2026-07-03T21:08:42.000Z",
+    "createdAt": "2026-07-03T21:13:18.967Z",
+    "updatedAt": "2026-07-03T21:13:18.967Z"
+  },
+  {
+    "id": "55ba59321216d6af",
+    "title": "Сборная Египта по пенальти обыграла Австралию и вышла в 1/8 финала ЧМ-26",
+    "sport": "Другое",
+    "category": "ЧМ-2026",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/4/60/347831123380604.jpeg",
+    "teaser": "Сборная Египта по пенальти обыграла Австралию и вышла в 1/8 финала ЧМ-26",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a480d6b9a7947965f38c11d",
+    "publishedAt": "2026-07-03T21:03:51.000Z",
+    "createdAt": "2026-07-03T21:13:17.954Z",
+    "updatedAt": "2026-07-03T21:13:17.954Z"
+  },
+  {
+    "id": "5b9f07f052a2c73e",
+    "title": "World Athletics продлила отстранение российских спортсменов",
+    "sport": "Другое",
+    "category": "Другие",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/0/61/347831082246610.jpeg",
+    "teaser": "World Athletics продлила отстранение российских спортсменов",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a480e6f9a794733f7c48c99",
+    "publishedAt": "2026-07-03T19:59:27.000Z",
+    "createdAt": "2026-07-03T21:13:20.112Z",
+    "updatedAt": "2026-07-03T21:13:20.112Z"
+  },
+  {
     "id": "8021e795bf35d733",
     "title": "Десятая ракетка России сменила спортивное гражданство",
     "sport": "Теннис",
@@ -10,8 +52,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a4806f29a794733f7c48c87",
     "publishedAt": "2026-07-03T19:29:53.000Z",
-    "createdAt": "2026-07-03T19:37:06.492Z",
-    "updatedAt": "2026-07-03T19:37:06.492Z"
+    "createdAt": "2026-07-03T21:13:21.156Z",
+    "updatedAt": "2026-07-03T21:13:21.156Z"
   },
   {
     "id": "ef00cf4c15102a1e",
@@ -24,8 +66,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a47fe129a794733f7c48c6f",
     "publishedAt": "2026-07-03T18:33:32.000Z",
-    "createdAt": "2026-07-03T19:37:07.526Z",
-    "updatedAt": "2026-07-03T19:37:07.526Z"
+    "createdAt": "2026-07-03T21:13:22.263Z",
+    "updatedAt": "2026-07-03T21:13:22.263Z"
   },
   {
     "id": "3a2289a972d10a5b",
@@ -38,8 +80,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a47f4bc9a7947bd0cb85327",
     "publishedAt": "2026-07-03T17:53:21.000Z",
-    "createdAt": "2026-07-03T19:37:09.416Z",
-    "updatedAt": "2026-07-03T19:37:09.416Z"
+    "createdAt": "2026-07-03T21:13:24.624Z",
+    "updatedAt": "2026-07-03T21:13:24.624Z"
   },
   {
     "id": "d9bbafddb43ca544",
@@ -52,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a47e4fa9a7947dd51fcde8f",
     "publishedAt": "2026-07-03T17:08:31.000Z",
-    "createdAt": "2026-07-03T19:37:08.478Z",
-    "updatedAt": "2026-07-03T19:37:08.478Z"
+    "createdAt": "2026-07-03T21:13:23.363Z",
+    "updatedAt": "2026-07-03T21:13:23.363Z"
   },
   {
     "id": "091c494a6fc3e667",
@@ -66,8 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a47e6859a7947bd0cb852cc",
     "publishedAt": "2026-07-03T16:52:50.000Z",
-    "createdAt": "2026-07-03T19:37:10.470Z",
-    "updatedAt": "2026-07-03T19:37:10.470Z"
+    "createdAt": "2026-07-03T21:13:25.716Z",
+    "updatedAt": "2026-07-03T21:13:25.716Z"
   },
   {
     "id": "466d8d7bf889ca66",
@@ -80,22 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a47c5289a79475bf5c7bf2c",
     "publishedAt": "2026-07-03T16:38:16.000Z",
-    "createdAt": "2026-07-03T19:37:11.723Z",
-    "updatedAt": "2026-07-03T19:37:11.723Z"
-  },
-  {
-    "id": "bca1ed0956e7102d",
-    "title": "Джокович повторил рекорд Федерера на Уимблдоне",
-    "sport": "Теннис",
-    "category": "Теннис",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/0/08/347830943735080.jpeg",
-    "teaser": "Джокович повторил рекорд Федерера на Уимблдоне",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a47dc4a9a7947cfafcbbc62",
-    "publishedAt": "2026-07-03T16:34:12.000Z",
-    "createdAt": "2026-07-03T19:37:13.707Z",
-    "updatedAt": "2026-07-03T19:37:13.707Z"
+    "createdAt": "2026-07-03T21:13:26.853Z",
+    "updatedAt": "2026-07-03T21:13:26.853Z"
   },
   {
     "id": "dfea37446fc33a13",
@@ -108,35 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a47dcba9a7947cfafcbbc69",
     "publishedAt": "2026-07-03T16:14:05.000Z",
-    "createdAt": "2026-07-03T19:37:12.721Z",
-    "updatedAt": "2026-07-03T19:37:12.721Z"
-  },
-  {
-    "id": "57ac9c3563bef04f",
-    "title": "Винус Уильямс проиграла первый за четыре года матч на Уимблдоне в миксте",
-    "sport": "Теннис",
-    "category": "Теннис",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/9/81/347830932291819.jpeg",
-    "teaser": "Винус Уильямс проиграла первый за четыре года матч на Уимблдоне в миксте",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a47d7969a7947dd51fcde5e",
-    "publishedAt": "2026-07-03T16:01:34.000Z",
-    "createdAt": "2026-07-03T19:37:15.688Z",
-    "updatedAt": "2026-07-03T19:37:15.688Z"
-  },
-  {
-    "id": "02ab6dbaf95bc27d",
-    "title": "Крамник фразой «абсолютное беззаконие» отреагировал на отстранение FIDE",
-    "sport": "Другое",
-    "category": "Другие",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/5/64/347830916131645.jpeg",
-    "teaser": "Крамник фразой «абсолютное беззаконие» отреагировал на отстранение FIDE",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a47d1109a79472321278a2f",
-    "publishedAt": "2026-07-03T15:35:00.000Z",
-    "createdAt": "2026-07-03T19:37:14.717Z",
-    "updatedAt": "2026-07-03T19:37:14.717Z"
+    "createdAt": "2026-07-03T21:13:27.947Z",
+    "updatedAt": "2026-07-03T21:13:27.947Z"
   }
 ]
