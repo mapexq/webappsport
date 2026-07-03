@@ -1,5 +1,89 @@
 [
   {
+    "id": "0a356c52a4636f1c",
+    "title": "Третья ракетка России не смогла выйти в 1/8 финала Уимблдона",
+    "sport": "Теннис",
+    "category": "Теннис",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/1/47/347830911272471.jpeg",
+    "teaser": "Третья ракетка России не смогла выйти в 1/8 финала Уимблдона",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a47cdc69a79472ad9575637",
+    "publishedAt": "2026-07-03T15:14:32.000Z",
+    "createdAt": "2026-07-03T15:19:32.486Z",
+    "updatedAt": "2026-07-03T15:19:32.486Z"
+  },
+  {
+    "id": "49a2472b581cdf59",
+    "title": "FIDE дисквалифицировала Крамника за обвинения других шахматистов",
+    "sport": "Другое",
+    "category": "Другие",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/4/56/347830900136564.jpeg",
+    "teaser": "FIDE дисквалифицировала Крамника за обвинения других шахматистов",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a47c7039a79475bf5c7bf36",
+    "publishedAt": "2026-07-03T14:58:03.000Z",
+    "createdAt": "2026-07-03T15:19:31.496Z",
+    "updatedAt": "2026-07-03T15:19:31.496Z"
+  },
+  {
+    "id": "8b4ed33ed22f2f47",
+    "title": "Daily Mail узнала о положительных допинг-тестах на ЧМ-2026",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/5/37/347830864600375.jpeg",
+    "teaser": "Daily Mail узнала о положительных допинг-тестах на ЧМ-2026",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a47b9cd9a7947feab09e5bc",
+    "publishedAt": "2026-07-03T13:56:34.000Z",
+    "createdAt": "2026-07-03T15:19:33.553Z",
+    "updatedAt": "2026-07-03T15:19:33.553Z"
+  },
+  {
+    "id": "ea1425ffb4eec805",
+    "title": "Сафиуллин не смог сдержать слез после выхода в 1/8 финала Уимблдона",
+    "sport": "Теннис",
+    "category": "Теннис",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/2/94/347830852884942.jpeg",
+    "teaser": "Сафиуллин не смог сдержать слез после выхода в 1/8 финала Уимблдона",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a47b4679a7947d33611cd2b",
+    "publishedAt": "2026-07-03T13:43:41.000Z",
+    "createdAt": "2026-07-03T15:19:34.590Z",
+    "updatedAt": "2026-07-03T15:19:34.590Z"
+  },
+  {
+    "id": "ffcef3d0e9aab55d",
+    "title": "Защитник сборной Германии Браун после вылета с ЧМ перешел в «Баварию»",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/1/81/347830848145811.jpeg",
+    "teaser": "Защитник сборной Германии Браун после вылета с ЧМ перешел в «Баварию»",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a47b6fc9a79475d5e60af07",
+    "publishedAt": "2026-07-03T13:42:10.000Z",
+    "createdAt": "2026-07-03T15:19:35.428Z",
+    "updatedAt": "2026-07-03T15:19:35.428Z"
+  },
+  {
+    "id": "d39544343e693c65",
+    "title": "Четвертая ракетка России вылетела в третьем круге Уимблдона",
+    "sport": "Теннис",
+    "category": "Теннис",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/5/25/347830803280255.jpeg",
+    "teaser": "Четвертая ракетка России вылетела в третьем круге Уимблдона",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a47a56c9a7947b0b4a96b14",
+    "publishedAt": "2026-07-03T13:09:19.000Z",
+    "createdAt": "2026-07-03T15:19:36.484Z",
+    "updatedAt": "2026-07-03T15:19:36.484Z"
+  },
+  {
     "id": "1c4323ece688569f",
     "title": "Сафиуллин впервые за три года вышел в 1/8 финала Уимблдона",
     "sport": "Теннис",
@@ -10,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a47a4599a79475ed3ac55bd",
     "publishedAt": "2026-07-03T12:28:29.000Z",
-    "createdAt": "2026-07-03T12:59:32.212Z",
-    "updatedAt": "2026-07-03T12:59:32.212Z"
+    "createdAt": "2026-07-03T15:19:37.537Z",
+    "updatedAt": "2026-07-03T15:19:37.537Z"
   },
   {
     "id": "0f6dcfafbd76e4bd",
@@ -24,8 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a47a7389a7947b0b4a96b1c",
     "publishedAt": "2026-07-03T12:27:10.000Z",
-    "createdAt": "2026-07-03T12:59:33.348Z",
-    "updatedAt": "2026-07-03T12:59:33.348Z"
+    "createdAt": "2026-07-03T15:19:38.579Z",
+    "updatedAt": "2026-07-03T15:19:38.579Z"
   },
   {
     "id": "8f9f6ca2f5f83502",
@@ -38,22 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a479f5e9a7947819672da7b",
     "publishedAt": "2026-07-03T12:10:08.000Z",
-    "createdAt": "2026-07-03T12:59:34.404Z",
-    "updatedAt": "2026-07-03T12:59:34.404Z"
-  },
-  {
-    "id": "bc10b93ebece1b2d",
-    "title": "Экс-тренер Южной Кореи улетел в США из-за травли после вылета с ЧМ-2026",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/9/39/347830771467399.jpeg",
-    "teaser": "Экс-тренер Южной Кореи улетел в США из-за травли после вылета с ЧМ-2026",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a4791ee9a79470cbba8b93e",
-    "publishedAt": "2026-07-03T11:20:11.000Z",
-    "createdAt": "2026-07-03T12:59:36.725Z",
-    "updatedAt": "2026-07-03T12:59:36.725Z"
+    "createdAt": "2026-07-03T15:19:39.634Z",
+    "updatedAt": "2026-07-03T15:19:39.634Z"
   },
   {
     "id": "cd1d49fdf3b2185f",
@@ -66,77 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a47697b9a794726e776ab64",
     "publishedAt": "2026-07-03T11:01:42.000Z",
-    "createdAt": "2026-07-03T12:59:35.594Z",
-    "updatedAt": "2026-07-03T12:59:35.594Z"
-  },
-  {
-    "id": "245ab0ef4bdd7520",
-    "title": "Чесноков сравнил с тяжелой тумбочкой игру Серены Уильямс на Уимблдоне",
-    "sport": "Теннис",
-    "category": "Теннис",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/8/25/347830745405258.jpeg",
-    "teaser": "Чесноков сравнил с тяжелой тумбочкой игру Серены Уильямс на Уимблдоне",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a478eb59a79471e5edac4d5",
-    "publishedAt": "2026-07-03T10:41:41.000Z",
-    "createdAt": "2026-07-03T12:59:37.928Z",
-    "updatedAt": "2026-07-03T12:59:37.928Z"
-  },
-  {
-    "id": "cdbd19dac83c5b97",
-    "title": "Немецкий футбольный союз подтвердил увольнение Нагельсмана",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/0/44/347830741831440.jpeg",
-    "teaser": "Немецкий футбольный союз подтвердил увольнение Нагельсмана",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a478ae49a7947b25b0cf854",
-    "publishedAt": "2026-07-03T10:39:33.000Z",
-    "createdAt": "2026-07-03T12:59:39.081Z",
-    "updatedAt": "2026-07-03T12:59:39.081Z"
-  },
-  {
-    "id": "ed6741adbbfd1689",
-    "title": "Исламу Махачеву присвоили звание заслуженного мастера спорта по самбо",
-    "sport": "Единоборства",
-    "category": "Единоборства",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/8/63/347830730829638.jpeg",
-    "teaser": "Исламу Махачеву присвоили звание заслуженного мастера спорта по самбо",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a4785409a79479fbec60c02",
-    "publishedAt": "2026-07-03T10:10:29.000Z",
-    "createdAt": "2026-07-03T12:59:41.428Z",
-    "updatedAt": "2026-07-03T12:59:41.428Z"
-  },
-  {
-    "id": "07cc3ac664440172",
-    "title": "ТМZ узнал, что Джастин Бибер может выступить на Halftime Show на ЧМ-2026",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/8/47/347830718494478.jpeg",
-    "teaser": "ТМZ узнал, что Джастин Бибер может выступить на Halftime Show на ЧМ-2026",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a4781b69a794700c455e0dc",
-    "publishedAt": "2026-07-03T09:59:46.000Z",
-    "createdAt": "2026-07-03T12:59:40.276Z",
-    "updatedAt": "2026-07-03T12:59:40.276Z"
-  },
-  {
-    "id": "9db159c6267da8fc",
-    "title": "Четырехкратный победитель «Тур де Франс» ушел из спорта после аварии",
-    "sport": "Другое",
-    "category": "Другие",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/9/22/347830703318229.jpeg",
-    "teaser": "Четырехкратный победитель «Тур де Франс» ушел из спорта после аварии",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a4779449a7947b3b0d54c3d",
-    "publishedAt": "2026-07-03T09:51:39.000Z",
-    "createdAt": "2026-07-03T12:59:42.590Z",
-    "updatedAt": "2026-07-03T12:59:42.590Z"
+    "createdAt": "2026-07-03T15:19:40.685Z",
+    "updatedAt": "2026-07-03T15:19:40.685Z"
   }
 ]
