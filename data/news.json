@@ -1,5 +1,61 @@
 [
   {
+    "id": "7a93195a4e64691b",
+    "title": "ФИФА лишила Месси важного рекорда на чемпионатах мира",
+    "sport": "Другое",
+    "category": "ЧМ-2026",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/8/27/347831391746278.jpeg",
+    "teaser": "ФИФА лишила Месси важного рекорда на чемпионатах мира",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a488aa89a794794d8ec9a39",
+    "publishedAt": "2026-07-04T04:34:17.000Z",
+    "createdAt": "2026-07-04T06:51:29.385Z",
+    "updatedAt": "2026-07-04T06:51:29.385Z"
+  },
+  {
+    "id": "a851ee967a0740e2",
+    "title": "Как трагедия изменила жизнь. История любви Месси и Роккуццо",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/5/85/347830062510855.jpeg",
+    "teaser": "Как трагедия изменила жизнь. История любви Месси и Роккуццо",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a464a339a794747abf4238e",
+    "publishedAt": "2026-07-04T04:00:14.000Z",
+    "createdAt": "2026-07-04T06:51:27.164Z",
+    "updatedAt": "2026-07-04T06:51:27.164Z"
+  },
+  {
+    "id": "5ef50e373f2ee279",
+    "title": "Аргентина в дополнительное время обыграла главную сенсацию ЧМ-2026",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/0/03/347831046100030.jpeg",
+    "teaser": "Аргентина в дополнительное время обыграла главную сенсацию ЧМ-2026",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a48021c9a7947749e6f0cb4",
+    "publishedAt": "2026-07-04T00:54:56.000Z",
+    "createdAt": "2026-07-04T06:51:28.272Z",
+    "updatedAt": "2026-07-04T06:51:28.272Z"
+  },
+  {
+    "id": "31de26d64b1a73e8",
+    "title": "The Athletic и Би-би-си узнали о возможном переносе матча ЧМ из-за грозы",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/4/61/347831191781614.jpeg",
+    "teaser": "The Athletic и Би-би-си узнали о возможном переносе матча ЧМ из-за грозы",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a4839599a794799b574cc2d",
+    "publishedAt": "2026-07-03T23:03:31.000Z",
+    "createdAt": "2026-07-04T06:51:32.875Z",
+    "updatedAt": "2026-07-04T06:51:32.875Z"
+  },
+  {
     "id": "8172cc831a36f7f2",
     "title": "На ЧМ-2026 обновили рекорд по количеству автоголов",
     "sport": "Футбол",
@@ -10,8 +66,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a481d969a79479c0d3d2de0",
     "publishedAt": "2026-07-03T21:08:42.000Z",
-    "createdAt": "2026-07-04T03:38:47.310Z",
-    "updatedAt": "2026-07-04T03:38:47.310Z"
+    "createdAt": "2026-07-04T06:51:35.203Z",
+    "updatedAt": "2026-07-04T06:51:35.203Z"
   },
   {
     "id": "e6a2b8d916426e86",
@@ -24,8 +80,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a480d6b9a7947965f38c11d",
     "publishedAt": "2026-07-03T21:03:51.000Z",
-    "createdAt": "2026-07-04T03:38:46.182Z",
-    "updatedAt": "2026-07-04T03:38:46.182Z"
+    "createdAt": "2026-07-04T06:51:30.539Z",
+    "updatedAt": "2026-07-04T06:51:30.539Z"
   },
   {
     "id": "5b9f07f052a2c73e",
@@ -38,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a480e6f9a794733f7c48c99",
     "publishedAt": "2026-07-03T19:59:27.000Z",
-    "createdAt": "2026-07-04T03:38:48.438Z",
-    "updatedAt": "2026-07-04T03:38:48.438Z"
+    "createdAt": "2026-07-04T06:51:31.710Z",
+    "updatedAt": "2026-07-04T06:51:31.710Z"
   },
   {
     "id": "8021e795bf35d733",
@@ -52,36 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a4806f29a794733f7c48c87",
     "publishedAt": "2026-07-03T19:29:53.000Z",
-    "createdAt": "2026-07-04T03:38:49.562Z",
-    "updatedAt": "2026-07-04T03:38:49.562Z"
-  },
-  {
-    "id": "ef00cf4c15102a1e",
-    "title": "Тренер «Вашингтона» заявил, что Овечкин все еще может быть продуктивным",
-    "sport": "Хоккей",
-    "category": "Хоккей",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/3/54/347831030335543.jpeg",
-    "teaser": "Тренер «Вашингтона» заявил, что Овечкин все еще может быть продуктивным",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a47fe129a794733f7c48c6f",
-    "publishedAt": "2026-07-03T18:33:32.000Z",
-    "createdAt": "2026-07-04T03:38:50.710Z",
-    "updatedAt": "2026-07-04T03:38:50.710Z"
-  },
-  {
-    "id": "3a2289a972d10a5b",
-    "title": "Завершивший карьеру олимпийский чемпион Андронов стал тренером в ЦСКА",
-    "sport": "Хоккей",
-    "category": "Хоккей",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/0/63/347831006808630.jpeg",
-    "teaser": "Завершивший карьеру олимпийский чемпион Андронов стал тренером в ЦСКА",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a47f4bc9a7947bd0cb85327",
-    "publishedAt": "2026-07-03T17:53:21.000Z",
-    "createdAt": "2026-07-04T03:38:52.953Z",
-    "updatedAt": "2026-07-04T03:38:52.953Z"
+    "createdAt": "2026-07-04T06:51:36.417Z",
+    "updatedAt": "2026-07-04T06:51:36.417Z"
   },
   {
     "id": "d9bbafddb43ca544",
@@ -94,22 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a47e4fa9a7947dd51fcde8f",
     "publishedAt": "2026-07-03T17:08:31.000Z",
-    "createdAt": "2026-07-04T03:38:51.834Z",
-    "updatedAt": "2026-07-04T03:38:51.834Z"
-  },
-  {
-    "id": "091c494a6fc3e667",
-    "title": "Клуб Роналду назначил нового главного тренера",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/7/39/347830970281397.jpeg",
-    "teaser": "Клуб Роналду назначил нового главного тренера",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a47e6859a7947bd0cb852cc",
-    "publishedAt": "2026-07-03T16:52:50.000Z",
-    "createdAt": "2026-07-04T03:38:54.077Z",
-    "updatedAt": "2026-07-04T03:38:54.077Z"
+    "createdAt": "2026-07-04T06:51:34.071Z",
+    "updatedAt": "2026-07-04T06:51:34.071Z"
   },
   {
     "id": "466d8d7bf889ca66",
@@ -122,21 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a47c5289a79475bf5c7bf2c",
     "publishedAt": "2026-07-03T16:38:16.000Z",
-    "createdAt": "2026-07-04T03:38:55.196Z",
-    "updatedAt": "2026-07-04T03:38:55.196Z"
-  },
-  {
-    "id": "dfea37446fc33a13",
-    "title": "Даниил Медведев проиграл 74-й ракетке мира в третьем круге Уимблдона",
-    "sport": "Теннис",
-    "category": "Теннис",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/5/52/347830944980525.jpeg",
-    "teaser": "Даниил Медведев проиграл 74-й ракетке мира в третьем круге Уимблдона",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a47dcba9a7947cfafcbbc69",
-    "publishedAt": "2026-07-03T16:14:05.000Z",
-    "createdAt": "2026-07-04T03:38:56.322Z",
-    "updatedAt": "2026-07-04T03:38:56.322Z"
+    "createdAt": "2026-07-04T06:51:37.603Z",
+    "updatedAt": "2026-07-04T06:51:37.603Z"
   }
 ]
