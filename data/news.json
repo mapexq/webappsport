@@ -1,6 +1,76 @@
 [
   {
-    "id": "f06aa8bb8028e4ff",
+    "id": "4cdf0ce054564089",
+    "title": "Российский защитник подписал новый контракт в НХЛ на $3,5 млн",
+    "sport": "Хоккей",
+    "category": "Хоккей",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/1/13/347831838417131.jpeg",
+    "teaser": "Российский защитник подписал новый контракт в НХЛ на $3,5 млн",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a3c10759a794760d1850e3e",
+    "publishedAt": "2026-07-04T16:56:53.000Z",
+    "createdAt": "2026-07-04T17:12:00.990Z",
+    "updatedAt": "2026-07-04T17:12:00.990Z"
+  },
+  {
+    "id": "705cba8f39c32d98",
+    "title": "Дрейк поставил против Канады в 1/8 финала ЧМ из-за своего «проклятия»",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/8/44/347831831364448.jpeg",
+    "teaser": "Дрейк поставил против Канады в 1/8 финала ЧМ из-за своего «проклятия»",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a3c23719a7947523b22780b",
+    "publishedAt": "2026-07-04T16:48:13.000Z",
+    "createdAt": "2026-07-04T17:12:02.093Z",
+    "updatedAt": "2026-07-04T17:12:02.093Z"
+  },
+  {
+    "id": "54c636e738b8f51b",
+    "title": "Антонелли выиграл пятую в сезоне «Формулы-1» квалификацию",
+    "sport": "Другое",
+    "category": "Формула-1",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/6/85/347831819585856.jpeg",
+    "teaser": "Антонелли выиграл пятую в сезоне «Формулы-1» квалификацию",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a3d195a9a79473a6ccac71c",
+    "publishedAt": "2026-07-04T16:35:19.000Z",
+    "createdAt": "2026-07-04T17:12:04.285Z",
+    "updatedAt": "2026-07-04T17:12:04.285Z"
+  },
+  {
+    "id": "4614ed0d9fe0c1e6",
+    "title": "Хачанов проиграл десятой ракетке мира на Уимблдоне",
+    "sport": "Теннис",
+    "category": "Теннис",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/1/67/347831803669671.jpeg",
+    "teaser": "Хачанов проиграл десятой ракетке мира на Уимблдоне",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a4926af9a7947e9961b991d",
+    "publishedAt": "2026-07-04T16:25:35.000Z",
+    "createdAt": "2026-07-04T17:12:03.190Z",
+    "updatedAt": "2026-07-04T17:12:03.190Z"
+  },
+  {
+    "id": "ce22522f6f774ea2",
+    "title": "Сестры Уильямс снялись с парного турнира на Уимблдоне",
+    "sport": "Теннис",
+    "category": "Теннис",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/5/32/347831780393325.jpeg",
+    "teaser": "Сестры Уильямс снялись с парного турнира на Уимблдоне",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a491fe39a7947161669f66c",
+    "publishedAt": "2026-07-04T15:22:58.000Z",
+    "createdAt": "2026-07-04T17:12:05.385Z",
+    "updatedAt": "2026-07-04T17:12:05.385Z"
+  },
+  {
+    "id": "d30ad6f3126badf1",
     "title": "Свёнтек не защитила титул чемпионки Уимблдона, вылетев в третьем круге",
     "sport": "Теннис",
     "category": "Теннис",
@@ -9,9 +79,9 @@
     "fullContent": "",
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a3d28dc9a79475724da30e8",
-    "publishedAt": "2026-07-04T14:55:13.000Z",
-    "createdAt": "2026-07-04T15:10:27.999Z",
-    "updatedAt": "2026-07-04T15:10:27.999Z"
+    "publishedAt": "2026-07-04T14:55:14.000Z",
+    "createdAt": "2026-07-04T17:12:08.093Z",
+    "updatedAt": "2026-07-04T17:12:08.093Z"
   },
   {
     "id": "a3b5546ba0e79834",
@@ -24,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a49153b9a794712b3ff6012",
     "publishedAt": "2026-07-04T14:53:26.000Z",
-    "createdAt": "2026-07-04T15:10:27.018Z",
-    "updatedAt": "2026-07-04T15:10:27.018Z"
+    "createdAt": "2026-07-04T17:12:06.928Z",
+    "updatedAt": "2026-07-04T17:12:06.928Z"
   },
   {
     "id": "8c83d1689fb6d19b",
@@ -38,8 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a49085c9a7947177bc82ef4",
     "publishedAt": "2026-07-04T14:06:15.000Z",
-    "createdAt": "2026-07-04T15:10:30.145Z",
-    "updatedAt": "2026-07-04T15:10:30.145Z"
+    "createdAt": "2026-07-04T17:12:10.393Z",
+    "updatedAt": "2026-07-04T17:12:10.393Z"
   },
   {
     "id": "2ee1d83f2ff6a5c4",
@@ -52,8 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a3d54579a794753fb37433e",
     "publishedAt": "2026-07-04T13:52:45.000Z",
-    "createdAt": "2026-07-04T15:10:31.235Z",
-    "updatedAt": "2026-07-04T15:10:31.235Z"
+    "createdAt": "2026-07-04T17:12:11.558Z",
+    "updatedAt": "2026-07-04T17:12:11.558Z"
   },
   {
     "id": "d8eab0a82b4840ab",
@@ -66,77 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a48f6f49a794772cd2983f0",
     "publishedAt": "2026-07-04T13:47:55.000Z",
-    "createdAt": "2026-07-04T15:10:29.069Z",
-    "updatedAt": "2026-07-04T15:10:29.069Z"
-  },
-  {
-    "id": "a7b6d7804ae20346",
-    "title": "Плющенко заявил, что работал над четверным акселем еще 20 лет назад",
-    "sport": "Другое",
-    "category": "Фигурное катание",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/1/35/347831712695351.jpeg",
-    "teaser": "Плющенко заявил, что работал над четверным акселем еще 20 лет назад",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a3d55849a79474e2f7e7f20",
-    "publishedAt": "2026-07-04T13:26:29.000Z",
-    "createdAt": "2026-07-04T15:10:32.292Z",
-    "updatedAt": "2026-07-04T15:10:32.292Z"
-  },
-  {
-    "id": "ff61a0d2a2c9e499",
-    "title": "Фигуриста Артура Дмитриева похоронили в Санкт-Петербурге",
-    "sport": "Другое",
-    "category": "Фигурное катание",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/1/10/347831664065101.jpeg",
-    "teaser": "Фигуриста Артура Дмитриева похоронили в Санкт-Петербурге",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a3d58fb9a79476384a418bf",
-    "publishedAt": "2026-07-04T12:09:09.000Z",
-    "createdAt": "2026-07-04T15:10:34.454Z",
-    "updatedAt": "2026-07-04T15:10:34.454Z"
-  },
-  {
-    "id": "205bf9f358597016",
-    "title": "В Эквадоре опровергли угрозы от наркобаронов перед игрой с Мексикой на ЧМ",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/0/87/347831639273870.jpeg",
-    "teaser": "В Эквадоре опровергли угрозы от наркобаронов перед игрой с Мексикой на ЧМ",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a4288899a7947ace1ef7f7d",
-    "publishedAt": "2026-07-04T11:55:05.000Z",
-    "createdAt": "2026-07-04T15:10:33.372Z",
-    "updatedAt": "2026-07-04T15:10:33.372Z"
-  },
-  {
-    "id": "0d46b3252d3c12cc",
-    "title": "Кто является фаворитом ЧМ-2026 перед 1/8 финала",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/4/71/347831629495714.jpeg",
-    "teaser": "Кто является фаворитом ЧМ-2026 перед 1/8 финала",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a4294c89a7947498188a446",
-    "publishedAt": "2026-07-04T11:12:27.000Z",
-    "createdAt": "2026-07-04T15:10:35.569Z",
-    "updatedAt": "2026-07-04T15:10:35.569Z"
-  },
-  {
-    "id": "6e32fba3219087ea",
-    "title": "Как «Мафия» сплотила сборную Канады перед домашним чемпионатом мира",
-    "sport": "Другое",
-    "category": "ЧМ-2026",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/9/86/347831021644869.jpeg",
-    "teaser": "Как «Мафия» сплотила сборную Канады перед домашним чемпионатом мира",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a47f86b9a7947e734bc7aec",
-    "publishedAt": "2026-07-04T10:35:08.000Z",
-    "createdAt": "2026-07-04T15:10:36.695Z",
-    "updatedAt": "2026-07-04T15:10:36.695Z"
+    "createdAt": "2026-07-04T17:12:09.269Z",
+    "updatedAt": "2026-07-04T17:12:09.269Z"
   }
 ]
