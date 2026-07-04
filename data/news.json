@@ -1,5 +1,75 @@
 [
   {
+    "id": "a7b6d7804ae20346",
+    "title": "Плющенко заявил, что работал над четверным акселем еще 20 лет назад",
+    "sport": "Другое",
+    "category": "Фигурное катание",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/1/35/347831712695351.jpeg",
+    "teaser": "Плющенко заявил, что работал над четверным акселем еще 20 лет назад",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a3d55849a79474e2f7e7f20",
+    "publishedAt": "2026-07-04T13:26:29.000Z",
+    "createdAt": "2026-07-04T13:45:16.465Z",
+    "updatedAt": "2026-07-04T13:45:16.465Z"
+  },
+  {
+    "id": "ff61a0d2a2c9e499",
+    "title": "Фигуриста Артура Дмитриева похоронили в Санкт-Петербурге",
+    "sport": "Другое",
+    "category": "Фигурное катание",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/1/10/347831664065101.jpeg",
+    "teaser": "Фигуриста Артура Дмитриева похоронили в Санкт-Петербурге",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a3d58fb9a79476384a418bf",
+    "publishedAt": "2026-07-04T12:09:09.000Z",
+    "createdAt": "2026-07-04T13:45:18.348Z",
+    "updatedAt": "2026-07-04T13:45:18.348Z"
+  },
+  {
+    "id": "205bf9f358597016",
+    "title": "В Эквадоре опровергли угрозы от наркобаронов перед игрой с Мексикой на ЧМ",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/0/87/347831639273870.jpeg",
+    "teaser": "В Эквадоре опровергли угрозы от наркобаронов перед игрой с Мексикой на ЧМ",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a4288899a7947ace1ef7f7d",
+    "publishedAt": "2026-07-04T11:55:05.000Z",
+    "createdAt": "2026-07-04T13:45:17.365Z",
+    "updatedAt": "2026-07-04T13:45:17.365Z"
+  },
+  {
+    "id": "64ce557e1ec9dc92",
+    "title": "Лидер сезона выиграл спринт на Гран-при Великобритании «Формулы-1»",
+    "sport": "Другое",
+    "category": "Формула-1",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/5/44/347831656404445.jpeg",
+    "teaser": "Лидер сезона выиграл спринт на Гран-при Великобритании «Формулы-1»",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a3d5b479a7947556df2c7fe",
+    "publishedAt": "2026-07-04T11:53:40.000Z",
+    "createdAt": "2026-07-04T13:45:21.385Z",
+    "updatedAt": "2026-07-04T13:45:21.385Z"
+  },
+  {
+    "id": "0d46b3252d3c12cc",
+    "title": "Кто является фаворитом ЧМ-2026 перед 1/8 финала",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/4/71/347831629495714.jpeg",
+    "teaser": "Кто является фаворитом ЧМ-2026 перед 1/8 финала",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a4294c89a7947498188a446",
+    "publishedAt": "2026-07-04T11:12:27.000Z",
+    "createdAt": "2026-07-04T13:45:19.429Z",
+    "updatedAt": "2026-07-04T13:45:19.429Z"
+  },
+  {
     "id": "4e333c60970defd5",
     "title": "В полиции извинились перед сборной Египта за конфликт в Далласе на ЧМ",
     "sport": "Футбол",
@@ -10,8 +80,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a4423cd9a7947877c8c2bb8",
     "publishedAt": "2026-07-04T10:56:54.000Z",
-    "createdAt": "2026-07-04T11:37:17.467Z",
-    "updatedAt": "2026-07-04T11:37:17.467Z"
+    "createdAt": "2026-07-04T13:45:22.390Z",
+    "updatedAt": "2026-07-04T13:45:22.390Z"
   },
   {
     "id": "6e32fba3219087ea",
@@ -24,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a47f86b9a7947e734bc7aec",
     "publishedAt": "2026-07-04T10:35:08.000Z",
-    "createdAt": "2026-07-04T11:37:16.512Z",
-    "updatedAt": "2026-07-04T11:37:16.512Z"
+    "createdAt": "2026-07-04T13:45:20.314Z",
+    "updatedAt": "2026-07-04T13:45:20.314Z"
   },
   {
     "id": "1594b525185143fc",
@@ -38,8 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a441b7a9a7947f98ebc29e5",
     "publishedAt": "2026-07-04T10:05:48.000Z",
-    "createdAt": "2026-07-04T11:37:19.402Z",
-    "updatedAt": "2026-07-04T11:37:19.402Z"
+    "createdAt": "2026-07-04T13:45:24.223Z",
+    "updatedAt": "2026-07-04T13:45:24.223Z"
   },
   {
     "id": "4aaec39d1ed380b9",
@@ -52,8 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a42b4c69a79477f17b3c121",
     "publishedAt": "2026-07-04T09:58:38.000Z",
-    "createdAt": "2026-07-04T11:37:18.444Z",
-    "updatedAt": "2026-07-04T11:37:18.444Z"
+    "createdAt": "2026-07-04T13:45:23.324Z",
+    "updatedAt": "2026-07-04T13:45:23.324Z"
   },
   {
     "id": "9c01411686e83a85",
@@ -66,77 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a4422039a79475fc669b951",
     "publishedAt": "2026-07-04T09:35:15.000Z",
-    "createdAt": "2026-07-04T11:37:20.426Z",
-    "updatedAt": "2026-07-04T11:37:20.426Z"
-  },
-  {
-    "id": "6a629d692128d6ab",
-    "title": "В Петербурге простились с олимпийским чемпионом Артуром Дмитриевым",
-    "sport": "Другое",
-    "category": "Фигурное катание",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/2/07/347831559575072.jpeg",
-    "teaser": "В Петербурге простились с олимпийским чемпионом Артуром Дмитриевым",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a4575ff9a794712b167d53c",
-    "publishedAt": "2026-07-04T09:12:16.000Z",
-    "createdAt": "2026-07-04T11:37:21.439Z",
-    "updatedAt": "2026-07-04T11:37:21.439Z"
-  },
-  {
-    "id": "f26c4617bb0dd12f",
-    "title": "Победитель хоккейной Лиги чемпионов перешел в СКА",
-    "sport": "Хоккей",
-    "category": "Хоккей",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/4/06/347831545561064.jpeg",
-    "teaser": "Победитель хоккейной Лиги чемпионов перешел в СКА",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a46652e9a794775fb2a5957",
-    "publishedAt": "2026-07-04T08:49:24.000Z",
-    "createdAt": "2026-07-04T11:37:23.475Z",
-    "updatedAt": "2026-07-04T11:37:23.475Z"
-  },
-  {
-    "id": "94d91ee81e0c9727",
-    "title": "Игроки Кабо-Верде выстроились в очередь за фото с Месси после поражения",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/3/00/347831527073003.jpeg",
-    "teaser": "Игроки Кабо-Верде выстроились в очередь за фото с Месси после поражения",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a467fee9a7947839866abde",
-    "publishedAt": "2026-07-04T08:21:22.000Z",
-    "createdAt": "2026-07-04T11:37:22.467Z",
-    "updatedAt": "2026-07-04T11:37:22.467Z"
-  },
-  {
-    "id": "a10f24ba4e37b45c",
-    "title": "Вратарь Кабо-Верде побил рекорд по числу подписчиков среди голкиперов",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/9/81/347831517607819.jpeg",
-    "teaser": "Вратарь Кабо-Верде побил рекорд по числу подписчиков среди голкиперов",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a46dc839a794769de559719",
-    "publishedAt": "2026-07-04T08:07:04.000Z",
-    "createdAt": "2026-07-04T11:37:24.493Z",
-    "updatedAt": "2026-07-04T11:37:24.493Z"
-  },
-  {
-    "id": "eb9b7755b60d4d6b",
-    "title": "Капризов потеряет статус самого высокооплачиваемого игрока НХЛ",
-    "sport": "Хоккей",
-    "category": "Хоккей",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/3/19/347831500282193.jpeg",
-    "teaser": "Капризов потеряет статус самого высокооплачиваемого игрока НХЛ",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a481c3a9a7947e170b894c7",
-    "publishedAt": "2026-07-04T07:41:48.000Z",
-    "createdAt": "2026-07-04T11:37:25.319Z",
-    "updatedAt": "2026-07-04T11:37:25.319Z"
+    "createdAt": "2026-07-04T13:45:25.296Z",
+    "updatedAt": "2026-07-04T13:45:25.296Z"
   }
 ]
