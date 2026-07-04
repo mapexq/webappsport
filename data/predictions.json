@@ -1,6 +1,6 @@
 [
   {
-    "id": 1783120199784,
+    "id": 1783136319276,
     "eventName": "Матч",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -16,23 +16,7 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1783120199785,
-    "eventName": "Канада — Марокко",
-    "discipline": "Футбол",
-    "tournament": "Чемпионат",
-    "expert": {
-      "name": "Николай Косов",
-      "avatar": "https://bookmaker-ratings.ru/static/images/badges/is-kapper.svg?v=30092024",
-      "status": "expert",
-      "winRate": 72
-    },
-    "prediction": "Тотал (2.5) М",
-    "odds": 1.65,
-    "comment": "Думаю что игра будет осторожной и много команды не забьют.",
-    "source": "Sports Analytics Pro"
-  },
-  {
-    "id": 1783120199786,
+    "id": 1783136319277,
     "eventName": "Канада — Марокко",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -48,7 +32,23 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1783120199787,
+    "id": 1783136319278,
+    "eventName": "Канада — Марокко",
+    "discipline": "Футбол",
+    "tournament": "Чемпионат",
+    "expert": {
+      "name": "Николай Косов",
+      "avatar": "https://bookmaker-ratings.ru/static/images/badges/is-kapper.svg?v=30092024",
+      "status": "expert",
+      "winRate": 72
+    },
+    "prediction": "Тотал (2.5) М",
+    "odds": 1.65,
+    "comment": "Думаю что игра будет осторожной и много команды не забьют.",
+    "source": "Sports Analytics Pro"
+  },
+  {
+    "id": 1783136319279,
     "eventName": "Парагвай — Франция",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -64,7 +64,7 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1783120199788,
+    "id": 1783136319280,
     "eventName": "Парагвай — Франция",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -80,23 +80,7 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1783120199789,
-    "eventName": "Парагвай — Франция",
-    "discipline": "Футбол",
-    "tournament": "Чемпионат",
-    "expert": {
-      "name": "Дмитрий Федченко",
-      "avatar": "https://static-uploads.prod.bookmaker-ratings.ru/2022/11/IMG-20171018-WA0047-1.png?width=60",
-      "status": "expert",
-      "winRate": 87
-    },
-    "prediction": "Фора 2 (-1.5)",
-    "odds": 1.65,
-    "comment": "Сборная Франции явный фаворит матча и победит в два мяча и более.",
-    "source": "Sports Analytics Pro"
-  },
-  {
-    "id": 1783120199790,
+    "id": 1783136319281,
     "eventName": "Маркос Хирон — Александр Зверев",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -112,7 +96,7 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1783120199791,
+    "id": 1783136319282,
     "eventName": "Фрэнсис Тиафо — Александр Бублик",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -128,7 +112,7 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1783120199792,
+    "id": 1783136319283,
     "eventName": "Канада — Марокко",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -144,7 +128,23 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1783120199793,
+    "id": 1783136319284,
+    "eventName": "Канада — Марокко",
+    "discipline": "Футбол",
+    "tournament": "Чемпионат",
+    "expert": {
+      "name": "Александр Трибуш",
+      "avatar": "https://static-uploads.prod.bookmaker-ratings.ru/2024/03/1-16.png?width=60",
+      "status": "expert",
+      "winRate": 76
+    },
+    "prediction": "X2 и обе забьют — да",
+    "odds": 2.3,
+    "comment": "Все хозяева турнира пока удивляют и играют очень уверенно. Канада, Мексика и США легко вышли в 1/8, и нельзя недооценивать уровень канадцев. Во всех четырех матчах команда Марша стабильно создавала моменты и отличилась в каждой встрече. То есть свой гол Канада должна забить, даже против очень надежного в обороне Марокко. Марокканцы провели потрясающую игру против Нидерландов и показали свой реальный уровень — это претенденты на проход в финальные стадии ЧМ. Классом африканцы сильнее североамериканцев, но Канада может зацепиться за ничью. На стороне канадцев и фактор физической готовности: они сыграли свой матч на день раньше и решили все основное время, в то время как марокканцы прошли голландцев лишь по пенальти. Поэтому лучший вариант на игру — X2 через обе забьют за 2,30. Канадцы способны вскрыть оборону марокканцев, но едва ли будут претендовать на победу в основное время.",
+    "source": "Sports Analytics Pro"
+  },
+  {
+    "id": 1783136319285,
     "eventName": "Бразилия — Норвегия",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
