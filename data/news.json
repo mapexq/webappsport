@@ -1,5 +1,75 @@
 [
   {
+    "id": "f06aa8bb8028e4ff",
+    "title": "Свёнтек не защитила титул чемпионки Уимблдона, вылетев в третьем круге",
+    "sport": "Теннис",
+    "category": "Теннис",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/1/42/347831761855421.jpeg",
+    "teaser": "Свёнтек не защитила титул чемпионки Уимблдона, вылетев в третьем круге",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a3d28dc9a79475724da30e8",
+    "publishedAt": "2026-07-04T14:55:13.000Z",
+    "createdAt": "2026-07-04T15:10:27.999Z",
+    "updatedAt": "2026-07-04T15:10:27.999Z"
+  },
+  {
+    "id": "a3b5546ba0e79834",
+    "title": "Аршавин заявил, что Роналду «больше вредит» сборной Португалии на ЧМ",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/4/57/347831755826574.jpeg",
+    "teaser": "Аршавин заявил, что Роналду «больше вредит» сборной Португалии на ЧМ",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a49153b9a794712b3ff6012",
+    "publishedAt": "2026-07-04T14:53:26.000Z",
+    "createdAt": "2026-07-04T15:10:27.018Z",
+    "updatedAt": "2026-07-04T15:10:27.018Z"
+  },
+  {
+    "id": "8c83d1689fb6d19b",
+    "title": "Английские фанаты начали продавать билеты на матч с Мексикой за $30 тыс",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/3/11/347831730615113.jpeg",
+    "teaser": "Английские фанаты начали продавать билеты на матч с Мексикой за $30 тыс",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a49085c9a7947177bc82ef4",
+    "publishedAt": "2026-07-04T14:06:15.000Z",
+    "createdAt": "2026-07-04T15:10:30.145Z",
+    "updatedAt": "2026-07-04T15:10:30.145Z"
+  },
+  {
+    "id": "2ee1d83f2ff6a5c4",
+    "title": "Рыбакина сенсационно проиграла в третьем круге Уимблдона",
+    "sport": "Теннис",
+    "category": "Теннис",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/4/54/347831721047544.jpeg",
+    "teaser": "Рыбакина сенсационно проиграла в третьем круге Уимблдона",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a3d54579a794753fb37433e",
+    "publishedAt": "2026-07-04T13:52:45.000Z",
+    "createdAt": "2026-07-04T15:10:31.235Z",
+    "updatedAt": "2026-07-04T15:10:31.235Z"
+  },
+  {
+    "id": "d8eab0a82b4840ab",
+    "title": "Впервые за семь лет ни одна россиянка не вышла в 1/8 финала Уимблдона",
+    "sport": "Теннис",
+    "category": "Теннис",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/1/54/347831675216541.jpeg",
+    "teaser": "Впервые за семь лет ни одна россиянка не вышла в 1/8 финала Уимблдона",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a48f6f49a794772cd2983f0",
+    "publishedAt": "2026-07-04T13:47:55.000Z",
+    "createdAt": "2026-07-04T15:10:29.069Z",
+    "updatedAt": "2026-07-04T15:10:29.069Z"
+  },
+  {
     "id": "a7b6d7804ae20346",
     "title": "Плющенко заявил, что работал над четверным акселем еще 20 лет назад",
     "sport": "Другое",
@@ -10,8 +80,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a3d55849a79474e2f7e7f20",
     "publishedAt": "2026-07-04T13:26:29.000Z",
-    "createdAt": "2026-07-04T13:45:16.465Z",
-    "updatedAt": "2026-07-04T13:45:16.465Z"
+    "createdAt": "2026-07-04T15:10:32.292Z",
+    "updatedAt": "2026-07-04T15:10:32.292Z"
   },
   {
     "id": "ff61a0d2a2c9e499",
@@ -24,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a3d58fb9a79476384a418bf",
     "publishedAt": "2026-07-04T12:09:09.000Z",
-    "createdAt": "2026-07-04T13:45:18.348Z",
-    "updatedAt": "2026-07-04T13:45:18.348Z"
+    "createdAt": "2026-07-04T15:10:34.454Z",
+    "updatedAt": "2026-07-04T15:10:34.454Z"
   },
   {
     "id": "205bf9f358597016",
@@ -38,22 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a4288899a7947ace1ef7f7d",
     "publishedAt": "2026-07-04T11:55:05.000Z",
-    "createdAt": "2026-07-04T13:45:17.365Z",
-    "updatedAt": "2026-07-04T13:45:17.365Z"
-  },
-  {
-    "id": "64ce557e1ec9dc92",
-    "title": "Лидер сезона выиграл спринт на Гран-при Великобритании «Формулы-1»",
-    "sport": "Другое",
-    "category": "Формула-1",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/5/44/347831656404445.jpeg",
-    "teaser": "Лидер сезона выиграл спринт на Гран-при Великобритании «Формулы-1»",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a3d5b479a7947556df2c7fe",
-    "publishedAt": "2026-07-04T11:53:40.000Z",
-    "createdAt": "2026-07-04T13:45:21.385Z",
-    "updatedAt": "2026-07-04T13:45:21.385Z"
+    "createdAt": "2026-07-04T15:10:33.372Z",
+    "updatedAt": "2026-07-04T15:10:33.372Z"
   },
   {
     "id": "0d46b3252d3c12cc",
@@ -66,22 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a4294c89a7947498188a446",
     "publishedAt": "2026-07-04T11:12:27.000Z",
-    "createdAt": "2026-07-04T13:45:19.429Z",
-    "updatedAt": "2026-07-04T13:45:19.429Z"
-  },
-  {
-    "id": "4e333c60970defd5",
-    "title": "В полиции извинились перед сборной Египта за конфликт в Далласе на ЧМ",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/8/38/347831614374388.jpeg",
-    "teaser": "В полиции извинились перед сборной Египта за конфликт в Далласе на ЧМ",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a4423cd9a7947877c8c2bb8",
-    "publishedAt": "2026-07-04T10:56:54.000Z",
-    "createdAt": "2026-07-04T13:45:22.390Z",
-    "updatedAt": "2026-07-04T13:45:22.390Z"
+    "createdAt": "2026-07-04T15:10:35.569Z",
+    "updatedAt": "2026-07-04T15:10:35.569Z"
   },
   {
     "id": "6e32fba3219087ea",
@@ -94,49 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a47f86b9a7947e734bc7aec",
     "publishedAt": "2026-07-04T10:35:08.000Z",
-    "createdAt": "2026-07-04T13:45:20.314Z",
-    "updatedAt": "2026-07-04T13:45:20.314Z"
-  },
-  {
-    "id": "1594b525185143fc",
-    "title": "Умер бывший начальник команды хоккейного ЦСКА Сергей Авдеев",
-    "sport": "Хоккей",
-    "category": "Хоккей",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/6/60/347831592562606.jpeg",
-    "teaser": "Умер бывший начальник команды хоккейного ЦСКА Сергей Авдеев",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a441b7a9a7947f98ebc29e5",
-    "publishedAt": "2026-07-04T10:05:48.000Z",
-    "createdAt": "2026-07-04T13:45:24.223Z",
-    "updatedAt": "2026-07-04T13:45:24.223Z"
-  },
-  {
-    "id": "4aaec39d1ed380b9",
-    "title": "Месси забил с игры на ЧМ-2026 столько же, сколько Роналду за все мундиали",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/0/86/347831579998860.jpeg",
-    "teaser": "Месси забил с игры на ЧМ-2026 столько же, сколько Роналду за все мундиали",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a42b4c69a79477f17b3c121",
-    "publishedAt": "2026-07-04T09:58:38.000Z",
-    "createdAt": "2026-07-04T13:45:23.324Z",
-    "updatedAt": "2026-07-04T13:45:23.324Z"
-  },
-  {
-    "id": "9c01411686e83a85",
-    "title": "Вратарь сборной Кабо-Верде превзошел Роналду по успешным обводкам на ЧМ",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/2/09/347831566268092.jpeg",
-    "teaser": "Вратарь сборной Кабо-Верде превзошел Роналду по успешным обводкам на ЧМ",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a4422039a79475fc669b951",
-    "publishedAt": "2026-07-04T09:35:15.000Z",
-    "createdAt": "2026-07-04T13:45:25.296Z",
-    "updatedAt": "2026-07-04T13:45:25.296Z"
+    "createdAt": "2026-07-04T15:10:36.695Z",
+    "updatedAt": "2026-07-04T15:10:36.695Z"
   }
 ]
