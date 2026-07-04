@@ -1,5 +1,75 @@
 [
   {
+    "id": "4e333c60970defd5",
+    "title": "В полиции извинились перед сборной Египта за конфликт в Далласе на ЧМ",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/8/38/347831614374388.jpeg",
+    "teaser": "В полиции извинились перед сборной Египта за конфликт в Далласе на ЧМ",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a4423cd9a7947877c8c2bb8",
+    "publishedAt": "2026-07-04T10:56:54.000Z",
+    "createdAt": "2026-07-04T11:37:17.467Z",
+    "updatedAt": "2026-07-04T11:37:17.467Z"
+  },
+  {
+    "id": "6e32fba3219087ea",
+    "title": "Как «Мафия» сплотила сборную Канады перед домашним чемпионатом мира",
+    "sport": "Другое",
+    "category": "ЧМ-2026",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/9/86/347831021644869.jpeg",
+    "teaser": "Как «Мафия» сплотила сборную Канады перед домашним чемпионатом мира",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a47f86b9a7947e734bc7aec",
+    "publishedAt": "2026-07-04T10:35:08.000Z",
+    "createdAt": "2026-07-04T11:37:16.512Z",
+    "updatedAt": "2026-07-04T11:37:16.512Z"
+  },
+  {
+    "id": "1594b525185143fc",
+    "title": "Умер бывший начальник команды хоккейного ЦСКА Сергей Авдеев",
+    "sport": "Хоккей",
+    "category": "Хоккей",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/6/60/347831592562606.jpeg",
+    "teaser": "Умер бывший начальник команды хоккейного ЦСКА Сергей Авдеев",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a441b7a9a7947f98ebc29e5",
+    "publishedAt": "2026-07-04T10:05:48.000Z",
+    "createdAt": "2026-07-04T11:37:19.402Z",
+    "updatedAt": "2026-07-04T11:37:19.402Z"
+  },
+  {
+    "id": "4aaec39d1ed380b9",
+    "title": "Месси забил с игры на ЧМ-2026 столько же, сколько Роналду за все мундиали",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/0/86/347831579998860.jpeg",
+    "teaser": "Месси забил с игры на ЧМ-2026 столько же, сколько Роналду за все мундиали",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a42b4c69a79477f17b3c121",
+    "publishedAt": "2026-07-04T09:58:38.000Z",
+    "createdAt": "2026-07-04T11:37:18.444Z",
+    "updatedAt": "2026-07-04T11:37:18.444Z"
+  },
+  {
+    "id": "9c01411686e83a85",
+    "title": "Вратарь сборной Кабо-Верде превзошел Роналду по успешным обводкам на ЧМ",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/2/09/347831566268092.jpeg",
+    "teaser": "Вратарь сборной Кабо-Верде превзошел Роналду по успешным обводкам на ЧМ",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a4422039a79475fc669b951",
+    "publishedAt": "2026-07-04T09:35:15.000Z",
+    "createdAt": "2026-07-04T11:37:20.426Z",
+    "updatedAt": "2026-07-04T11:37:20.426Z"
+  },
+  {
     "id": "6a629d692128d6ab",
     "title": "В Петербурге простились с олимпийским чемпионом Артуром Дмитриевым",
     "sport": "Другое",
@@ -10,8 +80,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a4575ff9a794712b167d53c",
     "publishedAt": "2026-07-04T09:12:16.000Z",
-    "createdAt": "2026-07-04T09:26:19.082Z",
-    "updatedAt": "2026-07-04T09:26:19.082Z"
+    "createdAt": "2026-07-04T11:37:21.439Z",
+    "updatedAt": "2026-07-04T11:37:21.439Z"
   },
   {
     "id": "f26c4617bb0dd12f",
@@ -24,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a46652e9a794775fb2a5957",
     "publishedAt": "2026-07-04T08:49:24.000Z",
-    "createdAt": "2026-07-04T09:26:21.003Z",
-    "updatedAt": "2026-07-04T09:26:21.003Z"
+    "createdAt": "2026-07-04T11:37:23.475Z",
+    "updatedAt": "2026-07-04T11:37:23.475Z"
   },
   {
     "id": "94d91ee81e0c9727",
@@ -38,8 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a467fee9a7947839866abde",
     "publishedAt": "2026-07-04T08:21:22.000Z",
-    "createdAt": "2026-07-04T09:26:20.049Z",
-    "updatedAt": "2026-07-04T09:26:20.049Z"
+    "createdAt": "2026-07-04T11:37:22.467Z",
+    "updatedAt": "2026-07-04T11:37:22.467Z"
   },
   {
     "id": "a10f24ba4e37b45c",
@@ -52,22 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a46dc839a794769de559719",
     "publishedAt": "2026-07-04T08:07:04.000Z",
-    "createdAt": "2026-07-04T09:26:21.974Z",
-    "updatedAt": "2026-07-04T09:26:21.974Z"
-  },
-  {
-    "id": "180010de7320a789",
-    "title": "Исход 8 из 16 матчей старта плей-офф ЧМ решился на последних минутах",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/5/26/347830993877265.jpeg",
-    "teaser": "Исход 8 из 16 матчей старта плей-офф ЧМ решился на последних минутах",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a47efa59a79473a259943e7",
-    "publishedAt": "2026-07-04T07:50:44.000Z",
-    "createdAt": "2026-07-04T09:26:24.455Z",
-    "updatedAt": "2026-07-04T09:26:24.455Z"
+    "createdAt": "2026-07-04T11:37:24.493Z",
+    "updatedAt": "2026-07-04T11:37:24.493Z"
   },
   {
     "id": "eb9b7755b60d4d6b",
@@ -80,63 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a481c3a9a7947e170b894c7",
     "publishedAt": "2026-07-04T07:41:48.000Z",
-    "createdAt": "2026-07-04T09:26:23.535Z",
-    "updatedAt": "2026-07-04T09:26:23.535Z"
-  },
-  {
-    "id": "31d7ac8f385c867f",
-    "title": "Как выступили дебютанты на чемпионате мира по футболу",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/7/05/347831490204057.jpeg",
-    "teaser": "Как выступили дебютанты на чемпионате мира по футболу",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a4832c69a794737186f0aa0",
-    "publishedAt": "2026-07-04T07:21:25.000Z",
-    "createdAt": "2026-07-04T09:26:26.463Z",
-    "updatedAt": "2026-07-04T09:26:26.463Z"
-  },
-  {
-    "id": "c35a978be14e0815",
-    "title": "Какие рекорды побили и какие побьют на чемпионате мира-2026",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/1/75/347811863886751.jpeg",
-    "teaser": "Какие рекорды побили и какие побьют на чемпионате мира-2026",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a2a9d069a79477e011a17fc",
-    "publishedAt": "2026-07-04T06:58:52.000Z",
-    "createdAt": "2026-07-04T09:26:27.482Z",
-    "updatedAt": "2026-07-04T09:26:27.482Z"
-  },
-  {
-    "id": "b9f8e6901e425532",
-    "title": "Определились все пары 1/8 финала чемпионата мира по футболу",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/4/54/347829751742544.jpeg",
-    "teaser": "Определились все пары 1/8 финала чемпионата мира по футболу",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a46078a9a7947fb0f5a34d8",
-    "publishedAt": "2026-07-04T06:55:11.000Z",
-    "createdAt": "2026-07-04T09:26:25.503Z",
-    "updatedAt": "2026-07-04T09:26:25.503Z"
-  },
-  {
-    "id": "06edd114889d0d89",
-    "title": "Расписание матчей 1/8 финала чемпионата мира 2026 года",
-    "sport": "Другое",
-    "category": "ЧМ-2026",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/1/52/347831463555521.jpeg",
-    "teaser": "Расписание матчей 1/8 финала чемпионата мира 2026 года",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a48a5619a7947005dd30b9c",
-    "publishedAt": "2026-07-04T06:45:06.000Z",
-    "createdAt": "2026-07-04T09:26:28.519Z",
-    "updatedAt": "2026-07-04T09:26:28.519Z"
+    "createdAt": "2026-07-04T11:37:25.319Z",
+    "updatedAt": "2026-07-04T11:37:25.319Z"
   }
 ]
