@@ -1,5 +1,61 @@
 [
   {
+    "id": "8a08cebfc0b06dca",
+    "title": "Леклер впервые с 2024 года выиграл Гран-при «Формулы-1»",
+    "sport": "Другое",
+    "category": "Формула-1",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/0/80/347832652292800.jpeg",
+    "teaser": "Леклер впервые с 2024 года выиграл Гран-при «Формулы-1»",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a4a73999a7947b1bb84d146",
+    "publishedAt": "2026-07-05T15:42:04.000Z",
+    "createdAt": "2026-07-05T16:13:39.881Z",
+    "updatedAt": "2026-07-05T16:13:39.881Z"
+  },
+  {
+    "id": "6b460162d551938a",
+    "title": "Мексиканские футболисты вернули подаренные часы стоимостью $1 млн",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/1/44/347832611901441.jpeg",
+    "teaser": "Мексиканские футболисты вернули подаренные часы стоимостью $1 млн",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a4a62f59a79473494b7672e",
+    "publishedAt": "2026-07-05T14:49:58.000Z",
+    "createdAt": "2026-07-05T16:13:40.929Z",
+    "updatedAt": "2026-07-05T16:13:40.929Z"
+  },
+  {
+    "id": "b6ff8474c5985240",
+    "title": "Стали известны футболисты, которые больше всех ходят пешком на ЧМ-2026",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/5/23/347832618259235.jpeg",
+    "teaser": "Стали известны футболисты, которые больше всех ходят пешком на ЧМ-2026",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a4a6a519a794774ef60731d",
+    "publishedAt": "2026-07-05T14:46:18.000Z",
+    "createdAt": "2026-07-05T16:13:41.985Z",
+    "updatedAt": "2026-07-05T16:13:41.985Z"
+  },
+  {
+    "id": "eb34ab9e475a1547",
+    "title": "Клуб Слуцкого выиграл третий матч подряд",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/1/50/347832606267501.png",
+    "teaser": "Клуб Слуцкого выиграл третий матч подряд",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a4a634b9a7947a7ba067188",
+    "publishedAt": "2026-07-05T14:21:07.000Z",
+    "createdAt": "2026-07-05T16:13:42.960Z",
+    "updatedAt": "2026-07-05T16:13:42.960Z"
+  },
+  {
     "id": "e65a6167cef910e2",
     "title": "Главный тренер Парагвая опроверг оскорбления в адрес матери Дешама",
     "sport": "Футбол",
@@ -10,8 +66,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a4a59e89a7947aedcd059ae",
     "publishedAt": "2026-07-05T13:48:11.000Z",
-    "createdAt": "2026-07-05T14:47:21.046Z",
-    "updatedAt": "2026-07-05T14:47:21.046Z"
+    "createdAt": "2026-07-05T16:13:43.944Z",
+    "updatedAt": "2026-07-05T16:13:43.944Z"
   },
   {
     "id": "36250f1f0fb3f57a",
@@ -24,8 +80,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a4a57ae9a7947602bae1001",
     "publishedAt": "2026-07-05T13:30:36.000Z",
-    "createdAt": "2026-07-05T14:47:21.941Z",
-    "updatedAt": "2026-07-05T14:47:21.941Z"
+    "createdAt": "2026-07-05T16:13:44.925Z",
+    "updatedAt": "2026-07-05T16:13:44.925Z"
   },
   {
     "id": "e00183971e61256c",
@@ -38,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a4a46879a79472fea482ecc",
     "publishedAt": "2026-07-05T12:36:18.000Z",
-    "createdAt": "2026-07-05T14:47:22.842Z",
-    "updatedAt": "2026-07-05T14:47:22.842Z"
+    "createdAt": "2026-07-05T16:13:46.008Z",
+    "updatedAt": "2026-07-05T16:13:46.008Z"
   },
   {
     "id": "9e30e39e7632649e",
@@ -52,8 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a4a3cda9a79472fea482eb9",
     "publishedAt": "2026-07-05T12:00:41.000Z",
-    "createdAt": "2026-07-05T14:47:23.650Z",
-    "updatedAt": "2026-07-05T14:47:23.650Z"
+    "createdAt": "2026-07-05T16:13:46.993Z",
+    "updatedAt": "2026-07-05T16:13:46.993Z"
   },
   {
     "id": "f13b9ac1a070b7c7",
@@ -66,8 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a4938eb9a79472475a77125",
     "publishedAt": "2026-07-05T11:05:55.000Z",
-    "createdAt": "2026-07-05T14:47:24.562Z",
-    "updatedAt": "2026-07-05T14:47:24.562Z"
+    "createdAt": "2026-07-05T16:13:47.846Z",
+    "updatedAt": "2026-07-05T16:13:47.846Z"
   },
   {
     "id": "0c71d149e41ee047",
@@ -80,63 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a4a36359a79472fea482e9c",
     "publishedAt": "2026-07-05T11:00:40.000Z",
-    "createdAt": "2026-07-05T14:47:25.672Z",
-    "updatedAt": "2026-07-05T14:47:25.672Z"
-  },
-  {
-    "id": "512bbf69bf6c4472",
-    "title": "Вратарь Парагвая бросил мяч в Мбаппе после отказа француза от рукопожатия",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/0/03/347832465887030.jpeg",
-    "teaser": "Вратарь Парагвая бросил мяч в Мбаппе после отказа француза от рукопожатия",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a4a2c159a794747e28bb3c5",
-    "publishedAt": "2026-07-05T10:36:15.000Z",
-    "createdAt": "2026-07-05T14:47:26.571Z",
-    "updatedAt": "2026-07-05T14:47:26.571Z"
-  },
-  {
-    "id": "1808b8882c98132a",
-    "title": "Почему в 1/8 финала ЧМ-2026 Норвегия обыграет Бразилию?",
-    "sport": "Другое",
-    "category": "ЧМ-2026",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/4/20/347832444260204.jpeg",
-    "teaser": "Почему в 1/8 финала ЧМ-2026 Норвегия обыграет Бразилию?",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a4a25819a79476746f5f00d",
-    "publishedAt": "2026-07-05T09:53:40.000Z",
-    "createdAt": "2026-07-05T14:47:29.698Z",
-    "updatedAt": "2026-07-05T14:47:29.698Z"
-  },
-  {
-    "id": "351f7b59e36c2187",
-    "title": "Кто продолжает выступление в плей-офф чемпионата мира по футболу",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/4/13/347829798068134.jpeg",
-    "teaser": "Кто продолжает выступление в плей-офф чемпионата мира по футболу",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a4617dd9a79474eeb629bec",
-    "publishedAt": "2026-07-05T06:37:29.000Z",
-    "createdAt": "2026-07-05T14:47:28.661Z",
-    "updatedAt": "2026-07-05T14:47:28.661Z"
-  },
-  {
-    "id": "69541dfcd996d15d",
-    "title": "Какие пары определились в четвертьфинале чемпионата мира-2026",
-    "sport": "Другое",
-    "category": "ЧМ-2026",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/2/78/347832316157782.jpeg",
-    "teaser": "Какие пары определились в четвертьфинале чемпионата мира-2026",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a49f2639a794776945db995",
-    "publishedAt": "2026-07-05T06:18:33.000Z",
-    "createdAt": "2026-07-05T14:47:27.595Z",
-    "updatedAt": "2026-07-05T14:47:27.595Z"
+    "createdAt": "2026-07-05T16:13:48.839Z",
+    "updatedAt": "2026-07-05T16:13:48.839Z"
   }
 ]
