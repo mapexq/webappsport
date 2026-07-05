@@ -1,5 +1,19 @@
 [
   {
+    "id": "d30dd17adabfd891",
+    "title": "Мбаппе побил рекорд по голам в плей-офф на ЧМ",
+    "sport": "Другое",
+    "category": "ЧМ-2026",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/6/87/347832295174876.jpeg",
+    "teaser": "Мбаппе побил рекорд по голам в плей-офф на ЧМ",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a49ea039a794732559d9175",
+    "publishedAt": "2026-07-05T05:49:50.000Z",
+    "createdAt": "2026-07-05T07:34:17.497Z",
+    "updatedAt": "2026-07-05T07:34:17.497Z"
+  },
+  {
     "id": "29a1f4521cd452d8",
     "title": "Тренера сборной ЧМ-2026 уволили спустя после назначения",
     "sport": "Футбол",
@@ -10,8 +24,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a495ee19a7947f365442971",
     "publishedAt": "2026-07-04T19:51:21.000Z",
-    "createdAt": "2026-07-05T03:57:33.913Z",
-    "updatedAt": "2026-07-05T03:57:33.913Z"
+    "createdAt": "2026-07-05T07:34:18.463Z",
+    "updatedAt": "2026-07-05T07:34:18.463Z"
   },
   {
     "id": "fd587d5594e200cb",
@@ -24,8 +38,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a494e5a9a794724b53d0fea",
     "publishedAt": "2026-07-04T19:03:54.000Z",
-    "createdAt": "2026-07-05T03:57:34.984Z",
-    "updatedAt": "2026-07-05T03:57:34.984Z"
+    "createdAt": "2026-07-05T07:34:19.482Z",
+    "updatedAt": "2026-07-05T07:34:19.482Z"
   },
   {
     "id": "d90aa8371f6ec93a",
@@ -38,8 +52,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a49493d9a79478793d2970f",
     "publishedAt": "2026-07-04T18:16:49.000Z",
-    "createdAt": "2026-07-05T03:57:36.022Z",
-    "updatedAt": "2026-07-05T03:57:36.022Z"
+    "createdAt": "2026-07-05T07:34:20.437Z",
+    "updatedAt": "2026-07-05T07:34:20.437Z"
   },
   {
     "id": "d43f319a8de80e3e",
@@ -52,8 +66,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a3c01449a7947301d7e0c85",
     "publishedAt": "2026-07-04T18:03:49.000Z",
-    "createdAt": "2026-07-05T03:57:37.005Z",
-    "updatedAt": "2026-07-05T03:57:37.005Z"
+    "createdAt": "2026-07-05T07:34:21.447Z",
+    "updatedAt": "2026-07-05T07:34:21.447Z"
   },
   {
     "id": "eda7b8390d478ec8",
@@ -66,8 +80,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a4942b89a7947ebb08cb95f",
     "publishedAt": "2026-07-04T17:46:43.000Z",
-    "createdAt": "2026-07-05T03:57:38.051Z",
-    "updatedAt": "2026-07-05T03:57:38.051Z"
+    "createdAt": "2026-07-05T07:34:22.451Z",
+    "updatedAt": "2026-07-05T07:34:22.451Z"
   },
   {
     "id": "63dd2a2c4df1e0cd",
@@ -80,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a3d3b999a794727e3df7f2f",
     "publishedAt": "2026-07-04T17:15:32.000Z",
-    "createdAt": "2026-07-05T03:57:41.122Z",
-    "updatedAt": "2026-07-05T03:57:41.122Z"
+    "createdAt": "2026-07-05T07:34:25.547Z",
+    "updatedAt": "2026-07-05T07:34:25.547Z"
   },
   {
     "id": "4cdf0ce054564089",
@@ -94,8 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a3c10759a794760d1850e3e",
     "publishedAt": "2026-07-04T16:56:53.000Z",
-    "createdAt": "2026-07-05T03:57:40.101Z",
-    "updatedAt": "2026-07-05T03:57:40.101Z"
+    "createdAt": "2026-07-05T07:34:24.518Z",
+    "updatedAt": "2026-07-05T07:34:24.518Z"
   },
   {
     "id": "705cba8f39c32d98",
@@ -108,22 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a3c23719a7947523b22780b",
     "publishedAt": "2026-07-04T16:48:13.000Z",
-    "createdAt": "2026-07-05T03:57:39.076Z",
-    "updatedAt": "2026-07-05T03:57:39.076Z"
-  },
-  {
-    "id": "54c636e738b8f51b",
-    "title": "Антонелли выиграл пятую в сезоне «Формулы-1» квалификацию",
-    "sport": "Другое",
-    "category": "Формула-1",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/6/85/347831819585856.jpeg",
-    "teaser": "Антонелли выиграл пятую в сезоне «Формулы-1» квалификацию",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a3d195a9a79473a6ccac71c",
-    "publishedAt": "2026-07-04T16:35:19.000Z",
-    "createdAt": "2026-07-05T03:57:43.186Z",
-    "updatedAt": "2026-07-05T03:57:43.186Z"
+    "createdAt": "2026-07-05T07:34:23.466Z",
+    "updatedAt": "2026-07-05T07:34:23.466Z"
   },
   {
     "id": "4614ed0d9fe0c1e6",
@@ -136,7 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a4926af9a7947e9961b991d",
     "publishedAt": "2026-07-04T16:25:35.000Z",
-    "createdAt": "2026-07-05T03:57:42.152Z",
-    "updatedAt": "2026-07-05T03:57:42.152Z"
+    "createdAt": "2026-07-05T07:34:26.559Z",
+    "updatedAt": "2026-07-05T07:34:26.559Z"
   }
 ]
