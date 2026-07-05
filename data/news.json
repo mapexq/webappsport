@@ -1,17 +1,73 @@
 [
   {
-    "id": "84a2c175d2e0c495",
-    "title": "Почему в четвертьфинал ЧМ-2026 выйдет Норвегия?",
+    "id": "9e30e39e7632649e",
+    "title": "Вратаря сборной Украины по хоккею мобилизовали в ВСУ",
+    "sport": "Хоккей",
+    "category": "Хоккей",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/6/66/347832507952666.png",
+    "teaser": "Вратаря сборной Украины по хоккею мобилизовали в ВСУ",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a4a3cda9a79472fea482eb9",
+    "publishedAt": "2026-07-05T12:00:41.000Z",
+    "createdAt": "2026-07-05T12:20:19.140Z",
+    "updatedAt": "2026-07-05T12:20:19.140Z"
+  },
+  {
+    "id": "f13b9ac1a070b7c7",
+    "title": "«Виагра» в помощь. Почему Англию будет ждать «ужас» в матче 1/8 финала ЧМ",
+    "sport": "Другое",
+    "category": "ЧМ-2026",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/8/41/347832403091418.jpeg",
+    "teaser": "«Виагра» в помощь. Почему Англию будет ждать «ужас» в матче 1/8 финала ЧМ",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a4938eb9a79472475a77125",
+    "publishedAt": "2026-07-05T11:05:55.000Z",
+    "createdAt": "2026-07-05T12:20:20.247Z",
+    "updatedAt": "2026-07-05T12:20:20.247Z"
+  },
+  {
+    "id": "0c71d149e41ee047",
+    "title": "Фабрицио Романо назвал нового главного тренера сборной Германии",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/2/75/347832489793752.jpeg",
+    "teaser": "Фабрицио Романо назвал нового главного тренера сборной Германии",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a4a36359a79472fea482e9c",
+    "publishedAt": "2026-07-05T11:00:40.000Z",
+    "createdAt": "2026-07-05T12:20:21.345Z",
+    "updatedAt": "2026-07-05T12:20:21.345Z"
+  },
+  {
+    "id": "512bbf69bf6c4472",
+    "title": "Вратарь Парагвая бросил мяч в Мбаппе после отказа француза от рукопожатия",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/0/03/347832465887030.jpeg",
+    "teaser": "Вратарь Парагвая бросил мяч в Мбаппе после отказа француза от рукопожатия",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a4a2c159a794747e28bb3c5",
+    "publishedAt": "2026-07-05T10:36:15.000Z",
+    "createdAt": "2026-07-05T12:20:22.391Z",
+    "updatedAt": "2026-07-05T12:20:22.391Z"
+  },
+  {
+    "id": "1808b8882c98132a",
+    "title": "Почему в 1/8 финала ЧМ-2026 Норвегия обыграет Бразилию?",
     "sport": "Другое",
     "category": "ЧМ-2026",
     "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/4/20/347832444260204.jpeg",
-    "teaser": "Почему в четвертьфинал ЧМ-2026 выйдет Норвегия?",
+    "teaser": "Почему в 1/8 финала ЧМ-2026 Норвегия обыграет Бразилию?",
     "fullContent": "",
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a4a25819a79476746f5f00d",
     "publishedAt": "2026-07-05T09:53:40.000Z",
-    "createdAt": "2026-07-05T10:21:37.557Z",
-    "updatedAt": "2026-07-05T10:21:37.557Z"
+    "createdAt": "2026-07-05T12:20:23.447Z",
+    "updatedAt": "2026-07-05T12:20:23.447Z"
   },
   {
     "id": "5f6e50dff4f6d6c4",
@@ -24,8 +80,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a4a03c49a79476746f5ef93",
     "publishedAt": "2026-07-05T08:00:08.000Z",
-    "createdAt": "2026-07-05T10:21:38.578Z",
-    "updatedAt": "2026-07-05T10:21:38.578Z"
+    "createdAt": "2026-07-05T12:20:24.953Z",
+    "updatedAt": "2026-07-05T12:20:24.953Z"
   },
   {
     "id": "351f7b59e36c2187",
@@ -38,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a4617dd9a79474eeb629bec",
     "publishedAt": "2026-07-05T06:37:29.000Z",
-    "createdAt": "2026-07-05T10:21:41.820Z",
-    "updatedAt": "2026-07-05T10:21:41.820Z"
+    "createdAt": "2026-07-05T12:20:28.314Z",
+    "updatedAt": "2026-07-05T12:20:28.314Z"
   },
   {
     "id": "69541dfcd996d15d",
@@ -52,8 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a49f2639a794776945db995",
     "publishedAt": "2026-07-05T06:18:33.000Z",
-    "createdAt": "2026-07-05T10:21:39.646Z",
-    "updatedAt": "2026-07-05T10:21:39.646Z"
+    "createdAt": "2026-07-05T12:20:27.227Z",
+    "updatedAt": "2026-07-05T12:20:27.227Z"
   },
   {
     "id": "d30dd17adabfd891",
@@ -66,8 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a49ea039a794732559d9175",
     "publishedAt": "2026-07-05T05:49:50.000Z",
-    "createdAt": "2026-07-05T10:21:40.681Z",
-    "updatedAt": "2026-07-05T10:21:40.681Z"
+    "createdAt": "2026-07-05T12:20:26.087Z",
+    "updatedAt": "2026-07-05T12:20:26.087Z"
   },
   {
     "id": "29a1f4521cd452d8",
@@ -80,63 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a495ee19a7947f365442971",
     "publishedAt": "2026-07-04T19:51:21.000Z",
-    "createdAt": "2026-07-05T10:21:42.889Z",
-    "updatedAt": "2026-07-05T10:21:42.889Z"
-  },
-  {
-    "id": "fd587d5594e200cb",
-    "title": "Сборная Марокко победила Канаду и стала первым четвертьфиналистом ЧМ-2026",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/0/71/347831903119710.jpeg",
-    "teaser": "Сборная Марокко победила Канаду и стала первым четвертьфиналистом ЧМ-2026",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a494e5a9a794724b53d0fea",
-    "publishedAt": "2026-07-04T19:03:54.000Z",
-    "createdAt": "2026-07-05T10:21:43.825Z",
-    "updatedAt": "2026-07-05T10:21:43.825Z"
-  },
-  {
-    "id": "d90aa8371f6ec93a",
-    "title": "Сборную Англии освистали по прибытии в Мехико на матч 1/8 финала ЧМ-2026",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/1/35/347831882718351.jpeg",
-    "teaser": "Сборную Англии освистали по прибытии в Мехико на матч 1/8 финала ЧМ-2026",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a49493d9a79478793d2970f",
-    "publishedAt": "2026-07-04T18:16:49.000Z",
-    "createdAt": "2026-07-05T10:21:44.886Z",
-    "updatedAt": "2026-07-05T10:21:44.886Z"
-  },
-  {
-    "id": "d43f319a8de80e3e",
-    "title": "Впервые на ЧМ по футболу за тайм было больше желтых карточек, чем ударов",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/3/49/347831880124493.jpeg",
-    "teaser": "Впервые на ЧМ по футболу за тайм было больше желтых карточек, чем ударов",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a3c01449a7947301d7e0c85",
-    "publishedAt": "2026-07-04T18:03:49.000Z",
-    "createdAt": "2026-07-05T10:21:46.037Z",
-    "updatedAt": "2026-07-05T10:21:46.037Z"
-  },
-  {
-    "id": "eda7b8390d478ec8",
-    "title": "Лучший бомбардир Марокко получил травму в матче 1/8 финала ЧМ с Канадой",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/0/33/347831868578330.jpeg",
-    "teaser": "Лучший бомбардир Марокко получил травму в матче 1/8 финала ЧМ с Канадой",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a4942b89a7947ebb08cb95f",
-    "publishedAt": "2026-07-04T17:46:43.000Z",
-    "createdAt": "2026-07-05T10:21:47.137Z",
-    "updatedAt": "2026-07-05T10:21:47.137Z"
+    "createdAt": "2026-07-05T12:20:29.379Z",
+    "updatedAt": "2026-07-05T12:20:29.379Z"
   }
 ]
