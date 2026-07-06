@@ -1,5 +1,89 @@
 [
   {
+    "id": "199119f1a7c67cc0",
+    "title": "В РФС заявили, что Россия сможет провести матчи УЕФА после снятия санкций",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/5/93/347833455546935.jpeg",
+    "teaser": "В РФС заявили, что Россия сможет провести матчи УЕФА после снятия санкций",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a4bab7a9a7947a0791d96f9",
+    "publishedAt": "2026-07-06T14:00:15.000Z",
+    "createdAt": "2026-07-06T14:29:33.055Z",
+    "updatedAt": "2026-07-06T14:29:33.055Z"
+  },
+  {
+    "id": "3e7fe373b9f4f769",
+    "title": "Магомед Оздоев перешел в «Краснодар»",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/2/13/347833404503132.png",
+    "teaser": "Магомед Оздоев перешел в «Краснодар»",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a4b9c289a79476dd323b51b",
+    "publishedAt": "2026-07-06T12:52:22.000Z",
+    "createdAt": "2026-07-06T14:29:34.043Z",
+    "updatedAt": "2026-07-06T14:29:34.043Z"
+  },
+  {
+    "id": "aaf9319a9348aca6",
+    "title": "Юрген Клопп назвал безумием решение ФИФА по футболисту США Балогуну",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/6/95/347833384456956.jpeg",
+    "teaser": "Юрген Клопп назвал безумием решение ФИФА по футболисту США Балогуну",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a4b909e9a7947607af4ba63",
+    "publishedAt": "2026-07-06T12:16:59.000Z",
+    "createdAt": "2026-07-06T14:29:35.011Z",
+    "updatedAt": "2026-07-06T14:29:35.011Z"
+  },
+  {
+    "id": "d3e328c6f7c8c6cf",
+    "title": "Глава МИД Бельгии усомнился в способности ФИФА защитить честную игру",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/4/90/347833337515904.png",
+    "teaser": "Глава МИД Бельгии усомнился в способности ФИФА защитить честную игру",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a4b833a9a7947607af4ba21",
+    "publishedAt": "2026-07-06T11:11:41.000Z",
+    "createdAt": "2026-07-06T14:29:36.059Z",
+    "updatedAt": "2026-07-06T14:29:36.059Z"
+  },
+  {
+    "id": "f23cd933cd123ee1",
+    "title": "Отбывавший дисквалификацию за ставки футболист перешел в «Тоттенхэм»",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/5/04/347833352911045.jpeg",
+    "teaser": "Отбывавший дисквалификацию за ставки футболист перешел в «Тоттенхэм»",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a4b7f289a794744404e2bfe",
+    "publishedAt": "2026-07-06T11:05:17.000Z",
+    "createdAt": "2026-07-06T14:29:37.091Z",
+    "updatedAt": "2026-07-06T14:29:37.091Z"
+  },
+  {
+    "id": "09d51e519c732539",
+    "title": "УЕФА обвинил ФИФА в переходе красной линии из-за решения по сборной США",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/2/39/347833313409392.jpeg",
+    "teaser": "УЕФА обвинил ФИФА в переходе красной линии из-за решения по сборной США",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a4b791f9a7947b72b45ffbf",
+    "publishedAt": "2026-07-06T10:18:49.000Z",
+    "createdAt": "2026-07-06T14:29:39.307Z",
+    "updatedAt": "2026-07-06T14:29:39.307Z"
+  },
+  {
     "id": "bc840d8c08291976",
     "title": "В Лос-Анджелесе произошла стрельба после матча ЧМ-2026",
     "sport": "Футбол",
@@ -10,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a4b67fd9a7947b503a1defb",
     "publishedAt": "2026-07-06T10:16:28.000Z",
-    "createdAt": "2026-07-06T10:48:05.766Z",
-    "updatedAt": "2026-07-06T10:48:05.766Z"
+    "createdAt": "2026-07-06T14:29:40.344Z",
+    "updatedAt": "2026-07-06T14:29:40.344Z"
   },
   {
     "id": "ad269ccb5d5873b6",
@@ -24,8 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a4b71419a794731a62426b0",
     "publishedAt": "2026-07-06T09:52:11.000Z",
-    "createdAt": "2026-07-06T10:48:07.789Z",
-    "updatedAt": "2026-07-06T10:48:07.789Z"
+    "createdAt": "2026-07-06T14:29:42.492Z",
+    "updatedAt": "2026-07-06T14:29:42.492Z"
   },
   {
     "id": "4e2d86681f767c6c",
@@ -38,8 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a4b6e329a7947cc882a1439",
     "publishedAt": "2026-07-06T09:42:03.000Z",
-    "createdAt": "2026-07-06T10:48:06.741Z",
-    "updatedAt": "2026-07-06T10:48:06.741Z"
+    "createdAt": "2026-07-06T14:29:41.399Z",
+    "updatedAt": "2026-07-06T14:29:41.399Z"
   },
   {
     "id": "439c2e966e84eb04",
@@ -52,91 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a4a68329a794728b70adb07",
     "publishedAt": "2026-07-06T09:20:07.000Z",
-    "createdAt": "2026-07-06T10:48:08.982Z",
-    "updatedAt": "2026-07-06T10:48:08.982Z"
-  },
-  {
-    "id": "37e5ef0ee50efb01",
-    "title": "Канадка побила самый старый рекорд в женском мировом плавании",
-    "sport": "Другое",
-    "category": "Другие",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/3/09/347833279404093.jpeg",
-    "teaser": "Канадка побила самый старый рекорд в женском мировом плавании",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a4b4b659a79470b6a434128",
-    "publishedAt": "2026-07-06T09:09:33.000Z",
-    "createdAt": "2026-07-06T10:48:10.009Z",
-    "updatedAt": "2026-07-06T10:48:10.009Z"
-  },
-  {
-    "id": "3434e4792dee64d3",
-    "title": "Президент Мексики отреагировала на вылет сборной из ЧМ-2026",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/3/24/347833257237243.jpeg",
-    "teaser": "Президент Мексики отреагировала на вылет сборной из ЧМ-2026",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a4b5f279a794775a80dbe0b",
-    "publishedAt": "2026-07-06T08:35:13.000Z",
-    "createdAt": "2026-07-06T10:48:11.020Z",
-    "updatedAt": "2026-07-06T10:48:11.020Z"
-  },
-  {
-    "id": "661e187bcdb85310",
-    "title": "Игрок сборной Англии получил травму из-за празднования победы в матче ЧМ",
-    "sport": "Другое",
-    "category": "ЧМ-2026",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/7/55/347833237566557.jpeg",
-    "teaser": "Игрок сборной Англии получил травму из-за празднования победы в матче ЧМ",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a4b571b9a794789b574104e",
-    "publishedAt": "2026-07-06T08:13:52.000Z",
-    "createdAt": "2026-07-06T10:48:12.054Z",
-    "updatedAt": "2026-07-06T10:48:12.054Z"
-  },
-  {
-    "id": "9aa25ae13a1dd8d3",
-    "title": "Какие сенсации произошли на чемпионате мира-2026",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/6/46/347817084963466.jpeg",
-    "teaser": "Какие сенсации произошли на чемпионате мира-2026",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a32a2189a79470b27770124",
-    "publishedAt": "2026-07-06T07:42:36.000Z",
-    "createdAt": "2026-07-06T10:48:15.040Z",
-    "updatedAt": "2026-07-06T10:48:15.040Z"
-  },
-  {
-    "id": "7cd73eb6c73755f4",
-    "title": "Как стать ведущей сборной на ЧМ-2026 за счет игроков из других стран",
-    "sport": "Другое",
-    "category": "ЧМ-2026",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/2/29/347825077531292.jpeg",
-    "teaser": "Как стать ведущей сборной на ЧМ-2026 за счет игроков из других стран",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a3eb8b29a794708bcb13a91",
-    "publishedAt": "2026-07-06T05:37:35.000Z",
-    "createdAt": "2026-07-06T10:48:14.064Z",
-    "updatedAt": "2026-07-06T10:48:14.064Z"
-  },
-  {
-    "id": "daa38e5915dd86d3",
-    "title": "Роналду против Ямаля. Чего ждать в третий день 1/8 финала ЧМ-2026",
-    "sport": "Другое",
-    "category": "ЧМ-2026",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/2/17/347832579178172.jpeg",
-    "teaser": "Роналду против Ямаля. Чего ждать в третий день 1/8 финала ЧМ-2026",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a4a456e9a7947ab0853ccef",
-    "publishedAt": "2026-07-06T04:05:25.000Z",
-    "createdAt": "2026-07-06T10:48:13.045Z",
-    "updatedAt": "2026-07-06T10:48:13.045Z"
+    "createdAt": "2026-07-06T14:29:38.323Z",
+    "updatedAt": "2026-07-06T14:29:38.323Z"
   }
 ]
