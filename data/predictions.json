@@ -1,6 +1,6 @@
 [
   {
-    "id": 1783383221606,
+    "id": 1783400228160,
     "eventName": "Аргентина — Египет",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -16,7 +16,23 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1783383221607,
+    "id": 1783400228161,
+    "eventName": "Аргентина — Египет",
+    "discipline": "Футбол",
+    "tournament": "Чемпионат",
+    "expert": {
+      "name": "Алексей Мехедов",
+      "avatar": "https://bookmaker-ratings.ru/static/images/badges/is-kapper.svg?v=30092024",
+      "status": "expert",
+      "winRate": 84
+    },
+    "prediction": "Обе забьют (Да)",
+    "odds": 2.47,
+    "comment": "В этом матче две сборнве с потрепанной обороной и думаю атака двст нам голы",
+    "source": "Sports Analytics Pro"
+  },
+  {
+    "id": 1783400228162,
     "eventName": "Аргентина — Египет",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -32,7 +48,7 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1783383221608,
+    "id": 1783400228163,
     "eventName": "Аргентина — Египет",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -48,7 +64,7 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1783383221609,
+    "id": 1783400228164,
     "eventName": "Аргентина — Египет",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -64,7 +80,7 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1783383221610,
+    "id": 1783400228165,
     "eventName": "Аргентина — Египет",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -80,7 +96,7 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1783383221611,
+    "id": 1783400228166,
     "eventName": "Аргентина — Египет",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -96,7 +112,7 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1783383221612,
+    "id": 1783400228167,
     "eventName": "Аргентина — Египет",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -112,7 +128,7 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1783383221613,
+    "id": 1783400228168,
     "eventName": "Аргентина — Египет",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -128,35 +144,19 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1783383221614,
+    "id": 1783400228169,
     "eventName": "Аргентина — Египет",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
     "expert": {
-      "name": "Andreas Lobzhanidze",
-      "avatar": "https://static-uploads.prod.bookmaker-ratings.ru/2026/05/WhatsApp-Image-2026-05-28-at-18.39.34-rb-webp-6a1856682fdcb-6a18566838942.webp?width=60",
+      "name": "Johnny Depp",
+      "avatar": "https://bookmaker-ratings.ru/static/images/badges/is-kapper.svg?v=30092024",
       "status": "expert",
-      "winRate": 68
+      "winRate": 77
     },
-    "prediction": "Тотал (2.5) Б",
-    "odds": 2.03,
-    "comment": "Думаю, что Аргентина не будет разрывать египтян, а обыграет скромно и минимально 1:0 / 2:0",
-    "source": "Sports Analytics Pro"
-  },
-  {
-    "id": 1783383221615,
-    "eventName": "Аргентина — Египет",
-    "discipline": "Футбол",
-    "tournament": "Чемпионат",
-    "expert": {
-      "name": "Владимир Золин",
-      "avatar": "https://static-uploads.prod.bookmaker-ratings.ru/2026/06/472154C6-FC3D-4B18-BCE0-EE667F67EFCD-rb-webp-6a2b244bd2c3b-6a2b244bd7321.webp?width=60",
-      "status": "expert",
-      "winRate": 68
-    },
-    "prediction": "Ф1(-1.5)",
+    "prediction": "Фора 1 (-1.5)",
     "odds": 2.17,
-    "comment": "Уверенная победы Аргентины с счетом 3-0.Месси обязательно забьет",
+    "comment": "Главным прогнозом на матч 1/8 финала ЧМ-2026 между сборными Аргентины и Египта является уверенная победа Аргентины в основное время, наиболее вероятный точный счет — 2:0 или 3:1",
     "source": "Sports Analytics Pro"
   }
 ]
