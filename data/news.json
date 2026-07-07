@@ -1,17 +1,87 @@
 [
   {
-    "id": "bb168bd25885780d",
-    "title": "Капитан «Краснодара» и лучший ассистент РПЛ перешел в саудовский клуб",
+    "id": "a6eb656c634fc104",
+    "title": "Сперцян не смог сдержать слез при прощании с «Краснодаром»",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/8/36/347834299679368.jpeg",
+    "teaser": "Сперцян не смог сдержать слез при прощании с «Краснодаром»",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a4cf6329a7947df9bfc3b8a",
+    "publishedAt": "2026-07-07T13:26:39.000Z",
+    "createdAt": "2026-07-07T14:51:04.805Z",
+    "updatedAt": "2026-07-07T14:51:04.805Z"
+  },
+  {
+    "id": "3a1d87615f426f70",
+    "title": "Polymarket не засчитала проход ставки на слезы Роналду на ЧМ-2026",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/3/09/347834275491093.jpeg",
+    "teaser": "Polymarket не засчитала проход ставки на слезы Роналду на ЧМ-2026",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a4cf1a09a7947dd9a13bed8",
+    "publishedAt": "2026-07-07T13:07:37.000Z",
+    "createdAt": "2026-07-07T14:51:03.351Z",
+    "updatedAt": "2026-07-07T14:51:03.351Z"
+  },
+  {
+    "id": "517107fbbb6ed44e",
+    "title": "Россия возглавила рейтинг сильнейших стран в ММА по версии ESPN",
+    "sport": "Единоборства",
+    "category": "Единоборства",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/3/95/347834276938953.jpeg",
+    "teaser": "Россия возглавила рейтинг сильнейших стран в ММА по версии ESPN",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a4cecc49a79474bb300d368",
+    "publishedAt": "2026-07-07T12:55:37.000Z",
+    "createdAt": "2026-07-07T14:51:05.857Z",
+    "updatedAt": "2026-07-07T14:51:05.857Z"
+  },
+  {
+    "id": "20e3a6abb15fffb7",
+    "title": "Вяльбе заявила, что олимпийский чемпион Устюгов завершил карьеру",
+    "sport": "Другое",
+    "category": "Другие",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/3/77/347834253201773.jpeg",
+    "teaser": "Вяльбе заявила, что олимпийский чемпион Устюгов завершил карьеру",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a4ce8f29a794746bcc0cd34",
+    "publishedAt": "2026-07-07T12:29:12.000Z",
+    "createdAt": "2026-07-07T14:51:06.899Z",
+    "updatedAt": "2026-07-07T14:51:06.899Z"
+  },
+  {
+    "id": "acf3a723360aa1b9",
+    "title": "28-летний футболист погиб от удара молнии во время матча в Малайзии",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/1/24/347834255451241.jpeg",
+    "teaser": "28-летний футболист погиб от удара молнии во время матча в Малайзии",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a4ce60b9a794743d73b8155",
+    "publishedAt": "2026-07-07T12:18:53.000Z",
+    "createdAt": "2026-07-07T14:51:07.911Z",
+    "updatedAt": "2026-07-07T14:51:07.911Z"
+  },
+  {
+    "id": "c83253e8eac5904e",
+    "title": "«Краснодар» за рекордную сумму продал Сперцяна в саудовский клуб",
     "sport": "Футбол",
     "category": "Футбол",
     "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/9/36/347834221829369.jpeg",
-    "teaser": "Капитан «Краснодара» и лучший ассистент РПЛ перешел в саудовский клуб",
+    "teaser": "«Краснодар» за рекордную сумму продал Сперцяна в саудовский клуб",
     "fullContent": "",
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a4cdca79a7947988ac9da25",
     "publishedAt": "2026-07-07T11:09:19.000Z",
-    "createdAt": "2026-07-07T11:55:45.362Z",
-    "updatedAt": "2026-07-07T11:55:45.362Z"
+    "createdAt": "2026-07-07T14:51:08.880Z",
+    "updatedAt": "2026-07-07T14:51:08.880Z"
   },
   {
     "id": "91b8b1fd098a27ba",
@@ -24,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a4cd8589a7947499538fd79",
     "publishedAt": "2026-07-07T11:07:40.000Z",
-    "createdAt": "2026-07-07T11:55:46.395Z",
-    "updatedAt": "2026-07-07T11:55:46.395Z"
+    "createdAt": "2026-07-07T14:51:09.916Z",
+    "updatedAt": "2026-07-07T14:51:09.916Z"
   },
   {
     "id": "21564f55ece1b386",
@@ -38,8 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a4cce809a79476bacdef104",
     "publishedAt": "2026-07-07T10:35:23.000Z",
-    "createdAt": "2026-07-07T11:55:47.426Z",
-    "updatedAt": "2026-07-07T11:55:47.426Z"
+    "createdAt": "2026-07-07T14:51:10.839Z",
+    "updatedAt": "2026-07-07T14:51:10.839Z"
   },
   {
     "id": "80ff2c90c3789ef9",
@@ -52,8 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a4cd22d9a7947224f0291f9",
     "publishedAt": "2026-07-07T10:27:30.000Z",
-    "createdAt": "2026-07-07T11:55:48.410Z",
-    "updatedAt": "2026-07-07T11:55:48.410Z"
+    "createdAt": "2026-07-07T14:51:11.822Z",
+    "updatedAt": "2026-07-07T14:51:11.822Z"
   },
   {
     "id": "f4b611ba34be278a",
@@ -66,77 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a4cb9ce9a794739966671b0",
     "publishedAt": "2026-07-07T10:19:16.000Z",
-    "createdAt": "2026-07-07T11:55:49.472Z",
-    "updatedAt": "2026-07-07T11:55:49.472Z"
-  },
-  {
-    "id": "264888c50fd4f5f4",
-    "title": "Испанский клуб Захаряна продлил контракт с главным тренером",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/9/34/347834177137349.jpeg",
-    "teaser": "Испанский клуб Захаряна продлил контракт с главным тренером",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a4ccb459a79476f0eb18af7",
-    "publishedAt": "2026-07-07T10:12:37.000Z",
-    "createdAt": "2026-07-07T11:55:50.566Z",
-    "updatedAt": "2026-07-07T11:55:50.566Z"
-  },
-  {
-    "id": "651c7d6d37d88c6e",
-    "title": "РПЛ опубликовала календарь на первые туры нового сезона",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/8/05/347834176045058.jpeg",
-    "teaser": "РПЛ опубликовала календарь на первые туры нового сезона",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a4cc3f89a79476f0eb18abe",
-    "publishedAt": "2026-07-07T09:52:09.000Z",
-    "createdAt": "2026-07-07T11:55:51.704Z",
-    "updatedAt": "2026-07-07T11:55:51.704Z"
-  },
-  {
-    "id": "4ba777793e323d00",
-    "title": "Футболист сборной Бельгии порвал «кресты» в матче с США на ЧМ-2026",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/6/51/347834161944516.jpeg",
-    "teaser": "Футболист сборной Бельгии порвал «кресты» в матче с США на ЧМ-2026",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a4cc5539a7947c9a96b0d69",
-    "publishedAt": "2026-07-07T09:48:57.000Z",
-    "createdAt": "2026-07-07T11:55:52.750Z",
-    "updatedAt": "2026-07-07T11:55:52.751Z"
-  },
-  {
-    "id": "48d705d10a04c351",
-    "title": "Умер секундант Спасского в чемпионском матче с Фишером эстонец Иво Ней",
-    "sport": "Другое",
-    "category": "Другие",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/4/48/347834131472484.jpeg",
-    "teaser": "Умер секундант Спасского в чемпионском матче с Фишером эстонец Иво Ней",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a4cb9529a79470bb70984c9",
-    "publishedAt": "2026-07-07T08:55:23.000Z",
-    "createdAt": "2026-07-07T11:55:53.850Z",
-    "updatedAt": "2026-07-07T11:55:53.850Z"
-  },
-  {
-    "id": "0c0cf821cbe22086",
-    "title": "Балогун заявил, что не имеет отношения к решению ФИФА по дисквалификации",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/9/67/347834110610679.jpeg",
-    "teaser": "Балогун заявил, что не имеет отношения к решению ФИФА по дисквалификации",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a4cafdb9a79474727c550b0",
-    "publishedAt": "2026-07-07T08:50:35.000Z",
-    "createdAt": "2026-07-07T11:55:55.043Z",
-    "updatedAt": "2026-07-07T11:55:55.043Z"
+    "createdAt": "2026-07-07T14:51:12.938Z",
+    "updatedAt": "2026-07-07T14:51:12.938Z"
   }
 ]
