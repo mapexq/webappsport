@@ -1,54 +1,6 @@
 [
   {
-    "id": 1783513434542,
-    "eventName": "Зенит — Нефтчи Фергана",
-    "discipline": "Футбол",
-    "tournament": "Чемпионат",
-    "expert": {
-      "name": "Alex Fox",
-      "avatar": "https://bookmaker-ratings.ru/static/images/badges/is-kapper.svg?v=30092024",
-      "status": "expert",
-      "winRate": 79
-    },
-    "prediction": "Ничья",
-    "odds": 1.4,
-    "comment": "Думаю тут все ясно, класс возьмет свое должны победить с ф-1,5.",
-    "source": "Sports Analytics Pro"
-  },
-  {
-    "id": 1783513434543,
-    "eventName": "Спартак Москва — Рубин",
-    "discipline": "Футбол",
-    "tournament": "Чемпионат",
-    "expert": {
-      "name": "Валерий Кандоуров",
-      "avatar": "https://bookmaker-ratings.ru/static/images/badges/is-kapper.svg?v=30092024",
-      "status": "expert",
-      "winRate": 79
-    },
-    "prediction": "Тотал (2.5) Б",
-    "odds": 1.75,
-    "comment": "В товарищеском матче команды скорее всего сыграют результативно и забьют три и более мяча",
-    "source": "Sports Analytics Pro"
-  },
-  {
-    "id": 1783513434544,
-    "eventName": "Спартак Москва — Рубин",
-    "discipline": "Футбол",
-    "tournament": "Чемпионат",
-    "expert": {
-      "name": "Константин Красильников",
-      "avatar": "https://bookmaker-ratings.ru/static/images/badges/is-kapper.svg?v=30092024",
-      "status": "expert",
-      "winRate": 81
-    },
-    "prediction": "Обе забьют - Да",
-    "odds": 1.8,
-    "comment": "Равные клуба по силе и голы будут у обоих , ставлю обе забьют , да",
-    "source": "Sports Analytics Pro"
-  },
-  {
-    "id": 1783513434545,
+    "id": 1783524308182,
     "eventName": "Франция — Марокко",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -64,7 +16,7 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1783513434546,
+    "id": 1783524308183,
     "eventName": "Франция — Марокко",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -80,7 +32,7 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1783513434547,
+    "id": 1783524308184,
     "eventName": "Франция — Марокко",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -96,7 +48,7 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1783513434548,
+    "id": 1783524308185,
     "eventName": "Франция — Марокко",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -112,7 +64,7 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1783513434549,
+    "id": 1783524308186,
     "eventName": "Франция — Марокко",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -128,7 +80,7 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1783513434550,
+    "id": 1783524308187,
     "eventName": "Франция — Марокко",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -144,7 +96,55 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1783513434551,
+    "id": 1783524308188,
+    "eventName": "Франция — Марокко",
+    "discipline": "Футбол",
+    "tournament": "Чемпионат",
+    "expert": {
+      "name": "Сергей Никитаев",
+      "avatar": "https://static-uploads.prod.bookmaker-ratings.ru/2021/12/ekbok-2.png?width=60",
+      "status": "expert",
+      "winRate": 73
+    },
+    "prediction": "Тотал (2) Б",
+    "odds": 1.4,
+    "comment": "Думаю ,что тотал в два мяча будет пробит,команды сыграют активно",
+    "source": "Sports Analytics Pro"
+  },
+  {
+    "id": 1783524308189,
+    "eventName": "Франция — Марокко",
+    "discipline": "Футбол",
+    "tournament": "Чемпионат",
+    "expert": {
+      "name": "Димитрий Ильин",
+      "avatar": "https://bookmaker-ratings.ru/static/images/badges/is-kapper.svg?v=30092024",
+      "status": "expert",
+      "winRate": 83
+    },
+    "prediction": "Ничья",
+    "odds": 3.85,
+    "comment": "ждем еще одну сенсацию. в этом матче. я так считаю. Марокко пройдет",
+    "source": "Sports Analytics Pro"
+  },
+  {
+    "id": 1783524308190,
+    "eventName": "Франция — Марокко",
+    "discipline": "Футбол",
+    "tournament": "Чемпионат",
+    "expert": {
+      "name": "Михаил Исламов",
+      "avatar": "https://static-uploads.prod.bookmaker-ratings.ru/2026/01/orig-rb-webp-697c318bb518c-697c318bbc509.webp?width=60",
+      "status": "expert",
+      "winRate": 68
+    },
+    "prediction": "Тотал (2.5) М",
+    "odds": 1.83,
+    "comment": "Нас ожидает упорная встреча с насыщенной обороной и без большого количества голов.",
+    "source": "Sports Analytics Pro"
+  },
+  {
+    "id": 1783524308191,
     "eventName": "Матч",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
