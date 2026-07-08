@@ -1,5 +1,47 @@
 [
   {
+    "id": "3455b14db691cccf",
+    "title": "Десятая ракетка мира с «баранкой» проиграл 114-й в 1/4 финала Уимблдона",
+    "sport": "Теннис",
+    "category": "Теннис",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/9/49/347835301487499.jpeg",
+    "teaser": "Десятая ракетка мира с «баранкой» проиграл 114-й в 1/4 финала Уимблдона",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a4e82969a7947279e0de060",
+    "publishedAt": "2026-07-08T17:25:38.000Z",
+    "createdAt": "2026-07-08T17:42:45.706Z",
+    "updatedAt": "2026-07-08T17:42:45.706Z"
+  },
+  {
+    "id": "9ad3a9ca2aaa64f9",
+    "title": "ФИФА не отменила наказание игрока сборной Франции перед матчем с Марокко",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/7/84/347835248150847.jpeg",
+    "teaser": "ФИФА не отменила наказание игрока сборной Франции перед матчем с Марокко",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a4e6d279a79479bfe6043a7",
+    "publishedAt": "2026-07-08T17:00:32.000Z",
+    "createdAt": "2026-07-08T17:42:46.788Z",
+    "updatedAt": "2026-07-08T17:42:46.788Z"
+  },
+  {
+    "id": "6840d912767fbd6a",
+    "title": "Международная федерация волейбола допустила сборные России",
+    "sport": "Другое",
+    "category": "Другие",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/5/73/347835270478735.jpeg",
+    "teaser": "Международная федерация волейбола допустила сборные России",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a4e765b9a79472f22e61763",
+    "publishedAt": "2026-07-08T16:22:03.000Z",
+    "createdAt": "2026-07-08T17:42:47.945Z",
+    "updatedAt": "2026-07-08T17:42:47.945Z"
+  },
+  {
     "id": "0a0289846efa7973",
     "title": "Globo узнал о взятой Неймаром паузе перед возвращением к игре за клуб",
     "sport": "Футбол",
@@ -10,8 +52,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a4e4eaa9a7947ac82943066",
     "publishedAt": "2026-07-08T15:10:30.000Z",
-    "createdAt": "2026-07-08T15:25:14.220Z",
-    "updatedAt": "2026-07-08T15:25:14.220Z"
+    "createdAt": "2026-07-08T17:42:49.085Z",
+    "updatedAt": "2026-07-08T17:42:49.085Z"
   },
   {
     "id": "0b9fa24b7e626d87",
@@ -24,8 +66,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a4e5f619a79472d5f3e3b1e",
     "publishedAt": "2026-07-08T14:48:08.000Z",
-    "createdAt": "2026-07-08T15:25:15.272Z",
-    "updatedAt": "2026-07-08T15:25:15.272Z"
+    "createdAt": "2026-07-08T17:42:50.703Z",
+    "updatedAt": "2026-07-08T17:42:50.703Z"
   },
   {
     "id": "9cfbfa7e680986c1",
@@ -38,8 +80,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a4e44729a7947d2fc0f7c28",
     "publishedAt": "2026-07-08T13:12:49.000Z",
-    "createdAt": "2026-07-08T15:25:16.304Z",
-    "updatedAt": "2026-07-08T15:25:16.304Z"
+    "createdAt": "2026-07-08T17:42:51.844Z",
+    "updatedAt": "2026-07-08T17:42:51.844Z"
   },
   {
     "id": "a80604586148bd02",
@@ -52,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a4e3d269a794761904d2d7f",
     "publishedAt": "2026-07-08T12:30:14.000Z",
-    "createdAt": "2026-07-08T15:25:17.299Z",
-    "updatedAt": "2026-07-08T15:25:17.299Z"
+    "createdAt": "2026-07-08T17:42:53.010Z",
+    "updatedAt": "2026-07-08T17:42:53.010Z"
   },
   {
     "id": "305f357d32d1f84f",
@@ -66,8 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a4e37289a79473873153694",
     "publishedAt": "2026-07-08T12:01:23.000Z",
-    "createdAt": "2026-07-08T15:25:19.392Z",
-    "updatedAt": "2026-07-08T15:25:19.392Z"
+    "createdAt": "2026-07-08T17:42:55.348Z",
+    "updatedAt": "2026-07-08T17:42:55.348Z"
   },
   {
     "id": "483efaac8b477a10",
@@ -80,50 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a4e32bf9a794739cb83ba3c",
     "publishedAt": "2026-07-08T11:42:58.000Z",
-    "createdAt": "2026-07-08T15:25:20.459Z",
-    "updatedAt": "2026-07-08T15:25:20.459Z"
-  },
-  {
-    "id": "52b23e2ad6e7832d",
-    "title": "La Nacion узнала о расследовании ФБР против Ассоциации футбола Аргентины",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/9/76/347835074924769.png",
-    "teaser": "La Nacion узнала о расследовании ФБР против Ассоциации футбола Аргентины",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a4e260c9a79478638f6e66a",
-    "publishedAt": "2026-07-08T11:09:04.000Z",
-    "createdAt": "2026-07-08T15:25:21.505Z",
-    "updatedAt": "2026-07-08T15:25:21.505Z"
-  },
-  {
-    "id": "2749c2c0e207f0e5",
-    "title": "В Кремле оценили решение МОК о снятии санкций с российских спортсменов",
-    "sport": "Другое",
-    "category": "Другие",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/7/61/347835170991617.png",
-    "teaser": "В Кремле оценили решение МОК о снятии санкций с российских спортсменов",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a4e1f799a7947e7e2efb4ff",
-    "publishedAt": "2026-07-08T10:17:19.000Z",
-    "createdAt": "2026-07-08T15:25:22.589Z",
-    "updatedAt": "2026-07-08T15:25:22.589Z"
-  },
-  {
-    "id": "21855d3e6952f2c7",
-    "title": "Telegraph написал о сроках допуска российских футбольных команд",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/3/07/347835039328073.jpeg",
-    "teaser": "Telegraph написал о сроках допуска российских футбольных команд",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a4e1afc9a79475e8349d59b",
-    "publishedAt": "2026-07-08T10:16:31.000Z",
-    "createdAt": "2026-07-08T15:25:23.999Z",
-    "updatedAt": "2026-07-08T15:25:23.999Z"
+    "createdAt": "2026-07-08T17:42:56.487Z",
+    "updatedAt": "2026-07-08T17:42:56.487Z"
   },
   {
     "id": "cb9fef85bd8f3f6e",
@@ -136,7 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a4617dd9a79474eeb629bec",
     "publishedAt": "2026-07-07T22:53:57.000Z",
-    "createdAt": "2026-07-08T15:25:18.359Z",
-    "updatedAt": "2026-07-08T15:25:18.359Z"
+    "createdAt": "2026-07-08T17:42:54.186Z",
+    "updatedAt": "2026-07-08T17:42:54.186Z"
   }
 ]
