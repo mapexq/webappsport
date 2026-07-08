@@ -1,5 +1,47 @@
 [
   {
+    "id": "305f357d32d1f84f",
+    "title": "Сборная Хорватии объявила об уходе своего самого успешного тренера",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/8/64/347835111400648.jpeg",
+    "teaser": "Сборная Хорватии объявила об уходе своего самого успешного тренера",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a4e37289a79473873153694",
+    "publishedAt": "2026-07-08T12:01:23.000Z",
+    "createdAt": "2026-07-08T12:24:00.939Z",
+    "updatedAt": "2026-07-08T12:24:00.939Z"
+  },
+  {
+    "id": "483efaac8b477a10",
+    "title": "ЕСПЧ определил, за какую критику футбольных судей можно штрафовать",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/3/92/347835099388923.jpeg",
+    "teaser": "ЕСПЧ определил, за какую критику футбольных судей можно штрафовать",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a4e32bf9a794739cb83ba3c",
+    "publishedAt": "2026-07-08T11:42:58.000Z",
+    "createdAt": "2026-07-08T12:24:01.885Z",
+    "updatedAt": "2026-07-08T12:24:01.885Z"
+  },
+  {
+    "id": "52b23e2ad6e7832d",
+    "title": "La Nacion узнала о расследовании ФБР против Ассоциации футбола Аргентины",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/9/76/347835074924769.png",
+    "teaser": "La Nacion узнала о расследовании ФБР против Ассоциации футбола Аргентины",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a4e260c9a79478638f6e66a",
+    "publishedAt": "2026-07-08T11:09:04.000Z",
+    "createdAt": "2026-07-08T12:24:02.839Z",
+    "updatedAt": "2026-07-08T12:24:02.839Z"
+  },
+  {
     "id": "2749c2c0e207f0e5",
     "title": "В Кремле оценили решение МОК о снятии санкций с российских спортсменов",
     "sport": "Другое",
@@ -10,22 +52,22 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a4e1f799a7947e7e2efb4ff",
     "publishedAt": "2026-07-08T10:17:19.000Z",
-    "createdAt": "2026-07-08T10:23:45.780Z",
-    "updatedAt": "2026-07-08T10:23:45.780Z"
+    "createdAt": "2026-07-08T12:24:03.849Z",
+    "updatedAt": "2026-07-08T12:24:03.849Z"
   },
   {
-    "id": "4299653af0f9671c",
-    "title": "Telegraph оценила перспективы допуска российских футбольных команд",
+    "id": "21855d3e6952f2c7",
+    "title": "Telegraph написал о сроках допуска российских футбольных команд",
     "sport": "Футбол",
     "category": "Футбол",
     "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/3/07/347835039328073.jpeg",
-    "teaser": "Telegraph оценила перспективы допуска российских футбольных команд",
+    "teaser": "Telegraph написал о сроках допуска российских футбольных команд",
     "fullContent": "",
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a4e1afc9a79475e8349d59b",
     "publishedAt": "2026-07-08T10:16:31.000Z",
-    "createdAt": "2026-07-08T10:23:46.971Z",
-    "updatedAt": "2026-07-08T10:23:46.971Z"
+    "createdAt": "2026-07-08T12:24:04.831Z",
+    "updatedAt": "2026-07-08T12:24:04.831Z"
   },
   {
     "id": "715c1b8754ac1201",
@@ -38,8 +80,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a4e0b289a794734176dfb37",
     "publishedAt": "2026-07-08T09:04:08.000Z",
-    "createdAt": "2026-07-08T10:23:48.086Z",
-    "updatedAt": "2026-07-08T10:23:48.086Z"
+    "createdAt": "2026-07-08T12:24:06.833Z",
+    "updatedAt": "2026-07-08T12:24:06.833Z"
   },
   {
     "id": "53f7f94e878a5362",
@@ -52,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a4df5ef9a79476115401e86",
     "publishedAt": "2026-07-08T07:49:42.000Z",
-    "createdAt": "2026-07-08T10:23:49.153Z",
-    "updatedAt": "2026-07-08T10:23:49.153Z"
+    "createdAt": "2026-07-08T12:24:07.867Z",
+    "updatedAt": "2026-07-08T12:24:07.867Z"
   },
   {
     "id": "c9a3564a0e3324c5",
@@ -66,22 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a4ddd889a794777b5cd05ef",
     "publishedAt": "2026-07-08T06:23:03.000Z",
-    "createdAt": "2026-07-08T10:23:51.429Z",
-    "updatedAt": "2026-07-08T10:23:51.429Z"
-  },
-  {
-    "id": "88566d1b623703e7",
-    "title": "Джокович в рекордный матч на Уимблдоне вышел в полуфинал",
-    "sport": "Теннис",
-    "category": "Теннис",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/7/92/347834619875927.jpeg",
-    "teaser": "Джокович в рекордный матч на Уимблдоне вышел в полуфинал",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a4d75bb9a794758261c792b",
-    "publishedAt": "2026-07-07T23:04:04.000Z",
-    "createdAt": "2026-07-08T10:23:54.696Z",
-    "updatedAt": "2026-07-08T10:23:54.696Z"
+    "createdAt": "2026-07-08T12:24:09.757Z",
+    "updatedAt": "2026-07-08T12:24:09.757Z"
   },
   {
     "id": "6c8ec339c7a878b4",
@@ -94,8 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a4d69349a7947c625362985",
     "publishedAt": "2026-07-07T22:58:50.000Z",
-    "createdAt": "2026-07-08T10:23:52.351Z",
-    "updatedAt": "2026-07-08T10:23:52.351Z"
+    "createdAt": "2026-07-08T12:24:08.677Z",
+    "updatedAt": "2026-07-08T12:24:08.677Z"
   },
   {
     "id": "cb9fef85bd8f3f6e",
@@ -108,35 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a4617dd9a79474eeb629bec",
     "publishedAt": "2026-07-07T22:53:57.000Z",
-    "createdAt": "2026-07-08T10:23:50.302Z",
-    "updatedAt": "2026-07-08T10:23:50.302Z"
-  },
-  {
-    "id": "f24860cd496f1a53",
-    "title": "Швейцария впервые с 1954 года вышла в четвертьфинал чемпионата мира",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/1/81/347834593451811.jpeg",
-    "teaser": "Швейцария впервые с 1954 года вышла в четвертьфинал чемпионата мира",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a4d66b59a7947561e530d0e",
-    "publishedAt": "2026-07-07T22:53:52.000Z",
-    "createdAt": "2026-07-08T10:23:53.477Z",
-    "updatedAt": "2026-07-08T10:23:53.477Z"
-  },
-  {
-    "id": "12f5ff894934dda8",
-    "title": "Месси заплакал после волевой победы над Египтом в 1/8 финала ЧМ-2026",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/6/43/347834480830436.jpeg",
-    "teaser": "Месси заплакал после волевой победы над Египтом в 1/8 финала ЧМ-2026",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a4d41d89a7947470c6ced64",
-    "publishedAt": "2026-07-07T18:23:33.000Z",
-    "createdAt": "2026-07-08T10:23:55.741Z",
-    "updatedAt": "2026-07-08T10:23:55.741Z"
+    "createdAt": "2026-07-08T12:24:05.826Z",
+    "updatedAt": "2026-07-08T12:24:05.826Z"
   }
 ]
