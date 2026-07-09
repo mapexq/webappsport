@@ -1,5 +1,75 @@
 [
   {
+    "id": "1f773f13fa6746bb",
+    "title": "Стал известен лучший игрок сезона РПЛ",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/8/20/347836233741208.jpeg",
+    "teaser": "Стал известен лучший игрок сезона РПЛ",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a4fec499a794700d015439c",
+    "publishedAt": "2026-07-09T19:10:47.000Z",
+    "createdAt": "2026-07-09T20:50:16.202Z",
+    "updatedAt": "2026-07-09T20:50:16.202Z"
+  },
+  {
+    "id": "ed16aa8bc0289832",
+    "title": "Семак признан лучшим тренером РПЛ в чемпионский сезон «Зенита»",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/6/30/347836223697306.jpeg",
+    "teaser": "Семак признан лучшим тренером РПЛ в чемпионский сезон «Зенита»",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a4fe8d99a794716c2020ac2",
+    "publishedAt": "2026-07-09T18:58:39.000Z",
+    "createdAt": "2026-07-09T20:50:18.385Z",
+    "updatedAt": "2026-07-09T20:50:18.385Z"
+  },
+  {
+    "id": "44628c28deb08616",
+    "title": "Хоккеистом года признали капитана Канады, проигравшей бронзу ЧМ норвежцам",
+    "sport": "Хоккей",
+    "category": "Хоккей",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/6/56/347836215360566.jpeg",
+    "teaser": "Хоккеистом года признали капитана Канады, проигравшей бронзу ЧМ норвежцам",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a4fe47d9a794736f322e81b",
+    "publishedAt": "2026-07-09T18:40:18.000Z",
+    "createdAt": "2026-07-09T20:50:17.307Z",
+    "updatedAt": "2026-07-09T20:50:17.307Z"
+  },
+  {
+    "id": "4965bc0f9e1cf73b",
+    "title": "Футболист сборной Японии на машине сбил велосипедистку в Токио",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/3/72/347836194499723.png",
+    "teaser": "Футболист сборной Японии на машине сбил велосипедистку в Токио",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a4fdf369a79474568950a81",
+    "publishedAt": "2026-07-09T18:26:32.000Z",
+    "createdAt": "2026-07-09T20:50:19.384Z",
+    "updatedAt": "2026-07-09T20:50:19.384Z"
+  },
+  {
+    "id": "0798fad94222be06",
+    "title": "В Польше заявили о проблемах с участием сборной России в ЧМ по волейболу",
+    "sport": "Другое",
+    "category": "Другие",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/1/10/347836178753101.jpeg",
+    "teaser": "В Польше заявили о проблемах с участием сборной России в ЧМ по волейболу",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a4fd4a69a7947796eaeba79",
+    "publishedAt": "2026-07-09T17:51:50.000Z",
+    "createdAt": "2026-07-09T20:50:20.437Z",
+    "updatedAt": "2026-07-09T20:50:20.437Z"
+  },
+  {
     "id": "8c1917fa2dbb3658",
     "title": "В финале Уимблдона впервые в истории встретятся две теннисистки из Чехии",
     "sport": "Теннис",
@@ -10,8 +80,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a4fc34e9a794792507964fe",
     "publishedAt": "2026-07-09T17:26:17.000Z",
-    "createdAt": "2026-07-09T18:02:04.851Z",
-    "updatedAt": "2026-07-09T18:02:04.851Z"
+    "createdAt": "2026-07-09T20:50:22.478Z",
+    "updatedAt": "2026-07-09T20:50:22.478Z"
   },
   {
     "id": "ce543082a66a4de2",
@@ -24,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a4fd0869a79478e24ec243b",
     "publishedAt": "2026-07-09T17:05:50.000Z",
-    "createdAt": "2026-07-09T18:02:05.998Z",
-    "updatedAt": "2026-07-09T18:02:05.998Z"
+    "createdAt": "2026-07-09T20:50:23.533Z",
+    "updatedAt": "2026-07-09T20:50:23.533Z"
   },
   {
     "id": "a3d181055358ac0b",
@@ -38,22 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a4fcd919a7947b01ee8f609",
     "publishedAt": "2026-07-09T17:01:37.000Z",
-    "createdAt": "2026-07-09T18:02:03.704Z",
-    "updatedAt": "2026-07-09T18:02:03.704Z"
-  },
-  {
-    "id": "ccfb220693533fee",
-    "title": "Рудковская рассказала, когда их с Плющенко сын поедет на Олимпиаду",
-    "sport": "Другое",
-    "category": "Фигурное катание",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/6/14/347836130588146.jpeg",
-    "teaser": "Рудковская рассказала, когда их с Плющенко сын поедет на Олимпиаду",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a4fc4499a7947a7de8d02c7",
-    "publishedAt": "2026-07-09T16:16:10.000Z",
-    "createdAt": "2026-07-09T18:02:06.931Z",
-    "updatedAt": "2026-07-09T18:02:06.931Z"
+    "createdAt": "2026-07-09T20:50:21.461Z",
+    "updatedAt": "2026-07-09T20:50:21.461Z"
   },
   {
     "id": "00ba6985fcb02f52",
@@ -66,36 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a4fc22e9a7947d6807120ec",
     "publishedAt": "2026-07-09T16:09:00.000Z",
-    "createdAt": "2026-07-09T18:02:08.069Z",
-    "updatedAt": "2026-07-09T18:02:08.069Z"
-  },
-  {
-    "id": "79c9ab68a2eab837",
-    "title": "Чешская теннисистка Мухова стала первой финалисткой Уимблдона",
-    "sport": "Теннис",
-    "category": "Теннис",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/2/45/347836107581452.jpeg",
-    "teaser": "Чешская теннисистка Мухова стала первой финалисткой Уимблдона",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a4fbb399a7947af00f97258",
-    "publishedAt": "2026-07-09T15:33:59.000Z",
-    "createdAt": "2026-07-09T18:02:09.238Z",
-    "updatedAt": "2026-07-09T18:02:09.238Z"
-  },
-  {
-    "id": "e0afef85cff13706",
-    "title": "Трехкратного обладателя Кубка Гагарина дисквалифицировали за допинг",
-    "sport": "Хоккей",
-    "category": "Хоккей",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/8/12/347836099802128.png",
-    "teaser": "Трехкратного обладателя Кубка Гагарина дисквалифицировали за допинг",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a4fba6c9a7947c61e0b6894",
-    "publishedAt": "2026-07-09T15:25:39.000Z",
-    "createdAt": "2026-07-09T18:02:13.995Z",
-    "updatedAt": "2026-07-09T18:02:13.995Z"
+    "createdAt": "2026-07-09T20:50:24.551Z",
+    "updatedAt": "2026-07-09T20:50:24.551Z"
   },
   {
     "id": "2b7888b3383750dc",
@@ -108,35 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a4f89389a79476262e53d0d",
     "publishedAt": "2026-07-09T13:02:59.000Z",
-    "createdAt": "2026-07-09T18:02:10.503Z",
-    "updatedAt": "2026-07-09T18:02:10.503Z"
-  },
-  {
-    "id": "17b7be6d5b7fd3cd",
-    "title": "Как родилась теория заговора перед 1/4 финала чемпионата мира",
-    "sport": "Другое",
-    "category": "ЧМ-2026",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/8/06/347835949606068.jpeg",
-    "teaser": "Как родилась теория заговора перед 1/4 финала чемпионата мира",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a4f6d339a79474ebc2f7883",
-    "publishedAt": "2026-07-09T12:46:55.000Z",
-    "createdAt": "2026-07-09T18:02:11.634Z",
-    "updatedAt": "2026-07-09T18:02:11.634Z"
-  },
-  {
-    "id": "bf5488e0f3452d8b",
-    "title": "Новый вызов для Мбаппе. Чего ждать в первый день 1/4 финала ЧМ",
-    "sport": "Другое",
-    "category": "ЧМ-2026",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/7/28/347835131246287.jpeg",
-    "teaser": "Новый вызов для Мбаппе. Чего ждать в первый день 1/4 финала ЧМ",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a4e3f6c9a79470a08b83944",
-    "publishedAt": "2026-07-09T06:09:03.000Z",
-    "createdAt": "2026-07-09T18:02:12.832Z",
-    "updatedAt": "2026-07-09T18:02:12.832Z"
+    "createdAt": "2026-07-09T20:50:25.608Z",
+    "updatedAt": "2026-07-09T20:50:25.608Z"
   }
 ]
