@@ -1,22 +1,6 @@
 [
   {
-    "id": 1783712387631,
-    "eventName": "Спорт Ресифи — Ботафого",
-    "discipline": "Футбол",
-    "tournament": "Чемпионат",
-    "expert": {
-      "name": "Пауль Пандев",
-      "avatar": "https://bookmaker-ratings.ru/static/images/badges/is-kapper.svg?v=30092024",
-      "status": "expert",
-      "winRate": 70
-    },
-    "prediction": "2Х",
-    "odds": 1.83,
-    "comment": "Гости по ожидаемым показателям в последних 6 матчах сильнее, поэтому валуйно поставить на них",
-    "source": "Sports Analytics Pro"
-  },
-  {
-    "id": 1783712387632,
+    "id": 1783717814377,
     "eventName": "Перт — Мельбурн Айс",
     "discipline": "Хоккей",
     "tournament": "Чемпионат",
@@ -32,7 +16,7 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1783712387633,
+    "id": 1783717814379,
     "eventName": "Андерлехт — НЕК",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -48,7 +32,23 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1783712387634,
+    "id": 1783717814380,
+    "eventName": "Погонь Седльце — Погонь Гродзиск Мазовецки",
+    "discipline": "Футбол",
+    "tournament": "Чемпионат",
+    "expert": {
+      "name": "Валерий Кандоуров",
+      "avatar": "https://bookmaker-ratings.ru/static/images/badges/is-kapper.svg?v=30092024",
+      "status": "expert",
+      "winRate": 79
+    },
+    "prediction": "Ничья",
+    "odds": 3.69,
+    "comment": "Предполагаю что в данном противостоянии будет ничья",
+    "source": "Sports Analytics Pro"
+  },
+  {
+    "id": 1783717814381,
     "eventName": "Матч",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -64,23 +64,7 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1783712387635,
-    "eventName": "Матч",
-    "discipline": "Футбол",
-    "tournament": "Чемпионат",
-    "expert": {
-      "name": "Спорт Ресифи",
-      "avatar": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=100&h=100&fit=crop",
-      "status": "expert",
-      "winRate": 84
-    },
-    "prediction": "2Х",
-    "odds": 1.83,
-    "comment": "Комментарий к прогнозу",
-    "source": "Sports Analytics Pro"
-  },
-  {
-    "id": 1783712387636,
+    "id": 1783717814382,
     "eventName": "Матч",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -96,7 +80,23 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1783712387637,
+    "id": 1783717814383,
+    "eventName": "Матч",
+    "discipline": "Футбол",
+    "tournament": "Чемпионат",
+    "expert": {
+      "name": "Погонь Седльце",
+      "avatar": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=100&h=100&fit=crop",
+      "status": "expert",
+      "winRate": 81
+    },
+    "prediction": "Ничья",
+    "odds": 3.69,
+    "comment": "Комментарий к прогнозу",
+    "source": "Sports Analytics Pro"
+  },
+  {
+    "id": 1783717814384,
     "eventName": "Норвегия — Англия",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -112,7 +112,7 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1783712387638,
+    "id": 1783717814385,
     "eventName": "Норвегия — Англия",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -128,7 +128,7 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1783712387639,
+    "id": 1783717814386,
     "eventName": "Аргентина — Швейцария",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
