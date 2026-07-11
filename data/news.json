@@ -1,5 +1,19 @@
 [
   {
+    "id": "329448d45a121915",
+    "title": "Вратарь сборной Англии стал рекордсменом команды по числу матчей на ЧМ",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/8/35/347838051047358.jpeg",
+    "teaser": "Вратарь сборной Англии стал рекордсменом команды по числу матчей на ЧМ",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a52b2629a7947a9f90d2827",
+    "publishedAt": "2026-07-11T21:28:47.000Z",
+    "createdAt": "2026-07-11T21:57:09.414Z",
+    "updatedAt": "2026-07-11T21:57:09.414Z"
+  },
+  {
     "id": "a13bdad1df410e70",
     "title": "Российский боксер защитил титул чемпиона мира WBA",
     "sport": "Единоборства",
@@ -10,8 +24,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a52a5209a7947fb2bbfba26",
     "publishedAt": "2026-07-11T20:38:32.000Z",
-    "createdAt": "2026-07-11T20:56:28.837Z",
-    "updatedAt": "2026-07-11T20:56:28.837Z"
+    "createdAt": "2026-07-11T21:57:10.511Z",
+    "updatedAt": "2026-07-11T21:57:10.511Z"
   },
   {
     "id": "9653b4ce6f323957",
@@ -24,8 +38,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a529aa39a79476211a50931",
     "publishedAt": "2026-07-11T20:30:31.000Z",
-    "createdAt": "2026-07-11T20:56:31.027Z",
-    "updatedAt": "2026-07-11T20:56:31.027Z"
+    "createdAt": "2026-07-11T21:57:11.522Z",
+    "updatedAt": "2026-07-11T21:57:11.522Z"
   },
   {
     "id": "01e9383a734e6dce",
@@ -38,8 +52,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a5293359a794782af8ccfce",
     "publishedAt": "2026-07-11T19:36:04.000Z",
-    "createdAt": "2026-07-11T20:56:31.975Z",
-    "updatedAt": "2026-07-11T20:56:31.975Z"
+    "createdAt": "2026-07-11T21:57:12.589Z",
+    "updatedAt": "2026-07-11T21:57:12.589Z"
   },
   {
     "id": "d124e46d1e060c7d",
@@ -52,8 +66,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a3bb1529a7947a86d9644bd",
     "publishedAt": "2026-07-11T18:52:30.000Z",
-    "createdAt": "2026-07-11T20:56:33.003Z",
-    "updatedAt": "2026-07-11T20:56:33.003Z"
+    "createdAt": "2026-07-11T21:57:13.704Z",
+    "updatedAt": "2026-07-11T21:57:13.704Z"
   },
   {
     "id": "790d15e02dcdd69e",
@@ -66,8 +80,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a5281749a7947a9f90d2801",
     "publishedAt": "2026-07-11T18:27:51.000Z",
-    "createdAt": "2026-07-11T20:56:33.994Z",
-    "updatedAt": "2026-07-11T20:56:33.994Z"
+    "createdAt": "2026-07-11T21:57:14.747Z",
+    "updatedAt": "2026-07-11T21:57:14.747Z"
   },
   {
     "id": "e32bb691f251c87e",
@@ -80,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a3cd21d9a7947d66088d473",
     "publishedAt": "2026-07-11T18:09:41.000Z",
-    "createdAt": "2026-07-11T20:56:35.990Z",
-    "updatedAt": "2026-07-11T20:56:35.990Z"
+    "createdAt": "2026-07-11T21:57:16.871Z",
+    "updatedAt": "2026-07-11T21:57:16.871Z"
   },
   {
     "id": "a1b19a085973df38",
@@ -94,8 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a5278659a79478043c4ef98",
     "publishedAt": "2026-07-11T17:44:51.000Z",
-    "createdAt": "2026-07-11T20:56:36.955Z",
-    "updatedAt": "2026-07-11T20:56:36.955Z"
+    "createdAt": "2026-07-11T21:57:17.938Z",
+    "updatedAt": "2026-07-11T21:57:17.938Z"
   },
   {
     "id": "29245f1ba7eb74dd",
@@ -108,22 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a526d219a7947871e70d6b2",
     "publishedAt": "2026-07-11T17:40:32.000Z",
-    "createdAt": "2026-07-11T20:56:35.011Z",
-    "updatedAt": "2026-07-11T20:56:35.011Z"
-  },
-  {
-    "id": "6878b7806405a1d2",
-    "title": "Ринат Дасаев рассказал о дружбе с главным тренером сборной Испании",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/2/32/347837887882322.jpeg",
-    "teaser": "Ринат Дасаев рассказал о дружбе с главным тренером сборной Испании",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a3c23a29a7947adbfdd48c4",
-    "publishedAt": "2026-07-11T16:58:49.000Z",
-    "createdAt": "2026-07-11T20:56:38.969Z",
-    "updatedAt": "2026-07-11T20:56:38.969Z"
+    "createdAt": "2026-07-11T21:57:15.800Z",
+    "updatedAt": "2026-07-11T21:57:15.800Z"
   },
   {
     "id": "8b0dd65f0def7175",
@@ -136,7 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a5268389a79471d43ebebce",
     "publishedAt": "2026-07-11T16:58:01.000Z",
-    "createdAt": "2026-07-11T20:56:37.913Z",
-    "updatedAt": "2026-07-11T20:56:37.913Z"
+    "createdAt": "2026-07-11T21:57:19.055Z",
+    "updatedAt": "2026-07-11T21:57:19.055Z"
   }
 ]
