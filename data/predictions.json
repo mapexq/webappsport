@@ -1,6 +1,6 @@
 [
   {
-    "id": 1783724507188,
+    "id": 1783739767943,
     "eventName": "Перт — Мельбурн Айс",
     "discipline": "Хоккей",
     "tournament": "Чемпионат",
@@ -16,7 +16,7 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1783724507189,
+    "id": 1783739767944,
     "eventName": "Андерлехт — НЕК",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -32,23 +32,7 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1783724507190,
-    "eventName": "Погонь Седльце — Погонь Гродзиск Мазовецки",
-    "discipline": "Футбол",
-    "tournament": "Чемпионат",
-    "expert": {
-      "name": "Валерий Кандоуров",
-      "avatar": "https://bookmaker-ratings.ru/static/images/badges/is-kapper.svg?v=30092024",
-      "status": "expert",
-      "winRate": 79
-    },
-    "prediction": "Ничья",
-    "odds": 3.69,
-    "comment": "Предполагаю что в данном противостоянии будет ничья",
-    "source": "Sports Analytics Pro"
-  },
-  {
-    "id": 1783724507191,
+    "id": 1783739767945,
     "eventName": "Матч",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -64,7 +48,39 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1783724507192,
+    "id": 1783739767946,
+    "eventName": "Матч",
+    "discipline": "Футбол",
+    "tournament": "Чемпионат",
+    "expert": {
+      "name": "Гол Холанда",
+      "avatar": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=100&h=100&fit=crop",
+      "status": "expert",
+      "winRate": 83
+    },
+    "prediction": "1X",
+    "odds": 2.1,
+    "comment": "Комментарий к прогнозу",
+    "source": "Sports Analytics Pro"
+  },
+  {
+    "id": 1783739767947,
+    "eventName": "Матч",
+    "discipline": "Футбол",
+    "tournament": "Чемпионат",
+    "expert": {
+      "name": "Гол Месси",
+      "avatar": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=100&h=100&fit=crop",
+      "status": "expert",
+      "winRate": 73
+    },
+    "prediction": "Ф1 (-1,5)",
+    "odds": 3.05,
+    "comment": "Комментарий к прогнозу",
+    "source": "Sports Analytics Pro"
+  },
+  {
+    "id": 1783739767948,
     "eventName": "Матч",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -80,23 +96,7 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1783724507193,
-    "eventName": "Матч",
-    "discipline": "Футбол",
-    "tournament": "Чемпионат",
-    "expert": {
-      "name": "Погонь Седльце",
-      "avatar": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=100&h=100&fit=crop",
-      "status": "expert",
-      "winRate": 81
-    },
-    "prediction": "Ничья",
-    "odds": 3.69,
-    "comment": "Комментарий к прогнозу",
-    "source": "Sports Analytics Pro"
-  },
-  {
-    "id": 1783724507194,
+    "id": 1783739767949,
     "eventName": "Норвегия — Англия",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -112,7 +112,7 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1783724507195,
+    "id": 1783739767950,
     "eventName": "Норвегия — Англия",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -128,7 +128,23 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1783724507196,
+    "id": 1783739767951,
+    "eventName": "Норвегия — Англия",
+    "discipline": "Футбол",
+    "tournament": "Чемпионат",
+    "expert": {
+      "name": "Владислав Радимов",
+      "avatar": "https://static-uploads.prod.bookmaker-ratings.ru/2025/03/VRadimov-67d560d1403f4.jpg?width=60",
+      "status": "expert",
+      "winRate": 77
+    },
+    "prediction": "1X",
+    "odds": 2.1,
+    "comment": "Первое: Норвегия не проиграет в основное время, она мне очень понравилась. Второе: обе забьют хотя бы в одном из таймов. Мне кажется, умеют атаковать и те, и другие. И у каждой команды достаточно проблем. И третья ставка: Холанд забьет, он мне понравился по впечатлениям от матча с бразильцами.",
+    "source": "Sports Analytics Pro"
+  },
+  {
+    "id": 1783739767952,
     "eventName": "Аргентина — Швейцария",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
