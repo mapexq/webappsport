@@ -1,5 +1,47 @@
 [
   {
+    "id": "a13bdad1df410e70",
+    "title": "Российский боксер защитил титул чемпиона мира WBA",
+    "sport": "Единоборства",
+    "category": "Единоборства",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/6/86/347838019264866.jpeg",
+    "teaser": "Российский боксер защитил титул чемпиона мира WBA",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a52a5209a7947fb2bbfba26",
+    "publishedAt": "2026-07-11T20:38:32.000Z",
+    "createdAt": "2026-07-11T20:56:28.837Z",
+    "updatedAt": "2026-07-11T20:56:28.837Z"
+  },
+  {
+    "id": "9653b4ce6f323957",
+    "title": "Агент Батракова рассказал о шансах игрока перейти в ПСЖ",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/1/01/347838022908011.jpeg",
+    "teaser": "Агент Батракова рассказал о шансах игрока перейти в ПСЖ",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a529aa39a79476211a50931",
+    "publishedAt": "2026-07-11T20:30:31.000Z",
+    "createdAt": "2026-07-11T20:56:31.027Z",
+    "updatedAt": "2026-07-11T20:56:31.027Z"
+  },
+  {
+    "id": "01e9383a734e6dce",
+    "title": "Садулаев неудачно дебютировал в американской лиге RAF",
+    "sport": "Единоборства",
+    "category": "Единоборства",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/3/98/347837969456983.jpeg",
+    "teaser": "Садулаев неудачно дебютировал в американской лиге RAF",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a5293359a794782af8ccfce",
+    "publishedAt": "2026-07-11T19:36:04.000Z",
+    "createdAt": "2026-07-11T20:56:31.975Z",
+    "updatedAt": "2026-07-11T20:56:31.975Z"
+  },
+  {
     "id": "d124e46d1e060c7d",
     "title": "«Локомотив» нанес «Спартаку» первое поражение в предсезонных матчах",
     "sport": "Футбол",
@@ -10,8 +52,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a3bb1529a7947a86d9644bd",
     "publishedAt": "2026-07-11T18:52:30.000Z",
-    "createdAt": "2026-07-11T19:18:00.355Z",
-    "updatedAt": "2026-07-11T19:18:00.355Z"
+    "createdAt": "2026-07-11T20:56:33.003Z",
+    "updatedAt": "2026-07-11T20:56:33.003Z"
   },
   {
     "id": "790d15e02dcdd69e",
@@ -24,8 +66,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a5281749a7947a9f90d2801",
     "publishedAt": "2026-07-11T18:27:51.000Z",
-    "createdAt": "2026-07-11T19:18:01.302Z",
-    "updatedAt": "2026-07-11T19:18:01.302Z"
+    "createdAt": "2026-07-11T20:56:33.994Z",
+    "updatedAt": "2026-07-11T20:56:33.994Z"
   },
   {
     "id": "e32bb691f251c87e",
@@ -38,8 +80,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a3cd21d9a7947d66088d473",
     "publishedAt": "2026-07-11T18:09:41.000Z",
-    "createdAt": "2026-07-11T19:18:03.338Z",
-    "updatedAt": "2026-07-11T19:18:03.338Z"
+    "createdAt": "2026-07-11T20:56:35.990Z",
+    "updatedAt": "2026-07-11T20:56:35.990Z"
   },
   {
     "id": "a1b19a085973df38",
@@ -52,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a5278659a79478043c4ef98",
     "publishedAt": "2026-07-11T17:44:51.000Z",
-    "createdAt": "2026-07-11T19:18:04.387Z",
-    "updatedAt": "2026-07-11T19:18:04.387Z"
+    "createdAt": "2026-07-11T20:56:36.955Z",
+    "updatedAt": "2026-07-11T20:56:36.955Z"
   },
   {
     "id": "29245f1ba7eb74dd",
@@ -66,22 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a526d219a7947871e70d6b2",
     "publishedAt": "2026-07-11T17:40:32.000Z",
-    "createdAt": "2026-07-11T19:18:02.293Z",
-    "updatedAt": "2026-07-11T19:18:02.293Z"
-  },
-  {
-    "id": "9d8869f8f276b587",
-    "title": "Сперцян забил гол в дебютном матче за саудовский клуб",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/0/61/347837887840610.jpeg",
-    "teaser": "Сперцян забил гол в дебютном матче за саудовский клуб",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a5273a99a79471a90d386fa",
-    "publishedAt": "2026-07-11T17:02:21.000Z",
-    "createdAt": "2026-07-11T19:18:07.545Z",
-    "updatedAt": "2026-07-11T19:18:07.545Z"
+    "createdAt": "2026-07-11T20:56:35.011Z",
+    "updatedAt": "2026-07-11T20:56:35.011Z"
   },
   {
     "id": "6878b7806405a1d2",
@@ -94,8 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a3c23a29a7947adbfdd48c4",
     "publishedAt": "2026-07-11T16:58:49.000Z",
-    "createdAt": "2026-07-11T19:18:06.471Z",
-    "updatedAt": "2026-07-11T19:18:06.471Z"
+    "createdAt": "2026-07-11T20:56:38.969Z",
+    "updatedAt": "2026-07-11T20:56:38.969Z"
   },
   {
     "id": "8b0dd65f0def7175",
@@ -108,35 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a5268389a79471d43ebebce",
     "publishedAt": "2026-07-11T16:58:01.000Z",
-    "createdAt": "2026-07-11T19:18:05.413Z",
-    "updatedAt": "2026-07-11T19:18:05.413Z"
-  },
-  {
-    "id": "a213a526f5cded65",
-    "title": "Английская и норвежская авиакомпании поспорили перед матчем сборных на ЧМ",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/2/38/347837846279382.jpeg",
-    "teaser": "Английская и норвежская авиакомпании поспорили перед матчем сборных на ЧМ",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a525e649a794760b8687902",
-    "publishedAt": "2026-07-11T16:17:41.000Z",
-    "createdAt": "2026-07-11T19:18:08.641Z",
-    "updatedAt": "2026-07-11T19:18:08.641Z"
-  },
-  {
-    "id": "894ac8914ac78cb5",
-    "title": "Почему защитникам не стоит бить послематчевые пенальти на ЧМ по футболу",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/9/83/347837830649839.jpeg",
-    "teaser": "Почему защитникам не стоит бить послематчевые пенальти на ЧМ по футболу",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a3c03699a794728dc8836c5",
-    "publishedAt": "2026-07-11T15:31:37.000Z",
-    "createdAt": "2026-07-11T19:18:09.643Z",
-    "updatedAt": "2026-07-11T19:18:09.643Z"
+    "createdAt": "2026-07-11T20:56:37.913Z",
+    "updatedAt": "2026-07-11T20:56:37.913Z"
   }
 ]
