@@ -1,5 +1,89 @@
 [
   {
+    "id": "a1b19a085973df38",
+    "title": "Футболистки ЦСКА прервали 40-матчевую беспроигрышную серию «Спартака»",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/9/24/347837912438249.jpeg",
+    "teaser": "Футболистки ЦСКА прервали 40-матчевую беспроигрышную серию «Спартака»",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a5278659a79478043c4ef98",
+    "publishedAt": "2026-07-11T17:44:51.000Z",
+    "createdAt": "2026-07-11T17:57:40.542Z",
+    "updatedAt": "2026-07-11T17:57:40.542Z"
+  },
+  {
+    "id": "29245f1ba7eb74dd",
+    "title": "Носкова упустила пять матчболов, но все равно победила в финале Уимблдона",
+    "sport": "Теннис",
+    "category": "Теннис",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/2/57/347837872041572.jpeg",
+    "teaser": "Носкова упустила пять матчболов, но все равно победила в финале Уимблдона",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a526d219a7947871e70d6b2",
+    "publishedAt": "2026-07-11T17:40:32.000Z",
+    "createdAt": "2026-07-11T17:57:39.427Z",
+    "updatedAt": "2026-07-11T17:57:39.427Z"
+  },
+  {
+    "id": "9d8869f8f276b587",
+    "title": "Сперцян забил гол в дебютном матче за саудовский клуб",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/0/61/347837887840610.jpeg",
+    "teaser": "Сперцян забил гол в дебютном матче за саудовский клуб",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a5273a99a79471a90d386fa",
+    "publishedAt": "2026-07-11T17:02:21.000Z",
+    "createdAt": "2026-07-11T17:57:43.896Z",
+    "updatedAt": "2026-07-11T17:57:43.896Z"
+  },
+  {
+    "id": "6878b7806405a1d2",
+    "title": "Ринат Дасаев рассказал о дружбе с главным тренером сборной Испании",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/2/32/347837887882322.jpeg",
+    "teaser": "Ринат Дасаев рассказал о дружбе с главным тренером сборной Испании",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a3c23a29a7947adbfdd48c4",
+    "publishedAt": "2026-07-11T16:58:49.000Z",
+    "createdAt": "2026-07-11T17:57:42.720Z",
+    "updatedAt": "2026-07-11T17:57:42.720Z"
+  },
+  {
+    "id": "8b0dd65f0def7175",
+    "title": "ФИФА выставила на продажу кусочки газона с финального матча ЧМ-2026",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/2/53/347837877726532.jpeg",
+    "teaser": "ФИФА выставила на продажу кусочки газона с финального матча ЧМ-2026",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a5268389a79471d43ebebce",
+    "publishedAt": "2026-07-11T16:58:01.000Z",
+    "createdAt": "2026-07-11T17:57:41.697Z",
+    "updatedAt": "2026-07-11T17:57:41.697Z"
+  },
+  {
+    "id": "a213a526f5cded65",
+    "title": "Английская и норвежская авиакомпании поспорили перед матчем сборных на ЧМ",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/2/38/347837846279382.jpeg",
+    "teaser": "Английская и норвежская авиакомпании поспорили перед матчем сборных на ЧМ",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a525e649a794760b8687902",
+    "publishedAt": "2026-07-11T16:17:41.000Z",
+    "createdAt": "2026-07-11T17:57:44.985Z",
+    "updatedAt": "2026-07-11T17:57:44.985Z"
+  },
+  {
     "id": "894ac8914ac78cb5",
     "title": "Почему защитникам не стоит бить послематчевые пенальти на ЧМ по футболу",
     "sport": "Футбол",
@@ -10,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a3c03699a794728dc8836c5",
     "publishedAt": "2026-07-11T15:31:37.000Z",
-    "createdAt": "2026-07-11T16:03:00.371Z",
-    "updatedAt": "2026-07-11T16:03:00.371Z"
+    "createdAt": "2026-07-11T17:57:46.035Z",
+    "updatedAt": "2026-07-11T17:57:46.035Z"
   },
   {
     "id": "384172dca5b5cc23",
@@ -24,22 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a4a4c109a7947e753281bac",
     "publishedAt": "2026-07-11T15:02:05.000Z",
-    "createdAt": "2026-07-11T16:03:01.407Z",
-    "updatedAt": "2026-07-11T16:03:01.407Z"
-  },
-  {
-    "id": "4fff5e6c19dd4163",
-    "title": "Бывшая вторая ракетка мира Бадоса выиграла первый титул WTA за два года",
-    "sport": "Теннис",
-    "category": "Теннис",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/2/34/347837804590342.jpeg",
-    "teaser": "Бывшая вторая ракетка мира Бадоса выиграла первый титул WTA за два года",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a47fcc79a794733f7c48c6b",
-    "publishedAt": "2026-07-11T14:41:00.000Z",
-    "createdAt": "2026-07-11T16:03:04.426Z",
-    "updatedAt": "2026-07-11T16:03:04.426Z"
+    "createdAt": "2026-07-11T17:57:47.099Z",
+    "updatedAt": "2026-07-11T17:57:47.099Z"
   },
   {
     "id": "b3bf9cb6e7f663e6",
@@ -52,8 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a47cf2c9a7947736c0a1ae4",
     "publishedAt": "2026-07-11T14:17:30.000Z",
-    "createdAt": "2026-07-11T16:03:02.445Z",
-    "updatedAt": "2026-07-11T16:03:02.445Z"
+    "createdAt": "2026-07-11T17:57:48.200Z",
+    "updatedAt": "2026-07-11T17:57:48.200Z"
   },
   {
     "id": "ecc449b97ee600e4",
@@ -66,77 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a48fffd9a79470bd5103622",
     "publishedAt": "2026-07-11T13:44:11.000Z",
-    "createdAt": "2026-07-11T16:03:03.462Z",
-    "updatedAt": "2026-07-11T16:03:03.462Z"
-  },
-  {
-    "id": "21476cb2234b2ea6",
-    "title": "В Перу 559 новорожденных во время ЧМ назвали в честь Эрлинга Холанда",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/6/35/347837751261356.jpeg",
-    "teaser": "В Перу 559 новорожденных во время ЧМ назвали в честь Эрлинга Холанда",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a49408a9a7947ba98249fbb",
-    "publishedAt": "2026-07-11T13:22:35.000Z",
-    "createdAt": "2026-07-11T16:03:05.550Z",
-    "updatedAt": "2026-07-11T16:03:05.550Z"
-  },
-  {
-    "id": "7da6353114acfd90",
-    "title": "Умер игравший за сборную ЮАР на ЧМ-2026 футболист Джейден Адамс",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/6/59/347837728924596.jpeg",
-    "teaser": "Умер игравший за сборную ЮАР на ЧМ-2026 футболист Джейден Адамс",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a4a6a7b9a7947b584c60e44",
-    "publishedAt": "2026-07-11T12:37:20.000Z",
-    "createdAt": "2026-07-11T16:03:06.580Z",
-    "updatedAt": "2026-07-11T16:03:06.580Z"
-  },
-  {
-    "id": "f875169fc1e5030b",
-    "title": "Гарри Кейн назвал «сюрреалистическим опытом» игру с Трампом в гольф",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/9/37/347837713118379.jpeg",
-    "teaser": "Гарри Кейн назвал «сюрреалистическим опытом» игру с Трампом в гольф",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a4c00079a7947223c528656",
-    "publishedAt": "2026-07-11T12:10:57.000Z",
-    "createdAt": "2026-07-11T16:03:07.609Z",
-    "updatedAt": "2026-07-11T16:03:07.609Z"
-  },
-  {
-    "id": "1f4eec5c4b720a97",
-    "title": "Российским триатлонистам вернули право выступать на турнирах Ironman",
-    "sport": "Другое",
-    "category": "Другие",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/3/85/347837696277853.jpeg",
-    "teaser": "Российским триатлонистам вернули право выступать на турнирах Ironman",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a4bb5019a79474600cabca0",
-    "publishedAt": "2026-07-11T11:43:24.000Z",
-    "createdAt": "2026-07-11T16:03:08.585Z",
-    "updatedAt": "2026-07-11T16:03:08.585Z"
-  },
-  {
-    "id": "09b3fbe978977f46",
-    "title": "Вылетевший из РПЛ «Нижний Новгород» сообщил о переименовании клуба",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/8/27/347837683488278.jpeg",
-    "teaser": "Вылетевший из РПЛ «Нижний Новгород» сообщил о переименовании клуба",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a4beea79a7947da15f81b8d",
-    "publishedAt": "2026-07-11T11:23:35.000Z",
-    "createdAt": "2026-07-11T16:03:09.609Z",
-    "updatedAt": "2026-07-11T16:03:09.609Z"
+    "createdAt": "2026-07-11T17:57:49.349Z",
+    "updatedAt": "2026-07-11T17:57:49.349Z"
   }
 ]
