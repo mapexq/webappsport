@@ -1,22 +1,38 @@
 [
   {
-    "id": 1783841425212,
-    "eventName": "Мальмё — Гётеборг",
+    "id": 1783850108164,
+    "eventName": "Нижний Новгород — Ротор",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
     "expert": {
-      "name": "Пауль Пандев",
+      "name": "Николай Лапшин",
       "avatar": "https://bookmaker-ratings.ru/static/images/badges/is-kapper.svg?v=30092024",
       "status": "expert",
-      "winRate": 70
+      "winRate": 84
     },
-    "prediction": "2Х",
-    "odds": 1.85,
-    "comment": "Гости по ожидаемым показателям за последние 6 матчей чуточку лучше, поэтому валуйно поставить на них",
+    "prediction": "Обе забьют - Да",
+    "odds": 1.98,
+    "comment": "Две сильные команда по мерка ФНЛ, первая должна побеждать, вторая просто так не должна сдаться. Думаю - обе забьют.",
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1783841425213,
+    "id": 1783850108165,
+    "eventName": "Пари Нижний Новгород — Ротор",
+    "discipline": "Футбол",
+    "tournament": "Чемпионат",
+    "expert": {
+      "name": "Дмитрий Петраченко",
+      "avatar": "https://static-uploads.prod.bookmaker-ratings.ru/2022/07/image-1.png?width=60",
+      "status": "expert",
+      "winRate": 74
+    },
+    "prediction": "Ничья",
+    "odds": 3.2,
+    "comment": "Ротор Вполне вероятно поставит здесь как говорится на футбольном жаргоне автобус на свои ворота и в принципе может довести это дело до ничейного исхода.",
+    "source": "Sports Analytics Pro"
+  },
+  {
+    "id": 1783850108166,
     "eventName": "Шинник — Сочи",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -32,7 +48,55 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1783841425214,
+    "id": 1783850108167,
+    "eventName": "Шинник — Сочи",
+    "discipline": "Футбол",
+    "tournament": "Чемпионат",
+    "expert": {
+      "name": "Джек Дикий",
+      "avatar": "https://static-uploads.prod.bookmaker-ratings.ru/2017/07/dikij.png?width=60",
+      "status": "expert",
+      "winRate": 86
+    },
+    "prediction": "Ничья",
+    "odds": 3.35,
+    "comment": "Первый тур начинается в ФНЛ, где Шинник принимает дома Сочи. После каникул, команды будут втягиваться в турнир, так что прогнозирую ничью, не будут команды бежать всеми силами в атаку, Шинник кстати любитель играть в ничейный результат, так что 0:0 вполне неудивительный итог.",
+    "source": "Sports Analytics Pro"
+  },
+  {
+    "id": 1783850108168,
+    "eventName": "Астана — Актобе",
+    "discipline": "Футбол",
+    "tournament": "Чемпионат",
+    "expert": {
+      "name": "Волатильник Вейджерс",
+      "avatar": "https://bookmaker-ratings.ru/static/images/badges/is-kapper.svg?v=30092024",
+      "status": "expert",
+      "winRate": 79
+    },
+    "prediction": "Победа 1",
+    "odds": 2.13,
+    "comment": "Наиболее поготовленный состав готовые отработать в защите и надавить в атаке",
+    "source": "Sports Analytics Pro"
+  },
+  {
+    "id": 1783850108169,
+    "eventName": "Шинник — Сочи",
+    "discipline": "Футбол",
+    "tournament": "Чемпионат",
+    "expert": {
+      "name": "Николай Колупан",
+      "avatar": "https://static-uploads.prod.bookmaker-ratings.ru/2026/07/F53DA789-888E-4CE1-A189-7B3BD2C497F9-rb-webp-6a50dbe7091c5-6a50dbe70c9f6.webp?width=60",
+      "status": "expert",
+      "winRate": 79
+    },
+    "prediction": "Тотал Шинник больше (0.5)",
+    "odds": 1.54,
+    "comment": "Статус фаворита. Многие напоминают: «Сочи» — недавний участник РПЛ, у команды мощная атака (в предсезонке забивали много), а Игорь Осинькин остался у руля после вылета. Поэтому часть болельщиков ставит на гостей. Но есть и контраргумент: у «Шинника» впечатляющая серия — 12 матчей без поражений в Первой лиге, дома команда особенно сильна. В чатах активно спорят: перевесит ли опыт и атакующая мощь южан домашняя мотивация и стабильность ярославцев беру на Шиник 0.5 больше",
+    "source": "Sports Analytics Pro"
+  },
+  {
+    "id": 1783850108170,
     "eventName": "Матч",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -48,115 +112,51 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1783841425215,
+    "id": 1783850108171,
     "eventName": "Матч",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
     "expert": {
-      "name": "Гол Месси",
-      "avatar": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=100&h=100&fit=crop",
-      "status": "expert",
-      "winRate": 73
-    },
-    "prediction": "Ф1 (-1,5)",
-    "odds": 3.05,
-    "comment": "Комментарий к прогнозу",
-    "source": "Sports Analytics Pro"
-  },
-  {
-    "id": 1783841425216,
-    "eventName": "Матч",
-    "discipline": "Футбол",
-    "tournament": "Чемпионат",
-    "expert": {
-      "name": "Алексис Макаллистер",
-      "avatar": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=100&h=100&fit=crop",
-      "status": "expert",
-      "winRate": 70
-    },
-    "prediction": "П1",
-    "odds": 1.72,
-    "comment": "Комментарий к прогнозу",
-    "source": "Sports Analytics Pro"
-  },
-  {
-    "id": 1783841425217,
-    "eventName": "Матч",
-    "discipline": "Футбол",
-    "tournament": "Чемпионат",
-    "expert": {
-      "name": "Победа Англии",
-      "avatar": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=100&h=100&fit=crop",
-      "status": "expert",
-      "winRate": 68
-    },
-    "prediction": "Победа Англии",
-    "odds": 1.8,
-    "comment": "Комментарий к прогнозу",
-    "source": "Sports Analytics Pro"
-  },
-  {
-    "id": 1783841425218,
-    "eventName": "Матч",
-    "discipline": "Футбол",
-    "tournament": "Чемпионат",
-    "expert": {
-      "name": "Проход Англии",
+      "name": "Нижний Новгород",
       "avatar": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=100&h=100&fit=crop",
       "status": "expert",
       "winRate": 83
     },
-    "prediction": "Проход Англии и обе забьют",
-    "odds": 1.7,
+    "prediction": "Обе забьют - Да",
+    "odds": 1.98,
     "comment": "Комментарий к прогнозу",
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1783841425219,
+    "id": 1783850108172,
     "eventName": "Матч",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
     "expert": {
-      "name": "Гол Холанда",
+      "name": "Нижний Новгород",
       "avatar": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=100&h=100&fit=crop",
       "status": "expert",
       "winRate": 83
     },
-    "prediction": "1X",
-    "odds": 2.1,
+    "prediction": "Ничья",
+    "odds": 3.2,
     "comment": "Комментарий к прогнозу",
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1783841425220,
-    "eventName": "Александр Мюллер — Александр Шевченко",
+    "id": 1783850108173,
+    "eventName": "Матч",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
     "expert": {
-      "name": "Павел Кириченко",
-      "avatar": "https://static-uploads.prod.bookmaker-ratings.ru/2023/11/Kirichenko.png?width=60",
+      "name": "Тотал Шинник",
+      "avatar": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=100&h=100&fit=crop",
       "status": "expert",
-      "winRate": 78
+      "winRate": 77
     },
-    "prediction": "Тотал тайбрейков Меньше (0.5)",
-    "odds": 1.87,
-    "comment": "Александр Мюллер и Александр Шевченко встретятся в первом круге турнира АТР-250 в Гштааде. Прежде чем перейти на американский хард в календаре АТР-тура ещё имеются несколько грунтовых турниров, на которые традиционно после Уимблдона собирается не самый сильный состав. В этом сезоне Мюллер и Шевченко выступают неудачно. У обоих поражений больше чем побед, причем оба уже катаются и на челленджеры. Оба плохо держат свои подачи. Поэтому вероятность тайбрейка я здесь вижу совсем не такую, какая заложена в коэффициенты букмекеров. Считаю, что правильный коэффициент на ставку против тайбрейка как минимум на 0,3 ниже имеющегося.",
-    "source": "Sports Analytics Pro"
-  },
-  {
-    "id": 1783841425221,
-    "eventName": "Педро Мартинес — Янник Ханфман",
-    "discipline": "Футбол",
-    "tournament": "Чемпионат",
-    "expert": {
-      "name": "Павел Кириченко",
-      "avatar": "https://static-uploads.prod.bookmaker-ratings.ru/2023/11/Kirichenko.png?width=60",
-      "status": "expert",
-      "winRate": 78
-    },
-    "prediction": "Тотал тайбрейков Меньше (0.5)",
-    "odds": 1.79,
-    "comment": "Педро Мартинес и Янник Ханфман встретятся в первом круге турнира АТР в Гштааде. Предлагаю рассмотреть здесь рынок тайбрейков. С учётом уровня игры на подаче в совокупности с покрытием, я бы расставлял коэффициент на тайбрейк да/нет примерно 2,2 - 1,6. Точно не более 1,65 котировал бы ставку против тайбрейка. В первую очередь здесь выделю слабую подачу Мартинеса, но и Ханфман далеко не всегда надежен на своей подаче. Личные встречи были довольно давно, но на грунте ни разу эти игроки до 13 гейма не доходили. Да и изменились с тех пор оба незначительно, держат приблизительно тот же уровень.",
+    "prediction": "Тотал Шинник больше (0.5)",
+    "odds": 1.54,
+    "comment": "Комментарий к прогнозу",
     "source": "Sports Analytics Pro"
   }
 ]
