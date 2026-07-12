@@ -1,5 +1,75 @@
 [
   {
+    "id": "6603a51908990b90",
+    "title": "Синнер обыграл Зверева и второй год подряд стал чемпионом Уимблдона",
+    "sport": "Теннис",
+    "category": "Теннис",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/5/72/347838784450725.jpeg",
+    "teaser": "Синнер обыграл Зверева и второй год подряд стал чемпионом Уимблдона",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a53d0529a79477191d3eb37",
+    "publishedAt": "2026-07-12T19:06:01.000Z",
+    "createdAt": "2026-07-12T19:12:19.016Z",
+    "updatedAt": "2026-07-12T19:12:19.016Z"
+  },
+  {
+    "id": "ea7dc9b237d3f75b",
+    "title": "Соболев помог «Зениту» обыграть клуб Станковича",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/9/87/347838811537879.png",
+    "teaser": "Соболев помог «Зениту» обыграть клуб Станковича",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a53dad69a794737279b7d32",
+    "publishedAt": "2026-07-12T18:34:23.000Z",
+    "createdAt": "2026-07-12T19:12:21.371Z",
+    "updatedAt": "2026-07-12T19:12:21.371Z"
+  },
+  {
+    "id": "7a66e228340a49be",
+    "title": "Экс-футболист «Бенфики» погиб в 43 года в ДТП",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/5/12/347838799935125.png",
+    "teaser": "Экс-футболист «Бенфики» погиб в 43 года в ДТП",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a53d3f19a794738b3cea6c8",
+    "publishedAt": "2026-07-12T18:17:13.000Z",
+    "createdAt": "2026-07-12T19:12:20.418Z",
+    "updatedAt": "2026-07-12T19:12:20.418Z"
+  },
+  {
+    "id": "9d72d0c315c9389f",
+    "title": "Тренер Египта избегал упоминать Месси, чтобы «не напугать» своих игроков",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/3/21/347838763280213.jpeg",
+    "teaser": "Тренер Египта избегал упоминать Месси, чтобы «не напугать» своих игроков",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a53cac29a7947d21aa56f88",
+    "publishedAt": "2026-07-12T17:28:57.000Z",
+    "createdAt": "2026-07-12T19:12:22.429Z",
+    "updatedAt": "2026-07-12T19:12:22.429Z"
+  },
+  {
+    "id": "b035cf294cd7fb24",
+    "title": "Макгрегор пообещал вернуться в октагон после поражения от Холлоуэя",
+    "sport": "Единоборства",
+    "category": "Единоборства",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/0/40/347838688538400.jpeg",
+    "teaser": "Макгрегор пообещал вернуться в октагон после поражения от Холлоуэя",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a53ab749a79474d62d9ffaa",
+    "publishedAt": "2026-07-12T17:05:37.000Z",
+    "createdAt": "2026-07-12T19:12:26.677Z",
+    "updatedAt": "2026-07-12T19:12:26.677Z"
+  },
+  {
     "id": "73c4546b9083ce8f",
     "title": "Во Франции ответили экс-премьеру Испании на слова о сборной без французов",
     "sport": "Футбол",
@@ -10,8 +80,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a53b2309a79479e5aa7a23f",
     "publishedAt": "2026-07-12T16:07:12.000Z",
-    "createdAt": "2026-07-12T17:04:41.250Z",
-    "updatedAt": "2026-07-12T17:04:41.250Z"
+    "createdAt": "2026-07-12T19:12:24.623Z",
+    "updatedAt": "2026-07-12T19:12:24.623Z"
   },
   {
     "id": "84d9c6eebe0b4642",
@@ -24,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a53a9ba9a79477d37714069",
     "publishedAt": "2026-07-12T15:08:53.000Z",
-    "createdAt": "2026-07-12T17:04:42.389Z",
-    "updatedAt": "2026-07-12T17:04:42.389Z"
+    "createdAt": "2026-07-12T19:12:27.708Z",
+    "updatedAt": "2026-07-12T19:12:27.708Z"
   },
   {
     "id": "10e4be85cdcf24dc",
@@ -38,36 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a53a4609a7947e638db5ce6",
     "publishedAt": "2026-07-12T14:59:08.000Z",
-    "createdAt": "2026-07-12T17:04:43.561Z",
-    "updatedAt": "2026-07-12T17:04:43.561Z"
-  },
-  {
-    "id": "4a97542bd3e30f8d",
-    "title": "В день полуфинала ЧМ-2026 во Франции выведут на улицы 70 тыс. полицейских",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/2/92/347838650581922.jpeg",
-    "teaser": "В день полуфинала ЧМ-2026 во Франции выведут на улицы 70 тыс. полицейских",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a539cb69a7947702fdb56a3",
-    "publishedAt": "2026-07-12T14:28:02.000Z",
-    "createdAt": "2026-07-12T17:04:45.749Z",
-    "updatedAt": "2026-07-12T17:04:45.749Z"
-  },
-  {
-    "id": "0f41e10cae1a6049",
-    "title": "Сын легенды тенниса проиграл финал юниорского Уимблдона",
-    "sport": "Теннис",
-    "category": "Теннис",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/0/10/347838648475100.jpeg",
-    "teaser": "Сын легенды тенниса проиграл финал юниорского Уимблдона",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a539ad99a79475ec83e682f",
-    "publishedAt": "2026-07-12T14:18:01.000Z",
-    "createdAt": "2026-07-12T17:04:46.898Z",
-    "updatedAt": "2026-07-12T17:04:46.898Z"
+    "createdAt": "2026-07-12T19:12:28.740Z",
+    "updatedAt": "2026-07-12T19:12:28.740Z"
   },
   {
     "id": "f575e520c41c30de",
@@ -80,50 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a537c539a794782af8cd0af",
     "publishedAt": "2026-07-12T14:06:57.000Z",
-    "createdAt": "2026-07-12T17:04:44.671Z",
-    "updatedAt": "2026-07-12T17:04:44.671Z"
-  },
-  {
-    "id": "596fd2e3cb291187",
-    "title": "ESPN назвал процент ставок на победу Макгрегора в первом за пять лет бою",
-    "sport": "Единоборства",
-    "category": "Единоборства",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/3/31/347838632678313.jpeg",
-    "teaser": "ESPN назвал процент ставок на победу Макгрегора в первом за пять лет бою",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a5393f19a7947e638db5cc0",
-    "publishedAt": "2026-07-12T13:52:14.000Z",
-    "createdAt": "2026-07-12T17:04:49.197Z",
-    "updatedAt": "2026-07-12T17:04:49.197Z"
-  },
-  {
-    "id": "a936de82249abc9c",
-    "title": "Два мотогонщика погибли в результате аварии на соревнованиях в Чехии",
-    "sport": "Другое",
-    "category": "Другие",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/8/60/347838617479608.jpeg",
-    "teaser": "Два мотогонщика погибли в результате аварии на соревнованиях в Чехии",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a538f9e9a79474bfadc5b58",
-    "publishedAt": "2026-07-12T13:41:18.000Z",
-    "createdAt": "2026-07-12T17:04:51.508Z",
-    "updatedAt": "2026-07-12T17:04:51.508Z"
-  },
-  {
-    "id": "c252738796baf321",
-    "title": "Глава ФИФА рассказал, что каждый день созванивается с Трампом во время ЧМ",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/9/29/347838607442299.jpeg",
-    "teaser": "Глава ФИФА рассказал, что каждый день созванивается с Трампом во время ЧМ",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a538a679a79474bfadc5b4c",
-    "publishedAt": "2026-07-12T13:40:32.000Z",
-    "createdAt": "2026-07-12T17:04:50.393Z",
-    "updatedAt": "2026-07-12T17:04:50.393Z"
+    "createdAt": "2026-07-12T19:12:23.524Z",
+    "updatedAt": "2026-07-12T19:12:23.524Z"
   },
   {
     "id": "211bb3e42a83832d",
@@ -136,7 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a534d1b9a7947a9f52c2637",
     "publishedAt": "2026-07-12T09:16:49.000Z",
-    "createdAt": "2026-07-12T17:04:48.042Z",
-    "updatedAt": "2026-07-12T17:04:48.042Z"
+    "createdAt": "2026-07-12T19:12:25.660Z",
+    "updatedAt": "2026-07-12T19:12:25.660Z"
   }
 ]
