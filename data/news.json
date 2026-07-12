@@ -1,5 +1,33 @@
 [
   {
+    "id": "0ee65663766a29da",
+    "title": "Сборная Англии впервые с 2018 года вышла в полуфинал чемпионата мира",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/7/06/347838135486067.jpeg",
+    "teaser": "Сборная Англии впервые с 2018 года вышла в полуфинал чемпионата мира",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a52b9df9a79470793826b6a",
+    "publishedAt": "2026-07-11T23:51:36.000Z",
+    "createdAt": "2026-07-12T00:03:39.659Z",
+    "updatedAt": "2026-07-12T00:03:39.659Z"
+  },
+  {
+    "id": "8243e9f33684a0e7",
+    "title": "Американского баскетболиста застрелили во время турнира в Нью-Йорке",
+    "sport": "Баскетбол",
+    "category": "Баскетбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/0/57/347838130310570.jpeg",
+    "teaser": "Американского баскетболиста застрелили во время турнира в Нью-Йорке",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a52d1869a79478e09dfd45e",
+    "publishedAt": "2026-07-11T23:40:35.000Z",
+    "createdAt": "2026-07-12T00:03:40.731Z",
+    "updatedAt": "2026-07-12T00:03:40.731Z"
+  },
+  {
     "id": "329448d45a121915",
     "title": "Вратарь сборной Англии стал рекордсменом команды по числу матчей на ЧМ",
     "sport": "Футбол",
@@ -10,8 +38,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a52b2629a7947a9f90d2827",
     "publishedAt": "2026-07-11T21:28:47.000Z",
-    "createdAt": "2026-07-11T22:58:17.611Z",
-    "updatedAt": "2026-07-11T22:58:17.611Z"
+    "createdAt": "2026-07-12T00:03:41.791Z",
+    "updatedAt": "2026-07-12T00:03:41.791Z"
   },
   {
     "id": "a13bdad1df410e70",
@@ -24,8 +52,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a52a5209a7947fb2bbfba26",
     "publishedAt": "2026-07-11T20:38:32.000Z",
-    "createdAt": "2026-07-11T22:58:18.666Z",
-    "updatedAt": "2026-07-11T22:58:18.666Z"
+    "createdAt": "2026-07-12T00:03:42.926Z",
+    "updatedAt": "2026-07-12T00:03:42.926Z"
   },
   {
     "id": "9653b4ce6f323957",
@@ -38,8 +66,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a529aa39a79476211a50931",
     "publishedAt": "2026-07-11T20:30:31.000Z",
-    "createdAt": "2026-07-11T22:58:20.109Z",
-    "updatedAt": "2026-07-11T22:58:20.109Z"
+    "createdAt": "2026-07-12T00:03:44.055Z",
+    "updatedAt": "2026-07-12T00:03:44.055Z"
   },
   {
     "id": "01e9383a734e6dce",
@@ -52,8 +80,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a5293359a794782af8ccfce",
     "publishedAt": "2026-07-11T19:36:04.000Z",
-    "createdAt": "2026-07-11T22:58:21.198Z",
-    "updatedAt": "2026-07-11T22:58:21.198Z"
+    "createdAt": "2026-07-12T00:03:45.172Z",
+    "updatedAt": "2026-07-12T00:03:45.172Z"
   },
   {
     "id": "d124e46d1e060c7d",
@@ -66,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a3bb1529a7947a86d9644bd",
     "publishedAt": "2026-07-11T18:52:30.000Z",
-    "createdAt": "2026-07-11T22:58:22.242Z",
-    "updatedAt": "2026-07-11T22:58:22.242Z"
+    "createdAt": "2026-07-12T00:03:46.241Z",
+    "updatedAt": "2026-07-12T00:03:46.241Z"
   },
   {
     "id": "790d15e02dcdd69e",
@@ -80,8 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a5281749a7947a9f90d2801",
     "publishedAt": "2026-07-11T18:27:51.000Z",
-    "createdAt": "2026-07-11T22:58:23.345Z",
-    "updatedAt": "2026-07-11T22:58:23.345Z"
+    "createdAt": "2026-07-12T00:03:47.423Z",
+    "updatedAt": "2026-07-12T00:03:47.423Z"
   },
   {
     "id": "e32bb691f251c87e",
@@ -94,22 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a3cd21d9a7947d66088d473",
     "publishedAt": "2026-07-11T18:09:41.000Z",
-    "createdAt": "2026-07-11T22:58:25.279Z",
-    "updatedAt": "2026-07-11T22:58:25.279Z"
-  },
-  {
-    "id": "a1b19a085973df38",
-    "title": "Футболистки ЦСКА прервали 40-матчевую беспроигрышную серию «Спартака»",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/9/24/347837912438249.jpeg",
-    "teaser": "Футболистки ЦСКА прервали 40-матчевую беспроигрышную серию «Спартака»",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a5278659a79478043c4ef98",
-    "publishedAt": "2026-07-11T17:44:51.000Z",
-    "createdAt": "2026-07-11T22:58:26.377Z",
-    "updatedAt": "2026-07-11T22:58:26.377Z"
+    "createdAt": "2026-07-12T00:03:49.692Z",
+    "updatedAt": "2026-07-12T00:03:49.692Z"
   },
   {
     "id": "29245f1ba7eb74dd",
@@ -122,21 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a526d219a7947871e70d6b2",
     "publishedAt": "2026-07-11T17:40:32.000Z",
-    "createdAt": "2026-07-11T22:58:24.195Z",
-    "updatedAt": "2026-07-11T22:58:24.195Z"
-  },
-  {
-    "id": "8b0dd65f0def7175",
-    "title": "ФИФА выставила на продажу кусочки газона с финального матча ЧМ-2026",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/2/53/347837877726532.jpeg",
-    "teaser": "ФИФА выставила на продажу кусочки газона с финального матча ЧМ-2026",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a5268389a79471d43ebebce",
-    "publishedAt": "2026-07-11T16:58:01.000Z",
-    "createdAt": "2026-07-11T22:58:27.455Z",
-    "updatedAt": "2026-07-11T22:58:27.455Z"
+    "createdAt": "2026-07-12T00:03:48.551Z",
+    "updatedAt": "2026-07-12T00:03:48.551Z"
   }
 ]
