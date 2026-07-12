@@ -1,5 +1,61 @@
 [
   {
+    "id": "a1524a5c49035919",
+    "title": "Стали известны все полуфиналисты чемпионата мира 2026 года",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/2/48/347838083142482.jpeg",
+    "teaser": "Стали известны все полуфиналисты чемпионата мира 2026 года",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a52be9c9a79479a4a5265d4",
+    "publishedAt": "2026-07-12T04:03:49.000Z",
+    "createdAt": "2026-07-12T04:27:32.400Z",
+    "updatedAt": "2026-07-12T04:27:32.400Z"
+  },
+  {
+    "id": "a7f32e1ba6f85b36",
+    "title": "Сборная Аргентины с Месси второй раз подряд вышла в полуфинал ЧМ",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/7/10/347838096329107.jpeg",
+    "teaser": "Сборная Аргентины с Месси второй раз подряд вышла в полуфинал ЧМ",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a52c2e29a79473277881ca3",
+    "publishedAt": "2026-07-12T04:02:30.000Z",
+    "createdAt": "2026-07-12T04:27:33.201Z",
+    "updatedAt": "2026-07-12T04:27:33.201Z"
+  },
+  {
+    "id": "ce588b6c28ab17f1",
+    "title": "Конор Макгрегор проиграл первый бой в UFC за пять лет",
+    "sport": "Единоборства",
+    "category": "Единоборства",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/3/79/347837664926793.jpeg",
+    "teaser": "Конор Макгрегор проиграл первый бой в UFC за пять лет",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a521ee39a7947f45b808cb4",
+    "publishedAt": "2026-07-12T04:00:40.000Z",
+    "createdAt": "2026-07-12T04:27:34.003Z",
+    "updatedAt": "2026-07-12T04:27:34.004Z"
+  },
+  {
+    "id": "143f118ed3f2e851",
+    "title": "Макгрегор потерпел сенсационное поражение за минуту. Онлайн боя",
+    "sport": "Единоборства",
+    "category": "Единоборства",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/4/37/347838258866374.jpeg",
+    "teaser": "Макгрегор потерпел сенсационное поражение за минуту. Онлайн боя",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a53056c9a7947776bdaaab1",
+    "publishedAt": "2026-07-12T03:22:31.000Z",
+    "createdAt": "2026-07-12T04:27:34.994Z",
+    "updatedAt": "2026-07-12T04:27:34.994Z"
+  },
+  {
     "id": "0ee65663766a29da",
     "title": "Сборная Англии впервые с 2018 года вышла в полуфинал чемпионата мира",
     "sport": "Футбол",
@@ -10,8 +66,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a52b9df9a79470793826b6a",
     "publishedAt": "2026-07-11T23:51:36.000Z",
-    "createdAt": "2026-07-12T00:03:39.659Z",
-    "updatedAt": "2026-07-12T00:03:39.659Z"
+    "createdAt": "2026-07-12T04:27:36.002Z",
+    "updatedAt": "2026-07-12T04:27:36.002Z"
   },
   {
     "id": "8243e9f33684a0e7",
@@ -24,8 +80,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a52d1869a79478e09dfd45e",
     "publishedAt": "2026-07-11T23:40:35.000Z",
-    "createdAt": "2026-07-12T00:03:40.731Z",
-    "updatedAt": "2026-07-12T00:03:40.731Z"
+    "createdAt": "2026-07-12T04:27:36.983Z",
+    "updatedAt": "2026-07-12T04:27:36.983Z"
   },
   {
     "id": "329448d45a121915",
@@ -38,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a52b2629a7947a9f90d2827",
     "publishedAt": "2026-07-11T21:28:47.000Z",
-    "createdAt": "2026-07-12T00:03:41.791Z",
-    "updatedAt": "2026-07-12T00:03:41.791Z"
+    "createdAt": "2026-07-12T04:27:38.007Z",
+    "updatedAt": "2026-07-12T04:27:38.007Z"
   },
   {
     "id": "a13bdad1df410e70",
@@ -52,8 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a52a5209a7947fb2bbfba26",
     "publishedAt": "2026-07-11T20:38:32.000Z",
-    "createdAt": "2026-07-12T00:03:42.926Z",
-    "updatedAt": "2026-07-12T00:03:42.926Z"
+    "createdAt": "2026-07-12T04:27:39.001Z",
+    "updatedAt": "2026-07-12T04:27:39.001Z"
   },
   {
     "id": "9653b4ce6f323957",
@@ -66,8 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a529aa39a79476211a50931",
     "publishedAt": "2026-07-11T20:30:31.000Z",
-    "createdAt": "2026-07-12T00:03:44.055Z",
-    "updatedAt": "2026-07-12T00:03:44.055Z"
+    "createdAt": "2026-07-12T04:27:40.356Z",
+    "updatedAt": "2026-07-12T04:27:40.356Z"
   },
   {
     "id": "01e9383a734e6dce",
@@ -80,63 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a5293359a794782af8ccfce",
     "publishedAt": "2026-07-11T19:36:04.000Z",
-    "createdAt": "2026-07-12T00:03:45.172Z",
-    "updatedAt": "2026-07-12T00:03:45.172Z"
-  },
-  {
-    "id": "d124e46d1e060c7d",
-    "title": "«Локомотив» нанес «Спартаку» первое поражение в предсезонных матчах",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/6/27/347837953842276.jpeg",
-    "teaser": "«Локомотив» нанес «Спартаку» первое поражение в предсезонных матчах",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a3bb1529a7947a86d9644bd",
-    "publishedAt": "2026-07-11T18:52:30.000Z",
-    "createdAt": "2026-07-12T00:03:46.241Z",
-    "updatedAt": "2026-07-12T00:03:46.241Z"
-  },
-  {
-    "id": "790d15e02dcdd69e",
-    "title": "Даниил Медведев прекратил сотрудничество со шведским тренером",
-    "sport": "Теннис",
-    "category": "Теннис",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/4/42/347837937346424.jpeg",
-    "teaser": "Даниил Медведев прекратил сотрудничество со шведским тренером",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a5281749a7947a9f90d2801",
-    "publishedAt": "2026-07-11T18:27:51.000Z",
-    "createdAt": "2026-07-12T00:03:47.423Z",
-    "updatedAt": "2026-07-12T00:03:47.423Z"
-  },
-  {
-    "id": "e32bb691f251c87e",
-    "title": "Роман Березовский возглавил клуб Первой лиги",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/5/56/347837930017565.jpeg",
-    "teaser": "Роман Березовский возглавил клуб Первой лиги",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a3cd21d9a7947d66088d473",
-    "publishedAt": "2026-07-11T18:09:41.000Z",
-    "createdAt": "2026-07-12T00:03:49.692Z",
-    "updatedAt": "2026-07-12T00:03:49.692Z"
-  },
-  {
-    "id": "29245f1ba7eb74dd",
-    "title": "Носкова упустила пять матчболов, но все равно победила в финале Уимблдона",
-    "sport": "Теннис",
-    "category": "Теннис",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/2/57/347837872041572.jpeg",
-    "teaser": "Носкова упустила пять матчболов, но все равно победила в финале Уимблдона",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a526d219a7947871e70d6b2",
-    "publishedAt": "2026-07-11T17:40:32.000Z",
-    "createdAt": "2026-07-12T00:03:48.551Z",
-    "updatedAt": "2026-07-12T00:03:48.551Z"
+    "createdAt": "2026-07-12T04:27:41.466Z",
+    "updatedAt": "2026-07-12T04:27:41.466Z"
   }
 ]
