@@ -1,17 +1,87 @@
 [
   {
-    "id": "c757959e0f4ef86d",
-    "title": "Сколько Макгрегор заработал за минутный бой после возвращения в UFC",
-    "sport": "Единоборства",
-    "category": "Единоборства",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/6/04/347838476774046.jpeg",
-    "teaser": "Сколько Макгрегор заработал за минутный бой после возвращения в UFC",
+    "id": "77fa6c7a6915f818",
+    "title": "Хоккеист «Вашингтона» рассказал о реакции команды на контракт Овечкина",
+    "sport": "Хоккей",
+    "category": "Хоккей",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/3/00/347838612358003.jpeg",
+    "teaser": "Хоккеист «Вашингтона» рассказал о реакции команды на контракт Овечкина",
     "fullContent": "",
     "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a535ad39a7947a9f52c264a",
-    "publishedAt": "2026-07-12T10:44:17.000Z",
-    "createdAt": "2026-07-12T11:14:54.140Z",
-    "updatedAt": "2026-07-12T11:14:54.140Z"
+    "sourceUrl": "https://sportrbc.ru/news/6a538de99a7947dd373bc998",
+    "publishedAt": "2026-07-12T13:24:01.000Z",
+    "createdAt": "2026-07-12T13:38:26.745Z",
+    "updatedAt": "2026-07-12T13:38:26.745Z"
+  },
+  {
+    "id": "80c25afd03444b6e",
+    "title": "Отец Холанда заявил, что Норвегию «обокрали» в матче с Англией на ЧМ-2026",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/9/66/347838591054669.jpeg",
+    "teaser": "Отец Холанда заявил, что Норвегию «обокрали» в матче с Англией на ЧМ-2026",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a5383409a794715766d68af",
+    "publishedAt": "2026-07-12T12:47:01.000Z",
+    "createdAt": "2026-07-12T13:38:27.628Z",
+    "updatedAt": "2026-07-12T13:38:27.628Z"
+  },
+  {
+    "id": "c978d21b9bdfa97a",
+    "title": "Тренер заявил, что привычка мучиться у сборной Аргентины «в ДНК»",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/6/00/347838594436006.jpeg",
+    "teaser": "Тренер заявил, что привычка мучиться у сборной Аргентины «в ДНК»",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a53823f9a7947a02d2a8919",
+    "publishedAt": "2026-07-12T12:44:53.000Z",
+    "createdAt": "2026-07-12T13:38:28.745Z",
+    "updatedAt": "2026-07-12T13:38:28.745Z"
+  },
+  {
+    "id": "b34bf2adcad8a0ce",
+    "title": "Прервалась рекордная серия. Как Месси шел к очередному достижению на ЧМ",
+    "sport": "Другое",
+    "category": "ЧМ-2026",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/8/98/347838530635988.jpeg",
+    "teaser": "Прервалась рекордная серия. Как Месси шел к очередному достижению на ЧМ",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a53621d9a79473e49fa3eec",
+    "publishedAt": "2026-07-12T12:37:59.000Z",
+    "createdAt": "2026-07-12T13:38:29.826Z",
+    "updatedAt": "2026-07-12T13:38:29.826Z"
+  },
+  {
+    "id": "515a967d0c9d1800",
+    "title": "Глава ФИФА объяснил, зачем расширять чемпионат мира до 64 команд",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/3/00/347838534756003.jpeg",
+    "teaser": "Глава ФИФА объяснил, зачем расширять чемпионат мира до 64 команд",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a5371759a794781fc1495ce",
+    "publishedAt": "2026-07-12T11:48:58.000Z",
+    "createdAt": "2026-07-12T13:38:30.914Z",
+    "updatedAt": "2026-07-12T13:38:30.914Z"
+  },
+  {
+    "id": "c06748761e918d40",
+    "title": "Беллингем ответил Тухелю на критику сборной Англии за матч ЧМ с Норвегией",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/2/65/347838539461652.jpeg",
+    "teaser": "Беллингем ответил Тухелю на критику сборной Англии за матч ЧМ с Норвегией",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a5371429a794705b1f29463",
+    "publishedAt": "2026-07-12T11:21:52.000Z",
+    "createdAt": "2026-07-12T13:38:31.988Z",
+    "updatedAt": "2026-07-12T13:38:31.988Z"
   },
   {
     "id": "683c20978d81efc6",
@@ -24,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a535dcf9a7947caa27a2ab8",
     "publishedAt": "2026-07-12T09:58:32.000Z",
-    "createdAt": "2026-07-12T11:14:52.802Z",
-    "updatedAt": "2026-07-12T11:14:52.802Z"
+    "createdAt": "2026-07-12T13:38:35.627Z",
+    "updatedAt": "2026-07-12T13:38:35.627Z"
   },
   {
     "id": "211bb3e42a83832d",
@@ -38,22 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a534d1b9a7947a9f52c2637",
     "publishedAt": "2026-07-12T09:16:49.000Z",
-    "createdAt": "2026-07-12T11:14:55.148Z",
-    "updatedAt": "2026-07-12T11:14:55.148Z"
-  },
-  {
-    "id": "16987d5274c3ca88",
-    "title": "Норвежская авиакомпания выполнила условия пари после вылета сборной с ЧМ",
-    "sport": "Другое",
-    "category": "ЧМ-2026",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/0/36/347838410428360.jpeg",
-    "teaser": "Норвежская авиакомпания выполнила условия пари после вылета сборной с ЧМ",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a533d219a7947cf1f448825",
-    "publishedAt": "2026-07-12T09:04:57.000Z",
-    "createdAt": "2026-07-12T11:14:57.217Z",
-    "updatedAt": "2026-07-12T11:14:57.217Z"
+    "createdAt": "2026-07-12T13:38:33.089Z",
+    "updatedAt": "2026-07-12T13:38:33.089Z"
   },
   {
     "id": "da3220c4d19bf621",
@@ -66,8 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a48a1079a794768180a6887",
     "publishedAt": "2026-07-12T08:30:18.000Z",
-    "createdAt": "2026-07-12T11:14:56.203Z",
-    "updatedAt": "2026-07-12T11:14:56.203Z"
+    "createdAt": "2026-07-12T13:38:34.169Z",
+    "updatedAt": "2026-07-12T13:38:34.169Z"
   },
   {
     "id": "c7f6caba5b509f4b",
@@ -80,63 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a532a2e9a7947b00c63604f",
     "publishedAt": "2026-07-12T08:09:20.000Z",
-    "createdAt": "2026-07-12T11:14:58.268Z",
-    "updatedAt": "2026-07-12T11:14:58.268Z"
-  },
-  {
-    "id": "8d0f4cdffe5f3141",
-    "title": "Холлоуэй назвал Макгрегора «раненым псом» после победы на турнире UFC 329",
-    "sport": "Единоборства",
-    "category": "Единоборства",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/4/29/347838385350294.jpeg",
-    "teaser": "Холлоуэй назвал Макгрегора «раненым псом» после победы на турнире UFC 329",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a5335fe9a79470f19801f6e",
-    "publishedAt": "2026-07-12T07:28:44.000Z",
-    "createdAt": "2026-07-12T11:15:00.281Z",
-    "updatedAt": "2026-07-12T11:15:00.281Z"
-  },
-  {
-    "id": "1824d96d0caf8fa9",
-    "title": "Махачев фразой «Конор побил Конора» оценил поражение Макгрегора в UFC",
-    "sport": "Единоборства",
-    "category": "Единоборства",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/7/27/347838339544277.jpeg",
-    "teaser": "Махачев фразой «Конор побил Конора» оценил поражение Макгрегора в UFC",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a53252a9a7947a900ceac3f",
-    "publishedAt": "2026-07-12T06:50:32.000Z",
-    "createdAt": "2026-07-12T11:14:59.262Z",
-    "updatedAt": "2026-07-12T11:14:59.262Z"
-  },
-  {
-    "id": "d73a86dd8c8ba73b",
-    "title": "Последний — из «Спартака». Почему в Аргентине нет темнокожих футболистов",
-    "sport": "Другое",
-    "category": "ЧМ-2026",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/5/09/347829990807095.jpeg",
-    "teaser": "Последний — из «Спартака». Почему в Аргентине нет темнокожих футболистов",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a4660a19a79477790c7d8e9",
-    "publishedAt": "2026-07-12T06:46:25.000Z",
-    "createdAt": "2026-07-12T11:15:01.301Z",
-    "updatedAt": "2026-07-12T11:15:01.301Z"
-  },
-  {
-    "id": "36c7b13c55ec423e",
-    "title": "Макгрегор назвал адом свое состояние после поражения на турнире в UFC",
-    "sport": "Единоборства",
-    "category": "Единоборства",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/4/55/347838373995554.jpeg",
-    "teaser": "Макгрегор назвал адом свое состояние после поражения на турнире в UFC",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a532e879a7947b00c636054",
-    "publishedAt": "2026-07-12T06:44:34.000Z",
-    "createdAt": "2026-07-12T11:15:02.305Z",
-    "updatedAt": "2026-07-12T11:15:02.305Z"
+    "createdAt": "2026-07-12T13:38:36.717Z",
+    "updatedAt": "2026-07-12T13:38:36.717Z"
   }
 ]
