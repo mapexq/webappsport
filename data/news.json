@@ -1,5 +1,61 @@
 [
   {
+    "id": "11f82895f7b7d716",
+    "title": "Россияне завоевали рекордное число медалей на юниорском ЧЕ по борьбе",
+    "sport": "Единоборства",
+    "category": "Единоборства",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/6/27/347838842003276.jpeg",
+    "teaser": "Россияне завоевали рекордное число медалей на юниорском ЧЕ по борьбе",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a53e8149a7947b6d3a7f9c6",
+    "publishedAt": "2026-07-12T20:47:43.000Z",
+    "createdAt": "2026-07-12T20:56:43.805Z",
+    "updatedAt": "2026-07-12T20:56:43.805Z"
+  },
+  {
+    "id": "d1581bcf0acaab05",
+    "title": "Лучший футболист ЧМ-2010 Форлан возглавил сборную Уругвая",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/2/85/347838876579852.jpeg",
+    "teaser": "Лучший футболист ЧМ-2010 Форлан возглавил сборную Уругвая",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a53f5769a7947b30c796156",
+    "publishedAt": "2026-07-12T20:44:50.000Z",
+    "createdAt": "2026-07-12T20:56:40.595Z",
+    "updatedAt": "2026-07-12T20:56:40.595Z"
+  },
+  {
+    "id": "4ec4c07faab9453f",
+    "title": "Гарри Кейн обьяснил эмоции Тухеля после четвертьфинала ЧМ-2026",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/9/31/347838867728319.jpeg",
+    "teaser": "Гарри Кейн обьяснил эмоции Тухеля после четвертьфинала ЧМ-2026",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a53f0939a79477191d3eb60",
+    "publishedAt": "2026-07-12T20:15:15.000Z",
+    "createdAt": "2026-07-12T20:56:41.654Z",
+    "updatedAt": "2026-07-12T20:56:41.654Z"
+  },
+  {
+    "id": "41a5ee42026ec863",
+    "title": "Тарасова не согласилась с Плющенко о деградации российских фигуристов",
+    "sport": "Другое",
+    "category": "Фигурное катание",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/3/68/347838825512683.jpeg",
+    "teaser": "Тарасова не согласилась с Плющенко о деградации российских фигуристов",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a53defc9a79470f481dc107",
+    "publishedAt": "2026-07-12T19:48:34.000Z",
+    "createdAt": "2026-07-12T20:56:44.940Z",
+    "updatedAt": "2026-07-12T20:56:44.940Z"
+  },
+  {
     "id": "6603a51908990b90",
     "title": "Синнер обыграл Зверева и второй год подряд стал чемпионом Уимблдона",
     "sport": "Теннис",
@@ -10,8 +66,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a53d0529a79477191d3eb37",
     "publishedAt": "2026-07-12T19:06:01.000Z",
-    "createdAt": "2026-07-12T19:12:19.016Z",
-    "updatedAt": "2026-07-12T19:12:19.016Z"
+    "createdAt": "2026-07-12T20:56:42.790Z",
+    "updatedAt": "2026-07-12T20:56:42.790Z"
   },
   {
     "id": "ea7dc9b237d3f75b",
@@ -24,8 +80,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a53dad69a794737279b7d32",
     "publishedAt": "2026-07-12T18:34:23.000Z",
-    "createdAt": "2026-07-12T19:12:21.371Z",
-    "updatedAt": "2026-07-12T19:12:21.371Z"
+    "createdAt": "2026-07-12T20:56:47.159Z",
+    "updatedAt": "2026-07-12T20:56:47.159Z"
   },
   {
     "id": "7a66e228340a49be",
@@ -38,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a53d3f19a794738b3cea6c8",
     "publishedAt": "2026-07-12T18:17:13.000Z",
-    "createdAt": "2026-07-12T19:12:20.418Z",
-    "updatedAt": "2026-07-12T19:12:20.418Z"
+    "createdAt": "2026-07-12T20:56:46.045Z",
+    "updatedAt": "2026-07-12T20:56:46.045Z"
   },
   {
     "id": "9d72d0c315c9389f",
@@ -52,22 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a53cac29a7947d21aa56f88",
     "publishedAt": "2026-07-12T17:28:57.000Z",
-    "createdAt": "2026-07-12T19:12:22.429Z",
-    "updatedAt": "2026-07-12T19:12:22.429Z"
-  },
-  {
-    "id": "b035cf294cd7fb24",
-    "title": "Макгрегор пообещал вернуться в октагон после поражения от Холлоуэя",
-    "sport": "Единоборства",
-    "category": "Единоборства",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/0/40/347838688538400.jpeg",
-    "teaser": "Макгрегор пообещал вернуться в октагон после поражения от Холлоуэя",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a53ab749a79474d62d9ffaa",
-    "publishedAt": "2026-07-12T17:05:37.000Z",
-    "createdAt": "2026-07-12T19:12:26.677Z",
-    "updatedAt": "2026-07-12T19:12:26.677Z"
+    "createdAt": "2026-07-12T20:56:48.255Z",
+    "updatedAt": "2026-07-12T20:56:48.255Z"
   },
   {
     "id": "73c4546b9083ce8f",
@@ -80,36 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a53b2309a79479e5aa7a23f",
     "publishedAt": "2026-07-12T16:07:12.000Z",
-    "createdAt": "2026-07-12T19:12:24.623Z",
-    "updatedAt": "2026-07-12T19:12:24.623Z"
-  },
-  {
-    "id": "84d9c6eebe0b4642",
-    "title": "В сборной России рассказали о полученной на турнире RAF травме Садулаева",
-    "sport": "Единоборства",
-    "category": "Единоборства",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/7/70/347838679230707.png",
-    "teaser": "В сборной России рассказали о полученной на турнире RAF травме Садулаева",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a53a9ba9a79477d37714069",
-    "publishedAt": "2026-07-12T15:08:53.000Z",
-    "createdAt": "2026-07-12T19:12:27.708Z",
-    "updatedAt": "2026-07-12T19:12:27.708Z"
-  },
-  {
-    "id": "10e4be85cdcf24dc",
-    "title": "Франция объявила персоной нон грата чиновницу за расизм в адрес сборной",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/3/80/347838679125803.jpeg",
-    "teaser": "Франция объявила персоной нон грата чиновницу за расизм в адрес сборной",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a53a4609a7947e638db5ce6",
-    "publishedAt": "2026-07-12T14:59:08.000Z",
-    "createdAt": "2026-07-12T19:12:28.740Z",
-    "updatedAt": "2026-07-12T19:12:28.740Z"
+    "createdAt": "2026-07-12T20:56:50.854Z",
+    "updatedAt": "2026-07-12T20:56:50.854Z"
   },
   {
     "id": "f575e520c41c30de",
@@ -122,21 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a537c539a794782af8cd0af",
     "publishedAt": "2026-07-12T14:06:57.000Z",
-    "createdAt": "2026-07-12T19:12:23.524Z",
-    "updatedAt": "2026-07-12T19:12:23.524Z"
-  },
-  {
-    "id": "211bb3e42a83832d",
-    "title": "Как Макгрегор проиграл в своем первом за пять лет бою в UFC. Фоторепортаж",
-    "sport": "Единоборства",
-    "category": "Единоборства",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/4/78/347838442315784.jpeg",
-    "teaser": "Как Макгрегор проиграл в своем первом за пять лет бою в UFC. Фоторепортаж",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a534d1b9a7947a9f52c2637",
-    "publishedAt": "2026-07-12T09:16:49.000Z",
-    "createdAt": "2026-07-12T19:12:25.660Z",
-    "updatedAt": "2026-07-12T19:12:25.660Z"
+    "createdAt": "2026-07-12T20:56:49.321Z",
+    "updatedAt": "2026-07-12T20:56:49.321Z"
   }
 ]
