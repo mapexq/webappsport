@@ -1,5 +1,89 @@
 [
   {
+    "id": "87ee86ec4c332937",
+    "title": "Тренер заявил о травле Сёрлота в соцсетях за отказ дать пас Холанду на ЧМ",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/8/81/347839485617818.jpeg",
+    "teaser": "Тренер заявил о травле Сёрлота в соцсетях за отказ дать пас Холанду на ЧМ",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a54e4dc9a79471982db7679",
+    "publishedAt": "2026-07-13T15:44:07.473Z",
+    "createdAt": "2026-07-13T15:44:07.473Z",
+    "updatedAt": "2026-07-13T15:44:07.473Z"
+  },
+  {
+    "id": "13fd9adb379280e8",
+    "title": "Умер арбитр, которого ФИФА сняла с ЧМ из-за скандала о домогательствах",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/3/15/347839523009153.png",
+    "teaser": "Умер арбитр, которого ФИФА сняла с ЧМ из-за скандала о домогательствах",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a54f2c39a794704f44d1d02",
+    "publishedAt": "2026-07-13T14:53:50.000Z",
+    "createdAt": "2026-07-13T15:44:06.758Z",
+    "updatedAt": "2026-07-13T15:44:06.758Z"
+  },
+  {
+    "id": "aa62f321fd17ecf0",
+    "title": "Конор Макгрегор перенесет операцию после неудачного возвращения в UFC",
+    "sport": "Единоборства",
+    "category": "Единоборства",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/8/85/347839479055858.jpeg",
+    "teaser": "Конор Макгрегор перенесет операцию после неудачного возвращения в UFC",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a54e02f9a794712dfd1262b",
+    "publishedAt": "2026-07-13T13:45:44.000Z",
+    "createdAt": "2026-07-13T15:44:09.400Z",
+    "updatedAt": "2026-07-13T15:44:09.400Z"
+  },
+  {
+    "id": "0f39c7a61b6e6fde",
+    "title": "Бывший тренер «Локомотива» снова возглавил сборную Хорватии",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/8/51/347839459032518.jpeg",
+    "teaser": "Бывший тренер «Локомотива» снова возглавил сборную Хорватии",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a54da839a794706f9bd63a4",
+    "publishedAt": "2026-07-13T12:51:28.000Z",
+    "createdAt": "2026-07-13T15:44:10.516Z",
+    "updatedAt": "2026-07-13T15:44:10.516Z"
+  },
+  {
+    "id": "75db267ebced97eb",
+    "title": "Российских триатлонистов допустили к командным дисциплинам, но без флага",
+    "sport": "Другое",
+    "category": "Другие",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/8/72/347839453649728.png",
+    "teaser": "Российских триатлонистов допустили к командным дисциплинам, но без флага",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a54d6e39a794714667e24c9",
+    "publishedAt": "2026-07-13T12:29:24.000Z",
+    "createdAt": "2026-07-13T15:44:13.868Z",
+    "updatedAt": "2026-07-13T15:44:13.868Z"
+  },
+  {
+    "id": "502e2eefe9b7f382",
+    "title": "Петиция об исключении Аргентины из ЧМ-2026 набрала больше 2,5 млн голосов",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/2/48/347839432031482.png",
+    "teaser": "Петиция об исключении Аргентины из ЧМ-2026 набрала больше 2,5 млн голосов",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a54cd5b9a79474ecaf981a5",
+    "publishedAt": "2026-07-13T12:07:45.000Z",
+    "createdAt": "2026-07-13T15:44:11.570Z",
+    "updatedAt": "2026-07-13T15:44:11.570Z"
+  },
+  {
     "id": "0dfd9d7472919236",
     "title": "Романо узнал о переходе капитана сборной Бельгии в «Манчестер Юнайтед»",
     "sport": "Футбол",
@@ -10,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a54c91b9a794791374e0851",
     "publishedAt": "2026-07-13T11:29:35.000Z",
-    "createdAt": "2026-07-13T12:10:44.000Z",
-    "updatedAt": "2026-07-13T12:10:44.000Z"
+    "createdAt": "2026-07-13T15:44:16.150Z",
+    "updatedAt": "2026-07-13T15:44:16.150Z"
   },
   {
     "id": "1ced0ab0957ad84b",
@@ -24,8 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a54c2179a7947628582c23d",
     "publishedAt": "2026-07-13T11:09:28.000Z",
-    "createdAt": "2026-07-13T12:10:43.011Z",
-    "updatedAt": "2026-07-13T12:10:43.011Z"
+    "createdAt": "2026-07-13T15:44:15.009Z",
+    "updatedAt": "2026-07-13T15:44:15.009Z"
   },
   {
     "id": "f5b52db0cf202990",
@@ -38,36 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a54b4429a794764ea87f4fc",
     "publishedAt": "2026-07-13T10:27:42.000Z",
-    "createdAt": "2026-07-13T12:10:45.100Z",
-    "updatedAt": "2026-07-13T12:10:45.100Z"
-  },
-  {
-    "id": "d605dd324549b34b",
-    "title": "ITTF решила вернуть флаг и гимн российским игрокам в настольный",
-    "sport": "Другое",
-    "category": "Другие",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/3/33/347839345186333.png",
-    "teaser": "ITTF решила вернуть флаг и гимн российским игрокам в настольный",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a54a7f99a794764c65243e5",
-    "publishedAt": "2026-07-13T09:59:07.000Z",
-    "createdAt": "2026-07-13T12:10:47.296Z",
-    "updatedAt": "2026-07-13T12:10:47.296Z"
-  },
-  {
-    "id": "55324b91a1c631b1",
-    "title": "Бывшему гендиректору «Торпедо» дали два года колонии за подкуп судей",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/3/13/347839337850133.png",
-    "teaser": "Бывшему гендиректору «Торпедо» дали два года колонии за подкуп судей",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a54a8139a7947a12f1a42c0",
-    "publishedAt": "2026-07-13T09:22:59.000Z",
-    "createdAt": "2026-07-13T12:10:46.214Z",
-    "updatedAt": "2026-07-13T12:10:46.214Z"
+    "createdAt": "2026-07-13T15:44:17.301Z",
+    "updatedAt": "2026-07-13T15:44:17.301Z"
   },
   {
     "id": "026eac53ca688cbf",
@@ -80,63 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a50c84a9a794721688e2f95",
     "publishedAt": "2026-07-13T05:00:33.000Z",
-    "createdAt": "2026-07-13T12:10:49.918Z",
-    "updatedAt": "2026-07-13T12:10:49.918Z"
-  },
-  {
-    "id": "11f82895f7b7d716",
-    "title": "Россияне завоевали рекордное число медалей на юниорском ЧЕ по борьбе",
-    "sport": "Единоборства",
-    "category": "Единоборства",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/6/27/347838842003276.jpeg",
-    "teaser": "Россияне завоевали рекордное число медалей на юниорском ЧЕ по борьбе",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a53e8149a7947b6d3a7f9c6",
-    "publishedAt": "2026-07-12T20:47:43.000Z",
-    "createdAt": "2026-07-13T12:10:53.250Z",
-    "updatedAt": "2026-07-13T12:10:53.250Z"
-  },
-  {
-    "id": "d1581bcf0acaab05",
-    "title": "Лучший футболист ЧМ-2010 Форлан возглавил сборную Уругвая",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/2/85/347838876579852.jpeg",
-    "teaser": "Лучший футболист ЧМ-2010 Форлан возглавил сборную Уругвая",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a53f5769a7947b30c796156",
-    "publishedAt": "2026-07-12T20:44:50.000Z",
-    "createdAt": "2026-07-13T12:10:48.446Z",
-    "updatedAt": "2026-07-13T12:10:48.446Z"
-  },
-  {
-    "id": "4ec4c07faab9453f",
-    "title": "Гарри Кейн обьяснил эмоции Тухеля после четвертьфинала ЧМ-2026",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/9/31/347838867728319.jpeg",
-    "teaser": "Гарри Кейн обьяснил эмоции Тухеля после четвертьфинала ЧМ-2026",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a53f0939a79477191d3eb60",
-    "publishedAt": "2026-07-12T20:15:15.000Z",
-    "createdAt": "2026-07-13T12:10:51.036Z",
-    "updatedAt": "2026-07-13T12:10:51.036Z"
-  },
-  {
-    "id": "6603a51908990b90",
-    "title": "Синнер обыграл Зверева и второй год подряд стал чемпионом Уимблдона",
-    "sport": "Теннис",
-    "category": "Теннис",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/5/72/347838784450725.jpeg",
-    "teaser": "Синнер обыграл Зверева и второй год подряд стал чемпионом Уимблдона",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a53d0529a79477191d3eb37",
-    "publishedAt": "2026-07-12T19:06:01.000Z",
-    "createdAt": "2026-07-13T12:10:52.140Z",
-    "updatedAt": "2026-07-13T12:10:52.140Z"
+    "createdAt": "2026-07-13T15:44:12.696Z",
+    "updatedAt": "2026-07-13T15:44:12.696Z"
   }
 ]
