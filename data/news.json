@@ -1,5 +1,75 @@
 [
   {
+    "id": "e78bb2b6e39720ac",
+    "title": "Умер работавший на двух матчах Суперсерии-1972 хоккейный арбитр",
+    "sport": "Хоккей",
+    "category": "Хоккей",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/0/27/347840289972270.jpeg",
+    "teaser": "Умер работавший на двух матчах Суперсерии-1972 хоккейный арбитр",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a561ef39a7947875c2b4fdb",
+    "publishedAt": "2026-07-14T11:45:25.000Z",
+    "createdAt": "2026-07-14T12:17:48.440Z",
+    "updatedAt": "2026-07-14T12:17:48.440Z"
+  },
+  {
+    "id": "3f858e323513cb88",
+    "title": "Бывшего футболиста сборной Турции заподозрили в избиении супруги",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/6/93/347840265850936.jpeg",
+    "teaser": "Бывшего футболиста сборной Турции заподозрили в избиении супруги",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a5611439a79470d32be5295",
+    "publishedAt": "2026-07-14T11:15:38.000Z",
+    "createdAt": "2026-07-14T12:17:49.576Z",
+    "updatedAt": "2026-07-14T12:17:49.576Z"
+  },
+  {
+    "id": "d5c87bfb6cb059e8",
+    "title": "Московское «Динамо» победило ЦСКА в закрытом товарищеском матче",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/1/65/347840272313651.jpeg",
+    "teaser": "Московское «Динамо» победило ЦСКА в закрытом товарищеском матче",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a5618219a79476b07b86e5a",
+    "publishedAt": "2026-07-14T11:13:52.000Z",
+    "createdAt": "2026-07-14T12:17:50.715Z",
+    "updatedAt": "2026-07-14T12:17:50.715Z"
+  },
+  {
+    "id": "5077142da9ef166e",
+    "title": "Мексика отказалась от матча с Аргентиной из-за подозрений в мошенничестве",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/2/44/347840250498442.jpeg",
+    "teaser": "Мексика отказалась от матча с Аргентиной из-за подозрений в мошенничестве",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a560c909a7947c9886d6327",
+    "publishedAt": "2026-07-14T10:48:57.000Z",
+    "createdAt": "2026-07-14T12:17:54.220Z",
+    "updatedAt": "2026-07-14T12:17:54.220Z"
+  },
+  {
+    "id": "0b975c4a75227750",
+    "title": "Экс-капитана юношеской сборной России по хоккею обвинили в мошенничестве",
+    "sport": "Хоккей",
+    "category": "Хоккей",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/9/05/347840201724059.jpeg",
+    "teaser": "Экс-капитана юношеской сборной России по хоккею обвинили в мошенничестве",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a55f9889a794740565a447a",
+    "publishedAt": "2026-07-14T10:06:47.000Z",
+    "createdAt": "2026-07-14T12:17:53.009Z",
+    "updatedAt": "2026-07-14T12:17:53.009Z"
+  },
+  {
     "id": "79319bdcf7e9696d",
     "title": "В Европе предложили лишить МОК финансирования ЕС из-за допуска россиян",
     "sport": "Другое",
@@ -10,8 +80,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a56015b9a794777e373702a",
     "publishedAt": "2026-07-14T09:49:19.000Z",
-    "createdAt": "2026-07-14T10:03:09.622Z",
-    "updatedAt": "2026-07-14T10:03:09.622Z"
+    "createdAt": "2026-07-14T12:17:51.862Z",
+    "updatedAt": "2026-07-14T12:17:51.862Z"
   },
   {
     "id": "062d388f58aa0686",
@@ -24,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a55efbe9a7947345dff6e49",
     "publishedAt": "2026-07-14T08:29:46.000Z",
-    "createdAt": "2026-07-14T10:03:10.791Z",
-    "updatedAt": "2026-07-14T10:03:10.791Z"
+    "createdAt": "2026-07-14T12:17:55.373Z",
+    "updatedAt": "2026-07-14T12:17:55.373Z"
   },
   {
     "id": "2bd0b2d00ccadba0",
@@ -38,22 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a55d8de9a79476b9d145962",
     "publishedAt": "2026-07-14T07:49:39.000Z",
-    "createdAt": "2026-07-14T10:03:13.050Z",
-    "updatedAt": "2026-07-14T10:03:13.050Z"
-  },
-  {
-    "id": "747cb583463d7e8b",
-    "title": "Врач сборной Сенегала на ЧМ-2026 оказался гинекологом",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/1/55/347840144442551.jpeg",
-    "teaser": "Врач сборной Сенегала на ЧМ-2026 оказался гинекологом",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a55df8e9a79477c65a3976d",
-    "publishedAt": "2026-07-14T07:45:28.000Z",
-    "createdAt": "2026-07-14T10:03:17.492Z",
-    "updatedAt": "2026-07-14T10:03:17.492Z"
+    "createdAt": "2026-07-14T12:17:57.657Z",
+    "updatedAt": "2026-07-14T12:17:57.657Z"
   },
   {
     "id": "62553c649cdd5834",
@@ -66,8 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a55e0939a7947c6715b076f",
     "publishedAt": "2026-07-14T07:27:41.000Z",
-    "createdAt": "2026-07-14T10:03:11.930Z",
-    "updatedAt": "2026-07-14T10:03:11.930Z"
+    "createdAt": "2026-07-14T12:17:56.515Z",
+    "updatedAt": "2026-07-14T12:17:56.515Z"
   },
   {
     "id": "2f4651f0be21d3d8",
@@ -80,63 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a55d1959a79473ce3b43ae5",
     "publishedAt": "2026-07-14T06:34:03.000Z",
-    "createdAt": "2026-07-14T10:03:14.096Z",
-    "updatedAt": "2026-07-14T10:03:14.096Z"
-  },
-  {
-    "id": "bafe79ab2b715e8e",
-    "title": "От улицы до президентского дворца. Как утка Мерлин стала символом ЧМ-2026",
-    "sport": "Другое",
-    "category": "ЧМ-2026",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/1/69/347823155106691.jpeg",
-    "teaser": "От улицы до президентского дворца. Как утка Мерлин стала символом ЧМ-2026",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a3bd19d9a7947829cf966ed",
-    "publishedAt": "2026-07-14T06:18:33.000Z",
-    "createdAt": "2026-07-14T10:03:15.227Z",
-    "updatedAt": "2026-07-14T10:03:15.227Z"
-  },
-  {
-    "id": "9e1886673d3b0f8d",
-    "title": "Олимпийская чемпионка по биатлону Галина Куклева умерла в возрасте 53 лет",
-    "sport": "Другое",
-    "category": "Биатлон",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/8/82/347840082931828.jpeg",
-    "teaser": "Олимпийская чемпионка по биатлону Галина Куклева умерла в возрасте 53 лет",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a55cad19a7947c6d5e46e9d",
-    "publishedAt": "2026-07-14T06:11:08.000Z",
-    "createdAt": "2026-07-14T10:03:16.366Z",
-    "updatedAt": "2026-07-14T10:03:16.366Z"
-  },
-  {
-    "id": "55df366c8b5ac0ff",
-    "title": "Сбежавший с Украины футболист сломал ногу в дебютном матче за клуб",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/1/62/347840069206621.jpeg",
-    "teaser": "Сбежавший с Украины футболист сломал ногу в дебютном матче за клуб",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a55c4b89a7947361119db6a",
-    "publishedAt": "2026-07-14T05:56:39.000Z",
-    "createdAt": "2026-07-14T10:03:19.764Z",
-    "updatedAt": "2026-07-14T10:03:19.764Z"
-  },
-  {
-    "id": "64729bb836d5c701",
-    "title": "На втором ЧМ подряд вспыхнул расистский скандал с участием Франции",
-    "sport": "Другое",
-    "category": "ЧМ-2026",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/6/35/347839657150356.jpeg",
-    "teaser": "На втором ЧМ подряд вспыхнул расистский скандал с участием Франции",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a54d2e49a7947cba329a671",
-    "publishedAt": "2026-07-14T05:04:16.000Z",
-    "createdAt": "2026-07-14T10:03:18.618Z",
-    "updatedAt": "2026-07-14T10:03:18.618Z"
+    "createdAt": "2026-07-14T12:17:58.757Z",
+    "updatedAt": "2026-07-14T12:17:58.757Z"
   }
 ]
