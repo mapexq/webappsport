@@ -1,5 +1,33 @@
 [
   {
+    "id": "cc71e9434094e40f",
+    "title": "Папа запретил. Почему в сборной Аргентины только у одного игрока нет тату",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/5/91/347840406114915.jpeg",
+    "teaser": "Папа запретил. Почему в сборной Аргентины только у одного игрока нет тату",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a564b9d9a7947841bb37fbb",
+    "publishedAt": "2026-07-14T15:55:54.000Z",
+    "createdAt": "2026-07-14T16:21:26.511Z",
+    "updatedAt": "2026-07-14T16:21:26.511Z"
+  },
+  {
+    "id": "62e7623416abb568",
+    "title": "Овечкин заявил, что желание выиграть Кубок Стэнли выше рекордов Гретцки",
+    "sport": "Хоккей",
+    "category": "Хоккей",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/6/49/347840418393496.jpeg",
+    "teaser": "Овечкин заявил, что желание выиграть Кубок Стэнли выше рекордов Гретцки",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a5650ae9a7947337b7867b9",
+    "publishedAt": "2026-07-14T15:36:55.000Z",
+    "createdAt": "2026-07-14T16:21:23.129Z",
+    "updatedAt": "2026-07-14T16:21:23.129Z"
+  },
+  {
     "id": "42e8a6f49b140666",
     "title": "Том Круз примет участие в церемонии закрытия ЧМ-2026",
     "sport": "Футбол",
@@ -10,22 +38,22 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a5648919a79477286e6fa41",
     "publishedAt": "2026-07-14T14:50:30.000Z",
-    "createdAt": "2026-07-14T14:56:56.124Z",
-    "updatedAt": "2026-07-14T14:56:56.124Z"
+    "createdAt": "2026-07-14T16:21:24.252Z",
+    "updatedAt": "2026-07-14T16:21:24.252Z"
   },
   {
     "id": "ac65ce40700e65f9",
     "title": "Защитник сборной Норвегии пришел в шлепанцах на прием к королевской семье",
     "sport": "Футбол",
     "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/8/48/347840373270488.jpeg",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/2/29/347840441847292.jpeg",
     "teaser": "Защитник сборной Норвегии пришел в шлепанцах на прием к королевской семье",
     "fullContent": "",
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a563b919a794798d05f5735",
     "publishedAt": "2026-07-14T14:16:43.000Z",
-    "createdAt": "2026-07-14T14:56:58.096Z",
-    "updatedAt": "2026-07-14T14:56:58.096Z"
+    "createdAt": "2026-07-14T16:21:27.749Z",
+    "updatedAt": "2026-07-14T16:21:27.749Z"
   },
   {
     "id": "c84aec6c3f416b70",
@@ -38,8 +66,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a5641b49a79471e86d6c299",
     "publishedAt": "2026-07-14T14:12:45.000Z",
-    "createdAt": "2026-07-14T14:56:57.121Z",
-    "updatedAt": "2026-07-14T14:56:57.121Z"
+    "createdAt": "2026-07-14T16:21:25.325Z",
+    "updatedAt": "2026-07-14T16:21:25.325Z"
   },
   {
     "id": "828688e93b45e70b",
@@ -52,8 +80,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a562b749a79477bf725a916",
     "publishedAt": "2026-07-14T13:53:01.000Z",
-    "createdAt": "2026-07-14T14:56:59.100Z",
-    "updatedAt": "2026-07-14T14:56:59.100Z"
+    "createdAt": "2026-07-14T16:21:28.850Z",
+    "updatedAt": "2026-07-14T16:21:28.850Z"
   },
   {
     "id": "7b35e75b86980267",
@@ -66,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a5637369a794798d05f5708",
     "publishedAt": "2026-07-14T13:38:13.000Z",
-    "createdAt": "2026-07-14T14:57:01.156Z",
-    "updatedAt": "2026-07-14T14:57:01.156Z"
+    "createdAt": "2026-07-14T16:21:31.073Z",
+    "updatedAt": "2026-07-14T16:21:31.073Z"
   },
   {
     "id": "f7b6396f7e4c811f",
@@ -80,8 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a562e8e9a794722fa02289e",
     "publishedAt": "2026-07-14T13:22:00.000Z",
-    "createdAt": "2026-07-14T14:57:00.106Z",
-    "updatedAt": "2026-07-14T14:57:00.106Z"
+    "createdAt": "2026-07-14T16:21:30.016Z",
+    "updatedAt": "2026-07-14T16:21:30.016Z"
   },
   {
     "id": "b463dc6e7a8d81d0",
@@ -94,8 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a562da59a794765fcc444fe",
     "publishedAt": "2026-07-14T12:54:18.000Z",
-    "createdAt": "2026-07-14T14:57:02.191Z",
-    "updatedAt": "2026-07-14T14:57:02.191Z"
+    "createdAt": "2026-07-14T16:21:32.130Z",
+    "updatedAt": "2026-07-14T16:21:32.130Z"
   },
   {
     "id": "ecb31c9e9ec0e615",
@@ -108,35 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a5628779a7947888f84247b",
     "publishedAt": "2026-07-14T12:48:45.000Z",
-    "createdAt": "2026-07-14T14:57:03.252Z",
-    "updatedAt": "2026-07-14T14:57:03.252Z"
-  },
-  {
-    "id": "e78bb2b6e39720ac",
-    "title": "Умер работавший на двух матчах Суперсерии-1972 хоккейный арбитр",
-    "sport": "Хоккей",
-    "category": "Хоккей",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/0/27/347840289972270.jpeg",
-    "teaser": "Умер работавший на двух матчах Суперсерии-1972 хоккейный арбитр",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a561ef39a7947875c2b4fdb",
-    "publishedAt": "2026-07-14T11:45:25.000Z",
-    "createdAt": "2026-07-14T14:57:04.279Z",
-    "updatedAt": "2026-07-14T14:57:04.279Z"
-  },
-  {
-    "id": "3f858e323513cb88",
-    "title": "Бывшего футболиста сборной Турции заподозрили в избиении супруги",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/6/93/347840265850936.jpeg",
-    "teaser": "Бывшего футболиста сборной Турции заподозрили в избиении супруги",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a5611439a79470d32be5295",
-    "publishedAt": "2026-07-14T11:15:38.000Z",
-    "createdAt": "2026-07-14T14:57:05.348Z",
-    "updatedAt": "2026-07-14T14:57:05.348Z"
+    "createdAt": "2026-07-14T16:21:33.309Z",
+    "updatedAt": "2026-07-14T16:21:33.309Z"
   }
 ]
