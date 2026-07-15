@@ -1,5 +1,75 @@
 [
   {
+    "id": "10b17fedeb4f3def",
+    "title": "Как Российская Дрифт Серия стала самым зрелищным автоспортивным событием",
+    "sport": "Другое",
+    "category": "Другие",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/0/77/347841205672770.jpeg",
+    "teaser": "Как Российская Дрифт Серия стала самым зрелищным автоспортивным событием",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a57808f9a7947307a5ac5db",
+    "publishedAt": "2026-07-15T14:44:22.000Z",
+    "createdAt": "2026-07-15T15:36:51.880Z",
+    "updatedAt": "2026-07-15T15:36:51.880Z"
+  },
+  {
+    "id": "8d6440c1ca41cb7c",
+    "title": "Футболист «Спартака» выбыл на пять месяцев из-за травмы",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/5/28/347841255013285.jpeg",
+    "teaser": "Футболист «Спартака» выбыл на пять месяцев из-за травмы",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a57981b9a7947eb250f61c8",
+    "publishedAt": "2026-07-15T14:37:00.000Z",
+    "createdAt": "2026-07-15T15:36:48.379Z",
+    "updatedAt": "2026-07-15T15:36:48.379Z"
+  },
+  {
+    "id": "74fe42f57f921c95",
+    "title": "Легенда «Детройта» Стив Айзерман покинул пост генменеджера клуба НХЛ",
+    "sport": "Хоккей",
+    "category": "Хоккей",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/5/31/347841232310315.jpeg",
+    "teaser": "Легенда «Детройта» Стив Айзерман покинул пост генменеджера клуба НХЛ",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a578f1b9a7947b7d55272a8",
+    "publishedAt": "2026-07-15T14:12:15.000Z",
+    "createdAt": "2026-07-15T15:36:50.626Z",
+    "updatedAt": "2026-07-15T15:36:50.626Z"
+  },
+  {
+    "id": "e8232f70969dc229",
+    "title": "Петиция об исключении Аргентины из ЧМ-2026 набрала больше 10 млн подписей",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/8/12/347841235325128.jpeg",
+    "teaser": "Петиция об исключении Аргентины из ЧМ-2026 набрала больше 10 млн подписей",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a578c4e9a794720533ed944",
+    "publishedAt": "2026-07-15T14:09:55.000Z",
+    "createdAt": "2026-07-15T15:36:49.502Z",
+    "updatedAt": "2026-07-15T15:36:49.502Z"
+  },
+  {
+    "id": "617b5c17f3120f51",
+    "title": "Аргентинские фанаты устроили драку между собой перед полуфиналом ЧМ-2026",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/8/09/347841220090098.jpeg",
+    "teaser": "Аргентинские фанаты устроили драку между собой перед полуфиналом ЧМ-2026",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a5786019a794778be310861",
+    "publishedAt": "2026-07-15T13:48:16.000Z",
+    "createdAt": "2026-07-15T15:36:53.082Z",
+    "updatedAt": "2026-07-15T15:36:53.082Z"
+  },
+  {
     "id": "2bba938b694431f1",
     "title": "Теннисист из Парагвая впервые за 20 лет вышел в 1/4 финала турнира ATP",
     "sport": "Теннис",
@@ -10,8 +80,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a577c829a7947835c53bb88",
     "publishedAt": "2026-07-15T12:46:44.000Z",
-    "createdAt": "2026-07-15T13:52:30.836Z",
-    "updatedAt": "2026-07-15T13:52:30.836Z"
+    "createdAt": "2026-07-15T15:36:55.247Z",
+    "updatedAt": "2026-07-15T15:36:55.247Z"
   },
   {
     "id": "7f82b5e1c77d0d50",
@@ -24,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a5777029a794772682976b4",
     "publishedAt": "2026-07-15T12:17:57.000Z",
-    "createdAt": "2026-07-15T13:52:29.720Z",
-    "updatedAt": "2026-07-15T13:52:29.720Z"
+    "createdAt": "2026-07-15T15:36:54.130Z",
+    "updatedAt": "2026-07-15T15:36:54.130Z"
   },
   {
     "id": "690067b9bfbec71f",
@@ -38,8 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a5772809a7947629bc83569",
     "publishedAt": "2026-07-15T12:06:03.000Z",
-    "createdAt": "2026-07-15T13:52:31.962Z",
-    "updatedAt": "2026-07-15T13:52:31.962Z"
+    "createdAt": "2026-07-15T15:36:56.354Z",
+    "updatedAt": "2026-07-15T15:36:56.354Z"
   },
   {
     "id": "b5cdcd989b27c6bd",
@@ -52,8 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a576e0f9a794709ef46cc23",
     "publishedAt": "2026-07-15T12:03:54.000Z",
-    "createdAt": "2026-07-15T13:52:33.144Z",
-    "updatedAt": "2026-07-15T13:52:33.144Z"
+    "createdAt": "2026-07-15T15:36:57.877Z",
+    "updatedAt": "2026-07-15T15:36:57.877Z"
   },
   {
     "id": "d34d7aeb45c3d312",
@@ -66,77 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a57692a9a79470179fe2615",
     "publishedAt": "2026-07-15T11:26:28.000Z",
-    "createdAt": "2026-07-15T13:52:34.270Z",
-    "updatedAt": "2026-07-15T13:52:34.270Z"
-  },
-  {
-    "id": "d88a00ef2a5e1041",
-    "title": "В Испании назвали позором высокую стоимость билетов на финал ЧМ-2026",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/6/59/347841136648596.jpeg",
-    "teaser": "В Испании назвали позором высокую стоимость билетов на финал ЧМ-2026",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a5764ad9a7947470231f8fa",
-    "publishedAt": "2026-07-15T11:16:02.000Z",
-    "createdAt": "2026-07-15T13:52:35.272Z",
-    "updatedAt": "2026-07-15T13:52:35.272Z"
-  },
-  {
-    "id": "3df1edf04d19f5f5",
-    "title": "Сборная Гаити уволила выведшего команду на ЧМ впервые за 52 года тренера",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/3/07/347841095662073.jpeg",
-    "teaser": "Сборная Гаити уволила выведшего команду на ЧМ впервые за 52 года тренера",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a5751979a79474ad87478f3",
-    "publishedAt": "2026-07-15T10:06:36.000Z",
-    "createdAt": "2026-07-15T13:52:36.405Z",
-    "updatedAt": "2026-07-15T13:52:36.405Z"
-  },
-  {
-    "id": "429e187085d79ae2",
-    "title": "В Париже полиция задержала более 140 болельщиков после полуфинала ЧМ-2026",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/6/96/347841040237966.jpeg",
-    "teaser": "В Париже полиция задержала более 140 болельщиков после полуфинала ЧМ-2026",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a5741ab9a79471fae159650",
-    "publishedAt": "2026-07-15T10:04:53.000Z",
-    "createdAt": "2026-07-15T13:52:37.748Z",
-    "updatedAt": "2026-07-15T13:52:37.748Z"
-  },
-  {
-    "id": "c09634e577f2960c",
-    "title": "Дом Ямаля в Барселоне попытались ограбить во время полуфинала ЧМ-2026",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/0/66/347841052954660.jpeg",
-    "teaser": "Дом Ямаля в Барселоне попытались ограбить во время полуфинала ЧМ-2026",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a5745fd9a79476728b186f9",
-    "publishedAt": "2026-07-15T08:55:50.000Z",
-    "createdAt": "2026-07-15T13:52:38.695Z",
-    "updatedAt": "2026-07-15T13:52:38.695Z"
-  },
-  {
-    "id": "bea3f3129bcc791b",
-    "title": "ФИФА нарушит правила и увеличит в два раза перерыв в финале ЧМ-2026",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/0/69/347840980648690.jpeg",
-    "teaser": "ФИФА нарушит правила и увеличит в два раза перерыв в финале ЧМ-2026",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a5729269a7947c7228d74aa",
-    "publishedAt": "2026-07-15T08:16:51.000Z",
-    "createdAt": "2026-07-15T13:52:39.751Z",
-    "updatedAt": "2026-07-15T13:52:39.751Z"
+    "createdAt": "2026-07-15T15:36:59.004Z",
+    "updatedAt": "2026-07-15T15:36:59.004Z"
   }
 ]
