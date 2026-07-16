@@ -1,5 +1,61 @@
 [
   {
+    "id": "8eca5132611c76f0",
+    "title": "Cope узнало, что ФИФА не успеет наказать Аргентину за баннер до финала ЧМ",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/0/53/347842160232530.jpeg",
+    "teaser": "Cope узнало, что ФИФА не успеет наказать Аргентину за баннер до финала ЧМ",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a58f9849a7947e4a95fe9c7",
+    "publishedAt": "2026-07-16T15:55:52.000Z",
+    "createdAt": "2026-07-16T16:20:17.305Z",
+    "updatedAt": "2026-07-16T16:20:17.305Z"
+  },
+  {
+    "id": "52fddd181cee0aea",
+    "title": "Фигуристка Трусова получила диплом журфака МГУ",
+    "sport": "Другое",
+    "category": "Фигурное катание",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/1/68/347842173124681.jpeg",
+    "teaser": "Фигуристка Трусова получила диплом журфака МГУ",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a58f8cb9a7947345ace5fb5",
+    "publishedAt": "2026-07-16T15:48:44.000Z",
+    "createdAt": "2026-07-16T16:20:18.322Z",
+    "updatedAt": "2026-07-16T16:20:18.322Z"
+  },
+  {
+    "id": "5a4dd35d1fe3c676",
+    "title": "«Барселона» впервые подписала контракт с казахстанским футболистом",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/5/68/347842138044685.jpeg",
+    "teaser": "«Барселона» впервые подписала контракт с казахстанским футболистом",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a58ebf79a7947df442f7e24",
+    "publishedAt": "2026-07-16T15:10:33.000Z",
+    "createdAt": "2026-07-16T16:20:19.360Z",
+    "updatedAt": "2026-07-16T16:20:19.360Z"
+  },
+  {
+    "id": "9ca714e81024ae60",
+    "title": "Рублев вышел в четвертьфинал теннисного турнира в Швеции",
+    "sport": "Теннис",
+    "category": "Теннис",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/2/25/347842104029252.jpeg",
+    "teaser": "Рублев вышел в четвертьфинал теннисного турнира в Швеции",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a58e2639a7947291b9893bb",
+    "publishedAt": "2026-07-16T14:55:11.000Z",
+    "createdAt": "2026-07-16T16:20:20.369Z",
+    "updatedAt": "2026-07-16T16:20:20.369Z"
+  },
+  {
     "id": "ec542e191b06f882",
     "title": "Самый возрастной футболист чемпионата мира-2026 завершил карьеру",
     "sport": "Футбол",
@@ -10,8 +66,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a58dcdd9a79475c19b39f9a",
     "publishedAt": "2026-07-16T13:50:52.000Z",
-    "createdAt": "2026-07-16T14:04:59.125Z",
-    "updatedAt": "2026-07-16T14:04:59.125Z"
+    "createdAt": "2026-07-16T16:20:23.356Z",
+    "updatedAt": "2026-07-16T16:20:23.356Z"
   },
   {
     "id": "a358f62efc0068f5",
@@ -24,8 +80,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a58ce2f9a7947efa517b33a",
     "publishedAt": "2026-07-16T13:49:24.000Z",
-    "createdAt": "2026-07-16T14:04:58.043Z",
-    "updatedAt": "2026-07-16T14:04:58.043Z"
+    "createdAt": "2026-07-16T16:20:21.323Z",
+    "updatedAt": "2026-07-16T16:20:21.323Z"
   },
   {
     "id": "602da112fadd89c1",
@@ -38,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a58d7749a7947747f8cbb8c",
     "publishedAt": "2026-07-16T13:41:56.000Z",
-    "createdAt": "2026-07-16T14:05:01.060Z",
-    "updatedAt": "2026-07-16T14:05:01.060Z"
+    "createdAt": "2026-07-16T16:20:22.352Z",
+    "updatedAt": "2026-07-16T16:20:22.352Z"
   },
   {
     "id": "60f89bbe300d482d",
@@ -52,8 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a58d7c79a79476529e240c0",
     "publishedAt": "2026-07-16T13:27:49.000Z",
-    "createdAt": "2026-07-16T14:05:00.112Z",
-    "updatedAt": "2026-07-16T14:05:00.112Z"
+    "createdAt": "2026-07-16T16:20:24.367Z",
+    "updatedAt": "2026-07-16T16:20:24.367Z"
   },
   {
     "id": "4525ef6f49f54898",
@@ -66,8 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a58d2f39a79476529e240a7",
     "publishedAt": "2026-07-16T13:01:23.000Z",
-    "createdAt": "2026-07-16T14:05:03.170Z",
-    "updatedAt": "2026-07-16T14:05:03.170Z"
+    "createdAt": "2026-07-16T16:20:26.417Z",
+    "updatedAt": "2026-07-16T16:20:26.417Z"
   },
   {
     "id": "393c2feed16c7763",
@@ -80,63 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a58ca1b9a794791cbf63aa8",
     "publishedAt": "2026-07-16T12:41:47.000Z",
-    "createdAt": "2026-07-16T14:05:02.139Z",
-    "updatedAt": "2026-07-16T14:05:02.139Z"
-  },
-  {
-    "id": "40841f993be7c193",
-    "title": "Умер семикратный чемпион Европы по боксу",
-    "sport": "Единоборства",
-    "category": "Единоборства",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/3/13/347842047136133.jpeg",
-    "teaser": "Умер семикратный чемпион Европы по боксу",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a58c9329a7947d3d2a2b941",
-    "publishedAt": "2026-07-16T12:39:46.000Z",
-    "createdAt": "2026-07-16T14:05:05.383Z",
-    "updatedAt": "2026-07-16T14:05:05.383Z"
-  },
-  {
-    "id": "a35124fbfeeb0753",
-    "title": "В футбольном «Динамо» назвали капитанов на предстоящий сезон",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/1/22/347842045506221.png",
-    "teaser": "В футбольном «Динамо» назвали капитанов на предстоящий сезон",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a58ca2c9a79475096887ae6",
-    "publishedAt": "2026-07-16T12:27:59.000Z",
-    "createdAt": "2026-07-16T14:05:07.513Z",
-    "updatedAt": "2026-07-16T14:05:07.513Z"
-  },
-  {
-    "id": "abaa35be8a6c5451",
-    "title": "Теннисистка Касаткина и фигуристка Забияко сообщили о свадьбе",
-    "sport": "Теннис",
-    "category": "Теннис",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/1/66/347841965426661.jpeg",
-    "teaser": "Теннисистка Касаткина и фигуристка Забияко сообщили о свадьбе",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a58a9b99a7947f3a7004c22",
-    "publishedAt": "2026-07-16T11:54:37.000Z",
-    "createdAt": "2026-07-16T14:05:04.271Z",
-    "updatedAt": "2026-07-16T14:05:04.271Z"
-  },
-  {
-    "id": "7e5741765872de6a",
-    "title": "КХЛ разыграет новый трофей среди шести старейших российских клубов",
-    "sport": "Хоккей",
-    "category": "Хоккей",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/7/53/347842023201537.png",
-    "teaser": "КХЛ разыграет новый трофей среди шести старейших российских клубов",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a58bec09a7947af1a1b786c",
-    "publishedAt": "2026-07-16T11:53:00.000Z",
-    "createdAt": "2026-07-16T14:05:06.440Z",
-    "updatedAt": "2026-07-16T14:05:06.440Z"
+    "createdAt": "2026-07-16T16:20:25.393Z",
+    "updatedAt": "2026-07-16T16:20:25.393Z"
   }
 ]

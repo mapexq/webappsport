@@ -1,50 +1,130 @@
 [
   {
-    "id": 1784210688804,
-    "eventName": "Дерри Сити — ЦСКА София",
+    "id": 1784218810759,
+    "eventName": "Франция — Англия",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
     "expert": {
-      "name": "Павел Бахаев",
-      "avatar": "https://bookmaker-ratings.ru/static/images/badges/is-kapper.svg?v=30092024",
+      "name": "Александр Сухоставский",
+      "avatar": "https://static-uploads.prod.bookmaker-ratings.ru/2024/06/1f71gh8.png?width=60",
       "status": "expert",
-      "winRate": 76
+      "winRate": 82
     },
-    "prediction": "Победа 2",
-    "odds": 1.87,
-    "comment": "Болгары уже победили в первой игре и им вполне под силу повторить еще раз",
+    "prediction": "Тотал (3.5) Б",
+    "odds": 2.13,
+    "comment": "Уверен, что игра будет верховая. В полуфиналах играли сдержано, не свойственно себе. Как итог не выход в финал. Здесь будет открытая игра.",
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1784210688805,
-    "eventName": "Университатя — Динамо Киев",
+    "id": 1784218810760,
+    "eventName": "Франция — Англия",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
     "expert": {
-      "name": "Павел Бахаев",
+      "name": "Алексей Мехедов",
       "avatar": "https://bookmaker-ratings.ru/static/images/badges/is-kapper.svg?v=30092024",
       "status": "expert",
-      "winRate": 76
+      "winRate": 84
     },
-    "prediction": "Победа 2",
-    "odds": 1.62,
-    "comment": "Киевляне весь первый матч давили но не смогли забить думаю что второй матч останется за гостями",
+    "prediction": "Тотал больше (4.5)",
+    "odds": 3.65,
+    "comment": "Думаю что в таком матче будут более рааалабленные командвкоманды и пусть матч ииранговый но атака сыграет в более отрытый",
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1784210688806,
-    "eventName": "Матч",
+    "id": 1784218810761,
+    "eventName": "Франция — Англия",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
     "expert": {
-      "name": "Павел Кириченко",
-      "avatar": "https://static-uploads.prod.bookmaker-ratings.ru/2023/11/Kirichenko.png?width=60",
+      "name": "Дмитрий Федченко",
+      "avatar": "https://static-uploads.prod.bookmaker-ratings.ru/2022/11/IMG-20171018-WA0047-1.png?width=60",
       "status": "expert",
-      "winRate": 78
+      "winRate": 87
     },
-    "prediction": "ТМ(22.5)",
-    "odds": 1.65,
-    "comment": "На турнире АТР-250 в Умаге в парном разряде сегодня встретятся дуэты Стивенсон/Уиллис и Календер/Сердарусич. Обе пары в своих стартовых матчах на турнире здорово выглядели на приеме, делали брейки более раза за сет. При этом были шансы на приеме и у них соперников. Таким образом, ожидать верховые сеты, да ещё и два подряд, здесь выглядит не совсем логично. Напомню, что разные букмекеры по-разному рассчитывают формат с супертайбрейком. В данном случае ставка актуальна только в БК «Марафон», «Балтбет» и «Мелбет».",
+    "prediction": "Тотал (2.5) Б",
+    "odds": 1.48,
+    "comment": "У обеих сборных отличное нападение. Будет много голов.",
+    "source": "Sports Analytics Pro"
+  },
+  {
+    "id": 1784218810762,
+    "eventName": "Франция — Англия",
+    "discipline": "Футбол",
+    "tournament": "Чемпионат",
+    "expert": {
+      "name": "Николай Косов",
+      "avatar": "https://bookmaker-ratings.ru/static/images/badges/is-kapper.svg?v=30092024",
+      "status": "expert",
+      "winRate": 72
+    },
+    "prediction": "Тотал (2.5) Б",
+    "odds": 1.48,
+    "comment": "Думаю что здесь три гола команды должны забить совместно.",
+    "source": "Sports Analytics Pro"
+  },
+  {
+    "id": 1784218810763,
+    "eventName": "Испания — Аргентина",
+    "discipline": "Футбол",
+    "tournament": "Чемпионат",
+    "expert": {
+      "name": "Александр Сухоставский",
+      "avatar": "https://static-uploads.prod.bookmaker-ratings.ru/2024/06/1f71gh8.png?width=60",
+      "status": "expert",
+      "winRate": 82
+    },
+    "prediction": "Ничья",
+    "odds": 3.05,
+    "comment": "Практически не сомневаюсь с итоговом ничейном исходе. Финал, будет и осторожность, и рубка. Испанцы наверняка будут вести в счете, но Аргентина уже показала, что умеет вытаскивать матчи.",
+    "source": "Sports Analytics Pro"
+  },
+  {
+    "id": 1784218810764,
+    "eventName": "Испания — Аргентина",
+    "discipline": "Футбол",
+    "tournament": "Чемпионат",
+    "expert": {
+      "name": "Анатолий Корнев",
+      "avatar": "https://static-uploads.prod.bookmaker-ratings.ru/2025/12/658c10b6-6dfa-46f1-b799-a3009b0befd9-692da855aa3b5.jpg?width=60",
+      "status": "expert",
+      "winRate": 77
+    },
+    "prediction": "Первый забьет - Да",
+    "odds": 1.47,
+    "comment": "Испания, во всех шести предыдущих матчах, обязательно забивала.",
+    "source": "Sports Analytics Pro"
+  },
+  {
+    "id": 1784218810765,
+    "eventName": "Испания — Аргентина",
+    "discipline": "Футбол",
+    "tournament": "Чемпионат",
+    "expert": {
+      "name": "Дмитрий Федченко",
+      "avatar": "https://static-uploads.prod.bookmaker-ratings.ru/2022/11/IMG-20171018-WA0047-1.png?width=60",
+      "status": "expert",
+      "winRate": 87
+    },
+    "prediction": "Обе забьют - Да",
+    "odds": 1.95,
+    "comment": "Две супер сборные, забивающие в каждом матче. Обменяются голами.",
+    "source": "Sports Analytics Pro"
+  },
+  {
+    "id": 1784218810766,
+    "eventName": "Франция — Англия",
+    "discipline": "Футбол",
+    "tournament": "Чемпионат",
+    "expert": {
+      "name": "Анатолий Корнев",
+      "avatar": "https://static-uploads.prod.bookmaker-ratings.ru/2025/12/658c10b6-6dfa-46f1-b799-a3009b0befd9-692da855aa3b5.jpg?width=60",
+      "status": "expert",
+      "winRate": 77
+    },
+    "prediction": "Тотал (4.5) М",
+    "odds": 1.3,
+    "comment": "Не думаю, что обе сборные сразу побегут забивать, так что вполне реальная ставка.",
     "source": "Sports Analytics Pro"
   }
 ]
