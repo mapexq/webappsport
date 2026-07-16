@@ -1,6 +1,22 @@
 [
   {
-    "id": 1784225341540,
+    "id": 1784232264935,
+    "eventName": "Матч",
+    "discipline": "Футбол",
+    "tournament": "Чемпионат",
+    "expert": {
+      "name": "Menson Mensonskii",
+      "avatar": "https://bookmaker-ratings.ru/static/images/badges/is-kapper.svg?v=30092024",
+      "status": "expert",
+      "winRate": 78
+    },
+    "prediction": "Победа 2",
+    "odds": 1.11,
+    "comment": "Ну тут лёгкая победа Зенита,молодёжка Зенита хороша отлично атакует,много забивает и идёт фаворитом в этой встречи",
+    "source": "Sports Analytics Pro"
+  },
+  {
+    "id": 1784232264937,
     "eventName": "Франция — Англия",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -16,7 +32,7 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1784225341542,
+    "id": 1784232264938,
     "eventName": "Франция — Англия",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -32,7 +48,7 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1784225341543,
+    "id": 1784232264939,
     "eventName": "Франция — Англия",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -48,7 +64,7 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1784225341544,
+    "id": 1784232264940,
     "eventName": "Франция — Англия",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -64,87 +80,71 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1784225341545,
-    "eventName": "Испания — Аргентина",
+    "id": 1784232264941,
+    "eventName": "Франция — Англия",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
     "expert": {
-      "name": "Александр Сухоставский",
-      "avatar": "https://static-uploads.prod.bookmaker-ratings.ru/2024/06/1f71gh8.png?width=60",
+      "name": "Андрей Ежов",
+      "avatar": "https://static-uploads.prod.bookmaker-ratings.ru/2026/06/andr-rb-webp-6a42d3c14ccc3-6a42d3c1549a1.webp?width=60",
+      "status": "expert",
+      "winRate": 84
+    },
+    "prediction": "Фора 1 (0)",
+    "odds": 1.43,
+    "comment": "Не верю, что французы, уедут без медалей с ЧМ) Кто меньше расстроился, тот и победит)",
+    "source": "Sports Analytics Pro"
+  },
+  {
+    "id": 1784232264942,
+    "eventName": "Франция — Англия",
+    "discipline": "Футбол",
+    "tournament": "Чемпионат",
+    "expert": {
+      "name": "Тимофей Фиштовский",
+      "avatar": "https://static-uploads.prod.bookmaker-ratings.ru/2022/02/Screenshot_20210909-114448.png?width=60",
       "status": "expert",
       "winRate": 82
     },
-    "prediction": "Ничья",
-    "odds": 3.05,
-    "comment": "Практически не сомневаюсь с итоговом ничейном исходе. Финал, будет и осторожность, и рубка. Испанцы наверняка будут вести в счете, но Аргентина уже показала, что умеет вытаскивать матчи.",
-    "source": "Sports Analytics Pro"
-  },
-  {
-    "id": 1784225341546,
-    "eventName": "Испания — Аргентина",
-    "discipline": "Футбол",
-    "tournament": "Чемпионат",
-    "expert": {
-      "name": "Анатолий Корнев",
-      "avatar": "https://static-uploads.prod.bookmaker-ratings.ru/2025/12/658c10b6-6dfa-46f1-b799-a3009b0befd9-692da855aa3b5.jpg?width=60",
-      "status": "expert",
-      "winRate": 77
-    },
-    "prediction": "Первый забьет - Да",
-    "odds": 1.47,
-    "comment": "Испания, во всех шести предыдущих матчах, обязательно забивала.",
-    "source": "Sports Analytics Pro"
-  },
-  {
-    "id": 1784225341547,
-    "eventName": "Испания — Аргентина",
-    "discipline": "Футбол",
-    "tournament": "Чемпионат",
-    "expert": {
-      "name": "Дмитрий Федченко",
-      "avatar": "https://static-uploads.prod.bookmaker-ratings.ru/2022/11/IMG-20171018-WA0047-1.png?width=60",
-      "status": "expert",
-      "winRate": 87
-    },
     "prediction": "Обе забьют - Да",
-    "odds": 1.95,
-    "comment": "Две супер сборные, забивающие в каждом матче. Обменяются голами.",
+    "odds": 1.45,
+    "comment": "Игра ,которая будет веселой с обилием года в оба ворота",
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1784225341548,
-    "eventName": "Испания — Аргентина",
+    "id": 1784232264943,
+    "eventName": "Франция — Англия",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
     "expert": {
-      "name": "Леонид Степанов",
-      "avatar": "https://bookmaker-ratings.ru/static/images/badges/is-kapper.svg?v=30092024",
+      "name": "Сергей Никитаев",
+      "avatar": "https://static-uploads.prod.bookmaker-ratings.ru/2021/12/ekbok-2.png?width=60",
       "status": "expert",
-      "winRate": 79
+      "winRate": 73
     },
     "prediction": "Ничья",
-    "odds": 3.05,
-    "comment": "Комментарий к прогнозу",
+    "odds": 3.95,
+    "comment": "Думаю ,что основное время может вполне закончиться ничьей",
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1784225341549,
-    "eventName": "Матч",
+    "id": 1784232264944,
+    "eventName": "Франция — Англия",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
     "expert": {
-      "name": "Владимир Чаплыгин",
-      "avatar": "https://static-uploads.prod.bookmaker-ratings.ru/2023/11/Chaplygin.png?width=60",
+      "name": "Владимир Золин",
+      "avatar": "https://static-uploads.prod.bookmaker-ratings.ru/2026/06/472154C6-FC3D-4B18-BCE0-EE667F67EFCD-rb-webp-6a2b244bd2c3b-6a2b244bd7321.webp?width=60",
       "status": "expert",
-      "winRate": 79
+      "winRate": 68
     },
-    "prediction": "Эйсы Ф1 (0)",
-    "odds": 1.67,
-    "comment": "Смотрим статистику выступления участниц предстоящего матча на открытом харде за последний год. Тереза Валентова в среднем за гейм выполняет 0,32 эйса, при этом от своих соперниц пропускает с частотой 0,20 эйса за гейм. Александра Саснович делает 0,27 эйса за гейм, а пропускает 0,28 эйса за гейм. Как видите, у чешской теннисистки есть преимущество как на своей подаче, так и на приеме чужой. За время своей профессиональной карьеры теннисистки ни разу не играли друг против друга. Если смотреть на результаты матчей против общих соперниц на харде, то стоит обратить внимание на итоги встречи с Ито и Прозоровой. Валентова победила Ито по эйсам 3-0, а Прозорову и 5-1. Саснович с Ито сначала сыграла вничью 1-1, а потом уступил 1-3, против Прозоровой у нее поражение 2-4. Так что ставим на нулевую фору по эйсам в пользу чешской теннисистки",
+    "prediction": "Ф1(-1.5)",
+    "odds": 3.05,
+    "comment": "Думаю что французы уверенно обыграют англичан со счетом 2-0",
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1784225341550,
+    "id": 1784232264945,
     "eventName": "Франция — Англия",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -156,7 +156,7 @@
     },
     "prediction": "Тотал (4.5) М",
     "odds": 1.3,
-    "comment": "Не думаю, что обе сборные сразу побегут забивать, так что вполне реальная ставка. Скачай приложение РБ и получай Push-уведомления о прогнозах выбранных экспертов Скачай мобильное приложение Рейтинг Букмекеров и мгновенно получай Push-уведомления о новых прогнозах выбранных экспертов Скачай мобильное приложение по ссылке или QR-коду и мгновенно получай Push-уведомления о новых прогнозах выбранных экспертов",
+    "comment": "Не думаю, что обе сборные сразу побегут забивать, так что вполне реальная ставка.",
     "source": "Sports Analytics Pro"
   }
 ]
