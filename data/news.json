@@ -1,5 +1,75 @@
 [
   {
+    "id": "b9be629e5b4644e5",
+    "title": "Чемпион России в составе «Спартака» Дуюн умер в 49 лет",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/5/95/347841981867955.jpeg",
+    "teaser": "Чемпион России в составе «Спартака» Дуюн умер в 49 лет",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a58b1aa9a7947f3bb5ed48e",
+    "publishedAt": "2026-07-16T10:45:44.000Z",
+    "createdAt": "2026-07-16T11:43:37.768Z",
+    "updatedAt": "2026-07-16T11:43:37.768Z"
+  },
+  {
+    "id": "2583bcf5d7403590",
+    "title": "Foot Mercato узнал о планах «Монако» продать Головина за €25 млн",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/6/17/347841966070176.jpeg",
+    "teaser": "Foot Mercato узнал о планах «Монако» продать Головина за €25 млн",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a58a9bd9a79471ad7450793",
+    "publishedAt": "2026-07-16T10:15:13.000Z",
+    "createdAt": "2026-07-16T11:43:40.884Z",
+    "updatedAt": "2026-07-16T11:43:40.884Z"
+  },
+  {
+    "id": "10deafc2d79ece6f",
+    "title": "Финалист Кубка Гагарина объявил об уходе лучшего снайпера",
+    "sport": "Хоккей",
+    "category": "Хоккей",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/3/10/347841945213103.png",
+    "teaser": "Финалист Кубка Гагарина объявил об уходе лучшего снайпера",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a58a35e9a79479a02dc5379",
+    "publishedAt": "2026-07-16T09:57:25.000Z",
+    "createdAt": "2026-07-16T11:43:39.852Z",
+    "updatedAt": "2026-07-16T11:43:39.852Z"
+  },
+  {
+    "id": "f81e1216845eee56",
+    "title": "Макгрегор потребовал признать бой с Холлоуэем несостоявшимся",
+    "sport": "Единоборства",
+    "category": "Единоборства",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/2/65/347841940255652.jpeg",
+    "teaser": "Макгрегор потребовал признать бой с Холлоуэем несостоявшимся",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a5895199a79473051e4de4e",
+    "publishedAt": "2026-07-16T09:38:49.000Z",
+    "createdAt": "2026-07-16T11:43:41.888Z",
+    "updatedAt": "2026-07-16T11:43:41.888Z"
+  },
+  {
+    "id": "6bc8689798013529",
+    "title": "Полиция Лондона спасла фаната Аргентины от разъяренной толпы англичан",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/3/88/347841899079883.jpeg",
+    "teaser": "Полиция Лондона спасла фаната Аргентины от разъяренной толпы англичан",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a5890e69a79476d24b34d9c",
+    "publishedAt": "2026-07-16T09:35:41.000Z",
+    "createdAt": "2026-07-16T11:43:42.736Z",
+    "updatedAt": "2026-07-16T11:43:42.736Z"
+  },
+  {
     "id": "94f2757254c624c1",
     "title": "Контракт Зидана с Францией заставит власти изменить законодательство",
     "sport": "Футбол",
@@ -10,8 +80,22 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a588bec9a794776a1227cde",
     "publishedAt": "2026-07-16T08:43:24.000Z",
-    "createdAt": "2026-07-16T09:18:28.056Z",
-    "updatedAt": "2026-07-16T09:18:28.056Z"
+    "createdAt": "2026-07-16T11:43:43.719Z",
+    "updatedAt": "2026-07-16T11:43:43.719Z"
+  },
+  {
+    "id": "1fa51632bca9b075",
+    "title": "Аделия Петросян и еще 7 российских фигуристов получили нейтральный статус",
+    "sport": "Другое",
+    "category": "Фигурное катание",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/4/52/347841913809524.jpeg",
+    "teaser": "Аделия Петросян и еще 7 российских фигуристов получили нейтральный статус",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a5896419a794720471b9d2a",
+    "publishedAt": "2026-07-16T08:41:30.000Z",
+    "createdAt": "2026-07-16T11:43:38.856Z",
+    "updatedAt": "2026-07-16T11:43:38.856Z"
   },
   {
     "id": "460922ace6643508",
@@ -24,8 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a2697fc9a794711caba3884",
     "publishedAt": "2026-07-16T07:57:44.000Z",
-    "createdAt": "2026-07-16T09:18:30.373Z",
-    "updatedAt": "2026-07-16T09:18:30.373Z"
+    "createdAt": "2026-07-16T11:43:45.952Z",
+    "updatedAt": "2026-07-16T11:43:45.952Z"
   },
   {
     "id": "178bd0e7e737b5f7",
@@ -38,8 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a5886d79a7947b940cf6fb3",
     "publishedAt": "2026-07-16T07:45:44.000Z",
-    "createdAt": "2026-07-16T09:18:29.143Z",
-    "updatedAt": "2026-07-16T09:18:29.143Z"
+    "createdAt": "2026-07-16T11:43:44.703Z",
+    "updatedAt": "2026-07-16T11:43:44.703Z"
   },
   {
     "id": "f6fbdc9c55969b69",
@@ -52,91 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a5879db9a79476695a52f8b",
     "publishedAt": "2026-07-16T07:25:43.000Z",
-    "createdAt": "2026-07-16T09:18:31.497Z",
-    "updatedAt": "2026-07-16T09:18:31.497Z"
-  },
-  {
-    "id": "f97795f2f0bc51d5",
-    "title": "Король Англии назвал сборную гордостью нации после поражения на ЧМ",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/0/23/347841835414230.jpeg",
-    "teaser": "Король Англии назвал сборную гордостью нации после поражения на ЧМ",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a5877e69a7947bbf7e9f1af",
-    "publishedAt": "2026-07-16T07:15:50.000Z",
-    "createdAt": "2026-07-16T09:18:32.602Z",
-    "updatedAt": "2026-07-16T09:18:32.602Z"
-  },
-  {
-    "id": "557597a58d762ca9",
-    "title": "Жена Овечкина опубликовала реакцию хоккеиста на победу Аргентины Месси",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/8/68/347841852282688.jpeg",
-    "teaser": "Жена Овечкина опубликовала реакцию хоккеиста на победу Аргентины Месси",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a587e7e9a7947dc9f438fac",
-    "publishedAt": "2026-07-16T07:08:47.000Z",
-    "createdAt": "2026-07-16T09:18:33.734Z",
-    "updatedAt": "2026-07-16T09:18:33.734Z"
-  },
-  {
-    "id": "aae66c024fc3d556",
-    "title": "Как сборная Аргентины сыграла матч ЧМ с Англией в «паленых» футболках",
-    "sport": "Другое",
-    "category": "ЧМ-2026",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/9/34/347828477414349.jpeg",
-    "teaser": "Как сборная Аргентины сыграла матч ЧМ с Англией в «паленых» футболках",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a43d0109a7947223fe16617",
-    "publishedAt": "2026-07-16T07:02:53.000Z",
-    "createdAt": "2026-07-16T09:18:34.831Z",
-    "updatedAt": "2026-07-16T09:18:34.831Z"
-  },
-  {
-    "id": "bd076cb905449303",
-    "title": "Месси заявил, что выход Аргентины в финал ЧМ-2026 не был случайностью",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/5/40/347841825071405.jpeg",
-    "teaser": "Месси заявил, что выход Аргентины в финал ЧМ-2026 не был случайностью",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a5873e59a794725be0dc25c",
-    "publishedAt": "2026-07-16T06:35:56.000Z",
-    "createdAt": "2026-07-16T09:18:35.920Z",
-    "updatedAt": "2026-07-16T09:18:35.920Z"
-  },
-  {
-    "id": "6efe5e64413e4f82",
-    "title": "Беллингем ударил игрока сборной Аргентины после полуфинала ЧМ-2026",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/9/84/347841814475849.jpeg",
-    "teaser": "Беллингем ударил игрока сборной Аргентины после полуфинала ЧМ-2026",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a586ec79a7947701e92171c",
-    "publishedAt": "2026-07-16T06:22:45.000Z",
-    "createdAt": "2026-07-16T09:18:37.060Z",
-    "updatedAt": "2026-07-16T09:18:37.060Z"
-  },
-  {
-    "id": "e59c4cfde7db1027",
-    "title": "Болельщики сборных Аргентины и Англии подрались после полуфинала ЧМ-2026",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/5/26/347841801551265.jpeg",
-    "teaser": "Болельщики сборных Аргентины и Англии подрались после полуфинала ЧМ-2026",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a58663e9a79478208492c3e",
-    "publishedAt": "2026-07-16T06:18:41.000Z",
-    "createdAt": "2026-07-16T09:18:38.161Z",
-    "updatedAt": "2026-07-16T09:18:38.161Z"
+    "createdAt": "2026-07-16T11:43:46.969Z",
+    "updatedAt": "2026-07-16T11:43:46.969Z"
   }
 ]
