@@ -1,6 +1,6 @@
 [
   {
-    "id": 1784232264935,
+    "id": 1784239585127,
     "eventName": "Матч",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -16,7 +16,7 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1784232264937,
+    "id": 1784239585128,
     "eventName": "Франция — Англия",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -32,7 +32,7 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1784232264938,
+    "id": 1784239585129,
     "eventName": "Франция — Англия",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -48,7 +48,7 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1784232264939,
+    "id": 1784239585130,
     "eventName": "Франция — Англия",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -64,7 +64,7 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1784232264940,
+    "id": 1784239585131,
     "eventName": "Франция — Англия",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -80,7 +80,7 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1784232264941,
+    "id": 1784239585132,
     "eventName": "Франция — Англия",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -96,55 +96,39 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1784232264942,
+    "id": 1784239585133,
+    "eventName": "Матч",
+    "discipline": "Футбол",
+    "tournament": "Чемпионат",
+    "expert": {
+      "name": "Проход Франции",
+      "avatar": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=100&h=100&fit=crop",
+      "status": "expert",
+      "winRate": 75
+    },
+    "prediction": "П1",
+    "odds": 2.03,
+    "comment": "Комментарий к прогнозу",
+    "source": "Sports Analytics Pro"
+  },
+  {
+    "id": 1784239585134,
     "eventName": "Франция — Англия",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
     "expert": {
-      "name": "Тимофей Фиштовский",
-      "avatar": "https://static-uploads.prod.bookmaker-ratings.ru/2022/02/Screenshot_20210909-114448.png?width=60",
+      "name": "Александр Трибуш",
+      "avatar": "https://static-uploads.prod.bookmaker-ratings.ru/2024/03/1-16.png?width=60",
       "status": "expert",
-      "winRate": 82
+      "winRate": 76
     },
-    "prediction": "Обе забьют - Да",
-    "odds": 1.45,
-    "comment": "Игра ,которая будет веселой с обилием года в оба ворота",
+    "prediction": "ТБ (2,5) и обе забьют — да",
+    "odds": 1.75,
+    "comment": "В матчах за третье место на ЧМ всегда ждем много голов — на сборные уже ничего не давит. Можно выпускать ротацию, рисковать и играть открыто, чтобы красиво завершить турнир. 11 из 12 последних игр за третье место на мундиалях вышли верховыми, причем в девяти случаях отличились обе команды. К тому же играют французы с лучшей атакой турнира (16 забитых) и англичане с дуэтом Кейн и Беллингема — точно ждем голы от каждой сборной и ставим на тотал больше (2,5) через обе забьют. Отсюда вытекает и второй вариант по кэфу 2,70: любая из команд будет уступать в счете и не проиграет. В результативном матче между грандами всегда можно ждать камбэк. Этот тренд сработал в шести из восьми игр Англии в плей-офф Евро-2024 и ЧМ-2026. Англичане умеют отыгрываться, но из-за защитного стиля могут и упустить преимущество, что и случилось против Аргентины.",
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1784232264943,
-    "eventName": "Франция — Англия",
-    "discipline": "Футбол",
-    "tournament": "Чемпионат",
-    "expert": {
-      "name": "Сергей Никитаев",
-      "avatar": "https://static-uploads.prod.bookmaker-ratings.ru/2021/12/ekbok-2.png?width=60",
-      "status": "expert",
-      "winRate": 73
-    },
-    "prediction": "Ничья",
-    "odds": 3.95,
-    "comment": "Думаю ,что основное время может вполне закончиться ничьей",
-    "source": "Sports Analytics Pro"
-  },
-  {
-    "id": 1784232264944,
-    "eventName": "Франция — Англия",
-    "discipline": "Футбол",
-    "tournament": "Чемпионат",
-    "expert": {
-      "name": "Владимир Золин",
-      "avatar": "https://static-uploads.prod.bookmaker-ratings.ru/2026/06/472154C6-FC3D-4B18-BCE0-EE667F67EFCD-rb-webp-6a2b244bd2c3b-6a2b244bd7321.webp?width=60",
-      "status": "expert",
-      "winRate": 68
-    },
-    "prediction": "Ф1(-1.5)",
-    "odds": 3.05,
-    "comment": "Думаю что французы уверенно обыграют англичан со счетом 2-0",
-    "source": "Sports Analytics Pro"
-  },
-  {
-    "id": 1784232264945,
+    "id": 1784239585135,
     "eventName": "Франция — Англия",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
