@@ -1,5 +1,61 @@
 [
   {
+    "id": "0f59866fcf1e065a",
+    "title": "Ямаль тренировался по индивидуальной программе перед финалом ЧМ",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/5/78/347842227963785.jpeg",
+    "teaser": "Ямаль тренировался по индивидуальной программе перед финалом ЧМ",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a59100b9a79472b1bff16b3",
+    "publishedAt": "2026-07-16T17:33:18.000Z",
+    "createdAt": "2026-07-16T18:09:07.612Z",
+    "updatedAt": "2026-07-16T18:09:07.612Z"
+  },
+  {
+    "id": "5ea270ef22960c8a",
+    "title": "Крамник обжаловал свою дисквалификацию в CAS",
+    "sport": "Другое",
+    "category": "Другие",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/4/91/347842213210914.jpeg",
+    "teaser": "Крамник обжаловал свою дисквалификацию в CAS",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a590dcf9a79474ccf476bf2",
+    "publishedAt": "2026-07-16T17:17:51.000Z",
+    "createdAt": "2026-07-16T18:09:08.587Z",
+    "updatedAt": "2026-07-16T18:09:08.587Z"
+  },
+  {
+    "id": "494e8554d354828c",
+    "title": "Футболист Денис Глушаков назвал «тухленьким» ЧМ-2026",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/8/64/347842208214648.jpeg",
+    "teaser": "Футболист Денис Глушаков назвал «тухленьким» ЧМ-2026",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a5902ae9a79473863794814",
+    "publishedAt": "2026-07-16T17:06:03.000Z",
+    "createdAt": "2026-07-16T18:09:09.584Z",
+    "updatedAt": "2026-07-16T18:09:09.584Z"
+  },
+  {
+    "id": "06244ecd543302ec",
+    "title": "Теннисистки за год получили в соцсетях более 12 тыс. оскорблений и угроз",
+    "sport": "Теннис",
+    "category": "Теннис",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/2/46/347842192451462.jpeg",
+    "teaser": "Теннисистки за год получили в соцсетях более 12 тыс. оскорблений и угроз",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a58fed59a7947a350757520",
+    "publishedAt": "2026-07-16T16:41:04.000Z",
+    "createdAt": "2026-07-16T18:09:10.584Z",
+    "updatedAt": "2026-07-16T18:09:10.584Z"
+  },
+  {
     "id": "8eca5132611c76f0",
     "title": "Cope узнало, что ФИФА не успеет наказать Аргентину за баннер до финала ЧМ",
     "sport": "Футбол",
@@ -10,8 +66,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a58f9849a7947e4a95fe9c7",
     "publishedAt": "2026-07-16T15:55:52.000Z",
-    "createdAt": "2026-07-16T16:20:17.305Z",
-    "updatedAt": "2026-07-16T16:20:17.305Z"
+    "createdAt": "2026-07-16T18:09:11.591Z",
+    "updatedAt": "2026-07-16T18:09:11.591Z"
   },
   {
     "id": "52fddd181cee0aea",
@@ -24,8 +80,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a58f8cb9a7947345ace5fb5",
     "publishedAt": "2026-07-16T15:48:44.000Z",
-    "createdAt": "2026-07-16T16:20:18.322Z",
-    "updatedAt": "2026-07-16T16:20:18.322Z"
+    "createdAt": "2026-07-16T18:09:12.646Z",
+    "updatedAt": "2026-07-16T18:09:12.646Z"
   },
   {
     "id": "5a4dd35d1fe3c676",
@@ -38,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a58ebf79a7947df442f7e24",
     "publishedAt": "2026-07-16T15:10:33.000Z",
-    "createdAt": "2026-07-16T16:20:19.360Z",
-    "updatedAt": "2026-07-16T16:20:19.360Z"
+    "createdAt": "2026-07-16T18:09:13.687Z",
+    "updatedAt": "2026-07-16T18:09:13.687Z"
   },
   {
     "id": "9ca714e81024ae60",
@@ -52,22 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a58e2639a7947291b9893bb",
     "publishedAt": "2026-07-16T14:55:11.000Z",
-    "createdAt": "2026-07-16T16:20:20.369Z",
-    "updatedAt": "2026-07-16T16:20:20.369Z"
-  },
-  {
-    "id": "ec542e191b06f882",
-    "title": "Самый возрастной футболист чемпионата мира-2026 завершил карьеру",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/4/11/347842095426114.jpeg",
-    "teaser": "Самый возрастной футболист чемпионата мира-2026 завершил карьеру",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a58dcdd9a79475c19b39f9a",
-    "publishedAt": "2026-07-16T13:50:52.000Z",
-    "createdAt": "2026-07-16T16:20:23.356Z",
-    "updatedAt": "2026-07-16T16:20:23.356Z"
+    "createdAt": "2026-07-16T18:09:15.744Z",
+    "updatedAt": "2026-07-16T18:09:15.744Z"
   },
   {
     "id": "a358f62efc0068f5",
@@ -80,8 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a58ce2f9a7947efa517b33a",
     "publishedAt": "2026-07-16T13:49:24.000Z",
-    "createdAt": "2026-07-16T16:20:21.323Z",
-    "updatedAt": "2026-07-16T16:20:21.323Z"
+    "createdAt": "2026-07-16T18:09:14.643Z",
+    "updatedAt": "2026-07-16T18:09:14.643Z"
   },
   {
     "id": "602da112fadd89c1",
@@ -94,49 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a58d7749a7947747f8cbb8c",
     "publishedAt": "2026-07-16T13:41:56.000Z",
-    "createdAt": "2026-07-16T16:20:22.352Z",
-    "updatedAt": "2026-07-16T16:20:22.352Z"
-  },
-  {
-    "id": "60f89bbe300d482d",
-    "title": "Стармер пожелал успеха финалистам ЧМ-2026, «особенно Испании»",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/4/40/347842077922404.jpeg",
-    "teaser": "Стармер пожелал успеха финалистам ЧМ-2026, «особенно Испании»",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a58d7c79a79476529e240c0",
-    "publishedAt": "2026-07-16T13:27:49.000Z",
-    "createdAt": "2026-07-16T16:20:24.367Z",
-    "updatedAt": "2026-07-16T16:20:24.367Z"
-  },
-  {
-    "id": "4525ef6f49f54898",
-    "title": "Стали известны комментаторы финала чемпионата мира",
-    "sport": "Другое",
-    "category": "ЧМ-2026",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/2/23/347842066755232.jpeg",
-    "teaser": "Стали известны комментаторы финала чемпионата мира",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a58d2f39a79476529e240a7",
-    "publishedAt": "2026-07-16T13:01:23.000Z",
-    "createdAt": "2026-07-16T16:20:26.417Z",
-    "updatedAt": "2026-07-16T16:20:26.417Z"
-  },
-  {
-    "id": "393c2feed16c7763",
-    "title": "МОК отказался менять позицию по допуску россиян после угроз Европы",
-    "sport": "Другое",
-    "category": "Другие",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/8/93/347842049952938.jpeg",
-    "teaser": "МОК отказался менять позицию по допуску россиян после угроз Европы",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a58ca1b9a794791cbf63aa8",
-    "publishedAt": "2026-07-16T12:41:47.000Z",
-    "createdAt": "2026-07-16T16:20:25.393Z",
-    "updatedAt": "2026-07-16T16:20:25.393Z"
+    "createdAt": "2026-07-16T18:09:16.703Z",
+    "updatedAt": "2026-07-16T18:09:16.703Z"
   }
 ]
