@@ -1,6 +1,6 @@
 [
   {
-    "id": 1784325440952,
+    "id": 1784329026910,
     "eventName": "Франция — Англия",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -16,7 +16,23 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1784325440954,
+    "id": 1784329026911,
+    "eventName": "Франция — Англия",
+    "discipline": "Футбол",
+    "tournament": "Чемпионат",
+    "expert": {
+      "name": "Алексей Мехедов",
+      "avatar": "https://bookmaker-ratings.ru/static/images/badges/is-kapper.svg?v=30092024",
+      "status": "expert",
+      "winRate": 84
+    },
+    "prediction": "Тотал больше (4.5)",
+    "odds": 3.65,
+    "comment": "Думаю что в таком матче будут более рааалабленные командвкоманды и пусть матч ииранговый но атака сыграет в более отрытый",
+    "source": "Sports Analytics Pro"
+  },
+  {
+    "id": 1784329026912,
     "eventName": "Матч",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -32,7 +48,7 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1784325440955,
+    "id": 1784329026913,
     "eventName": "Зенит — Спартак",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -48,7 +64,7 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1784325440956,
+    "id": 1784329026914,
     "eventName": "Франция — Англия",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -64,7 +80,7 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1784325440957,
+    "id": 1784329026915,
     "eventName": "Франция — Англия",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -80,7 +96,7 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1784325440958,
+    "id": 1784329026916,
     "eventName": "Испания — Аргентина",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -96,7 +112,7 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1784325440959,
+    "id": 1784329026917,
     "eventName": "Испания — Аргентина",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -112,7 +128,7 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1784325440960,
+    "id": 1784329026918,
     "eventName": "Франция — Англия",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
