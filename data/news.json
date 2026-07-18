@@ -1,5 +1,33 @@
 [
   {
+    "id": "16c78d84f3ff3f08",
+    "title": "Головин забил в первом предсезонном матче «Монако»",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/6/56/347843736907566.jpeg",
+    "teaser": "Головин забил в первом предсезонном матче «Монако»",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a5b5c089a79472cea4aca70",
+    "publishedAt": "2026-07-18T11:23:52.000Z",
+    "createdAt": "2026-07-18T11:56:15.343Z",
+    "updatedAt": "2026-07-18T11:56:15.343Z"
+  },
+  {
+    "id": "8e2c700168448819",
+    "title": "Чемпионы России по фигурному катанию досрочно завершили сбор в Грузии",
+    "sport": "Другое",
+    "category": "Фигурное катание",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/1/70/347843715315701.png",
+    "teaser": "Чемпионы России по фигурному катанию досрочно завершили сбор в Грузии",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a5b55609a79473fdbcee31c",
+    "publishedAt": "2026-07-18T10:49:05.000Z",
+    "createdAt": "2026-07-18T11:56:14.288Z",
+    "updatedAt": "2026-07-18T11:56:14.288Z"
+  },
+  {
     "id": "e9fd0934ab6ab431",
     "title": "Джокович заявил, что близок к завершению карьеры",
     "sport": "Теннис",
@@ -10,8 +38,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a5b4c569a79472cea4aca55",
     "publishedAt": "2026-07-18T10:11:50.000Z",
-    "createdAt": "2026-07-18T10:22:01.067Z",
-    "updatedAt": "2026-07-18T10:22:01.067Z"
+    "createdAt": "2026-07-18T11:56:17.617Z",
+    "updatedAt": "2026-07-18T11:56:17.617Z"
   },
   {
     "id": "257cbdf47f2f7858",
@@ -24,8 +52,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a5b43a39a794721dabb3832",
     "publishedAt": "2026-07-18T09:51:22.000Z",
-    "createdAt": "2026-07-18T10:21:59.963Z",
-    "updatedAt": "2026-07-18T10:21:59.963Z"
+    "createdAt": "2026-07-18T11:56:16.503Z",
+    "updatedAt": "2026-07-18T11:56:16.503Z"
   },
   {
     "id": "a6d9f69c40929f40",
@@ -38,8 +66,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a36bebf9a794775ad99df51",
     "publishedAt": "2026-07-18T07:02:00.000Z",
-    "createdAt": "2026-07-18T10:22:03.578Z",
-    "updatedAt": "2026-07-18T10:22:03.578Z"
+    "createdAt": "2026-07-18T11:56:19.883Z",
+    "updatedAt": "2026-07-18T11:56:19.883Z"
   },
   {
     "id": "37b09f136fc04bad",
@@ -52,8 +80,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a574bf89a79474ad87478ce",
     "publishedAt": "2026-07-18T05:15:52.000Z",
-    "createdAt": "2026-07-18T10:22:04.751Z",
-    "updatedAt": "2026-07-18T10:22:04.751Z"
+    "createdAt": "2026-07-18T11:56:20.967Z",
+    "updatedAt": "2026-07-18T11:56:20.967Z"
   },
   {
     "id": "35d2b482a230dd1f",
@@ -66,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a59d7089a7947410982be81",
     "publishedAt": "2026-07-17T21:03:20.000Z",
-    "createdAt": "2026-07-18T10:22:02.297Z",
-    "updatedAt": "2026-07-18T10:22:02.297Z"
+    "createdAt": "2026-07-18T11:56:18.715Z",
+    "updatedAt": "2026-07-18T11:56:18.715Z"
   },
   {
     "id": "412173aeec85794d",
@@ -80,8 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a3ba9819a7947f3e4a5bf7b",
     "publishedAt": "2026-07-17T18:49:05.000Z",
-    "createdAt": "2026-07-18T10:22:06.982Z",
-    "updatedAt": "2026-07-18T10:22:06.982Z"
+    "createdAt": "2026-07-18T11:56:23.196Z",
+    "updatedAt": "2026-07-18T11:56:23.196Z"
   },
   {
     "id": "20abb765b292a74f",
@@ -94,22 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a521dbd9a79474fbfd5755e",
     "publishedAt": "2026-07-17T18:25:43.000Z",
-    "createdAt": "2026-07-18T10:22:05.831Z",
-    "updatedAt": "2026-07-18T10:22:05.831Z"
-  },
-  {
-    "id": "abfd1d080637ef11",
-    "title": "Лучший бомбардир сборной Швейцарии на ЧМ-2026 перешел в «Астон Виллу»",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/2/66/347843115786662.jpeg",
-    "teaser": "Лучший бомбардир сборной Швейцарии на ЧМ-2026 перешел в «Астон Виллу»",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a58ee4b9a7947beef6d4d3b",
-    "publishedAt": "2026-07-17T18:12:38.000Z",
-    "createdAt": "2026-07-18T10:22:09.311Z",
-    "updatedAt": "2026-07-18T10:22:09.311Z"
+    "createdAt": "2026-07-18T11:56:22.075Z",
+    "updatedAt": "2026-07-18T11:56:22.075Z"
   },
   {
     "id": "20f833239af2706d",
@@ -122,21 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a5a65059a794709227d1126",
     "publishedAt": "2026-07-17T17:57:02.000Z",
-    "createdAt": "2026-07-18T10:22:08.189Z",
-    "updatedAt": "2026-07-18T10:22:08.189Z"
-  },
-  {
-    "id": "6e4577385217728f",
-    "title": "50 лет одиночества. Как лучшего вратаря ЧМ возненавидели в своей стране",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/6/53/347842839208536.jpeg",
-    "teaser": "50 лет одиночества. Как лучшего вратаря ЧМ возненавидели в своей стране",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a59ec309a7947e652bb44ea",
-    "publishedAt": "2026-07-17T13:24:59.000Z",
-    "createdAt": "2026-07-18T10:22:10.475Z",
-    "updatedAt": "2026-07-18T10:22:10.475Z"
+    "createdAt": "2026-07-18T11:56:24.238Z",
+    "updatedAt": "2026-07-18T11:56:24.238Z"
   }
 ]
