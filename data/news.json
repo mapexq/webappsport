@@ -1,5 +1,47 @@
 [
   {
+    "id": "f27310ec537f8ed4",
+    "title": "19-летний пилот Mercedes выиграл шестую в сезоне гонку «Формулы-1»",
+    "sport": "Другое",
+    "category": "Формула-1",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/1/73/347844710665731.jpeg",
+    "teaser": "19-летний пилот Mercedes выиграл шестую в сезоне гонку «Формулы-1»",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a5cdbeb9a794728caf527f0",
+    "publishedAt": "2026-07-19T14:39:35.000Z",
+    "createdAt": "2026-07-19T15:00:55.098Z",
+    "updatedAt": "2026-07-19T15:00:55.098Z"
+  },
+  {
+    "id": "c73f95a3a2c057a1",
+    "title": "Футболист Рабьо назвал «позорной» игру Франции в матче за бронзу ЧМ",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/5/70/347844700997705.jpeg",
+    "teaser": "Футболист Рабьо назвал «позорной» игру Франции в матче за бронзу ЧМ",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a5cd4729a794747182248fb",
+    "publishedAt": "2026-07-19T14:17:08.000Z",
+    "createdAt": "2026-07-19T15:00:56.054Z",
+    "updatedAt": "2026-07-19T15:00:56.054Z"
+  },
+  {
+    "id": "a7a3f4a0310fc515",
+    "title": "Российская теннисистка выиграла турнир в Румынии в парном разряде",
+    "sport": "Теннис",
+    "category": "Теннис",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/8/81/347844677659818.jpeg",
+    "teaser": "Российская теннисистка выиграла турнир в Румынии в парном разряде",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a5ccc4e9a794728caf527e3",
+    "publishedAt": "2026-07-19T13:54:03.000Z",
+    "createdAt": "2026-07-19T15:00:59.068Z",
+    "updatedAt": "2026-07-19T15:00:59.068Z"
+  },
+  {
     "id": "37a13c25058a9744",
     "title": "Рублев завоевал первый титул ATP с февраля 2025 года",
     "sport": "Теннис",
@@ -10,8 +52,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a2bc5c49a794739007497d6",
     "publishedAt": "2026-07-19T13:27:37.000Z",
-    "createdAt": "2026-07-19T13:36:48.978Z",
-    "updatedAt": "2026-07-19T13:36:48.978Z"
+    "createdAt": "2026-07-19T15:00:57.135Z",
+    "updatedAt": "2026-07-19T15:00:57.135Z"
   },
   {
     "id": "bcf12a8cd312ea9e",
@@ -24,8 +66,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a17faa19a7947c76047da47",
     "publishedAt": "2026-07-19T12:58:04.000Z",
-    "createdAt": "2026-07-19T13:36:51.213Z",
-    "updatedAt": "2026-07-19T13:36:51.213Z"
+    "createdAt": "2026-07-19T15:01:00.084Z",
+    "updatedAt": "2026-07-19T15:01:00.084Z"
   },
   {
     "id": "7249d978bd06c2d5",
@@ -38,8 +80,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a1747b19a79473b2caeb190",
     "publishedAt": "2026-07-19T12:41:34.000Z",
-    "createdAt": "2026-07-19T13:36:50.131Z",
-    "updatedAt": "2026-07-19T13:36:50.131Z"
+    "createdAt": "2026-07-19T15:00:58.062Z",
+    "updatedAt": "2026-07-19T15:00:58.062Z"
   },
   {
     "id": "4806681863d4fea8",
@@ -52,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a571fb69a7947c5606127d4",
     "publishedAt": "2026-07-19T11:58:24.000Z",
-    "createdAt": "2026-07-19T13:36:53.491Z",
-    "updatedAt": "2026-07-19T13:36:53.491Z"
+    "createdAt": "2026-07-19T15:01:01.993Z",
+    "updatedAt": "2026-07-19T15:01:01.993Z"
   },
   {
     "id": "b6c406b4c9973529",
@@ -66,8 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a5b6bfe9a7947af455aae60",
     "publishedAt": "2026-07-19T11:47:03.000Z",
-    "createdAt": "2026-07-19T13:36:54.388Z",
-    "updatedAt": "2026-07-19T13:36:54.388Z"
+    "createdAt": "2026-07-19T15:01:02.960Z",
+    "updatedAt": "2026-07-19T15:01:02.960Z"
   },
   {
     "id": "a16490f37b884857",
@@ -80,22 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a5bb4639a7947886fdfc88b",
     "publishedAt": "2026-07-19T11:36:49.000Z",
-    "createdAt": "2026-07-19T13:36:52.324Z",
-    "updatedAt": "2026-07-19T13:36:52.324Z"
-  },
-  {
-    "id": "b92c37ef40dd7441",
-    "title": "В Аргентине из-за ЧМ отменили на два дня все футбольные матчи",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/5/65/347844596134655.jpeg",
-    "teaser": "В Аргентине из-за ЧМ отменили на два дня все футбольные матчи",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a5bc7dd9a79476b34ac2e3b",
-    "publishedAt": "2026-07-19T11:19:01.000Z",
-    "createdAt": "2026-07-19T13:36:56.666Z",
-    "updatedAt": "2026-07-19T13:36:56.666Z"
+    "createdAt": "2026-07-19T15:01:01.039Z",
+    "updatedAt": "2026-07-19T15:01:01.039Z"
   },
   {
     "id": "2d5f9375b373fcf2",
@@ -108,35 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a5bd1e19a7947449102b2b4",
     "publishedAt": "2026-07-19T11:10:27.000Z",
-    "createdAt": "2026-07-19T13:36:55.495Z",
-    "updatedAt": "2026-07-19T13:36:55.495Z"
-  },
-  {
-    "id": "38423f1c2212b115",
-    "title": "«Гол-фантом» и «мараканасо». Самые яркие моменты в истории финалов ЧМ",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/1/72/347842685336721.jpeg",
-    "teaser": "«Гол-фантом» и «мараканасо». Самые яркие моменты в истории финалов ЧМ",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a59b8dc9a79473e97c55e9e",
-    "publishedAt": "2026-07-19T05:00:33.000Z",
-    "createdAt": "2026-07-19T13:36:59.155Z",
-    "updatedAt": "2026-07-19T13:36:59.155Z"
-  },
-  {
-    "id": "d601ec9d5e13c5a6",
-    "title": "Кого Месси «нянчил» из соперников по финалу ЧМ-2026. Фотогалерея",
-    "sport": "Другое",
-    "category": "ЧМ-2026",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/9/02/347842175405029.jpeg",
-    "teaser": "Кого Месси «нянчил» из соперников по финалу ЧМ-2026. Фотогалерея",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a58f62b9a7947db9bbaa01c",
-    "publishedAt": "2026-07-19T05:00:24.000Z",
-    "createdAt": "2026-07-19T13:37:00.291Z",
-    "updatedAt": "2026-07-19T13:37:00.291Z"
+    "createdAt": "2026-07-19T15:01:03.954Z",
+    "updatedAt": "2026-07-19T15:01:03.954Z"
   }
 ]
