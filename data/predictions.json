@@ -1,6 +1,6 @@
 [
   {
-    "id": 1784626268055,
+    "id": 1784634612673,
     "eventName": "Фалькенберг — Хельсингборг",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -16,7 +16,7 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1784626268057,
+    "id": 1784634612674,
     "eventName": "Фенербахче — Горник",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -29,6 +29,38 @@
     "prediction": "Победа 1",
     "odds": 1.17,
     "comment": "Фенербахче на опыте и классе обыграет Горник на своем поле",
+    "source": "Sports Analytics Pro"
+  },
+  {
+    "id": 1784634612675,
+    "eventName": "Клаксвик — Жальгирис Каунас",
+    "discipline": "Футбол",
+    "tournament": "Чемпионат",
+    "expert": {
+      "name": "Инсаф Гатаулин",
+      "avatar": "https://bookmaker-ratings.ru/static/images/badges/is-kapper.svg?v=30092024",
+      "status": "expert",
+      "winRate": 84
+    },
+    "prediction": "Ничья",
+    "odds": 3.25,
+    "comment": "Я просто не вижу, за счет чего одна из этих команд может победить",
+    "source": "Sports Analytics Pro"
+  },
+  {
+    "id": 1784634612676,
+    "eventName": "Матч",
+    "discipline": "Футбол",
+    "tournament": "Чемпионат",
+    "expert": {
+      "name": "Жальгирис Каунас",
+      "avatar": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=100&h=100&fit=crop",
+      "status": "expert",
+      "winRate": 78
+    },
+    "prediction": "Ничья",
+    "odds": 3.25,
+    "comment": "Комментарий к прогнозу",
     "source": "Sports Analytics Pro"
   }
 ]
