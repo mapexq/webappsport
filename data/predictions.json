@@ -1,70 +1,38 @@
 [
   {
-    "id": 1784642689394,
-    "eventName": "Фалькенберг — Хельсингборг",
+    "id": 1784651149006,
+    "eventName": "Атлетико Насьональ — Тигрес Богота",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
     "expert": {
-      "name": "Дмитрий Солодухин",
+      "name": "Operator Валуйкин",
       "avatar": "https://bookmaker-ratings.ru/static/images/badges/is-kapper.svg?v=30092024",
       "status": "expert",
-      "winRate": 70
+      "winRate": 80
     },
-    "prediction": "Индивидуальный тотал 1 Больше (1.5)",
-    "odds": 1.64,
-    "comment": "Хозяева поля находятся в отличной атакующей форме, забив 15 мячей в последних 6 матчах. Проблемы \"Хельсингборга\" в обороне. 12 пропущенных голов в последних 6 матчах чемпионата.",
+    "prediction": "Тотал Тигрес Богота больше (0.5)",
+    "odds": 1.75,
+    "comment": "Думаю Тигрес способны закатить один и более голов, тем более на нейтральном поле при пустух трибунах.",
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1784642689396,
-    "eventName": "Фенербахче — Горник",
-    "discipline": "Футбол",
-    "tournament": "Чемпионат",
-    "expert": {
-      "name": "Юрий Исаев",
-      "avatar": "https://bookmaker-ratings.ru/static/images/badges/is-kapper.svg?v=30092024",
-      "status": "expert",
-      "winRate": 81
-    },
-    "prediction": "Победа 1",
-    "odds": 1.17,
-    "comment": "Фенербахче на опыте и классе обыграет Горник на своем поле",
-    "source": "Sports Analytics Pro"
-  },
-  {
-    "id": 1784642689397,
-    "eventName": "Клаксвик — Жальгирис Каунас",
-    "discipline": "Футбол",
-    "tournament": "Чемпионат",
-    "expert": {
-      "name": "Инсаф Гатаулин",
-      "avatar": "https://bookmaker-ratings.ru/static/images/badges/is-kapper.svg?v=30092024",
-      "status": "expert",
-      "winRate": 84
-    },
-    "prediction": "Ничья",
-    "odds": 3.25,
-    "comment": "Я просто не вижу, за счет чего одна из этих команд может победить",
-    "source": "Sports Analytics Pro"
-  },
-  {
-    "id": 1784642689398,
+    "id": 1784651149007,
     "eventName": "Матч",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
     "expert": {
-      "name": "Жальгирис Каунас",
+      "name": "Тигрес Богота",
       "avatar": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=100&h=100&fit=crop",
       "status": "expert",
-      "winRate": 78
+      "winRate": 75
     },
-    "prediction": "Ничья",
-    "odds": 3.25,
+    "prediction": "Тотал Тигрес Богота больше (0.5)",
+    "odds": 1.75,
     "comment": "Комментарий к прогнозу",
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1784642689399,
+    "id": 1784651149008,
     "eventName": "Эван Чжу — Танаси Коккинакис",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
