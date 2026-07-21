@@ -1,38 +1,6 @@
 [
   {
-    "id": 1784651149006,
-    "eventName": "Атлетико Насьональ — Тигрес Богота",
-    "discipline": "Футбол",
-    "tournament": "Чемпионат",
-    "expert": {
-      "name": "Operator Валуйкин",
-      "avatar": "https://bookmaker-ratings.ru/static/images/badges/is-kapper.svg?v=30092024",
-      "status": "expert",
-      "winRate": 80
-    },
-    "prediction": "Тотал Тигрес Богота больше (0.5)",
-    "odds": 1.75,
-    "comment": "Думаю Тигрес способны закатить один и более голов, тем более на нейтральном поле при пустух трибунах.",
-    "source": "Sports Analytics Pro"
-  },
-  {
-    "id": 1784651149007,
-    "eventName": "Матч",
-    "discipline": "Футбол",
-    "tournament": "Чемпионат",
-    "expert": {
-      "name": "Тигрес Богота",
-      "avatar": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=100&h=100&fit=crop",
-      "status": "expert",
-      "winRate": 75
-    },
-    "prediction": "Тотал Тигрес Богота больше (0.5)",
-    "odds": 1.75,
-    "comment": "Комментарий к прогнозу",
-    "source": "Sports Analytics Pro"
-  },
-  {
-    "id": 1784651149008,
+    "id": 1784657898298,
     "eventName": "Эван Чжу — Танаси Коккинакис",
     "discipline": "Футбол",
     "tournament": "Чемпионат",

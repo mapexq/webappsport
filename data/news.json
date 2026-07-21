@@ -1,5 +1,61 @@
 [
   {
+    "id": "a79dd8cd621068e7",
+    "title": "Агент Дзюбы заявил, что у футболиста нет устраивающих его предложений",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/4/98/347846539132984.jpeg",
+    "teaser": "Агент Дзюбы заявил, что у футболиста нет устраивающих его предложений",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a5fa8289a79470cb9ae4cb4",
+    "publishedAt": "2026-07-21T17:22:56.000Z",
+    "createdAt": "2026-07-21T18:18:25.631Z",
+    "updatedAt": "2026-07-21T18:18:25.631Z"
+  },
+  {
+    "id": "d11e1c272e6462c4",
+    "title": "The Athletic подсчитал, какой клуб получит больше всего денег за ЧМ-2026",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/6/89/347846522223896.jpeg",
+    "teaser": "The Athletic подсчитал, какой клуб получит больше всего денег за ЧМ-2026",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a5f9bfb9a7947049e9ad2d7",
+    "publishedAt": "2026-07-21T16:53:49.000Z",
+    "createdAt": "2026-07-21T18:18:26.685Z",
+    "updatedAt": "2026-07-21T18:18:26.685Z"
+  },
+  {
+    "id": "584623c10a495dd5",
+    "title": "Олимпийский чемпион по академической гребле Олаф Туфте умер в 50 лет",
+    "sport": "Другое",
+    "category": "Другие",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/0/00/347846515998000.jpeg",
+    "teaser": "Олимпийский чемпион по академической гребле Олаф Туфте умер в 50 лет",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a5f9f339a79470cb9ae4c8f",
+    "publishedAt": "2026-07-21T16:48:53.000Z",
+    "createdAt": "2026-07-21T18:18:28.885Z",
+    "updatedAt": "2026-07-21T18:18:28.885Z"
+  },
+  {
+    "id": "0ca41f7b3e52c4d4",
+    "title": "Из футбола ушел судья, работу которого Моуринью называл «позором»",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/6/53/347846502756536.jpeg",
+    "teaser": "Из футбола ушел судья, работу которого Моуринью называл «позором»",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a5f94799a79474ffb7c7d85",
+    "publishedAt": "2026-07-21T16:33:08.000Z",
+    "createdAt": "2026-07-21T18:18:27.822Z",
+    "updatedAt": "2026-07-21T18:18:27.822Z"
+  },
+  {
     "id": "732ec4c2216d46bb",
     "title": "Агент Кузнецова рассказал, когда хоккеист определится с новым клубом",
     "sport": "Хоккей",
@@ -10,8 +66,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a5f95a69a7947101e867429",
     "publishedAt": "2026-07-21T16:05:31.000Z",
-    "createdAt": "2026-07-21T16:25:56.999Z",
-    "updatedAt": "2026-07-21T16:25:56.999Z"
+    "createdAt": "2026-07-21T18:18:30.995Z",
+    "updatedAt": "2026-07-21T18:18:30.995Z"
   },
   {
     "id": "e8124f1548c96c1b",
@@ -24,8 +80,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a5f8ca59a7947340186f9b5",
     "publishedAt": "2026-07-21T15:44:43.000Z",
-    "createdAt": "2026-07-21T16:25:55.902Z",
-    "updatedAt": "2026-07-21T16:25:55.902Z"
+    "createdAt": "2026-07-21T18:18:29.943Z",
+    "updatedAt": "2026-07-21T18:18:29.943Z"
   },
   {
     "id": "d50764afa9a7c963",
@@ -38,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a5f80479a79476299fca39d",
     "publishedAt": "2026-07-21T15:27:37.000Z",
-    "createdAt": "2026-07-21T16:25:58.153Z",
-    "updatedAt": "2026-07-21T16:25:58.153Z"
+    "createdAt": "2026-07-21T18:18:32.064Z",
+    "updatedAt": "2026-07-21T18:18:32.064Z"
   },
   {
     "id": "7c9410e66dd47fd6",
@@ -52,8 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a5f85fa9a794779b597cda1",
     "publishedAt": "2026-07-21T15:08:38.000Z",
-    "createdAt": "2026-07-21T16:25:59.212Z",
-    "updatedAt": "2026-07-21T16:25:59.212Z"
+    "createdAt": "2026-07-21T18:18:33.193Z",
+    "updatedAt": "2026-07-21T18:18:33.193Z"
   },
   {
     "id": "36df5397260bd59a",
@@ -66,22 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a5f7c199a79470d9255a36b",
     "publishedAt": "2026-07-21T14:40:53.000Z",
-    "createdAt": "2026-07-21T16:26:00.236Z",
-    "updatedAt": "2026-07-21T16:26:00.236Z"
-  },
-  {
-    "id": "ef2bb7c559a4ca9a",
-    "title": "Американского велогонщика сбила машина перед этапом «Тур де Франс»",
-    "sport": "Другое",
-    "category": "Другие",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/3/27/347846442139273.jpeg",
-    "teaser": "Американского велогонщика сбила машина перед этапом «Тур де Франс»",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a5f7d639a794799f07595ec",
-    "publishedAt": "2026-07-21T14:32:45.000Z",
-    "createdAt": "2026-07-21T16:26:02.362Z",
-    "updatedAt": "2026-07-21T16:26:02.362Z"
+    "createdAt": "2026-07-21T18:18:34.337Z",
+    "updatedAt": "2026-07-21T18:18:34.337Z"
   },
   {
     "id": "487cee848e8676ed",
@@ -94,49 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a5f43e29a794740cfa8670e",
     "publishedAt": "2026-07-21T14:23:56.000Z",
-    "createdAt": "2026-07-21T16:26:01.310Z",
-    "updatedAt": "2026-07-21T16:26:01.310Z"
-  },
-  {
-    "id": "8287c95e46d80650",
-    "title": "«Шанхай Шэньхуа» Слуцкого вышел в четвертьфинал Кубка Китая",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/3/69/347846425441693.jpeg",
-    "teaser": "«Шанхай Шэньхуа» Слуцкого вышел в четвертьфинал Кубка Китая",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a5f79309a794751c71ad711",
-    "publishedAt": "2026-07-21T14:09:26.000Z",
-    "createdAt": "2026-07-21T16:26:04.540Z",
-    "updatedAt": "2026-07-21T16:26:04.540Z"
-  },
-  {
-    "id": "eaad0cb11ad35aef",
-    "title": "Глава Ла Лиги заявил, что Инфантино должен покинуть пост президента ФИФА",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/3/84/347846415859843.jpeg",
-    "teaser": "Глава Ла Лиги заявил, что Инфантино должен покинуть пост президента ФИФА",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a5f6d819a7947cd87190539",
-    "publishedAt": "2026-07-21T13:56:17.000Z",
-    "createdAt": "2026-07-21T16:26:05.626Z",
-    "updatedAt": "2026-07-21T16:26:05.626Z"
-  },
-  {
-    "id": "f39a45a99810a20d",
-    "title": "Гонщики назвали ночные допинг-тесты на «Тур де Франс» бесчеловечными",
-    "sport": "Другое",
-    "category": "Другие",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/6/58/347846409221586.jpeg",
-    "teaser": "Гонщики назвали ночные допинг-тесты на «Тур де Франс» бесчеловечными",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a5f6ff39a79475057aabdce",
-    "publishedAt": "2026-07-21T13:41:45.000Z",
-    "createdAt": "2026-07-21T16:26:03.417Z",
-    "updatedAt": "2026-07-21T16:26:03.417Z"
+    "createdAt": "2026-07-21T18:18:35.462Z",
+    "updatedAt": "2026-07-21T18:18:35.462Z"
   }
 ]
