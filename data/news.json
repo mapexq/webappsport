@@ -1,5 +1,89 @@
 [
   {
+    "id": "bba5f3083c78d25e",
+    "title": "Дегтярев сравнил Плющенко с релокантами за слова о деградации спортсменов",
+    "sport": "Другое",
+    "category": "Фигурное катание",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/2/47/347847395545472.png",
+    "teaser": "Дегтярев сравнил Плющенко с релокантами за слова о деградации спортсменов",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a60f6a39a79473e92f05513",
+    "publishedAt": "2026-07-22T17:26:36.000Z",
+    "createdAt": "2026-07-22T18:11:33.858Z",
+    "updatedAt": "2026-07-22T18:11:33.858Z"
+  },
+  {
+    "id": "4377a22facb23e38",
+    "title": "ФИФА представила символическую сборную ЧМ-2026",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/5/45/347847375164455.jpeg",
+    "teaser": "ФИФА представила символическую сборную ЧМ-2026",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a60ec499a79479ae373e46a",
+    "publishedAt": "2026-07-22T17:12:46.000Z",
+    "createdAt": "2026-07-22T18:11:36.188Z",
+    "updatedAt": "2026-07-22T18:11:36.188Z"
+  },
+  {
+    "id": "383b634c92d9da75",
+    "title": "Федерация волейбола Латвии не будет бойкотировать турниры из-за России",
+    "sport": "Другое",
+    "category": "Другие",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/7/62/347847383399627.png",
+    "teaser": "Федерация волейбола Латвии не будет бойкотировать турниры из-за России",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a60ed6a9a794728e43bf4b5",
+    "publishedAt": "2026-07-22T17:01:14.000Z",
+    "createdAt": "2026-07-22T18:11:38.484Z",
+    "updatedAt": "2026-07-22T18:11:38.484Z"
+  },
+  {
+    "id": "ef1bba58e7c66c2c",
+    "title": "Пятикратный победитель Лиги чемпионов Каземиро стал одноклубником Месси",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/7/31/347847389780317.jpeg",
+    "teaser": "Пятикратный победитель Лиги чемпионов Каземиро стал одноклубником Месси",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a60f2829a7947eef6f16b55",
+    "publishedAt": "2026-07-22T16:54:03.000Z",
+    "createdAt": "2026-07-22T18:11:37.334Z",
+    "updatedAt": "2026-07-22T18:11:37.334Z"
+  },
+  {
+    "id": "08ba9b93af0096dc",
+    "title": "Коллекционную карточку Овечкина с его автографом продали за $256 тыс",
+    "sport": "Хоккей",
+    "category": "Хоккей",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/4/69/347847355586694.jpeg",
+    "teaser": "Коллекционную карточку Овечкина с его автографом продали за $256 тыс",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a60e08f9a7947424f9e2773",
+    "publishedAt": "2026-07-22T16:23:51.000Z",
+    "createdAt": "2026-07-22T18:11:35.050Z",
+    "updatedAt": "2026-07-22T18:11:35.050Z"
+  },
+  {
+    "id": "da19303559b7b999",
+    "title": "Дегтярев назвал главное препятствие для допуска российских футболистов",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/0/89/347847359311890.png",
+    "teaser": "Дегтярев назвал главное препятствие для допуска российских футболистов",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a60e55e9a7947559264a593",
+    "publishedAt": "2026-07-22T16:22:28.000Z",
+    "createdAt": "2026-07-22T18:11:39.673Z",
+    "updatedAt": "2026-07-22T18:11:39.673Z"
+  },
+  {
     "id": "7f7f4f8abaa383d8",
     "title": "Федор Емельяненко решил отсудить почти ₽13 млн из-за детской книги о себе",
     "sport": "Единоборства",
@@ -10,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a60d7969a794747d9e5baf0",
     "publishedAt": "2026-07-22T15:18:44.000Z",
-    "createdAt": "2026-07-22T16:22:19.432Z",
-    "updatedAt": "2026-07-22T16:22:19.432Z"
+    "createdAt": "2026-07-22T18:11:42.075Z",
+    "updatedAt": "2026-07-22T18:11:42.075Z"
   },
   {
     "id": "a61b044510210764",
@@ -24,8 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a60d98f9a7947212356fbbe",
     "publishedAt": "2026-07-22T15:17:21.000Z",
-    "createdAt": "2026-07-22T16:22:21.631Z",
-    "updatedAt": "2026-07-22T16:22:21.631Z"
+    "createdAt": "2026-07-22T18:11:44.381Z",
+    "updatedAt": "2026-07-22T18:11:44.381Z"
   },
   {
     "id": "14d7534b8614e9ed",
@@ -38,92 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a60d0709a7947f4b93ffcaf",
     "publishedAt": "2026-07-22T15:00:42.000Z",
-    "createdAt": "2026-07-22T16:22:20.741Z",
-    "updatedAt": "2026-07-22T16:22:20.741Z"
-  },
-  {
-    "id": "3591342f4580fe78",
-    "title": "Агент форварда сборной Уругвая рассказал об интересе «Спартака»",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/4/45/347847291086454.jpeg",
-    "teaser": "Агент форварда сборной Уругвая рассказал об интересе «Спартака»",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a60cb7d9a7947212356fb70",
-    "publishedAt": "2026-07-22T14:28:18.000Z",
-    "createdAt": "2026-07-22T16:22:22.672Z",
-    "updatedAt": "2026-07-22T16:22:22.672Z"
-  },
-  {
-    "id": "f5a8a816cbdb13d1",
-    "title": "Даниил Медведев снялся с крупного турнира в Вашингтоне",
-    "sport": "Теннис",
-    "category": "Теннис",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/6/86/347847260338866.jpeg",
-    "teaser": "Даниил Медведев снялся с крупного турнира в Вашингтоне",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a60bc469a79470d4dc6b773",
-    "publishedAt": "2026-07-22T13:25:24.000Z",
-    "createdAt": "2026-07-22T16:22:26.561Z",
-    "updatedAt": "2026-07-22T16:22:26.561Z"
-  },
-  {
-    "id": "f9791c5e7118f0ae",
-    "title": "«Манчестер Сити» сохранил одного из самых титулованных игроков клуба",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/3/59/347847261048593.jpeg",
-    "teaser": "«Манчестер Сити» сохранил одного из самых титулованных игроков клуба",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a60bdbd9a7947b0e3463349",
-    "publishedAt": "2026-07-22T13:20:15.000Z",
-    "createdAt": "2026-07-22T16:22:23.483Z",
-    "updatedAt": "2026-07-22T16:22:23.483Z"
-  },
-  {
-    "id": "90d7aa872f32ac3b",
-    "title": "«Ролан Гаррос» первым предложил игрокам долю от доходов",
-    "sport": "Теннис",
-    "category": "Теннис",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/2/31/347847240359312.jpeg",
-    "teaser": "«Ролан Гаррос» первым предложил игрокам долю от доходов",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a60b3069a7947960c3f3f51",
-    "publishedAt": "2026-07-22T12:45:16.000Z",
-    "createdAt": "2026-07-22T16:22:25.540Z",
-    "updatedAt": "2026-07-22T16:22:25.540Z"
-  },
-  {
-    "id": "f93ea17b8dbb6c9f",
-    "title": "Ученица Плющенко выступит на юниорском Гран-при за Киргизию",
-    "sport": "Другое",
-    "category": "Фигурное катание",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/0/06/347847232883060.png",
-    "teaser": "Ученица Плющенко выступит на юниорском Гран-при за Киргизию",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a60b3f99a7947e75ec81f03",
-    "publishedAt": "2026-07-22T12:42:12.000Z",
-    "createdAt": "2026-07-22T16:22:27.559Z",
-    "updatedAt": "2026-07-22T16:22:27.559Z"
-  },
-  {
-    "id": "186666fff5baf09c",
-    "title": "Выступавшие на ЧМ-2026 Сантос и Энрике вернулись в расположение «Зенита»",
-    "sport": "Другое",
-    "category": "ЧМ-2026",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/2/80/347847223810802.jpeg",
-    "teaser": "Выступавшие на ЧМ-2026 Сантос и Энрике вернулись в расположение «Зенита»",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a60b0779a7947505b912f8f",
-    "publishedAt": "2026-07-22T12:23:32.000Z",
-    "createdAt": "2026-07-22T16:22:28.465Z",
-    "updatedAt": "2026-07-22T16:22:28.465Z"
+    "createdAt": "2026-07-22T18:11:43.221Z",
+    "updatedAt": "2026-07-22T18:11:43.221Z"
   },
   {
     "id": "4fc66471ad1da1fb",
@@ -136,7 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a5f36699a79476d2f779a18",
     "publishedAt": "2026-07-22T04:02:54.000Z",
-    "createdAt": "2026-07-22T16:22:24.486Z",
-    "updatedAt": "2026-07-22T16:22:24.486Z"
+    "createdAt": "2026-07-22T18:11:40.901Z",
+    "updatedAt": "2026-07-22T18:11:40.901Z"
   }
 ]
