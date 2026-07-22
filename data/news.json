@@ -1,5 +1,89 @@
 [
   {
+    "id": "8e4f78eddb1ee07b",
+    "title": "Роналдо и Роберто Карлос станут владельцами бразильского клуба",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/1/56/347847495013561.jpeg",
+    "teaser": "Роналдо и Роберто Карлос станут владельцами бразильского клуба",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a6115b19a7947d1e6bae8bd",
+    "publishedAt": "2026-07-22T20:07:09.000Z",
+    "createdAt": "2026-07-22T20:13:42.824Z",
+    "updatedAt": "2026-07-22T20:13:42.824Z"
+  },
+  {
+    "id": "3f8696ac3f0c2667",
+    "title": "«Кайрат» в большинстве проиграл кипрскому клубу в квалификации ЛЧ",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/7/89/347847480790897.jpeg",
+    "teaser": "«Кайрат» в большинстве проиграл кипрскому клубу в квалификации ЛЧ",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a61161b9a7947eef6f16ba9",
+    "publishedAt": "2026-07-22T19:53:01.000Z",
+    "createdAt": "2026-07-22T20:13:44.302Z",
+    "updatedAt": "2026-07-22T20:13:44.302Z"
+  },
+  {
+    "id": "eca89ad3604da244",
+    "title": "Федерация опровергла слухи о визите ФБР к чартеру Аргентины после ЧМ-2026",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/5/62/347847463713625.jpeg",
+    "teaser": "Федерация опровергла слухи о визите ФБР к чартеру Аргентины после ЧМ-2026",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a61087e9a794776fd903859",
+    "publishedAt": "2026-07-22T18:58:14.000Z",
+    "createdAt": "2026-07-22T20:13:45.474Z",
+    "updatedAt": "2026-07-22T20:13:45.474Z"
+  },
+  {
+    "id": "aa86afede27b7fdb",
+    "title": "Большунов во второй раз стал отцом",
+    "sport": "Другое",
+    "category": "Другие",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/8/53/347847455517538.jpeg",
+    "teaser": "Большунов во второй раз стал отцом",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a6109049a7947487e77fe5d",
+    "publishedAt": "2026-07-22T18:44:18.000Z",
+    "createdAt": "2026-07-22T20:13:50.048Z",
+    "updatedAt": "2026-07-22T20:13:50.048Z"
+  },
+  {
+    "id": "b1e0e073232c685b",
+    "title": "Дегтярев назвал самые «отмороженные» международные федерации",
+    "sport": "Другое",
+    "category": "Другие",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/7/06/347847436656067.jpeg",
+    "teaser": "Дегтярев назвал самые «отмороженные» международные федерации",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a6103039a7947441b3f66de",
+    "publishedAt": "2026-07-22T18:15:00.000Z",
+    "createdAt": "2026-07-22T20:13:46.630Z",
+    "updatedAt": "2026-07-22T20:13:46.631Z"
+  },
+  {
+    "id": "b9748296720397d4",
+    "title": "Джефф Безос стал претендентом на долю в футбольном клубе «Ливерпуль»",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/1/71/347847433707711.jpeg",
+    "teaser": "Джефф Безос стал претендентом на долю в футбольном клубе «Ливерпуль»",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a60fbf09a79471c1f9d9885",
+    "publishedAt": "2026-07-22T18:10:48.000Z",
+    "createdAt": "2026-07-22T20:13:47.759Z",
+    "updatedAt": "2026-07-22T20:13:47.759Z"
+  },
+  {
     "id": "bba5f3083c78d25e",
     "title": "Дегтярев сравнил Плющенко с релокантами за слова о деградации спортсменов",
     "sport": "Другое",
@@ -10,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a60f6a39a79473e92f05513",
     "publishedAt": "2026-07-22T17:26:36.000Z",
-    "createdAt": "2026-07-22T18:11:33.858Z",
-    "updatedAt": "2026-07-22T18:11:33.858Z"
+    "createdAt": "2026-07-22T20:13:48.910Z",
+    "updatedAt": "2026-07-22T20:13:48.910Z"
   },
   {
     "id": "4377a22facb23e38",
@@ -24,36 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a60ec499a79479ae373e46a",
     "publishedAt": "2026-07-22T17:12:46.000Z",
-    "createdAt": "2026-07-22T18:11:36.188Z",
-    "updatedAt": "2026-07-22T18:11:36.188Z"
-  },
-  {
-    "id": "383b634c92d9da75",
-    "title": "Федерация волейбола Латвии не будет бойкотировать турниры из-за России",
-    "sport": "Другое",
-    "category": "Другие",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/7/62/347847383399627.png",
-    "teaser": "Федерация волейбола Латвии не будет бойкотировать турниры из-за России",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a60ed6a9a794728e43bf4b5",
-    "publishedAt": "2026-07-22T17:01:14.000Z",
-    "createdAt": "2026-07-22T18:11:38.484Z",
-    "updatedAt": "2026-07-22T18:11:38.484Z"
-  },
-  {
-    "id": "ef1bba58e7c66c2c",
-    "title": "Пятикратный победитель Лиги чемпионов Каземиро стал одноклубником Месси",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/7/31/347847389780317.jpeg",
-    "teaser": "Пятикратный победитель Лиги чемпионов Каземиро стал одноклубником Месси",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a60f2829a7947eef6f16b55",
-    "publishedAt": "2026-07-22T16:54:03.000Z",
-    "createdAt": "2026-07-22T18:11:37.334Z",
-    "updatedAt": "2026-07-22T18:11:37.334Z"
+    "createdAt": "2026-07-22T20:13:53.493Z",
+    "updatedAt": "2026-07-22T20:13:53.493Z"
   },
   {
     "id": "08ba9b93af0096dc",
@@ -66,64 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a60e08f9a7947424f9e2773",
     "publishedAt": "2026-07-22T16:23:51.000Z",
-    "createdAt": "2026-07-22T18:11:35.050Z",
-    "updatedAt": "2026-07-22T18:11:35.050Z"
-  },
-  {
-    "id": "da19303559b7b999",
-    "title": "Дегтярев назвал главное препятствие для допуска российских футболистов",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/0/89/347847359311890.png",
-    "teaser": "Дегтярев назвал главное препятствие для допуска российских футболистов",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a60e55e9a7947559264a593",
-    "publishedAt": "2026-07-22T16:22:28.000Z",
-    "createdAt": "2026-07-22T18:11:39.673Z",
-    "updatedAt": "2026-07-22T18:11:39.673Z"
-  },
-  {
-    "id": "7f7f4f8abaa383d8",
-    "title": "Федор Емельяненко решил отсудить почти ₽13 млн из-за детской книги о себе",
-    "sport": "Единоборства",
-    "category": "Единоборства",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/2/89/347847328096892.png",
-    "teaser": "Федор Емельяненко решил отсудить почти ₽13 млн из-за детской книги о себе",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a60d7969a794747d9e5baf0",
-    "publishedAt": "2026-07-22T15:18:44.000Z",
-    "createdAt": "2026-07-22T18:11:42.075Z",
-    "updatedAt": "2026-07-22T18:11:42.075Z"
-  },
-  {
-    "id": "a61b044510210764",
-    "title": "Тренер сборной России Карпин рассказал о дебюте в кино",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/9/54/347847328119549.jpeg",
-    "teaser": "Тренер сборной России Карпин рассказал о дебюте в кино",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a60d98f9a7947212356fbbe",
-    "publishedAt": "2026-07-22T15:17:21.000Z",
-    "createdAt": "2026-07-22T18:11:44.381Z",
-    "updatedAt": "2026-07-22T18:11:44.381Z"
-  },
-  {
-    "id": "14d7534b8614e9ed",
-    "title": "В Италии жестоко убили спортивного журналиста Луиджи Эспозито",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/9/44/347847314038449.jpeg",
-    "teaser": "В Италии жестоко убили спортивного журналиста Луиджи Эспозито",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a60d0709a7947f4b93ffcaf",
-    "publishedAt": "2026-07-22T15:00:42.000Z",
-    "createdAt": "2026-07-22T18:11:43.221Z",
-    "updatedAt": "2026-07-22T18:11:43.221Z"
+    "createdAt": "2026-07-22T20:13:51.188Z",
+    "updatedAt": "2026-07-22T20:13:51.188Z"
   },
   {
     "id": "4fc66471ad1da1fb",
@@ -136,7 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a5f36699a79476d2f779a18",
     "publishedAt": "2026-07-22T04:02:54.000Z",
-    "createdAt": "2026-07-22T18:11:40.901Z",
-    "updatedAt": "2026-07-22T18:11:40.901Z"
+    "createdAt": "2026-07-22T20:13:52.355Z",
+    "updatedAt": "2026-07-22T20:13:52.355Z"
   }
 ]
