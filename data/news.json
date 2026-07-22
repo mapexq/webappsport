@@ -1,5 +1,61 @@
 [
   {
+    "id": "7f7f4f8abaa383d8",
+    "title": "Федор Емельяненко решил отсудить почти ₽13 млн из-за детской книги о себе",
+    "sport": "Единоборства",
+    "category": "Единоборства",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/2/89/347847328096892.png",
+    "teaser": "Федор Емельяненко решил отсудить почти ₽13 млн из-за детской книги о себе",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a60d7969a794747d9e5baf0",
+    "publishedAt": "2026-07-22T15:18:44.000Z",
+    "createdAt": "2026-07-22T16:22:19.432Z",
+    "updatedAt": "2026-07-22T16:22:19.432Z"
+  },
+  {
+    "id": "a61b044510210764",
+    "title": "Тренер сборной России Карпин рассказал о дебюте в кино",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/9/54/347847328119549.jpeg",
+    "teaser": "Тренер сборной России Карпин рассказал о дебюте в кино",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a60d98f9a7947212356fbbe",
+    "publishedAt": "2026-07-22T15:17:21.000Z",
+    "createdAt": "2026-07-22T16:22:21.631Z",
+    "updatedAt": "2026-07-22T16:22:21.631Z"
+  },
+  {
+    "id": "14d7534b8614e9ed",
+    "title": "В Италии жестоко убили спортивного журналиста Луиджи Эспозито",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/9/44/347847314038449.jpeg",
+    "teaser": "В Италии жестоко убили спортивного журналиста Луиджи Эспозито",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a60d0709a7947f4b93ffcaf",
+    "publishedAt": "2026-07-22T15:00:42.000Z",
+    "createdAt": "2026-07-22T16:22:20.741Z",
+    "updatedAt": "2026-07-22T16:22:20.741Z"
+  },
+  {
+    "id": "3591342f4580fe78",
+    "title": "Агент форварда сборной Уругвая рассказал об интересе «Спартака»",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/4/45/347847291086454.jpeg",
+    "teaser": "Агент форварда сборной Уругвая рассказал об интересе «Спартака»",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a60cb7d9a7947212356fb70",
+    "publishedAt": "2026-07-22T14:28:18.000Z",
+    "createdAt": "2026-07-22T16:22:22.672Z",
+    "updatedAt": "2026-07-22T16:22:22.672Z"
+  },
+  {
     "id": "f5a8a816cbdb13d1",
     "title": "Даниил Медведев снялся с крупного турнира в Вашингтоне",
     "sport": "Теннис",
@@ -10,8 +66,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a60bc469a79470d4dc6b773",
     "publishedAt": "2026-07-22T13:25:24.000Z",
-    "createdAt": "2026-07-22T14:07:49.749Z",
-    "updatedAt": "2026-07-22T14:07:49.749Z"
+    "createdAt": "2026-07-22T16:22:26.561Z",
+    "updatedAt": "2026-07-22T16:22:26.561Z"
   },
   {
     "id": "f9791c5e7118f0ae",
@@ -24,8 +80,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a60bdbd9a7947b0e3463349",
     "publishedAt": "2026-07-22T13:20:15.000Z",
-    "createdAt": "2026-07-22T14:07:47.915Z",
-    "updatedAt": "2026-07-22T14:07:47.915Z"
+    "createdAt": "2026-07-22T16:22:23.483Z",
+    "updatedAt": "2026-07-22T16:22:23.483Z"
   },
   {
     "id": "90d7aa872f32ac3b",
@@ -38,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a60b3069a7947960c3f3f51",
     "publishedAt": "2026-07-22T12:45:16.000Z",
-    "createdAt": "2026-07-22T14:07:48.832Z",
-    "updatedAt": "2026-07-22T14:07:48.832Z"
+    "createdAt": "2026-07-22T16:22:25.540Z",
+    "updatedAt": "2026-07-22T16:22:25.540Z"
   },
   {
     "id": "f93ea17b8dbb6c9f",
@@ -52,8 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a60b3f99a7947e75ec81f03",
     "publishedAt": "2026-07-22T12:42:12.000Z",
-    "createdAt": "2026-07-22T14:07:50.716Z",
-    "updatedAt": "2026-07-22T14:07:50.716Z"
+    "createdAt": "2026-07-22T16:22:27.559Z",
+    "updatedAt": "2026-07-22T16:22:27.559Z"
   },
   {
     "id": "186666fff5baf09c",
@@ -66,77 +122,21 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a60b0779a7947505b912f8f",
     "publishedAt": "2026-07-22T12:23:32.000Z",
-    "createdAt": "2026-07-22T14:07:51.642Z",
-    "updatedAt": "2026-07-22T14:07:51.642Z"
+    "createdAt": "2026-07-22T16:22:28.465Z",
+    "updatedAt": "2026-07-22T16:22:28.465Z"
   },
   {
-    "id": "4785cc1e9b8b38b5",
-    "title": "Главному тренеру «Саутгемптона» предъявили обвинения по делу о шпионаже",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/4/30/347847204789304.jpeg",
-    "teaser": "Главному тренеру «Саутгемптона» предъявили обвинения по делу о шпионаже",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a60a5119a794734abce32b7",
-    "publishedAt": "2026-07-22T11:50:51.000Z",
-    "createdAt": "2026-07-22T14:07:54.142Z",
-    "updatedAt": "2026-07-22T14:07:54.142Z"
-  },
-  {
-    "id": "6d710d0e5d1605f7",
-    "title": "Федор Емельяненко подал в суд на автора книги про себя",
-    "sport": "Единоборства",
-    "category": "Единоборства",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/5/37/347847186982375.png",
-    "teaser": "Федор Емельяненко подал в суд на автора книги про себя",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a60a4569a7947119232f651",
-    "publishedAt": "2026-07-22T11:44:42.000Z",
-    "createdAt": "2026-07-22T14:07:52.643Z",
-    "updatedAt": "2026-07-22T14:07:52.643Z"
-  },
-  {
-    "id": "312efb93b4dd400c",
-    "title": "Пятый футбольный клуб с июня снялся с участия во Второй лиге",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/1/97/347847171601971.jpeg",
-    "teaser": "Пятый футбольный клуб с июня снялся с участия во Второй лиге",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a6099049a79479233447561",
-    "publishedAt": "2026-07-22T10:48:27.000Z",
-    "createdAt": "2026-07-22T14:07:55.101Z",
-    "updatedAt": "2026-07-22T14:07:55.101Z"
-  },
-  {
-    "id": "649c2e16fc90c079",
-    "title": "Промоутер назвал дату и место следующего боя Бивола",
-    "sport": "Единоборства",
-    "category": "Единоборства",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/3/51/347847154644513.jpeg",
-    "teaser": "Промоутер назвал дату и место следующего боя Бивола",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a6098799a794734abce3266",
-    "publishedAt": "2026-07-22T10:46:36.000Z",
-    "createdAt": "2026-07-22T14:07:56.042Z",
-    "updatedAt": "2026-07-22T14:07:56.042Z"
-  },
-  {
-    "id": "c86cd6411b7e69b5",
-    "title": "ISU допустил чемпионов России на юниорское Гран-при по фигурному катанию",
+    "id": "4fc66471ad1da1fb",
+    "title": "Кто из звезд ушел от Этери Тутберидзе за последние пару лет",
     "sport": "Другое",
     "category": "Фигурное катание",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/4/35/347847128665354.png",
-    "teaser": "ISU допустил чемпионов России на юниорское Гран-при по фигурному катанию",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/4/02/347846265887024.jpeg",
+    "teaser": "Кто из звезд ушел от Этери Тутберидзе за последние пару лет",
     "fullContent": "",
     "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a608dee9a79478cc5a532c8",
-    "publishedAt": "2026-07-22T10:07:16.000Z",
-    "createdAt": "2026-07-22T14:07:57.009Z",
-    "updatedAt": "2026-07-22T14:07:57.009Z"
+    "sourceUrl": "https://sportrbc.ru/news/6a5f36699a79476d2f779a18",
+    "publishedAt": "2026-07-22T04:02:54.000Z",
+    "createdAt": "2026-07-22T16:22:24.486Z",
+    "updatedAt": "2026-07-22T16:22:24.486Z"
   }
 ]
