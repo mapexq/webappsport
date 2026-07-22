@@ -1,5 +1,89 @@
 [
   {
+    "id": "a4d7fc09c78031bb",
+    "title": "Ватерполистки России разгромили чемпионок Европы и вышли в полуфинал КМ",
+    "sport": "Другое",
+    "category": "Другие",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/2/97/347847091091972.jpeg",
+    "teaser": "Ватерполистки России разгромили чемпионок Европы и вышли в полуфинал КМ",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a607cb29a79470ce9a3ed44",
+    "publishedAt": "2026-07-22T08:40:12.000Z",
+    "createdAt": "2026-07-22T09:29:58.181Z",
+    "updatedAt": "2026-07-22T09:29:58.181Z"
+  },
+  {
+    "id": "b220e3b41cc71877",
+    "title": "Месси стал лучшим игроком ЧМ-2026 по версии IFFHS",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/5/19/347847076919195.jpeg",
+    "teaser": "Месси стал лучшим игроком ЧМ-2026 по версии IFFHS",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a60746b9a7947dd73aa29e5",
+    "publishedAt": "2026-07-22T08:23:27.000Z",
+    "createdAt": "2026-07-22T09:29:59.130Z",
+    "updatedAt": "2026-07-22T09:29:59.130Z"
+  },
+  {
+    "id": "86e9bfcd3c593c69",
+    "title": "Финал ЧМ-2026 побил рекорды просмотров в США",
+    "sport": "Другое",
+    "category": "ЧМ-2026",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/5/63/347847058108635.jpeg",
+    "teaser": "Финал ЧМ-2026 побил рекорды просмотров в США",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a6068a19a794708b01e1df0",
+    "publishedAt": "2026-07-22T07:56:10.000Z",
+    "createdAt": "2026-07-22T09:30:00.022Z",
+    "updatedAt": "2026-07-22T09:30:00.022Z"
+  },
+  {
+    "id": "e3e58a9a965b09e1",
+    "title": "Участник четырех чемпионатов мира по футболу завершил карьеру",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/2/02/347847027556022.jpeg",
+    "teaser": "Участник четырех чемпионатов мира по футболу завершил карьеру",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a60632b9a7947e2917f4ac3",
+    "publishedAt": "2026-07-22T07:18:02.000Z",
+    "createdAt": "2026-07-22T09:30:02.030Z",
+    "updatedAt": "2026-07-22T09:30:02.030Z"
+  },
+  {
+    "id": "9019c08f2330a3dc",
+    "title": "Матвей Сафонов приступил к подготовке к новому сезону в ПСЖ",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/9/90/347847014352909.jpeg",
+    "teaser": "Матвей Сафонов приступил к подготовке к новому сезону в ПСЖ",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a605ebd9a7947a7635dc463",
+    "publishedAt": "2026-07-22T07:06:42.000Z",
+    "createdAt": "2026-07-22T09:30:03.048Z",
+    "updatedAt": "2026-07-22T09:30:03.048Z"
+  },
+  {
+    "id": "4fc66471ad1da1fb",
+    "title": "Кто из звезд ушел от Этери Тутберидзе за последние пару лет",
+    "sport": "Другое",
+    "category": "Фигурное катание",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/4/02/347846265887024.jpeg",
+    "teaser": "Кто из звезд ушел от Этери Тутберидзе за последние пару лет",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a5f36699a79476d2f779a18",
+    "publishedAt": "2026-07-22T04:02:54.000Z",
+    "createdAt": "2026-07-22T09:30:01.034Z",
+    "updatedAt": "2026-07-22T09:30:01.034Z"
+  },
+  {
     "id": "7aeed8e893d8f5dc",
     "title": "Найденную в секонд-хенде куртку звезды НБА продали за $89,6 тыс",
     "sport": "Футбол",
@@ -10,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a5fcc3f9a79471f013800af",
     "publishedAt": "2026-07-21T21:14:35.000Z",
-    "createdAt": "2026-07-22T06:33:54.455Z",
-    "updatedAt": "2026-07-22T06:33:54.455Z"
+    "createdAt": "2026-07-22T09:30:04.048Z",
+    "updatedAt": "2026-07-22T09:30:04.048Z"
   },
   {
     "id": "5598f909ed48b108",
@@ -24,8 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a5fda659a79476706c9caad",
     "publishedAt": "2026-07-21T20:56:59.000Z",
-    "createdAt": "2026-07-22T06:33:56.394Z",
-    "updatedAt": "2026-07-22T06:33:56.394Z"
+    "createdAt": "2026-07-22T09:30:06.045Z",
+    "updatedAt": "2026-07-22T09:30:06.045Z"
   },
   {
     "id": "2445f77f310eb4e1",
@@ -38,8 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a5fbe959a7947e67da45175",
     "publishedAt": "2026-07-21T19:48:09.000Z",
-    "createdAt": "2026-07-22T06:33:55.489Z",
-    "updatedAt": "2026-07-22T06:33:55.489Z"
+    "createdAt": "2026-07-22T09:30:05.039Z",
+    "updatedAt": "2026-07-22T09:30:05.039Z"
   },
   {
     "id": "2b2f4fc9601a0a4e",
@@ -52,91 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a5fb7849a794704280a4716",
     "publishedAt": "2026-07-21T18:46:25.000Z",
-    "createdAt": "2026-07-22T06:33:58.291Z",
-    "updatedAt": "2026-07-22T06:33:58.291Z"
-  },
-  {
-    "id": "d164d93ab20dcf5b",
-    "title": "Двукратная олимпийская чемпионка София Позднякова родила дочь",
-    "sport": "Другое",
-    "category": "Другие",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/0/60/347846580307600.jpeg",
-    "teaser": "Двукратная олимпийская чемпионка София Позднякова родила дочь",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a5fb8419a79471f0138009e",
-    "publishedAt": "2026-07-21T18:33:58.000Z",
-    "createdAt": "2026-07-22T06:33:57.343Z",
-    "updatedAt": "2026-07-22T06:33:57.343Z"
-  },
-  {
-    "id": "ea35ba4f10c90443",
-    "title": "Россиянин Демин вошел во вторую символическую пятерку Летней лиги НБА",
-    "sport": "Баскетбол",
-    "category": "Баскетбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/1/30/347846574265301.jpeg",
-    "teaser": "Россиянин Демин вошел во вторую символическую пятерку Летней лиги НБА",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a5fb17d9a7947ba787bfbab",
-    "publishedAt": "2026-07-21T18:29:42.000Z",
-    "createdAt": "2026-07-22T06:33:59.332Z",
-    "updatedAt": "2026-07-22T06:33:59.332Z"
-  },
-  {
-    "id": "a79dd8cd621068e7",
-    "title": "Агент Дзюбы заявил, что у футболиста нет устраивающих его предложений",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/4/98/347846539132984.jpeg",
-    "teaser": "Агент Дзюбы заявил, что у футболиста нет устраивающих его предложений",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a5fa8289a79470cb9ae4cb4",
-    "publishedAt": "2026-07-21T17:22:56.000Z",
-    "createdAt": "2026-07-22T06:34:00.438Z",
-    "updatedAt": "2026-07-22T06:34:00.438Z"
-  },
-  {
-    "id": "d11e1c272e6462c4",
-    "title": "The Athletic подсчитал, какой клуб получит больше всего денег за ЧМ-2026",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/6/89/347846522223896.jpeg",
-    "teaser": "The Athletic подсчитал, какой клуб получит больше всего денег за ЧМ-2026",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a5f9bfb9a7947049e9ad2d7",
-    "publishedAt": "2026-07-21T16:53:49.000Z",
-    "createdAt": "2026-07-22T06:34:01.446Z",
-    "updatedAt": "2026-07-22T06:34:01.446Z"
-  },
-  {
-    "id": "584623c10a495dd5",
-    "title": "Олимпийский чемпион по академической гребле Олаф Туфте умер в 50 лет",
-    "sport": "Другое",
-    "category": "Другие",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/0/00/347846515998000.jpeg",
-    "teaser": "Олимпийский чемпион по академической гребле Олаф Туфте умер в 50 лет",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a5f9f339a79470cb9ae4c8f",
-    "publishedAt": "2026-07-21T16:48:53.000Z",
-    "createdAt": "2026-07-22T06:34:03.545Z",
-    "updatedAt": "2026-07-22T06:34:03.545Z"
-  },
-  {
-    "id": "0ca41f7b3e52c4d4",
-    "title": "Из футбола ушел судья, работу которого Моуринью называл «позором»",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/6/53/347846502756536.jpeg",
-    "teaser": "Из футбола ушел судья, работу которого Моуринью называл «позором»",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a5f94799a79474ffb7c7d85",
-    "publishedAt": "2026-07-21T16:33:08.000Z",
-    "createdAt": "2026-07-22T06:34:02.479Z",
-    "updatedAt": "2026-07-22T06:34:02.479Z"
+    "createdAt": "2026-07-22T09:30:06.933Z",
+    "updatedAt": "2026-07-22T09:30:06.933Z"
   }
 ]
