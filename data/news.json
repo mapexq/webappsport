@@ -1,5 +1,89 @@
 [
   {
+    "id": "b3e14746d842b7ff",
+    "title": "«Спартак» потребовал переиграть матч за Суперкубок России из-за судейства",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/9/31/347848000086319.png",
+    "teaser": "«Спартак» потребовал переиграть матч за Суперкубок России из-за судейства",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a61e28d9a794766a09dca5b",
+    "publishedAt": "2026-07-23T10:19:55.000Z",
+    "createdAt": "2026-07-23T10:27:56.908Z",
+    "updatedAt": "2026-07-23T10:27:56.908Z"
+  },
+  {
+    "id": "b9fbbeeb10714ca8",
+    "title": "Умерла чемпионка мира в составе сборной СССР гимнастка Жалеева",
+    "sport": "Другое",
+    "category": "Другие",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/7/62/347848000592627.jpeg",
+    "teaser": "Умерла чемпионка мира в составе сборной СССР гимнастка Жалеева",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a61e0499a7947394a222e9b",
+    "publishedAt": "2026-07-23T10:04:37.000Z",
+    "createdAt": "2026-07-23T10:27:58.949Z",
+    "updatedAt": "2026-07-23T10:27:58.949Z"
+  },
+  {
+    "id": "38051f495999f33f",
+    "title": "Чемпионку «Ролан Гаррос» задержали за помощь мошенникам",
+    "sport": "Теннис",
+    "category": "Теннис",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/7/98/347847980371987.png",
+    "teaser": "Чемпионку «Ролан Гаррос» задержали за помощь мошенникам",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a61db409a7947c27567b80c",
+    "publishedAt": "2026-07-23T09:43:41.000Z",
+    "createdAt": "2026-07-23T10:27:57.990Z",
+    "updatedAt": "2026-07-23T10:27:57.990Z"
+  },
+  {
+    "id": "368fadbbb0095981",
+    "title": "The Athletic узнал, что лучший игрок ЧМ-2026 перенесет операцию на спине",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/7/68/347847939705687.jpeg",
+    "teaser": "The Athletic узнал, что лучший игрок ЧМ-2026 перенесет операцию на спине",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a61c6189a79478b0f9f8f41",
+    "publishedAt": "2026-07-23T08:18:02.000Z",
+    "createdAt": "2026-07-23T10:28:00.006Z",
+    "updatedAt": "2026-07-23T10:28:00.006Z"
+  },
+  {
+    "id": "d587b4d08b973722",
+    "title": "Mirror узнала, что Бекхэм заработал больше Шакиры и Бибера на ЧМ-2026",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/6/96/347847896938966.jpeg",
+    "teaser": "Mirror узнала, что Бекхэм заработал больше Шакиры и Бибера на ЧМ-2026",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a61b0d19a794788fdddf8d2",
+    "publishedAt": "2026-07-23T07:44:17.000Z",
+    "createdAt": "2026-07-23T10:28:01.016Z",
+    "updatedAt": "2026-07-23T10:28:01.016Z"
+  },
+  {
+    "id": "2e67e5b7c9d5164d",
+    "title": "В Уругвае обстреляли автобус с болельщиками аргентинского клуба",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/9/68/347847892571689.jpeg",
+    "teaser": "В Уругвае обстреляли автобус с болельщиками аргентинского клуба",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a61b1fa9a79477a363ca0ed",
+    "publishedAt": "2026-07-23T07:32:15.000Z",
+    "createdAt": "2026-07-23T10:28:02.080Z",
+    "updatedAt": "2026-07-23T10:28:02.080Z"
+  },
+  {
     "id": "7cc676d69fdb7e8b",
     "title": "Тренер Аргентины пообещал извиниться перед испанцем за драку в финале ЧМ",
     "sport": "Футбол",
@@ -10,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a6125fe9a794756a822d2a4",
     "publishedAt": "2026-07-22T21:43:18.000Z",
-    "createdAt": "2026-07-23T07:35:44.477Z",
-    "updatedAt": "2026-07-23T07:35:44.477Z"
+    "createdAt": "2026-07-23T10:28:03.078Z",
+    "updatedAt": "2026-07-23T10:28:03.078Z"
   },
   {
     "id": "187b85e7ac9147f4",
@@ -24,8 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a611f469a794752005a2aa7",
     "publishedAt": "2026-07-22T20:15:56.000Z",
-    "createdAt": "2026-07-23T07:35:45.745Z",
-    "updatedAt": "2026-07-23T07:35:45.745Z"
+    "createdAt": "2026-07-23T10:28:04.080Z",
+    "updatedAt": "2026-07-23T10:28:04.080Z"
   },
   {
     "id": "8e4f78eddb1ee07b",
@@ -38,8 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a6115b19a7947d1e6bae8bd",
     "publishedAt": "2026-07-22T20:07:09.000Z",
-    "createdAt": "2026-07-23T07:35:46.876Z",
-    "updatedAt": "2026-07-23T07:35:46.876Z"
+    "createdAt": "2026-07-23T10:28:05.095Z",
+    "updatedAt": "2026-07-23T10:28:05.095Z"
   },
   {
     "id": "3f8696ac3f0c2667",
@@ -52,91 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a61161b9a7947eef6f16ba9",
     "publishedAt": "2026-07-22T19:53:01.000Z",
-    "createdAt": "2026-07-23T07:35:47.996Z",
-    "updatedAt": "2026-07-23T07:35:47.996Z"
-  },
-  {
-    "id": "eca89ad3604da244",
-    "title": "Федерация опровергла слухи о визите ФБР к чартеру Аргентины после ЧМ-2026",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/5/62/347847463713625.jpeg",
-    "teaser": "Федерация опровергла слухи о визите ФБР к чартеру Аргентины после ЧМ-2026",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a61087e9a794776fd903859",
-    "publishedAt": "2026-07-22T18:58:14.000Z",
-    "createdAt": "2026-07-23T07:35:49.137Z",
-    "updatedAt": "2026-07-23T07:35:49.137Z"
-  },
-  {
-    "id": "aa86afede27b7fdb",
-    "title": "Большунов во второй раз стал отцом",
-    "sport": "Другое",
-    "category": "Другие",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/8/53/347847455517538.jpeg",
-    "teaser": "Большунов во второй раз стал отцом",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a6109049a7947487e77fe5d",
-    "publishedAt": "2026-07-22T18:44:18.000Z",
-    "createdAt": "2026-07-23T07:35:53.732Z",
-    "updatedAt": "2026-07-23T07:35:53.732Z"
-  },
-  {
-    "id": "b1e0e073232c685b",
-    "title": "Дегтярев назвал самые «отмороженные» международные федерации",
-    "sport": "Другое",
-    "category": "Другие",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/7/06/347847436656067.jpeg",
-    "teaser": "Дегтярев назвал самые «отмороженные» международные федерации",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a6103039a7947441b3f66de",
-    "publishedAt": "2026-07-22T18:15:00.000Z",
-    "createdAt": "2026-07-23T07:35:50.290Z",
-    "updatedAt": "2026-07-23T07:35:50.290Z"
-  },
-  {
-    "id": "b9748296720397d4",
-    "title": "Джефф Безос стал претендентом на долю в футбольном клубе «Ливерпуль»",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/1/71/347847433707711.jpeg",
-    "teaser": "Джефф Безос стал претендентом на долю в футбольном клубе «Ливерпуль»",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a60fbf09a79471c1f9d9885",
-    "publishedAt": "2026-07-22T18:10:48.000Z",
-    "createdAt": "2026-07-23T07:35:51.455Z",
-    "updatedAt": "2026-07-23T07:35:51.455Z"
-  },
-  {
-    "id": "bba5f3083c78d25e",
-    "title": "Дегтярев сравнил Плющенко с релокантами за слова о деградации спортсменов",
-    "sport": "Другое",
-    "category": "Фигурное катание",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/2/47/347847395545472.png",
-    "teaser": "Дегтярев сравнил Плющенко с релокантами за слова о деградации спортсменов",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a60f6a39a79473e92f05513",
-    "publishedAt": "2026-07-22T17:26:36.000Z",
-    "createdAt": "2026-07-23T07:35:52.596Z",
-    "updatedAt": "2026-07-23T07:35:52.596Z"
-  },
-  {
-    "id": "08ba9b93af0096dc",
-    "title": "Коллекционную карточку Овечкина с его автографом продали за $256 тыс",
-    "sport": "Хоккей",
-    "category": "Хоккей",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/4/69/347847355586694.jpeg",
-    "teaser": "Коллекционную карточку Овечкина с его автографом продали за $256 тыс",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a60e08f9a7947424f9e2773",
-    "publishedAt": "2026-07-22T16:23:51.000Z",
-    "createdAt": "2026-07-23T07:35:54.979Z",
-    "updatedAt": "2026-07-23T07:35:54.979Z"
+    "createdAt": "2026-07-23T10:28:06.146Z",
+    "updatedAt": "2026-07-23T10:28:06.146Z"
   }
 ]
