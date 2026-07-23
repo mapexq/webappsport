@@ -1,54 +1,6 @@
 [
   {
-    "id": 1784834706827,
-    "eventName": "Ботафого Рио-де-Жанейро — Витория Салвадор",
-    "discipline": "Футбол",
-    "tournament": "Чемпионат",
-    "expert": {
-      "name": "Akhmad Пенальти",
-      "avatar": "https://bookmaker-ratings.ru/static/images/badges/is-kapper.svg?v=30092024",
-      "status": "expert",
-      "winRate": 84
-    },
-    "prediction": "Тотал меньше (2.5)",
-    "odds": 2.02,
-    "comment": "В последних четырех матчах,были зафиксированы тотал меньше 2,5 думаю не стоистоитстоистоит ждать больше голов в матче",
-    "source": "Sports Analytics Pro"
-  },
-  {
-    "id": 1784834706828,
-    "eventName": "Коринтианс Паулиста — Ремо",
-    "discipline": "Футбол",
-    "tournament": "Чемпионат",
-    "expert": {
-      "name": "Akhmad Пенальти",
-      "avatar": "https://bookmaker-ratings.ru/static/images/badges/is-kapper.svg?v=30092024",
-      "status": "expert",
-      "winRate": 84
-    },
-    "prediction": "Обе забьют (Нет)",
-    "odds": 1.72,
-    "comment": "В очных встречах, побеждает та команда, которая играет дома, но при этом матч проходит без обменов голов",
-    "source": "Sports Analytics Pro"
-  },
-  {
-    "id": 1784834706829,
-    "eventName": "Сармиенто — Аргентинос Хуниорс",
-    "discipline": "Футбол",
-    "tournament": "Чемпионат",
-    "expert": {
-      "name": "Akhmad Пенальти",
-      "avatar": "https://bookmaker-ratings.ru/static/images/badges/is-kapper.svg?v=30092024",
-      "status": "expert",
-      "winRate": 84
-    },
-    "prediction": "Обе забьют (Нет)",
-    "odds": 1.52,
-    "comment": "Комментарий к прогнозу",
-    "source": "Sports Analytics Pro"
-  },
-  {
-    "id": 1784834706830,
+    "id": 1784840980335,
     "eventName": "ЦСКА Москва — Балтика",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -64,7 +16,7 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1784834706831,
+    "id": 1784840980337,
     "eventName": "ЦСКА Москва — Балтика",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -80,7 +32,7 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1784834706832,
+    "id": 1784840980338,
     "eventName": "ЦСКА Москва — Балтика",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -96,7 +48,7 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1784834706833,
+    "id": 1784840980339,
     "eventName": "ЦСКА Москва — Балтика",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -112,7 +64,7 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1784834706834,
+    "id": 1784840980340,
     "eventName": "Динамо Москва — Крылья Советов",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -128,7 +80,7 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1784834706835,
+    "id": 1784840980341,
     "eventName": "Динамо Москва — Крылья Советов",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -144,19 +96,67 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1784834706836,
+    "id": 1784840980342,
     "eventName": "Матч",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
     "expert": {
-      "name": "Ботафого Рио",
+      "name": "Крылья Советов",
       "avatar": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=100&h=100&fit=crop",
       "status": "expert",
-      "winRate": 86
+      "winRate": 83
     },
-    "prediction": "Тотал меньше (2.5)",
-    "odds": 2.02,
+    "prediction": "Фора 1 (-1.5)",
+    "odds": 2.2,
     "comment": "Комментарий к прогнозу",
+    "source": "Sports Analytics Pro"
+  },
+  {
+    "id": 1784840980343,
+    "eventName": "Матч",
+    "discipline": "Футбол",
+    "tournament": "Чемпионат",
+    "expert": {
+      "name": "Крылья Советов",
+      "avatar": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=100&h=100&fit=crop",
+      "status": "expert",
+      "winRate": 83
+    },
+    "prediction": "П1/П1",
+    "odds": 2,
+    "comment": "Комментарий к прогнозу",
+    "source": "Sports Analytics Pro"
+  },
+  {
+    "id": 1784840980344,
+    "eventName": "Маяр Шериф — Паула Бадоса",
+    "discipline": "Футбол",
+    "tournament": "Чемпионат",
+    "expert": {
+      "name": "Павел Кириченко",
+      "avatar": "https://static-uploads.prod.bookmaker-ratings.ru/2023/11/Kirichenko.png?width=60",
+      "status": "expert",
+      "winRate": 78
+    },
+    "prediction": "Брейки ТБ(7.5)",
+    "odds": 1.74,
+    "comment": "Маяр Шериф и Паула Бадоса встретятся на турнире WTA в Гамбурге. Обе девушки слабо действуют на подаче. Шериф просто обладает слабой подачей, Бадоса подаёт сильнее, но делает много двойных ошибок. Подача не должна давать здесь весомого преимущества ни одной стороне. Зато обе хорошо принимают. Предположу, что в матче будет много брейков и девушки пробьют тотал 7,5 по данному показателю.",
+    "source": "Sports Analytics Pro"
+  },
+  {
+    "id": 1784840980345,
+    "eventName": "Александр Бублик — Томас Мартин Этчеверри",
+    "discipline": "Футбол",
+    "tournament": "Чемпионат",
+    "expert": {
+      "name": "Павел Кириченко",
+      "avatar": "https://static-uploads.prod.bookmaker-ratings.ru/2023/11/Kirichenko.png?width=60",
+      "status": "expert",
+      "winRate": 78
+    },
+    "prediction": "Брейки ИТБ1(1.5)",
+    "odds": 1.7,
+    "comment": "Александр Бублик и Томас Мартин Этчеверри встретятся в полуфинале турнира АТР в Китцбюэле. В Китцбюэле довольно быстрый грунт, играет роль высота над уровнем моря. Подача хорошо работает, но всё-таки игроки шансы на приеме находят. Матчи с участием Этчеверри проходили с обилием брейков. Подачу Этчеверри дважды за сет брал Юрий Родионов, игрок второй сотни рейтинга АТР. Были шансы на два брейка у Бусе, но перуанец проиграл, взяв только одну подачу соперника. Бублик здесь защищает титул, условия для него комфортные. Предположу, что два брейка Александр сделает.",
     "source": "Sports Analytics Pro"
   }
 ]
