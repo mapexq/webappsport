@@ -1,5 +1,47 @@
 [
   {
+    "id": "662942d317fa2db9",
+    "title": "Футболист «Барселоны» выбыл до конца года из-за разрыва связки колена",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/8/51/347848320844518.jpeg",
+    "teaser": "Футболист «Барселоны» выбыл до конца года из-за разрыва связки колена",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a625bcc9a79473a60f6995e",
+    "publishedAt": "2026-07-23T18:50:09.000Z",
+    "createdAt": "2026-07-23T19:25:14.623Z",
+    "updatedAt": "2026-07-23T19:25:14.623Z"
+  },
+  {
+    "id": "cb6e5ea5083eece7",
+    "title": "Боксер Бивол перенес операцию на локте",
+    "sport": "Единоборства",
+    "category": "Единоборства",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/6/18/347848294545186.png",
+    "teaser": "Боксер Бивол перенес операцию на локте",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a62513f9a7947ce653b0aa9",
+    "publishedAt": "2026-07-23T18:18:08.000Z",
+    "createdAt": "2026-07-23T19:25:13.601Z",
+    "updatedAt": "2026-07-23T19:25:13.601Z"
+  },
+  {
+    "id": "92da9c8b6578663f",
+    "title": "Рублев вышел в четвертьфинал турнира в Эшториле",
+    "sport": "Теннис",
+    "category": "Теннис",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/4/54/347848266984544.png",
+    "teaser": "Рублев вышел в четвертьфинал турнира в Эшториле",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a624b019a79473a60f6991b",
+    "publishedAt": "2026-07-23T17:41:44.000Z",
+    "createdAt": "2026-07-23T19:25:15.677Z",
+    "updatedAt": "2026-07-23T19:25:15.677Z"
+  },
+  {
     "id": "57de31c9ce80b47b",
     "title": "В «Спартаке» не удивились решению РФС отклонить протест по Суперкубку",
     "sport": "Футбол",
@@ -10,8 +52,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a623eb19a794718bd173664",
     "publishedAt": "2026-07-23T16:55:43.000Z",
-    "createdAt": "2026-07-23T17:35:07.502Z",
-    "updatedAt": "2026-07-23T17:35:07.502Z"
+    "createdAt": "2026-07-23T19:25:19.787Z",
+    "updatedAt": "2026-07-23T19:25:19.787Z"
   },
   {
     "id": "01d49ff3988ace15",
@@ -24,8 +66,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a623dc99a794715c6781db5",
     "publishedAt": "2026-07-23T16:45:10.000Z",
-    "createdAt": "2026-07-23T17:35:06.512Z",
-    "updatedAt": "2026-07-23T17:35:06.512Z"
+    "createdAt": "2026-07-23T19:25:18.737Z",
+    "updatedAt": "2026-07-23T19:25:18.737Z"
   },
   {
     "id": "97201247284f6e27",
@@ -38,8 +80,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a61d1a59a79476e98e6a37f",
     "publishedAt": "2026-07-23T16:38:25.000Z",
-    "createdAt": "2026-07-23T17:35:04.328Z",
-    "updatedAt": "2026-07-23T17:35:04.328Z"
+    "createdAt": "2026-07-23T19:25:16.670Z",
+    "updatedAt": "2026-07-23T19:25:16.670Z"
   },
   {
     "id": "8e60d88f14225f3b",
@@ -52,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a623f679a79471ce8ced8a5",
     "publishedAt": "2026-07-23T16:32:03.000Z",
-    "createdAt": "2026-07-23T17:35:05.377Z",
-    "updatedAt": "2026-07-23T17:35:05.377Z"
+    "createdAt": "2026-07-23T19:25:17.722Z",
+    "updatedAt": "2026-07-23T19:25:17.722Z"
   },
   {
     "id": "7077853d9fc87050",
@@ -66,8 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a6237949a7947273dd6494a",
     "publishedAt": "2026-07-23T16:09:38.000Z",
-    "createdAt": "2026-07-23T17:35:10.716Z",
-    "updatedAt": "2026-07-23T17:35:10.716Z"
+    "createdAt": "2026-07-23T19:25:22.839Z",
+    "updatedAt": "2026-07-23T19:25:22.839Z"
   },
   {
     "id": "4950671d285339e8",
@@ -80,22 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a6226a79a7947a044f51f94",
     "publishedAt": "2026-07-23T15:37:10.000Z",
-    "createdAt": "2026-07-23T17:35:08.618Z",
-    "updatedAt": "2026-07-23T17:35:08.618Z"
-  },
-  {
-    "id": "ff36c1b3abe22156",
-    "title": "Шайба Тарасенко стала 11-й в рейтинге лучших голов сезона в НХЛ",
-    "sport": "Хоккей",
-    "category": "Хоккей",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/6/10/347848188819106.jpeg",
-    "teaser": "Шайба Тарасенко стала 11-й в рейтинге лучших голов сезона в НХЛ",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a622c949a7947265e72913b",
-    "publishedAt": "2026-07-23T15:30:50.000Z",
-    "createdAt": "2026-07-23T17:35:11.877Z",
-    "updatedAt": "2026-07-23T17:35:11.877Z"
+    "createdAt": "2026-07-23T19:25:20.834Z",
+    "updatedAt": "2026-07-23T19:25:20.834Z"
   },
   {
     "id": "815aaf0f15757283",
@@ -108,35 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a622cbf9a79476cec7a2e16",
     "publishedAt": "2026-07-23T15:28:18.000Z",
-    "createdAt": "2026-07-23T17:35:09.644Z",
-    "updatedAt": "2026-07-23T17:35:09.644Z"
-  },
-  {
-    "id": "2c945e8d9df8db2c",
-    "title": "РФС отклонил требование «Спартака» о переигровке Суперкубка России",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/4/51/347848165896514.jpeg",
-    "teaser": "РФС отклонил требование «Спартака» о переигровке Суперкубка России",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a6220699a7947308d6f4996",
-    "publishedAt": "2026-07-23T14:29:45.000Z",
-    "createdAt": "2026-07-23T17:35:12.936Z",
-    "updatedAt": "2026-07-23T17:35:12.936Z"
-  },
-  {
-    "id": "00bfb628c1bf9880",
-    "title": "Патрик Кейн вернулся в «Чикаго», с которым взял три Кубка Стэнли",
-    "sport": "Хоккей",
-    "category": "Хоккей",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/7/04/347848132595047.jpeg",
-    "teaser": "Патрик Кейн вернулся в «Чикаго», с которым взял три Кубка Стэнли",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a6216779a79478527197d01",
-    "publishedAt": "2026-07-23T14:02:07.000Z",
-    "createdAt": "2026-07-23T17:35:14.032Z",
-    "updatedAt": "2026-07-23T17:35:14.032Z"
+    "createdAt": "2026-07-23T19:25:21.891Z",
+    "updatedAt": "2026-07-23T19:25:21.891Z"
   }
 ]
