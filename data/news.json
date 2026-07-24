@@ -1,5 +1,47 @@
 [
   {
+    "id": "b08bde7e0f6a0876",
+    "title": "ЦСКА пропустил самый быстрый первый гол сезона РПЛ, но обыграл «Балтику»",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/1/44/347849177557441.jpeg",
+    "teaser": "ЦСКА пропустил самый быстрый первый гол сезона РПЛ, но обыграл «Балтику»",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a63aeb39a79476ec631b8d3",
+    "publishedAt": "2026-07-24T19:00:42.000Z",
+    "createdAt": "2026-07-24T19:36:33.944Z",
+    "updatedAt": "2026-07-24T19:36:33.944Z"
+  },
+  {
+    "id": "2e196ab8b251248e",
+    "title": "Погачар побил 29-летний рекорд на «Тур де Франс»",
+    "sport": "Другое",
+    "category": "Другие",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/0/55/347849165573550.jpeg",
+    "teaser": "Погачар побил 29-летний рекорд на «Тур де Франс»",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a63a9f49a79474068242bb9",
+    "publishedAt": "2026-07-24T18:15:29.000Z",
+    "createdAt": "2026-07-24T19:36:35.066Z",
+    "updatedAt": "2026-07-24T19:36:35.066Z"
+  },
+  {
+    "id": "173168ddd43a5640",
+    "title": "Судья отменил гол ЦСКА в матче с «Балтикой» после просмотра VAR",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/8/01/347849145307018.jpeg",
+    "teaser": "Судья отменил гол ЦСКА в матче с «Балтикой» после просмотра VAR",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a63a2359a79472bec2920ca",
+    "publishedAt": "2026-07-24T17:43:05.000Z",
+    "createdAt": "2026-07-24T19:36:36.029Z",
+    "updatedAt": "2026-07-24T19:36:36.029Z"
+  },
+  {
     "id": "f6999001e0cc6987",
     "title": "Первый гол нового сезона РПЛ забили на 35-й секунде",
     "sport": "Футбол",
@@ -10,8 +52,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a639baa9a7947455d200e1d",
     "publishedAt": "2026-07-24T17:19:14.000Z",
-    "createdAt": "2026-07-24T17:41:48.262Z",
-    "updatedAt": "2026-07-24T17:41:48.262Z"
+    "createdAt": "2026-07-24T19:36:38.128Z",
+    "updatedAt": "2026-07-24T19:36:38.128Z"
   },
   {
     "id": "c32a348cd7cf3579",
@@ -24,8 +66,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a6395b79a79471d156bd454",
     "publishedAt": "2026-07-24T17:15:37.000Z",
-    "createdAt": "2026-07-24T17:41:49.359Z",
-    "updatedAt": "2026-07-24T17:41:49.359Z"
+    "createdAt": "2026-07-24T19:36:39.200Z",
+    "updatedAt": "2026-07-24T19:36:39.200Z"
   },
   {
     "id": "9162455403a10b19",
@@ -38,8 +80,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a6393bc9a79475f6f44965f",
     "publishedAt": "2026-07-24T17:05:35.000Z",
-    "createdAt": "2026-07-24T17:41:51.281Z",
-    "updatedAt": "2026-07-24T17:41:51.281Z"
+    "createdAt": "2026-07-24T19:36:41.089Z",
+    "updatedAt": "2026-07-24T19:36:41.089Z"
   },
   {
     "id": "7e72c4b4f41cfccf",
@@ -52,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a6388979a794769b4f7ec38",
     "publishedAt": "2026-07-24T15:54:29.000Z",
-    "createdAt": "2026-07-24T17:41:52.379Z",
-    "updatedAt": "2026-07-24T17:41:52.379Z"
+    "createdAt": "2026-07-24T19:36:42.121Z",
+    "updatedAt": "2026-07-24T19:36:42.121Z"
   },
   {
     "id": "294df9938e14ef8e",
@@ -66,8 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a6383be9a79471d156bd3eb",
     "publishedAt": "2026-07-24T15:45:23.000Z",
-    "createdAt": "2026-07-24T17:41:54.529Z",
-    "updatedAt": "2026-07-24T17:41:54.529Z"
+    "createdAt": "2026-07-24T19:36:43.211Z",
+    "updatedAt": "2026-07-24T19:36:43.211Z"
   },
   {
     "id": "694f2acc6da70995",
@@ -80,50 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a637d5a9a7947ede352d657",
     "publishedAt": "2026-07-24T15:39:54.000Z",
-    "createdAt": "2026-07-24T17:41:55.666Z",
-    "updatedAt": "2026-07-24T17:41:55.666Z"
-  },
-  {
-    "id": "952a48fc6046935c",
-    "title": "Матч первого тура РПЛ отложили на пять часов из-за жары",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/4/22/347849035686224.jpeg",
-    "teaser": "Матч первого тура РПЛ отложили на пять часов из-за жары",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a63777d9a7947e12c20a0be",
-    "publishedAt": "2026-07-24T14:44:03.000Z",
-    "createdAt": "2026-07-24T17:41:56.904Z",
-    "updatedAt": "2026-07-24T17:41:56.904Z"
-  },
-  {
-    "id": "e556f42262072282",
-    "title": "Бублик 17-й раз в карьере вышел в финал турнира ATP",
-    "sport": "Теннис",
-    "category": "Теннис",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/0/23/347849020558230.jpeg",
-    "teaser": "Бублик 17-й раз в карьере вышел в финал турнира ATP",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a6371719a79475f6f4495b7",
-    "publishedAt": "2026-07-24T14:20:34.000Z",
-    "createdAt": "2026-07-24T17:41:59.049Z",
-    "updatedAt": "2026-07-24T17:41:59.049Z"
-  },
-  {
-    "id": "dfce522a36b6e28b",
-    "title": "«Кайрат» перенес еврокубковый матч из Алма-Аты из-за концерта Канье Уэста",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/2/01/347849004960012.jpeg",
-    "teaser": "«Кайрат» перенес еврокубковый матч из Алма-Аты из-за концерта Канье Уэста",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a636b319a79478471d1eb2f",
-    "publishedAt": "2026-07-24T13:49:52.000Z",
-    "createdAt": "2026-07-24T17:41:57.977Z",
-    "updatedAt": "2026-07-24T17:41:57.977Z"
+    "createdAt": "2026-07-24T19:36:44.204Z",
+    "updatedAt": "2026-07-24T19:36:44.204Z"
   },
   {
     "id": "f2ab9244aec9ef7a",
@@ -136,7 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a6331119a79474757da4b2f",
     "publishedAt": "2026-07-24T09:39:01.000Z",
-    "createdAt": "2026-07-24T17:41:53.468Z",
-    "updatedAt": "2026-07-24T17:41:53.468Z"
+    "createdAt": "2026-07-24T19:36:37.053Z",
+    "updatedAt": "2026-07-24T19:36:37.053Z"
   }
 ]
