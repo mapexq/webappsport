@@ -1,5 +1,75 @@
 [
   {
+    "id": "8a86ae3e785ebee3",
+    "title": "Экс-чемпион UFC Анкалаев выиграл главный бой на турнире в Абу-Даби",
+    "sport": "Единоборства",
+    "category": "Единоборства",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/7/63/347850037240637.jpeg",
+    "teaser": "Экс-чемпион UFC Анкалаев выиграл главный бой на турнире в Абу-Даби",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a26d28c9a794779f0a1af08",
+    "publishedAt": "2026-07-25T18:57:11.000Z",
+    "createdAt": "2026-07-25T19:15:24.793Z",
+    "updatedAt": "2026-07-25T19:15:24.793Z"
+  },
+  {
+    "id": "271f4ec3b362ab7b",
+    "title": "Команда с Овечкиным в составе выиграла благотворительный «Матч года»",
+    "sport": "Хоккей",
+    "category": "Хоккей",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/5/47/347850030059475.jpeg",
+    "teaser": "Команда с Овечкиным в составе выиграла благотворительный «Матч года»",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a3683999a79473ec4cb5186",
+    "publishedAt": "2026-07-25T18:18:12.000Z",
+    "createdAt": "2026-07-25T19:15:25.659Z",
+    "updatedAt": "2026-07-25T19:15:25.659Z"
+  },
+  {
+    "id": "4179f5faebf91103",
+    "title": "Прокуратура Мексики проверит организованный ФИФА ужин во дворце в Мехико",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/2/44/347850020139442.jpeg",
+    "teaser": "Прокуратура Мексики проверит организованный ФИФА ужин во дворце в Мехико",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69eb575a9a79474b7ab6ea69",
+    "publishedAt": "2026-07-25T18:07:31.000Z",
+    "createdAt": "2026-07-25T19:15:26.625Z",
+    "updatedAt": "2026-07-25T19:15:26.625Z"
+  },
+  {
+    "id": "34bece42cf890f5a",
+    "title": "Вернувшийся в РПЛ «Факел» проиграл в первом туре махачкалинскому «Динамо»",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/1/86/347849985248861.jpeg",
+    "teaser": "Вернувшийся в РПЛ «Факел» проиграл в первом туре махачкалинскому «Динамо»",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a303d049a79471c94fcca2f",
+    "publishedAt": "2026-07-25T17:28:36.000Z",
+    "createdAt": "2026-07-25T19:15:27.702Z",
+    "updatedAt": "2026-07-25T19:15:27.702Z"
+  },
+  {
+    "id": "96958d6f0289283a",
+    "title": "Хэмилтона наказали за блокировку в квалификации Гран-при Венгрии",
+    "sport": "Другое",
+    "category": "Формула-1",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/9/80/347849990212809.jpeg",
+    "teaser": "Хэмилтона наказали за блокировку в квалификации Гран-при Венгрии",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a11f17c9a7947cd9d668ce3",
+    "publishedAt": "2026-07-25T17:13:25.000Z",
+    "createdAt": "2026-07-25T19:15:28.672Z",
+    "updatedAt": "2026-07-25T19:15:28.672Z"
+  },
+  {
     "id": "272b4edde37ffd2a",
     "title": "Бывший чемпион ACA Вагаев успешно дебютировал в UFC в 33 года",
     "sport": "Единоборства",
@@ -10,8 +80,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a32a7e29a79472808b60958",
     "publishedAt": "2026-07-25T16:51:57.000Z",
-    "createdAt": "2026-07-25T17:04:39.796Z",
-    "updatedAt": "2026-07-25T17:04:39.796Z"
+    "createdAt": "2026-07-25T19:15:29.741Z",
+    "updatedAt": "2026-07-25T19:15:29.741Z"
   },
   {
     "id": "2b96de4c0b7f3998",
@@ -24,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a3973a69a79471adca52834",
     "publishedAt": "2026-07-25T16:40:51.000Z",
-    "createdAt": "2026-07-25T17:04:40.841Z",
-    "updatedAt": "2026-07-25T17:04:40.841Z"
+    "createdAt": "2026-07-25T19:15:30.604Z",
+    "updatedAt": "2026-07-25T19:15:30.604Z"
   },
   {
     "id": "23d27d0f1384e03c",
@@ -38,8 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a426f339a794708f86fd5ed",
     "publishedAt": "2026-07-25T16:14:14.000Z",
-    "createdAt": "2026-07-25T17:04:41.882Z",
-    "updatedAt": "2026-07-25T17:04:41.882Z"
+    "createdAt": "2026-07-25T19:15:31.725Z",
+    "updatedAt": "2026-07-25T19:15:31.725Z"
   },
   {
     "id": "82088f308c3efca0",
@@ -52,8 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a3969f69a79470d81df1a4b",
     "publishedAt": "2026-07-25T15:15:04.000Z",
-    "createdAt": "2026-07-25T17:04:42.904Z",
-    "updatedAt": "2026-07-25T17:04:42.904Z"
+    "createdAt": "2026-07-25T19:15:32.600Z",
+    "updatedAt": "2026-07-25T19:15:32.600Z"
   },
   {
     "id": "f377ba3e68e40cf3",
@@ -66,77 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a395d4c9a794716fdc17eb1",
     "publishedAt": "2026-07-25T15:10:25.000Z",
-    "createdAt": "2026-07-25T17:04:44.004Z",
-    "updatedAt": "2026-07-25T17:04:44.004Z"
-  },
-  {
-    "id": "45445c007c73e949",
-    "title": "Российский боец Тучалов выиграл дебютный поединок в UFC",
-    "sport": "Единоборства",
-    "category": "Единоборства",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/9/86/347849902266869.jpeg",
-    "teaser": "Российский боец Тучалов выиграл дебютный поединок в UFC",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a3954d59a79478997edf4e6",
-    "publishedAt": "2026-07-25T14:44:20.000Z",
-    "createdAt": "2026-07-25T17:04:45.091Z",
-    "updatedAt": "2026-07-25T17:04:45.091Z"
-  },
-  {
-    "id": "c2b579349ae26ac5",
-    "title": "Форвард «Зенита» Соболев впервые за сделал дубль в РПЛ",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/2/35/347849892912352.jpeg",
-    "teaser": "Форвард «Зенита» Соболев впервые за сделал дубль в РПЛ",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a3afc8c9a79479a2914b28d",
-    "publishedAt": "2026-07-25T14:26:53.000Z",
-    "createdAt": "2026-07-25T17:04:46.186Z",
-    "updatedAt": "2026-07-25T17:04:46.186Z"
-  },
-  {
-    "id": "d2b0345d8b610999",
-    "title": "Матч Первой лиги в Уфе отложили на два часа из-за жары",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/3/96/347849872600963.jpeg",
-    "teaser": "Матч Первой лиги в Уфе отложили на два часа из-за жары",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a4f95059a7947383054e8c7",
-    "publishedAt": "2026-07-25T13:53:00.000Z",
-    "createdAt": "2026-07-25T17:04:49.658Z",
-    "updatedAt": "2026-07-25T17:04:49.658Z"
-  },
-  {
-    "id": "58e76064140ebaa5",
-    "title": "Бублик дал поиграть бол-бою вместо себя в финале турнира ATP в Кицбюэле",
-    "sport": "Теннис",
-    "category": "Теннис",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/7/87/347849842766877.jpeg",
-    "teaser": "Бублик дал поиграть бол-бою вместо себя в финале турнира ATP в Кицбюэле",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a3af8d09a7947863991d9c4",
-    "publishedAt": "2026-07-25T13:21:25.000Z",
-    "createdAt": "2026-07-25T17:04:47.352Z",
-    "updatedAt": "2026-07-25T17:04:47.352Z"
-  },
-  {
-    "id": "f6fbfcbeaa847783",
-    "title": "«Динамо» и «Крылья» сыграли вничью в матче РПЛ с 24-летним арбитром",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/4/16/347849822588164.jpeg",
-    "teaser": "«Динамо» и «Крылья» сыграли вничью в матче РПЛ с 24-летним арбитром",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a3b061a9a79471447585740",
-    "publishedAt": "2026-07-25T12:52:53.000Z",
-    "createdAt": "2026-07-25T17:04:48.518Z",
-    "updatedAt": "2026-07-25T17:04:48.518Z"
+    "createdAt": "2026-07-25T19:15:33.666Z",
+    "updatedAt": "2026-07-25T19:15:33.666Z"
   }
 ]
