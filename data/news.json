@@ -1,5 +1,89 @@
 [
   {
+    "id": "58e76064140ebaa5",
+    "title": "Бублик дал поиграть бол-бою вместо себя в финале турнира ATP в Кицбюэле",
+    "sport": "Теннис",
+    "category": "Теннис",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/7/87/347849842766877.jpeg",
+    "teaser": "Бублик дал поиграть бол-бою вместо себя в финале турнира ATP в Кицбюэле",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a3af8d09a7947863991d9c4",
+    "publishedAt": "2026-07-25T13:21:25.000Z",
+    "createdAt": "2026-07-25T13:46:02.056Z",
+    "updatedAt": "2026-07-25T13:46:02.056Z"
+  },
+  {
+    "id": "f6fbfcbeaa847783",
+    "title": "«Динамо» и «Крылья» сыграли вничью в матче РПЛ с 24-летним арбитром",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/4/16/347849822588164.jpeg",
+    "teaser": "«Динамо» и «Крылья» сыграли вничью в матче РПЛ с 24-летним арбитром",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a3b061a9a79471447585740",
+    "publishedAt": "2026-07-25T12:52:53.000Z",
+    "createdAt": "2026-07-25T13:46:00.946Z",
+    "updatedAt": "2026-07-25T13:46:00.946Z"
+  },
+  {
+    "id": "796e8a19411e6b52",
+    "title": "Бублик проиграл 83-й ракетке мира в финале турнира ATP в Кицбюэле",
+    "sport": "Теннис",
+    "category": "Теннис",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/5/92/347849826220925.jpeg",
+    "teaser": "Бублик проиграл 83-й ракетке мира в финале турнира ATP в Кицбюэле",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a3b084d9a7947547b4f9f32",
+    "publishedAt": "2026-07-25T12:49:39.000Z",
+    "createdAt": "2026-07-25T13:46:03.112Z",
+    "updatedAt": "2026-07-25T13:46:03.112Z"
+  },
+  {
+    "id": "38aad77cd9f3100f",
+    "title": "«Динамо» установило клубный рекорд по ударам за три сезона в РПЛ",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/6/97/347849817143976.jpeg",
+    "teaser": "«Динамо» установило клубный рекорд по ударам за три сезона в РПЛ",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a5787709a7947744a85a3a8",
+    "publishedAt": "2026-07-25T12:21:03.000Z",
+    "createdAt": "2026-07-25T13:46:04.270Z",
+    "updatedAt": "2026-07-25T13:46:04.270Z"
+  },
+  {
+    "id": "3322c7282102bd89",
+    "title": "Marca узнала, что лучший игрок ЧМ-2026 согласовал контракт с «Реалом»",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/2/59/347849787839592.jpeg",
+    "teaser": "Marca узнала, что лучший игрок ЧМ-2026 согласовал контракт с «Реалом»",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a57f0d19a794742b5b46542",
+    "publishedAt": "2026-07-25T11:38:24.000Z",
+    "createdAt": "2026-07-25T13:46:06.570Z",
+    "updatedAt": "2026-07-25T13:46:06.570Z"
+  },
+  {
+    "id": "ca8524c4f5e6b65c",
+    "title": "Россиянка 23-й раз в карьере вышла в финал турнира WTA в парном разряде",
+    "sport": "Теннис",
+    "category": "Теннис",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/8/11/347849780912118.jpeg",
+    "teaser": "Россиянка 23-й раз в карьере вышла в финал турнира WTA в парном разряде",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a63628c9a7947625f1ee1be",
+    "publishedAt": "2026-07-25T11:22:04.000Z",
+    "createdAt": "2026-07-25T13:46:07.752Z",
+    "updatedAt": "2026-07-25T13:46:07.752Z"
+  },
+  {
     "id": "cc6d37f6875b3a5c",
     "title": "Выступающий за Турцию уроженец Чечни попал в больницу перед боем в UFC",
     "sport": "Единоборства",
@@ -10,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a5ceeb79a79475f0f806b47",
     "publishedAt": "2026-07-25T11:10:18.000Z",
-    "createdAt": "2026-07-25T11:15:15.016Z",
-    "updatedAt": "2026-07-25T11:15:15.016Z"
+    "createdAt": "2026-07-25T13:46:05.437Z",
+    "updatedAt": "2026-07-25T13:46:05.437Z"
   },
   {
     "id": "aa3d628bf22713e4",
@@ -24,8 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a5cf7c79a794702131dab88",
     "publishedAt": "2026-07-25T10:44:39.000Z",
-    "createdAt": "2026-07-25T11:15:16.102Z",
-    "updatedAt": "2026-07-25T11:15:16.102Z"
+    "createdAt": "2026-07-25T13:46:08.959Z",
+    "updatedAt": "2026-07-25T13:46:08.959Z"
   },
   {
     "id": "3605c6b45e3ba848",
@@ -38,8 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a60ca739a7947e8fb78154b",
     "publishedAt": "2026-07-25T10:34:43.000Z",
-    "createdAt": "2026-07-25T11:15:17.254Z",
-    "updatedAt": "2026-07-25T11:15:17.254Z"
+    "createdAt": "2026-07-25T13:46:10.223Z",
+    "updatedAt": "2026-07-25T13:46:10.223Z"
   },
   {
     "id": "9e1f206f807a8f16",
@@ -52,91 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a5d19789a7947e1cb053a2b",
     "publishedAt": "2026-07-25T09:53:55.000Z",
-    "createdAt": "2026-07-25T11:15:18.298Z",
-    "updatedAt": "2026-07-25T11:15:18.298Z"
-  },
-  {
-    "id": "11a81f5772b68d30",
-    "title": "Топ-5 самых дорогих игроков РПЛ",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/5/03/347849698041035.jpeg",
-    "teaser": "Топ-5 самых дорогих игроков РПЛ",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a647a1a9a794750afb6b850",
-    "publishedAt": "2026-07-25T09:40:54.000Z",
-    "createdAt": "2026-07-25T11:15:20.392Z",
-    "updatedAt": "2026-07-25T11:15:20.392Z"
-  },
-  {
-    "id": "3737914e4cf12ecf",
-    "title": "МОК не накажет Инфантино за скандал с Балогуном на ЧМ-2026",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/8/46/347849690869468.jpeg",
-    "teaser": "МОК не накажет Инфантино за скандал с Балогуном на ЧМ-2026",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a5d52909a79472c2c887a08",
-    "publishedAt": "2026-07-25T08:51:49.000Z",
-    "createdAt": "2026-07-25T11:15:21.572Z",
-    "updatedAt": "2026-07-25T11:15:21.572Z"
-  },
-  {
-    "id": "bc4885f0749bdcc3",
-    "title": "Чемпион US Open 2020 года решил стать футболистом",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/4/25/347849678109254.jpeg",
-    "teaser": "Чемпион US Open 2020 года решил стать футболистом",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a5e04639a79472266ad8a6d",
-    "publishedAt": "2026-07-25T08:29:24.000Z",
-    "createdAt": "2026-07-25T11:15:23.939Z",
-    "updatedAt": "2026-07-25T11:15:23.939Z"
-  },
-  {
-    "id": "a905ae4de9d036de",
-    "title": "Fonbet продлил спонсорские контракты с тремя клубами РПЛ",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/0/88/347849662196880.jpeg",
-    "teaser": "Fonbet продлил спонсорские контракты с тремя клубами РПЛ",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a646bb49a79473d32db5a2e",
-    "publishedAt": "2026-07-25T08:02:56.000Z",
-    "createdAt": "2026-07-25T11:15:26.185Z",
-    "updatedAt": "2026-07-25T11:15:26.185Z"
-  },
-  {
-    "id": "4475602a40412bd4",
-    "title": "Ставший звездой на ЧМ-2026 голкипер сборной Кабо-Верде нашел новый клуб",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/5/63/347849652435635.jpeg",
-    "teaser": "Ставший звездой на ЧМ-2026 голкипер сборной Кабо-Верде нашел новый клуб",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a61afcf9a79477a363ca0e6",
-    "publishedAt": "2026-07-25T07:51:30.000Z",
-    "createdAt": "2026-07-25T11:15:22.782Z",
-    "updatedAt": "2026-07-25T11:15:22.782Z"
-  },
-  {
-    "id": "dd30a062f2642f91",
-    "title": "ЧР по легкой атлетике в Екатеринбурге остановили из-за атаки БПЛА",
-    "sport": "Другое",
-    "category": "Другие",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/9/54/347849639484549.png",
-    "teaser": "ЧР по легкой атлетике в Екатеринбурге остановили из-за атаки БПЛА",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a6463359a794772b4b50dd6",
-    "publishedAt": "2026-07-25T07:31:49.000Z",
-    "createdAt": "2026-07-25T11:15:25.083Z",
-    "updatedAt": "2026-07-25T11:15:25.083Z"
+    "createdAt": "2026-07-25T13:46:11.341Z",
+    "updatedAt": "2026-07-25T13:46:11.341Z"
   }
 ]
