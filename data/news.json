@@ -1,5 +1,47 @@
 [
   {
+    "id": "d27765ee561c8322",
+    "title": "Энтони Джошуа победил нокаутом, дважды побывав в нокдауне",
+    "sport": "Единоборства",
+    "category": "Единоборства",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/5/66/347850593192665.jpeg",
+    "teaser": "Энтони Джошуа победил нокаутом, дважды побывав в нокдауне",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a65d7c49a794749b16a9ecb",
+    "publishedAt": "2026-07-26T09:59:48.000Z",
+    "createdAt": "2026-07-26T10:05:03.104Z",
+    "updatedAt": "2026-07-26T10:05:03.104Z"
+  },
+  {
+    "id": "ac7e434b7b4ff1af",
+    "title": "Сын Цзю победил экс-чемпиона мира Спенса",
+    "sport": "Единоборства",
+    "category": "Единоборства",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/6/51/347850575438516.jpeg",
+    "teaser": "Сын Цзю победил экс-чемпиона мира Спенса",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a65cec79a794757f60aac5d",
+    "publishedAt": "2026-07-26T09:37:04.000Z",
+    "createdAt": "2026-07-26T10:05:02.207Z",
+    "updatedAt": "2026-07-26T10:05:02.207Z"
+  },
+  {
+    "id": "ec24874b59536374",
+    "title": "Российские ватерполистки проиграли Австралии и не смогли пробиться на ЧМ",
+    "sport": "Другое",
+    "category": "Другие",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/9/55/347850567937559.jpeg",
+    "teaser": "Российские ватерполистки проиграли Австралии и не смогли пробиться на ЧМ",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a65c9099a7947768fd167bb",
+    "publishedAt": "2026-07-26T09:08:30.000Z",
+    "createdAt": "2026-07-26T10:05:04.114Z",
+    "updatedAt": "2026-07-26T10:05:04.114Z"
+  },
+  {
     "id": "94276ec2d6c476f8",
     "title": "«Спартак» разгромил новичка РПЛ в первом туре",
     "sport": "Футбол",
@@ -10,8 +52,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a200b149a7947307f7eba87",
     "publishedAt": "2026-07-25T19:42:35.000Z",
-    "createdAt": "2026-07-26T07:38:20.453Z",
-    "updatedAt": "2026-07-26T07:38:20.453Z"
+    "createdAt": "2026-07-26T10:05:05.851Z",
+    "updatedAt": "2026-07-26T10:05:05.851Z"
   },
   {
     "id": "8a86ae3e785ebee3",
@@ -24,8 +66,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a26d28c9a794779f0a1af08",
     "publishedAt": "2026-07-25T18:57:11.000Z",
-    "createdAt": "2026-07-26T07:38:21.882Z",
-    "updatedAt": "2026-07-26T07:38:21.882Z"
+    "createdAt": "2026-07-26T10:05:06.862Z",
+    "updatedAt": "2026-07-26T10:05:06.862Z"
   },
   {
     "id": "271f4ec3b362ab7b",
@@ -38,8 +80,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a3683999a79473ec4cb5186",
     "publishedAt": "2026-07-25T18:18:12.000Z",
-    "createdAt": "2026-07-26T07:38:23.075Z",
-    "updatedAt": "2026-07-26T07:38:23.075Z"
+    "createdAt": "2026-07-26T10:05:07.906Z",
+    "updatedAt": "2026-07-26T10:05:07.906Z"
   },
   {
     "id": "4179f5faebf91103",
@@ -52,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69eb575a9a79474b7ab6ea69",
     "publishedAt": "2026-07-25T18:07:31.000Z",
-    "createdAt": "2026-07-26T07:38:24.238Z",
-    "updatedAt": "2026-07-26T07:38:24.238Z"
+    "createdAt": "2026-07-26T10:05:08.952Z",
+    "updatedAt": "2026-07-26T10:05:08.952Z"
   },
   {
     "id": "34bece42cf890f5a",
@@ -66,8 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a303d049a79471c94fcca2f",
     "publishedAt": "2026-07-25T17:28:36.000Z",
-    "createdAt": "2026-07-26T07:38:25.377Z",
-    "updatedAt": "2026-07-26T07:38:25.377Z"
+    "createdAt": "2026-07-26T10:05:09.983Z",
+    "updatedAt": "2026-07-26T10:05:09.983Z"
   },
   {
     "id": "96958d6f0289283a",
@@ -80,8 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a11f17c9a7947cd9d668ce3",
     "publishedAt": "2026-07-25T17:13:25.000Z",
-    "createdAt": "2026-07-26T07:38:26.482Z",
-    "updatedAt": "2026-07-26T07:38:26.482Z"
+    "createdAt": "2026-07-26T10:05:10.983Z",
+    "updatedAt": "2026-07-26T10:05:10.983Z"
   },
   {
     "id": "272b4edde37ffd2a",
@@ -94,49 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a32a7e29a79472808b60958",
     "publishedAt": "2026-07-25T16:51:57.000Z",
-    "createdAt": "2026-07-26T07:38:27.686Z",
-    "updatedAt": "2026-07-26T07:38:27.686Z"
-  },
-  {
-    "id": "2b96de4c0b7f3998",
-    "title": "Живущий в России бразилец выиграл пятый бой подряд в UFC болевым приемом",
-    "sport": "Единоборства",
-    "category": "Единоборства",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/1/82/347849969242821.jpeg",
-    "teaser": "Живущий в России бразилец выиграл пятый бой подряд в UFC болевым приемом",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a3973a69a79471adca52834",
-    "publishedAt": "2026-07-25T16:40:51.000Z",
-    "createdAt": "2026-07-26T07:38:28.874Z",
-    "updatedAt": "2026-07-26T07:38:28.874Z"
-  },
-  {
-    "id": "23d27d0f1384e03c",
-    "title": "Легкоатлет побил державшийся 22 года рекорд чемпионатов России на 400 м",
-    "sport": "Другое",
-    "category": "Другие",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/4/54/347849955955544.jpeg",
-    "teaser": "Легкоатлет побил державшийся 22 года рекорд чемпионатов России на 400 м",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a426f339a794708f86fd5ed",
-    "publishedAt": "2026-07-25T16:14:14.000Z",
-    "createdAt": "2026-07-26T07:38:30.199Z",
-    "updatedAt": "2026-07-26T07:38:30.199Z"
-  },
-  {
-    "id": "82088f308c3efca0",
-    "title": "«Зенит» забил пять безответных мячей «Акрону» в первом туре РПЛ",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/2/63/347849897899632.jpeg",
-    "teaser": "«Зенит» забил пять безответных мячей «Акрону» в первом туре РПЛ",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a3969f69a79470d81df1a4b",
-    "publishedAt": "2026-07-25T15:15:04.000Z",
-    "createdAt": "2026-07-26T07:38:31.331Z",
-    "updatedAt": "2026-07-26T07:38:31.331Z"
+    "createdAt": "2026-07-26T10:05:12.035Z",
+    "updatedAt": "2026-07-26T10:05:12.035Z"
   }
 ]
