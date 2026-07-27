@@ -1,5 +1,47 @@
 [
   {
+    "id": "5ddf1a158dc0da08",
+    "title": "The Athletic узнал о вызове Инфантино в конгресс из-за связей с Трампом",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/6/00/347851762429006.jpeg",
+    "teaser": "The Athletic узнал о вызове Инфантино в конгресс из-за связей с Трампом",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a6797679a7947c93e51f0f9",
+    "publishedAt": "2026-07-27T18:58:39.000Z",
+    "createdAt": "2026-07-27T19:41:52.461Z",
+    "updatedAt": "2026-07-27T19:41:52.461Z"
+  },
+  {
+    "id": "f860e2a00752e77f",
+    "title": "Мальдини покинул сборную Италии после отказа от Пирло из-за России",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/8/03/347851747358038.jpeg",
+    "teaser": "Мальдини покинул сборную Италии после отказа от Пирло из-за России",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a6797d09a79477088b2b25d",
+    "publishedAt": "2026-07-27T18:09:23.000Z",
+    "createdAt": "2026-07-27T19:41:53.512Z",
+    "updatedAt": "2026-07-27T19:41:53.512Z"
+  },
+  {
+    "id": "fdcad74f0933914b",
+    "title": "В Англии нашли способ бороться с «тактическими тайм-аутами» в футболе",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/8/87/347851734753878.jpeg",
+    "teaser": "В Англии нашли способ бороться с «тактическими тайм-аутами» в футболе",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a678e4e9a7947aff857226b",
+    "publishedAt": "2026-07-27T17:52:20.000Z",
+    "createdAt": "2026-07-27T19:41:56.849Z",
+    "updatedAt": "2026-07-27T19:41:56.849Z"
+  },
+  {
     "id": "5bf711a0cab79073",
     "title": "Кадыров обвинил UFC в «выдавливании» перспективных спортсменов",
     "sport": "Единоборства",
@@ -10,8 +52,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a6784c19a7947dc607355f5",
     "publishedAt": "2026-07-27T17:00:15.000Z",
-    "createdAt": "2026-07-27T17:46:35.606Z",
-    "updatedAt": "2026-07-27T17:46:35.606Z"
+    "createdAt": "2026-07-27T19:41:57.901Z",
+    "updatedAt": "2026-07-27T19:41:57.901Z"
   },
   {
     "id": "34685f00effcf4fd",
@@ -24,8 +66,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a6771149a794706dab3a808",
     "publishedAt": "2026-07-27T15:28:57.000Z",
-    "createdAt": "2026-07-27T17:46:40.229Z",
-    "updatedAt": "2026-07-27T17:46:40.229Z"
+    "createdAt": "2026-07-27T19:42:00.051Z",
+    "updatedAt": "2026-07-27T19:42:00.051Z"
   },
   {
     "id": "f2a327ada28e3204",
@@ -38,8 +80,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a676bef9a79475b6ee2f8e5",
     "publishedAt": "2026-07-27T15:08:06.000Z",
-    "createdAt": "2026-07-27T17:46:36.635Z",
-    "updatedAt": "2026-07-27T17:46:36.635Z"
+    "createdAt": "2026-07-27T19:41:58.951Z",
+    "updatedAt": "2026-07-27T19:41:58.951Z"
   },
   {
     "id": "b6fb1c0625aacee6",
@@ -52,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a6762a39a794779e45874ce",
     "publishedAt": "2026-07-27T14:21:40.000Z",
-    "createdAt": "2026-07-27T17:46:41.419Z",
-    "updatedAt": "2026-07-27T17:46:41.420Z"
+    "createdAt": "2026-07-27T19:42:01.113Z",
+    "updatedAt": "2026-07-27T19:42:01.113Z"
   },
   {
     "id": "27fa8fa2f5653781",
@@ -66,50 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a67663f9a7947b59203ef85",
     "publishedAt": "2026-07-27T14:20:38.000Z",
-    "createdAt": "2026-07-27T17:46:42.583Z",
-    "updatedAt": "2026-07-27T17:46:42.583Z"
-  },
-  {
-    "id": "06add3d6a4a11e42",
-    "title": "Крамник назвал шахматный мир «антироссийским» и поддержал уход Илюмжинова",
-    "sport": "Другое",
-    "category": "Другие",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/9/37/347851596022379.jpeg",
-    "teaser": "Крамник назвал шахматный мир «антироссийским» и поддержал уход Илюмжинова",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a675b529a79472f29f20774",
-    "publishedAt": "2026-07-27T13:44:50.000Z",
-    "createdAt": "2026-07-27T17:46:43.670Z",
-    "updatedAt": "2026-07-27T17:46:43.670Z"
-  },
-  {
-    "id": "94cfb228a2230e1f",
-    "title": "«Ак Барс» продлил контракт с призером Олимпийских игр",
-    "sport": "Хоккей",
-    "category": "Хоккей",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/1/13/347851591963131.jpeg",
-    "teaser": "«Ак Барс» продлил контракт с призером Олимпийских игр",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a6759059a79472606620124",
-    "publishedAt": "2026-07-27T13:43:00.000Z",
-    "createdAt": "2026-07-27T17:46:44.814Z",
-    "updatedAt": "2026-07-27T17:46:44.814Z"
-  },
-  {
-    "id": "f4ed90482988f2db",
-    "title": "Карпин назвал второе место Аргентины на ЧМ-2026 заслугой Месси",
-    "sport": "Другое",
-    "category": "ЧМ-2026",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/3/41/347851574468413.jpeg",
-    "teaser": "Карпин назвал второе место Аргентины на ЧМ-2026 заслугой Месси",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a67539f9a794762072498fa",
-    "publishedAt": "2026-07-27T13:16:54.000Z",
-    "createdAt": "2026-07-27T17:46:45.907Z",
-    "updatedAt": "2026-07-27T17:46:45.907Z"
+    "createdAt": "2026-07-27T19:42:02.176Z",
+    "updatedAt": "2026-07-27T19:42:02.176Z"
   },
   {
     "id": "11a81f5772b68d30",
@@ -122,8 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a647a1a9a794750afb6b850",
     "publishedAt": "2026-07-25T09:40:54.000Z",
-    "createdAt": "2026-07-27T17:46:37.931Z",
-    "updatedAt": "2026-07-27T17:46:37.931Z"
+    "createdAt": "2026-07-27T19:41:54.634Z",
+    "updatedAt": "2026-07-27T19:41:54.634Z"
   },
   {
     "id": "1dfb4b3ec02741ab",
@@ -136,7 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a632c5a9a79479f79e8407f",
     "publishedAt": "2026-07-25T06:01:45.000Z",
-    "createdAt": "2026-07-27T17:46:39.088Z",
-    "updatedAt": "2026-07-27T17:46:39.088Z"
+    "createdAt": "2026-07-27T19:41:55.765Z",
+    "updatedAt": "2026-07-27T19:41:55.765Z"
   }
 ]
