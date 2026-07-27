@@ -1,5 +1,61 @@
 [
   {
+    "id": "c32893a920a2b83a",
+    "title": "Макгрегор выбыл на год из‑за травмы, полученной в бою против Холлоуэя",
+    "sport": "Единоборства",
+    "category": "Единоборства",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/2/36/347851348082362.jpeg",
+    "teaser": "Макгрегор выбыл на год из‑за травмы, полученной в бою против Холлоуэя",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a66f99d9a79472135e8a022",
+    "publishedAt": "2026-07-27T08:25:02.000Z",
+    "createdAt": "2026-07-27T08:35:19.468Z",
+    "updatedAt": "2026-07-27T08:35:19.468Z"
+  },
+  {
+    "id": "e8ea0845c98cdcb5",
+    "title": "Не выходивший на корт с 3 июля Медведев улучшил позицию в рейтинге ATP",
+    "sport": "Теннис",
+    "category": "Теннис",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/1/98/347851330817981.jpeg",
+    "teaser": "Не выходивший на корт с 3 июля Медведев улучшил позицию в рейтинге ATP",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a66f57a9a7947631b9f4d4a",
+    "publishedAt": "2026-07-27T08:23:30.000Z",
+    "createdAt": "2026-07-27T08:35:21.240Z",
+    "updatedAt": "2026-07-27T08:35:21.240Z"
+  },
+  {
+    "id": "6a7ede53a5dc2171",
+    "title": "Пирло выразил негодование из-за дискуссии вокруг его связей с Россией",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/8/20/347851363806208.jpeg",
+    "teaser": "Пирло выразил негодование из-за дискуссии вокруг его связей с Россией",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a66ff4b9a7947120db518c2",
+    "publishedAt": "2026-07-27T08:20:16.000Z",
+    "createdAt": "2026-07-27T08:35:18.438Z",
+    "updatedAt": "2026-07-27T08:35:18.438Z"
+  },
+  {
+    "id": "88bcf876c756c408",
+    "title": "Главный арбитр финала ЧМ‑2026 Винчич завершил карьеру",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/1/12/347851370622121.jpeg",
+    "teaser": "Главный арбитр финала ЧМ‑2026 Винчич завершил карьеру",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a6706609a7947166fd1204c",
+    "publishedAt": "2026-07-27T07:37:23.000Z",
+    "createdAt": "2026-07-27T08:35:22.264Z",
+    "updatedAt": "2026-07-27T08:35:22.264Z"
+  },
+  {
     "id": "b179934522a25064",
     "title": "Илюмжинова не оказалось в списке кандидатов на пост главы FIDE",
     "sport": "Другое",
@@ -10,8 +66,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a665fa29a7947f2656d7509",
     "publishedAt": "2026-07-26T20:02:20.000Z",
-    "createdAt": "2026-07-27T04:40:14.581Z",
-    "updatedAt": "2026-07-27T04:40:14.581Z"
+    "createdAt": "2026-07-27T08:35:23.300Z",
+    "updatedAt": "2026-07-27T08:35:23.300Z"
   },
   {
     "id": "ff84610c0c1cb14a",
@@ -24,8 +80,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a6647c69a7947a8c725fec3",
     "publishedAt": "2026-07-26T18:47:54.000Z",
-    "createdAt": "2026-07-27T04:40:17.833Z",
-    "updatedAt": "2026-07-27T04:40:17.833Z"
+    "createdAt": "2026-07-27T08:35:26.335Z",
+    "updatedAt": "2026-07-27T08:35:26.335Z"
   },
   {
     "id": "325c4d0294e748da",
@@ -38,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a6644999a794750d56b768f",
     "publishedAt": "2026-07-26T18:41:02.000Z",
-    "createdAt": "2026-07-27T04:40:15.624Z",
-    "updatedAt": "2026-07-27T04:40:15.624Z"
+    "createdAt": "2026-07-27T08:35:24.323Z",
+    "updatedAt": "2026-07-27T08:35:24.323Z"
   },
   {
     "id": "65f785512224b5b2",
@@ -52,8 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a6602409a794706cd4dbb1c",
     "publishedAt": "2026-07-26T18:20:10.000Z",
-    "createdAt": "2026-07-27T04:40:16.725Z",
-    "updatedAt": "2026-07-27T04:40:16.725Z"
+    "createdAt": "2026-07-27T08:35:25.353Z",
+    "updatedAt": "2026-07-27T08:35:25.353Z"
   },
   {
     "id": "79588506138ed416",
@@ -66,8 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a663e839a79477c162e7a85",
     "publishedAt": "2026-07-26T17:17:59.000Z",
-    "createdAt": "2026-07-27T04:40:18.951Z",
-    "updatedAt": "2026-07-27T04:40:18.951Z"
+    "createdAt": "2026-07-27T08:35:27.311Z",
+    "updatedAt": "2026-07-27T08:35:27.311Z"
   },
   {
     "id": "97986875b8237067",
@@ -80,63 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a662e059a7947000e043d5c",
     "publishedAt": "2026-07-26T16:08:24.000Z",
-    "createdAt": "2026-07-27T04:40:20.078Z",
-    "updatedAt": "2026-07-27T04:40:20.078Z"
-  },
-  {
-    "id": "78d9e7061db665b6",
-    "title": "Овечкина включили в предполагаемый состав сборной мира на Матче звезд НХЛ",
-    "sport": "Хоккей",
-    "category": "Хоккей",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/0/08/347850795549080.png",
-    "teaser": "Овечкина включили в предполагаемый состав сборной мира на Матче звезд НХЛ",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a6626b99a79474c11382815",
-    "publishedAt": "2026-07-26T15:47:27.000Z",
-    "createdAt": "2026-07-27T04:40:21.188Z",
-    "updatedAt": "2026-07-27T04:40:21.188Z"
-  },
-  {
-    "id": "b01128b99113a748",
-    "title": "Действующий чемпион «Формулы-1» выиграл первую гонку в сезоне",
-    "sport": "Другое",
-    "category": "Формула-1",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/4/54/347850774191544.jpeg",
-    "teaser": "Действующий чемпион «Формулы-1» выиграл первую гонку в сезоне",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a65fedd9a7947b913f92ebb",
-    "publishedAt": "2026-07-26T15:00:23.000Z",
-    "createdAt": "2026-07-27T04:40:22.294Z",
-    "updatedAt": "2026-07-27T04:40:22.294Z"
-  },
-  {
-    "id": "9e8b0576b64ae509",
-    "title": "18-летнего бегуна дисквалифицировали после победы на чемпионате России",
-    "sport": "Другое",
-    "category": "Другие",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/6/98/347850770224986.png",
-    "teaser": "18-летнего бегуна дисквалифицировали после победы на чемпионате России",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a6615249a79478de5087645",
-    "publishedAt": "2026-07-26T14:48:49.000Z",
-    "createdAt": "2026-07-27T04:40:23.396Z",
-    "updatedAt": "2026-07-27T04:40:23.396Z"
-  },
-  {
-    "id": "7043e29a03f5eb52",
-    "title": "Саблистка Егорян не смогла защитить титул чемпионки мира",
-    "sport": "Другое",
-    "category": "Другие",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/0/35/347850739990350.png",
-    "teaser": "Саблистка Егорян не смогла защитить титул чемпионки мира",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a6610369a79472f02478c15",
-    "publishedAt": "2026-07-26T14:03:54.000Z",
-    "createdAt": "2026-07-27T04:40:24.492Z",
-    "updatedAt": "2026-07-27T04:40:24.492Z"
+    "createdAt": "2026-07-27T08:35:28.351Z",
+    "updatedAt": "2026-07-27T08:35:28.351Z"
   }
 ]
