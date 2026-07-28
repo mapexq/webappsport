@@ -1,5 +1,89 @@
 [
   {
+    "id": "2ba22a994aac5bac",
+    "title": "Александр Тарханов покинул пост главного тренера женского «Енисея»",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/5/21/347852269280215.jpeg",
+    "teaser": "Александр Тарханов покинул пост главного тренера женского «Енисея»",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a68667f9a794733de14e5ab",
+    "publishedAt": "2026-07-28T08:35:55.000Z",
+    "createdAt": "2026-07-28T08:43:00.415Z",
+    "updatedAt": "2026-07-28T08:43:00.415Z"
+  },
+  {
+    "id": "e0f043c1d8aa2cfb",
+    "title": "Криштиану Роналду снимется в сериале про футбольного агента",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/4/05/347852264713054.jpeg",
+    "teaser": "Криштиану Роналду снимется в сериале про футбольного агента",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a6861349a79477f97160a56",
+    "publishedAt": "2026-07-28T08:20:45.000Z",
+    "createdAt": "2026-07-28T08:43:01.414Z",
+    "updatedAt": "2026-07-28T08:43:01.414Z"
+  },
+  {
+    "id": "b93e8300998e3b20",
+    "title": "Конор Макгрегор пообещал «последний танец» в 2027 году",
+    "sport": "Единоборства",
+    "category": "Единоборства",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/9/15/347852234501159.jpeg",
+    "teaser": "Конор Макгрегор пообещал «последний танец» в 2027 году",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a6858d49a7947d5133ebc2f",
+    "publishedAt": "2026-07-28T07:53:46.000Z",
+    "createdAt": "2026-07-28T08:43:02.427Z",
+    "updatedAt": "2026-07-28T08:43:02.427Z"
+  },
+  {
+    "id": "6cc4dc789d7d5098",
+    "title": "UOL узнал о рекордном предложении «Спартака» в €25 млн за финалиста ЧМ-26",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/7/92/347852218733927.jpeg",
+    "teaser": "UOL узнал о рекордном предложении «Спартака» в €25 млн за финалиста ЧМ-26",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a684fb49a794741a629a979",
+    "publishedAt": "2026-07-28T07:38:45.000Z",
+    "createdAt": "2026-07-28T08:43:03.323Z",
+    "updatedAt": "2026-07-28T08:43:03.323Z"
+  },
+  {
+    "id": "1093434f3a3abd69",
+    "title": "Кириленко назвал трагедией для российского баскетбола смерть Сандлера",
+    "sport": "Баскетбол",
+    "category": "Баскетбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/9/87/347852235857879.jpeg",
+    "teaser": "Кириленко назвал трагедией для российского баскетбола смерть Сандлера",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a68566e9a794756022af6dd",
+    "publishedAt": "2026-07-28T07:37:14.000Z",
+    "createdAt": "2026-07-28T08:43:04.286Z",
+    "updatedAt": "2026-07-28T08:43:04.286Z"
+  },
+  {
+    "id": "f71e402b3180ddc0",
+    "title": "Кадры с места гибели президента и тренера клуба Единой лиги ВТБ Сандлера",
+    "sport": "Баскетбол",
+    "category": "Баскетбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/0/84/347852205243840.jpeg",
+    "teaser": "Кадры с места гибели президента и тренера клуба Единой лиги ВТБ Сандлера",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a6847149a79477759d4fb53",
+    "publishedAt": "2026-07-28T06:40:29.000Z",
+    "createdAt": "2026-07-28T08:43:05.316Z",
+    "updatedAt": "2026-07-28T08:43:05.316Z"
+  },
+  {
     "id": "21647c05222b42c7",
     "title": "Шнайдер в паре с Винус Уильямс вышла во второй круг турнира в Вашингтоне",
     "sport": "Другое",
@@ -10,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a67baec9a79470ba7996017",
     "publishedAt": "2026-07-27T20:42:57.000Z",
-    "createdAt": "2026-07-28T05:52:00.829Z",
-    "updatedAt": "2026-07-28T05:52:00.829Z"
+    "createdAt": "2026-07-28T08:43:06.315Z",
+    "updatedAt": "2026-07-28T08:43:06.315Z"
   },
   {
     "id": "d86c7b3ad4cf28e2",
@@ -24,92 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a67b2f79a79477088b2b285",
     "publishedAt": "2026-07-27T20:11:44.000Z",
-    "createdAt": "2026-07-28T05:52:01.804Z",
-    "updatedAt": "2026-07-28T05:52:01.804Z"
-  },
-  {
-    "id": "b761fb88408001c7",
-    "title": "Путин поздравил победившего на ЧМ российского фехтовальщика",
-    "sport": "Другое",
-    "category": "Другие",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/7/88/347851794361887.jpeg",
-    "teaser": "Путин поздравил победившего на ЧМ российского фехтовальщика",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a67a7ea9a794719569eea11",
-    "publishedAt": "2026-07-27T19:38:42.000Z",
-    "createdAt": "2026-07-28T05:52:04.762Z",
-    "updatedAt": "2026-07-28T05:52:04.762Z"
-  },
-  {
-    "id": "5ddf1a158dc0da08",
-    "title": "The Athletic узнал о вызове Инфантино в конгресс из-за связей с Трампом",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/6/00/347851762429006.jpeg",
-    "teaser": "The Athletic узнал о вызове Инфантино в конгресс из-за связей с Трампом",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a6797679a7947c93e51f0f9",
-    "publishedAt": "2026-07-27T18:58:39.000Z",
-    "createdAt": "2026-07-28T05:52:05.784Z",
-    "updatedAt": "2026-07-28T05:52:05.784Z"
-  },
-  {
-    "id": "f860e2a00752e77f",
-    "title": "Мальдини покинул сборную Италии после отказа от Пирло из-за России",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/8/03/347851747358038.jpeg",
-    "teaser": "Мальдини покинул сборную Италии после отказа от Пирло из-за России",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a6797d09a79477088b2b25d",
-    "publishedAt": "2026-07-27T18:09:23.000Z",
-    "createdAt": "2026-07-28T05:52:06.855Z",
-    "updatedAt": "2026-07-28T05:52:06.855Z"
-  },
-  {
-    "id": "fdcad74f0933914b",
-    "title": "В Англии нашли способ бороться с «тактическими тайм-аутами» в футболе",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/8/87/347851734753878.jpeg",
-    "teaser": "В Англии нашли способ бороться с «тактическими тайм-аутами» в футболе",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a678e4e9a7947aff857226b",
-    "publishedAt": "2026-07-27T17:52:20.000Z",
-    "createdAt": "2026-07-28T05:52:07.882Z",
-    "updatedAt": "2026-07-28T05:52:07.882Z"
-  },
-  {
-    "id": "5bf711a0cab79073",
-    "title": "Кадыров обвинил UFC в «выдавливании» перспективных спортсменов",
-    "sport": "Единоборства",
-    "category": "Единоборства",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/3/87/347851699529873.jpeg",
-    "teaser": "Кадыров обвинил UFC в «выдавливании» перспективных спортсменов",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a6784c19a7947dc607355f5",
-    "publishedAt": "2026-07-27T17:00:15.000Z",
-    "createdAt": "2026-07-28T05:52:08.789Z",
-    "updatedAt": "2026-07-28T05:52:08.789Z"
-  },
-  {
-    "id": "f2a327ada28e3204",
-    "title": "Гол экс-футболиста «Ростова» вошел в тройку лучших на ЧМ-2026",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/7/39/347851635542397.jpeg",
-    "teaser": "Гол экс-футболиста «Ростова» вошел в тройку лучших на ЧМ-2026",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a676bef9a79475b6ee2f8e5",
-    "publishedAt": "2026-07-27T15:08:06.000Z",
-    "createdAt": "2026-07-28T05:52:09.807Z",
-    "updatedAt": "2026-07-28T05:52:09.807Z"
+    "createdAt": "2026-07-28T08:43:07.324Z",
+    "updatedAt": "2026-07-28T08:43:07.324Z"
   },
   {
     "id": "11a81f5772b68d30",
@@ -122,8 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a647a1a9a794750afb6b850",
     "publishedAt": "2026-07-25T09:40:54.000Z",
-    "createdAt": "2026-07-28T05:52:02.726Z",
-    "updatedAt": "2026-07-28T05:52:02.726Z"
+    "createdAt": "2026-07-28T08:43:08.355Z",
+    "updatedAt": "2026-07-28T08:43:08.355Z"
   },
   {
     "id": "1dfb4b3ec02741ab",
@@ -136,7 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a632c5a9a79479f79e8407f",
     "publishedAt": "2026-07-25T06:01:45.000Z",
-    "createdAt": "2026-07-28T05:52:03.751Z",
-    "updatedAt": "2026-07-28T05:52:03.751Z"
+    "createdAt": "2026-07-28T08:43:09.417Z",
+    "updatedAt": "2026-07-28T08:43:09.417Z"
   }
 ]
