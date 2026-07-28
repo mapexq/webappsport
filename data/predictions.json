@@ -1,86 +1,6 @@
 [
   {
-    "id": 1785237747934,
-    "eventName": "Кальяри — Модена",
-    "discipline": "Футбол",
-    "tournament": "Чемпионат",
-    "expert": {
-      "name": "Сергей Никитаев",
-      "avatar": "https://static-uploads.prod.bookmaker-ratings.ru/2021/12/ekbok-2.png?width=60",
-      "status": "expert",
-      "winRate": 73
-    },
-    "prediction": "Тотал (2) Б",
-    "odds": 1.43,
-    "comment": "Думаю ,что в товарищеском матче будет открытый футбол и мы увидим много мячей",
-    "source": "Sports Analytics Pro"
-  },
-  {
-    "id": 1785237747936,
-    "eventName": "Кальяри — Модена",
-    "discipline": "Футбол",
-    "tournament": "Чемпионат",
-    "expert": {
-      "name": "Дмитрий Петраченко",
-      "avatar": "https://static-uploads.prod.bookmaker-ratings.ru/2022/07/image-1.png?width=60",
-      "status": "expert",
-      "winRate": 74
-    },
-    "prediction": "Индивидуальный тотал 1 Больше (1.5)",
-    "odds": 1.97,
-    "comment": "Кальяри всегда играл очень хорошо на домашней арене и даже в этом товарищеском противостоянии должна забивать не менее 2 раз.",
-    "source": "Sports Analytics Pro"
-  },
-  {
-    "id": 1785237747937,
-    "eventName": "Нефтчи Фергана — Навбахор",
-    "discipline": "Футбол",
-    "tournament": "Чемпионат",
-    "expert": {
-      "name": "Дмитрий Карп",
-      "avatar": "https://bookmaker-ratings.ru/static/images/badges/is-kapper.svg?v=30092024",
-      "status": "expert",
-      "winRate": 72
-    },
-    "prediction": "Победа 2",
-    "odds": 4.1,
-    "comment": "Навбахор сейчас в форме думаю должны забрать матч на легке",
-    "source": "Sports Analytics Pro"
-  },
-  {
-    "id": 1785237747938,
-    "eventName": "DROTS — Орел",
-    "discipline": "Футбол",
-    "tournament": "Чемпионат",
-    "expert": {
-      "name": "Юрий Исаев",
-      "avatar": "https://static-uploads.prod.bookmaker-ratings.ru/2026/07/Bezy-myanny-6j-rb-webp-6a61302e6faa8-6a61302e77623.webp?width=60",
-      "status": "expert",
-      "winRate": 81
-    },
-    "prediction": "Победа 1",
-    "odds": 1.29,
-    "comment": "Футболисты 2DROTS не раз доказывали что они являются профессионалами своего дела",
-    "source": "Sports Analytics Pro"
-  },
-  {
-    "id": 1785237747939,
-    "eventName": "DROTS — Орел",
-    "discipline": "Футбол",
-    "tournament": "Чемпионат",
-    "expert": {
-      "name": "Сергей Никитаев",
-      "avatar": "https://static-uploads.prod.bookmaker-ratings.ru/2021/12/ekbok-2.png?width=60",
-      "status": "expert",
-      "winRate": 73
-    },
-    "prediction": "Победа 1",
-    "odds": 1.29,
-    "comment": "Медийная команда и по составу и по факту сильнее будет она и пройдет дальше",
-    "source": "Sports Analytics Pro"
-  },
-  {
-    "id": 1785237747940,
+    "id": 1785248486025,
     "eventName": "Матч",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -96,7 +16,7 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1785237747941,
+    "id": 1785248486027,
     "eventName": "Динамо Загреб — Тун",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -112,7 +32,7 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1785237747942,
+    "id": 1785248486028,
     "eventName": "Астон Вилла — Реал Сосьедад",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -128,23 +48,23 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1785237747943,
-    "eventName": "Матч",
+    "id": 1785248486029,
+    "eventName": "Шемрок Роверс — Арарат-Армения",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
     "expert": {
-      "name": "Сабах Баку",
-      "avatar": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=100&h=100&fit=crop",
+      "name": "Шемрок Роверс",
+      "avatar": "https://bookmaker-ratings.ru/static/images/badges/is-kapper.svg?v=30092024",
       "status": "expert",
-      "winRate": 71
+      "winRate": 73
     },
-    "prediction": "Обе забьют (Да)",
-    "odds": 1.66,
-    "comment": "Комментарий к прогнозу",
+    "prediction": "Тотал (2.5) Б",
+    "odds": 1.7,
+    "comment": "В матче будет забито 3-4 мяча. Возможна победа одной из команд с преимуществом в один мяч.",
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1785237747944,
+    "id": 1785248486030,
     "eventName": "Матч",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -157,6 +77,38 @@
     "prediction": "Тотал (2.5) Б",
     "odds": 1.74,
     "comment": "Комментарий к прогнозу",
+    "source": "Sports Analytics Pro"
+  },
+  {
+    "id": 1785248486031,
+    "eventName": "Матч",
+    "discipline": "Футбол",
+    "tournament": "Чемпионат",
+    "expert": {
+      "name": "Шемрок Роверс",
+      "avatar": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=100&h=100&fit=crop",
+      "status": "expert",
+      "winRate": 73
+    },
+    "prediction": "Тотал (2.5) Б",
+    "odds": 1.7,
+    "comment": "Комментарий к прогнозу",
+    "source": "Sports Analytics Pro"
+  },
+  {
+    "id": 1785248486032,
+    "eventName": "Динамо Загреб — Тун",
+    "discipline": "Футбол",
+    "tournament": "Чемпионат",
+    "expert": {
+      "name": "Антон Сафронов",
+      "avatar": "https://bookmaker-ratings.ru/static/images/badges/is-kapper.svg?v=30092024",
+      "status": "expert",
+      "winRate": 86
+    },
+    "prediction": "Победа 1",
+    "odds": 1.27,
+    "comment": "Даже на выезде Динамо играло лучше и наиграли на xG 1.27\nЧто будет дома? Думаю Динамо победит в 1 и более мяча,так как они опытнее в Лиге Чемпионов и у них отличная статистика в домашних матчах.\nОтлично смотрится ставка в фору -1.5 за кэф 2.02",
     "source": "Sports Analytics Pro"
   }
 ]
