@@ -1,5 +1,61 @@
 [
   {
+    "id": "d527987aa786b3d8",
+    "title": "Нойер не исключил завершение карьеры в конце следующего сезона",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/3/65/347852675822653.jpeg",
+    "teaser": "Нойер не исключил завершение карьеры в конце следующего сезона",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a69015d9a79474de9f336a2",
+    "publishedAt": "2026-07-28T20:12:04.000Z",
+    "createdAt": "2026-07-28T20:19:02.568Z",
+    "updatedAt": "2026-07-28T20:19:02.568Z"
+  },
+  {
+    "id": "26af51eee69c3af1",
+    "title": "Клуб 2DROTS вышел во второй раунд «Пути регионов» Кубка России",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/8/18/347852652849188.jpeg",
+    "teaser": "Клуб 2DROTS вышел во второй раунд «Пути регионов» Кубка России",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a68f6c39a79470fdf6e93d2",
+    "publishedAt": "2026-07-28T19:12:56.000Z",
+    "createdAt": "2026-07-28T20:19:03.835Z",
+    "updatedAt": "2026-07-28T20:19:03.835Z"
+  },
+  {
+    "id": "b4e0e49078f279b8",
+    "title": "Зампред ОКР приступил к работе в исполкоме European Gymnastics",
+    "sport": "Другое",
+    "category": "Другие",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/4/76/347852638026764.jpeg",
+    "teaser": "Зампред ОКР приступил к работе в исполкоме European Gymnastics",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a68f6879a7947b6f3a10f5c",
+    "publishedAt": "2026-07-28T18:44:58.000Z",
+    "createdAt": "2026-07-28T20:19:05.952Z",
+    "updatedAt": "2026-07-28T20:19:05.952Z"
+  },
+  {
+    "id": "21e6bbe3af537e44",
+    "title": "Третья ракетка России проиграла 16-летней соотечественнице в Мемфисе",
+    "sport": "Теннис",
+    "category": "Теннис",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/0/28/347852617051280.jpeg",
+    "teaser": "Третья ракетка России проиграла 16-летней соотечественнице в Мемфисе",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a68f13d9a7947ea8a7277fd",
+    "publishedAt": "2026-07-28T18:40:18.000Z",
+    "createdAt": "2026-07-28T20:19:04.935Z",
+    "updatedAt": "2026-07-28T20:19:04.935Z"
+  },
+  {
     "id": "b6f762611b8b39b0",
     "title": "Дегтярев назвал важным сигналом решение European Gymnastics по россиянам",
     "sport": "Другое",
@@ -10,8 +66,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a68e8a69a794738d1148342",
     "publishedAt": "2026-07-28T17:50:22.000Z",
-    "createdAt": "2026-07-28T18:18:29.705Z",
-    "updatedAt": "2026-07-28T18:18:29.705Z"
+    "createdAt": "2026-07-28T20:19:06.961Z",
+    "updatedAt": "2026-07-28T20:19:06.961Z"
   },
   {
     "id": "624acf0067f6f8f7",
@@ -24,8 +80,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a68df879a79470e6872c365",
     "publishedAt": "2026-07-28T17:08:20.000Z",
-    "createdAt": "2026-07-28T18:18:30.790Z",
-    "updatedAt": "2026-07-28T18:18:30.790Z"
+    "createdAt": "2026-07-28T20:19:08.044Z",
+    "updatedAt": "2026-07-28T20:19:08.044Z"
   },
   {
     "id": "5a9ad1892705af0c",
@@ -38,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a68d4879a794771b11d44f9",
     "publishedAt": "2026-07-28T16:33:32.000Z",
-    "createdAt": "2026-07-28T18:18:32.716Z",
-    "updatedAt": "2026-07-28T18:18:32.716Z"
+    "createdAt": "2026-07-28T20:19:10.116Z",
+    "updatedAt": "2026-07-28T20:19:10.116Z"
   },
   {
     "id": "52de3c6cdade7fec",
@@ -52,8 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a68c6259a79472f45f9201e",
     "publishedAt": "2026-07-28T16:21:17.000Z",
-    "createdAt": "2026-07-28T18:18:33.677Z",
-    "updatedAt": "2026-07-28T18:18:33.677Z"
+    "createdAt": "2026-07-28T20:19:11.170Z",
+    "updatedAt": "2026-07-28T20:19:11.170Z"
   },
   {
     "id": "8a9feba9c33db8c4",
@@ -66,8 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a68cfaa9a7947ea8a727790",
     "publishedAt": "2026-07-28T16:16:40.000Z",
-    "createdAt": "2026-07-28T18:18:31.747Z",
-    "updatedAt": "2026-07-28T18:18:31.747Z"
+    "createdAt": "2026-07-28T20:19:09.073Z",
+    "updatedAt": "2026-07-28T20:19:09.073Z"
   },
   {
     "id": "920838860d6831ab",
@@ -80,63 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a68ca009a794785e05e860b",
     "publishedAt": "2026-07-28T16:14:40.000Z",
-    "createdAt": "2026-07-28T18:18:34.636Z",
-    "updatedAt": "2026-07-28T18:18:34.636Z"
-  },
-  {
-    "id": "197a11f77460066f",
-    "title": "Более 10 человек пытались поймать выбежавшую на поле белку в матче MLB",
-    "sport": "Другое",
-    "category": "Другие",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/8/08/347852507120088.jpeg",
-    "teaser": "Более 10 человек пытались поймать выбежавшую на поле белку в матче MLB",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a68bd169a79472f9b5de009",
-    "publishedAt": "2026-07-28T15:15:10.000Z",
-    "createdAt": "2026-07-28T18:18:36.547Z",
-    "updatedAt": "2026-07-28T18:18:36.547Z"
-  },
-  {
-    "id": "52233bfc564313f2",
-    "title": "FT узнала о планах Инфантино продать доли в ЧМ инвесторам за $20 млрд",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/9/65/347852491816659.jpeg",
-    "teaser": "FT узнала о планах Инфантино продать доли в ЧМ инвесторам за $20 млрд",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a68bd5d9a7947fa2b211031",
-    "publishedAt": "2026-07-28T15:11:16.000Z",
-    "createdAt": "2026-07-28T18:18:35.590Z",
-    "updatedAt": "2026-07-28T18:18:35.590Z"
-  },
-  {
-    "id": "2267c90d2dd86079",
-    "title": "Любительский клуб со Смоловым вышел во второй раунд Кубка России",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/9/88/347852452311889.jpeg",
-    "teaser": "Любительский клуб со Смоловым вышел во второй раунд Кубка России",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a68ade39a794785ce32341d",
-    "publishedAt": "2026-07-28T14:03:52.000Z",
-    "createdAt": "2026-07-28T18:18:37.519Z",
-    "updatedAt": "2026-07-28T18:18:37.519Z"
-  },
-  {
-    "id": "dbd2e1c032635032",
-    "title": "Вернулся в футбол. Как развивалась тренерская карьера Зидана",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/8/08/347852305919088.jpeg",
-    "teaser": "Вернулся в футбол. Как развивалась тренерская карьера Зидана",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a6872829a7947d82ec83953",
-    "publishedAt": "2026-07-28T09:43:31.000Z",
-    "createdAt": "2026-07-28T18:18:38.549Z",
-    "updatedAt": "2026-07-28T18:18:38.549Z"
+    "createdAt": "2026-07-28T20:19:12.273Z",
+    "updatedAt": "2026-07-28T20:19:12.273Z"
   }
 ]
