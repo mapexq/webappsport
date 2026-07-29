@@ -1,17 +1,59 @@
 [
   {
-    "id": "f6fbb9becbc39dd9",
-    "title": "В НХЛ появился новый самый высокооплачиваемый хоккеист",
+    "id": "4ed3f24c1166a35c",
+    "title": "Один из самых надежных вратарей РПЛ предпочел ЦСКА французскому клубу",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/3/85/347853423787853.jpeg",
+    "teaser": "Один из самых надежных вратарей РПЛ предпочел ЦСКА французскому клубу",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a6a26489a7947211a055e83",
+    "publishedAt": "2026-07-29T16:37:23.000Z",
+    "createdAt": "2026-07-29T17:19:36.289Z",
+    "updatedAt": "2026-07-29T17:19:36.289Z"
+  },
+  {
+    "id": "51480dbc05fe705d",
+    "title": "Пятая ракетка России впервые с февраля вышла в четвертьфинал турнира WTA",
+    "sport": "Теннис",
+    "category": "Теннис",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/3/50/347853422958503.jpeg",
+    "teaser": "Пятая ракетка России впервые с февраля вышла в четвертьфинал турнира WTA",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a6a293f9a7947437750c66f",
+    "publishedAt": "2026-07-29T16:30:41.000Z",
+    "createdAt": "2026-07-29T17:19:38.498Z",
+    "updatedAt": "2026-07-29T17:19:38.498Z"
+  },
+  {
+    "id": "48618d1ce944685c",
+    "title": "УЕФА обвинил ФИФА в «обогащении себя и своих друзей»",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/5/72/347853378826725.jpeg",
+    "teaser": "УЕФА обвинил ФИФА в «обогащении себя и своих друзей»",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a6a17b09a794753dad0eb8c",
+    "publishedAt": "2026-07-29T16:02:00.000Z",
+    "createdAt": "2026-07-29T17:19:37.371Z",
+    "updatedAt": "2026-07-29T17:19:37.371Z"
+  },
+  {
+    "id": "ddadec14f8d9ac6c",
+    "title": "Хоккеист в 20 лет стал самым высокооплачиваемым игроком НХЛ",
     "sport": "Хоккей",
     "category": "Хоккей",
     "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/1/46/347853366744461.jpeg",
-    "teaser": "В НХЛ появился новый самый высокооплачиваемый хоккеист",
+    "teaser": "Хоккеист в 20 лет стал самым высокооплачиваемым игроком НХЛ",
     "fullContent": "",
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a6a133c9a7947dbb1d22120",
     "publishedAt": "2026-07-29T15:36:04.000Z",
-    "createdAt": "2026-07-29T15:51:33.412Z",
-    "updatedAt": "2026-07-29T15:51:33.412Z"
+    "createdAt": "2026-07-29T17:19:39.565Z",
+    "updatedAt": "2026-07-29T17:19:39.565Z"
   },
   {
     "id": "0c56d5ada7151c71",
@@ -24,8 +66,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a6a0c399a7947b6e5fdb47c",
     "publishedAt": "2026-07-29T15:05:15.000Z",
-    "createdAt": "2026-07-29T15:51:34.487Z",
-    "updatedAt": "2026-07-29T15:51:34.487Z"
+    "createdAt": "2026-07-29T17:19:40.637Z",
+    "updatedAt": "2026-07-29T17:19:40.637Z"
   },
   {
     "id": "614c85f89d25d34c",
@@ -38,8 +80,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a6a0c6d9a7947065a9aa26c",
     "publishedAt": "2026-07-29T15:00:45.000Z",
-    "createdAt": "2026-07-29T15:51:35.433Z",
-    "updatedAt": "2026-07-29T15:51:35.433Z"
+    "createdAt": "2026-07-29T17:19:41.654Z",
+    "updatedAt": "2026-07-29T17:19:41.654Z"
   },
   {
     "id": "d0c3e117e9596eb1",
@@ -52,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a6a0bbb9a7947150a1f33ee",
     "publishedAt": "2026-07-29T14:56:58.000Z",
-    "createdAt": "2026-07-29T15:51:36.576Z",
-    "updatedAt": "2026-07-29T15:51:36.576Z"
+    "createdAt": "2026-07-29T17:19:42.796Z",
+    "updatedAt": "2026-07-29T17:19:42.796Z"
   },
   {
     "id": "bf9b4546149f6fc2",
@@ -66,8 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a6a02bc9a794796daa64bc1",
     "publishedAt": "2026-07-29T14:33:04.000Z",
-    "createdAt": "2026-07-29T15:51:37.590Z",
-    "updatedAt": "2026-07-29T15:51:37.590Z"
+    "createdAt": "2026-07-29T17:19:44.030Z",
+    "updatedAt": "2026-07-29T17:19:44.030Z"
   },
   {
     "id": "8d13721e23fcf702",
@@ -80,8 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a6a047e9a79475986fc2a43",
     "publishedAt": "2026-07-29T14:27:42.000Z",
-    "createdAt": "2026-07-29T15:51:38.635Z",
-    "updatedAt": "2026-07-29T15:51:38.635Z"
+    "createdAt": "2026-07-29T17:19:45.221Z",
+    "updatedAt": "2026-07-29T17:19:45.221Z"
   },
   {
     "id": "a6f6116b2a0547dc",
@@ -94,49 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a69fa6d9a7947fb57ed7fa1",
     "publishedAt": "2026-07-29T14:03:32.000Z",
-    "createdAt": "2026-07-29T15:51:39.556Z",
-    "updatedAt": "2026-07-29T15:51:39.556Z"
-  },
-  {
-    "id": "5617bf3396f38a0d",
-    "title": "Путин назвал Россию одной из ведущих спортивных держав планеты",
-    "sport": "Другое",
-    "category": "Другие",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/3/74/347853323169743.jpeg",
-    "teaser": "Путин назвал Россию одной из ведущих спортивных держав планеты",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a69fe619a7947823782bf0c",
-    "publishedAt": "2026-07-29T13:59:48.000Z",
-    "createdAt": "2026-07-29T15:51:41.654Z",
-    "updatedAt": "2026-07-29T15:51:41.654Z"
-  },
-  {
-    "id": "d3b7b237a1814031",
-    "title": "20 эфиопских футболистов-юниоров не вернулись домой с турнира в Швеции",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/1/63/347853289763631.jpeg",
-    "teaser": "20 эфиопских футболистов-юниоров не вернулись домой с турнира в Швеции",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a69eebb9a7947ac73aabd9c",
-    "publishedAt": "2026-07-29T13:42:54.000Z",
-    "createdAt": "2026-07-29T15:51:40.609Z",
-    "updatedAt": "2026-07-29T15:51:40.609Z"
-  },
-  {
-    "id": "fbcd82bbc496f3b7",
-    "title": "Боец ММА Владимир Минеев стал генсеком Федерации кикбоксинга России",
-    "sport": "Единоборства",
-    "category": "Единоборства",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/7/67/347853282005677.jpeg",
-    "teaser": "Боец ММА Владимир Минеев стал генсеком Федерации кикбоксинга России",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a69f22c9a7947ac0e1623df",
-    "publishedAt": "2026-07-29T12:40:48.000Z",
-    "createdAt": "2026-07-29T15:51:42.721Z",
-    "updatedAt": "2026-07-29T15:51:42.721Z"
+    "createdAt": "2026-07-29T17:19:46.368Z",
+    "updatedAt": "2026-07-29T17:19:46.368Z"
   }
 ]
