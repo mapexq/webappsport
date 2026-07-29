@@ -1,5 +1,89 @@
 [
   {
+    "id": "fbcd82bbc496f3b7",
+    "title": "Боец ММА Владимир Минеев стал генсеком Федерации кикбоксинга России",
+    "sport": "Единоборства",
+    "category": "Единоборства",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/7/67/347853282005677.jpeg",
+    "teaser": "Боец ММА Владимир Минеев стал генсеком Федерации кикбоксинга России",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a69f22c9a7947ac0e1623df",
+    "publishedAt": "2026-07-29T12:40:48.000Z",
+    "createdAt": "2026-07-29T13:03:47.725Z",
+    "updatedAt": "2026-07-29T13:03:47.725Z"
+  },
+  {
+    "id": "7ab71cf55fc1afa3",
+    "title": "Украина обжаловала в CAS решение МОК восстановить ОКР в правах",
+    "sport": "Другое",
+    "category": "Другие",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/7/53/347853255555537.jpeg",
+    "teaser": "Украина обжаловала в CAS решение МОК восстановить ОКР в правах",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a69e42b9a79479f5bea570b",
+    "publishedAt": "2026-07-29T11:59:17.000Z",
+    "createdAt": "2026-07-29T13:03:48.832Z",
+    "updatedAt": "2026-07-29T13:03:48.832Z"
+  },
+  {
+    "id": "09e6bd9dcc66b526",
+    "title": "В Бразилии отстранили травмировавшего соперника игрока до его возвращения",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/6/28/347853204030286.jpeg",
+    "teaser": "В Бразилии отстранили травмировавшего соперника игрока до его возвращения",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a69cd179a79476ddef44e39",
+    "publishedAt": "2026-07-29T11:44:24.000Z",
+    "createdAt": "2026-07-29T13:03:53.334Z",
+    "updatedAt": "2026-07-29T13:03:53.334Z"
+  },
+  {
+    "id": "08e65f1922d5aa02",
+    "title": "Инфантино предложил членам ФИФА $40 млн за поддержку продажи прав на ЧМ",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/5/29/347853210727295.jpeg",
+    "teaser": "Инфантино предложил членам ФИФА $40 млн за поддержку продажи прав на ЧМ",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a69d62a9a7947b0335ed128",
+    "publishedAt": "2026-07-29T11:39:29.000Z",
+    "createdAt": "2026-07-29T13:03:49.933Z",
+    "updatedAt": "2026-07-29T13:03:49.933Z"
+  },
+  {
+    "id": "2624ce76ae39285a",
+    "title": "Российский гроссмейстер Гребнев стал чемпионом Азии по рапиду",
+    "sport": "Другое",
+    "category": "Другие",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/6/27/347853239700276.jpeg",
+    "teaser": "Российский гроссмейстер Гребнев стал чемпионом Азии по рапиду",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a69dec69a79476fafbeb142",
+    "publishedAt": "2026-07-29T11:31:55.000Z",
+    "createdAt": "2026-07-29T13:03:54.449Z",
+    "updatedAt": "2026-07-29T13:03:54.449Z"
+  },
+  {
+    "id": "f59373f322180f2b",
+    "title": "Еврокомиссар пригрозил ФИФА проверкой из-за планов по продаже прав на ЧМ",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/7/39/347853222262397.jpeg",
+    "teaser": "Еврокомиссар пригрозил ФИФА проверкой из-за планов по продаже прав на ЧМ",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a69d5c29a7947829852b005",
+    "publishedAt": "2026-07-29T10:58:57.000Z",
+    "createdAt": "2026-07-29T13:03:55.472Z",
+    "updatedAt": "2026-07-29T13:03:55.472Z"
+  },
+  {
     "id": "074e7c4eb1d3de8b",
     "title": "Умер бывший хоккеист «Автомобилиста» Олег Зайков",
     "sport": "Хоккей",
@@ -10,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a69ccdb9a794782305f078c",
     "publishedAt": "2026-07-29T10:14:51.000Z",
-    "createdAt": "2026-07-29T10:43:53.622Z",
-    "updatedAt": "2026-07-29T10:43:53.622Z"
+    "createdAt": "2026-07-29T13:03:58.600Z",
+    "updatedAt": "2026-07-29T13:03:58.600Z"
   },
   {
     "id": "55ce08e173a24d81",
@@ -24,92 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a69c9519a79470b68860394",
     "publishedAt": "2026-07-29T09:56:33.000Z",
-    "createdAt": "2026-07-29T10:43:51.642Z",
-    "updatedAt": "2026-07-29T10:43:51.642Z"
-  },
-  {
-    "id": "5cff32cd25bdd14d",
-    "title": "«Зенит» объявил об уходе вратаря Латышонка в Первую лигу",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/9/01/347853171046019.jpeg",
-    "teaser": "«Зенит» объявил об уходе вратаря Латышонка в Первую лигу",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a69c3399a794766fbee5f61",
-    "publishedAt": "2026-07-29T09:38:09.000Z",
-    "createdAt": "2026-07-29T10:43:54.784Z",
-    "updatedAt": "2026-07-29T10:43:54.784Z"
-  },
-  {
-    "id": "43ac4550e64d4a58",
-    "title": "Канадский хоккеист с российским паспортом перешел в «Авангард»",
-    "sport": "Хоккей",
-    "category": "Хоккей",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/9/34/347853161495349.jpeg",
-    "teaser": "Канадский хоккеист с российским паспортом перешел в «Авангард»",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a69c2ff9a7947869ecac50e",
-    "publishedAt": "2026-07-29T09:30:52.000Z",
-    "createdAt": "2026-07-29T10:43:55.935Z",
-    "updatedAt": "2026-07-29T10:43:55.935Z"
-  },
-  {
-    "id": "7467effbb3d710c5",
-    "title": "Владивостокское «Динамо» объявило дату и место прощания с Сандлером",
-    "sport": "Баскетбол",
-    "category": "Баскетбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/3/26/347853156348263.jpeg",
-    "teaser": "Владивостокское «Динамо» объявило дату и место прощания с Сандлером",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a69c1269a794727e4a32b76",
-    "publishedAt": "2026-07-29T09:13:05.000Z",
-    "createdAt": "2026-07-29T10:43:59.371Z",
-    "updatedAt": "2026-07-29T10:43:59.371Z"
-  },
-  {
-    "id": "9e50399cb9be39ef",
-    "title": "КОНКАКАФ вслед за УЕФА раскритиковала планы ФИФА о продаже доли прав",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/8/34/347853156517348.jpeg",
-    "teaser": "КОНКАКАФ вслед за УЕФА раскритиковала планы ФИФА о продаже доли прав",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a69be139a7947869ecac4d7",
-    "publishedAt": "2026-07-29T09:06:07.000Z",
-    "createdAt": "2026-07-29T10:44:00.544Z",
-    "updatedAt": "2026-07-29T10:44:00.544Z"
-  },
-  {
-    "id": "e98fb186fe94522a",
-    "title": "Агент фразой «мяч на стороне «Спартака» допустил возращение Дзюбы в клуб",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/9/52/347853113595529.jpeg",
-    "teaser": "Агент фразой «мяч на стороне «Спартака» допустил возращение Дзюбы в клуб",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a69b0519a794734d8814422",
-    "publishedAt": "2026-07-29T08:48:15.000Z",
-    "createdAt": "2026-07-29T10:44:01.705Z",
-    "updatedAt": "2026-07-29T10:44:01.705Z"
-  },
-  {
-    "id": "b11dc664cc6ab0aa",
-    "title": "Основная сборная России по маунтинбайку не выступит на ЧЕ в Швейцарии",
-    "sport": "Другое",
-    "category": "Другие",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/3/94/347853139531943.jpeg",
-    "teaser": "Основная сборная России по маунтинбайку не выступит на ЧЕ в Швейцарии",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a69b7069a7947c08ac0062c",
-    "publishedAt": "2026-07-29T08:35:51.000Z",
-    "createdAt": "2026-07-29T10:44:02.919Z",
-    "updatedAt": "2026-07-29T10:44:02.919Z"
+    "createdAt": "2026-07-29T13:03:56.603Z",
+    "updatedAt": "2026-07-29T13:03:56.603Z"
   },
   {
     "id": "8ad3c0c7e7fa134f",
@@ -122,8 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a68d27e9a79471b2210b809",
     "publishedAt": "2026-07-29T08:05:33.000Z",
-    "createdAt": "2026-07-29T10:43:58.218Z",
-    "updatedAt": "2026-07-29T10:43:58.218Z"
+    "createdAt": "2026-07-29T13:03:52.185Z",
+    "updatedAt": "2026-07-29T13:03:52.185Z"
   },
   {
     "id": "75af8f5c0f1310ca",
@@ -136,7 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a6725b19a79478a68d24a2e",
     "publishedAt": "2026-07-29T07:50:18.000Z",
-    "createdAt": "2026-07-29T10:43:57.095Z",
-    "updatedAt": "2026-07-29T10:43:57.095Z"
+    "createdAt": "2026-07-29T13:03:51.076Z",
+    "updatedAt": "2026-07-29T13:03:51.076Z"
   }
 ]
