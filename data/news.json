@@ -1,5 +1,47 @@
 [
   {
+    "id": "332ebf912dab8a7f",
+    "title": "Российская теннисистка вышла в четвертьфинал турнира в Мемфисе",
+    "sport": "Теннис",
+    "category": "Теннис",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/1/17/347853545727171.jpeg",
+    "teaser": "Российская теннисистка вышла в четвертьфинал турнира в Мемфисе",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a6a57069a794771038c89ea",
+    "publishedAt": "2026-07-29T19:59:59.000Z",
+    "createdAt": "2026-07-29T21:01:43.407Z",
+    "updatedAt": "2026-07-29T21:01:43.407Z"
+  },
+  {
+    "id": "702407397334ba10",
+    "title": "Легенда тенниса «разрушил цели» Мирры Андреевой",
+    "sport": "Теннис",
+    "category": "Теннис",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/4/52/347853521711524.jpeg",
+    "teaser": "Легенда тенниса «разрушил цели» Мирры Андреевой",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a6a49fe9a79477aeeca64e8",
+    "publishedAt": "2026-07-29T19:47:12.000Z",
+    "createdAt": "2026-07-29T21:01:42.517Z",
+    "updatedAt": "2026-07-29T21:01:42.517Z"
+  },
+  {
+    "id": "d51e2ff839bd4e64",
+    "title": "Клуб Басты вышел во второй раунд Кубка России по футболу",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/0/79/347853496483790.jpeg",
+    "teaser": "Клуб Басты вышел во второй раунд Кубка России по футболу",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a6a46009a7947de244916eb",
+    "publishedAt": "2026-07-29T19:21:23.000Z",
+    "createdAt": "2026-07-29T21:01:44.442Z",
+    "updatedAt": "2026-07-29T21:01:44.442Z"
+  },
+  {
     "id": "bd40d974223dd343",
     "title": "Подписавший контракт с клубом Первой лиги Латышонок останется в РПЛ",
     "sport": "Футбол",
@@ -10,8 +52,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a6a44dc9a7947337ee6f232",
     "publishedAt": "2026-07-29T18:43:33.000Z",
-    "createdAt": "2026-07-29T19:24:18.126Z",
-    "updatedAt": "2026-07-29T19:24:18.126Z"
+    "createdAt": "2026-07-29T21:01:45.460Z",
+    "updatedAt": "2026-07-29T21:01:45.460Z"
   },
   {
     "id": "d8fa3cb1381d9b8b",
@@ -24,8 +66,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a6a3eb79a7947b40a2b4f39",
     "publishedAt": "2026-07-29T18:17:41.000Z",
-    "createdAt": "2026-07-29T19:24:19.349Z",
-    "updatedAt": "2026-07-29T19:24:19.349Z"
+    "createdAt": "2026-07-29T21:01:46.498Z",
+    "updatedAt": "2026-07-29T21:01:46.498Z"
   },
   {
     "id": "e86f21c70e38eb76",
@@ -38,8 +80,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a6a2d6e9a7947a8e9d6aa21",
     "publishedAt": "2026-07-29T17:19:48.000Z",
-    "createdAt": "2026-07-29T19:24:20.822Z",
-    "updatedAt": "2026-07-29T19:24:20.822Z"
+    "createdAt": "2026-07-29T21:01:47.513Z",
+    "updatedAt": "2026-07-29T21:01:47.514Z"
   },
   {
     "id": "4ed3f24c1166a35c",
@@ -52,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a6a26489a7947211a055e83",
     "publishedAt": "2026-07-29T16:37:23.000Z",
-    "createdAt": "2026-07-29T19:24:21.887Z",
-    "updatedAt": "2026-07-29T19:24:21.887Z"
+    "createdAt": "2026-07-29T21:01:48.512Z",
+    "updatedAt": "2026-07-29T21:01:48.512Z"
   },
   {
     "id": "51480dbc05fe705d",
@@ -66,8 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a6a293f9a7947437750c66f",
     "publishedAt": "2026-07-29T16:30:41.000Z",
-    "createdAt": "2026-07-29T19:24:24.031Z",
-    "updatedAt": "2026-07-29T19:24:24.031Z"
+    "createdAt": "2026-07-29T21:01:50.542Z",
+    "updatedAt": "2026-07-29T21:01:50.542Z"
   },
   {
     "id": "48618d1ce944685c",
@@ -80,8 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a6a17b09a794753dad0eb8c",
     "publishedAt": "2026-07-29T16:02:00.000Z",
-    "createdAt": "2026-07-29T19:24:22.959Z",
-    "updatedAt": "2026-07-29T19:24:22.959Z"
+    "createdAt": "2026-07-29T21:01:49.538Z",
+    "updatedAt": "2026-07-29T21:01:49.538Z"
   },
   {
     "id": "ddadec14f8d9ac6c",
@@ -94,49 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a6a133c9a7947dbb1d22120",
     "publishedAt": "2026-07-29T15:36:04.000Z",
-    "createdAt": "2026-07-29T19:24:25.215Z",
-    "updatedAt": "2026-07-29T19:24:25.215Z"
-  },
-  {
-    "id": "0c56d5ada7151c71",
-    "title": "F1 допустила отмену финальных гонок из-за конфликта на Ближнем Востоке",
-    "sport": "Другое",
-    "category": "Формула-1",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/1/40/347853371356401.jpeg",
-    "teaser": "F1 допустила отмену финальных гонок из-за конфликта на Ближнем Востоке",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a6a0c399a7947b6e5fdb47c",
-    "publishedAt": "2026-07-29T15:05:15.000Z",
-    "createdAt": "2026-07-29T19:24:26.392Z",
-    "updatedAt": "2026-07-29T19:24:26.392Z"
-  },
-  {
-    "id": "614c85f89d25d34c",
-    "title": "Российскую теннисистку наказали за нарушение антикоррупционных правил",
-    "sport": "Теннис",
-    "category": "Теннис",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/9/00/347853349128009.jpeg",
-    "teaser": "Российскую теннисистку наказали за нарушение антикоррупционных правил",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a6a0c6d9a7947065a9aa26c",
-    "publishedAt": "2026-07-29T15:00:45.000Z",
-    "createdAt": "2026-07-29T19:24:27.485Z",
-    "updatedAt": "2026-07-29T19:24:27.485Z"
-  },
-  {
-    "id": "d0c3e117e9596eb1",
-    "title": "Клуб Ла Лиги лишился стадиона из-за риска вспышки болезни легионеров",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/0/83/347853364422830.jpeg",
-    "teaser": "Клуб Ла Лиги лишился стадиона из-за риска вспышки болезни легионеров",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a6a0bbb9a7947150a1f33ee",
-    "publishedAt": "2026-07-29T14:56:58.000Z",
-    "createdAt": "2026-07-29T19:24:28.792Z",
-    "updatedAt": "2026-07-29T19:24:28.792Z"
+    "createdAt": "2026-07-29T21:01:51.603Z",
+    "updatedAt": "2026-07-29T21:01:51.603Z"
   }
 ]
