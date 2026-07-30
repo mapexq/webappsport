@@ -1,5 +1,89 @@
 [
   {
+    "id": "163f35dba1bbda6a",
+    "title": "ДоброFON поддержал фонд «Будущее есть» по итогам гала-матча Киселевича",
+    "sport": "Хоккей",
+    "category": "Хоккей",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/2/54/347854150662542.jpeg",
+    "teaser": "ДоброFON поддержал фонд «Будущее есть» по итогам гала-матча Киселевича",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a6b45549a7947f4240da15a",
+    "publishedAt": "2026-07-30T13:18:05.000Z",
+    "createdAt": "2026-07-30T14:14:32.025Z",
+    "updatedAt": "2026-07-30T14:14:32.025Z"
+  },
+  {
+    "id": "f8fe9a213ef8a9ca",
+    "title": "Чимаев проведет бой против экс-чемпиона UFC на турнире в Москве",
+    "sport": "Единоборства",
+    "category": "Единоборства",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/5/33/347854166839335.jpeg",
+    "teaser": "Чимаев проведет бой против экс-чемпиона UFC на турнире в Москве",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a6b49279a7947bb2b83eaa3",
+    "publishedAt": "2026-07-30T13:12:41.000Z",
+    "createdAt": "2026-07-30T14:14:29.736Z",
+    "updatedAt": "2026-07-30T14:14:29.736Z"
+  },
+  {
+    "id": "6b0a3880efc0a8bd",
+    "title": "Литовского пауэрлифтера пожизненно дисквалифицировали за расизм",
+    "sport": "Другое",
+    "category": "Другие",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/1/95/347854150392951.jpeg",
+    "teaser": "Литовского пауэрлифтера пожизненно дисквалифицировали за расизм",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a6b3ee99a79470f7612c902",
+    "publishedAt": "2026-07-30T12:48:11.000Z",
+    "createdAt": "2026-07-30T14:14:30.835Z",
+    "updatedAt": "2026-07-30T14:14:30.835Z"
+  },
+  {
+    "id": "dd55095c4817a178",
+    "title": "Бразильский футболист погиб при обрушении стены в Рио-де-Жанейро",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/8/70/347854125063708.jpeg",
+    "teaser": "Бразильский футболист погиб при обрушении стены в Рио-де-Жанейро",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a6b37739a794721269f033e",
+    "publishedAt": "2026-07-30T12:11:40.000Z",
+    "createdAt": "2026-07-30T14:14:34.289Z",
+    "updatedAt": "2026-07-30T14:14:34.289Z"
+  },
+  {
+    "id": "ce20061626d0f512",
+    "title": "РФС запустил собственную систему оценки качества футбольных мячей",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/4/98/347854107280984.jpeg",
+    "teaser": "РФС запустил собственную систему оценки качества футбольных мячей",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a6b31139a79472a680cc8ff",
+    "publishedAt": "2026-07-30T11:41:19.000Z",
+    "createdAt": "2026-07-30T14:14:33.142Z",
+    "updatedAt": "2026-07-30T14:14:33.142Z"
+  },
+  {
+    "id": "b32d4e2fd4876eac",
+    "title": "Анчелотти назвал перерыв на водопой причиной вылета Бразилии с ЧМ-2026",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/2/16/347854086175162.jpeg",
+    "teaser": "Анчелотти назвал перерыв на водопой причиной вылета Бразилии с ЧМ-2026",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a6b282e9a794724e88b75a6",
+    "publishedAt": "2026-07-30T11:14:57.000Z",
+    "createdAt": "2026-07-30T14:14:35.429Z",
+    "updatedAt": "2026-07-30T14:14:35.429Z"
+  },
+  {
     "id": "1e640ddc56a0f21e",
     "title": "Politico назвало возможного соперника Инфантино на выборах главы ФИФА",
     "sport": "Футбол",
@@ -10,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a6b1e4c9a7947b963f0e500",
     "publishedAt": "2026-07-30T10:24:17.000Z",
-    "createdAt": "2026-07-30T11:11:52.005Z",
-    "updatedAt": "2026-07-30T11:11:52.005Z"
+    "createdAt": "2026-07-30T14:14:36.595Z",
+    "updatedAt": "2026-07-30T14:14:36.595Z"
   },
   {
     "id": "059810516e0310a8",
@@ -24,8 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a6b179a9a7947969db5a258",
     "publishedAt": "2026-07-30T10:23:09.000Z",
-    "createdAt": "2026-07-30T11:11:53.188Z",
-    "updatedAt": "2026-07-30T11:11:53.188Z"
+    "createdAt": "2026-07-30T14:14:37.779Z",
+    "updatedAt": "2026-07-30T14:14:37.779Z"
   },
   {
     "id": "c30d0d788c7f99a4",
@@ -38,8 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a6b09589a79478cc458608d",
     "publishedAt": "2026-07-30T10:00:48.000Z",
-    "createdAt": "2026-07-30T11:11:55.671Z",
-    "updatedAt": "2026-07-30T11:11:55.671Z"
+    "createdAt": "2026-07-30T14:14:40.052Z",
+    "updatedAt": "2026-07-30T14:14:40.052Z"
   },
   {
     "id": "707571391d4860bd",
@@ -52,91 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a6b0f349a79473f474bbc59",
     "publishedAt": "2026-07-30T09:52:18.000Z",
-    "createdAt": "2026-07-30T11:11:54.517Z",
-    "updatedAt": "2026-07-30T11:11:54.517Z"
-  },
-  {
-    "id": "5beb29acb475c7d9",
-    "title": "В Африке готовы изучить раскритикованный Европой и Азией проект ФИФА",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/3/52/347853944861523.jpeg",
-    "teaser": "В Африке готовы изучить раскритикованный Европой и Азией проект ФИФА",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a6af0b69a7947d80df32c1f",
-    "publishedAt": "2026-07-30T09:33:30.000Z",
-    "createdAt": "2026-07-30T11:11:57.967Z",
-    "updatedAt": "2026-07-30T11:11:57.967Z"
-  },
-  {
-    "id": "8c48c44c68d28689",
-    "title": "Блаттер назвал план Инфантино по продаже прав на ЧМ «потерей души»",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/2/82/347854010234822.jpeg",
-    "teaser": "Блаттер назвал план Инфантино по продаже прав на ЧМ «потерей души»",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a6b09c09a79471400d487d5",
-    "publishedAt": "2026-07-30T08:55:26.000Z",
-    "createdAt": "2026-07-30T11:11:59.086Z",
-    "updatedAt": "2026-07-30T11:11:59.086Z"
-  },
-  {
-    "id": "cae375c8ed217981",
-    "title": "Чемпионат Южной Азии впервые может пройти без Непала из-за решения ФИФА",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/9/55/347853989418559.jpeg",
-    "teaser": "Чемпионат Южной Азии впервые может пройти без Непала из-за решения ФИФА",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a6b01309a79474a511515fd",
-    "publishedAt": "2026-07-30T08:12:26.000Z",
-    "createdAt": "2026-07-30T11:12:01.388Z",
-    "updatedAt": "2026-07-30T11:12:01.388Z"
-  },
-  {
-    "id": "ecf1c4857fdc0f1a",
-    "title": "Инфантино назвал коммерческий проект ФИФА «золотой возможностью»",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/1/73/347853929738731.jpeg",
-    "teaser": "Инфантино назвал коммерческий проект ФИФА «золотой возможностью»",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a6aeae99a79474a511515a3",
-    "publishedAt": "2026-07-30T08:10:45.000Z",
-    "createdAt": "2026-07-30T11:11:56.828Z",
-    "updatedAt": "2026-07-30T11:11:56.828Z"
-  },
-  {
-    "id": "be2d648abbe5d9fe",
-    "title": "Чемпион мира и призер Олимпиады Марков перенес операцию на позвоночнике",
-    "sport": "Хоккей",
-    "category": "Хоккей",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/1/60/347853968358601.jpeg",
-    "teaser": "Чемпион мира и призер Олимпиады Марков перенес операцию на позвоночнике",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a6afb239a7947a59612bb83",
-    "publishedAt": "2026-07-30T07:44:45.000Z",
-    "createdAt": "2026-07-30T11:12:00.239Z",
-    "updatedAt": "2026-07-30T11:12:00.239Z"
-  },
-  {
-    "id": "be37338610e6e43b",
-    "title": "Что известно о планах ФИФА продать права на ЧМ семье Трампа",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/7/07/347853322766077.jpeg",
-    "teaser": "Что известно о планах ФИФА продать права на ЧМ семье Трампа",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a69e2f59a794754bd2dbc1d",
-    "publishedAt": "2026-07-30T07:24:43.000Z",
-    "createdAt": "2026-07-30T11:12:02.527Z",
-    "updatedAt": "2026-07-30T11:12:02.527Z"
+    "createdAt": "2026-07-30T14:14:38.925Z",
+    "updatedAt": "2026-07-30T14:14:38.925Z"
   }
 ]
