@@ -1,5 +1,89 @@
 [
   {
+    "id": "60f2eae259d6c6c4",
+    "title": "World Boxing допустила россиян на турниры с флагом и гимном",
+    "sport": "Единоборства",
+    "category": "Единоборства",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/3/05/347854346163053.jpeg",
+    "teaser": "World Boxing допустила россиян на турниры с флагом и гимном",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a6b8c039a7947dcc096d7bf",
+    "publishedAt": "2026-07-30T17:41:33.000Z",
+    "createdAt": "2026-07-30T18:19:44.285Z",
+    "updatedAt": "2026-07-30T18:19:44.285Z"
+  },
+  {
+    "id": "82218a5179a9fc45",
+    "title": "Умер автор легендарного паса на Олимпиаде-1972 баскетболист Иван Едешко",
+    "sport": "Баскетбол",
+    "category": "Баскетбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/0/74/347854333052740.jpeg",
+    "teaser": "Умер автор легендарного паса на Олимпиаде-1972 баскетболист Иван Едешко",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a6b899b9a7947d16d8200f1",
+    "publishedAt": "2026-07-30T17:37:29.000Z",
+    "createdAt": "2026-07-30T18:19:43.133Z",
+    "updatedAt": "2026-07-30T18:19:43.133Z"
+  },
+  {
+    "id": "cdfc0142c64cdbe1",
+    "title": "Россия оспорит в CAS решение о продлении отстранения хоккеистов",
+    "sport": "Хоккей",
+    "category": "Хоккей",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/5/74/347854322107745.jpeg",
+    "teaser": "Россия оспорит в CAS решение о продлении отстранения хоккеистов",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a6b84a19a7947eb5d62622e",
+    "publishedAt": "2026-07-30T17:30:59.000Z",
+    "createdAt": "2026-07-30T18:19:45.424Z",
+    "updatedAt": "2026-07-30T18:19:45.424Z"
+  },
+  {
+    "id": "2440e350ed14494e",
+    "title": "РФС дисквалифицировал игрока «Рубина» за удар соперника",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/8/72/347854300946728.jpeg",
+    "teaser": "РФС дисквалифицировал игрока «Рубина» за удар соперника",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a6b698a9a794743d8852582",
+    "publishedAt": "2026-07-30T16:55:13.000Z",
+    "createdAt": "2026-07-30T18:19:48.694Z",
+    "updatedAt": "2026-07-30T18:19:48.694Z"
+  },
+  {
+    "id": "56f078b9c46ec521",
+    "title": "В каких видах спорта не сняли отстранения с россиян",
+    "sport": "Другое",
+    "category": "Другие",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/1/37/347851629929371.jpeg",
+    "teaser": "В каких видах спорта не сняли отстранения с россиян",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a6760c49a7947040ba65586",
+    "publishedAt": "2026-07-30T16:28:11.000Z",
+    "createdAt": "2026-07-30T18:19:46.506Z",
+    "updatedAt": "2026-07-30T18:19:46.506Z"
+  },
+  {
+    "id": "db0fc5de4e02cfd9",
+    "title": "Европа бойкотирует ФИФА. Что надо знать о продаже прав на ЧМ семье Трампа",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/7/07/347853322766077.jpeg",
+    "teaser": "Европа бойкотирует ФИФА. Что надо знать о продаже прав на ЧМ семье Трампа",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a69e2f59a794754bd2dbc1d",
+    "publishedAt": "2026-07-30T16:26:26.000Z",
+    "createdAt": "2026-07-30T18:19:47.549Z",
+    "updatedAt": "2026-07-30T18:19:47.549Z"
+  },
+  {
     "id": "98a8f95e7647727b",
     "title": "Фетисов отреагировал на недопуск сборной России по хоккею на ЧМ-2027",
     "sport": "Хоккей",
@@ -10,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a6b6f559a79479ece0fce81",
     "publishedAt": "2026-07-30T16:02:02.000Z",
-    "createdAt": "2026-07-30T16:38:57.861Z",
-    "updatedAt": "2026-07-30T16:38:57.861Z"
+    "createdAt": "2026-07-30T18:19:52.137Z",
+    "updatedAt": "2026-07-30T18:19:52.137Z"
   },
   {
     "id": "d94670115323ed91",
@@ -24,8 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a6b6d1d9a7947d092d4fa6a",
     "publishedAt": "2026-07-30T15:32:26.000Z",
-    "createdAt": "2026-07-30T16:38:55.999Z",
-    "updatedAt": "2026-07-30T16:38:55.999Z"
+    "createdAt": "2026-07-30T18:19:49.851Z",
+    "updatedAt": "2026-07-30T18:19:49.851Z"
   },
   {
     "id": "23cb50cc3a2e7f34",
@@ -38,22 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a6b69bf9a79476eebef9fac",
     "publishedAt": "2026-07-30T15:16:49.000Z",
-    "createdAt": "2026-07-30T16:38:56.814Z",
-    "updatedAt": "2026-07-30T16:38:56.814Z"
-  },
-  {
-    "id": "4db674557146c71e",
-    "title": "«Барселона» получила жалобу от «Атлетико» из-за переговоров с Альваресом",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/3/87/347854232341873.jpeg",
-    "teaser": "«Барселона» получила жалобу от «Атлетико» из-за переговоров с Альваресом",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a6b5e9d9a79476eebef9f83",
-    "publishedAt": "2026-07-30T15:03:08.000Z",
-    "createdAt": "2026-07-30T16:39:00.916Z",
-    "updatedAt": "2026-07-30T16:39:00.916Z"
+    "createdAt": "2026-07-30T18:19:50.943Z",
+    "updatedAt": "2026-07-30T18:19:50.943Z"
   },
   {
     "id": "66ae16b46f4de69d",
@@ -66,77 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a6b62979a7947bdaf960ed2",
     "publishedAt": "2026-07-30T14:57:40.000Z",
-    "createdAt": "2026-07-30T16:38:58.878Z",
-    "updatedAt": "2026-07-30T16:38:58.878Z"
-  },
-  {
-    "id": "9e2c1df28677d4b3",
-    "title": "Финал Гран-при стал дороже ЧЕ в обновленной системе очков ISU",
-    "sport": "Другое",
-    "category": "Фигурное катание",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/6/82/347854194935826.jpeg",
-    "teaser": "Финал Гран-при стал дороже ЧЕ в обновленной системе очков ISU",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a6b54a29a794735cad961b5",
-    "publishedAt": "2026-07-30T14:30:56.000Z",
-    "createdAt": "2026-07-30T16:39:02.892Z",
-    "updatedAt": "2026-07-30T16:39:02.892Z"
-  },
-  {
-    "id": "da632a39eb556bba",
-    "title": "PFL объявила о слиянии с промоутерской компанией блогера Джейка Пола",
-    "sport": "Единоборства",
-    "category": "Единоборства",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/2/36/347854213943362.jpeg",
-    "teaser": "PFL объявила о слиянии с промоутерской компанией блогера Джейка Пола",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a6b59439a7947752098a68b",
-    "publishedAt": "2026-07-30T14:25:53.000Z",
-    "createdAt": "2026-07-30T16:38:59.898Z",
-    "updatedAt": "2026-07-30T16:38:59.898Z"
-  },
-  {
-    "id": "2ade14613b22832e",
-    "title": "Глава нового клуба Возиньи попросил федерацию разрешить оставить прозвище",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/8/68/347854195206688.jpeg",
-    "teaser": "Глава нового клуба Возиньи попросил федерацию разрешить оставить прозвище",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a6b50c39a79476eebef9f4c",
-    "publishedAt": "2026-07-30T14:15:33.000Z",
-    "createdAt": "2026-07-30T16:39:01.903Z",
-    "updatedAt": "2026-07-30T16:39:01.903Z"
-  },
-  {
-    "id": "f8fe9a213ef8a9ca",
-    "title": "Чимаев проведет бой против экс-чемпиона UFC на турнире в Москве",
-    "sport": "Единоборства",
-    "category": "Единоборства",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/5/33/347854166839335.jpeg",
-    "teaser": "Чимаев проведет бой против экс-чемпиона UFC на турнире в Москве",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a6b49279a7947bb2b83eaa3",
-    "publishedAt": "2026-07-30T13:12:41.000Z",
-    "createdAt": "2026-07-30T16:39:03.868Z",
-    "updatedAt": "2026-07-30T16:39:03.868Z"
-  },
-  {
-    "id": "6b0a3880efc0a8bd",
-    "title": "Литовского пауэрлифтера пожизненно дисквалифицировали за расизм",
-    "sport": "Другое",
-    "category": "Другие",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/0/38/347854150569380.jpeg",
-    "teaser": "Литовского пауэрлифтера пожизненно дисквалифицировали за расизм",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a6b3ee99a79470f7612c902",
-    "publishedAt": "2026-07-30T12:48:11.000Z",
-    "createdAt": "2026-07-30T16:39:05.265Z",
-    "updatedAt": "2026-07-30T16:39:05.265Z"
+    "createdAt": "2026-07-30T18:19:53.292Z",
+    "updatedAt": "2026-07-30T18:19:53.292Z"
   }
 ]
