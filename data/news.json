@@ -1,5 +1,89 @@
 [
   {
+    "id": "1e640ddc56a0f21e",
+    "title": "Politico назвало возможного соперника Инфантино на выборах главы ФИФА",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/8/44/347854068846448.jpeg",
+    "teaser": "Politico назвало возможного соперника Инфантино на выборах главы ФИФА",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a6b1e4c9a7947b963f0e500",
+    "publishedAt": "2026-07-30T10:24:17.000Z",
+    "createdAt": "2026-07-30T11:11:52.005Z",
+    "updatedAt": "2026-07-30T11:11:52.005Z"
+  },
+  {
+    "id": "059810516e0310a8",
+    "title": "Российская шахматистка заняла второе место на чемпионате Азии по блицу",
+    "sport": "Другое",
+    "category": "Другие",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/1/29/347854038839291.jpeg",
+    "teaser": "Российская шахматистка заняла второе место на чемпионате Азии по блицу",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a6b179a9a7947969db5a258",
+    "publishedAt": "2026-07-30T10:23:09.000Z",
+    "createdAt": "2026-07-30T11:11:53.188Z",
+    "updatedAt": "2026-07-30T11:11:53.188Z"
+  },
+  {
+    "id": "c30d0d788c7f99a4",
+    "title": "Власти Канады отказали почти 21 тыс. болельщиков в визах на ЧМ-2026",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/2/36/347854072245362.jpeg",
+    "teaser": "Власти Канады отказали почти 21 тыс. болельщиков в визах на ЧМ-2026",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a6b09589a79478cc458608d",
+    "publishedAt": "2026-07-30T10:00:48.000Z",
+    "createdAt": "2026-07-30T11:11:55.671Z",
+    "updatedAt": "2026-07-30T11:11:55.671Z"
+  },
+  {
+    "id": "707571391d4860bd",
+    "title": "МВД сообщило о попытке футбольного судьи поменять показания с помощью ИИ",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/7/06/347854022630067.jpeg",
+    "teaser": "МВД сообщило о попытке футбольного судьи поменять показания с помощью ИИ",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a6b0f349a79473f474bbc59",
+    "publishedAt": "2026-07-30T09:52:18.000Z",
+    "createdAt": "2026-07-30T11:11:54.517Z",
+    "updatedAt": "2026-07-30T11:11:54.517Z"
+  },
+  {
+    "id": "5beb29acb475c7d9",
+    "title": "В Африке готовы изучить раскритикованный Европой и Азией проект ФИФА",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/3/52/347853944861523.jpeg",
+    "teaser": "В Африке готовы изучить раскритикованный Европой и Азией проект ФИФА",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a6af0b69a7947d80df32c1f",
+    "publishedAt": "2026-07-30T09:33:30.000Z",
+    "createdAt": "2026-07-30T11:11:57.967Z",
+    "updatedAt": "2026-07-30T11:11:57.967Z"
+  },
+  {
+    "id": "8c48c44c68d28689",
+    "title": "Блаттер назвал план Инфантино по продаже прав на ЧМ «потерей души»",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/2/82/347854010234822.jpeg",
+    "teaser": "Блаттер назвал план Инфантино по продаже прав на ЧМ «потерей души»",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a6b09c09a79471400d487d5",
+    "publishedAt": "2026-07-30T08:55:26.000Z",
+    "createdAt": "2026-07-30T11:11:59.086Z",
+    "updatedAt": "2026-07-30T11:11:59.086Z"
+  },
+  {
     "id": "cae375c8ed217981",
     "title": "Чемпионат Южной Азии впервые может пройти без Непала из-за решения ФИФА",
     "sport": "Футбол",
@@ -10,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a6b01309a79474a511515fd",
     "publishedAt": "2026-07-30T08:12:26.000Z",
-    "createdAt": "2026-07-30T08:35:24.205Z",
-    "updatedAt": "2026-07-30T08:35:24.205Z"
+    "createdAt": "2026-07-30T11:12:01.388Z",
+    "updatedAt": "2026-07-30T11:12:01.388Z"
   },
   {
     "id": "ecf1c4857fdc0f1a",
@@ -24,8 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a6aeae99a79474a511515a3",
     "publishedAt": "2026-07-30T08:10:45.000Z",
-    "createdAt": "2026-07-30T08:35:22.948Z",
-    "updatedAt": "2026-07-30T08:35:22.948Z"
+    "createdAt": "2026-07-30T11:11:56.828Z",
+    "updatedAt": "2026-07-30T11:11:56.828Z"
   },
   {
     "id": "be2d648abbe5d9fe",
@@ -38,36 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a6afb239a7947a59612bb83",
     "publishedAt": "2026-07-30T07:44:45.000Z",
-    "createdAt": "2026-07-30T08:35:25.300Z",
-    "updatedAt": "2026-07-30T08:35:25.300Z"
-  },
-  {
-    "id": "b440fa479095d496",
-    "title": "Шнайдер и Винус Уильямс не смогли выйти в полуфинал турнира в Вашингтоне",
-    "sport": "Теннис",
-    "category": "Теннис",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/3/03/347853915364033.jpeg",
-    "teaser": "Шнайдер и Винус Уильямс не смогли выйти в полуфинал турнира в Вашингтоне",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a6ae8b09a7947337ee6f2b2",
-    "publishedAt": "2026-07-30T07:30:34.000Z",
-    "createdAt": "2026-07-30T08:35:29.083Z",
-    "updatedAt": "2026-07-30T08:35:29.083Z"
-  },
-  {
-    "id": "6069f687b29ea6cf",
-    "title": "Экс-игрок тульского «Арсенала» перестал выходить на связь со своим клубом",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/1/01/347853957101011.jpeg",
-    "teaser": "Экс-игрок тульского «Арсенала» перестал выходить на связь со своим клубом",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a6af6169a7947bb062d8c5c",
-    "publishedAt": "2026-07-30T07:27:29.000Z",
-    "createdAt": "2026-07-30T08:35:30.295Z",
-    "updatedAt": "2026-07-30T08:35:30.295Z"
+    "createdAt": "2026-07-30T11:12:00.239Z",
+    "updatedAt": "2026-07-30T11:12:00.239Z"
   },
   {
     "id": "be37338610e6e43b",
@@ -80,63 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a69e2f59a794754bd2dbc1d",
     "publishedAt": "2026-07-30T07:24:43.000Z",
-    "createdAt": "2026-07-30T08:35:26.794Z",
-    "updatedAt": "2026-07-30T08:35:26.794Z"
-  },
-  {
-    "id": "0cdacd26ef619552",
-    "title": "Как живущий в ХХ веке клуб дошел до финала Еврокубка и остался без арены",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/1/84/347793164248841.jpeg",
-    "teaser": "Как живущий в ХХ веке клуб дошел до финала Еврокубка и остался без арены",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a0c758c9a7947e5065a3b66",
-    "publishedAt": "2026-07-30T07:15:31.000Z",
-    "createdAt": "2026-07-30T08:35:27.962Z",
-    "updatedAt": "2026-07-30T08:35:27.962Z"
-  },
-  {
-    "id": "bfb9d0019b833e9b",
-    "title": "В каких видах спорта не сняли отстранения с россиян",
-    "sport": "Другое",
-    "category": "Другие",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/1/37/347851629929371.jpeg",
-    "teaser": "В каких видах спорта не сняли отстранения с россиян",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a6760c49a7947040ba65586",
-    "publishedAt": "2026-07-30T05:00:56.000Z",
-    "createdAt": "2026-07-30T08:35:31.445Z",
-    "updatedAt": "2026-07-30T08:35:31.445Z"
-  },
-  {
-    "id": "5ef90d2cfa20627d",
-    "title": "«Какой-то глупый фанат». Как премьер Британии связан с футболом",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/1/57/347841292093571.jpeg",
-    "teaser": "«Какой-то глупый фанат». Как премьер Британии связан с футболом",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a3a2ca19a7947b8a96abf76",
-    "publishedAt": "2026-07-30T05:00:49.000Z",
-    "createdAt": "2026-07-30T08:35:32.550Z",
-    "updatedAt": "2026-07-30T08:35:32.550Z"
-  },
-  {
-    "id": "71559725144db4ae",
-    "title": "Месси вернулся в расположение «Интер Майами» после ЧМ-2026",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/6/02/347853586192026.jpeg",
-    "teaser": "Месси вернулся в расположение «Интер Майами» после ЧМ-2026",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a6a678e9a7947b34ba69424",
-    "publishedAt": "2026-07-29T21:06:13.000Z",
-    "createdAt": "2026-07-30T08:35:33.580Z",
-    "updatedAt": "2026-07-30T08:35:33.580Z"
+    "createdAt": "2026-07-30T11:12:02.527Z",
+    "updatedAt": "2026-07-30T11:12:02.527Z"
   }
 ]
