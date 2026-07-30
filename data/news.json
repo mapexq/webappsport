@@ -1,17 +1,59 @@
 [
   {
-    "id": "60f2eae259d6c6c4",
-    "title": "World Boxing допустила россиян на турниры с флагом и гимном",
+    "id": "111d6e95f323b964",
+    "title": "КОНКАКАФ отвергла предложение ФИФА по продаже доли прав на ЧМ",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/8/10/347854405595108.jpeg",
+    "teaser": "КОНКАКАФ отвергла предложение ФИФА по продаже доли прав на ЧМ",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a6ba4549a79475b54fd22bc",
+    "publishedAt": "2026-07-30T20:01:00.000Z",
+    "createdAt": "2026-07-30T20:17:31.299Z",
+    "updatedAt": "2026-07-30T20:17:31.299Z"
+  },
+  {
+    "id": "49a1cd9c82c7aa9e",
+    "title": "Клуб Мусагалиева вышел во второй раунд Кубка России по футболу",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/1/82/347854363192821.jpeg",
+    "teaser": "Клуб Мусагалиева вышел во второй раунд Кубка России по футболу",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a6b964c9a7947e7e45981a9",
+    "publishedAt": "2026-07-30T19:57:22.000Z",
+    "createdAt": "2026-07-30T20:17:32.150Z",
+    "updatedAt": "2026-07-30T20:17:32.150Z"
+  },
+  {
+    "id": "8eb6174b8a470929",
+    "title": "16-летняя дебютантка WTA из России вышла в 1/4 финала турнира в Мемфисе",
+    "sport": "Теннис",
+    "category": "Теннис",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/0/53/347854375885530.jpeg",
+    "teaser": "16-летняя дебютантка WTA из России вышла в 1/4 финала турнира в Мемфисе",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a6b9c279a7947d8416a48f5",
+    "publishedAt": "2026-07-30T19:01:58.000Z",
+    "createdAt": "2026-07-30T20:17:33.262Z",
+    "updatedAt": "2026-07-30T20:17:33.262Z"
+  },
+  {
+    "id": "abbbbcf264adb12a",
+    "title": "World Boxing допустила россиян к турнирам с флагом и гимном",
     "sport": "Единоборства",
     "category": "Единоборства",
     "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/3/05/347854346163053.jpeg",
-    "teaser": "World Boxing допустила россиян на турниры с флагом и гимном",
+    "teaser": "World Boxing допустила россиян к турнирам с флагом и гимном",
     "fullContent": "",
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a6b8c039a7947dcc096d7bf",
     "publishedAt": "2026-07-30T17:41:33.000Z",
-    "createdAt": "2026-07-30T18:19:44.285Z",
-    "updatedAt": "2026-07-30T18:19:44.285Z"
+    "createdAt": "2026-07-30T20:17:35.044Z",
+    "updatedAt": "2026-07-30T20:17:35.044Z"
   },
   {
     "id": "82218a5179a9fc45",
@@ -24,8 +66,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a6b899b9a7947d16d8200f1",
     "publishedAt": "2026-07-30T17:37:29.000Z",
-    "createdAt": "2026-07-30T18:19:43.133Z",
-    "updatedAt": "2026-07-30T18:19:43.133Z"
+    "createdAt": "2026-07-30T20:17:34.195Z",
+    "updatedAt": "2026-07-30T20:17:34.195Z"
   },
   {
     "id": "cdfc0142c64cdbe1",
@@ -38,8 +80,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a6b84a19a7947eb5d62622e",
     "publishedAt": "2026-07-30T17:30:59.000Z",
-    "createdAt": "2026-07-30T18:19:45.424Z",
-    "updatedAt": "2026-07-30T18:19:45.424Z"
+    "createdAt": "2026-07-30T20:17:36.226Z",
+    "updatedAt": "2026-07-30T20:17:36.226Z"
   },
   {
     "id": "2440e350ed14494e",
@@ -52,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a6b698a9a794743d8852582",
     "publishedAt": "2026-07-30T16:55:13.000Z",
-    "createdAt": "2026-07-30T18:19:48.694Z",
-    "updatedAt": "2026-07-30T18:19:48.694Z"
+    "createdAt": "2026-07-30T20:17:39.376Z",
+    "updatedAt": "2026-07-30T20:17:39.376Z"
   },
   {
     "id": "56f078b9c46ec521",
@@ -66,8 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a6760c49a7947040ba65586",
     "publishedAt": "2026-07-30T16:28:11.000Z",
-    "createdAt": "2026-07-30T18:19:46.506Z",
-    "updatedAt": "2026-07-30T18:19:46.506Z"
+    "createdAt": "2026-07-30T20:17:37.259Z",
+    "updatedAt": "2026-07-30T20:17:37.259Z"
   },
   {
     "id": "db0fc5de4e02cfd9",
@@ -80,22 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a69e2f59a794754bd2dbc1d",
     "publishedAt": "2026-07-30T16:26:26.000Z",
-    "createdAt": "2026-07-30T18:19:47.549Z",
-    "updatedAt": "2026-07-30T18:19:47.549Z"
-  },
-  {
-    "id": "98a8f95e7647727b",
-    "title": "Фетисов отреагировал на недопуск сборной России по хоккею на ЧМ-2027",
-    "sport": "Хоккей",
-    "category": "Хоккей",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/2/26/347854261306262.jpeg",
-    "teaser": "Фетисов отреагировал на недопуск сборной России по хоккею на ЧМ-2027",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a6b6f559a79479ece0fce81",
-    "publishedAt": "2026-07-30T16:02:02.000Z",
-    "createdAt": "2026-07-30T18:19:52.137Z",
-    "updatedAt": "2026-07-30T18:19:52.137Z"
+    "createdAt": "2026-07-30T20:17:38.241Z",
+    "updatedAt": "2026-07-30T20:17:38.241Z"
   },
   {
     "id": "d94670115323ed91",
@@ -108,35 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a6b6d1d9a7947d092d4fa6a",
     "publishedAt": "2026-07-30T15:32:26.000Z",
-    "createdAt": "2026-07-30T18:19:49.851Z",
-    "updatedAt": "2026-07-30T18:19:49.851Z"
-  },
-  {
-    "id": "23cb50cc3a2e7f34",
-    "title": "IIHF не допустила российских хоккеистов на ЧМ-2027",
-    "sport": "Хоккей",
-    "category": "Хоккей",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/3/06/347854247231063.jpeg",
-    "teaser": "IIHF не допустила российских хоккеистов на ЧМ-2027",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a6b69bf9a79476eebef9fac",
-    "publishedAt": "2026-07-30T15:16:49.000Z",
-    "createdAt": "2026-07-30T18:19:50.943Z",
-    "updatedAt": "2026-07-30T18:19:50.943Z"
-  },
-  {
-    "id": "66ae16b46f4de69d",
-    "title": "Мастер спорта СССР и тренер по вольной борьбе Павлов утонул в реке",
-    "sport": "Другое",
-    "category": "Другие",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/0/61/347854227387610.jpeg",
-    "teaser": "Мастер спорта СССР и тренер по вольной борьбе Павлов утонул в реке",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a6b62979a7947bdaf960ed2",
-    "publishedAt": "2026-07-30T14:57:40.000Z",
-    "createdAt": "2026-07-30T18:19:53.292Z",
-    "updatedAt": "2026-07-30T18:19:53.292Z"
+    "createdAt": "2026-07-30T20:17:40.526Z",
+    "updatedAt": "2026-07-30T20:17:40.526Z"
   }
 ]
