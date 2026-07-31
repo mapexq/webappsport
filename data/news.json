@@ -1,17 +1,87 @@
 [
   {
-    "id": "e78bd3dcb1f4894c",
-    "title": "Клуб Гвардиолы и Баджо прекратил существование на 115 году",
+    "id": "08bbe81ea1bcf298",
+    "title": "Сын Дениса Паслера подписал контракт с канадским хоккейным клубом",
+    "sport": "Хоккей",
+    "category": "Хоккей",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/9/75/347854826110759.jpeg",
+    "teaser": "Сын Дениса Паслера подписал контракт с канадским хоккейным клубом",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a6c4d639a79471656dfa0a2",
+    "publishedAt": "2026-07-31T07:42:10.000Z",
+    "createdAt": "2026-07-31T07:53:26.130Z",
+    "updatedAt": "2026-07-31T07:53:26.130Z"
+  },
+  {
+    "id": "c3f29bd909450c0e",
+    "title": "Россиянин по прозвищу Пельмень нокаутировал поляка на турнире Power Slap",
+    "sport": "Другое",
+    "category": "Другие",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/7/56/347854815892567.jpeg",
+    "teaser": "Россиянин по прозвищу Пельмень нокаутировал поляка на турнире Power Slap",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a6c48e29a79476205ac6d63",
+    "publishedAt": "2026-07-31T07:20:12.000Z",
+    "createdAt": "2026-07-31T07:53:27.117Z",
+    "updatedAt": "2026-07-31T07:53:27.117Z"
+  },
+  {
+    "id": "a0c09ed2b610450b",
+    "title": "Умер легендарный итальянский футболист Франко Барези",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/5/70/347854805787705.jpeg",
+    "teaser": "Умер легендарный итальянский футболист Франко Барези",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a6c45619a794702277fda62",
+    "publishedAt": "2026-07-31T06:58:40.000Z",
+    "createdAt": "2026-07-31T07:53:28.317Z",
+    "updatedAt": "2026-07-31T07:53:28.317Z"
+  },
+  {
+    "id": "885fb32a76f5f7cd",
+    "title": "Продлят ли «Зенит» и «Спартак» голевую феерию. Главные интриги тура РПЛ",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/8/82/347853320833828.jpeg",
+    "teaser": "Продлят ли «Зенит» и «Спартак» голевую феерию. Главные интриги тура РПЛ",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a68930e9a7947ac4b1fde41",
+    "publishedAt": "2026-07-31T04:02:59.000Z",
+    "createdAt": "2026-07-31T07:53:29.335Z",
+    "updatedAt": "2026-07-31T07:53:29.335Z"
+  },
+  {
+    "id": "ee5602909fb90069",
+    "title": "«Европейский сговор». Сборную России не пустили на ЧМ вопреки позиции МОК",
+    "sport": "Хоккей",
+    "category": "Хоккей",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/1/09/347854312757091.jpeg",
+    "teaser": "«Европейский сговор». Сборную России не пустили на ЧМ вопреки позиции МОК",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a6b7dc89a7947c1ebbf58df",
+    "publishedAt": "2026-07-30T21:06:42.000Z",
+    "createdAt": "2026-07-31T07:53:30.306Z",
+    "updatedAt": "2026-07-31T07:53:30.306Z"
+  },
+  {
+    "id": "fe2b24a6afdb0903",
+    "title": "Клуб Гвардиолы и Баджо прекратил существование на 115-м году",
     "sport": "Футбол",
     "category": "Футбол",
     "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/0/90/347854450205900.jpeg",
-    "teaser": "Клуб Гвардиолы и Баджо прекратил существование на 115 году",
+    "teaser": "Клуб Гвардиолы и Баджо прекратил существование на 115-м году",
     "fullContent": "",
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a6b9ef89a79479c59174cfd",
     "publishedAt": "2026-07-30T20:50:21.000Z",
-    "createdAt": "2026-07-31T04:26:25.466Z",
-    "updatedAt": "2026-07-31T04:26:25.466Z"
+    "createdAt": "2026-07-31T07:53:31.308Z",
+    "updatedAt": "2026-07-31T07:53:31.308Z"
   },
   {
     "id": "111d6e95f323b964",
@@ -24,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a6ba4549a79475b54fd22bc",
     "publishedAt": "2026-07-30T20:01:00.000Z",
-    "createdAt": "2026-07-31T04:26:26.600Z",
-    "updatedAt": "2026-07-31T04:26:26.600Z"
+    "createdAt": "2026-07-31T07:53:32.322Z",
+    "updatedAt": "2026-07-31T07:53:32.322Z"
   },
   {
     "id": "49a1cd9c82c7aa9e",
@@ -38,8 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a6b964c9a7947e7e45981a9",
     "publishedAt": "2026-07-30T19:57:22.000Z",
-    "createdAt": "2026-07-31T04:26:27.730Z",
-    "updatedAt": "2026-07-31T04:26:27.730Z"
+    "createdAt": "2026-07-31T07:53:33.346Z",
+    "updatedAt": "2026-07-31T07:53:33.346Z"
   },
   {
     "id": "8eb6174b8a470929",
@@ -52,22 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a6b9c279a7947d8416a48f5",
     "publishedAt": "2026-07-30T19:01:58.000Z",
-    "createdAt": "2026-07-31T04:26:28.862Z",
-    "updatedAt": "2026-07-31T04:26:28.862Z"
-  },
-  {
-    "id": "abbbbcf264adb12a",
-    "title": "World Boxing допустила россиян к турнирам с флагом и гимном",
-    "sport": "Единоборства",
-    "category": "Единоборства",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/3/05/347854346163053.jpeg",
-    "teaser": "World Boxing допустила россиян к турнирам с флагом и гимном",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a6b8c039a7947dcc096d7bf",
-    "publishedAt": "2026-07-30T17:41:33.000Z",
-    "createdAt": "2026-07-31T04:26:31.206Z",
-    "updatedAt": "2026-07-31T04:26:31.206Z"
+    "createdAt": "2026-07-31T07:53:34.432Z",
+    "updatedAt": "2026-07-31T07:53:34.432Z"
   },
   {
     "id": "82218a5179a9fc45",
@@ -80,63 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a6b899b9a7947d16d8200f1",
     "publishedAt": "2026-07-30T17:37:29.000Z",
-    "createdAt": "2026-07-31T04:26:30.073Z",
-    "updatedAt": "2026-07-31T04:26:30.073Z"
-  },
-  {
-    "id": "cdfc0142c64cdbe1",
-    "title": "Россия оспорит в CAS решение о продлении отстранения хоккеистов",
-    "sport": "Хоккей",
-    "category": "Хоккей",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/5/74/347854322107745.jpeg",
-    "teaser": "Россия оспорит в CAS решение о продлении отстранения хоккеистов",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a6b84a19a7947eb5d62622e",
-    "publishedAt": "2026-07-30T17:30:59.000Z",
-    "createdAt": "2026-07-31T04:26:32.338Z",
-    "updatedAt": "2026-07-31T04:26:32.338Z"
-  },
-  {
-    "id": "2440e350ed14494e",
-    "title": "РФС дисквалифицировал игрока «Рубина» за удар соперника",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/8/72/347854300946728.jpeg",
-    "teaser": "РФС дисквалифицировал игрока «Рубина» за удар соперника",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a6b698a9a794743d8852582",
-    "publishedAt": "2026-07-30T16:55:13.000Z",
-    "createdAt": "2026-07-31T04:26:35.822Z",
-    "updatedAt": "2026-07-31T04:26:35.822Z"
-  },
-  {
-    "id": "56f078b9c46ec521",
-    "title": "В каких видах спорта не сняли отстранения с россиян",
-    "sport": "Другое",
-    "category": "Другие",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/1/37/347851629929371.jpeg",
-    "teaser": "В каких видах спорта не сняли отстранения с россиян",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a6760c49a7947040ba65586",
-    "publishedAt": "2026-07-30T16:28:11.000Z",
-    "createdAt": "2026-07-31T04:26:33.524Z",
-    "updatedAt": "2026-07-31T04:26:33.524Z"
-  },
-  {
-    "id": "db0fc5de4e02cfd9",
-    "title": "Европа бойкотирует ФИФА. Что надо знать о продаже прав на ЧМ семье Трампа",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/7/07/347853322766077.jpeg",
-    "teaser": "Европа бойкотирует ФИФА. Что надо знать о продаже прав на ЧМ семье Трампа",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a69e2f59a794754bd2dbc1d",
-    "publishedAt": "2026-07-30T16:26:26.000Z",
-    "createdAt": "2026-07-31T04:26:34.683Z",
-    "updatedAt": "2026-07-31T04:26:34.683Z"
+    "createdAt": "2026-07-31T07:53:35.474Z",
+    "updatedAt": "2026-07-31T07:53:35.474Z"
   }
 ]
