@@ -1,5 +1,75 @@
 [
   {
+    "id": "c7f66547600ec336",
+    "title": "Садулаев рассказал о сроках восстановления после травмы",
+    "sport": "Единоборства",
+    "category": "Единоборства",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/3/34/347855173951343.jpeg",
+    "teaser": "Садулаев рассказал о сроках восстановления после травмы",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a6cd4379a794778f54b4daf",
+    "publishedAt": "2026-07-31T17:23:36.000Z",
+    "createdAt": "2026-07-31T17:44:01.372Z",
+    "updatedAt": "2026-07-31T17:44:01.372Z"
+  },
+  {
+    "id": "97c0dd3ee17b3e28",
+    "title": "Соперник Инфантино заявил об отсутствии интереса к его должности",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/0/01/347855166291010.jpeg",
+    "teaser": "Соперник Инфантино заявил об отсутствии интереса к его должности",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a6cd20d9a7947814fbda6ab",
+    "publishedAt": "2026-07-31T17:13:28.000Z",
+    "createdAt": "2026-07-31T17:44:00.397Z",
+    "updatedAt": "2026-07-31T17:44:00.397Z"
+  },
+  {
+    "id": "85503f77bd0b0a35",
+    "title": "В «Челси» заявили о возвращении в клуб отстраненного за допинг украинца",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/1/38/347855154477381.jpeg",
+    "teaser": "В «Челси» заявили о возвращении в клуб отстраненного за допинг украинца",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a6cc56f9a79479e925f1666",
+    "publishedAt": "2026-07-31T16:42:51.000Z",
+    "createdAt": "2026-07-31T17:44:02.322Z",
+    "updatedAt": "2026-07-31T17:44:02.322Z"
+  },
+  {
+    "id": "858bc55ebf110e66",
+    "title": "«Ньюкасл» покинул один из самых долгоработающих тренеров в нынешней АПЛ",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/5/32/347855139050325.jpeg",
+    "teaser": "«Ньюкасл» покинул один из самых долгоработающих тренеров в нынешней АПЛ",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a6cc7929a794765f0c196a3",
+    "publishedAt": "2026-07-31T16:15:58.000Z",
+    "createdAt": "2026-07-31T17:44:04.706Z",
+    "updatedAt": "2026-07-31T17:44:04.706Z"
+  },
+  {
+    "id": "150c2006308c4fbf",
+    "title": "«Челси» получил штраф за нарушения времен Абрамовича",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/8/32/347855091028328.jpeg",
+    "teaser": "«Челси» получил штраф за нарушения времен Абрамовича",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a6cae729a794715066639a6",
+    "publishedAt": "2026-07-31T16:10:52.000Z",
+    "createdAt": "2026-07-31T17:44:03.728Z",
+    "updatedAt": "2026-07-31T17:44:03.728Z"
+  },
+  {
     "id": "418916cd9cd91f3a",
     "title": "Двукратный обладатель Кубка Гагарина покинул московское «Динамо»",
     "sport": "Хоккей",
@@ -10,8 +80,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a6cb96c9a79479b85d70577",
     "publishedAt": "2026-07-31T15:23:10.000Z",
-    "createdAt": "2026-07-31T15:25:20.299Z",
-    "updatedAt": "2026-07-31T15:25:20.299Z"
+    "createdAt": "2026-07-31T17:44:06.732Z",
+    "updatedAt": "2026-07-31T17:44:06.732Z"
   },
   {
     "id": "29e738a66650f765",
@@ -24,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a6cb99c9a7947fb365fa732",
     "publishedAt": "2026-07-31T15:22:09.000Z",
-    "createdAt": "2026-07-31T15:25:21.251Z",
-    "updatedAt": "2026-07-31T15:25:21.251Z"
+    "createdAt": "2026-07-31T17:44:07.744Z",
+    "updatedAt": "2026-07-31T17:44:07.744Z"
   },
   {
     "id": "d21e27e8b4bce168",
@@ -38,8 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a6cb2ee9a79474f2afdadbc",
     "publishedAt": "2026-07-31T14:47:04.000Z",
-    "createdAt": "2026-07-31T15:25:19.257Z",
-    "updatedAt": "2026-07-31T15:25:19.257Z"
+    "createdAt": "2026-07-31T17:44:05.718Z",
+    "updatedAt": "2026-07-31T17:44:05.718Z"
   },
   {
     "id": "08af80e689be377f",
@@ -52,8 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a6ca6649a79475a1aebc9da",
     "publishedAt": "2026-07-31T14:21:06.000Z",
-    "createdAt": "2026-07-31T15:25:23.164Z",
-    "updatedAt": "2026-07-31T15:25:23.164Z"
+    "createdAt": "2026-07-31T17:44:09.710Z",
+    "updatedAt": "2026-07-31T17:44:09.710Z"
   },
   {
     "id": "28ec590a7b80af22",
@@ -66,77 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a6cabb69a794745b1ed9d88",
     "publishedAt": "2026-07-31T14:20:39.000Z",
-    "createdAt": "2026-07-31T15:25:22.154Z",
-    "updatedAt": "2026-07-31T15:25:22.154Z"
-  },
-  {
-    "id": "10dbfdac1001e944",
-    "title": "Премьер Британии заявил, что Инфантино не подходит на пост главы ФИФА",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/8/63/347855049844638.jpeg",
-    "teaser": "Премьер Британии заявил, что Инфантино не подходит на пост главы ФИФА",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a6c9c479a79477e8ae46c0b",
-    "publishedAt": "2026-07-31T13:39:43.000Z",
-    "createdAt": "2026-07-31T15:25:24.083Z",
-    "updatedAt": "2026-07-31T15:25:24.083Z"
-  },
-  {
-    "id": "3b3e2bced68826c1",
-    "title": "Sky News узнал о планах ФИФА ускорить принятие решения о расширении ЧМ",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/7/91/347855019593917.jpeg",
-    "teaser": "Sky News узнал о планах ФИФА ускорить принятие решения о расширении ЧМ",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a6c98e59a7947dea3306a92",
-    "publishedAt": "2026-07-31T13:25:43.000Z",
-    "createdAt": "2026-07-31T15:25:25.297Z",
-    "updatedAt": "2026-07-31T15:25:25.297Z"
-  },
-  {
-    "id": "02c02d217a72efcf",
-    "title": "Международная федерация каноэ сменила название на Paddle Worldwide",
-    "sport": "Другое",
-    "category": "Другие",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/3/68/347855022145683.jpeg",
-    "teaser": "Международная федерация каноэ сменила название на Paddle Worldwide",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a6c964c9a7947364fb4a91d",
-    "publishedAt": "2026-07-31T13:22:12.000Z",
-    "createdAt": "2026-07-31T15:25:26.321Z",
-    "updatedAt": "2026-07-31T15:25:26.321Z"
-  },
-  {
-    "id": "5c676fc00fe3543d",
-    "title": "Бывший рекордсмен КХЛ умер от рака в 39 лет",
-    "sport": "Хоккей",
-    "category": "Хоккей",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/6/15/347855001334156.jpeg",
-    "teaser": "Бывший рекордсмен КХЛ умер от рака в 39 лет",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a6c91b49a79475a1aebc93c",
-    "publishedAt": "2026-07-31T12:26:11.000Z",
-    "createdAt": "2026-07-31T15:25:27.365Z",
-    "updatedAt": "2026-07-31T15:25:27.365Z"
-  },
-  {
-    "id": "ea8a75bd60290459",
-    "title": "Матчи нового сезона РПЛ будут транслироваться в Китае",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/3/97/347855003097973.jpeg",
-    "teaser": "Матчи нового сезона РПЛ будут транслироваться в Китае",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a6c8f999a7947fbdf5da9d8",
-    "publishedAt": "2026-07-31T12:22:56.000Z",
-    "createdAt": "2026-07-31T15:25:28.402Z",
-    "updatedAt": "2026-07-31T15:25:28.402Z"
+    "createdAt": "2026-07-31T17:44:08.755Z",
+    "updatedAt": "2026-07-31T17:44:08.755Z"
   }
 ]
