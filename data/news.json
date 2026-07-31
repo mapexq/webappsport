@@ -1,6 +1,76 @@
 [
   {
-    "id": "089eaa4b51445a36",
+    "id": "5c676fc00fe3543d",
+    "title": "Бывший рекордсмен КХЛ умер от рака в 39 лет",
+    "sport": "Хоккей",
+    "category": "Хоккей",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/6/15/347855001334156.jpeg",
+    "teaser": "Бывший рекордсмен КХЛ умер от рака в 39 лет",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a6c91b49a79475a1aebc93c",
+    "publishedAt": "2026-07-31T12:26:11.000Z",
+    "createdAt": "2026-07-31T12:59:19.968Z",
+    "updatedAt": "2026-07-31T12:59:19.968Z"
+  },
+  {
+    "id": "ea8a75bd60290459",
+    "title": "Матчи нового сезона РПЛ будут транслироваться в Китае",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/3/97/347855003097973.jpeg",
+    "teaser": "Матчи нового сезона РПЛ будут транслироваться в Китае",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a6c8f999a7947fbdf5da9d8",
+    "publishedAt": "2026-07-31T12:22:56.000Z",
+    "createdAt": "2026-07-31T12:59:20.931Z",
+    "updatedAt": "2026-07-31T12:59:20.931Z"
+  },
+  {
+    "id": "8345fc12cd9abf57",
+    "title": "«Локомотив» расторг контракт с экс-футболистом юношеской сборной Украины",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/0/22/347854984228220.jpeg",
+    "teaser": "«Локомотив» расторг контракт с экс-футболистом юношеской сборной Украины",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a6c8b239a7947231642bb94",
+    "publishedAt": "2026-07-31T11:55:41.000Z",
+    "createdAt": "2026-07-31T12:59:21.957Z",
+    "updatedAt": "2026-07-31T12:59:21.957Z"
+  },
+  {
+    "id": "e8bb36a39e939f84",
+    "title": "Фетисов обвинил IIHF в издевательстве над сборной России",
+    "sport": "Хоккей",
+    "category": "Хоккей",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/1/88/347854962836881.jpeg",
+    "teaser": "Фетисов обвинил IIHF в издевательстве над сборной России",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a6c82a69a79472b188445b0",
+    "publishedAt": "2026-07-31T11:38:44.000Z",
+    "createdAt": "2026-07-31T12:59:22.855Z",
+    "updatedAt": "2026-07-31T12:59:22.855Z"
+  },
+  {
+    "id": "9be42953c26833b2",
+    "title": "Александр Овечкин принял участие в детском хоккейном турнире. Подробности",
+    "sport": "Хоккей",
+    "category": "Хоккей",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/9/57/347854295135579.jpeg",
+    "teaser": "Александр Овечкин принял участие в детском хоккейном турнире. Подробности",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a6b7ca79a7947c6504b462b",
+    "publishedAt": "2026-07-31T11:28:47.000Z",
+    "createdAt": "2026-07-31T12:59:23.801Z",
+    "updatedAt": "2026-07-31T12:59:23.801Z"
+  },
+  {
+    "id": "54bc0e16923f38c9",
     "title": "Советник главы ФИФА уволился в знак протеста против планов продать ЧМ",
     "sport": "Футбол",
     "category": "Футбол",
@@ -9,9 +79,9 @@
     "fullContent": "",
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a6c74769a79470d3d61ed8b",
-    "publishedAt": "2026-07-31T10:33:41.000Z",
-    "createdAt": "2026-07-31T10:44:15.952Z",
-    "updatedAt": "2026-07-31T10:44:15.952Z"
+    "publishedAt": "2026-07-31T10:33:43.000Z",
+    "createdAt": "2026-07-31T12:59:24.801Z",
+    "updatedAt": "2026-07-31T12:59:24.801Z"
   },
   {
     "id": "fcdc7192408665a7",
@@ -24,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a6c756f9a794771c37e36f0",
     "publishedAt": "2026-07-31T10:22:50.000Z",
-    "createdAt": "2026-07-31T10:44:17.079Z",
-    "updatedAt": "2026-07-31T10:44:17.079Z"
+    "createdAt": "2026-07-31T12:59:25.860Z",
+    "updatedAt": "2026-07-31T12:59:25.860Z"
   },
   {
     "id": "43f23f734d7eaa33",
@@ -38,8 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a6c6aaa9a7947367cf2595e",
     "publishedAt": "2026-07-31T09:39:44.000Z",
-    "createdAt": "2026-07-31T10:44:19.201Z",
-    "updatedAt": "2026-07-31T10:44:19.201Z"
+    "createdAt": "2026-07-31T12:59:28.014Z",
+    "updatedAt": "2026-07-31T12:59:28.014Z"
   },
   {
     "id": "7115a54e7e62a522",
@@ -52,8 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a6c61049a79472095633707",
     "publishedAt": "2026-07-31T09:06:47.000Z",
-    "createdAt": "2026-07-31T10:44:18.204Z",
-    "updatedAt": "2026-07-31T10:44:18.204Z"
+    "createdAt": "2026-07-31T12:59:26.866Z",
+    "updatedAt": "2026-07-31T12:59:26.866Z"
   },
   {
     "id": "292606fc2b992788",
@@ -66,77 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a6c5c679a79476506f1734d",
     "publishedAt": "2026-07-31T08:55:31.000Z",
-    "createdAt": "2026-07-31T10:44:20.337Z",
-    "updatedAt": "2026-07-31T10:44:20.337Z"
-  },
-  {
-    "id": "459262e32b8e2fdf",
-    "title": "ФИФА после бойкота УЕФА заявила, что «никто не продает футбол»",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/2/10/347854836734102.jpeg",
-    "teaser": "ФИФА после бойкота УЕФА заявила, что «никто не продает футбол»",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a6c51879a794701b9de6cb4",
-    "publishedAt": "2026-07-31T08:09:42.000Z",
-    "createdAt": "2026-07-31T10:44:21.473Z",
-    "updatedAt": "2026-07-31T10:44:21.473Z"
-  },
-  {
-    "id": "684efa7149eb9cd1",
-    "title": "Сын российского губернатора перешел в канадский хоккейный клуб",
-    "sport": "Хоккей",
-    "category": "Хоккей",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/9/75/347854826110759.jpeg",
-    "teaser": "Сын российского губернатора перешел в канадский хоккейный клуб",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a6c4d639a79471656dfa0a2",
-    "publishedAt": "2026-07-31T07:42:10.000Z",
-    "createdAt": "2026-07-31T10:44:22.653Z",
-    "updatedAt": "2026-07-31T10:44:22.653Z"
-  },
-  {
-    "id": "c3f29bd909450c0e",
-    "title": "Россиянин по прозвищу Пельмень нокаутировал поляка на турнире Power Slap",
-    "sport": "Другое",
-    "category": "Другие",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/7/56/347854815892567.jpeg",
-    "teaser": "Россиянин по прозвищу Пельмень нокаутировал поляка на турнире Power Slap",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a6c48e29a79476205ac6d63",
-    "publishedAt": "2026-07-31T07:20:12.000Z",
-    "createdAt": "2026-07-31T10:44:23.810Z",
-    "updatedAt": "2026-07-31T10:44:23.810Z"
-  },
-  {
-    "id": "a0c09ed2b610450b",
-    "title": "Умер легендарный итальянский футболист Франко Барези",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/5/70/347854805787705.jpeg",
-    "teaser": "Умер легендарный итальянский футболист Франко Барези",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a6c45619a794702277fda62",
-    "publishedAt": "2026-07-31T06:58:40.000Z",
-    "createdAt": "2026-07-31T10:44:24.963Z",
-    "updatedAt": "2026-07-31T10:44:24.963Z"
-  },
-  {
-    "id": "885fb32a76f5f7cd",
-    "title": "Продлят ли «Зенит» и «Спартак» голевую феерию. Главные интриги тура РПЛ",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/8/82/347853320833828.jpeg",
-    "teaser": "Продлят ли «Зенит» и «Спартак» голевую феерию. Главные интриги тура РПЛ",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a68930e9a7947ac4b1fde41",
-    "publishedAt": "2026-07-31T04:02:59.000Z",
-    "createdAt": "2026-07-31T10:44:26.206Z",
-    "updatedAt": "2026-07-31T10:44:26.206Z"
+    "createdAt": "2026-07-31T12:59:29.065Z",
+    "updatedAt": "2026-07-31T12:59:29.065Z"
   }
 ]
