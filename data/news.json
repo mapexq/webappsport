@@ -1,5 +1,61 @@
 [
   {
+    "id": "ba6915d0a392f3aa",
+    "title": "Россиянка Лютова в 16 лет выиграла дебютный турнир WTA",
+    "sport": "Теннис",
+    "category": "Теннис",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/6/01/347856970784016.jpeg",
+    "teaser": "Россиянка Лютова в 16 лет выиграла дебютный турнир WTA",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a6f91d49a7947dbe408bd06",
+    "publishedAt": "2026-08-02T19:54:12.000Z",
+    "createdAt": "2026-08-02T20:12:32.695Z",
+    "updatedAt": "2026-08-02T20:12:32.695Z"
+  },
+  {
+    "id": "a20198dbdbb1c005",
+    "title": "«Спартак» отыгрался после курьезного пенальти и вырвал победу у «Ахмата»",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/7/17/347856966311177.jpeg",
+    "teaser": "«Спартак» отыгрался после курьезного пенальти и вырвал победу у «Ахмата»",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a6f79059a79477e54d546b6",
+    "publishedAt": "2026-08-02T19:39:52.000Z",
+    "createdAt": "2026-08-02T20:12:33.834Z",
+    "updatedAt": "2026-08-02T20:12:33.834Z"
+  },
+  {
+    "id": "cab38991d41aa244",
+    "title": "Леонид Слуцкий подал в отставку с поста главного тренера «Шанхай Шэньхуа»",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/3/15/347856962278153.jpeg",
+    "teaser": "Леонид Слуцкий подал в отставку с поста главного тренера «Шанхай Шэньхуа»",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a6f8bbb9a79477d3808465c",
+    "publishedAt": "2026-08-02T18:41:44.000Z",
+    "createdAt": "2026-08-02T20:12:34.895Z",
+    "updatedAt": "2026-08-02T20:12:34.895Z"
+  },
+  {
+    "id": "32f6a766fb9f5872",
+    "title": "«Ахмат» забил курьезный пенальти после игры рукой защитника «Спартака»",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/0/66/347856933550660.jpeg",
+    "teaser": "«Ахмат» забил курьезный пенальти после игры рукой защитника «Спартака»",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a6f81c29a79471ae5b709ac",
+    "publishedAt": "2026-08-02T18:10:50.000Z",
+    "createdAt": "2026-08-02T20:12:36.033Z",
+    "updatedAt": "2026-08-02T20:12:36.033Z"
+  },
+  {
     "id": "511c141810cd8243",
     "title": "«Краснодар» дважды пропустил в концовке, но обыграл «Факел» в РПЛ",
     "sport": "Футбол",
@@ -10,8 +66,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a6f636b9a79471ae5b70992",
     "publishedAt": "2026-08-02T17:22:31.000Z",
-    "createdAt": "2026-08-02T18:02:05.557Z",
-    "updatedAt": "2026-08-02T18:02:05.557Z"
+    "createdAt": "2026-08-02T20:12:37.074Z",
+    "updatedAt": "2026-08-02T20:12:37.074Z"
   },
   {
     "id": "e5daa7a217e01640",
@@ -24,8 +80,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a6f72ad9a794710227bcc7d",
     "publishedAt": "2026-08-02T17:15:24.000Z",
-    "createdAt": "2026-08-02T18:02:06.650Z",
-    "updatedAt": "2026-08-02T18:02:06.650Z"
+    "createdAt": "2026-08-02T20:12:38.177Z",
+    "updatedAt": "2026-08-02T20:12:38.177Z"
   },
   {
     "id": "cb3cdbaa238eb451",
@@ -38,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a6f685a9a79473a277734e9",
     "publishedAt": "2026-08-02T16:12:24.000Z",
-    "createdAt": "2026-08-02T18:02:07.688Z",
-    "updatedAt": "2026-08-02T18:02:07.688Z"
+    "createdAt": "2026-08-02T20:12:39.275Z",
+    "updatedAt": "2026-08-02T20:12:39.275Z"
   },
   {
     "id": "fccd0da244a7c58f",
@@ -52,8 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a6f5e5e9a7947c42fd535a1",
     "publishedAt": "2026-08-02T15:58:11.000Z",
-    "createdAt": "2026-08-02T18:02:08.725Z",
-    "updatedAt": "2026-08-02T18:02:08.725Z"
+    "createdAt": "2026-08-02T20:12:40.468Z",
+    "updatedAt": "2026-08-02T20:12:40.468Z"
   },
   {
     "id": "0afe9ae3778ec998",
@@ -66,8 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a6f5b569a79474c208417a3",
     "publishedAt": "2026-08-02T15:30:13.000Z",
-    "createdAt": "2026-08-02T18:02:09.843Z",
-    "updatedAt": "2026-08-02T18:02:09.843Z"
+    "createdAt": "2026-08-02T20:12:41.656Z",
+    "updatedAt": "2026-08-02T20:12:41.656Z"
   },
   {
     "id": "ffdde5cbeb3e9c62",
@@ -80,63 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a6f43849a79473d97d43090",
     "publishedAt": "2026-08-02T15:10:49.000Z",
-    "createdAt": "2026-08-02T18:02:10.900Z",
-    "updatedAt": "2026-08-02T18:02:10.900Z"
-  },
-  {
-    "id": "e313d00a7273d09b",
-    "title": "В РПЛ состоялся первый хет-трик сезона",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/5/56/347856816336565.jpeg",
-    "teaser": "В РПЛ состоялся первый хет-трик сезона",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a6f56139a7947555b427f5d",
-    "publishedAt": "2026-08-02T14:43:09.000Z",
-    "createdAt": "2026-08-02T18:02:11.932Z",
-    "updatedAt": "2026-08-02T18:02:11.932Z"
-  },
-  {
-    "id": "906caa662afcf306",
-    "title": "Билеты на первый матч Франции под руководством Зидана раскупили за сутки",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/8/86/347856806864868.jpeg",
-    "teaser": "Билеты на первый матч Франции под руководством Зидана раскупили за сутки",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a6f4ff39a79473beb6b6b58",
-    "publishedAt": "2026-08-02T14:34:35.000Z",
-    "createdAt": "2026-08-02T18:02:12.970Z",
-    "updatedAt": "2026-08-02T18:02:12.970Z"
-  },
-  {
-    "id": "68f81d076b554379",
-    "title": "Беглов не увидел обидного в прозвище «бомжи» для фанатов «Зенита»",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/4/39/347856794343394.jpeg",
-    "teaser": "Беглов не увидел обидного в прозвище «бомжи» для фанатов «Зенита»",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a6f4b7e9a79470ffc1957a3",
-    "publishedAt": "2026-08-02T14:14:11.000Z",
-    "createdAt": "2026-08-02T18:02:13.955Z",
-    "updatedAt": "2026-08-02T18:02:13.955Z"
-  },
-  {
-    "id": "0fc3b377cdf0b6d2",
-    "title": "Ирландский боксер попал в больницу после нокаута на турнире в Дублине",
-    "sport": "Единоборства",
-    "category": "Единоборства",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/1/60/347856761307601.jpeg",
-    "teaser": "Ирландский боксер попал в больницу после нокаута на турнире в Дублине",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a6f3f219a79477b59bd9857",
-    "publishedAt": "2026-08-02T13:34:53.000Z",
-    "createdAt": "2026-08-02T18:02:14.983Z",
-    "updatedAt": "2026-08-02T18:02:14.983Z"
+    "createdAt": "2026-08-02T20:12:42.843Z",
+    "updatedAt": "2026-08-02T20:12:42.843Z"
   }
 ]
