@@ -1,17 +1,87 @@
 [
   {
-    "id": "2d623a9e7de1deae",
-    "title": "Беглов не увидел обидного в прозвище «бомжи» для фанатов Зенита",
+    "id": "fccd0da244a7c58f",
+    "title": "Матч «Барселоны» в Англии сорвался из-за нехватки игроков у соперника",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/4/17/347856842003174.jpeg",
+    "teaser": "Матч «Барселоны» в Англии сорвался из-за нехватки игроков у соперника",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a6f5e5e9a7947c42fd535a1",
+    "publishedAt": "2026-08-02T15:58:11.000Z",
+    "createdAt": "2026-08-02T16:03:40.177Z",
+    "updatedAt": "2026-08-02T16:03:40.177Z"
+  },
+  {
+    "id": "0afe9ae3778ec998",
+    "title": "Российские синхронисты завоевали бронзу ЧЕ в технической программе дуэтов",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/0/39/347856833247390.jpeg",
+    "teaser": "Российские синхронисты завоевали бронзу ЧЕ в технической программе дуэтов",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a6f5b569a79474c208417a3",
+    "publishedAt": "2026-08-02T15:30:13.000Z",
+    "createdAt": "2026-08-02T16:03:41.223Z",
+    "updatedAt": "2026-08-02T16:03:41.223Z"
+  },
+  {
+    "id": "ffdde5cbeb3e9c62",
+    "title": "«Зенит» разгромил «Оренбург» благодаря первому хет-трику сезона РПЛ",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/7/57/347856821903577.jpeg",
+    "teaser": "«Зенит» разгромил «Оренбург» благодаря первому хет-трику сезона РПЛ",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a6f43849a79473d97d43090",
+    "publishedAt": "2026-08-02T15:10:49.000Z",
+    "createdAt": "2026-08-02T16:03:42.290Z",
+    "updatedAt": "2026-08-02T16:03:42.290Z"
+  },
+  {
+    "id": "e313d00a7273d09b",
+    "title": "В РПЛ состоялся первый хет-трик сезона",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/5/56/347856816336565.jpeg",
+    "teaser": "В РПЛ состоялся первый хет-трик сезона",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a6f56139a7947555b427f5d",
+    "publishedAt": "2026-08-02T14:43:09.000Z",
+    "createdAt": "2026-08-02T16:03:43.286Z",
+    "updatedAt": "2026-08-02T16:03:43.286Z"
+  },
+  {
+    "id": "906caa662afcf306",
+    "title": "Билеты на первый матч Франции под руководством Зидана раскупили за сутки",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/8/86/347856806864868.jpeg",
+    "teaser": "Билеты на первый матч Франции под руководством Зидана раскупили за сутки",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a6f4ff39a79473beb6b6b58",
+    "publishedAt": "2026-08-02T14:34:35.000Z",
+    "createdAt": "2026-08-02T16:03:44.394Z",
+    "updatedAt": "2026-08-02T16:03:44.394Z"
+  },
+  {
+    "id": "68f81d076b554379",
+    "title": "Беглов не увидел обидного в прозвище «бомжи» для фанатов «Зенита»",
     "sport": "Футбол",
     "category": "Футбол",
     "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/4/39/347856794343394.jpeg",
-    "teaser": "Беглов не увидел обидного в прозвище «бомжи» для фанатов Зенита",
+    "teaser": "Беглов не увидел обидного в прозвище «бомжи» для фанатов «Зенита»",
     "fullContent": "",
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a6f4b7e9a79470ffc1957a3",
     "publishedAt": "2026-08-02T14:14:11.000Z",
-    "createdAt": "2026-08-02T14:38:18.051Z",
-    "updatedAt": "2026-08-02T14:38:18.051Z"
+    "createdAt": "2026-08-02T16:03:45.289Z",
+    "updatedAt": "2026-08-02T16:03:45.289Z"
   },
   {
     "id": "0fc3b377cdf0b6d2",
@@ -24,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a6f3f219a79477b59bd9857",
     "publishedAt": "2026-08-02T13:34:53.000Z",
-    "createdAt": "2026-08-02T14:38:18.982Z",
-    "updatedAt": "2026-08-02T14:38:18.982Z"
+    "createdAt": "2026-08-02T16:03:46.407Z",
+    "updatedAt": "2026-08-02T16:03:46.407Z"
   },
   {
     "id": "6c19736b16e6314b",
@@ -38,8 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a6f3a369a7947cea8bf0af6",
     "publishedAt": "2026-08-02T13:16:19.000Z",
-    "createdAt": "2026-08-02T14:38:19.939Z",
-    "updatedAt": "2026-08-02T14:38:19.939Z"
+    "createdAt": "2026-08-02T16:03:47.514Z",
+    "updatedAt": "2026-08-02T16:03:47.514Z"
   },
   {
     "id": "ed2ada943cdac8ba",
@@ -52,22 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a6f32f89a7947f9bebf0126",
     "publishedAt": "2026-08-02T12:36:19.000Z",
-    "createdAt": "2026-08-02T14:38:21.841Z",
-    "updatedAt": "2026-08-02T14:38:21.841Z"
-  },
-  {
-    "id": "285f63f39a8b4f46",
-    "title": "Россиянка выиграла золото на чемпионате Европы по академической гребле",
-    "sport": "Другое",
-    "category": "Другие",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/2/88/347856718542882.jpeg",
-    "teaser": "Россиянка выиграла золото на чемпионате Европы по академической гребле",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a6f2edd9a7947f9bebf0124",
-    "publishedAt": "2026-08-02T12:27:38.000Z",
-    "createdAt": "2026-08-02T14:38:22.825Z",
-    "updatedAt": "2026-08-02T14:38:22.825Z"
+    "createdAt": "2026-08-02T16:03:49.671Z",
+    "updatedAt": "2026-08-02T16:03:49.671Z"
   },
   {
     "id": "d541abd9c66e6b69",
@@ -80,63 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a6f26fe9a7947cea8bf0ace",
     "publishedAt": "2026-08-02T12:01:31.000Z",
-    "createdAt": "2026-08-02T14:38:20.881Z",
-    "updatedAt": "2026-08-02T14:38:20.881Z"
-  },
-  {
-    "id": "0111dae531ce5d71",
-    "title": "В Москве умер легендарный футболист душанбинского «Памира» Турсунов",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/4/72/347856677988724.jpeg",
-    "teaser": "В Москве умер легендарный футболист душанбинского «Памира» Турсунов",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a6f1ef59a79471f69fa5128",
-    "publishedAt": "2026-08-02T11:57:00.000Z",
-    "createdAt": "2026-08-02T14:38:23.791Z",
-    "updatedAt": "2026-08-02T14:38:23.791Z"
-  },
-  {
-    "id": "8849526e473a418e",
-    "title": "Подписавший контракт с клубом НХЛ вратарь Иванов останется в СКА",
-    "sport": "Хоккей",
-    "category": "Хоккей",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/3/63/347856663676633.jpeg",
-    "teaser": "Подписавший контракт с клубом НХЛ вратарь Иванов останется в СКА",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a6f18969a794738f066807e",
-    "publishedAt": "2026-08-02T10:46:16.000Z",
-    "createdAt": "2026-08-02T14:38:24.906Z",
-    "updatedAt": "2026-08-02T14:38:24.906Z"
-  },
-  {
-    "id": "4f16b6beb873ba91",
-    "title": "Футболистка из Марокко утонула при попытке добраться до испанской Сеуты",
-    "sport": "Другое",
-    "category": "Другие",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/1/47/347856651702471.jpeg",
-    "teaser": "Футболистка из Марокко утонула при попытке добраться до испанской Сеуты",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a6f14819a7947a2f3c02ad3",
-    "publishedAt": "2026-08-02T10:19:20.000Z",
-    "createdAt": "2026-08-02T14:38:26.033Z",
-    "updatedAt": "2026-08-02T14:38:26.033Z"
-  },
-  {
-    "id": "5b1c1e263cb8f78b",
-    "title": "Россиянка в 16 лет вышла в финал дебютного турнира WTA",
-    "sport": "Теннис",
-    "category": "Теннис",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/8/77/347856131338778.jpeg",
-    "teaser": "Россиянка в 16 лет вышла в финал дебютного турнира WTA",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/698a2af19a794768a3ac6daf",
-    "publishedAt": "2026-08-01T19:50:28.000Z",
-    "createdAt": "2026-08-02T14:38:27.081Z",
-    "updatedAt": "2026-08-02T14:38:27.081Z"
+    "createdAt": "2026-08-02T16:03:48.554Z",
+    "updatedAt": "2026-08-02T16:03:48.554Z"
   }
 ]
