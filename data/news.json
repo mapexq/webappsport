@@ -1,5 +1,61 @@
 [
   {
+    "id": "d541abd9c66e6b69",
+    "title": "Times узнала, что заработок Инфантино вырос бы в 10 раз через проект ФИФА",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/2/20/347856711468202.jpeg",
+    "teaser": "Times узнала, что заработок Инфантино вырос бы в 10 раз через проект ФИФА",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a6f26fe9a7947cea8bf0ace",
+    "publishedAt": "2026-08-02T12:01:31.000Z",
+    "createdAt": "2026-08-02T12:06:25.863Z",
+    "updatedAt": "2026-08-02T12:06:25.863Z"
+  },
+  {
+    "id": "ab81b899d8443614",
+    "title": "В Москве умер легендарный футболист душанбинского «Памира» Турсунов",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/4/72/347856677988724.jpeg",
+    "teaser": "В Москве умер легендарный футболист душанбинского «Памира» Турсунов",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a6f1ef59a79471f69fa5128",
+    "publishedAt": "2026-08-02T11:56:59.000Z",
+    "createdAt": "2026-08-02T12:06:26.761Z",
+    "updatedAt": "2026-08-02T12:06:26.761Z"
+  },
+  {
+    "id": "8849526e473a418e",
+    "title": "Подписавший контракт с клубом НХЛ вратарь Иванов останется в СКА",
+    "sport": "Хоккей",
+    "category": "Хоккей",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/3/63/347856663676633.jpeg",
+    "teaser": "Подписавший контракт с клубом НХЛ вратарь Иванов останется в СКА",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a6f18969a794738f066807e",
+    "publishedAt": "2026-08-02T10:46:16.000Z",
+    "createdAt": "2026-08-02T12:06:27.670Z",
+    "updatedAt": "2026-08-02T12:06:27.670Z"
+  },
+  {
+    "id": "4f16b6beb873ba91",
+    "title": "Футболистка из Марокко утонула при попытке добраться до испанской Сеуты",
+    "sport": "Другое",
+    "category": "Другие",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/1/47/347856651702471.jpeg",
+    "teaser": "Футболистка из Марокко утонула при попытке добраться до испанской Сеуты",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a6f14819a7947a2f3c02ad3",
+    "publishedAt": "2026-08-02T10:19:20.000Z",
+    "createdAt": "2026-08-02T12:06:28.483Z",
+    "updatedAt": "2026-08-02T12:06:28.483Z"
+  },
+  {
     "id": "5b1c1e263cb8f78b",
     "title": "Россиянка в 16 лет вышла в финал дебютного турнира WTA",
     "sport": "Теннис",
@@ -10,8 +66,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/698a2af19a794768a3ac6daf",
     "publishedAt": "2026-08-01T19:50:28.000Z",
-    "createdAt": "2026-08-02T10:01:35.531Z",
-    "updatedAt": "2026-08-02T10:01:35.531Z"
+    "createdAt": "2026-08-02T12:06:29.483Z",
+    "updatedAt": "2026-08-02T12:06:29.483Z"
   },
   {
     "id": "49bcd725475a0788",
@@ -24,8 +80,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6988d8189a794783eced830e",
     "publishedAt": "2026-08-01T19:43:20.000Z",
-    "createdAt": "2026-08-02T10:01:36.654Z",
-    "updatedAt": "2026-08-02T10:01:36.654Z"
+    "createdAt": "2026-08-02T12:06:30.485Z",
+    "updatedAt": "2026-08-02T12:06:30.485Z"
   },
   {
     "id": "0512015cfced0305",
@@ -38,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/698ce3bc9a79471d24d84db7",
     "publishedAt": "2026-08-01T19:37:20.000Z",
-    "createdAt": "2026-08-02T10:01:37.790Z",
-    "updatedAt": "2026-08-02T10:01:37.790Z"
+    "createdAt": "2026-08-02T12:06:31.512Z",
+    "updatedAt": "2026-08-02T12:06:31.512Z"
   },
   {
     "id": "7348909f976cd807",
@@ -52,8 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6987a21d9a794736d03ca89a",
     "publishedAt": "2026-08-01T18:24:13.000Z",
-    "createdAt": "2026-08-02T10:01:39.073Z",
-    "updatedAt": "2026-08-02T10:01:39.073Z"
+    "createdAt": "2026-08-02T12:06:32.509Z",
+    "updatedAt": "2026-08-02T12:06:32.509Z"
   },
   {
     "id": "3e9f98760445bed1",
@@ -66,8 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/698647099a794748b2a8c278",
     "publishedAt": "2026-08-01T17:29:31.000Z",
-    "createdAt": "2026-08-02T10:01:40.265Z",
-    "updatedAt": "2026-08-02T10:01:40.265Z"
+    "createdAt": "2026-08-02T12:06:33.721Z",
+    "updatedAt": "2026-08-02T12:06:33.721Z"
   },
   {
     "id": "eb3d9464c0a7a231",
@@ -80,63 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69863e4b9a79474d3d6c89ce",
     "publishedAt": "2026-08-01T17:07:53.000Z",
-    "createdAt": "2026-08-02T10:01:41.403Z",
-    "updatedAt": "2026-08-02T10:01:41.403Z"
-  },
-  {
-    "id": "0bb7d635e9b5c2f8",
-    "title": "КОНКАКАФ призвала проанализировать вопрос пребывания Инфантино в ФИФА",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/5/96/347856015963965.jpeg",
-    "teaser": "КОНКАКАФ призвала проанализировать вопрос пребывания Инфантино в ФИФА",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6985b6ca9a7947374658d7ea",
-    "publishedAt": "2026-08-01T16:38:32.000Z",
-    "createdAt": "2026-08-02T10:01:42.532Z",
-    "updatedAt": "2026-08-02T10:01:42.532Z"
-  },
-  {
-    "id": "fec6f96bf6d0263b",
-    "title": "Российские синхронистки завоевали бронзу в дуэтах на чемпионате Европы",
-    "sport": "Другое",
-    "category": "Другие",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/6/07/347856002239076.jpeg",
-    "teaser": "Российские синхронистки завоевали бронзу в дуэтах на чемпионате Европы",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/698203309a794729ae02b7d9",
-    "publishedAt": "2026-08-01T16:01:41.000Z",
-    "createdAt": "2026-08-02T10:01:43.722Z",
-    "updatedAt": "2026-08-02T10:01:43.722Z"
-  },
-  {
-    "id": "21c006c0c64d8117",
-    "title": "Российские синхронисты заявили, что их засудили в микст-дуэте на ЧЕ",
-    "sport": "Другое",
-    "category": "Другие",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/5/69/347855993875695.jpeg",
-    "teaser": "Российские синхронисты заявили, что их засудили в микст-дуэте на ЧЕ",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6984525a9a7947a1ec373789",
-    "publishedAt": "2026-08-01T15:53:36.000Z",
-    "createdAt": "2026-08-02T10:01:44.899Z",
-    "updatedAt": "2026-08-02T10:01:44.899Z"
-  },
-  {
-    "id": "eb06bb62ec449076",
-    "title": "ЦСКА упустил победу в матче РПЛ с «Крыльями Советов»",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/2/71/347855944023712.jpeg",
-    "teaser": "ЦСКА упустил победу в матче РПЛ с «Крыльями Советов»",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69833db19a794770796decf1",
-    "publishedAt": "2026-08-01T15:08:50.000Z",
-    "createdAt": "2026-08-02T10:01:46.089Z",
-    "updatedAt": "2026-08-02T10:01:46.089Z"
+    "createdAt": "2026-08-02T12:06:34.809Z",
+    "updatedAt": "2026-08-02T12:06:34.809Z"
   }
 ]
