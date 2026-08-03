@@ -1,5 +1,33 @@
 [
   {
+    "id": "3ce4b216e7d5221e",
+    "title": "Кучеров возглавил рейтинг лучших крайних нападающих НХЛ",
+    "sport": "Хоккей",
+    "category": "Хоккей",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/1/49/347857382191491.jpeg",
+    "teaser": "Кучеров возглавил рейтинг лучших крайних нападающих НХЛ",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a7030429a7947c0ca2f5e88",
+    "publishedAt": "2026-08-03T07:09:30.000Z",
+    "createdAt": "2026-08-03T07:33:20.383Z",
+    "updatedAt": "2026-08-03T07:33:20.383Z"
+  },
+  {
+    "id": "6b47117b9b2f8744",
+    "title": "Медведев поднялся в рейтинге ATP после месяца без турниров",
+    "sport": "Теннис",
+    "category": "Теннис",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/2/10/347857398861102.jpeg",
+    "teaser": "Медведев поднялся в рейтинге ATP после месяца без турниров",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a7036509a7947d5537b1f69",
+    "publishedAt": "2026-08-03T07:05:21.000Z",
+    "createdAt": "2026-08-03T07:33:21.350Z",
+    "updatedAt": "2026-08-03T07:33:21.350Z"
+  },
+  {
     "id": "ba6915d0a392f3aa",
     "title": "Россиянка Лютова в 16 лет выиграла дебютный турнир WTA",
     "sport": "Теннис",
@@ -10,8 +38,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a6f91d49a7947dbe408bd06",
     "publishedAt": "2026-08-02T19:54:12.000Z",
-    "createdAt": "2026-08-03T03:29:40.415Z",
-    "updatedAt": "2026-08-03T03:29:40.415Z"
+    "createdAt": "2026-08-03T07:33:22.263Z",
+    "updatedAt": "2026-08-03T07:33:22.263Z"
   },
   {
     "id": "a20198dbdbb1c005",
@@ -24,8 +52,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a6f79059a79477e54d546b6",
     "publishedAt": "2026-08-02T19:39:52.000Z",
-    "createdAt": "2026-08-03T03:29:41.664Z",
-    "updatedAt": "2026-08-03T03:29:41.664Z"
+    "createdAt": "2026-08-03T07:33:23.320Z",
+    "updatedAt": "2026-08-03T07:33:23.320Z"
   },
   {
     "id": "cab38991d41aa244",
@@ -38,8 +66,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a6f8bbb9a79477d3808465c",
     "publishedAt": "2026-08-02T18:41:44.000Z",
-    "createdAt": "2026-08-03T03:29:42.795Z",
-    "updatedAt": "2026-08-03T03:29:42.795Z"
+    "createdAt": "2026-08-03T07:33:24.273Z",
+    "updatedAt": "2026-08-03T07:33:24.273Z"
   },
   {
     "id": "32f6a766fb9f5872",
@@ -52,8 +80,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a6f81c29a79471ae5b709ac",
     "publishedAt": "2026-08-02T18:10:50.000Z",
-    "createdAt": "2026-08-03T03:29:43.965Z",
-    "updatedAt": "2026-08-03T03:29:43.965Z"
+    "createdAt": "2026-08-03T07:33:25.273Z",
+    "updatedAt": "2026-08-03T07:33:25.273Z"
   },
   {
     "id": "511c141810cd8243",
@@ -66,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a6f636b9a79471ae5b70992",
     "publishedAt": "2026-08-02T17:22:31.000Z",
-    "createdAt": "2026-08-03T03:29:44.983Z",
-    "updatedAt": "2026-08-03T03:29:44.983Z"
+    "createdAt": "2026-08-03T07:33:26.322Z",
+    "updatedAt": "2026-08-03T07:33:26.322Z"
   },
   {
     "id": "e5daa7a217e01640",
@@ -80,8 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a6f72ad9a794710227bcc7d",
     "publishedAt": "2026-08-02T17:15:24.000Z",
-    "createdAt": "2026-08-03T03:29:46.105Z",
-    "updatedAt": "2026-08-03T03:29:46.105Z"
+    "createdAt": "2026-08-03T07:33:27.577Z",
+    "updatedAt": "2026-08-03T07:33:27.577Z"
   },
   {
     "id": "cb3cdbaa238eb451",
@@ -94,8 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a6f685a9a79473a277734e9",
     "publishedAt": "2026-08-02T16:12:24.000Z",
-    "createdAt": "2026-08-03T03:29:47.234Z",
-    "updatedAt": "2026-08-03T03:29:47.234Z"
+    "createdAt": "2026-08-03T07:33:28.598Z",
+    "updatedAt": "2026-08-03T07:33:28.598Z"
   },
   {
     "id": "fccd0da244a7c58f",
@@ -108,35 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a6f5e5e9a7947c42fd535a1",
     "publishedAt": "2026-08-02T15:58:11.000Z",
-    "createdAt": "2026-08-03T03:29:48.292Z",
-    "updatedAt": "2026-08-03T03:29:48.292Z"
-  },
-  {
-    "id": "0afe9ae3778ec998",
-    "title": "Российские синхронисты завоевали бронзу ЧЕ в технической программе дуэтов",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/0/39/347856833247390.jpeg",
-    "teaser": "Российские синхронисты завоевали бронзу ЧЕ в технической программе дуэтов",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a6f5b569a79474c208417a3",
-    "publishedAt": "2026-08-02T15:30:13.000Z",
-    "createdAt": "2026-08-03T03:29:49.835Z",
-    "updatedAt": "2026-08-03T03:29:49.835Z"
-  },
-  {
-    "id": "ffdde5cbeb3e9c62",
-    "title": "«Зенит» разгромил «Оренбург» благодаря первому хет-трику сезона РПЛ",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/7/57/347856821903577.jpeg",
-    "teaser": "«Зенит» разгромил «Оренбург» благодаря первому хет-трику сезона РПЛ",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a6f43849a79473d97d43090",
-    "publishedAt": "2026-08-02T15:10:49.000Z",
-    "createdAt": "2026-08-03T03:29:50.998Z",
-    "updatedAt": "2026-08-03T03:29:50.998Z"
+    "createdAt": "2026-08-03T07:33:29.752Z",
+    "updatedAt": "2026-08-03T07:33:29.752Z"
   }
 ]
