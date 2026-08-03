@@ -1,5 +1,89 @@
 [
   {
+    "id": "45baad6dc99c5941",
+    "title": "Сломавший руку на ЧМ-2026 экс-капитан «Ливерпуля» перешел в «Челси»",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/4/35/347857711956354.jpeg",
+    "teaser": "Сломавший руку на ЧМ-2026 экс-капитан «Ливерпуля» перешел в «Челси»",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a70b4719a79478bab3c64b9",
+    "publishedAt": "2026-08-03T16:40:56.000Z",
+    "createdAt": "2026-08-03T17:11:45.864Z",
+    "updatedAt": "2026-08-03T17:11:45.864Z"
+  },
+  {
+    "id": "fc2ee833bff665dd",
+    "title": "Корнеева вышла во второй круг турнира в Торонто после отказа Кудерметовой",
+    "sport": "Теннис",
+    "category": "Теннис",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/2/78/347857735630782.jpeg",
+    "teaser": "Корнеева вышла во второй круг турнира в Торонто после отказа Кудерметовой",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a70bc409a7947c582991a4e",
+    "publishedAt": "2026-08-03T16:25:51.000Z",
+    "createdAt": "2026-08-03T17:11:46.771Z",
+    "updatedAt": "2026-08-03T17:11:46.771Z"
+  },
+  {
+    "id": "4f0adaa0f8d32a20",
+    "title": "Дегтярев поддержал наказание Новой Зеландии за отказ играть с Россией",
+    "sport": "Другое",
+    "category": "Другие",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/6/82/347857712833826.jpeg",
+    "teaser": "Дегтярев поддержал наказание Новой Зеландии за отказ играть с Россией",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a70acf59a7947377f701772",
+    "publishedAt": "2026-08-03T15:49:18.000Z",
+    "createdAt": "2026-08-03T17:11:49.862Z",
+    "updatedAt": "2026-08-03T17:11:49.862Z"
+  },
+  {
+    "id": "8427a7859d95007f",
+    "title": "Третья страна отказалась поддержать Инфантино на выборах главы ФИФА",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/0/58/347857687071580.png",
+    "teaser": "Третья страна отказалась поддержать Инфантино на выборах главы ФИФА",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a70a97b9a79473b042f9d17",
+    "publishedAt": "2026-08-03T15:26:15.000Z",
+    "createdAt": "2026-08-03T17:11:47.665Z",
+    "updatedAt": "2026-08-03T17:11:47.665Z"
+  },
+  {
+    "id": "b48957e42ce6e659",
+    "title": "Устроителей «Тур де Франс» призвали проверять бюстгальтеры участниц",
+    "sport": "Другое",
+    "category": "Другие",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/9/05/347857641343059.jpeg",
+    "teaser": "Устроителей «Тур де Франс» призвали проверять бюстгальтеры участниц",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a708ff29a79478dda64dff4",
+    "publishedAt": "2026-08-03T15:23:02.000Z",
+    "createdAt": "2026-08-03T17:11:48.722Z",
+    "updatedAt": "2026-08-03T17:11:48.722Z"
+  },
+  {
+    "id": "0ebbadcec3967852",
+    "title": "Российские синхронистки завоевали первое золото на чемпионате Европы",
+    "sport": "Другое",
+    "category": "Другие",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/6/47/347857696045476.jpeg",
+    "teaser": "Российские синхронистки завоевали первое золото на чемпионате Европы",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a70ad609a79471288390bc0",
+    "publishedAt": "2026-08-03T15:18:08.000Z",
+    "createdAt": "2026-08-03T17:11:50.855Z",
+    "updatedAt": "2026-08-03T17:11:50.855Z"
+  },
+  {
     "id": "3fddb96ab04c977b",
     "title": "Игрок сборной Узбекистана после ЧМ-2026 перешел в «Рубин»",
     "sport": "Футбол",
@@ -10,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a70a1919a794798ebad6259",
     "publishedAt": "2026-08-03T14:39:48.000Z",
-    "createdAt": "2026-08-03T14:50:16.789Z",
-    "updatedAt": "2026-08-03T14:50:16.789Z"
+    "createdAt": "2026-08-03T17:11:52.790Z",
+    "updatedAt": "2026-08-03T17:11:52.790Z"
   },
   {
     "id": "a6b1909d503fe0e1",
@@ -24,8 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a70a0899a79473c37ee0089",
     "publishedAt": "2026-08-03T14:35:10.000Z",
-    "createdAt": "2026-08-03T14:50:17.933Z",
-    "updatedAt": "2026-08-03T14:50:17.933Z"
+    "createdAt": "2026-08-03T17:11:53.819Z",
+    "updatedAt": "2026-08-03T17:11:53.819Z"
   },
   {
     "id": "cda3564b5ed051d6",
@@ -38,8 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a70a0349a7947cc1d4265e3",
     "publishedAt": "2026-08-03T14:27:49.000Z",
-    "createdAt": "2026-08-03T14:50:15.638Z",
-    "updatedAt": "2026-08-03T14:50:15.638Z"
+    "createdAt": "2026-08-03T17:11:51.799Z",
+    "updatedAt": "2026-08-03T17:11:51.799Z"
   },
   {
     "id": "eb8492cd5ec9b12c",
@@ -52,91 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a7096769a79476e1010bce5",
     "publishedAt": "2026-08-03T13:57:36.000Z",
-    "createdAt": "2026-08-03T14:50:19.092Z",
-    "updatedAt": "2026-08-03T14:50:19.092Z"
-  },
-  {
-    "id": "9ca0ccf20fd7f325",
-    "title": "Российские пятиборки взяли первую медаль на ЧЕ после допуска с флагом",
-    "sport": "Другое",
-    "category": "Другие",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/2/89/347857627460892.png",
-    "teaser": "Российские пятиборки взяли первую медаль на ЧЕ после допуска с флагом",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a708b939a79473c37ee0028",
-    "publishedAt": "2026-08-03T13:26:00.000Z",
-    "createdAt": "2026-08-03T14:50:20.175Z",
-    "updatedAt": "2026-08-03T14:50:20.175Z"
-  },
-  {
-    "id": "6e1df00ee233d621",
-    "title": "Чемпион России в составе «Зенита» перешел в «Оренбург»",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/8/81/347857598205818.png",
-    "teaser": "Чемпион России в составе «Зенита» перешел в «Оренбург»",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a7087fe9a7947f779cd6e6c",
-    "publishedAt": "2026-08-03T13:09:12.000Z",
-    "createdAt": "2026-08-03T14:50:21.304Z",
-    "updatedAt": "2026-08-03T14:50:21.304Z"
-  },
-  {
-    "id": "381603a15912d81c",
-    "title": "ЦСКА вернул из «Динамо» двукратного чемпиона КХЛ Мамина",
-    "sport": "Хоккей",
-    "category": "Хоккей",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/7/55/347857601701557.png",
-    "teaser": "ЦСКА вернул из «Динамо» двукратного чемпиона КХЛ Мамина",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a7086db9a79471ed3239a3d",
-    "publishedAt": "2026-08-03T13:08:19.000Z",
-    "createdAt": "2026-08-03T14:50:22.439Z",
-    "updatedAt": "2026-08-03T14:50:22.439Z"
-  },
-  {
-    "id": "8dbfb85d313cb9ba",
-    "title": "NYPost узнала о попытке Инфантино спасти пост главы ФИФА через Трампа",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/7/93/347857579462937.jpeg",
-    "teaser": "NYPost узнала о попытке Инфантино спасти пост главы ФИФА через Трампа",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a7079d09a79475e3ea77282",
-    "publishedAt": "2026-08-03T12:05:51.000Z",
-    "createdAt": "2026-08-03T14:50:23.631Z",
-    "updatedAt": "2026-08-03T14:50:23.631Z"
-  },
-  {
-    "id": "9a24abf9de55016d",
-    "title": "Игрока сборной США по крикету дисквалифицировали на 8 лет за договорняки",
-    "sport": "Другое",
-    "category": "Другие",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/4/26/347857556463264.png",
-    "teaser": "Игрока сборной США по крикету дисквалифицировали на 8 лет за договорняки",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a7077559a794773fec64cf9",
-    "publishedAt": "2026-08-03T11:53:37.000Z",
-    "createdAt": "2026-08-03T14:50:25.809Z",
-    "updatedAt": "2026-08-03T14:50:25.809Z"
-  },
-  {
-    "id": "f3c5617829164afc",
-    "title": "Сборную Новой Зеландии по футзалу наказали за отказ играть с россиянами",
-    "sport": "Другое",
-    "category": "Другие",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/7/78/347857551862787.jpeg",
-    "teaser": "Сборную Новой Зеландии по футзалу наказали за отказ играть с россиянами",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a7071359a79474f8bbe372a",
-    "publishedAt": "2026-08-03T11:22:26.000Z",
-    "createdAt": "2026-08-03T14:50:24.661Z",
-    "updatedAt": "2026-08-03T14:50:24.661Z"
+    "createdAt": "2026-08-03T17:11:54.848Z",
+    "updatedAt": "2026-08-03T17:11:54.848Z"
   }
 ]
