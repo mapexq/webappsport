@@ -1,5 +1,89 @@
 [
   {
+    "id": "ca09967708a85066",
+    "title": "ISU включил Костылеву и Лазарева на этап юниорского Гран-при в Таиланде",
+    "sport": "Другое",
+    "category": "Фигурное катание",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/0/38/347858419995380.jpeg",
+    "teaser": "ISU включил Костылеву и Лазарева на этап юниорского Гран-при в Таиланде",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a71c2b69a7947f075ae95ea",
+    "publishedAt": "2026-08-04T11:20:06.000Z",
+    "createdAt": "2026-08-04T12:04:00.726Z",
+    "updatedAt": "2026-08-04T12:04:00.726Z"
+  },
+  {
+    "id": "a2552d6d208a5ed1",
+    "title": "Пацкевич назвала неприемлемыми обвинения сборной России в краже элементов",
+    "sport": "Другое",
+    "category": "Другие",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/5/30/347858411210305.jpeg",
+    "teaser": "Пацкевич назвала неприемлемыми обвинения сборной России в краже элементов",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a71c4289a7947773f9de49a",
+    "publishedAt": "2026-08-04T11:18:08.000Z",
+    "createdAt": "2026-08-04T12:04:01.948Z",
+    "updatedAt": "2026-08-04T12:04:01.948Z"
+  },
+  {
+    "id": "c048446185d44f13",
+    "title": "Как изменилась жизнь Возиньи после чемпионата мира 2026 года",
+    "sport": "Другое",
+    "category": "ЧМ-2026",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/0/79/347854111167790.jpeg",
+    "teaser": "Как изменилась жизнь Возиньи после чемпионата мира 2026 года",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a6b2a6e9a794724e88b75b4",
+    "publishedAt": "2026-08-04T10:42:43.000Z",
+    "createdAt": "2026-08-04T12:04:04.221Z",
+    "updatedAt": "2026-08-04T12:04:04.221Z"
+  },
+  {
+    "id": "04f1f4af96eb13f2",
+    "title": "Российские волейболисты примут участие в Лиге наций 2027 года",
+    "sport": "Другое",
+    "category": "Другие",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/7/78/347858393842787.jpeg",
+    "teaser": "Российские волейболисты примут участие в Лиге наций 2027 года",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a71bc0e9a794791514038ba",
+    "publishedAt": "2026-08-04T10:35:28.000Z",
+    "createdAt": "2026-08-04T12:04:05.418Z",
+    "updatedAt": "2026-08-04T12:04:05.418Z"
+  },
+  {
+    "id": "40b37f93cfa181ad",
+    "title": "Сборная России по волейболу отказалась от ЧМ по соображениям безопасности",
+    "sport": "Другое",
+    "category": "Другие",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/0/49/347858380169490.jpeg",
+    "teaser": "Сборная России по волейболу отказалась от ЧМ по соображениям безопасности",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a71b6a29a79471b240c048e",
+    "publishedAt": "2026-08-04T09:57:12.000Z",
+    "createdAt": "2026-08-04T12:04:03.015Z",
+    "updatedAt": "2026-08-04T12:04:03.015Z"
+  },
+  {
+    "id": "3c1d74ff7228857f",
+    "title": "В ФИФА назвали выдумкой данные о звонке Инфантино в администрацию Трампа",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/6/52/347858361691526.jpeg",
+    "teaser": "В ФИФА назвали выдумкой данные о звонке Инфантино в администрацию Трампа",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a71af619a7947286e315909",
+    "publishedAt": "2026-08-04T09:46:34.000Z",
+    "createdAt": "2026-08-04T12:04:06.539Z",
+    "updatedAt": "2026-08-04T12:04:06.539Z"
+  },
+  {
     "id": "0ee057a56261df91",
     "title": "Голкипер «Барселоны» тер Штеген перешел на правах аренды в «Аякс»",
     "sport": "Футбол",
@@ -10,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a71a4d49a7947e8ecf2179d",
     "publishedAt": "2026-08-04T09:17:30.000Z",
-    "createdAt": "2026-08-04T09:40:26.518Z",
-    "updatedAt": "2026-08-04T09:40:26.518Z"
+    "createdAt": "2026-08-04T12:04:07.643Z",
+    "updatedAt": "2026-08-04T12:04:07.643Z"
   },
   {
     "id": "68630acfba072c87",
@@ -24,8 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a71a3b39a79474c81f79d6a",
     "publishedAt": "2026-08-04T08:56:25.000Z",
-    "createdAt": "2026-08-04T09:40:27.612Z",
-    "updatedAt": "2026-08-04T09:40:27.612Z"
+    "createdAt": "2026-08-04T12:04:08.663Z",
+    "updatedAt": "2026-08-04T12:04:08.663Z"
   },
   {
     "id": "5a1b5e1bdb6796e7",
@@ -38,8 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a7198139a79476b0c021953",
     "publishedAt": "2026-08-04T08:33:55.000Z",
-    "createdAt": "2026-08-04T09:40:28.680Z",
-    "updatedAt": "2026-08-04T09:40:28.680Z"
+    "createdAt": "2026-08-04T12:04:09.791Z",
+    "updatedAt": "2026-08-04T12:04:09.791Z"
   },
   {
     "id": "9f9956be49473037",
@@ -52,91 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a718d5c9a794745afed08eb",
     "publishedAt": "2026-08-04T07:47:55.000Z",
-    "createdAt": "2026-08-04T09:40:29.831Z",
-    "updatedAt": "2026-08-04T09:40:29.831Z"
-  },
-  {
-    "id": "8723a3f3bb8338de",
-    "title": "Ставший звездой на ЧМ вратарь Возинья подписал контракт с клубом из Чили",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/4/73/347858260662734.jpeg",
-    "teaser": "Ставший звездой на ЧМ вратарь Возинья подписал контракт с клубом из Чили",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a7187429a79473823d39a4c",
-    "publishedAt": "2026-08-04T07:16:29.000Z",
-    "createdAt": "2026-08-04T09:40:31.015Z",
-    "updatedAt": "2026-08-04T09:40:31.015Z"
-  },
-  {
-    "id": "0f8ee37dc83248e7",
-    "title": "Бразильский боец UFC Насименто умер в возрасте 34 лет",
-    "sport": "Единоборства",
-    "category": "Единоборства",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/7/67/347858247933677.jpeg",
-    "teaser": "Бразильский боец UFC Насименто умер в возрасте 34 лет",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a7181d09a79473823d39a39",
-    "publishedAt": "2026-08-04T06:54:47.000Z",
-    "createdAt": "2026-08-04T09:40:32.125Z",
-    "updatedAt": "2026-08-04T09:40:32.125Z"
-  },
-  {
-    "id": "e8a7612051cd936c",
-    "title": "Россиянка поднялась на 103 позиции в WTA после выигрыша дебютного турнира",
-    "sport": "Теннис",
-    "category": "Теннис",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/4/76/347857903338764.jpeg",
-    "teaser": "Россиянка поднялась на 103 позиции в WTA после выигрыша дебютного турнира",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a70fda99a7947f2eff498f8",
-    "publishedAt": "2026-08-03T20:58:18.000Z",
-    "createdAt": "2026-08-04T09:40:33.248Z",
-    "updatedAt": "2026-08-04T09:40:33.248Z"
-  },
-  {
-    "id": "c7d7dc24d022d4fd",
-    "title": "Экс-футболист сборной России завершил карьеру и стал тренером в Бельгии",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/8/94/347857884993948.png",
-    "teaser": "Экс-футболист сборной России завершил карьеру и стал тренером в Бельгии",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a70f4a69a7947d07d5ff71c",
-    "publishedAt": "2026-08-03T20:57:16.000Z",
-    "createdAt": "2026-08-04T09:40:34.448Z",
-    "updatedAt": "2026-08-04T09:40:34.448Z"
-  },
-  {
-    "id": "2f16ee9b0f0366e7",
-    "title": "Взявший серебро ЧЕ прыгун в воду Кузнецов получил травму перед турниром",
-    "sport": "Другое",
-    "category": "Другие",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/0/71/347857867721710.jpeg",
-    "teaser": "Взявший серебро ЧЕ прыгун в воду Кузнецов получил травму перед турниром",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a70ee669a7947ee47503549",
-    "publishedAt": "2026-08-03T20:09:46.000Z",
-    "createdAt": "2026-08-04T09:40:36.618Z",
-    "updatedAt": "2026-08-04T09:40:36.618Z"
-  },
-  {
-    "id": "b012824429fb307b",
-    "title": "Times узнала о плане трех федераций «парализовать ФИФА»",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/7/35/347857856490357.jpeg",
-    "teaser": "Times узнала о плане трех федераций «парализовать ФИФА»",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a70e7da9a7947cc045db1d2",
-    "publishedAt": "2026-08-03T19:59:00.000Z",
-    "createdAt": "2026-08-04T09:40:35.532Z",
-    "updatedAt": "2026-08-04T09:40:35.532Z"
+    "createdAt": "2026-08-04T12:04:10.906Z",
+    "updatedAt": "2026-08-04T12:04:10.906Z"
   }
 ]
