@@ -1,5 +1,89 @@
 [
   {
+    "id": "0ee057a56261df91",
+    "title": "Голкипер «Барселоны» тер Штеген перешел на правах аренды в «Аякс»",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/1/99/347858337990991.jpeg",
+    "teaser": "Голкипер «Барселоны» тер Штеген перешел на правах аренды в «Аякс»",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a71a4d49a7947e8ecf2179d",
+    "publishedAt": "2026-08-04T09:17:30.000Z",
+    "createdAt": "2026-08-04T09:40:26.518Z",
+    "updatedAt": "2026-08-04T09:40:26.518Z"
+  },
+  {
+    "id": "68630acfba072c87",
+    "title": "У умершего в 19 лет воспитанника «Салавата» не было проблем со здоровьем",
+    "sport": "Хоккей",
+    "category": "Хоккей",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/7/82/347858324784827.jpeg",
+    "teaser": "У умершего в 19 лет воспитанника «Салавата» не было проблем со здоровьем",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a71a3b39a79474c81f79d6a",
+    "publishedAt": "2026-08-04T08:56:25.000Z",
+    "createdAt": "2026-08-04T09:40:27.612Z",
+    "updatedAt": "2026-08-04T09:40:27.612Z"
+  },
+  {
+    "id": "5a1b5e1bdb6796e7",
+    "title": "Испанская синхронистка обвинила сборную России в воровстве элемента на ЧЕ",
+    "sport": "Другое",
+    "category": "Другие",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/3/37/347858308757373.jpeg",
+    "teaser": "Испанская синхронистка обвинила сборную России в воровстве элемента на ЧЕ",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a7198139a79476b0c021953",
+    "publishedAt": "2026-08-04T08:33:55.000Z",
+    "createdAt": "2026-08-04T09:40:28.680Z",
+    "updatedAt": "2026-08-04T09:40:28.680Z"
+  },
+  {
+    "id": "9f9956be49473037",
+    "title": "Неймар заявил, что не думает о завершении карьеры",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/1/90/347858268422901.jpeg",
+    "teaser": "Неймар заявил, что не думает о завершении карьеры",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a718d5c9a794745afed08eb",
+    "publishedAt": "2026-08-04T07:47:55.000Z",
+    "createdAt": "2026-08-04T09:40:29.831Z",
+    "updatedAt": "2026-08-04T09:40:29.831Z"
+  },
+  {
+    "id": "8723a3f3bb8338de",
+    "title": "Ставший звездой на ЧМ вратарь Возинья подписал контракт с клубом из Чили",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/4/73/347858260662734.jpeg",
+    "teaser": "Ставший звездой на ЧМ вратарь Возинья подписал контракт с клубом из Чили",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a7187429a79473823d39a4c",
+    "publishedAt": "2026-08-04T07:16:29.000Z",
+    "createdAt": "2026-08-04T09:40:31.015Z",
+    "updatedAt": "2026-08-04T09:40:31.015Z"
+  },
+  {
+    "id": "0f8ee37dc83248e7",
+    "title": "Бразильский боец UFC Насименто умер в возрасте 34 лет",
+    "sport": "Единоборства",
+    "category": "Единоборства",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/7/67/347858247933677.jpeg",
+    "teaser": "Бразильский боец UFC Насименто умер в возрасте 34 лет",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a7181d09a79473823d39a39",
+    "publishedAt": "2026-08-04T06:54:47.000Z",
+    "createdAt": "2026-08-04T09:40:32.125Z",
+    "updatedAt": "2026-08-04T09:40:32.125Z"
+  },
+  {
     "id": "e8a7612051cd936c",
     "title": "Россиянка поднялась на 103 позиции в WTA после выигрыша дебютного турнира",
     "sport": "Теннис",
@@ -10,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a70fda99a7947f2eff498f8",
     "publishedAt": "2026-08-03T20:58:18.000Z",
-    "createdAt": "2026-08-04T06:31:38.971Z",
-    "updatedAt": "2026-08-04T06:31:38.971Z"
+    "createdAt": "2026-08-04T09:40:33.248Z",
+    "updatedAt": "2026-08-04T09:40:33.248Z"
   },
   {
     "id": "c7d7dc24d022d4fd",
@@ -24,8 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a70f4a69a7947d07d5ff71c",
     "publishedAt": "2026-08-03T20:57:16.000Z",
-    "createdAt": "2026-08-04T06:31:40.082Z",
-    "updatedAt": "2026-08-04T06:31:40.082Z"
+    "createdAt": "2026-08-04T09:40:34.448Z",
+    "updatedAt": "2026-08-04T09:40:34.448Z"
   },
   {
     "id": "2f16ee9b0f0366e7",
@@ -38,8 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a70ee669a7947ee47503549",
     "publishedAt": "2026-08-03T20:09:46.000Z",
-    "createdAt": "2026-08-04T06:31:42.192Z",
-    "updatedAt": "2026-08-04T06:31:42.192Z"
+    "createdAt": "2026-08-04T09:40:36.618Z",
+    "updatedAt": "2026-08-04T09:40:36.618Z"
   },
   {
     "id": "b012824429fb307b",
@@ -52,91 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a70e7da9a7947cc045db1d2",
     "publishedAt": "2026-08-03T19:59:00.000Z",
-    "createdAt": "2026-08-04T06:31:41.074Z",
-    "updatedAt": "2026-08-04T06:31:41.074Z"
-  },
-  {
-    "id": "3d6bb383b1010be2",
-    "title": "Серена и Винус Уильямс сыграют в паре на «Мастерсе» в Цинциннати",
-    "sport": "Теннис",
-    "category": "Теннис",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/2/93/347857839301932.jpeg",
-    "teaser": "Серена и Винус Уильямс сыграют в паре на «Мастерсе» в Цинциннати",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a70e2f89a7947f2eff498be",
-    "publishedAt": "2026-08-03T19:12:46.000Z",
-    "createdAt": "2026-08-04T06:31:43.303Z",
-    "updatedAt": "2026-08-04T06:31:43.303Z"
-  },
-  {
-    "id": "38e1ab6ca57d2bc2",
-    "title": "Судья сбил в подкате игрока и удалил двух тренеров в матче Первой лиги",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/7/32/347857821380327.png",
-    "teaser": "Судья сбил в подкате игрока и удалил двух тренеров в матче Первой лиги",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a70d89a9a79479eb13f8cc4",
-    "publishedAt": "2026-08-03T18:59:55.000Z",
-    "createdAt": "2026-08-04T06:31:44.408Z",
-    "updatedAt": "2026-08-04T06:31:44.408Z"
-  },
-  {
-    "id": "5cdb51b464ce99e9",
-    "title": "Россияне завоевали серебро чемпионата Европы в синхронных прыжках",
-    "sport": "Другое",
-    "category": "Другие",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/1/97/347857819456971.jpeg",
-    "teaser": "Россияне завоевали серебро чемпионата Европы в синхронных прыжках",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a70dd219a7947d07d5ff6f8",
-    "publishedAt": "2026-08-03T18:36:05.000Z",
-    "createdAt": "2026-08-04T06:31:45.577Z",
-    "updatedAt": "2026-08-04T06:31:45.577Z"
-  },
-  {
-    "id": "01ef8ca557d5c9eb",
-    "title": "ЦСКА обратился в ФИФА из-за долгов турецкого клуба за трансфер игрока",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/4/62/347857795446624.jpeg",
-    "teaser": "ЦСКА обратился в ФИФА из-за долгов турецкого клуба за трансфер игрока",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a70d15a9a7947a15fa3649b",
-    "publishedAt": "2026-08-03T17:58:58.000Z",
-    "createdAt": "2026-08-04T06:31:47.889Z",
-    "updatedAt": "2026-08-04T06:31:47.889Z"
-  },
-  {
-    "id": "876da0521c6ab647",
-    "title": "Ромашина рассказала, как синхронистки «подглядели» победный элемент на ЧЕ",
-    "sport": "Другое",
-    "category": "Другие",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/2/13/347857782656132.jpeg",
-    "teaser": "Ромашина рассказала, как синхронистки «подглядели» победный элемент на ЧЕ",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a70cb2e9a7947e5d4a42522",
-    "publishedAt": "2026-08-03T17:35:44.000Z",
-    "createdAt": "2026-08-04T06:31:49.198Z",
-    "updatedAt": "2026-08-04T06:31:49.198Z"
-  },
-  {
-    "id": "19d2da0e5f6abc0b",
-    "title": "Марк Кондратюк получил допуск ISU на международные турниры",
-    "sport": "Другое",
-    "category": "Фигурное катание",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/0/79/347857779621790.png",
-    "teaser": "Марк Кондратюк получил допуск ISU на международные турниры",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a70c7b49a7947f2eff49877",
-    "publishedAt": "2026-08-03T17:34:31.000Z",
-    "createdAt": "2026-08-04T06:31:46.759Z",
-    "updatedAt": "2026-08-04T06:31:46.759Z"
+    "createdAt": "2026-08-04T09:40:35.532Z",
+    "updatedAt": "2026-08-04T09:40:35.532Z"
   }
 ]
