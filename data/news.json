@@ -1,5 +1,47 @@
 [
   {
+    "id": "c257c893e8b5a1ea",
+    "title": "Adidas извинился за обилие розовых бутс на ЧМ-26, назвав это совпадением",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/7/74/347859626162747.jpeg",
+    "teaser": "Adidas извинился за обилие розовых бутс на ЧМ-26, назвав это совпадением",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a7393b79a7947ef06350294",
+    "publishedAt": "2026-08-05T21:16:24.000Z",
+    "createdAt": "2026-08-05T22:15:22.647Z",
+    "updatedAt": "2026-08-05T22:15:22.647Z"
+  },
+  {
+    "id": "3f59c5d280db0f6c",
+    "title": "Игрока «Зенита» госпитализировали после удара локтем в матче Кубка России",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/3/94/347859642310943.jpeg",
+    "teaser": "Игрока «Зенита» госпитализировали после удара локтем в матче Кубка России",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a73a33f9a79475bf7bebc22",
+    "publishedAt": "2026-08-05T21:15:50.000Z",
+    "createdAt": "2026-08-05T22:15:23.697Z",
+    "updatedAt": "2026-08-05T22:15:23.697Z"
+  },
+  {
+    "id": "f2177425a6d2da1e",
+    "title": "Мирра Андреева уверенно вышла в третий круг турнира в Торонто",
+    "sport": "Теннис",
+    "category": "Теннис",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/6/39/347859613383396.jpeg",
+    "teaser": "Мирра Андреева уверенно вышла в третий круг турнира в Торонто",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a7399289a794791448bf9b7",
+    "publishedAt": "2026-08-05T20:54:21.000Z",
+    "createdAt": "2026-08-05T22:15:24.823Z",
+    "updatedAt": "2026-08-05T22:15:24.823Z"
+  },
+  {
     "id": "88b49efa1385fa63",
     "title": "«Краснодар» по пенальти вырвал победу у «Ахмата» на старте Кубка России",
     "sport": "Футбол",
@@ -10,8 +52,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a7375fc9a7947a663be2b8a",
     "publishedAt": "2026-08-05T20:15:26.000Z",
-    "createdAt": "2026-08-05T20:34:49.092Z",
-    "updatedAt": "2026-08-05T20:34:49.092Z"
+    "createdAt": "2026-08-05T22:15:25.936Z",
+    "updatedAt": "2026-08-05T22:15:25.936Z"
   },
   {
     "id": "a7fb5e568f28f4ad",
@@ -24,8 +66,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a7374519a7947a43a39b021",
     "publishedAt": "2026-08-05T19:51:30.000Z",
-    "createdAt": "2026-08-05T20:34:50.081Z",
-    "updatedAt": "2026-08-05T20:34:50.081Z"
+    "createdAt": "2026-08-05T22:15:27.042Z",
+    "updatedAt": "2026-08-05T22:15:27.042Z"
   },
   {
     "id": "992f609c30aa6dda",
@@ -38,8 +80,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a72fd8a9a79479d05da95a8",
     "publishedAt": "2026-08-05T18:46:08.000Z",
-    "createdAt": "2026-08-05T20:34:51.978Z",
-    "updatedAt": "2026-08-05T20:34:51.978Z"
+    "createdAt": "2026-08-05T22:15:29.326Z",
+    "updatedAt": "2026-08-05T22:15:29.326Z"
   },
   {
     "id": "bc27a32d2b33d9ba",
@@ -52,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a7378cb9a79478eed470a20",
     "publishedAt": "2026-08-05T18:25:50.000Z",
-    "createdAt": "2026-08-05T20:34:51.000Z",
-    "updatedAt": "2026-08-05T20:34:51.000Z"
+    "createdAt": "2026-08-05T22:15:28.206Z",
+    "updatedAt": "2026-08-05T22:15:28.206Z"
   },
   {
     "id": "9d09be8a02de003e",
@@ -66,8 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a7360989a794773982285ac",
     "publishedAt": "2026-08-05T17:36:53.000Z",
-    "createdAt": "2026-08-05T20:34:53.890Z",
-    "updatedAt": "2026-08-05T20:34:53.890Z"
+    "createdAt": "2026-08-05T22:15:31.678Z",
+    "updatedAt": "2026-08-05T22:15:31.678Z"
   },
   {
     "id": "423c475cdddfa08c",
@@ -80,22 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a7361539a7947e2e203971d",
     "publishedAt": "2026-08-05T17:34:32.000Z",
-    "createdAt": "2026-08-05T20:34:52.970Z",
-    "updatedAt": "2026-08-05T20:34:52.970Z"
-  },
-  {
-    "id": "a108a08d9c50e760",
-    "title": "Экономический эффект Казанского марафона оценили в более ₽4,4 млрд Эксклюзив",
-    "sport": "Другое",
-    "category": "Другие",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/2/25/347859473987252.jpeg",
-    "teaser": "Экономический эффект Казанского марафона оценили в более ₽4,4 млрд Эксклюзив",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a7364d19a7947eaa1fc2b6a",
-    "publishedAt": "2026-08-05T16:31:59.000Z",
-    "createdAt": "2026-08-05T20:34:55.804Z",
-    "updatedAt": "2026-08-05T20:34:55.804Z"
+    "createdAt": "2026-08-05T22:15:30.550Z",
+    "updatedAt": "2026-08-05T22:15:30.550Z"
   },
   {
     "id": "008db66dbf3e7c80",
@@ -108,35 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a7351ef9a79475918ec9913",
     "publishedAt": "2026-08-05T15:31:24.000Z",
-    "createdAt": "2026-08-05T20:34:54.847Z",
-    "updatedAt": "2026-08-05T20:34:54.847Z"
-  },
-  {
-    "id": "e5ad0fa571f5866d",
-    "title": "Дом чемпиона Олимпиады сгорел, пока он выступал на Играх Содружества",
-    "sport": "Другое",
-    "category": "Другие",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/3/03/347859414613033.jpeg",
-    "teaser": "Дом чемпиона Олимпиады сгорел, пока он выступал на Играх Содружества",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a734dbb9a7947a3812d2c60",
-    "publishedAt": "2026-08-05T15:09:02.000Z",
-    "createdAt": "2026-08-05T20:34:56.735Z",
-    "updatedAt": "2026-08-05T20:34:56.735Z"
-  },
-  {
-    "id": "8e3b598dd92c0c3a",
-    "title": "Макгрегор перенес операцию на колене после неудачного возвращения в UFC",
-    "sport": "Единоборства",
-    "category": "Единоборства",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/9/29/347859407856299.jpeg",
-    "teaser": "Макгрегор перенес операцию на колене после неудачного возвращения в UFC",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a73461d9a794756bc04eaed",
-    "publishedAt": "2026-08-05T15:02:27.000Z",
-    "createdAt": "2026-08-05T20:34:57.779Z",
-    "updatedAt": "2026-08-05T20:34:57.779Z"
+    "createdAt": "2026-08-05T22:15:32.813Z",
+    "updatedAt": "2026-08-05T22:15:32.813Z"
   }
 ]
