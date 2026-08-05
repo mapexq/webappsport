@@ -1,5 +1,89 @@
 [
   {
+    "id": "d630a144083eba02",
+    "title": "Россиянка Кошелева вошла в руководство итальянского волейбольного клуба",
+    "sport": "Другое",
+    "category": "Другие",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/7/04/347859252801047.jpeg",
+    "teaser": "Россиянка Кошелева вошла в руководство итальянского волейбольного клуба",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a7309a89a7947575dc51d86",
+    "publishedAt": "2026-08-05T11:02:09.000Z",
+    "createdAt": "2026-08-05T11:23:43.794Z",
+    "updatedAt": "2026-08-05T11:23:43.794Z"
+  },
+  {
+    "id": "aec9ee5962dfc430",
+    "title": "Инфантино созвал экстренную встречу с топ-чиновниками ФИФА",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/0/63/347859251602630.jpeg",
+    "teaser": "Инфантино созвал экстренную встречу с топ-чиновниками ФИФА",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a730d249a794719d90a8847",
+    "publishedAt": "2026-08-05T10:57:56.000Z",
+    "createdAt": "2026-08-05T11:23:42.745Z",
+    "updatedAt": "2026-08-05T11:23:42.745Z"
+  },
+  {
+    "id": "f863cf3a864d6788",
+    "title": "В Таиланде от удара молнии во время матча погиб 24-летний футболист",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/4/48/347859242812484.png",
+    "teaser": "В Таиланде от удара молнии во время матча погиб 24-летний футболист",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a7307149a79479194852027",
+    "publishedAt": "2026-08-05T10:14:02.000Z",
+    "createdAt": "2026-08-05T11:23:44.736Z",
+    "updatedAt": "2026-08-05T11:23:44.736Z"
+  },
+  {
+    "id": "aed29544338b9178",
+    "title": "Вышедший во второй этап Кубка России клуб снялся с турнира из-за финансов",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/7/91/347859229716917.jpeg",
+    "teaser": "Вышедший во второй этап Кубка России клуб снялся с турнира из-за финансов",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a72ff489a794765273af8bc",
+    "publishedAt": "2026-08-05T09:58:01.000Z",
+    "createdAt": "2026-08-05T11:23:48.723Z",
+    "updatedAt": "2026-08-05T11:23:48.723Z"
+  },
+  {
+    "id": "825288d6db660d7a",
+    "title": "Гонщиц на «Тур де Франс» начали проверять из-за махинаций с бюстгальтером",
+    "sport": "Другое",
+    "category": "Другие",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/6/86/347859195934866.jpeg",
+    "teaser": "Гонщиц на «Тур де Франс» начали проверять из-за махинаций с бюстгальтером",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a72f3199a794787d87baed4",
+    "publishedAt": "2026-08-05T09:14:10.000Z",
+    "createdAt": "2026-08-05T11:23:49.866Z",
+    "updatedAt": "2026-08-05T11:23:49.866Z"
+  },
+  {
+    "id": "7ee8f43d0610aebf",
+    "title": "Экс-президент ФИФА предложил поставить женщину во главе организации",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/4/90/347859157241904.jpeg",
+    "teaser": "Экс-президент ФИФА предложил поставить женщину во главе организации",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a72e9019a79471bfb9ec102",
+    "publishedAt": "2026-08-05T08:45:38.000Z",
+    "createdAt": "2026-08-05T11:23:50.791Z",
+    "updatedAt": "2026-08-05T11:23:50.791Z"
+  },
+  {
     "id": "de4889d24c730a47",
     "title": "Алькарас снялся с турнира серии «Мастерс» в Цинциннати из-за травмы",
     "sport": "Теннис",
@@ -10,36 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a72d85d9a79472f26b5271a",
     "publishedAt": "2026-08-05T07:36:15.000Z",
-    "createdAt": "2026-08-05T08:43:00.097Z",
-    "updatedAt": "2026-08-05T08:43:00.097Z"
-  },
-  {
-    "id": "f9df01a68bd76604",
-    "title": "Греческий клуб арендовал одного из самых дорогих игроков «Спартака»",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/4/57/347859127763574.jpeg",
-    "teaser": "Греческий клуб арендовал одного из самых дорогих игроков «Спартака»",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a72d93f9a7947d58966fdf0",
-    "publishedAt": "2026-08-05T07:15:00.000Z",
-    "createdAt": "2026-08-05T08:43:01.221Z",
-    "updatedAt": "2026-08-05T08:43:01.221Z"
-  },
-  {
-    "id": "90ccff80ef8bb010",
-    "title": "Рублев проиграл 281-й ракетке мира на турнире серии «Мастерс» в Монреале",
-    "sport": "Теннис",
-    "category": "Теннис",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/7/44/347859107983447.jpeg",
-    "teaser": "Рублев проиграл 281-й ракетке мира на турнире серии «Мастерс» в Монреале",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a72d38b9a794730b0917168",
-    "publishedAt": "2026-08-05T07:10:18.000Z",
-    "createdAt": "2026-08-05T08:43:04.294Z",
-    "updatedAt": "2026-08-05T08:43:04.294Z"
+    "createdAt": "2026-08-05T11:23:51.697Z",
+    "updatedAt": "2026-08-05T11:23:51.697Z"
   },
   {
     "id": "d381ab7e3c237aca",
@@ -52,8 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a71e2e89a79476e2fa5bf0e",
     "publishedAt": "2026-08-05T07:00:37.000Z",
-    "createdAt": "2026-08-05T08:43:02.176Z",
-    "updatedAt": "2026-08-05T08:43:02.176Z"
+    "createdAt": "2026-08-05T11:23:45.780Z",
+    "updatedAt": "2026-08-05T11:23:45.780Z"
   },
   {
     "id": "aa78673e2ad79515",
@@ -66,22 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a71a70a9a79470163f362fb",
     "publishedAt": "2026-08-05T05:04:17.000Z",
-    "createdAt": "2026-08-05T08:43:03.208Z",
-    "updatedAt": "2026-08-05T08:43:03.208Z"
-  },
-  {
-    "id": "69f3340fcbcb72ff",
-    "title": "Россияне забрали все золото в первый день Кубка мира по зимнему плаванию",
-    "sport": "Другое",
-    "category": "Другие",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/6/34/347841191298346.svg",
-    "teaser": "Россияне забрали все золото в первый день Кубка мира по зимнему плаванию",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a727a599a79475768b457c7",
-    "publishedAt": "2026-08-05T00:36:30.000Z",
-    "createdAt": "2026-08-05T08:43:07.093Z",
-    "updatedAt": "2026-08-05T08:43:07.093Z"
+    "createdAt": "2026-08-05T11:23:46.890Z",
+    "updatedAt": "2026-08-05T11:23:46.890Z"
   },
   {
     "id": "e351cd39f1a06d1b",
@@ -94,49 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a71e2889a7947bcf443392f",
     "publishedAt": "2026-08-04T21:03:51.000Z",
-    "createdAt": "2026-08-05T08:43:05.304Z",
-    "updatedAt": "2026-08-05T08:43:05.304Z"
-  },
-  {
-    "id": "22e237e79a9300e3",
-    "title": "Умер двукратный чемпион Европы по стендовой стрельбе Рудольф Полянский",
-    "sport": "Другое",
-    "category": "Другие",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/3/47/347858754390473.jpeg",
-    "teaser": "Умер двукратный чемпион Европы по стендовой стрельбе Рудольф Полянский",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a724ac69a79471d9849a80c",
-    "publishedAt": "2026-08-04T20:52:23.000Z",
-    "createdAt": "2026-08-05T08:43:09.195Z",
-    "updatedAt": "2026-08-05T08:43:09.195Z"
-  },
-  {
-    "id": "380ae43caf7f7b98",
-    "title": "Россиянка завоевала бронзу в прыжках в воду на чемпионате Европы",
-    "sport": "Другое",
-    "category": "Другие",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/5/65/347858750054655.jpeg",
-    "teaser": "Россиянка завоевала бронзу в прыжках в воду на чемпионате Европы",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a7248d09a79474f6be8b830",
-    "publishedAt": "2026-08-04T20:39:42.000Z",
-    "createdAt": "2026-08-05T08:43:08.169Z",
-    "updatedAt": "2026-08-05T08:43:08.169Z"
-  },
-  {
-    "id": "4cdb285f9e13c09f",
-    "title": "Шнайдер вышла в третий круг турнира в Торонто и может сыграть с Калинской",
-    "sport": "Теннис",
-    "category": "Теннис",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/4/54/347858744132544.jpeg",
-    "teaser": "Шнайдер вышла в третий круг турнира в Торонто и может сыграть с Калинской",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a72464c9a7947688b18366a",
-    "publishedAt": "2026-08-04T20:28:42.000Z",
-    "createdAt": "2026-08-05T08:43:10.215Z",
-    "updatedAt": "2026-08-05T08:43:10.215Z"
+    "createdAt": "2026-08-05T11:23:47.917Z",
+    "updatedAt": "2026-08-05T11:23:47.917Z"
   }
 ]
