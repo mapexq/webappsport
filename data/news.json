@@ -1,5 +1,89 @@
 [
   {
+    "id": "a64c2864e4d2c1ce",
+    "title": "FIVB не накажет Россию за отказ ехать на чемпионат мира в Польшу",
+    "sport": "Другое",
+    "category": "Другие",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/6/85/347860101673856.png",
+    "teaser": "FIVB не накажет Россию за отказ ехать на чемпионат мира в Польшу",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a74576f9a79470c4759905e",
+    "publishedAt": "2026-08-06T10:14:09.000Z",
+    "createdAt": "2026-08-06T10:44:08.263Z",
+    "updatedAt": "2026-08-06T10:44:08.264Z"
+  },
+  {
+    "id": "9aba874967a0e756",
+    "title": "Медведев назвал проигранный матч в Монреале «одним из худших в жизни»",
+    "sport": "Теннис",
+    "category": "Теннис",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/5/85/347860096240855.jpeg",
+    "teaser": "Медведев назвал проигранный матч в Монреале «одним из худших в жизни»",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a7454169a79472e5b790f71",
+    "publishedAt": "2026-08-06T09:57:59.000Z",
+    "createdAt": "2026-08-06T10:44:09.521Z",
+    "updatedAt": "2026-08-06T10:44:09.521Z"
+  },
+  {
+    "id": "23f4c9c951080d1c",
+    "title": "Фабио Каннаваро заявил, что в сборной Узбекистана завелся «крот»",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/0/83/347860078234830.jpeg",
+    "teaser": "Фабио Каннаваро заявил, что в сборной Узбекистана завелся «крот»",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a7449ce9a7947a2af281f64",
+    "publishedAt": "2026-08-06T09:47:28.000Z",
+    "createdAt": "2026-08-06T10:44:10.655Z",
+    "updatedAt": "2026-08-06T10:44:10.655Z"
+  },
+  {
+    "id": "619e83bbe95d9f0d",
+    "title": "«Спартак» купил косовского форварда Даку вопреки протестам фанатов",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/2/18/347860075373182.png",
+    "teaser": "«Спартак» купил косовского форварда Даку вопреки протестам фанатов",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a744f2f9a79477ebfe07596",
+    "publishedAt": "2026-08-06T09:28:38.000Z",
+    "createdAt": "2026-08-06T10:44:11.734Z",
+    "updatedAt": "2026-08-06T10:44:11.734Z"
+  },
+  {
+    "id": "72698e5201b2b0ee",
+    "title": "Презентацию Возиньи в новом клубе посетили более 30 тыс. человек",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/2/77/347860055662772.jpeg",
+    "teaser": "Презентацию Возиньи в новом клубе посетили более 30 тыс. человек",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a74404f9a7947fcdbaf26e0",
+    "publishedAt": "2026-08-06T08:52:37.000Z",
+    "createdAt": "2026-08-06T10:44:12.877Z",
+    "updatedAt": "2026-08-06T10:44:12.877Z"
+  },
+  {
+    "id": "3d4f00450c0b2ef5",
+    "title": "Месси оформил дубль в первом матче в старте после ЧМ",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/8/21/347860012815218.jpeg",
+    "teaser": "Месси оформил дубль в первом матче в старте после ЧМ",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a7435679a7947adc5b45ecc",
+    "publishedAt": "2026-08-06T08:18:53.000Z",
+    "createdAt": "2026-08-06T10:44:14.054Z",
+    "updatedAt": "2026-08-06T10:44:14.054Z"
+  },
+  {
     "id": "8ec8db74e3f59173",
     "title": "Россияне завершили свое участие на турнире ATP серии «Мастерс» в Монреале",
     "sport": "Теннис",
@@ -10,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a742fe09a7947fcdbaf26a5",
     "publishedAt": "2026-08-06T07:20:45.000Z",
-    "createdAt": "2026-08-06T07:42:50.841Z",
-    "updatedAt": "2026-08-06T07:42:50.841Z"
+    "createdAt": "2026-08-06T10:44:17.526Z",
+    "updatedAt": "2026-08-06T10:44:17.526Z"
   },
   {
     "id": "bcab9a5725534114",
@@ -24,8 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a7426939a79478435c1213c",
     "publishedAt": "2026-08-06T07:15:22.000Z",
-    "createdAt": "2026-08-06T07:42:49.828Z",
-    "updatedAt": "2026-08-06T07:42:49.828Z"
+    "createdAt": "2026-08-06T10:44:16.373Z",
+    "updatedAt": "2026-08-06T10:44:16.373Z"
   },
   {
     "id": "75b37bc31d5e7e96",
@@ -38,8 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a6de8159a79471fa89ef0a9",
     "publishedAt": "2026-08-06T05:00:38.000Z",
-    "createdAt": "2026-08-06T07:42:52.317Z",
-    "updatedAt": "2026-08-06T07:42:52.317Z"
+    "createdAt": "2026-08-06T10:44:15.193Z",
+    "updatedAt": "2026-08-06T10:44:15.193Z"
   },
   {
     "id": "c257c893e8b5a1ea",
@@ -52,91 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a7393b79a7947ef06350294",
     "publishedAt": "2026-08-05T21:16:24.000Z",
-    "createdAt": "2026-08-06T07:42:53.380Z",
-    "updatedAt": "2026-08-06T07:42:53.380Z"
-  },
-  {
-    "id": "3f59c5d280db0f6c",
-    "title": "Игрока «Зенита» госпитализировали после удара локтем в матче Кубка России",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/3/94/347859642310943.jpeg",
-    "teaser": "Игрока «Зенита» госпитализировали после удара локтем в матче Кубка России",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a73a33f9a79475bf7bebc22",
-    "publishedAt": "2026-08-05T21:15:50.000Z",
-    "createdAt": "2026-08-06T07:42:54.519Z",
-    "updatedAt": "2026-08-06T07:42:54.519Z"
-  },
-  {
-    "id": "f2177425a6d2da1e",
-    "title": "Мирра Андреева уверенно вышла в третий круг турнира в Торонто",
-    "sport": "Теннис",
-    "category": "Теннис",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/6/39/347859613383396.jpeg",
-    "teaser": "Мирра Андреева уверенно вышла в третий круг турнира в Торонто",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a7399289a794791448bf9b7",
-    "publishedAt": "2026-08-05T20:54:21.000Z",
-    "createdAt": "2026-08-06T07:42:55.669Z",
-    "updatedAt": "2026-08-06T07:42:55.669Z"
-  },
-  {
-    "id": "88b49efa1385fa63",
-    "title": "«Краснодар» по пенальти вырвал победу у «Ахмата» на старте Кубка России",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/6/97/347859581586976.jpeg",
-    "teaser": "«Краснодар» по пенальти вырвал победу у «Ахмата» на старте Кубка России",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a7375fc9a7947a663be2b8a",
-    "publishedAt": "2026-08-05T20:15:26.000Z",
-    "createdAt": "2026-08-06T07:42:56.788Z",
-    "updatedAt": "2026-08-06T07:42:56.788Z"
-  },
-  {
-    "id": "a7fb5e568f28f4ad",
-    "title": "«Балтика» проиграла «Зениту» в Кубке России из-за гола своего экс-игрока",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/5/98/347859579263985.jpeg",
-    "teaser": "«Балтика» проиграла «Зениту» в Кубке России из-за гола своего экс-игрока",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a7374519a7947a43a39b021",
-    "publishedAt": "2026-08-05T19:51:30.000Z",
-    "createdAt": "2026-08-06T07:42:57.914Z",
-    "updatedAt": "2026-08-06T07:42:57.914Z"
-  },
-  {
-    "id": "992f609c30aa6dda",
-    "title": "Салах приехал в турецкий Трабзон, где подпишет контракт с местным клубом",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/8/35/347859221845358.png",
-    "teaser": "Салах приехал в турецкий Трабзон, где подпишет контракт с местным клубом",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a72fd8a9a79479d05da95a8",
-    "publishedAt": "2026-08-05T18:46:08.000Z",
-    "createdAt": "2026-08-06T07:43:00.109Z",
-    "updatedAt": "2026-08-06T07:43:00.109Z"
-  },
-  {
-    "id": "bc27a32d2b33d9ba",
-    "title": "Times узнала о предложении главы ФИФА отдать Марокко финал ЧМ-2030",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/3/30/347859539055303.png",
-    "teaser": "Times узнала о предложении главы ФИФА отдать Марокко финал ЧМ-2030",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a7378cb9a79478eed470a20",
-    "publishedAt": "2026-08-05T18:25:50.000Z",
-    "createdAt": "2026-08-06T07:42:59.023Z",
-    "updatedAt": "2026-08-06T07:42:59.023Z"
+    "createdAt": "2026-08-06T10:44:18.670Z",
+    "updatedAt": "2026-08-06T10:44:18.670Z"
   }
 ]
