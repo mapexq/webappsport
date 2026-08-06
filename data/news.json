@@ -1,5 +1,61 @@
 [
   {
+    "id": "3938efbcd1323150",
+    "title": "Хоккейное «Динамо» продлило контракт с капитаном",
+    "sport": "Хоккей",
+    "category": "Хоккей",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/9/42/347860171274429.png",
+    "teaser": "Хоккейное «Динамо» продлило контракт с капитаном",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a7472639a79470abe31f95f",
+    "publishedAt": "2026-08-06T12:05:14.000Z",
+    "createdAt": "2026-08-06T12:59:01.306Z",
+    "updatedAt": "2026-08-06T12:59:01.306Z"
+  },
+  {
+    "id": "319e63856d062b4c",
+    "title": "Экс-игрока сборной России Заболотного дисквалифицировали за допинг",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/7/21/347860146837217.png",
+    "teaser": "Экс-игрока сборной России Заболотного дисквалифицировали за допинг",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a746bae9a7947bbb90109bb",
+    "publishedAt": "2026-08-06T11:24:32.000Z",
+    "createdAt": "2026-08-06T12:59:00.352Z",
+    "updatedAt": "2026-08-06T12:59:00.352Z"
+  },
+  {
+    "id": "e0bdcb41fcc2a95a",
+    "title": "В Сеуле обыскали офис KFA из-за назначения экс-тренера сборной по футболу",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/2/42/347860137635422.jpeg",
+    "teaser": "В Сеуле обыскали офис KFA из-за назначения экс-тренера сборной по футболу",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a7462799a794711845eb569",
+    "publishedAt": "2026-08-06T11:18:20.000Z",
+    "createdAt": "2026-08-06T12:59:04.204Z",
+    "updatedAt": "2026-08-06T12:59:04.204Z"
+  },
+  {
+    "id": "08b7d2538c57df0d",
+    "title": "В Уганде местную звезду футбола избили до смерти во время ограбления",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/2/07/347860126346072.png",
+    "teaser": "В Уганде местную звезду футбола избили до смерти во время ограбления",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a7461039a794785e0d127e2",
+    "publishedAt": "2026-08-06T11:09:09.000Z",
+    "createdAt": "2026-08-06T12:59:02.283Z",
+    "updatedAt": "2026-08-06T12:59:02.283Z"
+  },
+  {
     "id": "a64c2864e4d2c1ce",
     "title": "FIVB не накажет Россию за отказ ехать на чемпионат мира в Польшу",
     "sport": "Другое",
@@ -10,8 +66,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a74576f9a79470c4759905e",
     "publishedAt": "2026-08-06T10:14:09.000Z",
-    "createdAt": "2026-08-06T10:44:08.263Z",
-    "updatedAt": "2026-08-06T10:44:08.264Z"
+    "createdAt": "2026-08-06T12:59:03.284Z",
+    "updatedAt": "2026-08-06T12:59:03.284Z"
   },
   {
     "id": "9aba874967a0e756",
@@ -24,8 +80,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a7454169a79472e5b790f71",
     "publishedAt": "2026-08-06T09:57:59.000Z",
-    "createdAt": "2026-08-06T10:44:09.521Z",
-    "updatedAt": "2026-08-06T10:44:09.521Z"
+    "createdAt": "2026-08-06T12:59:05.189Z",
+    "updatedAt": "2026-08-06T12:59:05.189Z"
   },
   {
     "id": "23f4c9c951080d1c",
@@ -38,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a7449ce9a7947a2af281f64",
     "publishedAt": "2026-08-06T09:47:28.000Z",
-    "createdAt": "2026-08-06T10:44:10.655Z",
-    "updatedAt": "2026-08-06T10:44:10.655Z"
+    "createdAt": "2026-08-06T12:59:06.181Z",
+    "updatedAt": "2026-08-06T12:59:06.181Z"
   },
   {
     "id": "619e83bbe95d9f0d",
@@ -52,8 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a744f2f9a79477ebfe07596",
     "publishedAt": "2026-08-06T09:28:38.000Z",
-    "createdAt": "2026-08-06T10:44:11.734Z",
-    "updatedAt": "2026-08-06T10:44:11.734Z"
+    "createdAt": "2026-08-06T12:59:07.065Z",
+    "updatedAt": "2026-08-06T12:59:07.065Z"
   },
   {
     "id": "72698e5201b2b0ee",
@@ -66,8 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a74404f9a7947fcdbaf26e0",
     "publishedAt": "2026-08-06T08:52:37.000Z",
-    "createdAt": "2026-08-06T10:44:12.877Z",
-    "updatedAt": "2026-08-06T10:44:12.877Z"
+    "createdAt": "2026-08-06T12:59:08.067Z",
+    "updatedAt": "2026-08-06T12:59:08.067Z"
   },
   {
     "id": "3d4f00450c0b2ef5",
@@ -80,63 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a7435679a7947adc5b45ecc",
     "publishedAt": "2026-08-06T08:18:53.000Z",
-    "createdAt": "2026-08-06T10:44:14.054Z",
-    "updatedAt": "2026-08-06T10:44:14.054Z"
-  },
-  {
-    "id": "8ec8db74e3f59173",
-    "title": "Россияне завершили свое участие на турнире ATP серии «Мастерс» в Монреале",
-    "sport": "Теннис",
-    "category": "Теннис",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/1/82/347860003868821.jpeg",
-    "teaser": "Россияне завершили свое участие на турнире ATP серии «Мастерс» в Монреале",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a742fe09a7947fcdbaf26a5",
-    "publishedAt": "2026-08-06T07:20:45.000Z",
-    "createdAt": "2026-08-06T10:44:17.526Z",
-    "updatedAt": "2026-08-06T10:44:17.526Z"
-  },
-  {
-    "id": "bcab9a5725534114",
-    "title": "Инфантино извинился за ошибки и пообещал пресекать нападки на ФИФА",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/3/69/347859972466693.jpeg",
-    "teaser": "Инфантино извинился за ошибки и пообещал пресекать нападки на ФИФА",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a7426939a79478435c1213c",
-    "publishedAt": "2026-08-06T07:15:22.000Z",
-    "createdAt": "2026-08-06T10:44:16.373Z",
-    "updatedAt": "2026-08-06T10:44:16.373Z"
-  },
-  {
-    "id": "75b37bc31d5e7e96",
-    "title": "Покинет ли Инфантино пост президента ФИФА",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/4/52/347855928492524.jpeg",
-    "teaser": "Покинет ли Инфантино пост президента ФИФА",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a6de8159a79471fa89ef0a9",
-    "publishedAt": "2026-08-06T05:00:38.000Z",
-    "createdAt": "2026-08-06T10:44:15.193Z",
-    "updatedAt": "2026-08-06T10:44:15.193Z"
-  },
-  {
-    "id": "c257c893e8b5a1ea",
-    "title": "Adidas извинился за обилие розовых бутс на ЧМ-26, назвав это совпадением",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/7/74/347859626162747.jpeg",
-    "teaser": "Adidas извинился за обилие розовых бутс на ЧМ-26, назвав это совпадением",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a7393b79a7947ef06350294",
-    "publishedAt": "2026-08-05T21:16:24.000Z",
-    "createdAt": "2026-08-06T10:44:18.670Z",
-    "updatedAt": "2026-08-06T10:44:18.670Z"
+    "createdAt": "2026-08-06T12:59:09.112Z",
+    "updatedAt": "2026-08-06T12:59:09.112Z"
   }
 ]
