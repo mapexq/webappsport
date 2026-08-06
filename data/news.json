@@ -1,5 +1,47 @@
 [
   {
+    "id": "8ec8db74e3f59173",
+    "title": "Россияне завершили свое участие на турнире ATP серии «Мастерс» в Монреале",
+    "sport": "Теннис",
+    "category": "Теннис",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/1/82/347860003868821.jpeg",
+    "teaser": "Россияне завершили свое участие на турнире ATP серии «Мастерс» в Монреале",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a742fe09a7947fcdbaf26a5",
+    "publishedAt": "2026-08-06T07:20:45.000Z",
+    "createdAt": "2026-08-06T07:42:50.841Z",
+    "updatedAt": "2026-08-06T07:42:50.841Z"
+  },
+  {
+    "id": "bcab9a5725534114",
+    "title": "Инфантино извинился за ошибки и пообещал пресекать нападки на ФИФА",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/3/69/347859972466693.jpeg",
+    "teaser": "Инфантино извинился за ошибки и пообещал пресекать нападки на ФИФА",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a7426939a79478435c1213c",
+    "publishedAt": "2026-08-06T07:15:22.000Z",
+    "createdAt": "2026-08-06T07:42:49.828Z",
+    "updatedAt": "2026-08-06T07:42:49.828Z"
+  },
+  {
+    "id": "75b37bc31d5e7e96",
+    "title": "Покинет ли Инфантино пост президента ФИФА",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/4/52/347855928492524.jpeg",
+    "teaser": "Покинет ли Инфантино пост президента ФИФА",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a6de8159a79471fa89ef0a9",
+    "publishedAt": "2026-08-06T05:00:38.000Z",
+    "createdAt": "2026-08-06T07:42:52.317Z",
+    "updatedAt": "2026-08-06T07:42:52.317Z"
+  },
+  {
     "id": "c257c893e8b5a1ea",
     "title": "Adidas извинился за обилие розовых бутс на ЧМ-26, назвав это совпадением",
     "sport": "Футбол",
@@ -10,8 +52,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a7393b79a7947ef06350294",
     "publishedAt": "2026-08-05T21:16:24.000Z",
-    "createdAt": "2026-08-06T04:16:36.954Z",
-    "updatedAt": "2026-08-06T04:16:36.954Z"
+    "createdAt": "2026-08-06T07:42:53.380Z",
+    "updatedAt": "2026-08-06T07:42:53.380Z"
   },
   {
     "id": "3f59c5d280db0f6c",
@@ -24,8 +66,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a73a33f9a79475bf7bebc22",
     "publishedAt": "2026-08-05T21:15:50.000Z",
-    "createdAt": "2026-08-06T04:16:37.969Z",
-    "updatedAt": "2026-08-06T04:16:37.969Z"
+    "createdAt": "2026-08-06T07:42:54.519Z",
+    "updatedAt": "2026-08-06T07:42:54.519Z"
   },
   {
     "id": "f2177425a6d2da1e",
@@ -38,8 +80,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a7399289a794791448bf9b7",
     "publishedAt": "2026-08-05T20:54:21.000Z",
-    "createdAt": "2026-08-06T04:16:39.056Z",
-    "updatedAt": "2026-08-06T04:16:39.056Z"
+    "createdAt": "2026-08-06T07:42:55.669Z",
+    "updatedAt": "2026-08-06T07:42:55.669Z"
   },
   {
     "id": "88b49efa1385fa63",
@@ -52,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a7375fc9a7947a663be2b8a",
     "publishedAt": "2026-08-05T20:15:26.000Z",
-    "createdAt": "2026-08-06T04:16:40.040Z",
-    "updatedAt": "2026-08-06T04:16:40.040Z"
+    "createdAt": "2026-08-06T07:42:56.788Z",
+    "updatedAt": "2026-08-06T07:42:56.788Z"
   },
   {
     "id": "a7fb5e568f28f4ad",
@@ -66,8 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a7374519a7947a43a39b021",
     "publishedAt": "2026-08-05T19:51:30.000Z",
-    "createdAt": "2026-08-06T04:16:41.054Z",
-    "updatedAt": "2026-08-06T04:16:41.054Z"
+    "createdAt": "2026-08-06T07:42:57.914Z",
+    "updatedAt": "2026-08-06T07:42:57.914Z"
   },
   {
     "id": "992f609c30aa6dda",
@@ -80,8 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a72fd8a9a79479d05da95a8",
     "publishedAt": "2026-08-05T18:46:08.000Z",
-    "createdAt": "2026-08-06T04:16:42.936Z",
-    "updatedAt": "2026-08-06T04:16:42.936Z"
+    "createdAt": "2026-08-06T07:43:00.109Z",
+    "updatedAt": "2026-08-06T07:43:00.109Z"
   },
   {
     "id": "bc27a32d2b33d9ba",
@@ -94,49 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a7378cb9a79478eed470a20",
     "publishedAt": "2026-08-05T18:25:50.000Z",
-    "createdAt": "2026-08-06T04:16:42.044Z",
-    "updatedAt": "2026-08-06T04:16:42.044Z"
-  },
-  {
-    "id": "9d09be8a02de003e",
-    "title": "«Динамо» с помощью автогола обыграло «Факел» на старте Кубка России",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/8/86/347859488930868.jpeg",
-    "teaser": "«Динамо» с помощью автогола обыграло «Факел» на старте Кубка России",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a7360989a794773982285ac",
-    "publishedAt": "2026-08-05T17:36:53.000Z",
-    "createdAt": "2026-08-06T04:16:44.878Z",
-    "updatedAt": "2026-08-06T04:16:44.878Z"
-  },
-  {
-    "id": "423c475cdddfa08c",
-    "title": "«Спартак» начал защиту титула в Кубке России с разгрома «Оренбурга»",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/4/65/347859496196654.png",
-    "teaser": "«Спартак» начал защиту титула в Кубке России с разгрома «Оренбурга»",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a7361539a7947e2e203971d",
-    "publishedAt": "2026-08-05T17:34:32.000Z",
-    "createdAt": "2026-08-06T04:16:43.902Z",
-    "updatedAt": "2026-08-06T04:16:43.902Z"
-  },
-  {
-    "id": "008db66dbf3e7c80",
-    "title": "CAS временно приостановил действие трансферного бана для «Ахмата»",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/6/09/347859433530096.jpeg",
-    "teaser": "CAS временно приостановил действие трансферного бана для «Ахмата»",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a7351ef9a79475918ec9913",
-    "publishedAt": "2026-08-05T15:31:24.000Z",
-    "createdAt": "2026-08-06T04:16:45.824Z",
-    "updatedAt": "2026-08-06T04:16:45.824Z"
+    "createdAt": "2026-08-06T07:42:59.023Z",
+    "updatedAt": "2026-08-06T07:42:59.023Z"
   }
 ]
