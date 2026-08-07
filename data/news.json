@@ -1,5 +1,75 @@
 [
   {
+    "id": "5dcf6cf0a88f9b43",
+    "title": "L'Equipe узнала о возможном уходе Сафонова из ПСЖ летом 2027 года",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/1/69/347861108623691.jpeg",
+    "teaser": "L'Equipe узнала о возможном уходе Сафонова из ПСЖ летом 2027 года",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a75dea69a7947c748304868",
+    "publishedAt": "2026-08-07T14:52:25.000Z",
+    "createdAt": "2026-08-07T14:57:14.605Z",
+    "updatedAt": "2026-08-07T14:57:14.605Z"
+  },
+  {
+    "id": "889b5996cf9ed367",
+    "title": "Футболист «Спартака» перенес операцию на ахилловом сухожилии",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/5/88/347861125376885.jpeg",
+    "teaser": "Футболист «Спартака» перенес операцию на ахилловом сухожилии",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a75e9f79a79471e79b1e92a",
+    "publishedAt": "2026-08-07T14:43:09.000Z",
+    "createdAt": "2026-08-07T14:57:15.664Z",
+    "updatedAt": "2026-08-07T14:57:15.664Z"
+  },
+  {
+    "id": "7dd6740d8bbdb70f",
+    "title": "Российского теннисиста в день рождения отстранили за допинговое нарушение",
+    "sport": "Теннис",
+    "category": "Теннис",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/6/76/347861125282766.jpeg",
+    "teaser": "Российского теннисиста в день рождения отстранили за допинговое нарушение",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a75e4239a7947b209643334",
+    "publishedAt": "2026-08-07T14:39:31.000Z",
+    "createdAt": "2026-08-07T14:57:13.578Z",
+    "updatedAt": "2026-08-07T14:57:13.579Z"
+  },
+  {
+    "id": "9847385dba4f4636",
+    "title": "Мельникова выразила надежду, что ситуация с визами на ЧЕ изменится",
+    "sport": "Другое",
+    "category": "Другие",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/6/25/347861103708256.jpeg",
+    "teaser": "Мельникова выразила надежду, что ситуация с визами на ЧЕ изменится",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a75decf9a7947648011a315",
+    "publishedAt": "2026-08-07T13:56:47.000Z",
+    "createdAt": "2026-08-07T14:57:17.806Z",
+    "updatedAt": "2026-08-07T14:57:17.806Z"
+  },
+  {
+    "id": "2294af8a5e8438b3",
+    "title": "Федерацию футбола Южной Кореи обвинили в оплате интимных услуг для судей",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/8/39/347861087667398.jpeg",
+    "teaser": "Федерацию футбола Южной Кореи обвинили в оплате интимных услуг для судей",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a75d5c29a794737219a8bcb",
+    "publishedAt": "2026-08-07T13:34:46.000Z",
+    "createdAt": "2026-08-07T14:57:16.753Z",
+    "updatedAt": "2026-08-07T14:57:16.753Z"
+  },
+  {
     "id": "95d9d12a37a21128",
     "title": "Глава Ассоциации футбола Аргентины заявил о кампании против сборной на ЧМ",
     "sport": "Футбол",
@@ -10,8 +80,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a75ce679a7947bbda4e239e",
     "publishedAt": "2026-08-07T12:52:19.000Z",
-    "createdAt": "2026-08-07T13:14:30.465Z",
-    "updatedAt": "2026-08-07T13:14:30.465Z"
+    "createdAt": "2026-08-07T14:57:18.837Z",
+    "updatedAt": "2026-08-07T14:57:18.837Z"
   },
   {
     "id": "9c45c12e8209519f",
@@ -24,8 +94,22 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a75c96e9a79478031232bd6",
     "publishedAt": "2026-08-07T12:36:52.000Z",
-    "createdAt": "2026-08-07T13:14:32.458Z",
-    "updatedAt": "2026-08-07T13:14:32.458Z"
+    "createdAt": "2026-08-07T14:57:20.939Z",
+    "updatedAt": "2026-08-07T14:57:20.939Z"
+  },
+  {
+    "id": "da44cb82bc740024",
+    "title": "Регбийный клуб из Франции подвергся кибератаке",
+    "sport": "Другое",
+    "category": "Другие",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/3/34/347861048943343.jpeg",
+    "teaser": "Регбийный клуб из Франции подвергся кибератаке",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a75c4a69a79478b7064d5b2",
+    "publishedAt": "2026-08-07T12:35:15.000Z",
+    "createdAt": "2026-08-07T14:57:22.017Z",
+    "updatedAt": "2026-08-07T14:57:22.017Z"
   },
   {
     "id": "53762f72e6ffaa99",
@@ -38,8 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a75ca919a7947585d384ecf",
     "publishedAt": "2026-08-07T12:17:34.000Z",
-    "createdAt": "2026-08-07T13:14:31.503Z",
-    "updatedAt": "2026-08-07T13:14:31.503Z"
+    "createdAt": "2026-08-07T14:57:19.859Z",
+    "updatedAt": "2026-08-07T14:57:19.859Z"
   },
   {
     "id": "358b8b49f8939b3a",
@@ -52,91 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a75bf739a79473e49942a13",
     "publishedAt": "2026-08-07T11:46:04.000Z",
-    "createdAt": "2026-08-07T13:14:33.557Z",
-    "updatedAt": "2026-08-07T13:14:33.557Z"
-  },
-  {
-    "id": "873dabb370d51f29",
-    "title": "В Москве простились с легендарным баскетболистом Иваном Едешко",
-    "sport": "Баскетбол",
-    "category": "Баскетбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/7/47/347861019509477.jpeg",
-    "teaser": "В Москве простились с легендарным баскетболистом Иваном Едешко",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a75be219a7947bbea7c9fac",
-    "publishedAt": "2026-08-07T11:35:06.000Z",
-    "createdAt": "2026-08-07T13:14:34.753Z",
-    "updatedAt": "2026-08-07T13:14:34.753Z"
-  },
-  {
-    "id": "cb2a250d4061928f",
-    "title": "Футболисту сборной Англии предъявили обвинение в нападении в ночном клубе",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/8/06/347860984565068.jpeg",
-    "teaser": "Футболисту сборной Англии предъявили обвинение в нападении в ночном клубе",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a75b2fa9a79476e3870a64e",
-    "publishedAt": "2026-08-07T10:50:22.000Z",
-    "createdAt": "2026-08-07T13:14:35.869Z",
-    "updatedAt": "2026-08-07T13:14:35.869Z"
-  },
-  {
-    "id": "642f867c685a2c95",
-    "title": "Российский защитник Мироманов вернулся из НХЛ и перешел в СКА",
-    "sport": "Хоккей",
-    "category": "Хоккей",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/8/62/347860968122628.jpeg",
-    "teaser": "Российский защитник Мироманов вернулся из НХЛ и перешел в СКА",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a75ac909a794795f372e4d7",
-    "publishedAt": "2026-08-07T10:15:31.000Z",
-    "createdAt": "2026-08-07T13:14:37.011Z",
-    "updatedAt": "2026-08-07T13:14:37.011Z"
-  },
-  {
-    "id": "0bb395405721bb63",
-    "title": "Сборные России пропустят шахматную Олимпиаду-2026 в Самарканде",
-    "sport": "Другое",
-    "category": "Другие",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/7/97/347860959170977.jpeg",
-    "teaser": "Сборные России пропустят шахматную Олимпиаду-2026 в Самарканде",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a75a9129a79477d0388bcea",
-    "publishedAt": "2026-08-07T10:08:43.000Z",
-    "createdAt": "2026-08-07T13:14:38.129Z",
-    "updatedAt": "2026-08-07T13:14:38.129Z"
-  },
-  {
-    "id": "a9a6bf5c4631d6db",
-    "title": "Российский боец ММА Ядуллаев получил условный срок за хранение амфетамина",
-    "sport": "Единоборства",
-    "category": "Единоборства",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/1/70/347860929815701.jpeg",
-    "teaser": "Российский боец ММА Ядуллаев получил условный срок за хранение амфетамина",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a759d789a79477fd9d953aa",
-    "publishedAt": "2026-08-07T09:20:05.000Z",
-    "createdAt": "2026-08-07T13:14:39.254Z",
-    "updatedAt": "2026-08-07T13:14:39.254Z"
-  },
-  {
-    "id": "48f8b9150ed589a3",
-    "title": "Макгрегор рассказал о начале восстановления после травмы колена",
-    "sport": "Единоборства",
-    "category": "Единоборства",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/5/54/347860900446545.jpeg",
-    "teaser": "Макгрегор рассказал о начале восстановления после травмы колена",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a7591769a7947960314a82b",
-    "publishedAt": "2026-08-07T09:01:41.000Z",
-    "createdAt": "2026-08-07T13:14:40.370Z",
-    "updatedAt": "2026-08-07T13:14:40.370Z"
+    "createdAt": "2026-08-07T14:57:23.043Z",
+    "updatedAt": "2026-08-07T14:57:23.043Z"
   }
 ]
