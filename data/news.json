@@ -1,5 +1,47 @@
 [
   {
+    "id": "358b8b49f8939b3a",
+    "title": "Российский пловец заявил, что в Париже на ЧЕ «воняет мочой и помойками»",
+    "sport": "Другое",
+    "category": "Другие",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/5/12/347861017607125.jpeg",
+    "teaser": "Российский пловец заявил, что в Париже на ЧЕ «воняет мочой и помойками»",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a75bf739a79473e49942a13",
+    "publishedAt": "2026-08-07T11:46:04.000Z",
+    "createdAt": "2026-08-07T11:51:01.193Z",
+    "updatedAt": "2026-08-07T11:51:01.193Z"
+  },
+  {
+    "id": "873dabb370d51f29",
+    "title": "В Москве простились с легендарным баскетболистом Иваном Едешко",
+    "sport": "Баскетбол",
+    "category": "Баскетбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/7/47/347861019509477.jpeg",
+    "teaser": "В Москве простились с легендарным баскетболистом Иваном Едешко",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a75be219a7947bbea7c9fac",
+    "publishedAt": "2026-08-07T11:35:06.000Z",
+    "createdAt": "2026-08-07T11:51:02.271Z",
+    "updatedAt": "2026-08-07T11:51:02.271Z"
+  },
+  {
+    "id": "cb2a250d4061928f",
+    "title": "Футболисту сборной Англии предъявили обвинение в нападении в ночном клубе",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/8/06/347860984565068.jpeg",
+    "teaser": "Футболисту сборной Англии предъявили обвинение в нападении в ночном клубе",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a75b2fa9a79476e3870a64e",
+    "publishedAt": "2026-08-07T10:50:22.000Z",
+    "createdAt": "2026-08-07T11:51:03.352Z",
+    "updatedAt": "2026-08-07T11:51:03.352Z"
+  },
+  {
     "id": "642f867c685a2c95",
     "title": "Российский защитник Мироманов вернулся из НХЛ и перешел в СКА",
     "sport": "Хоккей",
@@ -10,8 +52,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a75ac909a794795f372e4d7",
     "publishedAt": "2026-08-07T10:15:31.000Z",
-    "createdAt": "2026-08-07T10:56:59.446Z",
-    "updatedAt": "2026-08-07T10:56:59.446Z"
+    "createdAt": "2026-08-07T11:51:04.500Z",
+    "updatedAt": "2026-08-07T11:51:04.500Z"
   },
   {
     "id": "0bb395405721bb63",
@@ -24,8 +66,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a75a9129a79477d0388bcea",
     "publishedAt": "2026-08-07T10:08:43.000Z",
-    "createdAt": "2026-08-07T10:57:00.540Z",
-    "updatedAt": "2026-08-07T10:57:00.540Z"
+    "createdAt": "2026-08-07T11:51:05.764Z",
+    "updatedAt": "2026-08-07T11:51:05.764Z"
   },
   {
     "id": "a9a6bf5c4631d6db",
@@ -38,8 +80,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a759d789a79477fd9d953aa",
     "publishedAt": "2026-08-07T09:20:05.000Z",
-    "createdAt": "2026-08-07T10:57:01.654Z",
-    "updatedAt": "2026-08-07T10:57:01.654Z"
+    "createdAt": "2026-08-07T11:51:06.897Z",
+    "updatedAt": "2026-08-07T11:51:06.897Z"
   },
   {
     "id": "48f8b9150ed589a3",
@@ -52,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a7591769a7947960314a82b",
     "publishedAt": "2026-08-07T09:01:41.000Z",
-    "createdAt": "2026-08-07T10:57:02.807Z",
-    "updatedAt": "2026-08-07T10:57:02.807Z"
+    "createdAt": "2026-08-07T11:51:08.152Z",
+    "updatedAt": "2026-08-07T11:51:08.152Z"
   },
   {
     "id": "7edb1ac79f4051c1",
@@ -66,8 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a7598a19a794783aab7d8e2",
     "publishedAt": "2026-08-07T08:55:53.000Z",
-    "createdAt": "2026-08-07T10:57:03.912Z",
-    "updatedAt": "2026-08-07T10:57:03.912Z"
+    "createdAt": "2026-08-07T11:51:09.318Z",
+    "updatedAt": "2026-08-07T11:51:09.318Z"
   },
   {
     "id": "cc17ebe691e7791f",
@@ -80,22 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a7588f79a79474b89312cca",
     "publishedAt": "2026-08-07T08:09:19.000Z",
-    "createdAt": "2026-08-07T10:57:05.037Z",
-    "updatedAt": "2026-08-07T10:57:05.037Z"
-  },
-  {
-    "id": "8572cba966cdc3e7",
-    "title": "Обладатель Кубка Стэнли на велосипеде сбил бегуна",
-    "sport": "Хоккей",
-    "category": "Хоккей",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/1/42/347860873957421.jpeg",
-    "teaser": "Обладатель Кубка Стэнли на велосипеде сбил бегуна",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a7581789a79477efca2ff6a",
-    "publishedAt": "2026-08-07T07:42:02.000Z",
-    "createdAt": "2026-08-07T10:57:07.217Z",
-    "updatedAt": "2026-08-07T10:57:07.217Z"
+    "createdAt": "2026-08-07T11:51:10.535Z",
+    "updatedAt": "2026-08-07T11:51:10.535Z"
   },
   {
     "id": "a5e2e7adf2b09351",
@@ -108,35 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a7586f39a794785aa6aaf3a",
     "publishedAt": "2026-08-07T07:33:43.000Z",
-    "createdAt": "2026-08-07T10:57:06.108Z",
-    "updatedAt": "2026-08-07T10:57:06.108Z"
-  },
-  {
-    "id": "35a365e8f293069e",
-    "title": "Российский хоккеист подписал новый контракт в НХЛ на $2,2 млн",
-    "sport": "Хоккей",
-    "category": "Хоккей",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/2/36/347860864919362.jpeg",
-    "teaser": "Российский хоккеист подписал новый контракт в НХЛ на $2,2 млн",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a7584439a7947e2b41b32db",
-    "publishedAt": "2026-08-07T07:29:44.000Z",
-    "createdAt": "2026-08-07T10:57:08.404Z",
-    "updatedAt": "2026-08-07T10:57:08.404Z"
-  },
-  {
-    "id": "233387846598b567",
-    "title": "В Мексике и Аргентине поддержали Инфантино после идеи о продаже доли ЧМ",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/4/58/347860849776584.jpeg",
-    "teaser": "В Мексике и Аргентине поддержали Инфантино после идеи о продаже доли ЧМ",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a75773e9a7947de0060c510",
-    "publishedAt": "2026-08-07T07:14:45.000Z",
-    "createdAt": "2026-08-07T10:57:09.540Z",
-    "updatedAt": "2026-08-07T10:57:09.540Z"
+    "createdAt": "2026-08-07T11:51:11.750Z",
+    "updatedAt": "2026-08-07T11:51:11.750Z"
   }
 ]
