@@ -1,5 +1,47 @@
 [
   {
+    "id": "95d9d12a37a21128",
+    "title": "Глава Ассоциации футбола Аргентины заявил о кампании против сборной на ЧМ",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/6/12/347861067397126.jpeg",
+    "teaser": "Глава Ассоциации футбола Аргентины заявил о кампании против сборной на ЧМ",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a75ce679a7947bbda4e239e",
+    "publishedAt": "2026-08-07T12:52:19.000Z",
+    "createdAt": "2026-08-07T13:14:30.465Z",
+    "updatedAt": "2026-08-07T13:14:30.465Z"
+  },
+  {
+    "id": "9c45c12e8209519f",
+    "title": "Стал известен окончательный состав юниоров на этап Гран-при ISU в Китае",
+    "sport": "Другое",
+    "category": "Фигурное катание",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/0/51/347861051630510.jpeg",
+    "teaser": "Стал известен окончательный состав юниоров на этап Гран-при ISU в Китае",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a75c96e9a79478031232bd6",
+    "publishedAt": "2026-08-07T12:36:52.000Z",
+    "createdAt": "2026-08-07T13:14:32.458Z",
+    "updatedAt": "2026-08-07T13:14:32.458Z"
+  },
+  {
+    "id": "53762f72e6ffaa99",
+    "title": "Лидеры сборной России по гимнастике не получили визы на ЧЕ в Хорватии",
+    "sport": "Другое",
+    "category": "Другие",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/9/61/347861045113619.jpeg",
+    "teaser": "Лидеры сборной России по гимнастике не получили визы на ЧЕ в Хорватии",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a75ca919a7947585d384ecf",
+    "publishedAt": "2026-08-07T12:17:34.000Z",
+    "createdAt": "2026-08-07T13:14:31.503Z",
+    "updatedAt": "2026-08-07T13:14:31.503Z"
+  },
+  {
     "id": "358b8b49f8939b3a",
     "title": "Российский пловец заявил, что в Париже на ЧЕ «воняет мочой и помойками»",
     "sport": "Другое",
@@ -10,8 +52,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a75bf739a79473e49942a13",
     "publishedAt": "2026-08-07T11:46:04.000Z",
-    "createdAt": "2026-08-07T11:51:01.193Z",
-    "updatedAt": "2026-08-07T11:51:01.193Z"
+    "createdAt": "2026-08-07T13:14:33.557Z",
+    "updatedAt": "2026-08-07T13:14:33.557Z"
   },
   {
     "id": "873dabb370d51f29",
@@ -24,8 +66,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a75be219a7947bbea7c9fac",
     "publishedAt": "2026-08-07T11:35:06.000Z",
-    "createdAt": "2026-08-07T11:51:02.271Z",
-    "updatedAt": "2026-08-07T11:51:02.271Z"
+    "createdAt": "2026-08-07T13:14:34.753Z",
+    "updatedAt": "2026-08-07T13:14:34.753Z"
   },
   {
     "id": "cb2a250d4061928f",
@@ -38,8 +80,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a75b2fa9a79476e3870a64e",
     "publishedAt": "2026-08-07T10:50:22.000Z",
-    "createdAt": "2026-08-07T11:51:03.352Z",
-    "updatedAt": "2026-08-07T11:51:03.352Z"
+    "createdAt": "2026-08-07T13:14:35.869Z",
+    "updatedAt": "2026-08-07T13:14:35.869Z"
   },
   {
     "id": "642f867c685a2c95",
@@ -52,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a75ac909a794795f372e4d7",
     "publishedAt": "2026-08-07T10:15:31.000Z",
-    "createdAt": "2026-08-07T11:51:04.500Z",
-    "updatedAt": "2026-08-07T11:51:04.500Z"
+    "createdAt": "2026-08-07T13:14:37.011Z",
+    "updatedAt": "2026-08-07T13:14:37.011Z"
   },
   {
     "id": "0bb395405721bb63",
@@ -66,8 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a75a9129a79477d0388bcea",
     "publishedAt": "2026-08-07T10:08:43.000Z",
-    "createdAt": "2026-08-07T11:51:05.764Z",
-    "updatedAt": "2026-08-07T11:51:05.764Z"
+    "createdAt": "2026-08-07T13:14:38.129Z",
+    "updatedAt": "2026-08-07T13:14:38.129Z"
   },
   {
     "id": "a9a6bf5c4631d6db",
@@ -80,8 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a759d789a79477fd9d953aa",
     "publishedAt": "2026-08-07T09:20:05.000Z",
-    "createdAt": "2026-08-07T11:51:06.897Z",
-    "updatedAt": "2026-08-07T11:51:06.897Z"
+    "createdAt": "2026-08-07T13:14:39.254Z",
+    "updatedAt": "2026-08-07T13:14:39.254Z"
   },
   {
     "id": "48f8b9150ed589a3",
@@ -94,49 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a7591769a7947960314a82b",
     "publishedAt": "2026-08-07T09:01:41.000Z",
-    "createdAt": "2026-08-07T11:51:08.152Z",
-    "updatedAt": "2026-08-07T11:51:08.152Z"
-  },
-  {
-    "id": "7edb1ac79f4051c1",
-    "title": "Чемпион Европы 1988 года возглавит сборную Казахстана по футболу",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/4/34/347860917301344.jpeg",
-    "teaser": "Чемпион Европы 1988 года возглавит сборную Казахстана по футболу",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a7598a19a794783aab7d8e2",
-    "publishedAt": "2026-08-07T08:55:53.000Z",
-    "createdAt": "2026-08-07T11:51:09.318Z",
-    "updatedAt": "2026-08-07T11:51:09.318Z"
-  },
-  {
-    "id": "cc17ebe691e7791f",
-    "title": "Агент лучшего игрока ЧМ-2026 сообщил о его решении перейти в «Барселону»",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/7/61/347860879822617.jpeg",
-    "teaser": "Агент лучшего игрока ЧМ-2026 сообщил о его решении перейти в «Барселону»",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a7588f79a79474b89312cca",
-    "publishedAt": "2026-08-07T08:09:19.000Z",
-    "createdAt": "2026-08-07T11:51:10.535Z",
-    "updatedAt": "2026-08-07T11:51:10.535Z"
-  },
-  {
-    "id": "a5e2e7adf2b09351",
-    "title": "Дисквалифицированный за допинг Заболотный перешел в клуб Басты",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/2/56/347860872134562.jpeg",
-    "teaser": "Дисквалифицированный за допинг Заболотный перешел в клуб Басты",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a7586f39a794785aa6aaf3a",
-    "publishedAt": "2026-08-07T07:33:43.000Z",
-    "createdAt": "2026-08-07T11:51:11.750Z",
-    "updatedAt": "2026-08-07T11:51:11.750Z"
+    "createdAt": "2026-08-07T13:14:40.370Z",
+    "updatedAt": "2026-08-07T13:14:40.370Z"
   }
 ]
