@@ -1,5 +1,47 @@
 [
   {
+    "id": "f07407aa2ae63390",
+    "title": "Валиева, Трусова и Гуменник получили допуск ISU на международные турниры",
+    "sport": "Другое",
+    "category": "Фигурное катание",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/8/39/347861155929398.jpeg",
+    "teaser": "Валиева, Трусова и Гуменник получили допуск ISU на международные турниры",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a75f5e09a794742235e1efb",
+    "publishedAt": "2026-08-07T15:18:17.000Z",
+    "createdAt": "2026-08-07T16:01:36.841Z",
+    "updatedAt": "2026-08-07T16:01:36.841Z"
+  },
+  {
+    "id": "fe9a2be341ee3533",
+    "title": "Испанская «Гранада» расторгла контракт с сыном Зинедина Зидана",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/4/34/347861146196344.jpeg",
+    "teaser": "Испанская «Гранада» расторгла контракт с сыном Зинедина Зидана",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a75ee319a79472648b9d18e",
+    "publishedAt": "2026-08-07T15:09:45.000Z",
+    "createdAt": "2026-08-07T16:01:37.888Z",
+    "updatedAt": "2026-08-07T16:01:37.888Z"
+  },
+  {
+    "id": "522b913f351c6e33",
+    "title": "Предложенная во главу ФИФА норвежка призвала Инфантино уйти в отставку",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/4/67/347861133059674.jpeg",
+    "teaser": "Предложенная во главу ФИФА норвежка призвала Инфантино уйти в отставку",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a75e7a29a7947031706354e",
+    "publishedAt": "2026-08-07T15:04:20.000Z",
+    "createdAt": "2026-08-07T16:01:38.949Z",
+    "updatedAt": "2026-08-07T16:01:38.949Z"
+  },
+  {
     "id": "5dcf6cf0a88f9b43",
     "title": "L'Equipe узнала о возможном уходе Сафонова из ПСЖ летом 2027 года",
     "sport": "Футбол",
@@ -10,8 +52,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a75dea69a7947c748304868",
     "publishedAt": "2026-08-07T14:52:25.000Z",
-    "createdAt": "2026-08-07T14:57:14.605Z",
-    "updatedAt": "2026-08-07T14:57:14.605Z"
+    "createdAt": "2026-08-07T16:01:40.978Z",
+    "updatedAt": "2026-08-07T16:01:40.978Z"
   },
   {
     "id": "889b5996cf9ed367",
@@ -24,8 +66,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a75e9f79a79471e79b1e92a",
     "publishedAt": "2026-08-07T14:43:09.000Z",
-    "createdAt": "2026-08-07T14:57:15.664Z",
-    "updatedAt": "2026-08-07T14:57:15.664Z"
+    "createdAt": "2026-08-07T16:01:41.991Z",
+    "updatedAt": "2026-08-07T16:01:41.991Z"
   },
   {
     "id": "7dd6740d8bbdb70f",
@@ -38,8 +80,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a75e4239a7947b209643334",
     "publishedAt": "2026-08-07T14:39:31.000Z",
-    "createdAt": "2026-08-07T14:57:13.578Z",
-    "updatedAt": "2026-08-07T14:57:13.579Z"
+    "createdAt": "2026-08-07T16:01:39.986Z",
+    "updatedAt": "2026-08-07T16:01:39.986Z"
   },
   {
     "id": "9847385dba4f4636",
@@ -52,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a75decf9a7947648011a315",
     "publishedAt": "2026-08-07T13:56:47.000Z",
-    "createdAt": "2026-08-07T14:57:17.806Z",
-    "updatedAt": "2026-08-07T14:57:17.806Z"
+    "createdAt": "2026-08-07T16:01:44.075Z",
+    "updatedAt": "2026-08-07T16:01:44.075Z"
   },
   {
     "id": "2294af8a5e8438b3",
@@ -66,8 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a75d5c29a794737219a8bcb",
     "publishedAt": "2026-08-07T13:34:46.000Z",
-    "createdAt": "2026-08-07T14:57:16.753Z",
-    "updatedAt": "2026-08-07T14:57:16.753Z"
+    "createdAt": "2026-08-07T16:01:43.032Z",
+    "updatedAt": "2026-08-07T16:01:43.032Z"
   },
   {
     "id": "95d9d12a37a21128",
@@ -80,36 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a75ce679a7947bbda4e239e",
     "publishedAt": "2026-08-07T12:52:19.000Z",
-    "createdAt": "2026-08-07T14:57:18.837Z",
-    "updatedAt": "2026-08-07T14:57:18.837Z"
-  },
-  {
-    "id": "9c45c12e8209519f",
-    "title": "Стал известен окончательный состав юниоров на этап Гран-при ISU в Китае",
-    "sport": "Другое",
-    "category": "Фигурное катание",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/0/51/347861051630510.jpeg",
-    "teaser": "Стал известен окончательный состав юниоров на этап Гран-при ISU в Китае",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a75c96e9a79478031232bd6",
-    "publishedAt": "2026-08-07T12:36:52.000Z",
-    "createdAt": "2026-08-07T14:57:20.939Z",
-    "updatedAt": "2026-08-07T14:57:20.939Z"
-  },
-  {
-    "id": "da44cb82bc740024",
-    "title": "Регбийный клуб из Франции подвергся кибератаке",
-    "sport": "Другое",
-    "category": "Другие",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/3/34/347861048943343.jpeg",
-    "teaser": "Регбийный клуб из Франции подвергся кибератаке",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a75c4a69a79478b7064d5b2",
-    "publishedAt": "2026-08-07T12:35:15.000Z",
-    "createdAt": "2026-08-07T14:57:22.017Z",
-    "updatedAt": "2026-08-07T14:57:22.017Z"
+    "createdAt": "2026-08-07T16:01:45.141Z",
+    "updatedAt": "2026-08-07T16:01:45.141Z"
   },
   {
     "id": "53762f72e6ffaa99",
@@ -122,21 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a75ca919a7947585d384ecf",
     "publishedAt": "2026-08-07T12:17:34.000Z",
-    "createdAt": "2026-08-07T14:57:19.859Z",
-    "updatedAt": "2026-08-07T14:57:19.859Z"
-  },
-  {
-    "id": "358b8b49f8939b3a",
-    "title": "Российский пловец заявил, что в Париже на ЧЕ «воняет мочой и помойками»",
-    "sport": "Другое",
-    "category": "Другие",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/5/12/347861017607125.jpeg",
-    "teaser": "Российский пловец заявил, что в Париже на ЧЕ «воняет мочой и помойками»",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a75bf739a79473e49942a13",
-    "publishedAt": "2026-08-07T11:46:04.000Z",
-    "createdAt": "2026-08-07T14:57:23.043Z",
-    "updatedAt": "2026-08-07T14:57:23.043Z"
+    "createdAt": "2026-08-07T16:01:46.192Z",
+    "updatedAt": "2026-08-07T16:01:46.192Z"
   }
 ]
