@@ -1,5 +1,33 @@
 [
   {
+    "id": "0de448e0b946caa0",
+    "title": "Юные хоккеисты «Спартака» стали победителями Кубка Александра Овечкина",
+    "sport": "Хоккей",
+    "category": "Хоккей",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/9/84/347861963005849.jpeg",
+    "teaser": "Юные хоккеисты «Спартака» стали победителями Кубка Александра Овечкина",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69ccd3779a79477e8db3c192",
+    "publishedAt": "2026-08-08T13:46:19.000Z",
+    "createdAt": "2026-08-08T13:50:37.483Z",
+    "updatedAt": "2026-08-08T13:50:37.483Z"
+  },
+  {
+    "id": "07d85dbec25a1540",
+    "title": "Умер первый тренер шестикратного олимпийского чемпиона гимнаста Щербо",
+    "sport": "Другое",
+    "category": "Другие",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/1/13/347861950434131.jpeg",
+    "teaser": "Умер первый тренер шестикратного олимпийского чемпиона гимнаста Щербо",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/69c4e2cf9a79479755c50ae5",
+    "publishedAt": "2026-08-08T13:24:49.000Z",
+    "createdAt": "2026-08-08T13:50:39.598Z",
+    "updatedAt": "2026-08-08T13:50:39.598Z"
+  },
+  {
     "id": "0cd2888ccd8f6bcc",
     "title": "Плющенко назвал радостью возвращение Валиевой и Трусовой на турниры ISU",
     "sport": "Хоккей",
@@ -10,8 +38,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69a825c59a794780b2b23bd7",
     "publishedAt": "2026-08-08T12:41:00.000Z",
-    "createdAt": "2026-08-08T12:57:39.609Z",
-    "updatedAt": "2026-08-08T12:57:39.609Z"
+    "createdAt": "2026-08-08T13:50:38.537Z",
+    "updatedAt": "2026-08-08T13:50:38.537Z"
   },
   {
     "id": "4b6a5db0011cb6e5",
@@ -24,8 +52,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69a5a9069a794703cbbaf766",
     "publishedAt": "2026-08-08T12:02:48.000Z",
-    "createdAt": "2026-08-08T12:57:40.653Z",
-    "updatedAt": "2026-08-08T12:57:40.653Z"
+    "createdAt": "2026-08-08T13:50:43.394Z",
+    "updatedAt": "2026-08-08T13:50:43.394Z"
   },
   {
     "id": "6f6d0d1fb72856d0",
@@ -38,22 +66,22 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69a167c99a7947f70379b57f",
     "publishedAt": "2026-08-08T11:39:00.000Z",
-    "createdAt": "2026-08-08T12:57:41.668Z",
-    "updatedAt": "2026-08-08T12:57:41.668Z"
+    "createdAt": "2026-08-08T13:50:44.889Z",
+    "updatedAt": "2026-08-08T13:50:44.889Z"
   },
   {
     "id": "fcf368d0b11d23c7",
     "title": "Матч звезд на Кубке Овечкина завершился вничью",
     "sport": "Хоккей",
     "category": "Хоккей",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/1/05/347861868506051.jpeg",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/8/02/347861949062028.jpeg",
     "teaser": "Матч звезд на Кубке Овечкина завершился вничью",
     "fullContent": "",
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/699f51269a79479d4734c9bc",
     "publishedAt": "2026-08-08T11:09:48.000Z",
-    "createdAt": "2026-08-08T12:57:46.735Z",
-    "updatedAt": "2026-08-08T12:57:46.735Z"
+    "createdAt": "2026-08-08T13:50:47.091Z",
+    "updatedAt": "2026-08-08T13:50:47.091Z"
   },
   {
     "id": "35a4ba5043b13aa7",
@@ -66,22 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/699e0abe9a7947265de82a02",
     "publishedAt": "2026-08-08T10:53:41.000Z",
-    "createdAt": "2026-08-08T12:57:44.078Z",
-    "updatedAt": "2026-08-08T12:57:44.078Z"
-  },
-  {
-    "id": "feca9297b5dc3cb8",
-    "title": "Регбист японского клуба умер от теплового удара",
-    "sport": "Другое",
-    "category": "Другие",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/8/84/347861841594848.jpeg",
-    "teaser": "Регбист японского клуба умер от теплового удара",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/699dff6a9a79477459259a84",
-    "publishedAt": "2026-08-08T10:37:28.000Z",
-    "createdAt": "2026-08-08T12:57:48.821Z",
-    "updatedAt": "2026-08-08T12:57:48.821Z"
+    "createdAt": "2026-08-08T13:50:42.288Z",
+    "updatedAt": "2026-08-08T13:50:42.288Z"
   },
   {
     "id": "d78fb722d290c917",
@@ -94,22 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/699e066a9a794714a347346c",
     "publishedAt": "2026-08-08T10:26:05.000Z",
-    "createdAt": "2026-08-08T12:57:47.636Z",
-    "updatedAt": "2026-08-08T12:57:47.636Z"
-  },
-  {
-    "id": "43a64cf2cc0ec178",
-    "title": "В Ассоциации футбола Аргентины призвали оставить Месси в покое после ЧМ",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/2/39/347861820027392.jpeg",
-    "teaser": "В Ассоциации футбола Аргентины призвали оставить Месси в покое после ЧМ",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/699dfb029a7947798c4987e7",
-    "publishedAt": "2026-08-08T09:46:44.000Z",
-    "createdAt": "2026-08-08T12:57:49.804Z",
-    "updatedAt": "2026-08-08T12:57:49.804Z"
+    "createdAt": "2026-08-08T13:50:48.230Z",
+    "updatedAt": "2026-08-08T13:50:48.230Z"
   },
   {
     "id": "032d55c552d80409",
@@ -122,8 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a743f769a7947a2af281f4d",
     "publishedAt": "2026-08-08T06:15:30.000Z",
-    "createdAt": "2026-08-08T12:57:45.586Z",
-    "updatedAt": "2026-08-08T12:57:45.586Z"
+    "createdAt": "2026-08-08T13:50:46.034Z",
+    "updatedAt": "2026-08-08T13:50:46.034Z"
   },
   {
     "id": "fb0a7235031b22c8",
@@ -136,7 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a75cf889a794716b7e78d6a",
     "publishedAt": "2026-08-08T05:05:19.000Z",
-    "createdAt": "2026-08-08T12:57:43.055Z",
-    "updatedAt": "2026-08-08T12:57:43.055Z"
+    "createdAt": "2026-08-08T13:50:40.953Z",
+    "updatedAt": "2026-08-08T13:50:40.953Z"
   }
 ]
