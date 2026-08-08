@@ -1,5 +1,33 @@
 [
   {
+    "id": "dcd270e26394eaff",
+    "title": "ЭСК признала правильным назначение пенальти «Спартаку» в игре с «Ахматом»",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/1/58/347861805231581.jpeg",
+    "teaser": "ЭСК признала правильным назначение пенальти «Спартаку» в игре с «Ахматом»",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6999f1d29a79472060f3b9df",
+    "publishedAt": "2026-08-08T09:26:26.000Z",
+    "createdAt": "2026-08-08T09:42:10.841Z",
+    "updatedAt": "2026-08-08T09:42:10.841Z"
+  },
+  {
+    "id": "371fdb983562c587",
+    "title": "Экс-тренер «Спартака» Слишкович возглавил казахстанский клуб",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/8/44/347861792118448.jpeg",
+    "teaser": "Экс-тренер «Спартака» Слишкович возглавил казахстанский клуб",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6999eaa19a794769c1b82dde",
+    "publishedAt": "2026-08-08T09:00:19.000Z",
+    "createdAt": "2026-08-08T09:42:11.799Z",
+    "updatedAt": "2026-08-08T09:42:11.799Z"
+  },
+  {
     "id": "e319c116f29c8896",
     "title": "Стала известна причина смерти 29-летнего игрока клуба НБА «Мемфис» Кларка",
     "sport": "Баскетбол",
@@ -10,8 +38,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69989e459a79479947380f9a",
     "publishedAt": "2026-08-08T08:25:43.000Z",
-    "createdAt": "2026-08-08T08:48:56.291Z",
-    "updatedAt": "2026-08-08T08:48:56.291Z"
+    "createdAt": "2026-08-08T09:42:12.888Z",
+    "updatedAt": "2026-08-08T09:42:12.888Z"
   },
   {
     "id": "d0b15ca099a0dbd4",
@@ -24,8 +52,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69989aca9a79475f828ae81c",
     "publishedAt": "2026-08-08T08:00:08.000Z",
-    "createdAt": "2026-08-08T08:48:57.446Z",
-    "updatedAt": "2026-08-08T08:48:57.446Z"
+    "createdAt": "2026-08-08T09:42:16.147Z",
+    "updatedAt": "2026-08-08T09:42:16.147Z"
   },
   {
     "id": "5a9df5e2357339ae",
@@ -38,8 +66,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/699439cf9a7947c1209cf98d",
     "publishedAt": "2026-08-08T07:36:28.000Z",
-    "createdAt": "2026-08-08T08:48:58.572Z",
-    "updatedAt": "2026-08-08T08:48:58.572Z"
+    "createdAt": "2026-08-08T09:42:17.177Z",
+    "updatedAt": "2026-08-08T09:42:17.177Z"
   },
   {
     "id": "9d8a22fe2baa704b",
@@ -52,8 +80,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/698daad89a7947028c1cab6c",
     "publishedAt": "2026-08-08T07:18:20.000Z",
-    "createdAt": "2026-08-08T08:49:02.201Z",
-    "updatedAt": "2026-08-08T08:49:02.201Z"
+    "createdAt": "2026-08-08T09:42:18.253Z",
+    "updatedAt": "2026-08-08T09:42:18.253Z"
   },
   {
     "id": "bf6e2fe6063e201c",
@@ -66,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a746b6a9a7947bae9aeb072",
     "publishedAt": "2026-08-08T06:49:57.000Z",
-    "createdAt": "2026-08-08T08:49:04.464Z",
-    "updatedAt": "2026-08-08T08:49:04.464Z"
+    "createdAt": "2026-08-08T09:42:20.562Z",
+    "updatedAt": "2026-08-08T09:42:20.562Z"
   },
   {
     "id": "032d55c552d80409",
@@ -80,8 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a743f769a7947a2af281f4d",
     "publishedAt": "2026-08-08T06:15:30.000Z",
-    "createdAt": "2026-08-08T08:49:01.032Z",
-    "updatedAt": "2026-08-08T08:49:01.032Z"
+    "createdAt": "2026-08-08T09:42:15.112Z",
+    "updatedAt": "2026-08-08T09:42:15.112Z"
   },
   {
     "id": "ca0ee6f9165ebf67",
@@ -94,22 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a75f2a79a79474470715126",
     "publishedAt": "2026-08-08T06:07:56.000Z",
-    "createdAt": "2026-08-08T08:49:03.362Z",
-    "updatedAt": "2026-08-08T08:49:03.362Z"
-  },
-  {
-    "id": "b9c877c271668b55",
-    "title": "Ромашина назвала хорошим выступление синхронисток на чемпионате Европы",
-    "sport": "Другое",
-    "category": "Другие",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/9/91/347861180244919.jpeg",
-    "teaser": "Ромашина назвала хорошим выступление синхронисток на чемпионате Европы",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a75fb2b9a79471a67c8f105",
-    "publishedAt": "2026-08-08T05:06:22.000Z",
-    "createdAt": "2026-08-08T08:49:05.648Z",
-    "updatedAt": "2026-08-08T08:49:05.648Z"
+    "createdAt": "2026-08-08T09:42:19.507Z",
+    "updatedAt": "2026-08-08T09:42:19.507Z"
   },
   {
     "id": "fb0a7235031b22c8",
@@ -122,21 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a75cf889a794716b7e78d6a",
     "publishedAt": "2026-08-08T05:05:19.000Z",
-    "createdAt": "2026-08-08T08:48:59.914Z",
-    "updatedAt": "2026-08-08T08:48:59.914Z"
-  },
-  {
-    "id": "be7784977d3b9a79",
-    "title": "Telegraph сообщила о выплатах УЕФА вероятной любовнице Инфантино",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/3/98/347861363600983.jpeg",
-    "teaser": "Telegraph сообщила о выплатах УЕФА вероятной любовнице Инфантино",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a7640a79a794777d69ed4a2",
-    "publishedAt": "2026-08-07T21:06:43.000Z",
-    "createdAt": "2026-08-08T08:49:06.772Z",
-    "updatedAt": "2026-08-08T08:49:06.772Z"
+    "createdAt": "2026-08-08T09:42:14.082Z",
+    "updatedAt": "2026-08-08T09:42:14.082Z"
   }
 ]
