@@ -1,5 +1,33 @@
 [
   {
+    "id": "db194554af5b37b3",
+    "title": "ЦСКА и «Ростов» сыграли нулевую ничью в матче РПЛ",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/4/29/347862156734294.jpeg",
+    "teaser": "ЦСКА и «Ростов» сыграли нулевую ничью в матче РПЛ",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a0e21b19a794768ca602bfc",
+    "publishedAt": "2026-08-08T19:22:23.000Z",
+    "createdAt": "2026-08-08T19:34:05.953Z",
+    "updatedAt": "2026-08-08T19:34:05.953Z"
+  },
+  {
+    "id": "9a297a41e699de5c",
+    "title": "Парашютист врезался в рекламный щит на футбольном матче в Нидерландах",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/7/69/347862146237697.jpeg",
+    "teaser": "Парашютист врезался в рекламный щит на футбольном матче в Нидерландах",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a204ea89a79479872e878c0",
+    "publishedAt": "2026-08-08T18:51:50.000Z",
+    "createdAt": "2026-08-08T19:34:06.899Z",
+    "updatedAt": "2026-08-08T19:34:06.899Z"
+  },
+  {
     "id": "5069fe14fb635ee7",
     "title": "Российский пятиборец завоевал первое золото на ЧЕ после допуска с флагом",
     "sport": "Другое",
@@ -10,8 +38,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a204ea59a79475e17a0b694",
     "publishedAt": "2026-08-08T18:17:45.000Z",
-    "createdAt": "2026-08-08T18:44:09.547Z",
-    "updatedAt": "2026-08-08T18:44:09.547Z"
+    "createdAt": "2026-08-08T19:34:07.895Z",
+    "updatedAt": "2026-08-08T19:34:07.895Z"
   },
   {
     "id": "64a4b9cc1bf10772",
@@ -24,8 +52,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a26e3eb9a794734fff7c8ee",
     "publishedAt": "2026-08-08T18:09:22.000Z",
-    "createdAt": "2026-08-08T18:44:10.530Z",
-    "updatedAt": "2026-08-08T18:44:10.530Z"
+    "createdAt": "2026-08-08T19:34:10.185Z",
+    "updatedAt": "2026-08-08T19:34:10.185Z"
   },
   {
     "id": "738e2aff26d44efe",
@@ -38,8 +66,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a0db7d99a79477bc23ae359",
     "publishedAt": "2026-08-08T17:28:49.000Z",
-    "createdAt": "2026-08-08T18:44:13.773Z",
-    "updatedAt": "2026-08-08T18:44:13.773Z"
+    "createdAt": "2026-08-08T19:34:12.199Z",
+    "updatedAt": "2026-08-08T19:34:12.199Z"
   },
   {
     "id": "8729797e11d2dee2",
@@ -52,8 +80,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a0474fa9a7947305d5b0149",
     "publishedAt": "2026-08-08T17:17:19.000Z",
-    "createdAt": "2026-08-08T18:44:11.565Z",
-    "updatedAt": "2026-08-08T18:44:11.565Z"
+    "createdAt": "2026-08-08T19:34:11.153Z",
+    "updatedAt": "2026-08-08T19:34:11.153Z"
   },
   {
     "id": "a0016c8d1a0343d6",
@@ -66,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a03a6ab9a794759e07f2f05",
     "publishedAt": "2026-08-08T16:56:14.000Z",
-    "createdAt": "2026-08-08T18:44:14.780Z",
-    "updatedAt": "2026-08-08T18:44:14.780Z"
+    "createdAt": "2026-08-08T19:34:13.240Z",
+    "updatedAt": "2026-08-08T19:34:13.240Z"
   },
   {
     "id": "119a7a6a78250d19",
@@ -80,8 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69f9e4989a79475ea5253e90",
     "publishedAt": "2026-08-08T16:48:02.000Z",
-    "createdAt": "2026-08-08T18:44:15.862Z",
-    "updatedAt": "2026-08-08T18:44:15.862Z"
+    "createdAt": "2026-08-08T19:34:14.256Z",
+    "updatedAt": "2026-08-08T19:34:14.256Z"
   },
   {
     "id": "d5f3d09d2887b9ae",
@@ -94,36 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/69fb14709a794720ced0688c",
     "publishedAt": "2026-08-08T15:58:37.000Z",
-    "createdAt": "2026-08-08T18:44:16.915Z",
-    "updatedAt": "2026-08-08T18:44:16.915Z"
-  },
-  {
-    "id": "c246dc9702eafd82",
-    "title": "Форвард «Нижнего Новгорода» сделал хет-трик за в Первой лиге",
-    "sport": "Другое",
-    "category": "Другие",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/5/28/347862025425285.jpeg",
-    "teaser": "Форвард «Нижнего Новгорода» сделал хет-трик за в Первой лиге",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69a5af709a79473a9f83b3e7",
-    "publishedAt": "2026-08-08T15:26:05.000Z",
-    "createdAt": "2026-08-08T18:44:18.012Z",
-    "updatedAt": "2026-08-08T18:44:18.012Z"
-  },
-  {
-    "id": "9b9aa63679a703a5",
-    "title": "«Балтика» обыграла «Крылья Советов» в матче РПЛ",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/1/87/347861970409871.jpeg",
-    "teaser": "«Балтика» обыграла «Крылья Советов» в матче РПЛ",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/69f1ee469a7947730733cdbf",
-    "publishedAt": "2026-08-08T14:31:03.000Z",
-    "createdAt": "2026-08-08T18:44:19.102Z",
-    "updatedAt": "2026-08-08T18:44:19.102Z"
+    "createdAt": "2026-08-08T19:34:15.305Z",
+    "updatedAt": "2026-08-08T19:34:15.305Z"
   },
   {
     "id": "fb0a7235031b22c8",
@@ -136,7 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a75cf889a794716b7e78d6a",
     "publishedAt": "2026-08-08T05:05:19.000Z",
-    "createdAt": "2026-08-08T18:44:12.752Z",
-    "updatedAt": "2026-08-08T18:44:12.752Z"
+    "createdAt": "2026-08-08T19:34:09.166Z",
+    "updatedAt": "2026-08-08T19:34:09.166Z"
   }
 ]
