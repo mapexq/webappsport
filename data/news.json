@@ -1,5 +1,47 @@
 [
   {
+    "id": "999b26228e53ffc1",
+    "title": "Рыбакина не пустила россиянку в четвертьфинал «тысячника» в Торонто",
+    "sport": "Теннис",
+    "category": "Теннис",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/1/01/347862974515011.jpeg",
+    "teaser": "Рыбакина не пустила россиянку в четвертьфинал «тысячника» в Торонто",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a78bc469a7947575a8bb450",
+    "publishedAt": "2026-08-09T19:32:14.000Z",
+    "createdAt": "2026-08-09T19:37:38.658Z",
+    "updatedAt": "2026-08-09T19:37:38.658Z"
+  },
+  {
+    "id": "1d24461b65614900",
+    "title": "«Рубин» сыграл вничью с «Оренбургом» благодаря автоголу",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/3/51/347863013279513.png",
+    "teaser": "«Рубин» сыграл вничью с «Оренбургом» благодаря автоголу",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a78c2759a794705573b1dc0",
+    "publishedAt": "2026-08-09T19:27:24.000Z",
+    "createdAt": "2026-08-09T19:37:36.815Z",
+    "updatedAt": "2026-08-09T19:37:36.815Z"
+  },
+  {
+    "id": "97541b08099f1b34",
+    "title": "«Краснодар» победил в Москве «Спартак» и вышел на первое место в РПЛ",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/7/88/347863011540887.jpeg",
+    "teaser": "«Краснодар» победил в Москве «Спартак» и вышел на первое место в РПЛ",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a78be089a794754646afeba",
+    "publishedAt": "2026-08-09T18:58:39.000Z",
+    "createdAt": "2026-08-09T19:37:35.912Z",
+    "updatedAt": "2026-08-09T19:37:35.912Z"
+  },
+  {
     "id": "ede967e9de1a747b",
     "title": "Умер пятикратный чемпион и один из лучших тренеров НБА Дон Нельсон",
     "sport": "Баскетбол",
@@ -10,8 +52,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a78c3ef9a7947aa260b10ef",
     "publishedAt": "2026-08-09T18:37:15.000Z",
-    "createdAt": "2026-08-09T18:48:27.830Z",
-    "updatedAt": "2026-08-09T18:48:27.830Z"
+    "createdAt": "2026-08-09T19:37:37.706Z",
+    "updatedAt": "2026-08-09T19:37:37.706Z"
   },
   {
     "id": "a38bb3f26222d91d",
@@ -24,8 +66,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a78afb79a79475905b798db",
     "publishedAt": "2026-08-09T17:01:46.000Z",
-    "createdAt": "2026-08-09T18:48:28.855Z",
-    "updatedAt": "2026-08-09T18:48:28.855Z"
+    "createdAt": "2026-08-09T19:37:39.635Z",
+    "updatedAt": "2026-08-09T19:37:39.635Z"
   },
   {
     "id": "681f6447d6c43c72",
@@ -38,8 +80,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a78a7159a79470d3ccbf9fa",
     "publishedAt": "2026-08-09T16:26:58.000Z",
-    "createdAt": "2026-08-09T18:48:29.978Z",
-    "updatedAt": "2026-08-09T18:48:29.978Z"
+    "createdAt": "2026-08-09T19:37:40.695Z",
+    "updatedAt": "2026-08-09T19:37:40.695Z"
   },
   {
     "id": "330f88e48ed66582",
@@ -52,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a7890899a7947d19239e11f",
     "publishedAt": "2026-08-09T16:02:16.000Z",
-    "createdAt": "2026-08-09T18:48:31.069Z",
-    "updatedAt": "2026-08-09T18:48:31.069Z"
+    "createdAt": "2026-08-09T19:37:41.587Z",
+    "updatedAt": "2026-08-09T19:37:41.587Z"
   },
   {
     "id": "74c89ebd6c2a9ba5",
@@ -66,8 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a788c3e9a79477240b7d0af",
     "publishedAt": "2026-08-09T15:24:06.000Z",
-    "createdAt": "2026-08-09T18:48:33.194Z",
-    "updatedAt": "2026-08-09T18:48:33.194Z"
+    "createdAt": "2026-08-09T19:37:43.614Z",
+    "updatedAt": "2026-08-09T19:37:43.614Z"
   },
   {
     "id": "72c93595ecaa63d7",
@@ -80,8 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a78910a9a79476614a75e3a",
     "publishedAt": "2026-08-09T14:51:02.000Z",
-    "createdAt": "2026-08-09T18:48:32.115Z",
-    "updatedAt": "2026-08-09T18:48:32.115Z"
+    "createdAt": "2026-08-09T19:37:42.605Z",
+    "updatedAt": "2026-08-09T19:37:42.605Z"
   },
   {
     "id": "29c26bd5f2204dbc",
@@ -94,49 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a787d4c9a79479cd1faca98",
     "publishedAt": "2026-08-09T13:31:01.000Z",
-    "createdAt": "2026-08-09T18:48:34.304Z",
-    "updatedAt": "2026-08-09T18:48:34.304Z"
-  },
-  {
-    "id": "35053efb99662739",
-    "title": "На матче «Спартак» — «Краснодар» в Москве будет аншлаг",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/8/24/347862808828248.png",
-    "teaser": "На матче «Спартак» — «Краснодар» в Москве будет аншлаг",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a78786f9a79475905b798b9",
-    "publishedAt": "2026-08-09T13:11:12.000Z",
-    "createdAt": "2026-08-09T18:48:35.288Z",
-    "updatedAt": "2026-08-09T18:48:35.288Z"
-  },
-  {
-    "id": "77573088e19f79a0",
-    "title": "В European Aquatics заявили о праве России принять ЧЕ в 2028 году",
-    "sport": "Другое",
-    "category": "Другие",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/2/27/347862788649272.png",
-    "teaser": "В European Aquatics заявили о праве России принять ЧЕ в 2028 году",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a7873689a79470c19cff2e6",
-    "publishedAt": "2026-08-09T12:51:21.000Z",
-    "createdAt": "2026-08-09T18:48:36.285Z",
-    "updatedAt": "2026-08-09T18:48:36.285Z"
-  },
-  {
-    "id": "d809cede71bddccc",
-    "title": "Овечкин нанес символический удар по мячу перед матчем «Динамо»",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/2/22/347862780133222.png",
-    "teaser": "Овечкин нанес символический удар по мячу перед матчем «Динамо»",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a786f6e9a79473c67be1257",
-    "publishedAt": "2026-08-09T12:29:07.000Z",
-    "createdAt": "2026-08-09T18:48:37.321Z",
-    "updatedAt": "2026-08-09T18:48:37.321Z"
+    "createdAt": "2026-08-09T19:37:44.516Z",
+    "updatedAt": "2026-08-09T19:37:44.516Z"
   }
 ]
