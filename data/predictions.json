@@ -1,86 +1,6 @@
 [
   {
-    "id": 1786384552407,
-    "eventName": "АЗ Резерв — Эйндховен",
-    "discipline": "Футбол",
-    "tournament": "Чемпионат",
-    "expert": {
-      "name": "Ольга Вознесенская",
-      "avatar": "https://bookmaker-ratings.ru/static/images/badges/is-kapper.svg?v=30092024",
-      "status": "expert",
-      "winRate": 88
-    },
-    "prediction": "2Х",
-    "odds": 1.65,
-    "comment": "«Эйндховен» выиграл 11 из 18 матчей у «Йонг АЗ». На выезде у них 6 побед в 9 матчах. «Йонг АЗ» — молодёжная команда, которая нестабильна. Толпа перегружена на хозяев",
-    "source": "Sports Analytics Pro"
-  },
-  {
-    "id": 1786384552408,
-    "eventName": "Матч",
-    "discipline": "Футбол",
-    "tournament": "Чемпионат",
-    "expert": {
-      "name": "Ольга Вознесенская",
-      "avatar": "https://bookmaker-ratings.ru/static/images/badges/is-kapper.svg?v=30092024",
-      "status": "expert",
-      "winRate": 88
-    },
-    "prediction": "1Х",
-    "odds": 3.5,
-    "comment": "«Волендам» — фаворит по статистике, но «Йонг ПСВ» дома может преподнести сюрприз. Коэффициент 3.50 на хозяев — это ценность, которую рынок не замечает. Толпа перегружена на гостей, а это классическая ловушка. 🍀",
-    "source": "Sports Analytics Pro"
-  },
-  {
-    "id": 1786384552409,
-    "eventName": "Алкмар Занстрек II — Эйндховен",
-    "discipline": "Футбол",
-    "tournament": "Чемпионат",
-    "expert": {
-      "name": "Михаил Поднебесный",
-      "avatar": "https://bookmaker-ratings.ru/static/images/badges/is-kapper.svg?v=30092024",
-      "status": "expert",
-      "winRate": 77
-    },
-    "prediction": "Обе забьют - Да",
-    "odds": 1.42,
-    "comment": "Ожидаю открытый футбол в этом матче. Каждый будет стараться забить в этом матче",
-    "source": "Sports Analytics Pro"
-  },
-  {
-    "id": 1786384552410,
-    "eventName": "ПСВ II — Волендам",
-    "discipline": "Футбол",
-    "tournament": "Чемпионат",
-    "expert": {
-      "name": "Михаил Поднебесный",
-      "avatar": "https://bookmaker-ratings.ru/static/images/badges/is-kapper.svg?v=30092024",
-      "status": "expert",
-      "winRate": 77
-    },
-    "prediction": "Тотал (2.5) Б",
-    "odds": 1.52,
-    "comment": "В очных встречах этих команд «верх» пробивается стабильно: В последних 4 матчах «Волендама» против «Йонг ПСВ» неизменно проходил тотал больше 2.5. За всю историю личных встреч 64% матчей заканчивались с 3+ голами. В 10 последних очных матчах 80% завершились с тоталом больше 2.5. У обеих команд есть проблемы в защите, а атака у гостей работает: «Волендам» в гостях в среднем забивает 3 гола за матч, а пропускает — 1.05. «Йонг ПСВ» в последних 6 матчах забил всего 4 гола, но и пропустил 8",
-    "source": "Sports Analytics Pro"
-  },
-  {
-    "id": 1786384552411,
-    "eventName": "Матч",
-    "discipline": "Футбол",
-    "tournament": "Чемпионат",
-    "expert": {
-      "name": "Сергей Гориславец",
-      "avatar": "https://static-uploads.prod.bookmaker-ratings.ru/2025/06/A55E5521-F251-409B-9872-CFCC8E629075-684340c122a2a.jpg?width=60",
-      "status": "expert",
-      "winRate": 69
-    },
-    "prediction": "Обе забьют (Да)",
-    "odds": 1.5,
-    "comment": "Думаю, команды продолжат играть в привычной манере и мы увидим голы",
-    "source": "Sports Analytics Pro"
-  },
-  {
-    "id": 1786384552412,
+    "id": 1786388679567,
     "eventName": "Фрам Рейкьявик — КР Рейкьявик",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -96,7 +16,7 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1786384552413,
+    "id": 1786388679568,
     "eventName": "Матч",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -112,7 +32,7 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1786384552414,
+    "id": 1786388679569,
     "eventName": "Оренбург — Локомотив Москва",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -128,7 +48,7 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1786384552415,
+    "id": 1786388679570,
     "eventName": "Родина — Акрон",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -144,7 +64,7 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1786384552416,
+    "id": 1786388679571,
     "eventName": "ЦСКА Москва — Факел Воронеж",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -157,6 +77,86 @@
     "prediction": "Тотал (3.5) М",
     "odds": 1.33,
     "comment": "ЦСКА испытывает проблемы с завершением атак, а у Факела состав практически команды 1 лиги. С учетом того,как армейцы просаживаются во 2 таймах,большего количества мячей не жду",
+    "source": "Sports Analytics Pro"
+  },
+  {
+    "id": 1786388679572,
+    "eventName": "Ростов — Рубин",
+    "discipline": "Футбол",
+    "tournament": "Чемпионат",
+    "expert": {
+      "name": "Михаил Лубнин",
+      "avatar": "https://bookmaker-ratings.ru/static/images/badges/is-kapper.svg?v=30092024",
+      "status": "expert",
+      "winRate": 71
+    },
+    "prediction": "Тотал (2.5) М",
+    "odds": 1.77,
+    "comment": "В последних четырех очных встречах между этими командами было забито 6 мячей.Рубину придется перестраиваться без Даку",
+    "source": "Sports Analytics Pro"
+  },
+  {
+    "id": 1786388679573,
+    "eventName": "Ростов — Рубин",
+    "discipline": "Футбол",
+    "tournament": "Чемпионат",
+    "expert": {
+      "name": "Ольга Вознесенская",
+      "avatar": "https://bookmaker-ratings.ru/static/images/badges/is-kapper.svg?v=30092024",
+      "status": "expert",
+      "winRate": 88
+    },
+    "prediction": "Ничья",
+    "odds": 3.3,
+    "comment": "«Ростов» и «Рубин» — абсолютно равные команды по силе. История личных встреч это подтверждает. Обе набрали по 4 очка. Обе нестабильны. «Ростов» дома не проигрывает «Рубину» в последней очной встрече. Матч будет закрытым, но не из-за того, что обе команды не умеют забивать, а из-за того, что обе будут бояться ошибиться.",
+    "source": "Sports Analytics Pro"
+  },
+  {
+    "id": 1786388679574,
+    "eventName": "Краснодар — Ахмат",
+    "discipline": "Футбол",
+    "tournament": "Чемпионат",
+    "expert": {
+      "name": "Михаил Лубнин",
+      "avatar": "https://bookmaker-ratings.ru/static/images/badges/is-kapper.svg?v=30092024",
+      "status": "expert",
+      "winRate": 71
+    },
+    "prediction": "Тотал (2.5) Б",
+    "odds": 1.77,
+    "comment": "Краснодар не без труда,но выиграл матч со Спартаком. В отличие от кубка здесь будет совершенно другая игра. Отсутствие Эгаша безусловно скажется на атакующих действиях грозненцев",
+    "source": "Sports Analytics Pro"
+  },
+  {
+    "id": 1786388679575,
+    "eventName": "Крылья Советов — Динамо Махачкала",
+    "discipline": "Футбол",
+    "tournament": "Чемпионат",
+    "expert": {
+      "name": "Михаил Лубнин",
+      "avatar": "https://bookmaker-ratings.ru/static/images/badges/is-kapper.svg?v=30092024",
+      "status": "expert",
+      "winRate": 71
+    },
+    "prediction": "Тотал (3.5) М",
+    "odds": 1.23,
+    "comment": "Крылья Советов и Махачкала получили холодный душ от Балтики и московского Динамо. Следовательно,игра должна пройти осторожно,без огромного количества моментов.Не удивлюсь,если будет 0-0 или 1-2 гола в матче",
+    "source": "Sports Analytics Pro"
+  },
+  {
+    "id": 1786388679576,
+    "eventName": "Балтика — Спартак Москва",
+    "discipline": "Футбол",
+    "tournament": "Чемпионат",
+    "expert": {
+      "name": "Михаил Лубнин",
+      "avatar": "https://bookmaker-ratings.ru/static/images/badges/is-kapper.svg?v=30092024",
+      "status": "expert",
+      "winRate": 71
+    },
+    "prediction": "Тотал (3.5) М",
+    "odds": 1.27,
+    "comment": "Балтика очень неуступчивая команда дома,поэтому легкой прогулки Спартаку явно не предвидится. В последних 4 личных встречах в рамках РПЛ было забито 9 мячей, так что нас ждет упорная борьба",
     "source": "Sports Analytics Pro"
   }
 ]
