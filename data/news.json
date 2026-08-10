@@ -1,5 +1,33 @@
 [
   {
+    "id": "e1267261fff4bd4e",
+    "title": "На матч Кубка России заявили 72-летнего депутата Заксобрания Петербурга",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/4/66/347863914814664.jpeg",
+    "teaser": "На матч Кубка России заявили 72-летнего депутата Заксобрания Петербурга",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a7a29189a79473b12d9612e",
+    "publishedAt": "2026-08-10T20:03:08.000Z",
+    "createdAt": "2026-08-10T20:49:16.887Z",
+    "updatedAt": "2026-08-10T20:49:16.887Z"
+  },
+  {
+    "id": "06cf508671ac459f",
+    "title": "Слуцкий возглавил сборную медиафутбола России",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/1/16/347863883080161.jpeg",
+    "teaser": "Слуцкий возглавил сборную медиафутбола России",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a7a1d639a79477110c3400f",
+    "publishedAt": "2026-08-10T19:04:32.000Z",
+    "createdAt": "2026-08-10T20:49:17.901Z",
+    "updatedAt": "2026-08-10T20:49:17.901Z"
+  },
+  {
     "id": "89fbc78bd6d954a9",
     "title": "Индия на ЧМ по бадминтону привлекла мужчин, имитирующих крики обезьян",
     "sport": "Другое",
@@ -10,8 +38,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a7a106a9a7947db1374d2f9",
     "publishedAt": "2026-08-10T18:43:57.000Z",
-    "createdAt": "2026-08-10T19:04:46.872Z",
-    "updatedAt": "2026-08-10T19:04:46.872Z"
+    "createdAt": "2026-08-10T20:49:18.971Z",
+    "updatedAt": "2026-08-10T20:49:18.971Z"
   },
   {
     "id": "eb58d9bf1d80c49d",
@@ -24,8 +52,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a79ff469a7947175eec2cb3",
     "publishedAt": "2026-08-10T18:29:56.000Z",
-    "createdAt": "2026-08-10T19:04:49.160Z",
-    "updatedAt": "2026-08-10T19:04:49.160Z"
+    "createdAt": "2026-08-10T20:49:20.039Z",
+    "updatedAt": "2026-08-10T20:49:20.039Z"
   },
   {
     "id": "e4ba5186078d09c2",
@@ -38,8 +66,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a79e1a89a79474bd46409d9",
     "publishedAt": "2026-08-10T17:56:28.000Z",
-    "createdAt": "2026-08-10T19:04:52.534Z",
-    "updatedAt": "2026-08-10T19:04:52.534Z"
+    "createdAt": "2026-08-10T20:49:24.384Z",
+    "updatedAt": "2026-08-10T20:49:24.384Z"
   },
   {
     "id": "efe19600adba9a18",
@@ -52,8 +80,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a79df299a79476bdf41b581",
     "publishedAt": "2026-08-10T17:45:48.000Z",
-    "createdAt": "2026-08-10T19:04:48.012Z",
-    "updatedAt": "2026-08-10T19:04:48.012Z"
+    "createdAt": "2026-08-10T20:49:22.171Z",
+    "updatedAt": "2026-08-10T20:49:22.171Z"
   },
   {
     "id": "b01536e87399a804",
@@ -66,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a7a01209a794737c70dd7e1",
     "publishedAt": "2026-08-10T17:13:55.000Z",
-    "createdAt": "2026-08-10T19:04:54.910Z",
-    "updatedAt": "2026-08-10T19:04:54.910Z"
+    "createdAt": "2026-08-10T20:49:26.645Z",
+    "updatedAt": "2026-08-10T20:49:26.645Z"
   },
   {
     "id": "8c216f30d16c9b34",
@@ -80,8 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a79dd879a794757f49ed4ea",
     "publishedAt": "2026-08-10T17:01:51.000Z",
-    "createdAt": "2026-08-10T19:04:51.429Z",
-    "updatedAt": "2026-08-10T19:04:51.429Z"
+    "createdAt": "2026-08-10T20:49:23.270Z",
+    "updatedAt": "2026-08-10T20:49:23.270Z"
   },
   {
     "id": "369dd68f364091eb",
@@ -94,22 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a6de8159a79471fa89ef0a9",
     "publishedAt": "2026-08-10T16:29:30.000Z",
-    "createdAt": "2026-08-10T19:04:50.339Z",
-    "updatedAt": "2026-08-10T19:04:50.339Z"
-  },
-  {
-    "id": "ce927619badb688d",
-    "title": "Федерация футбола США потребовала от ФИФА «значимых перемен»",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/8/53/347863770580538.jpeg",
-    "teaser": "Федерация футбола США потребовала от ФИФА «значимых перемен»",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a79ecad9a79476e210daf9d",
-    "publishedAt": "2026-08-10T16:23:39.000Z",
-    "createdAt": "2026-08-10T19:04:56.072Z",
-    "updatedAt": "2026-08-10T19:04:56.072Z"
+    "createdAt": "2026-08-10T20:49:21.105Z",
+    "updatedAt": "2026-08-10T20:49:21.105Z"
   },
   {
     "id": "c89553d09234f160",
@@ -122,21 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a79f3029a7947c3ddacfdb7",
     "publishedAt": "2026-08-10T16:17:12.000Z",
-    "createdAt": "2026-08-10T19:04:53.740Z",
-    "updatedAt": "2026-08-10T19:04:53.740Z"
-  },
-  {
-    "id": "bbae8c12dfebeaf8",
-    "title": "Германия не дала визы чемпионам Африки на отборочный турнир к Олимпиаде",
-    "sport": "Другое",
-    "category": "Другие",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/6/22/347863765849226.png",
-    "teaser": "Германия не дала визы чемпионам Африки на отборочный турнир к Олимпиаде",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a79e48f9a79477313925887",
-    "publishedAt": "2026-08-10T15:47:01.000Z",
-    "createdAt": "2026-08-10T19:04:57.254Z",
-    "updatedAt": "2026-08-10T19:04:57.254Z"
+    "createdAt": "2026-08-10T20:49:25.464Z",
+    "updatedAt": "2026-08-10T20:49:25.464Z"
   }
 ]
