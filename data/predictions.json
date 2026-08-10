@@ -1,54 +1,6 @@
 [
   {
-    "id": 1786381077091,
-    "eventName": "Норрбю — Эребру СК",
-    "discipline": "Футбол",
-    "tournament": "Чемпионат",
-    "expert": {
-      "name": "Ольга Вознесенская",
-      "avatar": "https://bookmaker-ratings.ru/static/images/badges/is-kapper.svg?v=30092024",
-      "status": "expert",
-      "winRate": 88
-    },
-    "prediction": "Победа 1",
-    "odds": 1.47,
-    "comment": "«Эребру» не забивает в гостях (0 побед, 1 ничья, 4 поражения в последних 5 выездных матчах). «Норрбю» забивает дома (2.8 гола за матч). «Эребру» пропускает (1.47 гола за матч). «Норрбю» в порядке (2 победы, 2 ничьи, 1 поражение в последних 5). «Эребру» — труп (1 победа, 1 ничья, 3 поражения в последних 5).",
-    "source": "Sports Analytics Pro"
-  },
-  {
-    "id": 1786381077092,
-    "eventName": "Норрбю — Эребру СК",
-    "discipline": "Футбол",
-    "tournament": "Чемпионат",
-    "expert": {
-      "name": "Михаил Поднебесный",
-      "avatar": "https://bookmaker-ratings.ru/static/images/badges/is-kapper.svg?v=30092024",
-      "status": "expert",
-      "winRate": 77
-    },
-    "prediction": "1Х",
-    "odds": 1.33,
-    "comment": "Разница в форме. «Эребру» не выиграл ни одного из последних 6 матчей, в то время как «Норрбю» проиграл только 1 из 6. Хозяева подходят к матчу в гораздо лучшем настроении. Статистика голов. «Норрбю» забивает почти в 2 раза больше «Эребру» (1.33 против 0.83) и пропускает значительно меньше (1.17 против 1.67). Хозяева просто сильнее по всем показателям. Домашнее преимущество. Матч проходит на стадионе Borås Arena, где «Норрбю» чувствует себя увереннее, чем на выезде. Коэффициент 1.35 при такой вероятности — это отличная цена. Риск минимальный, а доходность выше, чем у тоталов или других ставок",
-    "source": "Sports Analytics Pro"
-  },
-  {
-    "id": 1786381077093,
-    "eventName": "Силькеборг — Оденсе",
-    "discipline": "Футбол",
-    "tournament": "Чемпионат",
-    "expert": {
-      "name": "Artem Рябчиков",
-      "avatar": "https://bookmaker-ratings.ru/static/images/badges/is-kapper.svg?v=30092024",
-      "status": "expert",
-      "winRate": 74
-    },
-    "prediction": "Тотал больше (3.5)",
-    "odds": 2.26,
-    "comment": "Ожидается обмен голами и пробитие тотала в первые минуты матча",
-    "source": "Sports Analytics Pro"
-  },
-  {
-    "id": 1786381077094,
+    "id": 1786384552407,
     "eventName": "АЗ Резерв — Эйндховен",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -64,7 +16,7 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1786381077095,
+    "id": 1786384552408,
     "eventName": "Матч",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -80,7 +32,7 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1786381077096,
+    "id": 1786384552409,
     "eventName": "Алкмар Занстрек II — Эйндховен",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -96,7 +48,7 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1786381077097,
+    "id": 1786384552410,
     "eventName": "ПСВ II — Волендам",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -112,7 +64,7 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1786381077098,
+    "id": 1786384552411,
     "eventName": "Матч",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -128,7 +80,7 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1786381077099,
+    "id": 1786384552412,
     "eventName": "Фрам Рейкьявик — КР Рейкьявик",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -144,7 +96,7 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1786381077100,
+    "id": 1786384552413,
     "eventName": "Матч",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -157,6 +109,54 @@
     "prediction": "Ничья",
     "odds": 3.6,
     "comment": "Команды равные по силе, а тем более товарищеский матч. Прогнозирую что будет ничья между клубами.",
+    "source": "Sports Analytics Pro"
+  },
+  {
+    "id": 1786384552414,
+    "eventName": "Оренбург — Локомотив Москва",
+    "discipline": "Футбол",
+    "tournament": "Чемпионат",
+    "expert": {
+      "name": "Михаил Лубнин",
+      "avatar": "https://bookmaker-ratings.ru/static/images/badges/is-kapper.svg?v=30092024",
+      "status": "expert",
+      "winRate": 71
+    },
+    "prediction": "Тотал (3.5) М",
+    "odds": 1.4,
+    "comment": "Локомотив испытывает огромные проблемы с составом,команда перестраивается. В то же время Оренбург очень непростой соперник для каждой команды,особенно в родных стенах",
+    "source": "Sports Analytics Pro"
+  },
+  {
+    "id": 1786384552415,
+    "eventName": "Родина — Акрон",
+    "discipline": "Футбол",
+    "tournament": "Чемпионат",
+    "expert": {
+      "name": "Михаил Лубнин",
+      "avatar": "https://bookmaker-ratings.ru/static/images/badges/is-kapper.svg?v=30092024",
+      "status": "expert",
+      "winRate": 71
+    },
+    "prediction": "Тотал (2) Б",
+    "odds": 1.35,
+    "comment": "Родина воспряла после матча с Зенитом,но и Акрон с Локомотивом сотворил чудо. Ждем открытый футбол со стороны обеих команд",
+    "source": "Sports Analytics Pro"
+  },
+  {
+    "id": 1786384552416,
+    "eventName": "ЦСКА Москва — Факел Воронеж",
+    "discipline": "Футбол",
+    "tournament": "Чемпионат",
+    "expert": {
+      "name": "Михаил Лубнин",
+      "avatar": "https://bookmaker-ratings.ru/static/images/badges/is-kapper.svg?v=30092024",
+      "status": "expert",
+      "winRate": 71
+    },
+    "prediction": "Тотал (3.5) М",
+    "odds": 1.33,
+    "comment": "ЦСКА испытывает проблемы с завершением атак, а у Факела состав практически команды 1 лиги. С учетом того,как армейцы просаживаются во 2 таймах,большего количества мячей не жду",
     "source": "Sports Analytics Pro"
   }
 ]

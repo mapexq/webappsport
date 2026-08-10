@@ -1,5 +1,19 @@
 [
   {
+    "id": "8c216f30d16c9b34",
+    "title": "Российский пловец взял золото чемпионата Европы, побив 16-летний рекорд",
+    "sport": "Другое",
+    "category": "Другие",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/1/47/347863715011471.jpeg",
+    "teaser": "Российский пловец взял золото чемпионата Европы, побив 16-летний рекорд",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a79dd879a794757f49ed4ea",
+    "publishedAt": "2026-08-10T17:01:51.000Z",
+    "createdAt": "2026-08-10T17:55:59.271Z",
+    "updatedAt": "2026-08-10T17:55:59.271Z"
+  },
+  {
     "id": "369dd68f364091eb",
     "title": "Покинет ли Инфантино пост президента ФИФА",
     "sport": "Футбол",
@@ -10,8 +24,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a6de8159a79471fa89ef0a9",
     "publishedAt": "2026-08-10T16:29:30.000Z",
-    "createdAt": "2026-08-10T16:58:06.070Z",
-    "updatedAt": "2026-08-10T16:58:06.070Z"
+    "createdAt": "2026-08-10T17:56:02.670Z",
+    "updatedAt": "2026-08-10T17:56:02.670Z"
   },
   {
     "id": "ce927619badb688d",
@@ -24,8 +38,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a79ecad9a79476e210daf9d",
     "publishedAt": "2026-08-10T16:23:39.000Z",
-    "createdAt": "2026-08-10T16:58:04.865Z",
-    "updatedAt": "2026-08-10T16:58:04.865Z"
+    "createdAt": "2026-08-10T17:56:01.547Z",
+    "updatedAt": "2026-08-10T17:56:01.547Z"
   },
   {
     "id": "c89553d09234f160",
@@ -38,8 +52,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a79f3029a7947c3ddacfdb7",
     "publishedAt": "2026-08-10T16:17:12.000Z",
-    "createdAt": "2026-08-10T16:58:03.863Z",
-    "updatedAt": "2026-08-10T16:58:03.863Z"
+    "createdAt": "2026-08-10T17:56:00.447Z",
+    "updatedAt": "2026-08-10T17:56:00.447Z"
   },
   {
     "id": "bbae8c12dfebeaf8",
@@ -52,8 +66,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a79e48f9a79477313925887",
     "publishedAt": "2026-08-10T15:47:01.000Z",
-    "createdAt": "2026-08-10T16:58:07.050Z",
-    "updatedAt": "2026-08-10T16:58:07.050Z"
+    "createdAt": "2026-08-10T17:56:03.810Z",
+    "updatedAt": "2026-08-10T17:56:03.810Z"
   },
   {
     "id": "97cf4208d83dab85",
@@ -66,8 +80,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a79e5909a79477ea3ba2917",
     "publishedAt": "2026-08-10T15:31:20.000Z",
-    "createdAt": "2026-08-10T16:58:08.992Z",
-    "updatedAt": "2026-08-10T16:58:08.992Z"
+    "createdAt": "2026-08-10T17:56:06.056Z",
+    "updatedAt": "2026-08-10T17:56:06.056Z"
   },
   {
     "id": "33e62635334d487c",
@@ -80,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a79e2f79a79477313925881",
     "publishedAt": "2026-08-10T15:29:31.000Z",
-    "createdAt": "2026-08-10T16:58:07.986Z",
-    "updatedAt": "2026-08-10T16:58:07.986Z"
+    "createdAt": "2026-08-10T17:56:04.945Z",
+    "updatedAt": "2026-08-10T17:56:04.945Z"
   },
   {
     "id": "53f1a4621be595d4",
@@ -94,8 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a79df8a9a79476e210daf4e",
     "publishedAt": "2026-08-10T14:55:08.000Z",
-    "createdAt": "2026-08-10T16:58:09.975Z",
-    "updatedAt": "2026-08-10T16:58:09.975Z"
+    "createdAt": "2026-08-10T17:56:07.197Z",
+    "updatedAt": "2026-08-10T17:56:07.197Z"
   },
   {
     "id": "293af7feb09f57e8",
@@ -108,8 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a79d5239a7947249251042f",
     "publishedAt": "2026-08-10T14:38:39.000Z",
-    "createdAt": "2026-08-10T16:58:11.013Z",
-    "updatedAt": "2026-08-10T16:58:11.013Z"
+    "createdAt": "2026-08-10T17:56:08.356Z",
+    "updatedAt": "2026-08-10T17:56:08.356Z"
   },
   {
     "id": "8004f09bee0d7986",
@@ -122,21 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a79d86f9a79475033682576",
     "publishedAt": "2026-08-10T14:12:12.000Z",
-    "createdAt": "2026-08-10T16:58:12.073Z",
-    "updatedAt": "2026-08-10T16:58:12.073Z"
-  },
-  {
-    "id": "940c7cdc173f06db",
-    "title": "В Турции арестовали журналиста за ложный футбольный инсайд",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/8/02/347863707859028.jpeg",
-    "teaser": "В Турции арестовали журналиста за ложный футбольный инсайд",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a79d6e39a794736b1af165e",
-    "publishedAt": "2026-08-10T14:09:17.000Z",
-    "createdAt": "2026-08-10T16:58:13.111Z",
-    "updatedAt": "2026-08-10T16:58:13.111Z"
+    "createdAt": "2026-08-10T17:56:09.873Z",
+    "updatedAt": "2026-08-10T17:56:09.873Z"
   }
 ]
