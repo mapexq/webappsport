@@ -1,5 +1,75 @@
 [
   {
+    "id": "c90c9b855faba859",
+    "title": "Клуб НБА в один день подписал самого высокого и низкого игроков лиги",
+    "sport": "Баскетбол",
+    "category": "Баскетбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/8/94/347863558839948.jpeg",
+    "teaser": "Клуб НБА в один день подписал самого высокого и низкого игроков лиги",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a799a629a7947578898394f",
+    "publishedAt": "2026-08-10T10:04:21.000Z",
+    "createdAt": "2026-08-10T10:21:19.699Z",
+    "updatedAt": "2026-08-10T10:21:19.699Z"
+  },
+  {
+    "id": "e0963768c0298128",
+    "title": "Федерация легкой атлетики России подала новый иск к World Athletics в CAS",
+    "sport": "Другое",
+    "category": "Другие",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/1/43/347863566117431.jpeg",
+    "teaser": "Федерация легкой атлетики России подала новый иск к World Athletics в CAS",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a799fbc9a7947922ea54e14",
+    "publishedAt": "2026-08-10T10:00:44.000Z",
+    "createdAt": "2026-08-10T10:21:21.556Z",
+    "updatedAt": "2026-08-10T10:21:21.556Z"
+  },
+  {
+    "id": "6d29a6ee8ede3357",
+    "title": "Ведущие футбольные федерации призвали к проверке действий Инфантино",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/8/15/347863533966158.jpeg",
+    "teaser": "Ведущие футбольные федерации призвали к проверке действий Инфантино",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a7992a39a794727d6d90027",
+    "publishedAt": "2026-08-10T09:26:51.000Z",
+    "createdAt": "2026-08-10T10:21:18.688Z",
+    "updatedAt": "2026-08-10T10:21:18.688Z"
+  },
+  {
+    "id": "acfe6cea0a4c188d",
+    "title": "Тарасова призвала не торопиться с оценками тренерского будущего Загитовой",
+    "sport": "Другое",
+    "category": "Фигурное катание",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/4/03/347863515646034.jpeg",
+    "teaser": "Тарасова призвала не торопиться с оценками тренерского будущего Загитовой",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a798bcc9a79472ad667f2cc",
+    "publishedAt": "2026-08-10T08:55:36.000Z",
+    "createdAt": "2026-08-10T10:21:23.706Z",
+    "updatedAt": "2026-08-10T10:21:23.706Z"
+  },
+  {
+    "id": "fa0d44f8bd41c8a0",
+    "title": "Ротенберг заявил, что США хотят видеть Россию на молодежном ЧМ по хоккею",
+    "sport": "Хоккей",
+    "category": "Хоккей",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/6/78/347863501518786.jpeg",
+    "teaser": "Ротенберг заявил, что США хотят видеть Россию на молодежном ЧМ по хоккею",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a79861e9a794727d6d8fffa",
+    "publishedAt": "2026-08-10T08:47:35.000Z",
+    "createdAt": "2026-08-10T10:21:22.641Z",
+    "updatedAt": "2026-08-10T10:21:22.641Z"
+  },
+  {
     "id": "2ac2328ce1745af3",
     "title": "Месси подаст в суд на СМИ за вторжение в частную жизнь на похоронах отца",
     "sport": "Футбол",
@@ -10,8 +80,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a7974859a79478af8d9749d",
     "publishedAt": "2026-08-10T07:18:40.000Z",
-    "createdAt": "2026-08-10T08:42:35.705Z",
-    "updatedAt": "2026-08-10T08:42:35.705Z"
+    "createdAt": "2026-08-10T10:21:24.797Z",
+    "updatedAt": "2026-08-10T10:21:24.797Z"
   },
   {
     "id": "4f845dccde6646c9",
@@ -24,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a796cdb9a794741c1becd8e",
     "publishedAt": "2026-08-10T07:08:03.000Z",
-    "createdAt": "2026-08-10T08:42:36.504Z",
-    "updatedAt": "2026-08-10T08:42:36.504Z"
+    "createdAt": "2026-08-10T10:21:26.887Z",
+    "updatedAt": "2026-08-10T10:21:26.887Z"
   },
   {
     "id": "d11f2fab4f12d65b",
@@ -38,22 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a79698f9a794741c1becd81",
     "publishedAt": "2026-08-10T06:19:59.000Z",
-    "createdAt": "2026-08-10T08:42:37.508Z",
-    "updatedAt": "2026-08-10T08:42:37.508Z"
-  },
-  {
-    "id": "999b26228e53ffc1",
-    "title": "Рыбакина не пустила россиянку в четвертьфинал «тысячника» в Торонто",
-    "sport": "Теннис",
-    "category": "Теннис",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/1/01/347862974515011.jpeg",
-    "teaser": "Рыбакина не пустила россиянку в четвертьфинал «тысячника» в Торонто",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a78bc469a7947575a8bb450",
-    "publishedAt": "2026-08-09T19:32:14.000Z",
-    "createdAt": "2026-08-10T08:42:41.552Z",
-    "updatedAt": "2026-08-10T08:42:41.552Z"
+    "createdAt": "2026-08-10T10:21:25.796Z",
+    "updatedAt": "2026-08-10T10:21:25.796Z"
   },
   {
     "id": "1d24461b65614900",
@@ -66,8 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a78c2759a794705573b1dc0",
     "publishedAt": "2026-08-09T19:27:24.000Z",
-    "createdAt": "2026-08-10T08:42:39.532Z",
-    "updatedAt": "2026-08-10T08:42:39.532Z"
+    "createdAt": "2026-08-10T10:21:28.935Z",
+    "updatedAt": "2026-08-10T10:21:28.935Z"
   },
   {
     "id": "97541b08099f1b34",
@@ -80,63 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a78be089a794754646afeba",
     "publishedAt": "2026-08-09T18:58:39.000Z",
-    "createdAt": "2026-08-10T08:42:38.528Z",
-    "updatedAt": "2026-08-10T08:42:38.528Z"
-  },
-  {
-    "id": "ede967e9de1a747b",
-    "title": "Умер пятикратный чемпион и один из лучших тренеров НБА Дон Нельсон",
-    "sport": "Баскетбол",
-    "category": "Баскетбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/2/33/347862995838332.png",
-    "teaser": "Умер пятикратный чемпион и один из лучших тренеров НБА Дон Нельсон",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a78c3ef9a7947aa260b10ef",
-    "publishedAt": "2026-08-09T18:37:15.000Z",
-    "createdAt": "2026-08-10T08:42:40.531Z",
-    "updatedAt": "2026-08-10T08:42:40.531Z"
-  },
-  {
-    "id": "a38bb3f26222d91d",
-    "title": "Семак заявил, что неожиданный проигрыш «Родине» ничему не научит «Зенит»",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/7/98/347862942998987.png",
-    "teaser": "Семак заявил, что неожиданный проигрыш «Родине» ничему не научит «Зенит»",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a78afb79a79475905b798db",
-    "publishedAt": "2026-08-09T17:01:46.000Z",
-    "createdAt": "2026-08-10T08:42:42.564Z",
-    "updatedAt": "2026-08-10T08:42:42.564Z"
-  },
-  {
-    "id": "681f6447d6c43c72",
-    "title": "Первая ракетка мира Синнер снялся с турнира «Мастерс» в США из-за травмы",
-    "sport": "Теннис",
-    "category": "Теннис",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/1/17/347862921726171.png",
-    "teaser": "Первая ракетка мира Синнер снялся с турнира «Мастерс» в США из-за травмы",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a78a7159a79470d3ccbf9fa",
-    "publishedAt": "2026-08-09T16:26:58.000Z",
-    "createdAt": "2026-08-10T08:42:43.676Z",
-    "updatedAt": "2026-08-10T08:42:43.676Z"
-  },
-  {
-    "id": "330f88e48ed66582",
-    "title": "«Зенит» первым в истории РПЛ проиграл «Родине»",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/2/62/347862862462622.png",
-    "teaser": "«Зенит» первым в истории РПЛ проиграл «Родине»",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a7890899a7947d19239e11f",
-    "publishedAt": "2026-08-09T16:02:16.000Z",
-    "createdAt": "2026-08-10T08:42:44.689Z",
-    "updatedAt": "2026-08-10T08:42:44.689Z"
+    "createdAt": "2026-08-10T10:21:27.903Z",
+    "updatedAt": "2026-08-10T10:21:27.903Z"
   }
 ]
