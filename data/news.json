@@ -1,5 +1,61 @@
 [
   {
+    "id": "c103a3c77d3f824d",
+    "title": "Чемпион мира по прыжкам в длину покинул ЧЕ в коляске после травмы",
+    "sport": "Другое",
+    "category": "Другие",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/0/74/347863653567740.jpeg",
+    "teaser": "Чемпион мира по прыжкам в длину покинул ЧЕ в коляске после травмы",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a79c07a9a7947168ebc74a2",
+    "publishedAt": "2026-08-10T12:47:32.000Z",
+    "createdAt": "2026-08-10T13:19:17.287Z",
+    "updatedAt": "2026-08-10T13:19:17.287Z"
+  },
+  {
+    "id": "d25d301b395f8856",
+    "title": "Чемпионка Японии сломала ногу перед домашним турниром фигуристов",
+    "sport": "Другое",
+    "category": "Фигурное катание",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/6/06/347863631685066.jpeg",
+    "teaser": "Чемпионка Японии сломала ногу перед домашним турниром фигуристов",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a79b7809a79473e768d7073",
+    "publishedAt": "2026-08-10T12:14:48.000Z",
+    "createdAt": "2026-08-10T13:19:19.589Z",
+    "updatedAt": "2026-08-10T13:19:19.589Z"
+  },
+  {
+    "id": "42677e6971197ee4",
+    "title": "Sky Sports узнал, что Джефф Безос близок к покупке доли в «Ливерпуле»",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/9/92/347863612573929.jpeg",
+    "teaser": "Sky Sports узнал, что Джефф Безос близок к покупке доли в «Ливерпуле»",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a79b4689a794737cdf5d5a9",
+    "publishedAt": "2026-08-10T12:06:53.000Z",
+    "createdAt": "2026-08-10T13:19:18.432Z",
+    "updatedAt": "2026-08-10T13:19:18.432Z"
+  },
+  {
+    "id": "bbc4116f157cebb3",
+    "title": "Хорватия пересмотрела отказ в визе для российской гимнастки Мельниковой",
+    "sport": "Другое",
+    "category": "Другие",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/9/13/347863610752139.jpeg",
+    "teaser": "Хорватия пересмотрела отказ в визе для российской гимнастки Мельниковой",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a79b1589a79475f77bf174c",
+    "publishedAt": "2026-08-10T12:03:37.000Z",
+    "createdAt": "2026-08-10T13:19:20.714Z",
+    "updatedAt": "2026-08-10T13:19:20.714Z"
+  },
+  {
     "id": "ff808806159fc085",
     "title": "«Краснодар» отправил нигерийского нападающего в аренду в Грецию",
     "sport": "Футбол",
@@ -10,8 +66,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a79b0709a7947ac1671f969",
     "publishedAt": "2026-08-10T11:20:41.000Z",
-    "createdAt": "2026-08-10T11:51:33.912Z",
-    "updatedAt": "2026-08-10T11:51:33.912Z"
+    "createdAt": "2026-08-10T13:19:22.977Z",
+    "updatedAt": "2026-08-10T13:19:22.977Z"
   },
   {
     "id": "1aa2647323d436a8",
@@ -24,8 +80,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a79ac439a79475f77bf171f",
     "publishedAt": "2026-08-10T11:19:25.000Z",
-    "createdAt": "2026-08-10T11:51:33.072Z",
-    "updatedAt": "2026-08-10T11:51:33.072Z"
+    "createdAt": "2026-08-10T13:19:21.848Z",
+    "updatedAt": "2026-08-10T13:19:21.848Z"
   },
   {
     "id": "b86db03666b9985d",
@@ -38,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a79a59b9a794786c951a3c7",
     "publishedAt": "2026-08-10T10:49:27.000Z",
-    "createdAt": "2026-08-10T11:51:34.900Z",
-    "updatedAt": "2026-08-10T11:51:34.900Z"
+    "createdAt": "2026-08-10T13:19:23.985Z",
+    "updatedAt": "2026-08-10T13:19:23.985Z"
   },
   {
     "id": "c90c9b855faba859",
@@ -52,22 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a799a629a7947578898394f",
     "publishedAt": "2026-08-10T10:04:21.000Z",
-    "createdAt": "2026-08-10T11:51:36.996Z",
-    "updatedAt": "2026-08-10T11:51:36.996Z"
-  },
-  {
-    "id": "e0963768c0298128",
-    "title": "Федерация легкой атлетики России подала новый иск к World Athletics в CAS",
-    "sport": "Другое",
-    "category": "Другие",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/1/43/347863566117431.jpeg",
-    "teaser": "Федерация легкой атлетики России подала новый иск к World Athletics в CAS",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a799fbc9a7947922ea54e14",
-    "publishedAt": "2026-08-10T10:00:44.000Z",
-    "createdAt": "2026-08-10T11:51:38.993Z",
-    "updatedAt": "2026-08-10T11:51:38.993Z"
+    "createdAt": "2026-08-10T13:19:26.256Z",
+    "updatedAt": "2026-08-10T13:19:26.256Z"
   },
   {
     "id": "07e168db14e29f50",
@@ -80,22 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a7992a39a794727d6d90027",
     "publishedAt": "2026-08-10T09:26:51.000Z",
-    "createdAt": "2026-08-10T11:51:35.879Z",
-    "updatedAt": "2026-08-10T11:51:35.879Z"
-  },
-  {
-    "id": "acfe6cea0a4c188d",
-    "title": "Тарасова призвала не торопиться с оценками тренерского будущего Загитовой",
-    "sport": "Другое",
-    "category": "Фигурное катание",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/4/03/347863515646034.jpeg",
-    "teaser": "Тарасова призвала не торопиться с оценками тренерского будущего Загитовой",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a798bcc9a79472ad667f2cc",
-    "publishedAt": "2026-08-10T08:55:36.000Z",
-    "createdAt": "2026-08-10T11:51:40.050Z",
-    "updatedAt": "2026-08-10T11:51:40.050Z"
+    "createdAt": "2026-08-10T13:19:25.112Z",
+    "updatedAt": "2026-08-10T13:19:25.112Z"
   },
   {
     "id": "fa0d44f8bd41c8a0",
@@ -108,35 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a79861e9a794727d6d8fffa",
     "publishedAt": "2026-08-10T08:47:35.000Z",
-    "createdAt": "2026-08-10T11:51:38.010Z",
-    "updatedAt": "2026-08-10T11:51:38.010Z"
-  },
-  {
-    "id": "2ac2328ce1745af3",
-    "title": "Месси подаст в суд на СМИ за вторжение в частную жизнь на похоронах отца",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/1/52/347863456719521.jpeg",
-    "teaser": "Месси подаст в суд на СМИ за вторжение в частную жизнь на похоронах отца",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a7974859a79478af8d9749d",
-    "publishedAt": "2026-08-10T07:18:40.000Z",
-    "createdAt": "2026-08-10T11:51:40.988Z",
-    "updatedAt": "2026-08-10T11:51:40.988Z"
-  },
-  {
-    "id": "d11f2fab4f12d65b",
-    "title": "Ни один россиянин не попал в топ-20 лучших защитников НХЛ",
-    "sport": "Хоккей",
-    "category": "Хоккей",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/1/47/347863425138471.jpeg",
-    "teaser": "Ни один россиянин не попал в топ-20 лучших защитников НХЛ",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a79698f9a794741c1becd81",
-    "publishedAt": "2026-08-10T06:19:59.000Z",
-    "createdAt": "2026-08-10T11:51:41.916Z",
-    "updatedAt": "2026-08-10T11:51:41.916Z"
+    "createdAt": "2026-08-10T13:19:27.489Z",
+    "updatedAt": "2026-08-10T13:19:27.489Z"
   }
 ]
