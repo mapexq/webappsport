@@ -1,5 +1,19 @@
 [
   {
+    "id": "393753d296329e12",
+    "title": "Чемпионат Колумбии по футболу приостановили из-за землетрясения",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/4/93/347863949316934.jpeg",
+    "teaser": "Чемпионат Колумбии по футболу приостановили из-за землетрясения",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a7a350e9a7947db1374d348",
+    "publishedAt": "2026-08-10T20:59:01.000Z",
+    "createdAt": "2026-08-10T21:47:29.629Z",
+    "updatedAt": "2026-08-10T21:47:29.629Z"
+  },
+  {
     "id": "e1267261fff4bd4e",
     "title": "На матч Кубка России заявили 72-летнего депутата Заксобрания Петербурга",
     "sport": "Футбол",
@@ -10,8 +24,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a7a29189a79473b12d9612e",
     "publishedAt": "2026-08-10T20:03:08.000Z",
-    "createdAt": "2026-08-10T20:49:16.887Z",
-    "updatedAt": "2026-08-10T20:49:16.887Z"
+    "createdAt": "2026-08-10T21:47:30.663Z",
+    "updatedAt": "2026-08-10T21:47:30.663Z"
   },
   {
     "id": "06cf508671ac459f",
@@ -24,8 +38,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a7a1d639a79477110c3400f",
     "publishedAt": "2026-08-10T19:04:32.000Z",
-    "createdAt": "2026-08-10T20:49:17.901Z",
-    "updatedAt": "2026-08-10T20:49:17.901Z"
+    "createdAt": "2026-08-10T21:47:31.658Z",
+    "updatedAt": "2026-08-10T21:47:31.658Z"
   },
   {
     "id": "89fbc78bd6d954a9",
@@ -38,8 +52,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a7a106a9a7947db1374d2f9",
     "publishedAt": "2026-08-10T18:43:57.000Z",
-    "createdAt": "2026-08-10T20:49:18.971Z",
-    "updatedAt": "2026-08-10T20:49:18.971Z"
+    "createdAt": "2026-08-10T21:47:32.465Z",
+    "updatedAt": "2026-08-10T21:47:32.465Z"
   },
   {
     "id": "eb58d9bf1d80c49d",
@@ -52,8 +66,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a79ff469a7947175eec2cb3",
     "publishedAt": "2026-08-10T18:29:56.000Z",
-    "createdAt": "2026-08-10T20:49:20.039Z",
-    "updatedAt": "2026-08-10T20:49:20.039Z"
+    "createdAt": "2026-08-10T21:47:33.492Z",
+    "updatedAt": "2026-08-10T21:47:33.492Z"
   },
   {
     "id": "e4ba5186078d09c2",
@@ -66,8 +80,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a79e1a89a79474bd46409d9",
     "publishedAt": "2026-08-10T17:56:28.000Z",
-    "createdAt": "2026-08-10T20:49:24.384Z",
-    "updatedAt": "2026-08-10T20:49:24.384Z"
+    "createdAt": "2026-08-10T21:47:37.700Z",
+    "updatedAt": "2026-08-10T21:47:37.700Z"
   },
   {
     "id": "efe19600adba9a18",
@@ -80,22 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a79df299a79476bdf41b581",
     "publishedAt": "2026-08-10T17:45:48.000Z",
-    "createdAt": "2026-08-10T20:49:22.171Z",
-    "updatedAt": "2026-08-10T20:49:22.171Z"
-  },
-  {
-    "id": "b01536e87399a804",
-    "title": "Российский пловец побил принадлежавший украинцу рекорд чемпионатов Европы",
-    "sport": "Другое",
-    "category": "Другие",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/7/65/347863814295657.jpeg",
-    "teaser": "Российский пловец побил принадлежавший украинцу рекорд чемпионатов Европы",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a7a01209a794737c70dd7e1",
-    "publishedAt": "2026-08-10T17:13:55.000Z",
-    "createdAt": "2026-08-10T20:49:26.645Z",
-    "updatedAt": "2026-08-10T20:49:26.645Z"
+    "createdAt": "2026-08-10T21:47:35.613Z",
+    "updatedAt": "2026-08-10T21:47:35.613Z"
   },
   {
     "id": "8c216f30d16c9b34",
@@ -108,8 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a79dd879a794757f49ed4ea",
     "publishedAt": "2026-08-10T17:01:51.000Z",
-    "createdAt": "2026-08-10T20:49:23.270Z",
-    "updatedAt": "2026-08-10T20:49:23.270Z"
+    "createdAt": "2026-08-10T21:47:36.681Z",
+    "updatedAt": "2026-08-10T21:47:36.681Z"
   },
   {
     "id": "369dd68f364091eb",
@@ -122,8 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a6de8159a79471fa89ef0a9",
     "publishedAt": "2026-08-10T16:29:30.000Z",
-    "createdAt": "2026-08-10T20:49:21.105Z",
-    "updatedAt": "2026-08-10T20:49:21.105Z"
+    "createdAt": "2026-08-10T21:47:34.604Z",
+    "updatedAt": "2026-08-10T21:47:34.604Z"
   },
   {
     "id": "c89553d09234f160",
@@ -136,7 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a79f3029a7947c3ddacfdb7",
     "publishedAt": "2026-08-10T16:17:12.000Z",
-    "createdAt": "2026-08-10T20:49:25.464Z",
-    "updatedAt": "2026-08-10T20:49:25.464Z"
+    "createdAt": "2026-08-10T21:47:38.757Z",
+    "updatedAt": "2026-08-10T21:47:38.757Z"
   }
 ]
