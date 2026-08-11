@@ -1,6 +1,86 @@
 [
   {
-    "id": 1786438999966,
+    "id": 1786445627993,
+    "eventName": "Сабах Баку — Орхус",
+    "discipline": "Футбол",
+    "tournament": "Чемпионат",
+    "expert": {
+      "name": "Ольга Вознесенская",
+      "avatar": "https://bookmaker-ratings.ru/static/images/badges/is-kapper.svg?v=30092024",
+      "status": "expert",
+      "winRate": 88
+    },
+    "prediction": "Ничья",
+    "odds": 3.55,
+    "comment": "«Сабах» забьёт первым, но «Орхус» сравняет во втором тайме за счёт контратаки. По сумме двух матчей — 2:2, и «Орхус» пройдёт дальше за счёт гола на выезде. Либо «Сабах» выиграет 2:1, но «Орхус» забьёт свой гол, и хозяевам этого не хватит для прохода.",
+    "source": "Sports Analytics Pro"
+  },
+  {
+    "id": 1786445627994,
+    "eventName": "Будё-Глимт — Юнион Сент-Жилуаз",
+    "discipline": "Футбол",
+    "tournament": "Чемпионат",
+    "expert": {
+      "name": "Алексей Вайцеховский",
+      "avatar": "https://bookmaker-ratings.ru/static/images/badges/is-kapper.svg?v=30092024",
+      "status": "expert",
+      "winRate": 70
+    },
+    "prediction": "Тотал Будё-Глимт больше (1.5)",
+    "odds": 1.52,
+    "comment": "Будё на своем поле всегда опасен, помним по прошлому году, забить 2 мяча дома доя них это норма",
+    "source": "Sports Analytics Pro"
+  },
+  {
+    "id": 1786445627995,
+    "eventName": "Матч",
+    "discipline": "Футбол",
+    "tournament": "Чемпионат",
+    "expert": {
+      "name": "Ольга Вознесенская",
+      "avatar": "https://bookmaker-ratings.ru/static/images/badges/is-kapper.svg?v=30092024",
+      "status": "expert",
+      "winRate": 88
+    },
+    "prediction": "Ничья",
+    "odds": 3.55,
+    "comment": "ЦСКА 1948 забьёт первым на контратаке, «Панатинаикос» сравняет, но не сможет вырвать победу. По сумме двух матчей — 2:2, и матч перейдёт в овертайм или серию пенальти. «Панатинаикос» не сможет пробить оборону хозяев, потому что у них нет игры в атаке, а ЦСКА будет биться за каждый мяч. Наиболее вероятный счёт — 1:1. 🍀",
+    "source": "Sports Analytics Pro"
+  },
+  {
+    "id": 1786445627996,
+    "eventName": "НЕК — Олимпиакос",
+    "discipline": "Футбол",
+    "tournament": "Чемпионат",
+    "expert": {
+      "name": "Алексей Вайцеховский",
+      "avatar": "https://bookmaker-ratings.ru/static/images/badges/is-kapper.svg?v=30092024",
+      "status": "expert",
+      "winRate": 70
+    },
+    "prediction": "Тотал меньше (3)",
+    "odds": 1.51,
+    "comment": "Сложная , вязкая игра, одидаю немного голов, команды еще не втянулись в сезон",
+    "source": "Sports Analytics Pro"
+  },
+  {
+    "id": 1786445627997,
+    "eventName": "Целе — Арарат-Армения",
+    "discipline": "Футбол",
+    "tournament": "Чемпионат",
+    "expert": {
+      "name": "Ольга Вознесенская",
+      "avatar": "https://bookmaker-ratings.ru/static/images/badges/is-kapper.svg?v=30092024",
+      "status": "expert",
+      "winRate": 88
+    },
+    "prediction": "Ничья",
+    "odds": 4.5,
+    "comment": "«Целе» забьёт первым, но не сможет удержать преимущество. «Арарат-Армения» сравняет счёт на контратаке во втором тайме. По сумме двух матчей — 2:2, и «Арарат-Армения» пройдёт дальше за счёт гола на выезде. «Целе» не сможет забить второй гол, потому что у них проблемы с реализацией (в 4 из 6 последних матчей — ничьи). Наиболее вероятный счёт — 1:1. 🍀",
+    "source": "Sports Analytics Pro"
+  },
+  {
+    "id": 1786445627998,
     "eventName": "Матч",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -16,135 +96,23 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1786438999967,
-    "eventName": "Оренбург — Локомотив Москва",
+    "id": 1786445627999,
+    "eventName": "Матч",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
     "expert": {
-      "name": "Михаил Лубнин",
-      "avatar": "https://bookmaker-ratings.ru/static/images/badges/is-kapper.svg?v=30092024",
+      "name": "Сабах Баку",
+      "avatar": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=100&h=100&fit=crop",
       "status": "expert",
       "winRate": 71
-    },
-    "prediction": "Тотал (3.5) М",
-    "odds": 1.4,
-    "comment": "Локомотив испытывает огромные проблемы с составом,команда перестраивается. В то же время Оренбург очень непростой соперник для каждой команды,особенно в родных стенах",
-    "source": "Sports Analytics Pro"
-  },
-  {
-    "id": 1786438999968,
-    "eventName": "Родина — Акрон",
-    "discipline": "Футбол",
-    "tournament": "Чемпионат",
-    "expert": {
-      "name": "Михаил Лубнин",
-      "avatar": "https://bookmaker-ratings.ru/static/images/badges/is-kapper.svg?v=30092024",
-      "status": "expert",
-      "winRate": 71
-    },
-    "prediction": "Тотал (2) Б",
-    "odds": 1.35,
-    "comment": "Родина воспряла после матча с Зенитом,но и Акрон с Локомотивом сотворил чудо. Ждем открытый футбол со стороны обеих команд",
-    "source": "Sports Analytics Pro"
-  },
-  {
-    "id": 1786438999969,
-    "eventName": "ЦСКА Москва — Факел Воронеж",
-    "discipline": "Футбол",
-    "tournament": "Чемпионат",
-    "expert": {
-      "name": "Михаил Лубнин",
-      "avatar": "https://bookmaker-ratings.ru/static/images/badges/is-kapper.svg?v=30092024",
-      "status": "expert",
-      "winRate": 71
-    },
-    "prediction": "Тотал (3.5) М",
-    "odds": 1.33,
-    "comment": "ЦСКА испытывает проблемы с завершением атак, а у Факела состав практически команды 1 лиги. С учетом того,как армейцы просаживаются во 2 таймах,большего количества мячей не жду",
-    "source": "Sports Analytics Pro"
-  },
-  {
-    "id": 1786438999970,
-    "eventName": "Ростов — Рубин",
-    "discipline": "Футбол",
-    "tournament": "Чемпионат",
-    "expert": {
-      "name": "Михаил Лубнин",
-      "avatar": "https://bookmaker-ratings.ru/static/images/badges/is-kapper.svg?v=30092024",
-      "status": "expert",
-      "winRate": 71
-    },
-    "prediction": "Тотал (2.5) М",
-    "odds": 1.77,
-    "comment": "В последних четырех очных встречах между этими командами было забито 6 мячей.Рубину придется перестраиваться без Даку",
-    "source": "Sports Analytics Pro"
-  },
-  {
-    "id": 1786438999971,
-    "eventName": "Ростов — Рубин",
-    "discipline": "Футбол",
-    "tournament": "Чемпионат",
-    "expert": {
-      "name": "Ольга Вознесенская",
-      "avatar": "https://bookmaker-ratings.ru/static/images/badges/is-kapper.svg?v=30092024",
-      "status": "expert",
-      "winRate": 88
     },
     "prediction": "Ничья",
-    "odds": 3.3,
-    "comment": "«Ростов» и «Рубин» — абсолютно равные команды по силе. История личных встреч это подтверждает. Обе набрали по 4 очка. Обе нестабильны. «Ростов» дома не проигрывает «Рубину» в последней очной встрече. Матч будет закрытым, но не из-за того, что обе команды не умеют забивать, а из-за того, что обе будут бояться ошибиться.",
+    "odds": 3.55,
+    "comment": "Комментарий к прогнозу",
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1786438999972,
-    "eventName": "Краснодар — Ахмат",
-    "discipline": "Футбол",
-    "tournament": "Чемпионат",
-    "expert": {
-      "name": "Михаил Лубнин",
-      "avatar": "https://bookmaker-ratings.ru/static/images/badges/is-kapper.svg?v=30092024",
-      "status": "expert",
-      "winRate": 71
-    },
-    "prediction": "Тотал (2.5) Б",
-    "odds": 1.77,
-    "comment": "Краснодар не без труда,но выиграл матч со Спартаком. В отличие от кубка здесь будет совершенно другая игра. Отсутствие Эгаша безусловно скажется на атакующих действиях грозненцев",
-    "source": "Sports Analytics Pro"
-  },
-  {
-    "id": 1786438999973,
-    "eventName": "Зенит — Динамо Москва",
-    "discipline": "Футбол",
-    "tournament": "Чемпионат",
-    "expert": {
-      "name": "Михаил Лубнин",
-      "avatar": "https://bookmaker-ratings.ru/static/images/badges/is-kapper.svg?v=30092024",
-      "status": "expert",
-      "winRate": 71
-    },
-    "prediction": "Тотал (1.5) Б",
-    "odds": 1.24,
-    "comment": "Динамо при Шварце потихоньку обретает себя.Зенит получил знатную оплеуху из-за недооценки соперника. Как минимум два мяча мы точно увидим",
-    "source": "Sports Analytics Pro"
-  },
-  {
-    "id": 1786438999974,
-    "eventName": "Крылья Советов — Динамо Махачкала",
-    "discipline": "Футбол",
-    "tournament": "Чемпионат",
-    "expert": {
-      "name": "Михаил Лубнин",
-      "avatar": "https://bookmaker-ratings.ru/static/images/badges/is-kapper.svg?v=30092024",
-      "status": "expert",
-      "winRate": 71
-    },
-    "prediction": "Тотал (3.5) М",
-    "odds": 1.23,
-    "comment": "Крылья Советов и Махачкала получили холодный душ от Балтики и московского Динамо. Следовательно,игра должна пройти осторожно,без огромного количества моментов.Не удивлюсь,если будет 0-0 или 1-2 гола в матче",
-    "source": "Sports Analytics Pro"
-  },
-  {
-    "id": 1786438999975,
+    "id": 1786445628000,
     "eventName": "Матч",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -156,6 +124,38 @@
     },
     "prediction": "П1",
     "odds": 1.65,
+    "comment": "Комментарий к прогнозу",
+    "source": "Sports Analytics Pro"
+  },
+  {
+    "id": 1786445628001,
+    "eventName": "Матч",
+    "discipline": "Футбол",
+    "tournament": "Чемпионат",
+    "expert": {
+      "name": "Тотал Будё",
+      "avatar": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=100&h=100&fit=crop",
+      "status": "expert",
+      "winRate": 74
+    },
+    "prediction": "Тотал Будё-Глимт больше (1.5)",
+    "odds": 1.52,
+    "comment": "Комментарий к прогнозу",
+    "source": "Sports Analytics Pro"
+  },
+  {
+    "id": 1786445628002,
+    "eventName": "Матч",
+    "discipline": "Футбол",
+    "tournament": "Чемпионат",
+    "expert": {
+      "name": "Лига Чемпионов",
+      "avatar": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=100&h=100&fit=crop",
+      "status": "expert",
+      "winRate": 86
+    },
+    "prediction": "ТМ (2,5)",
+    "odds": 1.85,
     "comment": "Комментарий к прогнозу",
     "source": "Sports Analytics Pro"
   }
