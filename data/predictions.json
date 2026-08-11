@@ -1,6 +1,6 @@
 [
   {
-    "id": 1786448893447,
+    "id": 1786454152062,
     "eventName": "Кайрат — Левски",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -16,7 +16,7 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1786448893448,
+    "id": 1786454152063,
     "eventName": "Сабах Баку — Орхус",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -32,7 +32,7 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1786448893449,
+    "id": 1786454152064,
     "eventName": "Будё-Глимт — Юнион Сент-Жилуаз",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -48,7 +48,7 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1786448893450,
+    "id": 1786454152065,
     "eventName": "Будё — Глимт - Юнион Сент-Жилуаз",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -64,7 +64,7 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1786448893451,
+    "id": 1786454152066,
     "eventName": "Матч",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -80,7 +80,7 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1786448893452,
+    "id": 1786454152067,
     "eventName": "НЕК — Олимпиакос",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -96,7 +96,7 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1786448893453,
+    "id": 1786454152068,
     "eventName": "НЕК — Олимпиакос",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -112,7 +112,7 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1786448893454,
+    "id": 1786454152069,
     "eventName": "Матч",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -128,7 +128,7 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1786448893455,
+    "id": 1786454152070,
     "eventName": "Целе — Арарат-Армения",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -144,19 +144,19 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1786448893456,
-    "eventName": "Целе — Арарат-Армения",
+    "id": 1786454152071,
+    "eventName": "Матч",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
     "expert": {
-      "name": "Михаил Поднебесный",
-      "avatar": "https://bookmaker-ratings.ru/static/images/badges/is-kapper.svg?v=30092024",
+      "name": "Сабах Баку",
+      "avatar": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=100&h=100&fit=crop",
       "status": "expert",
-      "winRate": 77
+      "winRate": 71
     },
-    "prediction": "Обе забьют - Да",
-    "odds": 1.83,
-    "comment": "«Целе» нужно отыгрывать 1:2 после первого матча, они будут атаковать с первых минут. «Арарат-Армения» на выезде нестабильна, но умеет забивать. В 4 из 6 последних матчей «Целе» была ничья, а дома они часто играют в результативные ничьи. Шанс на «обе забьют» довольно хороший",
+    "prediction": "Ничья",
+    "odds": 3.55,
+    "comment": "Комментарий к прогнозу",
     "source": "Sports Analytics Pro"
   }
 ]

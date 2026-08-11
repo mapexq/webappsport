@@ -1,5 +1,47 @@
 [
   {
+    "id": "79c983d104a455fc",
+    "title": "Fonbet и Всероссийская федерация волейбола стали партнерами",
+    "sport": "Другое",
+    "category": "Другие",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/3/74/347864524122743.jpeg",
+    "teaser": "Fonbet и Всероссийская федерация волейбола стали партнерами",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a7b16f19a79470a21cf8fa5",
+    "publishedAt": "2026-08-11T12:45:49.000Z",
+    "createdAt": "2026-08-11T13:16:02.107Z",
+    "updatedAt": "2026-08-11T13:16:02.107Z"
+  },
+  {
+    "id": "a9ea216ad514ddcb",
+    "title": "Акинфеев рассказал о восстановлении после травмы",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/6/70/347864504162706.jpeg",
+    "teaser": "Акинфеев рассказал о восстановлении после травмы",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a7b10349a7947fa273f8476",
+    "publishedAt": "2026-08-11T12:32:48.000Z",
+    "createdAt": "2026-08-11T13:15:58.904Z",
+    "updatedAt": "2026-08-11T13:15:58.904Z"
+  },
+  {
+    "id": "04593acbf0a78d2b",
+    "title": "AS узнала, что именно Инфантино пообещал Мексике в обмен на поддержку",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/1/18/347864480213181.jpeg",
+    "teaser": "AS узнала, что именно Инфантино пообещал Мексике в обмен на поддержку",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a7b02439a794745011c46eb",
+    "publishedAt": "2026-08-11T11:59:18.000Z",
+    "createdAt": "2026-08-11T13:15:59.989Z",
+    "updatedAt": "2026-08-11T13:15:59.989Z"
+  },
+  {
     "id": "8a6ba006b678aeb5",
     "title": "Чемпиона США в беге на 1500 м дисквалифицировали на три года за допинг",
     "sport": "Другое",
@@ -10,8 +52,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a7b036e9a79471f967354cd",
     "publishedAt": "2026-08-11T11:29:53.000Z",
-    "createdAt": "2026-08-11T11:48:19.901Z",
-    "updatedAt": "2026-08-11T11:48:19.901Z"
+    "createdAt": "2026-08-11T13:16:01.024Z",
+    "updatedAt": "2026-08-11T13:16:01.024Z"
   },
   {
     "id": "ec97b6714417497a",
@@ -24,11 +66,11 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a7af9269a79475e90b8b608",
     "publishedAt": "2026-08-11T11:00:48.000Z",
-    "createdAt": "2026-08-11T11:48:20.803Z",
-    "updatedAt": "2026-08-11T11:48:20.803Z"
+    "createdAt": "2026-08-11T13:16:03.129Z",
+    "updatedAt": "2026-08-11T13:16:03.129Z"
   },
   {
-    "id": "eeead2181ee79227",
+    "id": "0a8f1d05e4c54c00",
     "title": "Бабаев заявил, что Гинер по-прежнему активно участвует в жизни ЦСКА",
     "sport": "Футбол",
     "category": "Футбол",
@@ -37,9 +79,9 @@
     "fullContent": "",
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a7afa349a79475309e081e9",
-    "publishedAt": "2026-08-11T10:50:13.000Z",
-    "createdAt": "2026-08-11T11:48:21.704Z",
-    "updatedAt": "2026-08-11T11:48:21.704Z"
+    "publishedAt": "2026-08-11T10:50:14.000Z",
+    "createdAt": "2026-08-11T13:16:04.160Z",
+    "updatedAt": "2026-08-11T13:16:04.160Z"
   },
   {
     "id": "4d3cc3be1ffeda4a",
@@ -52,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a7af2ae9a79475309e081bc",
     "publishedAt": "2026-08-11T10:27:10.000Z",
-    "createdAt": "2026-08-11T11:48:22.628Z",
-    "updatedAt": "2026-08-11T11:48:22.628Z"
+    "createdAt": "2026-08-11T13:16:05.190Z",
+    "updatedAt": "2026-08-11T13:16:05.190Z"
   },
   {
     "id": "08bbfbd2f2159140",
@@ -66,8 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a7aeec29a79474cccfbcfd8",
     "publishedAt": "2026-08-11T10:03:52.000Z",
-    "createdAt": "2026-08-11T11:48:23.568Z",
-    "updatedAt": "2026-08-11T11:48:23.568Z"
+    "createdAt": "2026-08-11T13:16:06.339Z",
+    "updatedAt": "2026-08-11T13:16:06.339Z"
   },
   {
     "id": "cad6fa1dd080c3b9",
@@ -80,8 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a7aecbe9a79479299fd2b8a",
     "publishedAt": "2026-08-11T09:54:38.000Z",
-    "createdAt": "2026-08-11T11:48:24.458Z",
-    "updatedAt": "2026-08-11T11:48:24.458Z"
+    "createdAt": "2026-08-11T13:16:07.493Z",
+    "updatedAt": "2026-08-11T13:16:07.493Z"
   },
   {
     "id": "57255b020a54a0bd",
@@ -94,49 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a7ae8469a794741a3b0096d",
     "publishedAt": "2026-08-11T09:38:10.000Z",
-    "createdAt": "2026-08-11T11:48:25.640Z",
-    "updatedAt": "2026-08-11T11:48:25.640Z"
-  },
-  {
-    "id": "e96db8ed2144b27f",
-    "title": "Дзюба обратился к Даку после его перехода в «Спартак»",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/3/20/347864385243203.jpeg",
-    "teaser": "Дзюба обратился к Даку после его перехода в «Спартак»",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a7adf769a79470ab1a7ecca",
-    "publishedAt": "2026-08-11T09:24:05.000Z",
-    "createdAt": "2026-08-11T11:48:26.571Z",
-    "updatedAt": "2026-08-11T11:48:26.571Z"
-  },
-  {
-    "id": "d0d87f1c57c102b8",
-    "title": "Агент Дзюбы заявил, что форвард принесет пользу любой команде топ-6 РПЛ",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/8/24/347864352145248.jpeg",
-    "teaser": "Агент Дзюбы заявил, что форвард принесет пользу любой команде топ-6 РПЛ",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a7ad6679a79479299fd2b3e",
-    "publishedAt": "2026-08-11T08:09:05.000Z",
-    "createdAt": "2026-08-11T11:48:27.595Z",
-    "updatedAt": "2026-08-11T11:48:27.595Z"
-  },
-  {
-    "id": "22dfb76523afb47f",
-    "title": "Трамп назвал ошибкой возможный уход Инфантино с поста президента ФИФА",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/3/50/347864307993503.jpeg",
-    "teaser": "Трамп назвал ошибкой возможный уход Инфантино с поста президента ФИФА",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a7ac05c9a794748635fb14d",
-    "publishedAt": "2026-08-11T07:35:21.000Z",
-    "createdAt": "2026-08-11T11:48:28.689Z",
-    "updatedAt": "2026-08-11T11:48:28.689Z"
+    "createdAt": "2026-08-11T13:16:08.648Z",
+    "updatedAt": "2026-08-11T13:16:08.648Z"
   }
 ]
