@@ -1,6 +1,22 @@
 [
   {
-    "id": 1786481506540,
+    "id": 1786485224934,
+    "eventName": "Флуминенсе РЖ — Индепендьенте Ривадавия",
+    "discipline": "Футбол",
+    "tournament": "Чемпионат",
+    "expert": {
+      "name": "Andrey Agapov",
+      "avatar": "https://bookmaker-ratings.ru/static/images/badges/is-kapper.svg?v=30092024",
+      "status": "expert",
+      "winRate": 79
+    },
+    "prediction": "Тотал (2) Б",
+    "odds": 1.8,
+    "comment": "В матчах между этими командами забивались минимум два гола",
+    "source": "Sports Analytics Pro"
+  },
+  {
+    "id": 1786485224935,
     "eventName": "Иртыш — Сатурн",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -16,7 +32,7 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1786481506541,
+    "id": 1786485224936,
     "eventName": "Матч",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -32,7 +48,7 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1786481506542,
+    "id": 1786485224937,
     "eventName": "ПСЖ — Астон Вилла",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -48,7 +64,7 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1786481506543,
+    "id": 1786485224938,
     "eventName": "ПСЖ — Астон Вилла",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -64,7 +80,7 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1786481506544,
+    "id": 1786485224939,
     "eventName": "Оренбург — Локомотив Москва",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -80,7 +96,7 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1786481506545,
+    "id": 1786485224940,
     "eventName": "Родина — Акрон",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -96,7 +112,7 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1786481506546,
+    "id": 1786485224941,
     "eventName": "ЦСКА Москва — Факел Воронеж",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -112,7 +128,7 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1786481506547,
+    "id": 1786485224942,
     "eventName": "Ростов — Рубин",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -128,7 +144,7 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1786481506548,
+    "id": 1786485224943,
     "eventName": "Ростов — Рубин",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -141,22 +157,6 @@
     "prediction": "Ничья",
     "odds": 3.3,
     "comment": "«Ростов» и «Рубин» — абсолютно равные команды по силе. История личных встреч это подтверждает. Обе набрали по 4 очка. Обе нестабильны. «Ростов» дома не проигрывает «Рубину» в последней очной встрече. Матч будет закрытым, но не из-за того, что обе команды не умеют забивать, а из-за того, что обе будут бояться ошибиться.",
-    "source": "Sports Analytics Pro"
-  },
-  {
-    "id": 1786481506549,
-    "eventName": "Краснодар — Ахмат",
-    "discipline": "Футбол",
-    "tournament": "Чемпионат",
-    "expert": {
-      "name": "Михаил Лубнин",
-      "avatar": "https://bookmaker-ratings.ru/static/images/badges/is-kapper.svg?v=30092024",
-      "status": "expert",
-      "winRate": 71
-    },
-    "prediction": "Тотал (2.5) Б",
-    "odds": 1.77,
-    "comment": "Краснодар не без труда,но выиграл матч со Спартаком. В отличие от кубка здесь будет совершенно другая игра. Отсутствие Эгаша безусловно скажется на атакующих действиях грозненцев",
     "source": "Sports Analytics Pro"
   }
 ]
