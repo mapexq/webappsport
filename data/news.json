@@ -1,5 +1,75 @@
 [
   {
+    "id": "d0d87f1c57c102b8",
+    "title": "Агент Дзюбы заявил, что форвард принесет пользу любой команде топ-6 РПЛ",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/8/24/347864352145248.jpeg",
+    "teaser": "Агент Дзюбы заявил, что форвард принесет пользу любой команде топ-6 РПЛ",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a7ad6679a79479299fd2b3e",
+    "publishedAt": "2026-08-11T08:09:05.000Z",
+    "createdAt": "2026-08-11T09:03:27.055Z",
+    "updatedAt": "2026-08-11T09:03:27.055Z"
+  },
+  {
+    "id": "22dfb76523afb47f",
+    "title": "Трамп назвал ошибкой возможный уход Инфантино с поста президента ФИФА",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/3/50/347864307993503.jpeg",
+    "teaser": "Трамп назвал ошибкой возможный уход Инфантино с поста президента ФИФА",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a7ac05c9a794748635fb14d",
+    "publishedAt": "2026-08-11T07:35:21.000Z",
+    "createdAt": "2026-08-11T09:03:28.097Z",
+    "updatedAt": "2026-08-11T09:03:28.097Z"
+  },
+  {
+    "id": "1068c98b36a33eec",
+    "title": "Вторая и третья ракетки России проиграли в 1/4 финала турнира в Торонто",
+    "sport": "Теннис",
+    "category": "Теннис",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/2/68/347864322982682.jpeg",
+    "teaser": "Вторая и третья ракетки России проиграли в 1/4 финала турнира в Торонто",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a7acae99a794741a3b008f5",
+    "publishedAt": "2026-08-11T07:30:10.000Z",
+    "createdAt": "2026-08-11T09:03:30.236Z",
+    "updatedAt": "2026-08-11T09:03:30.236Z"
+  },
+  {
+    "id": "eda62f8559fd15e9",
+    "title": "Месси приостановил футбольную карьеру из-за смерти отца",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/4/51/347864290382514.jpeg",
+    "teaser": "Месси приостановил футбольную карьеру из-за смерти отца",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a7abaa99a79471994342c43",
+    "publishedAt": "2026-08-11T07:21:29.000Z",
+    "createdAt": "2026-08-11T09:03:29.137Z",
+    "updatedAt": "2026-08-11T09:03:29.137Z"
+  },
+  {
+    "id": "24496f02d2401faa",
+    "title": "The Athletic назвал Овечкина кандидатом в Зал хоккейной славы",
+    "sport": "Хоккей",
+    "category": "Хоккей",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/2/13/347864321149132.jpeg",
+    "teaser": "The Athletic назвал Овечкина кандидатом в Зал хоккейной славы",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a7ac67e9a794773453a450f",
+    "publishedAt": "2026-08-11T07:20:09.000Z",
+    "createdAt": "2026-08-11T09:03:31.389Z",
+    "updatedAt": "2026-08-11T09:03:31.389Z"
+  },
+  {
     "id": "240b2ff554179c44",
     "title": "В каких видах спорта россиянам разрешили выступать с флагом и гимном",
     "sport": "Другое",
@@ -10,8 +80,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/692840b79a794751c6265995",
     "publishedAt": "2026-08-11T05:30:30.000Z",
-    "createdAt": "2026-08-11T07:15:58.489Z",
-    "updatedAt": "2026-08-11T07:15:58.489Z"
+    "createdAt": "2026-08-11T09:03:32.434Z",
+    "updatedAt": "2026-08-11T09:03:32.434Z"
   },
   {
     "id": "7f985156fb4dc95c",
@@ -24,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a7a41809a7947150c7c550b",
     "publishedAt": "2026-08-10T21:36:43.000Z",
-    "createdAt": "2026-08-11T07:15:59.529Z",
-    "updatedAt": "2026-08-11T07:15:59.529Z"
+    "createdAt": "2026-08-11T09:03:33.605Z",
+    "updatedAt": "2026-08-11T09:03:33.605Z"
   },
   {
     "id": "393753d296329e12",
@@ -38,8 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a7a350e9a7947db1374d348",
     "publishedAt": "2026-08-10T20:59:01.000Z",
-    "createdAt": "2026-08-11T07:16:00.578Z",
-    "updatedAt": "2026-08-11T07:16:00.578Z"
+    "createdAt": "2026-08-11T09:03:34.630Z",
+    "updatedAt": "2026-08-11T09:03:34.630Z"
   },
   {
     "id": "0442cb215fa29b95",
@@ -52,8 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a7a29189a79473b12d9612e",
     "publishedAt": "2026-08-10T20:03:08.000Z",
-    "createdAt": "2026-08-11T07:16:01.665Z",
-    "updatedAt": "2026-08-11T07:16:01.665Z"
+    "createdAt": "2026-08-11T09:03:35.761Z",
+    "updatedAt": "2026-08-11T09:03:35.761Z"
   },
   {
     "id": "06cf508671ac459f",
@@ -66,77 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a7a1d639a79477110c3400f",
     "publishedAt": "2026-08-10T19:04:32.000Z",
-    "createdAt": "2026-08-11T07:16:02.903Z",
-    "updatedAt": "2026-08-11T07:16:02.903Z"
-  },
-  {
-    "id": "89fbc78bd6d954a9",
-    "title": "Индия на ЧМ по бадминтону привлекла мужчин, имитирующих крики обезьян",
-    "sport": "Другое",
-    "category": "Другие",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/0/79/347863866234790.jpeg",
-    "teaser": "Индия на ЧМ по бадминтону привлекла мужчин, имитирующих крики обезьян",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a7a106a9a7947db1374d2f9",
-    "publishedAt": "2026-08-10T18:43:57.000Z",
-    "createdAt": "2026-08-11T07:16:03.955Z",
-    "updatedAt": "2026-08-11T07:16:03.955Z"
-  },
-  {
-    "id": "eb58d9bf1d80c49d",
-    "title": "«Ахмат» и «Факел» сыграли нулевую ничью в матче третьего тура РПЛ",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/1/92/347863853931921.jpeg",
-    "teaser": "«Ахмат» и «Факел» сыграли нулевую ничью в матче третьего тура РПЛ",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a79ff469a7947175eec2cb3",
-    "publishedAt": "2026-08-10T18:29:56.000Z",
-    "createdAt": "2026-08-11T07:16:05.011Z",
-    "updatedAt": "2026-08-11T07:16:05.011Z"
-  },
-  {
-    "id": "efe19600adba9a18",
-    "title": "Российские пловчихи взяли бронзу в эстафете на чемпионате Европы",
-    "sport": "Другое",
-    "category": "Другие",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/6/61/347863720453616.jpeg",
-    "teaser": "Российские пловчихи взяли бронзу в эстафете на чемпионате Европы",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a79df299a79476bdf41b581",
-    "publishedAt": "2026-08-10T17:45:48.000Z",
-    "createdAt": "2026-08-11T07:16:07.131Z",
-    "updatedAt": "2026-08-11T07:16:07.131Z"
-  },
-  {
-    "id": "8c216f30d16c9b34",
-    "title": "Российский пловец взял золото чемпионата Европы, побив 16-летний рекорд",
-    "sport": "Другое",
-    "category": "Другие",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/1/47/347863715011471.jpeg",
-    "teaser": "Российский пловец взял золото чемпионата Европы, побив 16-летний рекорд",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a79dd879a794757f49ed4ea",
-    "publishedAt": "2026-08-10T17:01:51.000Z",
-    "createdAt": "2026-08-11T07:16:08.753Z",
-    "updatedAt": "2026-08-11T07:16:08.753Z"
-  },
-  {
-    "id": "369dd68f364091eb",
-    "title": "Покинет ли Инфантино пост президента ФИФА",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/9/94/347855928709949.jpeg",
-    "teaser": "Покинет ли Инфантино пост президента ФИФА",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a6de8159a79471fa89ef0a9",
-    "publishedAt": "2026-08-10T16:29:30.000Z",
-    "createdAt": "2026-08-11T07:16:06.067Z",
-    "updatedAt": "2026-08-11T07:16:06.067Z"
+    "createdAt": "2026-08-11T09:03:36.847Z",
+    "updatedAt": "2026-08-11T09:03:36.847Z"
   }
 ]

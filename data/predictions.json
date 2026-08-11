@@ -1,6 +1,6 @@
 [
   {
-    "id": 1786432551711,
+    "id": 1786438999966,
     "eventName": "Матч",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -16,7 +16,7 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1786432551712,
+    "id": 1786438999967,
     "eventName": "Оренбург — Локомотив Москва",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -32,7 +32,7 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1786432551713,
+    "id": 1786438999968,
     "eventName": "Родина — Акрон",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -48,7 +48,7 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1786432551714,
+    "id": 1786438999969,
     "eventName": "ЦСКА Москва — Факел Воронеж",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -64,7 +64,7 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1786432551715,
+    "id": 1786438999970,
     "eventName": "Ростов — Рубин",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -80,7 +80,7 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1786432551716,
+    "id": 1786438999971,
     "eventName": "Ростов — Рубин",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -96,7 +96,7 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1786432551717,
+    "id": 1786438999972,
     "eventName": "Краснодар — Ахмат",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -112,7 +112,7 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1786432551718,
+    "id": 1786438999973,
     "eventName": "Зенит — Динамо Москва",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -128,7 +128,7 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1786432551720,
+    "id": 1786438999974,
     "eventName": "Крылья Советов — Динамо Махачкала",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -144,19 +144,19 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1786432551721,
-    "eventName": "Балтика — Спартак Москва",
+    "id": 1786438999975,
+    "eventName": "Матч",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
     "expert": {
-      "name": "Михаил Лубнин",
-      "avatar": "https://bookmaker-ratings.ru/static/images/badges/is-kapper.svg?v=30092024",
+      "name": "Лига Чемпионов",
+      "avatar": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=100&h=100&fit=crop",
       "status": "expert",
-      "winRate": 71
+      "winRate": 86
     },
-    "prediction": "Тотал (3.5) М",
-    "odds": 1.27,
-    "comment": "Балтика очень неуступчивая команда дома,поэтому легкой прогулки Спартаку явно не предвидится. В последних 4 личных встречах в рамках РПЛ было забито 9 мячей, так что нас ждет упорная борьба",
+    "prediction": "П1",
+    "odds": 1.65,
+    "comment": "Комментарий к прогнозу",
     "source": "Sports Analytics Pro"
   }
 ]
