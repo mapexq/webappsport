@@ -1,5 +1,89 @@
 [
   {
+    "id": "6251f098f560cac7",
+    "title": "Ассоциация теннисистов пожаловалась на рост числа травм у игроков",
+    "sport": "Теннис",
+    "category": "Теннис",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/7/05/347864735746057.jpeg",
+    "teaser": "Ассоциация теннисистов пожаловалась на рост числа травм у игроков",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a7b66839a794750633b1b49",
+    "publishedAt": "2026-08-11T19:01:07.000Z",
+    "createdAt": "2026-08-11T19:08:18.715Z",
+    "updatedAt": "2026-08-11T19:08:18.715Z"
+  },
+  {
+    "id": "ee8847c5e1489249",
+    "title": "Российские пловцы завоевали бронзу в эстафете на чемпионате Европы",
+    "sport": "Другое",
+    "category": "Другие",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/8/97/347864618882978.jpeg",
+    "teaser": "Российские пловцы завоевали бронзу в эстафете на чемпионате Европы",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a7b3e799a794762dcefe128",
+    "publishedAt": "2026-08-11T18:21:02.000Z",
+    "createdAt": "2026-08-11T19:08:19.767Z",
+    "updatedAt": "2026-08-11T19:08:19.767Z"
+  },
+  {
+    "id": "b3b81590af8058be",
+    "title": "Федерация керлинга России не согласилась с продлением отстранения атлетов",
+    "sport": "Другое",
+    "category": "Другие",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/6/19/347864714854196.jpeg",
+    "teaser": "Федерация керлинга России не согласилась с продлением отстранения атлетов",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a7b603e9a794779aa5e3f50",
+    "publishedAt": "2026-08-11T18:17:40.000Z",
+    "createdAt": "2026-08-11T19:08:21.744Z",
+    "updatedAt": "2026-08-11T19:08:21.744Z"
+  },
+  {
+    "id": "5c2c25bd423b8f09",
+    "title": "Чемпионка России снялась с ЧМ по художественной гимнастике из-за травмы",
+    "sport": "Другое",
+    "category": "Другие",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/3/20/347864708816203.jpeg",
+    "teaser": "Чемпионка России снялась с ЧМ по художественной гимнастике из-за травмы",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a7b61989a79478efcd04832",
+    "publishedAt": "2026-08-11T18:01:31.000Z",
+    "createdAt": "2026-08-11T19:08:20.756Z",
+    "updatedAt": "2026-08-11T19:08:20.756Z"
+  },
+  {
+    "id": "321ee7a8188dfe55",
+    "title": "Загитова опровергла публикацию о долгах перед налоговой",
+    "sport": "Другое",
+    "category": "Фигурное катание",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/2/67/347864690539672.jpeg",
+    "teaser": "Загитова опровергла публикацию о долгах перед налоговой",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a7b5a899a7947f9e4175c37",
+    "publishedAt": "2026-08-11T17:35:01.000Z",
+    "createdAt": "2026-08-11T19:08:22.776Z",
+    "updatedAt": "2026-08-11T19:08:22.776Z"
+  },
+  {
+    "id": "2f20b9d77e90241e",
+    "title": "Российский пловец Кожакин завоевал серебро ЧЕ на дистанции 100 м брассом",
+    "sport": "Другое",
+    "category": "Другие",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/8/35/347864685627358.jpeg",
+    "teaser": "Российский пловец Кожакин завоевал серебро ЧЕ на дистанции 100 м брассом",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a7b4dfd9a794771bb1342c8",
+    "publishedAt": "2026-08-11T17:06:57.000Z",
+    "createdAt": "2026-08-11T19:08:24.859Z",
+    "updatedAt": "2026-08-11T19:08:24.859Z"
+  },
+  {
     "id": "3d3020fa884189b2",
     "title": "Российский пловец Корнев завоевал золото ЧЕ на дистанции 50 м баттерфляем",
     "sport": "Другое",
@@ -10,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a7b3ace9a7947b8198d5777",
     "publishedAt": "2026-08-11T16:47:37.000Z",
-    "createdAt": "2026-08-11T17:01:18.242Z",
-    "updatedAt": "2026-08-11T17:01:18.242Z"
+    "createdAt": "2026-08-11T19:08:23.757Z",
+    "updatedAt": "2026-08-11T19:08:23.757Z"
   },
   {
     "id": "564af1ed89b626af",
@@ -24,8 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a7b48ae9a794726424a3a48",
     "publishedAt": "2026-08-11T16:47:18.000Z",
-    "createdAt": "2026-08-11T17:01:19.226Z",
-    "updatedAt": "2026-08-11T17:01:19.226Z"
+    "createdAt": "2026-08-11T19:08:25.973Z",
+    "updatedAt": "2026-08-11T19:08:25.973Z"
   },
   {
     "id": "91b23fd1d906db6c",
@@ -38,36 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a7b40629a794779aa5e3f1e",
     "publishedAt": "2026-08-11T16:24:56.000Z",
-    "createdAt": "2026-08-11T17:01:20.145Z",
-    "updatedAt": "2026-08-11T17:01:20.145Z"
-  },
-  {
-    "id": "2efd74da76a1fcf9",
-    "title": "Выиграй шанс сделать командное фото с Александром Овечкиным",
-    "sport": "Хоккей",
-    "category": "Хоккей",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/2/74/347864370578742.jpeg",
-    "teaser": "Выиграй шанс сделать командное фото с Александром Овечкиным",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a7add9d9a79474b60c7690e",
-    "publishedAt": "2026-08-11T16:15:46.000Z",
-    "createdAt": "2026-08-11T17:01:23.538Z",
-    "updatedAt": "2026-08-11T17:01:23.538Z"
-  },
-  {
-    "id": "e0362351f5e1f6a0",
-    "title": "В США задержали аргентинского футболиста перед вылетом на матч",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/7/52/347864611427527.jpeg",
-    "teaser": "В США задержали аргентинского футболиста перед вылетом на матч",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a7b30ea9a79474c3588465a",
-    "publishedAt": "2026-08-11T15:30:43.000Z",
-    "createdAt": "2026-08-11T17:01:22.630Z",
-    "updatedAt": "2026-08-11T17:01:22.630Z"
+    "createdAt": "2026-08-11T19:08:27.019Z",
+    "updatedAt": "2026-08-11T19:08:27.019Z"
   },
   {
     "id": "e26f56f5774a3849",
@@ -80,63 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a7b32069a7947f1738405f4",
     "publishedAt": "2026-08-11T15:28:40.000Z",
-    "createdAt": "2026-08-11T17:01:21.264Z",
-    "updatedAt": "2026-08-11T17:01:21.264Z"
-  },
-  {
-    "id": "764cb4e602bc659e",
-    "title": "World Curling продлила отстранение россиян до конца 2026 года",
-    "sport": "Другое",
-    "category": "Другие",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/5/16/347864601426165.jpeg",
-    "teaser": "World Curling продлила отстранение россиян до конца 2026 года",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a7b36559a7947656aca5d99",
-    "publishedAt": "2026-08-11T15:17:42.000Z",
-    "createdAt": "2026-08-11T17:01:24.578Z",
-    "updatedAt": "2026-08-11T17:01:24.578Z"
-  },
-  {
-    "id": "3c51c62b2eb2fc7d",
-    "title": "Сафонов заявил, что матч за Суперкубок УЕФА будет «тяжелым»",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/1/01/347864566976011.jpeg",
-    "teaser": "Сафонов заявил, что матч за Суперкубок УЕФА будет «тяжелым»",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a7b26d79a7947714c16fe57",
-    "publishedAt": "2026-08-11T14:37:59.000Z",
-    "createdAt": "2026-08-11T17:01:25.600Z",
-    "updatedAt": "2026-08-11T17:01:25.600Z"
-  },
-  {
-    "id": "7bc306ab578ae792",
-    "title": "72-летний депутат стал самым возрастным игроком Кубка России",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/9/23/347864548677239.jpeg",
-    "teaser": "72-летний депутат стал самым возрастным игроком Кубка России",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a7b1f419a79477a309e3bfa",
-    "publishedAt": "2026-08-11T14:10:33.000Z",
-    "createdAt": "2026-08-11T17:01:26.667Z",
-    "updatedAt": "2026-08-11T17:01:26.667Z"
-  },
-  {
-    "id": "e0f7192ae49eec01",
-    "title": "European Gymnastics назвал Ангелину Мельникову фаворитом ЧЕ в Хорватии",
-    "sport": "Другое",
-    "category": "Другие",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/7/19/347864536711197.jpeg",
-    "teaser": "European Gymnastics назвал Ангелину Мельникову фаворитом ЧЕ в Хорватии",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a7b184f9a79474c3588460e",
-    "publishedAt": "2026-08-11T13:58:04.000Z",
-    "createdAt": "2026-08-11T17:01:27.483Z",
-    "updatedAt": "2026-08-11T17:01:27.483Z"
+    "createdAt": "2026-08-11T19:08:28.120Z",
+    "updatedAt": "2026-08-11T19:08:28.120Z"
   }
 ]
