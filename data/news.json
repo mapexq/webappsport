@@ -1,5 +1,61 @@
 [
   {
+    "id": "3c51c62b2eb2fc7d",
+    "title": "Сафонов заявил, что матч за Суперкубок УЕФА будет «тяжелым»",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/1/01/347864566976011.jpeg",
+    "teaser": "Сафонов заявил, что матч за Суперкубок УЕФА будет «тяжелым»",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a7b26d79a7947714c16fe57",
+    "publishedAt": "2026-08-11T14:37:59.000Z",
+    "createdAt": "2026-08-11T15:02:40.900Z",
+    "updatedAt": "2026-08-11T15:02:40.900Z"
+  },
+  {
+    "id": "7bc306ab578ae792",
+    "title": "72-летний депутат стал самым возрастным игроком Кубка России",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/9/23/347864548677239.jpeg",
+    "teaser": "72-летний депутат стал самым возрастным игроком Кубка России",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a7b1f419a79477a309e3bfa",
+    "publishedAt": "2026-08-11T14:10:33.000Z",
+    "createdAt": "2026-08-11T15:02:41.813Z",
+    "updatedAt": "2026-08-11T15:02:41.813Z"
+  },
+  {
+    "id": "e0f7192ae49eec01",
+    "title": "European Gymnastics назвал Ангелину Мельникову фаворитом ЧЕ в Хорватии",
+    "sport": "Другое",
+    "category": "Другие",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/7/19/347864536711197.jpeg",
+    "teaser": "European Gymnastics назвал Ангелину Мельникову фаворитом ЧЕ в Хорватии",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a7b184f9a79474c3588460e",
+    "publishedAt": "2026-08-11T13:58:04.000Z",
+    "createdAt": "2026-08-11T15:02:42.834Z",
+    "updatedAt": "2026-08-11T15:02:42.834Z"
+  },
+  {
+    "id": "ba4feb717c128669",
+    "title": "В Италии допустили, что Алькарас страдает от депрессии из-за травмы",
+    "sport": "Теннис",
+    "category": "Теннис",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/8/58/347864547592588.jpeg",
+    "teaser": "В Италии допустили, что Алькарас страдает от депрессии из-за травмы",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a7b1fb29a79471040678cf6",
+    "publishedAt": "2026-08-11T13:29:54.000Z",
+    "createdAt": "2026-08-11T15:02:43.789Z",
+    "updatedAt": "2026-08-11T15:02:43.789Z"
+  },
+  {
     "id": "79c983d104a455fc",
     "title": "Fonbet и Всероссийская федерация волейбола стали партнерами",
     "sport": "Другое",
@@ -10,8 +66,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a7b16f19a79470a21cf8fa5",
     "publishedAt": "2026-08-11T12:45:49.000Z",
-    "createdAt": "2026-08-11T13:16:02.107Z",
-    "updatedAt": "2026-08-11T13:16:02.107Z"
+    "createdAt": "2026-08-11T15:02:47.917Z",
+    "updatedAt": "2026-08-11T15:02:47.917Z"
   },
   {
     "id": "a9ea216ad514ddcb",
@@ -24,8 +80,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a7b10349a7947fa273f8476",
     "publishedAt": "2026-08-11T12:32:48.000Z",
-    "createdAt": "2026-08-11T13:15:58.904Z",
-    "updatedAt": "2026-08-11T13:15:58.904Z"
+    "createdAt": "2026-08-11T15:02:44.747Z",
+    "updatedAt": "2026-08-11T15:02:44.747Z"
   },
   {
     "id": "04593acbf0a78d2b",
@@ -38,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a7b02439a794745011c46eb",
     "publishedAt": "2026-08-11T11:59:18.000Z",
-    "createdAt": "2026-08-11T13:15:59.989Z",
-    "updatedAt": "2026-08-11T13:15:59.989Z"
+    "createdAt": "2026-08-11T15:02:46.002Z",
+    "updatedAt": "2026-08-11T15:02:46.002Z"
   },
   {
     "id": "8a6ba006b678aeb5",
@@ -52,8 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a7b036e9a79471f967354cd",
     "publishedAt": "2026-08-11T11:29:53.000Z",
-    "createdAt": "2026-08-11T13:16:01.024Z",
-    "updatedAt": "2026-08-11T13:16:01.024Z"
+    "createdAt": "2026-08-11T15:02:47.018Z",
+    "updatedAt": "2026-08-11T15:02:47.018Z"
   },
   {
     "id": "ec97b6714417497a",
@@ -66,8 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a7af9269a79475e90b8b608",
     "publishedAt": "2026-08-11T11:00:48.000Z",
-    "createdAt": "2026-08-11T13:16:03.129Z",
-    "updatedAt": "2026-08-11T13:16:03.129Z"
+    "createdAt": "2026-08-11T15:02:48.884Z",
+    "updatedAt": "2026-08-11T15:02:48.884Z"
   },
   {
     "id": "0a8f1d05e4c54c00",
@@ -80,63 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a7afa349a79475309e081e9",
     "publishedAt": "2026-08-11T10:50:14.000Z",
-    "createdAt": "2026-08-11T13:16:04.160Z",
-    "updatedAt": "2026-08-11T13:16:04.160Z"
-  },
-  {
-    "id": "4d3cc3be1ffeda4a",
-    "title": "Валиева призналась, что ей было «неинтересно жить» во время отстранения",
-    "sport": "Другое",
-    "category": "Фигурное катание",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/5/23/347864434809235.jpeg",
-    "teaser": "Валиева призналась, что ей было «неинтересно жить» во время отстранения",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a7af2ae9a79475309e081bc",
-    "publishedAt": "2026-08-11T10:27:10.000Z",
-    "createdAt": "2026-08-11T13:16:05.190Z",
-    "updatedAt": "2026-08-11T13:16:05.190Z"
-  },
-  {
-    "id": "08bbfbd2f2159140",
-    "title": "Российским каноистам вернут флаг и гимн на турнирах с 2027 года",
-    "sport": "Другое",
-    "category": "Другие",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/7/55/347864419899557.jpeg",
-    "teaser": "Российским каноистам вернут флаг и гимн на турнирах с 2027 года",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a7aeec29a79474cccfbcfd8",
-    "publishedAt": "2026-08-11T10:03:52.000Z",
-    "createdAt": "2026-08-11T13:16:06.339Z",
-    "updatedAt": "2026-08-11T13:16:06.339Z"
-  },
-  {
-    "id": "cad6fa1dd080c3b9",
-    "title": "Вернувшийся в Россию Оздоев заявил о падении уровня игроков в РПЛ",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/4/52/347864410380524.jpeg",
-    "teaser": "Вернувшийся в Россию Оздоев заявил о падении уровня игроков в РПЛ",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a7aecbe9a79479299fd2b8a",
-    "publishedAt": "2026-08-11T09:54:38.000Z",
-    "createdAt": "2026-08-11T13:16:07.493Z",
-    "updatedAt": "2026-08-11T13:16:07.493Z"
-  },
-  {
-    "id": "57255b020a54a0bd",
-    "title": "Французский пловец побил юниорский рекорд мира Колесникова на ЧЕ",
-    "sport": "Другое",
-    "category": "Другие",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/2/60/347864407438602.jpeg",
-    "teaser": "Французский пловец побил юниорский рекорд мира Колесникова на ЧЕ",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a7ae8469a794741a3b0096d",
-    "publishedAt": "2026-08-11T09:38:10.000Z",
-    "createdAt": "2026-08-11T13:16:08.648Z",
-    "updatedAt": "2026-08-11T13:16:08.648Z"
+    "createdAt": "2026-08-11T15:02:49.842Z",
+    "updatedAt": "2026-08-11T15:02:49.842Z"
   }
 ]
