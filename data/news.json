@@ -1,5 +1,61 @@
 [
   {
+    "id": "1fc57198254debb4",
+    "title": "Сборную Нидерландов впервые с 1978 года возглавил иностранный тренер",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/4/58/347865654182584.jpeg",
+    "teaser": "Сборную Нидерландов впервые с 1978 года возглавил иностранный тренер",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a7ccd379a79471fdcfc5090",
+    "publishedAt": "2026-08-12T20:46:03.000Z",
+    "createdAt": "2026-08-12T20:51:08.777Z",
+    "updatedAt": "2026-08-12T20:51:08.777Z"
+  },
+  {
+    "id": "b3d9080909333ab1",
+    "title": "Рекордсмен НБА Расселл Уэстбрук объявил о завершении карьеры",
+    "sport": "Баскетбол",
+    "category": "Баскетбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/4/85/347865630732854.jpeg",
+    "teaser": "Рекордсмен НБА Расселл Уэстбрук объявил о завершении карьеры",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a7cc4339a79479bad30f2a4",
+    "publishedAt": "2026-08-12T20:09:26.000Z",
+    "createdAt": "2026-08-12T20:51:10.813Z",
+    "updatedAt": "2026-08-12T20:51:10.813Z"
+  },
+  {
+    "id": "b8fd33ce3f62aa4a",
+    "title": "ПСЖ и «Астон Вилла» завершили вничью первый тайм матча за Суперкубок УЕФА",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/1/32/347865637559321.jpeg",
+    "teaser": "ПСЖ и «Астон Вилла» завершили вничью первый тайм матча за Суперкубок УЕФА",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a7ccae39a7947b537b1ade7",
+    "publishedAt": "2026-08-12T19:55:56.000Z",
+    "createdAt": "2026-08-12T20:51:09.732Z",
+    "updatedAt": "2026-08-12T20:51:09.732Z"
+  },
+  {
+    "id": "08aabb64179191a0",
+    "title": "Российский пловец Корнев фразой «как-то доковылял» оценил серебро ЧЕ",
+    "sport": "Другое",
+    "category": "Другие",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/0/11/347865613372110.jpeg",
+    "teaser": "Российский пловец Корнев фразой «как-то доковылял» оценил серебро ЧЕ",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a7cc0b49a7947d469ee2c98",
+    "publishedAt": "2026-08-12T19:26:36.000Z",
+    "createdAt": "2026-08-12T20:51:11.871Z",
+    "updatedAt": "2026-08-12T20:51:11.871Z"
+  },
+  {
     "id": "203d29aede391af2",
     "title": "Российские пловчихи завоевали бронзу в эстафете на чемпионате Европы",
     "sport": "Другое",
@@ -10,8 +66,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a7c7eeb9a7947ec9375bc2a",
     "publishedAt": "2026-08-12T18:38:11.000Z",
-    "createdAt": "2026-08-12T19:07:22.772Z",
-    "updatedAt": "2026-08-12T19:07:22.772Z"
+    "createdAt": "2026-08-12T20:51:14.035Z",
+    "updatedAt": "2026-08-12T20:51:14.035Z"
   },
   {
     "id": "98d40b2866c3a10c",
@@ -24,8 +80,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a7cb6f09a7947315a4118d1",
     "publishedAt": "2026-08-12T18:36:03.000Z",
-    "createdAt": "2026-08-12T19:07:21.632Z",
-    "updatedAt": "2026-08-12T19:07:21.632Z"
+    "createdAt": "2026-08-12T20:51:13.003Z",
+    "updatedAt": "2026-08-12T20:51:13.003Z"
   },
   {
     "id": "1dbe920f6246120d",
@@ -38,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a7cadad9a79473b3cb4984f",
     "publishedAt": "2026-08-12T18:15:37.000Z",
-    "createdAt": "2026-08-12T19:07:23.797Z",
-    "updatedAt": "2026-08-12T19:07:23.797Z"
+    "createdAt": "2026-08-12T20:51:15.226Z",
+    "updatedAt": "2026-08-12T20:51:15.226Z"
   },
   {
     "id": "241db701cb1668be",
@@ -52,8 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a7cafe59a79473da3ee5e6e",
     "publishedAt": "2026-08-12T17:49:58.000Z",
-    "createdAt": "2026-08-12T19:07:24.825Z",
-    "updatedAt": "2026-08-12T19:07:24.825Z"
+    "createdAt": "2026-08-12T20:51:16.475Z",
+    "updatedAt": "2026-08-12T20:51:16.475Z"
   },
   {
     "id": "4bad1735da4baf60",
@@ -66,8 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a7c7e809a79470f53091767",
     "publishedAt": "2026-08-12T17:09:25.000Z",
-    "createdAt": "2026-08-12T19:07:25.918Z",
-    "updatedAt": "2026-08-12T19:07:25.918Z"
+    "createdAt": "2026-08-12T20:51:17.477Z",
+    "updatedAt": "2026-08-12T20:51:17.477Z"
   },
   {
     "id": "89d17a438ddeae8f",
@@ -80,63 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a7c9dc59a79475f605ba984",
     "publishedAt": "2026-08-12T16:55:11.000Z",
-    "createdAt": "2026-08-12T19:07:27.101Z",
-    "updatedAt": "2026-08-12T19:07:27.101Z"
-  },
-  {
-    "id": "2861e3a1457e450f",
-    "title": "2DROTS забил на последних минутах и вырвал победу в матче Кубка России",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/7/23/347865492722237.jpeg",
-    "teaser": "2DROTS забил на последних минутах и вырвал победу в матче Кубка России",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a7c90e29a79475923a176ba",
-    "publishedAt": "2026-08-12T16:37:07.000Z",
-    "createdAt": "2026-08-12T19:07:28.183Z",
-    "updatedAt": "2026-08-12T19:07:28.183Z"
-  },
-  {
-    "id": "e2b1f9b43d686ec5",
-    "title": "Непомнящий ударил кулаком по столу после поражения на Кубке мира",
-    "sport": "Другое",
-    "category": "Другие",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/9/17/347865496525179.jpeg",
-    "teaser": "Непомнящий ударил кулаком по столу после поражения на Кубке мира",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a7c956a9a79476dd904414e",
-    "publishedAt": "2026-08-12T16:14:16.000Z",
-    "createdAt": "2026-08-12T19:07:29.224Z",
-    "updatedAt": "2026-08-12T19:07:29.224Z"
-  },
-  {
-    "id": "5ef594ff84f8aa18",
-    "title": "Акинфеев назвал правильным шагом покупку нового вратаря в ЦСКА",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/8/04/347865470090048.jpeg",
-    "teaser": "Акинфеев назвал правильным шагом покупку нового вратаря в ЦСКА",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a7c87799a79479c34eacadf",
-    "publishedAt": "2026-08-12T15:13:08.000Z",
-    "createdAt": "2026-08-12T19:07:31.444Z",
-    "updatedAt": "2026-08-12T19:07:31.444Z"
-  },
-  {
-    "id": "e2cbffc4da74bdd4",
-    "title": "«Лейкерс» продадут брату зятя Трампа и экс-главе Disney за $12 млрд",
-    "sport": "Баскетбол",
-    "category": "Баскетбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/6/53/347865457213536.jpeg",
-    "teaser": "«Лейкерс» продадут брату зятя Трампа и экс-главе Disney за $12 млрд",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a7c83ae9a7947a465a19548",
-    "publishedAt": "2026-08-12T15:05:07.000Z",
-    "createdAt": "2026-08-12T19:07:30.347Z",
-    "updatedAt": "2026-08-12T19:07:30.347Z"
+    "createdAt": "2026-08-12T20:51:18.555Z",
+    "updatedAt": "2026-08-12T20:51:18.555Z"
   }
 ]
