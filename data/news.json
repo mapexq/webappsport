@@ -1,5 +1,89 @@
 [
   {
+    "id": "89d17a438ddeae8f",
+    "title": "Ромелу Лукаку перешел в турецкий «Фенербахче»",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/3/76/347865519424763.jpeg",
+    "teaser": "Ромелу Лукаку перешел в турецкий «Фенербахче»",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a7c9dc59a79475f605ba984",
+    "publishedAt": "2026-08-12T16:55:11.000Z",
+    "createdAt": "2026-08-12T17:00:28.991Z",
+    "updatedAt": "2026-08-12T17:00:28.991Z"
+  },
+  {
+    "id": "2861e3a1457e450f",
+    "title": "2DROTS забил на последних минутах и вырвал победу в матче Кубка России",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/7/23/347865492722237.jpeg",
+    "teaser": "2DROTS забил на последних минутах и вырвал победу в матче Кубка России",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a7c90e29a79475923a176ba",
+    "publishedAt": "2026-08-12T16:37:07.000Z",
+    "createdAt": "2026-08-12T17:00:29.932Z",
+    "updatedAt": "2026-08-12T17:00:29.932Z"
+  },
+  {
+    "id": "e2b1f9b43d686ec5",
+    "title": "Непомнящий ударил кулаком по столу после поражения на Кубке мира",
+    "sport": "Другое",
+    "category": "Другие",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/9/17/347865496525179.jpeg",
+    "teaser": "Непомнящий ударил кулаком по столу после поражения на Кубке мира",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a7c956a9a79476dd904414e",
+    "publishedAt": "2026-08-12T16:14:16.000Z",
+    "createdAt": "2026-08-12T17:00:30.877Z",
+    "updatedAt": "2026-08-12T17:00:30.878Z"
+  },
+  {
+    "id": "5ef594ff84f8aa18",
+    "title": "Акинфеев назвал правильным шагом покупку нового вратаря в ЦСКА",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/8/04/347865470090048.jpeg",
+    "teaser": "Акинфеев назвал правильным шагом покупку нового вратаря в ЦСКА",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a7c87799a79479c34eacadf",
+    "publishedAt": "2026-08-12T15:13:08.000Z",
+    "createdAt": "2026-08-12T17:00:32.864Z",
+    "updatedAt": "2026-08-12T17:00:32.864Z"
+  },
+  {
+    "id": "1687c7a7ec84b780",
+    "title": "Женский «Спартак» продлил контракт с лучшим бомбардиром в истории клуба",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/1/19/347865462868191.jpeg",
+    "teaser": "Женский «Спартак» продлил контракт с лучшим бомбардиром в истории клуба",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a7c822d9a7947389f962486",
+    "publishedAt": "2026-08-12T15:10:00.000Z",
+    "createdAt": "2026-08-12T17:00:33.955Z",
+    "updatedAt": "2026-08-12T17:00:33.955Z"
+  },
+  {
+    "id": "e2cbffc4da74bdd4",
+    "title": "«Лейкерс» продадут брату зятя Трампа и экс-главе Disney за $12 млрд",
+    "sport": "Баскетбол",
+    "category": "Баскетбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/6/53/347865457213536.jpeg",
+    "teaser": "«Лейкерс» продадут брату зятя Трампа и экс-главе Disney за $12 млрд",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a7c83ae9a7947a465a19548",
+    "publishedAt": "2026-08-12T15:05:07.000Z",
+    "createdAt": "2026-08-12T17:00:31.862Z",
+    "updatedAt": "2026-08-12T17:00:31.862Z"
+  },
+  {
     "id": "dd2aad4cb65d3f04",
     "title": "Роналду поддержал Месси после смерти его отца",
     "sport": "Футбол",
@@ -10,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a7c796d9a7947aa38dd8fe3",
     "publishedAt": "2026-08-12T14:29:02.000Z",
-    "createdAt": "2026-08-12T15:02:02.071Z",
-    "updatedAt": "2026-08-12T15:02:02.071Z"
+    "createdAt": "2026-08-12T17:00:36.069Z",
+    "updatedAt": "2026-08-12T17:00:36.069Z"
   },
   {
     "id": "3a1df4716e68c960",
@@ -24,8 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a7c71529a79471a28944753",
     "publishedAt": "2026-08-12T14:21:12.000Z",
-    "createdAt": "2026-08-12T15:02:01.056Z",
-    "updatedAt": "2026-08-12T15:02:01.056Z"
+    "createdAt": "2026-08-12T17:00:35.012Z",
+    "updatedAt": "2026-08-12T17:00:35.012Z"
   },
   {
     "id": "7767265c8cf56c74",
@@ -38,8 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a7c71979a79470801f419b7",
     "publishedAt": "2026-08-12T14:12:13.000Z",
-    "createdAt": "2026-08-12T15:02:03.075Z",
-    "updatedAt": "2026-08-12T15:02:03.075Z"
+    "createdAt": "2026-08-12T17:00:37.140Z",
+    "updatedAt": "2026-08-12T17:00:37.140Z"
   },
   {
     "id": "ade4ed7d6b0cd4ff",
@@ -52,91 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a7c72dd9a79470801f419be",
     "publishedAt": "2026-08-12T13:58:55.000Z",
-    "createdAt": "2026-08-12T15:02:04.088Z",
-    "updatedAt": "2026-08-12T15:02:04.088Z"
-  },
-  {
-    "id": "eb0a62fe4844c70f",
-    "title": "Ирландский бегун побил 48-летний рекорд ЧЕ на дистанции 800 м",
-    "sport": "Другое",
-    "category": "Другие",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/7/49/347865368698497.jpeg",
-    "teaser": "Ирландский бегун побил 48-летний рекорд ЧЕ на дистанции 800 м",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a7c63859a79476c05872414",
-    "publishedAt": "2026-08-12T12:31:01.000Z",
-    "createdAt": "2026-08-12T15:02:05.113Z",
-    "updatedAt": "2026-08-12T15:02:05.113Z"
-  },
-  {
-    "id": "de5ee0a86796681e",
-    "title": "Хореограф Бенуа Ришо рассказал о работе с Камилой Валиевой во Франции",
-    "sport": "Другое",
-    "category": "Фигурное катание",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/1/78/347865350563781.jpeg",
-    "teaser": "Хореограф Бенуа Ришо рассказал о работе с Камилой Валиевой во Франции",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a7c56449a79470bde490a79",
-    "publishedAt": "2026-08-12T11:57:03.000Z",
-    "createdAt": "2026-08-12T15:02:08.165Z",
-    "updatedAt": "2026-08-12T15:02:08.165Z"
-  },
-  {
-    "id": "e425baabff69b103",
-    "title": "Со скандалом покинувший «Спартак» Ружичка перешел в новый клуб КХЛ",
-    "sport": "Хоккей",
-    "category": "Хоккей",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/5/15/347865345097155.jpeg",
-    "teaser": "Со скандалом покинувший «Спартак» Ружичка перешел в новый клуб КХЛ",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a7c5a339a79476c05872406",
-    "publishedAt": "2026-08-12T11:53:19.000Z",
-    "createdAt": "2026-08-12T15:02:06.136Z",
-    "updatedAt": "2026-08-12T15:02:06.136Z"
-  },
-  {
-    "id": "44ca5437020e5dd0",
-    "title": "Роджер Федерер потерял статус миллиардера",
-    "sport": "Теннис",
-    "category": "Теннис",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/6/46/347865326713466.jpeg",
-    "teaser": "Роджер Федерер потерял статус миллиардера",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a7c4a6a9a79478acad8e4c9",
-    "publishedAt": "2026-08-12T11:26:50.000Z",
-    "createdAt": "2026-08-12T15:02:07.142Z",
-    "updatedAt": "2026-08-12T15:02:07.142Z"
-  },
-  {
-    "id": "1112b763a14cd479",
-    "title": "Унаи Эмери заявил, что многому научился в «Спартаке»",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/6/67/347865309039676.jpeg",
-    "teaser": "Унаи Эмери заявил, что многому научился в «Спартаке»",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a7c4c349a79477b17577ac3",
-    "publishedAt": "2026-08-12T10:51:13.000Z",
-    "createdAt": "2026-08-12T15:02:09.220Z",
-    "updatedAt": "2026-08-12T15:02:09.220Z"
-  },
-  {
-    "id": "e8a1345e7bd2437e",
-    "title": "Махачев и Гэрри провели битву взглядов у статуи Рокки в Филадельфии",
-    "sport": "Единоборства",
-    "category": "Единоборства",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/9/60/347865270267609.jpeg",
-    "teaser": "Махачев и Гэрри провели битву взглядов у статуи Рокки в Филадельфии",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a7c38589a794773153096d0",
-    "publishedAt": "2026-08-12T10:14:31.000Z",
-    "createdAt": "2026-08-12T15:02:10.774Z",
-    "updatedAt": "2026-08-12T15:02:10.774Z"
+    "createdAt": "2026-08-12T17:00:38.198Z",
+    "updatedAt": "2026-08-12T17:00:38.198Z"
   }
 ]
