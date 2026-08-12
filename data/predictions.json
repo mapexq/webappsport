@@ -1,22 +1,6 @@
 [
   {
-    "id": 1786535481760,
-    "eventName": "Иртыш — Сатурн",
-    "discipline": "Футбол",
-    "tournament": "Чемпионат",
-    "expert": {
-      "name": "Andrey Zamuraev",
-      "avatar": "https://bookmaker-ratings.ru/static/images/badges/is-kapper.svg?v=30092024",
-      "status": "expert",
-      "winRate": 78
-    },
-    "prediction": "Индивидуальный тотал 2 Больше (1)",
-    "odds": 1.65,
-    "comment": "Ещё одно очень интересное противостояние нас ожидает. Иртыш - одна молодежь + 2 опытных игрока, которые уже очень возрастные. Иртыш в недавнем матче пропустил от дубля Питерского Зенита 5 мячей, оборона рассыпается, молодые, но резвые - проигрывают в борьбе более опытным игрокам, которые есть у Сатурна. Завтра ожидаю Победу гостей, но страхуюсь всё равно, учитывая кубковые реалии",
-    "source": "Sports Analytics Pro"
-  },
-  {
-    "id": 1786535481762,
+    "id": 1786540796730,
     "eventName": "Матч",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -32,7 +16,7 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1786535481763,
+    "id": 1786540796731,
     "eventName": "Матч",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -48,7 +32,7 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1786535481764,
+    "id": 1786540796732,
     "eventName": "ПСЖ — Астон Вилла",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -64,7 +48,7 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1786535481765,
+    "id": 1786540796733,
     "eventName": "ПСЖ — Астон Вилла",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -80,7 +64,7 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1786535481766,
+    "id": 1786540796734,
     "eventName": "ПСЖ — Астон Вилла",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -96,7 +80,7 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1786535481767,
+    "id": 1786540796735,
     "eventName": "ПСЖ — Астон Вилла",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -112,7 +96,7 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1786535481768,
+    "id": 1786540796736,
     "eventName": "Матч",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -128,7 +112,7 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1786535481769,
+    "id": 1786540796737,
     "eventName": "Матч",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -144,7 +128,7 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1786535481770,
+    "id": 1786540796738,
     "eventName": "Матч",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -155,6 +139,22 @@
       "winRate": 80
     },
     "prediction": "П1 и ТМ (4,5)",
+    "odds": 2.03,
+    "comment": "Комментарий к прогнозу",
+    "source": "Sports Analytics Pro"
+  },
+  {
+    "id": 1786540796739,
+    "eventName": "Матч",
+    "discipline": "Футбол",
+    "tournament": "Чемпионат",
+    "expert": {
+      "name": "Астон Вилла",
+      "avatar": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=100&h=100&fit=crop",
+      "status": "expert",
+      "winRate": 80
+    },
+    "prediction": "Тотал 2-3 гола",
     "odds": 2.03,
     "comment": "Комментарий к прогнозу",
     "source": "Sports Analytics Pro"
