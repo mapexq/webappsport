@@ -1,6 +1,90 @@
 [
   {
-    "id": "a53ae1643db90c6c",
+    "id": "65746a36f3dc97e4",
+    "title": "Капитан «Авангарда» пропустит старт сезона КХЛ",
+    "sport": "Хоккей",
+    "category": "Хоккей",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/9/48/347865220803489.jpeg",
+    "teaser": "Капитан «Авангарда» пропустит старт сезона КХЛ",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a7c29b79a794747a02bb010",
+    "publishedAt": "2026-08-12T08:16:33.000Z",
+    "createdAt": "2026-08-12T08:21:41.000Z",
+    "updatedAt": "2026-08-12T08:21:41.000Z"
+  },
+  {
+    "id": "c3b6bce58233fc04",
+    "title": "Глава UFC отказался называть Махачева величайшим бойцом всех времен",
+    "sport": "Единоборства",
+    "category": "Единоборства",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/1/41/347865194880411.jpeg",
+    "teaser": "Глава UFC отказался называть Махачева величайшим бойцом всех времен",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a7c1bad9a7947fdb8bb5308",
+    "publishedAt": "2026-08-12T08:05:27.000Z",
+    "createdAt": "2026-08-12T08:21:42.094Z",
+    "updatedAt": "2026-08-12T08:21:42.094Z"
+  },
+  {
+    "id": "23486e6141d3b2f5",
+    "title": "ПСЖ — «Астон Вилла»: когда пройдет матч за Суперкубок УЕФА, где смотреть",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/7/57/347865192277577.jpeg",
+    "teaser": "ПСЖ — «Астон Вилла»: когда пройдет матч за Суперкубок УЕФА, где смотреть",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a7c1e839a7947164bfcfcc2",
+    "publishedAt": "2026-08-12T07:46:33.000Z",
+    "createdAt": "2026-08-12T08:21:46.545Z",
+    "updatedAt": "2026-08-12T08:21:46.545Z"
+  },
+  {
+    "id": "a60bdf1ea0e6f8f6",
+    "title": "Станкович покинул клуб менее чем через год после отставки из «Спартака»",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/6/87/347865159521876.jpeg",
+    "teaser": "Станкович покинул клуб менее чем через год после отставки из «Спартака»",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a7c0bfd9a794700ecba773b",
+    "publishedAt": "2026-08-12T06:31:59.000Z",
+    "createdAt": "2026-08-12T08:21:43.219Z",
+    "updatedAt": "2026-08-12T08:21:43.219Z"
+  },
+  {
+    "id": "ecea9ebf25ce526a",
+    "title": "В каких видах спорта россиянам разрешили выступать с флагом и гимном",
+    "sport": "Другое",
+    "category": "Другие",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/7/42/347804051862427.jpeg",
+    "teaser": "В каких видах спорта россиянам разрешили выступать с флагом и гимном",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/692840b79a794751c6265995",
+    "publishedAt": "2026-08-12T05:00:30.000Z",
+    "createdAt": "2026-08-12T08:21:45.456Z",
+    "updatedAt": "2026-08-12T08:21:45.456Z"
+  },
+  {
+    "id": "18f5bdc6c92c5253",
+    "title": "Махачев назвал Россию самой безопасной страной",
+    "sport": "Единоборства",
+    "category": "Единоборства",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/5/89/347864814722895.jpeg",
+    "teaser": "Махачев назвал Россию самой безопасной страной",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a7b834a9a7947712297da73",
+    "publishedAt": "2026-08-11T23:01:45.000Z",
+    "createdAt": "2026-08-12T08:21:44.352Z",
+    "updatedAt": "2026-08-12T08:21:44.352Z"
+  },
+  {
+    "id": "a0fb318ea5db91b8",
     "title": "Брэд Питт предложил Неймару уроки симуляции на поле",
     "sport": "Футбол",
     "category": "Футбол",
@@ -9,9 +93,9 @@
     "fullContent": "",
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a7b74249a7947712297da4f",
-    "publishedAt": "2026-08-11T20:28:01.000Z",
-    "createdAt": "2026-08-12T06:17:47.637Z",
-    "updatedAt": "2026-08-12T06:17:47.637Z"
+    "publishedAt": "2026-08-11T20:28:02.000Z",
+    "createdAt": "2026-08-12T08:21:48.619Z",
+    "updatedAt": "2026-08-12T08:21:48.619Z"
   },
   {
     "id": "ddb078dfa9216ff8",
@@ -24,8 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a7b7ac89a79474b3c77b8fd",
     "publishedAt": "2026-08-11T19:57:26.000Z",
-    "createdAt": "2026-08-12T06:17:46.648Z",
-    "updatedAt": "2026-08-12T06:17:46.648Z"
+    "createdAt": "2026-08-12T08:21:47.649Z",
+    "updatedAt": "2026-08-12T08:21:47.649Z"
   },
   {
     "id": "6251f098f560cac7",
@@ -38,8 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a7b66839a794750633b1b49",
     "publishedAt": "2026-08-11T19:01:07.000Z",
-    "createdAt": "2026-08-12T06:17:48.644Z",
-    "updatedAt": "2026-08-12T06:17:48.644Z"
+    "createdAt": "2026-08-12T08:21:49.605Z",
+    "updatedAt": "2026-08-12T08:21:49.605Z"
   },
   {
     "id": "ee8847c5e1489249",
@@ -52,91 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a7b3e799a794762dcefe128",
     "publishedAt": "2026-08-11T18:21:02.000Z",
-    "createdAt": "2026-08-12T06:17:49.729Z",
-    "updatedAt": "2026-08-12T06:17:49.729Z"
-  },
-  {
-    "id": "b3b81590af8058be",
-    "title": "Федерация керлинга России не согласилась с продлением отстранения атлетов",
-    "sport": "Другое",
-    "category": "Другие",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/6/19/347864714854196.jpeg",
-    "teaser": "Федерация керлинга России не согласилась с продлением отстранения атлетов",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a7b603e9a794779aa5e3f50",
-    "publishedAt": "2026-08-11T18:17:40.000Z",
-    "createdAt": "2026-08-12T06:17:51.851Z",
-    "updatedAt": "2026-08-12T06:17:51.851Z"
-  },
-  {
-    "id": "5c2c25bd423b8f09",
-    "title": "Чемпионка России снялась с ЧМ по художественной гимнастике из-за травмы",
-    "sport": "Другое",
-    "category": "Другие",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/3/20/347864708816203.jpeg",
-    "teaser": "Чемпионка России снялась с ЧМ по художественной гимнастике из-за травмы",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a7b61989a79478efcd04832",
-    "publishedAt": "2026-08-11T18:01:31.000Z",
-    "createdAt": "2026-08-12T06:17:50.800Z",
-    "updatedAt": "2026-08-12T06:17:50.800Z"
-  },
-  {
-    "id": "321ee7a8188dfe55",
-    "title": "Загитова опровергла публикацию о долгах перед налоговой",
-    "sport": "Другое",
-    "category": "Фигурное катание",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/2/67/347864690539672.jpeg",
-    "teaser": "Загитова опровергла публикацию о долгах перед налоговой",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a7b5a899a7947f9e4175c37",
-    "publishedAt": "2026-08-11T17:35:01.000Z",
-    "createdAt": "2026-08-12T06:17:52.738Z",
-    "updatedAt": "2026-08-12T06:17:52.738Z"
-  },
-  {
-    "id": "2f20b9d77e90241e",
-    "title": "Российский пловец Кожакин завоевал серебро ЧЕ на дистанции 100 м брассом",
-    "sport": "Другое",
-    "category": "Другие",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/8/35/347864685627358.jpeg",
-    "teaser": "Российский пловец Кожакин завоевал серебро ЧЕ на дистанции 100 м брассом",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a7b4dfd9a794771bb1342c8",
-    "publishedAt": "2026-08-11T17:06:57.000Z",
-    "createdAt": "2026-08-12T06:17:54.673Z",
-    "updatedAt": "2026-08-12T06:17:54.673Z"
-  },
-  {
-    "id": "3d3020fa884189b2",
-    "title": "Российский пловец Корнев завоевал золото ЧЕ на дистанции 50 м баттерфляем",
-    "sport": "Другое",
-    "category": "Другие",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/4/64/347864609423644.jpeg",
-    "teaser": "Российский пловец Корнев завоевал золото ЧЕ на дистанции 50 м баттерфляем",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a7b3ace9a7947b8198d5777",
-    "publishedAt": "2026-08-11T16:47:37.000Z",
-    "createdAt": "2026-08-12T06:17:53.672Z",
-    "updatedAt": "2026-08-12T06:17:53.672Z"
-  },
-  {
-    "id": "564af1ed89b626af",
-    "title": "Стало известно, когда Месси вернется в США после похорон отца",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/4/10/347864655997104.jpeg",
-    "teaser": "Стало известно, когда Месси вернется в США после похорон отца",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a7b48ae9a794726424a3a48",
-    "publishedAt": "2026-08-11T16:47:18.000Z",
-    "createdAt": "2026-08-12T06:17:55.482Z",
-    "updatedAt": "2026-08-12T06:17:55.482Z"
+    "createdAt": "2026-08-12T08:21:50.711Z",
+    "updatedAt": "2026-08-12T08:21:50.711Z"
   }
 ]
