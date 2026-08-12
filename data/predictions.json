@@ -1,22 +1,6 @@
 [
   {
-    "id": 1786554022351,
-    "eventName": "Матч",
-    "discipline": "Футбол",
-    "tournament": "Чемпионат",
-    "expert": {
-      "name": "Антон Елистратов",
-      "avatar": "https://bookmaker-ratings.ru/static/images/badges/is-kapper.svg?v=30092024",
-      "status": "expert",
-      "winRate": 83
-    },
-    "prediction": "Ничья",
-    "odds": 3.6,
-    "comment": "Команды равные по силе, а тем более товарищеский матч. Прогнозирую что будет ничья между клубами.",
-    "source": "Sports Analytics Pro"
-  },
-  {
-    "id": 1786554022352,
+    "id": 1786561634873,
     "eventName": "ПСЖ — Астон Вилла",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -32,7 +16,7 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1786554022353,
+    "id": 1786561634875,
     "eventName": "ПСЖ — Астон Вилла",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -48,7 +32,7 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1786554022354,
+    "id": 1786561634876,
     "eventName": "ПСЖ — Астон Вилла",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -64,7 +48,7 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1786554022355,
+    "id": 1786561634877,
     "eventName": "ПСЖ — Астон Вилла",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -80,7 +64,7 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1786554022356,
+    "id": 1786561634878,
     "eventName": "ПСЖ — Астон Вилла",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -96,23 +80,39 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1786554022357,
-    "eventName": "Оренбург — Локомотив Москва",
+    "id": 1786561634879,
+    "eventName": "ПСЖ — Астон Вилла",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
     "expert": {
-      "name": "Михаил Лубнин",
-      "avatar": "https://bookmaker-ratings.ru/static/images/badges/is-kapper.svg?v=30092024",
+      "name": "Александр Васильев",
+      "avatar": "https://static-uploads.prod.bookmaker-ratings.ru/2026/04/i-rb-webp-69e385f26f261-69e385f27371b.webp?width=60",
       "status": "expert",
       "winRate": 71
     },
-    "prediction": "Тотал (3.5) М",
-    "odds": 1.4,
-    "comment": "Локомотив испытывает огромные проблемы с составом,команда перестраивается. В то же время Оренбург очень непростой соперник для каждой команды,особенно в родных стенах",
+    "prediction": "Тотал (3) Б",
+    "odds": 2.4,
+    "comment": "Жду много голов из-за хорошего состава ПСЖ и плохого состава Виллы.",
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1786554022358,
+    "id": 1786561634880,
+    "eventName": "ПСЖ — Астон Вилла",
+    "discipline": "Футбол",
+    "tournament": "Чемпионат",
+    "expert": {
+      "name": "Александр Васильев",
+      "avatar": "https://static-uploads.prod.bookmaker-ratings.ru/2026/04/i-rb-webp-69e385f26f261-69e385f27371b.webp?width=60",
+      "status": "expert",
+      "winRate": 71
+    },
+    "prediction": "Тотал (3.5) Б",
+    "odds": 2.94,
+    "comment": "Жду много голов из-за хорошего состава ПСЖ и плохого состава Виллы.",
+    "source": "Sports Analytics Pro"
+  },
+  {
+    "id": 1786561634881,
     "eventName": "Матч",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -128,7 +128,7 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1786554022359,
+    "id": 1786561634882,
     "eventName": "Матч",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -144,7 +144,7 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1786554022360,
+    "id": 1786561634883,
     "eventName": "Матч",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
