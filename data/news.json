@@ -1,5 +1,61 @@
 [
   {
+    "id": "dd2aad4cb65d3f04",
+    "title": "Роналду поддержал Месси после смерти его отца",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/0/24/347865432930240.jpeg",
+    "teaser": "Роналду поддержал Месси после смерти его отца",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a7c796d9a7947aa38dd8fe3",
+    "publishedAt": "2026-08-12T14:29:02.000Z",
+    "createdAt": "2026-08-12T15:02:02.071Z",
+    "updatedAt": "2026-08-12T15:02:02.071Z"
+  },
+  {
+    "id": "3a1df4716e68c960",
+    "title": "Дело на совладельца «Торпедо» и 13 футбольных арбитров передали в суд",
+    "sport": "Другое",
+    "category": "Другие",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/4/53/347865421294534.jpeg",
+    "teaser": "Дело на совладельца «Торпедо» и 13 футбольных арбитров передали в суд",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a7c71529a79471a28944753",
+    "publishedAt": "2026-08-12T14:21:12.000Z",
+    "createdAt": "2026-08-12T15:02:01.056Z",
+    "updatedAt": "2026-08-12T15:02:01.056Z"
+  },
+  {
+    "id": "7767265c8cf56c74",
+    "title": "Лионель Месси опубликовал письмо к умершему отцу",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/8/48/347865433108488.jpeg",
+    "teaser": "Лионель Месси опубликовал письмо к умершему отцу",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a7c71979a79470801f419b7",
+    "publishedAt": "2026-08-12T14:12:13.000Z",
+    "createdAt": "2026-08-12T15:02:03.075Z",
+    "updatedAt": "2026-08-12T15:02:03.075Z"
+  },
+  {
+    "id": "ade4ed7d6b0cd4ff",
+    "title": "Чемпион Паралимпийских игр по фехтованию умер в 46 лет",
+    "sport": "Другое",
+    "category": "Другие",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/1/39/347865412798391.jpeg",
+    "teaser": "Чемпион Паралимпийских игр по фехтованию умер в 46 лет",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a7c72dd9a79470801f419be",
+    "publishedAt": "2026-08-12T13:58:55.000Z",
+    "createdAt": "2026-08-12T15:02:04.088Z",
+    "updatedAt": "2026-08-12T15:02:04.088Z"
+  },
+  {
     "id": "eb0a62fe4844c70f",
     "title": "Ирландский бегун побил 48-летний рекорд ЧЕ на дистанции 800 м",
     "sport": "Другое",
@@ -10,8 +66,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a7c63859a79476c05872414",
     "publishedAt": "2026-08-12T12:31:01.000Z",
-    "createdAt": "2026-08-12T13:20:03.897Z",
-    "updatedAt": "2026-08-12T13:20:03.897Z"
+    "createdAt": "2026-08-12T15:02:05.113Z",
+    "updatedAt": "2026-08-12T15:02:05.113Z"
   },
   {
     "id": "de5ee0a86796681e",
@@ -24,8 +80,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a7c56449a79470bde490a79",
     "publishedAt": "2026-08-12T11:57:03.000Z",
-    "createdAt": "2026-08-12T13:20:07.094Z",
-    "updatedAt": "2026-08-12T13:20:07.094Z"
+    "createdAt": "2026-08-12T15:02:08.165Z",
+    "updatedAt": "2026-08-12T15:02:08.165Z"
   },
   {
     "id": "e425baabff69b103",
@@ -38,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a7c5a339a79476c05872406",
     "publishedAt": "2026-08-12T11:53:19.000Z",
-    "createdAt": "2026-08-12T13:20:05.011Z",
-    "updatedAt": "2026-08-12T13:20:05.011Z"
+    "createdAt": "2026-08-12T15:02:06.136Z",
+    "updatedAt": "2026-08-12T15:02:06.136Z"
   },
   {
     "id": "44ca5437020e5dd0",
@@ -52,8 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a7c4a6a9a79478acad8e4c9",
     "publishedAt": "2026-08-12T11:26:50.000Z",
-    "createdAt": "2026-08-12T13:20:05.937Z",
-    "updatedAt": "2026-08-12T13:20:05.937Z"
+    "createdAt": "2026-08-12T15:02:07.142Z",
+    "updatedAt": "2026-08-12T15:02:07.142Z"
   },
   {
     "id": "1112b763a14cd479",
@@ -66,22 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a7c4c349a79477b17577ac3",
     "publishedAt": "2026-08-12T10:51:13.000Z",
-    "createdAt": "2026-08-12T13:20:08.200Z",
-    "updatedAt": "2026-08-12T13:20:08.200Z"
-  },
-  {
-    "id": "af6c84b4225b8be7",
-    "title": "Китайский клуб подписал контракт с игравшим в НХЛ канадским защитником",
-    "sport": "Хоккей",
-    "category": "Хоккей",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/6/03/347865301932036.jpeg",
-    "teaser": "Китайский клуб подписал контракт с игравшим в НХЛ канадским защитником",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a7c44be9a7947632476e870",
-    "publishedAt": "2026-08-12T10:38:58.000Z",
-    "createdAt": "2026-08-12T13:20:12.256Z",
-    "updatedAt": "2026-08-12T13:20:12.256Z"
+    "createdAt": "2026-08-12T15:02:09.220Z",
+    "updatedAt": "2026-08-12T15:02:09.220Z"
   },
   {
     "id": "e8a1345e7bd2437e",
@@ -94,49 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a7c38589a794773153096d0",
     "publishedAt": "2026-08-12T10:14:31.000Z",
-    "createdAt": "2026-08-12T13:20:09.342Z",
-    "updatedAt": "2026-08-12T13:20:09.342Z"
-  },
-  {
-    "id": "b255f08b469adc57",
-    "title": "В Англии футбольный матч прервали из-за гуся на поле. Видео",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/0/46/347865285726460.jpeg",
-    "teaser": "В Англии футбольный матч прервали из-за гуся на поле. Видео",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a7c3e629a794771e66502bb",
-    "publishedAt": "2026-08-12T10:10:54.000Z",
-    "createdAt": "2026-08-12T13:20:11.325Z",
-    "updatedAt": "2026-08-12T13:20:11.325Z"
-  },
-  {
-    "id": "461f9466ade7a2a3",
-    "title": "L'Equipe узнала о планах Роналдиньо купить долю в баскетбольном клубе",
-    "sport": "Баскетбол",
-    "category": "Баскетбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/6/47/347865174605476.jpeg",
-    "teaser": "L'Equipe узнала о планах Роналдиньо купить долю в баскетбольном клубе",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a7c143b9a79479e4863c5a6",
-    "publishedAt": "2026-08-12T08:56:56.000Z",
-    "createdAt": "2026-08-12T13:20:13.408Z",
-    "updatedAt": "2026-08-12T13:20:13.409Z"
-  },
-  {
-    "id": "c94d2d281072a6dd",
-    "title": "Двукратный обладатель Кубка Стэнли перешел в «Амур»",
-    "sport": "Хоккей",
-    "category": "Хоккей",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/9/00/347865241098009.jpeg",
-    "teaser": "Двукратный обладатель Кубка Стэнли перешел в «Амур»",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a7c31949a794731ea4a1f82",
-    "publishedAt": "2026-08-12T08:52:13.000Z",
-    "createdAt": "2026-08-12T13:20:14.437Z",
-    "updatedAt": "2026-08-12T13:20:14.437Z"
+    "createdAt": "2026-08-12T15:02:10.774Z",
+    "updatedAt": "2026-08-12T15:02:10.774Z"
   }
 ]
