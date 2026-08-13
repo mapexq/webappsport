@@ -1,5 +1,61 @@
 [
   {
+    "id": "f9a0604216c44910",
+    "title": "Матч стартового тура Ла Лиги перенесли из-за грибка на поле",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/2/93/347866204301932.jpeg",
+    "teaser": "Матч стартового тура Ла Лиги перенесли из-за грибка на поле",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a7da5ef9a7947120db1892a",
+    "publishedAt": "2026-08-13T11:38:00.000Z",
+    "createdAt": "2026-08-13T11:51:47.560Z",
+    "updatedAt": "2026-08-13T11:51:47.560Z"
+  },
+  {
+    "id": "0bbba74275fb8334",
+    "title": "В Эквадоре конфисковали сотни кокаиновых брикетов с изображением Холанда",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/7/82/347866181458827.jpeg",
+    "teaser": "В Эквадоре конфисковали сотни кокаиновых брикетов с изображением Холанда",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a7d97659a79473cda59aedb",
+    "publishedAt": "2026-08-13T10:57:55.000Z",
+    "createdAt": "2026-08-13T11:51:46.295Z",
+    "updatedAt": "2026-08-13T11:51:46.295Z"
+  },
+  {
+    "id": "93429818651bb1b5",
+    "title": "Чемпион мира Бартез присоединился к Зидану в тренерском штабе Франции",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/1/91/347866161981911.png",
+    "teaser": "Чемпион мира Бартез присоединился к Зидану в тренерском штабе Франции",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a7d99099a7947073a7ec1aa",
+    "publishedAt": "2026-08-13T10:52:13.000Z",
+    "createdAt": "2026-08-13T11:51:49.009Z",
+    "updatedAt": "2026-08-13T11:51:49.009Z"
+  },
+  {
+    "id": "74dff33f9bb617b4",
+    "title": "Российским пловцам пришлось добираться на арену ЧЕ пешком из-за ДТП",
+    "sport": "Другое",
+    "category": "Другие",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/9/39/347866140595399.jpeg",
+    "teaser": "Российским пловцам пришлось добираться на арену ЧЕ пешком из-за ДТП",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a7d8ea29a7947f10b6a1937",
+    "publishedAt": "2026-08-13T10:08:51.000Z",
+    "createdAt": "2026-08-13T11:51:51.335Z",
+    "updatedAt": "2026-08-13T11:51:51.335Z"
+  },
+  {
     "id": "bdd2a6ad2ac3871c",
     "title": "Глава африканской конфедерации призвал критиков Инфантино к осторожности",
     "sport": "Футбол",
@@ -10,8 +66,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a7d87849a794714cf146ce8",
     "publishedAt": "2026-08-13T10:01:47.000Z",
-    "createdAt": "2026-08-13T10:12:32.887Z",
-    "updatedAt": "2026-08-13T10:12:32.887Z"
+    "createdAt": "2026-08-13T11:51:50.191Z",
+    "updatedAt": "2026-08-13T11:51:50.191Z"
   },
   {
     "id": "4847b56ed35784d2",
@@ -24,8 +80,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a7d82389a79470a95477232",
     "publishedAt": "2026-08-13T09:07:11.000Z",
-    "createdAt": "2026-08-13T10:12:35.065Z",
-    "updatedAt": "2026-08-13T10:12:35.065Z"
+    "createdAt": "2026-08-13T11:51:53.603Z",
+    "updatedAt": "2026-08-13T11:51:53.603Z"
   },
   {
     "id": "26e8d2789be51f66",
@@ -38,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a7d6bc59a794781fc62cf8a",
     "publishedAt": "2026-08-13T08:54:05.000Z",
-    "createdAt": "2026-08-13T10:12:33.998Z",
-    "updatedAt": "2026-08-13T10:12:33.998Z"
+    "createdAt": "2026-08-13T11:51:52.474Z",
+    "updatedAt": "2026-08-13T11:51:52.474Z"
   },
   {
     "id": "3c1bf9df20f8ce32",
@@ -52,8 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a7d7cf59a7947651c6d039d",
     "publishedAt": "2026-08-13T08:48:14.000Z",
-    "createdAt": "2026-08-13T10:12:35.999Z",
-    "updatedAt": "2026-08-13T10:12:35.999Z"
+    "createdAt": "2026-08-13T11:51:54.716Z",
+    "updatedAt": "2026-08-13T11:51:54.716Z"
   },
   {
     "id": "0a346212f41c5d94",
@@ -66,8 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a7d69779a7947f86afdc8b8",
     "publishedAt": "2026-08-13T08:19:53.000Z",
-    "createdAt": "2026-08-13T10:12:36.930Z",
-    "updatedAt": "2026-08-13T10:12:36.930Z"
+    "createdAt": "2026-08-13T11:51:55.845Z",
+    "updatedAt": "2026-08-13T11:51:55.845Z"
   },
   {
     "id": "cd3dacf4e306063e",
@@ -80,63 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a7d62d39a79477c135824f1",
     "publishedAt": "2026-08-13T07:32:06.000Z",
-    "createdAt": "2026-08-13T10:12:37.981Z",
-    "updatedAt": "2026-08-13T10:12:37.981Z"
-  },
-  {
-    "id": "6153f2829cdd2f63",
-    "title": "Месси провел первый матч после смерти отца",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/0/76/347866018060760.jpeg",
-    "teaser": "Месси провел первый матч после смерти отца",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a7d5e0e9a7947671d714763",
-    "publishedAt": "2026-08-13T06:21:08.000Z",
-    "createdAt": "2026-08-13T10:12:39.034Z",
-    "updatedAt": "2026-08-13T10:12:39.034Z"
-  },
-  {
-    "id": "7ad24c2a7db6f020",
-    "title": "Завершит ли Махачев карьеру в UFC после ближайшего боя",
-    "sport": "Единоборства",
-    "category": "Единоборства",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/5/18/347865391495185.jpeg",
-    "teaser": "Завершит ли Махачев карьеру в UFC после ближайшего боя",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a7c5b799a7947f4bb68d8ae",
-    "publishedAt": "2026-08-13T05:33:41.000Z",
-    "createdAt": "2026-08-13T10:12:41.124Z",
-    "updatedAt": "2026-08-13T10:12:41.124Z"
-  },
-  {
-    "id": "89dba6dd0fb9b42f",
-    "title": "Какие трофеи выиграл Сафонов с ПСЖ",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/5/96/347865686079965.jpeg",
-    "teaser": "Какие трофеи выиграл Сафонов с ПСЖ",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a7b5de99a794721ba757421",
-    "publishedAt": "2026-08-12T21:32:43.000Z",
-    "createdAt": "2026-08-13T10:12:40.073Z",
-    "updatedAt": "2026-08-13T10:12:40.073Z"
-  },
-  {
-    "id": "2b66229bc1321852",
-    "title": "Россиянин впервые дважды выиграл Суперкубок УЕФА",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/0/46/347865676671460.jpeg",
-    "teaser": "Россиянин впервые дважды выиграл Суперкубок УЕФА",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a7cd4329a7947468a8fbeb0",
-    "publishedAt": "2026-08-12T21:07:52.000Z",
-    "createdAt": "2026-08-13T10:12:42.167Z",
-    "updatedAt": "2026-08-13T10:12:42.167Z"
+    "createdAt": "2026-08-13T11:51:56.971Z",
+    "updatedAt": "2026-08-13T11:51:56.971Z"
   }
 ]
