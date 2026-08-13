@@ -1,5 +1,61 @@
 [
   {
+    "id": "bdd2a6ad2ac3871c",
+    "title": "Глава африканской конфедерации призвал критиков Инфантино к осторожности",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/3/58/347866145287583.jpeg",
+    "teaser": "Глава африканской конфедерации призвал критиков Инфантино к осторожности",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a7d87849a794714cf146ce8",
+    "publishedAt": "2026-08-13T10:01:47.000Z",
+    "createdAt": "2026-08-13T10:12:32.887Z",
+    "updatedAt": "2026-08-13T10:12:32.887Z"
+  },
+  {
+    "id": "4847b56ed35784d2",
+    "title": "Сборная США по плаванию установила мировой рекорд в смешанной эстафете",
+    "sport": "Другое",
+    "category": "Другие",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/3/43/347866110465433.jpeg",
+    "teaser": "Сборная США по плаванию установила мировой рекорд в смешанной эстафете",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a7d82389a79470a95477232",
+    "publishedAt": "2026-08-13T09:07:11.000Z",
+    "createdAt": "2026-08-13T10:12:35.065Z",
+    "updatedAt": "2026-08-13T10:12:35.065Z"
+  },
+  {
+    "id": "26e8d2789be51f66",
+    "title": "The Times узнала о личной выгоде Инфантино от расширения ЧМ до 64 команд",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/7/54/347866084981547.jpeg",
+    "teaser": "The Times узнала о личной выгоде Инфантино от расширения ЧМ до 64 команд",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a7d6bc59a794781fc62cf8a",
+    "publishedAt": "2026-08-13T08:54:05.000Z",
+    "createdAt": "2026-08-13T10:12:33.998Z",
+    "updatedAt": "2026-08-13T10:12:33.998Z"
+  },
+  {
+    "id": "3c1bf9df20f8ce32",
+    "title": "«Спартак» продлил контракт с вратарем Ильей Помазуном",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/3/38/347866097033383.jpeg",
+    "teaser": "«Спартак» продлил контракт с вратарем Ильей Помазуном",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a7d7cf59a7947651c6d039d",
+    "publishedAt": "2026-08-13T08:48:14.000Z",
+    "createdAt": "2026-08-13T10:12:35.999Z",
+    "updatedAt": "2026-08-13T10:12:35.999Z"
+  },
+  {
     "id": "0a346212f41c5d94",
     "title": "Мадридский «Реал» завоевал Трофей Терезы Эрреры",
     "sport": "Футбол",
@@ -10,8 +66,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a7d69779a7947f86afdc8b8",
     "publishedAt": "2026-08-13T08:19:53.000Z",
-    "createdAt": "2026-08-13T08:24:28.360Z",
-    "updatedAt": "2026-08-13T08:24:28.360Z"
+    "createdAt": "2026-08-13T10:12:36.930Z",
+    "updatedAt": "2026-08-13T10:12:36.930Z"
   },
   {
     "id": "cd3dacf4e306063e",
@@ -24,8 +80,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a7d62d39a79477c135824f1",
     "publishedAt": "2026-08-13T07:32:06.000Z",
-    "createdAt": "2026-08-13T08:24:29.516Z",
-    "updatedAt": "2026-08-13T08:24:29.516Z"
+    "createdAt": "2026-08-13T10:12:37.981Z",
+    "updatedAt": "2026-08-13T10:12:37.981Z"
   },
   {
     "id": "6153f2829cdd2f63",
@@ -38,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a7d5e0e9a7947671d714763",
     "publishedAt": "2026-08-13T06:21:08.000Z",
-    "createdAt": "2026-08-13T08:24:30.579Z",
-    "updatedAt": "2026-08-13T08:24:30.579Z"
+    "createdAt": "2026-08-13T10:12:39.034Z",
+    "updatedAt": "2026-08-13T10:12:39.034Z"
   },
   {
     "id": "7ad24c2a7db6f020",
@@ -52,8 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a7c5b799a7947f4bb68d8ae",
     "publishedAt": "2026-08-13T05:33:41.000Z",
-    "createdAt": "2026-08-13T08:24:31.769Z",
-    "updatedAt": "2026-08-13T08:24:31.769Z"
+    "createdAt": "2026-08-13T10:12:41.124Z",
+    "updatedAt": "2026-08-13T10:12:41.124Z"
   },
   {
     "id": "89dba6dd0fb9b42f",
@@ -66,8 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a7b5de99a794721ba757421",
     "publishedAt": "2026-08-12T21:32:43.000Z",
-    "createdAt": "2026-08-13T08:24:32.959Z",
-    "updatedAt": "2026-08-13T08:24:32.959Z"
+    "createdAt": "2026-08-13T10:12:40.073Z",
+    "updatedAt": "2026-08-13T10:12:40.073Z"
   },
   {
     "id": "2b66229bc1321852",
@@ -80,63 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a7cd4329a7947468a8fbeb0",
     "publishedAt": "2026-08-12T21:07:52.000Z",
-    "createdAt": "2026-08-13T08:24:34.135Z",
-    "updatedAt": "2026-08-13T08:24:34.135Z"
-  },
-  {
-    "id": "1fc57198254debb4",
-    "title": "Сборную Нидерландов впервые с 1978 года возглавил иностранный тренер",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/4/58/347865654182584.jpeg",
-    "teaser": "Сборную Нидерландов впервые с 1978 года возглавил иностранный тренер",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a7ccd379a79471fdcfc5090",
-    "publishedAt": "2026-08-12T20:46:03.000Z",
-    "createdAt": "2026-08-13T08:24:35.306Z",
-    "updatedAt": "2026-08-13T08:24:35.306Z"
-  },
-  {
-    "id": "b3d9080909333ab1",
-    "title": "Рекордсмен НБА Расселл Уэстбрук объявил о завершении карьеры",
-    "sport": "Баскетбол",
-    "category": "Баскетбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/4/85/347865630732854.jpeg",
-    "teaser": "Рекордсмен НБА Расселл Уэстбрук объявил о завершении карьеры",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a7cc4339a79479bad30f2a4",
-    "publishedAt": "2026-08-12T20:09:26.000Z",
-    "createdAt": "2026-08-13T08:24:36.358Z",
-    "updatedAt": "2026-08-13T08:24:36.358Z"
-  },
-  {
-    "id": "b8fd33ce3f62aa4a",
-    "title": "ПСЖ и «Астон Вилла» завершили вничью первый тайм матча за Суперкубок УЕФА",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/1/32/347865637559321.jpeg",
-    "teaser": "ПСЖ и «Астон Вилла» завершили вничью первый тайм матча за Суперкубок УЕФА",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a7ccae39a7947b537b1ade7",
-    "publishedAt": "2026-08-12T19:55:56.000Z",
-    "createdAt": "2026-08-13T08:24:37.961Z",
-    "updatedAt": "2026-08-13T08:24:37.961Z"
-  },
-  {
-    "id": "08aabb64179191a0",
-    "title": "Российский пловец Корнев фразой «как-то доковылял» оценил серебро ЧЕ",
-    "sport": "Другое",
-    "category": "Другие",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/0/11/347865613372110.jpeg",
-    "teaser": "Российский пловец Корнев фразой «как-то доковылял» оценил серебро ЧЕ",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a7cc0b49a7947d469ee2c98",
-    "publishedAt": "2026-08-12T19:26:36.000Z",
-    "createdAt": "2026-08-13T08:24:39.098Z",
-    "updatedAt": "2026-08-13T08:24:39.098Z"
+    "createdAt": "2026-08-13T10:12:42.167Z",
+    "updatedAt": "2026-08-13T10:12:42.167Z"
   }
 ]

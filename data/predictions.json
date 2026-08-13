@@ -1,6 +1,22 @@
 [
   {
-    "id": 1786609461238,
+    "id": 1786615946249,
+    "eventName": "Тобол — Партизан Белград",
+    "discipline": "Футбол",
+    "tournament": "Чемпионат",
+    "expert": {
+      "name": "Andrey Zamuraev",
+      "avatar": "https://bookmaker-ratings.ru/static/images/badges/is-kapper.svg?v=30092024",
+      "status": "expert",
+      "winRate": 78
+    },
+    "prediction": "Фора 2 (0)",
+    "odds": 1.68,
+    "comment": "Всем добрый день. Не верю я в победу хозяев, результат первого матча уже всё предопределил, бороться Тоболу не за что, возможно даже попробуют молодёжь наиграть. Партизан вероятно свой гол-два забьет сегодня и победит, но не проиграет это точно",
+    "source": "Sports Analytics Pro"
+  },
+  {
+    "id": 1786615946251,
     "eventName": "Оренбург — Локомотив Москва",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -16,7 +32,7 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1786609461239,
+    "id": 1786615946252,
     "eventName": "Оренбург — Локомотив Москва",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -32,7 +48,7 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1786609461240,
+    "id": 1786615946253,
     "eventName": "Оренбург — Локомотив Москва",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -48,7 +64,7 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1786609461241,
+    "id": 1786615946254,
     "eventName": "Оренбург — Локомотив Москва",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -64,7 +80,7 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1786609461242,
+    "id": 1786615946255,
     "eventName": "Родина — Акрон",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -80,7 +96,7 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1786609461243,
+    "id": 1786615946256,
     "eventName": "Родина — Акрон",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -96,7 +112,7 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1786609461245,
+    "id": 1786615946257,
     "eventName": "Родина — Акрон",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -112,7 +128,7 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1786609461246,
+    "id": 1786615946258,
     "eventName": "ЦСКА Москва — Факел Воронеж",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -128,35 +144,19 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1786609461247,
-    "eventName": "ЦСКА Москва — Факел Воронеж",
+    "id": 1786615946259,
+    "eventName": "Матч",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
     "expert": {
-      "name": "Егор Скрябов",
-      "avatar": "https://bookmaker-ratings.ru/static/images/badges/is-kapper.svg?v=30092024",
+      "name": "Партизан Белград",
+      "avatar": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=100&h=100&fit=crop",
       "status": "expert",
-      "winRate": 87
+      "winRate": 77
     },
-    "prediction": "Тотал (2.5) М",
-    "odds": 1.9,
-    "comment": "У ЦСКА проблемы с организацией атак, ожидаю мало голов и, возможно, ничью",
-    "source": "Sports Analytics Pro"
-  },
-  {
-    "id": 1786609461248,
-    "eventName": "Ростов — Рубин",
-    "discipline": "Футбол",
-    "tournament": "Чемпионат",
-    "expert": {
-      "name": "Михаил Лубнин",
-      "avatar": "https://bookmaker-ratings.ru/static/images/badges/is-kapper.svg?v=30092024",
-      "status": "expert",
-      "winRate": 71
-    },
-    "prediction": "Тотал (2.5) М",
-    "odds": 1.77,
-    "comment": "В последних четырех очных встречах между этими командами было забито 6 мячей.Рубину придется перестраиваться без Даку",
+    "prediction": "Фора 2 (0)",
+    "odds": 1.68,
+    "comment": "Комментарий к прогнозу",
     "source": "Sports Analytics Pro"
   }
 ]
