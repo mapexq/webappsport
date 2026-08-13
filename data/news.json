@@ -1,5 +1,75 @@
 [
   {
+    "id": "aa50650e0e585cd4",
+    "title": "«Спартак-Нальчик» отыгрался с 0:3 и победил «Аланию» в Кубке России",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/6/09/347866388273096.png",
+    "teaser": "«Спартак-Нальчик» отыгрался с 0:3 и победил «Аланию» в Кубке России",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a7ded489a79472d7e181f3f",
+    "publishedAt": "2026-08-13T16:37:26.000Z",
+    "createdAt": "2026-08-13T17:00:15.238Z",
+    "updatedAt": "2026-08-13T17:00:15.238Z"
+  },
+  {
+    "id": "477bff69e6a9db3b",
+    "title": "В РПЛ заявили об участии в разбирательстве инцидента с журналистом",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/0/44/347866370499440.jpeg",
+    "teaser": "В РПЛ заявили об участии в разбирательстве инцидента с журналистом",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a7de67a9a79474c923508f8",
+    "publishedAt": "2026-08-13T16:30:29.000Z",
+    "createdAt": "2026-08-13T17:00:16.366Z",
+    "updatedAt": "2026-08-13T17:00:16.366Z"
+  },
+  {
+    "id": "3f2189b20af5bc47",
+    "title": "FIA вернула флаг и гимн российским автогонщикам",
+    "sport": "Другое",
+    "category": "Другие",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/5/10/347866346121105.jpeg",
+    "teaser": "FIA вернула флаг и гимн российским автогонщикам",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a7ddc449a7947de407af75c",
+    "publishedAt": "2026-08-13T15:28:54.000Z",
+    "createdAt": "2026-08-13T17:00:17.441Z",
+    "updatedAt": "2026-08-13T17:00:17.441Z"
+  },
+  {
+    "id": "6bacd1f4d142c2ae",
+    "title": "Шесть арабских федераций выступили в поддержку Инфантино",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/0/80/347866316891800.jpeg",
+    "teaser": "Шесть арабских федераций выступили в поддержку Инфантино",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a7dcf6a9a7947482ae7cfb1",
+    "publishedAt": "2026-08-13T15:01:34.000Z",
+    "createdAt": "2026-08-13T17:00:19.490Z",
+    "updatedAt": "2026-08-13T17:00:19.490Z"
+  },
+  {
+    "id": "d325411863dbf0ae",
+    "title": "Всемирная федерация танцевального спорта сняла ограничения с россиян",
+    "sport": "Другое",
+    "category": "Другие",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/6/57/347866323672576.jpeg",
+    "teaser": "Всемирная федерация танцевального спорта сняла ограничения с россиян",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a7dd5799a794770fa04296d",
+    "publishedAt": "2026-08-13T14:58:49.000Z",
+    "createdAt": "2026-08-13T17:00:18.460Z",
+    "updatedAt": "2026-08-13T17:00:18.461Z"
+  },
+  {
     "id": "41281d0c6f04e9f1",
     "title": "Махачев заявил, что у него «осталось не так много времени» в UFC",
     "sport": "Единоборства",
@@ -10,8 +80,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a7dc7319a794760534d31fc",
     "publishedAt": "2026-08-13T13:54:27.000Z",
-    "createdAt": "2026-08-13T15:02:04.829Z",
-    "updatedAt": "2026-08-13T15:02:04.829Z"
+    "createdAt": "2026-08-13T17:00:20.653Z",
+    "updatedAt": "2026-08-13T17:00:20.653Z"
   },
   {
     "id": "6c99074b9242488b",
@@ -24,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a7dbd6a9a79471bc2cc65b2",
     "publishedAt": "2026-08-13T13:26:55.000Z",
-    "createdAt": "2026-08-13T15:02:07.157Z",
-    "updatedAt": "2026-08-13T15:02:07.157Z"
+    "createdAt": "2026-08-13T17:00:22.859Z",
+    "updatedAt": "2026-08-13T17:00:22.859Z"
   },
   {
     "id": "3fbb276ae33c3818",
@@ -38,8 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a7db5fa9a794734869824df",
     "publishedAt": "2026-08-13T13:15:36.000Z",
-    "createdAt": "2026-08-13T15:02:05.940Z",
-    "updatedAt": "2026-08-13T15:02:05.940Z"
+    "createdAt": "2026-08-13T17:00:21.723Z",
+    "updatedAt": "2026-08-13T17:00:21.723Z"
   },
   {
     "id": "700181fc41af27eb",
@@ -52,22 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a7db9569a7947152956f87b",
     "publishedAt": "2026-08-13T13:01:44.000Z",
-    "createdAt": "2026-08-13T15:02:08.308Z",
-    "updatedAt": "2026-08-13T15:02:08.308Z"
-  },
-  {
-    "id": "89e6aed37506f730",
-    "title": "Суперкубок Испании по футболу перенесли из Саудовской Аравии в Стамбул",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/4/25/347866230799254.jpeg",
-    "teaser": "Суперкубок Испании по футболу перенесли из Саудовской Аравии в Стамбул",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a7db2839a794703c25fd961",
-    "publishedAt": "2026-08-13T12:30:33.000Z",
-    "createdAt": "2026-08-13T15:02:10.654Z",
-    "updatedAt": "2026-08-13T15:02:10.654Z"
+    "createdAt": "2026-08-13T17:00:23.989Z",
+    "updatedAt": "2026-08-13T17:00:23.989Z"
   },
   {
     "id": "5b15d990f5127403",
@@ -80,63 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a7dae9d9a794754678637fe",
     "publishedAt": "2026-08-13T12:29:09.000Z",
-    "createdAt": "2026-08-13T15:02:09.512Z",
-    "updatedAt": "2026-08-13T15:02:09.512Z"
-  },
-  {
-    "id": "f9a0604216c44910",
-    "title": "Матч стартового тура Ла Лиги перенесли из-за грибка на поле",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/2/93/347866204301932.jpeg",
-    "teaser": "Матч стартового тура Ла Лиги перенесли из-за грибка на поле",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a7da5ef9a7947120db1892a",
-    "publishedAt": "2026-08-13T11:38:00.000Z",
-    "createdAt": "2026-08-13T15:02:12.816Z",
-    "updatedAt": "2026-08-13T15:02:12.816Z"
-  },
-  {
-    "id": "0bbba74275fb8334",
-    "title": "В Эквадоре конфисковали сотни кокаиновых брикетов с изображением Холанда",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/7/82/347866181458827.jpeg",
-    "teaser": "В Эквадоре конфисковали сотни кокаиновых брикетов с изображением Холанда",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a7d97659a79473cda59aedb",
-    "publishedAt": "2026-08-13T10:57:55.000Z",
-    "createdAt": "2026-08-13T15:02:11.742Z",
-    "updatedAt": "2026-08-13T15:02:11.742Z"
-  },
-  {
-    "id": "93429818651bb1b5",
-    "title": "Чемпион мира Бартез присоединился к Зидану в тренерском штабе Франции",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/1/91/347866161981911.png",
-    "teaser": "Чемпион мира Бартез присоединился к Зидану в тренерском штабе Франции",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a7d99099a7947073a7ec1aa",
-    "publishedAt": "2026-08-13T10:52:13.000Z",
-    "createdAt": "2026-08-13T15:02:13.896Z",
-    "updatedAt": "2026-08-13T15:02:13.896Z"
-  },
-  {
-    "id": "bdd2a6ad2ac3871c",
-    "title": "Глава африканской конфедерации призвал критиков Инфантино к осторожности",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/3/58/347866145287583.jpeg",
-    "teaser": "Глава африканской конфедерации призвал критиков Инфантино к осторожности",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a7d87849a794714cf146ce8",
-    "publishedAt": "2026-08-13T10:01:47.000Z",
-    "createdAt": "2026-08-13T15:02:14.991Z",
-    "updatedAt": "2026-08-13T15:02:14.991Z"
+    "createdAt": "2026-08-13T17:00:25.126Z",
+    "updatedAt": "2026-08-13T17:00:25.126Z"
   }
 ]

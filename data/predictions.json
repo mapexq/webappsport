@@ -1,54 +1,6 @@
 [
   {
-    "id": 1786633317529,
-    "eventName": "Тобол — Партизан Белград",
-    "discipline": "Футбол",
-    "tournament": "Чемпионат",
-    "expert": {
-      "name": "Andrey Zamuraev",
-      "avatar": "https://bookmaker-ratings.ru/static/images/badges/is-kapper.svg?v=30092024",
-      "status": "expert",
-      "winRate": 78
-    },
-    "prediction": "Фора 2 (0)",
-    "odds": 1.68,
-    "comment": "Всем добрый день. Не верю я в победу хозяев, результат первого матча уже всё предопределил, бороться Тоболу не за что, возможно даже попробуют молодёжь наиграть. Партизан вероятно свой гол-два забьет сегодня и победит, но не проиграет это точно",
-    "source": "Sports Analytics Pro"
-  },
-  {
-    "id": 1786633317531,
-    "eventName": "Карабах — Динамо Киев",
-    "discipline": "Футбол",
-    "tournament": "Чемпионат",
-    "expert": {
-      "name": "Михаил Исламов",
-      "avatar": "https://static-uploads.prod.bookmaker-ratings.ru/2026/01/orig-rb-webp-697c318bb518c-697c318bbc509.webp?width=60",
-      "status": "expert",
-      "winRate": 68
-    },
-    "prediction": "Обе забьют - Да",
-    "odds": 1.7,
-    "comment": "Хозяева будут отыгрываться,гости будут стремиться забить и сохранить преимущество.",
-    "source": "Sports Analytics Pro"
-  },
-  {
-    "id": 1786633317532,
-    "eventName": "Рижская футбольная школа — Яблонец",
-    "discipline": "Футбол",
-    "tournament": "Чемпионат",
-    "expert": {
-      "name": "Вася Петров",
-      "avatar": "https://bookmaker-ratings.ru/static/images/badges/is-kapper.svg?v=30092024",
-      "status": "expert",
-      "winRate": 84
-    },
-    "prediction": "Тотал (9) М (угловые)",
-    "odds": 1.9,
-    "comment": "Тк команды не особо атакаующие угловых будет немного",
-    "source": "Sports Analytics Pro"
-  },
-  {
-    "id": 1786633317533,
+    "id": 1786640408210,
     "eventName": "Бешикташ — Градец-Кралове",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -64,7 +16,7 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1786633317534,
+    "id": 1786640408211,
     "eventName": "Пафос — РБ Зальцбург",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -80,7 +32,7 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1786633317535,
+    "id": 1786640408212,
     "eventName": "Бешикташ — Градец-Кралове",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -96,7 +48,7 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1786633317536,
+    "id": 1786640408213,
     "eventName": "Бешикташ — Градец-Кралове",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -112,7 +64,7 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1786633317537,
+    "id": 1786640408214,
     "eventName": "Динамо Минск — Брага",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -128,7 +80,7 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1786633317538,
+    "id": 1786640408215,
     "eventName": "Бешикташ — Градец-Кралове",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -144,7 +96,7 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1786633317539,
+    "id": 1786640408216,
     "eventName": "Пафос — РБ Зальцбург",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -157,6 +109,54 @@
     "prediction": "Тотал больше (2)",
     "odds": 1.33,
     "comment": "Ожидаю достаточно открытый футбол и моменты как до перерыва, так и после него",
+    "source": "Sports Analytics Pro"
+  },
+  {
+    "id": 1786640408217,
+    "eventName": "Клаксвик — Лех",
+    "discipline": "Футбол",
+    "tournament": "Чемпионат",
+    "expert": {
+      "name": "Михаил Исламов",
+      "avatar": "https://static-uploads.prod.bookmaker-ratings.ru/2026/01/orig-rb-webp-697c318bb518c-697c318bbc509.webp?width=60",
+      "status": "expert",
+      "winRate": 68
+    },
+    "prediction": "Обе забьют - Да",
+    "odds": 1.65,
+    "comment": "Хозяева будут отыгрываться,гости будут стремиться забить и сохранить преимущество.",
+    "source": "Sports Analytics Pro"
+  },
+  {
+    "id": 1786640408218,
+    "eventName": "Викингур Рейкьявик — Тун",
+    "discipline": "Футбол",
+    "tournament": "Чемпионат",
+    "expert": {
+      "name": "Дмитрий Щелкунов",
+      "avatar": "https://bookmaker-ratings.ru/static/images/badges/is-kapper.svg?v=30092024",
+      "status": "expert",
+      "winRate": 88
+    },
+    "prediction": "Тотал больше (3)",
+    "odds": 1.64,
+    "comment": "Думаю голов будет много, хозяевам нечего терять, а Тун не блещет надёжной игрой в обороне, поэтому думаю будет более 3 голов в матче",
+    "source": "Sports Analytics Pro"
+  },
+  {
+    "id": 1786640408219,
+    "eventName": "ЦСКА София — Маккаби Тель-Авив",
+    "discipline": "Футбол",
+    "tournament": "Чемпионат",
+    "expert": {
+      "name": "Alex Fox",
+      "avatar": "https://bookmaker-ratings.ru/static/images/badges/is-kapper.svg?v=30092024",
+      "status": "expert",
+      "winRate": 79
+    },
+    "prediction": "Тотал больше (2)",
+    "odds": 1.4,
+    "comment": "В данной встрече мне видится 3 гола, но возьму с подстраховкой ТБ 2.",
     "source": "Sports Analytics Pro"
   }
 ]
