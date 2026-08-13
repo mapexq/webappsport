@@ -1,17 +1,45 @@
 [
   {
-    "id": "93ce946b939af4a4",
-    "title": "«Матч ТВ» и «Локомотив» подтвердили факт инцидента с журналистом",
+    "id": "41281d0c6f04e9f1",
+    "title": "Махачев заявил, что у него «осталось не так много времени» в UFC",
+    "sport": "Единоборства",
+    "category": "Единоборства",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/0/16/347866287088160.jpeg",
+    "teaser": "Махачев заявил, что у него «осталось не так много времени» в UFC",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a7dc7319a794760534d31fc",
+    "publishedAt": "2026-08-13T13:54:27.000Z",
+    "createdAt": "2026-08-13T15:02:04.829Z",
+    "updatedAt": "2026-08-13T15:02:04.829Z"
+  },
+  {
+    "id": "6c99074b9242488b",
+    "title": "«Трактор» подписал контракт с экс-форвардом «Тампа-Бэй Лайтнинг»",
+    "sport": "Хоккей",
+    "category": "Хоккей",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/8/85/347866269532858.jpeg",
+    "teaser": "«Трактор» подписал контракт с экс-форвардом «Тампа-Бэй Лайтнинг»",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a7dbd6a9a79471bc2cc65b2",
+    "publishedAt": "2026-08-13T13:26:55.000Z",
+    "createdAt": "2026-08-13T15:02:07.157Z",
+    "updatedAt": "2026-08-13T15:02:07.157Z"
+  },
+  {
+    "id": "3fbb276ae33c3818",
+    "title": "«Локомотив» отреагировал на сообщение об избиении журналиста охранниками",
     "sport": "Футбол",
     "category": "Футбол",
     "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/2/22/347866251806222.jpeg",
-    "teaser": "«Матч ТВ» и «Локомотив» подтвердили факт инцидента с журналистом",
+    "teaser": "«Локомотив» отреагировал на сообщение об избиении журналиста охранниками",
     "fullContent": "",
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a7db5fa9a794734869824df",
     "publishedAt": "2026-08-13T13:15:36.000Z",
-    "createdAt": "2026-08-13T13:22:27.890Z",
-    "updatedAt": "2026-08-13T13:22:27.890Z"
+    "createdAt": "2026-08-13T15:02:05.940Z",
+    "updatedAt": "2026-08-13T15:02:05.940Z"
   },
   {
     "id": "700181fc41af27eb",
@@ -24,8 +52,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a7db9569a7947152956f87b",
     "publishedAt": "2026-08-13T13:01:44.000Z",
-    "createdAt": "2026-08-13T13:22:29.031Z",
-    "updatedAt": "2026-08-13T13:22:29.031Z"
+    "createdAt": "2026-08-13T15:02:08.308Z",
+    "updatedAt": "2026-08-13T15:02:08.308Z"
   },
   {
     "id": "89e6aed37506f730",
@@ -38,8 +66,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a7db2839a794703c25fd961",
     "publishedAt": "2026-08-13T12:30:33.000Z",
-    "createdAt": "2026-08-13T13:22:31.742Z",
-    "updatedAt": "2026-08-13T13:22:31.742Z"
+    "createdAt": "2026-08-13T15:02:10.654Z",
+    "updatedAt": "2026-08-13T15:02:10.654Z"
   },
   {
     "id": "5b15d990f5127403",
@@ -52,8 +80,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a7dae9d9a794754678637fe",
     "publishedAt": "2026-08-13T12:29:09.000Z",
-    "createdAt": "2026-08-13T13:22:30.181Z",
-    "updatedAt": "2026-08-13T13:22:30.181Z"
+    "createdAt": "2026-08-13T15:02:09.512Z",
+    "updatedAt": "2026-08-13T15:02:09.512Z"
   },
   {
     "id": "f9a0604216c44910",
@@ -66,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a7da5ef9a7947120db1892a",
     "publishedAt": "2026-08-13T11:38:00.000Z",
-    "createdAt": "2026-08-13T13:22:33.972Z",
-    "updatedAt": "2026-08-13T13:22:33.972Z"
+    "createdAt": "2026-08-13T15:02:12.816Z",
+    "updatedAt": "2026-08-13T15:02:12.816Z"
   },
   {
     "id": "0bbba74275fb8334",
@@ -80,8 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a7d97659a79473cda59aedb",
     "publishedAt": "2026-08-13T10:57:55.000Z",
-    "createdAt": "2026-08-13T13:22:32.891Z",
-    "updatedAt": "2026-08-13T13:22:32.891Z"
+    "createdAt": "2026-08-13T15:02:11.742Z",
+    "updatedAt": "2026-08-13T15:02:11.742Z"
   },
   {
     "id": "93429818651bb1b5",
@@ -94,22 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a7d99099a7947073a7ec1aa",
     "publishedAt": "2026-08-13T10:52:13.000Z",
-    "createdAt": "2026-08-13T13:22:35.109Z",
-    "updatedAt": "2026-08-13T13:22:35.109Z"
-  },
-  {
-    "id": "74dff33f9bb617b4",
-    "title": "Российским пловцам пришлось добираться на арену ЧЕ пешком из-за ДТП",
-    "sport": "Другое",
-    "category": "Другие",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/9/39/347866140595399.jpeg",
-    "teaser": "Российским пловцам пришлось добираться на арену ЧЕ пешком из-за ДТП",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a7d8ea29a7947f10b6a1937",
-    "publishedAt": "2026-08-13T10:08:51.000Z",
-    "createdAt": "2026-08-13T13:22:37.274Z",
-    "updatedAt": "2026-08-13T13:22:37.274Z"
+    "createdAt": "2026-08-13T15:02:13.896Z",
+    "updatedAt": "2026-08-13T15:02:13.896Z"
   },
   {
     "id": "bdd2a6ad2ac3871c",
@@ -122,21 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a7d87849a794714cf146ce8",
     "publishedAt": "2026-08-13T10:01:47.000Z",
-    "createdAt": "2026-08-13T13:22:36.251Z",
-    "updatedAt": "2026-08-13T13:22:36.251Z"
-  },
-  {
-    "id": "26e8d2789be51f66",
-    "title": "The Times узнала о личной выгоде Инфантино от расширения ЧМ до 64 команд",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/7/54/347866084981547.jpeg",
-    "teaser": "The Times узнала о личной выгоде Инфантино от расширения ЧМ до 64 команд",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a7d6bc59a794781fc62cf8a",
-    "publishedAt": "2026-08-13T08:54:05.000Z",
-    "createdAt": "2026-08-13T13:22:38.305Z",
-    "updatedAt": "2026-08-13T13:22:38.305Z"
+    "createdAt": "2026-08-13T15:02:14.991Z",
+    "updatedAt": "2026-08-13T15:02:14.991Z"
   }
 ]

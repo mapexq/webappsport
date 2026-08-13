@@ -1,22 +1,6 @@
 [
   {
-    "id": 1786627340871,
-    "eventName": "Андижан — Нефтчи Фергана",
-    "discipline": "Футбол",
-    "tournament": "Чемпионат",
-    "expert": {
-      "name": "Максим Тюшин",
-      "avatar": "https://bookmaker-ratings.ru/static/images/badges/is-kapper.svg?v=30092024",
-      "status": "expert",
-      "winRate": 74
-    },
-    "prediction": "Индивидуальный тотал 1 Больше (1)",
-    "odds": 2.3,
-    "comment": "Хозяева в 4 из 5 домашних матчей забивали 1 и более гола , в матчах между собой Нефтчи на выезде не пропускает 3 матча к ряду.",
-    "source": "Sports Analytics Pro"
-  },
-  {
-    "id": 1786627340872,
+    "id": 1786633317529,
     "eventName": "Тобол — Партизан Белград",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -32,7 +16,23 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1786627340873,
+    "id": 1786633317531,
+    "eventName": "Карабах — Динамо Киев",
+    "discipline": "Футбол",
+    "tournament": "Чемпионат",
+    "expert": {
+      "name": "Михаил Исламов",
+      "avatar": "https://static-uploads.prod.bookmaker-ratings.ru/2026/01/orig-rb-webp-697c318bb518c-697c318bbc509.webp?width=60",
+      "status": "expert",
+      "winRate": 68
+    },
+    "prediction": "Обе забьют - Да",
+    "odds": 1.7,
+    "comment": "Хозяева будут отыгрываться,гости будут стремиться забить и сохранить преимущество.",
+    "source": "Sports Analytics Pro"
+  },
+  {
+    "id": 1786633317532,
     "eventName": "Рижская футбольная школа — Яблонец",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -48,7 +48,7 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1786627340874,
+    "id": 1786633317533,
     "eventName": "Бешикташ — Градец-Кралове",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -64,7 +64,7 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1786627340875,
+    "id": 1786633317534,
     "eventName": "Пафос — РБ Зальцбург",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -80,83 +80,83 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1786627340876,
-    "eventName": "Гент — Гётеборг",
+    "id": 1786633317535,
+    "eventName": "Бешикташ — Градец-Кралове",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
     "expert": {
-      "name": "Максим Тюшин",
+      "name": "Дмитрий Щелкунов",
       "avatar": "https://bookmaker-ratings.ru/static/images/badges/is-kapper.svg?v=30092024",
       "status": "expert",
-      "winRate": 74
+      "winRate": 88
     },
-    "prediction": "Индивидуальный тотал 2 Больше (1)",
-    "odds": 2.9,
-    "comment": "Гётеборг в первом матче уступил минимально Генту в ответной игре гости пойдут вперед и забьют свой гол",
+    "prediction": "Тотал меньше (3.5)",
+    "odds": 1.56,
+    "comment": "Не жду много голов этом матче, Бешикташ уверенно пройдет со второй сухой победой в противостоянии",
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1786627340877,
-    "eventName": "Матч",
+    "id": 1786633317536,
+    "eventName": "Бешикташ — Градец-Кралове",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
     "expert": {
-      "name": "Нефтчи Фергана",
-      "avatar": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=100&h=100&fit=crop",
+      "name": "Михаил Исламов",
+      "avatar": "https://static-uploads.prod.bookmaker-ratings.ru/2026/01/orig-rb-webp-697c318bb518c-697c318bbc509.webp?width=60",
       "status": "expert",
-      "winRate": 82
+      "winRate": 68
     },
-    "prediction": "Индивидуальный тотал 1 Больше (1)",
-    "odds": 2.3,
-    "comment": "Комментарий к прогнозу",
+    "prediction": "Первый забьет - Да",
+    "odds": 3.6,
+    "comment": "Забив на выезде, у себя дома турки наверняка смогут поразить ворота соперника.",
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1786627340878,
-    "eventName": "Матч",
+    "id": 1786633317537,
+    "eventName": "Динамо Минск — Брага",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
     "expert": {
-      "name": "Партизан Белград",
-      "avatar": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=100&h=100&fit=crop",
+      "name": "Andrey Agapov",
+      "avatar": "https://bookmaker-ratings.ru/static/images/badges/is-kapper.svg?v=30092024",
       "status": "expert",
-      "winRate": 77
+      "winRate": 79
     },
-    "prediction": "Фора 2 (0)",
-    "odds": 1.68,
-    "comment": "Комментарий к прогнозу",
+    "prediction": "Тотал (2) Б",
+    "odds": 1.48,
+    "comment": "Динамо Минск минимально проиграли в гостях, и не будут отсиживаться в обороне, тем самым оголяя тылы",
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1786627340879,
-    "eventName": "Матч",
+    "id": 1786633317538,
+    "eventName": "Бешикташ — Градец-Кралове",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
     "expert": {
-      "name": "Лига Европы",
-      "avatar": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=100&h=100&fit=crop",
+      "name": "Сергей Гориславец",
+      "avatar": "https://static-uploads.prod.bookmaker-ratings.ru/2025/06/A55E5521-F251-409B-9872-CFCC8E629075-684340c122a2a.jpg?width=60",
       "status": "expert",
-      "winRate": 77
+      "winRate": 69
     },
-    "prediction": "1X и ТМ (3,5)",
-    "odds": 1.7,
-    "comment": "Комментарий к прогнозу",
+    "prediction": "Обе забьют (Да)",
+    "odds": 2.04,
+    "comment": "Жду здесь результативную игру с моментами у обоих ворот и как минимум по одному мячу от каждой команды.",
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1786627340880,
-    "eventName": "Матч",
+    "id": 1786633317539,
+    "eventName": "Пафос — РБ Зальцбург",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
     "expert": {
-      "name": "Лига Конференций",
-      "avatar": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=100&h=100&fit=crop",
+      "name": "Сергей Гориславец",
+      "avatar": "https://static-uploads.prod.bookmaker-ratings.ru/2025/06/A55E5521-F251-409B-9872-CFCC8E629075-684340c122a2a.jpg?width=60",
       "status": "expert",
-      "winRate": 71
+      "winRate": 69
     },
-    "prediction": "Сухая победа «Браги»",
-    "odds": 2.03,
-    "comment": "Комментарий к прогнозу",
+    "prediction": "Тотал больше (2)",
+    "odds": 1.33,
+    "comment": "Ожидаю достаточно открытый футбол и моменты как до перерыва, так и после него",
     "source": "Sports Analytics Pro"
   }
 ]
