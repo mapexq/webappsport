@@ -1,6 +1,22 @@
 [
   {
-    "id": 1786621899049,
+    "id": 1786627340871,
+    "eventName": "Андижан — Нефтчи Фергана",
+    "discipline": "Футбол",
+    "tournament": "Чемпионат",
+    "expert": {
+      "name": "Максим Тюшин",
+      "avatar": "https://bookmaker-ratings.ru/static/images/badges/is-kapper.svg?v=30092024",
+      "status": "expert",
+      "winRate": 74
+    },
+    "prediction": "Индивидуальный тотал 1 Больше (1)",
+    "odds": 2.3,
+    "comment": "Хозяева в 4 из 5 домашних матчей забивали 1 и более гола , в матчах между собой Нефтчи на выезде не пропускает 3 матча к ряду.",
+    "source": "Sports Analytics Pro"
+  },
+  {
+    "id": 1786627340872,
     "eventName": "Тобол — Партизан Белград",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -16,135 +32,87 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1786621899050,
-    "eventName": "Оренбург — Локомотив Москва",
+    "id": 1786627340873,
+    "eventName": "Рижская футбольная школа — Яблонец",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
     "expert": {
-      "name": "Михаил Лубнин",
+      "name": "Вася Петров",
       "avatar": "https://bookmaker-ratings.ru/static/images/badges/is-kapper.svg?v=30092024",
-      "status": "expert",
-      "winRate": 71
-    },
-    "prediction": "Тотал (3.5) М",
-    "odds": 1.4,
-    "comment": "Локомотив испытывает огромные проблемы с составом,команда перестраивается. В то же время Оренбург очень непростой соперник для каждой команды,особенно в родных стенах",
-    "source": "Sports Analytics Pro"
-  },
-  {
-    "id": 1786621899051,
-    "eventName": "Оренбург — Локомотив Москва",
-    "discipline": "Футбол",
-    "tournament": "Чемпионат",
-    "expert": {
-      "name": "Дмитрий Рыбалка",
-      "avatar": "https://static-uploads.prod.bookmaker-ratings.ru/2026/08/818-rb-webp-6a7c191851082-6a7c191854cb7.webp?width=60",
       "status": "expert",
       "winRate": 84
     },
-    "prediction": "1Х",
-    "odds": 1.77,
-    "comment": "Оренбург не проиграет.\nДомашний матч, свое искусственное поле, плохой нынешний Локомотив где пол команды на чемоданах. Не верю в победу Локомотива, но и не поверю, что Оренбург может выиграть, скорее всего будет ничья, возможно даже нулевая.",
+    "prediction": "Тотал (9) М (угловые)",
+    "odds": 1.9,
+    "comment": "Тк команды не особо атакаующие угловых будет немного",
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1786621899052,
-    "eventName": "Оренбург — Локомотив Москва",
+    "id": 1786627340874,
+    "eventName": "Бешикташ — Градец-Кралове",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
     "expert": {
-      "name": "Егор Скрябов",
+      "name": "Alex Fox",
       "avatar": "https://bookmaker-ratings.ru/static/images/badges/is-kapper.svg?v=30092024",
       "status": "expert",
-      "winRate": 87
+      "winRate": 79
     },
-    "prediction": "Тотал (3) М",
-    "odds": 1.7,
-    "comment": "Оренбург организованно играют в обороне, а Локо не смог забить Акрону, которые совершают кучу ошибок, будет результат: 0:0, 1:1, 1:0, 0:1",
+    "prediction": "Обе забьют (Да)",
+    "odds": 1.98,
+    "comment": "Гостям терять нечего нужно идти в атаку, так что думаю обменяются голами.",
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1786621899053,
-    "eventName": "Оренбург — Локомотив Москва",
+    "id": 1786627340875,
+    "eventName": "Пафос — РБ Зальцбург",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
     "expert": {
-      "name": "Никита Кожин",
+      "name": "Alex Fox",
       "avatar": "https://bookmaker-ratings.ru/static/images/badges/is-kapper.svg?v=30092024",
       "status": "expert",
-      "winRate": 80
+      "winRate": 79
     },
-    "prediction": "Тотал меньше (2.5)",
-    "odds": 2.19,
-    "comment": "Старт 4 тура РПЛ Оренбург принимает Локомотив.\nКто бы мог подумать, что после 3 туров Локомотив находится в зоне стыков, конечно чемпионат только набирает обороты, трансферное окно еще не закрыто, но факт остается фактом. Локомотив ужасно начал этот сезон, после 3 туров не одной победы и сенсационное поражение Динамо из Махачкалы. Проблемы Локо выявились в прошлом туре с Акроном, который играет \"ошибка на ошибке\". У железнодорожников огромная проблема с реализацией и нападением.\nУ Оренбурга после 3 туров всего лишь одно поражение, и то от действующего чемпиона, также одна сумашедшая победа в меньшинстве в 1 туре и боевая ничья с Рубином.\nЯ ожидаю низовую игру, Оренбург умеет и обороняться, и отвечать в атаке. Думаю будет тяжелая игра как для одной, так и для другой команды, не исключаю нулевую ничью, так и минимальная победа одной из команд.\nТрудно спрогнозировать исход, поэтому мой прогноз на эту встречу тотал меньше 2.5!",
+    "prediction": "Тотал больше (2)",
+    "odds": 1.3,
+    "comment": "В данной встрече думаю будет гол в каждом из таймов и кф 1,66.",
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1786621899054,
-    "eventName": "Родина — Акрон",
+    "id": 1786627340876,
+    "eventName": "Гент — Гётеборг",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
     "expert": {
-      "name": "Михаил Лубнин",
+      "name": "Максим Тюшин",
       "avatar": "https://bookmaker-ratings.ru/static/images/badges/is-kapper.svg?v=30092024",
       "status": "expert",
-      "winRate": 71
+      "winRate": 74
     },
-    "prediction": "Тотал (2) Б",
-    "odds": 1.35,
-    "comment": "Родина воспряла после матча с Зенитом,но и Акрон с Локомотивом сотворил чудо. Ждем открытый футбол со стороны обеих команд",
+    "prediction": "Индивидуальный тотал 2 Больше (1)",
+    "odds": 2.9,
+    "comment": "Гётеборг в первом матче уступил минимально Генту в ответной игре гости пойдут вперед и забьют свой гол",
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1786621899055,
-    "eventName": "Родина — Акрон",
+    "id": 1786627340877,
+    "eventName": "Матч",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
     "expert": {
-      "name": "Дмитрий Рыбалка",
-      "avatar": "https://static-uploads.prod.bookmaker-ratings.ru/2026/08/818-rb-webp-6a7c191851082-6a7c191854cb7.webp?width=60",
+      "name": "Нефтчи Фергана",
+      "avatar": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=100&h=100&fit=crop",
       "status": "expert",
-      "winRate": 84
+      "winRate": 82
     },
-    "prediction": "Обе забьют - Да",
-    "odds": 1.59,
-    "comment": "Матч Аутсайдеров, Родина после сенсационной победы над Зенитом, Акрон после ничьи на РЖД Арене, где не понятно, то ли Акрон прибавил, либо Локомотив нынешний сегодня слабый, ну по силе соперники равны,верю в голы,и обоюдно острый матч",
+    "prediction": "Индивидуальный тотал 1 Больше (1)",
+    "odds": 2.3,
+    "comment": "Комментарий к прогнозу",
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1786621899056,
-    "eventName": "Родина — Акрон",
-    "discipline": "Футбол",
-    "tournament": "Чемпионат",
-    "expert": {
-      "name": "Егор Скрябов",
-      "avatar": "https://bookmaker-ratings.ru/static/images/badges/is-kapper.svg?v=30092024",
-      "status": "expert",
-      "winRate": 87
-    },
-    "prediction": "Обе забьют - Да",
-    "odds": 1.59,
-    "comment": "Ожидаю открытую игру с тоталом б2,5, где обе команды побегут забивать",
-    "source": "Sports Analytics Pro"
-  },
-  {
-    "id": 1786621899057,
-    "eventName": "ЦСКА Москва — Факел Воронеж",
-    "discipline": "Футбол",
-    "tournament": "Чемпионат",
-    "expert": {
-      "name": "Михаил Лубнин",
-      "avatar": "https://bookmaker-ratings.ru/static/images/badges/is-kapper.svg?v=30092024",
-      "status": "expert",
-      "winRate": 71
-    },
-    "prediction": "Тотал (3.5) М",
-    "odds": 1.33,
-    "comment": "ЦСКА испытывает проблемы с завершением атак, а у Факела состав практически команды 1 лиги. С учетом того,как армейцы просаживаются во 2 таймах,большего количества мячей не жду",
-    "source": "Sports Analytics Pro"
-  },
-  {
-    "id": 1786621899058,
+    "id": 1786627340878,
     "eventName": "Матч",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -156,6 +124,38 @@
     },
     "prediction": "Фора 2 (0)",
     "odds": 1.68,
+    "comment": "Комментарий к прогнозу",
+    "source": "Sports Analytics Pro"
+  },
+  {
+    "id": 1786627340879,
+    "eventName": "Матч",
+    "discipline": "Футбол",
+    "tournament": "Чемпионат",
+    "expert": {
+      "name": "Лига Европы",
+      "avatar": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=100&h=100&fit=crop",
+      "status": "expert",
+      "winRate": 77
+    },
+    "prediction": "1X и ТМ (3,5)",
+    "odds": 1.7,
+    "comment": "Комментарий к прогнозу",
+    "source": "Sports Analytics Pro"
+  },
+  {
+    "id": 1786627340880,
+    "eventName": "Матч",
+    "discipline": "Футбол",
+    "tournament": "Чемпионат",
+    "expert": {
+      "name": "Лига Конференций",
+      "avatar": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=100&h=100&fit=crop",
+      "status": "expert",
+      "winRate": 71
+    },
+    "prediction": "Сухая победа «Браги»",
+    "odds": 2.03,
     "comment": "Комментарий к прогнозу",
     "source": "Sports Analytics Pro"
   }

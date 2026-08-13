@@ -1,5 +1,61 @@
 [
   {
+    "id": "93ce946b939af4a4",
+    "title": "«Матч ТВ» и «Локомотив» подтвердили факт инцидента с журналистом",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/2/22/347866251806222.jpeg",
+    "teaser": "«Матч ТВ» и «Локомотив» подтвердили факт инцидента с журналистом",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a7db5fa9a794734869824df",
+    "publishedAt": "2026-08-13T13:15:36.000Z",
+    "createdAt": "2026-08-13T13:22:27.890Z",
+    "updatedAt": "2026-08-13T13:22:27.890Z"
+  },
+  {
+    "id": "700181fc41af27eb",
+    "title": "Российские пловцы выступят в четырех финалах дня на чемпионате Европы",
+    "sport": "Другое",
+    "category": "Другие",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/9/46/347866251597469.jpeg",
+    "teaser": "Российские пловцы выступят в четырех финалах дня на чемпионате Европы",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a7db9569a7947152956f87b",
+    "publishedAt": "2026-08-13T13:01:44.000Z",
+    "createdAt": "2026-08-13T13:22:29.031Z",
+    "updatedAt": "2026-08-13T13:22:29.031Z"
+  },
+  {
+    "id": "89e6aed37506f730",
+    "title": "Суперкубок Испании по футболу перенесли из Саудовской Аравии в Стамбул",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/4/25/347866230799254.jpeg",
+    "teaser": "Суперкубок Испании по футболу перенесли из Саудовской Аравии в Стамбул",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a7db2839a794703c25fd961",
+    "publishedAt": "2026-08-13T12:30:33.000Z",
+    "createdAt": "2026-08-13T13:22:31.742Z",
+    "updatedAt": "2026-08-13T13:22:31.742Z"
+  },
+  {
+    "id": "5b15d990f5127403",
+    "title": "Сафонов назвал идеальным начало сезона после победы в Суперкубке УЕФА",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/6/65/347866226901656.jpeg",
+    "teaser": "Сафонов назвал идеальным начало сезона после победы в Суперкубке УЕФА",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a7dae9d9a794754678637fe",
+    "publishedAt": "2026-08-13T12:29:09.000Z",
+    "createdAt": "2026-08-13T13:22:30.181Z",
+    "updatedAt": "2026-08-13T13:22:30.181Z"
+  },
+  {
     "id": "f9a0604216c44910",
     "title": "Матч стартового тура Ла Лиги перенесли из-за грибка на поле",
     "sport": "Футбол",
@@ -10,8 +66,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a7da5ef9a7947120db1892a",
     "publishedAt": "2026-08-13T11:38:00.000Z",
-    "createdAt": "2026-08-13T11:51:47.560Z",
-    "updatedAt": "2026-08-13T11:51:47.560Z"
+    "createdAt": "2026-08-13T13:22:33.972Z",
+    "updatedAt": "2026-08-13T13:22:33.972Z"
   },
   {
     "id": "0bbba74275fb8334",
@@ -24,8 +80,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a7d97659a79473cda59aedb",
     "publishedAt": "2026-08-13T10:57:55.000Z",
-    "createdAt": "2026-08-13T11:51:46.295Z",
-    "updatedAt": "2026-08-13T11:51:46.295Z"
+    "createdAt": "2026-08-13T13:22:32.891Z",
+    "updatedAt": "2026-08-13T13:22:32.891Z"
   },
   {
     "id": "93429818651bb1b5",
@@ -38,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a7d99099a7947073a7ec1aa",
     "publishedAt": "2026-08-13T10:52:13.000Z",
-    "createdAt": "2026-08-13T11:51:49.009Z",
-    "updatedAt": "2026-08-13T11:51:49.009Z"
+    "createdAt": "2026-08-13T13:22:35.109Z",
+    "updatedAt": "2026-08-13T13:22:35.109Z"
   },
   {
     "id": "74dff33f9bb617b4",
@@ -52,8 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a7d8ea29a7947f10b6a1937",
     "publishedAt": "2026-08-13T10:08:51.000Z",
-    "createdAt": "2026-08-13T11:51:51.335Z",
-    "updatedAt": "2026-08-13T11:51:51.335Z"
+    "createdAt": "2026-08-13T13:22:37.274Z",
+    "updatedAt": "2026-08-13T13:22:37.274Z"
   },
   {
     "id": "bdd2a6ad2ac3871c",
@@ -66,22 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a7d87849a794714cf146ce8",
     "publishedAt": "2026-08-13T10:01:47.000Z",
-    "createdAt": "2026-08-13T11:51:50.191Z",
-    "updatedAt": "2026-08-13T11:51:50.191Z"
-  },
-  {
-    "id": "4847b56ed35784d2",
-    "title": "Сборная США по плаванию установила мировой рекорд в смешанной эстафете",
-    "sport": "Другое",
-    "category": "Другие",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/3/43/347866110465433.jpeg",
-    "teaser": "Сборная США по плаванию установила мировой рекорд в смешанной эстафете",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a7d82389a79470a95477232",
-    "publishedAt": "2026-08-13T09:07:11.000Z",
-    "createdAt": "2026-08-13T11:51:53.603Z",
-    "updatedAt": "2026-08-13T11:51:53.603Z"
+    "createdAt": "2026-08-13T13:22:36.251Z",
+    "updatedAt": "2026-08-13T13:22:36.251Z"
   },
   {
     "id": "26e8d2789be51f66",
@@ -94,49 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a7d6bc59a794781fc62cf8a",
     "publishedAt": "2026-08-13T08:54:05.000Z",
-    "createdAt": "2026-08-13T11:51:52.474Z",
-    "updatedAt": "2026-08-13T11:51:52.474Z"
-  },
-  {
-    "id": "3c1bf9df20f8ce32",
-    "title": "«Спартак» продлил контракт с вратарем Ильей Помазуном",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/3/38/347866097033383.jpeg",
-    "teaser": "«Спартак» продлил контракт с вратарем Ильей Помазуном",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a7d7cf59a7947651c6d039d",
-    "publishedAt": "2026-08-13T08:48:14.000Z",
-    "createdAt": "2026-08-13T11:51:54.716Z",
-    "updatedAt": "2026-08-13T11:51:54.716Z"
-  },
-  {
-    "id": "0a346212f41c5d94",
-    "title": "Мадридский «Реал» завоевал Трофей Терезы Эрреры",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/8/17/347866065217178.jpeg",
-    "teaser": "Мадридский «Реал» завоевал Трофей Терезы Эрреры",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a7d69779a7947f86afdc8b8",
-    "publishedAt": "2026-08-13T08:19:53.000Z",
-    "createdAt": "2026-08-13T11:51:55.845Z",
-    "updatedAt": "2026-08-13T11:51:55.845Z"
-  },
-  {
-    "id": "cd3dacf4e306063e",
-    "title": "Участник ОИ сделал трюк на скейтборде на фоне солнечного затмения. Видео",
-    "sport": "Другое",
-    "category": "Другие",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/4/28/347866031969284.jpeg",
-    "teaser": "Участник ОИ сделал трюк на скейтборде на фоне солнечного затмения. Видео",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a7d62d39a79477c135824f1",
-    "publishedAt": "2026-08-13T07:32:06.000Z",
-    "createdAt": "2026-08-13T11:51:56.971Z",
-    "updatedAt": "2026-08-13T11:51:56.971Z"
+    "createdAt": "2026-08-13T13:22:38.305Z",
+    "updatedAt": "2026-08-13T13:22:38.305Z"
   }
 ]
