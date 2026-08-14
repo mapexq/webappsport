@@ -1,5 +1,89 @@
 [
   {
+    "id": "55a55b97cfce42ec",
+    "title": "Карлсен и 19-летний белорус сыграют в финале КМ по киберспорту в шахматах",
+    "sport": "Другое",
+    "category": "Другие",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/6/94/347867214548946.jpeg",
+    "teaser": "Карлсен и 19-летний белорус сыграют в финале КМ по киберспорту в шахматах",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a7f34669a7947b9d84ad6ed",
+    "publishedAt": "2026-08-14T18:49:55.000Z",
+    "createdAt": "2026-08-14T19:00:15.734Z",
+    "updatedAt": "2026-08-14T19:00:15.734Z"
+  },
+  {
+    "id": "d8a4f3fd17674861",
+    "title": "«Локомотив» установил клубный антирекорд в матче РПЛ",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/4/08/347867320136084.jpeg",
+    "teaser": "«Локомотив» установил клубный антирекорд в матче РПЛ",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a7f5a569a79472db510acdf",
+    "publishedAt": "2026-08-14T18:41:27.000Z",
+    "createdAt": "2026-08-14T19:00:16.656Z",
+    "updatedAt": "2026-08-14T19:00:16.656Z"
+  },
+  {
+    "id": "1883631ddb8f49c6",
+    "title": "Российские пловцы победили в смешанной эстафете на чемпионате Европы",
+    "sport": "Другое",
+    "category": "Другие",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/5/72/347867295963725.jpeg",
+    "teaser": "Российские пловцы победили в смешанной эстафете на чемпионате Европы",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a7f54469a794701da439e90",
+    "publishedAt": "2026-08-14T18:29:06.000Z",
+    "createdAt": "2026-08-14T19:00:14.919Z",
+    "updatedAt": "2026-08-14T19:00:14.919Z"
+  },
+  {
+    "id": "79f0378dd210d27a",
+    "title": "Российские пловцы завоевали серебро и бронзу ЧЕ на 50 м на спине",
+    "sport": "Другое",
+    "category": "Другие",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/7/09/347867202657097.jpeg",
+    "teaser": "Российские пловцы завоевали серебро и бронзу ЧЕ на 50 м на спине",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a7f2fd49a79473663583bf0",
+    "publishedAt": "2026-08-14T18:02:14.000Z",
+    "createdAt": "2026-08-14T19:00:17.599Z",
+    "updatedAt": "2026-08-14T19:00:17.599Z"
+  },
+  {
+    "id": "b1d13cb7dba231a7",
+    "title": "Футболист «Зенита» перешел в испанский клуб",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/6/41/347867287345416.jpeg",
+    "teaser": "Футболист «Зенита» перешел в испанский клуб",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a7f50f49a794761dcf6eeb4",
+    "publishedAt": "2026-08-14T17:43:12.000Z",
+    "createdAt": "2026-08-14T19:00:18.401Z",
+    "updatedAt": "2026-08-14T19:00:18.401Z"
+  },
+  {
+    "id": "82e1422a84ac54af",
+    "title": "Нурмагомедов осудил Махачева за грубость в адрес соперника",
+    "sport": "Единоборства",
+    "category": "Единоборства",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/9/79/347867268968799.jpeg",
+    "teaser": "Нурмагомедов осудил Махачева за грубость в адрес соперника",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a7f40119a794703d94279ac",
+    "publishedAt": "2026-08-14T17:38:37.000Z",
+    "createdAt": "2026-08-14T19:00:19.445Z",
+    "updatedAt": "2026-08-14T19:00:19.445Z"
+  },
+  {
     "id": "d123f9bb8f1d905e",
     "title": "Российская пловчиха-рекордсменка завоевала золото ЧЕ на 200 м брассом",
     "sport": "Другое",
@@ -10,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a7f2f389a79472b61fa8137",
     "publishedAt": "2026-08-14T16:54:08.000Z",
-    "createdAt": "2026-08-14T17:00:35.451Z",
-    "updatedAt": "2026-08-14T17:00:35.451Z"
+    "createdAt": "2026-08-14T19:00:20.632Z",
+    "updatedAt": "2026-08-14T19:00:20.632Z"
   },
   {
     "id": "46acf6ad1533a62b",
@@ -24,8 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a7f2e589a79474a4d360de3",
     "publishedAt": "2026-08-14T16:51:16.000Z",
-    "createdAt": "2026-08-14T17:00:36.260Z",
-    "updatedAt": "2026-08-14T17:00:36.260Z"
+    "createdAt": "2026-08-14T19:00:21.877Z",
+    "updatedAt": "2026-08-14T19:00:21.877Z"
   },
   {
     "id": "eda3301813f08128",
@@ -38,22 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a7f2cc99a79473663583bd0",
     "publishedAt": "2026-08-14T16:10:41.000Z",
-    "createdAt": "2026-08-14T17:00:37.286Z",
-    "updatedAt": "2026-08-14T17:00:37.286Z"
-  },
-  {
-    "id": "b00d1e773d8236c1",
-    "title": "ДоброFON передал ₽1 млн волонтерскому движению «Ни Шагу Назад!»",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/1/38/347867233809381.jpeg",
-    "teaser": "ДоброFON передал ₽1 млн волонтерскому движению «Ни Шагу Назад!»",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a7f3c199a7947148aacaa6c",
-    "publishedAt": "2026-08-14T16:10:41.000Z",
-    "createdAt": "2026-08-14T17:00:41.118Z",
-    "updatedAt": "2026-08-14T17:00:41.118Z"
+    "createdAt": "2026-08-14T19:00:22.931Z",
+    "updatedAt": "2026-08-14T19:00:22.931Z"
   },
   {
     "id": "0a9504d3254dec94",
@@ -66,77 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a7f30c19a7947fd5665b5b7",
     "publishedAt": "2026-08-14T15:55:53.000Z",
-    "createdAt": "2026-08-14T17:00:38.252Z",
-    "updatedAt": "2026-08-14T17:00:38.252Z"
-  },
-  {
-    "id": "5e02be710e3b95d1",
-    "title": "Трофей Fonbet Кубка России по футболу побывал в Нальчике",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/6/28/347867155669286.jpeg",
-    "teaser": "Трофей Fonbet Кубка России по футболу побывал в Нальчике",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a7f1d649a794799e209190c",
-    "publishedAt": "2026-08-14T15:38:45.000Z",
-    "createdAt": "2026-08-14T17:00:44.083Z",
-    "updatedAt": "2026-08-14T17:00:44.083Z"
-  },
-  {
-    "id": "d80cb06aa14aabdd",
-    "title": "Махачев и Гэрри показали одинаковый вес перед титульным поединком UFC",
-    "sport": "Единоборства",
-    "category": "Единоборства",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/3/08/347867167184083.jpeg",
-    "teaser": "Махачев и Гэрри показали одинаковый вес перед титульным поединком UFC",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a7f1db19a79475e72e8ef66",
-    "publishedAt": "2026-08-14T14:18:05.000Z",
-    "createdAt": "2026-08-14T17:00:39.211Z",
-    "updatedAt": "2026-08-14T17:00:39.211Z"
-  },
-  {
-    "id": "4fc1a447373c0816",
-    "title": "Свёнтек фразой «больше, чем просто результат», оценила победу в Торонто",
-    "sport": "Теннис",
-    "category": "Теннис",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/4/80/347867161402804.jpeg",
-    "teaser": "Свёнтек фразой «больше, чем просто результат», оценила победу в Торонто",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a7f18229a7947172428686f",
-    "publishedAt": "2026-08-14T14:07:04.000Z",
-    "createdAt": "2026-08-14T17:00:42.069Z",
-    "updatedAt": "2026-08-14T17:00:42.069Z"
-  },
-  {
-    "id": "6158b9762cc67558",
-    "title": "Экс-игрок «Манчестер Сити» сменил Станковича в «Црвене звезде»",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/9/37/347867135370379.jpeg",
-    "teaser": "Экс-игрок «Манчестер Сити» сменил Станковича в «Црвене звезде»",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a7f12329a794733b6091569",
-    "publishedAt": "2026-08-14T14:02:42.000Z",
-    "createdAt": "2026-08-14T17:00:40.163Z",
-    "updatedAt": "2026-08-14T17:00:40.163Z"
-  },
-  {
-    "id": "ec0434e0b94f93c6",
-    "title": "Антон Миранчук назвал Дзюбу Овечкиным в мире футбола",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/2/95/347867110870952.jpeg",
-    "teaser": "Антон Миранчук назвал Дзюбу Овечкиным в мире футбола",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a7f081d9a794733bac409b9",
-    "publishedAt": "2026-08-14T12:56:21.000Z",
-    "createdAt": "2026-08-14T17:00:43.108Z",
-    "updatedAt": "2026-08-14T17:00:43.108Z"
+    "createdAt": "2026-08-14T19:00:24.522Z",
+    "updatedAt": "2026-08-14T19:00:24.522Z"
   }
 ]
