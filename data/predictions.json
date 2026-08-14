@@ -1,6 +1,6 @@
 [
   {
-    "id": 1786734008230,
+    "id": 1786737092472,
     "eventName": "Родина — Акрон",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -16,7 +16,7 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1786734008231,
+    "id": 1786737092473,
     "eventName": "Родина — Акрон",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -32,7 +32,7 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1786734008232,
+    "id": 1786737092474,
     "eventName": "Родина — Акрон",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -48,7 +48,7 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1786734008233,
+    "id": 1786737092475,
     "eventName": "ЦСКА Москва — Факел Воронеж",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -64,7 +64,7 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1786734008234,
+    "id": 1786737092476,
     "eventName": "ЦСКА Москва — Факел Воронеж",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -80,7 +80,7 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1786734008235,
+    "id": 1786737092477,
     "eventName": "Ростов — Рубин",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -96,23 +96,23 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1786734008236,
-    "eventName": "Матч",
+    "id": 1786737092478,
+    "eventName": "Ростов — Рубин",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
     "expert": {
-      "name": "Кубок Италии",
-      "avatar": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=100&h=100&fit=crop",
+      "name": "Ольга Вознесенская",
+      "avatar": "https://bookmaker-ratings.ru/static/images/badges/is-kapper.svg?v=30092024",
       "status": "expert",
-      "winRate": 85
+      "winRate": 88
     },
-    "prediction": "ТБ (2,5) и обе забьют — да",
-    "odds": 2.5,
-    "comment": "Комментарий к прогнозу",
+    "prediction": "Ничья",
+    "odds": 3.3,
+    "comment": "«Ростов» и «Рубин» — абсолютно равные команды по силе. История личных встреч это подтверждает. Обе набрали по 4 очка. Обе нестабильны. «Ростов» дома не проигрывает «Рубину» в последней очной встрече. Матч будет закрытым, но не из-за того, что обе команды не умеют забивать, а из-за того, что обе будут бояться ошибиться.",
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1786734008237,
+    "id": 1786737092479,
     "eventName": "Матч",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -128,7 +128,7 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1786734008238,
+    "id": 1786737092480,
     "eventName": "Матч",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -144,7 +144,7 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1786734008239,
+    "id": 1786737092481,
     "eventName": "Матч",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
