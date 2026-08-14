@@ -1,54 +1,6 @@
 [
   {
-    "id": 1786719337187,
-    "eventName": "Нефтехимик — Шинник",
-    "discipline": "Футбол",
-    "tournament": "Чемпионат",
-    "expert": {
-      "name": "Александр Карпов",
-      "avatar": "https://static-uploads.prod.bookmaker-ratings.ru/2026/07/1000003509-rb-webp-6a55df313f2ef-6a55df314278d.webp?width=60",
-      "status": "expert",
-      "winRate": 85
-    },
-    "prediction": "Тотал (2) М",
-    "odds": 1.84,
-    "comment": "Обе команды придерживаются оборонительного стиля, последних 5 очных встреч 2 или меньше . Не думаю, что сегодня что-то изменится",
-    "source": "Sports Analytics Pro"
-  },
-  {
-    "id": 1786719337188,
-    "eventName": "Олимпик Марсель — Атлетико Мадрид",
-    "discipline": "Футбол",
-    "tournament": "Чемпионат",
-    "expert": {
-      "name": "Профитор Брейкпойнтенко",
-      "avatar": "https://bookmaker-ratings.ru/static/images/badges/is-kapper.svg?v=30092024",
-      "status": "expert",
-      "winRate": 83
-    },
-    "prediction": "Обе забьют (Да)",
-    "odds": 1.48,
-    "comment": "Товарищеский матч, оба клуба будут расслабленны и обязательно забьют.",
-    "source": "Sports Analytics Pro"
-  },
-  {
-    "id": 1786719337189,
-    "eventName": "Олимпик Марсель — Атлетико Мадрид",
-    "discipline": "Футбол",
-    "tournament": "Чемпионат",
-    "expert": {
-      "name": "Alex Fox",
-      "avatar": "https://bookmaker-ratings.ru/static/images/badges/is-kapper.svg?v=30092024",
-      "status": "expert",
-      "winRate": 79
-    },
-    "prediction": "Обе забьют (Да)",
-    "odds": 1.48,
-    "comment": "Старт чемпионатов уже близко, так что пора играть основой думаю обе забьют",
-    "source": "Sports Analytics Pro"
-  },
-  {
-    "id": 1786719337190,
+    "id": 1786722982859,
     "eventName": "Кальяри — Ареццо",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -64,7 +16,7 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1786719337191,
+    "id": 1786722982860,
     "eventName": "Ротор — Урал",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -80,7 +32,7 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1786719337192,
+    "id": 1786722982861,
     "eventName": "Хольштайн — Санкт-Паули",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -96,7 +48,7 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1786719337193,
+    "id": 1786722982862,
     "eventName": "Русенборг — Викинг",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -112,7 +64,7 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1786719337194,
+    "id": 1786722982863,
     "eventName": "Русенборг — Викинг",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -128,7 +80,7 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1786719337195,
+    "id": 1786722982864,
     "eventName": "Русенборг — Викинг",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -144,18 +96,66 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1786719337196,
+    "id": 1786722982865,
+    "eventName": "Родина — Акрон",
+    "discipline": "Футбол",
+    "tournament": "Чемпионат",
+    "expert": {
+      "name": "Михаил Лубнин",
+      "avatar": "https://bookmaker-ratings.ru/static/images/badges/is-kapper.svg?v=30092024",
+      "status": "expert",
+      "winRate": 71
+    },
+    "prediction": "Тотал (2) Б",
+    "odds": 1.35,
+    "comment": "Родина воспряла после матча с Зенитом,но и Акрон с Локомотивом сотворил чудо. Ждем открытый футбол со стороны обеих команд",
+    "source": "Sports Analytics Pro"
+  },
+  {
+    "id": 1786722982866,
+    "eventName": "Родина — Акрон",
+    "discipline": "Футбол",
+    "tournament": "Чемпионат",
+    "expert": {
+      "name": "Дмитрий Рыбалка",
+      "avatar": "https://static-uploads.prod.bookmaker-ratings.ru/2026/08/818-rb-webp-6a7c191851082-6a7c191854cb7.webp?width=60",
+      "status": "expert",
+      "winRate": 84
+    },
+    "prediction": "Обе забьют - Да",
+    "odds": 1.59,
+    "comment": "Матч Аутсайдеров, Родина после сенсационной победы над Зенитом, Акрон после ничьи на РЖД Арене, где не понятно, то ли Акрон прибавил, либо Локомотив нынешний сегодня слабый, ну по силе соперники равны,верю в голы,и обоюдно острый матч",
+    "source": "Sports Analytics Pro"
+  },
+  {
+    "id": 1786722982867,
+    "eventName": "Родина — Акрон",
+    "discipline": "Футбол",
+    "tournament": "Чемпионат",
+    "expert": {
+      "name": "Егор Скрябов",
+      "avatar": "https://bookmaker-ratings.ru/static/images/badges/is-kapper.svg?v=30092024",
+      "status": "expert",
+      "winRate": 87
+    },
+    "prediction": "Обе забьют - Да",
+    "odds": 1.59,
+    "comment": "Ожидаю открытую игру с тоталом б2,5, где обе команды побегут забивать",
+    "source": "Sports Analytics Pro"
+  },
+  {
+    "id": 1786722982868,
     "eventName": "Матч",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
     "expert": {
-      "name": "Олимпик Марсель",
+      "name": "Тотал Ареццо",
       "avatar": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=100&h=100&fit=crop",
       "status": "expert",
-      "winRate": 87
+      "winRate": 84
     },
-    "prediction": "Обе забьют (Да)",
-    "odds": 1.48,
+    "prediction": "Тотал Ареццо больше (0.5)",
+    "odds": 1.71,
     "comment": "Комментарий к прогнозу",
     "source": "Sports Analytics Pro"
   }
