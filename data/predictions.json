@@ -1,6 +1,6 @@
 [
   {
-    "id": 1786695567343,
+    "id": 1786702094264,
     "eventName": "Оренбург — Локомотив Москва",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -16,7 +16,7 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1786695567344,
+    "id": 1786702094265,
     "eventName": "Оренбург — Локомотив Москва",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -32,7 +32,7 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1786695567345,
+    "id": 1786702094266,
     "eventName": "Оренбург — Локомотив Москва",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -48,7 +48,7 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1786695567346,
+    "id": 1786702094267,
     "eventName": "Оренбург — Локомотив Москва",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -64,7 +64,23 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1786695567347,
+    "id": 1786702094268,
+    "eventName": "Оренбург — Локомотив Москва",
+    "discipline": "Футбол",
+    "tournament": "Чемпионат",
+    "expert": {
+      "name": "Алим Калибатов",
+      "avatar": "https://static-uploads.prod.bookmaker-ratings.ru/2026/04/3dcfa3e614753a9566b9342464293-rb-webp-69d34c667554e-69d34c667cd17.webp?width=60",
+      "status": "expert",
+      "winRate": 73
+    },
+    "prediction": "Обе забьют - Да",
+    "odds": 1.6,
+    "comment": "Игра в обороне \"Оренбурга\", честно говоря, восторгов не вызывает. Но атака неплоха, и тут я пожалуй дам прогноз на Обе забьют за 1.60. \"Локомотиву\" надо выходить из этого пике, не уверен, что сегодня выиграют, но как минимум забить должны.",
+    "source": "Sports Analytics Pro"
+  },
+  {
+    "id": 1786702094269,
     "eventName": "Родина — Акрон",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -80,7 +96,7 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1786695567348,
+    "id": 1786702094270,
     "eventName": "Родина — Акрон",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -96,7 +112,7 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1786695567349,
+    "id": 1786702094271,
     "eventName": "Родина — Акрон",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -112,7 +128,7 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1786695567350,
+    "id": 1786702094272,
     "eventName": "ЦСКА Москва — Факел Воронеж",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -128,35 +144,19 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1786695567351,
-    "eventName": "ЦСКА Москва — Факел Воронеж",
+    "id": 1786702094274,
+    "eventName": "Матч",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
     "expert": {
-      "name": "Егор Скрябов",
-      "avatar": "https://bookmaker-ratings.ru/static/images/badges/is-kapper.svg?v=30092024",
+      "name": "Кубок Италии",
+      "avatar": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=100&h=100&fit=crop",
       "status": "expert",
-      "winRate": 87
+      "winRate": 85
     },
-    "prediction": "Тотал (2.5) М",
-    "odds": 1.9,
-    "comment": "У ЦСКА проблемы с организацией атак, ожидаю мало голов и, возможно, ничью",
-    "source": "Sports Analytics Pro"
-  },
-  {
-    "id": 1786695567352,
-    "eventName": "Ростов — Рубин",
-    "discipline": "Футбол",
-    "tournament": "Чемпионат",
-    "expert": {
-      "name": "Михаил Лубнин",
-      "avatar": "https://bookmaker-ratings.ru/static/images/badges/is-kapper.svg?v=30092024",
-      "status": "expert",
-      "winRate": 71
-    },
-    "prediction": "Тотал (2.5) М",
-    "odds": 1.77,
-    "comment": "В последних четырех очных встречах между этими командами было забито 6 мячей.Рубину придется перестраиваться без Даку",
+    "prediction": "ТБ (2,5) и обе забьют — да",
+    "odds": 2.5,
+    "comment": "Комментарий к прогнозу",
     "source": "Sports Analytics Pro"
   }
 ]
