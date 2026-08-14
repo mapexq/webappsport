@@ -1,54 +1,6 @@
 [
   {
-    "id": 1786722982859,
-    "eventName": "Кальяри — Ареццо",
-    "discipline": "Футбол",
-    "tournament": "Чемпионат",
-    "expert": {
-      "name": "Вита Журенко",
-      "avatar": "https://bookmaker-ratings.ru/static/images/badges/is-kapper.svg?v=30092024",
-      "status": "expert",
-      "winRate": 83
-    },
-    "prediction": "Тотал Ареццо больше (0.5)",
-    "odds": 1.71,
-    "comment": "Думаю. Гости приедут не просто побегать но и забивать голы одного будет достаточно",
-    "source": "Sports Analytics Pro"
-  },
-  {
-    "id": 1786722982860,
-    "eventName": "Ротор — Урал",
-    "discipline": "Футбол",
-    "tournament": "Чемпионат",
-    "expert": {
-      "name": "Дмитрий Щелкунов",
-      "avatar": "https://bookmaker-ratings.ru/static/images/badges/is-kapper.svg?v=30092024",
-      "status": "expert",
-      "winRate": 88
-    },
-    "prediction": "Тотал больше (2)",
-    "odds": 1.83,
-    "comment": "Думаю тут будет больше голов, чем ждут букмекеры, ставлю на результативную ничью 1 1",
-    "source": "Sports Analytics Pro"
-  },
-  {
-    "id": 1786722982861,
-    "eventName": "Хольштайн — Санкт-Паули",
-    "discipline": "Футбол",
-    "tournament": "Чемпионат",
-    "expert": {
-      "name": "Профитор Брейкпойнтенко",
-      "avatar": "https://bookmaker-ratings.ru/static/images/badges/is-kapper.svg?v=30092024",
-      "status": "expert",
-      "winRate": 83
-    },
-    "prediction": "Обе забьют (Да)",
-    "odds": 1.6,
-    "comment": "Жду голов от обеих команд. Классический матч 2-ой бундеслиги",
-    "source": "Sports Analytics Pro"
-  },
-  {
-    "id": 1786722982862,
+    "id": 1786726829470,
     "eventName": "Русенборг — Викинг",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -64,7 +16,7 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1786722982863,
+    "id": 1786726829471,
     "eventName": "Русенборг — Викинг",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -80,7 +32,7 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1786722982864,
+    "id": 1786726829472,
     "eventName": "Русенборг — Викинг",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -96,7 +48,7 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1786722982865,
+    "id": 1786726829473,
     "eventName": "Родина — Акрон",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -112,7 +64,7 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1786722982866,
+    "id": 1786726829474,
     "eventName": "Родина — Акрон",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -128,7 +80,7 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1786722982867,
+    "id": 1786726829475,
     "eventName": "Родина — Акрон",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -144,19 +96,67 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1786722982868,
+    "id": 1786726829476,
+    "eventName": "ЦСКА Москва — Факел Воронеж",
+    "discipline": "Футбол",
+    "tournament": "Чемпионат",
+    "expert": {
+      "name": "Михаил Лубнин",
+      "avatar": "https://bookmaker-ratings.ru/static/images/badges/is-kapper.svg?v=30092024",
+      "status": "expert",
+      "winRate": 71
+    },
+    "prediction": "Тотал (3.5) М",
+    "odds": 1.33,
+    "comment": "ЦСКА испытывает проблемы с завершением атак, а у Факела состав практически команды 1 лиги. С учетом того,как армейцы просаживаются во 2 таймах,большего количества мячей не жду",
+    "source": "Sports Analytics Pro"
+  },
+  {
+    "id": 1786726829477,
     "eventName": "Матч",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
     "expert": {
-      "name": "Тотал Ареццо",
+      "name": "Кубок Италии",
       "avatar": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=100&h=100&fit=crop",
       "status": "expert",
-      "winRate": 84
+      "winRate": 85
     },
-    "prediction": "Тотал Ареццо больше (0.5)",
-    "odds": 1.71,
+    "prediction": "ТБ (2,5) и обе забьют — да",
+    "odds": 2.5,
     "comment": "Комментарий к прогнозу",
+    "source": "Sports Analytics Pro"
+  },
+  {
+    "id": 1786726829478,
+    "eventName": "Матч",
+    "discipline": "Футбол",
+    "tournament": "Чемпионат",
+    "expert": {
+      "name": "Факел Воронеж",
+      "avatar": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=100&h=100&fit=crop",
+      "status": "expert",
+      "winRate": 78
+    },
+    "prediction": "Тотал (3.5) М",
+    "odds": 1.33,
+    "comment": "Комментарий к прогнозу",
+    "source": "Sports Analytics Pro"
+  },
+  {
+    "id": 1786726829479,
+    "eventName": "Фиорентина — Беневенто",
+    "discipline": "Футбол",
+    "tournament": "Чемпионат",
+    "expert": {
+      "name": "Александр Трибуш",
+      "avatar": "https://static-uploads.prod.bookmaker-ratings.ru/2024/03/1-16.png?width=60",
+      "status": "expert",
+      "winRate": 76
+    },
+    "prediction": "ТБ (2,5) и обе забьют — да",
+    "odds": 2.5,
+    "comment": "«Беневенто» не играл в Кубке Италии четыре года, но по итогам прошлого сезона вышел из Серии С в Серию B, благодаря чему принимает участие в кубке. Команда уже прошла первую стадию в сверхрезультативном матче против «Равенны» (5:3). Более того, в розыгрыше кубка «Беневенто» всегда показывал верховой футбол. Во всех шести предыдущих играх национального кубка сработал тренд на обе забьют, пять раз — на ТБ (2,5) через ОЗ, а четырежды — даже на ТБ (4,5). «Фиорентина» провалила прошлый сезон и финишировала только на 15-й позиции в Серии А. Команда нестабильна в обороне, то есть свой мяч «Беневенто» точно забьет. Но ждем голы и от «Фиорентины», которая выше классом и идет явным фаворитом. Вывод: будет много голов и смело ставим на тотал больше (2,5) и обе забьют — да. Эта ставка зашла и в трех прошлых встречах «Фиорентины» в Кубке Италии, а также в обеих предыдущих личных играх против «Беневенто».",
     "source": "Sports Analytics Pro"
   }
 ]
