@@ -1,5 +1,47 @@
 [
   {
+    "id": "94acfd23c46f59b1",
+    "title": "Ирландский клуб и группа Massive Attack выпустили лимитированную футболку",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/5/31/347867058365315.jpeg",
+    "teaser": "Ирландский клуб и группа Massive Attack выпустили лимитированную футболку",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a7eef469a7947d1c56ac3d3",
+    "publishedAt": "2026-08-14T11:16:33.000Z",
+    "createdAt": "2026-08-14T11:48:33.881Z",
+    "updatedAt": "2026-08-14T11:48:33.881Z"
+  },
+  {
+    "id": "da9d6dcaf0608cde",
+    "title": "Российскому легкоатлету Акименко увеличили срок допингового отстранения",
+    "sport": "Другое",
+    "category": "Другие",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/8/65/347867034860658.jpeg",
+    "teaser": "Российскому легкоатлету Акименко увеличили срок допингового отстранения",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a7eec099a7947aa4a01b30c",
+    "publishedAt": "2026-08-14T11:14:30.000Z",
+    "createdAt": "2026-08-14T11:48:34.819Z",
+    "updatedAt": "2026-08-14T11:48:34.819Z"
+  },
+  {
+    "id": "e19b4cd0c8fca182",
+    "title": "Соболенко заявила, чтоспас ее от депрессии после смерти Кольцова",
+    "sport": "Теннис",
+    "category": "Теннис",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/7/28/347867026295287.jpeg",
+    "teaser": "Соболенко заявила, чтоспас ее от депрессии после смерти Кольцова",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a7ee62d9a794775f9a8bd9d",
+    "publishedAt": "2026-08-14T10:42:57.000Z",
+    "createdAt": "2026-08-14T11:48:35.875Z",
+    "updatedAt": "2026-08-14T11:48:35.875Z"
+  },
+  {
     "id": "2c346a51108571c1",
     "title": "Махачев рассказал, что хотел бы завершить карьеру на турнире UFC в Москве",
     "sport": "Единоборства",
@@ -10,8 +52,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a7edd299a7947413fb6bd73",
     "publishedAt": "2026-08-14T09:37:34.000Z",
-    "createdAt": "2026-08-14T10:08:21.397Z",
-    "updatedAt": "2026-08-14T10:08:21.397Z"
+    "createdAt": "2026-08-14T11:48:36.878Z",
+    "updatedAt": "2026-08-14T11:48:36.878Z"
   },
   {
     "id": "b07e1581e73e61fe",
@@ -24,8 +66,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a7ed62f9a7947c476192303",
     "publishedAt": "2026-08-14T09:30:01.000Z",
-    "createdAt": "2026-08-14T10:08:24.504Z",
-    "updatedAt": "2026-08-14T10:08:24.504Z"
+    "createdAt": "2026-08-14T11:48:39.808Z",
+    "updatedAt": "2026-08-14T11:48:39.808Z"
   },
   {
     "id": "1b6b3a7c292d7789",
@@ -38,8 +80,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a7ed5439a79476a73a8bbc6",
     "publishedAt": "2026-08-14T09:18:48.000Z",
-    "createdAt": "2026-08-14T10:08:22.546Z",
-    "updatedAt": "2026-08-14T10:08:22.546Z"
+    "createdAt": "2026-08-14T11:48:37.933Z",
+    "updatedAt": "2026-08-14T11:48:37.933Z"
   },
   {
     "id": "8605fd4f460de72e",
@@ -52,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a7eda0f9a794723526feb51",
     "publishedAt": "2026-08-14T09:15:53.000Z",
-    "createdAt": "2026-08-14T10:08:25.508Z",
-    "updatedAt": "2026-08-14T10:08:25.508Z"
+    "createdAt": "2026-08-14T11:48:41.094Z",
+    "updatedAt": "2026-08-14T11:48:41.094Z"
   },
   {
     "id": "0c31f357009eabc7",
@@ -66,8 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a7ecf2d9a7947a9f25ff9e6",
     "publishedAt": "2026-08-14T08:49:28.000Z",
-    "createdAt": "2026-08-14T10:08:26.623Z",
-    "updatedAt": "2026-08-14T10:08:26.623Z"
+    "createdAt": "2026-08-14T11:48:42.148Z",
+    "updatedAt": "2026-08-14T11:48:42.148Z"
   },
   {
     "id": "1a118f32542a3686",
@@ -80,8 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a7ec61f9a79471ebf0c5ba5",
     "publishedAt": "2026-08-14T08:16:24.000Z",
-    "createdAt": "2026-08-14T10:08:28.900Z",
-    "updatedAt": "2026-08-14T10:08:28.900Z"
+    "createdAt": "2026-08-14T11:48:44.202Z",
+    "updatedAt": "2026-08-14T11:48:44.202Z"
   },
   {
     "id": "feea1d215d0879bc",
@@ -94,49 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a7ec8d59a7947267487f1ce",
     "publishedAt": "2026-08-14T08:12:38.000Z",
-    "createdAt": "2026-08-14T10:08:27.770Z",
-    "updatedAt": "2026-08-14T10:08:27.770Z"
-  },
-  {
-    "id": "89ca20eea753111c",
-    "title": "Чемпионке Европы по фигурному катанию предъявлены обвинения в насилии",
-    "sport": "Другое",
-    "category": "Фигурное катание",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/2/19/347866923573192.jpeg",
-    "teaser": "Чемпионке Европы по фигурному катанию предъявлены обвинения в насилии",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a7eba3c9a7947c4b3524f73",
-    "publishedAt": "2026-08-14T07:32:48.000Z",
-    "createdAt": "2026-08-14T10:08:31.199Z",
-    "updatedAt": "2026-08-14T10:08:31.199Z"
-  },
-  {
-    "id": "85cc60cdec2add69",
-    "title": "Возьмет ли «Зенит» реванш у Москвы. Интриги тура РПЛ",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/2/53/347866280030532.jpeg",
-    "teaser": "Возьмет ли «Зенит» реванш у Москвы. Интриги тура РПЛ",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a7af7e99a79475309e081dd",
-    "publishedAt": "2026-08-14T07:03:04.000Z",
-    "createdAt": "2026-08-14T10:08:32.331Z",
-    "updatedAt": "2026-08-14T10:08:32.331Z"
-  },
-  {
-    "id": "e427b74ffe5f6ede",
-    "title": "Сколько Махачев заработал за карьеру в UFC",
-    "sport": "Единоборства",
-    "category": "Единоборства",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/8/89/347632937390898.jpeg",
-    "teaser": "Сколько Махачев заработал за карьеру в UFC",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6919b9759a7947139bb64b1b",
-    "publishedAt": "2026-08-14T06:13:58.000Z",
-    "createdAt": "2026-08-14T10:08:30.060Z",
-    "updatedAt": "2026-08-14T10:08:30.060Z"
+    "createdAt": "2026-08-14T11:48:43.135Z",
+    "updatedAt": "2026-08-14T11:48:43.135Z"
   }
 ]
