@@ -1,5 +1,47 @@
 [
   {
+    "id": "cae88f6134445877",
+    "title": "Мельникова завоевала вторую бронзу ЧЕ, став третьей в вольных упражнениях",
+    "sport": "Другое",
+    "category": "Другие",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/3/00/347868091275003.jpeg",
+    "teaser": "Мельникова завоевала вторую бронзу ЧЕ, став третьей в вольных упражнениях",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a2d18af9a7947bf75d65caa",
+    "publishedAt": "2026-08-15T16:13:10.000Z",
+    "createdAt": "2026-08-15T16:30:04.622Z",
+    "updatedAt": "2026-08-15T16:30:04.622Z"
+  },
+  {
+    "id": "0f6e6b0bdac928e4",
+    "title": "Мельникова выиграла третью медаль на чемпионате Европы в Загребе",
+    "sport": "Другое",
+    "category": "Другие",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/9/42/347868071894429.jpeg",
+    "teaser": "Мельникова выиграла третью медаль на чемпионате Европы в Загребе",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a3699ac9a79471680ad404b",
+    "publishedAt": "2026-08-15T15:25:06.000Z",
+    "createdAt": "2026-08-15T16:30:05.871Z",
+    "updatedAt": "2026-08-15T16:30:05.871Z"
+  },
+  {
+    "id": "87ed59f3b7e72ea4",
+    "title": "Начало матча Первой лиги в Сочи отложили из-за беспилотной опасности",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/4/64/347868064048644.jpeg",
+    "teaser": "Начало матча Первой лиги в Сочи отложили из-за беспилотной опасности",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a80801f9a7947d4c67e7469",
+    "publishedAt": "2026-08-15T15:20:11.000Z",
+    "createdAt": "2026-08-15T16:30:07.315Z",
+    "updatedAt": "2026-08-15T16:30:07.315Z"
+  },
+  {
     "id": "049f92e196944763",
     "title": "ЦСКА благодаря голу с пенальти обыграл аутсайдера РПЛ",
     "sport": "Футбол",
@@ -10,8 +52,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a2d23469a79477bd3b11f96",
     "publishedAt": "2026-08-15T15:10:25.000Z",
-    "createdAt": "2026-08-15T15:25:59.791Z",
-    "updatedAt": "2026-08-15T15:25:59.791Z"
+    "createdAt": "2026-08-15T16:30:08.293Z",
+    "updatedAt": "2026-08-15T16:30:08.293Z"
   },
   {
     "id": "20c4651bc4c66da7",
@@ -24,8 +66,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a2e98d39a79473a4f623e08",
     "publishedAt": "2026-08-15T13:39:13.000Z",
-    "createdAt": "2026-08-15T15:26:00.754Z",
-    "updatedAt": "2026-08-15T15:26:00.754Z"
+    "createdAt": "2026-08-15T16:30:09.265Z",
+    "updatedAt": "2026-08-15T16:30:09.265Z"
   },
   {
     "id": "918405bc32232013",
@@ -38,8 +80,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a2c4d019a7947f7d5334a4c",
     "publishedAt": "2026-08-15T13:09:48.000Z",
-    "createdAt": "2026-08-15T15:26:01.780Z",
-    "updatedAt": "2026-08-15T15:26:01.780Z"
+    "createdAt": "2026-08-15T16:30:10.365Z",
+    "updatedAt": "2026-08-15T16:30:10.365Z"
   },
   {
     "id": "ee5c4e2e5b87b27e",
@@ -52,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a1ec9e59a79473d40a5a34a",
     "publishedAt": "2026-08-15T12:55:04.000Z",
-    "createdAt": "2026-08-15T15:26:02.795Z",
-    "updatedAt": "2026-08-15T15:26:02.795Z"
+    "createdAt": "2026-08-15T16:30:11.336Z",
+    "updatedAt": "2026-08-15T16:30:11.336Z"
   },
   {
     "id": "56700dc75e90cdde",
@@ -66,8 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a1972889a794794280e0173",
     "publishedAt": "2026-08-15T12:00:22.000Z",
-    "createdAt": "2026-08-15T15:26:04.873Z",
-    "updatedAt": "2026-08-15T15:26:04.873Z"
+    "createdAt": "2026-08-15T16:30:13.279Z",
+    "updatedAt": "2026-08-15T16:30:13.279Z"
   },
   {
     "id": "2dbd52e196f132a7",
@@ -80,8 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a1961069a794716c891431e",
     "publishedAt": "2026-08-15T11:43:17.000Z",
-    "createdAt": "2026-08-15T15:26:03.843Z",
-    "updatedAt": "2026-08-15T15:26:03.843Z"
+    "createdAt": "2026-08-15T16:30:12.306Z",
+    "updatedAt": "2026-08-15T16:30:12.306Z"
   },
   {
     "id": "f2c3fee89d98ddf5",
@@ -94,49 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a7ad4689a7947d1c280ab32",
     "publishedAt": "2026-08-15T11:24:48.000Z",
-    "createdAt": "2026-08-15T15:26:05.930Z",
-    "updatedAt": "2026-08-15T15:26:05.930Z"
-  },
-  {
-    "id": "098facbd67c468c6",
-    "title": "Испанка Перес установила первый мировой рекорд в ходьбе в полумарафоне",
-    "sport": "Другое",
-    "category": "Другие",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/0/10/347867909226100.jpeg",
-    "teaser": "Испанка Перес установила первый мировой рекорд в ходьбе в полумарафоне",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a7c2ccb9a7947cc890d7c24",
-    "publishedAt": "2026-08-15T10:56:35.000Z",
-    "createdAt": "2026-08-15T15:26:08.078Z",
-    "updatedAt": "2026-08-15T15:26:08.078Z"
-  },
-  {
-    "id": "8b812a83127c8ea1",
-    "title": "Российский пловец-рекордсмен поставил себе двойку за выступление на ЧЕ",
-    "sport": "Другое",
-    "category": "Другие",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/6/56/347867900841566.jpeg",
-    "teaser": "Российский пловец-рекордсмен поставил себе двойку за выступление на ЧЕ",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a7854cf9a79479cd1faca68",
-    "publishedAt": "2026-08-15T10:41:23.000Z",
-    "createdAt": "2026-08-15T15:26:06.950Z",
-    "updatedAt": "2026-08-15T15:26:06.950Z"
-  },
-  {
-    "id": "6683d286f97e9e54",
-    "title": "На «Вуэльте Португалии» погиб 19-летний британский велогонщик",
-    "sport": "Другое",
-    "category": "Другие",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/5/16/347867871748165.jpeg",
-    "teaser": "На «Вуэльте Португалии» погиб 19-летний британский велогонщик",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a7f42da9a79472ff7ebd40d",
-    "publishedAt": "2026-08-15T09:53:28.000Z",
-    "createdAt": "2026-08-15T15:26:09.550Z",
-    "updatedAt": "2026-08-15T15:26:09.550Z"
+    "createdAt": "2026-08-15T16:30:14.424Z",
+    "updatedAt": "2026-08-15T16:30:14.424Z"
   }
 ]
