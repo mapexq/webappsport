@@ -1,54 +1,6 @@
 [
   {
-    "id": 1786818944144,
-    "eventName": "Генчлербирлиги — Фенербахче",
-    "discipline": "Футбол",
-    "tournament": "Чемпионат",
-    "expert": {
-      "name": "Дмитрий Рыбалка",
-      "avatar": "https://static-uploads.prod.bookmaker-ratings.ru/2026/08/818-rb-webp-6a7c191851082-6a7c191854cb7.webp?width=60",
-      "status": "expert",
-      "winRate": 84
-    },
-    "prediction": "Тотал Фенербахче больше (1.5)",
-    "odds": 2.88,
-    "comment": "Фенербахче начинает свой новый сезон, очень сильный состав, хорошо провели последние контрольные матчи, должны забить 2 гола, мало ли хозяева сделают сенсацию как вчера ФК Чорум и не проиграют, поэтому в исход не пойду , Тотал больше гостей 1.5Б",
-    "source": "Sports Analytics Pro"
-  },
-  {
-    "id": 1786818944145,
-    "eventName": "Генчлербирлиги — Фенербахче",
-    "discipline": "Футбол",
-    "tournament": "Чемпионат",
-    "expert": {
-      "name": "Дмитрий Рыбалка",
-      "avatar": "https://static-uploads.prod.bookmaker-ratings.ru/2026/08/818-rb-webp-6a7c191851082-6a7c191854cb7.webp?width=60",
-      "status": "expert",
-      "winRate": 84
-    },
-    "prediction": "Тотал больше (2.5)",
-    "odds": 1.81,
-    "comment": "Начинается футбольный сезон для Фенербахче, хороший состав, отлично провели предсезонку, очень солидно усилилась команда. Поверю в голы, надеюсь ,что хозяева дома тоже не разочаруют и забьют свой гол",
-    "source": "Sports Analytics Pro"
-  },
-  {
-    "id": 1786818944146,
-    "eventName": "Генчлербирлиги — Фенербахче",
-    "discipline": "Футбол",
-    "tournament": "Чемпионат",
-    "expert": {
-      "name": "Никита Прохоров",
-      "avatar": "https://bookmaker-ratings.ru/static/images/badges/is-kapper.svg?v=30092024",
-      "status": "expert",
-      "winRate": 75
-    },
-    "prediction": "Фора 2 (-1)",
-    "odds": 1.65,
-    "comment": "Состав у гостевой команды внушительный,жду уверенной победы",
-    "source": "Sports Analytics Pro"
-  },
-  {
-    "id": 1786818944147,
+    "id": 1786821865845,
     "eventName": "Севилья — Райо Вальекано",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -64,7 +16,7 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1786818944148,
+    "id": 1786821865846,
     "eventName": "Севилья — Райо Вальекано",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -80,7 +32,7 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1786818944149,
+    "id": 1786821865847,
     "eventName": "Зенит — Динамо Москва",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -96,7 +48,7 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1786818944150,
+    "id": 1786821865848,
     "eventName": "Зенит — Динамо Москва",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -112,7 +64,7 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1786818944151,
+    "id": 1786821865849,
     "eventName": "Крылья Советов — Динамо Махачкала",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -128,23 +80,23 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1786818944152,
-    "eventName": "Матч",
+    "id": 1786821865850,
+    "eventName": "Крылья Советов — Динамо Махачкала",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
     "expert": {
-      "name": "Тотал Фенербахче",
-      "avatar": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=100&h=100&fit=crop",
+      "name": "Егор Скрябов",
+      "avatar": "https://bookmaker-ratings.ru/static/images/badges/is-kapper.svg?v=30092024",
       "status": "expert",
-      "winRate": 82
+      "winRate": 87
     },
-    "prediction": "Тотал Фенербахче больше (1.5)",
-    "odds": 2.88,
-    "comment": "Комментарий к прогнозу",
+    "prediction": "2Х",
+    "odds": 1.54,
+    "comment": "Двойной шанс Динамо + Тотал меньше 3,5, просто потому что крылья плохо смотрелись против Балтики",
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1786818944153,
+    "id": 1786821865851,
     "eventName": "Матч",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -156,6 +108,54 @@
     },
     "prediction": "ТМ (2,5)",
     "odds": 1.63,
+    "comment": "Комментарий к прогнозу",
+    "source": "Sports Analytics Pro"
+  },
+  {
+    "id": 1786821865852,
+    "eventName": "Матч",
+    "discipline": "Футбол",
+    "tournament": "Чемпионат",
+    "expert": {
+      "name": "Райо Вальекано",
+      "avatar": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=100&h=100&fit=crop",
+      "status": "expert",
+      "winRate": 76
+    },
+    "prediction": "Тотал больше (1.5)",
+    "odds": 1.42,
+    "comment": "Комментарий к прогнозу",
+    "source": "Sports Analytics Pro"
+  },
+  {
+    "id": 1786821865853,
+    "eventName": "Матч",
+    "discipline": "Футбол",
+    "tournament": "Чемпионат",
+    "expert": {
+      "name": "Райо Вальекано",
+      "avatar": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=100&h=100&fit=crop",
+      "status": "expert",
+      "winRate": 76
+    },
+    "prediction": "Тотал больше (2)",
+    "odds": 1.74,
+    "comment": "Комментарий к прогнозу",
+    "source": "Sports Analytics Pro"
+  },
+  {
+    "id": 1786821865854,
+    "eventName": "Матч",
+    "discipline": "Футбол",
+    "tournament": "Чемпионат",
+    "expert": {
+      "name": "Крылья Советов",
+      "avatar": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=100&h=100&fit=crop",
+      "status": "expert",
+      "winRate": 83
+    },
+    "prediction": "Тотал (3.5) М",
+    "odds": 1.23,
     "comment": "Комментарий к прогнозу",
     "source": "Sports Analytics Pro"
   }
