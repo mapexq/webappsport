@@ -1,6 +1,6 @@
 [
   {
-    "id": 1786749960958,
+    "id": 1786757631679,
     "eventName": "Родина — Акрон",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -16,7 +16,7 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1786749960959,
+    "id": 1786757631680,
     "eventName": "Родина — Акрон",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -32,7 +32,7 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1786749960960,
+    "id": 1786757631681,
     "eventName": "Родина — Акрон",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -48,7 +48,7 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1786749960961,
+    "id": 1786757631682,
     "eventName": "Родина — Акрон",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -64,7 +64,7 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1786749960962,
+    "id": 1786757631683,
     "eventName": "Родина — Акрон",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -80,7 +80,7 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1786749960963,
+    "id": 1786757631684,
     "eventName": "ЦСКА Москва — Факел Воронеж",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -96,7 +96,7 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1786749960964,
+    "id": 1786757631685,
     "eventName": "ЦСКА Москва — Факел Воронеж",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -112,7 +112,7 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1786749960965,
+    "id": 1786757631686,
     "eventName": "ЦСКА Москва — Факел Воронеж",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -128,7 +128,23 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1786749960966,
+    "id": 1786757631687,
+    "eventName": "Ростов — Рубин",
+    "discipline": "Футбол",
+    "tournament": "Чемпионат",
+    "expert": {
+      "name": "Михаил Лубнин",
+      "avatar": "https://bookmaker-ratings.ru/static/images/badges/is-kapper.svg?v=30092024",
+      "status": "expert",
+      "winRate": 71
+    },
+    "prediction": "Тотал (2.5) М",
+    "odds": 1.77,
+    "comment": "В последних четырех очных встречах между этими командами было забито 6 мячей.Рубину придется перестраиваться без Даку",
+    "source": "Sports Analytics Pro"
+  },
+  {
+    "id": 1786757631688,
     "eventName": "Матч",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -140,22 +156,6 @@
     },
     "prediction": "Тотал (3.5) М",
     "odds": 1.33,
-    "comment": "Комментарий к прогнозу",
-    "source": "Sports Analytics Pro"
-  },
-  {
-    "id": 1786749960967,
-    "eventName": "Матч",
-    "discipline": "Футбол",
-    "tournament": "Чемпионат",
-    "expert": {
-      "name": "Факел Воронеж",
-      "avatar": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=100&h=100&fit=crop",
-      "status": "expert",
-      "winRate": 78
-    },
-    "prediction": "Тотал (2.5) М",
-    "odds": 1.9,
     "comment": "Комментарий к прогнозу",
     "source": "Sports Analytics Pro"
   }
