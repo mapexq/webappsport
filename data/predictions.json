@@ -1,38 +1,6 @@
 [
   {
-    "id": 1786821865845,
-    "eventName": "Севилья — Райо Вальекано",
-    "discipline": "Футбол",
-    "tournament": "Чемпионат",
-    "expert": {
-      "name": "Сергей Гориславец",
-      "avatar": "https://static-uploads.prod.bookmaker-ratings.ru/2025/06/A55E5521-F251-409B-9872-CFCC8E629075-684340c122a2a.jpg?width=60",
-      "status": "expert",
-      "winRate": 69
-    },
-    "prediction": "Тотал больше (1.5)",
-    "odds": 1.42,
-    "comment": "Думаю мы сегодня увидим результативный матч от обеих команд",
-    "source": "Sports Analytics Pro"
-  },
-  {
-    "id": 1786821865846,
-    "eventName": "Севилья — Райо Вальекано",
-    "discipline": "Футбол",
-    "tournament": "Чемпионат",
-    "expert": {
-      "name": "Alex Fox",
-      "avatar": "https://bookmaker-ratings.ru/static/images/badges/is-kapper.svg?v=30092024",
-      "status": "expert",
-      "winRate": 79
-    },
-    "prediction": "Тотал больше (2)",
-    "odds": 1.74,
-    "comment": "Старт сезона, надеюсь на игру в атаку и Тотал 3 гола",
-    "source": "Sports Analytics Pro"
-  },
-  {
-    "id": 1786821865847,
+    "id": 1786825653615,
     "eventName": "Зенит — Динамо Москва",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -48,7 +16,7 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1786821865848,
+    "id": 1786825653616,
     "eventName": "Зенит — Динамо Москва",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -64,7 +32,7 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1786821865849,
+    "id": 1786825653617,
     "eventName": "Крылья Советов — Динамо Махачкала",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -80,7 +48,7 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1786821865850,
+    "id": 1786825653618,
     "eventName": "Крылья Советов — Динамо Махачкала",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -96,55 +64,55 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1786821865851,
-    "eventName": "Матч",
+    "id": 1786825653619,
+    "eventName": "Балтика — Спартак Москва",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
     "expert": {
-      "name": "Райо Вальекано",
-      "avatar": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=100&h=100&fit=crop",
+      "name": "Михаил Лубнин",
+      "avatar": "https://bookmaker-ratings.ru/static/images/badges/is-kapper.svg?v=30092024",
       "status": "expert",
-      "winRate": 76
+      "winRate": 71
     },
-    "prediction": "ТМ (2,5)",
-    "odds": 1.63,
-    "comment": "Комментарий к прогнозу",
+    "prediction": "Тотал (3.5) М",
+    "odds": 1.27,
+    "comment": "Балтика очень неуступчивая команда дома,поэтому легкой прогулки Спартаку явно не предвидится. В последних 4 личных встречах в рамках РПЛ было забито 9 мячей, так что нас ждет упорная борьба",
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1786821865852,
-    "eventName": "Матч",
+    "id": 1786825653620,
+    "eventName": "Балтика — Спартак Москва",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
     "expert": {
-      "name": "Райо Вальекано",
-      "avatar": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=100&h=100&fit=crop",
+      "name": "Егор Скрябов",
+      "avatar": "https://bookmaker-ratings.ru/static/images/badges/is-kapper.svg?v=30092024",
       "status": "expert",
-      "winRate": 76
+      "winRate": 87
     },
-    "prediction": "Тотал больше (1.5)",
-    "odds": 1.42,
-    "comment": "Комментарий к прогнозу",
+    "prediction": "Обе забьют - Да",
+    "odds": 1.88,
+    "comment": "Спартак точно будет забивать, но проблемы в обороне будут продолжаться, взял бы даже двойной шанс Спартака + ОЗ",
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1786821865853,
-    "eventName": "Матч",
+    "id": 1786825653621,
+    "eventName": "Балтика — Спартак Москва",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
     "expert": {
-      "name": "Райо Вальекано",
-      "avatar": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=100&h=100&fit=crop",
+      "name": "Александр Перейра",
+      "avatar": "https://bookmaker-ratings.ru/static/images/badges/is-kapper.svg?v=30092024",
       "status": "expert",
-      "winRate": 76
+      "winRate": 86
     },
-    "prediction": "Тотал больше (2)",
-    "odds": 1.74,
-    "comment": "Комментарий к прогнозу",
+    "prediction": "Обе забьют (Да)",
+    "odds": 1.88,
+    "comment": "Балтика в состоянии забить Спартаку. Москвичи будут вынуждены отвечать забитыми мячами.",
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1786821865854,
+    "id": 1786825653622,
     "eventName": "Матч",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -156,6 +124,38 @@
     },
     "prediction": "Тотал (3.5) М",
     "odds": 1.23,
+    "comment": "Комментарий к прогнозу",
+    "source": "Sports Analytics Pro"
+  },
+  {
+    "id": 1786825653623,
+    "eventName": "Матч",
+    "discipline": "Футбол",
+    "tournament": "Чемпионат",
+    "expert": {
+      "name": "Крылья Советов",
+      "avatar": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=100&h=100&fit=crop",
+      "status": "expert",
+      "winRate": 83
+    },
+    "prediction": "2Х",
+    "odds": 1.54,
+    "comment": "Комментарий к прогнозу",
+    "source": "Sports Analytics Pro"
+  },
+  {
+    "id": 1786825653624,
+    "eventName": "Матч",
+    "discipline": "Футбол",
+    "tournament": "Чемпионат",
+    "expert": {
+      "name": "Бруну Гимараеш",
+      "avatar": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=100&h=100&fit=crop",
+      "status": "expert",
+      "winRate": 82
+    },
+    "prediction": "Андерсон - передачи - 75 и более",
+    "odds": 1.77,
     "comment": "Комментарий к прогнозу",
     "source": "Sports Analytics Pro"
   }
