@@ -1,6 +1,6 @@
 [
   {
-    "id": 1786786191337,
+    "id": 1786789651506,
     "eventName": "Родина — Акрон",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -16,7 +16,7 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1786786191338,
+    "id": 1786789651507,
     "eventName": "Родина — Акрон",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -32,7 +32,7 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1786786191339,
+    "id": 1786789651508,
     "eventName": "Родина — Акрон",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -48,7 +48,7 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1786786191340,
+    "id": 1786789651509,
     "eventName": "Родина — Акрон",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -64,7 +64,7 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1786786191341,
+    "id": 1786789651510,
     "eventName": "Родина — Акрон",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -80,7 +80,71 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1786786191342,
+    "id": 1786789651511,
+    "eventName": "Родина — Акрон",
+    "discipline": "Футбол",
+    "tournament": "Чемпионат",
+    "expert": {
+      "name": "Сулейман Билалов",
+      "avatar": "https://bookmaker-ratings.ru/static/images/badges/is-kapper.svg?v=30092024",
+      "status": "expert",
+      "winRate": 79
+    },
+    "prediction": "1Х",
+    "odds": 1.45,
+    "comment": "Обе команды примерно равны по классу ,но я отдаю предпочтение хозяевам поля",
+    "source": "Sports Analytics Pro"
+  },
+  {
+    "id": 1786789651512,
+    "eventName": "Родина — Акрон",
+    "discipline": "Футбол",
+    "tournament": "Чемпионат",
+    "expert": {
+      "name": "Алим Калибатов",
+      "avatar": "https://static-uploads.prod.bookmaker-ratings.ru/2026/04/3dcfa3e614753a9566b9342464293-rb-webp-69d34c667554e-69d34c667cd17.webp?width=60",
+      "status": "expert",
+      "winRate": 73
+    },
+    "prediction": "Обе забьют - Да",
+    "odds": 1.58,
+    "comment": "Акрон в игре в Локомотивом показал, что их рано списывать со счетов, плюс в атаке есть Беншимол, очень крутой и техничный для нашей лиги игрок. Родина после сенсационной победы в Питере думаю поверит в себя. Беру здесь ОЗ за 1.58.",
+    "source": "Sports Analytics Pro"
+  },
+  {
+    "id": 1786789651513,
+    "eventName": "Родина — Акрон",
+    "discipline": "Футбол",
+    "tournament": "Чемпионат",
+    "expert": {
+      "name": "Юрий Солнцев",
+      "avatar": "https://static-uploads.prod.bookmaker-ratings.ru/2021/04/1-35-3.jpg?width=60",
+      "status": "expert",
+      "winRate": 87
+    },
+    "prediction": "ТБ (2,5) и обе забьют",
+    "odds": 1.96,
+    "comment": "В прошлом туре команды, которые поначалу называли главными претендентами на вылет, прервали серии из поражений. Причем «Родина» пошумела на всю Россию, ведь ей удалось победить «Зенит» в Петербурге. «Акрон» также был близок к тому, чтобы набрать 3 очка, но в итоге сыграл 0:0 с «Локомотивом». Во втором тайме тольяттинцы имели немало шансов, но реализация подвела. Здесь, конечно, обе команды стесняться не будут. И те, и другие, в принципе, считают себя как минимум не слабее соперника. «Родина» на волне успеха в Питере и разгрома «Рубина» в Кубке России агрессивно пойдет вперед, в какой-то мере раскроется. А «Акрон» также не привык играть от соперника. Новый тренер Благоевич выстраивает интересный футбол: тольяттинцы подолгу контролируют мяч, разводят его от ворот, есть интересные смещений крайних защитников, чтобы получать преимущество в середине. В общем, обе команды будут стараться всячески сыграть на победу. И в такой ситуации, безусловно, нужно ждать забитых мячей. Можно просто сыграть «тотал больше 2,5». Но интереснее взять комбо «обе забьют и тотал больше 2,5».",
+    "source": "Sports Analytics Pro"
+  },
+  {
+    "id": 1786789651514,
+    "eventName": "Родина — Акрон",
+    "discipline": "Футбол",
+    "tournament": "Чемпионат",
+    "expert": {
+      "name": "Александр Карпов",
+      "avatar": "https://static-uploads.prod.bookmaker-ratings.ru/2026/07/1000003509-rb-webp-6a55df313f2ef-6a55df314278d.webp?width=60",
+      "status": "expert",
+      "winRate": 85
+    },
+    "prediction": "Фора 1 (0)",
+    "odds": 1.84,
+    "comment": "Родина начинает приживаться в РПЛ да и веры в себя значительно прибавилось после победы над Зенитом. Акрон в поисках своей игры , не думаю, что он найдет ее сегодня",
+    "source": "Sports Analytics Pro"
+  },
+  {
+    "id": 1786789651515,
     "eventName": "ЦСКА Москва — Факел Воронеж",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -93,70 +157,6 @@
     "prediction": "Тотал (3.5) М",
     "odds": 1.33,
     "comment": "ЦСКА испытывает проблемы с завершением атак, а у Факела состав практически команды 1 лиги. С учетом того,как армейцы просаживаются во 2 таймах,большего количества мячей не жду",
-    "source": "Sports Analytics Pro"
-  },
-  {
-    "id": 1786786191343,
-    "eventName": "ЦСКА Москва — Факел Воронеж",
-    "discipline": "Футбол",
-    "tournament": "Чемпионат",
-    "expert": {
-      "name": "Егор Скрябов",
-      "avatar": "https://bookmaker-ratings.ru/static/images/badges/is-kapper.svg?v=30092024",
-      "status": "expert",
-      "winRate": 87
-    },
-    "prediction": "Тотал (2.5) М",
-    "odds": 1.9,
-    "comment": "У ЦСКА проблемы с организацией атак, ожидаю мало голов и, возможно, ничью",
-    "source": "Sports Analytics Pro"
-  },
-  {
-    "id": 1786786191344,
-    "eventName": "ЦСКА Москва — Факел Воронеж",
-    "discipline": "Футбол",
-    "tournament": "Чемпионат",
-    "expert": {
-      "name": "Pretti Boi",
-      "avatar": "https://static-uploads.prod.bookmaker-ratings.ru/2017/10/avatar_edit-108.jpg?width=60",
-      "status": "expert",
-      "winRate": 78
-    },
-    "prediction": "Тотал (2.5) Б",
-    "odds": 1.9,
-    "comment": "Пора уже показать на ЦСКА арене минимум 3 забитых мяча,и кэф тоже приличный )точный счет 3-1",
-    "source": "Sports Analytics Pro"
-  },
-  {
-    "id": 1786786191345,
-    "eventName": "Ростов — Рубин",
-    "discipline": "Футбол",
-    "tournament": "Чемпионат",
-    "expert": {
-      "name": "Михаил Лубнин",
-      "avatar": "https://bookmaker-ratings.ru/static/images/badges/is-kapper.svg?v=30092024",
-      "status": "expert",
-      "winRate": 71
-    },
-    "prediction": "Тотал (2.5) М",
-    "odds": 1.77,
-    "comment": "В последних четырех очных встречах между этими командами было забито 6 мячей.Рубину придется перестраиваться без Даку",
-    "source": "Sports Analytics Pro"
-  },
-  {
-    "id": 1786786191346,
-    "eventName": "Матч",
-    "discipline": "Футбол",
-    "tournament": "Чемпионат",
-    "expert": {
-      "name": "Факел Воронеж",
-      "avatar": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=100&h=100&fit=crop",
-      "status": "expert",
-      "winRate": 78
-    },
-    "prediction": "Тотал (3.5) М",
-    "odds": 1.33,
-    "comment": "Комментарий к прогнозу",
     "source": "Sports Analytics Pro"
   }
 ]
