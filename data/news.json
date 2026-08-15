@@ -1,5 +1,47 @@
 [
   {
+    "id": "e76d206bd51f34da",
+    "title": "Автор «золотого гола» ЧМ-2026 перешел из «Барселоны» в ПСЖ",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/8/31/347867853689318.jpeg",
+    "teaser": "Автор «золотого гола» ЧМ-2026 перешел из «Барселоны» в ПСЖ",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a7c7e249a7947df6d5bd2bc",
+    "publishedAt": "2026-08-15T09:20:37.000Z",
+    "createdAt": "2026-08-15T09:29:57.343Z",
+    "updatedAt": "2026-08-15T09:29:57.343Z"
+  },
+  {
+    "id": "52165ee921de4528",
+    "title": "Чемпион России Горшков перешел из «Зенита» в «Крылья Советов»",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/1/39/347867845377391.jpeg",
+    "teaser": "Чемпион России Горшков перешел из «Зенита» в «Крылья Советов»",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a7dcda99a7947594805bdc0",
+    "publishedAt": "2026-08-15T09:08:02.000Z",
+    "createdAt": "2026-08-15T09:29:58.296Z",
+    "updatedAt": "2026-08-15T09:29:58.296Z"
+  },
+  {
+    "id": "c5b0aaf6ea24836d",
+    "title": "Стало известно, когда россияне вылетят на этап Гран-при ISU в Китай",
+    "sport": "Другое",
+    "category": "Фигурное катание",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/2/92/347867826083922.jpeg",
+    "teaser": "Стало известно, когда россияне вылетят на этап Гран-при ISU в Китай",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a7dd30b9a7947b3d4925106",
+    "publishedAt": "2026-08-15T08:35:48.000Z",
+    "createdAt": "2026-08-15T09:30:00.400Z",
+    "updatedAt": "2026-08-15T09:30:00.400Z"
+  },
+  {
     "id": "bd9288004a0b5c59",
     "title": "Как Махачев потерпел сенсационное поражение в UFC",
     "sport": "Единоборства",
@@ -10,8 +52,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a7efd9a9a7947857356ac95",
     "publishedAt": "2026-08-15T08:22:41.000Z",
-    "createdAt": "2026-08-15T08:34:15.532Z",
-    "updatedAt": "2026-08-15T08:34:15.532Z"
+    "createdAt": "2026-08-15T09:29:59.305Z",
+    "updatedAt": "2026-08-15T09:29:59.305Z"
   },
   {
     "id": "e0b443503da78184",
@@ -24,8 +66,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a7dde229a79474b11b4b88a",
     "publishedAt": "2026-08-15T07:47:04.000Z",
-    "createdAt": "2026-08-15T08:34:16.711Z",
-    "updatedAt": "2026-08-15T08:34:16.711Z"
+    "createdAt": "2026-08-15T09:30:01.438Z",
+    "updatedAt": "2026-08-15T09:30:01.438Z"
   },
   {
     "id": "0bbcf68eaf0fc8a6",
@@ -38,8 +80,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a7f558b9a7947620ca21c06",
     "publishedAt": "2026-08-15T07:31:57.000Z",
-    "createdAt": "2026-08-15T08:34:17.803Z",
-    "updatedAt": "2026-08-15T08:34:17.803Z"
+    "createdAt": "2026-08-15T09:30:02.410Z",
+    "updatedAt": "2026-08-15T09:30:02.410Z"
   },
   {
     "id": "0877f2e8ea22cbb8",
@@ -52,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a8010939a79474a0270473e",
     "publishedAt": "2026-08-15T07:16:57.000Z",
-    "createdAt": "2026-08-15T08:34:18.993Z",
-    "updatedAt": "2026-08-15T08:34:18.993Z"
+    "createdAt": "2026-08-15T09:30:04.408Z",
+    "updatedAt": "2026-08-15T09:30:04.408Z"
   },
   {
     "id": "bb11f0c75dce24e8",
@@ -66,8 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a7ee7749a79479493235512",
     "publishedAt": "2026-08-15T06:11:18.000Z",
-    "createdAt": "2026-08-15T08:34:20.146Z",
-    "updatedAt": "2026-08-15T08:34:20.146Z"
+    "createdAt": "2026-08-15T09:30:05.413Z",
+    "updatedAt": "2026-08-15T09:30:05.413Z"
   },
   {
     "id": "66f3b5bbf997f9ee",
@@ -80,22 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a7ee79c9a7947630be376e7",
     "publishedAt": "2026-08-15T05:22:28.000Z",
-    "createdAt": "2026-08-15T08:34:21.277Z",
-    "updatedAt": "2026-08-15T08:34:21.277Z"
-  },
-  {
-    "id": "ebc1a027edacd35a",
-    "title": "World Archery сняла ограничения с российских лучников",
-    "sport": "Другое",
-    "category": "Другие",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/6/34/347841191298346.svg",
-    "teaser": "World Archery сняла ограничения с российских лучников",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a7fed489a79472323ba8ff1",
-    "publishedAt": "2026-08-15T05:00:36.000Z",
-    "createdAt": "2026-08-15T08:34:26.391Z",
-    "updatedAt": "2026-08-15T08:34:26.391Z"
+    "createdAt": "2026-08-15T09:30:06.386Z",
+    "updatedAt": "2026-08-15T09:30:06.386Z"
   },
   {
     "id": "baa9c69193789f1a",
@@ -108,35 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a7eda679a794712ce3c4c33",
     "publishedAt": "2026-08-15T04:00:11.000Z",
-    "createdAt": "2026-08-15T08:34:22.411Z",
-    "updatedAt": "2026-08-15T08:34:22.411Z"
-  },
-  {
-    "id": "cafea1d02fe82db6",
-    "title": "Махачев — Гэрри: когда пройдет чемпионский бой UFC, где смотреть",
-    "sport": "Единоборства",
-    "category": "Единоборства",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/7/72/347867004432727.jpeg",
-    "teaser": "Махачев — Гэрри: когда пройдет чемпионский бой UFC, где смотреть",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a7edc159a79477ab69b1ca9",
-    "publishedAt": "2026-08-14T23:00:00.000Z",
-    "createdAt": "2026-08-15T08:34:24.350Z",
-    "updatedAt": "2026-08-15T08:34:24.350Z"
-  },
-  {
-    "id": "0954bbeb98b53cb9",
-    "title": "Получивший травму Садулаев проведет поединок на турнире RAF в Москве",
-    "sport": "Единоборства",
-    "category": "Единоборства",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/1/49/347867390997491.jpeg",
-    "teaser": "Получивший травму Садулаев проведет поединок на турнире RAF в Москве",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a7f77639a7947fff9c225c7",
-    "publishedAt": "2026-08-14T20:43:13.000Z",
-    "createdAt": "2026-08-15T08:34:27.537Z",
-    "updatedAt": "2026-08-15T08:34:27.537Z"
+    "createdAt": "2026-08-15T09:30:07.465Z",
+    "updatedAt": "2026-08-15T09:30:07.465Z"
   }
 ]
