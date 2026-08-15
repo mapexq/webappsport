@@ -1,5 +1,33 @@
 [
   {
+    "id": "9fc516e891a991ef",
+    "title": "Россиянки выиграли ЧМ по художественной гимнастике в командном зачете",
+    "sport": "Другое",
+    "category": "Другие",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/9/75/347868122666759.jpeg",
+    "teaser": "Россиянки выиграли ЧМ по художественной гимнастике в командном зачете",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a2aa8109a79471a9ad694c1",
+    "publishedAt": "2026-08-15T16:37:05.000Z",
+    "createdAt": "2026-08-15T17:24:45.032Z",
+    "updatedAt": "2026-08-15T17:24:45.032Z"
+  },
+  {
+    "id": "09bfef85a7309047",
+    "title": "Карлсен снова победил на КМ по киберспорту в шахматах и получил $250 тыс",
+    "sport": "Другое",
+    "category": "Другие",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/9/88/347867964360889.jpeg",
+    "teaser": "Карлсен снова победил на КМ по киберспорту в шахматах и получил $250 тыс",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a1ff4d89a79477fce2f136a",
+    "publishedAt": "2026-08-15T16:29:40.000Z",
+    "createdAt": "2026-08-15T17:24:46.009Z",
+    "updatedAt": "2026-08-15T17:24:46.009Z"
+  },
+  {
     "id": "cae88f6134445877",
     "title": "Мельникова завоевала вторую бронзу ЧЕ, став третьей в вольных упражнениях",
     "sport": "Другое",
@@ -10,8 +38,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a2d18af9a7947bf75d65caa",
     "publishedAt": "2026-08-15T16:13:10.000Z",
-    "createdAt": "2026-08-15T16:30:04.622Z",
-    "updatedAt": "2026-08-15T16:30:04.622Z"
+    "createdAt": "2026-08-15T17:24:47.018Z",
+    "updatedAt": "2026-08-15T17:24:47.018Z"
   },
   {
     "id": "0f6e6b0bdac928e4",
@@ -24,8 +52,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a3699ac9a79471680ad404b",
     "publishedAt": "2026-08-15T15:25:06.000Z",
-    "createdAt": "2026-08-15T16:30:05.871Z",
-    "updatedAt": "2026-08-15T16:30:05.871Z"
+    "createdAt": "2026-08-15T17:24:48.045Z",
+    "updatedAt": "2026-08-15T17:24:48.045Z"
   },
   {
     "id": "87ed59f3b7e72ea4",
@@ -38,8 +66,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a80801f9a7947d4c67e7469",
     "publishedAt": "2026-08-15T15:20:11.000Z",
-    "createdAt": "2026-08-15T16:30:07.315Z",
-    "updatedAt": "2026-08-15T16:30:07.315Z"
+    "createdAt": "2026-08-15T17:24:48.977Z",
+    "updatedAt": "2026-08-15T17:24:48.977Z"
   },
   {
     "id": "049f92e196944763",
@@ -52,8 +80,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a2d23469a79477bd3b11f96",
     "publishedAt": "2026-08-15T15:10:25.000Z",
-    "createdAt": "2026-08-15T16:30:08.293Z",
-    "updatedAt": "2026-08-15T16:30:08.293Z"
+    "createdAt": "2026-08-15T17:24:49.939Z",
+    "updatedAt": "2026-08-15T17:24:49.939Z"
   },
   {
     "id": "20c4651bc4c66da7",
@@ -66,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a2e98d39a79473a4f623e08",
     "publishedAt": "2026-08-15T13:39:13.000Z",
-    "createdAt": "2026-08-15T16:30:09.265Z",
-    "updatedAt": "2026-08-15T16:30:09.265Z"
+    "createdAt": "2026-08-15T17:24:50.920Z",
+    "updatedAt": "2026-08-15T17:24:50.920Z"
   },
   {
     "id": "918405bc32232013",
@@ -80,8 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a2c4d019a7947f7d5334a4c",
     "publishedAt": "2026-08-15T13:09:48.000Z",
-    "createdAt": "2026-08-15T16:30:10.365Z",
-    "updatedAt": "2026-08-15T16:30:10.365Z"
+    "createdAt": "2026-08-15T17:24:51.903Z",
+    "updatedAt": "2026-08-15T17:24:51.903Z"
   },
   {
     "id": "ee5c4e2e5b87b27e",
@@ -94,22 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a1ec9e59a79473d40a5a34a",
     "publishedAt": "2026-08-15T12:55:04.000Z",
-    "createdAt": "2026-08-15T16:30:11.336Z",
-    "updatedAt": "2026-08-15T16:30:11.336Z"
-  },
-  {
-    "id": "56700dc75e90cdde",
-    "title": "Sport1 узнал о планах «Баварии» продать 5% акций за €250 млн",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/7/48/347867947037487.jpeg",
-    "teaser": "Sport1 узнал о планах «Баварии» продать 5% акций за €250 млн",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a1972889a794794280e0173",
-    "publishedAt": "2026-08-15T12:00:22.000Z",
-    "createdAt": "2026-08-15T16:30:13.279Z",
-    "updatedAt": "2026-08-15T16:30:13.279Z"
+    "createdAt": "2026-08-15T17:24:52.895Z",
+    "updatedAt": "2026-08-15T17:24:52.895Z"
   },
   {
     "id": "2dbd52e196f132a7",
@@ -122,21 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a1961069a794716c891431e",
     "publishedAt": "2026-08-15T11:43:17.000Z",
-    "createdAt": "2026-08-15T16:30:12.306Z",
-    "updatedAt": "2026-08-15T16:30:12.306Z"
-  },
-  {
-    "id": "f2c3fee89d98ddf5",
-    "title": "Ефимова не будет завершать карьеру после провала на чемпионате Европы",
-    "sport": "Другое",
-    "category": "Другие",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/2/33/347867926425332.jpeg",
-    "teaser": "Ефимова не будет завершать карьеру после провала на чемпионате Европы",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a7ad4689a7947d1c280ab32",
-    "publishedAt": "2026-08-15T11:24:48.000Z",
-    "createdAt": "2026-08-15T16:30:14.424Z",
-    "updatedAt": "2026-08-15T16:30:14.424Z"
+    "createdAt": "2026-08-15T17:24:53.883Z",
+    "updatedAt": "2026-08-15T17:24:53.883Z"
   }
 ]
