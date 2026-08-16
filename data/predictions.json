@@ -1,22 +1,6 @@
 [
   {
-    "id": 1786884503751,
-    "eventName": "Алания — Динамо Киров",
-    "discipline": "Футбол",
-    "tournament": "Чемпионат",
-    "expert": {
-      "name": "Алим Калибатов",
-      "avatar": "https://static-uploads.prod.bookmaker-ratings.ru/2026/04/3dcfa3e614753a9566b9342464293-rb-webp-69d34c667554e-69d34c667cd17.webp?width=60",
-      "status": "expert",
-      "winRate": 73
-    },
-    "prediction": "Победа 1",
-    "odds": 2.37,
-    "comment": "\"Алания\" сегодня будет проводить первый матч на своем обновленном стадионе во Владикавказе. Поэтому еще и после фиаско в Нальчике, думаю, что осетинская команда сделает все, чтобы порадовать болельщиков. Динамо Киров довольно крепкий орешек по меркам второй лиги, и думаю, что будет непросто. Но поверю в победу хозяев за 2.37, тем более, что стадион будет забит до отказа - домашнего матча \"Алании\" ждали целых пять лет.",
-    "source": "Sports Analytics Pro"
-  },
-  {
-    "id": 1786884503752,
+    "id": 1786887278471,
     "eventName": "Крылья Советов — Динамо Махачкала",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -32,7 +16,7 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1786884503753,
+    "id": 1786887278473,
     "eventName": "Крылья Советов — Динамо Махачкала",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -48,7 +32,7 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1786884503754,
+    "id": 1786887278474,
     "eventName": "Крылья Советов — Динамо Махачкала",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -64,7 +48,7 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1786884503755,
+    "id": 1786887278475,
     "eventName": "Арсенал — Манчестер Сити",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -80,7 +64,7 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1786884503756,
+    "id": 1786887278476,
     "eventName": "Арсенал — Манчестер Сити",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -96,7 +80,7 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1786884503757,
+    "id": 1786887278477,
     "eventName": "Крылья Советов — Динамо Махачкала",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -112,7 +96,7 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1786884503758,
+    "id": 1786887278478,
     "eventName": "Арсенал — Манчестер Сити",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -128,7 +112,7 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1786884503759,
+    "id": 1786887278479,
     "eventName": "Матч",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -144,7 +128,7 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1786884503760,
+    "id": 1786887278480,
     "eventName": "Матч",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -156,6 +140,22 @@
     },
     "prediction": "2Х",
     "odds": 1.54,
+    "comment": "Комментарий к прогнозу",
+    "source": "Sports Analytics Pro"
+  },
+  {
+    "id": 1786887278481,
+    "eventName": "Матч",
+    "discipline": "Футбол",
+    "tournament": "Чемпионат",
+    "expert": {
+      "name": "Бруну Гимараеш",
+      "avatar": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=100&h=100&fit=crop",
+      "status": "expert",
+      "winRate": 82
+    },
+    "prediction": "Андерсон - передачи - 75 и более",
+    "odds": 1.77,
     "comment": "Комментарий к прогнозу",
     "source": "Sports Analytics Pro"
   }
