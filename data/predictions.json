@@ -1,6 +1,6 @@
 [
   {
-    "id": 1786855208079,
+    "id": 1786858312116,
     "eventName": "Зенит — Динамо Москва",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -16,7 +16,7 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1786855208081,
+    "id": 1786858312117,
     "eventName": "Зенит — Динамо Москва",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -32,7 +32,7 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1786855208082,
+    "id": 1786858312118,
     "eventName": "Зенит — Динамо Москва",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -48,7 +48,7 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1786855208083,
+    "id": 1786858312119,
     "eventName": "Крылья Советов — Динамо Махачкала",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -64,7 +64,7 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1786855208084,
+    "id": 1786858312120,
     "eventName": "Крылья Советов — Динамо Махачкала",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -80,7 +80,7 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1786855208085,
+    "id": 1786858312121,
     "eventName": "Расинг Сантандер — Вильярреал",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -96,23 +96,7 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1786855208086,
-    "eventName": "Балтика — Спартак Москва",
-    "discipline": "Футбол",
-    "tournament": "Чемпионат",
-    "expert": {
-      "name": "Михаил Лубнин",
-      "avatar": "https://bookmaker-ratings.ru/static/images/badges/is-kapper.svg?v=30092024",
-      "status": "expert",
-      "winRate": 71
-    },
-    "prediction": "Тотал (3.5) М",
-    "odds": 1.27,
-    "comment": "Балтика очень неуступчивая команда дома,поэтому легкой прогулки Спартаку явно не предвидится. В последних 4 личных встречах в рамках РПЛ было забито 9 мячей, так что нас ждет упорная борьба",
-    "source": "Sports Analytics Pro"
-  },
-  {
-    "id": 1786855208087,
+    "id": 1786858312122,
     "eventName": "Матч",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -128,7 +112,7 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1786855208088,
+    "id": 1786858312123,
     "eventName": "Матч",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -144,7 +128,7 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1786855208089,
+    "id": 1786858312124,
     "eventName": "Матч",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -156,6 +140,22 @@
     },
     "prediction": "Андерсон - передачи - 75 и более",
     "odds": 1.77,
+    "comment": "Комментарий к прогнозу",
+    "source": "Sports Analytics Pro"
+  },
+  {
+    "id": 1786858312125,
+    "eventName": "Матч",
+    "discipline": "Футбол",
+    "tournament": "Чемпионат",
+    "expert": {
+      "name": "Крылья Советов",
+      "avatar": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=100&h=100&fit=crop",
+      "status": "expert",
+      "winRate": 83
+    },
+    "prediction": "1-й тайм — ТБ (1)",
+    "odds": 2.17,
     "comment": "Комментарий к прогнозу",
     "source": "Sports Analytics Pro"
   }
