@@ -1,5 +1,47 @@
 [
   {
+    "id": "b997a5759ecf82a4",
+    "title": "«Динамо» начало новый сезон в РПЛ хуже, чем при Карпине",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/8/87/347868889228878.png",
+    "teaser": "«Динамо» начало новый сезон в РПЛ хуже, чем при Карпине",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a81c2a79a794740312bde2f",
+    "publishedAt": "2026-08-16T14:18:50.000Z",
+    "createdAt": "2026-08-16T14:27:51.767Z",
+    "updatedAt": "2026-08-16T14:27:51.767Z"
+  },
+  {
+    "id": "efe8bf549db04074",
+    "title": "Защитник ЦСКА серьезно травмировал колено в матче РПЛ",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/8/72/347868881317728.png",
+    "teaser": "Защитник ЦСКА серьезно травмировал колено в матче РПЛ",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a81be879a794724c62069d3",
+    "publishedAt": "2026-08-16T14:00:01.000Z",
+    "createdAt": "2026-08-16T14:27:52.782Z",
+    "updatedAt": "2026-08-16T14:27:52.782Z"
+  },
+  {
+    "id": "fc250ccf09e66b0d",
+    "title": "Тысячи зрителей застряли на арене ЧЕ в Англии из-за полицейской операции",
+    "sport": "Другое",
+    "category": "Другие",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/9/04/347868867030049.jpeg",
+    "teaser": "Тысячи зрителей застряли на арене ЧЕ в Англии из-за полицейской операции",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a81b4b69a79470725d6706a",
+    "publishedAt": "2026-08-16T13:41:58.000Z",
+    "createdAt": "2026-08-16T14:27:53.804Z",
+    "updatedAt": "2026-08-16T14:27:53.804Z"
+  },
+  {
     "id": "90ef00462a87b9b7",
     "title": "«Зенит» впервые с 2021 года разгромил «Динамо» в РПЛ",
     "sport": "Футбол",
@@ -10,8 +52,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a819d2c9a794758bb3ab9c6",
     "publishedAt": "2026-08-16T13:31:13.000Z",
-    "createdAt": "2026-08-16T13:34:45.692Z",
-    "updatedAt": "2026-08-16T13:34:45.692Z"
+    "createdAt": "2026-08-16T14:27:54.849Z",
+    "updatedAt": "2026-08-16T14:27:54.849Z"
   },
   {
     "id": "adb8aac94bafd22d",
@@ -24,8 +66,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a81a20a9a794739e57ee8c2",
     "publishedAt": "2026-08-16T11:55:15.000Z",
-    "createdAt": "2026-08-16T13:34:47.804Z",
-    "updatedAt": "2026-08-16T13:34:47.804Z"
+    "createdAt": "2026-08-16T14:27:56.803Z",
+    "updatedAt": "2026-08-16T14:27:56.803Z"
   },
   {
     "id": "350600e82f125492",
@@ -38,8 +80,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a816c269a79472cca9ad1a0",
     "publishedAt": "2026-08-16T11:06:03.000Z",
-    "createdAt": "2026-08-16T13:34:46.780Z",
-    "updatedAt": "2026-08-16T13:34:46.780Z"
+    "createdAt": "2026-08-16T14:27:55.773Z",
+    "updatedAt": "2026-08-16T14:27:55.773Z"
   },
   {
     "id": "3b132ca397c049a6",
@@ -52,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a8190979a7947246e12fffe",
     "publishedAt": "2026-08-16T10:45:39.000Z",
-    "createdAt": "2026-08-16T13:34:50.026Z",
-    "updatedAt": "2026-08-16T13:34:50.026Z"
+    "createdAt": "2026-08-16T14:27:59.877Z",
+    "updatedAt": "2026-08-16T14:27:59.877Z"
   },
   {
     "id": "5c87bb7a015c32e6",
@@ -66,36 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a8187fb9a79472cca9ad1d5",
     "publishedAt": "2026-08-16T10:14:19.000Z",
-    "createdAt": "2026-08-16T13:34:48.893Z",
-    "updatedAt": "2026-08-16T13:34:48.893Z"
-  },
-  {
-    "id": "415eefc595bafc06",
-    "title": "Американка второй раз за сутки побила мировой рекорд в плавании",
-    "sport": "Другое",
-    "category": "Другие",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/6/88/347868720675886.jpeg",
-    "teaser": "Американка второй раз за сутки побила мировой рекорд в плавании",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a817dd89a79476cda9bd049",
-    "publishedAt": "2026-08-16T09:41:35.000Z",
-    "createdAt": "2026-08-16T13:34:52.077Z",
-    "updatedAt": "2026-08-16T13:34:52.077Z"
-  },
-  {
-    "id": "4ed3a4f25a88ebdd",
-    "title": "Месси не смог забить третий пенальти подряд",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/1/50/347868683240501.jpeg",
-    "teaser": "Месси не смог забить третий пенальти подряд",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a8170ed9a794758bb3ab933",
-    "publishedAt": "2026-08-16T08:54:51.000Z",
-    "createdAt": "2026-08-16T13:34:51.055Z",
-    "updatedAt": "2026-08-16T13:34:51.055Z"
+    "createdAt": "2026-08-16T14:27:57.836Z",
+    "updatedAt": "2026-08-16T14:27:57.836Z"
   },
   {
     "id": "fb52c39fad37e96a",
@@ -108,22 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6919b9759a7947139bb64b1b",
     "publishedAt": "2026-08-16T07:34:08.000Z",
-    "createdAt": "2026-08-16T13:34:54.175Z",
-    "updatedAt": "2026-08-16T13:34:54.175Z"
-  },
-  {
-    "id": "c76907e15c52e46e",
-    "title": "Махачев защитил титул в полусреднем весе и стал рекордсменом UFC",
-    "sport": "Единоборства",
-    "category": "Единоборства",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/8/91/347867184718918.jpeg",
-    "teaser": "Махачев защитил титул в полусреднем весе и стал рекордсменом UFC",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a7f262f9a794726f532ad09",
-    "publishedAt": "2026-08-16T04:25:55.000Z",
-    "createdAt": "2026-08-16T13:34:53.149Z",
-    "updatedAt": "2026-08-16T13:34:53.149Z"
+    "createdAt": "2026-08-16T14:28:00.922Z",
+    "updatedAt": "2026-08-16T14:28:00.922Z"
   },
   {
     "id": "be6aaaecce535167",
@@ -136,7 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a8037a69a7947217ccde153",
     "publishedAt": "2026-08-16T04:25:52.000Z",
-    "createdAt": "2026-08-16T13:34:55.266Z",
-    "updatedAt": "2026-08-16T13:34:55.266Z"
+    "createdAt": "2026-08-16T14:27:58.880Z",
+    "updatedAt": "2026-08-16T14:27:58.880Z"
   }
 ]
