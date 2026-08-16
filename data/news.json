@@ -1,5 +1,33 @@
 [
   {
+    "id": "adb8aac94bafd22d",
+    "title": "Российские гимнастки взяли две медали ЧМ в упражнениях с мячом",
+    "sport": "Другое",
+    "category": "Другие",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/5/30/347868806691305.png",
+    "teaser": "Российские гимнастки взяли две медали ЧМ в упражнениях с мячом",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a81a20a9a794739e57ee8c2",
+    "publishedAt": "2026-08-16T11:55:15.000Z",
+    "createdAt": "2026-08-16T12:48:31.256Z",
+    "updatedAt": "2026-08-16T12:48:31.256Z"
+  },
+  {
+    "id": "350600e82f125492",
+    "title": "«Самый тяжелый бой». Как Махачев побил рекорд и что «взбесило» главу UFC",
+    "sport": "Единоборства",
+    "category": "Единоборства",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/2/01/347868724332012.jpeg",
+    "teaser": "«Самый тяжелый бой». Как Махачев побил рекорд и что «взбесило» главу UFC",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a816c269a79472cca9ad1a0",
+    "publishedAt": "2026-08-16T11:06:03.000Z",
+    "createdAt": "2026-08-16T12:48:30.320Z",
+    "updatedAt": "2026-08-16T12:48:30.320Z"
+  },
+  {
     "id": "3b132ca397c049a6",
     "title": "Чемпион НХЛ и бывший одноклубник Овечкина перешел в минское «Динамо»",
     "sport": "Хоккей",
@@ -10,8 +38,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a8190979a7947246e12fffe",
     "publishedAt": "2026-08-16T10:45:39.000Z",
-    "createdAt": "2026-08-16T11:23:57.688Z",
-    "updatedAt": "2026-08-16T11:23:57.688Z"
+    "createdAt": "2026-08-16T12:48:33.301Z",
+    "updatedAt": "2026-08-16T12:48:33.301Z"
   },
   {
     "id": "5c87bb7a015c32e6",
@@ -24,8 +52,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a8187fb9a79472cca9ad1d5",
     "publishedAt": "2026-08-16T10:14:19.000Z",
-    "createdAt": "2026-08-16T11:23:56.657Z",
-    "updatedAt": "2026-08-16T11:23:56.657Z"
+    "createdAt": "2026-08-16T12:48:32.257Z",
+    "updatedAt": "2026-08-16T12:48:32.257Z"
   },
   {
     "id": "415eefc595bafc06",
@@ -38,8 +66,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a817dd89a79476cda9bd049",
     "publishedAt": "2026-08-16T09:41:35.000Z",
-    "createdAt": "2026-08-16T11:23:59.746Z",
-    "updatedAt": "2026-08-16T11:23:59.746Z"
+    "createdAt": "2026-08-16T12:48:35.424Z",
+    "updatedAt": "2026-08-16T12:48:35.424Z"
   },
   {
     "id": "4ed3a4f25a88ebdd",
@@ -52,8 +80,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a8170ed9a794758bb3ab933",
     "publishedAt": "2026-08-16T08:54:51.000Z",
-    "createdAt": "2026-08-16T11:23:58.697Z",
-    "updatedAt": "2026-08-16T11:23:58.697Z"
+    "createdAt": "2026-08-16T12:48:34.412Z",
+    "updatedAt": "2026-08-16T12:48:34.412Z"
   },
   {
     "id": "fb52c39fad37e96a",
@@ -66,22 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6919b9759a7947139bb64b1b",
     "publishedAt": "2026-08-16T07:34:08.000Z",
-    "createdAt": "2026-08-16T11:24:01.743Z",
-    "updatedAt": "2026-08-16T11:24:01.744Z"
-  },
-  {
-    "id": "0b0f5de6750ad074",
-    "title": "Глава UFC заявил, что его «взбесило» поведение соперника Махачева в бою",
-    "sport": "Единоборства",
-    "category": "Единоборства",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/6/49/347868627712496.jpeg",
-    "teaser": "Глава UFC заявил, что его «взбесило» поведение соперника Махачева в бою",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a815c109a794767384d21a8",
-    "publishedAt": "2026-08-16T07:24:56.000Z",
-    "createdAt": "2026-08-16T11:24:05.756Z",
-    "updatedAt": "2026-08-16T11:24:05.756Z"
+    "createdAt": "2026-08-16T12:48:37.428Z",
+    "updatedAt": "2026-08-16T12:48:37.428Z"
   },
   {
     "id": "d7d9ec110d7a50ea",
@@ -94,22 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a8153919a7947d1ad6cee0a",
     "publishedAt": "2026-08-16T07:03:26.000Z",
-    "createdAt": "2026-08-16T11:24:03.727Z",
-    "updatedAt": "2026-08-16T11:24:03.727Z"
-  },
-  {
-    "id": "3240606442ef6fc5",
-    "title": "Петр Ян проведет третий бой за титул UFC против Двалишвили",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/5/69/347868587693695.jpeg",
-    "teaser": "Петр Ян проведет третий бой за титул UFC против Двалишвили",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a814c779a794771703c51a6",
-    "publishedAt": "2026-08-16T06:45:48.000Z",
-    "createdAt": "2026-08-16T11:24:04.742Z",
-    "updatedAt": "2026-08-16T11:24:04.742Z"
+    "createdAt": "2026-08-16T12:48:39.486Z",
+    "updatedAt": "2026-08-16T12:48:39.486Z"
   },
   {
     "id": "c76907e15c52e46e",
@@ -122,8 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a7f262f9a794726f532ad09",
     "publishedAt": "2026-08-16T04:25:55.000Z",
-    "createdAt": "2026-08-16T11:24:00.774Z",
-    "updatedAt": "2026-08-16T11:24:00.774Z"
+    "createdAt": "2026-08-16T12:48:36.421Z",
+    "updatedAt": "2026-08-16T12:48:36.421Z"
   },
   {
     "id": "be6aaaecce535167",
@@ -136,7 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a8037a69a7947217ccde153",
     "publishedAt": "2026-08-16T04:25:52.000Z",
-    "createdAt": "2026-08-16T11:24:02.720Z",
-    "updatedAt": "2026-08-16T11:24:02.720Z"
+    "createdAt": "2026-08-16T12:48:38.474Z",
+    "updatedAt": "2026-08-16T12:48:38.474Z"
   }
 ]
