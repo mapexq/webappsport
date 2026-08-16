@@ -1,22 +1,6 @@
 [
   {
-    "id": 1786844445856,
-    "eventName": "Колорадо Рэпидз — Канзас-Сити",
-    "discipline": "Футбол",
-    "tournament": "Чемпионат",
-    "expert": {
-      "name": "Дмитрий Щелкунов",
-      "avatar": "https://bookmaker-ratings.ru/static/images/badges/is-kapper.svg?v=30092024",
-      "status": "expert",
-      "winRate": 88
-    },
-    "prediction": "Тотал меньше (3.5)",
-    "odds": 1.7,
-    "comment": "Думаю будет минимальная победа Колорадо 2:0 или 2:1",
-    "source": "Sports Analytics Pro"
-  },
-  {
-    "id": 1786844445857,
+    "id": 1786849462592,
     "eventName": "Зенит — Динамо Москва",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -32,7 +16,7 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1786844445858,
+    "id": 1786849462593,
     "eventName": "Зенит — Динамо Москва",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -48,7 +32,7 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1786844445859,
+    "id": 1786849462594,
     "eventName": "Зенит — Динамо Москва",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -64,7 +48,7 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1786844445860,
+    "id": 1786849462595,
     "eventName": "Крылья Советов — Динамо Махачкала",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -80,7 +64,7 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1786844445861,
+    "id": 1786849462596,
     "eventName": "Крылья Советов — Динамо Махачкала",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -96,7 +80,7 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1786844445862,
+    "id": 1786849462597,
     "eventName": "Расинг Сантандер — Вильярреал",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -112,23 +96,23 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1786844445863,
-    "eventName": "Матч",
+    "id": 1786849462598,
+    "eventName": "Балтика — Спартак Москва",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
     "expert": {
-      "name": "Колорадо Рэпидз",
-      "avatar": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=100&h=100&fit=crop",
+      "name": "Михаил Лубнин",
+      "avatar": "https://bookmaker-ratings.ru/static/images/badges/is-kapper.svg?v=30092024",
       "status": "expert",
-      "winRate": 76
+      "winRate": 71
     },
-    "prediction": "Тотал меньше (3.5)",
-    "odds": 1.7,
-    "comment": "Комментарий к прогнозу",
+    "prediction": "Тотал (3.5) М",
+    "odds": 1.27,
+    "comment": "Балтика очень неуступчивая команда дома,поэтому легкой прогулки Спартаку явно не предвидится. В последних 4 личных встречах в рамках РПЛ было забито 9 мячей, так что нас ждет упорная борьба",
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1786844445864,
+    "id": 1786849462599,
     "eventName": "Матч",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -144,7 +128,7 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1786844445865,
+    "id": 1786849462600,
     "eventName": "Матч",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -156,6 +140,22 @@
     },
     "prediction": "2Х",
     "odds": 1.54,
+    "comment": "Комментарий к прогнозу",
+    "source": "Sports Analytics Pro"
+  },
+  {
+    "id": 1786849462601,
+    "eventName": "Матч",
+    "discipline": "Футбол",
+    "tournament": "Чемпионат",
+    "expert": {
+      "name": "Бруну Гимараеш",
+      "avatar": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=100&h=100&fit=crop",
+      "status": "expert",
+      "winRate": 82
+    },
+    "prediction": "Андерсон - передачи - 75 и более",
+    "odds": 1.77,
     "comment": "Комментарий к прогнозу",
     "source": "Sports Analytics Pro"
   }
