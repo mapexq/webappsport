@@ -1,5 +1,19 @@
 [
   {
+    "id": "e114469fc13d5c1d",
+    "title": "Российский пловец взял бронзу ЧЕ на 100-метровке на спине",
+    "sport": "Другое",
+    "category": "Другие",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/4/69/347869012386694.jpeg",
+    "teaser": "Российский пловец взял бронзу ЧЕ на 100-метровке на спине",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a81f2a89a7947b1cebbfd7c",
+    "publishedAt": "2026-08-16T17:33:43.000Z",
+    "createdAt": "2026-08-16T18:35:27.379Z",
+    "updatedAt": "2026-08-16T18:35:27.379Z"
+  },
+  {
     "id": "68aee6f14a1a8b41",
     "title": "Даниил Медведев стартовал с победы на турнире «Мастерс» в Цинциннати",
     "sport": "Теннис",
@@ -10,8 +24,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a81acc19a794739e57ee8cd",
     "publishedAt": "2026-08-16T17:16:20.000Z",
-    "createdAt": "2026-08-16T17:23:03.595Z",
-    "updatedAt": "2026-08-16T17:23:03.595Z"
+    "createdAt": "2026-08-16T18:35:24.145Z",
+    "updatedAt": "2026-08-16T18:35:24.145Z"
   },
   {
     "id": "671ebb9b8f6b1810",
@@ -24,8 +38,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a81ec429a794703ba8236f1",
     "publishedAt": "2026-08-16T17:09:07.000Z",
-    "createdAt": "2026-08-16T17:23:04.657Z",
-    "updatedAt": "2026-08-16T17:23:04.657Z"
+    "createdAt": "2026-08-16T18:35:25.247Z",
+    "updatedAt": "2026-08-16T18:35:25.247Z"
   },
   {
     "id": "1e33acc9690f9477",
@@ -38,11 +52,11 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a81e8769a79479777672fd5",
     "publishedAt": "2026-08-16T16:59:15.000Z",
-    "createdAt": "2026-08-16T17:23:02.591Z",
-    "updatedAt": "2026-08-16T17:23:02.591Z"
+    "createdAt": "2026-08-16T18:35:23.125Z",
+    "updatedAt": "2026-08-16T18:35:23.125Z"
   },
   {
-    "id": "9b1de47e2cae5bfa",
+    "id": "1b4d2deea3c7b8a2",
     "title": "Мирра Андреева разгромила украинку на старте «тысячника» WTA в Цинциннати",
     "sport": "Теннис",
     "category": "Теннис",
@@ -51,9 +65,23 @@
     "fullContent": "",
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a81d6179a79477295f564fa",
-    "publishedAt": "2026-08-16T16:38:31.000Z",
-    "createdAt": "2026-08-16T17:23:05.772Z",
-    "updatedAt": "2026-08-16T17:23:05.772Z"
+    "publishedAt": "2026-08-16T16:38:32.000Z",
+    "createdAt": "2026-08-16T18:35:28.464Z",
+    "updatedAt": "2026-08-16T18:35:28.464Z"
+  },
+  {
+    "id": "3bbbf9fa402540dd",
+    "title": "Российские гимнастки выиграли командное многоборье и медальный зачет ЧЕ",
+    "sport": "Другое",
+    "category": "Другие",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/7/23/347868966003237.png",
+    "teaser": "Российские гимнастки выиграли командное многоборье и медальный зачет ЧЕ",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a81e0649a7947b1cebbfd5a",
+    "publishedAt": "2026-08-16T16:25:29.000Z",
+    "createdAt": "2026-08-16T18:35:30.531Z",
+    "updatedAt": "2026-08-16T18:35:30.531Z"
   },
   {
     "id": "494a475f995c27db",
@@ -66,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a81d6939a7947474101ce4f",
     "publishedAt": "2026-08-16T15:59:52.000Z",
-    "createdAt": "2026-08-16T17:23:07.987Z",
-    "updatedAt": "2026-08-16T17:23:07.987Z"
+    "createdAt": "2026-08-16T18:35:29.481Z",
+    "updatedAt": "2026-08-16T18:35:29.481Z"
   },
   {
     "id": "722fcd08053eb9ab",
@@ -80,22 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a81cd069a79473803387bc6",
     "publishedAt": "2026-08-16T14:59:48.000Z",
-    "createdAt": "2026-08-16T17:23:08.982Z",
-    "updatedAt": "2026-08-16T17:23:08.982Z"
-  },
-  {
-    "id": "a5b9e6ffe561c78d",
-    "title": "Российская гимнастка взяла бронзу ЧМ в упражнениях с булавами",
-    "sport": "Другое",
-    "category": "Другие",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/9/07/347868906930079.png",
-    "teaser": "Российская гимнастка взяла бронзу ЧМ в упражнениях с булавами",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a81c7d79a7947168f8267d8",
-    "publishedAt": "2026-08-16T14:35:29.000Z",
-    "createdAt": "2026-08-16T17:23:12.201Z",
-    "updatedAt": "2026-08-16T17:23:12.201Z"
+    "createdAt": "2026-08-16T18:35:31.579Z",
+    "updatedAt": "2026-08-16T18:35:31.579Z"
   },
   {
     "id": "b997a5759ecf82a4",
@@ -108,22 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a81c2a79a794740312bde2f",
     "publishedAt": "2026-08-16T14:18:50.000Z",
-    "createdAt": "2026-08-16T17:23:09.980Z",
-    "updatedAt": "2026-08-16T17:23:09.980Z"
-  },
-  {
-    "id": "efe8bf549db04074",
-    "title": "Защитник ЦСКА серьезно травмировал колено в матче РПЛ",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/8/72/347868881317728.png",
-    "teaser": "Защитник ЦСКА серьезно травмировал колено в матче РПЛ",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a81be879a794724c62069d3",
-    "publishedAt": "2026-08-16T14:00:01.000Z",
-    "createdAt": "2026-08-16T17:23:11.045Z",
-    "updatedAt": "2026-08-16T17:23:11.045Z"
+    "createdAt": "2026-08-16T18:35:32.678Z",
+    "updatedAt": "2026-08-16T18:35:32.678Z"
   },
   {
     "id": "350600e82f125492",
@@ -136,7 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a816c269a79472cca9ad1a0",
     "publishedAt": "2026-08-16T11:06:03.000Z",
-    "createdAt": "2026-08-16T17:23:06.822Z",
-    "updatedAt": "2026-08-16T17:23:06.822Z"
+    "createdAt": "2026-08-16T18:35:26.354Z",
+    "updatedAt": "2026-08-16T18:35:26.354Z"
   }
 ]
