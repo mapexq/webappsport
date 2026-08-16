@@ -1,5 +1,61 @@
 [
   {
+    "id": "68aee6f14a1a8b41",
+    "title": "Даниил Медведев стартовал с победы на турнире «Мастерс» в Цинциннати",
+    "sport": "Теннис",
+    "category": "Теннис",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/7/24/347868833971247.jpeg",
+    "teaser": "Даниил Медведев стартовал с победы на турнире «Мастерс» в Цинциннати",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a81acc19a794739e57ee8cd",
+    "publishedAt": "2026-08-16T17:16:20.000Z",
+    "createdAt": "2026-08-16T17:23:03.595Z",
+    "updatedAt": "2026-08-16T17:23:03.595Z"
+  },
+  {
+    "id": "671ebb9b8f6b1810",
+    "title": "Российский пловец взял бронзу на ЧЕ с рекордом мира среди юниоров",
+    "sport": "Другое",
+    "category": "Другие",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/7/81/347868998676817.jpeg",
+    "teaser": "Российский пловец взял бронзу на ЧЕ с рекордом мира среди юниоров",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a81ec429a794703ba8236f1",
+    "publishedAt": "2026-08-16T17:09:07.000Z",
+    "createdAt": "2026-08-16T17:23:04.657Z",
+    "updatedAt": "2026-08-16T17:23:04.657Z"
+  },
+  {
+    "id": "1e33acc9690f9477",
+    "title": "Российский пловец уступил украинцу в борьбе за золото на ЧЕ",
+    "sport": "Другое",
+    "category": "Другие",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/8/85/347868992457858.png",
+    "teaser": "Российский пловец уступил украинцу в борьбе за золото на ЧЕ",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a81e8769a79479777672fd5",
+    "publishedAt": "2026-08-16T16:59:15.000Z",
+    "createdAt": "2026-08-16T17:23:02.591Z",
+    "updatedAt": "2026-08-16T17:23:02.591Z"
+  },
+  {
+    "id": "9b1de47e2cae5bfa",
+    "title": "Мирра Андреева разгромила украинку на старте «тысячника» WTA в Цинциннати",
+    "sport": "Теннис",
+    "category": "Теннис",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/6/44/347868938849446.jpeg",
+    "teaser": "Мирра Андреева разгромила украинку на старте «тысячника» WTA в Цинциннати",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a81d6179a79477295f564fa",
+    "publishedAt": "2026-08-16T16:38:31.000Z",
+    "createdAt": "2026-08-16T17:23:05.772Z",
+    "updatedAt": "2026-08-16T17:23:05.772Z"
+  },
+  {
     "id": "494a475f995c27db",
     "title": "«Арсенал» выиграл Суперкубок Англии, забив самый быстрый гол",
     "sport": "Футбол",
@@ -10,22 +66,22 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a81d6939a7947474101ce4f",
     "publishedAt": "2026-08-16T15:59:52.000Z",
-    "createdAt": "2026-08-16T16:30:46.231Z",
-    "updatedAt": "2026-08-16T16:30:46.231Z"
+    "createdAt": "2026-08-16T17:23:07.987Z",
+    "updatedAt": "2026-08-16T17:23:07.987Z"
   },
   {
-    "id": "b34bc9f658c51188",
-    "title": "Роналду назвал предстоящий сезон «вероятно, последним» в футболе",
+    "id": "722fcd08053eb9ab",
+    "title": "Роналду назвал предстоящий сезон, «вероятно, последним» в футболе",
     "sport": "Футбол",
     "category": "Футбол",
     "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/0/63/347868921493630.jpeg",
-    "teaser": "Роналду назвал предстоящий сезон «вероятно, последним» в футболе",
+    "teaser": "Роналду назвал предстоящий сезон, «вероятно, последним» в футболе",
     "fullContent": "",
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a81cd069a79473803387bc6",
     "publishedAt": "2026-08-16T14:59:48.000Z",
-    "createdAt": "2026-08-16T16:30:47.249Z",
-    "updatedAt": "2026-08-16T16:30:47.249Z"
+    "createdAt": "2026-08-16T17:23:08.982Z",
+    "updatedAt": "2026-08-16T17:23:08.982Z"
   },
   {
     "id": "a5b9e6ffe561c78d",
@@ -38,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a81c7d79a7947168f8267d8",
     "publishedAt": "2026-08-16T14:35:29.000Z",
-    "createdAt": "2026-08-16T16:30:50.288Z",
-    "updatedAt": "2026-08-16T16:30:50.288Z"
+    "createdAt": "2026-08-16T17:23:12.201Z",
+    "updatedAt": "2026-08-16T17:23:12.201Z"
   },
   {
     "id": "b997a5759ecf82a4",
@@ -52,8 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a81c2a79a794740312bde2f",
     "publishedAt": "2026-08-16T14:18:50.000Z",
-    "createdAt": "2026-08-16T16:30:48.272Z",
-    "updatedAt": "2026-08-16T16:30:48.272Z"
+    "createdAt": "2026-08-16T17:23:09.980Z",
+    "updatedAt": "2026-08-16T17:23:09.980Z"
   },
   {
     "id": "efe8bf549db04074",
@@ -66,50 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a81be879a794724c62069d3",
     "publishedAt": "2026-08-16T14:00:01.000Z",
-    "createdAt": "2026-08-16T16:30:51.422Z",
-    "updatedAt": "2026-08-16T16:30:51.422Z"
-  },
-  {
-    "id": "fc250ccf09e66b0d",
-    "title": "Тысячи зрителей застряли на арене ЧЕ в Англии из-за полицейской операции",
-    "sport": "Другое",
-    "category": "Другие",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/9/04/347868867030049.jpeg",
-    "teaser": "Тысячи зрителей застряли на арене ЧЕ в Англии из-за полицейской операции",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a81b4b69a79470725d6706a",
-    "publishedAt": "2026-08-16T13:41:58.000Z",
-    "createdAt": "2026-08-16T16:30:52.526Z",
-    "updatedAt": "2026-08-16T16:30:52.526Z"
-  },
-  {
-    "id": "90ef00462a87b9b7",
-    "title": "«Зенит» впервые с 2021 года разгромил «Динамо» в РПЛ",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/2/85/347868844753852.png",
-    "teaser": "«Зенит» впервые с 2021 года разгромил «Динамо» в РПЛ",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a819d2c9a794758bb3ab9c6",
-    "publishedAt": "2026-08-16T13:31:13.000Z",
-    "createdAt": "2026-08-16T16:30:53.657Z",
-    "updatedAt": "2026-08-16T16:30:53.657Z"
-  },
-  {
-    "id": "adb8aac94bafd22d",
-    "title": "Российские гимнастки взяли две медали ЧМ в упражнениях с мячом",
-    "sport": "Другое",
-    "category": "Другие",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/5/30/347868806691305.png",
-    "teaser": "Российские гимнастки взяли две медали ЧМ в упражнениях с мячом",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a81a20a9a794739e57ee8c2",
-    "publishedAt": "2026-08-16T11:55:15.000Z",
-    "createdAt": "2026-08-16T16:30:54.796Z",
-    "updatedAt": "2026-08-16T16:30:54.796Z"
+    "createdAt": "2026-08-16T17:23:11.045Z",
+    "updatedAt": "2026-08-16T17:23:11.045Z"
   },
   {
     "id": "350600e82f125492",
@@ -122,21 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a816c269a79472cca9ad1a0",
     "publishedAt": "2026-08-16T11:06:03.000Z",
-    "createdAt": "2026-08-16T16:30:49.354Z",
-    "updatedAt": "2026-08-16T16:30:49.354Z"
-  },
-  {
-    "id": "5c87bb7a015c32e6",
-    "title": "Российские пловцы выступят в шести финалах дня на ЧЕ в Париже",
-    "sport": "Другое",
-    "category": "Другие",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/4/06/347868738895064.jpeg",
-    "teaser": "Российские пловцы выступят в шести финалах дня на ЧЕ в Париже",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a8187fb9a79472cca9ad1d5",
-    "publishedAt": "2026-08-16T10:14:19.000Z",
-    "createdAt": "2026-08-16T16:30:55.939Z",
-    "updatedAt": "2026-08-16T16:30:55.939Z"
+    "createdAt": "2026-08-16T17:23:06.822Z",
+    "updatedAt": "2026-08-16T17:23:06.822Z"
   }
 ]
