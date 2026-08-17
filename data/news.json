@@ -1,5 +1,33 @@
 [
   {
+    "id": "cbbc02ea1e836453",
+    "title": "Чемпион России успел получить визу на ЧЕ по спортивной гимнастике",
+    "sport": "Другое",
+    "category": "Другие",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/4/34/347869760289344.jpeg",
+    "teaser": "Чемпион России успел получить визу на ЧЕ по спортивной гимнастике",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a83119c9a79479a2e230957",
+    "publishedAt": "2026-08-17T14:18:51.000Z",
+    "createdAt": "2026-08-17T14:32:48.147Z",
+    "updatedAt": "2026-08-17T14:32:48.147Z"
+  },
+  {
+    "id": "c3788cb3123f1b78",
+    "title": "«Локомотив» извинился перед журналистом за нападение охранников",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/7/60/347869742281607.jpeg",
+    "teaser": "«Локомотив» извинился перед журналистом за нападение охранников",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a830bf19a79477f257e967b",
+    "publishedAt": "2026-08-17T14:14:43.000Z",
+    "createdAt": "2026-08-17T14:32:49.177Z",
+    "updatedAt": "2026-08-17T14:32:49.177Z"
+  },
+  {
     "id": "f9ddaef852cd7506",
     "title": "Шотландия отказалась поддерживать Инфантино на выборах главы ФИФА",
     "sport": "Футбол",
@@ -10,8 +38,36 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a8307919a7947a7ab37316f",
     "publishedAt": "2026-08-17T13:37:07.000Z",
-    "createdAt": "2026-08-17T13:42:20.694Z",
-    "updatedAt": "2026-08-17T13:42:20.694Z"
+    "createdAt": "2026-08-17T14:32:51.280Z",
+    "updatedAt": "2026-08-17T14:32:51.280Z"
+  },
+  {
+    "id": "0c21adaf42facec3",
+    "title": "Вратарь «Спартака» стал лучшим по сейвам на старте РПЛ",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/5/56/347869721043565.jpeg",
+    "teaser": "Вратарь «Спартака» стал лучшим по сейвам на старте РПЛ",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a8304d79a79471e8dd95f85",
+    "publishedAt": "2026-08-17T13:31:35.000Z",
+    "createdAt": "2026-08-17T14:32:53.156Z",
+    "updatedAt": "2026-08-17T14:32:53.156Z"
+  },
+  {
+    "id": "5b8d5491eff2e5c2",
+    "title": "Один из лучших велогонщиков завершил сезон после травмы на «Тур де Франс»",
+    "sport": "Другое",
+    "category": "Другие",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/1/92/347869727312921.png",
+    "teaser": "Один из лучших велогонщиков завершил сезон после травмы на «Тур де Франс»",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a8306d79a79472a5e997bc1",
+    "publishedAt": "2026-08-17T13:25:11.000Z",
+    "createdAt": "2026-08-17T14:32:52.178Z",
+    "updatedAt": "2026-08-17T14:32:52.178Z"
   },
   {
     "id": "75d33d1948a6e18a",
@@ -24,8 +80,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a82fb3a9a7947805db0fef1",
     "publishedAt": "2026-08-17T12:53:00.000Z",
-    "createdAt": "2026-08-17T13:42:23.651Z",
-    "updatedAt": "2026-08-17T13:42:23.651Z"
+    "createdAt": "2026-08-17T14:32:55.292Z",
+    "updatedAt": "2026-08-17T14:32:55.292Z"
   },
   {
     "id": "18e50c61a68250d6",
@@ -38,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a82fbe99a79475a71059312",
     "publishedAt": "2026-08-17T12:40:01.000Z",
-    "createdAt": "2026-08-17T13:42:21.694Z",
-    "updatedAt": "2026-08-17T13:42:21.694Z"
+    "createdAt": "2026-08-17T14:32:54.198Z",
+    "updatedAt": "2026-08-17T14:32:54.198Z"
   },
   {
     "id": "bfd0837d46f265d8",
@@ -52,8 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a82f0729a79474bd43ffafd",
     "publishedAt": "2026-08-17T12:03:36.000Z",
-    "createdAt": "2026-08-17T13:42:24.683Z",
-    "updatedAt": "2026-08-17T13:42:24.683Z"
+    "createdAt": "2026-08-17T14:32:56.387Z",
+    "updatedAt": "2026-08-17T14:32:56.387Z"
   },
   {
     "id": "7536940e3a816a7f",
@@ -66,36 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a82ed179a79473c31432f9f",
     "publishedAt": "2026-08-17T11:36:10.000Z",
-    "createdAt": "2026-08-17T13:42:25.683Z",
-    "updatedAt": "2026-08-17T13:42:25.683Z"
-  },
-  {
-    "id": "18529c3ed4d7b00b",
-    "title": "Сменившая гражданство российская пловчиха ушла из спорта",
-    "sport": "Другое",
-    "category": "Другие",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/1/05/347869617476051.jpeg",
-    "teaser": "Сменившая гражданство российская пловчиха ушла из спорта",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a82df1a9a79475a7105929b",
-    "publishedAt": "2026-08-17T11:06:15.000Z",
-    "createdAt": "2026-08-17T13:42:26.691Z",
-    "updatedAt": "2026-08-17T13:42:26.691Z"
-  },
-  {
-    "id": "d3c95106735da7ba",
-    "title": "Игрок Серии А попал в больницу, после того как чуть не утонул в бассейне",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/6/67/347869615159676.jpeg",
-    "teaser": "Игрок Серии А попал в больницу, после того как чуть не утонул в бассейне",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a82d8259a794765305b55fb",
-    "publishedAt": "2026-08-17T10:26:40.000Z",
-    "createdAt": "2026-08-17T13:42:27.695Z",
-    "updatedAt": "2026-08-17T13:42:27.695Z"
+    "createdAt": "2026-08-17T14:32:57.494Z",
+    "updatedAt": "2026-08-17T14:32:57.494Z"
   },
   {
     "id": "be727a6e67038ec6",
@@ -108,35 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a82d7b49a7947ca64b5ad54",
     "publishedAt": "2026-08-17T09:50:44.000Z",
-    "createdAt": "2026-08-17T13:42:22.705Z",
-    "updatedAt": "2026-08-17T13:42:22.705Z"
-  },
-  {
-    "id": "b92711aaed67b998",
-    "title": "Схватку Шары Буллета и Шлеменко на турнире RAF в Москве отменили",
-    "sport": "Единоборства",
-    "category": "Единоборства",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/8/98/347869581270988.png",
-    "teaser": "Схватку Шары Буллета и Шлеменко на турнире RAF в Москве отменили",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a82d04c9a79475a71059240",
-    "publishedAt": "2026-08-17T09:34:00.000Z",
-    "createdAt": "2026-08-17T13:42:28.592Z",
-    "updatedAt": "2026-08-17T13:42:28.592Z"
-  },
-  {
-    "id": "4771e35f3763adf8",
-    "title": "Гроссмейстер остался без $45 тыс. после технического сбоя на турнире",
-    "sport": "Другое",
-    "category": "Другие",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/8/45/347869570836458.jpeg",
-    "teaser": "Гроссмейстер остался без $45 тыс. после технического сбоя на турнире",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a82c03d9a7947af068d8094",
-    "publishedAt": "2026-08-17T09:28:06.000Z",
-    "createdAt": "2026-08-17T13:42:29.599Z",
-    "updatedAt": "2026-08-17T13:42:29.599Z"
+    "createdAt": "2026-08-17T14:32:50.283Z",
+    "updatedAt": "2026-08-17T14:32:50.283Z"
   }
 ]
