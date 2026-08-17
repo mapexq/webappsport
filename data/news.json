@@ -1,5 +1,47 @@
 [
   {
+    "id": "cbeab226f2abfd80",
+    "title": "Тренер Махачева назвал одним из самых сложных бой против Гэрри",
+    "sport": "Единоборства",
+    "category": "Единоборства",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/6/09/347869525376096.jpeg",
+    "teaser": "Тренер Махачева назвал одним из самых сложных бой против Гэрри",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a82b80a9a7947017219fa2c",
+    "publishedAt": "2026-08-17T07:49:46.000Z",
+    "createdAt": "2026-08-17T08:49:33.686Z",
+    "updatedAt": "2026-08-17T08:49:33.686Z"
+  },
+  {
+    "id": "5fe1ea44281aa79c",
+    "title": "Россиянин Демин сыграл вс актером Тимоти Шаламе",
+    "sport": "Баскетбол",
+    "category": "Баскетбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/2/71/347869497270712.jpeg",
+    "teaser": "Россиянин Демин сыграл вс актером Тимоти Шаламе",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a82ab969a79475db238faab",
+    "publishedAt": "2026-08-17T07:14:56.000Z",
+    "createdAt": "2026-08-17T08:49:35.861Z",
+    "updatedAt": "2026-08-17T08:49:35.861Z"
+  },
+  {
+    "id": "cbf6f8acca744697",
+    "title": "Трое россиян вошли в топ-5 рейтинга лучших голкиперов НХЛ",
+    "sport": "Хоккей",
+    "category": "Хоккей",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/6/80/347869477603806.jpeg",
+    "teaser": "Трое россиян вошли в топ-5 рейтинга лучших голкиперов НХЛ",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a82a4969a7947119b8bee0d",
+    "publishedAt": "2026-08-17T07:06:19.000Z",
+    "createdAt": "2026-08-17T08:49:34.816Z",
+    "updatedAt": "2026-08-17T08:49:34.816Z"
+  },
+  {
     "id": "3d5974635cc92f6e",
     "title": "ПСЖ с Сафоновым впервые за пять лет не смог выиграть Суперкубок Франции",
     "sport": "Футбол",
@@ -10,8 +52,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a819f759a794758bb3ab9ca",
     "publishedAt": "2026-08-16T20:47:44.000Z",
-    "createdAt": "2026-08-17T07:04:22.784Z",
-    "updatedAt": "2026-08-17T07:04:22.784Z"
+    "createdAt": "2026-08-17T08:49:36.977Z",
+    "updatedAt": "2026-08-17T08:49:36.977Z"
   },
   {
     "id": "618f6ff819c0e1ba",
@@ -24,8 +66,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a81f20a9a7947960cc7b000",
     "publishedAt": "2026-08-16T18:39:56.000Z",
-    "createdAt": "2026-08-17T07:04:23.726Z",
-    "updatedAt": "2026-08-17T07:04:23.726Z"
+    "createdAt": "2026-08-17T08:49:38.099Z",
+    "updatedAt": "2026-08-17T08:49:38.099Z"
   },
   {
     "id": "2800275feed1b707",
@@ -38,22 +80,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a81fd229a7947168f826809",
     "publishedAt": "2026-08-16T18:30:24.000Z",
-    "createdAt": "2026-08-17T07:04:25.013Z",
-    "updatedAt": "2026-08-17T07:04:25.013Z"
-  },
-  {
-    "id": "e114469fc13d5c1d",
-    "title": "Российский пловец взял бронзу ЧЕ на 100-метровке на спине",
-    "sport": "Другое",
-    "category": "Другие",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/4/69/347869012386694.jpeg",
-    "teaser": "Российский пловец взял бронзу ЧЕ на 100-метровке на спине",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a81f2a89a7947b1cebbfd7c",
-    "publishedAt": "2026-08-16T17:33:43.000Z",
-    "createdAt": "2026-08-17T07:04:32.073Z",
-    "updatedAt": "2026-08-17T07:04:32.073Z"
+    "createdAt": "2026-08-17T08:49:39.199Z",
+    "updatedAt": "2026-08-17T08:49:39.199Z"
   },
   {
     "id": "68aee6f14a1a8b41",
@@ -66,22 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a81acc19a794739e57ee8cd",
     "publishedAt": "2026-08-16T17:16:20.000Z",
-    "createdAt": "2026-08-17T07:04:29.066Z",
-    "updatedAt": "2026-08-17T07:04:29.066Z"
-  },
-  {
-    "id": "671ebb9b8f6b1810",
-    "title": "Российский пловец взял бронзу на ЧЕ с рекордом мира среди юниоров",
-    "sport": "Другое",
-    "category": "Другие",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/7/81/347868998676817.jpeg",
-    "teaser": "Российский пловец взял бронзу на ЧЕ с рекордом мира среди юниоров",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a81ec429a794703ba8236f1",
-    "publishedAt": "2026-08-16T17:09:07.000Z",
-    "createdAt": "2026-08-17T07:04:30.047Z",
-    "updatedAt": "2026-08-17T07:04:30.047Z"
+    "createdAt": "2026-08-17T08:49:43.645Z",
+    "updatedAt": "2026-08-17T08:49:43.645Z"
   },
   {
     "id": "1e33acc9690f9477",
@@ -94,22 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a81e8769a79479777672fd5",
     "publishedAt": "2026-08-16T16:59:15.000Z",
-    "createdAt": "2026-08-17T07:04:28.081Z",
-    "updatedAt": "2026-08-17T07:04:28.081Z"
-  },
-  {
-    "id": "1b4d2deea3c7b8a2",
-    "title": "Мирра Андреева разгромила украинку на старте «тысячника» WTA в Цинциннати",
-    "sport": "Теннис",
-    "category": "Теннис",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/6/44/347868938849446.jpeg",
-    "teaser": "Мирра Андреева разгромила украинку на старте «тысячника» WTA в Цинциннати",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a81d6179a79477295f564fa",
-    "publishedAt": "2026-08-16T16:38:32.000Z",
-    "createdAt": "2026-08-17T07:04:31.070Z",
-    "updatedAt": "2026-08-17T07:04:31.070Z"
+    "createdAt": "2026-08-17T08:49:42.513Z",
+    "updatedAt": "2026-08-17T08:49:42.513Z"
   },
   {
     "id": "722fcd08053eb9ab",
@@ -122,8 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a81cd069a79473803387bc6",
     "publishedAt": "2026-08-16T14:59:48.000Z",
-    "createdAt": "2026-08-17T07:04:27.054Z",
-    "updatedAt": "2026-08-17T07:04:27.054Z"
+    "createdAt": "2026-08-17T08:49:41.451Z",
+    "updatedAt": "2026-08-17T08:49:41.451Z"
   },
   {
     "id": "350600e82f125492",
@@ -136,7 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a816c269a79472cca9ad1a0",
     "publishedAt": "2026-08-16T11:06:03.000Z",
-    "createdAt": "2026-08-17T07:04:26.041Z",
-    "updatedAt": "2026-08-17T07:04:26.041Z"
+    "createdAt": "2026-08-17T08:49:40.301Z",
+    "updatedAt": "2026-08-17T08:49:40.301Z"
   }
 ]
