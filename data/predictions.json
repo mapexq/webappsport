@@ -1,6 +1,6 @@
 [
   {
-    "id": 1786922637961,
+    "id": 1786930697183,
     "eventName": "Матч",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -16,15 +16,15 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1786922637963,
+    "id": 1786930697184,
     "eventName": "Ланс — ПСЖ",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
     "expert": {
-      "name": "АПАлександр ПавловAAAndrey AgapovАй Джи",
+      "name": "АПАлександр ПавловАй ДжиAAAndrey Agapov",
       "avatar": "https://static-uploads.prod.bookmaker-ratings.ru/2016/10/aj-dzhi.png",
       "status": "expert",
-      "winRate": 71
+      "winRate": 85
     },
     "prediction": "X2 и ТМ (3,5)",
     "odds": 2.02,
@@ -32,7 +32,7 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1786922637964,
+    "id": 1786930697185,
     "eventName": "Ланс — ПСЖ",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -48,7 +48,7 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1786922637965,
+    "id": 1786930697186,
     "eventName": "Арсенал — Манчестер Сити",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
