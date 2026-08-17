@@ -1,22 +1,6 @@
 [
   {
-    "id": 1786977161257,
-    "eventName": "Полесье — Заря",
-    "discipline": "Футбол",
-    "tournament": "Чемпионат",
-    "expert": {
-      "name": "Вита Журенко",
-      "avatar": "https://bookmaker-ratings.ru/static/images/badges/is-kapper.svg?v=30092024",
-      "status": "expert",
-      "winRate": 83
-    },
-    "prediction": "Обе забьют (Да)",
-    "odds": 2.01,
-    "comment": "Думаю будет интересная игра и команды смогут забить",
-    "source": "Sports Analytics Pro"
-  },
-  {
-    "id": 1786977161258,
+    "id": 1786980577341,
     "eventName": "Карабах — Шамахи",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -32,7 +16,7 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1786977161259,
+    "id": 1786980577342,
     "eventName": "Спартак Кострома — Уфа",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -48,7 +32,7 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1786977161260,
+    "id": 1786980577343,
     "eventName": "Спартак Кострома — Уфа",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -64,7 +48,7 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1786977161261,
+    "id": 1786980577344,
     "eventName": "Спартак Кострома — Уфа",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -80,7 +64,7 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1786977161262,
+    "id": 1786980577345,
     "eventName": "Спартак Кострома — Уфа",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -96,7 +80,7 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1786977161263,
+    "id": 1786980577346,
     "eventName": "Матч",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -112,7 +96,7 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1786977161264,
+    "id": 1786980577347,
     "eventName": "Спартак Кострома — Уфа",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -128,7 +112,7 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1786977161265,
+    "id": 1786980577348,
     "eventName": "Кремонезе — Сампдория",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -144,7 +128,7 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1786977161266,
+    "id": 1786980577349,
     "eventName": "Кремонезе — Сампдория",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -157,6 +141,22 @@
     "prediction": "Тотал Сампдория больше (0.5)",
     "odds": 1.53,
     "comment": "В 4 из 5 последних встреч, сампдория забивала, думаю и в этой встрече забьет.",
+    "source": "Sports Analytics Pro"
+  },
+  {
+    "id": 1786980577350,
+    "eventName": "Депортиво Ла-Корунья — Эльче",
+    "discipline": "Футбол",
+    "tournament": "Чемпионат",
+    "expert": {
+      "name": "Akhmad Akhokhov",
+      "avatar": "https://bookmaker-ratings.ru/static/images/badges/is-kapper.svg?v=30092024",
+      "status": "expert",
+      "winRate": 73
+    },
+    "prediction": "Обе забьют (Да)",
+    "odds": 1.99,
+    "comment": "Комментарий к прогнозу",
     "source": "Sports Analytics Pro"
   }
 ]
