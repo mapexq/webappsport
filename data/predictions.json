@@ -1,102 +1,6 @@
 [
   {
-    "id": 1786984354637,
-    "eventName": "Спартак Кострома — Уфа",
-    "discipline": "Футбол",
-    "tournament": "Чемпионат",
-    "expert": {
-      "name": "Александр Павлов",
-      "avatar": "https://bookmaker-ratings.ru/static/images/badges/is-kapper.svg?v=30092024",
-      "status": "expert",
-      "winRate": 72
-    },
-    "prediction": "Обе забьют - Да",
-    "odds": 2.1,
-    "comment": "Встречаются две команды неплохо проводящие начало сезона, Спартак Кострома забивает по несколько голов почти во всех своих матчах в этом сезоне. Уфа тоже крепкая команда, в прошлой игре забили даже в меньшинстве. Будет хорошая игра и команды обменяются голами.",
-    "source": "Sports Analytics Pro"
-  },
-  {
-    "id": 1786984354638,
-    "eventName": "Спартак Кострома — Уфа",
-    "discipline": "Футбол",
-    "tournament": "Чемпионат",
-    "expert": {
-      "name": "Akhmad Akhokhov",
-      "avatar": "https://bookmaker-ratings.ru/static/images/badges/is-kapper.svg?v=30092024",
-      "status": "expert",
-      "winRate": 73
-    },
-    "prediction": "Обе забьют (Нет)",
-    "odds": 1.71,
-    "comment": "В очных встречах команды не обмениваются годами, то есть бывало сухая победа Спартака либо Уфы, поэтому думаю и в этот раз будет так же",
-    "source": "Sports Analytics Pro"
-  },
-  {
-    "id": 1786984354639,
-    "eventName": "Спартак Кострома — Уфа",
-    "discipline": "Футбол",
-    "tournament": "Чемпионат",
-    "expert": {
-      "name": "Andrey Agapov",
-      "avatar": "https://bookmaker-ratings.ru/static/images/badges/is-kapper.svg?v=30092024",
-      "status": "expert",
-      "winRate": 79
-    },
-    "prediction": "Тотал (2) Б",
-    "odds": 1.63,
-    "comment": "Спартак кострома дома, а Уфа в гостях ччастенько пробивают данный тотал",
-    "source": "Sports Analytics Pro"
-  },
-  {
-    "id": 1786984354640,
-    "eventName": "Спартак Кострома — Уфа",
-    "discipline": "Футбол",
-    "tournament": "Чемпионат",
-    "expert": {
-      "name": "Алим Калибатов",
-      "avatar": "https://static-uploads.prod.bookmaker-ratings.ru/2026/04/3dcfa3e614753a9566b9342464293-rb-webp-69d34c667554e-69d34c667cd17.webp?width=60",
-      "status": "expert",
-      "winRate": 73
-    },
-    "prediction": "Индивидуальный тотал 1 Больше (1.5)",
-    "odds": 1.94,
-    "comment": "Костромской \"Спартак\" играет в этом сезоне очень ярко и результативно. Атака в лице Калмыкова, Караева просто, как говорится, не чувствует эту лигу. Уверен, что в ворота Уфы влетит не меньше двух голов за 1.94.",
-    "source": "Sports Analytics Pro"
-  },
-  {
-    "id": 1786984354641,
-    "eventName": "Матч",
-    "discipline": "Футбол",
-    "tournament": "Чемпионат",
-    "expert": {
-      "name": "Александр Карпов",
-      "avatar": "https://static-uploads.prod.bookmaker-ratings.ru/2026/07/1000003509-rb-webp-6a55df313f2ef-6a55df314278d.webp?width=60",
-      "status": "expert",
-      "winRate": 85
-    },
-    "prediction": "Фора 1 (-4.5) (геймы)",
-    "odds": 1.75,
-    "comment": "Диана возьмет убедительный реванш за поражение в 1/2 Ролан Гарроса. Кроме цепкости Хвалинска ей противопоставить нечего",
-    "source": "Sports Analytics Pro"
-  },
-  {
-    "id": 1786984354642,
-    "eventName": "Спартак Кострома — Уфа",
-    "discipline": "Футбол",
-    "tournament": "Чемпионат",
-    "expert": {
-      "name": "Юра Юра",
-      "avatar": "https://bookmaker-ratings.ru/static/images/badges/is-kapper.svg?v=30092024",
-      "status": "expert",
-      "winRate": 70
-    },
-    "prediction": "Тотал больше (2)",
-    "odds": 1.63,
-    "comment": "Последний матч тура в понедельник.\nСпартак после победы в Хабаровске, на положительных эмоциях, больше недели уже в Москве, должны были перестроиться после часовых разниц.\nУфа живая, горячая команда, здорово выбегает и может забить. В прошлом туре в Екатеринбурге была штанга, при 0:0, а так кто его знает как развивалась бы игра.\nКострома, конечно фаворит, Калмыков в прайм-форме, много забивает, команде прёт, но возьму голы в этом матче.",
-    "source": "Sports Analytics Pro"
-  },
-  {
-    "id": 1786984354643,
+    "id": 1786987851025,
     "eventName": "Кремонезе — Сампдория",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -112,7 +16,7 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1786984354644,
+    "id": 1786987851027,
     "eventName": "Кремонезе — Сампдория",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -128,7 +32,7 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1786984354645,
+    "id": 1786987851028,
     "eventName": "Депортиво Ла-Корунья — Эльче",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -144,7 +48,7 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1786984354646,
+    "id": 1786987851029,
     "eventName": "Депортиво Ла-Корунья — Эльче",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -157,6 +61,102 @@
     "prediction": "Тотал больше (2)",
     "odds": 1.7,
     "comment": "Старт сезона надеюсь на игру в атаку и Тотал 3 гола.",
+    "source": "Sports Analytics Pro"
+  },
+  {
+    "id": 1786987851030,
+    "eventName": "Каса Пия — Бенфика",
+    "discipline": "Футбол",
+    "tournament": "Чемпионат",
+    "expert": {
+      "name": "Наталья Никулина",
+      "avatar": "https://bookmaker-ratings.ru/static/images/badges/is-kapper.svg?v=30092024",
+      "status": "expert",
+      "winRate": 69
+    },
+    "prediction": "Тотал (3) Б",
+    "odds": 1.9,
+    "comment": "Комментарий к прогнозу",
+    "source": "Sports Analytics Pro"
+  },
+  {
+    "id": 1786987851031,
+    "eventName": "Каса Пия — Бенфика",
+    "discipline": "Футбол",
+    "tournament": "Чемпионат",
+    "expert": {
+      "name": "Alex Fox",
+      "avatar": "https://bookmaker-ratings.ru/static/images/badges/is-kapper.svg?v=30092024",
+      "status": "expert",
+      "winRate": 79
+    },
+    "prediction": "Тотал больше (2)",
+    "odds": 1.57,
+    "comment": "Гол в каждом тайме будет однозначно кф 1.57. Но такой котировки тут нет, так что заиграем ТБ 2.",
+    "source": "Sports Analytics Pro"
+  },
+  {
+    "id": 1786987851032,
+    "eventName": "Матч",
+    "discipline": "Футбол",
+    "tournament": "Чемпионат",
+    "expert": {
+      "name": "Ай Джи",
+      "avatar": "https://static-uploads.prod.bookmaker-ratings.ru/2016/10/aj-dzhi.png?width=60",
+      "status": "expert",
+      "winRate": 89
+    },
+    "prediction": "Ничья",
+    "odds": 4.6,
+    "comment": "Манчестер едет в гости к новичку-аутсайдеру, это старт сезона, команды только входят в форму, а такие матчи очень часто превращаются в вязкую игру с низкой результативностью и аккуратным футболом, где обе стороны в итоге довольствуются очком. В первом туре многие клубы ещё далеки от оптимальной физической и игровой формы, особенно после предсезонки и сборных. Манчестер может банально не сразу включиться в режим высокого прессинга и интенсивности, экспериментировать со схемой и ротацией. Халл же получит шанс сыграть максимально дисциплинированно, закрыто, без рисков, фокусируясь на 0:0 или 1:1 как идеальном старте сезона. В таких ситуациях фаворит зачастую не дожимает аутсайдера, а матч превращается в подвисший с малым количеством моментов.",
+    "source": "Sports Analytics Pro"
+  },
+  {
+    "id": 1786987851033,
+    "eventName": "Матч",
+    "discipline": "Футбол",
+    "tournament": "Чемпионат",
+    "expert": {
+      "name": "Забьет Сампдория",
+      "avatar": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=100&h=100&fit=crop",
+      "status": "expert",
+      "winRate": 74
+    },
+    "prediction": "Забьет Сампдория (Да)",
+    "odds": 1.5,
+    "comment": "Комментарий к прогнозу",
+    "source": "Sports Analytics Pro"
+  },
+  {
+    "id": 1786987851034,
+    "eventName": "Матч",
+    "discipline": "Футбол",
+    "tournament": "Чемпионат",
+    "expert": {
+      "name": "Тотал Сампдория",
+      "avatar": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=100&h=100&fit=crop",
+      "status": "expert",
+      "winRate": 82
+    },
+    "prediction": "Тотал Сампдория больше (0.5)",
+    "odds": 1.53,
+    "comment": "Комментарий к прогнозу",
+    "source": "Sports Analytics Pro"
+  },
+  {
+    "id": 1786987851035,
+    "eventName": "Матч",
+    "discipline": "Футбол",
+    "tournament": "Чемпионат",
+    "expert": {
+      "name": "Депортиво Ла",
+      "avatar": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=100&h=100&fit=crop",
+      "status": "expert",
+      "winRate": 69
+    },
+    "prediction": "Обе забьют — да",
+    "odds": 1.9,
+    "comment": "Комментарий к прогнозу",
     "source": "Sports Analytics Pro"
   }
 ]
