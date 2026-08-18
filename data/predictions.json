@@ -1,6 +1,6 @@
 [
   {
-    "id": 1787045863552,
+    "id": 1787049190339,
     "eventName": "Шанхай Шеньхуа — Бэйдзин Гоань",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -16,7 +16,7 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1787045863553,
+    "id": 1787049190340,
     "eventName": "Шанхай Шеньхуа — Бэйдзин Гоань",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -32,7 +32,23 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1787045863554,
+    "id": 1787049190341,
+    "eventName": "Согдиана — Кызылкум",
+    "discipline": "Футбол",
+    "tournament": "Чемпионат",
+    "expert": {
+      "name": "Andrey Agapov",
+      "avatar": "https://bookmaker-ratings.ru/static/images/badges/is-kapper.svg?v=30092024",
+      "status": "expert",
+      "winRate": 79
+    },
+    "prediction": "Тотал (2) Б",
+    "odds": 1.5,
+    "comment": "Согдиана, и забивает, и пропусксет прилично ! Впрочем весёлая команда",
+    "source": "Sports Analytics Pro"
+  },
+  {
+    "id": 1787049190342,
     "eventName": "Родина — Оренбург",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -48,7 +64,55 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1787045863555,
+    "id": 1787049190343,
+    "eventName": "ЦСКА Москва — Акрон",
+    "discipline": "Футбол",
+    "tournament": "Чемпионат",
+    "expert": {
+      "name": "Гаусс За",
+      "avatar": "https://bookmaker-ratings.ru/static/images/badges/is-kapper.svg?v=30092024",
+      "status": "expert",
+      "winRate": 85
+    },
+    "prediction": "Тотал ЦСКА Москва больше (2)",
+    "odds": 1.85,
+    "comment": "В этом матче для меня все ясно. Армейцы выиграют и забьют не менее 2-х мячей. В Акроне сейчас патовая ситуация - команде срочно надо налаживать игру в чемпионате. А кубок - это уже потом. Играть будут дублеры. А ЦСКА нужна уверенность в своих силах и этот матч",
+    "source": "Sports Analytics Pro"
+  },
+  {
+    "id": 1787049190344,
+    "eventName": "ЦСКА Москва — Акрон",
+    "discipline": "Футбол",
+    "tournament": "Чемпионат",
+    "expert": {
+      "name": "Andrey Agapov",
+      "avatar": "https://bookmaker-ratings.ru/static/images/badges/is-kapper.svg?v=30092024",
+      "status": "expert",
+      "winRate": 79
+    },
+    "prediction": "Победа 1",
+    "odds": 1.48,
+    "comment": "Цска наигрыаает состав с новым тренером, для большей уверенности нужна победа",
+    "source": "Sports Analytics Pro"
+  },
+  {
+    "id": 1787049190345,
+    "eventName": "Родина — Оренбург",
+    "discipline": "Футбол",
+    "tournament": "Чемпионат",
+    "expert": {
+      "name": "Andrey Agapov",
+      "avatar": "https://bookmaker-ratings.ru/static/images/badges/is-kapper.svg?v=30092024",
+      "status": "expert",
+      "winRate": 79
+    },
+    "prediction": "Индивидуальный тотал 1 Больше (1)",
+    "odds": 1.42,
+    "comment": "Родина в последних матчах разыгралась, играют, и забивают более уверенно",
+    "source": "Sports Analytics Pro"
+  },
+  {
+    "id": 1787049190346,
     "eventName": "Ростов — Локомотив Москва",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -64,23 +128,7 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1787045863556,
-    "eventName": "Фенербахче — Лион",
-    "discipline": "Футбол",
-    "tournament": "Чемпионат",
-    "expert": {
-      "name": "Ольга Вознесенская",
-      "avatar": "https://bookmaker-ratings.ru/static/images/badges/is-kapper.svg?v=30092024",
-      "status": "expert",
-      "winRate": 88
-    },
-    "prediction": "Ничья",
-    "odds": 1.44,
-    "comment": "Фенербахче – номинальный фаворит дома, но катастрофический кадровый кризис (13 потерь, разобрана защита и центр поля) делает их крайне уязвимыми. Лион, наоборот, почти в полном составе, имеет историческое преимущество (4 победы в 5 матчах) и стабильно пробивает ТБ 2.5 (7 матчей подряд). Рынок уверенно ждёт голов (ТБ 2.5 – 1.44). Хозяева будут вынуждены атаковать, но без ключевых игроков им будет сложно победить, поэтому ничья с голами – наиболее вероятный исход. Берём ничью и общий тотал больше 2.5.",
-    "source": "Sports Analytics Pro"
-  },
-  {
-    "id": 1787045863557,
+    "id": 1787049190347,
     "eventName": "Матч",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -96,7 +144,7 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1787045863558,
+    "id": 1787049190348,
     "eventName": "Матч",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -108,54 +156,6 @@
     },
     "prediction": "Тотал (3) Б",
     "odds": 1.55,
-    "comment": "Комментарий к прогнозу",
-    "source": "Sports Analytics Pro"
-  },
-  {
-    "id": 1787045863559,
-    "eventName": "Матч",
-    "discipline": "Футбол",
-    "tournament": "Чемпионат",
-    "expert": {
-      "name": "Кубок России",
-      "avatar": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=100&h=100&fit=crop",
-      "status": "expert",
-      "winRate": 88
-    },
-    "prediction": "1-й тайм — П1",
-    "odds": 1.9,
-    "comment": "Комментарий к прогнозу",
-    "source": "Sports Analytics Pro"
-  },
-  {
-    "id": 1787045863560,
-    "eventName": "Матч",
-    "discipline": "Футбол",
-    "tournament": "Чемпионат",
-    "expert": {
-      "name": "Кубок России",
-      "avatar": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=100&h=100&fit=crop",
-      "status": "expert",
-      "winRate": 88
-    },
-    "prediction": "ТБ (3,5) ЖК",
-    "odds": 1.85,
-    "comment": "Комментарий к прогнозу",
-    "source": "Sports Analytics Pro"
-  },
-  {
-    "id": 1787045863561,
-    "eventName": "Матч",
-    "discipline": "Футбол",
-    "tournament": "Чемпионат",
-    "expert": {
-      "name": "Кубок России",
-      "avatar": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=100&h=100&fit=crop",
-      "status": "expert",
-      "winRate": 88
-    },
-    "prediction": "ТБ (2,5) и обе забьют",
-    "odds": 2.18,
     "comment": "Комментарий к прогнозу",
     "source": "Sports Analytics Pro"
   }
