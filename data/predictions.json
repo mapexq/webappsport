@@ -1,6 +1,6 @@
 [
   {
-    "id": 1787042521136,
+    "id": 1787045863552,
     "eventName": "Шанхай Шеньхуа — Бэйдзин Гоань",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -16,7 +16,7 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1787042521137,
+    "id": 1787045863553,
     "eventName": "Шанхай Шеньхуа — Бэйдзин Гоань",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -32,7 +32,7 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1787042521138,
+    "id": 1787045863554,
     "eventName": "Родина — Оренбург",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -48,7 +48,7 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1787042521139,
+    "id": 1787045863555,
     "eventName": "Ростов — Локомотив Москва",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -64,7 +64,7 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1787042521140,
+    "id": 1787045863556,
     "eventName": "Фенербахче — Лион",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -80,7 +80,7 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1787042521141,
+    "id": 1787045863557,
     "eventName": "Матч",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -96,7 +96,7 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1787042521142,
+    "id": 1787045863558,
     "eventName": "Матч",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -112,7 +112,7 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1787042521143,
+    "id": 1787045863559,
     "eventName": "Матч",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -128,7 +128,7 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1787042521144,
+    "id": 1787045863560,
     "eventName": "Матч",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -144,7 +144,7 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1787042521145,
+    "id": 1787045863561,
     "eventName": "Матч",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -154,8 +154,8 @@
       "status": "expert",
       "winRate": 88
     },
-    "prediction": "ТБ (2,5)",
-    "odds": 1.7,
+    "prediction": "ТБ (2,5) и обе забьют",
+    "odds": 2.18,
     "comment": "Комментарий к прогнозу",
     "source": "Sports Analytics Pro"
   }
