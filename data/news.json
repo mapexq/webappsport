@@ -1,5 +1,47 @@
 [
   {
+    "id": "47ee806a4adbb3b0",
+    "title": "La Gazzetta dello Sport узнала, что Синнер может пропустить US Open",
+    "sport": "Теннис",
+    "category": "Теннис",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/5/92/347870345095925.jpeg",
+    "teaser": "La Gazzetta dello Sport узнала, что Синнер может пропустить US Open",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a83f81e9a79475ef2a8f22e",
+    "publishedAt": "2026-08-18T08:21:09.000Z",
+    "createdAt": "2026-08-18T08:42:07.800Z",
+    "updatedAt": "2026-08-18T08:42:07.800Z"
+  },
+  {
+    "id": "af35b785fe442dec",
+    "title": "Жаловавшийся на «Локомотив» футболист перешел в греческий «Олимпиакос»",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/6/76/347870400483766.jpeg",
+    "teaser": "Жаловавшийся на «Локомотив» футболист перешел в греческий «Олимпиакос»",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a840d419a79475d97bc5dcb",
+    "publishedAt": "2026-08-18T08:17:01.000Z",
+    "createdAt": "2026-08-18T08:42:08.782Z",
+    "updatedAt": "2026-08-18T08:42:08.782Z"
+  },
+  {
+    "id": "03bb930b5ab4a734",
+    "title": "Шнайдер назвала безумием победный матч на «тысячнике» в Цинциннати",
+    "sport": "Теннис",
+    "category": "Теннис",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/0/22/347870374537220.jpeg",
+    "teaser": "Шнайдер назвала безумием победный матч на «тысячнике» в Цинциннати",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a8401cb9a79477fa3a2f4f7",
+    "publishedAt": "2026-08-18T07:47:49.000Z",
+    "createdAt": "2026-08-18T08:42:11.914Z",
+    "updatedAt": "2026-08-18T08:42:11.914Z"
+  },
+  {
     "id": "71a9667d135b9fa2",
     "title": "В каких видах спорта россиянам разрешили выступать с флагом и гимном",
     "sport": "Другое",
@@ -10,8 +52,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/692840b79a794751c6265995",
     "publishedAt": "2026-08-18T06:04:23.000Z",
-    "createdAt": "2026-08-18T07:42:14.941Z",
-    "updatedAt": "2026-08-18T07:42:14.941Z"
+    "createdAt": "2026-08-18T08:42:10.870Z",
+    "updatedAt": "2026-08-18T08:42:10.870Z"
   },
   {
     "id": "0e57de3bba28e390",
@@ -24,8 +66,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a7b1e1d9a79477e3009821a",
     "publishedAt": "2026-08-18T05:32:33.000Z",
-    "createdAt": "2026-08-18T07:42:13.977Z",
-    "updatedAt": "2026-08-18T07:42:13.977Z"
+    "createdAt": "2026-08-18T08:42:09.762Z",
+    "updatedAt": "2026-08-18T08:42:09.762Z"
   },
   {
     "id": "29b5344430700d87",
@@ -38,8 +80,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a836f189a7947c478b8ad32",
     "publishedAt": "2026-08-17T20:47:08.000Z",
-    "createdAt": "2026-08-18T07:42:16.914Z",
-    "updatedAt": "2026-08-18T07:42:16.914Z"
+    "createdAt": "2026-08-18T08:42:14.196Z",
+    "updatedAt": "2026-08-18T08:42:14.196Z"
   },
   {
     "id": "9a4890d7403ded95",
@@ -52,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a83614b9a7947643e9d00fe",
     "publishedAt": "2026-08-17T20:09:54.000Z",
-    "createdAt": "2026-08-18T07:42:15.900Z",
-    "updatedAt": "2026-08-18T07:42:15.900Z"
+    "createdAt": "2026-08-18T08:42:13.104Z",
+    "updatedAt": "2026-08-18T08:42:13.104Z"
   },
   {
     "id": "5433c04b24271de2",
@@ -66,22 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a8352e99a79474184b12bfe",
     "publishedAt": "2026-08-17T18:46:06.000Z",
-    "createdAt": "2026-08-18T07:42:18.858Z",
-    "updatedAt": "2026-08-18T07:42:18.858Z"
-  },
-  {
-    "id": "165f070786f68668",
-    "title": "FT узнала о планах совладельцев «Челси» продать свои доли в клубе",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/8/65/347869898295658.jpeg",
-    "teaser": "FT узнала о планах совладельцев «Челси» продать свои доли в клубе",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a834cc09a7947810118d735",
-    "publishedAt": "2026-08-17T18:32:10.000Z",
-    "createdAt": "2026-08-18T07:42:20.874Z",
-    "updatedAt": "2026-08-18T07:42:20.874Z"
+    "createdAt": "2026-08-18T08:42:16.361Z",
+    "updatedAt": "2026-08-18T08:42:16.361Z"
   },
   {
     "id": "7179c61054aeb223",
@@ -94,36 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a8349c09a79471015767e0c",
     "publishedAt": "2026-08-17T18:20:30.000Z",
-    "createdAt": "2026-08-18T07:42:19.863Z",
-    "updatedAt": "2026-08-18T07:42:19.863Z"
-  },
-  {
-    "id": "276eefe9fd82dfd2",
-    "title": "«Манчестер Юнайтед» отказался отпускать капитана в другой клуб",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/1/67/347869871601671.jpeg",
-    "teaser": "«Манчестер Юнайтед» отказался отпускать капитана в другой клуб",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a8340089a7947de3ce5e7e7",
-    "publishedAt": "2026-08-17T17:27:19.000Z",
-    "createdAt": "2026-08-18T07:42:21.895Z",
-    "updatedAt": "2026-08-18T07:42:21.895Z"
-  },
-  {
-    "id": "507e875dd655517f",
-    "title": "Игравший на ЧМ-2026 футболист ушел из клуба РПЛ",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/3/60/347869841519603.jpeg",
-    "teaser": "Игравший на ЧМ-2026 футболист ушел из клуба РПЛ",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a8334599a79475cc706a5d8",
-    "publishedAt": "2026-08-17T16:59:49.000Z",
-    "createdAt": "2026-08-18T07:42:22.912Z",
-    "updatedAt": "2026-08-18T07:42:22.912Z"
+    "createdAt": "2026-08-18T08:42:17.503Z",
+    "updatedAt": "2026-08-18T08:42:17.503Z"
   },
   {
     "id": "be727a6e67038ec6",
@@ -136,7 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a82d7b49a7947ca64b5ad54",
     "publishedAt": "2026-08-17T09:50:44.000Z",
-    "createdAt": "2026-08-18T07:42:17.887Z",
-    "updatedAt": "2026-08-18T07:42:17.887Z"
+    "createdAt": "2026-08-18T08:42:15.253Z",
+    "updatedAt": "2026-08-18T08:42:15.253Z"
   }
 ]

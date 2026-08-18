@@ -1,6 +1,6 @@
 [
   {
-    "id": 1787038927632,
+    "id": 1787042521136,
     "eventName": "Шанхай Шеньхуа — Бэйдзин Гоань",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -16,7 +16,7 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1787038927633,
+    "id": 1787042521137,
     "eventName": "Шанхай Шеньхуа — Бэйдзин Гоань",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -32,7 +32,7 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1787038927634,
+    "id": 1787042521138,
     "eventName": "Родина — Оренбург",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -48,7 +48,7 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1787038927635,
+    "id": 1787042521139,
     "eventName": "Ростов — Локомотив Москва",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -64,7 +64,7 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1787038927636,
+    "id": 1787042521140,
     "eventName": "Фенербахче — Лион",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -80,55 +80,7 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1787038927637,
-    "eventName": "Матч",
-    "discipline": "Футбол",
-    "tournament": "Чемпионат",
-    "expert": {
-      "name": "Ай Джи",
-      "avatar": "https://static-uploads.prod.bookmaker-ratings.ru/2016/10/aj-dzhi.png?width=60",
-      "status": "expert",
-      "winRate": 89
-    },
-    "prediction": "Ничья",
-    "odds": 4.6,
-    "comment": "Манчестер едет в гости к новичку-аутсайдеру, это старт сезона, команды только входят в форму, а такие матчи очень часто превращаются в вязкую игру с низкой результативностью и аккуратным футболом, где обе стороны в итоге довольствуются очком. В первом туре многие клубы ещё далеки от оптимальной физической и игровой формы, особенно после предсезонки и сборных. Манчестер может банально не сразу включиться в режим высокого прессинга и интенсивности, экспериментировать со схемой и ротацией. Халл же получит шанс сыграть максимально дисциплинированно, закрыто, без рисков, фокусируясь на 0:0 или 1:1 как идеальном старте сезона. В таких ситуациях фаворит зачастую не дожимает аутсайдера, а матч превращается в подвисший с малым количеством моментов.",
-    "source": "Sports Analytics Pro"
-  },
-  {
-    "id": 1787038927638,
-    "eventName": "Факел Воронеж — Оренбург",
-    "discipline": "Футбол",
-    "tournament": "Чемпионат",
-    "expert": {
-      "name": "Михаил Лубнин",
-      "avatar": "https://bookmaker-ratings.ru/static/images/badges/is-kapper.svg?v=30092024",
-      "status": "expert",
-      "winRate": 71
-    },
-    "prediction": "Тотал (3.5) М",
-    "odds": 1.25,
-    "comment": "Матч в Воронеже будет тяжелым для Оренбурга,поэтому будет рубка",
-    "source": "Sports Analytics Pro"
-  },
-  {
-    "id": 1787038927639,
-    "eventName": "Ахмат — Ростов",
-    "discipline": "Футбол",
-    "tournament": "Чемпионат",
-    "expert": {
-      "name": "Михаил Лубнин",
-      "avatar": "https://bookmaker-ratings.ru/static/images/badges/is-kapper.svg?v=30092024",
-      "status": "expert",
-      "winRate": 71
-    },
-    "prediction": "Тотал (2) Б",
-    "odds": 1.67,
-    "comment": "Ахмат и Ростов редко выдают низовые игры. Ахмат должен выиграть",
-    "source": "Sports Analytics Pro"
-  },
-  {
-    "id": 1787038927640,
+    "id": 1787042521141,
     "eventName": "Матч",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -144,7 +96,7 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1787038927641,
+    "id": 1787042521142,
     "eventName": "Матч",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -156,6 +108,54 @@
     },
     "prediction": "Тотал (3) Б",
     "odds": 1.55,
+    "comment": "Комментарий к прогнозу",
+    "source": "Sports Analytics Pro"
+  },
+  {
+    "id": 1787042521143,
+    "eventName": "Матч",
+    "discipline": "Футбол",
+    "tournament": "Чемпионат",
+    "expert": {
+      "name": "Кубок России",
+      "avatar": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=100&h=100&fit=crop",
+      "status": "expert",
+      "winRate": 88
+    },
+    "prediction": "1-й тайм — П1",
+    "odds": 1.9,
+    "comment": "Комментарий к прогнозу",
+    "source": "Sports Analytics Pro"
+  },
+  {
+    "id": 1787042521144,
+    "eventName": "Матч",
+    "discipline": "Футбол",
+    "tournament": "Чемпионат",
+    "expert": {
+      "name": "Кубок России",
+      "avatar": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=100&h=100&fit=crop",
+      "status": "expert",
+      "winRate": 88
+    },
+    "prediction": "ТБ (3,5) ЖК",
+    "odds": 1.85,
+    "comment": "Комментарий к прогнозу",
+    "source": "Sports Analytics Pro"
+  },
+  {
+    "id": 1787042521145,
+    "eventName": "Матч",
+    "discipline": "Футбол",
+    "tournament": "Чемпионат",
+    "expert": {
+      "name": "Кубок России",
+      "avatar": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=100&h=100&fit=crop",
+      "status": "expert",
+      "winRate": 88
+    },
+    "prediction": "ТБ (2,5)",
+    "odds": 1.7,
     "comment": "Комментарий к прогнозу",
     "source": "Sports Analytics Pro"
   }
