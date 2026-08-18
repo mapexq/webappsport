@@ -1,5 +1,33 @@
 [
   {
+    "id": "4e436fd5b4a16ed7",
+    "title": "Израиль отозвал поддержку Инфантино на выборах главы ФИФА",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/4/87/347870582206874.jpeg",
+    "teaser": "Израиль отозвал поддержку Инфантино на выборах главы ФИФА",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a84545c9a7947fe7117ffef",
+    "publishedAt": "2026-08-18T13:14:46.000Z",
+    "createdAt": "2026-08-18T13:46:40.031Z",
+    "updatedAt": "2026-08-18T13:46:40.031Z"
+  },
+  {
+    "id": "82c129f1643d2c6b",
+    "title": "Болельщик выбежал на поле и сбил с ног игрока «Ювентуса»",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/4/90/347870461182904.jpeg",
+    "teaser": "Болельщик выбежал на поле и сбил с ног игрока «Ювентуса»",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a8421539a794775bd9fd70a",
+    "publishedAt": "2026-08-18T12:50:53.000Z",
+    "createdAt": "2026-08-18T13:46:41.275Z",
+    "updatedAt": "2026-08-18T13:46:41.275Z"
+  },
+  {
     "id": "d5c233e7a1ff729a",
     "title": "КХЛ представила обновленный логотип лиги",
     "sport": "Хоккей",
@@ -10,8 +38,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a844dbb9a794741d6bc643b",
     "publishedAt": "2026-08-18T12:45:50.000Z",
-    "createdAt": "2026-08-18T12:54:50.493Z",
-    "updatedAt": "2026-08-18T12:54:50.493Z"
+    "createdAt": "2026-08-18T13:46:42.289Z",
+    "updatedAt": "2026-08-18T13:46:42.289Z"
   },
   {
     "id": "5de0ab52b3de3bc7",
@@ -24,8 +52,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a8449b69a79470fffb01145",
     "publishedAt": "2026-08-18T12:19:30.000Z",
-    "createdAt": "2026-08-18T12:54:51.540Z",
-    "updatedAt": "2026-08-18T12:54:51.540Z"
+    "createdAt": "2026-08-18T13:46:43.309Z",
+    "updatedAt": "2026-08-18T13:46:43.309Z"
   },
   {
     "id": "8ea2558766aba900",
@@ -38,8 +66,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a8441869a794749db0790cb",
     "publishedAt": "2026-08-18T11:59:02.000Z",
-    "createdAt": "2026-08-18T12:54:52.581Z",
-    "updatedAt": "2026-08-18T12:54:52.581Z"
+    "createdAt": "2026-08-18T13:46:44.395Z",
+    "updatedAt": "2026-08-18T13:46:44.395Z"
   },
   {
     "id": "8a74c286442d3424",
@@ -52,8 +80,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a8437979a79476c81dcf4fb",
     "publishedAt": "2026-08-18T11:08:36.000Z",
-    "createdAt": "2026-08-18T12:54:53.672Z",
-    "updatedAt": "2026-08-18T12:54:53.672Z"
+    "createdAt": "2026-08-18T13:46:45.563Z",
+    "updatedAt": "2026-08-18T13:46:45.563Z"
   },
   {
     "id": "896ebf150ba8d397",
@@ -66,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a842a979a794716d3152024",
     "publishedAt": "2026-08-18T10:18:25.000Z",
-    "createdAt": "2026-08-18T12:54:54.688Z",
-    "updatedAt": "2026-08-18T12:54:54.688Z"
+    "createdAt": "2026-08-18T13:46:46.626Z",
+    "updatedAt": "2026-08-18T13:46:46.626Z"
   },
   {
     "id": "085d586c2cf4476b",
@@ -80,8 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a84181c9a794716d3151ffa",
     "publishedAt": "2026-08-18T09:16:38.000Z",
-    "createdAt": "2026-08-18T12:54:55.695Z",
-    "updatedAt": "2026-08-18T12:54:55.695Z"
+    "createdAt": "2026-08-18T13:46:47.637Z",
+    "updatedAt": "2026-08-18T13:46:47.637Z"
   },
   {
     "id": "47ee806a4adbb3b0",
@@ -94,36 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a83f81e9a79475ef2a8f22e",
     "publishedAt": "2026-08-18T08:21:09.000Z",
-    "createdAt": "2026-08-18T12:54:56.708Z",
-    "updatedAt": "2026-08-18T12:54:56.708Z"
-  },
-  {
-    "id": "af35b785fe442dec",
-    "title": "Жаловавшийся на «Локомотив» футболист перешел в греческий «Олимпиакос»",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/6/76/347870400483766.jpeg",
-    "teaser": "Жаловавшийся на «Локомотив» футболист перешел в греческий «Олимпиакос»",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a840d419a79475d97bc5dcb",
-    "publishedAt": "2026-08-18T08:17:01.000Z",
-    "createdAt": "2026-08-18T12:54:58.736Z",
-    "updatedAt": "2026-08-18T12:54:58.736Z"
-  },
-  {
-    "id": "71a9667d135b9fa2",
-    "title": "В каких видах спорта россиянам разрешили выступать с флагом и гимном",
-    "sport": "Другое",
-    "category": "Другие",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/7/42/347804051862427.jpeg",
-    "teaser": "В каких видах спорта россиянам разрешили выступать с флагом и гимном",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/692840b79a794751c6265995",
-    "publishedAt": "2026-08-18T06:04:23.000Z",
-    "createdAt": "2026-08-18T12:54:59.766Z",
-    "updatedAt": "2026-08-18T12:54:59.766Z"
+    "createdAt": "2026-08-18T13:46:48.709Z",
+    "updatedAt": "2026-08-18T13:46:48.709Z"
   },
   {
     "id": "0e57de3bba28e390",
@@ -136,7 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a7b1e1d9a79477e3009821a",
     "publishedAt": "2026-08-18T05:32:33.000Z",
-    "createdAt": "2026-08-18T12:54:57.720Z",
-    "updatedAt": "2026-08-18T12:54:57.720Z"
+    "createdAt": "2026-08-18T13:46:49.866Z",
+    "updatedAt": "2026-08-18T13:46:49.866Z"
   }
 ]
