@@ -1,5 +1,47 @@
 [
   {
+    "id": "d5c233e7a1ff729a",
+    "title": "КХЛ представила обновленный логотип лиги",
+    "sport": "Хоккей",
+    "category": "Хоккей",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/6/09/347870563316096.jpeg",
+    "teaser": "КХЛ представила обновленный логотип лиги",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a844dbb9a794741d6bc643b",
+    "publishedAt": "2026-08-18T12:45:50.000Z",
+    "createdAt": "2026-08-18T12:54:50.493Z",
+    "updatedAt": "2026-08-18T12:54:50.493Z"
+  },
+  {
+    "id": "5de0ab52b3de3bc7",
+    "title": "Чемпион ОИ-2018 Калинин подписал полноценный контракт с минским «Динамо»",
+    "sport": "Хоккей",
+    "category": "Хоккей",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/4/30/347870553613304.jpeg",
+    "teaser": "Чемпион ОИ-2018 Калинин подписал полноценный контракт с минским «Динамо»",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a8449b69a79470fffb01145",
+    "publishedAt": "2026-08-18T12:19:30.000Z",
+    "createdAt": "2026-08-18T12:54:51.540Z",
+    "updatedAt": "2026-08-18T12:54:51.540Z"
+  },
+  {
+    "id": "8ea2558766aba900",
+    "title": "Махачкалинское «Динамо» расторгло контракт с порвавшим «кресты» игроком",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/9/76/347870530334769.jpeg",
+    "teaser": "Махачкалинское «Динамо» расторгло контракт с порвавшим «кресты» игроком",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a8441869a794749db0790cb",
+    "publishedAt": "2026-08-18T11:59:02.000Z",
+    "createdAt": "2026-08-18T12:54:52.581Z",
+    "updatedAt": "2026-08-18T12:54:52.581Z"
+  },
+  {
     "id": "8a74c286442d3424",
     "title": "Президент «Галатасарая» заявил о приобретении Батракова",
     "sport": "Футбол",
@@ -10,8 +52,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a8437979a79476c81dcf4fb",
     "publishedAt": "2026-08-18T11:08:36.000Z",
-    "createdAt": "2026-08-18T11:29:30.873Z",
-    "updatedAt": "2026-08-18T11:29:30.873Z"
+    "createdAt": "2026-08-18T12:54:53.672Z",
+    "updatedAt": "2026-08-18T12:54:53.672Z"
   },
   {
     "id": "896ebf150ba8d397",
@@ -24,8 +66,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a842a979a794716d3152024",
     "publishedAt": "2026-08-18T10:18:25.000Z",
-    "createdAt": "2026-08-18T11:29:32.016Z",
-    "updatedAt": "2026-08-18T11:29:32.016Z"
+    "createdAt": "2026-08-18T12:54:54.688Z",
+    "updatedAt": "2026-08-18T12:54:54.688Z"
   },
   {
     "id": "085d586c2cf4476b",
@@ -38,8 +80,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a84181c9a794716d3151ffa",
     "publishedAt": "2026-08-18T09:16:38.000Z",
-    "createdAt": "2026-08-18T11:29:33.039Z",
-    "updatedAt": "2026-08-18T11:29:33.039Z"
+    "createdAt": "2026-08-18T12:54:55.695Z",
+    "updatedAt": "2026-08-18T12:54:55.695Z"
   },
   {
     "id": "47ee806a4adbb3b0",
@@ -52,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a83f81e9a79475ef2a8f22e",
     "publishedAt": "2026-08-18T08:21:09.000Z",
-    "createdAt": "2026-08-18T11:29:34.173Z",
-    "updatedAt": "2026-08-18T11:29:34.173Z"
+    "createdAt": "2026-08-18T12:54:56.708Z",
+    "updatedAt": "2026-08-18T12:54:56.708Z"
   },
   {
     "id": "af35b785fe442dec",
@@ -66,22 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a840d419a79475d97bc5dcb",
     "publishedAt": "2026-08-18T08:17:01.000Z",
-    "createdAt": "2026-08-18T11:29:36.439Z",
-    "updatedAt": "2026-08-18T11:29:36.439Z"
-  },
-  {
-    "id": "03bb930b5ab4a734",
-    "title": "Шнайдер назвала безумием победный матч на «тысячнике» в Цинциннати",
-    "sport": "Теннис",
-    "category": "Теннис",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/0/22/347870374537220.jpeg",
-    "teaser": "Шнайдер назвала безумием победный матч на «тысячнике» в Цинциннати",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a8401cb9a79477fa3a2f4f7",
-    "publishedAt": "2026-08-18T07:47:49.000Z",
-    "createdAt": "2026-08-18T11:29:38.607Z",
-    "updatedAt": "2026-08-18T11:29:38.607Z"
+    "createdAt": "2026-08-18T12:54:58.736Z",
+    "updatedAt": "2026-08-18T12:54:58.736Z"
   },
   {
     "id": "71a9667d135b9fa2",
@@ -94,8 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/692840b79a794751c6265995",
     "publishedAt": "2026-08-18T06:04:23.000Z",
-    "createdAt": "2026-08-18T11:29:37.467Z",
-    "updatedAt": "2026-08-18T11:29:37.467Z"
+    "createdAt": "2026-08-18T12:54:59.766Z",
+    "updatedAt": "2026-08-18T12:54:59.766Z"
   },
   {
     "id": "0e57de3bba28e390",
@@ -108,35 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a7b1e1d9a79477e3009821a",
     "publishedAt": "2026-08-18T05:32:33.000Z",
-    "createdAt": "2026-08-18T11:29:35.308Z",
-    "updatedAt": "2026-08-18T11:29:35.308Z"
-  },
-  {
-    "id": "29b5344430700d87",
-    "title": "Сафонов заявил, что поражение в Суперкубке поможет ПСЖ прогрессировать",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/6/19/347869991208196.jpeg",
-    "teaser": "Сафонов заявил, что поражение в Суперкубке поможет ПСЖ прогрессировать",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a836f189a7947c478b8ad32",
-    "publishedAt": "2026-08-17T20:47:08.000Z",
-    "createdAt": "2026-08-18T11:29:40.881Z",
-    "updatedAt": "2026-08-18T11:29:40.881Z"
-  },
-  {
-    "id": "9a4890d7403ded95",
-    "title": "Критиковавший Инфантино главный операционный директор ФИФА покинул пост",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/0/76/347869964020760.jpeg",
-    "teaser": "Критиковавший Инфантино главный операционный директор ФИФА покинул пост",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a83614b9a7947643e9d00fe",
-    "publishedAt": "2026-08-17T20:09:54.000Z",
-    "createdAt": "2026-08-18T11:29:39.743Z",
-    "updatedAt": "2026-08-18T11:29:39.743Z"
+    "createdAt": "2026-08-18T12:54:57.720Z",
+    "updatedAt": "2026-08-18T12:54:57.720Z"
   }
 ]

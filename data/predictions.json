@@ -1,38 +1,6 @@
 [
   {
-    "id": 1787052563201,
-    "eventName": "Шанхай Шеньхуа — Бэйдзин Гоань",
-    "discipline": "Футбол",
-    "tournament": "Чемпионат",
-    "expert": {
-      "name": "Andrey Agapov",
-      "avatar": "https://bookmaker-ratings.ru/static/images/badges/is-kapper.svg?v=30092024",
-      "status": "expert",
-      "winRate": 79
-    },
-    "prediction": "Индивидуальный тотал 2 Больше (1)",
-    "odds": 1.45,
-    "comment": "Шанхай шеньхуа многовато пропускает, так, что думаю Бэйцзин сможет вполне исполнить",
-    "source": "Sports Analytics Pro"
-  },
-  {
-    "id": 1787052563202,
-    "eventName": "Шанхай Шеньхуа — Бэйдзин Гоань",
-    "discipline": "Футбол",
-    "tournament": "Чемпионат",
-    "expert": {
-      "name": "Andrey Agapov",
-      "avatar": "https://bookmaker-ratings.ru/static/images/badges/is-kapper.svg?v=30092024",
-      "status": "expert",
-      "winRate": 79
-    },
-    "prediction": "Тотал (3) Б",
-    "odds": 1.55,
-    "comment": "Шанхай шеньхуа как забивает, так и пропускает прилично",
-    "source": "Sports Analytics Pro"
-  },
-  {
-    "id": 1787052563203,
+    "id": 1787057684109,
     "eventName": "Согдиана — Кызылкум",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -48,7 +16,7 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1787052563204,
+    "id": 1787057684110,
     "eventName": "Родина — Оренбург",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -64,7 +32,7 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1787052563205,
+    "id": 1787057684111,
     "eventName": "ЦСКА Москва — Акрон",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -80,7 +48,7 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1787052563206,
+    "id": 1787057684112,
     "eventName": "ЦСКА Москва — Акрон",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -96,7 +64,7 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1787052563207,
+    "id": 1787057684113,
     "eventName": "Родина — Оренбург",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -112,7 +80,7 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1787052563208,
+    "id": 1787057684114,
     "eventName": "Ростов — Локомотив Москва",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -128,34 +96,66 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1787052563209,
+    "id": 1787057684115,
     "eventName": "Матч",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
     "expert": {
-      "name": "Шанхай Шеньхуа",
+      "name": "Кубок России",
       "avatar": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=100&h=100&fit=crop",
       "status": "expert",
-      "winRate": 71
+      "winRate": 88
     },
-    "prediction": "Индивидуальный тотал 2 Больше (1)",
-    "odds": 1.45,
+    "prediction": "1-й тайм — П1",
+    "odds": 1.9,
     "comment": "Комментарий к прогнозу",
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1787052563210,
+    "id": 1787057684116,
     "eventName": "Матч",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
     "expert": {
-      "name": "Шанхай Шеньхуа",
+      "name": "Кубок России",
       "avatar": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=100&h=100&fit=crop",
       "status": "expert",
-      "winRate": 71
+      "winRate": 88
     },
-    "prediction": "Тотал (3) Б",
-    "odds": 1.55,
+    "prediction": "ТБ (3,5) ЖК",
+    "odds": 1.85,
+    "comment": "Комментарий к прогнозу",
+    "source": "Sports Analytics Pro"
+  },
+  {
+    "id": 1787057684117,
+    "eventName": "Матч",
+    "discipline": "Футбол",
+    "tournament": "Чемпионат",
+    "expert": {
+      "name": "Кубок России",
+      "avatar": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=100&h=100&fit=crop",
+      "status": "expert",
+      "winRate": 88
+    },
+    "prediction": "ТБ (2,5) и обе забьют",
+    "odds": 2.18,
+    "comment": "Комментарий к прогнозу",
+    "source": "Sports Analytics Pro"
+  },
+  {
+    "id": 1787057684118,
+    "eventName": "Матч",
+    "discipline": "Футбол",
+    "tournament": "Чемпионат",
+    "expert": {
+      "name": "Кубок России",
+      "avatar": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=100&h=100&fit=crop",
+      "status": "expert",
+      "winRate": 88
+    },
+    "prediction": "ТБ (2,5)",
+    "odds": 1.7,
     "comment": "Комментарий к прогнозу",
     "source": "Sports Analytics Pro"
   }
