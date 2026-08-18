@@ -1,22 +1,6 @@
 [
   {
-    "id": 1787060792942,
-    "eventName": "Согдиана — Кызылкум",
-    "discipline": "Футбол",
-    "tournament": "Чемпионат",
-    "expert": {
-      "name": "Andrey Agapov",
-      "avatar": "https://bookmaker-ratings.ru/static/images/badges/is-kapper.svg?v=30092024",
-      "status": "expert",
-      "winRate": 79
-    },
-    "prediction": "Тотал (2) Б",
-    "odds": 1.5,
-    "comment": "Согдиана, и забивает, и пропусксет прилично ! Впрочем весёлая команда",
-    "source": "Sports Analytics Pro"
-  },
-  {
-    "id": 1787060792943,
+    "id": 1787063867359,
     "eventName": "Родина — Оренбург",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -32,7 +16,7 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1787060792944,
+    "id": 1787063867360,
     "eventName": "ЦСКА Москва — Акрон",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -48,7 +32,7 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1787060792945,
+    "id": 1787063867361,
     "eventName": "ЦСКА Москва — Акрон",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -64,7 +48,7 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1787060792946,
+    "id": 1787063867362,
     "eventName": "Родина — Оренбург",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -80,23 +64,23 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1787060792947,
-    "eventName": "Ростов — Локомотив Москва",
+    "id": 1787063867363,
+    "eventName": "ЦСКА Москва — Акрон",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
     "expert": {
-      "name": "Дмитрий Рыбалка",
-      "avatar": "https://static-uploads.prod.bookmaker-ratings.ru/2026/08/818-rb-webp-6a7c191851082-6a7c191854cb7.webp?width=60",
+      "name": "Алексей Вайцеховский",
+      "avatar": "https://bookmaker-ratings.ru/static/images/badges/is-kapper.svg?v=30092024",
       "status": "expert",
-      "winRate": 84
+      "winRate": 70
     },
-    "prediction": "Обе забьют (Да)",
-    "odds": 1.72,
-    "comment": "Второй тур кубка , Ростов дома играет наконец то второй матч подряд. Первый матч выиграли Акрон 4-0 , в Кубке все впорядке . Локо болеет, уехал Батраков, команда перестраивается, свой Голик думаю все равно забьют, мой вариант обе забьют ДА",
+    "prediction": "Ф2(+2.5)",
+    "odds": 1.31,
+    "comment": "Думаю, если ЦСКА и выиграет, то не больше 2х мячей, да и шансы у Акрона забить тоже будут",
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1787060792948,
+    "id": 1787063867364,
     "eventName": "Матч",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -112,7 +96,7 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1787060792949,
+    "id": 1787063867365,
     "eventName": "Матч",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -128,7 +112,7 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1787060792950,
+    "id": 1787063867366,
     "eventName": "Матч",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -144,7 +128,7 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1787060792951,
+    "id": 1787063867367,
     "eventName": "Матч",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -156,6 +140,22 @@
     },
     "prediction": "ТБ (2,5)",
     "odds": 1.7,
+    "comment": "Комментарий к прогнозу",
+    "source": "Sports Analytics Pro"
+  },
+  {
+    "id": 1787063867368,
+    "eventName": "Матч",
+    "discipline": "Футбол",
+    "tournament": "Чемпионат",
+    "expert": {
+      "name": "Кубок России",
+      "avatar": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=100&h=100&fit=crop",
+      "status": "expert",
+      "winRate": 88
+    },
+    "prediction": "Ф1 (-1,0)",
+    "odds": 1.76,
     "comment": "Комментарий к прогнозу",
     "source": "Sports Analytics Pro"
   }
