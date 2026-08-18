@@ -1,5 +1,33 @@
 [
   {
+    "id": "71a9667d135b9fa2",
+    "title": "В каких видах спорта россиянам разрешили выступать с флагом и гимном",
+    "sport": "Другое",
+    "category": "Другие",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/7/42/347804051862427.jpeg",
+    "teaser": "В каких видах спорта россиянам разрешили выступать с флагом и гимном",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/692840b79a794751c6265995",
+    "publishedAt": "2026-08-18T06:04:23.000Z",
+    "createdAt": "2026-08-18T06:51:17.474Z",
+    "updatedAt": "2026-08-18T06:51:17.474Z"
+  },
+  {
+    "id": "0e57de3bba28e390",
+    "title": "В России начали работу над комиссией для контроля за единоборствами",
+    "sport": "Единоборства",
+    "category": "Единоборства",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/7/87/347864619659877.jpeg",
+    "teaser": "В России начали работу над комиссией для контроля за единоборствами",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a7b1e1d9a79477e3009821a",
+    "publishedAt": "2026-08-18T05:32:33.000Z",
+    "createdAt": "2026-08-18T06:51:16.394Z",
+    "updatedAt": "2026-08-18T06:51:16.394Z"
+  },
+  {
     "id": "29b5344430700d87",
     "title": "Сафонов заявил, что поражение в Суперкубке поможет ПСЖ прогрессировать",
     "sport": "Футбол",
@@ -10,11 +38,11 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a836f189a7947c478b8ad32",
     "publishedAt": "2026-08-17T20:47:08.000Z",
-    "createdAt": "2026-08-18T05:33:53.007Z",
-    "updatedAt": "2026-08-18T05:33:53.007Z"
+    "createdAt": "2026-08-18T06:51:19.906Z",
+    "updatedAt": "2026-08-18T06:51:19.906Z"
   },
   {
-    "id": "79f003e99a3a3081",
+    "id": "9a4890d7403ded95",
     "title": "Критиковавший Инфантино главный операционный директор ФИФА покинул пост",
     "sport": "Футбол",
     "category": "Футбол",
@@ -23,9 +51,9 @@
     "fullContent": "",
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a83614b9a7947643e9d00fe",
-    "publishedAt": "2026-08-17T20:09:52.000Z",
-    "createdAt": "2026-08-18T05:33:52.047Z",
-    "updatedAt": "2026-08-18T05:33:52.047Z"
+    "publishedAt": "2026-08-17T20:09:54.000Z",
+    "createdAt": "2026-08-18T06:51:18.595Z",
+    "updatedAt": "2026-08-18T06:51:18.595Z"
   },
   {
     "id": "5433c04b24271de2",
@@ -38,8 +66,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a8352e99a79474184b12bfe",
     "publishedAt": "2026-08-17T18:46:06.000Z",
-    "createdAt": "2026-08-18T05:33:54.919Z",
-    "updatedAt": "2026-08-18T05:33:54.919Z"
+    "createdAt": "2026-08-18T06:51:21.989Z",
+    "updatedAt": "2026-08-18T06:51:21.989Z"
   },
   {
     "id": "165f070786f68668",
@@ -52,8 +80,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a834cc09a7947810118d735",
     "publishedAt": "2026-08-17T18:32:10.000Z",
-    "createdAt": "2026-08-18T05:33:56.983Z",
-    "updatedAt": "2026-08-18T05:33:56.983Z"
+    "createdAt": "2026-08-18T06:51:24.093Z",
+    "updatedAt": "2026-08-18T06:51:24.093Z"
   },
   {
     "id": "7179c61054aeb223",
@@ -66,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a8349c09a79471015767e0c",
     "publishedAt": "2026-08-17T18:20:30.000Z",
-    "createdAt": "2026-08-18T05:33:55.967Z",
-    "updatedAt": "2026-08-18T05:33:55.967Z"
+    "createdAt": "2026-08-18T06:51:23.011Z",
+    "updatedAt": "2026-08-18T06:51:23.011Z"
   },
   {
     "id": "276eefe9fd82dfd2",
@@ -80,8 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a8340089a7947de3ce5e7e7",
     "publishedAt": "2026-08-17T17:27:19.000Z",
-    "createdAt": "2026-08-18T05:33:58.096Z",
-    "updatedAt": "2026-08-18T05:33:58.096Z"
+    "createdAt": "2026-08-18T06:51:25.198Z",
+    "updatedAt": "2026-08-18T06:51:25.198Z"
   },
   {
     "id": "507e875dd655517f",
@@ -94,36 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a8334599a79475cc706a5d8",
     "publishedAt": "2026-08-17T16:59:49.000Z",
-    "createdAt": "2026-08-18T05:33:58.988Z",
-    "updatedAt": "2026-08-18T05:33:58.988Z"
-  },
-  {
-    "id": "39bfd839f6412959",
-    "title": "Обладатель Кубка Стэнли Кузнецов дебютировал за «Сибирь»",
-    "sport": "Хоккей",
-    "category": "Хоккей",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/0/47/347869846330470.jpeg",
-    "teaser": "Обладатель Кубка Стэнли Кузнецов дебютировал за «Сибирь»",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a8334f09a7947a12be9e720",
-    "publishedAt": "2026-08-17T16:40:22.000Z",
-    "createdAt": "2026-08-18T05:33:59.999Z",
-    "updatedAt": "2026-08-18T05:33:59.999Z"
-  },
-  {
-    "id": "bab40b5dc720af96",
-    "title": "Неймара первым в чемпионате Бразилии вывели с поля из-за задержки матча",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/9/82/347869788106829.jpeg",
-    "teaser": "Неймара первым в чемпионате Бразилии вывели с поля из-за задержки матча",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a8321ba9a794775b3ecd31c",
-    "publishedAt": "2026-08-17T16:06:36.000Z",
-    "createdAt": "2026-08-18T05:34:01.076Z",
-    "updatedAt": "2026-08-18T05:34:01.076Z"
+    "createdAt": "2026-08-18T06:51:26.260Z",
+    "updatedAt": "2026-08-18T06:51:26.260Z"
   },
   {
     "id": "be727a6e67038ec6",
@@ -136,7 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a82d7b49a7947ca64b5ad54",
     "publishedAt": "2026-08-17T09:50:44.000Z",
-    "createdAt": "2026-08-18T05:33:54.115Z",
-    "updatedAt": "2026-08-18T05:33:54.115Z"
+    "createdAt": "2026-08-18T06:51:20.913Z",
+    "updatedAt": "2026-08-18T06:51:20.913Z"
   }
 ]
