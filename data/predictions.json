@@ -1,6 +1,6 @@
 [
   {
-    "id": 1787067367819,
+    "id": 1787070977662,
     "eventName": "Ростов — Локомотив Москва",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -16,7 +16,7 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1787067367820,
+    "id": 1787070977663,
     "eventName": "Ростов — Локомотив Москва",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -32,7 +32,7 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1787067367821,
+    "id": 1787070977664,
     "eventName": "Ростов — Локомотив Москва",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -48,7 +48,7 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1787067367822,
+    "id": 1787070977665,
     "eventName": "Ростов — Локомотив Москва",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -64,7 +64,7 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1787067367823,
+    "id": 1787070977666,
     "eventName": "Ростов — Локомотив Москва",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -80,7 +80,23 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1787067367824,
+    "id": 1787070977667,
+    "eventName": "Ахмат — Факел Воронеж",
+    "discipline": "Футбол",
+    "tournament": "Чемпионат",
+    "expert": {
+      "name": "Сергей Гориславец",
+      "avatar": "https://static-uploads.prod.bookmaker-ratings.ru/2025/06/A55E5521-F251-409B-9872-CFCC8E629075-684340c122a2a.jpg?width=60",
+      "status": "expert",
+      "winRate": 69
+    },
+    "prediction": "Ф1(0)",
+    "odds": 1.44,
+    "comment": "Арматура пои своих болельщиках думаю победит в сегодняшнем матче",
+    "source": "Sports Analytics Pro"
+  },
+  {
+    "id": 1787070977668,
     "eventName": "Фенербахче — Лион",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -96,7 +112,7 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1787067367825,
+    "id": 1787070977669,
     "eventName": "Матч",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -112,7 +128,7 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1787067367826,
+    "id": 1787070977670,
     "eventName": "Матч",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -128,7 +144,7 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1787067367827,
+    "id": 1787070977671,
     "eventName": "Матч",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -140,22 +156,6 @@
     },
     "prediction": "Ф1 (0)",
     "odds": 1.7,
-    "comment": "Комментарий к прогнозу",
-    "source": "Sports Analytics Pro"
-  },
-  {
-    "id": 1787067367828,
-    "eventName": "Матч",
-    "discipline": "Футбол",
-    "tournament": "Чемпионат",
-    "expert": {
-      "name": "Кубок России",
-      "avatar": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=100&h=100&fit=crop",
-      "status": "expert",
-      "winRate": 88
-    },
-    "prediction": "П1",
-    "odds": 2.25,
     "comment": "Комментарий к прогнозу",
     "source": "Sports Analytics Pro"
   }
