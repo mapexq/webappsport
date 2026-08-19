@@ -1,5 +1,61 @@
 [
   {
+    "id": "2cb5ed9bcad412c8",
+    "title": "«Краснодар» продлил победную серию в Кубке России, обыграв «Динамо»",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/3/92/347871676661923.jpeg",
+    "teaser": "«Краснодар» продлил победную серию в Кубке России, обыграв «Динамо»",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a85a8869a79472f15935770",
+    "publishedAt": "2026-08-19T19:47:23.000Z",
+    "createdAt": "2026-08-19T20:33:28.713Z",
+    "updatedAt": "2026-08-19T20:33:28.713Z"
+  },
+  {
+    "id": "e22be4925beac3e9",
+    "title": "ПСЖ сыграет первый матч Лиги 1 в гостях из-за плохого состояния поля дома",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/8/49/347871663382498.jpeg",
+    "teaser": "ПСЖ сыграет первый матч Лиги 1 в гостях из-за плохого состояния поля дома",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a85fb229a7947527fbdfbdc",
+    "publishedAt": "2026-08-19T19:41:14.000Z",
+    "createdAt": "2026-08-19T20:33:31.001Z",
+    "updatedAt": "2026-08-19T20:33:31.001Z"
+  },
+  {
+    "id": "0d35330edcb26dff",
+    "title": "Российский гимнаст уступил 0,001 балла и стал вторым в многоборье на ЧЕ",
+    "sport": "Другое",
+    "category": "Другие",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/9/54/347871674117549.jpeg",
+    "teaser": "Российский гимнаст уступил 0,001 балла и стал вторым в многоборье на ЧЕ",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a8601a19a794761bf465c2b",
+    "publishedAt": "2026-08-19T19:27:45.000Z",
+    "createdAt": "2026-08-19T20:33:29.818Z",
+    "updatedAt": "2026-08-19T20:33:29.818Z"
+  },
+  {
+    "id": "510c0c70202e3b9e",
+    "title": "Где детям играть в падел в России",
+    "sport": "Другое",
+    "category": "Другие",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/4/79/347870816407794.jpeg",
+    "teaser": "Где детям играть в падел в России",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a8229829a7947a97ff37799",
+    "publishedAt": "2026-08-19T19:21:33.000Z",
+    "createdAt": "2026-08-19T20:33:32.133Z",
+    "updatedAt": "2026-08-19T20:33:32.133Z"
+  },
+  {
     "id": "ef4d67e57bd79342",
     "title": "Андреева с «баранкой» проиграла украинке на «тысячнике» в Цинциннати",
     "sport": "Теннис",
@@ -10,8 +66,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a85ebe19a794724e081e393",
     "publishedAt": "2026-08-19T18:46:11.000Z",
-    "createdAt": "2026-08-19T19:29:44.882Z",
-    "updatedAt": "2026-08-19T19:29:44.882Z"
+    "createdAt": "2026-08-19T20:33:33.296Z",
+    "updatedAt": "2026-08-19T20:33:33.296Z"
   },
   {
     "id": "2878a76c29a05a08",
@@ -24,8 +80,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a85f3169a79475f2e240beb",
     "publishedAt": "2026-08-19T18:29:37.000Z",
-    "createdAt": "2026-08-19T19:29:46.910Z",
-    "updatedAt": "2026-08-19T19:29:46.910Z"
+    "createdAt": "2026-08-19T20:33:35.657Z",
+    "updatedAt": "2026-08-19T20:33:35.657Z"
   },
   {
     "id": "548f40c0e5fb229c",
@@ -38,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a85e2ed9a7947b2e7d7236b",
     "publishedAt": "2026-08-19T17:44:21.000Z",
-    "createdAt": "2026-08-19T19:29:47.955Z",
-    "updatedAt": "2026-08-19T19:29:47.955Z"
+    "createdAt": "2026-08-19T20:33:36.661Z",
+    "updatedAt": "2026-08-19T20:33:36.661Z"
   },
   {
     "id": "b9abd0c50f714be3",
@@ -52,8 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a85ab4f9a79476a38bae513",
     "publishedAt": "2026-08-19T17:43:01.000Z",
-    "createdAt": "2026-08-19T19:29:45.862Z",
-    "updatedAt": "2026-08-19T19:29:45.862Z"
+    "createdAt": "2026-08-19T20:33:34.485Z",
+    "updatedAt": "2026-08-19T20:33:34.485Z"
   },
   {
     "id": "bdacf252b3695a35",
@@ -66,8 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a85e0d49a79473b813b61f8",
     "publishedAt": "2026-08-19T17:22:58.000Z",
-    "createdAt": "2026-08-19T19:29:49.054Z",
-    "updatedAt": "2026-08-19T19:29:49.054Z"
+    "createdAt": "2026-08-19T20:33:38.217Z",
+    "updatedAt": "2026-08-19T20:33:38.217Z"
   },
   {
     "id": "8492db80a7616e33",
@@ -80,63 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a85ddbf9a79470b6bd5d9ef",
     "publishedAt": "2026-08-19T17:11:24.000Z",
-    "createdAt": "2026-08-19T19:29:49.980Z",
-    "updatedAt": "2026-08-19T19:29:49.980Z"
-  },
-  {
-    "id": "2f780611ac276a0d",
-    "title": "«Большие шлемы» создадут совет теннисистов для решения вопроса призовых",
-    "sport": "Теннис",
-    "category": "Теннис",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/8/50/347871568523508.jpeg",
-    "teaser": "«Большие шлемы» создадут совет теннисистов для решения вопроса призовых",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a85d3769a7947e5fae47dad",
-    "publishedAt": "2026-08-19T16:33:01.000Z",
-    "createdAt": "2026-08-19T19:29:54.049Z",
-    "updatedAt": "2026-08-19T19:29:54.049Z"
-  },
-  {
-    "id": "d70d69fa024583f2",
-    "title": "Пропавшего тренера английских легкоатлетов нашли в тюрьме в Марокко",
-    "sport": "Другое",
-    "category": "Другие",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/7/28/347871565123287.jpeg",
-    "teaser": "Пропавшего тренера английских легкоатлетов нашли в тюрьме в Марокко",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a85d5069a7947585286a23d",
-    "publishedAt": "2026-08-19T16:31:34.000Z",
-    "createdAt": "2026-08-19T19:29:50.906Z",
-    "updatedAt": "2026-08-19T19:29:50.906Z"
-  },
-  {
-    "id": "64fd2ee10ddf4940",
-    "title": "На какие турниры заявлены российские фигуристы после возвращения",
-    "sport": "Другое",
-    "category": "Фигурное катание",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/4/42/347870569945424.jpeg",
-    "teaser": "На какие турниры заявлены российские фигуристы после возвращения",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a843a569a79479f3884ee08",
-    "publishedAt": "2026-08-19T07:08:53.000Z",
-    "createdAt": "2026-08-19T19:29:51.947Z",
-    "updatedAt": "2026-08-19T19:29:51.947Z"
-  },
-  {
-    "id": "9280e66424347150",
-    "title": "Что нужно знать о первом турнире после возвращения российских фигуристов",
-    "sport": "Другое",
-    "category": "Фигурное катание",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/4/87/347870559688874.jpeg",
-    "teaser": "Что нужно знать о первом турнире после возвращения российских фигуристов",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a843a6a9a7947fe1d372033",
-    "publishedAt": "2026-08-19T05:33:00.000Z",
-    "createdAt": "2026-08-19T19:29:52.996Z",
-    "updatedAt": "2026-08-19T19:29:52.996Z"
+    "createdAt": "2026-08-19T20:33:39.442Z",
+    "updatedAt": "2026-08-19T20:33:39.442Z"
   }
 ]
