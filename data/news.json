@@ -1,5 +1,33 @@
 [
   {
+    "id": "3f921902b0e895ce",
+    "title": "На футбольном стадионе в Лондоне обнаружили тело мужчины",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/9/96/347871214929969.jpeg",
+    "teaser": "На футбольном стадионе в Лондоне обнаружили тело мужчины",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a8549429a794724eddd9def",
+    "publishedAt": "2026-08-19T07:33:56.000Z",
+    "createdAt": "2026-08-19T07:42:01.291Z",
+    "updatedAt": "2026-08-19T07:42:01.291Z"
+  },
+  {
+    "id": "64fd2ee10ddf4940",
+    "title": "На какие турниры заявлены российские фигуристы после возвращения",
+    "sport": "Другое",
+    "category": "Фигурное катание",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/4/42/347870569945424.jpeg",
+    "teaser": "На какие турниры заявлены российские фигуристы после возвращения",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a843a569a79479f3884ee08",
+    "publishedAt": "2026-08-19T07:08:53.000Z",
+    "createdAt": "2026-08-19T07:42:02.268Z",
+    "updatedAt": "2026-08-19T07:42:02.268Z"
+  },
+  {
     "id": "9280e66424347150",
     "title": "Что нужно знать о первом турнире после возвращения российских фигуристов",
     "sport": "Другое",
@@ -10,8 +38,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a843a6a9a7947fe1d372033",
     "publishedAt": "2026-08-19T05:33:00.000Z",
-    "createdAt": "2026-08-19T06:52:08.049Z",
-    "updatedAt": "2026-08-19T06:52:08.049Z"
+    "createdAt": "2026-08-19T07:42:03.253Z",
+    "updatedAt": "2026-08-19T07:42:03.253Z"
   },
   {
     "id": "ea83f68885d4fd0c",
@@ -24,8 +52,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a84b8399a7947bcd127ffe7",
     "publishedAt": "2026-08-18T20:27:02.000Z",
-    "createdAt": "2026-08-19T06:52:09.046Z",
-    "updatedAt": "2026-08-19T06:52:09.046Z"
+    "createdAt": "2026-08-19T07:42:04.215Z",
+    "updatedAt": "2026-08-19T07:42:04.215Z"
   },
   {
     "id": "1b0358966f52c50e",
@@ -38,8 +66,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a84b10d9a7947c0ad9b884e",
     "publishedAt": "2026-08-18T20:17:38.000Z",
-    "createdAt": "2026-08-19T06:52:10.034Z",
-    "updatedAt": "2026-08-19T06:52:10.034Z"
+    "createdAt": "2026-08-19T07:42:05.198Z",
+    "updatedAt": "2026-08-19T07:42:05.198Z"
   },
   {
     "id": "a7854bd361eb8e71",
@@ -52,8 +80,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a84ab879a79478dbe90eeaa",
     "publishedAt": "2026-08-18T19:57:44.000Z",
-    "createdAt": "2026-08-19T06:52:12.007Z",
-    "updatedAt": "2026-08-19T06:52:12.007Z"
+    "createdAt": "2026-08-19T07:42:07.074Z",
+    "updatedAt": "2026-08-19T07:42:07.074Z"
   },
   {
     "id": "209c696bb8acf5eb",
@@ -66,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a84acbd9a7947237fb430a5",
     "publishedAt": "2026-08-18T19:51:06.000Z",
-    "createdAt": "2026-08-19T06:52:11.024Z",
-    "updatedAt": "2026-08-19T06:52:11.024Z"
+    "createdAt": "2026-08-19T07:42:06.106Z",
+    "updatedAt": "2026-08-19T07:42:06.106Z"
   },
   {
     "id": "e25d2837563cb540",
@@ -80,8 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a84a7429a7947ac557f5042",
     "publishedAt": "2026-08-18T18:54:16.000Z",
-    "createdAt": "2026-08-19T06:52:12.993Z",
-    "updatedAt": "2026-08-19T06:52:12.993Z"
+    "createdAt": "2026-08-19T07:42:08.122Z",
+    "updatedAt": "2026-08-19T07:42:08.122Z"
   },
   {
     "id": "73940c02b3b3db6c",
@@ -94,22 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a849aef9a79478c5b8c6166",
     "publishedAt": "2026-08-18T18:27:30.000Z",
-    "createdAt": "2026-08-19T06:52:14.905Z",
-    "updatedAt": "2026-08-19T06:52:14.905Z"
-  },
-  {
-    "id": "cc6916a3669ed806",
-    "title": "Батраков не сыграет за «Локомотив» в Кубке после анонса перехода в Турцию",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/8/85/347870748667858.jpeg",
-    "teaser": "Батраков не сыграет за «Локомотив» в Кубке после анонса перехода в Турцию",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a84907f9a794772b5fa0efa",
-    "publishedAt": "2026-08-18T18:19:26.000Z",
-    "createdAt": "2026-08-19T06:52:15.839Z",
-    "updatedAt": "2026-08-19T06:52:15.839Z"
+    "createdAt": "2026-08-19T07:42:10.059Z",
+    "updatedAt": "2026-08-19T07:42:10.059Z"
   },
   {
     "id": "657b15950198569e",
@@ -122,21 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a849c9e9a7947ac557f5021",
     "publishedAt": "2026-08-18T18:17:29.000Z",
-    "createdAt": "2026-08-19T06:52:13.967Z",
-    "updatedAt": "2026-08-19T06:52:13.967Z"
-  },
-  {
-    "id": "9f61218f1acc0a97",
-    "title": "ЦСКА проиграл «Акрону» в матче Кубка России с отмененным голом",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/5/24/347870735975245.jpeg",
-    "teaser": "ЦСКА проиграл «Акрону» в матче Кубка России с отмененным голом",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a8481079a79477c3ab7415b",
-    "publishedAt": "2026-08-18T17:40:31.000Z",
-    "createdAt": "2026-08-19T06:52:16.854Z",
-    "updatedAt": "2026-08-19T06:52:16.854Z"
+    "createdAt": "2026-08-19T07:42:09.084Z",
+    "updatedAt": "2026-08-19T07:42:09.084Z"
   }
 ]
