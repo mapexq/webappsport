@@ -1,5 +1,19 @@
 [
   {
+    "id": "82e8d00730321350",
+    "title": "Чемпион мира Поль Погба ушел из «Монако»",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/0/47/347871292793470.jpeg",
+    "teaser": "Чемпион мира Поль Погба ушел из «Монако»",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a856cc79a79476d258350f0",
+    "publishedAt": "2026-08-19T09:13:48.000Z",
+    "createdAt": "2026-08-19T09:38:09.351Z",
+    "updatedAt": "2026-08-19T09:38:09.351Z"
+  },
+  {
     "id": "23591e1e03611c98",
     "title": "Матвей Сафонов попал в топ-10 лучших вратарей мира по версии ESPN",
     "sport": "Футбол",
@@ -10,8 +24,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a8561279a79471f9d46b97f",
     "publishedAt": "2026-08-19T08:21:34.000Z",
-    "createdAt": "2026-08-19T08:42:43.793Z",
-    "updatedAt": "2026-08-19T08:42:43.793Z"
+    "createdAt": "2026-08-19T09:38:10.390Z",
+    "updatedAt": "2026-08-19T09:38:10.390Z"
   },
   {
     "id": "1a0e4cadfe043b85",
@@ -24,8 +38,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a8554709a7947adbc130c46",
     "publishedAt": "2026-08-19T07:46:09.000Z",
-    "createdAt": "2026-08-19T08:42:45.534Z",
-    "updatedAt": "2026-08-19T08:42:45.534Z"
+    "createdAt": "2026-08-19T09:38:12.357Z",
+    "updatedAt": "2026-08-19T09:38:12.357Z"
   },
   {
     "id": "3f921902b0e895ce",
@@ -38,8 +52,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a8549429a794724eddd9def",
     "publishedAt": "2026-08-19T07:33:56.000Z",
-    "createdAt": "2026-08-19T08:42:48.659Z",
-    "updatedAt": "2026-08-19T08:42:48.659Z"
+    "createdAt": "2026-08-19T09:38:15.616Z",
+    "updatedAt": "2026-08-19T09:38:15.616Z"
   },
   {
     "id": "64fd2ee10ddf4940",
@@ -52,8 +66,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a843a569a79479f3884ee08",
     "publishedAt": "2026-08-19T07:08:53.000Z",
-    "createdAt": "2026-08-19T08:42:46.697Z",
-    "updatedAt": "2026-08-19T08:42:46.697Z"
+    "createdAt": "2026-08-19T09:38:13.429Z",
+    "updatedAt": "2026-08-19T09:38:13.429Z"
   },
   {
     "id": "9280e66424347150",
@@ -66,8 +80,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a843a6a9a7947fe1d372033",
     "publishedAt": "2026-08-19T05:33:00.000Z",
-    "createdAt": "2026-08-19T08:42:47.637Z",
-    "updatedAt": "2026-08-19T08:42:47.637Z"
+    "createdAt": "2026-08-19T09:38:14.558Z",
+    "updatedAt": "2026-08-19T09:38:14.558Z"
   },
   {
     "id": "ea83f68885d4fd0c",
@@ -80,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a84b8399a7947bcd127ffe7",
     "publishedAt": "2026-08-18T20:27:02.000Z",
-    "createdAt": "2026-08-19T08:42:49.633Z",
-    "updatedAt": "2026-08-19T08:42:49.633Z"
+    "createdAt": "2026-08-19T09:38:16.737Z",
+    "updatedAt": "2026-08-19T09:38:16.737Z"
   },
   {
     "id": "1b0358966f52c50e",
@@ -94,8 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a84b10d9a7947c0ad9b884e",
     "publishedAt": "2026-08-18T20:17:38.000Z",
-    "createdAt": "2026-08-19T08:42:50.628Z",
-    "updatedAt": "2026-08-19T08:42:50.628Z"
+    "createdAt": "2026-08-19T09:38:17.878Z",
+    "updatedAt": "2026-08-19T09:38:17.878Z"
   },
   {
     "id": "a7854bd361eb8e71",
@@ -108,8 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a84ab879a79478dbe90eeaa",
     "publishedAt": "2026-08-18T19:57:44.000Z",
-    "createdAt": "2026-08-19T08:42:52.609Z",
-    "updatedAt": "2026-08-19T08:42:52.609Z"
+    "createdAt": "2026-08-19T09:38:20.142Z",
+    "updatedAt": "2026-08-19T09:38:20.142Z"
   },
   {
     "id": "209c696bb8acf5eb",
@@ -122,21 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a84acbd9a7947237fb430a5",
     "publishedAt": "2026-08-18T19:51:06.000Z",
-    "createdAt": "2026-08-19T08:42:51.528Z",
-    "updatedAt": "2026-08-19T08:42:51.528Z"
-  },
-  {
-    "id": "e25d2837563cb540",
-    "title": "Андреева вышла в 1/8 финала в Цинциннати и установила рекорд «тысячников»",
-    "sport": "Теннис",
-    "category": "Теннис",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/7/05/347870790854057.jpeg",
-    "teaser": "Андреева вышла в 1/8 финала в Цинциннати и установила рекорд «тысячников»",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a84a7429a7947ac557f5042",
-    "publishedAt": "2026-08-18T18:54:16.000Z",
-    "createdAt": "2026-08-19T08:42:53.511Z",
-    "updatedAt": "2026-08-19T08:42:53.511Z"
+    "createdAt": "2026-08-19T09:38:19.020Z",
+    "updatedAt": "2026-08-19T09:38:19.020Z"
   }
 ]
