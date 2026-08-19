@@ -1,38 +1,6 @@
 [
   {
-    "id": 1787135596953,
-    "eventName": "Матч",
-    "discipline": "Футбол",
-    "tournament": "Чемпионат",
-    "expert": {
-      "name": "Andrey Agapov",
-      "avatar": "https://bookmaker-ratings.ru/static/images/badges/is-kapper.svg?v=30092024",
-      "status": "expert",
-      "winRate": 79
-    },
-    "prediction": "Индивидуальный тотал 2 Больше (1)",
-    "odds": 1.5,
-    "comment": "Пучхон 1995 все-таки прелставитель к - ллиги 1 , забивать по статусу должны",
-    "source": "Sports Analytics Pro"
-  },
-  {
-    "id": 1787135596954,
-    "eventName": "Аньян — Чеджу Юнайтед",
-    "discipline": "Футбол",
-    "tournament": "Чемпионат",
-    "expert": {
-      "name": "Andrey Agapov",
-      "avatar": "https://bookmaker-ratings.ru/static/images/badges/is-kapper.svg?v=30092024",
-      "status": "expert",
-      "winRate": 79
-    },
-    "prediction": "Тотал (2) Б",
-    "odds": 1.42,
-    "comment": "Эти команды, в личных, что с другими командами, легко пробивади этот Тотал",
-    "source": "Sports Analytics Pro"
-  },
-  {
-    "id": 1787135596955,
+    "id": 1787138958060,
     "eventName": "Крылья Советов — Зенит",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -48,7 +16,7 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1787135596956,
+    "id": 1787138958061,
     "eventName": "Крылья Советов — Зенит",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -64,7 +32,7 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1787135596957,
+    "id": 1787138958062,
     "eventName": "Крылья Советов — Зенит",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -80,7 +48,7 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1787135596958,
+    "id": 1787138958063,
     "eventName": "Крылья Советов — Зенит",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -96,7 +64,7 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1787135596959,
+    "id": 1787138958064,
     "eventName": "Рубин — Спартак",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -112,23 +80,7 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1787135596960,
-    "eventName": "Матч",
-    "discipline": "Футбол",
-    "tournament": "Чемпионат",
-    "expert": {
-      "name": "Пусан Ай",
-      "avatar": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=100&h=100&fit=crop",
-      "status": "expert",
-      "winRate": 69
-    },
-    "prediction": "Индивидуальный тотал 2 Больше (1)",
-    "odds": 1.5,
-    "comment": "Комментарий к прогнозу",
-    "source": "Sports Analytics Pro"
-  },
-  {
-    "id": 1787135596961,
+    "id": 1787138958065,
     "eventName": "Матч",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -144,7 +96,7 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1787135596962,
+    "id": 1787138958066,
     "eventName": "Матч",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -156,6 +108,54 @@
     },
     "prediction": "Ф1 (+1,5)",
     "odds": 1.8,
+    "comment": "Комментарий к прогнозу",
+    "source": "Sports Analytics Pro"
+  },
+  {
+    "id": 1787138958067,
+    "eventName": "Матч",
+    "discipline": "Футбол",
+    "tournament": "Чемпионат",
+    "expert": {
+      "name": "Крылья Советов",
+      "avatar": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=100&h=100&fit=crop",
+      "status": "expert",
+      "winRate": 83
+    },
+    "prediction": "П2/П2",
+    "odds": 2.01,
+    "comment": "Комментарий к прогнозу",
+    "source": "Sports Analytics Pro"
+  },
+  {
+    "id": 1787138958068,
+    "eventName": "Матч",
+    "discipline": "Футбол",
+    "tournament": "Чемпионат",
+    "expert": {
+      "name": "Крылья Советов",
+      "avatar": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=100&h=100&fit=crop",
+      "status": "expert",
+      "winRate": 83
+    },
+    "prediction": "Фора 2 (-1)",
+    "odds": 1.7,
+    "comment": "Комментарий к прогнозу",
+    "source": "Sports Analytics Pro"
+  },
+  {
+    "id": 1787138958069,
+    "eventName": "Матч",
+    "discipline": "Футбол",
+    "tournament": "Чемпионат",
+    "expert": {
+      "name": "Крылья Советов",
+      "avatar": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=100&h=100&fit=crop",
+      "status": "expert",
+      "winRate": 83
+    },
+    "prediction": "Индивидуальный тотал 2 Меньше (1.5)",
+    "odds": 2.5,
     "comment": "Комментарий к прогнозу",
     "source": "Sports Analytics Pro"
   }

@@ -1,5 +1,47 @@
 [
   {
+    "id": "e86a6620bc9a4129",
+    "title": "Жозе Моуринью назвал Мбаппе игроком космического уровня",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/7/61/347871375836617.jpeg",
+    "teaser": "Жозе Моуринью назвал Мбаппе игроком космического уровня",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a858b779a79475dc45a486f",
+    "publishedAt": "2026-08-19T11:19:55.000Z",
+    "createdAt": "2026-08-19T11:29:26.123Z",
+    "updatedAt": "2026-08-19T11:29:26.123Z"
+  },
+  {
+    "id": "cd570389be81f760",
+    "title": "Пилот «Формулы-1» сломал руку перед гонкой в Нидерландах",
+    "sport": "Другое",
+    "category": "Формула-1",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/3/61/347871365335613.jpeg",
+    "teaser": "Пилот «Формулы-1» сломал руку перед гонкой в Нидерландах",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a8585f19a794758bf6f94a6",
+    "publishedAt": "2026-08-19T11:00:11.000Z",
+    "createdAt": "2026-08-19T11:29:27.172Z",
+    "updatedAt": "2026-08-19T11:29:27.172Z"
+  },
+  {
+    "id": "0713293aa60f0907",
+    "title": "Вратарь сборной Японии перешел в «Астон Виллу» после срыва сделки с ПСЖ",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/9/02/347871341233029.jpeg",
+    "teaser": "Вратарь сборной Японии перешел в «Астон Виллу» после срыва сделки с ПСЖ",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a857f979a79476e59deb00e",
+    "publishedAt": "2026-08-19T10:40:39.000Z",
+    "createdAt": "2026-08-19T11:29:28.250Z",
+    "updatedAt": "2026-08-19T11:29:28.250Z"
+  },
+  {
     "id": "71649e941cd234a7",
     "title": "Моуринью на примере Родри объяснил, какие новички не нужны «Реалу»",
     "sport": "Футбол",
@@ -10,8 +52,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a8580489a79471836da7589",
     "publishedAt": "2026-08-19T10:25:24.000Z",
-    "createdAt": "2026-08-19T10:33:25.390Z",
-    "updatedAt": "2026-08-19T10:33:25.390Z"
+    "createdAt": "2026-08-19T11:29:24.332Z",
+    "updatedAt": "2026-08-19T11:29:24.332Z"
   },
   {
     "id": "4f46e6cf37e498d3",
@@ -24,8 +66,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a8576ef9a7947c1282cfb7c",
     "publishedAt": "2026-08-19T10:07:24.000Z",
-    "createdAt": "2026-08-19T10:33:26.602Z",
-    "updatedAt": "2026-08-19T10:33:26.602Z"
+    "createdAt": "2026-08-19T11:29:32.315Z",
+    "updatedAt": "2026-08-19T11:29:32.315Z"
   },
   {
     "id": "197f097fe09c95c7",
@@ -38,8 +80,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a85714f9a79475645f3336c",
     "publishedAt": "2026-08-19T09:47:57.000Z",
-    "createdAt": "2026-08-19T10:33:24.363Z",
-    "updatedAt": "2026-08-19T10:33:24.363Z"
+    "createdAt": "2026-08-19T11:29:31.277Z",
+    "updatedAt": "2026-08-19T11:29:31.277Z"
   },
   {
     "id": "82e8d00730321350",
@@ -52,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a856cc79a79476d258350f0",
     "publishedAt": "2026-08-19T09:13:48.000Z",
-    "createdAt": "2026-08-19T10:33:28.043Z",
-    "updatedAt": "2026-08-19T10:33:28.043Z"
+    "createdAt": "2026-08-19T11:29:33.234Z",
+    "updatedAt": "2026-08-19T11:29:33.234Z"
   },
   {
     "id": "23591e1e03611c98",
@@ -66,36 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a8561279a79471f9d46b97f",
     "publishedAt": "2026-08-19T08:21:34.000Z",
-    "createdAt": "2026-08-19T10:33:31.307Z",
-    "updatedAt": "2026-08-19T10:33:31.307Z"
-  },
-  {
-    "id": "1a0e4cadfe043b85",
-    "title": "Магнус Карлсен проиграл 14-летнему армянскому шахматисту",
-    "sport": "Другое",
-    "category": "Другие",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/0/72/347871250292720.jpeg",
-    "teaser": "Магнус Карлсен проиграл 14-летнему армянскому шахматисту",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a8554709a7947adbc130c46",
-    "publishedAt": "2026-08-19T07:46:09.000Z",
-    "createdAt": "2026-08-19T10:33:33.213Z",
-    "updatedAt": "2026-08-19T10:33:33.213Z"
-  },
-  {
-    "id": "3f921902b0e895ce",
-    "title": "На футбольном стадионе в Лондоне обнаружили тело мужчины",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/9/96/347871214929969.jpeg",
-    "teaser": "На футбольном стадионе в Лондоне обнаружили тело мужчины",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a8549429a794724eddd9def",
-    "publishedAt": "2026-08-19T07:33:56.000Z",
-    "createdAt": "2026-08-19T10:33:34.289Z",
-    "updatedAt": "2026-08-19T10:33:34.289Z"
+    "createdAt": "2026-08-19T11:29:34.158Z",
+    "updatedAt": "2026-08-19T11:29:34.158Z"
   },
   {
     "id": "64fd2ee10ddf4940",
@@ -108,8 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a843a569a79479f3884ee08",
     "publishedAt": "2026-08-19T07:08:53.000Z",
-    "createdAt": "2026-08-19T10:33:29.121Z",
-    "updatedAt": "2026-08-19T10:33:29.121Z"
+    "createdAt": "2026-08-19T11:29:29.281Z",
+    "updatedAt": "2026-08-19T11:29:29.281Z"
   },
   {
     "id": "9280e66424347150",
@@ -122,21 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a843a6a9a7947fe1d372033",
     "publishedAt": "2026-08-19T05:33:00.000Z",
-    "createdAt": "2026-08-19T10:33:30.229Z",
-    "updatedAt": "2026-08-19T10:33:30.229Z"
-  },
-  {
-    "id": "ea83f68885d4fd0c",
-    "title": "Звезда сборной Германии и «Баварии» раскрыл причины обмороков на матчах",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/8/09/347870836792098.jpeg",
-    "teaser": "Звезда сборной Германии и «Баварии» раскрыл причины обмороков на матчах",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a84b8399a7947bcd127ffe7",
-    "publishedAt": "2026-08-18T20:27:02.000Z",
-    "createdAt": "2026-08-19T10:33:35.415Z",
-    "updatedAt": "2026-08-19T10:33:35.415Z"
+    "createdAt": "2026-08-19T11:29:30.365Z",
+    "updatedAt": "2026-08-19T11:29:30.365Z"
   }
 ]
