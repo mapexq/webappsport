@@ -1,22 +1,6 @@
 [
   {
-    "id": 1787178535410,
-    "eventName": "Авай — Спорт Ресифи",
-    "discipline": "Футбол",
-    "tournament": "Чемпионат",
-    "expert": {
-      "name": "Andrey Agapov",
-      "avatar": "https://bookmaker-ratings.ru/static/images/badges/is-kapper.svg?v=30092024",
-      "status": "expert",
-      "winRate": 79
-    },
-    "prediction": "Тотал (2) Б",
-    "odds": 1.65,
-    "comment": "В личных встречах почти в каждом матче тотал пробиватся",
-    "source": "Sports Analytics Pro"
-  },
-  {
-    "id": 1787178535412,
+    "id": 1787181994996,
     "eventName": "Цинциннати — Нью-Йорк Сити",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -32,7 +16,7 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1787178535413,
+    "id": 1787181994998,
     "eventName": "Филадельфия Юнион — Интер Майами",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -48,7 +32,7 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1787178535414,
+    "id": 1787181994999,
     "eventName": "Балтика — Динамо Махачкала",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -64,7 +48,7 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1787178535415,
+    "id": 1787181995000,
     "eventName": "Арсенал — Ковентри Сити",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -80,7 +64,7 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1787178535416,
+    "id": 1787181995001,
     "eventName": "Матч",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -96,7 +80,7 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1787178535417,
+    "id": 1787181995002,
     "eventName": "Халл Сити — Манчестер Юнайтед",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -112,7 +96,7 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1787178535418,
+    "id": 1787181995003,
     "eventName": "Факел Воронеж — Оренбург",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -128,7 +112,7 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1787178535419,
+    "id": 1787181995004,
     "eventName": "Ноттингем Форест — Лидс Юнайтед",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -144,7 +128,7 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1787178535420,
+    "id": 1787181995005,
     "eventName": "Ипсвич Таун — Сандерленд",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -157,6 +141,22 @@
     "prediction": "Ничья",
     "odds": 3.29,
     "comment": "Ожидаю, что Ипсвич наберет очки в первой игре, но Сандерленд крепкий. Ничья смотрится.",
+    "source": "Sports Analytics Pro"
+  },
+  {
+    "id": 1787181995006,
+    "eventName": "Эвертон — Кристал Пэлэс",
+    "discipline": "Футбол",
+    "tournament": "Чемпионат",
+    "expert": {
+      "name": "Артур Галкин",
+      "avatar": "https://bookmaker-ratings.ru/static/images/badges/is-kapper.svg?v=30092024",
+      "status": "expert",
+      "winRate": 68
+    },
+    "prediction": "Индивидуальный тотал 2 Меньше (1)",
+    "odds": 1.95,
+    "comment": "Ожидаю, что Эвертон не пропустит больше гола. Кристал Пэлас перестраивается. Эвертон усилился Нёргором. Думаю, Эвертон победит 1:0",
     "source": "Sports Analytics Pro"
   }
 ]
