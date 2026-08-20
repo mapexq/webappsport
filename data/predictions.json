@@ -1,22 +1,6 @@
 [
   {
-    "id": 1787243972930,
-    "eventName": "КС Университатя — Арарат-Армения",
-    "discipline": "Футбол",
-    "tournament": "Чемпионат",
-    "expert": {
-      "name": "Николай Лозовенко",
-      "avatar": "https://bookmaker-ratings.ru/static/images/badges/is-kapper.svg?v=30092024",
-      "status": "expert",
-      "winRate": 89
-    },
-    "prediction": "Обе забьют - Да",
-    "odds": 2.01,
-    "comment": "хозяева обязаны забивать.но на мой взгляд дальше пройдет арарат.им тоже надо забивать",
-    "source": "Sports Analytics Pro"
-  },
-  {
-    "id": 1787243972932,
+    "id": 1787247234998,
     "eventName": "Балтика — Динамо Махачкала",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -32,7 +16,7 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1787243972933,
+    "id": 1787247234999,
     "eventName": "Балтика — Динамо Махачкала",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -48,7 +32,7 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1787243972934,
+    "id": 1787247235000,
     "eventName": "Балтика — Динамо Махачкала",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -64,7 +48,7 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1787243972935,
+    "id": 1787247235001,
     "eventName": "Горник — АС Монако",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -80,7 +64,7 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1787243972936,
+    "id": 1787247235002,
     "eventName": "Райо Вальекано — Алавес",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -96,7 +80,7 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1787243972937,
+    "id": 1787247235003,
     "eventName": "Матч",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -112,7 +96,7 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1787243972938,
+    "id": 1787247235004,
     "eventName": "Матч",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -128,7 +112,7 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1787243972939,
+    "id": 1787247235005,
     "eventName": "Матч",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -144,7 +128,7 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1787243972940,
+    "id": 1787247235006,
     "eventName": "Матч",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -156,6 +140,22 @@
     },
     "prediction": "Ф2 (-1,0)",
     "odds": 1.9,
+    "comment": "Комментарий к прогнозу",
+    "source": "Sports Analytics Pro"
+  },
+  {
+    "id": 1787247235007,
+    "eventName": "Матч",
+    "discipline": "Футбол",
+    "tournament": "Чемпионат",
+    "expert": {
+      "name": "Лига Конференций",
+      "avatar": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=100&h=100&fit=crop",
+      "status": "expert",
+      "winRate": 71
+    },
+    "prediction": "ТМ (3,0)",
+    "odds": 1.82,
     "comment": "Комментарий к прогнозу",
     "source": "Sports Analytics Pro"
   }

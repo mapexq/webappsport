@@ -1,5 +1,33 @@
 [
   {
+    "id": "5dd11aeb349d5dc0",
+    "title": "Чемпионка мира по бегу бросила спорт из-за редкой болезни",
+    "sport": "Теннис",
+    "category": "Теннис",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/9/41/347872446689419.jpeg",
+    "teaser": "Чемпионка мира по бегу бросила спорт из-за редкой болезни",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a872a119a794790368f7138",
+    "publishedAt": "2026-08-20T17:12:11.000Z",
+    "createdAt": "2026-08-20T17:34:05.227Z",
+    "updatedAt": "2026-08-20T17:34:05.227Z"
+  },
+  {
+    "id": "bd0cc94954ee2526",
+    "title": "Медведев после вылета с «Мастерс» сыграет еще на одном турнире до US Open",
+    "sport": "Теннис",
+    "category": "Теннис",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/0/86/347872438271860.jpeg",
+    "teaser": "Медведев после вылета с «Мастерс» сыграет еще на одном турнире до US Open",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a872d159a79473f3d17c40c",
+    "publishedAt": "2026-08-20T16:50:42.000Z",
+    "createdAt": "2026-08-20T17:34:02.295Z",
+    "updatedAt": "2026-08-20T17:34:02.295Z"
+  },
+  {
     "id": "c2f07e3e275e1253",
     "title": "Призовой фонд теннисного турнира впервые в истории превысит $100 млн",
     "sport": "Теннис",
@@ -10,8 +38,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a8720df9a794703c6ad9302",
     "publishedAt": "2026-08-20T16:08:01.000Z",
-    "createdAt": "2026-08-20T16:39:40.816Z",
-    "updatedAt": "2026-08-20T16:39:40.816Z"
+    "createdAt": "2026-08-20T17:34:06.259Z",
+    "updatedAt": "2026-08-20T17:34:06.259Z"
   },
   {
     "id": "776da10457c8bc9a",
@@ -24,8 +52,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a871c4a9a794720a17b8123",
     "publishedAt": "2026-08-20T15:48:20.000Z",
-    "createdAt": "2026-08-20T16:39:41.768Z",
-    "updatedAt": "2026-08-20T16:39:41.768Z"
+    "createdAt": "2026-08-20T17:34:07.267Z",
+    "updatedAt": "2026-08-20T17:34:07.267Z"
   },
   {
     "id": "fe5a4f3a5d2229bf",
@@ -38,8 +66,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a8704979a7947bb210b2275",
     "publishedAt": "2026-08-20T15:25:03.000Z",
-    "createdAt": "2026-08-20T16:39:44.660Z",
-    "updatedAt": "2026-08-20T16:39:44.660Z"
+    "createdAt": "2026-08-20T17:34:10.381Z",
+    "updatedAt": "2026-08-20T17:34:10.381Z"
   },
   {
     "id": "25e3174e5d4b71ea",
@@ -52,8 +80,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a8711fc9a794720a17b80f8",
     "publishedAt": "2026-08-20T15:07:26.000Z",
-    "createdAt": "2026-08-20T16:39:42.708Z",
-    "updatedAt": "2026-08-20T16:39:42.708Z"
+    "createdAt": "2026-08-20T17:34:08.327Z",
+    "updatedAt": "2026-08-20T17:34:08.327Z"
   },
   {
     "id": "3ef81712b39e9557",
@@ -66,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a87027f9a7947bb210b2262",
     "publishedAt": "2026-08-20T14:42:22.000Z",
-    "createdAt": "2026-08-20T16:39:45.668Z",
-    "updatedAt": "2026-08-20T16:39:45.668Z"
+    "createdAt": "2026-08-20T17:34:11.428Z",
+    "updatedAt": "2026-08-20T17:34:11.428Z"
   },
   {
     "id": "be65f86bf8bc394d",
@@ -80,8 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a870cc29a79471148fd2d7d",
     "publishedAt": "2026-08-20T14:32:10.000Z",
-    "createdAt": "2026-08-20T16:39:46.611Z",
-    "updatedAt": "2026-08-20T16:39:46.611Z"
+    "createdAt": "2026-08-20T17:34:12.513Z",
+    "updatedAt": "2026-08-20T17:34:12.513Z"
   },
   {
     "id": "9c2a11ad21ec23e3",
@@ -94,8 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a870dad9a7947880d6538fd",
     "publishedAt": "2026-08-20T14:26:42.000Z",
-    "createdAt": "2026-08-20T16:39:43.725Z",
-    "updatedAt": "2026-08-20T16:39:43.725Z"
+    "createdAt": "2026-08-20T17:34:09.299Z",
+    "updatedAt": "2026-08-20T17:34:09.299Z"
   },
   {
     "id": "325862b6b6b63291",
@@ -108,35 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a8704279a794784e437bb1a",
     "publishedAt": "2026-08-20T14:14:36.000Z",
-    "createdAt": "2026-08-20T16:39:39.790Z",
-    "updatedAt": "2026-08-20T16:39:39.790Z"
-  },
-  {
-    "id": "151e0f63c107ad85",
-    "title": "Двое российских фигуристов заявлены на турнир ISU в Италии",
-    "sport": "Другое",
-    "category": "Фигурное катание",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/1/67/347872318437671.jpeg",
-    "teaser": "Двое российских фигуристов заявлены на турнир ISU в Италии",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a86f98d9a79478ecc8cf886",
-    "publishedAt": "2026-08-20T13:24:45.000Z",
-    "createdAt": "2026-08-20T16:39:48.626Z",
-    "updatedAt": "2026-08-20T16:39:48.626Z"
-  },
-  {
-    "id": "6be5f1973831fe5b",
-    "title": "Самый дорогой игрок РПЛ назвал свою задачу после перехода в «Галатасарай»",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/8/59/347872268992598.png",
-    "teaser": "Самый дорогой игрок РПЛ назвал свою задачу после перехода в «Галатасарай»",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a86e8b39a79477801fd15ed",
-    "publishedAt": "2026-08-20T12:00:03.000Z",
-    "createdAt": "2026-08-20T16:39:47.623Z",
-    "updatedAt": "2026-08-20T16:39:47.623Z"
+    "createdAt": "2026-08-20T17:34:04.101Z",
+    "updatedAt": "2026-08-20T17:34:04.101Z"
   }
 ]
