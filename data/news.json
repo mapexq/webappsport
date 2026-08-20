@@ -1,5 +1,33 @@
 [
   {
+    "id": "c2f07e3e275e1253",
+    "title": "Призовой фонд теннисного турнира впервые в истории превысит $100 млн",
+    "sport": "Теннис",
+    "category": "Теннис",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/3/41/347872416178413.jpeg",
+    "teaser": "Призовой фонд теннисного турнира впервые в истории превысит $100 млн",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a8720df9a794703c6ad9302",
+    "publishedAt": "2026-08-20T16:08:01.000Z",
+    "createdAt": "2026-08-20T16:39:40.816Z",
+    "updatedAt": "2026-08-20T16:39:40.816Z"
+  },
+  {
+    "id": "776da10457c8bc9a",
+    "title": "Судивший финал Кубка России арбитр назначен на главный матч тура",
+    "sport": "Другое",
+    "category": "Другие",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/5/85/347872402070855.png",
+    "teaser": "Судивший финал Кубка России арбитр назначен на главный матч тура",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a871c4a9a794720a17b8123",
+    "publishedAt": "2026-08-20T15:48:20.000Z",
+    "createdAt": "2026-08-20T16:39:41.768Z",
+    "updatedAt": "2026-08-20T16:39:41.768Z"
+  },
+  {
     "id": "fe5a4f3a5d2229bf",
     "title": "Трехкратный обладатель Кубка Стэнли Брылин возглавил сборную Белоруссии",
     "sport": "Хоккей",
@@ -10,8 +38,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a8704979a7947bb210b2275",
     "publishedAt": "2026-08-20T15:25:03.000Z",
-    "createdAt": "2026-08-20T15:37:47.294Z",
-    "updatedAt": "2026-08-20T15:37:47.294Z"
+    "createdAt": "2026-08-20T16:39:44.660Z",
+    "updatedAt": "2026-08-20T16:39:44.660Z"
   },
   {
     "id": "25e3174e5d4b71ea",
@@ -24,8 +52,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a8711fc9a794720a17b80f8",
     "publishedAt": "2026-08-20T15:07:26.000Z",
-    "createdAt": "2026-08-20T15:37:46.351Z",
-    "updatedAt": "2026-08-20T15:37:46.351Z"
+    "createdAt": "2026-08-20T16:39:42.708Z",
+    "updatedAt": "2026-08-20T16:39:42.708Z"
   },
   {
     "id": "3ef81712b39e9557",
@@ -38,8 +66,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a87027f9a7947bb210b2262",
     "publishedAt": "2026-08-20T14:42:22.000Z",
-    "createdAt": "2026-08-20T15:37:49.346Z",
-    "updatedAt": "2026-08-20T15:37:49.346Z"
+    "createdAt": "2026-08-20T16:39:45.668Z",
+    "updatedAt": "2026-08-20T16:39:45.668Z"
   },
   {
     "id": "be65f86bf8bc394d",
@@ -52,8 +80,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a870cc29a79471148fd2d7d",
     "publishedAt": "2026-08-20T14:32:10.000Z",
-    "createdAt": "2026-08-20T15:37:50.350Z",
-    "updatedAt": "2026-08-20T15:37:50.350Z"
+    "createdAt": "2026-08-20T16:39:46.611Z",
+    "updatedAt": "2026-08-20T16:39:46.611Z"
   },
   {
     "id": "9c2a11ad21ec23e3",
@@ -66,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a870dad9a7947880d6538fd",
     "publishedAt": "2026-08-20T14:26:42.000Z",
-    "createdAt": "2026-08-20T15:37:48.330Z",
-    "updatedAt": "2026-08-20T15:37:48.330Z"
+    "createdAt": "2026-08-20T16:39:43.725Z",
+    "updatedAt": "2026-08-20T16:39:43.725Z"
   },
   {
     "id": "325862b6b6b63291",
@@ -80,8 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a8704279a794784e437bb1a",
     "publishedAt": "2026-08-20T14:14:36.000Z",
-    "createdAt": "2026-08-20T15:37:45.446Z",
-    "updatedAt": "2026-08-20T15:37:45.446Z"
+    "createdAt": "2026-08-20T16:39:39.790Z",
+    "updatedAt": "2026-08-20T16:39:39.790Z"
   },
   {
     "id": "151e0f63c107ad85",
@@ -94,36 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a86f98d9a79478ecc8cf886",
     "publishedAt": "2026-08-20T13:24:45.000Z",
-    "createdAt": "2026-08-20T15:37:52.374Z",
-    "updatedAt": "2026-08-20T15:37:52.374Z"
-  },
-  {
-    "id": "f19dc044c996fbef",
-    "title": "«СЭ» раскритиковал КХЛ за отказ в аккредитации Шевченко и Голышаку",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/7/71/347872299497717.jpeg",
-    "teaser": "«СЭ» раскритиковал КХЛ за отказ в аккредитации Шевченко и Голышаку",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a86ec4b9a7947222cd87c85",
-    "publishedAt": "2026-08-20T13:14:06.000Z",
-    "createdAt": "2026-08-20T15:37:53.657Z",
-    "updatedAt": "2026-08-20T15:37:53.657Z"
-  },
-  {
-    "id": "76f1ac70f288c898",
-    "title": "Россиянка вышла в лидеры на первом этапе Гран-при ISU после допуска",
-    "sport": "Другое",
-    "category": "Фигурное катание",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/6/36/347872293119366.png",
-    "teaser": "Россиянка вышла в лидеры на первом этапе Гран-при ISU после допуска",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a86ecd69a794745ad2c1544",
-    "publishedAt": "2026-08-20T12:31:59.000Z",
-    "createdAt": "2026-08-20T15:37:54.609Z",
-    "updatedAt": "2026-08-20T15:37:54.609Z"
+    "createdAt": "2026-08-20T16:39:48.626Z",
+    "updatedAt": "2026-08-20T16:39:48.626Z"
   },
   {
     "id": "6be5f1973831fe5b",
@@ -136,7 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a86e8b39a79477801fd15ed",
     "publishedAt": "2026-08-20T12:00:03.000Z",
-    "createdAt": "2026-08-20T15:37:51.363Z",
-    "updatedAt": "2026-08-20T15:37:51.363Z"
+    "createdAt": "2026-08-20T16:39:47.623Z",
+    "updatedAt": "2026-08-20T16:39:47.623Z"
   }
 ]
