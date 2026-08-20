@@ -1,6 +1,6 @@
 [
   {
-    "id": 1787222108279,
+    "id": 1787225457219,
     "eventName": "Кайрат — Андерлехт",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -16,7 +16,7 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1787222108280,
+    "id": 1787225457221,
     "eventName": "КС Университатя — Арарат-Армения",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -32,7 +32,7 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1787222108281,
+    "id": 1787225457222,
     "eventName": "Балтика — Динамо Махачкала",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -48,7 +48,7 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1787222108282,
+    "id": 1787225457223,
     "eventName": "Балтика — Динамо Махачкала",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -64,7 +64,7 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1787222108283,
+    "id": 1787225457224,
     "eventName": "Горник — АС Монако",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -80,7 +80,7 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1787222108284,
+    "id": 1787225457225,
     "eventName": "Райо Вальекано — Алавес",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -96,23 +96,7 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1787222108285,
-    "eventName": "Арсенал — Ковентри Сити",
-    "discipline": "Футбол",
-    "tournament": "Чемпионат",
-    "expert": {
-      "name": "Артур Галкин",
-      "avatar": "https://bookmaker-ratings.ru/static/images/badges/is-kapper.svg?v=30092024",
-      "status": "expert",
-      "winRate": 68
-    },
-    "prediction": "Обе забьют - Да",
-    "odds": 2.43,
-    "comment": "Поверю в банду Лэмпарда. У Арсенала нет Салибы - могут пропустить. Ожидаю, что 1 тур будет полон сюрпризов.",
-    "source": "Sports Analytics Pro"
-  },
-  {
-    "id": 1787222108286,
+    "id": 1787225457226,
     "eventName": "Матч",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -128,7 +112,7 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1787222108287,
+    "id": 1787225457227,
     "eventName": "Матч",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -144,7 +128,23 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1787222108288,
+    "id": 1787225457228,
+    "eventName": "Матч",
+    "discipline": "Футбол",
+    "tournament": "Чемпионат",
+    "expert": {
+      "name": "Лига Конференций",
+      "avatar": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=100&h=100&fit=crop",
+      "status": "expert",
+      "winRate": 71
+    },
+    "prediction": "ТМ (3,0)",
+    "odds": 1.82,
+    "comment": "Комментарий к прогнозу",
+    "source": "Sports Analytics Pro"
+  },
+  {
+    "id": 1787225457229,
     "eventName": "Матч",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
