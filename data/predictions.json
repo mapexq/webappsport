@@ -1,38 +1,6 @@
 [
   {
-    "id": 1787181994996,
-    "eventName": "Цинциннати — Нью-Йорк Сити",
-    "discipline": "Футбол",
-    "tournament": "Чемпионат",
-    "expert": {
-      "name": "Andrey Agapov",
-      "avatar": "https://bookmaker-ratings.ru/static/images/badges/is-kapper.svg?v=30092024",
-      "status": "expert",
-      "winRate": 79
-    },
-    "prediction": "Тотал (2.5) Б",
-    "odds": 1.45,
-    "comment": "Команды как прилично много забиваюи, но и пропускать не забывают",
-    "source": "Sports Analytics Pro"
-  },
-  {
-    "id": 1787181994998,
-    "eventName": "Филадельфия Юнион — Интер Майами",
-    "discipline": "Футбол",
-    "tournament": "Чемпионат",
-    "expert": {
-      "name": "Andrey Agapov",
-      "avatar": "https://bookmaker-ratings.ru/static/images/badges/is-kapper.svg?v=30092024",
-      "status": "expert",
-      "winRate": 79
-    },
-    "prediction": "Тотал (3) Б",
-    "odds": 1.48,
-    "comment": "Интер Майами в играх с Филадельфией забивалось минимум три гола",
-    "source": "Sports Analytics Pro"
-  },
-  {
-    "id": 1787181994999,
+    "id": 1787189689438,
     "eventName": "Балтика — Динамо Махачкала",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -48,7 +16,7 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1787181995000,
+    "id": 1787189689439,
     "eventName": "Арсенал — Ковентри Сити",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -64,7 +32,7 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1787181995001,
+    "id": 1787189689440,
     "eventName": "Матч",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -80,7 +48,7 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1787181995002,
+    "id": 1787189689441,
     "eventName": "Халл Сити — Манчестер Юнайтед",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -96,7 +64,7 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1787181995003,
+    "id": 1787189689442,
     "eventName": "Факел Воронеж — Оренбург",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -112,7 +80,7 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1787181995004,
+    "id": 1787189689443,
     "eventName": "Ноттингем Форест — Лидс Юнайтед",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -128,7 +96,7 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1787181995005,
+    "id": 1787189689444,
     "eventName": "Ипсвич Таун — Сандерленд",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -144,7 +112,7 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1787181995006,
+    "id": 1787189689445,
     "eventName": "Эвертон — Кристал Пэлэс",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -157,6 +125,38 @@
     "prediction": "Индивидуальный тотал 2 Меньше (1)",
     "odds": 1.95,
     "comment": "Ожидаю, что Эвертон не пропустит больше гола. Кристал Пэлас перестраивается. Эвертон усилился Нёргором. Думаю, Эвертон победит 1:0",
+    "source": "Sports Analytics Pro"
+  },
+  {
+    "id": 1787189689446,
+    "eventName": "Ахмат — Ростов",
+    "discipline": "Футбол",
+    "tournament": "Чемпионат",
+    "expert": {
+      "name": "Михаил Лубнин",
+      "avatar": "https://bookmaker-ratings.ru/static/images/badges/is-kapper.svg?v=30092024",
+      "status": "expert",
+      "winRate": 71
+    },
+    "prediction": "Тотал (2) Б",
+    "odds": 1.67,
+    "comment": "Ахмат и Ростов редко выдают низовые игры. Ахмат должен выиграть",
+    "source": "Sports Analytics Pro"
+  },
+  {
+    "id": 1787189689447,
+    "eventName": "Брентфорд — Тоттенхэм Хотспур",
+    "discipline": "Футбол",
+    "tournament": "Чемпионат",
+    "expert": {
+      "name": "Артур Галкин",
+      "avatar": "https://bookmaker-ratings.ru/static/images/badges/is-kapper.svg?v=30092024",
+      "status": "expert",
+      "winRate": 68
+    },
+    "prediction": "Фора 2 (0)",
+    "odds": 2,
+    "comment": "Тоттенхэм часто начинает чемпионат хорошо, ожидаю, что наберут в этом матче очки, безопасно с форой на шпор.",
     "source": "Sports Analytics Pro"
   }
 ]
