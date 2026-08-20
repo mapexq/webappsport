@@ -1,5 +1,47 @@
 [
   {
+    "id": "be65f86bf8bc394d",
+    "title": "Россияне вышли в лидеры после короткой программы на Гран-при ISU в Китае",
+    "sport": "Другое",
+    "category": "Фигурное катание",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/7/69/347872360787697.jpeg",
+    "teaser": "Россияне вышли в лидеры после короткой программы на Гран-при ISU в Китае",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a870cc29a79471148fd2d7d",
+    "publishedAt": "2026-08-20T14:32:10.000Z",
+    "createdAt": "2026-08-20T14:40:11.768Z",
+    "updatedAt": "2026-08-20T14:40:11.768Z"
+  },
+  {
+    "id": "9c2a11ad21ec23e3",
+    "title": "Пост Роналду о свадьбе догнал публикацию Месси с кубком и вошел в топ-20",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/5/71/347872358909715.jpeg",
+    "teaser": "Пост Роналду о свадьбе догнал публикацию Месси с кубком и вошел в топ-20",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a870dad9a7947880d6538fd",
+    "publishedAt": "2026-08-20T14:26:42.000Z",
+    "createdAt": "2026-08-20T14:40:10.830Z",
+    "updatedAt": "2026-08-20T14:40:10.830Z"
+  },
+  {
+    "id": "325862b6b6b63291",
+    "title": "Как самого дорогого футболиста РПЛ встретили в Турции. Видео",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/2/04/347872299613042.jpeg",
+    "teaser": "Как самого дорогого футболиста РПЛ встретили в Турции. Видео",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a8704279a794784e437bb1a",
+    "publishedAt": "2026-08-20T14:14:36.000Z",
+    "createdAt": "2026-08-20T14:40:09.974Z",
+    "updatedAt": "2026-08-20T14:40:09.974Z"
+  },
+  {
     "id": "151e0f63c107ad85",
     "title": "Двое российских фигуристов заявлены на турнир ISU в Италии",
     "sport": "Другое",
@@ -10,22 +52,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a86f98d9a79478ecc8cf886",
     "publishedAt": "2026-08-20T13:24:45.000Z",
-    "createdAt": "2026-08-20T13:52:22.089Z",
-    "updatedAt": "2026-08-20T13:52:22.089Z"
-  },
-  {
-    "id": "cf16a8b65b663db2",
-    "title": "Пост Роналду о свадьбе догнал пост Месси о праздновании победы на ЧМ-2022",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/5/90/347872305095905.jpeg",
-    "teaser": "Пост Роналду о свадьбе догнал пост Месси о праздновании победы на ЧМ-2022",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a86e6249a794737cab68777",
-    "publishedAt": "2026-08-20T13:16:01.000Z",
-    "createdAt": "2026-08-20T13:52:21.106Z",
-    "updatedAt": "2026-08-20T13:52:21.106Z"
+    "createdAt": "2026-08-20T14:40:13.942Z",
+    "updatedAt": "2026-08-20T14:40:13.942Z"
   },
   {
     "id": "f19dc044c996fbef",
@@ -38,8 +66,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a86ec4b9a7947222cd87c85",
     "publishedAt": "2026-08-20T13:14:06.000Z",
-    "createdAt": "2026-08-20T13:52:23.170Z",
-    "updatedAt": "2026-08-20T13:52:23.170Z"
+    "createdAt": "2026-08-20T14:40:14.937Z",
+    "updatedAt": "2026-08-20T14:40:14.937Z"
   },
   {
     "id": "76f1ac70f288c898",
@@ -52,8 +80,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a86ecd69a794745ad2c1544",
     "publishedAt": "2026-08-20T12:31:59.000Z",
-    "createdAt": "2026-08-20T13:52:24.227Z",
-    "updatedAt": "2026-08-20T13:52:24.227Z"
+    "createdAt": "2026-08-20T14:40:15.937Z",
+    "updatedAt": "2026-08-20T14:40:15.937Z"
   },
   {
     "id": "6be5f1973831fe5b",
@@ -66,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a86e8b39a79477801fd15ed",
     "publishedAt": "2026-08-20T12:00:03.000Z",
-    "createdAt": "2026-08-20T13:52:20.049Z",
-    "updatedAt": "2026-08-20T13:52:20.049Z"
+    "createdAt": "2026-08-20T14:40:12.942Z",
+    "updatedAt": "2026-08-20T14:40:12.942Z"
   },
   {
     "id": "768fd70362f32f89",
@@ -80,8 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a76f8c29a794745fe21f90f",
     "publishedAt": "2026-08-20T11:47:28.000Z",
-    "createdAt": "2026-08-20T13:52:27.837Z",
-    "updatedAt": "2026-08-20T13:52:27.837Z"
+    "createdAt": "2026-08-20T14:40:19.102Z",
+    "updatedAt": "2026-08-20T14:40:19.102Z"
   },
   {
     "id": "d4532472b0995eed",
@@ -94,8 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a86dacf9a7947f9d62afd9c",
     "publishedAt": "2026-08-20T11:02:22.000Z",
-    "createdAt": "2026-08-20T13:52:26.747Z",
-    "updatedAt": "2026-08-20T13:52:26.747Z"
+    "createdAt": "2026-08-20T14:40:18.045Z",
+    "updatedAt": "2026-08-20T14:40:18.045Z"
   },
   {
     "id": "458fd9890e354b80",
@@ -108,35 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a86cbc59a794702029c6455",
     "publishedAt": "2026-08-20T10:41:50.000Z",
-    "createdAt": "2026-08-20T13:52:25.704Z",
-    "updatedAt": "2026-08-20T13:52:25.704Z"
-  },
-  {
-    "id": "da9564a1a5be42ea",
-    "title": "Батраков вылетел в Турцию для медосмотра перед переходом в «Галатасарай»",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/3/22/347872206505223.jpeg",
-    "teaser": "Батраков вылетел в Турцию для медосмотра перед переходом в «Галатасарай»",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a86d2449a7947b19d47a66e",
-    "publishedAt": "2026-08-20T10:21:22.000Z",
-    "createdAt": "2026-08-20T13:52:28.954Z",
-    "updatedAt": "2026-08-20T13:52:28.954Z"
-  },
-  {
-    "id": "4033dbc647972e0e",
-    "title": "Четырехкратный чемпион «Формулы-1» Ферстаппен продлил контракт с Red Bull",
-    "sport": "Другое",
-    "category": "Формула-1",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/5/96/347872165741965.jpeg",
-    "teaser": "Четырехкратный чемпион «Формулы-1» Ферстаппен продлил контракт с Red Bull",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a86c2919a794780d5410e5e",
-    "publishedAt": "2026-08-20T09:41:08.000Z",
-    "createdAt": "2026-08-20T13:52:30.060Z",
-    "updatedAt": "2026-08-20T13:52:30.060Z"
+    "createdAt": "2026-08-20T14:40:16.984Z",
+    "updatedAt": "2026-08-20T14:40:16.984Z"
   }
 ]
