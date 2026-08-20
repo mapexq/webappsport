@@ -1,5 +1,47 @@
 [
   {
+    "id": "085f3fd9482668b7",
+    "title": "«Локомотив» обратился к Батракову после ухода в турецкий «Галатасарай»",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/3/61/347872564671613.jpeg",
+    "teaser": "«Локомотив» обратился к Батракову после ухода в турецкий «Галатасарай»",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a8758da9a79472a80689d8f",
+    "publishedAt": "2026-08-20T20:10:12.000Z",
+    "createdAt": "2026-08-20T20:33:45.740Z",
+    "updatedAt": "2026-08-20T20:33:45.740Z"
+  },
+  {
+    "id": "9fe29c757a743c46",
+    "title": "«Балтика» обыграла махачкалинское «Динамо» в Кубке России по пенальти",
+    "sport": "Теннис",
+    "category": "Теннис",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/4/39/347872536262394.jpeg",
+    "teaser": "«Балтика» обыграла махачкалинское «Динамо» в Кубке России по пенальти",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a8733079a79471dbeb2a832",
+    "publishedAt": "2026-08-20T20:07:10.000Z",
+    "createdAt": "2026-08-20T20:33:46.874Z",
+    "updatedAt": "2026-08-20T20:33:46.874Z"
+  },
+  {
+    "id": "0e93126e8e04c1d8",
+    "title": "Самый дорогой футболист РПЛ перешел в турецкий «Галатасарай»",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/4/47/347869781957474.jpeg",
+    "teaser": "Самый дорогой футболист РПЛ перешел в турецкий «Галатасарай»",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a831d3d9a794708837a9b27",
+    "publishedAt": "2026-08-20T19:33:50.000Z",
+    "createdAt": "2026-08-20T20:33:44.650Z",
+    "updatedAt": "2026-08-20T20:33:44.650Z"
+  },
+  {
     "id": "281fcfc27806cd6f",
     "title": "Новичок РПЛ объявил о переходе игравшего в Турции российского нападающего",
     "sport": "Футбол",
@@ -10,8 +52,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a87442e9a7947282a7f14fd",
     "publishedAt": "2026-08-20T18:55:58.000Z",
-    "createdAt": "2026-08-20T19:35:09.176Z",
-    "updatedAt": "2026-08-20T19:35:09.176Z"
+    "createdAt": "2026-08-20T20:33:49.145Z",
+    "updatedAt": "2026-08-20T20:33:49.145Z"
   },
   {
     "id": "fc08900b5c4a5f20",
@@ -24,8 +66,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a8739b69a79472fff52ff37",
     "publishedAt": "2026-08-20T17:50:27.000Z",
-    "createdAt": "2026-08-20T19:35:08.176Z",
-    "updatedAt": "2026-08-20T19:35:08.176Z"
+    "createdAt": "2026-08-20T20:33:48.006Z",
+    "updatedAt": "2026-08-20T20:33:48.006Z"
   },
   {
     "id": "b2dfcea011ca15d5",
@@ -38,8 +80,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a8735a29a7947c75136e36d",
     "publishedAt": "2026-08-20T17:34:00.000Z",
-    "createdAt": "2026-08-20T19:35:11.294Z",
-    "updatedAt": "2026-08-20T19:35:11.294Z"
+    "createdAt": "2026-08-20T20:33:51.410Z",
+    "updatedAt": "2026-08-20T20:33:51.410Z"
   },
   {
     "id": "25dcacdc12884083",
@@ -52,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a8730099a79477b08950f1d",
     "publishedAt": "2026-08-20T17:19:18.000Z",
-    "createdAt": "2026-08-20T19:35:10.225Z",
-    "updatedAt": "2026-08-20T19:35:10.225Z"
+    "createdAt": "2026-08-20T20:33:50.284Z",
+    "updatedAt": "2026-08-20T20:33:50.284Z"
   },
   {
     "id": "5dd11aeb349d5dc0",
@@ -66,8 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a872a119a794790368f7138",
     "publishedAt": "2026-08-20T17:12:11.000Z",
-    "createdAt": "2026-08-20T19:35:15.732Z",
-    "updatedAt": "2026-08-20T19:35:15.732Z"
+    "createdAt": "2026-08-20T20:33:55.672Z",
+    "updatedAt": "2026-08-20T20:33:55.672Z"
   },
   {
     "id": "bd0cc94954ee2526",
@@ -80,36 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a872d159a79473f3d17c40c",
     "publishedAt": "2026-08-20T16:50:42.000Z",
-    "createdAt": "2026-08-20T19:35:12.378Z",
-    "updatedAt": "2026-08-20T19:35:12.378Z"
-  },
-  {
-    "id": "c2f07e3e275e1253",
-    "title": "Призовой фонд теннисного турнира впервые в истории превысит $100 млн",
-    "sport": "Теннис",
-    "category": "Теннис",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/3/41/347872416178413.jpeg",
-    "teaser": "Призовой фонд теннисного турнира впервые в истории превысит $100 млн",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a8720df9a794703c6ad9302",
-    "publishedAt": "2026-08-20T16:08:01.000Z",
-    "createdAt": "2026-08-20T19:35:16.809Z",
-    "updatedAt": "2026-08-20T19:35:16.809Z"
-  },
-  {
-    "id": "776da10457c8bc9a",
-    "title": "Судивший финал Кубка России арбитр назначен на главный матч тура",
-    "sport": "Другое",
-    "category": "Другие",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/5/85/347872402070855.png",
-    "teaser": "Судивший финал Кубка России арбитр назначен на главный матч тура",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a871c4a9a794720a17b8123",
-    "publishedAt": "2026-08-20T15:48:20.000Z",
-    "createdAt": "2026-08-20T19:35:17.951Z",
-    "updatedAt": "2026-08-20T19:35:17.951Z"
+    "createdAt": "2026-08-20T20:33:52.537Z",
+    "updatedAt": "2026-08-20T20:33:52.537Z"
   },
   {
     "id": "325862b6b6b63291",
@@ -122,21 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a8704279a794784e437bb1a",
     "publishedAt": "2026-08-20T14:14:36.000Z",
-    "createdAt": "2026-08-20T19:35:14.668Z",
-    "updatedAt": "2026-08-20T19:35:14.668Z"
-  },
-  {
-    "id": "768fd70362f32f89",
-    "title": "Кого из российских фигуристов допустили на международные турниры",
-    "sport": "Другое",
-    "category": "Фигурное катание",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/3/48/347870523078483.jpeg",
-    "teaser": "Кого из российских фигуристов допустили на международные турниры",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a76f8c29a794745fe21f90f",
-    "publishedAt": "2026-08-20T11:47:28.000Z",
-    "createdAt": "2026-08-20T19:35:19.027Z",
-    "updatedAt": "2026-08-20T19:35:19.027Z"
+    "createdAt": "2026-08-20T20:33:54.590Z",
+    "updatedAt": "2026-08-20T20:33:54.590Z"
   }
 ]
