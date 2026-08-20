@@ -1,70 +1,6 @@
 [
   {
-    "id": 1787247234998,
-    "eventName": "Балтика — Динамо Махачкала",
-    "discipline": "Футбол",
-    "tournament": "Чемпионат",
-    "expert": {
-      "name": "Вячеслав Николаевич",
-      "avatar": "https://bookmaker-ratings.ru/static/images/badges/is-kapper.svg?v=30092024",
-      "status": "expert",
-      "winRate": 89
-    },
-    "prediction": "Тотал больше (2.5)",
-    "odds": 2.58,
-    "comment": "Балтика дома забивает достаточно, а Динамо в гостях играет результативно.",
-    "source": "Sports Analytics Pro"
-  },
-  {
-    "id": 1787247234999,
-    "eventName": "Балтика — Динамо Махачкала",
-    "discipline": "Футбол",
-    "tournament": "Чемпионат",
-    "expert": {
-      "name": "Vladimir Lapotko",
-      "avatar": "https://bookmaker-ratings.ru/static/images/badges/is-kapper.svg?v=30092024",
-      "status": "expert",
-      "winRate": 70
-    },
-    "prediction": "Обе забьют - Да",
-    "odds": 2.11,
-    "comment": "Комментарий к прогнозу",
-    "source": "Sports Analytics Pro"
-  },
-  {
-    "id": 1787247235000,
-    "eventName": "Балтика — Динамо Махачкала",
-    "discipline": "Футбол",
-    "tournament": "Чемпионат",
-    "expert": {
-      "name": "Юрий Солнцев",
-      "avatar": "https://static-uploads.prod.bookmaker-ratings.ru/2021/04/1-35-3.jpg?width=60",
-      "status": "expert",
-      "winRate": 87
-    },
-    "prediction": "ИТБ2 (0,5) до 60-й минуты",
-    "odds": 2.23,
-    "comment": "Матч ожидается не самым результативным. За «тотал больше 2,5» букмекеры предлагают коэффициент свыше 2,3. Но на деле игра может получиться не такой скучной, как многие ждут. Матч поздний, температура для футболистов будет комфортной. Никаких скидок на жару не будет. Да и в целом сегодня на побережье Балтики чуть выше 20 градусов. Поляна качественная, мешать не будет. Если уже говорить о чисто футбольных моментах, то Махачкала в этом сезоне забивала во всех встречах, даже в проигранной «Крыльям Советов» в первом туре. При Евсееве команда реально поменялась, стала более рисковой, никого не боится, стремится сама вести игру. Так наверняка будет и здесь, даже если главный тренер серьезно будет ротировать состав. Плюс ко всему динамовцы приезжают после яркой победы в Самаре, настроение шикарное. И они явно хотят побороться за выход в плей-офф, поэтому не намерены начинать с двух неудач. А у «Балтики» за спиной проигранный матч «Спартаку». Там ушло много эмоций, да и сил тоже. Конечно, Талалаев серьезно изменит стартовый состав. Но плюс ли это для калининградцев? В прошлом сезоне они в Кубке России даже из группы не вышли. Сейчас на старте уступили «Зениту». Кубковый турнир для них не в приоритете. К тому же мотивация после «Спартака» на Махачкалу будет не топовой. Поэтому оттолкнулся бы от гостей. Раз у них идет в атаке, то можно попробовать один из вариантов: либо гол «Динамо» до 60-й минуты, либо гол «Динамо» до 75-й минуты. В обоих случаях коэффициенты приятные.",
-    "source": "Sports Analytics Pro"
-  },
-  {
-    "id": 1787247235001,
-    "eventName": "Горник — АС Монако",
-    "discipline": "Футбол",
-    "tournament": "Чемпионат",
-    "expert": {
-      "name": "Вита Журенко",
-      "avatar": "https://bookmaker-ratings.ru/static/images/badges/is-kapper.svg?v=30092024",
-      "status": "expert",
-      "winRate": 83
-    },
-    "prediction": "Обе забьют - Да",
-    "odds": 1.8,
-    "comment": "Думаю обе команды смогут забить как минимум по одному голу",
-    "source": "Sports Analytics Pro"
-  },
-  {
-    "id": 1787247235002,
+    "id": 1787251613613,
     "eventName": "Райо Вальекано — Алавес",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -80,82 +16,146 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1787247235003,
+    "id": 1787251613614,
+    "eventName": "Арсенал — Ковентри Сити",
+    "discipline": "Футбол",
+    "tournament": "Чемпионат",
+    "expert": {
+      "name": "Артур Галкин",
+      "avatar": "https://bookmaker-ratings.ru/static/images/badges/is-kapper.svg?v=30092024",
+      "status": "expert",
+      "winRate": 68
+    },
+    "prediction": "Обе забьют - Да",
+    "odds": 2.43,
+    "comment": "Поверю в банду Лэмпарда. У Арсенала нет Салибы - могут пропустить. Ожидаю, что 1 тур будет полон сюрпризов.",
+    "source": "Sports Analytics Pro"
+  },
+  {
+    "id": 1787251613615,
     "eventName": "Матч",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
     "expert": {
-      "name": "Кубок России",
-      "avatar": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=100&h=100&fit=crop",
+      "name": "Ай Джи",
+      "avatar": "https://static-uploads.prod.bookmaker-ratings.ru/2016/10/aj-dzhi.png?width=60",
       "status": "expert",
-      "winRate": 88
+      "winRate": 89
     },
-    "prediction": "1-й гол — Балтика",
-    "odds": 1.85,
+    "prediction": "Ничья",
+    "odds": 4.6,
+    "comment": "Манчестер едет в гости к новичку-аутсайдеру, это старт сезона, команды только входят в форму, а такие матчи очень часто превращаются в вязкую игру с низкой результативностью и аккуратным футболом, где обе стороны в итоге довольствуются очком. В первом туре многие клубы ещё далеки от оптимальной физической и игровой формы, особенно после предсезонки и сборных. Манчестер может банально не сразу включиться в режим высокого прессинга и интенсивности, экспериментировать со схемой и ротацией. Халл же получит шанс сыграть максимально дисциплинированно, закрыто, без рисков, фокусируясь на 0:0 или 1:1 как идеальном старте сезона. В таких ситуациях фаворит зачастую не дожимает аутсайдера, а матч превращается в подвисший с малым количеством моментов.",
+    "source": "Sports Analytics Pro"
+  },
+  {
+    "id": 1787251613616,
+    "eventName": "Халл Сити — Манчестер Юнайтед",
+    "discipline": "Футбол",
+    "tournament": "Чемпионат",
+    "expert": {
+      "name": "Артур Галкин",
+      "avatar": "https://bookmaker-ratings.ru/static/images/badges/is-kapper.svg?v=30092024",
+      "status": "expert",
+      "winRate": 68
+    },
+    "prediction": "Обе забьют - Да",
+    "odds": 1.94,
     "comment": "Комментарий к прогнозу",
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1787247235004,
+    "id": 1787251613617,
+    "eventName": "Факел Воронеж — Оренбург",
+    "discipline": "Футбол",
+    "tournament": "Чемпионат",
+    "expert": {
+      "name": "Михаил Лубнин",
+      "avatar": "https://bookmaker-ratings.ru/static/images/badges/is-kapper.svg?v=30092024",
+      "status": "expert",
+      "winRate": 71
+    },
+    "prediction": "Тотал (3.5) М",
+    "odds": 1.25,
+    "comment": "Матч в Воронеже будет тяжелым для Оренбурга,поэтому будет рубка",
+    "source": "Sports Analytics Pro"
+  },
+  {
+    "id": 1787251613618,
+    "eventName": "Факел Воронеж — Оренбург",
+    "discipline": "Футбол",
+    "tournament": "Чемпионат",
+    "expert": {
+      "name": "Егор Скрябов",
+      "avatar": "https://bookmaker-ratings.ru/static/images/badges/is-kapper.svg?v=30092024",
+      "status": "expert",
+      "winRate": 87
+    },
+    "prediction": "Тотал (2.5) М",
+    "odds": 1.7,
+    "comment": "Ожидаю аккуратную закрытую равную игру 0:0; 1;1; 1:0; 0:1",
+    "source": "Sports Analytics Pro"
+  },
+  {
+    "id": 1787251613619,
+    "eventName": "Ноттингем Форест — Лидс Юнайтед",
+    "discipline": "Футбол",
+    "tournament": "Чемпионат",
+    "expert": {
+      "name": "Артур Галкин",
+      "avatar": "https://bookmaker-ratings.ru/static/images/badges/is-kapper.svg?v=30092024",
+      "status": "expert",
+      "winRate": 68
+    },
+    "prediction": "Тотал (3) Б",
+    "odds": 2.51,
+    "comment": "Ожидаю верховой матч, Ноттингем Форест перестраивается, Лидс может воспользоваться пространством.",
+    "source": "Sports Analytics Pro"
+  },
+  {
+    "id": 1787251613620,
+    "eventName": "Ипсвич Таун — Сандерленд",
+    "discipline": "Футбол",
+    "tournament": "Чемпионат",
+    "expert": {
+      "name": "Артур Галкин",
+      "avatar": "https://bookmaker-ratings.ru/static/images/badges/is-kapper.svg?v=30092024",
+      "status": "expert",
+      "winRate": 68
+    },
+    "prediction": "Ничья",
+    "odds": 3.29,
+    "comment": "Ожидаю, что Ипсвич наберет очки в первой игре, но Сандерленд крепкий. Ничья смотрится.",
+    "source": "Sports Analytics Pro"
+  },
+  {
+    "id": 1787251613621,
+    "eventName": "Эвертон — Кристал Пэлэс",
+    "discipline": "Футбол",
+    "tournament": "Чемпионат",
+    "expert": {
+      "name": "Артур Галкин",
+      "avatar": "https://bookmaker-ratings.ru/static/images/badges/is-kapper.svg?v=30092024",
+      "status": "expert",
+      "winRate": 68
+    },
+    "prediction": "Индивидуальный тотал 2 Меньше (1)",
+    "odds": 1.95,
+    "comment": "Ожидаю, что Эвертон не пропустит больше гола. Кристал Пэлас перестраивается. Эвертон усилился Нёргором. Думаю, Эвертон победит 1:0",
+    "source": "Sports Analytics Pro"
+  },
+  {
+    "id": 1787251613622,
     "eventName": "Матч",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
     "expert": {
-      "name": "Кубок России",
+      "name": "Райо Вальекано",
       "avatar": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=100&h=100&fit=crop",
       "status": "expert",
-      "winRate": 88
+      "winRate": 76
     },
     "prediction": "П1",
-    "odds": 1.78,
-    "comment": "Комментарий к прогнозу",
-    "source": "Sports Analytics Pro"
-  },
-  {
-    "id": 1787247235005,
-    "eventName": "Матч",
-    "discipline": "Футбол",
-    "tournament": "Чемпионат",
-    "expert": {
-      "name": "Кубок России",
-      "avatar": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=100&h=100&fit=crop",
-      "status": "expert",
-      "winRate": 88
-    },
-    "prediction": "ИТБ2 (0,5) до 60-й минуты",
-    "odds": 2.23,
-    "comment": "Комментарий к прогнозу",
-    "source": "Sports Analytics Pro"
-  },
-  {
-    "id": 1787247235006,
-    "eventName": "Матч",
-    "discipline": "Футбол",
-    "tournament": "Чемпионат",
-    "expert": {
-      "name": "Лига Конференций",
-      "avatar": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=100&h=100&fit=crop",
-      "status": "expert",
-      "winRate": 71
-    },
-    "prediction": "Ф2 (-1,0)",
-    "odds": 1.9,
-    "comment": "Комментарий к прогнозу",
-    "source": "Sports Analytics Pro"
-  },
-  {
-    "id": 1787247235007,
-    "eventName": "Матч",
-    "discipline": "Футбол",
-    "tournament": "Чемпионат",
-    "expert": {
-      "name": "Лига Конференций",
-      "avatar": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=100&h=100&fit=crop",
-      "status": "expert",
-      "winRate": 71
-    },
-    "prediction": "ТМ (3,0)",
-    "odds": 1.82,
+    "odds": 2.25,
     "comment": "Комментарий к прогнозу",
     "source": "Sports Analytics Pro"
   }
