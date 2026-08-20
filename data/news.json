@@ -1,5 +1,47 @@
 [
   {
+    "id": "fe5a4f3a5d2229bf",
+    "title": "Трехкратный обладатель Кубка Стэнли Брылин возглавил сборную Белоруссии",
+    "sport": "Хоккей",
+    "category": "Хоккей",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/9/52/347872337341529.png",
+    "teaser": "Трехкратный обладатель Кубка Стэнли Брылин возглавил сборную Белоруссии",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a8704979a7947bb210b2275",
+    "publishedAt": "2026-08-20T15:25:03.000Z",
+    "createdAt": "2026-08-20T15:37:47.294Z",
+    "updatedAt": "2026-08-20T15:37:47.294Z"
+  },
+  {
+    "id": "25e3174e5d4b71ea",
+    "title": "Организаторы «Большого шлема» объявили о создании совета теннисистов",
+    "sport": "Теннис",
+    "category": "Теннис",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/9/13/347872383271139.jpeg",
+    "teaser": "Организаторы «Большого шлема» объявили о создании совета теннисистов",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a8711fc9a794720a17b80f8",
+    "publishedAt": "2026-08-20T15:07:26.000Z",
+    "createdAt": "2026-08-20T15:37:46.351Z",
+    "updatedAt": "2026-08-20T15:37:46.351Z"
+  },
+  {
+    "id": "3ef81712b39e9557",
+    "title": "78-летний арбитр попал в Книгу рекордов Гиннесса после 63 сезонов работы",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/4/93/347872363440934.jpeg",
+    "teaser": "78-летний арбитр попал в Книгу рекордов Гиннесса после 63 сезонов работы",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a87027f9a7947bb210b2262",
+    "publishedAt": "2026-08-20T14:42:22.000Z",
+    "createdAt": "2026-08-20T15:37:49.346Z",
+    "updatedAt": "2026-08-20T15:37:49.346Z"
+  },
+  {
     "id": "be65f86bf8bc394d",
     "title": "Россияне вышли в лидеры после короткой программы на Гран-при ISU в Китае",
     "sport": "Другое",
@@ -10,8 +52,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a870cc29a79471148fd2d7d",
     "publishedAt": "2026-08-20T14:32:10.000Z",
-    "createdAt": "2026-08-20T14:40:11.768Z",
-    "updatedAt": "2026-08-20T14:40:11.768Z"
+    "createdAt": "2026-08-20T15:37:50.350Z",
+    "updatedAt": "2026-08-20T15:37:50.350Z"
   },
   {
     "id": "9c2a11ad21ec23e3",
@@ -24,8 +66,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a870dad9a7947880d6538fd",
     "publishedAt": "2026-08-20T14:26:42.000Z",
-    "createdAt": "2026-08-20T14:40:10.830Z",
-    "updatedAt": "2026-08-20T14:40:10.830Z"
+    "createdAt": "2026-08-20T15:37:48.330Z",
+    "updatedAt": "2026-08-20T15:37:48.330Z"
   },
   {
     "id": "325862b6b6b63291",
@@ -38,8 +80,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a8704279a794784e437bb1a",
     "publishedAt": "2026-08-20T14:14:36.000Z",
-    "createdAt": "2026-08-20T14:40:09.974Z",
-    "updatedAt": "2026-08-20T14:40:09.974Z"
+    "createdAt": "2026-08-20T15:37:45.446Z",
+    "updatedAt": "2026-08-20T15:37:45.446Z"
   },
   {
     "id": "151e0f63c107ad85",
@@ -52,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a86f98d9a79478ecc8cf886",
     "publishedAt": "2026-08-20T13:24:45.000Z",
-    "createdAt": "2026-08-20T14:40:13.942Z",
-    "updatedAt": "2026-08-20T14:40:13.942Z"
+    "createdAt": "2026-08-20T15:37:52.374Z",
+    "updatedAt": "2026-08-20T15:37:52.374Z"
   },
   {
     "id": "f19dc044c996fbef",
@@ -66,8 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a86ec4b9a7947222cd87c85",
     "publishedAt": "2026-08-20T13:14:06.000Z",
-    "createdAt": "2026-08-20T14:40:14.937Z",
-    "updatedAt": "2026-08-20T14:40:14.937Z"
+    "createdAt": "2026-08-20T15:37:53.657Z",
+    "updatedAt": "2026-08-20T15:37:53.657Z"
   },
   {
     "id": "76f1ac70f288c898",
@@ -80,8 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a86ecd69a794745ad2c1544",
     "publishedAt": "2026-08-20T12:31:59.000Z",
-    "createdAt": "2026-08-20T14:40:15.937Z",
-    "updatedAt": "2026-08-20T14:40:15.937Z"
+    "createdAt": "2026-08-20T15:37:54.609Z",
+    "updatedAt": "2026-08-20T15:37:54.609Z"
   },
   {
     "id": "6be5f1973831fe5b",
@@ -94,49 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a86e8b39a79477801fd15ed",
     "publishedAt": "2026-08-20T12:00:03.000Z",
-    "createdAt": "2026-08-20T14:40:12.942Z",
-    "updatedAt": "2026-08-20T14:40:12.942Z"
-  },
-  {
-    "id": "768fd70362f32f89",
-    "title": "Кого из российских фигуристов допустили на международные турниры",
-    "sport": "Другое",
-    "category": "Фигурное катание",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/3/48/347870523078483.jpeg",
-    "teaser": "Кого из российских фигуристов допустили на международные турниры",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a76f8c29a794745fe21f90f",
-    "publishedAt": "2026-08-20T11:47:28.000Z",
-    "createdAt": "2026-08-20T14:40:19.102Z",
-    "updatedAt": "2026-08-20T14:40:19.102Z"
-  },
-  {
-    "id": "d4532472b0995eed",
-    "title": "Клубы НХЛ «Бостон» и «Эдмонтон» в 2027 году проведут матчи в Германии",
-    "sport": "Хоккей",
-    "category": "Хоккей",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/1/57/347872236246571.jpeg",
-    "teaser": "Клубы НХЛ «Бостон» и «Эдмонтон» в 2027 году проведут матчи в Германии",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a86dacf9a7947f9d62afd9c",
-    "publishedAt": "2026-08-20T11:02:22.000Z",
-    "createdAt": "2026-08-20T14:40:18.045Z",
-    "updatedAt": "2026-08-20T14:40:18.045Z"
-  },
-  {
-    "id": "458fd9890e354b80",
-    "title": "Два мотогонщика за два дня погибли на Гран-при острова Мэн",
-    "sport": "Другое",
-    "category": "Другие",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/3/59/347872221119593.png",
-    "teaser": "Два мотогонщика за два дня погибли на Гран-при острова Мэн",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a86cbc59a794702029c6455",
-    "publishedAt": "2026-08-20T10:41:50.000Z",
-    "createdAt": "2026-08-20T14:40:16.984Z",
-    "updatedAt": "2026-08-20T14:40:16.984Z"
+    "createdAt": "2026-08-20T15:37:51.363Z",
+    "updatedAt": "2026-08-20T15:37:51.363Z"
   }
 ]
