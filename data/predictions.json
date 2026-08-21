@@ -1,22 +1,6 @@
 [
   {
-    "id": 1787320247552,
-    "eventName": "Навбахор — Насаф",
-    "discipline": "Футбол",
-    "tournament": "Чемпионат",
-    "expert": {
-      "name": "Вита Журенко",
-      "avatar": "https://bookmaker-ratings.ru/static/images/badges/novice-letter.svg?v=30092024",
-      "status": "expert",
-      "winRate": 83
-    },
-    "prediction": "Обе забьют (Да)",
-    "odds": 1.9,
-    "comment": "Думаю что обе команды смогут забить как минимум по голу друг другу",
-    "source": "Sports Analytics Pro"
-  },
-  {
-    "id": 1787320247553,
+    "id": 1787323160194,
     "eventName": "Матч",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -32,7 +16,7 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1787320247554,
+    "id": 1787323160195,
     "eventName": "ББ Эрзурум — Галатасарай",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -48,7 +32,7 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1787320247555,
+    "id": 1787323160196,
     "eventName": "Олимпик Марсель — Страсбур",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -64,7 +48,7 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1787320247556,
+    "id": 1787323160197,
     "eventName": "Ганза — Штутгарт",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -80,7 +64,7 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1787320247557,
+    "id": 1787323160198,
     "eventName": "Арсенал — Ковентри Сити",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -96,7 +80,7 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1787320247558,
+    "id": 1787323160199,
     "eventName": "Арсенал — Ковентри Сити",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -112,7 +96,7 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1787320247559,
+    "id": 1787323160200,
     "eventName": "Арсенал — Ковентри Сити",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -128,7 +112,7 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1787320247560,
+    "id": 1787323160201,
     "eventName": "Матч",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -144,7 +128,7 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1787320247561,
+    "id": 1787323160202,
     "eventName": "Халл Сити — Манчестер Юнайтед",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -156,6 +140,22 @@
     },
     "prediction": "Обе забьют - Да",
     "odds": 1.94,
+    "comment": "Комментарий к прогнозу",
+    "source": "Sports Analytics Pro"
+  },
+  {
+    "id": 1787323160203,
+    "eventName": "Матч",
+    "discipline": "Футбол",
+    "tournament": "Чемпионат",
+    "expert": {
+      "name": "Астон Вилла",
+      "avatar": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=100&h=100&fit=crop",
+      "status": "expert",
+      "winRate": 80
+    },
+    "prediction": "Индивидуальный тотал 2 Больше (1.5)",
+    "odds": 1.89,
     "comment": "Комментарий к прогнозу",
     "source": "Sports Analytics Pro"
   }
