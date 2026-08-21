@@ -1,119 +1,23 @@
 [
   {
-    "id": 1787337729581,
-    "eventName": "Олимпик Марсель — Страсбур",
+    "id": 1787340515561,
+    "eventName": "Матч",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
     "expert": {
-      "name": "Михаил Исламов",
-      "avatar": "https://static-uploads.prod.bookmaker-ratings.ru/2026/01/orig-rb-webp-697c318bb518c-697c318bbc509.webp?width=60",
+      "name": "Ай Джи",
+      "avatar": "https://static-uploads.prod.bookmaker-ratings.ru/2016/10/aj-dzhi.png?width=60",
       "status": "expert",
-      "winRate": 68
+      "winRate": 89
     },
-    "prediction": "Обе забьют - Да",
-    "odds": 1.54,
-    "comment": "Четыре из пяти последних встреч этих клубов завершились обоюдными голами.",
+    "prediction": "Ничья",
+    "odds": 4.6,
+    "comment": "Манчестер едет в гости к новичку-аутсайдеру, это старт сезона, команды только входят в форму, а такие матчи очень часто превращаются в вязкую игру с низкой результативностью и аккуратным футболом, где обе стороны в итоге довольствуются очком. В первом туре многие клубы ещё далеки от оптимальной физической и игровой формы, особенно после предсезонки и сборных. Манчестер может банально не сразу включиться в режим высокого прессинга и интенсивности, экспериментировать со схемой и ротацией. Халл же получит шанс сыграть максимально дисциплинированно, закрыто, без рисков, фокусируясь на 0:0 или 1:1 как идеальном старте сезона. В таких ситуациях фаворит зачастую не дожимает аутсайдера, а матч превращается в подвисший с малым количеством моментов.",
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1787337729582,
-    "eventName": "Ганза — Штутгарт",
-    "discipline": "Футбол",
-    "tournament": "Чемпионат",
-    "expert": {
-      "name": "Вита Журенко",
-      "avatar": "https://bookmaker-ratings.ru/static/images/badges/novice-letter.svg?v=30092024",
-      "status": "expert",
-      "winRate": 83
-    },
-    "prediction": "Обе забьют (Да)",
-    "odds": 1.95,
-    "comment": "Думаю обе команды смогут забить ка минимум по одному разу",
-    "source": "Sports Analytics Pro"
-  },
-  {
-    "id": 1787337729583,
-    "eventName": "Олимпик Марсель — Страсбур",
-    "discipline": "Футбол",
-    "tournament": "Чемпионат",
-    "expert": {
-      "name": "Никита За",
-      "avatar": "https://bookmaker-ratings.ru/static/images/badges/novice-letter.svg?v=30092024",
-      "status": "expert",
-      "winRate": 84
-    },
-    "prediction": "Обе забьют - Да",
-    "odds": 1.54,
-    "comment": "Команды играют в атакующий футбол,жаль что РБ не дает комбинированные ставки",
-    "source": "Sports Analytics Pro"
-  },
-  {
-    "id": 1787337729584,
-    "eventName": "Олимпик Марсель — Страсбур",
-    "discipline": "Футбол",
-    "tournament": "Чемпионат",
-    "expert": {
-      "name": "Никита Инсайдов",
-      "avatar": "https://bookmaker-ratings.ru/static/images/badges/novice-letter.svg?v=30092024",
-      "status": "expert",
-      "winRate": 80
-    },
-    "prediction": "Обе забьют - Да",
-    "odds": 1.54,
-    "comment": "Ставка выглядит очень надежно на обе забьют. Гол хозяев вообще не обсуждается, но и гости в прошлом сезоне на выезде забили в 82% случаев. Ожидаю интересный голевой футбол со счетом 2-1 в пользу хозяев. Себе поставил исход ОЗ+ТБ 2.5 за 1.8.",
-    "source": "Sports Analytics Pro"
-  },
-  {
-    "id": 1787337729585,
-    "eventName": "Олимпик Марсель — Страсбур",
-    "discipline": "Футбол",
-    "tournament": "Чемпионат",
-    "expert": {
-      "name": "Alex Fox",
-      "avatar": "https://bookmaker-ratings.ru/static/images/badges/forecaster-letter.svg?v=30092024",
-      "status": "expert",
-      "winRate": 79
-    },
-    "prediction": "Обе забьют (Да)",
-    "odds": 1.54,
-    "comment": "Команды обычно обмениваются голами, думаю и в матче открытия забьют",
-    "source": "Sports Analytics Pro"
-  },
-  {
-    "id": 1787337729586,
-    "eventName": "Олимпик Марсель — Страсбур",
-    "discipline": "Футбол",
-    "tournament": "Чемпионат",
-    "expert": {
-      "name": "Сергей Гориславец",
-      "avatar": "https://static-uploads.prod.bookmaker-ratings.ru/2025/06/A55E5521-F251-409B-9872-CFCC8E629075-684340c122a2a.jpg?width=60",
-      "status": "expert",
-      "winRate": 69
-    },
-    "prediction": "Обе забьют (Да)",
-    "odds": 1.54,
-    "comment": "Обе команды свежие, сезон только начинается, поэтому думаю, игра получится открытой и мы увидим обмен голами.",
-    "source": "Sports Analytics Pro"
-  },
-  {
-    "id": 1787337729587,
-    "eventName": "Олимпик Марсель — Страсбур",
-    "discipline": "Футбол",
-    "tournament": "Чемпионат",
-    "expert": {
-      "name": "Akhmad Akhokhov",
-      "avatar": "https://bookmaker-ratings.ru/static/images/badges/forecaster-letter.svg?v=30092024",
-      "status": "expert",
-      "winRate": 73
-    },
-    "prediction": "Тотал больше (3)",
-    "odds": 1.87,
-    "comment": "Почему бы и нет, римк игогда оправдан, думаю должны пробивапробивать тотал",
-    "source": "Sports Analytics Pro"
-  },
-  {
-    "id": 1787337729588,
-    "eventName": "Арсенал — Ковентри Сити",
+    "id": 1787340515562,
+    "eventName": "Халл Сити — Манчестер Юнайтед",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
     "expert": {
@@ -123,40 +27,136 @@
       "winRate": 68
     },
     "prediction": "Обе забьют - Да",
-    "odds": 2.43,
-    "comment": "Поверю в банду Лэмпарда. У Арсенала нет Салибы - могут пропустить. Ожидаю, что 1 тур будет полон сюрпризов.",
+    "odds": 1.94,
+    "comment": "Комментарий к прогнозу",
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1787337729589,
-    "eventName": "Арсенал — Ковентри Сити",
+    "id": 1787340515563,
+    "eventName": "Факел Воронеж — Оренбург",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
     "expert": {
-      "name": "Михаил Исламов",
-      "avatar": "https://static-uploads.prod.bookmaker-ratings.ru/2026/01/orig-rb-webp-697c318bb518c-697c318bbc509.webp?width=60",
+      "name": "Михаил Лубнин",
+      "avatar": "https://bookmaker-ratings.ru/static/images/badges/novice-letter.svg?v=30092024",
+      "status": "expert",
+      "winRate": 71
+    },
+    "prediction": "Тотал (3.5) М",
+    "odds": 1.25,
+    "comment": "Матч в Воронеже будет тяжелым для Оренбурга,поэтому будет рубка",
+    "source": "Sports Analytics Pro"
+  },
+  {
+    "id": 1787340515564,
+    "eventName": "Факел Воронеж — Оренбург",
+    "discipline": "Футбол",
+    "tournament": "Чемпионат",
+    "expert": {
+      "name": "Егор Скрябов",
+      "avatar": "https://bookmaker-ratings.ru/static/images/badges/novice-letter.svg?v=30092024",
+      "status": "expert",
+      "winRate": 87
+    },
+    "prediction": "Тотал (2.5) М",
+    "odds": 1.7,
+    "comment": "Ожидаю аккуратную закрытую равную игру 0:0; 1;1; 1:0; 0:1",
+    "source": "Sports Analytics Pro"
+  },
+  {
+    "id": 1787340515565,
+    "eventName": "Ноттингем Форест — Лидс Юнайтед",
+    "discipline": "Футбол",
+    "tournament": "Чемпионат",
+    "expert": {
+      "name": "Артур Галкин",
+      "avatar": "https://bookmaker-ratings.ru/static/images/badges/novice-letter.svg?v=30092024",
       "status": "expert",
       "winRate": 68
     },
-    "prediction": "Обе забьют - Да",
-    "odds": 2.41,
-    "comment": "Новичок премьер-лиги не будет сидеть в обороне и постарается забить.",
+    "prediction": "Тотал (3) Б",
+    "odds": 2.51,
+    "comment": "Ожидаю верховой матч, Ноттингем Форест перестраивается, Лидс может воспользоваться пространством.",
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1787337729591,
-    "eventName": "Арсенал — Ковентри Сити",
+    "id": 1787340515566,
+    "eventName": "Ипсвич Таун — Сандерленд",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
     "expert": {
-      "name": "Дмитрий Рыбалка",
-      "avatar": "https://static-uploads.prod.bookmaker-ratings.ru/2026/08/818-rb-webp-6a7c191851082-6a7c191854cb7.webp?width=60",
+      "name": "Артур Галкин",
+      "avatar": "https://bookmaker-ratings.ru/static/images/badges/novice-letter.svg?v=30092024",
       "status": "expert",
-      "winRate": 84
+      "winRate": 68
     },
-    "prediction": "Фора 1 (-1.5)",
-    "odds": 1.59,
-    "comment": "Победа Арсенала в стартовом туре, во всех аспектах Канониры фавориты предстоящего сезона.",
+    "prediction": "Ничья",
+    "odds": 3.29,
+    "comment": "Ожидаю, что Ипсвич наберет очки в первой игре, но Сандерленд крепкий. Ничья смотрится.",
+    "source": "Sports Analytics Pro"
+  },
+  {
+    "id": 1787340515567,
+    "eventName": "Эвертон — Кристал Пэлэс",
+    "discipline": "Футбол",
+    "tournament": "Чемпионат",
+    "expert": {
+      "name": "Артур Галкин",
+      "avatar": "https://bookmaker-ratings.ru/static/images/badges/novice-letter.svg?v=30092024",
+      "status": "expert",
+      "winRate": 68
+    },
+    "prediction": "Индивидуальный тотал 2 Меньше (1)",
+    "odds": 1.95,
+    "comment": "Ожидаю, что Эвертон не пропустит больше гола. Кристал Пэлас перестраивается. Эвертон усилился Нёргором. Думаю, Эвертон победит 1:0",
+    "source": "Sports Analytics Pro"
+  },
+  {
+    "id": 1787340515568,
+    "eventName": "Ахмат — Ростов",
+    "discipline": "Футбол",
+    "tournament": "Чемпионат",
+    "expert": {
+      "name": "Михаил Лубнин",
+      "avatar": "https://bookmaker-ratings.ru/static/images/badges/novice-letter.svg?v=30092024",
+      "status": "expert",
+      "winRate": 71
+    },
+    "prediction": "Тотал (2) Б",
+    "odds": 1.67,
+    "comment": "Ахмат и Ростов редко выдают низовые игры. Ахмат должен выиграть",
+    "source": "Sports Analytics Pro"
+  },
+  {
+    "id": 1787340515569,
+    "eventName": "Ахмат — Ростов",
+    "discipline": "Футбол",
+    "tournament": "Чемпионат",
+    "expert": {
+      "name": "Егор Скрябов",
+      "avatar": "https://bookmaker-ratings.ru/static/images/badges/novice-letter.svg?v=30092024",
+      "status": "expert",
+      "winRate": 87
+    },
+    "prediction": "Обе забьют - Да",
+    "odds": 1.93,
+    "comment": "Комментарий к прогнозу",
+    "source": "Sports Analytics Pro"
+  },
+  {
+    "id": 1787340515570,
+    "eventName": "Матч",
+    "discipline": "Футбол",
+    "tournament": "Чемпионат",
+    "expert": {
+      "name": "Факел Воронеж",
+      "avatar": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=100&h=100&fit=crop",
+      "status": "expert",
+      "winRate": 78
+    },
+    "prediction": "Тотал (3.5) М",
+    "odds": 1.25,
+    "comment": "Комментарий к прогнозу",
     "source": "Sports Analytics Pro"
   }
 ]
