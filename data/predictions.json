@@ -1,22 +1,6 @@
 [
   {
-    "id": 1787268572858,
-    "eventName": "Матч",
-    "discipline": "Футбол",
-    "tournament": "Чемпионат",
-    "expert": {
-      "name": "Александр Карпов",
-      "avatar": "https://static-uploads.prod.bookmaker-ratings.ru/2026/07/1000003509-rb-webp-6a55df313f2ef-6a55df314278d.webp?width=60",
-      "status": "expert",
-      "winRate": 85
-    },
-    "prediction": "Фора 2 (-3) (геймы)",
-    "odds": 1.68,
-    "comment": "Филс в прошлом матче ни разу не позволил брейкануть себя Де Минору, да и физическая нагрузка по ходу турнира на него была меньшей. Легкая победа Филса, если не будет проблем с 1 подачей",
-    "source": "Sports Analytics Pro"
-  },
-  {
-    "id": 1787268572859,
+    "id": 1787276380456,
     "eventName": "Арсенал — Ковентри Сити",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -32,7 +16,7 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1787268572860,
+    "id": 1787276380457,
     "eventName": "Матч",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -48,7 +32,7 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1787268572861,
+    "id": 1787276380458,
     "eventName": "Халл Сити — Манчестер Юнайтед",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -64,7 +48,7 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1787268572862,
+    "id": 1787276380459,
     "eventName": "Факел Воронеж — Оренбург",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -80,7 +64,7 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1787268572863,
+    "id": 1787276380460,
     "eventName": "Факел Воронеж — Оренбург",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -96,7 +80,7 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1787268572864,
+    "id": 1787276380461,
     "eventName": "Ноттингем Форест — Лидс Юнайтед",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -112,7 +96,7 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1787268572865,
+    "id": 1787276380462,
     "eventName": "Ипсвич Таун — Сандерленд",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -128,7 +112,7 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1787268572866,
+    "id": 1787276380463,
     "eventName": "Эвертон — Кристал Пэлэс",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -144,7 +128,7 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1787268572867,
+    "id": 1787276380464,
     "eventName": "Ахмат — Ростов",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -157,6 +141,22 @@
     "prediction": "Тотал (2) Б",
     "odds": 1.67,
     "comment": "Ахмат и Ростов редко выдают низовые игры. Ахмат должен выиграть",
+    "source": "Sports Analytics Pro"
+  },
+  {
+    "id": 1787276380465,
+    "eventName": "Ахмат — Ростов",
+    "discipline": "Футбол",
+    "tournament": "Чемпионат",
+    "expert": {
+      "name": "Егор Скрябов",
+      "avatar": "https://bookmaker-ratings.ru/static/images/badges/is-kapper.svg?v=30092024",
+      "status": "expert",
+      "winRate": 87
+    },
+    "prediction": "Обе забьют - Да",
+    "odds": 1.93,
+    "comment": "Комментарий к прогнозу",
     "source": "Sports Analytics Pro"
   }
 ]
