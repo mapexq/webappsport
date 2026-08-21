@@ -1,6 +1,22 @@
 [
   {
-    "id": 1787323160194,
+    "id": 1787326674649,
+    "eventName": "Торпедо Москва — Спартак Кострома",
+    "discipline": "Футбол",
+    "tournament": "Чемпионат",
+    "expert": {
+      "name": "Алим Калибатов",
+      "avatar": "https://static-uploads.prod.bookmaker-ratings.ru/2026/04/3dcfa3e614753a9566b9342464293-rb-webp-69d34c667554e-69d34c667cd17.webp?width=60",
+      "status": "expert",
+      "winRate": 73
+    },
+    "prediction": "Обе забьют - Да",
+    "odds": 2.06,
+    "comment": "Жду в матче открытый футбол. ФНЛ уже далеко не автобусная лига. И у Торпедо и костромского Спартака есть бреши в обороне и приличная атакующая линия. Мне здесь нравится Обе забьют за 2.06.",
+    "source": "Sports Analytics Pro"
+  },
+  {
+    "id": 1787326674650,
     "eventName": "Матч",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -16,7 +32,7 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1787323160195,
+    "id": 1787326674651,
     "eventName": "ББ Эрзурум — Галатасарай",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -32,7 +48,39 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1787323160196,
+    "id": 1787326674652,
+    "eventName": "ББ Эрзурум — Галатасарай",
+    "discipline": "Футбол",
+    "tournament": "Чемпионат",
+    "expert": {
+      "name": "Ку Кин",
+      "avatar": "https://static-uploads.prod.bookmaker-ratings.ru/2026/08/32172D9B-33C7-44C9-B0BB-281434E4042F-rb-webp-6a801d9384f1f-6a801d93887c9.webp?width=60",
+      "status": "expert",
+      "winRate": 86
+    },
+    "prediction": "Тотал больше (2.5)",
+    "odds": 1.66,
+    "comment": "После домашней результативной ничьи .Галатасарай с легкостью забьет 3 мяча",
+    "source": "Sports Analytics Pro"
+  },
+  {
+    "id": 1787326674653,
+    "eventName": "ББ Эрзурум — Галатасарай",
+    "discipline": "Футбол",
+    "tournament": "Чемпионат",
+    "expert": {
+      "name": "Никита За",
+      "avatar": "https://bookmaker-ratings.ru/static/images/badges/novice-letter.svg?v=30092024",
+      "status": "expert",
+      "winRate": 84
+    },
+    "prediction": "Фора 2 (-1)",
+    "odds": 1.8,
+    "comment": "Гостевая команда на голову сильнее,думаю 2 мяча точно вкатят и победят",
+    "source": "Sports Analytics Pro"
+  },
+  {
+    "id": 1787326674654,
     "eventName": "Олимпик Марсель — Страсбур",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -48,7 +96,7 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1787323160197,
+    "id": 1787326674655,
     "eventName": "Ганза — Штутгарт",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -64,87 +112,23 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1787323160198,
-    "eventName": "Арсенал — Ковентри Сити",
-    "discipline": "Футбол",
-    "tournament": "Чемпионат",
-    "expert": {
-      "name": "Артур Галкин",
-      "avatar": "https://bookmaker-ratings.ru/static/images/badges/novice-letter.svg?v=30092024",
-      "status": "expert",
-      "winRate": 68
-    },
-    "prediction": "Обе забьют - Да",
-    "odds": 2.43,
-    "comment": "Поверю в банду Лэмпарда. У Арсенала нет Салибы - могут пропустить. Ожидаю, что 1 тур будет полон сюрпризов.",
-    "source": "Sports Analytics Pro"
-  },
-  {
-    "id": 1787323160199,
-    "eventName": "Арсенал — Ковентри Сити",
-    "discipline": "Футбол",
-    "tournament": "Чемпионат",
-    "expert": {
-      "name": "Михаил Исламов",
-      "avatar": "https://static-uploads.prod.bookmaker-ratings.ru/2026/01/orig-rb-webp-697c318bb518c-697c318bbc509.webp?width=60",
-      "status": "expert",
-      "winRate": 68
-    },
-    "prediction": "Обе забьют - Да",
-    "odds": 2.41,
-    "comment": "Новичок премьер-лиги не будет сидеть в обороне и постарается забить.",
-    "source": "Sports Analytics Pro"
-  },
-  {
-    "id": 1787323160200,
-    "eventName": "Арсенал — Ковентри Сити",
-    "discipline": "Футбол",
-    "tournament": "Чемпионат",
-    "expert": {
-      "name": "Дмитрий Рыбалка",
-      "avatar": "https://static-uploads.prod.bookmaker-ratings.ru/2026/08/818-rb-webp-6a7c191851082-6a7c191854cb7.webp?width=60",
-      "status": "expert",
-      "winRate": 84
-    },
-    "prediction": "Фора 1 (-1.5)",
-    "odds": 1.59,
-    "comment": "Победа Арсенала в стартовом туре, во всех аспектах Канониры фавориты предстоящего сезона.",
-    "source": "Sports Analytics Pro"
-  },
-  {
-    "id": 1787323160201,
+    "id": 1787326674656,
     "eventName": "Матч",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
     "expert": {
-      "name": "Ай Джи",
-      "avatar": "https://static-uploads.prod.bookmaker-ratings.ru/2016/10/aj-dzhi.png?width=60",
+      "name": "Торпедо Москва",
+      "avatar": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=100&h=100&fit=crop",
       "status": "expert",
-      "winRate": 89
-    },
-    "prediction": "Ничья",
-    "odds": 4.6,
-    "comment": "Манчестер едет в гости к новичку-аутсайдеру, это старт сезона, команды только входят в форму, а такие матчи очень часто превращаются в вязкую игру с низкой результативностью и аккуратным футболом, где обе стороны в итоге довольствуются очком. В первом туре многие клубы ещё далеки от оптимальной физической и игровой формы, особенно после предсезонки и сборных. Манчестер может банально не сразу включиться в режим высокого прессинга и интенсивности, экспериментировать со схемой и ротацией. Халл же получит шанс сыграть максимально дисциплинированно, закрыто, без рисков, фокусируясь на 0:0 или 1:1 как идеальном старте сезона. В таких ситуациях фаворит зачастую не дожимает аутсайдера, а матч превращается в подвисший с малым количеством моментов.",
-    "source": "Sports Analytics Pro"
-  },
-  {
-    "id": 1787323160202,
-    "eventName": "Халл Сити — Манчестер Юнайтед",
-    "discipline": "Футбол",
-    "tournament": "Чемпионат",
-    "expert": {
-      "name": "Артур Галкин",
-      "avatar": "https://bookmaker-ratings.ru/static/images/badges/novice-letter.svg?v=30092024",
-      "status": "expert",
-      "winRate": 68
+      "winRate": 69
     },
     "prediction": "Обе забьют - Да",
-    "odds": 1.94,
+    "odds": 2.06,
     "comment": "Комментарий к прогнозу",
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1787323160203,
+    "id": 1787326674657,
     "eventName": "Матч",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -156,6 +140,22 @@
     },
     "prediction": "Индивидуальный тотал 2 Больше (1.5)",
     "odds": 1.89,
+    "comment": "Комментарий к прогнозу",
+    "source": "Sports Analytics Pro"
+  },
+  {
+    "id": 1787326674658,
+    "eventName": "Матч",
+    "discipline": "Футбол",
+    "tournament": "Чемпионат",
+    "expert": {
+      "name": "Олимпик Марсель",
+      "avatar": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=100&h=100&fit=crop",
+      "status": "expert",
+      "winRate": 87
+    },
+    "prediction": "П1 и ТБ (2,5)",
+    "odds": 2.25,
     "comment": "Комментарий к прогнозу",
     "source": "Sports Analytics Pro"
   }
