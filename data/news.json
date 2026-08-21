@@ -1,17 +1,45 @@
 [
   {
-    "id": "9087c43dd6549737",
-    "title": "Упустившая шанс возглавить рейтинг WTA Рыбакина рассказала от травме",
+    "id": "3a97ef73180e2667",
+    "title": "Главный талант России. Что важно знать о карьере футболиста Батракова",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/4/09/347869802814094.jpeg",
+    "teaser": "Главный талант России. Что важно знать о карьере футболиста Батракова",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a82ef1e9a79471c8400bcfd",
+    "publishedAt": "2026-08-21T08:13:46.000Z",
+    "createdAt": "2026-08-21T08:47:00.176Z",
+    "updatedAt": "2026-08-21T08:47:00.176Z"
+  },
+  {
+    "id": "eb18bafcdf248104",
+    "title": "Президент «Рубина» заявил, что Дзюба клубу «и бесплатно не нужен»",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/3/44/347872984843443.jpeg",
+    "teaser": "Президент «Рубина» заявил, что Дзюба клубу «и бесплатно не нужен»",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a87ff6c9a7947a9236071e9",
+    "publishedAt": "2026-08-21T08:04:26.000Z",
+    "createdAt": "2026-08-21T08:47:01.237Z",
+    "updatedAt": "2026-08-21T08:47:01.237Z"
+  },
+  {
+    "id": "a533c02c44b4ffb7",
+    "title": "Упустившая шанс возглавить рейтинг WTA Рыбакина рассказала о травме",
     "sport": "Теннис",
     "category": "Теннис",
     "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/1/22/347872961753221.jpeg",
-    "teaser": "Упустившая шанс возглавить рейтинг WTA Рыбакина рассказала от травме",
+    "teaser": "Упустившая шанс возглавить рейтинг WTA Рыбакина рассказала о травме",
     "fullContent": "",
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a87f5219a79476f603c8ae7",
     "publishedAt": "2026-08-21T07:30:12.000Z",
-    "createdAt": "2026-08-21T07:47:41.690Z",
-    "updatedAt": "2026-08-21T07:47:41.690Z"
+    "createdAt": "2026-08-21T08:47:04.467Z",
+    "updatedAt": "2026-08-21T08:47:04.467Z"
   },
   {
     "id": "dacbbee11cbf1768",
@@ -24,8 +52,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a82f37e9a7947a7ab373123",
     "publishedAt": "2026-08-21T07:12:31.000Z",
-    "createdAt": "2026-08-21T07:47:42.692Z",
-    "updatedAt": "2026-08-21T07:47:42.692Z"
+    "createdAt": "2026-08-21T08:47:02.376Z",
+    "updatedAt": "2026-08-21T08:47:02.376Z"
   },
   {
     "id": "9419b0bacae26c1e",
@@ -38,8 +66,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a87ed1f9a79475cacb15912",
     "publishedAt": "2026-08-21T07:08:02.000Z",
-    "createdAt": "2026-08-21T07:47:43.645Z",
-    "updatedAt": "2026-08-21T07:47:43.645Z"
+    "createdAt": "2026-08-21T08:47:06.498Z",
+    "updatedAt": "2026-08-21T08:47:06.498Z"
   },
   {
     "id": "e20aac4e81c3ac72",
@@ -52,8 +80,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a8591eb9a79475221dfcc0b",
     "publishedAt": "2026-08-21T06:05:03.000Z",
-    "createdAt": "2026-08-21T07:47:44.657Z",
-    "updatedAt": "2026-08-21T07:47:44.657Z"
+    "createdAt": "2026-08-21T08:47:03.400Z",
+    "updatedAt": "2026-08-21T08:47:03.400Z"
   },
   {
     "id": "10c5c21169b23dc6",
@@ -66,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a85919e9a7947a9d6f8c0da",
     "publishedAt": "2026-08-21T05:02:58.000Z",
-    "createdAt": "2026-08-21T07:47:45.690Z",
-    "updatedAt": "2026-08-21T07:47:45.690Z"
+    "createdAt": "2026-08-21T08:47:05.522Z",
+    "updatedAt": "2026-08-21T08:47:05.522Z"
   },
   {
     "id": "7bea4064df47bb06",
@@ -80,8 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a8733499a7947cc749e1fdc",
     "publishedAt": "2026-08-21T04:07:38.000Z",
-    "createdAt": "2026-08-21T07:47:46.714Z",
-    "updatedAt": "2026-08-21T07:47:46.714Z"
+    "createdAt": "2026-08-21T08:47:07.571Z",
+    "updatedAt": "2026-08-21T08:47:07.571Z"
   },
   {
     "id": "0a181001a3e5c6b1",
@@ -94,22 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a8765199a7947c76ea8acfb",
     "publishedAt": "2026-08-20T20:56:59.000Z",
-    "createdAt": "2026-08-21T07:47:47.908Z",
-    "updatedAt": "2026-08-21T07:47:47.908Z"
-  },
-  {
-    "id": "085f3fd9482668b7",
-    "title": "«Локомотив» обратился к Батракову после ухода в турецкий «Галатасарай»",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/3/61/347872564671613.jpeg",
-    "teaser": "«Локомотив» обратился к Батракову после ухода в турецкий «Галатасарай»",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a8758da9a79472a80689d8f",
-    "publishedAt": "2026-08-20T20:10:12.000Z",
-    "createdAt": "2026-08-21T07:47:49.851Z",
-    "updatedAt": "2026-08-21T07:47:49.851Z"
+    "createdAt": "2026-08-21T08:47:08.647Z",
+    "updatedAt": "2026-08-21T08:47:08.647Z"
   },
   {
     "id": "0e93126e8e04c1d8",
@@ -122,21 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a831d3d9a794708837a9b27",
     "publishedAt": "2026-08-20T19:33:50.000Z",
-    "createdAt": "2026-08-21T07:47:49.052Z",
-    "updatedAt": "2026-08-21T07:47:49.052Z"
-  },
-  {
-    "id": "fc08900b5c4a5f20",
-    "title": "Турецкая федерация зарегистрировала Батракова как игрока «Галатасарая»",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/6/02/347872476091026.jpeg",
-    "teaser": "Турецкая федерация зарегистрировала Батракова как игрока «Галатасарая»",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a8739b69a79472fff52ff37",
-    "publishedAt": "2026-08-20T17:50:27.000Z",
-    "createdAt": "2026-08-21T07:47:50.844Z",
-    "updatedAt": "2026-08-21T07:47:50.844Z"
+    "createdAt": "2026-08-21T08:47:09.788Z",
+    "updatedAt": "2026-08-21T08:47:09.788Z"
   }
 ]
