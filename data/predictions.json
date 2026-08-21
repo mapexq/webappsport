@@ -1,12 +1,92 @@
 [
   {
-    "id": 1787305273697,
+    "id": 1787308480587,
+    "eventName": "Навбахор — Насаф",
+    "discipline": "Футбол",
+    "tournament": "Чемпионат",
+    "expert": {
+      "name": "Вита Журенко",
+      "avatar": "https://bookmaker-ratings.ru/static/images/badges/novice-letter.svg?v=30092024",
+      "status": "expert",
+      "winRate": 83
+    },
+    "prediction": "Обе забьют (Да)",
+    "odds": 1.9,
+    "comment": "Думаю что обе команды смогут забить как минимум по голу друг другу",
+    "source": "Sports Analytics Pro"
+  },
+  {
+    "id": 1787308480588,
+    "eventName": "Матч",
+    "discipline": "Футбол",
+    "tournament": "Чемпионат",
+    "expert": {
+      "name": "Вита Журенко",
+      "avatar": "https://bookmaker-ratings.ru/static/images/badges/novice-letter.svg?v=30092024",
+      "status": "expert",
+      "winRate": 83
+    },
+    "prediction": "Индивидуальный тотал 2 Больше (1.5)",
+    "odds": 1.89,
+    "comment": "Думаю гости смогут забить как минимум два гола а может и больше",
+    "source": "Sports Analytics Pro"
+  },
+  {
+    "id": 1787308480589,
+    "eventName": "ББ Эрзурум — Галатасарай",
+    "discipline": "Футбол",
+    "tournament": "Чемпионат",
+    "expert": {
+      "name": "Дмитрий Рыбалка",
+      "avatar": "https://static-uploads.prod.bookmaker-ratings.ru/2026/08/818-rb-webp-6a7c191851082-6a7c191854cb7.webp?width=60",
+      "status": "expert",
+      "winRate": 84
+    },
+    "prediction": "Индивидуальный тотал 2 Больше (1.5)",
+    "odds": 1.5,
+    "comment": "После ничьей на старте, Галатасарай должен обыгрывать Эрзурум в гостях и ждать Нашего Алексея Батркова в стартовом составе.",
+    "source": "Sports Analytics Pro"
+  },
+  {
+    "id": 1787308480590,
+    "eventName": "Олимпик Марсель — Страсбур",
+    "discipline": "Футбол",
+    "tournament": "Чемпионат",
+    "expert": {
+      "name": "Михаил Исламов",
+      "avatar": "https://static-uploads.prod.bookmaker-ratings.ru/2026/01/orig-rb-webp-697c318bb518c-697c318bbc509.webp?width=60",
+      "status": "expert",
+      "winRate": 68
+    },
+    "prediction": "Обе забьют - Да",
+    "odds": 1.54,
+    "comment": "Четыре из пяти последних встреч этих клубов завершились обоюдными голами.",
+    "source": "Sports Analytics Pro"
+  },
+  {
+    "id": 1787308480591,
+    "eventName": "Ганза — Штутгарт",
+    "discipline": "Футбол",
+    "tournament": "Чемпионат",
+    "expert": {
+      "name": "Вита Журенко",
+      "avatar": "https://bookmaker-ratings.ru/static/images/badges/novice-letter.svg?v=30092024",
+      "status": "expert",
+      "winRate": 83
+    },
+    "prediction": "Обе забьют (Да)",
+    "odds": 1.95,
+    "comment": "Думаю обе команды смогут забить ка минимум по одному разу",
+    "source": "Sports Analytics Pro"
+  },
+  {
+    "id": 1787308480592,
     "eventName": "Арсенал — Ковентри Сити",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
     "expert": {
       "name": "Артур Галкин",
-      "avatar": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=100&h=100&fit=crop",
+      "avatar": "https://bookmaker-ratings.ru/static/images/badges/novice-letter.svg?v=30092024",
       "status": "expert",
       "winRate": 68
     },
@@ -16,7 +96,39 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1787305273698,
+    "id": 1787308480593,
+    "eventName": "Арсенал — Ковентри Сити",
+    "discipline": "Футбол",
+    "tournament": "Чемпионат",
+    "expert": {
+      "name": "Михаил Исламов",
+      "avatar": "https://static-uploads.prod.bookmaker-ratings.ru/2026/01/orig-rb-webp-697c318bb518c-697c318bbc509.webp?width=60",
+      "status": "expert",
+      "winRate": 68
+    },
+    "prediction": "Обе забьют - Да",
+    "odds": 2.41,
+    "comment": "Новичок премьер-лиги не будет сидеть в обороне и постарается забить.",
+    "source": "Sports Analytics Pro"
+  },
+  {
+    "id": 1787308480594,
+    "eventName": "Арсенал — Ковентри Сити",
+    "discipline": "Футбол",
+    "tournament": "Чемпионат",
+    "expert": {
+      "name": "Дмитрий Рыбалка",
+      "avatar": "https://static-uploads.prod.bookmaker-ratings.ru/2026/08/818-rb-webp-6a7c191851082-6a7c191854cb7.webp?width=60",
+      "status": "expert",
+      "winRate": 84
+    },
+    "prediction": "Фора 1 (-1.5)",
+    "odds": 1.59,
+    "comment": "Победа Арсенала в стартовом туре, во всех аспектах Канониры фавориты предстоящего сезона.",
+    "source": "Sports Analytics Pro"
+  },
+  {
+    "id": 1787308480595,
     "eventName": "Матч",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -32,130 +144,18 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1787305273699,
+    "id": 1787308480596,
     "eventName": "Халл Сити — Манчестер Юнайтед",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
     "expert": {
       "name": "Артур Галкин",
-      "avatar": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=100&h=100&fit=crop",
+      "avatar": "https://bookmaker-ratings.ru/static/images/badges/novice-letter.svg?v=30092024",
       "status": "expert",
       "winRate": 68
     },
     "prediction": "Обе забьют - Да",
     "odds": 1.94,
-    "comment": "Комментарий к прогнозу",
-    "source": "Sports Analytics Pro"
-  },
-  {
-    "id": 1787305273700,
-    "eventName": "Факел Воронеж — Оренбург",
-    "discipline": "Футбол",
-    "tournament": "Чемпионат",
-    "expert": {
-      "name": "Михаил Лубнин",
-      "avatar": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=100&h=100&fit=crop",
-      "status": "expert",
-      "winRate": 71
-    },
-    "prediction": "Тотал (3.5) М",
-    "odds": 1.25,
-    "comment": "Матч в Воронеже будет тяжелым для Оренбурга,поэтому будет рубка",
-    "source": "Sports Analytics Pro"
-  },
-  {
-    "id": 1787305273701,
-    "eventName": "Факел Воронеж — Оренбург",
-    "discipline": "Футбол",
-    "tournament": "Чемпионат",
-    "expert": {
-      "name": "Егор Скрябов",
-      "avatar": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=100&h=100&fit=crop",
-      "status": "expert",
-      "winRate": 87
-    },
-    "prediction": "Тотал (2.5) М",
-    "odds": 1.7,
-    "comment": "Ожидаю аккуратную закрытую равную игру 0:0; 1;1; 1:0; 0:1",
-    "source": "Sports Analytics Pro"
-  },
-  {
-    "id": 1787305273702,
-    "eventName": "Ноттингем Форест — Лидс Юнайтед",
-    "discipline": "Футбол",
-    "tournament": "Чемпионат",
-    "expert": {
-      "name": "Артур Галкин",
-      "avatar": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=100&h=100&fit=crop",
-      "status": "expert",
-      "winRate": 68
-    },
-    "prediction": "Тотал (3) Б",
-    "odds": 2.51,
-    "comment": "Ожидаю верховой матч, Ноттингем Форест перестраивается, Лидс может воспользоваться пространством.",
-    "source": "Sports Analytics Pro"
-  },
-  {
-    "id": 1787305273703,
-    "eventName": "Ипсвич Таун — Сандерленд",
-    "discipline": "Футбол",
-    "tournament": "Чемпионат",
-    "expert": {
-      "name": "Артур Галкин",
-      "avatar": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=100&h=100&fit=crop",
-      "status": "expert",
-      "winRate": 68
-    },
-    "prediction": "Ничья",
-    "odds": 3.29,
-    "comment": "Ожидаю, что Ипсвич наберет очки в первой игре, но Сандерленд крепкий. Ничья смотрится.",
-    "source": "Sports Analytics Pro"
-  },
-  {
-    "id": 1787305273704,
-    "eventName": "Эвертон — Кристал Пэлэс",
-    "discipline": "Футбол",
-    "tournament": "Чемпионат",
-    "expert": {
-      "name": "Артур Галкин",
-      "avatar": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=100&h=100&fit=crop",
-      "status": "expert",
-      "winRate": 68
-    },
-    "prediction": "Индивидуальный тотал 2 Меньше (1)",
-    "odds": 1.95,
-    "comment": "Ожидаю, что Эвертон не пропустит больше гола. Кристал Пэлас перестраивается. Эвертон усилился Нёргором. Думаю, Эвертон победит 1:0",
-    "source": "Sports Analytics Pro"
-  },
-  {
-    "id": 1787305273705,
-    "eventName": "Ахмат — Ростов",
-    "discipline": "Футбол",
-    "tournament": "Чемпионат",
-    "expert": {
-      "name": "Михаил Лубнин",
-      "avatar": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=100&h=100&fit=crop",
-      "status": "expert",
-      "winRate": 71
-    },
-    "prediction": "Тотал (2) Б",
-    "odds": 1.67,
-    "comment": "Ахмат и Ростов редко выдают низовые игры. Ахмат должен выиграть",
-    "source": "Sports Analytics Pro"
-  },
-  {
-    "id": 1787305273706,
-    "eventName": "Ахмат — Ростов",
-    "discipline": "Футбол",
-    "tournament": "Чемпионат",
-    "expert": {
-      "name": "Егор Скрябов",
-      "avatar": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=100&h=100&fit=crop",
-      "status": "expert",
-      "winRate": 87
-    },
-    "prediction": "Обе забьют - Да",
-    "odds": 1.93,
     "comment": "Комментарий к прогнозу",
     "source": "Sports Analytics Pro"
   }
