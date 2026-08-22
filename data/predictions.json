@@ -1,54 +1,6 @@
 [
   {
-    "id": 1787423804664,
-    "eventName": "Дженоа — Наполи",
-    "discipline": "Футбол",
-    "tournament": "Чемпионат",
-    "expert": {
-      "name": "Алим Калибатов",
-      "avatar": "https://static-uploads.prod.bookmaker-ratings.ru/2026/04/3dcfa3e614753a9566b9342464293-rb-webp-69d34c667554e-69d34c667cd17.webp?width=60",
-      "status": "expert",
-      "winRate": 73
-    },
-    "prediction": "Индивидуальный тотал 1 Больше (0.5)",
-    "odds": 1.63,
-    "comment": "Де Росси против топовых команд практически всегда овернастраивает своих игроков, Наполи для них - хороший раздражитель. На мой взгляд тут стоит брать гол хозяев за 1.63. \"Дженоа\" неплохо усилился, а \"Наполи\" мало того, что потерял Лукаку из-за ссоры с Конте, так еще и в межсезонье из-за травм потерял нескольких защитников.",
-    "source": "Sports Analytics Pro"
-  },
-  {
-    "id": 1787423804666,
-    "eventName": "Тулуза — Лион",
-    "discipline": "Футбол",
-    "tournament": "Чемпионат",
-    "expert": {
-      "name": "Alex Fox",
-      "avatar": "https://bookmaker-ratings.ru/static/images/badges/forecaster-letter.svg?v=30092024",
-      "status": "expert",
-      "winRate": 79
-    },
-    "prediction": "Обе забьют (Да)",
-    "odds": 1.69,
-    "comment": "Как правило эти команды обмениваются голами, почему бы не продолжить эту традицию",
-    "source": "Sports Analytics Pro"
-  },
-  {
-    "id": 1787423804667,
-    "eventName": "Матч",
-    "discipline": "Футбол",
-    "tournament": "Чемпионат",
-    "expert": {
-      "name": "Александр Карпов",
-      "avatar": "https://static-uploads.prod.bookmaker-ratings.ru/2026/07/1000003509-rb-webp-6a55df313f2ef-6a55df314278d.webp?width=60",
-      "status": "expert",
-      "winRate": 85
-    },
-    "prediction": "Фора 2 (-3) (геймы)",
-    "odds": 1.66,
-    "comment": "Ига показывает свой лучший теннис уже вторую неделю, Пегула мучается на корте. Не представляю за счет чего Пегула может бороться, да и сил затрачено ей на предыдущий круг гораздо больше",
-    "source": "Sports Analytics Pro"
-  },
-  {
-    "id": 1787423804668,
+    "id": 1787426751464,
     "eventName": "Эспаньол — Реал Мадрид",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -64,7 +16,7 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1787423804669,
+    "id": 1787426751466,
     "eventName": "Эспаньол — Реал Мадрид",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -80,83 +32,131 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1787423804670,
-    "eventName": "Матч",
+    "id": 1787426751467,
+    "eventName": "Эспаньол — Реал Мадрид",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
     "expert": {
-      "name": "Ле Ман",
-      "avatar": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=100&h=100&fit=crop",
+      "name": "Алим Калибатов",
+      "avatar": "https://static-uploads.prod.bookmaker-ratings.ru/2026/04/3dcfa3e614753a9566b9342464293-rb-webp-69d34c667554e-69d34c667cd17.webp?width=60",
       "status": "expert",
-      "winRate": 85
+      "winRate": 73
     },
-    "prediction": "ТМ (2,5)",
-    "odds": 1.9,
-    "comment": "Комментарий к прогнозу",
+    "prediction": "Фора 2 (-1)",
+    "odds": 1.4,
+    "comment": "Новый сезон для Реала, теперь уже с Жозе Моуриньо, вот и посмотрим, как \"Особенный\" построит команду. На просто победу за 1.40 ставить не хочется, в этом почему-то нет сомнений, попробую взять с -1 за 1.65.",
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1787423804671,
-    "eventName": "Матч",
+    "id": 1787426751468,
+    "eventName": "Эспаньол — Реал Мадрид",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
     "expert": {
-      "name": "Пегула Дж",
-      "avatar": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=100&h=100&fit=crop",
+      "name": "Никита За",
+      "avatar": "https://bookmaker-ratings.ru/static/images/badges/novice-letter.svg?v=30092024",
       "status": "expert",
-      "winRate": 79
+      "winRate": 84
     },
-    "prediction": "Фора 2 (-3) (геймы)",
-    "odds": 1.66,
-    "comment": "Комментарий к прогнозу",
+    "prediction": "Фора 2 (-1)",
+    "odds": 1.7,
+    "comment": "Гостевая команда к первому матчу подойдет ответственно,с новым тренером",
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1787423804672,
-    "eventName": "Матч",
+    "id": 1787426751469,
+    "eventName": "Акрон — Крылья Советов",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
     "expert": {
-      "name": "Ла Лига",
-      "avatar": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=100&h=100&fit=crop",
+      "name": "Егор Скрябов",
+      "avatar": "https://bookmaker-ratings.ru/static/images/badges/novice-letter.svg?v=30092024",
       "status": "expert",
-      "winRate": 77
+      "winRate": 87
     },
-    "prediction": "Ф2 (-1,5)",
-    "odds": 2.2,
-    "comment": "Комментарий к прогнозу",
+    "prediction": "Обе забьют - Да",
+    "odds": 1.65,
+    "comment": "Акрон много пропускает, но при этом может и забить, ожидаю повтор игры с родиной, 2:2;3:3",
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1787423804673,
-    "eventName": "Матч",
+    "id": 1787426751470,
+    "eventName": "Акрон — Крылья Советов",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
     "expert": {
-      "name": "Ла Лига",
-      "avatar": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=100&h=100&fit=crop",
+      "name": "Rolandovych Val",
+      "avatar": "https://bookmaker-ratings.ru/static/images/badges/novice-letter.svg?v=30092024",
       "status": "expert",
-      "winRate": 77
+      "winRate": 86
     },
-    "prediction": "П2 и ТМ (3,5)",
-    "odds": 2.08,
-    "comment": "Комментарий к прогнозу",
+    "prediction": "Тотал (2.5) Б",
+    "odds": 1.81,
+    "comment": "В дерби самарской области не могу никому отдать преимущество, но верю в результативный футбол",
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1787423804674,
-    "eventName": "Тулуза — Лион",
+    "id": 1787426751471,
+    "eventName": "Динамо Москва — Родина",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
     "expert": {
-      "name": "Александр Трибуш",
-      "avatar": "https://static-uploads.prod.bookmaker-ratings.ru/2024/03/1-16.png?width=60",
+      "name": "Егор Скрябов",
+      "avatar": "https://bookmaker-ratings.ru/static/images/badges/novice-letter.svg?v=30092024",
       "status": "expert",
-      "winRate": 76
+      "winRate": 87
     },
-    "prediction": "Ф2 (0)",
-    "odds": 1.75,
-    "comment": "«Лион» выше классом и лучше выступил в прошлом сезоне. Клуб финишировал четвертым и отбирается в Лигу чемпионов, а «Тулуза» заняла только девятое место. В личных встречах «Лион» тоже намного сильнее: 15 побед в 20 последних матчах, а «Тулуза» выиграла всего дважды. При этом в линии у букмекеров «Лион» идет только минимальным фаворитом — явно просматривается ставка на его победу с форой (0) по 1,75. К тому же лионцы уже провели три встречи в квалификации ЛЧ, то есть набрали форму и вошли в игровой тонус, в отличие от футболистов «Тулузы». И вторая ставка: та же победа «Лиона» с гандикапом (0) в первом тайме. «Тулуза» плохо начинает матчи и в семи из 13 предыдущих игр уступала в счете к перерыву. «Лион», наоборот, победил в первой половине во всех трех встречах отбора ЛЧ. А в девяти из 13 последних матчей во всех турнирах команда даже не пропустила к перерыву.",
+    "prediction": "Обе забьют - Да",
+    "odds": 1.84,
+    "comment": "Родина забивает почти в каждом матче, а для Динамо шанс заработать очки",
+    "source": "Sports Analytics Pro"
+  },
+  {
+    "id": 1787426751472,
+    "eventName": "Динамо Москва — Родина",
+    "discipline": "Футбол",
+    "tournament": "Чемпионат",
+    "expert": {
+      "name": "Rolandovych Val",
+      "avatar": "https://bookmaker-ratings.ru/static/images/badges/novice-letter.svg?v=30092024",
+      "status": "expert",
+      "winRate": 86
+    },
+    "prediction": "Обе забьют - Да",
+    "odds": 1.85,
+    "comment": "Еще одно дерби на этот раз московское, динамо конечно фаворит ну Родина показала, что может играть футбол с более сильным соперником по составу ( пример матч с зенитом) так что думаю и тут возможен обмен голами",
+    "source": "Sports Analytics Pro"
+  },
+  {
+    "id": 1787426751473,
+    "eventName": "Манчестер Сити — Борнмут",
+    "discipline": "Футбол",
+    "tournament": "Чемпионат",
+    "expert": {
+      "name": "Дмитрий Рыбалка",
+      "avatar": "https://static-uploads.prod.bookmaker-ratings.ru/2026/08/818-rb-webp-6a7c191851082-6a7c191854cb7.webp?width=60",
+      "status": "expert",
+      "winRate": 84
+    },
+    "prediction": "Фора 1 (-1.5)",
+    "odds": 2.18,
+    "comment": "Сити должен реабилитироваться перед болельщиками за Суперкубок, начать сезон с уверенной победы. Борнмут летом разобрали, от главного тренера до ведущих игроков.",
+    "source": "Sports Analytics Pro"
+  },
+  {
+    "id": 1787426751474,
+    "eventName": "Брайтон энд Хоув Альбион — Астон Вилла",
+    "discipline": "Футбол",
+    "tournament": "Чемпионат",
+    "expert": {
+      "name": "Артур Галкин",
+      "avatar": "https://bookmaker-ratings.ru/static/images/badges/novice-letter.svg?v=30092024",
+      "status": "expert",
+      "winRate": 68
+    },
+    "prediction": "Фора 1 (0)",
+    "odds": 1.73,
+    "comment": "Брайтон крепкий дома, ожидаю, что Вилла не сможет обыграть чаек. Безопасно поставлю с форой 0 на Брайтон",
     "source": "Sports Analytics Pro"
   }
 ]
