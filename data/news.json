@@ -1,5 +1,47 @@
 [
   {
+    "id": "3c6b267899cbb16d",
+    "title": "Действующий чемпион «Формулы-1» выиграл квалификацию Гран-при Нидерландов",
+    "sport": "Другое",
+    "category": "Формула-1",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/3/45/347874132452453.jpeg",
+    "teaser": "Действующий чемпион «Формулы-1» выиграл квалификацию Гран-при Нидерландов",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a89c0779a7947dbbcfe62b9",
+    "publishedAt": "2026-08-22T15:47:44.000Z",
+    "createdAt": "2026-08-22T16:29:49.269Z",
+    "updatedAt": "2026-08-22T16:29:49.269Z"
+  },
+  {
+    "id": "e26a0b9462e12c95",
+    "title": "Вторая ракетка мира Алькарас сыграет с Сереной Уильямс на US Open",
+    "sport": "Теннис",
+    "category": "Теннис",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/0/30/347874108926300.jpeg",
+    "teaser": "Вторая ракетка мира Алькарас сыграет с Сереной Уильямс на US Open",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a89b7b99a7947db5b168b6c",
+    "publishedAt": "2026-08-22T15:30:24.000Z",
+    "createdAt": "2026-08-22T16:29:50.219Z",
+    "updatedAt": "2026-08-22T16:29:50.219Z"
+  },
+  {
+    "id": "5fc21f488f9db364",
+    "title": "«Это триумф». Как российские фигуристы вернулись на Гран-при",
+    "sport": "Другое",
+    "category": "Фигурное катание",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/4/62/347874019009624.jpeg",
+    "teaser": "«Это триумф». Как российские фигуристы вернулись на Гран-при",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a898cf39a7947db5b168b1f",
+    "publishedAt": "2026-08-22T14:59:41.000Z",
+    "createdAt": "2026-08-22T16:29:48.265Z",
+    "updatedAt": "2026-08-22T16:29:48.265Z"
+  },
+  {
     "id": "e84fcc7f7c668371",
     "title": "Вернувшийся в РПЛ «Факел» не смог победить пятый матч подряд",
     "sport": "Футбол",
@@ -10,8 +52,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a89afc39a794705f811fab2",
     "publishedAt": "2026-08-22T14:39:24.000Z",
-    "createdAt": "2026-08-22T15:26:01.624Z",
-    "updatedAt": "2026-08-22T15:26:01.624Z"
+    "createdAt": "2026-08-22T16:29:52.125Z",
+    "updatedAt": "2026-08-22T16:29:52.125Z"
   },
   {
     "id": "09b5af664333c0ed",
@@ -24,8 +66,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a8995619a79478bc1969fb5",
     "publishedAt": "2026-08-22T14:25:31.000Z",
-    "createdAt": "2026-08-22T15:26:00.677Z",
-    "updatedAt": "2026-08-22T15:26:00.677Z"
+    "createdAt": "2026-08-22T16:29:51.113Z",
+    "updatedAt": "2026-08-22T16:29:51.113Z"
   },
   {
     "id": "86e3d918ac3c1ff9",
@@ -38,8 +80,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a89a5169a7947d5e643a9d9",
     "publishedAt": "2026-08-22T14:13:27.000Z",
-    "createdAt": "2026-08-22T15:26:03.660Z",
-    "updatedAt": "2026-08-22T15:26:03.660Z"
+    "createdAt": "2026-08-22T16:29:54.075Z",
+    "updatedAt": "2026-08-22T16:29:54.075Z"
   },
   {
     "id": "8cc051f53a2ce807",
@@ -52,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a899a709a7947db5b168b38",
     "publishedAt": "2026-08-22T14:05:46.000Z",
-    "createdAt": "2026-08-22T15:26:02.623Z",
-    "updatedAt": "2026-08-22T15:26:02.623Z"
+    "createdAt": "2026-08-22T16:29:53.135Z",
+    "updatedAt": "2026-08-22T16:29:53.135Z"
   },
   {
     "id": "80f917ec155b1ddb",
@@ -66,8 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a898e249a7947d5e643a9ba",
     "publishedAt": "2026-08-22T13:24:16.000Z",
-    "createdAt": "2026-08-22T15:26:04.652Z",
-    "updatedAt": "2026-08-22T15:26:04.652Z"
+    "createdAt": "2026-08-22T16:29:55.087Z",
+    "updatedAt": "2026-08-22T16:29:55.087Z"
   },
   {
     "id": "b99f08c4fb9aeabc",
@@ -80,8 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a8989179a7947282e3c3a3c",
     "publishedAt": "2026-08-22T12:53:15.000Z",
-    "createdAt": "2026-08-22T15:26:05.727Z",
-    "updatedAt": "2026-08-22T15:26:05.727Z"
+    "createdAt": "2026-08-22T16:29:56.099Z",
+    "updatedAt": "2026-08-22T16:29:56.099Z"
   },
   {
     "id": "beb19dfdb13a3612",
@@ -94,49 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a897f1f9a79473867ddc545",
     "publishedAt": "2026-08-22T12:13:20.000Z",
-    "createdAt": "2026-08-22T15:26:06.818Z",
-    "updatedAt": "2026-08-22T15:26:06.818Z"
-  },
-  {
-    "id": "151851d185ecb0d6",
-    "title": "Лионеля Месси оштрафовали за удар соперника в матче MLS",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/3/09/347873944870093.jpeg",
-    "teaser": "Лионеля Месси оштрафовали за удар соперника в матче MLS",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a8978089a7947fe7dce1e68",
-    "publishedAt": "2026-08-22T11:56:21.000Z",
-    "createdAt": "2026-08-22T15:26:07.904Z",
-    "updatedAt": "2026-08-22T15:26:07.904Z"
-  },
-  {
-    "id": "4bd816ea33bc2d8d",
-    "title": "Российские фигуристы взяли все золото на первом Гран-при после допуска",
-    "sport": "Другое",
-    "category": "Фигурное катание",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/4/55/347873915758554.jpeg",
-    "teaser": "Российские фигуристы взяли все золото на первом Гран-при после допуска",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a896d9f9a7947761b7ff327",
-    "publishedAt": "2026-08-22T10:13:11.000Z",
-    "createdAt": "2026-08-22T15:26:09.101Z",
-    "updatedAt": "2026-08-22T15:26:09.101Z"
-  },
-  {
-    "id": "4df1998a0f48bfb5",
-    "title": "Судьи при равенстве баллов оставили российского гимнаста без золота",
-    "sport": "Другое",
-    "category": "Другие",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/4/66/347873379894664.jpeg",
-    "teaser": "Судьи при равенстве баллов оставили российского гимнаста без золота",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a88998f9a794757cc08fce4",
-    "publishedAt": "2026-08-21T18:58:11.000Z",
-    "createdAt": "2026-08-22T15:26:11.054Z",
-    "updatedAt": "2026-08-22T15:26:11.054Z"
+    "createdAt": "2026-08-22T16:29:57.073Z",
+    "updatedAt": "2026-08-22T16:29:57.073Z"
   }
 ]

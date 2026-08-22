@@ -1,6 +1,6 @@
 [
   {
-    "id": 1787412354048,
+    "id": 1787416182001,
     "eventName": "Брентфорд — Тоттенхэм Хотспур",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -16,7 +16,7 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1787412354049,
+    "id": 1787416182002,
     "eventName": "Брентфорд — Тоттенхэм Хотспур",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -32,7 +32,7 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1787412354050,
+    "id": 1787416182003,
     "eventName": "Брентфорд — Тоттенхэм Хотспур",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -48,7 +48,7 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1787412354051,
+    "id": 1787416182004,
     "eventName": "Брентфорд — Тоттенхэм Хотспур",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -64,7 +64,23 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1787412354052,
+    "id": 1787416182005,
+    "eventName": "Брентфорд — Тоттенхэм Хотспур",
+    "discipline": "Футбол",
+    "tournament": "Чемпионат",
+    "expert": {
+      "name": "Никита За",
+      "avatar": "https://bookmaker-ratings.ru/static/images/badges/novice-letter.svg?v=30092024",
+      "status": "expert",
+      "winRate": 84
+    },
+    "prediction": "2Х",
+    "odds": 1.75,
+    "comment": "Думаю гостевая команда по серьезнее будет,в основное точно не проиграют",
+    "source": "Sports Analytics Pro"
+  },
+  {
+    "id": 1787416182006,
     "eventName": "ЦСКА Москва — Локомотив Москва",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -80,7 +96,7 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1787412354053,
+    "id": 1787416182007,
     "eventName": "ЦСКА Москва — Локомотив Москва",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -96,23 +112,7 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1787412354054,
-    "eventName": "ЦСКА Москва — Локомотив Москва",
-    "discipline": "Футбол",
-    "tournament": "Чемпионат",
-    "expert": {
-      "name": "Vladimir Lapotko",
-      "avatar": "https://bookmaker-ratings.ru/static/images/badges/novice-letter.svg?v=30092024",
-      "status": "expert",
-      "winRate": 70
-    },
-    "prediction": "1Х",
-    "odds": 1.27,
-    "comment": "Комментарий к прогнозу",
-    "source": "Sports Analytics Pro"
-  },
-  {
-    "id": 1787412354055,
+    "id": 1787416182008,
     "eventName": "Матч",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -128,7 +128,7 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1787412354056,
+    "id": 1787416182009,
     "eventName": "Матч",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -144,7 +144,7 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1787412354057,
+    "id": 1787416182010,
     "eventName": "Матч",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
