@@ -1,6 +1,22 @@
 [
   {
-    "id": 1787387713478,
+    "id": 1787391083949,
+    "eventName": "Академия Михайлова — Юниор - Динамо-Шинник",
+    "discipline": "Хоккей",
+    "tournament": "Чемпионат",
+    "expert": {
+      "name": "Вячеслав Николаевич",
+      "avatar": "https://bookmaker-ratings.ru/static/images/badges/novice-letter.svg?v=30092024",
+      "status": "expert",
+      "winRate": 89
+    },
+    "prediction": "Тотал (3.5) Б",
+    "odds": 2.18,
+    "comment": "Динамо Шинник бомбардир много забивает даже в гостях",
+    "source": "Sports Analytics Pro"
+  },
+  {
+    "id": 1787391083950,
     "eventName": "Матч",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -16,7 +32,7 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1787387713479,
+    "id": 1787391083951,
     "eventName": "Халл Сити — Манчестер Юнайтед",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -32,7 +48,71 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1787387713480,
+    "id": 1787391083952,
+    "eventName": "Миллуолл — Норвич Сити",
+    "discipline": "Футбол",
+    "tournament": "Чемпионат",
+    "expert": {
+      "name": "Ку Кин",
+      "avatar": "https://static-uploads.prod.bookmaker-ratings.ru/2026/08/32172D9B-33C7-44C9-B0BB-281434E4042F-rb-webp-6a801d9384f1f-6a801d93887c9.webp?width=60",
+      "status": "expert",
+      "winRate": 86
+    },
+    "prediction": "Тотал больше (2.5)",
+    "odds": 1.92,
+    "comment": "Обе команды активно создают моменты xg на две команды за 6",
+    "source": "Sports Analytics Pro"
+  },
+  {
+    "id": 1787391083953,
+    "eventName": "Линкольн Сити — Портсмут",
+    "discipline": "Футбол",
+    "tournament": "Чемпионат",
+    "expert": {
+      "name": "Ку Кин",
+      "avatar": "https://static-uploads.prod.bookmaker-ratings.ru/2026/08/32172D9B-33C7-44C9-B0BB-281434E4042F-rb-webp-6a801d9384f1f-6a801d93887c9.webp?width=60",
+      "status": "expert",
+      "winRate": 86
+    },
+    "prediction": "Тотал больше (2.5)",
+    "odds": 1.95,
+    "comment": "Портсмут не проигрывает Линкольну уже долгое время.Гости имеют более сильную атаку ,но имеют большие проблемы в обороне",
+    "source": "Sports Analytics Pro"
+  },
+  {
+    "id": 1787391083954,
+    "eventName": "Матч",
+    "discipline": "Футбол",
+    "tournament": "Чемпионат",
+    "expert": {
+      "name": "Олег Блада",
+      "avatar": "https://bookmaker-ratings.ru/static/images/badges/novice-letter.svg?v=30092024",
+      "status": "expert",
+      "winRate": 85
+    },
+    "prediction": "Обе забьют - Да",
+    "odds": 1.86,
+    "comment": "Новичку терять нечего, будут идти в перед обмен голами не избежен",
+    "source": "Sports Analytics Pro"
+  },
+  {
+    "id": 1787391083955,
+    "eventName": "Халл Сити — Манчестер Юнайтед",
+    "discipline": "Футбол",
+    "tournament": "Чемпионат",
+    "expert": {
+      "name": "Никита Инсайдов",
+      "avatar": "https://bookmaker-ratings.ru/static/images/badges/novice-letter.svg?v=30092024",
+      "status": "expert",
+      "winRate": 80
+    },
+    "prediction": "Фора 2 (-1)",
+    "odds": 1.49,
+    "comment": "Изначально МЮ фаворит встречи, в дополнении к этому у Халл Сити много потерь в составе перед этим матчем. Ожидаю легкую победу с разницей мячей.",
+    "source": "Sports Analytics Pro"
+  },
+  {
+    "id": 1787391083956,
     "eventName": "Факел Воронеж — Оренбург",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -48,7 +128,7 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1787387713481,
+    "id": 1787391083957,
     "eventName": "Факел Воронеж — Оренбург",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -64,98 +144,18 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1787387713482,
-    "eventName": "Ноттингем Форест — Лидс Юнайтед",
-    "discipline": "Футбол",
-    "tournament": "Чемпионат",
-    "expert": {
-      "name": "Артур Галкин",
-      "avatar": "https://bookmaker-ratings.ru/static/images/badges/novice-letter.svg?v=30092024",
-      "status": "expert",
-      "winRate": 68
-    },
-    "prediction": "Тотал (3) Б",
-    "odds": 2.51,
-    "comment": "Ожидаю верховой матч, Ноттингем Форест перестраивается, Лидс может воспользоваться пространством.",
-    "source": "Sports Analytics Pro"
-  },
-  {
-    "id": 1787387713483,
-    "eventName": "Ипсвич Таун — Сандерленд",
-    "discipline": "Футбол",
-    "tournament": "Чемпионат",
-    "expert": {
-      "name": "Артур Галкин",
-      "avatar": "https://bookmaker-ratings.ru/static/images/badges/novice-letter.svg?v=30092024",
-      "status": "expert",
-      "winRate": 68
-    },
-    "prediction": "Ничья",
-    "odds": 3.29,
-    "comment": "Ожидаю, что Ипсвич наберет очки в первой игре, но Сандерленд крепкий. Ничья смотрится.",
-    "source": "Sports Analytics Pro"
-  },
-  {
-    "id": 1787387713484,
-    "eventName": "Эвертон — Кристал Пэлэс",
-    "discipline": "Футбол",
-    "tournament": "Чемпионат",
-    "expert": {
-      "name": "Артур Галкин",
-      "avatar": "https://bookmaker-ratings.ru/static/images/badges/novice-letter.svg?v=30092024",
-      "status": "expert",
-      "winRate": 68
-    },
-    "prediction": "Индивидуальный тотал 2 Меньше (1)",
-    "odds": 1.95,
-    "comment": "Ожидаю, что Эвертон не пропустит больше гола. Кристал Пэлас перестраивается. Эвертон усилился Нёргором. Думаю, Эвертон победит 1:0",
-    "source": "Sports Analytics Pro"
-  },
-  {
-    "id": 1787387713485,
-    "eventName": "Ахмат — Ростов",
-    "discipline": "Футбол",
-    "tournament": "Чемпионат",
-    "expert": {
-      "name": "Михаил Лубнин",
-      "avatar": "https://bookmaker-ratings.ru/static/images/badges/novice-letter.svg?v=30092024",
-      "status": "expert",
-      "winRate": 71
-    },
-    "prediction": "Тотал (2) Б",
-    "odds": 1.67,
-    "comment": "Ахмат и Ростов редко выдают низовые игры. Ахмат должен выиграть",
-    "source": "Sports Analytics Pro"
-  },
-  {
-    "id": 1787387713486,
-    "eventName": "Ахмат — Ростов",
-    "discipline": "Футбол",
-    "tournament": "Чемпионат",
-    "expert": {
-      "name": "Егор Скрябов",
-      "avatar": "https://bookmaker-ratings.ru/static/images/badges/novice-letter.svg?v=30092024",
-      "status": "expert",
-      "winRate": 87
-    },
-    "prediction": "Обе забьют - Да",
-    "odds": 1.93,
-    "comment": "Комментарий к прогнозу",
-    "source": "Sports Analytics Pro"
-  },
-  {
-    "id": 1787387713487,
+    "id": 1787391083958,
     "eventName": "Матч",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
     "expert": {
-      "name": "Факел Воронеж",
+      "name": "Академия Михайлова",
       "avatar": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=100&h=100&fit=crop",
       "status": "expert",
-      "winRate": 78
+      "winRate": 71
     },
-    "prediction": "Тотал (3.5) М",
-    "odds": 1.25,
+    "prediction": "Тотал (3.5) Б",
+    "odds": 2.18,
     "comment": "Комментарий к прогнозу",
     "source": "Sports Analytics Pro"
   }
