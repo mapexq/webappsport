@@ -1,55 +1,55 @@
 [
   {
-    "id": 1787405701595,
-    "eventName": "Ноттингем Форест — Лидс Юнайтед",
+    "id": 1787408768428,
+    "eventName": "Ахмат — Ростов",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
     "expert": {
-      "name": "Артур Галкин",
+      "name": "Михаил Лубнин",
       "avatar": "https://bookmaker-ratings.ru/static/images/badges/novice-letter.svg?v=30092024",
       "status": "expert",
-      "winRate": 68
+      "winRate": 71
     },
-    "prediction": "Тотал (3) Б",
-    "odds": 2.51,
-    "comment": "Ожидаю верховой матч, Ноттингем Форест перестраивается, Лидс может воспользоваться пространством.",
+    "prediction": "Тотал (2) Б",
+    "odds": 1.67,
+    "comment": "Ахмат и Ростов редко выдают низовые игры. Ахмат должен выиграть",
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1787405701596,
-    "eventName": "Ипсвич Таун — Сандерленд",
+    "id": 1787408768429,
+    "eventName": "Ахмат — Ростов",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
     "expert": {
-      "name": "Артур Галкин",
+      "name": "Егор Скрябов",
       "avatar": "https://bookmaker-ratings.ru/static/images/badges/novice-letter.svg?v=30092024",
       "status": "expert",
-      "winRate": 68
+      "winRate": 87
     },
-    "prediction": "Ничья",
-    "odds": 3.29,
-    "comment": "Ожидаю, что Ипсвич наберет очки в первой игре, но Сандерленд крепкий. Ничья смотрится.",
+    "prediction": "Обе забьют - Да",
+    "odds": 1.93,
+    "comment": "Комментарий к прогнозу",
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1787405701597,
-    "eventName": "Эвертон — Кристал Пэлэс",
+    "id": 1787408768430,
+    "eventName": "Ахмат — Ростов",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
     "expert": {
-      "name": "Артур Галкин",
-      "avatar": "https://bookmaker-ratings.ru/static/images/badges/novice-letter.svg?v=30092024",
+      "name": "Дмитрий Рыбалка",
+      "avatar": "https://static-uploads.prod.bookmaker-ratings.ru/2026/08/818-rb-webp-6a7c191851082-6a7c191854cb7.webp?width=60",
       "status": "expert",
-      "winRate": 68
+      "winRate": 84
     },
-    "prediction": "Индивидуальный тотал 2 Меньше (1)",
-    "odds": 1.95,
-    "comment": "Ожидаю, что Эвертон не пропустит больше гола. Кристал Пэлас перестраивается. Эвертон усилился Нёргором. Думаю, Эвертон победит 1:0",
+    "prediction": "Тотал больше (2)",
+    "odds": 1.69,
+    "comment": "Ахмат дома должен уже начать побеждать, ну крепкий не уступчивый Ростов очень не удобный соперник. Верю в голы в этом матче, не пойду в исходы.",
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1787405701598,
-    "eventName": "Ипсвич Таун — Сандерленд",
+    "id": 1787408768431,
+    "eventName": "Ахмат — Ростов",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
     "expert": {
@@ -58,46 +58,14 @@
       "status": "expert",
       "winRate": 86
     },
-    "prediction": "Тотал (2.5) Б",
-    "odds": 2.01,
-    "comment": "Ипсвич только вернулся в АПЛ, а коты год назад также вернувшись в премьер лигу очень здорово пошумели попав в еврокубки жду открытый результативный футбол",
+    "prediction": "Обе забьют - Да",
+    "odds": 1.93,
+    "comment": "Обе команды показывают достаточно симпатичный футбол так, что я думаю здесь стоит ждать голов от обеих команд",
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1787405701599,
-    "eventName": "Эвертон — Кристал Пэлэс",
-    "discipline": "Футбол",
-    "tournament": "Чемпионат",
-    "expert": {
-      "name": "Rolandovych Val",
-      "avatar": "https://bookmaker-ratings.ru/static/images/badges/novice-letter.svg?v=30092024",
-      "status": "expert",
-      "winRate": 86
-    },
-    "prediction": "Ничья",
-    "odds": 3.45,
-    "comment": "Команды примерно одного уровня, думаю много голов быть не должно и вполне вероятно, что команды сильнейшего не выявят",
-    "source": "Sports Analytics Pro"
-  },
-  {
-    "id": 1787405701600,
-    "eventName": "Эвертон — Кристал Пэлэс",
-    "discipline": "Футбол",
-    "tournament": "Чемпионат",
-    "expert": {
-      "name": "Ку Кин",
-      "avatar": "https://static-uploads.prod.bookmaker-ratings.ru/2026/08/32172D9B-33C7-44C9-B0BB-281434E4042F-rb-webp-6a801d9384f1f-6a801d93887c9.webp?width=60",
-      "status": "expert",
-      "winRate": 86
-    },
-    "prediction": "Ф1(0)",
-    "odds": 1.6,
-    "comment": "Эвертон является неудобным соперником для КП .Психологичести у хозяев преимущество.",
-    "source": "Sports Analytics Pro"
-  },
-  {
-    "id": 1787405701601,
-    "eventName": "Машук-КМВ — Алания",
+    "id": 1787408768432,
+    "eventName": "Ахмат — Ростов",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
     "expert": {
@@ -106,56 +74,88 @@
       "status": "expert",
       "winRate": 73
     },
-    "prediction": "Ничья",
-    "odds": 3.25,
-    "comment": "\"Машук\" довольно часто играет вничью - чуть ли не самая бескомпромиссная команда второй лиги. В гости пожалует \"Алания\", которая вряд ли по составу и качеству игры слабее. Тут вижу результативную ничью 1:1 либо 2:2.",
+    "prediction": "Победа 1",
+    "odds": 2.45,
+    "comment": "Ахмат наконец смог выиграть, правда в кубковом матче, плюс еще возвращается Касинтура - важнейший игрок в схеме Черчесова. Ростов на старте сезона неплох, но здесь думается, перевес немного в сторону грозненцев, и они дома не проиграют. Тем более, что в 4 из 6 последних игр дома \"Ахмат\" выиграл у \"Ростова\". Попробую взять победу Саламыча и Ко за 2.45.",
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1787405701602,
-    "eventName": "Саутгемптон — Сток Сити",
+    "id": 1787408768433,
+    "eventName": "Брентфорд — Тоттенхэм Хотспур",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
     "expert": {
-      "name": "Ку Кин",
-      "avatar": "https://static-uploads.prod.bookmaker-ratings.ru/2026/08/32172D9B-33C7-44C9-B0BB-281434E4042F-rb-webp-6a801d9384f1f-6a801d93887c9.webp?width=60",
-      "status": "expert",
-      "winRate": 86
-    },
-    "prediction": "Обе забьют (Да)",
-    "odds": 1.7,
-    "comment": "Саунгептом высокая мотивация и за нехватки очков ,а сток Мити допускает много ошибок в обороне",
-    "source": "Sports Analytics Pro"
-  },
-  {
-    "id": 1787405701603,
-    "eventName": "Эвертон — Кристал Пэлэс",
-    "discipline": "Футбол",
-    "tournament": "Чемпионат",
-    "expert": {
-      "name": "Никита Инсайдов",
+      "name": "Артур Галкин",
       "avatar": "https://bookmaker-ratings.ru/static/images/badges/novice-letter.svg?v=30092024",
       "status": "expert",
-      "winRate": 80
+      "winRate": 68
     },
-    "prediction": "Фора 1 (0)",
-    "odds": 1.61,
-    "comment": "Эвертон неплохо дома играет против Кп. Также неплохо провели предсезонку. И соперники у хозяев в этой самой предсезонке были посильнее, чем у их нынешних соперников. Ожидаю счет 2-1, но перестрахуюсь, чтобы наверняка.",
+    "prediction": "Фора 2 (0)",
+    "odds": 2,
+    "comment": "Тоттенхэм часто начинает чемпионат хорошо, ожидаю, что наберут в этом матче очки, безопасно с форой на шпор.",
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1787405701604,
+    "id": 1787408768434,
+    "eventName": "Брентфорд — Тоттенхэм Хотспур",
+    "discipline": "Футбол",
+    "tournament": "Чемпионат",
+    "expert": {
+      "name": "Тоттенхэм Хотспур",
+      "avatar": "https://bookmaker-ratings.ru/static/images/badges/forecaster-letter.svg?v=30092024",
+      "status": "expert",
+      "winRate": 78
+    },
+    "prediction": "Обе забьют - Да",
+    "odds": 1.56,
+    "comment": "Тоттенхэм хорошо усилился перед сезоном,но на выезде не совсем сыгранная оборона может дать осечку,А вот атака ТТХ вполне может отличиться",
+    "source": "Sports Analytics Pro"
+  },
+  {
+    "id": 1787408768435,
     "eventName": "Матч",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
     "expert": {
-      "name": "Ноттингем Форест",
+      "name": "Атлетик Бильбао",
       "avatar": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=100&h=100&fit=crop",
       "status": "expert",
-      "winRate": 74
+      "winRate": 83
     },
-    "prediction": "Тотал (3) Б",
-    "odds": 2.51,
+    "prediction": "ИТБ 2 (0,5)",
+    "odds": 1.75,
+    "comment": "Комментарий к прогнозу",
+    "source": "Sports Analytics Pro"
+  },
+  {
+    "id": 1787408768436,
+    "eventName": "Матч",
+    "discipline": "Футбол",
+    "tournament": "Чемпионат",
+    "expert": {
+      "name": "Тоттенхэм Хотспур",
+      "avatar": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=100&h=100&fit=crop",
+      "status": "expert",
+      "winRate": 78
+    },
+    "prediction": "Фора 2 (0)",
+    "odds": 2,
+    "comment": "Комментарий к прогнозу",
+    "source": "Sports Analytics Pro"
+  },
+  {
+    "id": 1787408768437,
+    "eventName": "Матч",
+    "discipline": "Футбол",
+    "tournament": "Чемпионат",
+    "expert": {
+      "name": "Тоттенхэм Хотспур",
+      "avatar": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=100&h=100&fit=crop",
+      "status": "expert",
+      "winRate": 78
+    },
+    "prediction": "Обе забьют - Да",
+    "odds": 1.56,
     "comment": "Комментарий к прогнозу",
     "source": "Sports Analytics Pro"
   }
