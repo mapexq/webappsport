@@ -1,22 +1,6 @@
 [
   {
-    "id": 1787402895712,
-    "eventName": "Волга — Шинник",
-    "discipline": "Футбол",
-    "tournament": "Чемпионат",
-    "expert": {
-      "name": "Ку Кин",
-      "avatar": "https://static-uploads.prod.bookmaker-ratings.ru/2026/08/32172D9B-33C7-44C9-B0BB-281434E4042F-rb-webp-6a801d9384f1f-6a801d93887c9.webp?width=60",
-      "status": "expert",
-      "winRate": 86
-    },
-    "prediction": "Ф2(0)",
-    "odds": 2.02,
-    "comment": "Шиник смотритрится лучше проиграл только один раз и по личным встречам после 2 игры против волги выиграл",
-    "source": "Sports Analytics Pro"
-  },
-  {
-    "id": 1787402895713,
+    "id": 1787405701595,
     "eventName": "Ноттингем Форест — Лидс Юнайтед",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -32,7 +16,7 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1787402895714,
+    "id": 1787405701596,
     "eventName": "Ипсвич Таун — Сандерленд",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -48,7 +32,7 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1787402895715,
+    "id": 1787405701597,
     "eventName": "Эвертон — Кристал Пэлэс",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -64,7 +48,7 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1787402895716,
+    "id": 1787405701598,
     "eventName": "Ипсвич Таун — Сандерленд",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -80,7 +64,7 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1787402895717,
+    "id": 1787405701599,
     "eventName": "Эвертон — Кристал Пэлэс",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -96,7 +80,7 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1787402895718,
+    "id": 1787405701600,
     "eventName": "Эвертон — Кристал Пэлэс",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -112,7 +96,7 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1787402895719,
+    "id": 1787405701601,
     "eventName": "Машук-КМВ — Алания",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -128,7 +112,7 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1787402895720,
+    "id": 1787405701602,
     "eventName": "Саутгемптон — Сток Сити",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -144,7 +128,7 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1787402895721,
+    "id": 1787405701603,
     "eventName": "Эвертон — Кристал Пэлэс",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -157,6 +141,22 @@
     "prediction": "Фора 1 (0)",
     "odds": 1.61,
     "comment": "Эвертон неплохо дома играет против Кп. Также неплохо провели предсезонку. И соперники у хозяев в этой самой предсезонке были посильнее, чем у их нынешних соперников. Ожидаю счет 2-1, но перестрахуюсь, чтобы наверняка.",
+    "source": "Sports Analytics Pro"
+  },
+  {
+    "id": 1787405701604,
+    "eventName": "Матч",
+    "discipline": "Футбол",
+    "tournament": "Чемпионат",
+    "expert": {
+      "name": "Ноттингем Форест",
+      "avatar": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=100&h=100&fit=crop",
+      "status": "expert",
+      "winRate": 74
+    },
+    "prediction": "Тотал (3) Б",
+    "odds": 2.51,
+    "comment": "Комментарий к прогнозу",
     "source": "Sports Analytics Pro"
   }
 ]
