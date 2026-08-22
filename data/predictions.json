@@ -1,22 +1,6 @@
 [
   {
-    "id": 1787394497577,
-    "eventName": "Академия Михайлова — Юниор - Динамо-Шинник",
-    "discipline": "Хоккей",
-    "tournament": "Чемпионат",
-    "expert": {
-      "name": "Вячеслав Николаевич",
-      "avatar": "https://bookmaker-ratings.ru/static/images/badges/novice-letter.svg?v=30092024",
-      "status": "expert",
-      "winRate": 89
-    },
-    "prediction": "Тотал (3.5) Б",
-    "odds": 2.18,
-    "comment": "Динамо Шинник бомбардир много забивает даже в гостях",
-    "source": "Sports Analytics Pro"
-  },
-  {
-    "id": 1787394497578,
+    "id": 1787397868026,
     "eventName": "Матч",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -32,7 +16,7 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1787394497579,
+    "id": 1787397868028,
     "eventName": "Халл Сити — Манчестер Юнайтед",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -48,7 +32,7 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1787394497580,
+    "id": 1787397868029,
     "eventName": "Халл Сити — Манчестер Юнайтед",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -64,7 +48,7 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1787394497582,
+    "id": 1787397868030,
     "eventName": "Халл Сити — Манчестер Юнайтед",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -80,7 +64,7 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1787394497583,
+    "id": 1787397868031,
     "eventName": "Миллуолл — Норвич Сити",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -96,7 +80,7 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1787394497584,
+    "id": 1787397868032,
     "eventName": "Линкольн Сити — Портсмут",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -112,7 +96,7 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1787394497585,
+    "id": 1787397868033,
     "eventName": "Матч",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -128,7 +112,7 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1787394497586,
+    "id": 1787397868034,
     "eventName": "Халл Сити — Манчестер Юнайтед",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -144,7 +128,23 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1787394497587,
+    "id": 1787397868035,
+    "eventName": "Халл Сити — Манчестер Юнайтед",
+    "discipline": "Футбол",
+    "tournament": "Чемпионат",
+    "expert": {
+      "name": "Максим Симбосов",
+      "avatar": "https://static-uploads.prod.bookmaker-ratings.ru/2025/03/49105A1C-F753-4AAD-92A1-E098861E78EF-67cd81ec7a2c3.jpg?width=60",
+      "status": "expert",
+      "winRate": 84
+    },
+    "prediction": "Тотал Манчестер Юнайтед больше (2)",
+    "odds": 1.69,
+    "comment": "успешное начало сезона манчестера явно говорит само за себя против слабого сити",
+    "source": "Sports Analytics Pro"
+  },
+  {
+    "id": 1787397868036,
     "eventName": "Факел Воронеж — Оренбург",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
