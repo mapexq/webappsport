@@ -1,5 +1,33 @@
 [
   {
+    "id": "a4286cae4399eeb2",
+    "title": "Дубль Тюкавина принес «Динамо» победу над «Родиной»",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/4/66/347874944371664.jpeg",
+    "teaser": "Дубль Тюкавина принес «Динамо» победу над «Родиной»",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a8af5c69a794757f4dd56a3",
+    "publishedAt": "2026-08-23T14:17:31.000Z",
+    "createdAt": "2026-08-23T14:27:39.349Z",
+    "updatedAt": "2026-08-23T14:27:39.349Z"
+  },
+  {
+    "id": "ccb707fc4bd89bcd",
+    "title": "Ферстаппен попал в аварию на старте домашней гонки «Формулы-1»",
+    "sport": "Другое",
+    "category": "Формула-1",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/7/50/347874925375507.jpeg",
+    "teaser": "Ферстаппен попал в аварию на старте домашней гонки «Формулы-1»",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a8af6719a79474ab144016e",
+    "publishedAt": "2026-08-23T13:44:41.000Z",
+    "createdAt": "2026-08-23T14:27:40.438Z",
+    "updatedAt": "2026-08-23T14:27:40.438Z"
+  },
+  {
     "id": "bad6b587f4cd2f45",
     "title": "Эфиопский бегун второй раз за два года побил рекорд мира в полумарафоне",
     "sport": "Другое",
@@ -10,8 +38,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a8af1789a794715f482fbd4",
     "publishedAt": "2026-08-23T13:28:20.000Z",
-    "createdAt": "2026-08-23T13:35:41.311Z",
-    "updatedAt": "2026-08-23T13:35:41.311Z"
+    "createdAt": "2026-08-23T14:27:42.519Z",
+    "updatedAt": "2026-08-23T14:27:42.519Z"
   },
   {
     "id": "c49b3b56c316e2e3",
@@ -24,8 +52,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a8ae7ec9a79475f755423b1",
     "publishedAt": "2026-08-23T12:56:49.000Z",
-    "createdAt": "2026-08-23T13:35:40.282Z",
-    "updatedAt": "2026-08-23T13:35:40.282Z"
+    "createdAt": "2026-08-23T14:27:41.523Z",
+    "updatedAt": "2026-08-23T14:27:41.523Z"
   },
   {
     "id": "ffc7fc9d4d946a3c",
@@ -38,8 +66,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a8ae1b79a7947ff88e75e1d",
     "publishedAt": "2026-08-23T12:20:57.000Z",
-    "createdAt": "2026-08-23T13:35:42.471Z",
-    "updatedAt": "2026-08-23T13:35:42.471Z"
+    "createdAt": "2026-08-23T14:27:43.511Z",
+    "updatedAt": "2026-08-23T14:27:43.511Z"
   },
   {
     "id": "353bc21df2ce6390",
@@ -52,8 +80,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a8addc09a79473318239dad",
     "publishedAt": "2026-08-23T12:02:19.000Z",
-    "createdAt": "2026-08-23T13:35:44.910Z",
-    "updatedAt": "2026-08-23T13:35:44.910Z"
+    "createdAt": "2026-08-23T14:27:45.616Z",
+    "updatedAt": "2026-08-23T14:27:45.616Z"
   },
   {
     "id": "dfedf8a362af66ac",
@@ -66,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a8ad51c9a7947ff88e75de0",
     "publishedAt": "2026-08-23T11:37:43.000Z",
-    "createdAt": "2026-08-23T13:35:43.742Z",
-    "updatedAt": "2026-08-23T13:35:43.742Z"
+    "createdAt": "2026-08-23T14:27:44.628Z",
+    "updatedAt": "2026-08-23T14:27:44.628Z"
   },
   {
     "id": "b10bb7fa7a5f31a3",
@@ -80,8 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a8ad0409a79471ee7dcbe1c",
     "publishedAt": "2026-08-23T11:07:53.000Z",
-    "createdAt": "2026-08-23T13:35:46.020Z",
-    "updatedAt": "2026-08-23T13:35:46.020Z"
+    "createdAt": "2026-08-23T14:27:46.612Z",
+    "updatedAt": "2026-08-23T14:27:46.612Z"
   },
   {
     "id": "29a288727a27b407",
@@ -94,22 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a8ac6b09a7947f3ee92f5a4",
     "publishedAt": "2026-08-23T10:30:34.000Z",
-    "createdAt": "2026-08-23T13:35:47.179Z",
-    "updatedAt": "2026-08-23T13:35:47.179Z"
-  },
-  {
-    "id": "406c07993d556bef",
-    "title": "Соперник Петра Яна за титул UFC проиграл схватку в RAF за 36 секунд",
-    "sport": "Единоборства",
-    "category": "Единоборства",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/7/41/347874791068417.jpeg",
-    "teaser": "Соперник Петра Яна за титул UFC проиграл схватку в RAF за 36 секунд",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a8ac0559a7947a948e84f6e",
-    "publishedAt": "2026-08-23T10:06:57.000Z",
-    "createdAt": "2026-08-23T13:35:49.246Z",
-    "updatedAt": "2026-08-23T13:35:49.246Z"
+    "createdAt": "2026-08-23T14:27:47.665Z",
+    "updatedAt": "2026-08-23T14:27:47.665Z"
   },
   {
     "id": "0e952658ed53bbbd",
@@ -122,21 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a8ab8979a79471e9d346d5a",
     "publishedAt": "2026-08-23T09:36:49.000Z",
-    "createdAt": "2026-08-23T13:35:48.317Z",
-    "updatedAt": "2026-08-23T13:35:48.317Z"
-  },
-  {
-    "id": "35dd4427445e9e09",
-    "title": "ЦСКА обыграл «Локомотив» и вышел на второе место таблицы РПЛ",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/4/41/347874264504414.jpeg",
-    "teaser": "ЦСКА обыграл «Локомотив» и вышел на второе место таблицы РПЛ",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a89e4d69a794713e9b12f7c",
-    "publishedAt": "2026-08-22T19:24:44.000Z",
-    "createdAt": "2026-08-23T13:35:50.935Z",
-    "updatedAt": "2026-08-23T13:35:50.935Z"
+    "createdAt": "2026-08-23T14:27:48.723Z",
+    "updatedAt": "2026-08-23T14:27:48.723Z"
   }
 ]
