@@ -1,5 +1,19 @@
 [
   {
+    "id": "7332d7fe1447ccc5",
+    "title": "Российские гимнасты выиграли общий медальный зачет чемпионата Европы",
+    "sport": "Другое",
+    "category": "Другие",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/2/15/347875059419152.jpeg",
+    "teaser": "Российские гимнасты выиграли общий медальный зачет чемпионата Европы",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a8b2cf59a7947291ac05d67",
+    "publishedAt": "2026-08-23T18:02:53.000Z",
+    "createdAt": "2026-08-23T18:35:32.164Z",
+    "updatedAt": "2026-08-23T18:35:32.164Z"
+  },
+  {
     "id": "7010a0af6a06fa32",
     "title": "В новой программе Петра Гуменника будет звучать голос актера Юры Борисова",
     "sport": "Другое",
@@ -10,8 +24,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a8b07779a79475a560870b0",
     "publishedAt": "2026-08-23T16:55:05.000Z",
-    "createdAt": "2026-08-23T17:24:15.249Z",
-    "updatedAt": "2026-08-23T17:24:15.249Z"
+    "createdAt": "2026-08-23T18:35:33.173Z",
+    "updatedAt": "2026-08-23T18:35:33.173Z"
   },
   {
     "id": "de0bc0a593a95311",
@@ -24,8 +38,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a8b17d89a79476e113287d5",
     "publishedAt": "2026-08-23T16:37:15.000Z",
-    "createdAt": "2026-08-23T17:24:14.286Z",
-    "updatedAt": "2026-08-23T17:24:14.286Z"
+    "createdAt": "2026-08-23T18:35:31.153Z",
+    "updatedAt": "2026-08-23T18:35:31.153Z"
   },
   {
     "id": "9046455af59d6069",
@@ -38,8 +52,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a8b0a7a9a79471b8efaa21f",
     "publishedAt": "2026-08-23T15:49:09.000Z",
-    "createdAt": "2026-08-23T17:24:16.204Z",
-    "updatedAt": "2026-08-23T17:24:16.204Z"
+    "createdAt": "2026-08-23T18:35:34.160Z",
+    "updatedAt": "2026-08-23T18:35:34.160Z"
   },
   {
     "id": "7177ce51041ac03c",
@@ -52,8 +66,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a8b0f139a7947f8a7bea4ce",
     "publishedAt": "2026-08-23T15:32:48.000Z",
-    "createdAt": "2026-08-23T17:24:17.212Z",
-    "updatedAt": "2026-08-23T17:24:17.212Z"
+    "createdAt": "2026-08-23T18:35:35.164Z",
+    "updatedAt": "2026-08-23T18:35:35.164Z"
   },
   {
     "id": "ea937a3d724e68de",
@@ -66,8 +80,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a8b06779a79471ac3779c9c",
     "publishedAt": "2026-08-23T15:12:05.000Z",
-    "createdAt": "2026-08-23T17:24:19.074Z",
-    "updatedAt": "2026-08-23T17:24:19.074Z"
+    "createdAt": "2026-08-23T18:35:37.246Z",
+    "updatedAt": "2026-08-23T18:35:37.246Z"
   },
   {
     "id": "b7db36027c266589",
@@ -80,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a8afbe49a7947734fb2790e",
     "publishedAt": "2026-08-23T14:30:01.000Z",
-    "createdAt": "2026-08-23T17:24:18.179Z",
-    "updatedAt": "2026-08-23T17:24:18.179Z"
+    "createdAt": "2026-08-23T18:35:36.177Z",
+    "updatedAt": "2026-08-23T18:35:36.177Z"
   },
   {
     "id": "a4286cae4399eeb2",
@@ -94,8 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a8af5c69a794757f4dd56a3",
     "publishedAt": "2026-08-23T14:17:31.000Z",
-    "createdAt": "2026-08-23T17:24:20.084Z",
-    "updatedAt": "2026-08-23T17:24:20.084Z"
+    "createdAt": "2026-08-23T18:35:38.695Z",
+    "updatedAt": "2026-08-23T18:35:38.695Z"
   },
   {
     "id": "ccb707fc4bd89bcd",
@@ -108,22 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a8af6719a79474ab144016e",
     "publishedAt": "2026-08-23T13:44:41.000Z",
-    "createdAt": "2026-08-23T17:24:21.129Z",
-    "updatedAt": "2026-08-23T17:24:21.129Z"
-  },
-  {
-    "id": "bad6b587f4cd2f45",
-    "title": "Эфиопский бегун второй раз за два года побил рекорд мира в полумарафоне",
-    "sport": "Другое",
-    "category": "Другие",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/2/48/347874911913482.jpeg",
-    "teaser": "Эфиопский бегун второй раз за два года побил рекорд мира в полумарафоне",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a8af1789a794715f482fbd4",
-    "publishedAt": "2026-08-23T13:28:20.000Z",
-    "createdAt": "2026-08-23T17:24:23.096Z",
-    "updatedAt": "2026-08-23T17:24:23.096Z"
+    "createdAt": "2026-08-23T18:35:39.721Z",
+    "updatedAt": "2026-08-23T18:35:39.721Z"
   },
   {
     "id": "c49b3b56c316e2e3",
@@ -136,7 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a8ae7ec9a79475f755423b1",
     "publishedAt": "2026-08-23T12:56:49.000Z",
-    "createdAt": "2026-08-23T17:24:22.085Z",
-    "updatedAt": "2026-08-23T17:24:22.086Z"
+    "createdAt": "2026-08-23T18:35:40.730Z",
+    "updatedAt": "2026-08-23T18:35:40.730Z"
   }
 ]
