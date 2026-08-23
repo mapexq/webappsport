@@ -1,5 +1,47 @@
 [
   {
+    "id": "9046455af59d6069",
+    "title": "Российские гимнасты уступили британцам в борьбе за золото ЧЕ в многоборье",
+    "sport": "Другое",
+    "category": "Другие",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/0/02/347874995163020.jpeg",
+    "teaser": "Российские гимнасты уступили британцам в борьбе за золото ЧЕ в многоборье",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a8b0a7a9a79471b8efaa21f",
+    "publishedAt": "2026-08-23T15:49:09.000Z",
+    "createdAt": "2026-08-23T16:31:33.412Z",
+    "updatedAt": "2026-08-23T16:31:33.412Z"
+  },
+  {
+    "id": "7177ce51041ac03c",
+    "title": "Действующий чемпион «Формулы-1» выиграл вторую гонку подряд",
+    "sport": "Другое",
+    "category": "Формула-1",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/1/41/347874984036411.jpeg",
+    "teaser": "Действующий чемпион «Формулы-1» выиграл вторую гонку подряд",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a8b0f139a7947f8a7bea4ce",
+    "publishedAt": "2026-08-23T15:32:48.000Z",
+    "createdAt": "2026-08-23T16:31:34.445Z",
+    "updatedAt": "2026-08-23T16:31:34.445Z"
+  },
+  {
+    "id": "ea937a3d724e68de",
+    "title": "«Манчестер Сити» вырвал победу на 91-й минуте в первом туре премьер-лиги",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/1/36/347874971432361.jpeg",
+    "teaser": "«Манчестер Сити» вырвал победу на 91-й минуте в первом туре премьер-лиги",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a8b06779a79471ac3779c9c",
+    "publishedAt": "2026-08-23T15:12:05.000Z",
+    "createdAt": "2026-08-23T16:31:36.620Z",
+    "updatedAt": "2026-08-23T16:31:36.620Z"
+  },
+  {
     "id": "b7db36027c266589",
     "title": "Российская Team Spirit в рекордный третий раз выиграла The International",
     "sport": "Другое",
@@ -10,8 +52,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a8afbe49a7947734fb2790e",
     "publishedAt": "2026-08-23T14:30:01.000Z",
-    "createdAt": "2026-08-23T15:27:15.320Z",
-    "updatedAt": "2026-08-23T15:27:15.320Z"
+    "createdAt": "2026-08-23T16:31:35.560Z",
+    "updatedAt": "2026-08-23T16:31:35.560Z"
   },
   {
     "id": "a4286cae4399eeb2",
@@ -24,8 +66,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a8af5c69a794757f4dd56a3",
     "publishedAt": "2026-08-23T14:17:31.000Z",
-    "createdAt": "2026-08-23T15:27:16.364Z",
-    "updatedAt": "2026-08-23T15:27:16.364Z"
+    "createdAt": "2026-08-23T16:31:37.741Z",
+    "updatedAt": "2026-08-23T16:31:37.741Z"
   },
   {
     "id": "ccb707fc4bd89bcd",
@@ -38,8 +80,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a8af6719a79474ab144016e",
     "publishedAt": "2026-08-23T13:44:41.000Z",
-    "createdAt": "2026-08-23T15:27:17.420Z",
-    "updatedAt": "2026-08-23T15:27:17.420Z"
+    "createdAt": "2026-08-23T16:31:38.999Z",
+    "updatedAt": "2026-08-23T16:31:38.999Z"
   },
   {
     "id": "bad6b587f4cd2f45",
@@ -52,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a8af1789a794715f482fbd4",
     "publishedAt": "2026-08-23T13:28:20.000Z",
-    "createdAt": "2026-08-23T15:27:19.626Z",
-    "updatedAt": "2026-08-23T15:27:19.626Z"
+    "createdAt": "2026-08-23T16:31:41.190Z",
+    "updatedAt": "2026-08-23T16:31:41.190Z"
   },
   {
     "id": "c49b3b56c316e2e3",
@@ -66,8 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a8ae7ec9a79475f755423b1",
     "publishedAt": "2026-08-23T12:56:49.000Z",
-    "createdAt": "2026-08-23T15:27:18.522Z",
-    "updatedAt": "2026-08-23T15:27:18.522Z"
+    "createdAt": "2026-08-23T16:31:40.094Z",
+    "updatedAt": "2026-08-23T16:31:40.094Z"
   },
   {
     "id": "ffc7fc9d4d946a3c",
@@ -80,22 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a8ae1b79a7947ff88e75e1d",
     "publishedAt": "2026-08-23T12:20:57.000Z",
-    "createdAt": "2026-08-23T15:27:20.725Z",
-    "updatedAt": "2026-08-23T15:27:20.725Z"
-  },
-  {
-    "id": "353bc21df2ce6390",
-    "title": "Матч аутсайдеров РПЛ закончился разгромной победой «Крыльев Советов»",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/2/89/347874861425892.png",
-    "teaser": "Матч аутсайдеров РПЛ закончился разгромной победой «Крыльев Советов»",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a8addc09a79473318239dad",
-    "publishedAt": "2026-08-23T12:02:19.000Z",
-    "createdAt": "2026-08-23T15:27:22.898Z",
-    "updatedAt": "2026-08-23T15:27:22.898Z"
+    "createdAt": "2026-08-23T16:31:42.282Z",
+    "updatedAt": "2026-08-23T16:31:42.282Z"
   },
   {
     "id": "dfedf8a362af66ac",
@@ -108,35 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a8ad51c9a7947ff88e75de0",
     "publishedAt": "2026-08-23T11:37:43.000Z",
-    "createdAt": "2026-08-23T15:27:21.791Z",
-    "updatedAt": "2026-08-23T15:27:21.791Z"
-  },
-  {
-    "id": "b10bb7fa7a5f31a3",
-    "title": "«Спартак» соберет на матче с «Зенитом» второй аншлаг с начала сезона",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/5/02/347874831398025.png",
-    "teaser": "«Спартак» соберет на матче с «Зенитом» второй аншлаг с начала сезона",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a8ad0409a79471ee7dcbe1c",
-    "publishedAt": "2026-08-23T11:07:53.000Z",
-    "createdAt": "2026-08-23T15:27:24.005Z",
-    "updatedAt": "2026-08-23T15:27:24.005Z"
-  },
-  {
-    "id": "29a288727a27b407",
-    "title": "Олимпийские чемпионы по фигурному катанию объявили о помолвке",
-    "sport": "Другое",
-    "category": "Фигурное катание",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/9/81/347874798093819.png",
-    "teaser": "Олимпийские чемпионы по фигурному катанию объявили о помолвке",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a8ac6b09a7947f3ee92f5a4",
-    "publishedAt": "2026-08-23T10:30:34.000Z",
-    "createdAt": "2026-08-23T15:27:25.134Z",
-    "updatedAt": "2026-08-23T15:27:25.134Z"
+    "createdAt": "2026-08-23T16:31:43.422Z",
+    "updatedAt": "2026-08-23T16:31:43.422Z"
   }
 ]
