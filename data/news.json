@@ -1,5 +1,33 @@
 [
   {
+    "id": "bad6b587f4cd2f45",
+    "title": "Эфиопский бегун второй раз за два года побил рекорд мира в полумарафоне",
+    "sport": "Другое",
+    "category": "Другие",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/2/48/347874911913482.jpeg",
+    "teaser": "Эфиопский бегун второй раз за два года побил рекорд мира в полумарафоне",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a8af1789a794715f482fbd4",
+    "publishedAt": "2026-08-23T13:28:20.000Z",
+    "createdAt": "2026-08-23T13:35:41.311Z",
+    "updatedAt": "2026-08-23T13:35:41.311Z"
+  },
+  {
+    "id": "c49b3b56c316e2e3",
+    "title": "Махачев выбросил полотенце и досрочно остановил бой россиянина в PFL",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/1/84/347874894030841.jpeg",
+    "teaser": "Махачев выбросил полотенце и досрочно остановил бой россиянина в PFL",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a8ae7ec9a79475f755423b1",
+    "publishedAt": "2026-08-23T12:56:49.000Z",
+    "createdAt": "2026-08-23T13:35:40.282Z",
+    "updatedAt": "2026-08-23T13:35:40.282Z"
+  },
+  {
     "id": "ffc7fc9d4d946a3c",
     "title": "Игрок ЦСКА и сборной России травмировал колено в матче с бывшей командой",
     "sport": "Футбол",
@@ -10,8 +38,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a8ae1b79a7947ff88e75e1d",
     "publishedAt": "2026-08-23T12:20:57.000Z",
-    "createdAt": "2026-08-23T12:49:17.287Z",
-    "updatedAt": "2026-08-23T12:49:17.287Z"
+    "createdAt": "2026-08-23T13:35:42.471Z",
+    "updatedAt": "2026-08-23T13:35:42.471Z"
   },
   {
     "id": "353bc21df2ce6390",
@@ -24,8 +52,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a8addc09a79473318239dad",
     "publishedAt": "2026-08-23T12:02:19.000Z",
-    "createdAt": "2026-08-23T12:49:18.323Z",
-    "updatedAt": "2026-08-23T12:49:18.323Z"
+    "createdAt": "2026-08-23T13:35:44.910Z",
+    "updatedAt": "2026-08-23T13:35:44.910Z"
   },
   {
     "id": "dfedf8a362af66ac",
@@ -38,8 +66,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a8ad51c9a7947ff88e75de0",
     "publishedAt": "2026-08-23T11:37:43.000Z",
-    "createdAt": "2026-08-23T12:49:16.342Z",
-    "updatedAt": "2026-08-23T12:49:16.342Z"
+    "createdAt": "2026-08-23T13:35:43.742Z",
+    "updatedAt": "2026-08-23T13:35:43.742Z"
   },
   {
     "id": "b10bb7fa7a5f31a3",
@@ -52,8 +80,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a8ad0409a79471ee7dcbe1c",
     "publishedAt": "2026-08-23T11:07:53.000Z",
-    "createdAt": "2026-08-23T12:49:19.318Z",
-    "updatedAt": "2026-08-23T12:49:19.318Z"
+    "createdAt": "2026-08-23T13:35:46.020Z",
+    "updatedAt": "2026-08-23T13:35:46.020Z"
   },
   {
     "id": "29a288727a27b407",
@@ -66,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a8ac6b09a7947f3ee92f5a4",
     "publishedAt": "2026-08-23T10:30:34.000Z",
-    "createdAt": "2026-08-23T12:49:20.354Z",
-    "updatedAt": "2026-08-23T12:49:20.354Z"
+    "createdAt": "2026-08-23T13:35:47.179Z",
+    "updatedAt": "2026-08-23T13:35:47.179Z"
   },
   {
     "id": "406c07993d556bef",
@@ -80,8 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a8ac0559a7947a948e84f6e",
     "publishedAt": "2026-08-23T10:06:57.000Z",
-    "createdAt": "2026-08-23T12:49:22.744Z",
-    "updatedAt": "2026-08-23T12:49:22.744Z"
+    "createdAt": "2026-08-23T13:35:49.246Z",
+    "updatedAt": "2026-08-23T13:35:49.246Z"
   },
   {
     "id": "0e952658ed53bbbd",
@@ -94,22 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a8ab8979a79471e9d346d5a",
     "publishedAt": "2026-08-23T09:36:49.000Z",
-    "createdAt": "2026-08-23T12:49:21.695Z",
-    "updatedAt": "2026-08-23T12:49:21.695Z"
-  },
-  {
-    "id": "20aa8eb33c09e61a",
-    "title": "В Португалии 25-летний футболист умер после потери сознания на поле",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/0/18/347874268591180.jpeg",
-    "teaser": "В Португалии 25-летний футболист умер после потери сознания на поле",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a89ef6a9a794727f2861d09",
-    "publishedAt": "2026-08-22T19:49:55.000Z",
-    "createdAt": "2026-08-23T12:49:24.851Z",
-    "updatedAt": "2026-08-23T12:49:24.851Z"
+    "createdAt": "2026-08-23T13:35:48.317Z",
+    "updatedAt": "2026-08-23T13:35:48.317Z"
   },
   {
     "id": "35dd4427445e9e09",
@@ -122,21 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a89e4d69a794713e9b12f7c",
     "publishedAt": "2026-08-22T19:24:44.000Z",
-    "createdAt": "2026-08-23T12:49:23.811Z",
-    "updatedAt": "2026-08-23T12:49:23.811Z"
-  },
-  {
-    "id": "0e2047273d06f56d",
-    "title": "Умер серебряный призер Олимпиады-80 фехтовальщик Сабиржан Рузиев",
-    "sport": "Другое",
-    "category": "Другие",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/2/83/347874209917832.jpeg",
-    "teaser": "Умер серебряный призер Олимпиады-80 фехтовальщик Сабиржан Рузиев",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a89deea9a794713e9b12f72",
-    "publishedAt": "2026-08-22T17:54:23.000Z",
-    "createdAt": "2026-08-23T12:49:25.945Z",
-    "updatedAt": "2026-08-23T12:49:25.945Z"
+    "createdAt": "2026-08-23T13:35:50.935Z",
+    "updatedAt": "2026-08-23T13:35:50.935Z"
   }
 ]

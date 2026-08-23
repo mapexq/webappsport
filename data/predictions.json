@@ -1,102 +1,6 @@
 [
   {
-    "id": 1787489349534,
-    "eventName": "Манчестер Сити — Борнмут",
-    "discipline": "Футбол",
-    "tournament": "Чемпионат",
-    "expert": {
-      "name": "Дмитрий Рыбалка",
-      "avatar": "https://static-uploads.prod.bookmaker-ratings.ru/2026/08/818-rb-webp-6a7c191851082-6a7c191854cb7.webp?width=60",
-      "status": "expert",
-      "winRate": 84
-    },
-    "prediction": "Фора 1 (-1.5)",
-    "odds": 2.18,
-    "comment": "Сити должен реабилитироваться перед болельщиками за Суперкубок, начать сезон с уверенной победы. Борнмут летом разобрали, от главного тренера до ведущих игроков.",
-    "source": "Sports Analytics Pro"
-  },
-  {
-    "id": 1787489349535,
-    "eventName": "Брайтон энд Хоув Альбион — Астон Вилла",
-    "discipline": "Футбол",
-    "tournament": "Чемпионат",
-    "expert": {
-      "name": "Артур Галкин",
-      "avatar": "https://bookmaker-ratings.ru/static/images/badges/novice-letter.svg?v=30092024",
-      "status": "expert",
-      "winRate": 68
-    },
-    "prediction": "Фора 1 (0)",
-    "odds": 1.73,
-    "comment": "Брайтон крепкий дома, ожидаю, что Вилла не сможет обыграть чаек. Безопасно поставлю с форой 0 на Брайтон",
-    "source": "Sports Analytics Pro"
-  },
-  {
-    "id": 1787489349536,
-    "eventName": "Манчестер Сити — Борнмут",
-    "discipline": "Футбол",
-    "tournament": "Чемпионат",
-    "expert": {
-      "name": "Сулейман Билалов",
-      "avatar": "https://bookmaker-ratings.ru/static/images/badges/novice-letter.svg?v=30092024",
-      "status": "expert",
-      "winRate": 79
-    },
-    "prediction": "Фора 1 (-1)",
-    "odds": 1.73,
-    "comment": "Сити дома часто много забивают и они обыграют с разницей более одного мяча",
-    "source": "Sports Analytics Pro"
-  },
-  {
-    "id": 1787489349537,
-    "eventName": "Манчестер Сити — Борнмут",
-    "discipline": "Футбол",
-    "tournament": "Чемпионат",
-    "expert": {
-      "name": "Rolandovych Val",
-      "avatar": "https://bookmaker-ratings.ru/static/images/badges/novice-letter.svg?v=30092024",
-      "status": "expert",
-      "winRate": 86
-    },
-    "prediction": "Тотал (3) Б",
-    "odds": 1.65,
-    "comment": "Нет ставки ОЗ +2,5б но думаю команды с лёгкостью пробьют и три гола",
-    "source": "Sports Analytics Pro"
-  },
-  {
-    "id": 1787489349539,
-    "eventName": "Манчестер Сити — Борнмут",
-    "discipline": "Футбол",
-    "tournament": "Чемпионат",
-    "expert": {
-      "name": "Алим Калибатов",
-      "avatar": "https://static-uploads.prod.bookmaker-ratings.ru/2026/04/3dcfa3e614753a9566b9342464293-rb-webp-69d34c667554e-69d34c667cd17.webp?width=60",
-      "status": "expert",
-      "winRate": 73
-    },
-    "prediction": "Обе забьют - Да",
-    "odds": 1.55,
-    "comment": "\"Борнмут\" регулярно забивает \"горожанам\", не станет исключением и этот матч. Пока еще команда привыкает к требованиям Энцо Марески и уже многие в первом же матче за Суперкубок начали критиковать \"Сити\". И есть за что - очень много ошибок в обороне, чем не преминет воспользоваться \"Борнмут\". Гол гостей за 1.55.",
-    "source": "Sports Analytics Pro"
-  },
-  {
-    "id": 1787489349540,
-    "eventName": "Ленинградец — Челябинск",
-    "discipline": "Футбол",
-    "tournament": "Чемпионат",
-    "expert": {
-      "name": "Сулейман Билалов",
-      "avatar": "https://bookmaker-ratings.ru/static/images/badges/novice-letter.svg?v=30092024",
-      "status": "expert",
-      "winRate": 79
-    },
-    "prediction": "1Х",
-    "odds": 1.4,
-    "comment": "Питерская команда в данный момент чуть сильнее своих соперников ,питерцы не проиграют",
-    "source": "Sports Analytics Pro"
-  },
-  {
-    "id": 1787489349541,
+    "id": 1787492131013,
     "eventName": "Уфа — Енисей",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -112,7 +16,7 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1787489349542,
+    "id": 1787492131014,
     "eventName": "Динамо Махачкала — Краснодар",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -128,7 +32,7 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1787489349543,
+    "id": 1787492131015,
     "eventName": "Динамо Махачкала — Краснодар",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -144,18 +48,114 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1787489349544,
+    "id": 1787492131016,
+    "eventName": "Динамо Махачкала — Краснодар",
+    "discipline": "Футбол",
+    "tournament": "Чемпионат",
+    "expert": {
+      "name": "Алексей Вайцеховский",
+      "avatar": "https://bookmaker-ratings.ru/static/images/badges/novice-letter.svg?v=30092024",
+      "status": "expert",
+      "winRate": 70
+    },
+    "prediction": "Обе забьют (Да)",
+    "odds": 1.98,
+    "comment": "Напряжённый график, команды не так свежи, будут ошибки",
+    "source": "Sports Analytics Pro"
+  },
+  {
+    "id": 1787492131017,
+    "eventName": "Динамо Махачкала — Краснодар",
+    "discipline": "Футбол",
+    "tournament": "Чемпионат",
+    "expert": {
+      "name": "Алим Калибатов",
+      "avatar": "https://static-uploads.prod.bookmaker-ratings.ru/2026/04/3dcfa3e614753a9566b9342464293-rb-webp-69d34c667554e-69d34c667cd17.webp?width=60",
+      "status": "expert",
+      "winRate": 73
+    },
+    "prediction": "Обе забьют - Да",
+    "odds": 1.92,
+    "comment": "Махачкала в этом сезоне прям радует. Евсеев обещал атакующий футбол - получите. Тем непонятнее, почему такой высокий кэф на обмен голами - 1.92. Думаю, хозяева дадут \"быкам\" бой.",
+    "source": "Sports Analytics Pro"
+  },
+  {
+    "id": 1787492131018,
+    "eventName": "Динамо Махачкала — Краснодар",
+    "discipline": "Футбол",
+    "tournament": "Чемпионат",
+    "expert": {
+      "name": "Artyom Tyapushkin",
+      "avatar": "https://bookmaker-ratings.ru/static/images/badges/novice-letter.svg?v=30092024",
+      "status": "expert",
+      "winRate": 68
+    },
+    "prediction": "Обе забьют - Да",
+    "odds": 2,
+    "comment": "Динамо Махачкала играет дома и забивала в каждом матче в этом сезоне РПЛ.Краснадар отлично играют в атаке.",
+    "source": "Sports Analytics Pro"
+  },
+  {
+    "id": 1787492131019,
+    "eventName": "Атлетико Мадрид — Вильярреал",
+    "discipline": "Футбол",
+    "tournament": "Чемпионат",
+    "expert": {
+      "name": "Алим Калибатов",
+      "avatar": "https://static-uploads.prod.bookmaker-ratings.ru/2026/04/3dcfa3e614753a9566b9342464293-rb-webp-69d34c667554e-69d34c667cd17.webp?width=60",
+      "status": "expert",
+      "winRate": 73
+    },
+    "prediction": "Обе забьют - Да",
+    "odds": 1.67,
+    "comment": "И у Атлетико и у Вильярреала достаточно атакующей мощи, чтобы поразить ворота друг друга. Симеоне давно уже не автобусник. ОЗ за 1.67",
+    "source": "Sports Analytics Pro"
+  },
+  {
+    "id": 1787492131020,
+    "eventName": "Атлетико Мадрид — Вильярреал",
+    "discipline": "Футбол",
+    "tournament": "Чемпионат",
+    "expert": {
+      "name": "Вячеслав Николаевич",
+      "avatar": "https://bookmaker-ratings.ru/static/images/badges/novice-letter.svg?v=30092024",
+      "status": "expert",
+      "winRate": 89
+    },
+    "prediction": "Тотал (3) Б",
+    "odds": 2.14,
+    "comment": "Команды много забивают и очень результативно играют. Голов будет много.",
+    "source": "Sports Analytics Pro"
+  },
+  {
+    "id": 1787492131021,
     "eventName": "Матч",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
     "expert": {
-      "name": "Хоув Альбион",
+      "name": "Ла Лига",
       "avatar": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=100&h=100&fit=crop",
       "status": "expert",
-      "winRate": 79
+      "winRate": 77
     },
-    "prediction": "Фора 1 (0)",
-    "odds": 1.73,
+    "prediction": "ТБ (1,5) в первом тайме",
+    "odds": 2.6,
+    "comment": "Комментарий к прогнозу",
+    "source": "Sports Analytics Pro"
+  },
+  {
+    "id": 1787492131022,
+    "eventName": "Матч",
+    "discipline": "Футбол",
+    "tournament": "Чемпионат",
+    "expert": {
+      "name": "Ла Лига",
+      "avatar": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=100&h=100&fit=crop",
+      "status": "expert",
+      "winRate": 77
+    },
+    "prediction": "П1",
+    "odds": 1.85,
     "comment": "Комментарий к прогнозу",
     "source": "Sports Analytics Pro"
   }
