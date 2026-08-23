@@ -1,119 +1,39 @@
 [
   {
-    "id": 1787484292548,
-    "eventName": "Вестерос СК — Кальмар",
+    "id": 1787489349534,
+    "eventName": "Манчестер Сити — Борнмут",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
     "expert": {
-      "name": "Ку Кин",
-      "avatar": "https://static-uploads.prod.bookmaker-ratings.ru/2026/08/32172D9B-33C7-44C9-B0BB-281434E4042F-rb-webp-6a801d9384f1f-6a801d93887c9.webp?width=60",
+      "name": "Дмитрий Рыбалка",
+      "avatar": "https://static-uploads.prod.bookmaker-ratings.ru/2026/08/818-rb-webp-6a7c191851082-6a7c191854cb7.webp?width=60",
       "status": "expert",
-      "winRate": 86
+      "winRate": 84
     },
-    "prediction": "Тотал больше (2.5)",
-    "odds": 1.75,
-    "comment": "Хозяева хорошо играет дома,гости находятся в плохой форме",
+    "prediction": "Фора 1 (-1.5)",
+    "odds": 2.18,
+    "comment": "Сити должен реабилитироваться перед болельщиками за Суперкубок, начать сезон с уверенной победы. Борнмут летом разобрали, от главного тренера до ведущих игроков.",
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1787484292549,
-    "eventName": "Гётеборг — Эльфсборг",
+    "id": 1787489349535,
+    "eventName": "Брайтон энд Хоув Альбион — Астон Вилла",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
     "expert": {
-      "name": "Ку Кин",
-      "avatar": "https://static-uploads.prod.bookmaker-ratings.ru/2026/08/32172D9B-33C7-44C9-B0BB-281434E4042F-rb-webp-6a801d9384f1f-6a801d93887c9.webp?width=60",
-      "status": "expert",
-      "winRate": 86
-    },
-    "prediction": "Тотал больше (2.5)",
-    "odds": 1.76,
-    "comment": "Гости находятся в хорошей форме и прекрасная результативность",
-    "source": "Sports Analytics Pro"
-  },
-  {
-    "id": 1787484292550,
-    "eventName": "Динамо Москва — Родина",
-    "discipline": "Футбол",
-    "tournament": "Чемпионат",
-    "expert": {
-      "name": "Егор Скрябов",
+      "name": "Артур Галкин",
       "avatar": "https://bookmaker-ratings.ru/static/images/badges/novice-letter.svg?v=30092024",
       "status": "expert",
-      "winRate": 87
+      "winRate": 68
     },
-    "prediction": "Обе забьют - Да",
-    "odds": 1.84,
-    "comment": "Родина забивает почти в каждом матче, а для Динамо шанс заработать очки",
+    "prediction": "Фора 1 (0)",
+    "odds": 1.73,
+    "comment": "Брайтон крепкий дома, ожидаю, что Вилла не сможет обыграть чаек. Безопасно поставлю с форой 0 на Брайтон",
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1787484292551,
-    "eventName": "Динамо Москва — Родина",
-    "discipline": "Футбол",
-    "tournament": "Чемпионат",
-    "expert": {
-      "name": "Rolandovych Val",
-      "avatar": "https://bookmaker-ratings.ru/static/images/badges/novice-letter.svg?v=30092024",
-      "status": "expert",
-      "winRate": 86
-    },
-    "prediction": "Обе забьют - Да",
-    "odds": 1.85,
-    "comment": "Еще одно дерби на этот раз московское, динамо конечно фаворит ну Родина показала, что может играть футбол с более сильным соперником по составу ( пример матч с зенитом) так что думаю и тут возможен обмен голами",
-    "source": "Sports Analytics Pro"
-  },
-  {
-    "id": 1787484292552,
-    "eventName": "Динамо Москва — Родина",
-    "discipline": "Футбол",
-    "tournament": "Чемпионат",
-    "expert": {
-      "name": "Алексей Вайцеховский",
-      "avatar": "https://bookmaker-ratings.ru/static/images/badges/novice-letter.svg?v=30092024",
-      "status": "expert",
-      "winRate": 70
-    },
-    "prediction": "Тотал Динамо Москва больше (1.5)",
-    "odds": 2.55,
-    "comment": "Когда-то это должно случится, ждем что динамо пробьет",
-    "source": "Sports Analytics Pro"
-  },
-  {
-    "id": 1787484292553,
-    "eventName": "Динамо Москва — Родина",
-    "discipline": "Футбол",
-    "tournament": "Чемпионат",
-    "expert": {
-      "name": "Ку Кин",
-      "avatar": "https://static-uploads.prod.bookmaker-ratings.ru/2026/08/32172D9B-33C7-44C9-B0BB-281434E4042F-rb-webp-6a801d9384f1f-6a801d93887c9.webp?width=60",
-      "status": "expert",
-      "winRate": 86
-    },
-    "prediction": "Обе забьют (Да)",
-    "odds": 1.85,
-    "comment": "Две атакующие команды .Легко играют с атаку и есть проблемы в обороне",
-    "source": "Sports Analytics Pro"
-  },
-  {
-    "id": 1787484292554,
-    "eventName": "Динамо Москва — Родина",
-    "discipline": "Футбол",
-    "tournament": "Чемпионат",
-    "expert": {
-      "name": "Алим Калибатов",
-      "avatar": "https://static-uploads.prod.bookmaker-ratings.ru/2026/04/3dcfa3e614753a9566b9342464293-rb-webp-69d34c667554e-69d34c667cd17.webp?width=60",
-      "status": "expert",
-      "winRate": 73
-    },
-    "prediction": "Индивидуальный тотал 2 Больше (0.5)",
-    "odds": 1.69,
-    "comment": "\"Родина\" - один из приятных сюрпризов на старте РПЛ. Уверен, что и сегодня смогут удивить динамовцев, забив им гол. И кэф неплохой - 1.69.",
-    "source": "Sports Analytics Pro"
-  },
-  {
-    "id": 1787484292555,
-    "eventName": "Динамо Москва — Родина",
+    "id": 1787489349536,
+    "eventName": "Манчестер Сити — Борнмут",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
     "expert": {
@@ -123,40 +43,120 @@
       "winRate": 79
     },
     "prediction": "Фора 1 (-1)",
-    "odds": 1.54,
-    "comment": "Динамовцы думаю после неудачного старта должны наконец показать яркую игру и победить",
+    "odds": 1.73,
+    "comment": "Сити дома часто много забивают и они обыграют с разницей более одного мяча",
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1787484292556,
-    "eventName": "Динамо Москва — Родина",
+    "id": 1787489349537,
+    "eventName": "Манчестер Сити — Борнмут",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
     "expert": {
-      "name": "Vladimir Lapotko",
+      "name": "Rolandovych Val",
       "avatar": "https://bookmaker-ratings.ru/static/images/badges/novice-letter.svg?v=30092024",
       "status": "expert",
-      "winRate": 70
+      "winRate": 86
     },
-    "prediction": "Обе забьют - Да",
-    "odds": 1.81,
-    "comment": "В матчах родины всегда результативные думаю обе забьют",
+    "prediction": "Тотал (3) Б",
+    "odds": 1.65,
+    "comment": "Нет ставки ОЗ +2,5б но думаю команды с лёгкостью пробьют и три гола",
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1787484292557,
-    "eventName": "Динамо — Родина",
+    "id": 1787489349539,
+    "eventName": "Манчестер Сити — Борнмут",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
     "expert": {
-      "name": "Юрий Солнцев",
-      "avatar": "https://static-uploads.prod.bookmaker-ratings.ru/2021/04/1-35-3.jpg?width=60",
+      "name": "Алим Калибатов",
+      "avatar": "https://static-uploads.prod.bookmaker-ratings.ru/2026/04/3dcfa3e614753a9566b9342464293-rb-webp-69d34c667554e-69d34c667cd17.webp?width=60",
+      "status": "expert",
+      "winRate": 73
+    },
+    "prediction": "Обе забьют - Да",
+    "odds": 1.55,
+    "comment": "\"Борнмут\" регулярно забивает \"горожанам\", не станет исключением и этот матч. Пока еще команда привыкает к требованиям Энцо Марески и уже многие в первом же матче за Суперкубок начали критиковать \"Сити\". И есть за что - очень много ошибок в обороне, чем не преминет воспользоваться \"Борнмут\". Гол гостей за 1.55.",
+    "source": "Sports Analytics Pro"
+  },
+  {
+    "id": 1787489349540,
+    "eventName": "Ленинградец — Челябинск",
+    "discipline": "Футбол",
+    "tournament": "Чемпионат",
+    "expert": {
+      "name": "Сулейман Билалов",
+      "avatar": "https://bookmaker-ratings.ru/static/images/badges/novice-letter.svg?v=30092024",
+      "status": "expert",
+      "winRate": 79
+    },
+    "prediction": "1Х",
+    "odds": 1.4,
+    "comment": "Питерская команда в данный момент чуть сильнее своих соперников ,питерцы не проиграют",
+    "source": "Sports Analytics Pro"
+  },
+  {
+    "id": 1787489349541,
+    "eventName": "Уфа — Енисей",
+    "discipline": "Футбол",
+    "tournament": "Чемпионат",
+    "expert": {
+      "name": "Сулейман Билалов",
+      "avatar": "https://bookmaker-ratings.ru/static/images/badges/novice-letter.svg?v=30092024",
+      "status": "expert",
+      "winRate": 79
+    },
+    "prediction": "1Х",
+    "odds": 1.53,
+    "comment": "Думаю уфимцы дома не проиграют,им больше нельзя терять очки",
+    "source": "Sports Analytics Pro"
+  },
+  {
+    "id": 1787489349542,
+    "eventName": "Динамо Махачкала — Краснодар",
+    "discipline": "Футбол",
+    "tournament": "Чемпионат",
+    "expert": {
+      "name": "Егор Скрябов",
+      "avatar": "https://bookmaker-ratings.ru/static/images/badges/novice-letter.svg?v=30092024",
       "status": "expert",
       "winRate": 87
     },
-    "prediction": "П1 и ТБ (2,5)",
-    "odds": 1.88,
-    "comment": "Несмотря на результаты двух последних встреч, игра «Динамо» уже начинает становиться похожей на ту, что ждет Сандро Шварц. Отмечал это и сам тренер. В Петербурге все испортил спорный пенальти, сбив настрой динамовцев, которые владели полным преимуществом. С «Краснодаром» насоздавали кучу моментов, но так и не сумели распечатать ворота соперников. Банальное невезение. «Динамо» усиливает фланги, 2 легионера вот-вот перейдут. Так что это должно подстегнуть тех, кто сегодня выйдет в старте. Должно прорвать уже бело-голубых. Они многое делают правильно. И «Родине» будет максимально сложно остановить здесь динамовцев, тем более они массу сил потратили с «Оренбургом», почти весь матч играя вдесятером. Оборона команды Диаса по-прежнему вызывает уйму вопросов. 4 получили от «Оренбурга», до этого 3 за тайм от «Акрона». В атаке могут убежать, что-то реализовать даже против «Динамо», раз «Зениту» двушку отгрузили, но защита не выстоит. Ряд ставок здесь рассмотрел бы. Очевидная — «победа «Динамо» и тотал больше 2,5». Кроме того, верю, что сами хозяева забьют больше 2,5. Пока в первых таймах «Динамо» не забивало, поэтому ждем от них мощного старта и гола в первые 30 минут. То же самое касается и Константина Тюкавина. Должен он снять уже заклятие, старается, но не идет. Здесь шансов будет много. И еще один статистический вариант: «Родина» достаточно много бьет в створ, не стесняется пулять с дистанции, но при этом и по своим воротам допускает кучу ударов. Поэтому берем «тотал ударов в створ больше 9,5».",
+    "prediction": "Обе забьют - Да",
+    "odds": 1.94,
+    "comment": "Махачкалинцы стабильно забивают, думаю первый гол будет за ними, а Краснодар как всегда на характере вывезет 1:2; 1:3",
+    "source": "Sports Analytics Pro"
+  },
+  {
+    "id": 1787489349543,
+    "eventName": "Динамо Махачкала — Краснодар",
+    "discipline": "Футбол",
+    "tournament": "Чемпионат",
+    "expert": {
+      "name": "Rolandovych Val",
+      "avatar": "https://bookmaker-ratings.ru/static/images/badges/novice-letter.svg?v=30092024",
+      "status": "expert",
+      "winRate": 86
+    },
+    "prediction": "Обе забьют - Да",
+    "odds": 1.92,
+    "comment": "Краснодар пока идет без потерь очков, но к данному матчу команд подойдёт с потерями в составе, Махачкалинцы очень здорово начала сезон и идут пока в первой 4ке так что думаю, что команда Евсеева вполне способна отобрать очки у быков",
+    "source": "Sports Analytics Pro"
+  },
+  {
+    "id": 1787489349544,
+    "eventName": "Матч",
+    "discipline": "Футбол",
+    "tournament": "Чемпионат",
+    "expert": {
+      "name": "Хоув Альбион",
+      "avatar": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=100&h=100&fit=crop",
+      "status": "expert",
+      "winRate": 79
+    },
+    "prediction": "Фора 1 (0)",
+    "odds": 1.73,
+    "comment": "Комментарий к прогнозу",
     "source": "Sports Analytics Pro"
   }
 ]
