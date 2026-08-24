@@ -1,5 +1,47 @@
 [
   {
+    "id": "7aec46c16c65d27d",
+    "title": "Наследный принц Саудовской Аравии отказался от рукопожатия с Инфантино",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/2/18/347875590477182.jpeg",
+    "teaser": "Наследный принц Саудовской Аравии отказался от рукопожатия с Инфантино",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a8bf38e9a7947a02a69477e",
+    "publishedAt": "2026-08-24T08:14:56.000Z",
+    "createdAt": "2026-08-24T08:53:42.001Z",
+    "updatedAt": "2026-08-24T08:53:42.001Z"
+  },
+  {
+    "id": "d2df4e189bc31cd2",
+    "title": "Чеферин сообщил об отказе баллотироваться на пост президента ФИФА",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/7/12/347875561805127.jpeg",
+    "teaser": "Чеферин сообщил об отказе баллотироваться на пост президента ФИФА",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a8bed5f9a7947136349074c",
+    "publishedAt": "2026-08-24T07:35:06.000Z",
+    "createdAt": "2026-08-24T08:53:40.922Z",
+    "updatedAt": "2026-08-24T08:53:40.922Z"
+  },
+  {
+    "id": "365db5285f3dd76c",
+    "title": "Мирра Андреева вернулась в топ-5 рейтинга WTA спустя",
+    "sport": "Теннис",
+    "category": "Теннис",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/6/58/347875519173586.jpeg",
+    "teaser": "Мирра Андреева вернулась в топ-5 рейтинга WTA спустя",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a8bde879a79473dba31ce16",
+    "publishedAt": "2026-08-24T07:04:55.000Z",
+    "createdAt": "2026-08-24T08:53:43.054Z",
+    "updatedAt": "2026-08-24T08:53:43.054Z"
+  },
+  {
     "id": "0df7aba8c3cae6a3",
     "title": "«Какой-то глупый фанат». Как премьер Британии связан с околофутболом",
     "sport": "Футбол",
@@ -10,8 +52,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a3a2ca19a7947b8a96abf76",
     "publishedAt": "2026-08-24T06:26:12.000Z",
-    "createdAt": "2026-08-24T07:07:16.069Z",
-    "updatedAt": "2026-08-24T07:07:16.069Z"
+    "createdAt": "2026-08-24T08:53:44.144Z",
+    "updatedAt": "2026-08-24T08:53:44.144Z"
   },
   {
     "id": "bf3d9665fd689a86",
@@ -24,8 +66,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a8ab0b99a794769119df222",
     "publishedAt": "2026-08-24T04:03:28.000Z",
-    "createdAt": "2026-08-24T07:07:18.021Z",
-    "updatedAt": "2026-08-24T07:07:18.021Z"
+    "createdAt": "2026-08-24T08:53:46.246Z",
+    "updatedAt": "2026-08-24T08:53:46.246Z"
   },
   {
     "id": "6fc72308006b8094",
@@ -38,8 +80,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a8b40c49a79474ef74ba897",
     "publishedAt": "2026-08-23T21:23:29.000Z",
-    "createdAt": "2026-08-24T07:07:20.240Z",
-    "updatedAt": "2026-08-24T07:07:20.240Z"
+    "createdAt": "2026-08-24T08:53:48.667Z",
+    "updatedAt": "2026-08-24T08:53:48.667Z"
   },
   {
     "id": "36910f8175c80330",
@@ -52,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a8b2d7c9a79470f2c0cf6bc",
     "publishedAt": "2026-08-23T19:03:38.000Z",
-    "createdAt": "2026-08-24T07:07:19.172Z",
-    "updatedAt": "2026-08-24T07:07:19.172Z"
+    "createdAt": "2026-08-24T08:53:47.513Z",
+    "updatedAt": "2026-08-24T08:53:47.513Z"
   },
   {
     "id": "7fde94d9c1c883af",
@@ -66,8 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a8b39769a794726e47ecadd",
     "publishedAt": "2026-08-23T18:35:24.000Z",
-    "createdAt": "2026-08-24T07:07:23.525Z",
-    "updatedAt": "2026-08-24T07:07:23.525Z"
+    "createdAt": "2026-08-24T08:53:52.085Z",
+    "updatedAt": "2026-08-24T08:53:52.085Z"
   },
   {
     "id": "7332d7fe1447ccc5",
@@ -80,8 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a8b2cf59a7947291ac05d67",
     "publishedAt": "2026-08-23T18:02:53.000Z",
-    "createdAt": "2026-08-24T07:07:21.388Z",
-    "updatedAt": "2026-08-24T07:07:21.388Z"
+    "createdAt": "2026-08-24T08:53:49.766Z",
+    "updatedAt": "2026-08-24T08:53:49.766Z"
   },
   {
     "id": "7010a0af6a06fa32",
@@ -94,49 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a8b07779a79475a560870b0",
     "publishedAt": "2026-08-23T16:55:05.000Z",
-    "createdAt": "2026-08-24T07:07:22.415Z",
-    "updatedAt": "2026-08-24T07:07:22.415Z"
-  },
-  {
-    "id": "de0bc0a593a95311",
-    "title": "Гол ударом в падении через себя принес «Краснодару» пятую победу в РПЛ",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/9/25/347875027068259.png",
-    "teaser": "Гол ударом в падении через себя принес «Краснодару» пятую победу в РПЛ",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a8b17d89a79476e113287d5",
-    "publishedAt": "2026-08-23T16:37:15.000Z",
-    "createdAt": "2026-08-24T07:07:24.660Z",
-    "updatedAt": "2026-08-24T07:07:24.660Z"
-  },
-  {
-    "id": "9046455af59d6069",
-    "title": "Российские гимнасты уступили британцам в борьбе за золото ЧЕ в многоборье",
-    "sport": "Другое",
-    "category": "Другие",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/0/02/347874995163020.jpeg",
-    "teaser": "Российские гимнасты уступили британцам в борьбе за золото ЧЕ в многоборье",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a8b0a7a9a79471b8efaa21f",
-    "publishedAt": "2026-08-23T15:49:09.000Z",
-    "createdAt": "2026-08-24T07:07:25.778Z",
-    "updatedAt": "2026-08-24T07:07:25.778Z"
-  },
-  {
-    "id": "7177ce51041ac03c",
-    "title": "Действующий чемпион «Формулы-1» выиграл вторую гонку подряд",
-    "sport": "Другое",
-    "category": "Формула-1",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/1/41/347874984036411.jpeg",
-    "teaser": "Действующий чемпион «Формулы-1» выиграл вторую гонку подряд",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a8b0f139a7947f8a7bea4ce",
-    "publishedAt": "2026-08-23T15:32:48.000Z",
-    "createdAt": "2026-08-24T07:07:26.940Z",
-    "updatedAt": "2026-08-24T07:07:26.940Z"
+    "createdAt": "2026-08-24T08:53:50.981Z",
+    "updatedAt": "2026-08-24T08:53:50.981Z"
   }
 ]
