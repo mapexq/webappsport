@@ -1,5 +1,61 @@
 [
   {
+    "id": "54151d064107dfe7",
+    "title": "Футболист «Спартака» пропустит около месяца из-за травмы колена",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/2/80/347875749142802.jpeg",
+    "teaser": "Футболист «Спартака» пропустит около месяца из-за травмы колена",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a8c36739a794721885022a5",
+    "publishedAt": "2026-08-24T12:38:14.000Z",
+    "createdAt": "2026-08-24T12:59:21.324Z",
+    "updatedAt": "2026-08-24T12:59:21.324Z"
+  },
+  {
+    "id": "aa9841db6c01f7df",
+    "title": "Глава РПЛ фразой «не все приятно» оценил ситуацию с долгами в «Ростове»",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/8/59/347875738539598.jpeg",
+    "teaser": "Глава РПЛ фразой «не все приятно» оценил ситуацию с долгами в «Ростове»",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a8c2bb59a7947673d9ad04f",
+    "publishedAt": "2026-08-24T12:29:55.000Z",
+    "createdAt": "2026-08-24T12:59:22.406Z",
+    "updatedAt": "2026-08-24T12:59:22.406Z"
+  },
+  {
+    "id": "9c52e9d5199aefca",
+    "title": "Российский функционер FIDE умер в 36 лет от малярии",
+    "sport": "Другое",
+    "category": "Другие",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/3/02/347875737199023.png",
+    "teaser": "Российский функционер FIDE умер в 36 лет от малярии",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a8c30f29a794719eb034991",
+    "publishedAt": "2026-08-24T12:21:54.000Z",
+    "createdAt": "2026-08-24T12:59:20.151Z",
+    "updatedAt": "2026-08-24T12:59:20.151Z"
+  },
+  {
+    "id": "d38d08c88dee1cc6",
+    "title": "Чемпионы мира купили футбольный клуб, подорожавший за шесть лет в 60 раз",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/4/94/347875705873944.jpeg",
+    "teaser": "Чемпионы мира купили футбольный клуб, подорожавший за шесть лет в 60 раз",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a8c1f479a794771cdf300c2",
+    "publishedAt": "2026-08-24T11:51:20.000Z",
+    "createdAt": "2026-08-24T12:59:24.651Z",
+    "updatedAt": "2026-08-24T12:59:24.651Z"
+  },
+  {
     "id": "249656455dc03e5c",
     "title": "Мяч, которым Марадона забил гол «рукой Бога», продали за $3,35 млн",
     "sport": "Футбол",
@@ -10,8 +66,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a8c1efe9a79474c4c4dea11",
     "publishedAt": "2026-08-24T11:11:12.000Z",
-    "createdAt": "2026-08-24T11:33:26.641Z",
-    "updatedAt": "2026-08-24T11:33:26.641Z"
+    "createdAt": "2026-08-24T12:59:27.875Z",
+    "updatedAt": "2026-08-24T12:59:27.875Z"
   },
   {
     "id": "cf7d41dea9d20dab",
@@ -24,8 +80,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a8c1abb9a79472ffd49426a",
     "publishedAt": "2026-08-24T10:40:42.000Z",
-    "createdAt": "2026-08-24T11:33:27.664Z",
-    "updatedAt": "2026-08-24T11:33:27.664Z"
+    "createdAt": "2026-08-24T12:59:28.900Z",
+    "updatedAt": "2026-08-24T12:59:28.900Z"
   },
   {
     "id": "d38ce9d1b8c72182",
@@ -38,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a8c17619a79474f9be9d124",
     "publishedAt": "2026-08-24T10:30:59.000Z",
-    "createdAt": "2026-08-24T11:33:28.809Z",
-    "updatedAt": "2026-08-24T11:33:28.809Z"
+    "createdAt": "2026-08-24T12:59:30.056Z",
+    "updatedAt": "2026-08-24T12:59:30.056Z"
   },
   {
     "id": "17b8de2a7fbe8cd4",
@@ -52,64 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a8c0b899a7947a09044973f",
     "publishedAt": "2026-08-24T09:58:29.000Z",
-    "createdAt": "2026-08-24T11:33:29.942Z",
-    "updatedAt": "2026-08-24T11:33:29.942Z"
-  },
-  {
-    "id": "cc2f163e3324e712",
-    "title": "Российских шахматистов не пустили на третью Олимпиаду подряд",
-    "sport": "Другое",
-    "category": "Другие",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/7/88/347875634965887.jpeg",
-    "teaser": "Российских шахматистов не пустили на третью Олимпиаду подряд",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a8c0a269a79471363490785",
-    "publishedAt": "2026-08-24T09:39:00.000Z",
-    "createdAt": "2026-08-24T11:33:34.277Z",
-    "updatedAt": "2026-08-24T11:33:34.277Z"
-  },
-  {
-    "id": "62e51b2413158d90",
-    "title": "«Атлетико» изолировал Альвареса от фанатов из-за скандала с «Барселоной»",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/3/41/347875618390413.jpeg",
-    "teaser": "«Атлетико» изолировал Альвареса от фанатов из-за скандала с «Барселоной»",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a8bff379a7947415d836525",
-    "publishedAt": "2026-08-24T09:11:16.000Z",
-    "createdAt": "2026-08-24T11:33:35.435Z",
-    "updatedAt": "2026-08-24T11:33:35.435Z"
-  },
-  {
-    "id": "98936a8346a4252a",
-    "title": "Андрей Рублев впервые с 2020 года покинул топ-20 рейтинга ATP",
-    "sport": "Теннис",
-    "category": "Теннис",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/1/57/347875547742571.jpeg",
-    "teaser": "Андрей Рублев впервые с 2020 года покинул топ-20 рейтинга ATP",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a8be7ce9a7947c37593ca5f",
-    "publishedAt": "2026-08-24T08:16:31.000Z",
-    "createdAt": "2026-08-24T11:33:36.584Z",
-    "updatedAt": "2026-08-24T11:33:36.584Z"
-  },
-  {
-    "id": "d2df4e189bc31cd2",
-    "title": "Чеферин сообщил об отказе баллотироваться на пост президента ФИФА",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/7/12/347875561805127.jpeg",
-    "teaser": "Чеферин сообщил об отказе баллотироваться на пост президента ФИФА",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a8bed5f9a7947136349074c",
-    "publishedAt": "2026-08-24T07:35:06.000Z",
-    "createdAt": "2026-08-24T11:33:37.734Z",
-    "updatedAt": "2026-08-24T11:33:37.734Z"
+    "createdAt": "2026-08-24T12:59:31.197Z",
+    "updatedAt": "2026-08-24T12:59:31.197Z"
   },
   {
     "id": "0df7aba8c3cae6a3",
@@ -122,8 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a3a2ca19a7947b8a96abf76",
     "publishedAt": "2026-08-24T06:26:12.000Z",
-    "createdAt": "2026-08-24T11:33:31.057Z",
-    "updatedAt": "2026-08-24T11:33:31.057Z"
+    "createdAt": "2026-08-24T12:59:23.511Z",
+    "updatedAt": "2026-08-24T12:59:23.511Z"
   },
   {
     "id": "bf3d9665fd689a86",
@@ -136,7 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a8ab0b99a794769119df222",
     "publishedAt": "2026-08-24T04:03:28.000Z",
-    "createdAt": "2026-08-24T11:33:33.101Z",
-    "updatedAt": "2026-08-24T11:33:33.101Z"
+    "createdAt": "2026-08-24T12:59:26.694Z",
+    "updatedAt": "2026-08-24T12:59:26.694Z"
   }
 ]
