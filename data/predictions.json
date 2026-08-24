@@ -1,6 +1,22 @@
 [
   {
-    "id": 1787561614165,
+    "id": 1787565179476,
+    "eventName": "КАМАЗ — Сочи",
+    "discipline": "Футбол",
+    "tournament": "Чемпионат",
+    "expert": {
+      "name": "Сулейман Билалов",
+      "avatar": "https://bookmaker-ratings.ru/static/images/badges/novice-letter.svg?v=30092024",
+      "status": "expert",
+      "winRate": 79
+    },
+    "prediction": "Победа 2",
+    "odds": 1.88,
+    "comment": "Сочинцы все делают что бы вернуться в высший дивизион",
+    "source": "Sports Analytics Pro"
+  },
+  {
+    "id": 1787565179477,
     "eventName": "КАМАЗ — Сочи",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -16,7 +32,7 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1787561614166,
+    "id": 1787565179478,
     "eventName": "КАМАЗ — Сочи",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -32,7 +48,23 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1787561614167,
+    "id": 1787565179479,
+    "eventName": "Болонья — Лацио",
+    "discipline": "Футбол",
+    "tournament": "Чемпионат",
+    "expert": {
+      "name": "Сулейман Билалов",
+      "avatar": "https://bookmaker-ratings.ru/static/images/badges/novice-letter.svg?v=30092024",
+      "status": "expert",
+      "winRate": 79
+    },
+    "prediction": "2Х",
+    "odds": 1.7,
+    "comment": "Столичная команда в данном матче не должна проиграть",
+    "source": "Sports Analytics Pro"
+  },
+  {
+    "id": 1787565179480,
     "eventName": "Болонья — Лацио",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -48,7 +80,23 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1787561614168,
+    "id": 1787565179481,
+    "eventName": "Балтика — Рубин",
+    "discipline": "Футбол",
+    "tournament": "Чемпионат",
+    "expert": {
+      "name": "Ку Кин",
+      "avatar": "https://static-uploads.prod.bookmaker-ratings.ru/2026/08/32172D9B-33C7-44C9-B0BB-281434E4042F-rb-webp-6a801d9384f1f-6a801d93887c9.webp?width=60",
+      "status": "expert",
+      "winRate": 86
+    },
+    "prediction": "Ф1(0)",
+    "odds": 1.5,
+    "comment": "Балтика в хорошей форме .Много футболисты возвращаются после травм.Рубин не может найти свою игру после продажи лидера команды Даку",
+    "source": "Sports Analytics Pro"
+  },
+  {
+    "id": 1787565179482,
     "eventName": "Верль — Гамбург",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -64,7 +112,7 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1787561614169,
+    "id": 1787565179483,
     "eventName": "Болонья — Лацио",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -80,7 +128,7 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1787561614170,
+    "id": 1787565179484,
     "eventName": "Балтика — Рубин",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -96,7 +144,7 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1787561614171,
+    "id": 1787565179485,
     "eventName": "Рома — Фиорентина",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
