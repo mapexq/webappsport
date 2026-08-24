@@ -1,70 +1,6 @@
 [
   {
-    "id": 1787592872408,
-    "eventName": "Балтика — Рубин",
-    "discipline": "Футбол",
-    "tournament": "Чемпионат",
-    "expert": {
-      "name": "Ку Кин",
-      "avatar": "https://static-uploads.prod.bookmaker-ratings.ru/2026/08/32172D9B-33C7-44C9-B0BB-281434E4042F-rb-webp-6a801d9384f1f-6a801d93887c9.webp?width=60",
-      "status": "expert",
-      "winRate": 86
-    },
-    "prediction": "Ф1(0)",
-    "odds": 1.5,
-    "comment": "Балтика в хорошей форме .Много футболисты возвращаются после травм.Рубин не может найти свою игру после продажи лидера команды Даку",
-    "source": "Sports Analytics Pro"
-  },
-  {
-    "id": 1787592872410,
-    "eventName": "Осасуна — Леванте",
-    "discipline": "Футбол",
-    "tournament": "Чемпионат",
-    "expert": {
-      "name": "Alex Fox",
-      "avatar": "https://bookmaker-ratings.ru/static/images/badges/forecaster-letter.svg?v=30092024",
-      "status": "expert",
-      "winRate": 79
-    },
-    "prediction": "Тотал больше (2)",
-    "odds": 1.54,
-    "comment": "Два середняка стартуют как правило 2 гола в их встрече ожидаемо",
-    "source": "Sports Analytics Pro"
-  },
-  {
-    "id": 1787592872411,
-    "eventName": "Балтика — Рубин",
-    "discipline": "Футбол",
-    "tournament": "Чемпионат",
-    "expert": {
-      "name": "Alex Fox",
-      "avatar": "https://bookmaker-ratings.ru/static/images/badges/forecaster-letter.svg?v=30092024",
-      "status": "expert",
-      "winRate": 79
-    },
-    "prediction": "Тотал больше (1.5)",
-    "odds": 1.73,
-    "comment": "1Х и ТБ 1,5. Вот такая комбо но здесь данной котировки нет. Кф 1.73.",
-    "source": "Sports Analytics Pro"
-  },
-  {
-    "id": 1787592872412,
-    "eventName": "Балтика — Рубин",
-    "discipline": "Футбол",
-    "tournament": "Чемпионат",
-    "expert": {
-      "name": "Алим Калибатов",
-      "avatar": "https://static-uploads.prod.bookmaker-ratings.ru/2026/04/3dcfa3e614753a9566b9342464293-rb-webp-69d34c667554e-69d34c667cd17.webp?width=60",
-      "status": "expert",
-      "winRate": 73
-    },
-    "prediction": "Победа 1",
-    "odds": 2.1,
-    "comment": "Дома \"Балтика\" очень собранно и крепко играет. \"Рубин\", конечно, тоже не подарок, но без Даку это пока более слабая команда. Думается, что Талалаев максимально настроит своих подопечных на победу. П1 за 2.10",
-    "source": "Sports Analytics Pro"
-  },
-  {
-    "id": 1787592872413,
+    "id": 1787597245603,
     "eventName": "Рома — Фиорентина",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -80,23 +16,71 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1787592872414,
-    "eventName": "Балтика — Рубин",
+    "id": 1787597245605,
+    "eventName": "Рома — Фиорентина",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
     "expert": {
-      "name": "Константин Генич",
-      "avatar": "https://static-uploads.prod.bookmaker-ratings.ru/2023/11/Genich.png?width=60",
+      "name": "Алим Калибатов",
+      "avatar": "https://static-uploads.prod.bookmaker-ratings.ru/2026/04/3dcfa3e614753a9566b9342464293-rb-webp-69d34c667554e-69d34c667cd17.webp?width=60",
       "status": "expert",
-      "winRate": 74
+      "winRate": 73
     },
-    "prediction": "Тотал — 1-2 гола",
-    "odds": 1.8,
-    "comment": "Тур закрывается матчем в Калининграде, где «Балтика» будет принимать казанский «Рубин». Это будет тяжело для просмотра, как мне кажется, это будет тяжело для команд, потому что и те, и другие играют в схему с 3 центральными защитниками, играют в достаточно простой футбол, незатейливый. «Балтика» много бегает, борется. То же самое можно сказать про «Рубин». Он сейчас воодушевлен победой над «Спартаком» в Кубке в серии пенальти. Надо признать, футбол «Рубин» показал очень неплохой. В прошлом году команды обменялись гостевыми победами. «Балтика» выиграла в гостях в Казани, а, соответственно, «Рубин» в концовке чемпионата обыграл «Балтику» уже на выезде. Мне кажется, результативности здесь большой ждать не стоит, потому что обороняются команды лучше, чем созидают в атаке. Тут на первый план могут выйти стандарты. И вот кто здесь уже преуспеет. Я не думаю, что в матче будет забито 3 мяча, но и не думаю, что эта игра может завершиться вничью 0:0. Поэтому мой прогноз — «1-2 гола в матче» за 1,8.",
+    "prediction": "Индивидуальный тотал 1 Больше (1.5)",
+    "odds": 1.79,
+    "comment": "И римляне, и \"фиалки\" очень неплохо усилились. Только вот \"Рома\" к уже имеющемуся составу приобрела точечно нескольких игроков, и в целом уже команда с ними сыгралась. Что же до гостей, тут пока есть вопросы, я бы больше верил в атаку хозяев - думаю, что Дибала и Мален забьют первые голы в новом сезоне. Два гола \"Ромы\" за 1.79.",
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1787592872415,
+    "id": 1787597245606,
+    "eventName": "Фулхэм — Челси",
+    "discipline": "Футбол",
+    "tournament": "Чемпионат",
+    "expert": {
+      "name": "Alex Fox",
+      "avatar": "https://bookmaker-ratings.ru/static/images/badges/forecaster-letter.svg?v=30092024",
+      "status": "expert",
+      "winRate": 79
+    },
+    "prediction": "Тотал Челси больше (1.5)",
+    "odds": 1.77,
+    "comment": "Старт сезона Челси должны отлично стартануть жду от них минимум 2 гола.",
+    "source": "Sports Analytics Pro"
+  },
+  {
+    "id": 1787597245607,
+    "eventName": "Фулхэм — Челси",
+    "discipline": "Футбол",
+    "tournament": "Чемпионат",
+    "expert": {
+      "name": "Вячеслав Николаевич",
+      "avatar": "https://bookmaker-ratings.ru/static/images/badges/novice-letter.svg?v=30092024",
+      "status": "expert",
+      "winRate": 89
+    },
+    "prediction": "Тотал (3) Б",
+    "odds": 2.17,
+    "comment": "Команды результативно играют и много забивают. Голов будет много",
+    "source": "Sports Analytics Pro"
+  },
+  {
+    "id": 1787597245608,
+    "eventName": "Фулхэм — Челси",
+    "discipline": "Футбол",
+    "tournament": "Чемпионат",
+    "expert": {
+      "name": "Никита За",
+      "avatar": "https://bookmaker-ratings.ru/static/images/badges/novice-letter.svg?v=30092024",
+      "status": "expert",
+      "winRate": 84
+    },
+    "prediction": "Индивидуальный тотал 2 Больше (1.5)",
+    "odds": 1.85,
+    "comment": "Челси атакующая команда,верю в их победу с разгромом",
+    "source": "Sports Analytics Pro"
+  },
+  {
+    "id": 1787597245609,
     "eventName": "Рома — Фиорентина",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
