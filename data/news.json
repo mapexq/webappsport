@@ -1,5 +1,19 @@
 [
   {
+    "id": "17b8de2a7fbe8cd4",
+    "title": "Футбольный матч в США прервали из-за выбежавшего на поле малыша",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/9/67/347875639554679.jpeg",
+    "teaser": "Футбольный матч в США прервали из-за выбежавшего на поле малыша",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a8c0b899a7947a09044973f",
+    "publishedAt": "2026-08-24T09:58:29.000Z",
+    "createdAt": "2026-08-24T10:40:52.881Z",
+    "updatedAt": "2026-08-24T10:40:52.881Z"
+  },
+  {
     "id": "cc2f163e3324e712",
     "title": "Российских шахматистов не пустили на третью Олимпиаду подряд",
     "sport": "Другое",
@@ -10,8 +24,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a8c0a269a79471363490785",
     "publishedAt": "2026-08-24T09:39:00.000Z",
-    "createdAt": "2026-08-24T09:53:06.456Z",
-    "updatedAt": "2026-08-24T09:53:06.456Z"
+    "createdAt": "2026-08-24T10:40:53.878Z",
+    "updatedAt": "2026-08-24T10:40:53.878Z"
   },
   {
     "id": "62e51b2413158d90",
@@ -24,8 +38,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a8bff379a7947415d836525",
     "publishedAt": "2026-08-24T09:11:16.000Z",
-    "createdAt": "2026-08-24T09:53:07.505Z",
-    "updatedAt": "2026-08-24T09:53:07.505Z"
+    "createdAt": "2026-08-24T10:40:54.772Z",
+    "updatedAt": "2026-08-24T10:40:54.772Z"
   },
   {
     "id": "98936a8346a4252a",
@@ -38,8 +52,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a8be7ce9a7947c37593ca5f",
     "publishedAt": "2026-08-24T08:16:31.000Z",
-    "createdAt": "2026-08-24T09:53:08.500Z",
-    "updatedAt": "2026-08-24T09:53:08.500Z"
+    "createdAt": "2026-08-24T10:40:55.769Z",
+    "updatedAt": "2026-08-24T10:40:55.769Z"
   },
   {
     "id": "7aec46c16c65d27d",
@@ -52,8 +66,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a8bf38e9a7947a02a69477e",
     "publishedAt": "2026-08-24T08:14:56.000Z",
-    "createdAt": "2026-08-24T09:53:10.526Z",
-    "updatedAt": "2026-08-24T09:53:10.526Z"
+    "createdAt": "2026-08-24T10:40:57.546Z",
+    "updatedAt": "2026-08-24T10:40:57.546Z"
   },
   {
     "id": "d2df4e189bc31cd2",
@@ -66,8 +80,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a8bed5f9a7947136349074c",
     "publishedAt": "2026-08-24T07:35:06.000Z",
-    "createdAt": "2026-08-24T09:53:09.546Z",
-    "updatedAt": "2026-08-24T09:53:09.546Z"
+    "createdAt": "2026-08-24T10:40:56.673Z",
+    "updatedAt": "2026-08-24T10:40:56.673Z"
   },
   {
     "id": "365db5285f3dd76c",
@@ -80,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a8bde879a79473dba31ce16",
     "publishedAt": "2026-08-24T07:04:55.000Z",
-    "createdAt": "2026-08-24T09:53:11.565Z",
-    "updatedAt": "2026-08-24T09:53:11.565Z"
+    "createdAt": "2026-08-24T10:40:58.529Z",
+    "updatedAt": "2026-08-24T10:40:58.529Z"
   },
   {
     "id": "0df7aba8c3cae6a3",
@@ -94,8 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a3a2ca19a7947b8a96abf76",
     "publishedAt": "2026-08-24T06:26:12.000Z",
-    "createdAt": "2026-08-24T09:53:12.548Z",
-    "updatedAt": "2026-08-24T09:53:12.548Z"
+    "createdAt": "2026-08-24T10:40:59.481Z",
+    "updatedAt": "2026-08-24T10:40:59.481Z"
   },
   {
     "id": "bf3d9665fd689a86",
@@ -108,22 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a8ab0b99a794769119df222",
     "publishedAt": "2026-08-24T04:03:28.000Z",
-    "createdAt": "2026-08-24T09:53:14.404Z",
-    "updatedAt": "2026-08-24T09:53:14.404Z"
-  },
-  {
-    "id": "6fc72308006b8094",
-    "title": "ПСЖ с Сафоновым в воротах сыграл вничью с «Ренном»",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/8/33/347875120529338.jpeg",
-    "teaser": "ПСЖ с Сафоновым в воротах сыграл вничью с «Ренном»",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a8b40c49a79474ef74ba897",
-    "publishedAt": "2026-08-23T21:23:29.000Z",
-    "createdAt": "2026-08-24T09:53:16.476Z",
-    "updatedAt": "2026-08-24T09:53:16.476Z"
+    "createdAt": "2026-08-24T10:41:01.325Z",
+    "updatedAt": "2026-08-24T10:41:01.325Z"
   },
   {
     "id": "36910f8175c80330",
@@ -136,7 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a8b2d7c9a79470f2c0cf6bc",
     "publishedAt": "2026-08-23T19:03:38.000Z",
-    "createdAt": "2026-08-24T09:53:15.423Z",
-    "updatedAt": "2026-08-24T09:53:15.423Z"
+    "createdAt": "2026-08-24T10:41:02.274Z",
+    "updatedAt": "2026-08-24T10:41:02.274Z"
   }
 ]
