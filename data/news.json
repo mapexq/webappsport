@@ -1,5 +1,47 @@
 [
   {
+    "id": "7bc7227a6894691f",
+    "title": "Семь человек получили травмы от пиротехники в игре чемпионата Нидерландов",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/3/88/347875815788883.jpeg",
+    "teaser": "Семь человек получили травмы от пиротехники в игре чемпионата Нидерландов",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a8c51019a794719eb034a38",
+    "publishedAt": "2026-08-24T14:32:07.000Z",
+    "createdAt": "2026-08-24T14:51:15.004Z",
+    "updatedAt": "2026-08-24T14:51:15.004Z"
+  },
+  {
+    "id": "fd2b91b3837f9c25",
+    "title": "Костылева приступила к тренировкам после пропуска этапа Гран-при ISU",
+    "sport": "Другое",
+    "category": "Фигурное катание",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/6/97/347875810746976.jpeg",
+    "teaser": "Костылева приступила к тренировкам после пропуска этапа Гран-при ISU",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a8c4ce99a79474f9be9d1e4",
+    "publishedAt": "2026-08-24T14:30:45.000Z",
+    "createdAt": "2026-08-24T14:51:16.099Z",
+    "updatedAt": "2026-08-24T14:51:16.099Z"
+  },
+  {
+    "id": "4098b076168dc9f4",
+    "title": "IBU не примет решение по членству СБР на конгрессе в сентябре",
+    "sport": "Другое",
+    "category": "Биатлон",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/6/52/347875795489526.jpeg",
+    "teaser": "IBU не примет решение по членству СБР на конгрессе в сентябре",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a8c47d19a79475ed220ed12",
+    "publishedAt": "2026-08-24T14:28:39.000Z",
+    "createdAt": "2026-08-24T14:51:17.092Z",
+    "updatedAt": "2026-08-24T14:51:17.092Z"
+  },
+  {
     "id": "c88f54a1d727ffe1",
     "title": "Иностранные фигуристы убрали флаги для фото с российским чемпионом",
     "sport": "Другое",
@@ -10,8 +52,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a8c3e8e9a794721885022bb",
     "publishedAt": "2026-08-24T13:27:07.000Z",
-    "createdAt": "2026-08-24T13:56:59.854Z",
-    "updatedAt": "2026-08-24T13:56:59.854Z"
+    "createdAt": "2026-08-24T14:51:18.239Z",
+    "updatedAt": "2026-08-24T14:51:18.239Z"
   },
   {
     "id": "261ff1e7f47e5d15",
@@ -24,8 +66,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a8c2f119a7947f61ee8822b",
     "publishedAt": "2026-08-24T13:25:20.000Z",
-    "createdAt": "2026-08-24T13:57:00.854Z",
-    "updatedAt": "2026-08-24T13:57:00.854Z"
+    "createdAt": "2026-08-24T14:51:19.357Z",
+    "updatedAt": "2026-08-24T14:51:19.357Z"
   },
   {
     "id": "e39f611992112d31",
@@ -38,8 +80,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/692840b79a794751c6265995",
     "publishedAt": "2026-08-24T13:10:32.000Z",
-    "createdAt": "2026-08-24T13:57:03.968Z",
-    "updatedAt": "2026-08-24T13:57:03.968Z"
+    "createdAt": "2026-08-24T14:51:21.657Z",
+    "updatedAt": "2026-08-24T14:51:21.657Z"
   },
   {
     "id": "54151d064107dfe7",
@@ -52,22 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a8c36739a794721885022a5",
     "publishedAt": "2026-08-24T12:38:14.000Z",
-    "createdAt": "2026-08-24T13:57:02.851Z",
-    "updatedAt": "2026-08-24T13:57:02.851Z"
-  },
-  {
-    "id": "aa9841db6c01f7df",
-    "title": "Глава РПЛ фразой «не все приятно» оценил ситуацию с долгами в «Ростове»",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/8/59/347875738539598.jpeg",
-    "teaser": "Глава РПЛ фразой «не все приятно» оценил ситуацию с долгами в «Ростове»",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a8c2bb59a7947673d9ad04f",
-    "publishedAt": "2026-08-24T12:29:55.000Z",
-    "createdAt": "2026-08-24T13:57:06.033Z",
-    "updatedAt": "2026-08-24T13:57:06.033Z"
+    "createdAt": "2026-08-24T14:51:25.962Z",
+    "updatedAt": "2026-08-24T14:51:25.962Z"
   },
   {
     "id": "9c52e9d5199aefca",
@@ -80,36 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a8c30f29a794719eb034991",
     "publishedAt": "2026-08-24T12:21:54.000Z",
-    "createdAt": "2026-08-24T13:57:01.850Z",
-    "updatedAt": "2026-08-24T13:57:01.850Z"
-  },
-  {
-    "id": "d38d08c88dee1cc6",
-    "title": "Чемпионы мира купили футбольный клуб, подорожавший за шесть лет в 60 раз",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/4/94/347875705873944.jpeg",
-    "teaser": "Чемпионы мира купили футбольный клуб, подорожавший за шесть лет в 60 раз",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a8c1f479a794771cdf300c2",
-    "publishedAt": "2026-08-24T11:51:20.000Z",
-    "createdAt": "2026-08-24T13:57:09.116Z",
-    "updatedAt": "2026-08-24T13:57:09.116Z"
-  },
-  {
-    "id": "249656455dc03e5c",
-    "title": "Мяч, которым Марадона забил гол «рукой Бога», продали за $3,35 млн",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/1/25/347875687430251.png",
-    "teaser": "Мяч, которым Марадона забил гол «рукой Бога», продали за $3,35 млн",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a8c1efe9a79474c4c4dea11",
-    "publishedAt": "2026-08-24T11:11:12.000Z",
-    "createdAt": "2026-08-24T13:57:10.165Z",
-    "updatedAt": "2026-08-24T13:57:10.165Z"
+    "createdAt": "2026-08-24T14:51:22.775Z",
+    "updatedAt": "2026-08-24T14:51:22.775Z"
   },
   {
     "id": "0df7aba8c3cae6a3",
@@ -122,8 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a3a2ca19a7947b8a96abf76",
     "publishedAt": "2026-08-24T06:26:12.000Z",
-    "createdAt": "2026-08-24T13:57:05.047Z",
-    "updatedAt": "2026-08-24T13:57:05.047Z"
+    "createdAt": "2026-08-24T14:51:20.564Z",
+    "updatedAt": "2026-08-24T14:51:20.564Z"
   },
   {
     "id": "bf3d9665fd689a86",
@@ -136,7 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a8ab0b99a794769119df222",
     "publishedAt": "2026-08-24T04:03:28.000Z",
-    "createdAt": "2026-08-24T13:57:08.110Z",
-    "updatedAt": "2026-08-24T13:57:08.110Z"
+    "createdAt": "2026-08-24T14:51:24.832Z",
+    "updatedAt": "2026-08-24T14:51:24.832Z"
   }
 ]
