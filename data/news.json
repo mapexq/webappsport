@@ -1,5 +1,33 @@
 [
   {
+    "id": "560ccc8509db4ebf",
+    "title": "КДК вызвал на заседание тренера «Балтики» за оскорбительное поведение",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/9/02/347876666409029.jpeg",
+    "teaser": "КДК вызвал на заседание тренера «Балтики» за оскорбительное поведение",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a8d9cb49a79474ab76f278e",
+    "publishedAt": "2026-08-25T14:28:50.000Z",
+    "createdAt": "2026-08-25T14:51:09.719Z",
+    "updatedAt": "2026-08-25T14:51:09.719Z"
+  },
+  {
+    "id": "2b294f61f03a752d",
+    "title": "Дзепка во второй раз подряд заменит Костылеву на этапе Гран-при ISU",
+    "sport": "Другое",
+    "category": "Фигурное катание",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/6/80/347876667018806.jpeg",
+    "teaser": "Дзепка во второй раз подряд заменит Костылеву на этапе Гран-при ISU",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a8d9df19a7947254b60c667",
+    "publishedAt": "2026-08-25T14:09:46.000Z",
+    "createdAt": "2026-08-25T14:51:10.841Z",
+    "updatedAt": "2026-08-25T14:51:10.841Z"
+  },
+  {
     "id": "35a95857bf133bc3",
     "title": "Ложь во спасение. Как 35 лет назад Шумахер дебютировал в «Формуле-1»",
     "sport": "Другое",
@@ -10,8 +38,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a8d7bd19a79470d126bce97",
     "publishedAt": "2026-08-25T13:22:03.000Z",
-    "createdAt": "2026-08-25T13:54:17.525Z",
-    "updatedAt": "2026-08-25T13:54:17.525Z"
+    "createdAt": "2026-08-25T14:51:08.452Z",
+    "updatedAt": "2026-08-25T14:51:08.452Z"
   },
   {
     "id": "ac4c7d93e4b3f06e",
@@ -24,8 +52,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a8d8b7c9a79471f18b96f38",
     "publishedAt": "2026-08-25T13:17:19.000Z",
-    "createdAt": "2026-08-25T13:54:18.485Z",
-    "updatedAt": "2026-08-25T13:54:18.485Z"
+    "createdAt": "2026-08-25T14:51:13.161Z",
+    "updatedAt": "2026-08-25T14:51:13.161Z"
   },
   {
     "id": "745414b8bb3f44c9",
@@ -38,8 +66,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a8d78dc9a79472b5d454577",
     "publishedAt": "2026-08-25T12:30:22.000Z",
-    "createdAt": "2026-08-25T13:54:20.586Z",
-    "updatedAt": "2026-08-25T13:54:20.586Z"
+    "createdAt": "2026-08-25T14:51:14.274Z",
+    "updatedAt": "2026-08-25T14:51:14.274Z"
   },
   {
     "id": "94143886cd404b40",
@@ -52,8 +80,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a8d6f469a794725a0d7fc12",
     "publishedAt": "2026-08-25T10:57:04.000Z",
-    "createdAt": "2026-08-25T13:54:22.600Z",
-    "updatedAt": "2026-08-25T13:54:22.600Z"
+    "createdAt": "2026-08-25T14:51:16.520Z",
+    "updatedAt": "2026-08-25T14:51:16.520Z"
   },
   {
     "id": "dc15d05fdb9a9409",
@@ -66,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a8d6b419a79471280c88e95",
     "publishedAt": "2026-08-25T10:40:36.000Z",
-    "createdAt": "2026-08-25T13:54:23.608Z",
-    "updatedAt": "2026-08-25T13:54:23.608Z"
+    "createdAt": "2026-08-25T14:51:17.685Z",
+    "updatedAt": "2026-08-25T14:51:17.685Z"
   },
   {
     "id": "30f126521a0b9a18",
@@ -80,8 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a8d60c79a794737c1c61cc8",
     "publishedAt": "2026-08-25T10:33:26.000Z",
-    "createdAt": "2026-08-25T13:54:24.611Z",
-    "updatedAt": "2026-08-25T13:54:24.611Z"
+    "createdAt": "2026-08-25T14:51:18.741Z",
+    "updatedAt": "2026-08-25T14:51:18.741Z"
   },
   {
     "id": "00e7b785f3961eb2",
@@ -94,22 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a8c1d1e9a7947e246d610fc",
     "publishedAt": "2026-08-25T10:29:42.000Z",
-    "createdAt": "2026-08-25T13:54:19.578Z",
-    "updatedAt": "2026-08-25T13:54:19.578Z"
-  },
-  {
-    "id": "eab8a3d862bc28a3",
-    "title": "Нападающий ЦСКА вошел в топ-5 самых перспективных хоккеистов клуба НХЛ",
-    "sport": "Хоккей",
-    "category": "Хоккей",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/1/55/347876496457551.jpeg",
-    "teaser": "Нападающий ЦСКА вошел в топ-5 самых перспективных хоккеистов клуба НХЛ",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a8d5bf99a79477243f6554c",
-    "publishedAt": "2026-08-25T09:30:54.000Z",
-    "createdAt": "2026-08-25T13:54:26.678Z",
-    "updatedAt": "2026-08-25T13:54:26.678Z"
+    "createdAt": "2026-08-25T14:51:11.974Z",
+    "updatedAt": "2026-08-25T14:51:11.974Z"
   },
   {
     "id": "be983964bd5dce45",
@@ -122,21 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a8c12969a79471606a1ce8b",
     "publishedAt": "2026-08-25T09:09:28.000Z",
-    "createdAt": "2026-08-25T13:54:21.600Z",
-    "updatedAt": "2026-08-25T13:54:21.600Z"
-  },
-  {
-    "id": "fa4e5be79b19fd04",
-    "title": "Почему «Реал» изменил многолетнее название легендарного стадиона",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/2/29/347875792021292.jpeg",
-    "teaser": "Почему «Реал» изменил многолетнее название легендарного стадиона",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a8c1d429a7947673d9ad010",
-    "publishedAt": "2026-08-25T06:02:42.000Z",
-    "createdAt": "2026-08-25T13:54:25.665Z",
-    "updatedAt": "2026-08-25T13:54:25.665Z"
+    "createdAt": "2026-08-25T14:51:15.362Z",
+    "updatedAt": "2026-08-25T14:51:15.362Z"
   }
 ]
