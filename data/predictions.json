@@ -1,22 +1,6 @@
 [
   {
-    "id": 1787672906310,
-    "eventName": "Ютсиктен — Хеккен",
-    "discipline": "Футбол",
-    "tournament": "Чемпионат",
-    "expert": {
-      "name": "Игорь Страйк",
-      "avatar": "https://bookmaker-ratings.ru/static/images/badges/novice-letter.svg?v=30092024",
-      "status": "expert",
-      "winRate": 81
-    },
-    "prediction": "Фора 2 (-3)",
-    "odds": 1.9,
-    "comment": "хеккен команда боллее сыгранная и другого уровня , конечно забьёт и не один....",
-    "source": "Sports Analytics Pro"
-  },
-  {
-    "id": 1787672906311,
+    "id": 1787676118358,
     "eventName": "Сабах — Хапоэль Беэр-Шева",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -32,7 +16,7 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1787672906312,
+    "id": 1787676118359,
     "eventName": "Сабах — Хапоэль Беэр-Шева",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -48,7 +32,7 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1787672906313,
+    "id": 1787676118360,
     "eventName": "Аль-Иттифак — Аль-Наср",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -64,7 +48,7 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1787672906314,
+    "id": 1787676118361,
     "eventName": "Саутгемптон — Вест Хэм",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -80,7 +64,23 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1787672906315,
+    "id": 1787676118362,
+    "eventName": "Валенсия — Бетис",
+    "discipline": "Футбол",
+    "tournament": "Чемпионат",
+    "expert": {
+      "name": "Alex Fox",
+      "avatar": "https://bookmaker-ratings.ru/static/images/badges/forecaster-letter.svg?v=30092024",
+      "status": "expert",
+      "winRate": 79
+    },
+    "prediction": "Тотал Бетис больше (1)",
+    "odds": 1.69,
+    "comment": "Ну что же, Антони пора сиять, думаю 2 положат и Антони забьет.",
+    "source": "Sports Analytics Pro"
+  },
+  {
+    "id": 1787676118363,
     "eventName": "Матч",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -96,7 +96,7 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1787672906316,
+    "id": 1787676118364,
     "eventName": "Матч",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -112,7 +112,7 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1787672906317,
+    "id": 1787676118365,
     "eventName": "Матч",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -128,7 +128,7 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1787672906318,
+    "id": 1787676118366,
     "eventName": "Матч",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -144,7 +144,7 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1787672906319,
+    "id": 1787676118367,
     "eventName": "Матч",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
