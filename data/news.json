@@ -1,6 +1,48 @@
 [
   {
-    "id": "ae2064db735fe32c",
+    "id": "94143886cd404b40",
+    "title": "ЦСКА на полгода потерял двух футболистов подряд из-за разрыва «крестов»",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/9/42/347876552178429.jpeg",
+    "teaser": "ЦСКА на полгода потерял двух футболистов подряд из-за разрыва «крестов»",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a8d6f469a794725a0d7fc12",
+    "publishedAt": "2026-08-25T10:57:04.000Z",
+    "createdAt": "2026-08-25T11:32:29.127Z",
+    "updatedAt": "2026-08-25T11:32:29.127Z"
+  },
+  {
+    "id": "dc15d05fdb9a9409",
+    "title": "Олимпийский чемпион Киселевич получил должность в клубе КХЛ",
+    "sport": "Хоккей",
+    "category": "Хоккей",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/1/16/347876536511161.jpeg",
+    "teaser": "Олимпийский чемпион Киселевич получил должность в клубе КХЛ",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a8d6b419a79471280c88e95",
+    "publishedAt": "2026-08-25T10:40:36.000Z",
+    "createdAt": "2026-08-25T11:32:30.084Z",
+    "updatedAt": "2026-08-25T11:32:30.084Z"
+  },
+  {
+    "id": "30f126521a0b9a18",
+    "title": "Махачев ответил Двалишвили на критику флага России на турнире UFC 330",
+    "sport": "Единоборства",
+    "category": "Единоборства",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/9/40/347876516409409.jpeg",
+    "teaser": "Махачев ответил Двалишвили на критику флага России на турнире UFC 330",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a8d60c79a794737c1c61cc8",
+    "publishedAt": "2026-08-25T10:33:26.000Z",
+    "createdAt": "2026-08-25T11:32:31.058Z",
+    "updatedAt": "2026-08-25T11:32:31.058Z"
+  },
+  {
+    "id": "00e7b785f3961eb2",
     "title": "Как клуб США вынудил украинскую звезду уйти из-за россиянки",
     "sport": "Баскетбол",
     "category": "Баскетбол",
@@ -9,9 +51,9 @@
     "fullContent": "",
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a8c1d1e9a7947e246d610fc",
-    "publishedAt": "2026-08-25T10:29:41.000Z",
-    "createdAt": "2026-08-25T10:37:22.329Z",
-    "updatedAt": "2026-08-25T10:37:22.329Z"
+    "publishedAt": "2026-08-25T10:29:42.000Z",
+    "createdAt": "2026-08-25T11:32:28.115Z",
+    "updatedAt": "2026-08-25T11:32:28.115Z"
   },
   {
     "id": "eab8a3d862bc28a3",
@@ -24,8 +66,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a8d5bf99a79477243f6554c",
     "publishedAt": "2026-08-25T09:30:54.000Z",
-    "createdAt": "2026-08-25T10:37:23.137Z",
-    "updatedAt": "2026-08-25T10:37:23.137Z"
+    "createdAt": "2026-08-25T11:32:34.162Z",
+    "updatedAt": "2026-08-25T11:32:34.162Z"
   },
   {
     "id": "3d16936f9886c3f3",
@@ -38,8 +80,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a8d52209a794721236d1645",
     "publishedAt": "2026-08-25T09:25:27.000Z",
-    "createdAt": "2026-08-25T10:37:23.952Z",
-    "updatedAt": "2026-08-25T10:37:23.952Z"
+    "createdAt": "2026-08-25T11:32:35.183Z",
+    "updatedAt": "2026-08-25T11:32:35.183Z"
   },
   {
     "id": "be983964bd5dce45",
@@ -52,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a8c12969a79471606a1ce8b",
     "publishedAt": "2026-08-25T09:09:28.000Z",
-    "createdAt": "2026-08-25T10:37:24.759Z",
-    "updatedAt": "2026-08-25T10:37:24.759Z"
+    "createdAt": "2026-08-25T11:32:32.133Z",
+    "updatedAt": "2026-08-25T11:32:32.133Z"
   },
   {
     "id": "96a98d417573c1ba",
@@ -66,8 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a8d50999a794725ac93035b",
     "publishedAt": "2026-08-25T08:46:10.000Z",
-    "createdAt": "2026-08-25T10:37:26.780Z",
-    "updatedAt": "2026-08-25T10:37:26.780Z"
+    "createdAt": "2026-08-25T11:32:36.224Z",
+    "updatedAt": "2026-08-25T11:32:36.224Z"
   },
   {
     "id": "5935dbca7fb9177a",
@@ -80,36 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a8d35799a79472f1c355ba1",
     "publishedAt": "2026-08-25T08:19:30.000Z",
-    "createdAt": "2026-08-25T10:37:27.796Z",
-    "updatedAt": "2026-08-25T10:37:27.797Z"
-  },
-  {
-    "id": "cfb81a96a063fedc",
-    "title": "Глава ФИФА анонсировал первый юношеский чемпионат мира с 211 сборной",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/1/10/347876411603101.jpeg",
-    "teaser": "Глава ФИФА анонсировал первый юношеский чемпионат мира с 211 сборной",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a8d35dc9a79470b3658b32c",
-    "publishedAt": "2026-08-25T07:14:43.000Z",
-    "createdAt": "2026-08-25T10:37:28.802Z",
-    "updatedAt": "2026-08-25T10:37:28.802Z"
-  },
-  {
-    "id": "959bc649a112fe31",
-    "title": "Махачев вернулся в Дагестан после рекордной победы в UFC",
-    "sport": "Единоборства",
-    "category": "Единоборства",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/7/41/347876385359417.jpeg",
-    "teaser": "Махачев вернулся в Дагестан после рекордной победы в UFC",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a8d30619a79472a68de77f0",
-    "publishedAt": "2026-08-25T06:29:17.000Z",
-    "createdAt": "2026-08-25T10:37:29.852Z",
-    "updatedAt": "2026-08-25T10:37:29.852Z"
+    "createdAt": "2026-08-25T11:32:37.268Z",
+    "updatedAt": "2026-08-25T11:32:37.268Z"
   },
   {
     "id": "fa4e5be79b19fd04",
@@ -122,21 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a8c1d429a7947673d9ad010",
     "publishedAt": "2026-08-25T06:02:42.000Z",
-    "createdAt": "2026-08-25T10:37:25.728Z",
-    "updatedAt": "2026-08-25T10:37:25.728Z"
-  },
-  {
-    "id": "4641baadcc87ba00",
-    "title": "Глава Камерунской федерации Самюэль Это’о выразил поддержку Инфантино",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/8/16/347876045600168.jpeg",
-    "teaser": "Глава Камерунской федерации Самюэль Это’о выразил поддержку Инфантино",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a8ca3fc9a79470e4dde0faa",
-    "publishedAt": "2026-08-24T21:29:29.000Z",
-    "createdAt": "2026-08-25T10:37:30.873Z",
-    "updatedAt": "2026-08-25T10:37:30.873Z"
+    "createdAt": "2026-08-25T11:32:33.170Z",
+    "updatedAt": "2026-08-25T11:32:33.170Z"
   }
 ]

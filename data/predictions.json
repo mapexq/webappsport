@@ -1,22 +1,6 @@
 [
   {
-    "id": 1787654236371,
-    "eventName": "Кимчхон Сангму — Чонбук Моторс",
-    "discipline": "Футбол",
-    "tournament": "Чемпионат",
-    "expert": {
-      "name": "Andrey Agapov",
-      "avatar": "https://bookmaker-ratings.ru/static/images/badges/forecaster-letter.svg?v=30092024",
-      "status": "expert",
-      "winRate": 79
-    },
-    "prediction": "Индивидуальный тотал 2 Больше (1)",
-    "odds": 1.44,
-    "comment": "Чонбук Моторс один из лидеров чемпионата, думаю в силе забить одному из аутсайдеров",
-    "source": "Sports Analytics Pro"
-  },
-  {
-    "id": 1787654236372,
+    "id": 1787657541592,
     "eventName": "Сабах — Хапоэль Беэр-Шева",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -32,7 +16,7 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1787654236373,
+    "id": 1787657541593,
     "eventName": "Сабах — Хапоэль Беэр-Шева",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -48,23 +32,7 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1787654236374,
-    "eventName": "Матч",
-    "discipline": "Футбол",
-    "tournament": "Чемпионат",
-    "expert": {
-      "name": "Кимчхон Сангму",
-      "avatar": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=100&h=100&fit=crop",
-      "status": "expert",
-      "winRate": 71
-    },
-    "prediction": "Индивидуальный тотал 2 Больше (1)",
-    "odds": 1.44,
-    "comment": "Комментарий к прогнозу",
-    "source": "Sports Analytics Pro"
-  },
-  {
-    "id": 1787654236375,
+    "id": 1787657541594,
     "eventName": "Матч",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -80,7 +48,7 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1787654236376,
+    "id": 1787657541595,
     "eventName": "Матч",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -96,7 +64,7 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1787654236377,
+    "id": 1787657541596,
     "eventName": "Матч",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -112,7 +80,7 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1787654236378,
+    "id": 1787657541597,
     "eventName": "Матч",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -128,7 +96,7 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1787654236379,
+    "id": 1787657541598,
     "eventName": "Валенсия — Бетис",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -144,7 +112,7 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1787654236380,
+    "id": 1787657541599,
     "eventName": "Буде/Глимт — НЕК",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
