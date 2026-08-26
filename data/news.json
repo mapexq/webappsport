@@ -1,5 +1,75 @@
 [
   {
+    "id": "fb8ed4308a3715f3",
+    "title": "Средний сын Цзю впервые в карьере не смог победить",
+    "sport": "Единоборства",
+    "category": "Единоборства",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/2/91/347877532795912.jpeg",
+    "teaser": "Средний сын Цзю впервые в карьере не смог победить",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a8ef1619a7947694214cd90",
+    "publishedAt": "2026-08-26T14:18:04.000Z",
+    "createdAt": "2026-08-26T14:49:10.437Z",
+    "updatedAt": "2026-08-26T14:49:10.437Z"
+  },
+  {
+    "id": "af98cb9fc00994c2",
+    "title": "Тренер «Локомотива» пожаловался на руководство клуба из-за ухода игроков",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/4/22/347877525844224.jpeg",
+    "teaser": "Тренер «Локомотива» пожаловался на руководство клуба из-за ухода игроков",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a8eec9d9a79472ff2e70011",
+    "publishedAt": "2026-08-26T14:08:59.000Z",
+    "createdAt": "2026-08-26T14:49:12.688Z",
+    "updatedAt": "2026-08-26T14:49:12.688Z"
+  },
+  {
+    "id": "494691fe525cdfca",
+    "title": "Страны Европы намерены отозвать угрозу бойкота турниров ФИФА",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/9/39/347877515019399.jpeg",
+    "teaser": "Страны Европы намерены отозвать угрозу бойкота турниров ФИФА",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a8ee4629a794712c0483c3f",
+    "publishedAt": "2026-08-26T13:49:26.000Z",
+    "createdAt": "2026-08-26T14:49:11.564Z",
+    "updatedAt": "2026-08-26T14:49:11.564Z"
+  },
+  {
+    "id": "e508b0c7606a0208",
+    "title": "Двалишвили объяснил, почему раскритиковал флаг России на UFC 330",
+    "sport": "Единоборства",
+    "category": "Единоборства",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/9/45/347877512891459.jpeg",
+    "teaser": "Двалишвили объяснил, почему раскритиковал флаг России на UFC 330",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a8ee4449a79476b4b173695",
+    "publishedAt": "2026-08-26T13:38:33.000Z",
+    "createdAt": "2026-08-26T14:49:13.756Z",
+    "updatedAt": "2026-08-26T14:49:13.756Z"
+  },
+  {
+    "id": "17842a690259983f",
+    "title": "«Бешикташ» подал заявление на судей после матча в чемпионате Турции",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/9/63/347877485272639.jpeg",
+    "teaser": "«Бешикташ» подал заявление на судей после матча в чемпионате Турции",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a8edb189a7947624fe60699",
+    "publishedAt": "2026-08-26T13:03:27.000Z",
+    "createdAt": "2026-08-26T14:49:14.887Z",
+    "updatedAt": "2026-08-26T14:49:14.887Z"
+  },
+  {
     "id": "663ad77f6f59db1f",
     "title": "УЕФА представил мячи для нового сезона Лиги чемпионов",
     "sport": "Футбол",
@@ -10,8 +80,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a8ecd1b9a79475f8c5d0d0a",
     "publishedAt": "2026-08-26T11:52:07.000Z",
-    "createdAt": "2026-08-26T13:01:16.817Z",
-    "updatedAt": "2026-08-26T13:01:16.817Z"
+    "createdAt": "2026-08-26T14:49:16.009Z",
+    "updatedAt": "2026-08-26T14:49:16.009Z"
   },
   {
     "id": "10f215822712c6eb",
@@ -24,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a8ec5499a7947624fe60629",
     "publishedAt": "2026-08-26T11:16:52.000Z",
-    "createdAt": "2026-08-26T13:01:20.178Z",
-    "updatedAt": "2026-08-26T13:01:20.178Z"
+    "createdAt": "2026-08-26T14:49:19.498Z",
+    "updatedAt": "2026-08-26T14:49:19.498Z"
   },
   {
     "id": "b939f3d845f20938",
@@ -38,8 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a8eba389a79475f8c5d0ce2",
     "publishedAt": "2026-08-26T10:16:52.000Z",
-    "createdAt": "2026-08-26T13:01:19.092Z",
-    "updatedAt": "2026-08-26T13:01:19.092Z"
+    "createdAt": "2026-08-26T14:49:18.308Z",
+    "updatedAt": "2026-08-26T14:49:18.308Z"
   },
   {
     "id": "8b13276d2ffb2868",
@@ -52,8 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a8eb5139a79475b13f4563f",
     "publishedAt": "2026-08-26T10:12:46.000Z",
-    "createdAt": "2026-08-26T13:01:17.951Z",
-    "updatedAt": "2026-08-26T13:01:17.951Z"
+    "createdAt": "2026-08-26T14:49:17.128Z",
+    "updatedAt": "2026-08-26T14:49:17.128Z"
   },
   {
     "id": "1a62327fc3ce8570",
@@ -66,77 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a8ea9119a7947b52f6d27dc",
     "publishedAt": "2026-08-26T09:17:44.000Z",
-    "createdAt": "2026-08-26T13:01:21.327Z",
-    "updatedAt": "2026-08-26T13:01:21.327Z"
-  },
-  {
-    "id": "ccdf3b4edcc71aaa",
-    "title": "Лучший регбийный арбитр России 2021 года умер в 47 лет",
-    "sport": "Другое",
-    "category": "Другие",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/5/69/347877318084695.jpeg",
-    "teaser": "Лучший регбийный арбитр России 2021 года умер в 47 лет",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a8e9d049a7947b5e78688f9",
-    "publishedAt": "2026-08-26T08:58:37.000Z",
-    "createdAt": "2026-08-26T13:01:24.793Z",
-    "updatedAt": "2026-08-26T13:01:24.793Z"
-  },
-  {
-    "id": "a25bdf728f6d73ab",
-    "title": "Медведев после поражения от 92-й ракетки задумался об уходе в пиклбол",
-    "sport": "Теннис",
-    "category": "Теннис",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/0/76/347877310479760.jpeg",
-    "teaser": "Медведев после поражения от 92-й ракетки задумался об уходе в пиклбол",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a8e97ae9a79470badd2292a",
-    "publishedAt": "2026-08-26T08:06:09.000Z",
-    "createdAt": "2026-08-26T13:01:23.668Z",
-    "updatedAt": "2026-08-26T13:01:23.668Z"
-  },
-  {
-    "id": "25b12bd26965f51d",
-    "title": "Звезде сборной Англии грозит два года тюрьмы за опасное вождение",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/0/98/347877291478980.jpeg",
-    "teaser": "Звезде сборной Англии грозит два года тюрьмы за опасное вождение",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a8e8c569a79471b4df34d7f",
-    "publishedAt": "2026-08-26T07:38:08.000Z",
-    "createdAt": "2026-08-26T13:01:25.905Z",
-    "updatedAt": "2026-08-26T13:01:25.905Z"
-  },
-  {
-    "id": "c9f06f6577291a25",
-    "title": "На Играх роботов почти на секунду превзошли рекорд Усэйна Болта. Видео",
-    "sport": "Другое",
-    "category": "Другие",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/9/33/347877272046339.jpeg",
-    "teaser": "На Играх роботов почти на секунду превзошли рекорд Усэйна Болта. Видео",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a8e8e519a79472499d6f96f",
-    "publishedAt": "2026-08-26T07:25:53.000Z",
-    "createdAt": "2026-08-26T13:01:27.926Z",
-    "updatedAt": "2026-08-26T13:01:27.926Z"
-  },
-  {
-    "id": "a67e33260154fe55",
-    "title": "Siuuu Роналду и рекорд Болта. Чем запомнились Всемирные игры роботов",
-    "sport": "Другое",
-    "category": "Другие",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/4/48/347876489524484.jpeg",
-    "teaser": "Siuuu Роналду и рекорд Болта. Чем запомнились Всемирные игры роботов",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a8ab0b99a794769119df222",
-    "publishedAt": "2026-08-26T06:01:29.000Z",
-    "createdAt": "2026-08-26T13:01:22.546Z",
-    "updatedAt": "2026-08-26T13:01:22.546Z"
+    "createdAt": "2026-08-26T14:49:20.651Z",
+    "updatedAt": "2026-08-26T14:49:20.651Z"
   }
 ]
