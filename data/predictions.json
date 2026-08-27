@@ -1,162 +1,162 @@
 [
   {
-    "id": 1787819668500,
-    "eventName": "АС Монако — Горник",
+    "id": 1787859752960,
+    "eventName": "Айнтрахт Брауншвейг — Герта",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
     "expert": {
-      "name": "Сэр Палпатин",
+      "name": "Кирилл За",
       "avatar": "https://bookmaker-ratings.ru/static/images/badges/novice-letter.svg?v=30092024",
       "status": "expert",
-      "winRate": 70
+      "winRate": 75
     },
-    "prediction": "Тотал (2.5) Б",
-    "odds": 1.5,
-    "comment": "Монако выиграл первый матч 3:2 и дома должен дожать Горник.",
-    "source": "Sports Analytics Pro"
-  },
-  {
-    "id": 1787819668501,
-    "eventName": "Фрайбург — Мотеруэлл",
-    "discipline": "Футбол",
-    "tournament": "Чемпионат",
-    "expert": {
-      "name": "Сэр Палпатин",
-      "avatar": "https://bookmaker-ratings.ru/static/images/badges/novice-letter.svg?v=30092024",
-      "status": "expert",
-      "winRate": 70
-    },
-    "prediction": "Индивидуальный тотал 1 Больше (2.5)",
+    "prediction": "Ф1(0)",
     "odds": 1.86,
-    "comment": "Фрайбург забил 3+ в 3 матчах подряд. Кажется что и здесь не будет исключения.",
+    "comment": "Приветствую любителей футбола! В рамках 3-го тура Второй Бундеслиги \"Айнтрахт\" из Брауншвейга на \"Айнтрахт-Штадион\" принимает \"Герту\". Гости уверенно стартовали с двух побед, хозяева одержали одну победу при одном поражении.Но домашнее поле может творить чудеса, впринципе, что мы и увидем надеюсь",
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1787819668502,
-    "eventName": "Виктория Пльзень — Црвена Звезда",
+    "id": 1787859752961,
+    "eventName": "Кристал Пэлэс — Манчестер Сити",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
     "expert": {
-      "name": "Александр Анохин",
+      "name": "Артур Галкин",
       "avatar": "https://bookmaker-ratings.ru/static/images/badges/novice-letter.svg?v=30092024",
       "status": "expert",
-      "winRate": 77
+      "winRate": 68
     },
     "prediction": "Обе забьют - Да",
-    "odds": 1.5,
-    "comment": "Обе команды любят играть в атаку и много забивают в своих чемпионатах.",
+    "odds": 1.65,
+    "comment": "Обе команды перестраиваются, ожидаю обоюдно острый матч. КП должен забить, с Эвертоном не повезло, по xG создали на 2 гола, но не забили ни одного",
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1787819668503,
-    "eventName": "РБ Зальцбург — Мьельбю",
+    "id": 1787859752962,
+    "eventName": "Арсенал Тула — Урал",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
     "expert": {
-      "name": "Александр Анохин",
-      "avatar": "https://bookmaker-ratings.ru/static/images/badges/novice-letter.svg?v=30092024",
-      "status": "expert",
-      "winRate": 77
-    },
-    "prediction": "Индивидуальный тотал 1 Больше (1.5)",
-    "odds": 1.29,
-    "comment": "Дома Зальцбург любит забивать много мячей. Разница в классе очевидна этих команд",
-    "source": "Sports Analytics Pro"
-  },
-  {
-    "id": 1787819668504,
-    "eventName": "Брайтон энд Хоув Альбион — Тромсё",
-    "discipline": "Футбол",
-    "tournament": "Чемпионат",
-    "expert": {
-      "name": "Сэр Палпатин",
-      "avatar": "https://bookmaker-ratings.ru/static/images/badges/novice-letter.svg?v=30092024",
-      "status": "expert",
-      "winRate": 70
-    },
-    "prediction": "Фора 1 (-2)",
-    "odds": 1.72,
-    "comment": "Класс хозяев выше, дома ожидаю уверенную победу минимум в 2 мяча.",
-    "source": "Sports Analytics Pro"
-  },
-  {
-    "id": 1787819668505,
-    "eventName": "Сельта — Осасуна",
-    "discipline": "Футбол",
-    "tournament": "Чемпионат",
-    "expert": {
-      "name": "Сэр Палпатин",
-      "avatar": "https://bookmaker-ratings.ru/static/images/badges/novice-letter.svg?v=30092024",
-      "status": "expert",
-      "winRate": 70
-    },
-    "prediction": "Тотал (2.5) М",
-    "odds": 1.63,
-    "comment": "Обе команды начали сезон с 0:0, жду осторожный матч без голевой перестрелки.",
-    "source": "Sports Analytics Pro"
-  },
-  {
-    "id": 1787819668506,
-    "eventName": "Челси — Лутон",
-    "discipline": "Футбол",
-    "tournament": "Чемпионат",
-    "expert": {
-      "name": "Сэр Палпатин",
-      "avatar": "https://bookmaker-ratings.ru/static/images/badges/novice-letter.svg?v=30092024",
-      "status": "expert",
-      "winRate": 70
-    },
-    "prediction": "Фора 1 (-2)",
-    "odds": 1.6,
-    "comment": "Разница в классе огромна, Лутон часто допускает моменты у своих ворот.",
-    "source": "Sports Analytics Pro"
-  },
-  {
-    "id": 1787819668507,
-    "eventName": "Челси — Лутон",
-    "discipline": "Футбол",
-    "tournament": "Чемпионат",
-    "expert": {
-      "name": "Alex Pal",
+      "name": "Саша Македонский",
       "avatar": "https://bookmaker-ratings.ru/static/images/badges/novice-letter.svg?v=30092024",
       "status": "expert",
       "winRate": 69
     },
-    "prediction": "Тотал Челси больше (2.5)",
-    "odds": 1.62,
-    "comment": "Разница в классе, даже с ротацией Челси уверенно закинет минимум 3",
+    "prediction": "Тотал Урал больше (1)",
+    "odds": 1.56,
+    "comment": "Урал приезжает в Тулу после победы над Текстильщиком 2:0, Тула же потерпело поражение 2:0 от Велеса. Урал в атаке играет уверенно, возможно вернется в строй Секулич, да и без него есть кому забивать, ожидаю более одного гола от Урала, думаю будет счет 0:2, 1:2 в пользу Урала",
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1787819668508,
-    "eventName": "Барселона — Атлетик Бильбао",
+    "id": 1787859752963,
+    "eventName": "Борнмут — Эвертон",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
     "expert": {
-      "name": "Максим Браун",
+      "name": "Артур Галкин",
       "avatar": "https://bookmaker-ratings.ru/static/images/badges/novice-letter.svg?v=30092024",
       "status": "expert",
-      "winRate": 76
+      "winRate": 68
     },
-    "prediction": "Победа 1",
-    "odds": 1.31,
-    "comment": "Состав Барселоны в несколько раз сильнее состава Бильбао",
+    "prediction": "Ничья",
+    "odds": 3.47,
+    "comment": "Борнмут самая играющая в ничью команда, ожидаю, что в этом матче тренд продолжится.",
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1787819668509,
+    "id": 1787859752964,
+    "eventName": "Ковентри Сити — Халл Сити",
+    "discipline": "Футбол",
+    "tournament": "Чемпионат",
+    "expert": {
+      "name": "Артур Галкин",
+      "avatar": "https://bookmaker-ratings.ru/static/images/badges/novice-letter.svg?v=30092024",
+      "status": "expert",
+      "winRate": 68
+    },
+    "prediction": "Фора 1 (-1)",
+    "odds": 2.56,
+    "comment": "Ожидаю, что Ковентри с сопоставимым соперником сыграет лучше, чем с Арсеналом. Халл играл дома с недонастроенным МЮ. Ковентри будет готов лучше.",
+    "source": "Sports Analytics Pro"
+  },
+  {
+    "id": 1787859752965,
+    "eventName": "Локомотив Москва — Динамо Москва",
+    "discipline": "Футбол",
+    "tournament": "Чемпионат",
+    "expert": {
+      "name": "Дмитрий Рыбалка",
+      "avatar": "https://static-uploads.prod.bookmaker-ratings.ru/2026/08/818-rb-webp-6a7c191851082-6a7c191854cb7.webp?width=60",
+      "status": "expert",
+      "winRate": 84
+    },
+    "prediction": "Тотал больше (2.5)",
+    "odds": 1.6,
+    "comment": "Весёлый матч нас ожидает, проблемный Локомотив , Динамо пока не понятно во что старается играть , не совсем у Шварца клеится, думаю голы здесь точно будут",
+    "source": "Sports Analytics Pro"
+  },
+  {
+    "id": 1787859752967,
     "eventName": "Матч",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
     "expert": {
-      "name": "Виктория Пльзень",
+      "name": "Айнтрахт Брауншвейг",
       "avatar": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=100&h=100&fit=crop",
       "status": "expert",
-      "winRate": 86
+      "winRate": 69
+    },
+    "prediction": "Ф1(0)",
+    "odds": 1.86,
+    "comment": "Комментарий к прогнозу",
+    "source": "Sports Analytics Pro"
+  },
+  {
+    "id": 1787859752968,
+    "eventName": "Матч",
+    "discipline": "Футбол",
+    "tournament": "Чемпионат",
+    "expert": {
+      "name": "Кристал Пэлэс",
+      "avatar": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=100&h=100&fit=crop",
+      "status": "expert",
+      "winRate": 77
     },
     "prediction": "Обе забьют - Да",
-    "odds": 1.5,
+    "odds": 1.65,
     "comment": "Комментарий к прогнозу",
+    "source": "Sports Analytics Pro"
+  },
+  {
+    "id": 1787859752969,
+    "eventName": "Матч",
+    "discipline": "Футбол",
+    "tournament": "Чемпионат",
+    "expert": {
+      "name": "Тотал Урал",
+      "avatar": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=100&h=100&fit=crop",
+      "status": "expert",
+      "winRate": 79
+    },
+    "prediction": "Тотал Урал больше (1)",
+    "odds": 1.56,
+    "comment": "Комментарий к прогнозу",
+    "source": "Sports Analytics Pro"
+  },
+  {
+    "id": 1787859752970,
+    "eventName": "Акрон — ЦСКА",
+    "discipline": "Футбол",
+    "tournament": "Чемпионат",
+    "expert": {
+      "name": "Константин Генич",
+      "avatar": "https://static-uploads.prod.bookmaker-ratings.ru/2023/11/Genich.png?width=60",
+      "status": "expert",
+      "winRate": 74
+    },
+    "prediction": "ИТ2 2-3 гола",
+    "odds": 2,
+    "comment": "6-й тур российской Премьер-лиги стартует матчем в Самаре: «Акрон» будет принимать ЦСКА. У армейцев хорошие новости чередуются с не самыми позитивными. Безусловно, травмы Мойзеса и Баринова оставляют не самый приятный след. Но команда движется дальше, и теперь уже без этих игроков ЦСКА, поймав кураж и хороший тонус, хорошую игру в матче с «Локомотивом», постарается этот успех развить. Тем более ЦСКА играет против одной из худших команд в российском чемпионате на данный момент, особенно что касается игры в обороне. 13 пропущенных мячей — это очень много для «Акрона». И пока света в конце туннеля для Срджана Благоевича и его команды не видно. Да, «Акрон» обыграл ЦСКА в кубковом матче. Но чтобы 2 раза подряд «Акрон» удачно сыграл против армейцев, честно говоря, мне не особо верится. Я думаю, что больше трех ЦСКА вряд ли забьет, учитывая, что играет на выезде, а одного мяча может не хватить для победы, потому что у «Акрона» в целом атака тоже смотрится неплохо. Не закладываюсь на то, что тольяттинцы забьют. Но мне кажется, два своих ЦСКА забить в ворота «Акрона» должен. Мой прогноз — «индивидуальный тотал ЦСКА 2-3 гола в матче» за коэффициент «двойка».",
     "source": "Sports Analytics Pro"
   }
 ]
