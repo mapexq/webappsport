@@ -1,5 +1,61 @@
 [
   {
+    "id": "e083a845f9b52005",
+    "title": "Матч по волейболу завершился с рекордным счетом",
+    "sport": "Другое",
+    "category": "Другие",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/8/68/347878163619688.jpeg",
+    "teaser": "Матч по волейболу завершился с рекордным счетом",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a8fe5c39a7947d51808c383",
+    "publishedAt": "2026-08-27T08:11:41.000Z",
+    "createdAt": "2026-08-27T08:34:34.759Z",
+    "updatedAt": "2026-08-27T08:34:34.759Z"
+  },
+  {
+    "id": "503cb10435ef3033",
+    "title": "Бизнес-школа «Сколково» и Федерация гольфа МО договорились сотрудничать",
+    "sport": "Другое",
+    "category": "Другие",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/2/86/347878151279862.jpeg",
+    "teaser": "Бизнес-школа «Сколково» и Федерация гольфа МО договорились сотрудничать",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a8fe26d9a7947262c0ee6fd",
+    "publishedAt": "2026-08-27T07:25:02.000Z",
+    "createdAt": "2026-08-27T08:34:37.838Z",
+    "updatedAt": "2026-08-27T08:34:37.838Z"
+  },
+  {
+    "id": "f7c158a24b912b66",
+    "title": "Мирра Андреева и Андрей Рублев не смогли выйти в финал микста на US Open",
+    "sport": "Теннис",
+    "category": "Теннис",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/8/31/347878119036318.jpeg",
+    "teaser": "Мирра Андреева и Андрей Рублев не смогли выйти в финал микста на US Open",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a8fd6249a7947262c0ee6be",
+    "publishedAt": "2026-08-27T07:18:51.000Z",
+    "createdAt": "2026-08-27T08:34:36.810Z",
+    "updatedAt": "2026-08-27T08:34:36.810Z"
+  },
+  {
+    "id": "a4d0529b22e01ebb",
+    "title": "Матч Лиги чемпионов завершился массовой дракой команд",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/2/61/347878132187612.jpeg",
+    "teaser": "Матч Лиги чемпионов завершился массовой дракой команд",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a8fd9e49a794731c7b99309",
+    "publishedAt": "2026-08-27T07:11:44.000Z",
+    "createdAt": "2026-08-27T08:34:35.794Z",
+    "updatedAt": "2026-08-27T08:34:35.794Z"
+  },
+  {
     "id": "0dabaf46a8de680b",
     "title": "Какие команды дебютируют в Лиге чемпионов",
     "sport": "Футбол",
@@ -10,8 +66,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a8f10ab9a794783c53405bd",
     "publishedAt": "2026-08-26T21:40:32.000Z",
-    "createdAt": "2026-08-26T23:10:05.740Z",
-    "updatedAt": "2026-08-26T23:10:05.740Z"
+    "createdAt": "2026-08-27T08:34:40.139Z",
+    "updatedAt": "2026-08-27T08:34:40.139Z"
   },
   {
     "id": "0b1162c7f5c46a97",
@@ -24,8 +80,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a8dfc189a794718d7572639",
     "publishedAt": "2026-08-26T21:35:45.000Z",
-    "createdAt": "2026-08-26T23:10:04.741Z",
-    "updatedAt": "2026-08-26T23:10:04.741Z"
+    "createdAt": "2026-08-27T08:34:38.862Z",
+    "updatedAt": "2026-08-27T08:34:38.862Z"
   },
   {
     "id": "e3b02c711b174bea",
@@ -38,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a8f58949a794748f580911c",
     "publishedAt": "2026-08-26T21:19:31.000Z",
-    "createdAt": "2026-08-26T23:10:06.884Z",
-    "updatedAt": "2026-08-26T23:10:06.884Z"
+    "createdAt": "2026-08-27T08:34:42.522Z",
+    "updatedAt": "2026-08-27T08:34:42.522Z"
   },
   {
     "id": "8eaee3f54f61f1bd",
@@ -52,8 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a8f2cfa9a79476bf6af6da4",
     "publishedAt": "2026-08-26T18:48:54.000Z",
-    "createdAt": "2026-08-26T23:10:07.937Z",
-    "updatedAt": "2026-08-26T23:10:07.937Z"
+    "createdAt": "2026-08-27T08:34:43.544Z",
+    "updatedAt": "2026-08-27T08:34:43.544Z"
   },
   {
     "id": "e13d965c075911fa",
@@ -66,8 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a8f1f049a79474375344e5e",
     "publishedAt": "2026-08-26T17:42:26.000Z",
-    "createdAt": "2026-08-26T23:10:09.046Z",
-    "updatedAt": "2026-08-26T23:10:09.046Z"
+    "createdAt": "2026-08-27T08:34:44.562Z",
+    "updatedAt": "2026-08-27T08:34:44.562Z"
   },
   {
     "id": "175920319448d7ac",
@@ -80,63 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a8efc459a7947328a730ecb",
     "publishedAt": "2026-08-26T17:06:40.000Z",
-    "createdAt": "2026-08-26T23:10:10.129Z",
-    "updatedAt": "2026-08-26T23:10:10.129Z"
-  },
-  {
-    "id": "9b891f219fcbe0b3",
-    "title": "Ксения Шойгу родила дочь",
-    "sport": "Другое",
-    "category": "Другие",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/4/82/347877623245824.jpeg",
-    "teaser": "Ксения Шойгу родила дочь",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a8f14d59a794754da7ec3fb",
-    "publishedAt": "2026-08-26T16:55:33.000Z",
-    "createdAt": "2026-08-26T23:10:11.241Z",
-    "updatedAt": "2026-08-26T23:10:11.241Z"
-  },
-  {
-    "id": "efdb76744b3d8db3",
-    "title": "Сестры Уильямс впервые с 2022-го сыграют в паре на US Open",
-    "sport": "Теннис",
-    "category": "Теннис",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/3/44/347877586325443.jpeg",
-    "teaser": "Сестры Уильямс впервые с 2022-го сыграют в паре на US Open",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a8f04a59a79474ecb3d6cc2",
-    "publishedAt": "2026-08-26T15:47:09.000Z",
-    "createdAt": "2026-08-26T23:10:12.575Z",
-    "updatedAt": "2026-08-26T23:10:12.575Z"
-  },
-  {
-    "id": "692388376860f35f",
-    "title": "КХЛ отменит новое правило спустя три месяца после введения",
-    "sport": "Хоккей",
-    "category": "Хоккей",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/9/30/347877560254309.jpeg",
-    "teaser": "КХЛ отменит новое правило спустя три месяца после введения",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a8efaaa9a794722437c5d5f",
-    "publishedAt": "2026-08-26T15:14:53.000Z",
-    "createdAt": "2026-08-26T23:10:13.709Z",
-    "updatedAt": "2026-08-26T23:10:13.709Z"
-  },
-  {
-    "id": "4651cb7ae11ae6bb",
-    "title": "Гитарист группы «Кино» стал соавтором нового гимна КХЛ",
-    "sport": "Хоккей",
-    "category": "Хоккей",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/7/96/347877563814967.jpeg",
-    "teaser": "Гитарист группы «Кино» стал соавтором нового гимна КХЛ",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a8efb669a7947ebcbb86036",
-    "publishedAt": "2026-08-26T15:07:06.000Z",
-    "createdAt": "2026-08-26T23:10:14.860Z",
-    "updatedAt": "2026-08-26T23:10:14.860Z"
+    "createdAt": "2026-08-27T08:34:41.511Z",
+    "updatedAt": "2026-08-27T08:34:41.511Z"
   }
 ]
