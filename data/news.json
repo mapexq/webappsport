@@ -1,5 +1,75 @@
 [
   {
+    "id": "bd6acf9ab1f4170f",
+    "title": "Гол Роналду принес четвертую победу «Ан-Насру» подряд",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/6/55/347879495220556.jpeg",
+    "teaser": "Гол Роналду принес четвертую победу «Ан-Насру» подряд",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a91eeb89a7947ea5e1e95dc",
+    "publishedAt": "2026-08-28T20:24:27.000Z",
+    "createdAt": "2026-08-29T01:35:43.490Z",
+    "updatedAt": "2026-08-29T01:35:43.490Z"
+  },
+  {
+    "id": "13a14503540af0cd",
+    "title": "ISU изменил условия допуска российских фигуристов на этапы Гран-при",
+    "sport": "Другое",
+    "category": "Фигурное катание",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/7/47/347879473249477.jpeg",
+    "teaser": "ISU изменил условия допуска российских фигуристов на этапы Гран-при",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a91e4e19a7947017df36b05",
+    "publishedAt": "2026-08-28T20:09:36.000Z",
+    "createdAt": "2026-08-29T01:35:45.633Z",
+    "updatedAt": "2026-08-29T01:35:45.633Z"
+  },
+  {
+    "id": "255260df9232e7d3",
+    "title": "Сафонов избежал травмы после столкновения с тренером перед матчем Лиги 1",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/6/80/347879435929806.jpeg",
+    "teaser": "Сафонов избежал травмы после столкновения с тренером перед матчем Лиги 1",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a91d8289a794721d5ba8e07",
+    "publishedAt": "2026-08-28T19:07:22.000Z",
+    "createdAt": "2026-08-29T01:35:44.640Z",
+    "updatedAt": "2026-08-29T01:35:44.640Z"
+  },
+  {
+    "id": "df059ebabe95745b",
+    "title": "Получивший повреждение в матче РПЛ Кисляк рассказал о характере травмы",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/6/07/347879407262076.jpeg",
+    "teaser": "Получивший повреждение в матче РПЛ Кисляк рассказал о характере травмы",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a91ccfa9a7947ea5e1e95b3",
+    "publishedAt": "2026-08-28T18:32:30.000Z",
+    "createdAt": "2026-08-29T01:35:46.556Z",
+    "updatedAt": "2026-08-29T01:35:46.556Z"
+  },
+  {
+    "id": "6bf429f9969f763a",
+    "title": "Олимпийская чемпионка Ступак объявила о беременности",
+    "sport": "Другое",
+    "category": "Другие",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/3/76/347879393336763.jpeg",
+    "teaser": "Олимпийская чемпионка Ступак объявила о беременности",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a91c7d59a79479b64f46246",
+    "publishedAt": "2026-08-28T17:59:03.000Z",
+    "createdAt": "2026-08-29T01:35:47.486Z",
+    "updatedAt": "2026-08-29T01:35:47.486Z"
+  },
+  {
     "id": "0e516a9b86208760",
     "title": "ЦСКА не смог обыграть «Акрон» второй раз за десять дней",
     "sport": "Футбол",
@@ -10,8 +80,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a91b2a69a7947b5b35adfd1",
     "publishedAt": "2026-08-28T17:10:05.000Z",
-    "createdAt": "2026-08-28T17:13:55.499Z",
-    "updatedAt": "2026-08-28T17:13:55.499Z"
+    "createdAt": "2026-08-29T01:35:48.471Z",
+    "updatedAt": "2026-08-29T01:35:48.471Z"
   },
   {
     "id": "1281dc1f9c163cc0",
@@ -24,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a91b6339a794734d83e05e0",
     "publishedAt": "2026-08-28T16:54:11.000Z",
-    "createdAt": "2026-08-28T17:13:56.514Z",
-    "updatedAt": "2026-08-28T17:13:56.514Z"
+    "createdAt": "2026-08-29T01:35:49.453Z",
+    "updatedAt": "2026-08-29T01:35:49.453Z"
   },
   {
     "id": "1c9543b5034aaa1a",
@@ -38,8 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a91aa699a79475b162135a2",
     "publishedAt": "2026-08-28T16:01:41.000Z",
-    "createdAt": "2026-08-28T17:13:57.578Z",
-    "updatedAt": "2026-08-28T17:13:57.578Z"
+    "createdAt": "2026-08-29T01:35:50.448Z",
+    "updatedAt": "2026-08-29T01:35:50.448Z"
   },
   {
     "id": "3e605148c0919e4b",
@@ -52,8 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a91a2939a79471cbf52d468",
     "publishedAt": "2026-08-28T15:25:13.000Z",
-    "createdAt": "2026-08-28T17:13:58.644Z",
-    "updatedAt": "2026-08-28T17:13:58.644Z"
+    "createdAt": "2026-08-29T01:35:51.485Z",
+    "updatedAt": "2026-08-29T01:35:51.485Z"
   },
   {
     "id": "7f36ce009845386f",
@@ -66,77 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a91955c9a79474839d1808b",
     "publishedAt": "2026-08-28T14:26:35.000Z",
-    "createdAt": "2026-08-28T17:13:59.673Z",
-    "updatedAt": "2026-08-28T17:13:59.673Z"
-  },
-  {
-    "id": "8c654e0cb03927f5",
-    "title": "Украина подала жалобу в FIA после снятия бана с российских автогонщиков",
-    "sport": "Другое",
-    "category": "Формула-1",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/1/14/347879240697141.jpeg",
-    "teaser": "Украина подала жалобу в FIA после снятия бана с российских автогонщиков",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a918ae69a7947d0e1d8c80d",
-    "publishedAt": "2026-08-28T13:53:55.000Z",
-    "createdAt": "2026-08-28T17:14:00.699Z",
-    "updatedAt": "2026-08-28T17:14:00.699Z"
-  },
-  {
-    "id": "cc2c20317207c360",
-    "title": "Эрлинг Холанд отреагировал на смерть короля Норвегии Харальда V",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/5/41/347879238263415.jpeg",
-    "teaser": "Эрлинг Холанд отреагировал на смерть короля Норвегии Харальда V",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a9188ae9a794794524a996a",
-    "publishedAt": "2026-08-28T13:43:08.000Z",
-    "createdAt": "2026-08-28T17:14:02.829Z",
-    "updatedAt": "2026-08-28T17:14:02.829Z"
-  },
-  {
-    "id": "0b4f1f029e78e8e0",
-    "title": "Стали известны соперники «Монако» Головина в Лиге конференций",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/4/34/347879205927344.jpeg",
-    "teaser": "Стали известны соперники «Монако» Головина в Лиге конференций",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a917bab9a7947075f171486",
-    "publishedAt": "2026-08-28T12:49:34.000Z",
-    "createdAt": "2026-08-28T17:14:03.687Z",
-    "updatedAt": "2026-08-28T17:14:03.687Z"
-  },
-  {
-    "id": "1f2353be01fd00b6",
-    "title": "В «Балтике» осудили тренера после второго за полгода отстранения",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/9/18/347879178161189.jpeg",
-    "teaser": "В «Балтике» осудили тренера после второго за полгода отстранения",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a916f559a7947d0e1d8c7bc",
-    "publishedAt": "2026-08-28T12:05:40.000Z",
-    "createdAt": "2026-08-28T17:14:04.776Z",
-    "updatedAt": "2026-08-28T17:14:04.776Z"
-  },
-  {
-    "id": "a64c72aeb8770a48",
-    "title": "«Спартак» на подъеме, «Зенит» в кризисе. Чего ждать от шестого тура РПЛ",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/4/50/347878444535504.jpeg",
-    "teaser": "«Спартак» на подъеме, «Зенит» в кризисе. Чего ждать от шестого тура РПЛ",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a90052d9a79479cf56b3224",
-    "publishedAt": "2026-08-28T07:01:23.000Z",
-    "createdAt": "2026-08-28T17:14:01.799Z",
-    "updatedAt": "2026-08-28T17:14:01.799Z"
+    "createdAt": "2026-08-29T01:35:52.489Z",
+    "updatedAt": "2026-08-29T01:35:52.489Z"
   }
 ]
