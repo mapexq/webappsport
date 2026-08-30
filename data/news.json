@@ -1,5 +1,75 @@
 [
   {
+    "id": "472c43295a58e104",
+    "title": "Московское «Динамо» в рекордный восьмой раз выиграло Кубок мэра по хоккею",
+    "sport": "Хоккей",
+    "category": "Хоккей",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/5/73/347881143120735.png",
+    "teaser": "Московское «Динамо» в рекордный восьмой раз выиграло Кубок мэра по хоккею",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a94740a9a7947f32011511d",
+    "publishedAt": "2026-08-30T19:19:10.000Z",
+    "createdAt": "2026-08-30T19:40:57.280Z",
+    "updatedAt": "2026-08-30T19:40:57.280Z"
+  },
+  {
+    "id": "f9bc9ef3b7573731",
+    "title": "«Рубин» впервые за четыре матча победил в РПЛ",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/3/46/347881152918463.jpeg",
+    "teaser": "«Рубин» впервые за четыре матча победил в РПЛ",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a94620d9a79470cc1048e56",
+    "publishedAt": "2026-08-30T19:14:53.000Z",
+    "createdAt": "2026-08-30T19:40:58.358Z",
+    "updatedAt": "2026-08-30T19:40:58.358Z"
+  },
+  {
+    "id": "c7ff470b91ec5267",
+    "title": "Против «Спартака» сфолили рекордное число раз за матч РПЛ с 2019 года",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/5/04/347881166241045.jpeg",
+    "teaser": "Против «Спартака» сфолили рекордное число раз за матч РПЛ с 2019 года",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a947b439a794707049d2374",
+    "publishedAt": "2026-08-30T19:09:21.000Z",
+    "createdAt": "2026-08-30T19:40:56.165Z",
+    "updatedAt": "2026-08-30T19:40:56.165Z"
+  },
+  {
+    "id": "8f597960beedb60a",
+    "title": "Соперник Рублева снялся с US Open",
+    "sport": "Теннис",
+    "category": "Теннис",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/6/98/347881119476986.png",
+    "teaser": "Соперник Рублева снялся с US Open",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a946c0b9a7947ff47611008",
+    "publishedAt": "2026-08-30T18:00:27.000Z",
+    "createdAt": "2026-08-30T19:41:01.521Z",
+    "updatedAt": "2026-08-30T19:41:01.521Z"
+  },
+  {
+    "id": "4df74310f43df0ba",
+    "title": "Дебютный гол Мирлинда Даку спас «Спартак» от проигрыша «Оренбургу»",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/3/62/347881032647623.png",
+    "teaser": "Дебютный гол Мирлинда Даку спас «Спартак» от проигрыша «Оренбургу»",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a944a029a79479f1d1d6421",
+    "publishedAt": "2026-08-30T16:31:42.000Z",
+    "createdAt": "2026-08-30T19:41:02.431Z",
+    "updatedAt": "2026-08-30T19:41:02.431Z"
+  },
+  {
     "id": "9b36ec7bcbde01c3",
     "title": "Экс-вторая ракетка мира снялся с US Open после игры в миксте со Шнайдер",
     "sport": "Теннис",
@@ -10,8 +80,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a9452d69a7947a0bff098e8",
     "publishedAt": "2026-08-30T16:12:51.000Z",
-    "createdAt": "2026-08-30T16:25:22.453Z",
-    "updatedAt": "2026-08-30T16:25:22.453Z"
+    "createdAt": "2026-08-30T19:41:03.500Z",
+    "updatedAt": "2026-08-30T19:41:03.500Z"
   },
   {
     "id": "ef8264dfac960a26",
@@ -24,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a944dcd9a79471d384ea544",
     "publishedAt": "2026-08-30T15:34:16.000Z",
-    "createdAt": "2026-08-30T16:25:24.347Z",
-    "updatedAt": "2026-08-30T16:25:24.347Z"
+    "createdAt": "2026-08-30T19:41:05.566Z",
+    "updatedAt": "2026-08-30T19:41:05.566Z"
   },
   {
     "id": "b54f8369d5e05a74",
@@ -38,8 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a940a319a794715740aea1e",
     "publishedAt": "2026-08-30T15:28:31.000Z",
-    "createdAt": "2026-08-30T16:25:21.389Z",
-    "updatedAt": "2026-08-30T16:25:21.389Z"
+    "createdAt": "2026-08-30T19:40:59.268Z",
+    "updatedAt": "2026-08-30T19:40:59.268Z"
   },
   {
     "id": "c4db9196219fc395",
@@ -52,78 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a943fe49a79470d555f1f96",
     "publishedAt": "2026-08-30T15:18:07.000Z",
-    "createdAt": "2026-08-30T16:25:23.397Z",
-    "updatedAt": "2026-08-30T16:25:23.397Z"
-  },
-  {
-    "id": "ed0a0131d9ce2900",
-    "title": "Один из лидеров «Спартака» пропустит матч РПЛ из-за вирусной инфекции",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/5/20/347880995217205.png",
-    "teaser": "Один из лидеров «Спартака» пропустит матч РПЛ из-за вирусной инфекции",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a943a099a79473518c5d8bf",
-    "publishedAt": "2026-08-30T14:20:30.000Z",
-    "createdAt": "2026-08-30T16:25:26.421Z",
-    "updatedAt": "2026-08-30T16:25:26.421Z"
-  },
-  {
-    "id": "413224d8f97e4ad5",
-    "title": "«Балтика» без отстраненного главного тренера разгромила новичка РПЛ",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/4/74/347880983501744.png",
-    "teaser": "«Балтика» без отстраненного главного тренера разгромила новичка РПЛ",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a9435909a794731c7a30aa8",
-    "publishedAt": "2026-08-30T14:03:02.000Z",
-    "createdAt": "2026-08-30T16:25:27.359Z",
-    "updatedAt": "2026-08-30T16:25:27.359Z"
-  },
-  {
-    "id": "f7b6a10e5b3eff52",
-    "title": "Футболист сборной Португалии стал одноклубником Батракова в «Галатасарае»",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/5/23/347880942075235.png",
-    "teaser": "Футболист сборной Португалии стал одноклубником Батракова в «Галатасарае»",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a9426939a7947a0c44a1e3e",
-    "publishedAt": "2026-08-30T12:59:23.000Z",
-    "createdAt": "2026-08-30T16:25:29.380Z",
-    "updatedAt": "2026-08-30T16:25:29.380Z"
-  },
-  {
-    "id": "f306c3c21584f1fd",
-    "title": "Чемпион КХЛ выиграл турнир в Омске, забив 1 буллит из 11 в решающем матче",
-    "sport": "Хоккей",
-    "category": "Хоккей",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/4/59/347880931239594.png",
-    "teaser": "Чемпион КХЛ выиграл турнир в Омске, забив 1 буллит из 11 в решающем матче",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a9422589a794715740aea54",
-    "publishedAt": "2026-08-30T12:28:00.000Z",
-    "createdAt": "2026-08-30T16:25:28.394Z",
-    "updatedAt": "2026-08-30T16:25:28.394Z"
-  },
-  {
-    "id": "0a199baeadc74cd7",
-    "title": "Загитова призналась, что расплакалась перед открытием школы в Казани",
-    "sport": "Другое",
-    "category": "Фигурное катание",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/8/39/347880901234398.jpeg",
-    "teaser": "Загитова призналась, что расплакалась перед открытием школы в Казани",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a9413509a794758bae804c0",
-    "publishedAt": "2026-08-30T11:25:36.000Z",
-    "createdAt": "2026-08-30T16:25:30.414Z",
-    "updatedAt": "2026-08-30T16:25:30.414Z"
+    "createdAt": "2026-08-30T19:41:04.559Z",
+    "updatedAt": "2026-08-30T19:41:04.559Z"
   },
   {
     "id": "505a5bd429197a70",
@@ -136,7 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a93393b9a79479ad4541d17",
     "publishedAt": "2026-08-30T06:34:52.000Z",
-    "createdAt": "2026-08-30T16:25:25.383Z",
-    "updatedAt": "2026-08-30T16:25:25.383Z"
+    "createdAt": "2026-08-30T19:41:00.284Z",
+    "updatedAt": "2026-08-30T19:41:00.284Z"
   }
 ]
