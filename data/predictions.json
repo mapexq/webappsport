@@ -1,6 +1,6 @@
 [
   {
-    "id": 1788164830535,
+    "id": 1788195375476,
     "eventName": "Сириус — Мальмё",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -16,7 +16,103 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1788164830536,
+    "id": 1788195375477,
+    "eventName": "Осасуна — Хетафе",
+    "discipline": "Футбол",
+    "tournament": "Чемпионат",
+    "expert": {
+      "name": "Сэр Палпатин",
+      "avatar": "https://bookmaker-ratings.ru/static/images/badges/novice-letter.svg?v=30092024",
+      "status": "expert",
+      "winRate": 70
+    },
+    "prediction": "Тотал (2.5) М",
+    "odds": 1.37,
+    "comment": "Обе команды играют прагматично, а усталость после плотного календаря снижает темп.",
+    "source": "Sports Analytics Pro"
+  },
+  {
+    "id": 1788195375478,
+    "eventName": "Осасуна — Хетафе",
+    "discipline": "Футбол",
+    "tournament": "Чемпионат",
+    "expert": {
+      "name": "Алим Калибатов",
+      "avatar": "https://static-uploads.prod.bookmaker-ratings.ru/2026/04/3dcfa3e614753a9566b9342464293-rb-webp-69d34c667554e-69d34c667cd17.webp?width=60",
+      "status": "expert",
+      "winRate": 73
+    },
+    "prediction": "Индивидуальный тотал 1 Больше (1)",
+    "odds": 1.89,
+    "comment": "\"Осасуна\" дома будет посильнее \"Хетафе\", которому приходится разрываться на два фронта. Я жду от хозяев минимум гола за 1.89.",
+    "source": "Sports Analytics Pro"
+  },
+  {
+    "id": 1788195375479,
+    "eventName": "Аталанта — Болонья",
+    "discipline": "Футбол",
+    "tournament": "Чемпионат",
+    "expert": {
+      "name": "Сэр Палпатин",
+      "avatar": "https://bookmaker-ratings.ru/static/images/badges/novice-letter.svg?v=30092024",
+      "status": "expert",
+      "winRate": 70
+    },
+    "prediction": "Тотал (2.5) М",
+    "odds": 1.9,
+    "comment": "Пять последних очных матчей прошли через низ, жду закрытый футбол.",
+    "source": "Sports Analytics Pro"
+  },
+  {
+    "id": 1788195375480,
+    "eventName": "Аталанта — Болонья",
+    "discipline": "Футбол",
+    "tournament": "Чемпионат",
+    "expert": {
+      "name": "Алим Калибатов",
+      "avatar": "https://static-uploads.prod.bookmaker-ratings.ru/2026/04/3dcfa3e614753a9566b9342464293-rb-webp-69d34c667554e-69d34c667cd17.webp?width=60",
+      "status": "expert",
+      "winRate": 73
+    },
+    "prediction": "Тотал (3) М",
+    "odds": 1.5,
+    "comment": "На \"Аталанта\", ни \"Болонья\" на старте турнира не впечатляют. Не ожидаю в матче града голов, да и в личных встречах уже лет пять как они не пробивают верх по голам. ТМ (3) за 1.50.",
+    "source": "Sports Analytics Pro"
+  },
+  {
+    "id": 1788195375481,
+    "eventName": "Аталанта — Болонья",
+    "discipline": "Футбол",
+    "tournament": "Чемпионат",
+    "expert": {
+      "name": "Алексей Вайцеховский",
+      "avatar": "https://bookmaker-ratings.ru/static/images/badges/novice-letter.svg?v=30092024",
+      "status": "expert",
+      "winRate": 70
+    },
+    "prediction": "Тотал меньше (3.5)",
+    "odds": 1.35,
+    "comment": "Думаю голов будет не много, начало сезона, да и в очных противостояниях много не забирают",
+    "source": "Sports Analytics Pro"
+  },
+  {
+    "id": 1788195375482,
+    "eventName": "Аталанта — Болонья",
+    "discipline": "Футбол",
+    "tournament": "Чемпионат",
+    "expert": {
+      "name": "Alex Fox",
+      "avatar": "https://bookmaker-ratings.ru/static/images/badges/forecaster-letter.svg?v=30092024",
+      "status": "expert",
+      "winRate": 79
+    },
+    "prediction": "Ф2(+1)",
+    "odds": 1.45,
+    "comment": "Болонья на выезде будет играть от обороны, думаю ничья будет",
+    "source": "Sports Analytics Pro"
+  },
+  {
+    "id": 1788195375483,
     "eventName": "Астон Вилла — Арсенал",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -32,39 +128,7 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1788164830537,
-    "eventName": "Барселона — Райо Вальекано",
-    "discipline": "Футбол",
-    "tournament": "Чемпионат",
-    "expert": {
-      "name": "Владимир Новиков",
-      "avatar": "https://bookmaker-ratings.ru/static/images/badges/novice-letter.svg?v=30092024",
-      "status": "expert",
-      "winRate": 76
-    },
-    "prediction": "Тотал Барселона больше (3)",
-    "odds": 2.1,
-    "comment": "Барса в огне команда очень много забивает думаю будет сухой разгром",
-    "source": "Sports Analytics Pro"
-  },
-  {
-    "id": 1788164830538,
-    "eventName": "Барселона — Райо Вальекано",
-    "discipline": "Футбол",
-    "tournament": "Чемпионат",
-    "expert": {
-      "name": "Максим Тагил",
-      "avatar": "https://bookmaker-ratings.ru/static/images/badges/novice-letter.svg?v=30092024",
-      "status": "expert",
-      "winRate": 85
-    },
-    "prediction": "Тотал больше (3.5)",
-    "odds": 1.84,
-    "comment": "Барселона хороша на старте. Думаю три забьет. Ну и один соперник",
-    "source": "Sports Analytics Pro"
-  },
-  {
-    "id": 1788164830539,
+    "id": 1788195375484,
     "eventName": "Матч",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -80,7 +144,7 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1788164830540,
+    "id": 1788195375485,
     "eventName": "Матч",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -92,70 +156,6 @@
     },
     "prediction": "Ф2 (-1)",
     "odds": 1.9,
-    "comment": "Комментарий к прогнозу",
-    "source": "Sports Analytics Pro"
-  },
-  {
-    "id": 1788164830541,
-    "eventName": "Матч",
-    "discipline": "Футбол",
-    "tournament": "Чемпионат",
-    "expert": {
-      "name": "Астон Вилла",
-      "avatar": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=100&h=100&fit=crop",
-      "status": "expert",
-      "winRate": 80
-    },
-    "prediction": "Ф2(-1.5)",
-    "odds": 2.45,
-    "comment": "Комментарий к прогнозу",
-    "source": "Sports Analytics Pro"
-  },
-  {
-    "id": 1788164830542,
-    "eventName": "Матч",
-    "discipline": "Футбол",
-    "tournament": "Чемпионат",
-    "expert": {
-      "name": "Астон Вилла",
-      "avatar": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=100&h=100&fit=crop",
-      "status": "expert",
-      "winRate": 80
-    },
-    "prediction": "Тотал (2.5) Б",
-    "odds": 1.81,
-    "comment": "Комментарий к прогнозу",
-    "source": "Sports Analytics Pro"
-  },
-  {
-    "id": 1788164830543,
-    "eventName": "Матч",
-    "discipline": "Футбол",
-    "tournament": "Чемпионат",
-    "expert": {
-      "name": "Райо Вальекано",
-      "avatar": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=100&h=100&fit=crop",
-      "status": "expert",
-      "winRate": 76
-    },
-    "prediction": "Тотал Барселона больше (3)",
-    "odds": 2.1,
-    "comment": "Комментарий к прогнозу",
-    "source": "Sports Analytics Pro"
-  },
-  {
-    "id": 1788164830544,
-    "eventName": "Матч",
-    "discipline": "Футбол",
-    "tournament": "Чемпионат",
-    "expert": {
-      "name": "Райо Вальекано",
-      "avatar": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=100&h=100&fit=crop",
-      "status": "expert",
-      "winRate": 76
-    },
-    "prediction": "Рафинья забьет",
-    "odds": 1.69,
     "comment": "Комментарий к прогнозу",
     "source": "Sports Analytics Pro"
   }
