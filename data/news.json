@@ -1,5 +1,89 @@
 [
   {
+    "id": "b973ebbe98908815",
+    "title": "Тренера клуба Первой лиги уволили спустя три месяца после назначения",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/1/87/347881626139871.jpeg",
+    "teaser": "Тренера клуба Первой лиги уволили спустя три месяца после назначения",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a952ed99a7947c500581039",
+    "publishedAt": "2026-08-31T08:01:51.000Z",
+    "createdAt": "2026-08-31T08:27:18.053Z",
+    "updatedAt": "2026-08-31T08:27:18.053Z"
+  },
+  {
+    "id": "8d49064c80459a3e",
+    "title": "Винус Уильямс проиграла на старте US Open и потерпела 15 поражение подряд",
+    "sport": "Теннис",
+    "category": "Теннис",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/8/56/347881608819568.jpeg",
+    "teaser": "Винус Уильямс проиграла на старте US Open и потерпела 15 поражение подряд",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a9528519a794725ec66aa35",
+    "publishedAt": "2026-08-31T07:30:54.000Z",
+    "createdAt": "2026-08-31T08:27:17.100Z",
+    "updatedAt": "2026-08-31T08:27:17.100Z"
+  },
+  {
+    "id": "ab29c0367ebe646a",
+    "title": "Джокович фразой «чувствовал себя ужасно» оценил вылет на старте US Open",
+    "sport": "Теннис",
+    "category": "Теннис",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/3/85/347881584069853.jpeg",
+    "teaser": "Джокович фразой «чувствовал себя ужасно» оценил вылет на старте US Open",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a951afd9a79478e363f0b8e",
+    "publishedAt": "2026-08-31T07:06:40.000Z",
+    "createdAt": "2026-08-31T08:27:18.978Z",
+    "updatedAt": "2026-08-31T08:27:18.978Z"
+  },
+  {
+    "id": "77f3b6c49948e951",
+    "title": "Экспорт талантов. Кто из россиян выступает в европейских клубах",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/5/51/347873538242515.jpeg",
+    "teaser": "Экспорт талантов. Кто из россиян выступает в европейских клубах",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a8872df9a79477d06298bec",
+    "publishedAt": "2026-08-31T06:06:14.000Z",
+    "createdAt": "2026-08-31T08:27:20.054Z",
+    "updatedAt": "2026-08-31T08:27:20.054Z"
+  },
+  {
+    "id": "d2a715407dc3d376",
+    "title": "Джокович впервые в карьере проиграл на старте US Open",
+    "sport": "Теннис",
+    "category": "Теннис",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/3/47/347881528826473.jpeg",
+    "teaser": "Джокович впервые в карьере проиграл на старте US Open",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a9509dd9a79475dd19ed496",
+    "publishedAt": "2026-08-31T05:15:16.000Z",
+    "createdAt": "2026-08-31T08:27:21.014Z",
+    "updatedAt": "2026-08-31T08:27:21.014Z"
+  },
+  {
+    "id": "07b83b94458f7476",
+    "title": "Даниил Медведев стартовал с победы на US Open",
+    "sport": "Теннис",
+    "category": "Теннис",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/5/13/347881087884135.jpeg",
+    "teaser": "Даниил Медведев стартовал с победы на US Open",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a945fb89a79470cc1048e50",
+    "publishedAt": "2026-08-30T20:24:27.000Z",
+    "createdAt": "2026-08-31T08:27:21.940Z",
+    "updatedAt": "2026-08-31T08:27:21.940Z"
+  },
+  {
     "id": "472c43295a58e104",
     "title": "Московское «Динамо» в рекордный восьмой раз выиграло Кубок мэра по хоккею",
     "sport": "Хоккей",
@@ -10,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a94740a9a7947f32011511d",
     "publishedAt": "2026-08-30T19:19:10.000Z",
-    "createdAt": "2026-08-31T01:15:43.194Z",
-    "updatedAt": "2026-08-31T01:15:43.194Z"
+    "createdAt": "2026-08-31T08:27:23.955Z",
+    "updatedAt": "2026-08-31T08:27:23.955Z"
   },
   {
     "id": "f9bc9ef3b7573731",
@@ -24,8 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a94620d9a79470cc1048e56",
     "publishedAt": "2026-08-30T19:14:53.000Z",
-    "createdAt": "2026-08-31T01:15:44.305Z",
-    "updatedAt": "2026-08-31T01:15:44.305Z"
+    "createdAt": "2026-08-31T08:27:24.873Z",
+    "updatedAt": "2026-08-31T08:27:24.873Z"
   },
   {
     "id": "c7ff470b91ec5267",
@@ -38,64 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a947b439a794707049d2374",
     "publishedAt": "2026-08-30T19:09:21.000Z",
-    "createdAt": "2026-08-31T01:15:42.131Z",
-    "updatedAt": "2026-08-31T01:15:42.131Z"
-  },
-  {
-    "id": "8f597960beedb60a",
-    "title": "Соперник Рублева снялся с US Open",
-    "sport": "Теннис",
-    "category": "Теннис",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/6/98/347881119476986.png",
-    "teaser": "Соперник Рублева снялся с US Open",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a946c0b9a7947ff47611008",
-    "publishedAt": "2026-08-30T18:00:27.000Z",
-    "createdAt": "2026-08-31T01:15:48.045Z",
-    "updatedAt": "2026-08-31T01:15:48.045Z"
-  },
-  {
-    "id": "4df74310f43df0ba",
-    "title": "Дебютный гол Мирлинда Даку спас «Спартак» от проигрыша «Оренбургу»",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/3/62/347881032647623.png",
-    "teaser": "Дебютный гол Мирлинда Даку спас «Спартак» от проигрыша «Оренбургу»",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a944a029a79479f1d1d6421",
-    "publishedAt": "2026-08-30T16:31:42.000Z",
-    "createdAt": "2026-08-31T01:15:49.105Z",
-    "updatedAt": "2026-08-31T01:15:49.105Z"
-  },
-  {
-    "id": "9b36ec7bcbde01c3",
-    "title": "Экс-вторая ракетка мира снялся с US Open после игры в миксте со Шнайдер",
-    "sport": "Теннис",
-    "category": "Теннис",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/0/64/347881054665640.jpeg",
-    "teaser": "Экс-вторая ракетка мира снялся с US Open после игры в миксте со Шнайдер",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a9452d69a7947a0bff098e8",
-    "publishedAt": "2026-08-30T16:12:51.000Z",
-    "createdAt": "2026-08-31T01:15:50.170Z",
-    "updatedAt": "2026-08-31T01:15:50.170Z"
-  },
-  {
-    "id": "ef8264dfac960a26",
-    "title": "Призер этапов юниорского Гран-при России ушла из группы Тутберидзе",
-    "sport": "Другое",
-    "category": "Фигурное катание",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/1/04/347881051296041.png",
-    "teaser": "Призер этапов юниорского Гран-при России ушла из группы Тутберидзе",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a944dcd9a79471d384ea544",
-    "publishedAt": "2026-08-30T15:34:16.000Z",
-    "createdAt": "2026-08-31T01:15:52.483Z",
-    "updatedAt": "2026-08-31T01:15:52.483Z"
+    "createdAt": "2026-08-31T08:27:22.948Z",
+    "updatedAt": "2026-08-31T08:27:22.948Z"
   },
   {
     "id": "b54f8369d5e05a74",
@@ -108,35 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a940a319a794715740aea1e",
     "publishedAt": "2026-08-30T15:28:31.000Z",
-    "createdAt": "2026-08-31T01:15:45.858Z",
-    "updatedAt": "2026-08-31T01:15:45.858Z"
-  },
-  {
-    "id": "c4db9196219fc395",
-    "title": "«Реал Сосьедад» объяснил уход оставшегося в запасе Захаряна в раздевалку",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/3/58/347881023203583.png",
-    "teaser": "«Реал Сосьедад» объяснил уход оставшегося в запасе Захаряна в раздевалку",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a943fe49a79470d555f1f96",
-    "publishedAt": "2026-08-30T15:18:07.000Z",
-    "createdAt": "2026-08-31T01:15:51.312Z",
-    "updatedAt": "2026-08-31T01:15:51.312Z"
-  },
-  {
-    "id": "505a5bd429197a70",
-    "title": "Как Батраков дебютировал за «Галатасарай». Фоторепортаж",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/1/14/347880351799141.jpeg",
-    "teaser": "Как Батраков дебютировал за «Галатасарай». Фоторепортаж",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a93393b9a79479ad4541d17",
-    "publishedAt": "2026-08-30T06:34:52.000Z",
-    "createdAt": "2026-08-31T01:15:46.994Z",
-    "updatedAt": "2026-08-31T01:15:46.994Z"
+    "createdAt": "2026-08-31T08:27:25.767Z",
+    "updatedAt": "2026-08-31T08:27:25.767Z"
   }
 ]
