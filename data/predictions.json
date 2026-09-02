@@ -1,23 +1,7 @@
 [
   {
-    "id": 1788355659103,
-    "eventName": "Оренбург — Рубин",
-    "discipline": "Футбол",
-    "tournament": "Чемпионат",
-    "expert": {
-      "name": "Алексей Вайцеховский",
-      "avatar": "https://bookmaker-ratings.ru/static/images/badges/novice-letter.svg?v=30092024",
-      "status": "expert",
-      "winRate": 70
-    },
-    "prediction": "Ф2(0)",
-    "odds": 1.97,
-    "comment": "Как ни крути, а потеря главного забивалы идет на пользу Рубину, игра стабилизируется, плюс последнего места в группе кубка- это мотивация!",
-    "source": "Sports Analytics Pro"
-  },
-  {
-    "id": 1788355659105,
-    "eventName": "Оренбург — Рубин",
+    "id": 1788371209177,
+    "eventName": "Спартак Москва — Родина",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
     "expert": {
@@ -26,14 +10,30 @@
       "status": "expert",
       "winRate": 73
     },
-    "prediction": "Тотал Рубин больше (1)",
-    "odds": 1.75,
-    "comment": "Рубину вполне по силам забитб два гола в этом матче",
+    "prediction": "Ф1(-1.5)",
+    "odds": 1.79,
+    "comment": "Москвичам по силам выиграть матч в разнице два мяча",
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1788355659106,
-    "eventName": "Оренбург — Рубин",
+    "id": 1788371209178,
+    "eventName": "Спартак Москва — Родина",
+    "discipline": "Футбол",
+    "tournament": "Чемпионат",
+    "expert": {
+      "name": "Сэр Палпатин",
+      "avatar": "https://bookmaker-ratings.ru/static/images/badges/novice-letter.svg?v=30092024",
+      "status": "expert",
+      "winRate": 70
+    },
+    "prediction": "Фора 1 (-1.5)",
+    "odds": 1.77,
+    "comment": "Спартак уже громил Родину 3:0, класс и домашнее поле на его стороне.",
+    "source": "Sports Analytics Pro"
+  },
+  {
+    "id": 1788371209179,
+    "eventName": "Балтика — Крылья Советов",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
     "expert": {
@@ -44,12 +44,28 @@
     },
     "prediction": "Тотал (2.5) М",
     "odds": 1.75,
-    "comment": "Команды часто играют низы, а очные матчи проходят без обилия голов.",
+    "comment": "В последних очных матчах Балтика стабильно сушит игру, ожидаю 1:0 или 2:0.",
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1788355659107,
-    "eventName": "Оренбург — Рубин",
+    "id": 1788371209180,
+    "eventName": "Балтика — Крылья Советов",
+    "discipline": "Футбол",
+    "tournament": "Чемпионат",
+    "expert": {
+      "name": "Алексей Вайцеховский",
+      "avatar": "https://bookmaker-ratings.ru/static/images/badges/novice-letter.svg?v=30092024",
+      "status": "expert",
+      "winRate": 70
+    },
+    "prediction": "Ф1(0)",
+    "odds": 1.36,
+    "comment": "Дома Балтика проигрывает крайне редко, и не всем, последнее место в группе кубка хороший раздражитель",
+    "source": "Sports Analytics Pro"
+  },
+  {
+    "id": 1788371209181,
+    "eventName": "Спартак Москва — Родина",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
     "expert": {
@@ -58,104 +74,88 @@
       "status": "expert",
       "winRate": 89
     },
-    "prediction": "Обе забьют (Да)",
-    "odds": 1.8,
-    "comment": "Последние игры вообще показали, что может быть все что угодно, маленькие команды борятся очки набирают, так что возможно и победа Оренбурга,\nНо возьму оз",
+    "prediction": "Тотал Спартак Москва больше (2.5)",
+    "odds": 1.95,
+    "comment": "Спартак после осечки дома захотят выиграть и крупно, тем более в соперниках родина",
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1788355659108,
-    "eventName": "Оренбург — Рубин",
+    "id": 1788371209182,
+    "eventName": "Балтика — Крылья Советов",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
     "expert": {
-      "name": "Андрей Westone",
-      "avatar": "https://bookmaker-ratings.ru/static/images/badges/novice-letter.svg?v=30092024",
+      "name": "Максим Соклаков",
+      "avatar": "https://static-uploads.prod.bookmaker-ratings.ru/2025/03/33C35F69-0683-4000-A6EB-C0D7138B2789-67cbc29317a4d.jpg?width=60",
       "status": "expert",
-      "winRate": 82
+      "winRate": 89
     },
-    "prediction": "Фора 1 (0)",
-    "odds": 1.85,
-    "comment": "Оренбург в лучшей форме и настроен минимум на ничейный исход",
+    "prediction": "Тотал больше (2.5)",
+    "odds": 2.07,
+    "comment": "Думаю тут может быть Тотал\nЕсть какая то чуйка , что будет интересно",
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1788355659109,
-    "eventName": "Оренбург — Рубин",
+    "id": 1788371209183,
+    "eventName": "Спартак Москва — Родина",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
     "expert": {
-      "name": "Егор Семенов",
+      "name": "Grisha Palkin",
       "avatar": "https://bookmaker-ratings.ru/static/images/badges/novice-letter.svg?v=30092024",
       "status": "expert",
-      "winRate": 76
+      "winRate": 75
     },
-    "prediction": "Тотал меньше (2.5)",
+    "prediction": "Тотал Спартак Москва больше (2)",
+    "odds": 1.48,
+    "comment": "Комментарий к прогнозу",
+    "source": "Sports Analytics Pro"
+  },
+  {
+    "id": 1788371209184,
+    "eventName": "Матч",
+    "discipline": "Футбол",
+    "tournament": "Чемпионат",
+    "expert": {
+      "name": "Крылья Советов",
+      "avatar": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=100&h=100&fit=crop",
+      "status": "expert",
+      "winRate": 83
+    },
+    "prediction": "Тотал (2.5) М",
     "odds": 1.75,
-    "comment": "Обе команды плюс мину равные будут от защиты играть так как отыграть у равного по силе не всегда получается",
+    "comment": "Комментарий к прогнозу",
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1788355659110,
-    "eventName": "Оренбург — Рубин",
+    "id": 1788371209185,
+    "eventName": "Матч",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
     "expert": {
-      "name": "Сергей Гориславец",
-      "avatar": "https://static-uploads.prod.bookmaker-ratings.ru/2025/06/A55E5521-F251-409B-9872-CFCC8E629075-684340c122a2a.jpg?width=60",
+      "name": "Крылья Советов",
+      "avatar": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=100&h=100&fit=crop",
       "status": "expert",
-      "winRate": 69
+      "winRate": 83
     },
-    "prediction": "Тотал больше (2)",
-    "odds": 1.54,
-    "comment": "Думаю, соперники способны наиграть минимум на пару мячей.",
+    "prediction": "Ф1(0)",
+    "odds": 1.36,
+    "comment": "Комментарий к прогнозу",
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1788355659111,
-    "eventName": "Оренбург — Рубин",
+    "id": 1788371209186,
+    "eventName": "Матч",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
     "expert": {
-      "name": "Alex Fox",
-      "avatar": "https://bookmaker-ratings.ru/static/images/badges/forecaster-letter.svg?v=30092024",
+      "name": "Кубок России",
+      "avatar": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=100&h=100&fit=crop",
       "status": "expert",
-      "winRate": 79
+      "winRate": 88
     },
-    "prediction": "Тотал больше (2)",
-    "odds": 1.54,
-    "comment": "Рубин в огне Оренбург тоже вроде нащупал свою игру жду в этой встрече 3 гола.",
-    "source": "Sports Analytics Pro"
-  },
-  {
-    "id": 1788355659112,
-    "eventName": "Оренбург — Рубин",
-    "discipline": "Футбол",
-    "tournament": "Чемпионат",
-    "expert": {
-      "name": "Larocka Cepurnova",
-      "avatar": "https://s3-static-prod.storage.yandexcloud.net/2026/09/images-rb-webp-75a830173cb5-dde0b85a1ec5.webp",
-      "status": "expert",
-      "winRate": 76
-    },
-    "prediction": "Тотал (3.5) М",
-    "odds": 1.27,
-    "comment": "Оренбург выиграл только один из семи последних официальных матчей, но при этом у \"горожан\" наблюдается серия из пяти игр без поражений, четыре из которых завершились вничью. В одном из этих матчей \"Оренбург\" встречался с \"Рубином\" в рамках РПЛ, и встреча закончилась со счётом 1:1. Однако в играх Кубка России Ильдар Ахметзянов проводит масштабную ротацию состава. Уверенная победа над \"Родиной\" (4:1) в предыдущем туре этого турнира прервала серию из пяти подряд кубковых поражений \"Оренбурга\" с общим счётом 2:20.",
-    "source": "Sports Analytics Pro"
-  },
-  {
-    "id": 1788355659113,
-    "eventName": "Оренбург — Рубин",
-    "discipline": "Футбол",
-    "tournament": "Чемпионат",
-    "expert": {
-      "name": "Егор Шанс",
-      "avatar": "https://bookmaker-ratings.ru/static/images/badges/novice-letter.svg?v=30092024",
-      "status": "expert",
-      "winRate": 82
-    },
-    "prediction": "Тотал Рубин больше (1)",
-    "odds": 1.9,
+    "prediction": "ТБ (3,5)",
+    "odds": 2.2,
     "comment": "Комментарий к прогнозу",
     "source": "Sports Analytics Pro"
   }
