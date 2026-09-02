@@ -1,5 +1,89 @@
 [
   {
+    "id": "97a46fb52127e1cb",
+    "title": "«Динамо» отказалось от приехавших в Москву двух новичков из Бразилии",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/5/88/347883372277885.jpeg",
+    "teaser": "«Динамо» отказалось от приехавших в Москву двух новичков из Бразилии",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a97cf539a7947286464d7dd",
+    "publishedAt": "2026-09-02T08:37:49.000Z",
+    "createdAt": "2026-09-02T08:39:07.809Z",
+    "updatedAt": "2026-09-02T08:39:07.809Z"
+  },
+  {
+    "id": "ce8753e9a173f103",
+    "title": "Дегтярев заявил о допуске российских лыжников до международных стартов",
+    "sport": "Другое",
+    "category": "Другие",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/1/97/347883360384971.jpeg",
+    "teaser": "Дегтярев заявил о допуске российских лыжников до международных стартов",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a97d6459a7947db554e7c32",
+    "publishedAt": "2026-09-02T08:03:42.000Z",
+    "createdAt": "2026-09-02T08:39:06.742Z",
+    "updatedAt": "2026-09-02T08:39:06.742Z"
+  },
+  {
+    "id": "a7fa24c656cbb53c",
+    "title": "«СЭ» узнал о лишении Кондратюка нейтрального статуса",
+    "sport": "Другое",
+    "category": "Фигурное катание",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/5/71/347883332884715.jpeg",
+    "teaser": "«СЭ» узнал о лишении Кондратюка нейтрального статуса",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a97c86e9a79470a6f9466cf",
+    "publishedAt": "2026-09-02T07:22:02.000Z",
+    "createdAt": "2026-09-02T08:39:10.045Z",
+    "updatedAt": "2026-09-02T08:39:10.045Z"
+  },
+  {
+    "id": "52d68e99a377d8cb",
+    "title": "Как за лето изменился топ-10 самых дорогих трансферов в истории футбола",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/2/39/347882796217392.jpeg",
+    "teaser": "Как за лето изменился топ-10 самых дорогих трансферов в истории футбола",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a96faf09a79476239e63aa7",
+    "publishedAt": "2026-09-02T06:53:12.000Z",
+    "createdAt": "2026-09-02T08:39:08.980Z",
+    "updatedAt": "2026-09-02T08:39:08.980Z"
+  },
+  {
+    "id": "68c453d1c4984962",
+    "title": "«Манчестер Сити» потратил рекордную для футбола сумму на новичков летом",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/2/30/347883314408302.jpeg",
+    "teaser": "«Манчестер Сити» потратил рекордную для футбола сумму на новичков летом",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a97beb69a7947707b116e86",
+    "publishedAt": "2026-09-02T06:49:07.000Z",
+    "createdAt": "2026-09-02T08:39:11.058Z",
+    "updatedAt": "2026-09-02T08:39:11.058Z"
+  },
+  {
+    "id": "f0f32e90db7cc4be",
+    "title": "Мирра Андреева одержала уверенную победу на старте US Open",
+    "sport": "Теннис",
+    "category": "Теннис",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/0/51/347882965363510.jpeg",
+    "teaser": "Мирра Андреева одержала уверенную победу на старте US Open",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a971c689a794737e77d5791",
+    "publishedAt": "2026-09-02T06:10:50.000Z",
+    "createdAt": "2026-09-02T08:39:12.170Z",
+    "updatedAt": "2026-09-02T08:39:12.170Z"
+  },
+  {
     "id": "dcaded63436a72aa",
     "title": "ЦСКА без четырех ключевых игроков всухую проиграл «Ростову» в Кубке",
     "sport": "Футбол",
@@ -10,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a9718529a7947cba551d6a9",
     "publishedAt": "2026-09-01T20:54:27.000Z",
-    "createdAt": "2026-09-02T03:53:44.266Z",
-    "updatedAt": "2026-09-02T03:53:44.266Z"
+    "createdAt": "2026-09-02T08:39:13.080Z",
+    "updatedAt": "2026-09-02T08:39:13.080Z"
   },
   {
     "id": "1a80a7f0a3fb3191",
@@ -24,8 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a971f9c9a794719f74b9a99",
     "publishedAt": "2026-09-01T19:25:58.000Z",
-    "createdAt": "2026-09-02T03:53:46.169Z",
-    "updatedAt": "2026-09-02T03:53:46.169Z"
+    "createdAt": "2026-09-02T08:39:15.262Z",
+    "updatedAt": "2026-09-02T08:39:15.262Z"
   },
   {
     "id": "71431deaac07491d",
@@ -38,8 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a957c789a79476cf2914b14",
     "publishedAt": "2026-09-01T18:50:07.000Z",
-    "createdAt": "2026-09-02T03:53:47.262Z",
-    "updatedAt": "2026-09-02T03:53:47.262Z"
+    "createdAt": "2026-09-02T08:39:16.511Z",
+    "updatedAt": "2026-09-02T08:39:16.511Z"
   },
   {
     "id": "71004548af742106",
@@ -52,91 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a9716da9a79473f9a80ea6f",
     "publishedAt": "2026-09-01T18:22:42.000Z",
-    "createdAt": "2026-09-02T03:53:45.338Z",
-    "updatedAt": "2026-09-02T03:53:45.338Z"
-  },
-  {
-    "id": "dfaf3ba212c63d39",
-    "title": "Трусова рассказала о волнении перед возвращением на международные турниры",
-    "sport": "Другое",
-    "category": "Фигурное катание",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/5/81/347882835808815.jpeg",
-    "teaser": "Трусова рассказала о волнении перед возвращением на международные турниры",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a9704079a7947742afa1999",
-    "publishedAt": "2026-09-01T17:36:37.000Z",
-    "createdAt": "2026-09-02T03:53:48.214Z",
-    "updatedAt": "2026-09-02T03:53:48.214Z"
-  },
-  {
-    "id": "e7ca37e4a48e18ed",
-    "title": "19-летняя россиянка Корнеева проиграла дебютный матч на US Open",
-    "sport": "Теннис",
-    "category": "Теннис",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/0/67/347882834024670.jpeg",
-    "teaser": "19-летняя россиянка Корнеева проиграла дебютный матч на US Open",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a9709f09a7947587c5915d1",
-    "publishedAt": "2026-09-01T17:32:34.000Z",
-    "createdAt": "2026-09-02T03:53:49.681Z",
-    "updatedAt": "2026-09-02T03:53:49.681Z"
-  },
-  {
-    "id": "7648bc4aa5679864",
-    "title": "«Зенит» отдал бразильского полузащитника в аренду в азербайджанский клуб",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/4/72/347882830304724.jpeg",
-    "teaser": "«Зенит» отдал бразильского полузащитника в аренду в азербайджанский клуб",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a97086b9a7947f6b266b464",
-    "publishedAt": "2026-09-01T17:26:04.000Z",
-    "createdAt": "2026-09-02T03:53:50.734Z",
-    "updatedAt": "2026-09-02T03:53:50.734Z"
-  },
-  {
-    "id": "cb91f5627190d44e",
-    "title": "Лидер РПЛ одержал девятую победу подряд",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/8/70/347882822499708.jpeg",
-    "teaser": "Лидер РПЛ одержал девятую победу подряд",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a96f61b9a7947584719409b",
-    "publishedAt": "2026-09-01T17:23:54.000Z",
-    "createdAt": "2026-09-02T03:53:51.789Z",
-    "updatedAt": "2026-09-02T03:53:51.789Z"
-  },
-  {
-    "id": "7c49c054d0d39319",
-    "title": "«Манчестер Сити» согласовал трансфер лидера «Челси» за рекордные €145 млн",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/1/76/347882798975761.jpeg",
-    "teaser": "«Манчестер Сити» согласовал трансфер лидера «Челси» за рекордные €145 млн",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a96f7809a794758471940a2",
-    "publishedAt": "2026-09-01T16:35:24.000Z",
-    "createdAt": "2026-09-02T03:53:52.866Z",
-    "updatedAt": "2026-09-02T03:53:52.866Z"
-  },
-  {
-    "id": "35fd357130ba3d41",
-    "title": "«Локомотив» довел безвыигрышную серию до девяти матчей",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/7/70/347882772627707.jpeg",
-    "teaser": "«Локомотив» довел безвыигрышную серию до девяти матчей",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a96dda29a794718702fa689",
-    "publishedAt": "2026-09-01T15:39:51.000Z",
-    "createdAt": "2026-09-02T03:53:53.860Z",
-    "updatedAt": "2026-09-02T03:53:53.860Z"
+    "createdAt": "2026-09-02T08:39:14.238Z",
+    "updatedAt": "2026-09-02T08:39:14.238Z"
   }
 ]
