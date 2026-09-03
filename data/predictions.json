@@ -1,22 +1,134 @@
 [
   {
-    "id": 1788425247134,
-    "eventName": "ХК Норильск — Сокол",
-    "discipline": "Хоккей",
+    "id": 1788441977787,
+    "eventName": "Аль — Ахли Доха - Катар СК",
+    "discipline": "Футбол",
     "tournament": "Чемпионат",
     "expert": {
-      "name": "Амир Данилин",
+      "name": "Максим Тюшин",
       "avatar": "https://bookmaker-ratings.ru/static/images/badges/novice-letter.svg?v=30092024",
       "status": "expert",
-      "winRate": 87
+      "winRate": 74
     },
-    "prediction": "Победа 1",
-    "odds": 2.42,
-    "comment": "Ставлю на Норильск, Команда достойная, считаю у нее хорошие шансы",
+    "prediction": "Тотал (3) Б",
+    "odds": 1.8,
+    "comment": "Аль азли дома из 5 последних матчей пробивает 4 матча на 2.5 больше, команды между собой забивали в очных встречах минимум 3 гола",
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1788425247135,
+    "id": 1788441977788,
+    "eventName": "Ислочь — БАТЭ",
+    "discipline": "Футбол",
+    "tournament": "Чемпионат",
+    "expert": {
+      "name": "Сулейман Билалов",
+      "avatar": "https://bookmaker-ratings.ru/static/images/badges/novice-letter.svg?v=30092024",
+      "status": "expert",
+      "winRate": 79
+    },
+    "prediction": "Победа 1",
+    "odds": 1.6,
+    "comment": "Ислочь в этом сезоне борется за чемпионство и сегодня они обыграют домашнем матче",
+    "source": "Sports Analytics Pro"
+  },
+  {
+    "id": 1788441977790,
+    "eventName": "АГМК — Хорезм",
+    "discipline": "Футбол",
+    "tournament": "Чемпионат",
+    "expert": {
+      "name": "Сулейман Билалов",
+      "avatar": "https://bookmaker-ratings.ru/static/images/badges/novice-letter.svg?v=30092024",
+      "status": "expert",
+      "winRate": 79
+    },
+    "prediction": "Победа 1",
+    "odds": 1.52,
+    "comment": "Думаю хозяева поля обыграют в сегодняшнем матче своих соперников",
+    "source": "Sports Analytics Pro"
+  },
+  {
+    "id": 1788441977791,
+    "eventName": "Ислочь — БАТЭ",
+    "discipline": "Футбол",
+    "tournament": "Чемпионат",
+    "expert": {
+      "name": "Larocka Cepurnova",
+      "avatar": "https://s3-static-prod.storage.yandexcloud.net/2026/09/images-rb-webp-75a830173cb5-dde0b85a1ec5.webp",
+      "status": "expert",
+      "winRate": 76
+    },
+    "prediction": "Индивидуальный тотал 1 Меньше (2.5)",
+    "odds": 1.26,
+    "comment": "\"Ислочь\" в рамках чемпионата Беларуси одержала семь побед подряд и должна была легко забирать восьмую, но ужасная реализация многочисленных моментов и геройство вратаря соперников привели к нулевой ничье с \"Днепром\". Однако команда Дмитрия Комаровского осталась в чемпионской гонке, а в пяти последних матчах Высшей лиги на своём поле забила 13 голов и пропустила всего два.",
+    "source": "Sports Analytics Pro"
+  },
+  {
+    "id": 1788441977792,
+    "eventName": "Аль Фейха — Аль Холоод",
+    "discipline": "Футбол",
+    "tournament": "Чемпионат",
+    "expert": {
+      "name": "Andrey Agapov",
+      "avatar": "https://bookmaker-ratings.ru/static/images/badges/forecaster-letter.svg?v=30092024",
+      "status": "expert",
+      "winRate": 79
+    },
+    "prediction": "Индивидуальный тотал 2 Больше (1)",
+    "odds": 1.63,
+    "comment": "Аль холоод на старте забивает в каждом матче, надеюсь на кураже продолжат в этом матче",
+    "source": "Sports Analytics Pro"
+  },
+  {
+    "id": 1788441977793,
+    "eventName": "Аль Фейха — Аль Холоод",
+    "discipline": "Футбол",
+    "tournament": "Чемпионат",
+    "expert": {
+      "name": "Dmitry Gorbunov",
+      "avatar": "https://s3-static-prod.storage.yandexcloud.net/2026/09/8c282a68eb8f50d56311fb9e7da6b8ef-rb-webp-d2e4d2ce0549-0d6a36680358.webp",
+      "status": "expert",
+      "winRate": 77
+    },
+    "prediction": "Индивидуальный тотал 2 Больше (1)",
+    "odds": 1.6,
+    "comment": "Холуд на хорошем ходу, логично ожидать от них как минимум одного взятия ворот из оппонентов.",
+    "source": "Sports Analytics Pro"
+  },
+  {
+    "id": 1788441977794,
+    "eventName": "Ракув — Горник",
+    "discipline": "Футбол",
+    "tournament": "Чемпионат",
+    "expert": {
+      "name": "Andrey Agapov",
+      "avatar": "https://bookmaker-ratings.ru/static/images/badges/forecaster-letter.svg?v=30092024",
+      "status": "expert",
+      "winRate": 79
+    },
+    "prediction": "Индивидуальный тотал 2 Больше (1)",
+    "odds": 1.55,
+    "comment": "Горник Забже забивал таким командам как Монако, ференцварош, Фенербахче. А аутсайдеру тем более должен забивать",
+    "source": "Sports Analytics Pro"
+  },
+  {
+    "id": 1788441977795,
+    "eventName": "Алашкерт — Ван",
+    "discipline": "Футбол",
+    "tournament": "Чемпионат",
+    "expert": {
+      "name": "Сулейман Билалов",
+      "avatar": "https://bookmaker-ratings.ru/static/images/badges/novice-letter.svg?v=30092024",
+      "status": "expert",
+      "winRate": 79
+    },
+    "prediction": "Фора 1 (-1.5)",
+    "odds": 1.5,
+    "comment": "Алашкерт дома всегда показывает результативный футбол думаю они обыграют соперников с крупным счетом",
+    "source": "Sports Analytics Pro"
+  },
+  {
+    "id": 1788441977796,
     "eventName": "Динамо Москва — Ахмат",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -32,7 +144,7 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1788425247136,
+    "id": 1788441977797,
     "eventName": "Динамо Москва — Ахмат",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -44,118 +156,6 @@
     },
     "prediction": "Обе забьют (Да)",
     "odds": 1.73,
-    "comment": "Комментарий к прогнозу",
-    "source": "Sports Analytics Pro"
-  },
-  {
-    "id": 1788425247137,
-    "eventName": "Динамо Москва — Ахмат",
-    "discipline": "Футбол",
-    "tournament": "Чемпионат",
-    "expert": {
-      "name": "Алексей Вайцеховский",
-      "avatar": "https://bookmaker-ratings.ru/static/images/badges/novice-letter.svg?v=30092024",
-      "status": "expert",
-      "winRate": 70
-    },
-    "prediction": "1Х",
-    "odds": 1.22,
-    "comment": "Динамо набирает ход после невыразительного начала, но и Ахмат хорош и без боя не сдастся.",
-    "source": "Sports Analytics Pro"
-  },
-  {
-    "id": 1788425247138,
-    "eventName": "Динамо Москва — Ахмат",
-    "discipline": "Футбол",
-    "tournament": "Чемпионат",
-    "expert": {
-      "name": "Егор Шанс",
-      "avatar": "https://bookmaker-ratings.ru/static/images/badges/novice-letter.svg?v=30092024",
-      "status": "expert",
-      "winRate": 82
-    },
-    "prediction": "Ф2(+1)",
-    "odds": 1.57,
-    "comment": "ахмат выглядит хорошо, динамо не очень, от этого и отталкиваемся",
-    "source": "Sports Analytics Pro"
-  },
-  {
-    "id": 1788425247139,
-    "eventName": "Динамо Москва — Ахмат",
-    "discipline": "Футбол",
-    "tournament": "Чемпионат",
-    "expert": {
-      "name": "Денис Рогулев",
-      "avatar": "https://bookmaker-ratings.ru/static/images/badges/novice-letter.svg?v=30092024",
-      "status": "expert",
-      "winRate": 69
-    },
-    "prediction": "Тотал Динамо Москва больше (1.5)",
-    "odds": 1.79,
-    "comment": "Динамо Москва у себя дома умеют и обязаны забивать минимум свой",
-    "source": "Sports Analytics Pro"
-  },
-  {
-    "id": 1788425247140,
-    "eventName": "Копенгаген — Норшелланн",
-    "discipline": "Футбол",
-    "tournament": "Чемпионат",
-    "expert": {
-      "name": "Алексей Вайцеховский",
-      "avatar": "https://bookmaker-ratings.ru/static/images/badges/novice-letter.svg?v=30092024",
-      "status": "expert",
-      "winRate": 70
-    },
-    "prediction": "Ф1(0)",
-    "odds": 1.58,
-    "comment": "Копенгаген на ходу, хоть и напряжённый график, но они фавориты",
-    "source": "Sports Analytics Pro"
-  },
-  {
-    "id": 1788425247141,
-    "eventName": "Тулуза — Лилль",
-    "discipline": "Футбол",
-    "tournament": "Чемпионат",
-    "expert": {
-      "name": "Алексей Вайцеховский",
-      "avatar": "https://bookmaker-ratings.ru/static/images/badges/novice-letter.svg?v=30092024",
-      "status": "expert",
-      "winRate": 70
-    },
-    "prediction": "Ф2(0)",
-    "odds": 1.58,
-    "comment": "Лиль хорош и на ходу, да и статистика личных встречь совсем не в пользу гостей",
-    "source": "Sports Analytics Pro"
-  },
-  {
-    "id": 1788425247142,
-    "eventName": "Тулуза — Лилль",
-    "discipline": "Футбол",
-    "tournament": "Чемпионат",
-    "expert": {
-      "name": "Игорь Шепель",
-      "avatar": "https://bookmaker-ratings.ru/static/images/badges/novice-letter.svg?v=30092024",
-      "status": "expert",
-      "winRate": 87
-    },
-    "prediction": "Обе забьют - Да",
-    "odds": 1.8,
-    "comment": "Обе команды скорее всего забьют в этом матче. Это Франция",
-    "source": "Sports Analytics Pro"
-  },
-  {
-    "id": 1788425247143,
-    "eventName": "Матч",
-    "discipline": "Футбол",
-    "tournament": "Чемпионат",
-    "expert": {
-      "name": "Кубок России",
-      "avatar": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=100&h=100&fit=crop",
-      "status": "expert",
-      "winRate": 88
-    },
-    "prediction": "Тотал — 3-4 гола",
-    "odds": 2.26,
     "comment": "Комментарий к прогнозу",
     "source": "Sports Analytics Pro"
   }
