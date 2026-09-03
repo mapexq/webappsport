@@ -1,6 +1,6 @@
 [
   {
-    "id": 1788407534563,
+    "id": 1788425247134,
     "eventName": "ХК Норильск — Сокол",
     "discipline": "Хоккей",
     "tournament": "Чемпионат",
@@ -16,7 +16,7 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1788407534564,
+    "id": 1788425247135,
     "eventName": "Динамо Москва — Ахмат",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -32,7 +32,7 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1788407534565,
+    "id": 1788425247136,
     "eventName": "Динамо Москва — Ахмат",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -48,7 +48,7 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1788407534566,
+    "id": 1788425247137,
     "eventName": "Динамо Москва — Ахмат",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -64,7 +64,7 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1788407534567,
+    "id": 1788425247138,
     "eventName": "Динамо Москва — Ахмат",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -80,7 +80,23 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1788407534568,
+    "id": 1788425247139,
+    "eventName": "Динамо Москва — Ахмат",
+    "discipline": "Футбол",
+    "tournament": "Чемпионат",
+    "expert": {
+      "name": "Денис Рогулев",
+      "avatar": "https://bookmaker-ratings.ru/static/images/badges/novice-letter.svg?v=30092024",
+      "status": "expert",
+      "winRate": 69
+    },
+    "prediction": "Тотал Динамо Москва больше (1.5)",
+    "odds": 1.79,
+    "comment": "Динамо Москва у себя дома умеют и обязаны забивать минимум свой",
+    "source": "Sports Analytics Pro"
+  },
+  {
+    "id": 1788425247140,
     "eventName": "Копенгаген — Норшелланн",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -96,7 +112,7 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1788407534569,
+    "id": 1788425247141,
     "eventName": "Тулуза — Лилль",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -112,7 +128,7 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1788407534570,
+    "id": 1788425247142,
     "eventName": "Тулуза — Лилль",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -128,34 +144,18 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1788407534571,
-    "eventName": "Реал Сосьедад — Сельта",
-    "discipline": "Футбол",
-    "tournament": "Чемпионат",
-    "expert": {
-      "name": "Алексей Вайцеховский",
-      "avatar": "https://bookmaker-ratings.ru/static/images/badges/novice-letter.svg?v=30092024",
-      "status": "expert",
-      "winRate": 70
-    },
-    "prediction": "1Х",
-    "odds": 1.28,
-    "comment": "На данном отрезке времени Реал выглядит откровенно сильнее.",
-    "source": "Sports Analytics Pro"
-  },
-  {
-    "id": 1788407534572,
+    "id": 1788425247143,
     "eventName": "Матч",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
     "expert": {
-      "name": "Ла Лига",
+      "name": "Кубок России",
       "avatar": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=100&h=100&fit=crop",
       "status": "expert",
-      "winRate": 77
+      "winRate": 88
     },
-    "prediction": "ТБ (1) в первом тайме",
-    "odds": 1.73,
+    "prediction": "Тотал — 3-4 гола",
+    "odds": 2.26,
     "comment": "Комментарий к прогнозу",
     "source": "Sports Analytics Pro"
   }
