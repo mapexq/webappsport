@@ -1,38 +1,6 @@
 [
   {
-    "id": 1788390642580,
-    "eventName": "Барселона Гуаякиль — Индепендиенте дел Валле",
-    "discipline": "Футбол",
-    "tournament": "Чемпионат",
-    "expert": {
-      "name": "Andrey Agapov",
-      "avatar": "https://bookmaker-ratings.ru/static/images/badges/forecaster-letter.svg?v=30092024",
-      "status": "expert",
-      "winRate": 79
-    },
-    "prediction": "Индивидуальный тотал 2 Больше (1)",
-    "odds": 1.43,
-    "comment": "Индепендьенте дел Валле забивает очень много и практически в каждом матче",
-    "source": "Sports Analytics Pro"
-  },
-  {
-    "id": 1788390642581,
-    "eventName": "Барселона Гуаякиль — Индепендиенте дел Валле",
-    "discipline": "Футбол",
-    "tournament": "Чемпионат",
-    "expert": {
-      "name": "Andrey Agapov",
-      "avatar": "https://bookmaker-ratings.ru/static/images/badges/forecaster-letter.svg?v=30092024",
-      "status": "expert",
-      "winRate": 79
-    },
-    "prediction": "Тотал (2) Б",
-    "odds": 1.48,
-    "comment": "Есть подозрения, что в данном матче будет минимум 2-3 голов",
-    "source": "Sports Analytics Pro"
-  },
-  {
-    "id": 1788390642582,
+    "id": 1788407534563,
     "eventName": "ХК Норильск — Сокол",
     "discipline": "Хоккей",
     "tournament": "Чемпионат",
@@ -48,7 +16,7 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1788390642583,
+    "id": 1788407534564,
     "eventName": "Динамо Москва — Ахмат",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -64,7 +32,7 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1788390642584,
+    "id": 1788407534565,
     "eventName": "Динамо Москва — Ахмат",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -80,7 +48,7 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1788390642585,
+    "id": 1788407534566,
     "eventName": "Динамо Москва — Ахмат",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -96,7 +64,7 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1788390642586,
+    "id": 1788407534567,
     "eventName": "Динамо Москва — Ахмат",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -112,7 +80,7 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1788390642587,
+    "id": 1788407534568,
     "eventName": "Копенгаген — Норшелланн",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -128,7 +96,7 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1788390642588,
+    "id": 1788407534569,
     "eventName": "Тулуза — Лилль",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -144,7 +112,7 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1788390642589,
+    "id": 1788407534570,
     "eventName": "Тулуза — Лилль",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -157,6 +125,38 @@
     "prediction": "Обе забьют - Да",
     "odds": 1.8,
     "comment": "Обе команды скорее всего забьют в этом матче. Это Франция",
+    "source": "Sports Analytics Pro"
+  },
+  {
+    "id": 1788407534571,
+    "eventName": "Реал Сосьедад — Сельта",
+    "discipline": "Футбол",
+    "tournament": "Чемпионат",
+    "expert": {
+      "name": "Алексей Вайцеховский",
+      "avatar": "https://bookmaker-ratings.ru/static/images/badges/novice-letter.svg?v=30092024",
+      "status": "expert",
+      "winRate": 70
+    },
+    "prediction": "1Х",
+    "odds": 1.28,
+    "comment": "На данном отрезке времени Реал выглядит откровенно сильнее.",
+    "source": "Sports Analytics Pro"
+  },
+  {
+    "id": 1788407534572,
+    "eventName": "Матч",
+    "discipline": "Футбол",
+    "tournament": "Чемпионат",
+    "expert": {
+      "name": "Ла Лига",
+      "avatar": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=100&h=100&fit=crop",
+      "status": "expert",
+      "winRate": 77
+    },
+    "prediction": "ТБ (1) в первом тайме",
+    "odds": 1.73,
+    "comment": "Комментарий к прогнозу",
     "source": "Sports Analytics Pro"
   }
 ]
