@@ -1,22 +1,6 @@
 [
   {
-    "id": 1788511809539,
-    "eventName": "Чунгбук Чхонджу — Сеул Е-Ланд",
-    "discipline": "Футбол",
-    "tournament": "Чемпионат",
-    "expert": {
-      "name": "Александр Анохин",
-      "avatar": "https://bookmaker-ratings.ru/static/images/badges/novice-letter.svg?v=30092024",
-      "status": "expert",
-      "winRate": 77
-    },
-    "prediction": "Обе забьют - Да",
-    "odds": 1.65,
-    "comment": "Комментарий к прогнозу",
-    "source": "Sports Analytics Pro"
-  },
-  {
-    "id": 1788511809541,
+    "id": 1788528039382,
     "eventName": "Южный Урал — Горняк-УГМК",
     "discipline": "Хоккей",
     "tournament": "Чемпионат",
@@ -32,7 +16,7 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1788511809542,
+    "id": 1788528039384,
     "eventName": "Матч",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -48,7 +32,39 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1788511809543,
+    "id": 1788528039385,
+    "eventName": "Югра — ХК Рязань",
+    "discipline": "Хоккей",
+    "tournament": "Чемпионат",
+    "expert": {
+      "name": "Andrey Agapov",
+      "avatar": "https://bookmaker-ratings.ru/static/images/badges/forecaster-letter.svg?v=30092024",
+      "status": "expert",
+      "winRate": 79
+    },
+    "prediction": "Тотал (4) Б",
+    "odds": 1.53,
+    "comment": "В Новый сезон , с новыми силами . Югра дома играет с рязанью",
+    "source": "Sports Analytics Pro"
+  },
+  {
+    "id": 1788528039386,
+    "eventName": "Арминия — Санкт-Паули",
+    "discipline": "Футбол",
+    "tournament": "Чемпионат",
+    "expert": {
+      "name": "Dmitry Gorbunov",
+      "avatar": "https://s3-static-prod.storage.yandexcloud.net/2026/09/8c282a68eb8f50d56311fb9e7da6b8ef-rb-webp-d2e4d2ce0549-0d6a36680358.webp",
+      "status": "expert",
+      "winRate": 77
+    },
+    "prediction": "Тотал (4) Б (жёлтые карточки)",
+    "odds": 1.61,
+    "comment": "Судит Феликс Приган по Б2 в среднем 5жк раздает, обеим командам необходимы очки, без предупреждений не обойдется",
+    "source": "Sports Analytics Pro"
+  },
+  {
+    "id": 1788528039387,
     "eventName": "Истанбул Башакшехир — Галатасарай",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -64,7 +80,7 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1788511809544,
+    "id": 1788528039388,
     "eventName": "Олесунн — Старт",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -80,7 +96,7 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1788511809545,
+    "id": 1788528039389,
     "eventName": "Олесунн — Старт",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -96,7 +112,7 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1788511809546,
+    "id": 1788528039390,
     "eventName": "Лион — Осер",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -112,7 +128,23 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1788511809547,
+    "id": 1788528039391,
+    "eventName": "Лион — Осер",
+    "discipline": "Футбол",
+    "tournament": "Чемпионат",
+    "expert": {
+      "name": "Akhmad Akhokhov",
+      "avatar": "https://bookmaker-ratings.ru/static/images/badges/forecaster-letter.svg?v=30092024",
+      "status": "expert",
+      "winRate": 73
+    },
+    "prediction": "Тотал больше (2.5)",
+    "odds": 1.74,
+    "comment": "Комментарий к прогнозу",
+    "source": "Sports Analytics Pro"
+  },
+  {
+    "id": 1788528039392,
     "eventName": "Ипсвич Таун — Ливерпуль",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -125,38 +157,6 @@
     "prediction": "Тотал больше (2.5)",
     "odds": 1.52,
     "comment": "Весёлый матч открывает 3 тур АПЛ на Портман Роуд ожидаю множество голов, Ливерпуль забивает, но в обороне пока все очень плохо, Ипсвич забил по 2 в каждом туре, не смотря на поражение от МЮ в прошлом матче, в исходы не полезу , но верю в голы, 2.5бол",
-    "source": "Sports Analytics Pro"
-  },
-  {
-    "id": 1788511809548,
-    "eventName": "Матч",
-    "discipline": "Футбол",
-    "tournament": "Чемпионат",
-    "expert": {
-      "name": "Чунгбук Чхонджу",
-      "avatar": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=100&h=100&fit=crop",
-      "status": "expert",
-      "winRate": 76
-    },
-    "prediction": "Обе забьют - Да",
-    "odds": 1.65,
-    "comment": "Комментарий к прогнозу",
-    "source": "Sports Analytics Pro"
-  },
-  {
-    "id": 1788511809549,
-    "eventName": "Матч",
-    "discipline": "Футбол",
-    "tournament": "Чемпионат",
-    "expert": {
-      "name": "Южный Урал",
-      "avatar": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=100&h=100&fit=crop",
-      "status": "expert",
-      "winRate": 85
-    },
-    "prediction": "Тотал (0.5) Б",
-    "odds": 1.73,
-    "comment": "Комментарий к прогнозу",
     "source": "Sports Analytics Pro"
   }
 ]
