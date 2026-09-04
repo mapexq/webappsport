@@ -1,5 +1,89 @@
 [
   {
+    "id": "5a875bcc38b83322",
+    "title": "Соболенко победила сменившую гражданство россиянку на US Open",
+    "sport": "Теннис",
+    "category": "Теннис",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/2/29/347885409857292.jpeg",
+    "teaser": "Соболенко победила сменившую гражданство россиянку на US Open",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a9af8119a79477aa4b29b78",
+    "publishedAt": "2026-09-04T17:03:19.000Z",
+    "createdAt": "2026-09-04T17:29:48.756Z",
+    "updatedAt": "2026-09-04T17:29:48.756Z"
+  },
+  {
+    "id": "f15e9067a26825ad",
+    "title": "Третья ракетка России проиграла украинке в третьем круге US Open",
+    "sport": "Теннис",
+    "category": "Теннис",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/1/03/347885395260031.jpeg",
+    "teaser": "Третья ракетка России проиграла украинке в третьем круге US Open",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a9af26d9a7947e006e2c04b",
+    "publishedAt": "2026-09-04T16:41:32.000Z",
+    "createdAt": "2026-09-04T17:29:49.740Z",
+    "updatedAt": "2026-09-04T17:29:49.740Z"
+  },
+  {
+    "id": "181b6c9ed2cab6b5",
+    "title": "Российская фигуристка выиграла этап юниорского Гран-при ISU в Бангкоке",
+    "sport": "Другое",
+    "category": "Фигурное катание",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/4/76/347885356692764.jpeg",
+    "teaser": "Российская фигуристка выиграла этап юниорского Гран-при ISU в Бангкоке",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a9ae3079a79475758d646c1",
+    "publishedAt": "2026-09-04T16:14:17.000Z",
+    "createdAt": "2026-09-04T17:29:50.664Z",
+    "updatedAt": "2026-09-04T17:29:50.664Z"
+  },
+  {
+    "id": "fb47e3fcc819ed9b",
+    "title": "Стартует четвертый сезон FONBET OVERTIME",
+    "sport": "Хоккей",
+    "category": "Хоккей",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/0/46/347885359452460.png",
+    "teaser": "Стартует четвертый сезон FONBET OVERTIME",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a9ae44d9a7947b7345331ec",
+    "publishedAt": "2026-09-04T15:48:53.000Z",
+    "createdAt": "2026-09-04T17:29:54.798Z",
+    "updatedAt": "2026-09-04T17:29:54.798Z"
+  },
+  {
+    "id": "e5a7c8f5bd95ae4a",
+    "title": "Евгения Медведева рассказала о съемках в фильме про",
+    "sport": "Другое",
+    "category": "Фигурное катание",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/8/40/347885318057408.jpeg",
+    "teaser": "Евгения Медведева рассказала о съемках в фильме про",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a9ad4379a7947702e143157",
+    "publishedAt": "2026-09-04T14:43:06.000Z",
+    "createdAt": "2026-09-04T17:29:51.697Z",
+    "updatedAt": "2026-09-04T17:29:51.697Z"
+  },
+  {
+    "id": "b4ec34e195dde8ba",
+    "title": "Слуцкому и Дзагоеву подарили по квартире в Душанбе",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/8/39/347885277006398.jpeg",
+    "teaser": "Слуцкому и Дзагоеву подарили по квартире в Душанбе",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a9ac3fa9a7947810a884b9f",
+    "publishedAt": "2026-09-04T13:29:26.000Z",
+    "createdAt": "2026-09-04T17:29:52.732Z",
+    "updatedAt": "2026-09-04T17:29:52.732Z"
+  },
+  {
     "id": "b5f481dbd65d3708",
     "title": "«Не сходите с ума». Фигуристка Трусова вернулась на международную арену",
     "sport": "Другое",
@@ -10,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a9a952d9a7947a8d22f4b0d",
     "publishedAt": "2026-09-04T13:09:01.000Z",
-    "createdAt": "2026-09-04T13:20:45.882Z",
-    "updatedAt": "2026-09-04T13:20:45.882Z"
+    "createdAt": "2026-09-04T17:29:53.766Z",
+    "updatedAt": "2026-09-04T17:29:53.766Z"
   },
   {
     "id": "2630a6009b5758e2",
@@ -24,8 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a9ab6809a794767e54da6a7",
     "publishedAt": "2026-09-04T12:45:46.000Z",
-    "createdAt": "2026-09-04T13:20:48.140Z",
-    "updatedAt": "2026-09-04T13:20:48.140Z"
+    "createdAt": "2026-09-04T17:29:56.870Z",
+    "updatedAt": "2026-09-04T17:29:56.870Z"
   },
   {
     "id": "e240fd4168a6b620",
@@ -38,8 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a9aafe09a7947c74815b807",
     "publishedAt": "2026-09-04T12:01:48.000Z",
-    "createdAt": "2026-09-04T13:20:46.940Z",
-    "updatedAt": "2026-09-04T13:20:46.940Z"
+    "createdAt": "2026-09-04T17:29:55.837Z",
+    "updatedAt": "2026-09-04T17:29:55.837Z"
   },
   {
     "id": "c49ea61c2c6c9b4b",
@@ -52,91 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a9aaa109a794731104906d6",
     "publishedAt": "2026-09-04T11:50:14.000Z",
-    "createdAt": "2026-09-04T13:20:49.195Z",
-    "updatedAt": "2026-09-04T13:20:49.195Z"
-  },
-  {
-    "id": "9ca9ce5cc581eb63",
-    "title": "Организаторы турнира ISU ответили на вопрос о флаге России на трибунах",
-    "sport": "Другое",
-    "category": "Фигурное катание",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/8/38/347885205734388.jpeg",
-    "teaser": "Организаторы турнира ISU ответили на вопрос о флаге России на трибунах",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a9aa8409a794713309e8e71",
-    "publishedAt": "2026-09-04T11:34:56.000Z",
-    "createdAt": "2026-09-04T13:20:50.242Z",
-    "updatedAt": "2026-09-04T13:20:50.242Z"
-  },
-  {
-    "id": "4e9f72d875254f2d",
-    "title": "Защитника «Зенита» Дивеева дисквалифицировали перед матчем с ЦСКА",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/5/89/347885182798895.jpeg",
-    "teaser": "Защитника «Зенита» Дивеева дисквалифицировали перед матчем с ЦСКА",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a9a9f5e9a79478e9aee6f3d",
-    "publishedAt": "2026-09-04T10:57:16.000Z",
-    "createdAt": "2026-09-04T13:20:51.301Z",
-    "updatedAt": "2026-09-04T13:20:51.301Z"
-  },
-  {
-    "id": "3ca24a26ba87eaef",
-    "title": "Трусова стала 4-й в короткой программе на первом за 4 года турнире ISU",
-    "sport": "Другое",
-    "category": "Фигурное катание",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/9/01/347885158691019.jpeg",
-    "teaser": "Трусова стала 4-й в короткой программе на первом за 4 года турнире ISU",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a9a95949a7947c6dae646f2",
-    "publishedAt": "2026-09-04T10:32:28.000Z",
-    "createdAt": "2026-09-04T13:20:52.349Z",
-    "updatedAt": "2026-09-04T13:20:52.349Z"
-  },
-  {
-    "id": "2e3b8e1c1791de8f",
-    "title": "Трусова заявила, что перед короткой программой в Токио не могла есть",
-    "sport": "Другое",
-    "category": "Фигурное катание",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/3/35/347885164279353.jpeg",
-    "teaser": "Трусова заявила, что перед короткой программой в Токио не могла есть",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a9a98159a79472fb0e53e5e",
-    "publishedAt": "2026-09-04T10:18:04.000Z",
-    "createdAt": "2026-09-04T13:20:53.448Z",
-    "updatedAt": "2026-09-04T13:20:53.448Z"
-  },
-  {
-    "id": "915e0d526e1850ea",
-    "title": "Трусова впервые за четыре года выступила на международном турнире",
-    "sport": "Другое",
-    "category": "Фигурное катание",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/9/40/347885131165409.jpeg",
-    "teaser": "Трусова впервые за четыре года выступила на международном турнире",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a9a8b189a7947153e4b9055",
-    "publishedAt": "2026-09-04T09:36:07.000Z",
-    "createdAt": "2026-09-04T13:20:54.521Z",
-    "updatedAt": "2026-09-04T13:20:54.521Z"
-  },
-  {
-    "id": "4e732ea6c8939e28",
-    "title": "Стал известен расширенный состав сборной России на матч с Ираном",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/8/26/347885125083268.jpeg",
-    "teaser": "Стал известен расширенный состав сборной России на матч с Ираном",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a9a88cf9a79479078aa46be",
-    "publishedAt": "2026-09-04T09:12:04.000Z",
-    "createdAt": "2026-09-04T13:20:55.564Z",
-    "updatedAt": "2026-09-04T13:20:55.564Z"
+    "createdAt": "2026-09-04T17:29:57.837Z",
+    "updatedAt": "2026-09-04T17:29:57.837Z"
   }
 ]
