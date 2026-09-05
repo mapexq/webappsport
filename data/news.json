@@ -1,5 +1,89 @@
 [
   {
+    "id": "285e2c42bbcc550d",
+    "title": "Путин и Собянин открыли перестроенный стадион «Торпедо»",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/6/34/347841191298346.svg",
+    "teaser": "Путин и Собянин открыли перестроенный стадион «Торпедо»",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a99468b9a794713b2032832",
+    "publishedAt": "2026-09-05T12:32:17.000Z",
+    "createdAt": "2026-09-05T13:47:39.108Z",
+    "updatedAt": "2026-09-05T13:47:39.108Z"
+  },
+  {
+    "id": "c8e9c68a7fa2291d",
+    "title": "Чемпион КХЛ «Локомотив» выиграл первый матч нового сезона",
+    "sport": "Хоккей",
+    "category": "Хоккей",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/9/24/347886098131249.jpeg",
+    "teaser": "Чемпион КХЛ «Локомотив» выиграл первый матч нового сезона",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a8cb4339a7947d49baa8adc",
+    "publishedAt": "2026-09-05T12:25:22.000Z",
+    "createdAt": "2026-09-05T13:47:37.348Z",
+    "updatedAt": "2026-09-05T13:47:37.348Z"
+  },
+  {
+    "id": "e6848917138d025f",
+    "title": "Фигурист Дикиджи выиграл первый турнир ISU после допуска россиян",
+    "sport": "Другое",
+    "category": "Фигурное катание",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/0/95/347886077189950.jpeg",
+    "teaser": "Фигурист Дикиджи выиграл первый турнир ISU после допуска россиян",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a8df2b79a7947ab16860c9c",
+    "publishedAt": "2026-09-05T11:36:40.000Z",
+    "createdAt": "2026-09-05T13:47:40.090Z",
+    "updatedAt": "2026-09-05T13:47:40.090Z"
+  },
+  {
+    "id": "e557c5ff49c2a85c",
+    "title": "Пенальти в пользу «Зенита» в концовке матча с «Факелом» признали верным",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/1/60/347886075814601.jpeg",
+    "teaser": "Пенальти в пользу «Зенита» в концовке матча с «Факелом» признали верным",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a8d47109a79472b31400262",
+    "publishedAt": "2026-09-05T11:25:15.000Z",
+    "createdAt": "2026-09-05T13:47:41.079Z",
+    "updatedAt": "2026-09-05T13:47:41.079Z"
+  },
+  {
+    "id": "60bbf2961c3b9304",
+    "title": "Первую шайбу нового сезона КХЛ забросил 18-летний форвард «Локомотива»",
+    "sport": "Хоккей",
+    "category": "Хоккей",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/9/64/347886035731649.jpeg",
+    "teaser": "Первую шайбу нового сезона КХЛ забросил 18-летний форвард «Локомотива»",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a8f1d009a7947262c0ee67d",
+    "publishedAt": "2026-09-05T10:24:27.000Z",
+    "createdAt": "2026-09-05T13:47:42.069Z",
+    "updatedAt": "2026-09-05T13:47:42.069Z"
+  },
+  {
+    "id": "4b374ef63f02634b",
+    "title": "Гуменник сделал пять четверных прыжков в произвольной программе в Токио",
+    "sport": "Другое",
+    "category": "Фигурное катание",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/1/80/347886027213801.jpeg",
+    "teaser": "Гуменник сделал пять четверных прыжков в произвольной программе в Токио",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a8ff1419a794739a8310ed5",
+    "publishedAt": "2026-09-05T10:09:25.000Z",
+    "createdAt": "2026-09-05T13:47:43.060Z",
+    "updatedAt": "2026-09-05T13:47:43.060Z"
+  },
+  {
     "id": "b5735e0e7891b3e6",
     "title": "Начало матча Первой лиги в Сочи перенесли на два часа",
     "sport": "Футбол",
@@ -10,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a9737b09a794747c8714f1a",
     "publishedAt": "2026-09-05T09:48:07.000Z",
-    "createdAt": "2026-09-05T10:20:20.107Z",
-    "updatedAt": "2026-09-05T10:20:20.107Z"
+    "createdAt": "2026-09-05T13:47:44.036Z",
+    "updatedAt": "2026-09-05T13:47:44.036Z"
   },
   {
     "id": "13a703804195e3c2",
@@ -24,8 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a9472249a7947f32011511a",
     "publishedAt": "2026-09-05T09:11:37.000Z",
-    "createdAt": "2026-09-05T10:20:21.143Z",
-    "updatedAt": "2026-09-05T10:20:21.143Z"
+    "createdAt": "2026-09-05T13:47:45.026Z",
+    "updatedAt": "2026-09-05T13:47:45.026Z"
   },
   {
     "id": "46a4ef151a3ad16e",
@@ -38,8 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a95e37c9a7947ea9e2fb1a2",
     "publishedAt": "2026-09-05T08:27:14.000Z",
-    "createdAt": "2026-09-05T10:20:22.166Z",
-    "updatedAt": "2026-09-05T10:20:22.166Z"
+    "createdAt": "2026-09-05T13:47:45.908Z",
+    "updatedAt": "2026-09-05T13:47:45.908Z"
   },
   {
     "id": "a5482ccdaee5bb02",
@@ -52,91 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a99c1e29a794779507bee58",
     "publishedAt": "2026-09-05T08:12:41.000Z",
-    "createdAt": "2026-09-05T10:20:23.254Z",
-    "updatedAt": "2026-09-05T10:20:23.254Z"
-  },
-  {
-    "id": "96b02accc0b1b79a",
-    "title": "Сестры Уильямс проиграли на старте US Open в парном разряде",
-    "sport": "Теннис",
-    "category": "Теннис",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/5/18/347885940346185.jpeg",
-    "teaser": "Сестры Уильямс проиграли на старте US Open в парном разряде",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a9bc6ae9a79475ca2e015c9",
-    "publishedAt": "2026-09-05T07:47:46.000Z",
-    "createdAt": "2026-09-05T10:20:25.387Z",
-    "updatedAt": "2026-09-05T10:20:25.387Z"
-  },
-  {
-    "id": "bfed703fa0cf5e03",
-    "title": "Умер один из основателей карате в СССР и звезда фильма «Пираты XX века»",
-    "sport": "Другое",
-    "category": "Другие",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/9/40/347885928236409.jpeg",
-    "teaser": "Умер один из основателей карате в СССР и звезда фильма «Пираты XX века»",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a9bc23b9a794765d4a10fca",
-    "publishedAt": "2026-09-05T07:34:48.000Z",
-    "createdAt": "2026-09-05T10:20:24.271Z",
-    "updatedAt": "2026-09-05T10:20:24.271Z"
-  },
-  {
-    "id": "bd36a4f6e01e9864",
-    "title": "ТАСС узнал о лишении Камилы Валиевой нейтрального статуса",
-    "sport": "Другое",
-    "category": "Фигурное катание",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/3/43/347885919452433.jpeg",
-    "teaser": "ТАСС узнал о лишении Камилы Валиевой нейтрального статуса",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a9bbf099a794714abdcf889",
-    "publishedAt": "2026-09-05T07:13:13.000Z",
-    "createdAt": "2026-09-05T10:20:26.422Z",
-    "updatedAt": "2026-09-05T10:20:26.422Z"
-  },
-  {
-    "id": "8f95d331f9bce65b",
-    "title": "Наследие Халка Хогана. Россия примет первый крупный турнир с 2022 года",
-    "sport": "Единоборства",
-    "category": "Единоборства",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/0/91/347885296726910.jpeg",
-    "teaser": "Наследие Халка Хогана. Россия примет первый крупный турнир с 2022 года",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a9a96e19a794770661c214b",
-    "publishedAt": "2026-09-05T05:30:43.000Z",
-    "createdAt": "2026-09-05T10:20:27.484Z",
-    "updatedAt": "2026-09-05T10:20:27.484Z"
-  },
-  {
-    "id": "03f052ad401a983e",
-    "title": "ПСЖ с Сафоновым в воротах проиграл «Монако» Головина в чемпионате Франции",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/1/52/347885553974521.jpeg",
-    "teaser": "ПСЖ с Сафоновым в воротах проиграл «Монако» Головина в чемпионате Франции",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a9b30539a794731e9691d0f",
-    "publishedAt": "2026-09-04T21:01:24.000Z",
-    "createdAt": "2026-09-05T10:20:28.539Z",
-    "updatedAt": "2026-09-05T10:20:28.539Z"
-  },
-  {
-    "id": "4986f7aabe824499",
-    "title": "Даниил Медведев после US Open станет самым возрастным игроком в топ-10",
-    "sport": "Теннис",
-    "category": "Теннис",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/9/03/347885472530039.jpeg",
-    "teaser": "Даниил Медведев после US Open станет самым возрастным игроком в топ-10",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a9b10409a79473dd20f68f2",
-    "publishedAt": "2026-09-04T18:59:46.000Z",
-    "createdAt": "2026-09-05T10:20:29.611Z",
-    "updatedAt": "2026-09-05T10:20:29.611Z"
+    "createdAt": "2026-09-05T13:47:46.900Z",
+    "updatedAt": "2026-09-05T13:47:46.900Z"
   }
 ]
