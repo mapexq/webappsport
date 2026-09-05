@@ -1,5 +1,61 @@
 [
   {
+    "id": "8434abbb71a0b78a",
+    "title": "Мирра Андреева впервые в карьере вышла в 1/8 финала US Open",
+    "sport": "Теннис",
+    "category": "Теннис",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/5/78/347886304612785.jpeg",
+    "teaser": "Мирра Андреева впервые в карьере вышла в 1/8 финала US Open",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a8d66dd9a79473816a39237",
+    "publishedAt": "2026-09-05T18:41:56.000Z",
+    "createdAt": "2026-09-05T18:54:44.141Z",
+    "updatedAt": "2026-09-05T18:54:44.141Z"
+  },
+  {
+    "id": "e871ee0de75c4ff7",
+    "title": "«Ростов» обыграл аутсайдера РПЛ, забив три гола за восемь минут",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/6/65/347886299986656.jpeg",
+    "teaser": "«Ростов» обыграл аутсайдера РПЛ, забив три гола за восемь минут",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a9bdd419a79470afc0b0f1c",
+    "publishedAt": "2026-09-05T17:57:28.000Z",
+    "createdAt": "2026-09-05T18:54:45.079Z",
+    "updatedAt": "2026-09-05T18:54:45.079Z"
+  },
+  {
+    "id": "ec96b47c8e250a7f",
+    "title": "Бразильский легионер «Краснодара» перешел в греческий клуб",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/6/03/347886286457036.jpeg",
+    "teaser": "Бразильский легионер «Краснодара» перешел в греческий клуб",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a9bdca99a794752a5e006c8",
+    "publishedAt": "2026-09-05T17:21:12.000Z",
+    "createdAt": "2026-09-05T18:54:46.055Z",
+    "updatedAt": "2026-09-05T18:54:46.055Z"
+  },
+  {
+    "id": "9f2aa79b4ce05431",
+    "title": "Сменившая гражданство россиянка показала лучший результат на US Open",
+    "sport": "Теннис",
+    "category": "Теннис",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/5/42/347886261699425.jpeg",
+    "teaser": "Сменившая гражданство россиянка показала лучший результат на US Open",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a8585f19a794758bf6f94a6",
+    "publishedAt": "2026-09-05T16:50:47.000Z",
+    "createdAt": "2026-09-05T18:54:47.033Z",
+    "updatedAt": "2026-09-05T18:54:47.033Z"
+  },
+  {
     "id": "52d3eefe45b19401",
     "title": "«Спартак» проиграл на старте нового сезона КХЛ",
     "sport": "Хоккей",
@@ -10,8 +66,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a7f4edb9a794752821d556b",
     "publishedAt": "2026-09-05T16:14:18.000Z",
-    "createdAt": "2026-09-05T16:40:51.155Z",
-    "updatedAt": "2026-09-05T16:40:51.155Z"
+    "createdAt": "2026-09-05T18:54:48.080Z",
+    "updatedAt": "2026-09-05T18:54:48.080Z"
   },
   {
     "id": "f429a5ced8c26eda",
@@ -24,8 +80,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a8478ab9a794770afd5cd5b",
     "publishedAt": "2026-09-05T15:37:42.000Z",
-    "createdAt": "2026-09-05T16:40:52.183Z",
-    "updatedAt": "2026-09-05T16:40:52.183Z"
+    "createdAt": "2026-09-05T18:54:49.120Z",
+    "updatedAt": "2026-09-05T18:54:49.120Z"
   },
   {
     "id": "22c0e8a857bf04d7",
@@ -38,22 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a835db79a794700a5e0807d",
     "publishedAt": "2026-09-05T15:11:12.000Z",
-    "createdAt": "2026-09-05T16:40:53.186Z",
-    "updatedAt": "2026-09-05T16:40:53.186Z"
-  },
-  {
-    "id": "830dcb583e33e47d",
-    "title": "В Москве прошел благотворительный матч фонда Хабенского и FONBET",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/2/46/347886144150462.jpeg",
-    "teaser": "В Москве прошел благотворительный матч фонда Хабенского и FONBET",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a9c08c59a794700166c8357",
-    "publishedAt": "2026-09-05T14:53:50.000Z",
-    "createdAt": "2026-09-05T16:40:57.098Z",
-    "updatedAt": "2026-09-05T16:40:57.098Z"
+    "createdAt": "2026-09-05T18:54:50.169Z",
+    "updatedAt": "2026-09-05T18:54:50.169Z"
   },
   {
     "id": "e3753047776497a5",
@@ -66,8 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a9bdcb39a7947d4d27dc740",
     "publishedAt": "2026-09-05T13:52:38.000Z",
-    "createdAt": "2026-09-05T16:40:54.136Z",
-    "updatedAt": "2026-09-05T16:40:54.136Z"
+    "createdAt": "2026-09-05T18:54:51.328Z",
+    "updatedAt": "2026-09-05T18:54:51.328Z"
   },
   {
     "id": "7dfbaeb36b0c8345",
@@ -80,8 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a858ade9a7947adf5094285",
     "publishedAt": "2026-09-05T13:36:14.000Z",
-    "createdAt": "2026-09-05T16:40:56.088Z",
-    "updatedAt": "2026-09-05T16:40:56.088Z"
+    "createdAt": "2026-09-05T18:54:53.490Z",
+    "updatedAt": "2026-09-05T18:54:53.490Z"
   },
   {
     "id": "68f239715b8e7ab7",
@@ -94,49 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a85b76c9a79472977534276",
     "publishedAt": "2026-09-05T13:00:14.000Z",
-    "createdAt": "2026-09-05T16:40:55.080Z",
-    "updatedAt": "2026-09-05T16:40:55.080Z"
-  },
-  {
-    "id": "c7ca48c82e48ded4",
-    "title": "Путин и Собянин открыли новый стадион «Торпедо»",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/1/06/347886183848061.png",
-    "teaser": "Путин и Собянин открыли новый стадион «Торпедо»",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a99468b9a794713b2032832",
-    "publishedAt": "2026-09-05T12:32:17.000Z",
-    "createdAt": "2026-09-05T16:40:59.954Z",
-    "updatedAt": "2026-09-05T16:40:59.954Z"
-  },
-  {
-    "id": "c8e9c68a7fa2291d",
-    "title": "Чемпион КХЛ «Локомотив» выиграл первый матч нового сезона",
-    "sport": "Хоккей",
-    "category": "Хоккей",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/9/24/347886098131249.jpeg",
-    "teaser": "Чемпион КХЛ «Локомотив» выиграл первый матч нового сезона",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a8cb4339a7947d49baa8adc",
-    "publishedAt": "2026-09-05T12:25:22.000Z",
-    "createdAt": "2026-09-05T16:40:58.113Z",
-    "updatedAt": "2026-09-05T16:40:58.113Z"
-  },
-  {
-    "id": "e6848917138d025f",
-    "title": "Фигурист Дикиджи выиграл первый турнир ISU после допуска россиян",
-    "sport": "Другое",
-    "category": "Фигурное катание",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/0/95/347886077189950.jpeg",
-    "teaser": "Фигурист Дикиджи выиграл первый турнир ISU после допуска россиян",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a8df2b79a7947ab16860c9c",
-    "publishedAt": "2026-09-05T11:36:40.000Z",
-    "createdAt": "2026-09-05T16:41:00.976Z",
-    "updatedAt": "2026-09-05T16:41:00.976Z"
+    "createdAt": "2026-09-05T18:54:52.435Z",
+    "updatedAt": "2026-09-05T18:54:52.435Z"
   }
 ]
