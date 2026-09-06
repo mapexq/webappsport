@@ -1,103 +1,39 @@
 [
   {
-    "id": 1788710702013,
-    "eventName": "Болонья — Сассуоло",
+    "id": 1788721076874,
+    "eventName": "Ювентус — Милан",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
     "expert": {
-      "name": "Никита Инсайдов",
+      "name": "Step Stepanov",
       "avatar": "https://bookmaker-ratings.ru/static/images/badges/novice-letter.svg?v=30092024",
       "status": "expert",
-      "winRate": 80
+      "winRate": 78
     },
-    "prediction": "Тотал (2.5) Б",
-    "odds": 2.04,
-    "comment": "Болоньи навезло два тура подряд. Вездне наиграли на два гола и нигде не забили незаслуженно проиграв. В этом матче думаю наконец будет пробит тоттал, так-как соперник и ситуации располагают.",
+    "prediction": "Тотал меньше (2.5)",
+    "odds": 1.73,
+    "comment": "Очередной топовый матч в Италии на неделе, вчера Интер выиграл 3:2 у Наполи, сегодня черед Милана доказывать свой статус. Почему тотал меньше 2.5? Ну потому что обычно в таких матчах не забивается более 2 голов. Бывает проскакивает тотал как это было в матче с Интером, но Интер атакующая команда и Наполи, а Милан с моей точки более спокойная команда, и Ювентус в похожей манере действует. В общем мой прогноз на этот матч ТМ 2.5",
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1788710702015,
-    "eventName": "Болонья — Сассуоло",
+    "id": 1788721076875,
+    "eventName": "Олимпик Марсель — Париж",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
     "expert": {
-      "name": "Алексей Веселовский",
-      "avatar": "https://bookmaker-ratings.ru/static/images/badges/novice-letter.svg?v=30092024",
+      "name": "Олимпик Марсель",
+      "avatar": "https://bookmaker-ratings.ru/static/images/badges/forecaster-letter.svg?v=30092024",
       "status": "expert",
-      "winRate": 75
+      "winRate": 87
     },
-    "prediction": "Тотал Болонья больше (0.5)",
-    "odds": 1.69,
-    "comment": "Хозяева забьют , возможно даже выиграют, играем на верняка",
+    "prediction": "Тотал Париж больше (1.5)",
+    "odds": 2.81,
+    "comment": "Думаю Париж в этом матче смогут забить 2 гола и порадовать болельщиков",
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1788710702016,
-    "eventName": "Алавес — Осасуна",
-    "discipline": "Футбол",
-    "tournament": "Чемпионат",
-    "expert": {
-      "name": "Алексей Веселовский",
-      "avatar": "https://bookmaker-ratings.ru/static/images/badges/novice-letter.svg?v=30092024",
-      "status": "expert",
-      "winRate": 75
-    },
-    "prediction": "1Х",
-    "odds": 1.34,
-    "comment": "Несмотря на то что по личным встречам значительный перевес на стороне гостей, мне кажется в данный отрезок времени Алавес смотрится предпочтительнее",
-    "source": "Sports Analytics Pro"
-  },
-  {
-    "id": 1788710702017,
-    "eventName": "Трабзонспор — Генчлербирлиги",
-    "discipline": "Футбол",
-    "tournament": "Чемпионат",
-    "expert": {
-      "name": "Сулейман Билалов",
-      "avatar": "https://bookmaker-ratings.ru/static/images/badges/novice-letter.svg?v=30092024",
-      "status": "expert",
-      "winRate": 79
-    },
-    "prediction": "Победа 1",
-    "odds": 1.55,
-    "comment": "Трабзон дома показывает зрелищную игру и в сегодняшнем матче они обыграют своих соперников",
-    "source": "Sports Analytics Pro"
-  },
-  {
-    "id": 1788710702018,
-    "eventName": "Трабзонспор — Генчлербирлиги",
-    "discipline": "Футбол",
-    "tournament": "Чемпионат",
-    "expert": {
-      "name": "Алексей Веселовский",
-      "avatar": "https://bookmaker-ratings.ru/static/images/badges/novice-letter.svg?v=30092024",
-      "status": "expert",
-      "winRate": 75
-    },
-    "prediction": "Ф2(+2)",
-    "odds": 1.38,
-    "comment": "Здесь также выбираем верняковую ставку, Трабзонспору сейчас тяжело дается игра на 2 фронта",
-    "source": "Sports Analytics Pro"
-  },
-  {
-    "id": 1788710702019,
-    "eventName": "Балтика — Локомотив Москва",
-    "discipline": "Футбол",
-    "tournament": "Чемпионат",
-    "expert": {
-      "name": "Алим Калибатов",
-      "avatar": "https://static-uploads.prod.bookmaker-ratings.ru/2026/04/3dcfa3e614753a9566b9342464293-rb-webp-69d34c667554e-69d34c667cd17.webp?width=60",
-      "status": "expert",
-      "winRate": 73
-    },
-    "prediction": "Победа 1",
-    "odds": 2.07,
-    "comment": "\"Балтика\" принимает бедовый \"Локомотив\", и при всей моей симпатии к железнодорожникам, вынужден констатировать, что и сегодня, к сожалению они уедут с поражением. Да, усилились Мостовым, но не факт, что он физически готов и сразу выйдет в старте. А кубковая игра с \"Акроном\" оставила еще больше вопросов по состоянию команды. То ли дело калининградцы, да, на скамейке не будет дисквалифицированного Талалаева, но команда свое дело знает. И думаю, что \"Балтика\" выиграет за 2.07.",
-    "source": "Sports Analytics Pro"
-  },
-  {
-    "id": 1788710702020,
-    "eventName": "Балтика — Локомотив Москва",
+    "id": 1788721076876,
+    "eventName": "Ювентус — Милан",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
     "expert": {
@@ -106,56 +42,120 @@
       "status": "expert",
       "winRate": 89
     },
+    "prediction": "Тотал меньше (2.5)",
+    "odds": 1.73,
+    "comment": "Последние встречи между ними очень сухие,\nТут будет также",
+    "source": "Sports Analytics Pro"
+  },
+  {
+    "id": 1788721076877,
+    "eventName": "Ювентус — Милан",
+    "discipline": "Футбол",
+    "tournament": "Чемпионат",
+    "expert": {
+      "name": "Александр Чистов",
+      "avatar": "https://static-uploads.prod.bookmaker-ratings.ru/2026/09/1f226c6f-c85f-43be-aafc-00c350f1adce-rb-webp-6a9d9703d8344-6a9d9703e3249.webp?width=60",
+      "status": "expert",
+      "winRate": 86
+    },
     "prediction": "Обе забьют (Да)",
-    "odds": 1.83,
-    "comment": "Сложная игра для прогноза, Локо в плохом состоянии\nБалтика без Талалаева на скамейке\nБуду надеется на голы",
+    "odds": 1.88,
+    "comment": "Классика , одни поведут другие ответят и будут потом катать вату )",
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1788710702021,
+    "id": 1788721076878,
+    "eventName": "Олимпик Марсель — Париж",
+    "discipline": "Футбол",
+    "tournament": "Чемпионат",
+    "expert": {
+      "name": "Александр Чистов",
+      "avatar": "https://static-uploads.prod.bookmaker-ratings.ru/2026/09/1f226c6f-c85f-43be-aafc-00c350f1adce-rb-webp-6a9d9703d8344-6a9d9703e3249.webp?width=60",
+      "status": "expert",
+      "winRate": 86
+    },
+    "prediction": "Тотал Олимпик Марсель больше (1.5)",
+    "odds": 1.85,
+    "comment": "Марселька дома думаю легко пробьет этот тотал без проблем",
+    "source": "Sports Analytics Pro"
+  },
+  {
+    "id": 1788721076879,
+    "eventName": "Ювентус — Милан",
+    "discipline": "Футбол",
+    "tournament": "Чемпионат",
+    "expert": {
+      "name": "Ку Кин",
+      "avatar": "https://static-uploads.prod.bookmaker-ratings.ru/2026/08/32172D9B-33C7-44C9-B0BB-281434E4042F-rb-webp-6a801d9384f1f-6a801d93887c9.webp?width=60",
+      "status": "expert",
+      "winRate": 86
+    },
+    "prediction": "Тотал меньше (2.5)",
+    "odds": 1.73,
+    "comment": "Низовой матч с маленьким количеством моментов.я думаю 0/0 или 1-1",
+    "source": "Sports Analytics Pro"
+  },
+  {
+    "id": 1788721076880,
+    "eventName": "Ювентус — Милан",
+    "discipline": "Футбол",
+    "tournament": "Чемпионат",
+    "expert": {
+      "name": "Сергей Гориславец",
+      "avatar": "https://static-uploads.prod.bookmaker-ratings.ru/2025/06/A55E5521-F251-409B-9872-CFCC8E629075-684340c122a2a.jpg?width=60",
+      "status": "expert",
+      "winRate": 69
+    },
+    "prediction": "Тотал больше (2)",
+    "odds": 1.57,
+    "comment": "Сегодня ожидаю увидеть результативный матч от обеих команд",
+    "source": "Sports Analytics Pro"
+  },
+  {
+    "id": 1788721076881,
+    "eventName": "Ювентус — Милан",
+    "discipline": "Футбол",
+    "tournament": "Чемпионат",
+    "expert": {
+      "name": "Сулейман Билалов",
+      "avatar": "https://bookmaker-ratings.ru/static/images/badges/novice-letter.svg?v=30092024",
+      "status": "expert",
+      "winRate": 79
+    },
+    "prediction": "Тотал (1.5) Б",
+    "odds": 1.38,
+    "comment": "Очень интересная игра предстоит думаю обе команды будут осторожничать и много голов не будет",
+    "source": "Sports Analytics Pro"
+  },
+  {
+    "id": 1788721076882,
     "eventName": "Матч",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
     "expert": {
-      "name": "Тотал Болонья",
+      "name": "Олимпик Марсель",
       "avatar": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=100&h=100&fit=crop",
       "status": "expert",
-      "winRate": 81
+      "winRate": 87
     },
-    "prediction": "Тотал Болонья больше (0.5)",
-    "odds": 1.69,
+    "prediction": "Тотал Париж больше (1.5)",
+    "odds": 2.81,
     "comment": "Комментарий к прогнозу",
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1788710702022,
+    "id": 1788721076883,
     "eventName": "Матч",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
     "expert": {
-      "name": "Ла Лига",
+      "name": "Олимпик Марсель",
       "avatar": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=100&h=100&fit=crop",
       "status": "expert",
-      "winRate": 77
+      "winRate": 87
     },
-    "prediction": "Ф2 (0)",
-    "odds": 2.4,
-    "comment": "Комментарий к прогнозу",
-    "source": "Sports Analytics Pro"
-  },
-  {
-    "id": 1788710702023,
-    "eventName": "Матч",
-    "discipline": "Футбол",
-    "tournament": "Чемпионат",
-    "expert": {
-      "name": "Ла Лига",
-      "avatar": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=100&h=100&fit=crop",
-      "status": "expert",
-      "winRate": 77
-    },
-    "prediction": "ТБ (2,5)",
-    "odds": 1.95,
+    "prediction": "Тотал Олимпик Марсель больше (1.5)",
+    "odds": 1.85,
     "comment": "Комментарий к прогнозу",
     "source": "Sports Analytics Pro"
   }
