@@ -1,5 +1,89 @@
 [
   {
+    "id": "0a5c1fd03d47b4a1",
+    "title": "«Родина» проиграла махачкалинскому «Динамо» после удаления на 8-й минуте",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/4/04/347887082877044.png",
+    "teaser": "«Родина» проиграла махачкалинскому «Динамо» после удаления на 8-й минуте",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a9d83d79a794715000eb1e0",
+    "publishedAt": "2026-09-06T15:26:35.000Z",
+    "createdAt": "2026-09-06T16:05:09.263Z",
+    "updatedAt": "2026-09-06T16:05:09.263Z"
+  },
+  {
+    "id": "837c4130eac66f1f",
+    "title": "Пилот Mercedes выиграл гонку «Формулы-1» после старта с 19-го места",
+    "sport": "Другое",
+    "category": "Формула-1",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/9/01/347887059988019.jpeg",
+    "teaser": "Пилот Mercedes выиграл гонку «Формулы-1» после старта с 19-го места",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a9d781c9a7947c19a2e74ee",
+    "publishedAt": "2026-09-06T15:00:19.000Z",
+    "createdAt": "2026-09-06T16:05:08.300Z",
+    "updatedAt": "2026-09-06T16:05:08.300Z"
+  },
+  {
+    "id": "06d2076ae5fad925",
+    "title": "«Металлург» начал сезон КХЛ с победы благодаря трем очкам Толчинского",
+    "sport": "Хоккей",
+    "category": "Хоккей",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/7/92/347887044083927.png",
+    "teaser": "«Металлург» начал сезон КХЛ с победы благодаря трем очкам Толчинского",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a9d73929a7947fd132648a6",
+    "publishedAt": "2026-09-06T14:24:47.000Z",
+    "createdAt": "2026-09-06T16:05:11.166Z",
+    "updatedAt": "2026-09-06T16:05:11.166Z"
+  },
+  {
+    "id": "afb993d57af71470",
+    "title": "Пилот Ferrari на высокой скорости влетел в ограждение в гонке «Формулы-1»",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/5/51/347887015801515.png",
+    "teaser": "Пилот Ferrari на высокой скорости влетел в ограждение в гонке «Формулы-1»",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a9d6a079a7947af0f277b86",
+    "publishedAt": "2026-09-06T13:42:27.000Z",
+    "createdAt": "2026-09-06T16:05:10.215Z",
+    "updatedAt": "2026-09-06T16:05:10.215Z"
+  },
+  {
+    "id": "0bec3016b6e0b69b",
+    "title": "Аутсайдер РПЛ забил два гола за три минуты и сыграл вничью с «Оренбургом»",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/4/37/347886999060374.png",
+    "teaser": "Аутсайдер РПЛ забил два гола за три минуты и сыграл вничью с «Оренбургом»",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a9d53fa9a7947240d9388a1",
+    "publishedAt": "2026-09-06T13:06:11.000Z",
+    "createdAt": "2026-09-06T16:05:14.110Z",
+    "updatedAt": "2026-09-06T16:05:14.110Z"
+  },
+  {
+    "id": "5e764efbb5c7d1c2",
+    "title": "ФИФА впервые после скандала с ЧМ подтвердила участие Инфантино в выборах",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/0/99/347886984074990.jpeg",
+    "teaser": "ФИФА впервые после скандала с ЧМ подтвердила участие Инфантино в выборах",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a9d5b239a7947faac7c1aae",
+    "publishedAt": "2026-09-06T12:44:58.000Z",
+    "createdAt": "2026-09-06T16:05:13.158Z",
+    "updatedAt": "2026-09-06T16:05:13.158Z"
+  },
+  {
     "id": "d5232fdf5c9809c3",
     "title": "Болид победителя гонки «Формулы-2» загорелся сразу после финиша",
     "sport": "Другое",
@@ -10,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a9d4df09a7947421189e2d9",
     "publishedAt": "2026-09-06T11:43:57.000Z",
-    "createdAt": "2026-09-06T12:45:18.044Z",
-    "updatedAt": "2026-09-06T12:45:18.044Z"
+    "createdAt": "2026-09-06T16:05:16.944Z",
+    "updatedAt": "2026-09-06T16:05:16.944Z"
   },
   {
     "id": "97659126bbb622e8",
@@ -24,22 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a9d3e509a79471b758e50c8",
     "publishedAt": "2026-09-06T10:32:51.000Z",
-    "createdAt": "2026-09-06T12:45:17.047Z",
-    "updatedAt": "2026-09-06T12:45:17.047Z"
-  },
-  {
-    "id": "6e80a9875533deb6",
-    "title": "Лучший снайпер КХЛ Мозякин покинул пост в руководстве «Металлурга»",
-    "sport": "Хоккей",
-    "category": "Хоккей",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/2/76/347886882172762.png",
-    "teaser": "Лучший снайпер КХЛ Мозякин покинул пост в руководстве «Металлурга»",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a9d37079a7947240d938892",
-    "publishedAt": "2026-09-06T10:15:20.000Z",
-    "createdAt": "2026-09-06T12:45:21.165Z",
-    "updatedAt": "2026-09-06T12:45:21.165Z"
+    "createdAt": "2026-09-06T16:05:15.920Z",
+    "updatedAt": "2026-09-06T16:05:15.920Z"
   },
   {
     "id": "1d682f75f283ae5e",
@@ -52,22 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a9d30f29a79475c30ab915c",
     "publishedAt": "2026-09-06T09:41:36.000Z",
-    "createdAt": "2026-09-06T12:45:19.104Z",
-    "updatedAt": "2026-09-06T12:45:19.104Z"
-  },
-  {
-    "id": "8e8011b488bc3a26",
-    "title": "Российские танцоры на льду завоевали серебро на турнире ISU в Японии",
-    "sport": "Другое",
-    "category": "Фигурное катание",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/1/31/347886806000311.jpeg",
-    "teaser": "Российские танцоры на льду завоевали серебро на турнире ISU в Японии",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a9d176b9a794788d8474bf0",
-    "publishedAt": "2026-09-06T08:27:25.000Z",
-    "createdAt": "2026-09-06T12:45:22.175Z",
-    "updatedAt": "2026-09-06T12:45:22.175Z"
+    "createdAt": "2026-09-06T16:05:17.894Z",
+    "updatedAt": "2026-09-06T16:05:17.894Z"
   },
   {
     "id": "d89346620e577f43",
@@ -80,63 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a9bd9f79a7947a87cea89a4",
     "publishedAt": "2026-09-05T21:01:12.000Z",
-    "createdAt": "2026-09-06T12:45:20.171Z",
-    "updatedAt": "2026-09-06T12:45:20.171Z"
-  },
-  {
-    "id": "1accccf777978d54",
-    "title": "Чимаев досрочно победил экс-чемпиона UFC на турнире RAF в Мытищах",
-    "sport": "Единоборства",
-    "category": "Единоборства",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/8/07/347886317358078.jpeg",
-    "teaser": "Чимаев досрочно победил экс-чемпиона UFC на турнире RAF в Мытищах",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a9c48d19a7947363277ccec",
-    "publishedAt": "2026-09-05T20:02:28.000Z",
-    "createdAt": "2026-09-06T12:45:23.309Z",
-    "updatedAt": "2026-09-06T12:45:23.309Z"
-  },
-  {
-    "id": "87d5ef67431e2311",
-    "title": "Олимпийский чемпион Садулаев одержал первую победу в RAF",
-    "sport": "Единоборства",
-    "category": "Единоборства",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/5/30/347886304771305.jpeg",
-    "teaser": "Олимпийский чемпион Садулаев одержал первую победу в RAF",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a9c4d539a7947fcdb236924",
-    "publishedAt": "2026-09-05T19:43:21.000Z",
-    "createdAt": "2026-09-06T12:45:24.379Z",
-    "updatedAt": "2026-09-06T12:45:24.379Z"
-  },
-  {
-    "id": "8434abbb71a0b78a",
-    "title": "Мирра Андреева впервые в карьере вышла в 1/8 финала US Open",
-    "sport": "Теннис",
-    "category": "Теннис",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/5/78/347886304612785.jpeg",
-    "teaser": "Мирра Андреева впервые в карьере вышла в 1/8 финала US Open",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a8d66dd9a79473816a39237",
-    "publishedAt": "2026-09-05T18:41:56.000Z",
-    "createdAt": "2026-09-06T12:45:26.543Z",
-    "updatedAt": "2026-09-06T12:45:26.543Z"
-  },
-  {
-    "id": "ec96b47c8e250a7f",
-    "title": "Бразильский легионер «Краснодара» перешел в греческий клуб",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/6/03/347886286457036.jpeg",
-    "teaser": "Бразильский легионер «Краснодара» перешел в греческий клуб",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a9bdca99a794752a5e006c8",
-    "publishedAt": "2026-09-05T17:21:12.000Z",
-    "createdAt": "2026-09-06T12:45:25.483Z",
-    "updatedAt": "2026-09-06T12:45:25.483Z"
+    "createdAt": "2026-09-06T16:05:12.187Z",
+    "updatedAt": "2026-09-06T16:05:12.187Z"
   }
 ]
