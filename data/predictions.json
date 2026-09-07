@@ -1,102 +1,22 @@
 [
   {
-    "id": 1788810286357,
-    "eventName": "Эльче — Реал Сосьедад",
+    "id": 1788820845798,
+    "eventName": "Депортес Лимаче — Кобресаль",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
     "expert": {
-      "name": "Александр Чистов",
-      "avatar": "https://static-uploads.prod.bookmaker-ratings.ru/2026/09/1f226c6f-c85f-43be-aafc-00c350f1adce-rb-webp-6a9d9703d8344-6a9d9703e3249.webp?width=60",
-      "status": "expert",
-      "winRate": 86
-    },
-    "prediction": "Ф2(0)",
-    "odds": 1.67,
-    "comment": "Из всех более менее проходных и не очень низким коэффициентом самое то",
-    "source": "Sports Analytics Pro"
-  },
-  {
-    "id": 1788810286358,
-    "eventName": "Эльче — Реал Сосьедад",
-    "discipline": "Футбол",
-    "tournament": "Чемпионат",
-    "expert": {
-      "name": "Алим Калибатов",
-      "avatar": "https://static-uploads.prod.bookmaker-ratings.ru/2026/04/3dcfa3e614753a9566b9342464293-rb-webp-69d34c667554e-69d34c667cd17.webp?width=60",
-      "status": "expert",
-      "winRate": 73
-    },
-    "prediction": "Победа 2",
-    "odds": 2.13,
-    "comment": "Эльче слабый старт, это и смена тренера, и лидеры покинули команду, по составу конечно гости сильнее. Сосьедад, на мой взгляд способен их обыграть за 2.13",
-    "source": "Sports Analytics Pro"
-  },
-  {
-    "id": 1788810286359,
-    "eventName": "Эльче — Реал Сосьедад",
-    "discipline": "Футбол",
-    "tournament": "Чемпионат",
-    "expert": {
-      "name": "Вячеслав Николаевич",
+      "name": "Сулейман Билалов",
       "avatar": "https://bookmaker-ratings.ru/static/images/badges/novice-letter.svg?v=30092024",
       "status": "expert",
-      "winRate": 89
-    },
-    "prediction": "Тотал 1-го тайма (1) Б",
-    "odds": 1.68,
-    "comment": "Команды много забивают игра будет результативной голов будет много",
-    "source": "Sports Analytics Pro"
-  },
-  {
-    "id": 1788810286360,
-    "eventName": "Эльче — Реал Сосьедад",
-    "discipline": "Футбол",
-    "tournament": "Чемпионат",
-    "expert": {
-      "name": "Сергей Гориславец",
-      "avatar": "https://static-uploads.prod.bookmaker-ratings.ru/2025/06/A55E5521-F251-409B-9872-CFCC8E629075-684340c122a2a.jpg?width=60",
-      "status": "expert",
-      "winRate": 69
-    },
-    "prediction": "Ф2(0)",
-    "odds": 1.57,
-    "comment": "Эльче слабоваты в обороне, чем и могут воспользоваться более мастеровитые футболисты",
-    "source": "Sports Analytics Pro"
-  },
-  {
-    "id": 1788810286361,
-    "eventName": "Эльче — Реал Сосьедад",
-    "discipline": "Футбол",
-    "tournament": "Чемпионат",
-    "expert": {
-      "name": "Andrey Agapov",
-      "avatar": "https://bookmaker-ratings.ru/static/images/badges/forecaster-letter.svg?v=30092024",
-      "status": "expert",
       "winRate": 79
     },
-    "prediction": "Индивидуальный тотал 2 Больше (2) (жёлтые карточки)",
-    "odds": 2.05,
-    "comment": "В последние игры реал Сосьедад получает две и более жк",
+    "prediction": "Победа 1",
+    "odds": 1.6,
+    "comment": "Хозяева поля сейчас находятся в хорошей форме и сегодняшнем матче они победят",
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1788810286362,
-    "eventName": "Эльче — Реал Сосьедад",
-    "discipline": "Футбол",
-    "tournament": "Чемпионат",
-    "expert": {
-      "name": "Andrey Agapov",
-      "avatar": "https://bookmaker-ratings.ru/static/images/badges/forecaster-letter.svg?v=30092024",
-      "status": "expert",
-      "winRate": 79
-    },
-    "prediction": "Тотал (22.5) Б (фолы)",
-    "odds": 1.54,
-    "comment": "У команд мало набранных очков, команды будут биться",
-    "source": "Sports Analytics Pro"
-  },
-  {
-    "id": 1788810286363,
+    "id": 1788820845800,
     "eventName": "Текстильщик — Арсенал Тула",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -112,7 +32,7 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1788810286364,
+    "id": 1788820845801,
     "eventName": "Брюгге — Астон Вилла",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -128,7 +48,7 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1788810286365,
+    "id": 1788820845802,
     "eventName": "Брюгге — Астон Вилла",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -144,7 +64,7 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1788810286366,
+    "id": 1788820845803,
     "eventName": "Порту — Манчестер Сити",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -157,6 +77,86 @@
     "prediction": "Победа 2",
     "odds": 1.74,
     "comment": "Ну тут Манчестер Сити имеет по моему мнению преимущество",
+    "source": "Sports Analytics Pro"
+  },
+  {
+    "id": 1788820845804,
+    "eventName": "Реал Мадрид — Интер",
+    "discipline": "Футбол",
+    "tournament": "Чемпионат",
+    "expert": {
+      "name": "Дмитрий Рыбалка",
+      "avatar": "https://static-uploads.prod.bookmaker-ratings.ru/2026/08/818-rb-webp-6a7c191851082-6a7c191854cb7.webp?width=60",
+      "status": "expert",
+      "winRate": 84
+    },
+    "prediction": "Тотал больше (3)",
+    "odds": 1.71,
+    "comment": "Интересный матч ожидает нас в первом туре Лиги чемпионов. Реал после поражения в чемпионате, озлобленный дома, в любимом своем турнире будет рвать и метать, Интер хороший, вытащили мёртвый матч с Наполи с -2 . Ожидаю большое количество голов в этом матче.",
+    "source": "Sports Analytics Pro"
+  },
+  {
+    "id": 1788820845805,
+    "eventName": "Порту — Манчестер Сити",
+    "discipline": "Футбол",
+    "tournament": "Чемпионат",
+    "expert": {
+      "name": "Дмитрий Рыбалка",
+      "avatar": "https://static-uploads.prod.bookmaker-ratings.ru/2026/08/818-rb-webp-6a7c191851082-6a7c191854cb7.webp?width=60",
+      "status": "expert",
+      "winRate": 84
+    },
+    "prediction": "Тотал больше (2.5)",
+    "odds": 1.7,
+    "comment": "Сити приедет и победит на Драгау через тотал больше 2.5, в гол Порту тоже верю",
+    "source": "Sports Analytics Pro"
+  },
+  {
+    "id": 1788820845806,
+    "eventName": "Матч",
+    "discipline": "Футбол",
+    "tournament": "Чемпионат",
+    "expert": {
+      "name": "Астон Вилла",
+      "avatar": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=100&h=100&fit=crop",
+      "status": "expert",
+      "winRate": 80
+    },
+    "prediction": "Обе забьют (Да)",
+    "odds": 1.58,
+    "comment": "Комментарий к прогнозу",
+    "source": "Sports Analytics Pro"
+  },
+  {
+    "id": 1788820845807,
+    "eventName": "Матч",
+    "discipline": "Футбол",
+    "tournament": "Чемпионат",
+    "expert": {
+      "name": "Астон Вилла",
+      "avatar": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=100&h=100&fit=crop",
+      "status": "expert",
+      "winRate": 80
+    },
+    "prediction": "Тотал меньше (3)",
+    "odds": 1.69,
+    "comment": "Комментарий к прогнозу",
+    "source": "Sports Analytics Pro"
+  },
+  {
+    "id": 1788820845808,
+    "eventName": "Матч",
+    "discipline": "Футбол",
+    "tournament": "Чемпионат",
+    "expert": {
+      "name": "Лига Чемпионов",
+      "avatar": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=100&h=100&fit=crop",
+      "status": "expert",
+      "winRate": 86
+    },
+    "prediction": "Ф1 (-1,5) по угловым",
+    "odds": 1.9,
+    "comment": "Комментарий к прогнозу",
     "source": "Sports Analytics Pro"
   }
 ]
