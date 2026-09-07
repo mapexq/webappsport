@@ -1,162 +1,162 @@
 [
   {
-    "id": 1788795587133,
-    "eventName": "Северсталь — Лада",
-    "discipline": "Хоккей",
-    "tournament": "Чемпионат",
-    "expert": {
-      "name": "Евгений Поморов",
-      "avatar": "https://static-uploads.prod.bookmaker-ratings.ru/2023/09/Corsi.png?width=60",
-      "status": "expert",
-      "winRate": 74
-    },
-    "prediction": "Индивидуальный тотал 2 Больше (2)",
-    "odds": 1.73,
-    "comment": "В Череповце, Северсталь и Лада проведут свои вторые матчи в текущем сезоне. В первых играх обе команды потерпели поражения – Северсталь на своем льду проиграла Салавату Юлаеву 2:3, Лада в Санкт-Петербурге уступила СКА 3:4 в овертайме. Команда Андрея Козырева никогда не отличалась надежной игрой в обороне, в межсезонье в шести проведенных матчах Северсталь пропустила 23 шайбы. По сравнению с прошлым сезоном команду покинули два лидера - Данил Аймурзин и Михаил Ильин. Тольяттинский клуб, под руководством нового главного тренера Павла Зубова, показывает яркий, атакующий хоккей. В межсезонье команда провела 7 матчей в которых забросила 26 шайб. В хорошей форме лидеры команды Райли Савчук, Андрей Чивилев, Никита Михайлов. Неплохо в первой игре проявил себя новичок команды Бен Кинг.",
-    "source": "Sports Analytics Pro"
-  },
-  {
-    "id": 1788795587135,
-    "eventName": "Пафос — Олимпиакос Никосия",
+    "id": 1788810286357,
+    "eventName": "Эльче — Реал Сосьедад",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
     "expert": {
-      "name": "Олимпиакос Никосия",
-      "avatar": "https://bookmaker-ratings.ru/static/images/badges/novice-letter.svg?v=30092024",
+      "name": "Александр Чистов",
+      "avatar": "https://static-uploads.prod.bookmaker-ratings.ru/2026/09/1f226c6f-c85f-43be-aafc-00c350f1adce-rb-webp-6a9d9703d8344-6a9d9703e3249.webp?width=60",
       "status": "expert",
-      "winRate": 80
+      "winRate": 86
     },
-    "prediction": "Фора 1 (-1)",
-    "odds": 1.58,
-    "comment": "Пафос выглядит явным фаворитом в этом матче. И объективно ближе к победе !!!",
+    "prediction": "Ф2(0)",
+    "odds": 1.67,
+    "comment": "Из всех более менее проходных и не очень низким коэффициентом самое то",
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1788795587136,
-    "eventName": "Рубин — Ахмат",
+    "id": 1788810286358,
+    "eventName": "Эльче — Реал Сосьедад",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
     "expert": {
-      "name": "Егор Скрябов",
-      "avatar": "https://bookmaker-ratings.ru/static/images/badges/novice-letter.svg?v=30092024",
+      "name": "Алим Калибатов",
+      "avatar": "https://static-uploads.prod.bookmaker-ratings.ru/2026/04/3dcfa3e614753a9566b9342464293-rb-webp-69d34c667554e-69d34c667cd17.webp?width=60",
       "status": "expert",
-      "winRate": 87
+      "winRate": 73
     },
-    "prediction": "Обе забьют (Да)",
-    "odds": 1.98,
-    "comment": "В матчах Рубина и Ахмата стабильно забивают обе команды",
-    "source": "Sports Analytics Pro"
-  },
-  {
-    "id": 1788795587137,
-    "eventName": "Рубин — Ахмат",
-    "discipline": "Футбол",
-    "tournament": "Чемпионат",
-    "expert": {
-      "name": "Артур Фролов",
-      "avatar": "https://bookmaker-ratings.ru/static/images/badges/novice-letter.svg?v=30092024",
-      "status": "expert",
-      "winRate": 78
-    },
-    "prediction": "Обе забьют - Да",
-    "odds": 1.98,
-    "comment": "Матч будет важным для обеих команд, Рубин дома ,Ахмат в последнее время не побеждает. Ставка обе забьют.",
-    "source": "Sports Analytics Pro"
-  },
-  {
-    "id": 1788795587138,
-    "eventName": "Рубин — Ахмат",
-    "discipline": "Футбол",
-    "tournament": "Чемпионат",
-    "expert": {
-      "name": "Сэр Палпатин",
-      "avatar": "https://s3-static-prod.storage.yandexcloud.net/2026/09/images-rb-webp-3ce2445a5d29-076ec1fb33f9.webp",
-      "status": "expert",
-      "winRate": 70
-    },
-    "prediction": "Тотал (2.5) М",
+    "prediction": "Победа 2",
     "odds": 2.13,
-    "comment": "Рубин не проигрывает 6 матчей, а средний ожидаемый тотал — всего 2.13 гола.",
+    "comment": "Эльче слабый старт, это и смена тренера, и лидеры покинули команду, по составу конечно гости сильнее. Сосьедад, на мой взгляд способен их обыграть за 2.13",
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1788795587139,
-    "eventName": "Кальяри — Лечче",
+    "id": 1788810286359,
+    "eventName": "Эльче — Реал Сосьедад",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
     "expert": {
-      "name": "Сэр Палпатин",
-      "avatar": "https://s3-static-prod.storage.yandexcloud.net/2026/09/images-rb-webp-3ce2445a5d29-076ec1fb33f9.webp",
+      "name": "Вячеслав Николаевич",
+      "avatar": "https://bookmaker-ratings.ru/static/images/badges/novice-letter.svg?v=30092024",
       "status": "expert",
-      "winRate": 70
+      "winRate": 89
     },
-    "prediction": "Победа 1",
-    "odds": 1.4,
-    "comment": "Кальяри сильнее дома, а xG-модель даёт хозяевам перевес 1.40 против 0.76.",
+    "prediction": "Тотал 1-го тайма (1) Б",
+    "odds": 1.68,
+    "comment": "Команды много забивают игра будет результативной голов будет много",
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1788795587140,
-    "eventName": "Ак Барс — Адмирал",
-    "discipline": "Хоккей",
-    "tournament": "Чемпионат",
-    "expert": {
-      "name": "Евгений Поморов",
-      "avatar": "https://static-uploads.prod.bookmaker-ratings.ru/2023/09/Corsi.png?width=60",
-      "status": "expert",
-      "winRate": 74
-    },
-    "prediction": "Индивидуальный тотал 1 Больше (3)",
-    "odds": 1.77,
-    "comment": "В Казани, подопечные Анвара Гатиятулина, проведут вторую игру в сезоне, в гости приедет Адмирал из Владивостока. В стартовой игре чемпионата Ак Барс, уступая Сибири 1:3, смог вырвать победу в серии буллитов. С прошлого сезона у казанцев остались звездные нападающие - Саша Хмелевски, Кирилл Семенов, Артем Галимов, в межсезонье из НХЛ к ним присоединился Кевин Хэйс. Главный тренер моряков Олег Браташ еще не в полной мере донес свои требования до пришедших в команду хоккеистов, слишком много новичков было подписано в межсезонье. Не выглядит образцом надежности вратарская бригада Адмирала - Иван Кульбаков, Никита Бояркин.",
-    "source": "Sports Analytics Pro"
-  },
-  {
-    "id": 1788795587141,
-    "eventName": "Рубин — Ахмат",
+    "id": 1788810286360,
+    "eventName": "Эльче — Реал Сосьедад",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
     "expert": {
-      "name": "Лудоман Бонус",
-      "avatar": "https://bookmaker-ratings.ru/static/images/badges/novice-letter.svg?v=30092024",
+      "name": "Сергей Гориславец",
+      "avatar": "https://static-uploads.prod.bookmaker-ratings.ru/2025/06/A55E5521-F251-409B-9872-CFCC8E629075-684340c122a2a.jpg?width=60",
       "status": "expert",
-      "winRate": 79
+      "winRate": 69
     },
-    "prediction": "Обе забьют (Да)",
-    "odds": 1.96,
-    "comment": "Играют команды середьняки,можно проверить обе забьют",
+    "prediction": "Ф2(0)",
+    "odds": 1.57,
+    "comment": "Эльче слабоваты в обороне, чем и могут воспользоваться более мастеровитые футболисты",
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1788795587142,
-    "eventName": "Ак Барс — Адмирал",
-    "discipline": "Хоккей",
+    "id": 1788810286361,
+    "eventName": "Эльче — Реал Сосьедад",
+    "discipline": "Футбол",
     "tournament": "Чемпионат",
     "expert": {
-      "name": "Лудоман Бонус",
-      "avatar": "https://bookmaker-ratings.ru/static/images/badges/novice-letter.svg?v=30092024",
+      "name": "Andrey Agapov",
+      "avatar": "https://bookmaker-ratings.ru/static/images/badges/forecaster-letter.svg?v=30092024",
       "status": "expert",
       "winRate": 79
+    },
+    "prediction": "Индивидуальный тотал 2 Больше (2) (жёлтые карточки)",
+    "odds": 2.05,
+    "comment": "В последние игры реал Сосьедад получает две и более жк",
+    "source": "Sports Analytics Pro"
+  },
+  {
+    "id": 1788810286362,
+    "eventName": "Эльче — Реал Сосьедад",
+    "discipline": "Футбол",
+    "tournament": "Чемпионат",
+    "expert": {
+      "name": "Andrey Agapov",
+      "avatar": "https://bookmaker-ratings.ru/static/images/badges/forecaster-letter.svg?v=30092024",
+      "status": "expert",
+      "winRate": 79
+    },
+    "prediction": "Тотал (22.5) Б (фолы)",
+    "odds": 1.54,
+    "comment": "У команд мало набранных очков, команды будут биться",
+    "source": "Sports Analytics Pro"
+  },
+  {
+    "id": 1788810286363,
+    "eventName": "Текстильщик — Арсенал Тула",
+    "discipline": "Футбол",
+    "tournament": "Чемпионат",
+    "expert": {
+      "name": "Богдан Богданов",
+      "avatar": "https://s3-static-prod.storage.yandexcloud.net/2026/09/2026-09-0714-29-11-rb-webp-f1a4fb1c3045-f03609184372.webp",
+      "status": "expert",
+      "winRate": 84
     },
     "prediction": "Ничья",
-    "odds": 1.7,
-    "comment": "Ак барс сильны,дома адмирал не сможет противостоять",
+    "odds": 2.8,
+    "comment": "здравствуйте, ставлю на ничью в этой игре. обе хороши",
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1788795587143,
-    "eventName": "Рубин — Ахмат",
+    "id": 1788810286364,
+    "eventName": "Брюгге — Астон Вилла",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
     "expert": {
-      "name": "Александр Малышев",
-      "avatar": "https://bookmaker-ratings.ru/static/images/badges/novice-letter.svg?v=30092024",
+      "name": "Дмитрий Рыбалка",
+      "avatar": "https://static-uploads.prod.bookmaker-ratings.ru/2026/08/818-rb-webp-6a7c191851082-6a7c191854cb7.webp?width=60",
+      "status": "expert",
+      "winRate": 84
+    },
+    "prediction": "Обе забьют (Да)",
+    "odds": 1.58,
+    "comment": "Обе забьют да, мой прогноз на этот матч. Хорошие команды , в исходы не полезу",
+    "source": "Sports Analytics Pro"
+  },
+  {
+    "id": 1788810286365,
+    "eventName": "Брюгге — Астон Вилла",
+    "discipline": "Футбол",
+    "tournament": "Чемпионат",
+    "expert": {
+      "name": "Алекс Ларин",
+      "avatar": "https://static-uploads.prod.bookmaker-ratings.ru/2026/09/BB97984D-8B57-40C7-8066-3D5594468515-rb-webp-6a9efc399e053-6a9efc39a1f1e.webp?width=60",
       "status": "expert",
       "winRate": 81
     },
-    "prediction": "Тотал (2.5) М",
-    "odds": 1.59,
-    "comment": "Классический низ, будет много борьбы и мало футбола.",
+    "prediction": "Тотал меньше (3)",
+    "odds": 1.69,
+    "comment": "В прошлый раз команды встречались в сезоне 2024/25 на стадии 1/8 плей-офф. Брюгге в обоих встречах пропустил по 3 мяча, ответив лишь одним играя дома. На этот раз нас ожидает «нишевый» футбол. На цифрах Астон Вилла немного в роли фаворита, но с такой игрой в последних матчах не стоит ожидать обилия голов. Брюгге тоже не радует результативностью в крайних играх.",
+    "source": "Sports Analytics Pro"
+  },
+  {
+    "id": 1788810286366,
+    "eventName": "Порту — Манчестер Сити",
+    "discipline": "Футбол",
+    "tournament": "Чемпионат",
+    "expert": {
+      "name": "Вадим Альянов",
+      "avatar": "https://s3-static-prod.storage.yandexcloud.net/2026/09/2026-09-0620-48-26-rb-webp-200af2bee687-580f1fd6edc3.webp",
+      "status": "expert",
+      "winRate": 79
+    },
+    "prediction": "Победа 2",
+    "odds": 1.74,
+    "comment": "Ну тут Манчестер Сити имеет по моему мнению преимущество",
     "source": "Sports Analytics Pro"
   }
 ]
