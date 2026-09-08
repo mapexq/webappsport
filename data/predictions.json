@@ -1,6 +1,6 @@
 [
   {
-    "id": 1788901043503,
+    "id": 1788909498441,
     "eventName": "Калуга — Уфа",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -16,7 +16,55 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1788901043504,
+    "id": 1788909498442,
+    "eventName": "Барселона — Фейеноорд",
+    "discipline": "Футбол",
+    "tournament": "Чемпионат",
+    "expert": {
+      "name": "Игорь Шепель",
+      "avatar": "https://bookmaker-ratings.ru/static/images/badges/novice-letter.svg?v=30092024",
+      "status": "expert",
+      "winRate": 87
+    },
+    "prediction": "Обе забьют - Да",
+    "odds": 1.79,
+    "comment": "Первый матч, Фейнорду париться рано, поэтому будет открытая игра с обеих сторон",
+    "source": "Sports Analytics Pro"
+  },
+  {
+    "id": 1788909498443,
+    "eventName": "Барселона — Фейеноорд",
+    "discipline": "Футбол",
+    "tournament": "Чемпионат",
+    "expert": {
+      "name": "Akhmad Akhokhov",
+      "avatar": "https://bookmaker-ratings.ru/static/images/badges/forecaster-letter.svg?v=30092024",
+      "status": "expert",
+      "winRate": 73
+    },
+    "prediction": "Тотал Барселона больше (2.5)",
+    "odds": 3.7,
+    "comment": "Барселона забивает прилично, в атаке все хорошо, думаю должны пробить тотал инд 2,5",
+    "source": "Sports Analytics Pro"
+  },
+  {
+    "id": 1788909498444,
+    "eventName": "Штутгарт — Викинг",
+    "discipline": "Футбол",
+    "tournament": "Чемпионат",
+    "expert": {
+      "name": "Akhmad Akhokhov",
+      "avatar": "https://bookmaker-ratings.ru/static/images/badges/forecaster-letter.svg?v=30092024",
+      "status": "expert",
+      "winRate": 73
+    },
+    "prediction": "Ф1(-1.5)",
+    "odds": 1.61,
+    "comment": "Немцы выглядят фаворитом матча, и думаю должны выигрывать матч с разницей минимум в два мяча",
+    "source": "Sports Analytics Pro"
+  },
+  {
+    "id": 1788909498445,
     "eventName": "Спортинг — Галатасарай",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -32,39 +80,7 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1788901043505,
-    "eventName": "Ливерпуль — Атлетико Мадрид",
-    "discipline": "Футбол",
-    "tournament": "Чемпионат",
-    "expert": {
-      "name": "Сергей Игнашевич",
-      "avatar": "https://static-uploads.prod.bookmaker-ratings.ru/2025/05/Ava-682d97dbe5db9.jpg?width=60",
-      "status": "expert",
-      "winRate": 79
-    },
-    "prediction": "ТМ (3,5)",
-    "odds": 1.54,
-    "comment": "«Ливерпуль» с новым тренером Ираолой определился со стартовым составом и стабилизировал игру. Потеря очков и старые проблемы с дисбалансом атакующих и оборонительных действий в первых двух турах старательно маскируются прессингом и размашистыми вертикальными атаками. «Атлетико» неудачно съездил в Бильбао в последнем туре. Тем не менее команда Симеоне - старый еврокубковый боец. Мадридцы всегда могут потерпеть в вязком оборонительном футболе и наказать соперника в быстрой ответной атаке. «Ливерпуль» и «Атлетико» часто играют друг с другом в последних сезонах ЛЧ. Матчи получаются зрелищными и результативными. С одной стороны, на групповом этапе на команды не давит результат, и этот матч не должен стать исключением. С другой стороны, после разгрома в последнем туре команда Симеоне должна зубами цепляться за результат ближайшего матча и постараться реабилитироваться перед своими болельщиками.",
-    "source": "Sports Analytics Pro"
-  },
-  {
-    "id": 1788901043506,
-    "eventName": "Наполи — Арсенал",
-    "discipline": "Футбол",
-    "tournament": "Чемпионат",
-    "expert": {
-      "name": "Галина Сергеевна",
-      "avatar": "https://static-uploads.prod.bookmaker-ratings.ru/2026/07/DCA9729B-09CA-4FDF-A5DC-E4DA364CF7AB-rb-webp-6a59e1a23a292-6a59e1a23daa8.webp?width=60",
-      "status": "expert",
-      "winRate": 83
-    },
-    "prediction": "Тотал меньше (1.5)",
-    "odds": 3.5,
-    "comment": "Ставлю на то, что в игре будет мало забитых голов, оба тренера ценят оборону",
-    "source": "Sports Analytics Pro"
-  },
-  {
-    "id": 1788901043507,
+    "id": 1788909498446,
     "eventName": "Матч",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -80,7 +96,7 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1788901043508,
+    "id": 1788909498447,
     "eventName": "Матч",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -96,7 +112,23 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1788901043509,
+    "id": 1788909498448,
+    "eventName": "Матч",
+    "discipline": "Футбол",
+    "tournament": "Чемпионат",
+    "expert": {
+      "name": "Лига Чемпионов",
+      "avatar": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=100&h=100&fit=crop",
+      "status": "expert",
+      "winRate": 86
+    },
+    "prediction": "П2",
+    "odds": 1.76,
+    "comment": "Комментарий к прогнозу",
+    "source": "Sports Analytics Pro"
+  },
+  {
+    "id": 1788909498449,
     "eventName": "Матч",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -112,7 +144,7 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1788901043510,
+    "id": 1788909498450,
     "eventName": "Матч",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -124,38 +156,6 @@
     },
     "prediction": "П2",
     "odds": 1.77,
-    "comment": "Комментарий к прогнозу",
-    "source": "Sports Analytics Pro"
-  },
-  {
-    "id": 1788901043511,
-    "eventName": "Матч",
-    "discipline": "Футбол",
-    "tournament": "Чемпионат",
-    "expert": {
-      "name": "Лига Чемпионов",
-      "avatar": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=100&h=100&fit=crop",
-      "status": "expert",
-      "winRate": 86
-    },
-    "prediction": "П1 и обе забьют — да",
-    "odds": 2.4,
-    "comment": "Комментарий к прогнозу",
-    "source": "Sports Analytics Pro"
-  },
-  {
-    "id": 1788901043512,
-    "eventName": "Матч",
-    "discipline": "Футбол",
-    "tournament": "Чемпионат",
-    "expert": {
-      "name": "Лига Чемпионов",
-      "avatar": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=100&h=100&fit=crop",
-      "status": "expert",
-      "winRate": 86
-    },
-    "prediction": "Ф1 (-1,5)",
-    "odds": 1.59,
     "comment": "Комментарий к прогнозу",
     "source": "Sports Analytics Pro"
   }
