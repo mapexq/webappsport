@@ -1,5 +1,89 @@
 [
   {
+    "id": "ce681b7f9f93f126",
+    "title": "Мбаппе вошел в пятерку лучших бомбардиров Лиги чемпионов",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/3/64/347888979818643.jpeg",
+    "teaser": "Мбаппе вошел в пятерку лучших бомбардиров Лиги чемпионов",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6aa067e79a79477cd5925dde",
+    "publishedAt": "2026-09-08T20:12:08.000Z",
+    "createdAt": "2026-09-08T20:57:30.513Z",
+    "updatedAt": "2026-09-08T20:57:30.513Z"
+  },
+  {
+    "id": "8136b8e718378dee",
+    "title": "Месси договорился о покупке испанского клуба из второго дивизиона",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/9/69/347888967053699.jpeg",
+    "teaser": "Месси договорился о покупке испанского клуба из второго дивизиона",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6aa062a49a79471f90ed9809",
+    "publishedAt": "2026-09-08T19:53:12.000Z",
+    "createdAt": "2026-09-08T20:57:31.503Z",
+    "updatedAt": "2026-09-08T20:57:31.503Z"
+  },
+  {
+    "id": "b7abed1001154273",
+    "title": "Радулов в 800-м матче в КХЛ помог «Локомотиву» обыграть клуб Ковальчука",
+    "sport": "Хоккей",
+    "category": "Хоккей",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/1/99/347888934152991.jpeg",
+    "teaser": "Радулов в 800-м матче в КХЛ помог «Локомотиву» обыграть клуб Ковальчука",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6aa054ef9a79477cd5925dcd",
+    "publishedAt": "2026-09-08T19:17:38.000Z",
+    "createdAt": "2026-09-08T20:57:32.599Z",
+    "updatedAt": "2026-09-08T20:57:32.599Z"
+  },
+  {
+    "id": "99fc7bab2ac74a3b",
+    "title": "Первая ракетка мира Соболенко вышла в шестой подряд полуфинал US Open",
+    "sport": "Теннис",
+    "category": "Теннис",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/3/59/347888921781593.jpeg",
+    "teaser": "Первая ракетка мира Соболенко вышла в шестой подряд полуфинал US Open",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6aa0517c9a79473e62342bdc",
+    "publishedAt": "2026-09-08T18:32:56.000Z",
+    "createdAt": "2026-09-08T20:57:33.735Z",
+    "updatedAt": "2026-09-08T20:57:33.735Z"
+  },
+  {
+    "id": "554771f17896a84b",
+    "title": "Участник ЧМ-2026 отказался играть за сборную из-за тренера",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/3/93/347888883318933.jpeg",
+    "teaser": "Участник ЧМ-2026 отказался играть за сборную из-за тренера",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6aa03c5c9a7947f33ff8a70e",
+    "publishedAt": "2026-09-08T17:51:26.000Z",
+    "createdAt": "2026-09-08T20:57:35.962Z",
+    "updatedAt": "2026-09-08T20:57:35.962Z"
+  },
+  {
+    "id": "cb7c0e3af8f9c283",
+    "title": "Первый гол забили в новом сезоне Лиги чемпионов",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/3/30/347888873877303.jpeg",
+    "teaser": "Первый гол забили в новом сезоне Лиги чемпионов",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6aa03fc19a7947af1eb10187",
+    "publishedAt": "2026-09-08T17:15:00.000Z",
+    "createdAt": "2026-09-08T20:57:37.036Z",
+    "updatedAt": "2026-09-08T20:57:37.036Z"
+  },
+  {
     "id": "b13271522b6047dd",
     "title": "«Металлург» одержал вторую победу над «Амуром» за два дня в КХЛ",
     "sport": "Хоккей",
@@ -10,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6aa037bb9a7947f33ff8a6f7",
     "publishedAt": "2026-09-08T16:40:26.000Z",
-    "createdAt": "2026-09-08T17:10:25.036Z",
-    "updatedAt": "2026-09-08T17:10:25.036Z"
+    "createdAt": "2026-09-08T20:57:38.169Z",
+    "updatedAt": "2026-09-08T20:57:38.169Z"
   },
   {
     "id": "f94cd78dba952a22",
@@ -24,8 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6aa02ecb9a79472a16a2adb1",
     "publishedAt": "2026-09-08T16:16:00.000Z",
-    "createdAt": "2026-09-08T17:10:26.038Z",
-    "updatedAt": "2026-09-08T17:10:26.038Z"
+    "createdAt": "2026-09-08T20:57:39.289Z",
+    "updatedAt": "2026-09-08T20:57:39.289Z"
   },
   {
     "id": "231b05bf4bcbbe15",
@@ -38,92 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6aa028739a794732e5bf0ed8",
     "publishedAt": "2026-09-08T15:55:42.000Z",
-    "createdAt": "2026-09-08T17:10:27.087Z",
-    "updatedAt": "2026-09-08T17:10:27.087Z"
-  },
-  {
-    "id": "70a190da455a9100",
-    "title": "Кварацхелия в третий раз вошел в число претендентов на «Золотой мяч»",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/5/19/347888794430195.jpeg",
-    "teaser": "Кварацхелия в третий раз вошел в число претендентов на «Золотой мяч»",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6aa01f9f9a79473e62342b72",
-    "publishedAt": "2026-09-08T15:10:08.000Z",
-    "createdAt": "2026-09-08T17:10:30.332Z",
-    "updatedAt": "2026-09-08T17:10:30.332Z"
-  },
-  {
-    "id": "e6bd9404621a1e6f",
-    "title": "Стали известны все номинанты на «Золотой мяч»",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/8/27/347888782563278.jpeg",
-    "teaser": "Стали известны все номинанты на «Золотой мяч»",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6aa01be59a794732e5bf0eb8",
-    "publishedAt": "2026-09-08T15:05:07.000Z",
-    "createdAt": "2026-09-08T17:10:28.135Z",
-    "updatedAt": "2026-09-08T17:10:28.135Z"
-  },
-  {
-    "id": "65015a5cb4829a6f",
-    "title": "Жена Сафонова не сдержала слез после номинации вратаря на приз Яшина",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/7/42/347888782330427.jpeg",
-    "teaser": "Жена Сафонова не сдержала слез после номинации вратаря на приз Яшина",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6aa018f59a79477e2dd231f9",
-    "publishedAt": "2026-09-08T14:57:32.000Z",
-    "createdAt": "2026-09-08T17:10:32.618Z",
-    "updatedAt": "2026-09-08T17:10:32.618Z"
-  },
-  {
-    "id": "6457c0a0e79fbe43",
-    "title": "Месси вошел в список номинантов на «Золотой мяч»",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/3/33/347888694894333.jpeg",
-    "teaser": "Месси вошел в список номинантов на «Золотой мяч»",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a9ffa839a794781fe9a0f37",
-    "publishedAt": "2026-09-08T14:52:10.000Z",
-    "createdAt": "2026-09-08T17:10:31.381Z",
-    "updatedAt": "2026-09-08T17:10:31.381Z"
-  },
-  {
-    "id": "ed2540aef4f979fc",
-    "title": "«Зенит» подписал вратаря, которым интересовался «Спартак»",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/1/56/347888742819561.jpeg",
-    "teaser": "«Зенит» подписал вратаря, которым интересовался «Спартак»",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6aa00aa69a79477e2dd231b8",
-    "publishedAt": "2026-09-08T13:34:33.000Z",
-    "createdAt": "2026-09-08T17:10:33.683Z",
-    "updatedAt": "2026-09-08T17:10:33.683Z"
-  },
-  {
-    "id": "ea7446fe80a8b31b",
-    "title": "Один из лидеров «Наполи» перенес операцию на сердце",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/4/23/347888723953234.jpeg",
-    "teaser": "Один из лидеров «Наполи» перенес операцию на сердце",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6aa003d09a79473f78805672",
-    "publishedAt": "2026-09-08T13:14:16.000Z",
-    "createdAt": "2026-09-08T17:10:34.750Z",
-    "updatedAt": "2026-09-08T17:10:34.750Z"
+    "createdAt": "2026-09-08T20:57:40.675Z",
+    "updatedAt": "2026-09-08T20:57:40.675Z"
   },
   {
     "id": "ac36a8f1f719320f",
@@ -136,7 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a9fe2ba9a79472e083bf6e2",
     "publishedAt": "2026-09-08T11:47:28.000Z",
-    "createdAt": "2026-09-08T17:10:29.213Z",
-    "updatedAt": "2026-09-08T17:10:29.213Z"
+    "createdAt": "2026-09-08T20:57:34.836Z",
+    "updatedAt": "2026-09-08T20:57:34.836Z"
   }
 ]
