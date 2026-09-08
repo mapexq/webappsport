@@ -1,22 +1,6 @@
 [
   {
-    "id": 1788820845798,
-    "eventName": "Депортес Лимаче — Кобресаль",
-    "discipline": "Футбол",
-    "tournament": "Чемпионат",
-    "expert": {
-      "name": "Сулейман Билалов",
-      "avatar": "https://bookmaker-ratings.ru/static/images/badges/novice-letter.svg?v=30092024",
-      "status": "expert",
-      "winRate": 79
-    },
-    "prediction": "Победа 1",
-    "odds": 1.6,
-    "comment": "Хозяева поля сейчас находятся в хорошей форме и сегодняшнем матче они победят",
-    "source": "Sports Analytics Pro"
-  },
-  {
-    "id": 1788820845800,
+    "id": 1788829362619,
     "eventName": "Текстильщик — Арсенал Тула",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -32,7 +16,7 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1788820845801,
+    "id": 1788829362620,
     "eventName": "Брюгге — Астон Вилла",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -48,7 +32,7 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1788820845802,
+    "id": 1788829362621,
     "eventName": "Брюгге — Астон Вилла",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -64,7 +48,7 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1788820845803,
+    "id": 1788829362622,
     "eventName": "Порту — Манчестер Сити",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -80,7 +64,7 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1788820845804,
+    "id": 1788829362623,
     "eventName": "Реал Мадрид — Интер",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -96,7 +80,7 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1788820845805,
+    "id": 1788829362624,
     "eventName": "Порту — Манчестер Сити",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -112,7 +96,7 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1788820845806,
+    "id": 1788829362625,
     "eventName": "Матч",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -128,7 +112,7 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1788820845807,
+    "id": 1788829362626,
     "eventName": "Матч",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -144,7 +128,7 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1788820845808,
+    "id": 1788829362627,
     "eventName": "Матч",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -156,6 +140,22 @@
     },
     "prediction": "Ф1 (-1,5) по угловым",
     "odds": 1.9,
+    "comment": "Комментарий к прогнозу",
+    "source": "Sports Analytics Pro"
+  },
+  {
+    "id": 1788829362628,
+    "eventName": "Матч",
+    "discipline": "Футбол",
+    "tournament": "Чемпионат",
+    "expert": {
+      "name": "Лига Чемпионов",
+      "avatar": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=100&h=100&fit=crop",
+      "status": "expert",
+      "winRate": 86
+    },
+    "prediction": "П1",
+    "odds": 1.6,
     "comment": "Комментарий к прогнозу",
     "source": "Sports Analytics Pro"
   }
