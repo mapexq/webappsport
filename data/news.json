@@ -1,5 +1,47 @@
 [
   {
+    "id": "66be66a6c4167a53",
+    "title": "Кто является фаворитом Лиги чемпионов",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/4/93/347887961732934.jpeg",
+    "teaser": "Кто является фаворитом Лиги чемпионов",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a9ed7929a79477032d25416",
+    "publishedAt": "2026-09-08T05:04:13.000Z",
+    "createdAt": "2026-09-08T07:06:40.655Z",
+    "updatedAt": "2026-09-08T07:06:40.655Z"
+  },
+  {
+    "id": "6ff11e49175d87f4",
+    "title": "Что важно знать о новом сезоне Лиги чемпионов",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/8/83/347887823980838.jpeg",
+    "teaser": "Что важно знать о новом сезоне Лиги чемпионов",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a9e94579a7947bcc45a57b2",
+    "publishedAt": "2026-09-08T04:30:42.000Z",
+    "createdAt": "2026-09-08T07:06:41.693Z",
+    "updatedAt": "2026-09-08T07:06:41.693Z"
+  },
+  {
+    "id": "5408cfb8253268d4",
+    "title": "Карен Хачанов впервые с 2022 года вышел в 1/4 финала US Open",
+    "sport": "Теннис",
+    "category": "Теннис",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/3/25/347888090334253.jpeg",
+    "teaser": "Карен Хачанов впервые с 2022 года вышел в 1/4 финала US Open",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a9f0edb9a794758accdbc9c",
+    "publishedAt": "2026-09-08T02:55:43.000Z",
+    "createdAt": "2026-09-08T07:06:42.742Z",
+    "updatedAt": "2026-09-08T07:06:42.742Z"
+  },
+  {
     "id": "95707f5003ed6d8c",
     "title": "ЕСПЧ принял к рассмотрению жалобу Камилы Валиевой по ее дисквалификации",
     "sport": "Другое",
@@ -10,8 +52,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a9f23749a79474800fa9f9c",
     "publishedAt": "2026-09-07T21:10:51.000Z",
-    "createdAt": "2026-09-08T01:02:48.849Z",
-    "updatedAt": "2026-09-08T01:02:48.849Z"
+    "createdAt": "2026-09-08T07:06:43.825Z",
+    "updatedAt": "2026-09-08T07:06:43.825Z"
   },
   {
     "id": "36fcc9639f6adc8c",
@@ -24,8 +66,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a9f1e329a7947fc30a8bf19",
     "publishedAt": "2026-09-07T20:48:40.000Z",
-    "createdAt": "2026-09-08T01:02:49.797Z",
-    "updatedAt": "2026-09-08T01:02:49.797Z"
+    "createdAt": "2026-09-08T07:06:44.898Z",
+    "updatedAt": "2026-09-08T07:06:44.898Z"
   },
   {
     "id": "613c64a4ff5da828",
@@ -38,8 +80,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a8ca6c89a79470ae5977622",
     "publishedAt": "2026-09-07T20:01:00.000Z",
-    "createdAt": "2026-09-08T01:02:50.746Z",
-    "updatedAt": "2026-09-08T01:02:50.746Z"
+    "createdAt": "2026-09-08T07:06:46.022Z",
+    "updatedAt": "2026-09-08T07:06:46.022Z"
   },
   {
     "id": "4358827399039e8e",
@@ -52,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a9efe4d9a79471437c1f84c",
     "publishedAt": "2026-09-07T19:16:19.000Z",
-    "createdAt": "2026-09-08T01:02:53.658Z",
-    "updatedAt": "2026-09-08T01:02:53.658Z"
+    "createdAt": "2026-09-08T07:06:49.238Z",
+    "updatedAt": "2026-09-08T07:06:49.238Z"
   },
   {
     "id": "9f5057e7f3fecb23",
@@ -66,8 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a9eff219a7947f5b0461f34",
     "publishedAt": "2026-09-07T18:54:59.000Z",
-    "createdAt": "2026-09-08T01:02:54.605Z",
-    "updatedAt": "2026-09-08T01:02:54.605Z"
+    "createdAt": "2026-09-08T07:06:50.324Z",
+    "updatedAt": "2026-09-08T07:06:50.324Z"
   },
   {
     "id": "49d007f294274031",
@@ -80,36 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a9eff369a79475a5bb0ffa5",
     "publishedAt": "2026-09-07T18:47:07.000Z",
-    "createdAt": "2026-09-08T01:02:52.628Z",
-    "updatedAt": "2026-09-08T01:02:52.628Z"
-  },
-  {
-    "id": "c81cb01625f96f78",
-    "title": "«Рубин» сыграл вничью с «Ахматом»",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/3/52/347888044944523.jpeg",
-    "teaser": "«Рубин» сыграл вничью с «Ахматом»",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a9ef65a9a79471d2073ae69",
-    "publishedAt": "2026-09-07T18:33:08.000Z",
-    "createdAt": "2026-09-08T01:02:57.977Z",
-    "updatedAt": "2026-09-08T01:02:57.977Z"
-  },
-  {
-    "id": "1031f4ba6f72e281",
-    "title": "Мирра Андреева впервые в карьере вышла в четвертьфинал US Open",
-    "sport": "Теннис",
-    "category": "Теннис",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/1/38/347887907671381.jpeg",
-    "teaser": "Мирра Андреева впервые в карьере вышла в четвертьфинал US Open",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a9ec7969a79470657fff60f",
-    "publishedAt": "2026-09-07T17:40:02.000Z",
-    "createdAt": "2026-09-08T01:02:55.550Z",
-    "updatedAt": "2026-09-08T01:02:55.550Z"
+    "createdAt": "2026-09-08T07:06:48.175Z",
+    "updatedAt": "2026-09-08T07:06:48.175Z"
   },
   {
     "id": "50d7a02b95861f81",
@@ -122,21 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a9979229a79474296a5a609",
     "publishedAt": "2026-09-07T16:55:13.000Z",
-    "createdAt": "2026-09-08T01:02:51.695Z",
-    "updatedAt": "2026-09-08T01:02:51.695Z"
-  },
-  {
-    "id": "98a8628c7037aac2",
-    "title": "Кого потерял мир хоккея. 15 лет назад разбился самолет с «Локомотивом»",
-    "sport": "Хоккей",
-    "category": "Хоккей",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/7/63/347887686478637.jpeg",
-    "teaser": "Кого потерял мир хоккея. 15 лет назад разбился самолет с «Локомотивом»",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a9e71259a79474aca06a9ef",
-    "publishedAt": "2026-09-07T08:43:02.000Z",
-    "createdAt": "2026-09-08T01:02:56.939Z",
-    "updatedAt": "2026-09-08T01:02:56.939Z"
+    "createdAt": "2026-09-08T07:06:47.093Z",
+    "updatedAt": "2026-09-08T07:06:47.093Z"
   }
 ]
