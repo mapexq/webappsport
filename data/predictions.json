@@ -1,6 +1,86 @@
 [
   {
-    "id": 1788851193980,
+    "id": 1788871533303,
+    "eventName": "Металлург Магнитогорск — Амур",
+    "discipline": "Хоккей",
+    "tournament": "Чемпионат",
+    "expert": {
+      "name": "Никита Лудоман",
+      "avatar": "https://bookmaker-ratings.ru/static/images/badges/novice-letter.svg?v=30092024",
+      "status": "expert",
+      "winRate": 80
+    },
+    "prediction": "Ничья",
+    "odds": 1.5,
+    "comment": "Первую игру Металург одержал уверенную победу,думаю со второй не будет проблем",
+    "source": "Sports Analytics Pro"
+  },
+  {
+    "id": 1788871533304,
+    "eventName": "Рязань — Спартак Кострома",
+    "discipline": "Футбол",
+    "tournament": "Чемпионат",
+    "expert": {
+      "name": "Алим Калибатов",
+      "avatar": "https://static-uploads.prod.bookmaker-ratings.ru/2026/04/3dcfa3e614753a9566b9342464293-rb-webp-69d34c667554e-69d34c667cd17.webp?width=60",
+      "status": "expert",
+      "winRate": 73
+    },
+    "prediction": "Победа 2",
+    "odds": 1.65,
+    "comment": "Если \"Кострома\" не выставит резерв, то в гостях против \"Рязани\" должны побеждать. У гостей весьма мощная атакующая линия. П2 за 1.65.",
+    "source": "Sports Analytics Pro"
+  },
+  {
+    "id": 1788871533305,
+    "eventName": "Рязань — Спартак Кострома",
+    "discipline": "Футбол",
+    "tournament": "Чемпионат",
+    "expert": {
+      "name": "Николай Тюменцев",
+      "avatar": "https://bookmaker-ratings.ru/static/images/badges/novice-letter.svg?v=30092024",
+      "status": "expert",
+      "winRate": 86
+    },
+    "prediction": "Тотал (9.5) Б (удары в створ)",
+    "odds": 1.85,
+    "comment": "Играть будут на победу, атаки на противоходе, должны настрелять",
+    "source": "Sports Analytics Pro"
+  },
+  {
+    "id": 1788871533306,
+    "eventName": "Металлург Магнитогорск — Амур",
+    "discipline": "Хоккей",
+    "tournament": "Чемпионат",
+    "expert": {
+      "name": "Andrey Agapov",
+      "avatar": "https://bookmaker-ratings.ru/static/images/badges/forecaster-letter.svg?v=30092024",
+      "status": "expert",
+      "winRate": 79
+    },
+    "prediction": "Фора 1 (-1)",
+    "odds": 1.63,
+    "comment": "Металлург Магнитогорск уже обыгрвал на днях Амур, думаю сегодня повторит",
+    "source": "Sports Analytics Pro"
+  },
+  {
+    "id": 1788871533307,
+    "eventName": "Аль — Иттифак - Аль-Файсали Харма",
+    "discipline": "Футбол",
+    "tournament": "Чемпионат",
+    "expert": {
+      "name": "Суперфлаус Мэн",
+      "avatar": "https://bookmaker-ratings.ru/static/images/badges/novice-letter.svg?v=30092024",
+      "status": "expert",
+      "winRate": 81
+    },
+    "prediction": "Тотал 1-го тайма (1.5) Б",
+    "odds": 2.29,
+    "comment": "Аль-Иттифак в нынешнем сезоне играл дома три раза. В двух из этих игр в первом тайме забивалось больше одного мяча. Вели 2-0 и играли вничью 1-1. В еще одной 0-1 уступали. В первом дома и забивают и пропускают. Соперник в сезоне на выезде играл дважды и оба раза к перерыву так же было забито не менее двух мячей. Даже по три. Оба раза уступали - 3-0 и 2-1. Аль-Иттифак проводит результативные первые таймы на своем поле, Аль-Файсали на чужом. В очной игре себе изменить не должны.",
+    "source": "Sports Analytics Pro"
+  },
+  {
+    "id": 1788871533308,
     "eventName": "Текстильщик — Арсенал Тула",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -16,147 +96,67 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1788851193981,
-    "eventName": "Брюгге — Астон Вилла",
+    "id": 1788871533309,
+    "eventName": "Текстильщик — Арсенал Тула",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
     "expert": {
-      "name": "Дмитрий Рыбалка",
-      "avatar": "https://static-uploads.prod.bookmaker-ratings.ru/2026/08/818-rb-webp-6a7c191851082-6a7c191854cb7.webp?width=60",
+      "name": "Egor Popov",
+      "avatar": "https://bookmaker-ratings.ru/static/images/badges/novice-letter.svg?v=30092024",
+      "status": "expert",
+      "winRate": 75
+    },
+    "prediction": "Ничья",
+    "odds": 2.95,
+    "comment": "Комментарий к прогнозу",
+    "source": "Sports Analytics Pro"
+  },
+  {
+    "id": 1788871533310,
+    "eventName": "Локомотив — Шанхайские Драконы",
+    "discipline": "Хоккей",
+    "tournament": "Чемпионат",
+    "expert": {
+      "name": "Сэр Палпатин",
+      "avatar": "https://s3-static-prod.storage.yandexcloud.net/2026/09/images-rb-webp-3ce2445a5d29-076ec1fb33f9.webp",
+      "status": "expert",
+      "winRate": 70
+    },
+    "prediction": "Фора 1 (-1.5)",
+    "odds": 1.8,
+    "comment": "Чемпион дома, старт 5:1 и проблемы «Шанхая» в обороне дают перевес хозяевам.",
+    "source": "Sports Analytics Pro"
+  },
+  {
+    "id": 1788871533311,
+    "eventName": "Локомотив — Шанхайские Драконы",
+    "discipline": "Хоккей",
+    "tournament": "Чемпионат",
+    "expert": {
+      "name": "Вася Петров",
+      "avatar": "https://bookmaker-ratings.ru/static/images/badges/novice-letter.svg?v=30092024",
       "status": "expert",
       "winRate": 84
     },
-    "prediction": "Обе забьют (Да)",
-    "odds": 1.58,
-    "comment": "Обе забьют да, мой прогноз на этот матч. Хорошие команды , в исходы не полезу",
+    "prediction": "Фора 2 (+2.5)",
+    "odds": 1.47,
+    "comment": "Шансов у Драконов нет, Локо выиграет дома с разницей 3 шайбы и более",
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1788851193982,
-    "eventName": "Брюгге — Астон Вилла",
-    "discipline": "Футбол",
+    "id": 1788871533312,
+    "eventName": "Локомотив — Шанхайские Драконы",
+    "discipline": "Хоккей",
     "tournament": "Чемпионат",
     "expert": {
-      "name": "Алекс Ларин",
-      "avatar": "https://static-uploads.prod.bookmaker-ratings.ru/2026/09/BB97984D-8B57-40C7-8066-3D5594468515-rb-webp-6a9efc399e053-6a9efc39a1f1e.webp?width=60",
-      "status": "expert",
-      "winRate": 81
-    },
-    "prediction": "Тотал меньше (3)",
-    "odds": 1.69,
-    "comment": "В прошлый раз команды встречались в сезоне 2024/25 на стадии 1/8 плей-офф. Брюгге в обоих встречах пропустил по 3 мяча, ответив лишь одним играя дома. На этот раз нас ожидает «нишевый» футбол. На цифрах Астон Вилла немного в роли фаворита, но с такой игрой в последних матчах не стоит ожидать обилия голов. Брюгге тоже не радует результативностью в крайних играх.",
-    "source": "Sports Analytics Pro"
-  },
-  {
-    "id": 1788851193983,
-    "eventName": "Порту — Манчестер Сити",
-    "discipline": "Футбол",
-    "tournament": "Чемпионат",
-    "expert": {
-      "name": "Вадим Альянов",
-      "avatar": "https://s3-static-prod.storage.yandexcloud.net/2026/09/2026-09-0620-48-26-rb-webp-200af2bee687-580f1fd6edc3.webp",
+      "name": "Andrey Agapov",
+      "avatar": "https://bookmaker-ratings.ru/static/images/badges/forecaster-letter.svg?v=30092024",
       "status": "expert",
       "winRate": 79
     },
-    "prediction": "Победа 2",
-    "odds": 1.74,
-    "comment": "Ну тут Манчестер Сити имеет по моему мнению преимущество",
-    "source": "Sports Analytics Pro"
-  },
-  {
-    "id": 1788851193984,
-    "eventName": "Реал Мадрид — Интер",
-    "discipline": "Футбол",
-    "tournament": "Чемпионат",
-    "expert": {
-      "name": "Дмитрий Рыбалка",
-      "avatar": "https://static-uploads.prod.bookmaker-ratings.ru/2026/08/818-rb-webp-6a7c191851082-6a7c191854cb7.webp?width=60",
-      "status": "expert",
-      "winRate": 84
-    },
-    "prediction": "Тотал больше (3)",
-    "odds": 1.71,
-    "comment": "Интересный матч ожидает нас в первом туре Лиги чемпионов. Реал после поражения в чемпионате, озлобленный дома, в любимом своем турнире будет рвать и метать, Интер хороший, вытащили мёртвый матч с Наполи с -2 . Ожидаю большое количество голов в этом матче.",
-    "source": "Sports Analytics Pro"
-  },
-  {
-    "id": 1788851193985,
-    "eventName": "Порту — Манчестер Сити",
-    "discipline": "Футбол",
-    "tournament": "Чемпионат",
-    "expert": {
-      "name": "Дмитрий Рыбалка",
-      "avatar": "https://static-uploads.prod.bookmaker-ratings.ru/2026/08/818-rb-webp-6a7c191851082-6a7c191854cb7.webp?width=60",
-      "status": "expert",
-      "winRate": 84
-    },
-    "prediction": "Тотал больше (2.5)",
-    "odds": 1.7,
-    "comment": "Сити приедет и победит на Драгау через тотал больше 2.5, в гол Порту тоже верю",
-    "source": "Sports Analytics Pro"
-  },
-  {
-    "id": 1788851193986,
-    "eventName": "Матч",
-    "discipline": "Футбол",
-    "tournament": "Чемпионат",
-    "expert": {
-      "name": "Астон Вилла",
-      "avatar": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=100&h=100&fit=crop",
-      "status": "expert",
-      "winRate": 80
-    },
-    "prediction": "Обе забьют (Да)",
-    "odds": 1.58,
-    "comment": "Комментарий к прогнозу",
-    "source": "Sports Analytics Pro"
-  },
-  {
-    "id": 1788851193987,
-    "eventName": "Матч",
-    "discipline": "Футбол",
-    "tournament": "Чемпионат",
-    "expert": {
-      "name": "Астон Вилла",
-      "avatar": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=100&h=100&fit=crop",
-      "status": "expert",
-      "winRate": 80
-    },
-    "prediction": "Тотал меньше (3)",
-    "odds": 1.69,
-    "comment": "Комментарий к прогнозу",
-    "source": "Sports Analytics Pro"
-  },
-  {
-    "id": 1788851193988,
-    "eventName": "Матч",
-    "discipline": "Футбол",
-    "tournament": "Чемпионат",
-    "expert": {
-      "name": "Лига Чемпионов",
-      "avatar": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=100&h=100&fit=crop",
-      "status": "expert",
-      "winRate": 86
-    },
-    "prediction": "Ф1 (-1,5) по угловым",
-    "odds": 1.9,
-    "comment": "Комментарий к прогнозу",
-    "source": "Sports Analytics Pro"
-  },
-  {
-    "id": 1788851193989,
-    "eventName": "Матч",
-    "discipline": "Футбол",
-    "tournament": "Чемпионат",
-    "expert": {
-      "name": "Лига Чемпионов",
-      "avatar": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=100&h=100&fit=crop",
-      "status": "expert",
-      "winRate": 86
-    },
-    "prediction": "П1",
-    "odds": 1.6,
-    "comment": "Комментарий к прогнозу",
+    "prediction": "Тотал (5) Б",
+    "odds": 1.83,
+    "comment": "Шанхайские драконы огненно начали сезон, много забили, и пропустили",
     "source": "Sports Analytics Pro"
   }
 ]
