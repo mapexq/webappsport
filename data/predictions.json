@@ -1,39 +1,55 @@
 [
   {
-    "id": 1788978264865,
-    "eventName": "Рейнджерс — Сент-Миррен",
+    "id": 1788989629511,
+    "eventName": "ПСВ — Шахтёр",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
     "expert": {
-      "name": "Сулейман Билалов",
-      "avatar": "https://bookmaker-ratings.ru/static/images/badges/novice-letter.svg?v=30092024",
+      "name": "Akhmad Akhokhov",
+      "avatar": "https://bookmaker-ratings.ru/static/images/badges/forecaster-letter.svg?v=30092024",
       "status": "expert",
-      "winRate": 79
+      "winRate": 73
     },
-    "prediction": "Победа 1",
-    "odds": 1.3,
-    "comment": "Рейнджеры легко обыграют своих соперников в домашнем матче",
+    "prediction": "Ф1(-1)",
+    "odds": 1.62,
+    "comment": "ПСВ на своем поле должны обыгрывать Шахтер, тем более дома",
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1788978264866,
-    "eventName": "Рейнджерс — Сент-Миррен",
+    "id": 1788989629512,
+    "eventName": "Бавария — Будё-Глимт",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
     "expert": {
-      "name": "Larocka Cepurnova",
-      "avatar": "https://s3-static-prod.storage.yandexcloud.net/2026/09/images-rb-webp-75a830173cb5-dde0b85a1ec5.webp",
+      "name": "Akhmad Akhokhov",
+      "avatar": "https://bookmaker-ratings.ru/static/images/badges/forecaster-letter.svg?v=30092024",
       "status": "expert",
-      "winRate": 76
+      "winRate": 73
     },
-    "prediction": "Тотал больше (1.5)",
-    "odds": 1.15,
-    "comment": "Яркая история личных встреч. В августе 2026 года команды уже встречались на стадионе «Айброкс» в рамках Кубка шотландской лиги. Тот матч завершился разгромной победой «Рейнджерс» со счетом 5:1. Команды наглядно показали, что не боятся играть друг с другом в открытый футбол. Атакующий потенциал «Сент-Миррена». Гости отлично начали этот сезон Премьершипа и идут на третьем месте. Они забивают в среднем 1.6 гола за игру. Даже в недавнем проигранном матче против мощного «Селтика» (1:2) «Сент-Миррен» смог распечатать ворота чемпионов. Команда умеет остро контратаковать, что повышает шансы на голы с обеих сторон.",
+    "prediction": "Ф1(-3)",
+    "odds": 2.12,
+    "comment": "Ожидаю от матча разгром, Будё Глимт,был хорош в прошлом розыгрыше, но увы Бавария уверенно разромит норвежцев",
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1788978264867,
-    "eventName": "Спортинг — Галатасарай",
+    "id": 1788989629513,
+    "eventName": "Манчестер Юнайтед — Сабах Баку",
+    "discipline": "Футбол",
+    "tournament": "Чемпионат",
+    "expert": {
+      "name": "Сабах Баку",
+      "avatar": "https://bookmaker-ratings.ru/static/images/badges/forecaster-letter.svg?v=30092024",
+      "status": "expert",
+      "winRate": 71
+    },
+    "prediction": "Фора 1 (-2.5)",
+    "odds": 1.85,
+    "comment": "Сабах едет к именитому Манчестеру Юнайтеду. Несмотря на симпатичную игру впереди Сабах все таки является большим андердогом и выдерать атакующие натиски Манчестера а Англии будет очень сложно",
+    "source": "Sports Analytics Pro"
+  },
+  {
+    "id": 1788989629514,
+    "eventName": "Сандерленд — Арсенал",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
     "expert": {
@@ -42,13 +58,29 @@
       "status": "expert",
       "winRate": 84
     },
-    "prediction": "Тотал больше (2.5)",
-    "odds": 1.68,
-    "comment": "Ожидаю большое количество голов в этом матче, Спортинг несется, в хорошей форме линия атаки, Галатасарай просто не умеет играть скучно и от обороны",
+    "prediction": "Тотал Арсенал больше (1.5)",
+    "odds": 1.73,
+    "comment": "Арсенал без проблем приедет и забьет 2 гола и спокойно увезет 3 очка",
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1788978264868,
+    "id": 1788989629515,
+    "eventName": "Эльверсберг — Бавария",
+    "discipline": "Футбол",
+    "tournament": "Чемпионат",
+    "expert": {
+      "name": "Дмитрий Рыбалка",
+      "avatar": "https://static-uploads.prod.bookmaker-ratings.ru/2026/08/818-rb-webp-6a7c191851082-6a7c191854cb7.webp?width=60",
+      "status": "expert",
+      "winRate": 84
+    },
+    "prediction": "Ф2(-1.5)",
+    "odds": 1.57,
+    "comment": "Второй раз Бавария не оступится на одних граблях, выйдут и разорвут аутсайдера",
+    "source": "Sports Analytics Pro"
+  },
+  {
+    "id": 1788989629516,
     "eventName": "Ливерпуль — Атлетико Мадрид",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -64,87 +96,23 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1788978264869,
+    "id": 1788989629517,
     "eventName": "Наполи — Арсенал",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
     "expert": {
-      "name": "Галина Сергеевна",
-      "avatar": "https://static-uploads.prod.bookmaker-ratings.ru/2026/07/DCA9729B-09CA-4FDF-A5DC-E4DA364CF7AB-rb-webp-6a59e1a23a292-6a59e1a23daa8.webp?width=60",
+      "name": "Константин Генич",
+      "avatar": "https://static-uploads.prod.bookmaker-ratings.ru/2023/11/Genich.png?width=60",
       "status": "expert",
-      "winRate": 83
+      "winRate": 74
     },
-    "prediction": "Тотал меньше (1.5)",
-    "odds": 3.5,
-    "comment": "Ставлю на то, что в игре будет мало забитых голов, оба тренера ценят оборону",
+    "prediction": "ТМ (2,5)",
+    "odds": 1.9,
+    "comment": "Одна из самых ярких пар в первом туре — это, конечно же, противостояние в Неаполе на стадионе имени Диего Армандо Марадоны. «Наполи» будет принимать «Арсенал», который в прошлом сезоне, как мы помним, выиграл вообще все матчи на групповой стадии, выиграл этот гладкий лигочемпионский чемпионат. И в итоге только в финале лондонцы оступились, проиграв «ПСЖ» в серии пенальти. «Наполи» не удержал преимущество в 2 мяча и проиграл «Интеру» — 2:3. Вообще, 2 поражения подряд у команды Массимилиано Аллегри. До этого еще «Комо» на своем поле уступили — 1:2. Поэтому здесь основной акцент, я думаю, Аллегри сделает на оборону. А «Арсенал» сам всегда делает акцент на оборону. Он выиграл все свои 3 игры в АПЛ, скромненько, аккуратно, но, понятно, там «Ковентри» вообще не соперник, потом на выезде в Бирмингеме «Астон Виллу» обыграли, сейчас в дерби обыграли «Челси», нанеся первое поражение команде Хаби Алонсо. Играть в обороне этот «Арсенал» умеет. И я думаю, что и Артета сделает определенный акцент на оборону, и «Наполи». Раскрываться сразу в первом туре вряд ли кто-то решит и вряд ли кто-то захочет. На мой взгляд, будет очень тугая и плотная игра без большого количества моментов. И я предполагаю, что матч будет не очень результативный. Можно сыграть «тотал меньше 2,5» за хороший коэффициент 1,9. И я бы рассмотрел «тотал 1-го тайма меньше 1 гола» за 1,9. Если забьют один, то будет расход. И, возможно, рассмотрел бы за хороший коэффициент 2,75 ничью 0:0 в 1-м тайме.",
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1788978264870,
-    "eventName": "Спортинг — Галатасарай",
-    "discipline": "Футбол",
-    "tournament": "Чемпионат",
-    "expert": {
-      "name": "Игорь Шепель",
-      "avatar": "https://bookmaker-ratings.ru/static/images/badges/novice-letter.svg?v=30092024",
-      "status": "expert",
-      "winRate": 87
-    },
-    "prediction": "Индивидуальный тотал 2 Больше (1.5)",
-    "odds": 2.79,
-    "comment": "Хорошо закупились. Батраков закинет гол или асист сделает.",
-    "source": "Sports Analytics Pro"
-  },
-  {
-    "id": 1788978264871,
-    "eventName": "Челси — Лидс Юнайтед",
-    "discipline": "Футбол",
-    "tournament": "Чемпионат",
-    "expert": {
-      "name": "Игорь Шепель",
-      "avatar": "https://bookmaker-ratings.ru/static/images/badges/novice-letter.svg?v=30092024",
-      "status": "expert",
-      "winRate": 87
-    },
-    "prediction": "Обе забьют - Да",
-    "odds": 1.66,
-    "comment": "Маловажный матч, Челси основа отдохнет, поэтому оз пробьют",
-    "source": "Sports Analytics Pro"
-  },
-  {
-    "id": 1788978264872,
-    "eventName": "Наполи — Арсенал",
-    "discipline": "Футбол",
-    "tournament": "Чемпионат",
-    "expert": {
-      "name": "Akhmad Akhokhov",
-      "avatar": "https://bookmaker-ratings.ru/static/images/badges/forecaster-letter.svg?v=30092024",
-      "status": "expert",
-      "winRate": 73
-    },
-    "prediction": "Тотал Арсенал больше (1.5)",
-    "odds": 1.85,
-    "comment": "Арсенал силен, Наполи уже не тот, и скорее всего лонданцы минимум забьют два гола",
-    "source": "Sports Analytics Pro"
-  },
-  {
-    "id": 1788978264873,
-    "eventName": "ПСЖ — Слован",
-    "discipline": "Футбол",
-    "tournament": "Чемпионат",
-    "expert": {
-      "name": "Akhmad Akhokhov",
-      "avatar": "https://bookmaker-ratings.ru/static/images/badges/forecaster-letter.svg?v=30092024",
-      "status": "expert",
-      "winRate": 73
-    },
-    "prediction": "Ф1(-3)",
-    "odds": 1.72,
-    "comment": "Не самый сильный соперник для парижан, но после двух ничьейных исходов в чемпионате, парижаны должны пройтись катком по Слован",
-    "source": "Sports Analytics Pro"
-  },
-  {
-    "id": 1788978264874,
+    "id": 1788989629518,
     "eventName": "Матч",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -154,8 +122,40 @@
       "status": "expert",
       "winRate": 86
     },
-    "prediction": "ТМ (3,5)",
-    "odds": 1.54,
+    "prediction": "ТБ (2,5) и обе забьют — да",
+    "odds": 2,
+    "comment": "Комментарий к прогнозу",
+    "source": "Sports Analytics Pro"
+  },
+  {
+    "id": 1788989629519,
+    "eventName": "Матч",
+    "discipline": "Футбол",
+    "tournament": "Чемпионат",
+    "expert": {
+      "name": "Лига Чемпионов",
+      "avatar": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=100&h=100&fit=crop",
+      "status": "expert",
+      "winRate": 86
+    },
+    "prediction": "ТБ (2,5) и обе забьют — да",
+    "odds": 1.9,
+    "comment": "Комментарий к прогнозу",
+    "source": "Sports Analytics Pro"
+  },
+  {
+    "id": 1788989629520,
+    "eventName": "Матч",
+    "discipline": "Футбол",
+    "tournament": "Чемпионат",
+    "expert": {
+      "name": "Сабах Баку",
+      "avatar": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=100&h=100&fit=crop",
+      "status": "expert",
+      "winRate": 71
+    },
+    "prediction": "П1 и ТБ (3,5)",
+    "odds": 1.75,
     "comment": "Комментарий к прогнозу",
     "source": "Sports Analytics Pro"
   }
