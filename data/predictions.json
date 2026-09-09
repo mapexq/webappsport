@@ -1,6 +1,134 @@
 [
   {
-    "id": 1788926658959,
+    "id": 1788946152791,
+    "eventName": "Сидней — Мельбурн Виктори",
+    "discipline": "Футбол",
+    "tournament": "Чемпионат",
+    "expert": {
+      "name": "Andrey Agapov",
+      "avatar": "https://bookmaker-ratings.ru/static/images/badges/forecaster-letter.svg?v=30092024",
+      "status": "expert",
+      "winRate": 79
+    },
+    "prediction": "Тотал (10.5) Б (угловые)",
+    "odds": 1.66,
+    "comment": "В матчах между этими командами подаются угловых и по больше",
+    "source": "Sports Analytics Pro"
+  },
+  {
+    "id": 1788946152792,
+    "eventName": "Сидней — Мельбурн Виктори",
+    "discipline": "Футбол",
+    "tournament": "Чемпионат",
+    "expert": {
+      "name": "Andrey Agapov",
+      "avatar": "https://bookmaker-ratings.ru/static/images/badges/forecaster-letter.svg?v=30092024",
+      "status": "expert",
+      "winRate": 79
+    },
+    "prediction": "Индивидуальный тотал 1 Больше (2) (жёлтые карточки)",
+    "odds": 2.07,
+    "comment": "Матчи между этими командами проходят горячо, много нарушений",
+    "source": "Sports Analytics Pro"
+  },
+  {
+    "id": 1788946152793,
+    "eventName": "Сидней — Мельбурн Виктори",
+    "discipline": "Футбол",
+    "tournament": "Чемпионат",
+    "expert": {
+      "name": "Andrey Agapov",
+      "avatar": "https://bookmaker-ratings.ru/static/images/badges/forecaster-letter.svg?v=30092024",
+      "status": "expert",
+      "winRate": 79
+    },
+    "prediction": "Индивидуальный тотал 2 Больше (2) (жёлтые карточки)",
+    "odds": 1.9,
+    "comment": "Прогноз исходя из статистики, в живую игры этих команд не видел",
+    "source": "Sports Analytics Pro"
+  },
+  {
+    "id": 1788946152794,
+    "eventName": "Нагано Персейро — Мито Холлихок",
+    "discipline": "Футбол",
+    "tournament": "Чемпионат",
+    "expert": {
+      "name": "Andrey Agapov",
+      "avatar": "https://bookmaker-ratings.ru/static/images/badges/forecaster-letter.svg?v=30092024",
+      "status": "expert",
+      "winRate": 79
+    },
+    "prediction": "Индивидуальный тотал 2 Больше (1.5)",
+    "odds": 1.5,
+    "comment": "Комментарий к прогнозу",
+    "source": "Sports Analytics Pro"
+  },
+  {
+    "id": 1788946152795,
+    "eventName": "Мацумото Ямага — Сёнан Бельмаре",
+    "discipline": "Футбол",
+    "tournament": "Чемпионат",
+    "expert": {
+      "name": "Вита Журенко",
+      "avatar": "https://bookmaker-ratings.ru/static/images/badges/novice-letter.svg?v=30092024",
+      "status": "expert",
+      "winRate": 83
+    },
+    "prediction": "Обе забьют - Да",
+    "odds": 1.85,
+    "comment": "Думаю оба коллектива смогут забить друг другу по голу",
+    "source": "Sports Analytics Pro"
+  },
+  {
+    "id": 1788946152796,
+    "eventName": "Волна Ковернино — Ротор",
+    "discipline": "Футбол",
+    "tournament": "Чемпионат",
+    "expert": {
+      "name": "Александр Никитин",
+      "avatar": "https://bookmaker-ratings.ru/static/images/badges/novice-letter.svg?v=30092024",
+      "status": "expert",
+      "winRate": 72
+    },
+    "prediction": "Обе забьют - Да",
+    "odds": 1.85,
+    "comment": "Волна - Ротор. Обе забьют — да: открытый футбол, обмен голами и ничья 1:1 или 2:2.",
+    "source": "Sports Analytics Pro"
+  },
+  {
+    "id": 1788946152797,
+    "eventName": "Сардарапат — Пюник Ереван",
+    "discipline": "Футбол",
+    "tournament": "Чемпионат",
+    "expert": {
+      "name": "Сулейман Билалов",
+      "avatar": "https://bookmaker-ratings.ru/static/images/badges/novice-letter.svg?v=30092024",
+      "status": "expert",
+      "winRate": 79
+    },
+    "prediction": "Победа 2",
+    "odds": 1.42,
+    "comment": "Пюник вёдет борьбу за чемпионство и терять очки они захотят",
+    "source": "Sports Analytics Pro"
+  },
+  {
+    "id": 1788946152798,
+    "eventName": "Красное Знамя — СКА Хабаровск",
+    "discipline": "Футбол",
+    "tournament": "Чемпионат",
+    "expert": {
+      "name": "Сулейман Билалов",
+      "avatar": "https://bookmaker-ratings.ru/static/images/badges/novice-letter.svg?v=30092024",
+      "status": "expert",
+      "winRate": 79
+    },
+    "prediction": "Победа 2",
+    "odds": 1.52,
+    "comment": "Хабаровчане засчет мастерства думаю что гости победят",
+    "source": "Sports Analytics Pro"
+  },
+  {
+    "id": 1788946152799,
     "eventName": "Калуга — Уфа",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -16,147 +144,19 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1788926658961,
-    "eventName": "Барселона — Фейеноорд",
+    "id": 1788946152800,
+    "eventName": "Калуга — Уфа",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
     "expert": {
-      "name": "Игорь Шепель",
+      "name": "Сулейман Билалов",
       "avatar": "https://bookmaker-ratings.ru/static/images/badges/novice-letter.svg?v=30092024",
       "status": "expert",
-      "winRate": 87
+      "winRate": 79
     },
-    "prediction": "Обе забьют - Да",
-    "odds": 1.79,
-    "comment": "Первый матч, Фейнорду париться рано, поэтому будет открытая игра с обеих сторон",
-    "source": "Sports Analytics Pro"
-  },
-  {
-    "id": 1788926658962,
-    "eventName": "Барселона — Фейеноорд",
-    "discipline": "Футбол",
-    "tournament": "Чемпионат",
-    "expert": {
-      "name": "Akhmad Akhokhov",
-      "avatar": "https://bookmaker-ratings.ru/static/images/badges/forecaster-letter.svg?v=30092024",
-      "status": "expert",
-      "winRate": 73
-    },
-    "prediction": "Тотал Барселона больше (2.5)",
-    "odds": 3.7,
-    "comment": "Барселона забивает прилично, в атаке все хорошо, думаю должны пробить тотал инд 2,5",
-    "source": "Sports Analytics Pro"
-  },
-  {
-    "id": 1788926658963,
-    "eventName": "Штутгарт — Викинг",
-    "discipline": "Футбол",
-    "tournament": "Чемпионат",
-    "expert": {
-      "name": "Akhmad Akhokhov",
-      "avatar": "https://bookmaker-ratings.ru/static/images/badges/forecaster-letter.svg?v=30092024",
-      "status": "expert",
-      "winRate": 73
-    },
-    "prediction": "Ф1(-1.5)",
-    "odds": 1.61,
-    "comment": "Немцы выглядят фаворитом матча, и думаю должны выигрывать матч с разницей минимум в два мяча",
-    "source": "Sports Analytics Pro"
-  },
-  {
-    "id": 1788926658964,
-    "eventName": "Спортинг — Галатасарай",
-    "discipline": "Футбол",
-    "tournament": "Чемпионат",
-    "expert": {
-      "name": "Дмитрий Рыбалка",
-      "avatar": "https://static-uploads.prod.bookmaker-ratings.ru/2026/08/818-rb-webp-6a7c191851082-6a7c191854cb7.webp?width=60",
-      "status": "expert",
-      "winRate": 84
-    },
-    "prediction": "Тотал больше (2.5)",
-    "odds": 1.68,
-    "comment": "Ожидаю большое количество голов в этом матче, Спортинг несется, в хорошей форме линия атаки, Галатасарай просто не умеет играть скучно и от обороны",
-    "source": "Sports Analytics Pro"
-  },
-  {
-    "id": 1788926658965,
-    "eventName": "Матч",
-    "discipline": "Футбол",
-    "tournament": "Чемпионат",
-    "expert": {
-      "name": "Лига Чемпионов",
-      "avatar": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=100&h=100&fit=crop",
-      "status": "expert",
-      "winRate": 86
-    },
-    "prediction": "1Х и обе забьют",
-    "odds": 2.3,
-    "comment": "Комментарий к прогнозу",
-    "source": "Sports Analytics Pro"
-  },
-  {
-    "id": 1788926658966,
-    "eventName": "Матч",
-    "discipline": "Футбол",
-    "tournament": "Чемпионат",
-    "expert": {
-      "name": "Лига Чемпионов",
-      "avatar": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=100&h=100&fit=crop",
-      "status": "expert",
-      "winRate": 86
-    },
-    "prediction": "ИТ1 2-3 гола",
-    "odds": 2,
-    "comment": "Комментарий к прогнозу",
-    "source": "Sports Analytics Pro"
-  },
-  {
-    "id": 1788926658967,
-    "eventName": "Матч",
-    "discipline": "Футбол",
-    "tournament": "Чемпионат",
-    "expert": {
-      "name": "Лига Чемпионов",
-      "avatar": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=100&h=100&fit=crop",
-      "status": "expert",
-      "winRate": 86
-    },
-    "prediction": "П2",
-    "odds": 1.76,
-    "comment": "Комментарий к прогнозу",
-    "source": "Sports Analytics Pro"
-  },
-  {
-    "id": 1788926658968,
-    "eventName": "Матч",
-    "discipline": "Футбол",
-    "tournament": "Чемпионат",
-    "expert": {
-      "name": "Лига Чемпионов",
-      "avatar": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=100&h=100&fit=crop",
-      "status": "expert",
-      "winRate": 86
-    },
-    "prediction": "Х2 и обе забьют",
-    "odds": 1.95,
-    "comment": "Комментарий к прогнозу",
-    "source": "Sports Analytics Pro"
-  },
-  {
-    "id": 1788926658969,
-    "eventName": "Матч",
-    "discipline": "Футбол",
-    "tournament": "Чемпионат",
-    "expert": {
-      "name": "Лига Чемпионов",
-      "avatar": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=100&h=100&fit=crop",
-      "status": "expert",
-      "winRate": 86
-    },
-    "prediction": "П2",
-    "odds": 1.77,
-    "comment": "Комментарий к прогнозу",
+    "prediction": "Победа 2",
+    "odds": 1.65,
+    "comment": "Уфимская команда не должна проиграть сопернику рангом ниже",
     "source": "Sports Analytics Pro"
   }
 ]
