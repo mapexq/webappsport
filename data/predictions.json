@@ -1,134 +1,6 @@
 [
   {
-    "id": 1788946152791,
-    "eventName": "Сидней — Мельбурн Виктори",
-    "discipline": "Футбол",
-    "tournament": "Чемпионат",
-    "expert": {
-      "name": "Andrey Agapov",
-      "avatar": "https://bookmaker-ratings.ru/static/images/badges/forecaster-letter.svg?v=30092024",
-      "status": "expert",
-      "winRate": 79
-    },
-    "prediction": "Тотал (10.5) Б (угловые)",
-    "odds": 1.66,
-    "comment": "В матчах между этими командами подаются угловых и по больше",
-    "source": "Sports Analytics Pro"
-  },
-  {
-    "id": 1788946152792,
-    "eventName": "Сидней — Мельбурн Виктори",
-    "discipline": "Футбол",
-    "tournament": "Чемпионат",
-    "expert": {
-      "name": "Andrey Agapov",
-      "avatar": "https://bookmaker-ratings.ru/static/images/badges/forecaster-letter.svg?v=30092024",
-      "status": "expert",
-      "winRate": 79
-    },
-    "prediction": "Индивидуальный тотал 1 Больше (2) (жёлтые карточки)",
-    "odds": 2.07,
-    "comment": "Матчи между этими командами проходят горячо, много нарушений",
-    "source": "Sports Analytics Pro"
-  },
-  {
-    "id": 1788946152793,
-    "eventName": "Сидней — Мельбурн Виктори",
-    "discipline": "Футбол",
-    "tournament": "Чемпионат",
-    "expert": {
-      "name": "Andrey Agapov",
-      "avatar": "https://bookmaker-ratings.ru/static/images/badges/forecaster-letter.svg?v=30092024",
-      "status": "expert",
-      "winRate": 79
-    },
-    "prediction": "Индивидуальный тотал 2 Больше (2) (жёлтые карточки)",
-    "odds": 1.9,
-    "comment": "Прогноз исходя из статистики, в живую игры этих команд не видел",
-    "source": "Sports Analytics Pro"
-  },
-  {
-    "id": 1788946152794,
-    "eventName": "Нагано Персейро — Мито Холлихок",
-    "discipline": "Футбол",
-    "tournament": "Чемпионат",
-    "expert": {
-      "name": "Andrey Agapov",
-      "avatar": "https://bookmaker-ratings.ru/static/images/badges/forecaster-letter.svg?v=30092024",
-      "status": "expert",
-      "winRate": 79
-    },
-    "prediction": "Индивидуальный тотал 2 Больше (1.5)",
-    "odds": 1.5,
-    "comment": "Комментарий к прогнозу",
-    "source": "Sports Analytics Pro"
-  },
-  {
-    "id": 1788946152795,
-    "eventName": "Мацумото Ямага — Сёнан Бельмаре",
-    "discipline": "Футбол",
-    "tournament": "Чемпионат",
-    "expert": {
-      "name": "Вита Журенко",
-      "avatar": "https://bookmaker-ratings.ru/static/images/badges/novice-letter.svg?v=30092024",
-      "status": "expert",
-      "winRate": 83
-    },
-    "prediction": "Обе забьют - Да",
-    "odds": 1.85,
-    "comment": "Думаю оба коллектива смогут забить друг другу по голу",
-    "source": "Sports Analytics Pro"
-  },
-  {
-    "id": 1788946152796,
-    "eventName": "Волна Ковернино — Ротор",
-    "discipline": "Футбол",
-    "tournament": "Чемпионат",
-    "expert": {
-      "name": "Александр Никитин",
-      "avatar": "https://bookmaker-ratings.ru/static/images/badges/novice-letter.svg?v=30092024",
-      "status": "expert",
-      "winRate": 72
-    },
-    "prediction": "Обе забьют - Да",
-    "odds": 1.85,
-    "comment": "Волна - Ротор. Обе забьют — да: открытый футбол, обмен голами и ничья 1:1 или 2:2.",
-    "source": "Sports Analytics Pro"
-  },
-  {
-    "id": 1788946152797,
-    "eventName": "Сардарапат — Пюник Ереван",
-    "discipline": "Футбол",
-    "tournament": "Чемпионат",
-    "expert": {
-      "name": "Сулейман Билалов",
-      "avatar": "https://bookmaker-ratings.ru/static/images/badges/novice-letter.svg?v=30092024",
-      "status": "expert",
-      "winRate": 79
-    },
-    "prediction": "Победа 2",
-    "odds": 1.42,
-    "comment": "Пюник вёдет борьбу за чемпионство и терять очки они захотят",
-    "source": "Sports Analytics Pro"
-  },
-  {
-    "id": 1788946152798,
-    "eventName": "Красное Знамя — СКА Хабаровск",
-    "discipline": "Футбол",
-    "tournament": "Чемпионат",
-    "expert": {
-      "name": "Сулейман Билалов",
-      "avatar": "https://bookmaker-ratings.ru/static/images/badges/novice-letter.svg?v=30092024",
-      "status": "expert",
-      "winRate": 79
-    },
-    "prediction": "Победа 2",
-    "odds": 1.52,
-    "comment": "Хабаровчане засчет мастерства думаю что гости победят",
-    "source": "Sports Analytics Pro"
-  },
-  {
-    "id": 1788946152799,
+    "id": 1788963429496,
     "eventName": "Калуга — Уфа",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -144,7 +16,7 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1788946152800,
+    "id": 1788963429497,
     "eventName": "Калуга — Уфа",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -157,6 +29,134 @@
     "prediction": "Победа 2",
     "odds": 1.65,
     "comment": "Уфимская команда не должна проиграть сопернику рангом ниже",
+    "source": "Sports Analytics Pro"
+  },
+  {
+    "id": 1788963429498,
+    "eventName": "Пирамидз — Эль-Гуна",
+    "discipline": "Футбол",
+    "tournament": "Чемпионат",
+    "expert": {
+      "name": "Сулейман Билалов",
+      "avatar": "https://bookmaker-ratings.ru/static/images/badges/novice-letter.svg?v=30092024",
+      "status": "expert",
+      "winRate": 79
+    },
+    "prediction": "Победа 1",
+    "odds": 1.39,
+    "comment": "Один из лидеров чемпионата легко обыграет своего соперника",
+    "source": "Sports Analytics Pro"
+  },
+  {
+    "id": 1788963429499,
+    "eventName": "Нефтчи Фергана — Сурхан",
+    "discipline": "Футбол",
+    "tournament": "Чемпионат",
+    "expert": {
+      "name": "Сулейман Билалов",
+      "avatar": "https://bookmaker-ratings.ru/static/images/badges/novice-letter.svg?v=30092024",
+      "status": "expert",
+      "winRate": 79
+    },
+    "prediction": "Победа 1",
+    "odds": 1.29,
+    "comment": "Для лидера чемпионата это будет очередная победа без проблем",
+    "source": "Sports Analytics Pro"
+  },
+  {
+    "id": 1788963429500,
+    "eventName": "Фьюче — Вади Дегла",
+    "discipline": "Футбол",
+    "tournament": "Чемпионат",
+    "expert": {
+      "name": "Andrey Agapov",
+      "avatar": "https://bookmaker-ratings.ru/static/images/badges/forecaster-letter.svg?v=30092024",
+      "status": "expert",
+      "winRate": 79
+    },
+    "prediction": "Тотал (2) Б",
+    "odds": 2.13,
+    "comment": "Прогноз исходя из статистики, в живую игры этих команд не видел",
+    "source": "Sports Analytics Pro"
+  },
+  {
+    "id": 1788963429501,
+    "eventName": "Яблонец — Баник",
+    "discipline": "Футбол",
+    "tournament": "Чемпионат",
+    "expert": {
+      "name": "Вита Журенко",
+      "avatar": "https://bookmaker-ratings.ru/static/images/badges/novice-letter.svg?v=30092024",
+      "status": "expert",
+      "winRate": 83
+    },
+    "prediction": "Тотал (2.5) Б",
+    "odds": 1.79,
+    "comment": "Думаю игра будет результативной и команды пробьют Тотал 2,5 больше",
+    "source": "Sports Analytics Pro"
+  },
+  {
+    "id": 1788963429502,
+    "eventName": "Динамо Ставрополь — Нижний Новгород",
+    "discipline": "Футбол",
+    "tournament": "Чемпионат",
+    "expert": {
+      "name": "Сулейман Билалов",
+      "avatar": "https://bookmaker-ratings.ru/static/images/badges/novice-letter.svg?v=30092024",
+      "status": "expert",
+      "winRate": 79
+    },
+    "prediction": "Фора 2 (-1)",
+    "odds": 1.27,
+    "comment": "Один из лидеров первой лиги думаю сегодня пройдет дальше",
+    "source": "Sports Analytics Pro"
+  },
+  {
+    "id": 1788963429503,
+    "eventName": "ЦСКА — Торпедо",
+    "discipline": "Хоккей",
+    "tournament": "Чемпионат",
+    "expert": {
+      "name": "Сэр Палпатин",
+      "avatar": "https://s3-static-prod.storage.yandexcloud.net/2026/09/images-rb-webp-3ce2445a5d29-076ec1fb33f9.webp",
+      "status": "expert",
+      "winRate": 70
+    },
+    "prediction": "Тотал (5.5) Б",
+    "odds": 2.25,
+    "comment": "В 8 из 10 очных матчей в Москве пробивали 5.5 шайб, жду результативную игру.",
+    "source": "Sports Analytics Pro"
+  },
+  {
+    "id": 1788963429504,
+    "eventName": "Матч",
+    "discipline": "Футбол",
+    "tournament": "Чемпионат",
+    "expert": {
+      "name": "Вади Дегла",
+      "avatar": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=100&h=100&fit=crop",
+      "status": "expert",
+      "winRate": 81
+    },
+    "prediction": "Тотал (2) Б",
+    "odds": 2.13,
+    "comment": "Комментарий к прогнозу",
+    "source": "Sports Analytics Pro"
+  },
+  {
+    "id": 1788963429505,
+    "eventName": "Матч",
+    "discipline": "Футбол",
+    "tournament": "Чемпионат",
+    "expert": {
+      "name": "Нижний Новгород",
+      "avatar": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=100&h=100&fit=crop",
+      "status": "expert",
+      "winRate": 83
+    },
+    "prediction": "Фора 2 (-1)",
+    "odds": 1.27,
+    "comment": "Комментарий к прогнозу",
     "source": "Sports Analytics Pro"
   }
 ]
