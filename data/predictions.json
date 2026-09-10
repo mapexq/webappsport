@@ -1,103 +1,7 @@
 [
   {
-    "id": 1789049432874,
-    "eventName": "Локомотив — Северсталь",
-    "discipline": "Хоккей",
-    "tournament": "Чемпионат",
-    "expert": {
-      "name": "Никита Прохор",
-      "avatar": "https://bookmaker-ratings.ru/static/images/badges/novice-letter.svg?v=30092024",
-      "status": "expert",
-      "winRate": 89
-    },
-    "prediction": "Ничья",
-    "odds": 1.6,
-    "comment": "Локомотив очень силен дома,думаю победу они не упустят",
-    "source": "Sports Analytics Pro"
-  },
-  {
-    "id": 1789049432875,
-    "eventName": "Локомотив — Северсталь",
-    "discipline": "Хоккей",
-    "tournament": "Чемпионат",
-    "expert": {
-      "name": "Евгений Поморов",
-      "avatar": "https://static-uploads.prod.bookmaker-ratings.ru/2023/09/Corsi.png?width=60",
-      "status": "expert",
-      "winRate": 74
-    },
-    "prediction": "Индивидуальный тотал 1 Больше (3)",
-    "odds": 1.9,
-    "comment": "Локомотив в текущем чемпионате оставляет самое целостное впечатление из всех участвующих команд – в первых двух матчах были обыграны Трактор и Шанхайские Драконы. Отлично действует нападение, где любое звено способно забросить шайбу. Северсталь, не отличается надежной игрой в обороне. Команда Андрея Козырева много создает голевых моментов и много позволяет сделать у своих ворот. В крайней игре Александр Самойлов засушил Ладу, две игры подряд провести на таком уровне будет сложно.",
-    "source": "Sports Analytics Pro"
-  },
-  {
-    "id": 1789049432876,
-    "eventName": "Аль-Сайлия — Аль-Садд",
-    "discipline": "Футбол",
-    "tournament": "Чемпионат",
-    "expert": {
-      "name": "Вита Журенко",
-      "avatar": "https://bookmaker-ratings.ru/static/images/badges/novice-letter.svg?v=30092024",
-      "status": "expert",
-      "winRate": 83
-    },
-    "prediction": "Обе забьют (Да)",
-    "odds": 1.76,
-    "comment": "Думаю обе команды забьют друг другу а почему нет столько игр забивали и сегодня забьют",
-    "source": "Sports Analytics Pro"
-  },
-  {
-    "id": 1789049432877,
-    "eventName": "Спартак Москва — СКА",
-    "discipline": "Хоккей",
-    "tournament": "Чемпионат",
-    "expert": {
-      "name": "Вячеслав Николаевич",
-      "avatar": "https://bookmaker-ratings.ru/static/images/badges/novice-letter.svg?v=30092024",
-      "status": "expert",
-      "winRate": 89
-    },
-    "prediction": "Победа 2",
-    "odds": 2.85,
-    "comment": "Команды обменяются голами игра будет результативной голов будет много",
-    "source": "Sports Analytics Pro"
-  },
-  {
-    "id": 1789049432878,
-    "eventName": "Спартак Москва — СКА",
-    "discipline": "Хоккей",
-    "tournament": "Чемпионат",
-    "expert": {
-      "name": "Evgeniy Korablev",
-      "avatar": "https://bookmaker-ratings.ru/static/images/badges/novice-letter.svg?v=30092024",
-      "status": "expert",
-      "winRate": 79
-    },
-    "prediction": "Победа 2",
-    "odds": 2.85,
-    "comment": "Честно, игра армейцев на старте не впечатляет, но есть устойчивое ощущение положительного результата. Ставка П2",
-    "source": "Sports Analytics Pro"
-  },
-  {
-    "id": 1789049432879,
-    "eventName": "Спартак Москва — СКА",
-    "discipline": "Хоккей",
-    "tournament": "Чемпионат",
-    "expert": {
-      "name": "Сэр Палпатин",
-      "avatar": "https://s3-static-prod.storage.yandexcloud.net/2026/09/images-rb-webp-3ce2445a5d29-076ec1fb33f9.webp",
-      "status": "expert",
-      "winRate": 70
-    },
-    "prediction": "Тотал (5.5) Б",
-    "odds": 2.01,
-    "comment": "Букмекеры ждут результативную игру, а коэффициент на верх выглядит привлекательнее исхода.",
-    "source": "Sports Analytics Pro"
-  },
-  {
-    "id": 1789049432880,
-    "eventName": "ПСВ — Шахтёр",
+    "id": 1789064019763,
+    "eventName": "Бавария — Будё-Глимт",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
     "expert": {
@@ -106,13 +10,141 @@
       "status": "expert",
       "winRate": 73
     },
-    "prediction": "Ф1(-1)",
-    "odds": 1.62,
-    "comment": "ПСВ на своем поле должны обыгрывать Шахтер, тем более дома",
+    "prediction": "Ф1(-3)",
+    "odds": 2.12,
+    "comment": "Ожидаю от матча разгром, Будё Глимт,был хорош в прошлом розыгрыше, но увы Бавария уверенно разромит норвежцев",
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1789049432881,
+    "id": 1789064019764,
+    "eventName": "Манчестер Юнайтед — Сабах Баку",
+    "discipline": "Футбол",
+    "tournament": "Чемпионат",
+    "expert": {
+      "name": "Сабах Баку",
+      "avatar": "https://bookmaker-ratings.ru/static/images/badges/forecaster-letter.svg?v=30092024",
+      "status": "expert",
+      "winRate": 71
+    },
+    "prediction": "Фора 1 (-2.5)",
+    "odds": 1.85,
+    "comment": "Сабах едет к именитому Манчестеру Юнайтеду. Несмотря на симпатичную игру впереди Сабах все таки является большим андердогом и выдерать атакующие натиски Манчестера а Англии будет очень сложно",
+    "source": "Sports Analytics Pro"
+  },
+  {
+    "id": 1789064019765,
+    "eventName": "Комо — РБ Лейпциг",
+    "discipline": "Футбол",
+    "tournament": "Чемпионат",
+    "expert": {
+      "name": "Никита Прохор",
+      "avatar": "https://bookmaker-ratings.ru/static/images/badges/novice-letter.svg?v=30092024",
+      "status": "expert",
+      "winRate": 89
+    },
+    "prediction": "Тотал Комо больше (1.5)",
+    "odds": 1.63,
+    "comment": "Комо очень в порядке думаю два мяча дома в состоянии забить",
+    "source": "Sports Analytics Pro"
+  },
+  {
+    "id": 1789064019766,
+    "eventName": "Комо — РБ Лейпциг",
+    "discipline": "Футбол",
+    "tournament": "Чемпионат",
+    "expert": {
+      "name": "Алексей Фора",
+      "avatar": "https://bookmaker-ratings.ru/static/images/badges/novice-letter.svg?v=30092024",
+      "status": "expert",
+      "winRate": 75
+    },
+    "prediction": "Тотал Комо больше (1.5)",
+    "odds": 1.63,
+    "comment": "Как уже говорил Комо в хорошей форме 2 гола по силам забить",
+    "source": "Sports Analytics Pro"
+  },
+  {
+    "id": 1789064019767,
+    "eventName": "Бавария — Будё-Глимт",
+    "discipline": "Футбол",
+    "tournament": "Чемпионат",
+    "expert": {
+      "name": "Никита Прохор",
+      "avatar": "https://bookmaker-ratings.ru/static/images/badges/novice-letter.svg?v=30092024",
+      "status": "expert",
+      "winRate": 89
+    },
+    "prediction": "Ф1(-2.5)",
+    "odds": 1.6,
+    "comment": "Бавария машина,дома наколотят полную сетку мячей гостям",
+    "source": "Sports Analytics Pro"
+  },
+  {
+    "id": 1789064019768,
+    "eventName": "Бавария — Будё-Глимт",
+    "discipline": "Футбол",
+    "tournament": "Чемпионат",
+    "expert": {
+      "name": "Никита Прохор",
+      "avatar": "https://bookmaker-ratings.ru/static/images/badges/novice-letter.svg?v=30092024",
+      "status": "expert",
+      "winRate": 89
+    },
+    "prediction": "Ф1(-3)",
+    "odds": 1.87,
+    "comment": "4 маяча баварская машина способна дома забить гостям",
+    "source": "Sports Analytics Pro"
+  },
+  {
+    "id": 1789064019769,
+    "eventName": "Матч",
+    "discipline": "Футбол",
+    "tournament": "Чемпионат",
+    "expert": {
+      "name": "Сабах Баку",
+      "avatar": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=100&h=100&fit=crop",
+      "status": "expert",
+      "winRate": 71
+    },
+    "prediction": "П1 и ТБ (3,5)",
+    "odds": 1.75,
+    "comment": "Комментарий к прогнозу",
+    "source": "Sports Analytics Pro"
+  },
+  {
+    "id": 1789064019770,
+    "eventName": "Матч",
+    "discipline": "Футбол",
+    "tournament": "Чемпионат",
+    "expert": {
+      "name": "Сабах Баку",
+      "avatar": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=100&h=100&fit=crop",
+      "status": "expert",
+      "winRate": 71
+    },
+    "prediction": "Фора 1 (-2.5)",
+    "odds": 1.85,
+    "comment": "Комментарий к прогнозу",
+    "source": "Sports Analytics Pro"
+  },
+  {
+    "id": 1789064019771,
+    "eventName": "Матч",
+    "discipline": "Футбол",
+    "tournament": "Чемпионат",
+    "expert": {
+      "name": "Славия Прага",
+      "avatar": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=100&h=100&fit=crop",
+      "status": "expert",
+      "winRate": 81
+    },
+    "prediction": "П2",
+    "odds": 2.7,
+    "comment": "Комментарий к прогнозу",
+    "source": "Sports Analytics Pro"
+  },
+  {
+    "id": 1789064019772,
     "eventName": "Матч",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -122,40 +154,8 @@
       "status": "expert",
       "winRate": 86
     },
-    "prediction": "ТБ (2,5) и обе забьют — да",
-    "odds": 2,
-    "comment": "Комментарий к прогнозу",
-    "source": "Sports Analytics Pro"
-  },
-  {
-    "id": 1789049432882,
-    "eventName": "Матч",
-    "discipline": "Футбол",
-    "tournament": "Чемпионат",
-    "expert": {
-      "name": "Лига Чемпионов",
-      "avatar": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=100&h=100&fit=crop",
-      "status": "expert",
-      "winRate": 86
-    },
-    "prediction": "ТБ (2,5) и обе забьют — да",
-    "odds": 1.9,
-    "comment": "Комментарий к прогнозу",
-    "source": "Sports Analytics Pro"
-  },
-  {
-    "id": 1789049432883,
-    "eventName": "Матч",
-    "discipline": "Футбол",
-    "tournament": "Чемпионат",
-    "expert": {
-      "name": "Лига Чемпионовобе",
-      "avatar": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=100&h=100&fit=crop",
-      "status": "expert",
-      "winRate": 70
-    },
-    "prediction": "обе забьют",
-    "odds": 1.66,
+    "prediction": "ТБ (4,5)",
+    "odds": 1.81,
     "comment": "Комментарий к прогнозу",
     "source": "Sports Analytics Pro"
   }
