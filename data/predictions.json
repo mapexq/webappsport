@@ -1,6 +1,6 @@
 [
   {
-    "id": 1788998209901,
+    "id": 1789014275006,
     "eventName": "ПСВ — Шахтёр",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -16,7 +16,7 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1788998209902,
+    "id": 1789014275008,
     "eventName": "Бавария — Будё-Глимт",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -32,7 +32,7 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1788998209903,
+    "id": 1789014275009,
     "eventName": "Манчестер Юнайтед — Сабах Баку",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -48,23 +48,7 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1788998209904,
-    "eventName": "Сандерленд — Арсенал",
-    "discipline": "Футбол",
-    "tournament": "Чемпионат",
-    "expert": {
-      "name": "Дмитрий Рыбалка",
-      "avatar": "https://static-uploads.prod.bookmaker-ratings.ru/2026/08/818-rb-webp-6a7c191851082-6a7c191854cb7.webp?width=60",
-      "status": "expert",
-      "winRate": 84
-    },
-    "prediction": "Тотал Арсенал больше (1.5)",
-    "odds": 1.73,
-    "comment": "Арсенал без проблем приедет и забьет 2 гола и спокойно увезет 3 очка",
-    "source": "Sports Analytics Pro"
-  },
-  {
-    "id": 1788998209905,
+    "id": 1789014275010,
     "eventName": "Матч",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -80,7 +64,7 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1788998209906,
+    "id": 1789014275011,
     "eventName": "Матч",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -96,7 +80,39 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1788998209907,
+    "id": 1789014275012,
+    "eventName": "Матч",
+    "discipline": "Футбол",
+    "tournament": "Чемпионат",
+    "expert": {
+      "name": "Лига Чемпионовобе",
+      "avatar": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=100&h=100&fit=crop",
+      "status": "expert",
+      "winRate": 70
+    },
+    "prediction": "обе забьют",
+    "odds": 1.66,
+    "comment": "Комментарий к прогнозу",
+    "source": "Sports Analytics Pro"
+  },
+  {
+    "id": 1789014275013,
+    "eventName": "Матч",
+    "discipline": "Футбол",
+    "tournament": "Чемпионат",
+    "expert": {
+      "name": "Лига Чемпионов",
+      "avatar": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=100&h=100&fit=crop",
+      "status": "expert",
+      "winRate": 86
+    },
+    "prediction": "ТБ (2,5) и обе забьют",
+    "odds": 1.9,
+    "comment": "Комментарий к прогнозу",
+    "source": "Sports Analytics Pro"
+  },
+  {
+    "id": 1789014275014,
     "eventName": "Матч",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -112,7 +128,7 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1788998209908,
+    "id": 1789014275015,
     "eventName": "Матч",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -128,7 +144,7 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1788998209909,
+    "id": 1789014275016,
     "eventName": "Матч",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -140,22 +156,6 @@
     },
     "prediction": "П2",
     "odds": 2.7,
-    "comment": "Комментарий к прогнозу",
-    "source": "Sports Analytics Pro"
-  },
-  {
-    "id": 1788998209910,
-    "eventName": "Матч",
-    "discipline": "Футбол",
-    "tournament": "Чемпионат",
-    "expert": {
-      "name": "Лига Чемпионов",
-      "avatar": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=100&h=100&fit=crop",
-      "status": "expert",
-      "winRate": 86
-    },
-    "prediction": "ТБ (4,5)",
-    "odds": 1.81,
     "comment": "Комментарий к прогнозу",
     "source": "Sports Analytics Pro"
   }
