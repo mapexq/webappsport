@@ -1,54 +1,22 @@
 [
   {
-    "id": 1789116702518,
-    "eventName": "Виссел Кобе — Кашима Антлерс",
-    "discipline": "Футбол",
+    "id": 1789133154128,
+    "eventName": "Сарыарка Караганда — Торпедо",
+    "discipline": "Хоккей",
     "tournament": "Чемпионат",
     "expert": {
-      "name": "Dmitry Gorbunov",
-      "avatar": "https://s3-static-prod.storage.yandexcloud.net/2026/09/8c282a68eb8f50d56311fb9e7da6b8ef-rb-webp-d2e4d2ce0549-0d6a36680358.webp",
+      "name": "Александр Сергеевич",
+      "avatar": "https://bookmaker-ratings.ru/static/images/badges/novice-letter.svg?v=30092024",
       "status": "expert",
-      "winRate": 77
+      "winRate": 82
     },
-    "prediction": "Тотал (3.5) Б (жёлтые карточки)",
-    "odds": 3,
-    "comment": "Ярая заруба топов, оба в погоне за лидером - без излишества предупреждений никак",
+    "prediction": "Победа 1",
+    "odds": 3.02,
+    "comment": "Сарыарка караганда должна порадовать своих болельщиков как минимум 4 забитыми шайбами",
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1789116702519,
-    "eventName": "Виссел Кобе — Кашима Антлерс",
-    "discipline": "Футбол",
-    "tournament": "Чемпионат",
-    "expert": {
-      "name": "Andrey Agapov",
-      "avatar": "https://bookmaker-ratings.ru/static/images/badges/forecaster-letter.svg?v=30092024",
-      "status": "expert",
-      "winRate": 79
-    },
-    "prediction": "Тотал (2) Б",
-    "odds": 1.6,
-    "comment": "Встресаются команды верхней части таблицы, возможно обз",
-    "source": "Sports Analytics Pro"
-  },
-  {
-    "id": 1789116702520,
-    "eventName": "Киото Санга — Касива Рейсол",
-    "discipline": "Футбол",
-    "tournament": "Чемпионат",
-    "expert": {
-      "name": "Andrey Agapov",
-      "avatar": "https://bookmaker-ratings.ru/static/images/badges/forecaster-letter.svg?v=30092024",
-      "status": "expert",
-      "winRate": 79
-    },
-    "prediction": "Тотал (2) Б (жёлтые карточки)",
-    "odds": 1.48,
-    "comment": "В матчах с участием киото Санга, в большинстве случаев пробивается данный тотал",
-    "source": "Sports Analytics Pro"
-  },
-  {
-    "id": 1789116702521,
+    "id": 1789133154130,
     "eventName": "Крылья Советов — Родина",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -64,7 +32,7 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1789116702522,
+    "id": 1789133154131,
     "eventName": "Крылья Советов — Родина",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -80,83 +48,115 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1789116702523,
-    "eventName": "Бешикташ — ББ Эрзурум",
+    "id": 1789133154132,
+    "eventName": "Крылья Советов — Родина",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
     "expert": {
-      "name": "Akhmad Akhokhov",
-      "avatar": "https://bookmaker-ratings.ru/static/images/badges/forecaster-letter.svg?v=30092024",
+      "name": "Алим Калибатов",
+      "avatar": "https://static-uploads.prod.bookmaker-ratings.ru/2026/04/3dcfa3e614753a9566b9342464293-rb-webp-69d34c667554e-69d34c667cd17.webp?width=60",
       "status": "expert",
       "winRate": 73
     },
-    "prediction": "Ф1(-1.5)",
-    "odds": 1.76,
-    "comment": "Комментарий к прогнозу",
+    "prediction": "Победа 1",
+    "odds": 1.92,
+    "comment": "Самарцы смотрятся более крепким коллективом. \"Родина\" на старте удивила победой над \"Зенитом\", но потом посыпалась. Я не думаю, что сегодня у гостей что-то выйдет, да, укрепились экс-игроком ЦСКА Бекао, но глобально пока это вряд ли что-то для них изменит. П1 за 1.92.",
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1789116702524,
-    "eventName": "Ренн — Олимпик Марсель",
+    "id": 1789133154133,
+    "eventName": "Рига — Ауда",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
     "expert": {
-      "name": "Akhmad Akhokhov",
-      "avatar": "https://bookmaker-ratings.ru/static/images/badges/forecaster-letter.svg?v=30092024",
+      "name": "Вита Журенко",
+      "avatar": "https://bookmaker-ratings.ru/static/images/badges/novice-letter.svg?v=30092024",
       "status": "expert",
-      "winRate": 73
+      "winRate": 83
     },
-    "prediction": "Тотал больше (2.5)",
-    "odds": 1.56,
-    "comment": "Комментарий к прогнозу",
+    "prediction": "Обе забьют - Да",
+    "odds": 1.78,
+    "comment": "Думаю игра будет на встречных курсах и каждая команда должна отличиться голом",
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1789116702525,
-    "eventName": "Матч",
+    "id": 1789133154134,
+    "eventName": "Крылья Советов — Родина",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
     "expert": {
-      "name": "Виссел Кобе",
-      "avatar": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=100&h=100&fit=crop",
+      "name": "Андрей Westone",
+      "avatar": "https://bookmaker-ratings.ru/static/images/badges/novice-letter.svg?v=30092024",
+      "status": "expert",
+      "winRate": 82
+    },
+    "prediction": "Тотал (2.5) Б",
+    "odds": 1.75,
+    "comment": "Открытая игра Родины и принципиальные Крылышки преподнесут нам хорошее рубилово.",
+    "source": "Sports Analytics Pro"
+  },
+  {
+    "id": 1789133154135,
+    "eventName": "Крылья Советов — Родина",
+    "discipline": "Футбол",
+    "tournament": "Чемпионат",
+    "expert": {
+      "name": "Алексей Сашков",
+      "avatar": "https://bookmaker-ratings.ru/static/images/badges/novice-letter.svg?v=30092024",
       "status": "expert",
       "winRate": 72
     },
-    "prediction": "Тотал (3.5) Б (жёлтые карточки)",
-    "odds": 3,
-    "comment": "Комментарий к прогнозу",
+    "prediction": "Тотал (2.5) Б",
+    "odds": 1.75,
+    "comment": "На протяжении четырех туров “Крылья” пробивают “верх”, а в трех из них было забито не менее четырех голов. Причем сами хозяева на этом отрезке трижды отличались по два и более раза. У “Родины” цифры еще более впечатляющие: в шести из семи встреч с ее участием фиксировалось не менее трех взятий ворот.",
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1789116702526,
-    "eventName": "Матч",
-    "discipline": "Футбол",
+    "id": 1789133154136,
+    "eventName": "Ак Барс — Металлург Магнитогорск",
+    "discipline": "Хоккей",
     "tournament": "Чемпионат",
     "expert": {
-      "name": "Виссел Кобе",
-      "avatar": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=100&h=100&fit=crop",
+      "name": "Вячеслав Николаевич",
+      "avatar": "https://bookmaker-ratings.ru/static/images/badges/novice-letter.svg?v=30092024",
       "status": "expert",
-      "winRate": 72
+      "winRate": 89
     },
-    "prediction": "Тотал (2) Б",
+    "prediction": "1Х",
     "odds": 1.6,
-    "comment": "Комментарий к прогнозу",
+    "comment": "Команды обменяются голами игра будет результативной",
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1789116702527,
-    "eventName": "Матч",
-    "discipline": "Футбол",
+    "id": 1789133154137,
+    "eventName": "ЦСКА — Адмирал",
+    "discipline": "Хоккей",
     "tournament": "Чемпионат",
     "expert": {
-      "name": "Киото Санга",
-      "avatar": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=100&h=100&fit=crop",
+      "name": "Вячеслав Николаевич",
+      "avatar": "https://bookmaker-ratings.ru/static/images/badges/novice-letter.svg?v=30092024",
       "status": "expert",
-      "winRate": 71
+      "winRate": 89
     },
-    "prediction": "Тотал (2) Б (жёлтые карточки)",
-    "odds": 1.48,
-    "comment": "Комментарий к прогнозу",
+    "prediction": "Победа 1",
+    "odds": 1.45,
+    "comment": "Команды обменяются голами игра будет результативной",
+    "source": "Sports Analytics Pro"
+  },
+  {
+    "id": 1789133154138,
+    "eventName": "ЦСКА — Адмирал",
+    "discipline": "Хоккей",
+    "tournament": "Чемпионат",
+    "expert": {
+      "name": "Евгений Поморов",
+      "avatar": "https://static-uploads.prod.bookmaker-ratings.ru/2023/09/Corsi.png?width=60",
+      "status": "expert",
+      "winRate": 74
+    },
+    "prediction": "Тотал (5) М",
+    "odds": 1.77,
+    "comment": "В Москве ЦСКА примет, потерпевший два поражения на старте турнира, Адмирал. Обе команды проповедуют строго оборонительный хоккей, где во главу угла ставится защита своих ворот. Главные тренеры команд Игорь Никитин и Олег Браташ являются сторонниками системного хоккея. В воротах у обоих коллективов надежные вратари - Дмитрий Гамзин у армейцев и Иван Кульбаков у моряков. В двух играх с участием ЦСКА в текущем сезоне зрители увидели 8 голов, с участием Адмирала 4.",
     "source": "Sports Analytics Pro"
   }
 ]
