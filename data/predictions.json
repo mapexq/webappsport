@@ -1,6 +1,54 @@
 [
   {
-    "id": 1789099165654,
+    "id": 1789116702518,
+    "eventName": "Виссел Кобе — Кашима Антлерс",
+    "discipline": "Футбол",
+    "tournament": "Чемпионат",
+    "expert": {
+      "name": "Dmitry Gorbunov",
+      "avatar": "https://s3-static-prod.storage.yandexcloud.net/2026/09/8c282a68eb8f50d56311fb9e7da6b8ef-rb-webp-d2e4d2ce0549-0d6a36680358.webp",
+      "status": "expert",
+      "winRate": 77
+    },
+    "prediction": "Тотал (3.5) Б (жёлтые карточки)",
+    "odds": 3,
+    "comment": "Ярая заруба топов, оба в погоне за лидером - без излишества предупреждений никак",
+    "source": "Sports Analytics Pro"
+  },
+  {
+    "id": 1789116702519,
+    "eventName": "Виссел Кобе — Кашима Антлерс",
+    "discipline": "Футбол",
+    "tournament": "Чемпионат",
+    "expert": {
+      "name": "Andrey Agapov",
+      "avatar": "https://bookmaker-ratings.ru/static/images/badges/forecaster-letter.svg?v=30092024",
+      "status": "expert",
+      "winRate": 79
+    },
+    "prediction": "Тотал (2) Б",
+    "odds": 1.6,
+    "comment": "Встресаются команды верхней части таблицы, возможно обз",
+    "source": "Sports Analytics Pro"
+  },
+  {
+    "id": 1789116702520,
+    "eventName": "Киото Санга — Касива Рейсол",
+    "discipline": "Футбол",
+    "tournament": "Чемпионат",
+    "expert": {
+      "name": "Andrey Agapov",
+      "avatar": "https://bookmaker-ratings.ru/static/images/badges/forecaster-letter.svg?v=30092024",
+      "status": "expert",
+      "winRate": 79
+    },
+    "prediction": "Тотал (2) Б (жёлтые карточки)",
+    "odds": 1.48,
+    "comment": "В матчах с участием киото Санга, в большинстве случаев пробивается данный тотал",
+    "source": "Sports Analytics Pro"
+  },
+  {
+    "id": 1789116702521,
     "eventName": "Крылья Советов — Родина",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -16,147 +64,99 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1789099165656,
-    "eventName": "Севилья — Валенсия",
-    "discipline": "Футбол",
-    "tournament": "Чемпионат",
-    "expert": {
-      "name": "Санчес Писхуан",
-      "avatar": "https://s3-static-prod.storage.yandexcloud.net/2026/09/rb-webp-bc33230e0c06-3a36a8c38d4b.webp",
-      "status": "expert",
-      "winRate": 82
-    },
-    "prediction": "Фора 1 (0)",
-    "odds": 1.5,
-    "comment": "Усиливаю ставку на П1 страховочной форой. Еще валуйно тут и ИТБ1 больше 1,5, но возьму фору.\nТа же фактура: «Валенсия» без девяти игроков, включая обоих центральных защитников и опорника, на последнем месте с одним голом за четыре тура. «Севилья» дома сильна и мотивирована вернуть «Санчес Писхуан» как крепость. Букмекер даёт фору 0 на хозяев с вероятностью 62,0% после снятия маржи. Наша оценка: победа Севильи 64,4%, ничья 19,4% (возврат), поражение 16,2%. Валуй +16,0% при марже линии 7,5%.",
-    "source": "Sports Analytics Pro"
-  },
-  {
-    "id": 1789099165657,
-    "eventName": "Сандерленд — Арсенал",
-    "discipline": "Футбол",
-    "tournament": "Чемпионат",
-    "expert": {
-      "name": "Дмитрий Рыбалка",
-      "avatar": "https://static-uploads.prod.bookmaker-ratings.ru/2026/08/818-rb-webp-6a7c191851082-6a7c191854cb7.webp?width=60",
-      "status": "expert",
-      "winRate": 84
-    },
-    "prediction": "Тотал Арсенал больше (1.5)",
-    "odds": 1.73,
-    "comment": "Арсенал без проблем приедет и забьет 2 гола и спокойно увезет 3 очка",
-    "source": "Sports Analytics Pro"
-  },
-  {
-    "id": 1789099165658,
-    "eventName": "Матч",
-    "discipline": "Футбол",
-    "tournament": "Чемпионат",
-    "expert": {
-      "name": "Крылья Советов",
-      "avatar": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=100&h=100&fit=crop",
-      "status": "expert",
-      "winRate": 83
-    },
-    "prediction": "ТБ (2,5) и обе забьют",
-    "odds": 2.06,
-    "comment": "Комментарий к прогнозу",
-    "source": "Sports Analytics Pro"
-  },
-  {
-    "id": 1789099165659,
-    "eventName": "Матч",
-    "discipline": "Футбол",
-    "tournament": "Чемпионат",
-    "expert": {
-      "name": "Крылья Советов",
-      "avatar": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=100&h=100&fit=crop",
-      "status": "expert",
-      "winRate": 83
-    },
-    "prediction": "1Х",
-    "odds": 1.29,
-    "comment": "Комментарий к прогнозу",
-    "source": "Sports Analytics Pro"
-  },
-  {
-    "id": 1789099165660,
-    "eventName": "Матч",
-    "discipline": "Футбол",
-    "tournament": "Чемпионат",
-    "expert": {
-      "name": "Олимпик Марсель",
-      "avatar": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=100&h=100&fit=crop",
-      "status": "expert",
-      "winRate": 87
-    },
-    "prediction": "ТБ (2,5) и обе забьют — да",
-    "odds": 1.82,
-    "comment": "Комментарий к прогнозу",
-    "source": "Sports Analytics Pro"
-  },
-  {
-    "id": 1789099165661,
-    "eventName": "Матч",
-    "discipline": "Футбол",
-    "tournament": "Чемпионат",
-    "expert": {
-      "name": "Ла Лига",
-      "avatar": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=100&h=100&fit=crop",
-      "status": "expert",
-      "winRate": 77
-    },
-    "prediction": "X2 и ТМ (2,5)",
-    "odds": 2.4,
-    "comment": "Комментарий к прогнозу",
-    "source": "Sports Analytics Pro"
-  },
-  {
-    "id": 1789099165662,
-    "eventName": "Матч",
-    "discipline": "Футбол",
-    "tournament": "Чемпионат",
-    "expert": {
-      "name": "Астон Вилла",
-      "avatar": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=100&h=100&fit=crop",
-      "status": "expert",
-      "winRate": 80
-    },
-    "prediction": "П1",
-    "odds": 2.13,
-    "comment": "Комментарий к прогнозу",
-    "source": "Sports Analytics Pro"
-  },
-  {
-    "id": 1789099165663,
-    "eventName": "Тюмень — Новая генерация",
-    "discipline": "Футбол",
-    "tournament": "Чемпионат",
-    "expert": {
-      "name": "Михаил Чоботовский",
-      "avatar": "https://static-uploads.prod.bookmaker-ratings.ru/2024/09/1-8.jpg?width=60",
-      "status": "expert",
-      "winRate": 74
-    },
-    "prediction": "Ф2 (+2,5)",
-    "odds": 1.72,
-    "comment": "В ещё одной пятничной встрече третьего тура БЕТСИТИ Суперлиги по футзалу встретятся два неудачника старта сезона: не набравшая ни одного очка «Тюмень» примет на своей площадке «Новую генерацию», которая дважды проиграла дома «Сибиряку» — худшей команде прошлого чемпионата. В общем, получается такая битва аутсайдеров, в которой букмекеры безоговорочно верят в хозяев: коэффициент на победу «Тюмени» составляет жалкие 1,26, а на успех сыктывкарцев — 6,20. На самом деле тут ну очень многое будет зависеть от ситуации с составом хозяев. У тюменцев полно травмированных, плюс в стартовых турах провалился лучший новичок прошлого сезона Витама — остаётся посмотреть, в каком состоянии окажется команда Дениса Абышева. Потенциал у неё выше, но вот как с его реализацией? При этом статистика против гостей: в пяти последних очных матчах «Новая генерация» трижды проиграла и дважды сыграла вничью. С другой стороны, если мы говорим только про игры в Тюмени, то за шесть встреч у «Тюмени» лишь один выигрыш в основное время. Всё это намекает на упорную игру. Раз так, давайте не будем верить в уверенную победу тюменцев и поставим на «Новую генерацию» с «форой +2,5» за 1,72. Если не хотите осторожничать, берите «фору +2» за 2,02.",
-    "source": "Sports Analytics Pro"
-  },
-  {
-    "id": 1789099165664,
+    "id": 1789116702522,
     "eventName": "Крылья Советов — Родина",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
     "expert": {
-      "name": "Константин Генич",
-      "avatar": "https://static-uploads.prod.bookmaker-ratings.ru/2023/11/Genich.png?width=60",
+      "name": "Akhmad Akhokhov",
+      "avatar": "https://bookmaker-ratings.ru/static/images/badges/forecaster-letter.svg?v=30092024",
       "status": "expert",
-      "winRate": 74
+      "winRate": 73
     },
-    "prediction": "ТБ (2,5) и обе забьют",
-    "odds": 2.06,
-    "comment": "8-й тур РПЛ открывается матчем «Крылья» — «Родина» в Самаре. «Крылья» уже без Ивана Олейникова. Из 10 забитых мячей самарцами в 5 Иван поучаствовал — 3 забил, 2 передачи отдал. Поэтому как-то надо будет опять Булатову игру перестраивать и искать альтернативные варианты, как его команда должна выглядеть в атаке. Может быть, Мукаилов впереди, Рахманович под ним, но это все такие нюансы, которые, безусловно, в связи с отсутствием Олейникова скажутся на атакующей игре. Но «Крылья» играют дома, и воодушевленные вот таким спасением в игре с «Краснодаром» они постараются в матче с аутсайдером добиться победы, потому что эта игра реально за 6 очков. У «Родины» пополнение — пришел в аренду Родриго Бекао. И это для укрепления оборонительной линии, потому что очень много «Родина» пропускает (за 7 туров 19 мячей). Это никуда не годится. Индивидуальные ошибки вместе с не совсем понятной по построению игрой в обороне «Родины» приводят вот к таким результатам. Еще в прошлом туре удаление Онугхи тоже не способствовало положительному результату в Каспийске в матче против махачкалинского «Динамо». «Родина» хороша в атаке, наверняка что-то придумает. И не сказать про «Крылья», что это неуязвимая команда в плане обороны. Поэтому жду футбол результативный, в котором забить и выиграть захотят и те, и другие. Игра реально важная, практически за 6 очков. Я думаю, что будет обмен забитыми мячами, но на этом вряд ли команды остановятся. Задача выиграть и взять 3 очка будет стоять у тех и у других. «Обе забьют и тотал больше 2,5» за 2,06 — мой прогноз на матч в Самаре.",
+    "prediction": "Тотал больше (2.5)",
+    "odds": 1.81,
+    "comment": "Полагаю что тотал пробьют, обе команды частенько пропускают голы",
+    "source": "Sports Analytics Pro"
+  },
+  {
+    "id": 1789116702523,
+    "eventName": "Бешикташ — ББ Эрзурум",
+    "discipline": "Футбол",
+    "tournament": "Чемпионат",
+    "expert": {
+      "name": "Akhmad Akhokhov",
+      "avatar": "https://bookmaker-ratings.ru/static/images/badges/forecaster-letter.svg?v=30092024",
+      "status": "expert",
+      "winRate": 73
+    },
+    "prediction": "Ф1(-1.5)",
+    "odds": 1.76,
+    "comment": "Комментарий к прогнозу",
+    "source": "Sports Analytics Pro"
+  },
+  {
+    "id": 1789116702524,
+    "eventName": "Ренн — Олимпик Марсель",
+    "discipline": "Футбол",
+    "tournament": "Чемпионат",
+    "expert": {
+      "name": "Akhmad Akhokhov",
+      "avatar": "https://bookmaker-ratings.ru/static/images/badges/forecaster-letter.svg?v=30092024",
+      "status": "expert",
+      "winRate": 73
+    },
+    "prediction": "Тотал больше (2.5)",
+    "odds": 1.56,
+    "comment": "Комментарий к прогнозу",
+    "source": "Sports Analytics Pro"
+  },
+  {
+    "id": 1789116702525,
+    "eventName": "Матч",
+    "discipline": "Футбол",
+    "tournament": "Чемпионат",
+    "expert": {
+      "name": "Виссел Кобе",
+      "avatar": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=100&h=100&fit=crop",
+      "status": "expert",
+      "winRate": 72
+    },
+    "prediction": "Тотал (3.5) Б (жёлтые карточки)",
+    "odds": 3,
+    "comment": "Комментарий к прогнозу",
+    "source": "Sports Analytics Pro"
+  },
+  {
+    "id": 1789116702526,
+    "eventName": "Матч",
+    "discipline": "Футбол",
+    "tournament": "Чемпионат",
+    "expert": {
+      "name": "Виссел Кобе",
+      "avatar": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=100&h=100&fit=crop",
+      "status": "expert",
+      "winRate": 72
+    },
+    "prediction": "Тотал (2) Б",
+    "odds": 1.6,
+    "comment": "Комментарий к прогнозу",
+    "source": "Sports Analytics Pro"
+  },
+  {
+    "id": 1789116702527,
+    "eventName": "Матч",
+    "discipline": "Футбол",
+    "tournament": "Чемпионат",
+    "expert": {
+      "name": "Киото Санга",
+      "avatar": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=100&h=100&fit=crop",
+      "status": "expert",
+      "winRate": 71
+    },
+    "prediction": "Тотал (2) Б (жёлтые карточки)",
+    "odds": 1.48,
+    "comment": "Комментарий к прогнозу",
     "source": "Sports Analytics Pro"
   }
 ]
