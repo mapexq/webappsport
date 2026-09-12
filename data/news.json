@@ -1,5 +1,75 @@
 [
   {
+    "id": "bf4735ba3f50dfb3",
+    "title": "Непобежденный боец Белаз победил на кулачном турнире звезды UFC",
+    "sport": "Единоборства",
+    "category": "Единоборства",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/5/85/347892374196855.jpeg",
+    "teaser": "Непобежденный боец Белаз победил на кулачном турнире звезды UFC",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6aa593b29a794709146f9ae7",
+    "publishedAt": "2026-09-12T18:56:50.000Z",
+    "createdAt": "2026-09-12T19:04:55.045Z",
+    "updatedAt": "2026-09-12T19:04:55.045Z"
+  },
+  {
+    "id": "1132d637a809196c",
+    "title": "Выступавший в UFC американец заявил о планах получить российский паспорт",
+    "sport": "Единоборства",
+    "category": "Единоборства",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/8/83/347892383550838.jpeg",
+    "teaser": "Выступавший в UFC американец заявил о планах получить российский паспорт",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a2bf86c9a79471af90a0a7b",
+    "publishedAt": "2026-09-12T18:47:16.000Z",
+    "createdAt": "2026-09-12T19:04:52.993Z",
+    "updatedAt": "2026-09-12T19:04:52.993Z"
+  },
+  {
+    "id": "3e7fd67e189b12a7",
+    "title": "Защитник ЦСКА толкнул арбитра после красной карточки в матче с «Рубином»",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/7/01/347892375745017.jpeg",
+    "teaser": "Защитник ЦСКА толкнул арбитра после красной карточки в матче с «Рубином»",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a7f29b19a7947d1f368f8b3",
+    "publishedAt": "2026-09-12T18:31:15.000Z",
+    "createdAt": "2026-09-12T19:04:54.047Z",
+    "updatedAt": "2026-09-12T19:04:54.047Z"
+  },
+  {
+    "id": "2b71068df18c7564",
+    "title": "«Динамо» вырвало победу у «Оренбурга» в матче с дракой и двумя удалениями",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/2/18/347892328367182.jpeg",
+    "teaser": "«Динамо» вырвало победу у «Оренбурга» в матче с дракой и двумя удалениями",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a8719559a7947880d653954",
+    "publishedAt": "2026-09-12T17:28:46.000Z",
+    "createdAt": "2026-09-12T19:04:56.156Z",
+    "updatedAt": "2026-09-12T19:04:56.157Z"
+  },
+  {
+    "id": "03a1f2d4383b1c3e",
+    "title": "Российская теннисистка проиграла в финале юниорского US Open",
+    "sport": "Теннис",
+    "category": "Теннис",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/5/57/347892281630575.jpeg",
+    "teaser": "Российская теннисистка проиграла в финале юниорского US Open",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a90261f9a79476f8ca749b8",
+    "publishedAt": "2026-09-12T17:00:35.000Z",
+    "createdAt": "2026-09-12T19:04:57.258Z",
+    "updatedAt": "2026-09-12T19:04:57.258Z"
+  },
+  {
     "id": "ad9491cf2d1e0b0d",
     "title": "«Спартак» одержал свою самую крупную победу в истории КХЛ",
     "sport": "Хоккей",
@@ -10,8 +80,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a8f4d379a794757493da9e7",
     "publishedAt": "2026-09-12T16:18:44.000Z",
-    "createdAt": "2026-09-12T16:52:28.897Z",
-    "updatedAt": "2026-09-12T16:52:28.897Z"
+    "createdAt": "2026-09-12T19:04:58.357Z",
+    "updatedAt": "2026-09-12T19:04:58.357Z"
   },
   {
     "id": "2b3fce5bcb031396",
@@ -24,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a9337519a79472b50ea036d",
     "publishedAt": "2026-09-12T15:18:35.000Z",
-    "createdAt": "2026-09-12T16:52:30.865Z",
-    "updatedAt": "2026-09-12T16:52:30.865Z"
+    "createdAt": "2026-09-12T19:05:00.649Z",
+    "updatedAt": "2026-09-12T19:05:00.649Z"
   },
   {
     "id": "7a45df3ee0c54102",
@@ -38,8 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a9c491c9a79472dd5389113",
     "publishedAt": "2026-09-12T15:12:04.000Z",
-    "createdAt": "2026-09-12T16:52:29.848Z",
-    "updatedAt": "2026-09-12T16:52:29.848Z"
+    "createdAt": "2026-09-12T19:04:59.500Z",
+    "updatedAt": "2026-09-12T19:04:59.500Z"
   },
   {
     "id": "ba8f2caf74ecb2fe",
@@ -52,8 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a9bdc369a7947d4d27dc73e",
     "publishedAt": "2026-09-12T14:46:33.000Z",
-    "createdAt": "2026-09-12T16:52:31.825Z",
-    "updatedAt": "2026-09-12T16:52:31.825Z"
+    "createdAt": "2026-09-12T19:05:01.765Z",
+    "updatedAt": "2026-09-12T19:05:01.765Z"
   },
   {
     "id": "11d2d0097383967a",
@@ -66,77 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a9c4c099a7947c2c55e2a72",
     "publishedAt": "2026-09-12T14:23:55.000Z",
-    "createdAt": "2026-09-12T16:52:32.834Z",
-    "updatedAt": "2026-09-12T16:52:32.834Z"
-  },
-  {
-    "id": "0daecba8d8b15a36",
-    "title": "Звезда КХЛ Кравцов отказался играть за «Трактор»",
-    "sport": "Хоккей",
-    "category": "Хоккей",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/7/20/347892202907207.jpeg",
-    "teaser": "Звезда КХЛ Кравцов отказался играть за «Трактор»",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a9c48f09a79475bbcca8a3b",
-    "publishedAt": "2026-09-12T13:48:40.000Z",
-    "createdAt": "2026-09-12T16:52:33.845Z",
-    "updatedAt": "2026-09-12T16:52:33.845Z"
-  },
-  {
-    "id": "2b8186c9f56e4143",
-    "title": "Костомаров вместе с ДоброFON передал книги библиотекам Курской области",
-    "sport": "Другое",
-    "category": "Другие",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/1/13/347892185151131.jpeg",
-    "teaser": "Костомаров вместе с ДоброFON передал книги библиотекам Курской области",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6aa54eb79a79474be617ecae",
-    "publishedAt": "2026-09-12T13:17:39.000Z",
-    "createdAt": "2026-09-12T16:52:35.853Z",
-    "updatedAt": "2026-09-12T16:52:35.853Z"
-  },
-  {
-    "id": "312be865e23891f1",
-    "title": "«Балтика» на 95-й минуте вырвала ничью у аутсайдера РПЛ, уступая 0:2",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/4/01/347892157328014.jpeg",
-    "teaser": "«Балтика» на 95-й минуте вырвала ничью у аутсайдера РПЛ, уступая 0:2",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a9c4d0f9a79479e5c29dc79",
-    "publishedAt": "2026-09-12T13:00:47.000Z",
-    "createdAt": "2026-09-12T16:52:34.857Z",
-    "updatedAt": "2026-09-12T16:52:34.857Z"
-  },
-  {
-    "id": "21b9477d0f3c8c87",
-    "title": "Чемпионка ОИ Ступак не завершит карьеру после рождения второго ребенка",
-    "sport": "Другое",
-    "category": "Другие",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/9/22/347892165558229.jpeg",
-    "teaser": "Чемпионка ОИ Ступак не завершит карьеру после рождения второго ребенка",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a9c48ad9a794755c746dd08",
-    "publishedAt": "2026-09-12T12:42:56.000Z",
-    "createdAt": "2026-09-12T16:52:37.840Z",
-    "updatedAt": "2026-09-12T16:52:37.840Z"
-  },
-  {
-    "id": "0d888be490e53fdc",
-    "title": "Титулованная российская синхронистка сменила спортивное гражданство",
-    "sport": "Другое",
-    "category": "Другие",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/0/49/347892124616490.jpeg",
-    "teaser": "Титулованная российская синхронистка сменила спортивное гражданство",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a9c4caa9a79471c974c9154",
-    "publishedAt": "2026-09-12T11:41:32.000Z",
-    "createdAt": "2026-09-12T16:52:36.880Z",
-    "updatedAt": "2026-09-12T16:52:36.880Z"
+    "createdAt": "2026-09-12T19:05:02.889Z",
+    "updatedAt": "2026-09-12T19:05:02.889Z"
   }
 ]
