@@ -1,5 +1,89 @@
 [
   {
+    "id": "ad9491cf2d1e0b0d",
+    "title": "«Спартак» одержал свою самую крупную победу в истории КХЛ",
+    "sport": "Хоккей",
+    "category": "Хоккей",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/5/61/347892295014615.jpeg",
+    "teaser": "«Спартак» одержал свою самую крупную победу в истории КХЛ",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a8f4d379a794757493da9e7",
+    "publishedAt": "2026-09-12T16:18:44.000Z",
+    "createdAt": "2026-09-12T16:52:28.897Z",
+    "updatedAt": "2026-09-12T16:52:28.897Z"
+  },
+  {
+    "id": "2b3fce5bcb031396",
+    "title": "Действующий чемпион «Формулы-1» выиграл квалификацию Гран-при Испании",
+    "sport": "Другое",
+    "category": "Формула-1",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/3/96/347892259032963.jpeg",
+    "teaser": "Действующий чемпион «Формулы-1» выиграл квалификацию Гран-при Испании",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a9337519a79472b50ea036d",
+    "publishedAt": "2026-09-12T15:18:35.000Z",
+    "createdAt": "2026-09-12T16:52:30.865Z",
+    "updatedAt": "2026-09-12T16:52:30.865Z"
+  },
+  {
+    "id": "7a45df3ee0c54102",
+    "title": "«Зенит» пропустил первым, но все равно обыграл «Локомотив» в матче РПЛ",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/9/81/347892255322819.jpeg",
+    "teaser": "«Зенит» пропустил первым, но все равно обыграл «Локомотив» в матче РПЛ",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a9c491c9a79472dd5389113",
+    "publishedAt": "2026-09-12T15:12:04.000Z",
+    "createdAt": "2026-09-12T16:52:29.848Z",
+    "updatedAt": "2026-09-12T16:52:29.848Z"
+  },
+  {
+    "id": "ba8f2caf74ecb2fe",
+    "title": "Московское и минское «Динамо» устроили массовую драку на 1-й минуте игры",
+    "sport": "Хоккей",
+    "category": "Хоккей",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/2/78/347892236529782.jpeg",
+    "teaser": "Московское и минское «Динамо» устроили массовую драку на 1-й минуте игры",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a9bdc369a7947d4d27dc73e",
+    "publishedAt": "2026-09-12T14:46:33.000Z",
+    "createdAt": "2026-09-12T16:52:31.825Z",
+    "updatedAt": "2026-09-12T16:52:31.825Z"
+  },
+  {
+    "id": "11d2d0097383967a",
+    "title": "«Спартак» побил рекорд КХЛ, забросив три шайбы за первые две минуты матча",
+    "sport": "Хоккей",
+    "category": "Хоккей",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/0/78/347892227598780.jpeg",
+    "teaser": "«Спартак» побил рекорд КХЛ, забросив три шайбы за первые две минуты матча",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a9c4c099a7947c2c55e2a72",
+    "publishedAt": "2026-09-12T14:23:55.000Z",
+    "createdAt": "2026-09-12T16:52:32.834Z",
+    "updatedAt": "2026-09-12T16:52:32.834Z"
+  },
+  {
+    "id": "0daecba8d8b15a36",
+    "title": "Звезда КХЛ Кравцов отказался играть за «Трактор»",
+    "sport": "Хоккей",
+    "category": "Хоккей",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/7/20/347892202907207.jpeg",
+    "teaser": "Звезда КХЛ Кравцов отказался играть за «Трактор»",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a9c48f09a79475bbcca8a3b",
+    "publishedAt": "2026-09-12T13:48:40.000Z",
+    "createdAt": "2026-09-12T16:52:33.845Z",
+    "updatedAt": "2026-09-12T16:52:33.845Z"
+  },
+  {
     "id": "2b8186c9f56e4143",
     "title": "Костомаров вместе с ДоброFON передал книги библиотекам Курской области",
     "sport": "Другое",
@@ -10,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6aa54eb79a79474be617ecae",
     "publishedAt": "2026-09-12T13:17:39.000Z",
-    "createdAt": "2026-09-12T13:28:28.370Z",
-    "updatedAt": "2026-09-12T13:28:28.370Z"
+    "createdAt": "2026-09-12T16:52:35.853Z",
+    "updatedAt": "2026-09-12T16:52:35.853Z"
   },
   {
     "id": "312be865e23891f1",
@@ -24,8 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a9c4d0f9a79479e5c29dc79",
     "publishedAt": "2026-09-12T13:00:47.000Z",
-    "createdAt": "2026-09-12T13:28:27.550Z",
-    "updatedAt": "2026-09-12T13:28:27.550Z"
+    "createdAt": "2026-09-12T16:52:34.857Z",
+    "updatedAt": "2026-09-12T16:52:34.857Z"
   },
   {
     "id": "21b9477d0f3c8c87",
@@ -38,8 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a9c48ad9a794755c746dd08",
     "publishedAt": "2026-09-12T12:42:56.000Z",
-    "createdAt": "2026-09-12T13:28:30.590Z",
-    "updatedAt": "2026-09-12T13:28:30.590Z"
+    "createdAt": "2026-09-12T16:52:37.840Z",
+    "updatedAt": "2026-09-12T16:52:37.840Z"
   },
   {
     "id": "0d888be490e53fdc",
@@ -52,91 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6a9c4caa9a79471c974c9154",
     "publishedAt": "2026-09-12T11:41:32.000Z",
-    "createdAt": "2026-09-12T13:28:29.526Z",
-    "updatedAt": "2026-09-12T13:28:29.526Z"
-  },
-  {
-    "id": "e2c9f5059045700e",
-    "title": "Хачанов раскритиковал Зверева после полуфинала US Open",
-    "sport": "Теннис",
-    "category": "Теннис",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/9/87/347892109671879.jpeg",
-    "teaser": "Хачанов раскритиковал Зверева после полуфинала US Open",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a9c4c9c9a79472602d2e179",
-    "publishedAt": "2026-09-12T11:10:47.000Z",
-    "createdAt": "2026-09-12T13:28:31.654Z",
-    "updatedAt": "2026-09-12T13:28:31.654Z"
-  },
-  {
-    "id": "2209a40871c3a82e",
-    "title": "Никите Симоняну поставят памятник у клубного стадиона «Спартака»",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/0/09/347892091560090.jpeg",
-    "teaser": "Никите Симоняну поставят памятник у клубного стадиона «Спартака»",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a9d46899a7947d6ed5b3035",
-    "publishedAt": "2026-09-12T10:36:39.000Z",
-    "createdAt": "2026-09-12T13:28:33.710Z",
-    "updatedAt": "2026-09-12T13:28:33.710Z"
-  },
-  {
-    "id": "43cd957af617a8ac",
-    "title": "Судья ошибочно не назначил пенальти в ворота ЦСКА в игре с «Зенитом»",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/1/34/347892070983341.jpeg",
-    "teaser": "Судья ошибочно не назначил пенальти в ворота ЦСКА в игре с «Зенитом»",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a9f12819a7947604f1e9596",
-    "publishedAt": "2026-09-12T10:05:49.000Z",
-    "createdAt": "2026-09-12T13:28:32.730Z",
-    "updatedAt": "2026-09-12T13:28:32.730Z"
-  },
-  {
-    "id": "e4e1a480188008fa",
-    "title": "Участник Олимпиады в Лондоне борец Николай Ноев умер в 38 лет",
-    "sport": "Другое",
-    "category": "Другие",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/1/58/347892063907581.jpeg",
-    "teaser": "Участник Олимпиады в Лондоне борец Николай Ноев умер в 38 лет",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a9fb69d9a794735c0cc2081",
-    "publishedAt": "2026-09-12T09:41:19.000Z",
-    "createdAt": "2026-09-12T13:28:34.727Z",
-    "updatedAt": "2026-09-12T13:28:34.727Z"
-  },
-  {
-    "id": "f440000096078c79",
-    "title": "Дебютант РПЛ объявил о переходе игравшего на ЧМ-2026 колумбийца",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/4/06/347892044026064.jpeg",
-    "teaser": "Дебютант РПЛ объявил о переходе игравшего на ЧМ-2026 колумбийца",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a9c4cea9a79470125ab3e4e",
-    "publishedAt": "2026-09-12T09:18:02.000Z",
-    "createdAt": "2026-09-12T13:28:35.790Z",
-    "updatedAt": "2026-09-12T13:28:35.790Z"
-  },
-  {
-    "id": "3fb10bbbd159a61f",
-    "title": "РФС решил, что судья правильно удалил Тюкавина в матче со «Спартаком»",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/5/09/347892025416095.jpeg",
-    "teaser": "РФС решил, что судья правильно удалил Тюкавина в матче со «Спартаком»",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6aa17ae59a79475a6843586e",
-    "publishedAt": "2026-09-12T08:49:46.000Z",
-    "createdAt": "2026-09-12T13:28:36.843Z",
-    "updatedAt": "2026-09-12T13:28:36.843Z"
+    "createdAt": "2026-09-12T16:52:36.880Z",
+    "updatedAt": "2026-09-12T16:52:36.880Z"
   }
 ]
