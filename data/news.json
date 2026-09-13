@@ -1,5 +1,75 @@
 [
   {
+    "id": "b94fad88fb425510",
+    "title": "20-летний пилот Mercedes выиграл первую в истории гонку F1 в Мадриде",
+    "sport": "Другое",
+    "category": "Формула-1",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/3/27/347893107714273.jpeg",
+    "teaser": "20-летний пилот Mercedes выиграл первую в истории гонку F1 в Мадриде",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6aa6ad9c9a79470a019dd01d",
+    "publishedAt": "2026-09-13T14:49:12.000Z",
+    "createdAt": "2026-09-13T15:56:51.465Z",
+    "updatedAt": "2026-09-13T15:56:51.465Z"
+  },
+  {
+    "id": "0e97dea5327567f1",
+    "title": "«Авангард» отыгрался с 0:2 и нанес «Металлургу» первое поражение в сезоне",
+    "sport": "Хоккей",
+    "category": "Хоккей",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/2/30/347893077526302.png",
+    "teaser": "«Авангард» отыгрался с 0:2 и нанес «Металлургу» первое поражение в сезоне",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6aa6a2e49a79474d28fe8d70",
+    "publishedAt": "2026-09-13T14:01:35.000Z",
+    "createdAt": "2026-09-13T15:56:55.343Z",
+    "updatedAt": "2026-09-13T15:56:55.343Z"
+  },
+  {
+    "id": "9f7cdd3dad5b1f76",
+    "title": "«Ахмат» вырвал победу в матче с автоголом и травмой вратаря у соперника",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/5/52/347893049757525.jpeg",
+    "teaser": "«Ахмат» вырвал победу в матче с автоголом и травмой вратаря у соперника",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6aa69e3e9a79476f8f1ca8e9",
+    "publishedAt": "2026-09-13T13:45:22.000Z",
+    "createdAt": "2026-09-13T15:56:52.407Z",
+    "updatedAt": "2026-09-13T15:56:52.407Z"
+  },
+  {
+    "id": "447bc1a174bc9888",
+    "title": "Хэмилтон досрочно закончил гонку «Формулы-1» из-за проблем с тормозами",
+    "sport": "Другое",
+    "category": "Формула-1",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/0/42/347893065567420.jpeg",
+    "teaser": "Хэмилтон досрочно закончил гонку «Формулы-1» из-за проблем с тормозами",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6aa6a3209a7947eec8c7a7a9",
+    "publishedAt": "2026-09-13T13:36:15.000Z",
+    "createdAt": "2026-09-13T15:56:53.344Z",
+    "updatedAt": "2026-09-13T15:56:53.344Z"
+  },
+  {
+    "id": "8962b9c610b880ad",
+    "title": "Сын Мальдини попал в ДТП после победного гола в чемпионате Италии",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/9/73/347892989565739.png",
+    "teaser": "Сын Мальдини попал в ДТП после победного гола в чемпионате Италии",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6aa6882a9a7947ef51cb57e1",
+    "publishedAt": "2026-09-13T11:43:59.000Z",
+    "createdAt": "2026-09-13T15:56:56.395Z",
+    "updatedAt": "2026-09-13T15:56:56.395Z"
+  },
+  {
     "id": "282c460a80429386",
     "title": "UFC заявил о готовности лишить титула не выступавшего почти год британца",
     "sport": "Единоборства",
@@ -10,8 +80,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6aa682509a79478febcbba0f",
     "publishedAt": "2026-09-13T11:19:11.000Z",
-    "createdAt": "2026-09-13T11:28:22.225Z",
-    "updatedAt": "2026-09-13T11:28:22.225Z"
+    "createdAt": "2026-09-13T15:56:57.523Z",
+    "updatedAt": "2026-09-13T15:56:57.523Z"
   },
   {
     "id": "4a5709a5d75c976c",
@@ -24,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6aa67b929a7947022f819996",
     "publishedAt": "2026-09-13T10:47:53.000Z",
-    "createdAt": "2026-09-13T11:28:21.227Z",
-    "updatedAt": "2026-09-13T11:28:21.227Z"
+    "createdAt": "2026-09-13T15:56:58.459Z",
+    "updatedAt": "2026-09-13T15:56:58.459Z"
   },
   {
     "id": "496a07ff99d831d6",
@@ -38,8 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6aa673ca9a79474ebf92986e",
     "publishedAt": "2026-09-13T10:20:56.000Z",
-    "createdAt": "2026-09-13T11:28:23.235Z",
-    "updatedAt": "2026-09-13T11:28:23.235Z"
+    "createdAt": "2026-09-13T15:56:59.458Z",
+    "updatedAt": "2026-09-13T15:56:59.458Z"
   },
   {
     "id": "025699afc85f4b23",
@@ -52,22 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6aa66c519a794795a6cd2954",
     "publishedAt": "2026-09-13T09:50:45.000Z",
-    "createdAt": "2026-09-13T11:28:24.316Z",
-    "updatedAt": "2026-09-13T11:28:24.316Z"
-  },
-  {
-    "id": "fd824c64a6d94759",
-    "title": "Месси вернул себе лидерство в бомбардирской гонке MLS",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/5/43/347892905409435.jpeg",
-    "teaser": "Месси вернул себе лидерство в бомбардирской гонке MLS",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6aa6680d9a794731a8a7f2e2",
-    "publishedAt": "2026-09-13T09:25:59.000Z",
-    "createdAt": "2026-09-13T11:28:26.515Z",
-    "updatedAt": "2026-09-13T11:28:26.516Z"
+    "createdAt": "2026-09-13T15:57:00.493Z",
+    "updatedAt": "2026-09-13T15:57:00.493Z"
   },
   {
     "id": "d465b29cdbf4d6aa",
@@ -80,63 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6aa549589a79470e895193df",
     "publishedAt": "2026-09-13T05:01:26.000Z",
-    "createdAt": "2026-09-13T11:28:25.339Z",
-    "updatedAt": "2026-09-13T11:28:25.339Z"
-  },
-  {
-    "id": "5bde1b60a3beadbf",
-    "title": "Непобежденный боец Белаз победил на кулачном турнире звезду UFC",
-    "sport": "Единоборства",
-    "category": "Единоборства",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/5/85/347892374196855.jpeg",
-    "teaser": "Непобежденный боец Белаз победил на кулачном турнире звезду UFC",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6aa593b29a794709146f9ae7",
-    "publishedAt": "2026-09-12T18:56:50.000Z",
-    "createdAt": "2026-09-13T11:28:29.538Z",
-    "updatedAt": "2026-09-13T11:28:29.538Z"
-  },
-  {
-    "id": "1132d637a809196c",
-    "title": "Выступавший в UFC американец заявил о планах получить российский паспорт",
-    "sport": "Единоборства",
-    "category": "Единоборства",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/8/83/347892383550838.jpeg",
-    "teaser": "Выступавший в UFC американец заявил о планах получить российский паспорт",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a2bf86c9a79471af90a0a7b",
-    "publishedAt": "2026-09-12T18:47:16.000Z",
-    "createdAt": "2026-09-13T11:28:27.580Z",
-    "updatedAt": "2026-09-13T11:28:27.580Z"
-  },
-  {
-    "id": "3e7fd67e189b12a7",
-    "title": "Защитник ЦСКА толкнул арбитра после красной карточки в матче с «Рубином»",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/7/01/347892375745017.jpeg",
-    "teaser": "Защитник ЦСКА толкнул арбитра после красной карточки в матче с «Рубином»",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a7f29b19a7947d1f368f8b3",
-    "publishedAt": "2026-09-12T18:31:15.000Z",
-    "createdAt": "2026-09-13T11:28:28.592Z",
-    "updatedAt": "2026-09-13T11:28:28.592Z"
-  },
-  {
-    "id": "2b71068df18c7564",
-    "title": "«Динамо» вырвало победу у «Оренбурга» в матче с дракой и двумя удалениями",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/2/18/347892328367182.jpeg",
-    "teaser": "«Динамо» вырвало победу у «Оренбурга» в матче с дракой и двумя удалениями",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6a8719559a7947880d653954",
-    "publishedAt": "2026-09-12T17:28:46.000Z",
-    "createdAt": "2026-09-13T11:28:30.570Z",
-    "updatedAt": "2026-09-13T11:28:30.570Z"
+    "createdAt": "2026-09-13T15:56:54.349Z",
+    "updatedAt": "2026-09-13T15:56:54.349Z"
   }
 ]
