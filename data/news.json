@@ -1,5 +1,19 @@
 [
   {
+    "id": "c67d44122e8a6733",
+    "title": "Батраков сделал первую голевую передачу за «Галатасарай»",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/3/89/347893254624893.png",
+    "teaser": "Батраков сделал первую голевую передачу за «Галатасарай»",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6aa6f01d9a7947805de6c6b5",
+    "publishedAt": "2026-09-13T19:02:47.000Z",
+    "createdAt": "2026-09-13T21:19:15.221Z",
+    "updatedAt": "2026-09-13T21:19:15.221Z"
+  },
+  {
     "id": "0bd4aa0f0c85568a",
     "title": "Лидер РПЛ «Краснодар» потерял очки во втором матче подряд",
     "sport": "Футбол",
@@ -10,8 +24,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6aa6e2259a7947318cce8a59",
     "publishedAt": "2026-09-13T18:41:17.000Z",
-    "createdAt": "2026-09-13T18:43:08.285Z",
-    "updatedAt": "2026-09-13T18:43:08.285Z"
+    "createdAt": "2026-09-13T21:19:16.101Z",
+    "updatedAt": "2026-09-13T21:19:16.101Z"
   },
   {
     "id": "4583c60b6ca2d09a",
@@ -24,8 +38,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6aa6dccd9a7947805de6c6a2",
     "publishedAt": "2026-09-13T17:42:36.000Z",
-    "createdAt": "2026-09-13T18:43:09.237Z",
-    "updatedAt": "2026-09-13T18:43:09.238Z"
+    "createdAt": "2026-09-13T21:19:16.996Z",
+    "updatedAt": "2026-09-13T21:19:16.996Z"
   },
   {
     "id": "421f213fbe377efa",
@@ -38,8 +52,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6aa6d7509a7947b1ee08e01b",
     "publishedAt": "2026-09-13T17:18:44.000Z",
-    "createdAt": "2026-09-13T18:43:10.173Z",
-    "updatedAt": "2026-09-13T18:43:10.173Z"
+    "createdAt": "2026-09-13T21:19:17.928Z",
+    "updatedAt": "2026-09-13T21:19:17.928Z"
   },
   {
     "id": "91f010b9455d37df",
@@ -52,8 +66,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6aa6d2909a79474d28fe8d8c",
     "publishedAt": "2026-09-13T16:56:03.000Z",
-    "createdAt": "2026-09-13T18:43:11.166Z",
-    "updatedAt": "2026-09-13T18:43:11.166Z"
+    "createdAt": "2026-09-13T21:19:19.919Z",
+    "updatedAt": "2026-09-13T21:19:19.919Z"
   },
   {
     "id": "4a6ea295a728738b",
@@ -66,8 +80,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6aa6ccba9a7947805de6c670",
     "publishedAt": "2026-09-13T16:31:48.000Z",
-    "createdAt": "2026-09-13T18:43:14.101Z",
-    "updatedAt": "2026-09-13T18:43:14.101Z"
+    "createdAt": "2026-09-13T21:19:22.034Z",
+    "updatedAt": "2026-09-13T21:19:22.034Z"
   },
   {
     "id": "822f41d989fa8bb6",
@@ -80,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6aa6c4439a79474263f829a9",
     "publishedAt": "2026-09-13T16:03:00.000Z",
-    "createdAt": "2026-09-13T18:43:12.177Z",
-    "updatedAt": "2026-09-13T18:43:12.177Z"
+    "createdAt": "2026-09-13T21:19:20.977Z",
+    "updatedAt": "2026-09-13T21:19:20.977Z"
   },
   {
     "id": "2301d92965c30895",
@@ -94,8 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6aa6bbbb9a79475fa9151a52",
     "publishedAt": "2026-09-13T15:34:55.000Z",
-    "createdAt": "2026-09-13T18:43:15.033Z",
-    "updatedAt": "2026-09-13T18:43:15.033Z"
+    "createdAt": "2026-09-13T21:19:22.989Z",
+    "updatedAt": "2026-09-13T21:19:22.989Z"
   },
   {
     "id": "b94fad88fb425510",
@@ -108,22 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6aa6ad9c9a79470a019dd01d",
     "publishedAt": "2026-09-13T14:49:12.000Z",
-    "createdAt": "2026-09-13T18:43:15.978Z",
-    "updatedAt": "2026-09-13T18:43:15.978Z"
-  },
-  {
-    "id": "9f7cdd3dad5b1f76",
-    "title": "«Ахмат» вырвал победу в матче с автоголом и травмой вратаря у соперника",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/5/52/347893049757525.jpeg",
-    "teaser": "«Ахмат» вырвал победу в матче с автоголом и травмой вратаря у соперника",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6aa69e3e9a79476f8f1ca8e9",
-    "publishedAt": "2026-09-13T13:45:22.000Z",
-    "createdAt": "2026-09-13T18:43:16.935Z",
-    "updatedAt": "2026-09-13T18:43:16.935Z"
+    "createdAt": "2026-09-13T21:19:23.974Z",
+    "updatedAt": "2026-09-13T21:19:23.974Z"
   },
   {
     "id": "d465b29cdbf4d6aa",
@@ -136,7 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6aa549589a79470e895193df",
     "publishedAt": "2026-09-13T05:01:26.000Z",
-    "createdAt": "2026-09-13T18:43:13.108Z",
-    "updatedAt": "2026-09-13T18:43:13.108Z"
+    "createdAt": "2026-09-13T21:19:18.978Z",
+    "updatedAt": "2026-09-13T21:19:18.978Z"
   }
 ]
