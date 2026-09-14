@@ -1,151 +1,135 @@
 [
   {
-    "id": 1789381671739,
-    "eventName": "Сибирские Снайперы — Толпар",
-    "discipline": "Хоккей",
-    "tournament": "Чемпионат",
-    "expert": {
-      "name": "Светлана Захарова",
-      "avatar": "https://bookmaker-ratings.ru/static/images/badges/novice-letter.svg?v=30092024",
-      "status": "expert",
-      "winRate": 74
-    },
-    "prediction": "Победа 2",
-    "odds": 2.51,
-    "comment": "Всем привет ну я все также про интуицию я же новичек думаю эта команда молодцы будут сегодня😊",
-    "source": "Sports Analytics Pro"
-  },
-  {
-    "id": 1789381671740,
-    "eventName": "Омские Крылья — Калуга",
-    "discipline": "Хоккей",
-    "tournament": "Чемпионат",
-    "expert": {
-      "name": "Andrey Agapov",
-      "avatar": "https://bookmaker-ratings.ru/static/images/badges/forecaster-letter.svg?v=30092024",
-      "status": "expert",
-      "winRate": 79
-    },
-    "prediction": "Обе забьют - Нет",
-    "odds": 4.1,
-    "comment": "Калуга последние матчи проводит сухими, вот и напрашивается такой прогноз",
-    "source": "Sports Analytics Pro"
-  },
-  {
-    "id": 1789381671741,
-    "eventName": "Талаеа Эль Геиш — Смуха",
+    "id": 1789404776155,
+    "eventName": "Газиантеп — Фенербахче",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
     "expert": {
-      "name": "Andrey Agapov",
-      "avatar": "https://bookmaker-ratings.ru/static/images/badges/forecaster-letter.svg?v=30092024",
+      "name": "Nicki Tricky",
+      "avatar": "https://bookmaker-ratings.ru/static/images/badges/novice-letter.svg?v=30092024",
       "status": "expert",
-      "winRate": 79
+      "winRate": 68
     },
-    "prediction": "Фора 1 (0)",
-    "odds": 1.65,
-    "comment": "Комментарий к прогнозу",
+    "prediction": "Тотал больше (2.5)",
+    "odds": 1.68,
+    "comment": "Верю что голов в чемпионате турции будет много,верим",
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1789381671742,
-    "eventName": "КАМАЗ — Челябинск",
+    "id": 1789404776156,
+    "eventName": "Газиантеп — Фенербахче",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
     "expert": {
-      "name": "Серёга Павлычев",
+      "name": "Nicki Tricky",
       "avatar": "https://bookmaker-ratings.ru/static/images/badges/novice-letter.svg?v=30092024",
       "status": "expert",
-      "winRate": 87
+      "winRate": 68
     },
-    "prediction": "Ничья",
-    "odds": 3.09,
-    "comment": "Проживаю в городе,где собственно и пройдет эта встреча,хозяева подходят с тяжелым грузом к этой игре,аж шесть проигранных домашних матчей,пора бы реабилитироваться перед болельщиками,Челяба тоже не знаешь вкуса побед пять матчей, в общем думаю будет из жанра игра была ровна, ну а дальше вы знаете, хватаю ничью.",
+    "prediction": "Тотал больше (3)",
+    "odds": 2.09,
+    "comment": "Все последние матчи эти команды пробили Тотал больше 3",
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1789381671743,
-    "eventName": "КАМАЗ — Челябинск",
+    "id": 1789404776157,
+    "eventName": "Риу-Аве — Эштрела",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
     "expert": {
-      "name": "Андрей Westone",
-      "avatar": "https://bookmaker-ratings.ru/static/images/badges/novice-letter.svg?v=30092024",
+      "name": "Сергей Гориславец",
+      "avatar": "https://static-uploads.prod.bookmaker-ratings.ru/2025/06/A55E5521-F251-409B-9872-CFCC8E629075-684340c122a2a.jpg?width=60",
       "status": "expert",
-      "winRate": 82
-    },
-    "prediction": "Обе забьют - Да",
-    "odds": 1.98,
-    "comment": "Ребята играют в открытый футбол друг с другом. Будет много голов",
-    "source": "Sports Analytics Pro"
-  },
-  {
-    "id": 1789381671744,
-    "eventName": "Спартак Кострома — Нефтехимик",
-    "discipline": "Футбол",
-    "tournament": "Чемпионат",
-    "expert": {
-      "name": "Андрей Westone",
-      "avatar": "https://bookmaker-ratings.ru/static/images/badges/novice-letter.svg?v=30092024",
-      "status": "expert",
-      "winRate": 82
-    },
-    "prediction": "Тотал (2) Б",
-    "odds": 1.5,
-    "comment": "Спартак в хорошей форме и готов отыграться за предыдущие матчи",
-    "source": "Sports Analytics Pro"
-  },
-  {
-    "id": 1789381671745,
-    "eventName": "Шафа — Сабах Баку",
-    "discipline": "Футбол",
-    "tournament": "Чемпионат",
-    "expert": {
-      "name": "Александр Анохин",
-      "avatar": "https://bookmaker-ratings.ru/static/images/badges/novice-letter.svg?v=30092024",
-      "status": "expert",
-      "winRate": 77
-    },
-    "prediction": "Обе забьют - Да",
-    "odds": 1.85,
-    "comment": "Команды могут обменяться голами сегодня............",
-    "source": "Sports Analytics Pro"
-  },
-  {
-    "id": 1789381671746,
-    "eventName": "Лада — Динамо Минск",
-    "discipline": "Хоккей",
-    "tournament": "Чемпионат",
-    "expert": {
-      "name": "Larocka Cepurnova",
-      "avatar": "https://s3-static-prod.storage.yandexcloud.net/2026/09/images-rb-webp-75a830173cb5-dde0b85a1ec5.webp",
-      "status": "expert",
-      "winRate": 76
-    },
-    "prediction": "Индивидуальный тотал 2 Больше (2.5)",
-    "odds": 1.48,
-    "comment": "Прогноз: индивидуальный тотал Динамо Минск больше (2.5). Минское «Динамо» имеет серьёзное преимущество в очных встречах с «Ладой», выиграв 11 из 16 матчей. В двух последних официальных играх минчане забросили этому сопернику 8 и 7 шайб. Лада тяжело начала сезон и испытывает проблемы в обороне, тогда как состав гостей сохранил качественную атакующую линию и надёжного голкипера Зака Фукале. На фоне текущей формы и статистики личных встреч гости имеют хорошие шансы забросить минимум три шайбы.",
-    "source": "Sports Analytics Pro"
-  },
-  {
-    "id": 1789381671747,
-    "eventName": "КАМАЗ — Челябинск",
-    "discipline": "Футбол",
-    "tournament": "Чемпионат",
-    "expert": {
-      "name": "Вита Журенко",
-      "avatar": "https://bookmaker-ratings.ru/static/images/badges/novice-letter.svg?v=30092024",
-      "status": "expert",
-      "winRate": 83
+      "winRate": 69
     },
     "prediction": "Обе забьют (Да)",
-    "odds": 1.98,
-    "comment": "Думаю оба коллектива забьют по голу как и в прошлых очных противостояниях",
+    "odds": 1.79,
+    "comment": "Надеюсь мы сегодня увидим результативный матч с забитыми мячами",
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1789381671748,
-    "eventName": "Университатя — Оцелул",
+    "id": 1789404776158,
+    "eventName": "Аль-Ахли Джидда — Пахтакор",
+    "discipline": "Футбол",
+    "tournament": "Чемпионат",
+    "expert": {
+      "name": "Akhmad Akhokhov",
+      "avatar": "https://bookmaker-ratings.ru/static/images/badges/forecaster-letter.svg?v=30092024",
+      "status": "expert",
+      "winRate": 73
+    },
+    "prediction": "Ф1(-2)",
+    "odds": 2.1,
+    "comment": "Ну тут во первых подбор игроков Аль-Ахли сильнее, во вторых игра дома, и полагаю выиграют не минимально, а в разнице 2-3 мяча",
+    "source": "Sports Analytics Pro"
+  },
+  {
+    "id": 1789404776159,
+    "eventName": "Интер — Удинезе",
+    "discipline": "Футбол",
+    "tournament": "Чемпионат",
+    "expert": {
+      "name": "Akhmad Akhokhov",
+      "avatar": "https://bookmaker-ratings.ru/static/images/badges/forecaster-letter.svg?v=30092024",
+      "status": "expert",
+      "winRate": 73
+    },
+    "prediction": "Ф1(-1.5)",
+    "odds": 1.76,
+    "comment": "Интер хорош, и в Лиге Чемпионов были хороши в игре с Реалом",
+    "source": "Sports Analytics Pro"
+  },
+  {
+    "id": 1789404776160,
+    "eventName": "Интер — Удинезе",
+    "discipline": "Футбол",
+    "tournament": "Чемпионат",
+    "expert": {
+      "name": "Михаил Исламов",
+      "avatar": "https://static-uploads.prod.bookmaker-ratings.ru/2026/01/orig-rb-webp-697c318bb518c-697c318bbc509.webp?width=60",
+      "status": "expert",
+      "winRate": 68
+    },
+    "prediction": "Индивидуальный тотал 2 Меньше (0.5)",
+    "odds": 1.83,
+    "comment": "В 10 последних встречах «Интер» одержал восемь побед, а «Удинезе» — две.",
+    "source": "Sports Analytics Pro"
+  },
+  {
+    "id": 1789404776161,
+    "eventName": "Интер — Удинезе",
+    "discipline": "Футбол",
+    "tournament": "Чемпионат",
+    "expert": {
+      "name": "Сэр Палпатин",
+      "avatar": "https://s3-static-prod.storage.yandexcloud.net/2026/09/images-rb-webp-3ce2445a5d29-076ec1fb33f9.webp",
+      "status": "expert",
+      "winRate": 70
+    },
+    "prediction": "Фора 1 (-1.5)",
+    "odds": 1.7,
+    "comment": "Интер выиграл все 3 тура, а Удинезе лишился ключевого защитника Соле.",
+    "source": "Sports Analytics Pro"
+  },
+  {
+    "id": 1789404776162,
+    "eventName": "Интер — Удинезе",
+    "discipline": "Футбол",
+    "tournament": "Чемпионат",
+    "expert": {
+      "name": "Алим Калибатов",
+      "avatar": "https://static-uploads.prod.bookmaker-ratings.ru/2026/04/3dcfa3e614753a9566b9342464293-rb-webp-69d34c667554e-69d34c667cd17.webp?width=60",
+      "status": "expert",
+      "winRate": 73
+    },
+    "prediction": "Индивидуальный тотал 2 Больше (0.5)",
+    "odds": 1.9,
+    "comment": "\"Интер\" проиграл \"Реалу\" по счету, но по игре был лучше. Конечно такой матч скажется на игре в Серии А. \"Удинезе\" далеко не подарок, способен дать бой любому гранду. Если даже слабенькая \"Монца\" смогла забить \"Интеру\" в гостях, то парни из Удине тем более могут огорчить Жозепа Мартинеса. Гол \"Удинезе\" за 1.90.",
+    "source": "Sports Analytics Pro"
+  },
+  {
+    "id": 1789404776163,
+    "eventName": "Шелбурн — Дрогеда",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
     "expert": {
@@ -155,8 +139,24 @@
       "winRate": 83
     },
     "prediction": "Тотал больше (2.5)",
-    "odds": 1.79,
-    "comment": "Думаю игра будет с обилием моментов и команды пробьют Тотал 2,5 больше",
+    "odds": 1.88,
+    "comment": "Думаю игра будет результативной и команды пробьют Тотал 2,5 больше",
+    "source": "Sports Analytics Pro"
+  },
+  {
+    "id": 1789404776164,
+    "eventName": "Интер — Удинезе",
+    "discipline": "Футбол",
+    "tournament": "Чемпионат",
+    "expert": {
+      "name": "Сергей Гориславец",
+      "avatar": "https://static-uploads.prod.bookmaker-ratings.ru/2025/06/A55E5521-F251-409B-9872-CFCC8E629075-684340c122a2a.jpg?width=60",
+      "status": "expert",
+      "winRate": 69
+    },
+    "prediction": "Ф2(+2.5)",
+    "odds": 1.53,
+    "comment": "Думаю голы мы сегодня увидим и желательно в обоих таймах",
     "source": "Sports Analytics Pro"
   }
 ]
