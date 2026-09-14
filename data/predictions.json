@@ -1,22 +1,6 @@
 [
   {
-    "id": 1789418957350,
-    "eventName": "Байя — Ремо",
-    "discipline": "Футбол",
-    "tournament": "Чемпионат",
-    "expert": {
-      "name": "Akhmad Akhokhov",
-      "avatar": "https://bookmaker-ratings.ru/static/images/badges/forecaster-letter.svg?v=30092024",
-      "status": "expert",
-      "winRate": 73
-    },
-    "prediction": "Ф2(+1.5)",
-    "odds": 1.72,
-    "comment": "В пяти последних очных встречах, Ремо выиграла четыре матча. Да гости аутсайдеры этого матча, думаю плюсовая фора подстать",
-    "source": "Sports Analytics Pro"
-  },
-  {
-    "id": 1789418957351,
+    "id": 1789429585151,
     "eventName": "Райо Вальекано — Эспаньол",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -32,7 +16,7 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1789418957352,
+    "id": 1789429585153,
     "eventName": "Алавес — Валенсия",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -48,7 +32,7 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1789418957353,
+    "id": 1789429585154,
     "eventName": "Аякс — Виллем II",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -64,7 +48,7 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1789418957354,
+    "id": 1789429585155,
     "eventName": "Ливерпуль — Тоттенхэм Хотспур",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -80,7 +64,7 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1789418957355,
+    "id": 1789429585156,
     "eventName": "Эльче — Реал Мадрид",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -96,7 +80,23 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1789418957356,
+    "id": 1789429585157,
+    "eventName": "Матч",
+    "discipline": "Футбол",
+    "tournament": "Чемпионат",
+    "expert": {
+      "name": "Райо Вальекано",
+      "avatar": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=100&h=100&fit=crop",
+      "status": "expert",
+      "winRate": 76
+    },
+    "prediction": "ТБ (2,5) и обе забьют — да",
+    "odds": 2.2,
+    "comment": "Комментарий к прогнозу",
+    "source": "Sports Analytics Pro"
+  },
+  {
+    "id": 1789429585158,
     "eventName": "Матч",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -112,7 +112,23 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1789418957357,
+    "id": 1789429585159,
+    "eventName": "Матч",
+    "discipline": "Футбол",
+    "tournament": "Чемпионат",
+    "expert": {
+      "name": "Ла Лига",
+      "avatar": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=100&h=100&fit=crop",
+      "status": "expert",
+      "winRate": 77
+    },
+    "prediction": "Сухая победа «Алавеса»",
+    "odds": 2.85,
+    "comment": "Комментарий к прогнозу",
+    "source": "Sports Analytics Pro"
+  },
+  {
+    "id": 1789429585160,
     "eventName": "Матч",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -128,23 +144,7 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1789418957358,
-    "eventName": "Матч",
-    "discipline": "Футбол",
-    "tournament": "Чемпионат",
-    "expert": {
-      "name": "Бузас Манейро",
-      "avatar": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=100&h=100&fit=crop",
-      "status": "expert",
-      "winRate": 81
-    },
-    "prediction": "Эйсы Ф1 (0)",
-    "odds": 1.78,
-    "comment": "Комментарий к прогнозу",
-    "source": "Sports Analytics Pro"
-  },
-  {
-    "id": 1789418957359,
+    "id": 1789429585161,
     "eventName": "Матч",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -154,8 +154,8 @@
       "status": "expert",
       "winRate": 77
     },
-    "prediction": "X2 и ТБ (2,5)",
-    "odds": 3.45,
+    "prediction": "П2 и обе забьют — да",
+    "odds": 2.4,
     "comment": "Комментарий к прогнозу",
     "source": "Sports Analytics Pro"
   }
