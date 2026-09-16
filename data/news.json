@@ -1,5 +1,33 @@
 [
   {
+    "id": "2c29ae7d7c994d66",
+    "title": "«Зенит» поднялся на третье место в таблице РПЛ, обыграв «Балтику»",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/2/12/347895864610122.jpeg",
+    "teaser": "«Зенит» поднялся на третье место в таблице РПЛ, обыграв «Балтику»",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6aaa79209a7947db3fce2729",
+    "publishedAt": "2026-09-16T19:57:29.000Z",
+    "createdAt": "2026-09-16T22:48:16.397Z",
+    "updatedAt": "2026-09-16T22:48:16.397Z"
+  },
+  {
+    "id": "c16c067db4056d36",
+    "title": "«Локомотив» не смог обыграть «Крылья Советов» в домашнем матче РПЛ",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/6/39/347895866397396.jpeg",
+    "teaser": "«Локомотив» не смог обыграть «Крылья Советов» в домашнем матче РПЛ",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6aaa7c989a7947e0c36ba059",
+    "publishedAt": "2026-09-16T19:47:11.000Z",
+    "createdAt": "2026-09-16T22:48:17.495Z",
+    "updatedAt": "2026-09-16T22:48:17.495Z"
+  },
+  {
     "id": "9d33f78afff8fd75",
     "title": "Ферстаппен за 14 кругов выиграл гонку у ста картингистов на трассе F1",
     "sport": "Другое",
@@ -10,8 +38,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6aaae3d29a7947ae93cc3c6a",
     "publishedAt": "2026-09-16T19:06:24.000Z",
-    "createdAt": "2026-09-16T19:55:40.168Z",
-    "updatedAt": "2026-09-16T19:55:40.168Z"
+    "createdAt": "2026-09-16T22:48:18.633Z",
+    "updatedAt": "2026-09-16T22:48:18.633Z"
   },
   {
     "id": "556419e9971e2c9b",
@@ -24,8 +52,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6aaadb239a794725faf82b1a",
     "publishedAt": "2026-09-16T18:31:01.000Z",
-    "createdAt": "2026-09-16T19:55:45.989Z",
-    "updatedAt": "2026-09-16T19:55:45.989Z"
+    "createdAt": "2026-09-16T22:48:24.871Z",
+    "updatedAt": "2026-09-16T22:48:24.871Z"
   },
   {
     "id": "986340d187f4740f",
@@ -38,8 +66,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6aaad6469a7947c8aac033b0",
     "publishedAt": "2026-09-16T18:11:53.000Z",
-    "createdAt": "2026-09-16T19:55:43.220Z",
-    "updatedAt": "2026-09-16T19:55:43.220Z"
+    "createdAt": "2026-09-16T22:48:21.880Z",
+    "updatedAt": "2026-09-16T22:48:21.880Z"
   },
   {
     "id": "05b6fd8b132f02a3",
@@ -52,8 +80,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6aaad0249a7947027e036092",
     "publishedAt": "2026-09-16T17:56:13.000Z",
-    "createdAt": "2026-09-16T19:55:42.217Z",
-    "updatedAt": "2026-09-16T19:55:42.217Z"
+    "createdAt": "2026-09-16T22:48:20.799Z",
+    "updatedAt": "2026-09-16T22:48:20.799Z"
   },
   {
     "id": "f31e8314e6967f68",
@@ -66,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6aaa754b9a79471dec4b1075",
     "publishedAt": "2026-09-16T17:34:00.000Z",
-    "createdAt": "2026-09-16T19:55:41.224Z",
-    "updatedAt": "2026-09-16T19:55:41.224Z"
+    "createdAt": "2026-09-16T22:48:19.712Z",
+    "updatedAt": "2026-09-16T22:48:19.712Z"
   },
   {
     "id": "ca7ad5622d2fc9e5",
@@ -80,8 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6aaac5979a79479e974b56a1",
     "publishedAt": "2026-09-16T17:04:08.000Z",
-    "createdAt": "2026-09-16T19:55:48.972Z",
-    "updatedAt": "2026-09-16T19:55:48.972Z"
+    "createdAt": "2026-09-16T22:48:27.359Z",
+    "updatedAt": "2026-09-16T22:48:27.359Z"
   },
   {
     "id": "67c2ab166e33eb1e",
@@ -94,36 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6aaabe879a794772fcc0777d",
     "publishedAt": "2026-09-16T16:38:20.000Z",
-    "createdAt": "2026-09-16T19:55:44.225Z",
-    "updatedAt": "2026-09-16T19:55:44.225Z"
-  },
-  {
-    "id": "5f92be59b2074d59",
-    "title": "Тренер сборной Испании после победы на ЧМ заключил новый контракт",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/0/36/347895725210360.jpeg",
-    "teaser": "Тренер сборной Испании после победы на ЧМ заключил новый контракт",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6aaab58f9a79474eed5bddd4",
-    "publishedAt": "2026-09-16T15:49:03.000Z",
-    "createdAt": "2026-09-16T19:55:51.132Z",
-    "updatedAt": "2026-09-16T19:55:51.132Z"
-  },
-  {
-    "id": "4f91a2b15b86f8fa",
-    "title": "Экс-президент «Интера» заявил, что предлагал полмиллиарда евро за Месси",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/4/96/347895704165964.jpeg",
-    "teaser": "Экс-президент «Интера» заявил, что предлагал полмиллиарда евро за Месси",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6aaaaac79a79476b507e91c0",
-    "publishedAt": "2026-09-16T15:11:51.000Z",
-    "createdAt": "2026-09-16T19:55:50.069Z",
-    "updatedAt": "2026-09-16T19:55:50.069Z"
+    "createdAt": "2026-09-16T22:48:23.018Z",
+    "updatedAt": "2026-09-16T22:48:23.018Z"
   },
   {
     "id": "a0113625ca4860ba",
@@ -136,7 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6aaa82b69a79477ab1ac97c6",
     "publishedAt": "2026-09-16T12:24:34.000Z",
-    "createdAt": "2026-09-16T19:55:47.887Z",
-    "updatedAt": "2026-09-16T19:55:47.887Z"
+    "createdAt": "2026-09-16T22:48:26.169Z",
+    "updatedAt": "2026-09-16T22:48:26.169Z"
   }
 ]
