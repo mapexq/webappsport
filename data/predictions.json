@@ -1,6 +1,6 @@
 [
   {
-    "id": 1789509615416,
+    "id": 1789517538279,
     "eventName": "Спартак Москва — Факел Воронеж",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -16,7 +16,7 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1789509615417,
+    "id": 1789517538280,
     "eventName": "Спартак Москва — Факел Воронеж",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -32,7 +32,7 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1789509615418,
+    "id": 1789517538281,
     "eventName": "Родина — Рубин",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -48,7 +48,7 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1789509615419,
+    "id": 1789517538282,
     "eventName": "Спартак Москва — Факел Воронеж",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -64,7 +64,39 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1789509615420,
+    "id": 1789517538283,
+    "eventName": "Спартак Москва — Факел Воронеж",
+    "discipline": "Футбол",
+    "tournament": "Чемпионат",
+    "expert": {
+      "name": "Александр Чистов",
+      "avatar": "https://static-uploads.prod.bookmaker-ratings.ru/2026/09/1f226c6f-c85f-43be-aafc-00c350f1adce-rb-webp-6a9d9703d8344-6a9d9703e3249.webp?width=60",
+      "status": "expert",
+      "winRate": 86
+    },
+    "prediction": "Тотал Спартак Москва больше (2)",
+    "odds": 1.97,
+    "comment": "Комментарий к прогнозу",
+    "source": "Sports Analytics Pro"
+  },
+  {
+    "id": 1789517538284,
+    "eventName": "Родина — Рубин",
+    "discipline": "Футбол",
+    "tournament": "Чемпионат",
+    "expert": {
+      "name": "Александр Чистов",
+      "avatar": "https://static-uploads.prod.bookmaker-ratings.ru/2026/09/1f226c6f-c85f-43be-aafc-00c350f1adce-rb-webp-6a9d9703d8344-6a9d9703e3249.webp?width=60",
+      "status": "expert",
+      "winRate": 86
+    },
+    "prediction": "Обе забьют (Да)",
+    "odds": 1.88,
+    "comment": "Класс Рубина вроде выше и даже можно поставить на победу Казани , но больно настырная Родина",
+    "source": "Sports Analytics Pro"
+  },
+  {
+    "id": 1789517538285,
     "eventName": "Атлетико Мадрид — Осасуна",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -80,23 +112,23 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1789509615421,
+    "id": 1789517538286,
     "eventName": "Матч",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
     "expert": {
-      "name": "Индепендиенте Санта",
+      "name": "Бока Хуниорс",
       "avatar": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=100&h=100&fit=crop",
       "status": "expert",
-      "winRate": 88
+      "winRate": 75
     },
-    "prediction": "Тотал (9.5) Б (угловые)",
-    "odds": 2.03,
+    "prediction": "Тотал (2) Б",
+    "odds": 1.97,
     "comment": "Комментарий к прогнозу",
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1789509615422,
+    "id": 1789517538288,
     "eventName": "Матч",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -112,7 +144,7 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1789509615423,
+    "id": 1789517538289,
     "eventName": "Матч",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -124,38 +156,6 @@
     },
     "prediction": "Ф1(-1.5)",
     "odds": 2.04,
-    "comment": "Комментарий к прогнозу",
-    "source": "Sports Analytics Pro"
-  },
-  {
-    "id": 1789509615424,
-    "eventName": "Матч",
-    "discipline": "Футбол",
-    "tournament": "Чемпионат",
-    "expert": {
-      "name": "Факел Воронеж",
-      "avatar": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=100&h=100&fit=crop",
-      "status": "expert",
-      "winRate": 78
-    },
-    "prediction": "Тотал Спартак Москва больше (2)",
-    "odds": 1.8,
-    "comment": "Комментарий к прогнозу",
-    "source": "Sports Analytics Pro"
-  },
-  {
-    "id": 1789509615425,
-    "eventName": "Матч",
-    "discipline": "Футбол",
-    "tournament": "Чемпионат",
-    "expert": {
-      "name": "Факел Воронеж",
-      "avatar": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=100&h=100&fit=crop",
-      "status": "expert",
-      "winRate": 78
-    },
-    "prediction": "Индивидуальный тотал 1 Больше (6.5) (угловые)",
-    "odds": 1.8,
     "comment": "Комментарий к прогнозу",
     "source": "Sports Analytics Pro"
   }
