@@ -1,23 +1,71 @@
 [
   {
-    "id": 1789557190628,
-    "eventName": "Эль-Гуна — Петроджет",
+    "id": 1789576393582,
+    "eventName": "Арарат-Армения — Спарта Прага",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
     "expert": {
-      "name": "Вита Журенко",
+      "name": "Никита Про",
       "avatar": "https://bookmaker-ratings.ru/static/images/badges/novice-letter.svg?v=30092024",
       "status": "expert",
-      "winRate": 83
+      "winRate": 72
     },
     "prediction": "Обе забьют (Да)",
-    "odds": 2.01,
-    "comment": "Думаю обе команды забьют а почему бы не попробовать за двоечку",
+    "odds": 1.68,
+    "comment": "Думаю команды покажут атакующую игру,с большим количеством голов",
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1789557190629,
-    "eventName": "Спартак Москва — Факел Воронеж",
+    "id": 1789576393584,
+    "eventName": "Арарат-Армения — Спарта Прага",
+    "discipline": "Футбол",
+    "tournament": "Чемпионат",
+    "expert": {
+      "name": "Никита Про",
+      "avatar": "https://bookmaker-ratings.ru/static/images/badges/novice-letter.svg?v=30092024",
+      "status": "expert",
+      "winRate": 72
+    },
+    "prediction": "Тотал больше (2.5)",
+    "odds": 1.68,
+    "comment": "Обе команды должны забивать друг другу минимум по 2",
+    "source": "Sports Analytics Pro"
+  },
+  {
+    "id": 1789576393585,
+    "eventName": "Омония — Сельта",
+    "discipline": "Футбол",
+    "tournament": "Чемпионат",
+    "expert": {
+      "name": "Никита Про",
+      "avatar": "https://bookmaker-ratings.ru/static/images/badges/novice-letter.svg?v=30092024",
+      "status": "expert",
+      "winRate": 72
+    },
+    "prediction": "Обе забьют (Нет)",
+    "odds": 1.87,
+    "comment": "Ожидаю низовой матч с минимальным количеством голов",
+    "source": "Sports Analytics Pro"
+  },
+  {
+    "id": 1789576393586,
+    "eventName": "Омония — Сельта",
+    "discipline": "Футбол",
+    "tournament": "Чемпионат",
+    "expert": {
+      "name": "Никита Про",
+      "avatar": "https://bookmaker-ratings.ru/static/images/badges/novice-letter.svg?v=30092024",
+      "status": "expert",
+      "winRate": 72
+    },
+    "prediction": "Тотал меньше (2.5)",
+    "odds": 1.77,
+    "comment": "Команды мало забивают,ожидаю что счет будет 0:1 или 0:0",
+    "source": "Sports Analytics Pro"
+  },
+  {
+    "id": 1789576393587,
+    "eventName": "Атлетико Мадрид — Осасуна",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
     "expert": {
@@ -26,137 +74,89 @@
       "status": "expert",
       "winRate": 73
     },
-    "prediction": "Ф1(-1.5)",
-    "odds": 2.04,
-    "comment": "Спартак играет с аутсайдером, и как минимум должны выиграть в разнице два мяча",
+    "prediction": "Тотал Атлетико Мадрид больше (2)",
+    "odds": 1.93,
+    "comment": "Дома матрасники должны забивать минимумминимум два, но я рассчитываю на три гола",
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1789557190630,
-    "eventName": "Спартак Москва — Факел Воронеж",
+    "id": 1789576393588,
+    "eventName": "Атлетико Мадрид — Осасуна",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
     "expert": {
-      "name": "Дмитрий Рыбалка",
-      "avatar": "https://static-uploads.prod.bookmaker-ratings.ru/2026/08/818-rb-webp-6a7c191851082-6a7c191854cb7.webp?width=60",
+      "name": "Александр Чистов",
+      "avatar": "https://static-uploads.prod.bookmaker-ratings.ru/2026/09/1f226c6f-c85f-43be-aafc-00c350f1adce-rb-webp-6a9d9703d8344-6a9d9703e3249.webp?width=60",
       "status": "expert",
-      "winRate": 84
+      "winRate": 86
     },
-    "prediction": "Ф1(-1.5)",
-    "odds": 2.04,
-    "comment": "Победа Спартака с форой -1. 5. Москвичи лучше, возможно вернется Барко, такие матчи Спартак должен спокойно и уверенно забирать",
+    "prediction": "Ф1(-1)",
+    "odds": 1.7,
+    "comment": "Думаю этот вариант даже с подстраховкой , можно добавить Атлетико тб1,5",
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1789557190631,
+    "id": 1789576393589,
     "eventName": "Матч",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
     "expert": {
-      "name": "Виссел Кобе",
+      "name": "Лига Европы",
       "avatar": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=100&h=100&fit=crop",
       "status": "expert",
-      "winRate": 72
+      "winRate": 77
     },
-    "prediction": "Индивидуальный тотал 1 Больше (0.5)",
-    "odds": 1.57,
+    "prediction": "ТМ (2,5)",
+    "odds": 1.75,
     "comment": "Комментарий к прогнозу",
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1789557190632,
+    "id": 1789576393590,
     "eventName": "Матч",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
     "expert": {
-      "name": "Салават Юлаев",
+      "name": "Спарта Прага",
       "avatar": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=100&h=100&fit=crop",
       "status": "expert",
-      "winRate": 76
-    },
-    "prediction": "Ничья",
-    "odds": 4.1,
-    "comment": "Комментарий к прогнозу",
-    "source": "Sports Analytics Pro"
-  },
-  {
-    "id": 1789557190633,
-    "eventName": "Матч",
-    "discipline": "Футбол",
-    "tournament": "Чемпионат",
-    "expert": {
-      "name": "Премьер Лига",
-      "avatar": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=100&h=100&fit=crop",
-      "status": "expert",
-      "winRate": 83
+      "winRate": 70
     },
     "prediction": "Обе забьют (Да)",
-    "odds": 2.01,
+    "odds": 1.68,
     "comment": "Комментарий к прогнозу",
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1789557190634,
+    "id": 1789576393591,
     "eventName": "Матч",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
     "expert": {
-      "name": "Факел Воронеж",
+      "name": "Спарта Прага",
       "avatar": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=100&h=100&fit=crop",
       "status": "expert",
-      "winRate": 78
+      "winRate": 70
     },
-    "prediction": "Ф1 (-1,5)",
-    "odds": 1.96,
+    "prediction": "Тотал больше (2.5)",
+    "odds": 1.68,
     "comment": "Комментарий к прогнозу",
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1789557190636,
+    "id": 1789576393592,
     "eventName": "Матч",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
     "expert": {
-      "name": "Факел Воронеж",
+      "name": "Спарта Прага",
       "avatar": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=100&h=100&fit=crop",
       "status": "expert",
-      "winRate": 78
+      "winRate": 70
     },
-    "prediction": "Ф1(-1.5)",
-    "odds": 2.04,
+    "prediction": "Тотал (2.5) Б",
+    "odds": 1.68,
     "comment": "Комментарий к прогнозу",
-    "source": "Sports Analytics Pro"
-  },
-  {
-    "id": 1789557190637,
-    "eventName": "Порт — Виссел Кобе",
-    "discipline": "Футбол",
-    "tournament": "Чемпионат",
-    "expert": {
-      "name": "Светлана За",
-      "avatar": "https://bookmaker-ratings.ru/static/images/badges/novice-letter.svg?v=30092024",
-      "status": "expert",
-      "winRate": 73
-    },
-    "prediction": "Индивидуальный тотал 1 Больше (0.5)",
-    "odds": 1.57,
-    "comment": "Порт хоть и аутсайдер, но дома стабильно забивают. Ставка на их гол Скачай приложение РБ и получай Push-уведомления о прогнозах выбранных экспертов Скачай мобильное приложение Рейтинг Букмекеров и мгновенно получай Push-уведомления о новых прогнозах выбранных экспертов Скачай мобильное приложение по ссылке или QR-коду и мгновенно получай Push-уведомления о новых прогнозах выбранных экспертов",
-    "source": "Sports Analytics Pro"
-  },
-  {
-    "id": 1789557190638,
-    "eventName": "Сибирь — Нефтехимик",
-    "discipline": "Хоккей",
-    "tournament": "Чемпионат",
-    "expert": {
-      "name": "Дмитрий Ставкер",
-      "avatar": "https://bookmaker-ratings.ru/static/images/badges/novice-letter.svg?v=30092024",
-      "status": "expert",
-      "winRate": 85
-    },
-    "prediction": "Победа 1",
-    "odds": 2.2,
-    "comment": "Сибирь смотрится увернее, с Кузнецовым в раздевалке больше верю в них!",
     "source": "Sports Analytics Pro"
   }
 ]
