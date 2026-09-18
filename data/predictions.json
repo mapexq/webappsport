@@ -1,6 +1,22 @@
 [
   {
-    "id": 1789710136096,
+    "id": 1789728931581,
+    "eventName": "Матч",
+    "discipline": "Футбол",
+    "tournament": "Чемпионат",
+    "expert": {
+      "name": "Академия Коноплева",
+      "avatar": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=100&h=100&fit=crop",
+      "status": "expert",
+      "winRate": 68
+    },
+    "prediction": "Тотал (2.5) Б",
+    "odds": 1.35,
+    "comment": "Комментарий к прогнозу",
+    "source": "Sports Analytics Pro"
+  },
+  {
+    "id": 1789728931582,
     "eventName": "Матч",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -16,7 +32,7 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1789710136098,
+    "id": 1789728931583,
     "eventName": "Матч",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -32,7 +48,7 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1789710136099,
+    "id": 1789728931584,
     "eventName": "Звезда — Муром",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -48,7 +64,7 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1789710136100,
+    "id": 1789728931585,
     "eventName": "Сибиряк — Тюмень",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -64,7 +80,39 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1789710136101,
+    "id": 1789728931586,
+    "eventName": "Звезда — Муром",
+    "discipline": "Футбол",
+    "tournament": "Чемпионат",
+    "expert": {
+      "name": "Andrey Agapov",
+      "avatar": "https://bookmaker-ratings.ru/static/images/badges/forecaster-letter.svg?v=30092024",
+      "status": "expert",
+      "winRate": 79
+    },
+    "prediction": "Тотал (2) Б",
+    "odds": 1.46,
+    "comment": "Комментарий к прогнозу",
+    "source": "Sports Analytics Pro"
+  },
+  {
+    "id": 1789728931587,
+    "eventName": "Матч",
+    "discipline": "Футбол",
+    "tournament": "Чемпионат",
+    "expert": {
+      "name": "Андрей Westone",
+      "avatar": "https://bookmaker-ratings.ru/static/images/badges/novice-letter.svg?v=30092024",
+      "status": "expert",
+      "winRate": 82
+    },
+    "prediction": "Тотал (2.5) Б",
+    "odds": 1.35,
+    "comment": "Комментарий к прогнозу",
+    "source": "Sports Analytics Pro"
+  },
+  {
+    "id": 1789728931588,
     "eventName": "Салават Юлаев — Нефтехимик",
     "discipline": "Хоккей",
     "tournament": "Чемпионат",
@@ -80,7 +128,7 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1789710136102,
+    "id": 1789728931589,
     "eventName": "Металлург Магнитогорск — Барыс",
     "discipline": "Хоккей",
     "tournament": "Чемпионат",
@@ -96,7 +144,7 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1789710136103,
+    "id": 1789728931590,
     "eventName": "Сочи — СКА Хабаровск",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -109,54 +157,6 @@
     "prediction": "Индивидуальный тотал 1 Больше (5.5) (угловые)",
     "odds": 1.58,
     "comment": "Комментарий к прогнозу",
-    "source": "Sports Analytics Pro"
-  },
-  {
-    "id": 1789710136104,
-    "eventName": "Сочи — СКА Хабаровск",
-    "discipline": "Футбол",
-    "tournament": "Чемпионат",
-    "expert": {
-      "name": "Светлана За",
-      "avatar": "https://bookmaker-ratings.ru/static/images/badges/novice-letter.svg?v=30092024",
-      "status": "expert",
-      "winRate": 73
-    },
-    "prediction": "Индивидуальный тотал 1 Больше (2)",
-    "odds": 1.94,
-    "comment": "Хабаровск не важно чувствуют себя. Плюс длительный перелёт скажется на команде думаю итб1(2)",
-    "source": "Sports Analytics Pro"
-  },
-  {
-    "id": 1789710136105,
-    "eventName": "Динамо Минск — Сибирь",
-    "discipline": "Хоккей",
-    "tournament": "Чемпионат",
-    "expert": {
-      "name": "Светлана За",
-      "avatar": "https://bookmaker-ratings.ru/static/images/badges/novice-letter.svg?v=30092024",
-      "status": "expert",
-      "winRate": 73
-    },
-    "prediction": "Индивидуальный тотал 1 Больше (3)",
-    "odds": 1.87,
-    "comment": "Комментарий к прогнозу",
-    "source": "Sports Analytics Pro"
-  },
-  {
-    "id": 1789710136106,
-    "eventName": "Матч",
-    "discipline": "Футбол",
-    "tournament": "Чемпионат",
-    "expert": {
-      "name": "Светлана За",
-      "avatar": "https://bookmaker-ratings.ru/static/images/badges/novice-letter.svg?v=30092024",
-      "status": "expert",
-      "winRate": 73
-    },
-    "prediction": "Фора 1 (-1)",
-    "odds": 1.88,
-    "comment": "Вольфсбургу надо набирать очки, цепляться за верх таблицы фора -1 через возврат",
     "source": "Sports Analytics Pro"
   }
 ]
