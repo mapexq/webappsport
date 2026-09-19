@@ -1,23 +1,7 @@
 [
   {
-    "id": 1789827278182,
-    "eventName": "Венеция — Лацио",
-    "discipline": "Футбол",
-    "tournament": "Чемпионат",
-    "expert": {
-      "name": "Алексей Веселовский",
-      "avatar": "https://bookmaker-ratings.ru/static/images/badges/forecaster-letter.svg?v=30092024",
-      "status": "expert",
-      "winRate": 75
-    },
-    "prediction": "Ф2(0)",
-    "odds": 1.66,
-    "comment": "Тут всё ясно, Лацио должен забирать перед паузой на сборные",
-    "source": "Sports Analytics Pro"
-  },
-  {
-    "id": 1789827278183,
-    "eventName": "Эргрюте — Сириус",
+    "id": 1789840337255,
+    "eventName": "Андерлехт — Зульте-Варегем",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
     "expert": {
@@ -26,30 +10,30 @@
       "status": "expert",
       "winRate": 70
     },
-    "prediction": "Тотал больше (3.5)",
-    "odds": 2.18,
-    "comment": "Швеция высшая лига \nВерю в тотал больше , должны пробить",
+    "prediction": "Тотал Зульте-Варегем больше (1.5)",
+    "odds": 2.91,
+    "comment": "Бельгия лига про \nТут не предсказуемо гости могут 3 забить или 0 забить",
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1789827278184,
-    "eventName": "Янг Бойз — Серветт",
+    "id": 1789840337257,
+    "eventName": "Аякс — Эксельсиор",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
     "expert": {
-      "name": "Bet Monster",
-      "avatar": "https://static-uploads.prod.bookmaker-ratings.ru/2026/08/1000000575-rb-webp-6a85afca17d17-6a85afca1bef8.webp?width=60",
+      "name": "Гаусс За",
+      "avatar": "https://bookmaker-ratings.ru/static/images/badges/novice-letter.svg?v=30092024",
       "status": "expert",
-      "winRate": 87
+      "winRate": 85
     },
-    "prediction": "Тотал больше (2.5)",
-    "odds": 1.39,
-    "comment": "Young Boys дома показывает экстремальный голевой футбол: 4:2, 4:2, 3:3, 3:3. Во всех четырех матчах забивал минимум 3 гола, средние показатели 3,5 забитых / 2,5 пропущенных, УВС 9,25. Линия также мощно поддерживает хозяев: П1 укрепилась с 1,79 до 1,55, П2 выросла с 3,35 до 5,01. Но победу Young Boys страхуем через Х1. Причина - при огромной атакующей мощи команда настолько же нестабильна сзади: пропускала во всех домашних матчах и в каждом из них минимум дважды. Поэтому сценарии вроде 2:2 или 3:3 исключать нельзя. Берем силу Young Boys и очень мощный тотал, но не требуем обязательной победы.",
+    "prediction": "Обе забьют (Да)",
+    "odds": 1.64,
+    "comment": "Аякс лучший в чемпионате. Данный матч выиграет. Эксельсиор не уходит с поля без забитого мяча. Будет обмен голами.",
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1789827278185,
-    "eventName": "Париж — Страсбур",
+    "id": 1789840337258,
+    "eventName": "Ле Ман — Лорьян",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
     "expert": {
@@ -59,44 +43,60 @@
       "winRate": 73
     },
     "prediction": "Тотал больше (2.5)",
-    "odds": 1.7,
-    "comment": "Обе команды в данный момемомент на ходу и соседи по турнирной таблице",
-    "source": "Sports Analytics Pro"
-  },
-  {
-    "id": 1789827278186,
-    "eventName": "Спортинг — Арока",
-    "discipline": "Футбол",
-    "tournament": "Чемпионат",
-    "expert": {
-      "name": "Гаусс За",
-      "avatar": "https://bookmaker-ratings.ru/static/images/badges/novice-letter.svg?v=30092024",
-      "status": "expert",
-      "winRate": 85
-    },
-    "prediction": "Тотал больше (3)",
-    "odds": 1.62,
-    "comment": "В последнем матче Спортинга была ничья. Сегодня игра дома, команда выиграет с преимуществом в 2-3 мяча.",
-    "source": "Sports Analytics Pro"
-  },
-  {
-    "id": 1789827278187,
-    "eventName": "Матч",
-    "discipline": "Футбол",
-    "tournament": "Чемпионат",
-    "expert": {
-      "name": "Янг Бойз",
-      "avatar": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=100&h=100&fit=crop",
-      "status": "expert",
-      "winRate": 80
-    },
-    "prediction": "Тотал больше (2.5)",
-    "odds": 1.39,
+    "odds": 1.84,
     "comment": "Комментарий к прогнозу",
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1789827278188,
+    "id": 1789840337259,
+    "eventName": "Севилья — Барселона",
+    "discipline": "Футбол",
+    "tournament": "Чемпионат",
+    "expert": {
+      "name": "Алексей Веселовский",
+      "avatar": "https://bookmaker-ratings.ru/static/images/badges/forecaster-letter.svg?v=30092024",
+      "status": "expert",
+      "winRate": 75
+    },
+    "prediction": "Обе забьют (Да)",
+    "odds": 1.66,
+    "comment": "У Севильи думаю будет шанс, а вот сколько Барса забьет???",
+    "source": "Sports Analytics Pro"
+  },
+  {
+    "id": 1789840337260,
+    "eventName": "КФК Комарно — Слован",
+    "discipline": "Футбол",
+    "tournament": "Чемпионат",
+    "expert": {
+      "name": "Azim Turdubekov",
+      "avatar": "https://static-uploads.prod.bookmaker-ratings.ru/2026/09/16a8b12a-32b4-4d6f-a8c1-5b88d3b185be-rb-webp-6aabca3230f7a-6aabca323846b.webp?width=60",
+      "status": "expert",
+      "winRate": 70
+    },
+    "prediction": "Тотал больше (3)",
+    "odds": 1.74,
+    "comment": "Оценим команду ЯЯ ТУРЕ бывший игрок ман сити и барселоны \nСлован должен разгромить",
+    "source": "Sports Analytics Pro"
+  },
+  {
+    "id": 1789840337261,
+    "eventName": "Матч",
+    "discipline": "Футбол",
+    "tournament": "Чемпионат",
+    "expert": {
+      "name": "Высшая Лига",
+      "avatar": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=100&h=100&fit=crop",
+      "status": "expert",
+      "winRate": 85
+    },
+    "prediction": "Тотал Зульте-Варегем больше (1.5)",
+    "odds": 2.91,
+    "comment": "Комментарий к прогнозу",
+    "source": "Sports Analytics Pro"
+  },
+  {
+    "id": 1789840337262,
     "eventName": "Матч",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -106,57 +106,57 @@
       "status": "expert",
       "winRate": 77
     },
-    "prediction": "ИТБ2 (1,5)",
-    "odds": 1.63,
+    "prediction": "Гол с 31-й по 45-ю минуты",
+    "odds": 3.55,
     "comment": "Комментарий к прогнозу",
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1789827278189,
+    "id": 1789840337263,
     "eventName": "Матч",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
     "expert": {
-      "name": "Аккрингтон Стэнли",
+      "name": "Ле Ман",
       "avatar": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=100&h=100&fit=crop",
       "status": "expert",
-      "winRate": 73
+      "winRate": 85
     },
-    "prediction": "Тотал (2.5) Б",
+    "prediction": "Тотал больше (2.5)",
     "odds": 1.84,
     "comment": "Комментарий к прогнозу",
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1789827278190,
+    "id": 1789840337264,
     "eventName": "Матч",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
     "expert": {
-      "name": "Ангушт Назрань",
+      "name": "Ла Лига",
       "avatar": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=100&h=100&fit=crop",
       "status": "expert",
-      "winRate": 78
+      "winRate": 77
     },
-    "prediction": "Индивидуальный тотал 2 Больше (0.5)",
-    "odds": 1.68,
+    "prediction": "Обе забьют (Да)",
+    "odds": 1.66,
     "comment": "Комментарий к прогнозу",
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1789827278191,
-    "eventName": "Штутгарт — Боруссия",
+    "id": 1789840337265,
+    "eventName": "Севилья — Барселона",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
     "expert": {
-      "name": "Сергей Васильев",
-      "avatar": "https://bookmaker-ratings.ru/static/images/badges/novice-letter.svg?v=30092024",
+      "name": "Максим Олегович",
+      "avatar": "https://bookmaker-ratings.ru/static/images/badges/forecaster-letter.svg?v=30092024",
       "status": "expert",
-      "winRate": 78
+      "winRate": 83
     },
-    "prediction": "1Х",
-    "odds": 1.48,
-    "comment": "Двойной шанс (1X — «Штутгарт» не проиграет). Более консервативный вариант, если вы считаете, что матч получится вязким, но «Штутгарт» не уступит",
+    "prediction": "Индивидуальный тотал 1 Больше (1)",
+    "odds": 2.3,
+    "comment": "Вратарь барсы может не сыграть, что увеличить шансы на голы Севильи , дв и раньше в очных встречах Севилья отгружала по 1-2 мяча в ворота барсы",
     "source": "Sports Analytics Pro"
   }
 ]
