@@ -1,5 +1,61 @@
 [
   {
+    "id": "f55e937948108252",
+    "title": "Хамзат Чимаев выиграл третью схватку подряд в лиге Халка Хогана",
+    "sport": "Единоборства",
+    "category": "Единоборства",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/4/93/347898101003934.png",
+    "teaser": "Хамзат Чимаев выиграл третью схватку подряд в лиге Халка Хогана",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6aae550d9a79470e86f4306a",
+    "publishedAt": "2026-09-19T10:02:46.000Z",
+    "createdAt": "2026-09-19T10:38:31.564Z",
+    "updatedAt": "2026-09-19T10:38:31.564Z"
+  },
+  {
+    "id": "77496a1e4ff8ad0f",
+    "title": "«Динамо» потерпело первое поражение за пять матчей КХЛ",
+    "sport": "Хоккей",
+    "category": "Хоккей",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/4/33/347898104517334.png",
+    "teaser": "«Динамо» потерпело первое поражение за пять матчей КХЛ",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6aae56429a79478de2f52780",
+    "publishedAt": "2026-09-19T09:45:28.000Z",
+    "createdAt": "2026-09-19T10:38:32.588Z",
+    "updatedAt": "2026-09-19T10:38:32.588Z"
+  },
+  {
+    "id": "95c69673de3d7dbb",
+    "title": "Словенец Тим Фарчник возглавил Международный союз биатлонистов",
+    "sport": "Другое",
+    "category": "Биатлон",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/4/13/347898082452134.jpeg",
+    "teaser": "Словенец Тим Фарчник возглавил Международный союз биатлонистов",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6aae47179a794738f5192d16",
+    "publishedAt": "2026-09-19T09:06:09.000Z",
+    "createdAt": "2026-09-19T10:38:33.641Z",
+    "updatedAt": "2026-09-19T10:38:33.641Z"
+  },
+  {
+    "id": "683da18e1e0d1155",
+    "title": "Умер легендарный итальянский форвард Сандро Маццола",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/8/40/347898006841408.jpeg",
+    "teaser": "Умер легендарный итальянский форвард Сандро Маццола",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6aae2e019a7947677bd6c9ec",
+    "publishedAt": "2026-09-19T08:02:38.000Z",
+    "createdAt": "2026-09-19T10:38:34.645Z",
+    "updatedAt": "2026-09-19T10:38:34.645Z"
+  },
+  {
     "id": "3111287a78e5fa38",
     "title": "Чемпион КХЛ продлил серию побед до шести матчей, обыграв «Авангард»",
     "sport": "Хоккей",
@@ -10,8 +66,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6aad82379a7947067c4d463b",
     "publishedAt": "2026-09-18T18:47:01.000Z",
-    "createdAt": "2026-09-19T05:36:36.082Z",
-    "updatedAt": "2026-09-19T05:36:36.082Z"
+    "createdAt": "2026-09-19T10:38:36.658Z",
+    "updatedAt": "2026-09-19T10:38:36.658Z"
   },
   {
     "id": "fe95b3f36ddbad1d",
@@ -24,8 +80,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6aad78f39a79475747188cb2",
     "publishedAt": "2026-09-18T17:52:53.000Z",
-    "createdAt": "2026-09-19T05:36:35.077Z",
-    "updatedAt": "2026-09-19T05:36:35.077Z"
+    "createdAt": "2026-09-19T10:38:35.664Z",
+    "updatedAt": "2026-09-19T10:38:35.664Z"
   },
   {
     "id": "bb7a85962be66c2e",
@@ -38,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6aad71f89a794738f5192c90",
     "publishedAt": "2026-09-18T17:31:55.000Z",
-    "createdAt": "2026-09-19T05:36:37.163Z",
-    "updatedAt": "2026-09-19T05:36:37.163Z"
+    "createdAt": "2026-09-19T10:38:37.645Z",
+    "updatedAt": "2026-09-19T10:38:37.645Z"
   },
   {
     "id": "913700c6d7ee6928",
@@ -52,8 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6aac32849a79472cfb6e56a1",
     "publishedAt": "2026-09-18T16:35:41.000Z",
-    "createdAt": "2026-09-19T05:36:38.298Z",
-    "updatedAt": "2026-09-19T05:36:38.298Z"
+    "createdAt": "2026-09-19T10:38:38.682Z",
+    "updatedAt": "2026-09-19T10:38:38.682Z"
   },
   {
     "id": "d9c91a8b64562f4a",
@@ -66,8 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6aa6e5d99a79474ebf9298b0",
     "publishedAt": "2026-09-18T16:31:08.000Z",
-    "createdAt": "2026-09-19T05:36:39.396Z",
-    "updatedAt": "2026-09-19T05:36:39.396Z"
+    "createdAt": "2026-09-19T10:38:39.768Z",
+    "updatedAt": "2026-09-19T10:38:39.768Z"
   },
   {
     "id": "53c06b61dcdd4eaf",
@@ -80,63 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6aad57149a7947c6e7cff57d",
     "publishedAt": "2026-09-18T15:34:03.000Z",
-    "createdAt": "2026-09-19T05:36:40.526Z",
-    "updatedAt": "2026-09-19T05:36:40.526Z"
-  },
-  {
-    "id": "36056ff3a11a8826",
-    "title": "Сменившая гражданство российская теннисистка назвала Францию своим домом",
-    "sport": "Теннис",
-    "category": "Теннис",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/0/38/347897441929380.jpeg",
-    "teaser": "Сменившая гражданство российская теннисистка назвала Францию своим домом",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6aaa72f39a7947db3fce26e7",
-    "publishedAt": "2026-09-18T15:16:58.000Z",
-    "createdAt": "2026-09-19T05:36:41.554Z",
-    "updatedAt": "2026-09-19T05:36:41.554Z"
-  },
-  {
-    "id": "ef78f596f70dd427",
-    "title": "Плющенко фразой «катастрофы никакой нет» оценил дебют сына за Азербайджан",
-    "sport": "Другое",
-    "category": "Фигурное катание",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/8/21/347897423154218.jpeg",
-    "teaser": "Плющенко фразой «катастрофы никакой нет» оценил дебют сына за Азербайджан",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6aad4c819a79473647f667b4",
-    "publishedAt": "2026-09-18T14:56:04.000Z",
-    "createdAt": "2026-09-19T05:36:42.572Z",
-    "updatedAt": "2026-09-19T05:36:42.572Z"
-  },
-  {
-    "id": "fbed866d8c61b937",
-    "title": "Стали известны дата и место похорон Сергея Чепикова",
-    "sport": "Другое",
-    "category": "Биатлон",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/7/20/347897417798207.jpeg",
-    "teaser": "Стали известны дата и место похорон Сергея Чепикова",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6aac35959a7947e647ba2625",
-    "publishedAt": "2026-09-18T14:38:55.000Z",
-    "createdAt": "2026-09-19T05:36:44.708Z",
-    "updatedAt": "2026-09-19T05:36:44.708Z"
-  },
-  {
-    "id": "e77d116946fea038",
-    "title": "Мбаппе покинул Nike спустя 20 лет сотрудничества",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/0/12/347897384488120.jpeg",
-    "teaser": "Мбаппе покинул Nike спустя 20 лет сотрудничества",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6aad3d639a79471045d90019",
-    "publishedAt": "2026-09-18T14:30:19.000Z",
-    "createdAt": "2026-09-19T05:36:43.597Z",
-    "updatedAt": "2026-09-19T05:36:43.597Z"
+    "createdAt": "2026-09-19T10:38:40.776Z",
+    "updatedAt": "2026-09-19T10:38:40.776Z"
   }
 ]
