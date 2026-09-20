@@ -1,161 +1,161 @@
 [
   {
-    "id": 1789929345810,
-    "eventName": "Порту — Бенфика",
+    "id": 1789939223268,
+    "eventName": "Матч",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
     "expert": {
-      "name": "Akhmad Akhokhov",
-      "avatar": "https://static-uploads.prod.bookmaker-ratings.ru/2026/09/92cb4f89-a73a-4f52-89fc-c576b8f32734-rb-webp-6aa94cdf063ac-6aa94cdf0e926.webp?width=60",
+      "name": "Сан Диего",
+      "avatar": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=100&h=100&fit=crop",
+      "status": "expert",
+      "winRate": 76
+    },
+    "prediction": "Фора 1 (-1.5)",
+    "odds": 1.9,
+    "comment": "Комментарий к прогнозу",
+    "source": "Sports Analytics Pro"
+  },
+  {
+    "id": 1789939223269,
+    "eventName": "Матч",
+    "discipline": "Футбол",
+    "tournament": "Чемпионат",
+    "expert": {
+      "name": "Ред Булл",
+      "avatar": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=100&h=100&fit=crop",
       "status": "expert",
       "winRate": 73
     },
-    "prediction": "Обе забьют (Да)",
-    "odds": 1.67,
-    "comment": "Гранды португальской лиги играют между собой, и думаю обмен голами не за горами",
+    "prediction": "Фора 2 (+1.5)",
+    "odds": 1.87,
+    "comment": "Комментарий к прогнозу",
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1789929345812,
-    "eventName": "Олимпик Марсель — ПСЖ",
+    "id": 1789939223270,
+    "eventName": "Матч",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
     "expert": {
-      "name": "George Брейкпойнтенко",
+      "name": "Ред Булл",
+      "avatar": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=100&h=100&fit=crop",
+      "status": "expert",
+      "winRate": 73
+    },
+    "prediction": "Индивидуальный тотал 2 Больше (0.5)",
+    "odds": 1.71,
+    "comment": "Комментарий к прогнозу",
+    "source": "Sports Analytics Pro"
+  },
+  {
+    "id": 1789939223271,
+    "eventName": "Лондрина — Форталеза ЕК",
+    "discipline": "Футбол",
+    "tournament": "Чемпионат",
+    "expert": {
+      "name": "Светлана За",
       "avatar": "https://bookmaker-ratings.ru/static/images/badges/novice-letter.svg?v=30092024",
       "status": "expert",
-      "winRate": 79
+      "winRate": 73
     },
-    "prediction": "1Х",
-    "odds": 2.79,
-    "comment": "Чемпионат Франции. Главный матч вечера. Хозяева костьми лягут чтобы не проиграть при своих болельщиках. 1Х",
+    "prediction": "Фора 2 (0)",
+    "odds": 1.88,
+    "comment": "Комментарий к прогнозу",
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1789929345813,
-    "eventName": "Олимпик Марсель — ПСЖ",
+    "id": 1789939223272,
+    "eventName": "Ланлана Тараруди — Моюка Учижима",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
     "expert": {
-      "name": "Игорь Шемягин",
+      "name": "Ланлана Тараруди",
+      "avatar": "https://static-uploads.prod.bookmaker-ratings.ru/2026/08/logo-rb-webp-6a79ca6c62514-6a79ca6cb2edd.webp?width=60",
+      "status": "expert",
+      "winRate": 85
+    },
+    "prediction": "Эйсы П1",
+    "odds": 1.64,
+    "comment": "Смотрим статистику выступления участниц предстоящего матча на открытом харде за последний год. Ланлана Тараруди в среднем за гейм выполняет 0,41 эйса, при этом от своих соперниц пропускает с частотой 0,17 эйса за гейм. Моюка Учижима делает 0,23 эйса за гейм, а пропускает 0,20 эйса за гейм. Как видите, у тайской теннисистки существенное преимущество на своей подаче, а на приеме чужой силы почти что равны. За время своей профессиональной карьеры теннисистки ни разу не играли друг против друга. Так что отталкиваемся от статистических показателей за последний год и результатов матчей против общих соперниц. Я не буду приводить здесь всех теннисисток, с которыми играли на открытом харде за последний год. Просто отмечу, что в большинстве случаев Ланлана Тараруди уверенно побеждала по эйсам. Скачай приложение РБ и получай Push-уведомления о прогнозах выбранных экспертов Скачай мобильное приложение Рейтинг Букмекеров и мгновенно получай Push-уведомления о новых прогнозах выбранных экспертов Скачай мобильное приложение по ссылке или QR-коду и мгновенно получай Push-уведомления о новых прогнозах выбранных экспертов",
+    "source": "Sports Analytics Pro"
+  },
+  {
+    "id": 1789939223273,
+    "eventName": "Интер Майами — Сан Диего",
+    "discipline": "Футбол",
+    "tournament": "Чемпионат",
+    "expert": {
+      "name": "Светлана За",
       "avatar": "https://bookmaker-ratings.ru/static/images/badges/novice-letter.svg?v=30092024",
       "status": "expert",
-      "winRate": 77
+      "winRate": 73
     },
-    "prediction": "Обе забьют - Да",
-    "odds": 1.5,
-    "comment": "Дерби, думаю ПСЖ выиграет, но Марсель будет биться до конца. Верю в домашний гол Марселя",
-    "source": "Sports Analytics Pro"
-  },
-  {
-    "id": 1789929345814,
-    "eventName": "Валенсия — Реал Сосьедад",
-    "discipline": "Футбол",
-    "tournament": "Чемпионат",
-    "expert": {
-      "name": "Sergey Shvyrev",
-      "avatar": "https://bookmaker-ratings.ru/static/images/badges/novice-letter.svg?v=30092024",
-      "status": "expert",
-      "winRate": 86
-    },
-    "prediction": "Обе забьют (Да)",
-    "odds": 1.72,
-    "comment": "Обе команды неважно начали сезон. Обмен голами очевиден.",
-    "source": "Sports Analytics Pro"
-  },
-  {
-    "id": 1789929345815,
-    "eventName": "Валенсия — Реал Сосьедад",
-    "discipline": "Футбол",
-    "tournament": "Чемпионат",
-    "expert": {
-      "name": "Александр Чистов",
-      "avatar": "https://static-uploads.prod.bookmaker-ratings.ru/2026/09/1f226c6f-c85f-43be-aafc-00c350f1adce-rb-webp-6a9d9703d8344-6a9d9703e3249.webp?width=60",
-      "status": "expert",
-      "winRate": 86
-    },
-    "prediction": "Ф2(0)",
+    "prediction": "Фора 1 (-1.5)",
     "odds": 1.9,
-    "comment": "Ну как-то так мне смотрится вариант на этот матч , Сосьедад был хорош в предыдущем матче , ему не повезло , значит должно повезти в этом",
-    "source": "Sports Analytics Pro"
-  },
-  {
-    "id": 1789929345816,
-    "eventName": "Матч",
-    "discipline": "Футбол",
-    "tournament": "Чемпионат",
-    "expert": {
-      "name": "Олимпик Марсель",
-      "avatar": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=100&h=100&fit=crop",
-      "status": "expert",
-      "winRate": 87
-    },
-    "prediction": "1Х",
-    "odds": 2.79,
     "comment": "Комментарий к прогнозу",
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1789929345817,
-    "eventName": "Матч",
+    "id": 1789939223274,
+    "eventName": "Атлетико Паранаенсе — Байя",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
     "expert": {
-      "name": "Олимпик Марсель",
-      "avatar": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=100&h=100&fit=crop",
+      "name": "Светлана За",
+      "avatar": "https://bookmaker-ratings.ru/static/images/badges/novice-letter.svg?v=30092024",
       "status": "expert",
-      "winRate": 87
+      "winRate": 73
     },
-    "prediction": "Обе забьют - Да",
-    "odds": 1.5,
+    "prediction": "Ничья",
+    "odds": 3.3,
     "comment": "Комментарий к прогнозу",
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1789929345818,
-    "eventName": "Матч",
+    "id": 1789939223275,
+    "eventName": "Пачука — Тихуана",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
     "expert": {
-      "name": "Олимпик Марсель",
-      "avatar": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=100&h=100&fit=crop",
+      "name": "Светлана За",
+      "avatar": "https://bookmaker-ratings.ru/static/images/badges/novice-letter.svg?v=30092024",
       "status": "expert",
-      "winRate": 87
+      "winRate": 73
     },
-    "prediction": "Обе забьют - Да",
-    "odds": 1.56,
+    "prediction": "Индивидуальный тотал 1 Больше (1.5)",
+    "odds": 1.75,
     "comment": "Комментарий к прогнозу",
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1789929345819,
-    "eventName": "Матч",
+    "id": 1789939223276,
+    "eventName": "Фламенго — Ред Булл Брагантино",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
     "expert": {
-      "name": "Ла Лига",
-      "avatar": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=100&h=100&fit=crop",
+      "name": "Светлана За",
+      "avatar": "https://bookmaker-ratings.ru/static/images/badges/novice-letter.svg?v=30092024",
       "status": "expert",
-      "winRate": 77
+      "winRate": 73
     },
-    "prediction": "Обе забьют (Да)",
-    "odds": 1.72,
+    "prediction": "Фора 2 (+1.5)",
+    "odds": 1.87,
     "comment": "Комментарий к прогнозу",
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1789929345820,
-    "eventName": "Матч",
+    "id": 1789939223277,
+    "eventName": "Фламенго — Ред Булл Брагантино",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
     "expert": {
-      "name": "Ла Лига",
-      "avatar": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=100&h=100&fit=crop",
+      "name": "Светлана За",
+      "avatar": "https://bookmaker-ratings.ru/static/images/badges/novice-letter.svg?v=30092024",
       "status": "expert",
-      "winRate": 77
+      "winRate": 73
     },
-    "prediction": "Ф2(0)",
-    "odds": 1.9,
+    "prediction": "Индивидуальный тотал 2 Больше (0.5)",
+    "odds": 1.71,
     "comment": "Комментарий к прогнозу",
     "source": "Sports Analytics Pro"
   }

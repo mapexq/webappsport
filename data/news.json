@@ -1,5 +1,19 @@
 [
   {
+    "id": "e00b523b15c8fbf8",
+    "title": "Агент сообщил о наличии у Головина предложения из Саудовской Аравии",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/9/93/347899296724939.jpeg",
+    "teaser": "Агент сообщил о наличии у Головина предложения из Саудовской Аравии",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6ab028ae9a794764a3a5ede2",
+    "publishedAt": "2026-09-20T18:48:51.000Z",
+    "createdAt": "2026-09-20T21:20:30.071Z",
+    "updatedAt": "2026-09-20T21:20:30.071Z"
+  },
+  {
     "id": "79d784d2a1f724d7",
     "title": "Иностранный клуб впервые выиграл Суперкубок Единой лиги ВТБ по баскетболу",
     "sport": "Баскетбол",
@@ -10,8 +24,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6ab023c59a79473f19b25db7",
     "publishedAt": "2026-09-20T18:24:45.000Z",
-    "createdAt": "2026-09-20T18:35:52.448Z",
-    "updatedAt": "2026-09-20T18:35:52.448Z"
+    "createdAt": "2026-09-20T21:20:31.061Z",
+    "updatedAt": "2026-09-20T21:20:31.061Z"
   },
   {
     "id": "395dea51a15da3f3",
@@ -24,8 +38,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6ab0192f9a794720af8842ba",
     "publishedAt": "2026-09-20T17:49:20.000Z",
-    "createdAt": "2026-09-20T18:35:54.515Z",
-    "updatedAt": "2026-09-20T18:35:54.515Z"
+    "createdAt": "2026-09-20T21:20:33.170Z",
+    "updatedAt": "2026-09-20T21:20:33.170Z"
   },
   {
     "id": "d49835ebdf508c1d",
@@ -38,8 +52,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6ab014079a79474343e388ae",
     "publishedAt": "2026-09-20T17:22:51.000Z",
-    "createdAt": "2026-09-20T18:35:53.494Z",
-    "updatedAt": "2026-09-20T18:35:53.494Z"
+    "createdAt": "2026-09-20T21:20:32.115Z",
+    "updatedAt": "2026-09-20T21:20:32.115Z"
   },
   {
     "id": "1ad3e978bdb36619",
@@ -52,8 +66,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6ab000cd9a79473225e4eb8b",
     "publishedAt": "2026-09-20T16:19:51.000Z",
-    "createdAt": "2026-09-20T18:35:56.492Z",
-    "updatedAt": "2026-09-20T18:35:56.492Z"
+    "createdAt": "2026-09-20T21:20:35.142Z",
+    "updatedAt": "2026-09-20T21:20:35.142Z"
   },
   {
     "id": "4cbae7a005b4755a",
@@ -66,8 +80,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6aaffe259a79474a5e4af330",
     "publishedAt": "2026-09-20T16:16:00.000Z",
-    "createdAt": "2026-09-20T18:35:55.462Z",
-    "updatedAt": "2026-09-20T18:35:55.462Z"
+    "createdAt": "2026-09-20T21:20:34.156Z",
+    "updatedAt": "2026-09-20T21:20:34.156Z"
   },
   {
     "id": "1a0f6243383a5130",
@@ -80,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6aaff8559a7947ccfad8c638",
     "publishedAt": "2026-09-20T15:25:47.000Z",
-    "createdAt": "2026-09-20T18:35:57.453Z",
-    "updatedAt": "2026-09-20T18:35:57.453Z"
+    "createdAt": "2026-09-20T21:20:36.128Z",
+    "updatedAt": "2026-09-20T21:20:36.128Z"
   },
   {
     "id": "73fb2dc8fe1e20fa",
@@ -94,8 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6aaff5dd9a7947b702e711b1",
     "publishedAt": "2026-09-20T15:11:26.000Z",
-    "createdAt": "2026-09-20T18:35:58.406Z",
-    "updatedAt": "2026-09-20T18:35:58.406Z"
+    "createdAt": "2026-09-20T21:20:37.364Z",
+    "updatedAt": "2026-09-20T21:20:37.364Z"
   },
   {
     "id": "fe01ce6f71a2f935",
@@ -108,8 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6aafebf89a7947ccfad8c62e",
     "publishedAt": "2026-09-20T14:33:19.000Z",
-    "createdAt": "2026-09-20T18:35:59.461Z",
-    "updatedAt": "2026-09-20T18:35:59.461Z"
+    "createdAt": "2026-09-20T21:20:38.426Z",
+    "updatedAt": "2026-09-20T21:20:38.426Z"
   },
   {
     "id": "b6aaf59742de6d1a",
@@ -122,21 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6aafe56a9a794720af884246",
     "publishedAt": "2026-09-20T13:59:35.000Z",
-    "createdAt": "2026-09-20T18:36:00.588Z",
-    "updatedAt": "2026-09-20T18:36:00.588Z"
-  },
-  {
-    "id": "e81f189777dffb16",
-    "title": "«Салават Юлаев» прервал пятиматчевую победную серию «Спартака» в КХЛ",
-    "sport": "Хоккей",
-    "category": "Хоккей",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/8/72/347899114848728.jpeg",
-    "teaser": "«Салават Юлаев» прервал пятиматчевую победную серию «Спартака» в КХЛ",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6aafe18a9a7947e1fbb29574",
-    "publishedAt": "2026-09-20T13:45:36.000Z",
-    "createdAt": "2026-09-20T18:36:01.599Z",
-    "updatedAt": "2026-09-20T18:36:01.599Z"
+    "createdAt": "2026-09-20T21:20:39.484Z",
+    "updatedAt": "2026-09-20T21:20:39.484Z"
   }
 ]
