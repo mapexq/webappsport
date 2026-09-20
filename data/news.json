@@ -1,5 +1,75 @@
 [
   {
+    "id": "79d784d2a1f724d7",
+    "title": "Иностранный клуб впервые выиграл Суперкубок Единой лиги ВТБ по баскетболу",
+    "sport": "Баскетбол",
+    "category": "Баскетбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/5/14/347899286067145.jpeg",
+    "teaser": "Иностранный клуб впервые выиграл Суперкубок Единой лиги ВТБ по баскетболу",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6ab023c59a79473f19b25db7",
+    "publishedAt": "2026-09-20T18:24:45.000Z",
+    "createdAt": "2026-09-20T18:35:52.448Z",
+    "updatedAt": "2026-09-20T18:35:52.448Z"
+  },
+  {
+    "id": "395dea51a15da3f3",
+    "title": "Звезда КХЛ после критики Разина заявил об отсутствии конфликта с тренером",
+    "sport": "Хоккей",
+    "category": "Хоккей",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/3/29/347899257286293.jpeg",
+    "teaser": "Звезда КХЛ после критики Разина заявил об отсутствии конфликта с тренером",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6ab0192f9a794720af8842ba",
+    "publishedAt": "2026-09-20T17:49:20.000Z",
+    "createdAt": "2026-09-20T18:35:54.515Z",
+    "updatedAt": "2026-09-20T18:35:54.515Z"
+  },
+  {
+    "id": "d49835ebdf508c1d",
+    "title": "«Манчестер Юнайтед» на 89-й минуте вырвал ничью в матче с аутсайдером АПЛ",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/4/55/347899244020554.jpeg",
+    "teaser": "«Манчестер Юнайтед» на 89-й минуте вырвал ничью в матче с аутсайдером АПЛ",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6ab014079a79474343e388ae",
+    "publishedAt": "2026-09-20T17:22:51.000Z",
+    "createdAt": "2026-09-20T18:35:53.494Z",
+    "updatedAt": "2026-09-20T18:35:53.494Z"
+  },
+  {
+    "id": "1ad3e978bdb36619",
+    "title": "Чемпион КХЛ впервые проиграл в новом сезоне только в седьмом матче",
+    "sport": "Хоккей",
+    "category": "Хоккей",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/1/58/347899194867581.jpeg",
+    "teaser": "Чемпион КХЛ впервые проиграл в новом сезоне только в седьмом матче",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6ab000cd9a79473225e4eb8b",
+    "publishedAt": "2026-09-20T16:19:51.000Z",
+    "createdAt": "2026-09-20T18:35:56.492Z",
+    "updatedAt": "2026-09-20T18:35:56.492Z"
+  },
+  {
+    "id": "4cbae7a005b4755a",
+    "title": "«Реал» проиграл «Атлетико» в мадридском дерби после удаления и пенальти",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/1/03/347899188186031.jpeg",
+    "teaser": "«Реал» проиграл «Атлетико» в мадридском дерби после удаления и пенальти",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6aaffe259a79474a5e4af330",
+    "publishedAt": "2026-09-20T16:16:00.000Z",
+    "createdAt": "2026-09-20T18:35:55.462Z",
+    "updatedAt": "2026-09-20T18:35:55.462Z"
+  },
+  {
     "id": "1a0f6243383a5130",
     "title": "Бывший чемпион Fight Nights Григорий Пономарев умер в 31 год",
     "sport": "Единоборства",
@@ -10,8 +80,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6aaff8559a7947ccfad8c638",
     "publishedAt": "2026-09-20T15:25:47.000Z",
-    "createdAt": "2026-09-20T15:47:24.437Z",
-    "updatedAt": "2026-09-20T15:47:24.437Z"
+    "createdAt": "2026-09-20T18:35:57.453Z",
+    "updatedAt": "2026-09-20T18:35:57.453Z"
   },
   {
     "id": "73fb2dc8fe1e20fa",
@@ -24,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6aaff5dd9a7947b702e711b1",
     "publishedAt": "2026-09-20T15:11:26.000Z",
-    "createdAt": "2026-09-20T15:47:25.450Z",
-    "updatedAt": "2026-09-20T15:47:25.450Z"
+    "createdAt": "2026-09-20T18:35:58.406Z",
+    "updatedAt": "2026-09-20T18:35:58.406Z"
   },
   {
     "id": "fe01ce6f71a2f935",
@@ -38,8 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6aafebf89a7947ccfad8c62e",
     "publishedAt": "2026-09-20T14:33:19.000Z",
-    "createdAt": "2026-09-20T15:47:26.512Z",
-    "updatedAt": "2026-09-20T15:47:26.512Z"
+    "createdAt": "2026-09-20T18:35:59.461Z",
+    "updatedAt": "2026-09-20T18:35:59.461Z"
   },
   {
     "id": "b6aaf59742de6d1a",
@@ -52,8 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6aafe56a9a794720af884246",
     "publishedAt": "2026-09-20T13:59:35.000Z",
-    "createdAt": "2026-09-20T15:47:27.974Z",
-    "updatedAt": "2026-09-20T15:47:27.974Z"
+    "createdAt": "2026-09-20T18:36:00.588Z",
+    "updatedAt": "2026-09-20T18:36:00.588Z"
   },
   {
     "id": "e81f189777dffb16",
@@ -66,77 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6aafe18a9a7947e1fbb29574",
     "publishedAt": "2026-09-20T13:45:36.000Z",
-    "createdAt": "2026-09-20T15:47:28.989Z",
-    "updatedAt": "2026-09-20T15:47:28.989Z"
-  },
-  {
-    "id": "1dff53a431c9d674",
-    "title": "Валиева заплакала после выступления на контрольных прокатах",
-    "sport": "Другое",
-    "category": "Фигурное катание",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/7/68/347899100357687.jpeg",
-    "teaser": "Валиева заплакала после выступления на контрольных прокатах",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6aafdbcb9a79473d6e895beb",
-    "publishedAt": "2026-09-20T13:18:53.000Z",
-    "createdAt": "2026-09-20T15:47:29.912Z",
-    "updatedAt": "2026-09-20T15:47:29.912Z"
-  },
-  {
-    "id": "4a296574d354dd51",
-    "title": "Российский фигурист занял второе место на турнире ISU Lombardia Trophy",
-    "sport": "Другое",
-    "category": "Фигурное катание",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/9/66/347899087560669.jpeg",
-    "teaser": "Российский фигурист занял второе место на турнире ISU Lombardia Trophy",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6aafd6f29a7947fec656f9b0",
-    "publishedAt": "2026-09-20T13:02:02.000Z",
-    "createdAt": "2026-09-20T15:47:30.973Z",
-    "updatedAt": "2026-09-20T15:47:30.973Z"
-  },
-  {
-    "id": "9d1fad18279cc466",
-    "title": "Впервые за 10 лет в финале «Челленджера» ATP сыграли два россиянина",
-    "sport": "Теннис",
-    "category": "Теннис",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/3/40/347899079215403.jpeg",
-    "teaser": "Впервые за 10 лет в финале «Челленджера» ATP сыграли два россиянина",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6aafd39f9a794782bfd359fc",
-    "publishedAt": "2026-09-20T12:48:01.000Z",
-    "createdAt": "2026-09-20T15:47:32.794Z",
-    "updatedAt": "2026-09-20T15:47:32.794Z"
-  },
-  {
-    "id": "c20227e3d698cbfb",
-    "title": "Рудковская заявила, что сын выступал на Гран-при «под натиском хейта»",
-    "sport": "Другое",
-    "category": "Фигурное катание",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/1/45/347899071135451.jpeg",
-    "teaser": "Рудковская заявила, что сын выступал на Гран-при «под натиском хейта»",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6aafd0739a79476f2bdd83eb",
-    "publishedAt": "2026-09-20T12:36:15.000Z",
-    "createdAt": "2026-09-20T15:47:31.971Z",
-    "updatedAt": "2026-09-20T15:47:31.971Z"
-  },
-  {
-    "id": "a51cbc58d82a1026",
-    "title": "Российские велогонщики пропустят старт ЧМ в Канаде из-за переноса рейса",
-    "sport": "Другое",
-    "category": "Другие",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/5/45/347899041510455.jpeg",
-    "teaser": "Российские велогонщики пропустят старт ЧМ в Канаде из-за переноса рейса",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6aafc4d39a794736fc2e4db2",
-    "publishedAt": "2026-09-20T11:46:08.000Z",
-    "createdAt": "2026-09-20T15:47:34.002Z",
-    "updatedAt": "2026-09-20T15:47:34.002Z"
+    "createdAt": "2026-09-20T18:36:01.599Z",
+    "updatedAt": "2026-09-20T18:36:01.599Z"
   }
 ]
