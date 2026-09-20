@@ -1,55 +1,39 @@
 [
   {
-    "id": 1789939223268,
+    "id": 1789948783523,
     "eventName": "Матч",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
     "expert": {
-      "name": "Сан Диего",
+      "name": "Велес Сарсфилд",
       "avatar": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=100&h=100&fit=crop",
       "status": "expert",
-      "winRate": 76
+      "winRate": 71
     },
-    "prediction": "Фора 1 (-1.5)",
-    "odds": 1.9,
+    "prediction": "Фора 1 (0)",
+    "odds": 1.54,
     "comment": "Комментарий к прогнозу",
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1789939223269,
-    "eventName": "Матч",
-    "discipline": "Футбол",
+    "id": 1789948783525,
+    "eventName": "Адмирал — ЦСКА",
+    "discipline": "Хоккей",
     "tournament": "Чемпионат",
     "expert": {
-      "name": "Ред Булл",
-      "avatar": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=100&h=100&fit=crop",
+      "name": "Александр Чистов",
+      "avatar": "https://static-uploads.prod.bookmaker-ratings.ru/2026/09/1f226c6f-c85f-43be-aafc-00c350f1adce-rb-webp-6a9d9703d8344-6a9d9703e3249.webp?width=60",
       "status": "expert",
-      "winRate": 73
+      "winRate": 86
     },
-    "prediction": "Фора 2 (+1.5)",
-    "odds": 1.87,
-    "comment": "Комментарий к прогнозу",
+    "prediction": "Победа 2",
+    "odds": 1.7,
+    "comment": "Ребята Никитина разгоняются в чемпионат , прагматичность системы на выезде будет работать",
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1789939223270,
-    "eventName": "Матч",
-    "discipline": "Футбол",
-    "tournament": "Чемпионат",
-    "expert": {
-      "name": "Ред Булл",
-      "avatar": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=100&h=100&fit=crop",
-      "status": "expert",
-      "winRate": 73
-    },
-    "prediction": "Индивидуальный тотал 2 Больше (0.5)",
-    "odds": 1.71,
-    "comment": "Комментарий к прогнозу",
-    "source": "Sports Analytics Pro"
-  },
-  {
-    "id": 1789939223271,
-    "eventName": "Лондрина — Форталеза ЕК",
+    "id": 1789948783526,
+    "eventName": "Велес Сарсфилд — Тигре",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
     "expert": {
@@ -58,13 +42,13 @@
       "status": "expert",
       "winRate": 73
     },
-    "prediction": "Фора 2 (0)",
-    "odds": 1.88,
+    "prediction": "Фора 1 (0)",
+    "odds": 1.54,
     "comment": "Комментарий к прогнозу",
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1789939223272,
+    "id": 1789948783527,
     "eventName": "Ланлана Тараруди — Моюка Учижима",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -80,39 +64,7 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1789939223273,
-    "eventName": "Интер Майами — Сан Диего",
-    "discipline": "Футбол",
-    "tournament": "Чемпионат",
-    "expert": {
-      "name": "Светлана За",
-      "avatar": "https://bookmaker-ratings.ru/static/images/badges/novice-letter.svg?v=30092024",
-      "status": "expert",
-      "winRate": 73
-    },
-    "prediction": "Фора 1 (-1.5)",
-    "odds": 1.9,
-    "comment": "Комментарий к прогнозу",
-    "source": "Sports Analytics Pro"
-  },
-  {
-    "id": 1789939223274,
-    "eventName": "Атлетико Паранаенсе — Байя",
-    "discipline": "Футбол",
-    "tournament": "Чемпионат",
-    "expert": {
-      "name": "Светлана За",
-      "avatar": "https://bookmaker-ratings.ru/static/images/badges/novice-letter.svg?v=30092024",
-      "status": "expert",
-      "winRate": 73
-    },
-    "prediction": "Ничья",
-    "odds": 3.3,
-    "comment": "Комментарий к прогнозу",
-    "source": "Sports Analytics Pro"
-  },
-  {
-    "id": 1789939223275,
+    "id": 1789948783528,
     "eventName": "Пачука — Тихуана",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -128,8 +80,8 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1789939223276,
-    "eventName": "Фламенго — Ред Булл Брагантино",
+    "id": 1789948783529,
+    "eventName": "Пачука — Тихуана",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
     "expert": {
@@ -138,24 +90,8 @@
       "status": "expert",
       "winRate": 73
     },
-    "prediction": "Фора 2 (+1.5)",
-    "odds": 1.87,
-    "comment": "Комментарий к прогнозу",
-    "source": "Sports Analytics Pro"
-  },
-  {
-    "id": 1789939223277,
-    "eventName": "Фламенго — Ред Булл Брагантино",
-    "discipline": "Футбол",
-    "tournament": "Чемпионат",
-    "expert": {
-      "name": "Светлана За",
-      "avatar": "https://bookmaker-ratings.ru/static/images/badges/novice-letter.svg?v=30092024",
-      "status": "expert",
-      "winRate": 73
-    },
-    "prediction": "Индивидуальный тотал 2 Больше (0.5)",
-    "odds": 1.71,
+    "prediction": "Победа 1",
+    "odds": 1.68,
     "comment": "Комментарий к прогнозу",
     "source": "Sports Analytics Pro"
   }
