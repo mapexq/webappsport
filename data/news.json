@@ -1,5 +1,89 @@
 [
   {
+    "id": "f6e369cf374f0959",
+    "title": "Клуб основателя Fix Price первым в РПЛ уволил тренера",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/6/48/347899842642486.jpeg",
+    "teaser": "Клуб основателя Fix Price первым в РПЛ уволил тренера",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6ab0fc019a7947abbb5eabf0",
+    "publishedAt": "2026-09-21T10:05:06.000Z",
+    "createdAt": "2026-09-21T10:32:56.790Z",
+    "updatedAt": "2026-09-21T10:32:56.790Z"
+  },
+  {
+    "id": "2fd71233e04154c0",
+    "title": "Звездный новичок КХЛ завершил карьеру после пяти матчей",
+    "sport": "Хоккей",
+    "category": "Хоккей",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/3/18/347899818704183.png",
+    "teaser": "Звездный новичок КХЛ завершил карьеру после пяти матчей",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6ab0f2e99a7947ea5cd91356",
+    "publishedAt": "2026-09-21T09:27:48.000Z",
+    "createdAt": "2026-09-21T10:32:57.930Z",
+    "updatedAt": "2026-09-21T10:32:57.930Z"
+  },
+  {
+    "id": "853948a7e9eee06d",
+    "title": "Для сборной России сделали форму с гимном на воротнике",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/2/73/347899811860732.jpeg",
+    "teaser": "Для сборной России сделали форму с гимном на воротнике",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6ab0e8889a794707d2e7f4a3",
+    "publishedAt": "2026-09-21T09:12:58.000Z",
+    "createdAt": "2026-09-21T10:32:55.716Z",
+    "updatedAt": "2026-09-21T10:32:55.716Z"
+  },
+  {
+    "id": "6db85a6653d17ced",
+    "title": "На автогонках ошиблись с гимном после первой победы россиянина за 4 года",
+    "sport": "Другое",
+    "category": "Другие",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/2/77/347899783399772.jpeg",
+    "teaser": "На автогонках ошиблись с гимном после первой победы россиянина за 4 года",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6ab0e17e9a79473f19b25ea9",
+    "publishedAt": "2026-09-21T08:53:56.000Z",
+    "createdAt": "2026-09-21T10:32:59.126Z",
+    "updatedAt": "2026-09-21T10:32:59.126Z"
+  },
+  {
+    "id": "dcda61b0e32339ed",
+    "title": "Моуринью показал журналистам распечатки с судейскими ошибками в дерби",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/7/20/347899751807207.jpeg",
+    "teaser": "Моуринью показал журналистам распечатки с судейскими ошибками в дерби",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6ab0d3fc9a79470a1bb9d9c1",
+    "publishedAt": "2026-09-21T08:02:34.000Z",
+    "createdAt": "2026-09-21T10:33:00.335Z",
+    "updatedAt": "2026-09-21T10:33:00.335Z"
+  },
+  {
+    "id": "29fdac2fbce4a85e",
+    "title": "Месси стал вторым в истории по голам со штрафных по версии The Touchline",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/7/72/347899722978727.jpeg",
+    "teaser": "Месси стал вторым в истории по голам со штрафных по версии The Touchline",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6ab0ccae9a794710428ed69d",
+    "publishedAt": "2026-09-21T06:53:32.000Z",
+    "createdAt": "2026-09-21T10:33:01.433Z",
+    "updatedAt": "2026-09-21T10:33:01.433Z"
+  },
+  {
     "id": "e00b523b15c8fbf8",
     "title": "Агент сообщил о наличии у Головина предложения из Саудовской Аравии",
     "sport": "Футбол",
@@ -10,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6ab028ae9a794764a3a5ede2",
     "publishedAt": "2026-09-20T18:48:51.000Z",
-    "createdAt": "2026-09-21T04:46:20.640Z",
-    "updatedAt": "2026-09-21T04:46:20.640Z"
+    "createdAt": "2026-09-21T10:33:02.559Z",
+    "updatedAt": "2026-09-21T10:33:02.559Z"
   },
   {
     "id": "79d784d2a1f724d7",
@@ -24,8 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6ab023c59a79473f19b25db7",
     "publishedAt": "2026-09-20T18:24:45.000Z",
-    "createdAt": "2026-09-21T04:46:21.752Z",
-    "updatedAt": "2026-09-21T04:46:21.752Z"
+    "createdAt": "2026-09-21T10:33:03.560Z",
+    "updatedAt": "2026-09-21T10:33:03.560Z"
   },
   {
     "id": "395dea51a15da3f3",
@@ -38,8 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6ab0192f9a794720af8842ba",
     "publishedAt": "2026-09-20T17:49:20.000Z",
-    "createdAt": "2026-09-21T04:46:24.036Z",
-    "updatedAt": "2026-09-21T04:46:24.036Z"
+    "createdAt": "2026-09-21T10:33:05.711Z",
+    "updatedAt": "2026-09-21T10:33:05.711Z"
   },
   {
     "id": "d49835ebdf508c1d",
@@ -52,91 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6ab014079a79474343e388ae",
     "publishedAt": "2026-09-20T17:22:51.000Z",
-    "createdAt": "2026-09-21T04:46:22.954Z",
-    "updatedAt": "2026-09-21T04:46:22.954Z"
-  },
-  {
-    "id": "1ad3e978bdb36619",
-    "title": "Чемпион КХЛ впервые проиграл в новом сезоне только в седьмом матче",
-    "sport": "Хоккей",
-    "category": "Хоккей",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/1/58/347899194867581.jpeg",
-    "teaser": "Чемпион КХЛ впервые проиграл в новом сезоне только в седьмом матче",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6ab000cd9a79473225e4eb8b",
-    "publishedAt": "2026-09-20T16:19:51.000Z",
-    "createdAt": "2026-09-21T04:46:26.339Z",
-    "updatedAt": "2026-09-21T04:46:26.339Z"
-  },
-  {
-    "id": "4cbae7a005b4755a",
-    "title": "«Реал» проиграл «Атлетико» в мадридском дерби после удаления и пенальти",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/1/03/347899188186031.jpeg",
-    "teaser": "«Реал» проиграл «Атлетико» в мадридском дерби после удаления и пенальти",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6aaffe259a79474a5e4af330",
-    "publishedAt": "2026-09-20T16:16:00.000Z",
-    "createdAt": "2026-09-21T04:46:25.157Z",
-    "updatedAt": "2026-09-21T04:46:25.157Z"
-  },
-  {
-    "id": "1a0f6243383a5130",
-    "title": "Бывший чемпион Fight Nights Григорий Пономарев умер в 31 год",
-    "sport": "Единоборства",
-    "category": "Единоборства",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/8/10/347899172817108.jpeg",
-    "teaser": "Бывший чемпион Fight Nights Григорий Пономарев умер в 31 год",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6aaff8559a7947ccfad8c638",
-    "publishedAt": "2026-09-20T15:25:47.000Z",
-    "createdAt": "2026-09-21T04:46:27.473Z",
-    "updatedAt": "2026-09-21T04:46:27.473Z"
-  },
-  {
-    "id": "73fb2dc8fe1e20fa",
-    "title": "«Манчестер Сити» победил «Сандерленд» в матче с 8 голами и возглавил АПЛ",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/0/71/347899167076710.jpeg",
-    "teaser": "«Манчестер Сити» победил «Сандерленд» в матче с 8 голами и возглавил АПЛ",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6aaff5dd9a7947b702e711b1",
-    "publishedAt": "2026-09-20T15:11:26.000Z",
-    "createdAt": "2026-09-21T04:46:28.568Z",
-    "updatedAt": "2026-09-21T04:46:28.568Z"
-  },
-  {
-    "id": "fe01ce6f71a2f935",
-    "title": "Трусова заявила, что уже никогда не прыгнет пять четверных",
-    "sport": "Другое",
-    "category": "Фигурное катание",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/2/59/347899141717592.jpeg",
-    "teaser": "Трусова заявила, что уже никогда не прыгнет пять четверных",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6aafebf89a7947ccfad8c62e",
-    "publishedAt": "2026-09-20T14:33:19.000Z",
-    "createdAt": "2026-09-21T04:46:29.817Z",
-    "updatedAt": "2026-09-21T04:46:29.817Z"
-  },
-  {
-    "id": "b6aaf59742de6d1a",
-    "title": "Валиева пообещала бороться за право выступать на международных турнирах",
-    "sport": "Другое",
-    "category": "Фигурное катание",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/5/09/347899125005095.jpeg",
-    "teaser": "Валиева пообещала бороться за право выступать на международных турнирах",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6aafe56a9a794720af884246",
-    "publishedAt": "2026-09-20T13:59:35.000Z",
-    "createdAt": "2026-09-21T04:46:30.983Z",
-    "updatedAt": "2026-09-21T04:46:30.983Z"
+    "createdAt": "2026-09-21T10:33:04.563Z",
+    "updatedAt": "2026-09-21T10:33:04.563Z"
   }
 ]
