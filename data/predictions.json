@@ -1,86 +1,86 @@
 [
   {
-    "id": 1790009696806,
-    "eventName": "Альдосиви — Атлетико Тукуман",
+    "id": 1790024085792,
+    "eventName": "Ланус — Эстудиантес",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
     "expert": {
-      "name": "Шохо Кушманов",
-      "avatar": "https://bookmaker-ratings.ru/static/images/badges/novice-letter.svg?v=30092024",
+      "name": "Akhmad Akhokhov",
+      "avatar": "https://static-uploads.prod.bookmaker-ratings.ru/2026/09/92cb4f89-a73a-4f52-89fc-c576b8f32734-rb-webp-6aa94cdf063ac-6aa94cdf0e926.webp?width=60",
       "status": "expert",
       "winRate": 73
     },
-    "prediction": "1Х",
-    "odds": 1.56,
-    "comment": "CAAпн, 21 сент.22:30 GMT+5Примера-дивизион АргентиныClausura CATВ предстоящем матче аргентинской Примеры между «Альдосиви» и «Атлетико Тукуман», который состоится 21 сентября 2026 года, букмекеры и аналитики прогнозируют плотную игру с невысокой результативностью. Небольшим фаворитом у букмекеров идет «Атлетико Тукуман», однако эксперты обращают внимание на серьезную усталость гостей и кадровые проблемы.",
+    "prediction": "Тотал больше (1.5)",
+    "odds": 1.62,
+    "comment": "Ну не предсказуемый матч, и думаю за такой кэф можно брать 1,5больше",
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1790009696807,
-    "eventName": "Спаэри — Дила",
+    "id": 1790024085793,
+    "eventName": "Австралия — Бразилия",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
     "expert": {
-      "name": "Вита Журенко",
-      "avatar": "https://bookmaker-ratings.ru/static/images/badges/novice-letter.svg?v=30092024",
+      "name": "Akhmad Akhokhov",
+      "avatar": "https://static-uploads.prod.bookmaker-ratings.ru/2026/09/92cb4f89-a73a-4f52-89fc-c576b8f32734-rb-webp-6aa94cdf063ac-6aa94cdf0e926.webp?width=60",
       "status": "expert",
-      "winRate": 83
+      "winRate": 73
     },
-    "prediction": "Тотал больше (2.5)",
-    "odds": 1.85,
-    "comment": "Думаю команды покажут класс по забиванию голов и пробьют Тотал 2,5 больше",
+    "prediction": "Обе забьют (Да)",
+    "odds": 1.76,
+    "comment": "Интересный матч, думаю бразильцы полурезервным составом играть будут",
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1790009696808,
+    "id": 1790024085794,
+    "eventName": "Южная Корея — Эквадор",
+    "discipline": "Футбол",
+    "tournament": "Чемпионат",
+    "expert": {
+      "name": "Akhmad Akhokhov",
+      "avatar": "https://static-uploads.prod.bookmaker-ratings.ru/2026/09/92cb4f89-a73a-4f52-89fc-c576b8f32734-rb-webp-6aa94cdf063ac-6aa94cdf0e926.webp?width=60",
+      "status": "expert",
+      "winRate": 73
+    },
+    "prediction": "Обе забьют (Да)",
+    "odds": 1.87,
+    "comment": "Корейцы провалились на чемпионате мира, и пора начинать путь свой заново, думаю обменяются голами",
+    "source": "Sports Analytics Pro"
+  },
+  {
+    "id": 1790024085795,
+    "eventName": "Япония — Уругвай",
+    "discipline": "Футбол",
+    "tournament": "Чемпионат",
+    "expert": {
+      "name": "Akhmad Akhokhov",
+      "avatar": "https://static-uploads.prod.bookmaker-ratings.ru/2026/09/92cb4f89-a73a-4f52-89fc-c576b8f32734-rb-webp-6aa94cdf063ac-6aa94cdf0e926.webp?width=60",
+      "status": "expert",
+      "winRate": 73
+    },
+    "prediction": "Обе забьют (Да)",
+    "odds": 1.83,
+    "comment": "Японцы впечатлили на чемпионате мира, и думаю с уругвайцами обменяются голами",
+    "source": "Sports Analytics Pro"
+  },
+  {
+    "id": 1790024085796,
     "eventName": "Матч",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
     "expert": {
-      "name": "Ксиксзереда Меркуря",
+      "name": "Сентраль Эсп",
       "avatar": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=100&h=100&fit=crop",
       "status": "expert",
-      "winRate": 88
+      "winRate": 73
     },
-    "prediction": "Индивидуальный тотал 1 Больше (5.5) (угловые)",
-    "odds": 1.8,
+    "prediction": "Тотал (4.5) Б (жёлтые карточки)",
+    "odds": 1.71,
     "comment": "Комментарий к прогнозу",
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1790009696809,
-    "eventName": "Матч",
-    "discipline": "Футбол",
-    "tournament": "Чемпионат",
-    "expert": {
-      "name": "Эровнули Лига",
-      "avatar": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=100&h=100&fit=crop",
-      "status": "expert",
-      "winRate": 86
-    },
-    "prediction": "Тотал больше (2.5)",
-    "odds": 1.85,
-    "comment": "Комментарий к прогнозу",
-    "source": "Sports Analytics Pro"
-  },
-  {
-    "id": 1790009696810,
-    "eventName": "Матч",
-    "discipline": "Футбол",
-    "tournament": "Чемпионат",
-    "expert": {
-      "name": "Про Верчелли",
-      "avatar": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=100&h=100&fit=crop",
-      "status": "expert",
-      "winRate": 78
-    },
-    "prediction": "Тотал (2.5) М",
-    "odds": 1.8,
-    "comment": "Комментарий к прогнозу",
-    "source": "Sports Analytics Pro"
-  },
-  {
-    "id": 1790009696811,
+    "id": 1790024085797,
     "eventName": "Матч",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -96,67 +96,67 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1790009696812,
+    "id": 1790024085798,
     "eventName": "Матч",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
     "expert": {
-      "name": "Вис Песаро",
+      "name": "Южная Корея",
       "avatar": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=100&h=100&fit=crop",
       "status": "expert",
-      "winRate": 88
+      "winRate": 76
     },
-    "prediction": "Тотал (2.5) Б",
-    "odds": 1.55,
+    "prediction": "Обе забьют (Да)",
+    "odds": 1.87,
     "comment": "Комментарий к прогнозу",
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1790009696813,
+    "id": 1790024085799,
     "eventName": "Матч",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
     "expert": {
-      "name": "Тристан Суарес",
+      "name": "Операрио Ферровиарио",
       "avatar": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=100&h=100&fit=crop",
+      "status": "expert",
+      "winRate": 71
+    },
+    "prediction": "Индивидуальный тотал 2 Больше (0.5)",
+    "odds": 1.65,
+    "comment": "Комментарий к прогнозу",
+    "source": "Sports Analytics Pro"
+  },
+  {
+    "id": 1790024085800,
+    "eventName": "Матч",
+    "discipline": "Футбол",
+    "tournament": "Чемпионат",
+    "expert": {
+      "name": "Dmitry Gorbunov",
+      "avatar": "https://s3-static-prod.storage.yandexcloud.net/2026/09/8c282a68eb8f50d56311fb9e7da6b8ef-rb-webp-d2e4d2ce0549-0d6a36680358.webp",
+      "status": "expert",
+      "winRate": 77
+    },
+    "prediction": "Тотал (4.5) Б (жёлтые карточки)",
+    "odds": 1.71,
+    "comment": "принимать дома лидера то еще испытание +строгий реф - желтых не избежать",
+    "source": "Sports Analytics Pro"
+  },
+  {
+    "id": 1790024085801,
+    "eventName": "Шанхайские Драконы — Автомобилист",
+    "discipline": "Хоккей",
+    "tournament": "Чемпионат",
+    "expert": {
+      "name": "Александр Сергеевич",
+      "avatar": "https://bookmaker-ratings.ru/static/images/badges/novice-letter.svg?v=30092024",
       "status": "expert",
       "winRate": 82
     },
-    "prediction": "Тотал (2.5) М",
-    "odds": 1.39,
+    "prediction": "Победа 1",
+    "odds": 2.8,
     "comment": "Комментарий к прогнозу",
-    "source": "Sports Analytics Pro"
-  },
-  {
-    "id": 1790009696814,
-    "eventName": "Кёге — Хобро",
-    "discipline": "Футбол",
-    "tournament": "Чемпионат",
-    "expert": {
-      "name": "Andrey Agapov",
-      "avatar": "https://bookmaker-ratings.ru/static/images/badges/forecaster-letter.svg?v=30092024",
-      "status": "expert",
-      "winRate": 79
-    },
-    "prediction": "Тотал (2) Б",
-    "odds": 1.41,
-    "comment": "Кеге надо набиратьочки, в обороне сидеть смысла нет",
-    "source": "Sports Analytics Pro"
-  },
-  {
-    "id": 1790009696816,
-    "eventName": "УС Пиянесе — Самбенедеттес",
-    "discipline": "Футбол",
-    "tournament": "Чемпионат",
-    "expert": {
-      "name": "Артур Галкин",
-      "avatar": "https://bookmaker-ratings.ru/static/images/badges/forecaster-letter.svg?v=30092024",
-      "status": "expert",
-      "winRate": 68
-    },
-    "prediction": "Ничья",
-    "odds": 3.05,
-    "comment": "У Пиянесе 7/20 последних домашних матчей в ничью с командами от 3 до 5 млн. У Самбенедеттес 6/11 с командами от 3 до 5 млн. Чуйка подсказывает ничью в этом матче.",
     "source": "Sports Analytics Pro"
   }
 ]
