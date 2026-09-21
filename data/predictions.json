@@ -1,6 +1,6 @@
 [
   {
-    "id": 1790024085792,
+    "id": 1790035070803,
     "eventName": "Ланус — Эстудиантес",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -16,7 +16,7 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1790024085793,
+    "id": 1790035070804,
     "eventName": "Австралия — Бразилия",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -32,7 +32,7 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1790024085794,
+    "id": 1790035070805,
     "eventName": "Южная Корея — Эквадор",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -48,7 +48,7 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1790024085795,
+    "id": 1790035070806,
     "eventName": "Япония — Уругвай",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -64,23 +64,7 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1790024085796,
-    "eventName": "Матч",
-    "discipline": "Футбол",
-    "tournament": "Чемпионат",
-    "expert": {
-      "name": "Сентраль Эсп",
-      "avatar": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=100&h=100&fit=crop",
-      "status": "expert",
-      "winRate": 73
-    },
-    "prediction": "Тотал (4.5) Б (жёлтые карточки)",
-    "odds": 1.71,
-    "comment": "Комментарий к прогнозу",
-    "source": "Sports Analytics Pro"
-  },
-  {
-    "id": 1790024085797,
+    "id": 1790035070807,
     "eventName": "Матч",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -96,7 +80,7 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1790024085798,
+    "id": 1790035070808,
     "eventName": "Матч",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -112,39 +96,7 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1790024085799,
-    "eventName": "Матч",
-    "discipline": "Футбол",
-    "tournament": "Чемпионат",
-    "expert": {
-      "name": "Операрио Ферровиарио",
-      "avatar": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=100&h=100&fit=crop",
-      "status": "expert",
-      "winRate": 71
-    },
-    "prediction": "Индивидуальный тотал 2 Больше (0.5)",
-    "odds": 1.65,
-    "comment": "Комментарий к прогнозу",
-    "source": "Sports Analytics Pro"
-  },
-  {
-    "id": 1790024085800,
-    "eventName": "Матч",
-    "discipline": "Футбол",
-    "tournament": "Чемпионат",
-    "expert": {
-      "name": "Dmitry Gorbunov",
-      "avatar": "https://s3-static-prod.storage.yandexcloud.net/2026/09/8c282a68eb8f50d56311fb9e7da6b8ef-rb-webp-d2e4d2ce0549-0d6a36680358.webp",
-      "status": "expert",
-      "winRate": 77
-    },
-    "prediction": "Тотал (4.5) Б (жёлтые карточки)",
-    "odds": 1.71,
-    "comment": "принимать дома лидера то еще испытание +строгий реф - желтых не избежать",
-    "source": "Sports Analytics Pro"
-  },
-  {
-    "id": 1790024085801,
+    "id": 1790035070809,
     "eventName": "Шанхайские Драконы — Автомобилист",
     "discipline": "Хоккей",
     "tournament": "Чемпионат",
@@ -157,6 +109,54 @@
     "prediction": "Победа 1",
     "odds": 2.8,
     "comment": "Комментарий к прогнозу",
+    "source": "Sports Analytics Pro"
+  },
+  {
+    "id": 1790035070810,
+    "eventName": "Динамо Москва — Барыс",
+    "discipline": "Хоккей",
+    "tournament": "Чемпионат",
+    "expert": {
+      "name": "Руслан Алиханов",
+      "avatar": "https://bookmaker-ratings.ru/static/images/badges/novice-letter.svg?v=30092024",
+      "status": "expert",
+      "winRate": 71
+    },
+    "prediction": "Индивидуальный тотал 1 Больше (2.5)",
+    "odds": 1.55,
+    "comment": "Ставка котринтуитивная, вероятность прохода 60 процентов, на своём поле три шайбы динамовцы отгрузить должны Скачай приложение РБ и получай Push-уведомления о прогнозах выбранных экспертов Скачай мобильное приложение Рейтинг Букмекеров и мгновенно получай Push-уведомления о новых прогнозах выбранных экспертов Скачай мобильное приложение по ссылке или QR-коду и мгновенно получай Push-уведомления о новых прогнозах выбранных экспертов",
+    "source": "Sports Analytics Pro"
+  },
+  {
+    "id": 1790035070811,
+    "eventName": "Адмирал — Локомотив",
+    "discipline": "Хоккей",
+    "tournament": "Чемпионат",
+    "expert": {
+      "name": "Дмитрий Ставкер",
+      "avatar": "https://static-uploads.prod.bookmaker-ratings.ru/2026/09/E6898A2B-D81C-453F-BA63-50EFF1445CE3-rb-webp-6aab8f3f00116-6aab8f3f03ee0.webp?width=60",
+      "status": "expert",
+      "winRate": 85
+    },
+    "prediction": "Фора 1 (+2)",
+    "odds": 1.55,
+    "comment": "Комментарий к прогнозу",
+    "source": "Sports Analytics Pro"
+  },
+  {
+    "id": 1790035070812,
+    "eventName": "Португалия — Уэльс",
+    "discipline": "Футбол",
+    "tournament": "Чемпионат",
+    "expert": {
+      "name": "Павел Кириченко",
+      "avatar": "https://static-uploads.prod.bookmaker-ratings.ru/2023/11/Kirichenko.png?width=60",
+      "status": "expert",
+      "winRate": 78
+    },
+    "prediction": "Угловые Ф1(-1.5)",
+    "odds": 1.78,
+    "comment": "Португалия и Уэльс сыграют 24 сентября в рамках Лиги Наций УЕФА. Предлагаю здесь рассмотреть ставку на угловые, как кажется, в этом рынке есть перспективный вариант. Сборная Уэльса выиграла по угловым семь последних матчей, но важен контекст. В большинстве случае Уэльс был фаворитом. Против Португалии победа Уэльса котируется коэффициентом 14 ! На выезде против такого соперника наверняка Уэльс будет много обороняться. Если взять последние вочемь гостевых матчей, где победа Уэльса котировалась от трех и выше, то в 8/8 случаев по угловым эта сборная проигрывала. В 7/8 матчах фавориты пробивали фору -1,5 по угловым. По-моему, выбор ставки на фоне таких цифр вполне отчетливо вырисовывается.",
     "source": "Sports Analytics Pro"
   }
 ]
