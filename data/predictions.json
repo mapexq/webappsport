@@ -1,102 +1,102 @@
 [
   {
-    "id": 1790035070803,
-    "eventName": "Ланус — Эстудиантес",
-    "discipline": "Футбол",
-    "tournament": "Чемпионат",
-    "expert": {
-      "name": "Akhmad Akhokhov",
-      "avatar": "https://static-uploads.prod.bookmaker-ratings.ru/2026/09/92cb4f89-a73a-4f52-89fc-c576b8f32734-rb-webp-6aa94cdf063ac-6aa94cdf0e926.webp?width=60",
-      "status": "expert",
-      "winRate": 73
-    },
-    "prediction": "Тотал больше (1.5)",
-    "odds": 1.62,
-    "comment": "Ну не предсказуемый матч, и думаю за такой кэф можно брать 1,5больше",
-    "source": "Sports Analytics Pro"
-  },
-  {
-    "id": 1790035070804,
-    "eventName": "Австралия — Бразилия",
-    "discipline": "Футбол",
-    "tournament": "Чемпионат",
-    "expert": {
-      "name": "Akhmad Akhokhov",
-      "avatar": "https://static-uploads.prod.bookmaker-ratings.ru/2026/09/92cb4f89-a73a-4f52-89fc-c576b8f32734-rb-webp-6aa94cdf063ac-6aa94cdf0e926.webp?width=60",
-      "status": "expert",
-      "winRate": 73
-    },
-    "prediction": "Обе забьют (Да)",
-    "odds": 1.76,
-    "comment": "Интересный матч, думаю бразильцы полурезервным составом играть будут",
-    "source": "Sports Analytics Pro"
-  },
-  {
-    "id": 1790035070805,
-    "eventName": "Южная Корея — Эквадор",
-    "discipline": "Футбол",
-    "tournament": "Чемпионат",
-    "expert": {
-      "name": "Akhmad Akhokhov",
-      "avatar": "https://static-uploads.prod.bookmaker-ratings.ru/2026/09/92cb4f89-a73a-4f52-89fc-c576b8f32734-rb-webp-6aa94cdf063ac-6aa94cdf0e926.webp?width=60",
-      "status": "expert",
-      "winRate": 73
-    },
-    "prediction": "Обе забьют (Да)",
-    "odds": 1.87,
-    "comment": "Корейцы провалились на чемпионате мира, и пора начинать путь свой заново, думаю обменяются голами",
-    "source": "Sports Analytics Pro"
-  },
-  {
-    "id": 1790035070806,
-    "eventName": "Япония — Уругвай",
-    "discipline": "Футбол",
-    "tournament": "Чемпионат",
-    "expert": {
-      "name": "Akhmad Akhokhov",
-      "avatar": "https://static-uploads.prod.bookmaker-ratings.ru/2026/09/92cb4f89-a73a-4f52-89fc-c576b8f32734-rb-webp-6aa94cdf063ac-6aa94cdf0e926.webp?width=60",
-      "status": "expert",
-      "winRate": 73
-    },
-    "prediction": "Обе забьют (Да)",
-    "odds": 1.83,
-    "comment": "Японцы впечатлили на чемпионате мира, и думаю с уругвайцами обменяются голами",
-    "source": "Sports Analytics Pro"
-  },
-  {
-    "id": 1790035070807,
+    "id": 1790052070128,
     "eventName": "Матч",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
     "expert": {
-      "name": "Тотал Азербайджан",
+      "name": "Уиган Атлетик",
       "avatar": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=100&h=100&fit=crop",
       "status": "expert",
-      "winRate": 80
+      "winRate": 81
     },
-    "prediction": "Тотал Азербайджан меньше (1.5)",
-    "odds": 1.9,
+    "prediction": "Тотал (2.5) Б",
+    "odds": 1.6,
     "comment": "Комментарий к прогнозу",
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1790035070808,
+    "id": 1790052070129,
     "eventName": "Матч",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
     "expert": {
-      "name": "Южная Корея",
+      "name": "Кру Александра",
       "avatar": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=100&h=100&fit=crop",
       "status": "expert",
-      "winRate": 76
+      "winRate": 75
     },
-    "prediction": "Обе забьют (Да)",
-    "odds": 1.87,
+    "prediction": "Обе забьют - Да",
+    "odds": 1.5,
     "comment": "Комментарий к прогнозу",
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1790035070809,
+    "id": 1790052070130,
+    "eventName": "Матч",
+    "discipline": "Футбол",
+    "tournament": "Чемпионат",
+    "expert": {
+      "name": "Бертон Альбион",
+      "avatar": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=100&h=100&fit=crop",
+      "status": "expert",
+      "winRate": 84
+    },
+    "prediction": "Тотал (2.5) Б",
+    "odds": 1.4,
+    "comment": "Комментарий к прогнозу",
+    "source": "Sports Analytics Pro"
+  },
+  {
+    "id": 1790052070131,
+    "eventName": "Матч",
+    "discipline": "Футбол",
+    "tournament": "Чемпионат",
+    "expert": {
+      "name": "Ноттс Каунти",
+      "avatar": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=100&h=100&fit=crop",
+      "status": "expert",
+      "winRate": 72
+    },
+    "prediction": "1Х",
+    "odds": 1.34,
+    "comment": "Комментарий к прогнозу",
+    "source": "Sports Analytics Pro"
+  },
+  {
+    "id": 1790052070132,
+    "eventName": "Матч",
+    "discipline": "Футбол",
+    "tournament": "Чемпионат",
+    "expert": {
+      "name": "Шеффилд Уэнсдей",
+      "avatar": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=100&h=100&fit=crop",
+      "status": "expert",
+      "winRate": 70
+    },
+    "prediction": "Обе забьют - Да",
+    "odds": 1.53,
+    "comment": "Комментарий к прогнозу",
+    "source": "Sports Analytics Pro"
+  },
+  {
+    "id": 1790052070133,
+    "eventName": "Матч",
+    "discipline": "Футбол",
+    "tournament": "Чемпионат",
+    "expert": {
+      "name": "Олдхэм Атлетик",
+      "avatar": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=100&h=100&fit=crop",
+      "status": "expert",
+      "winRate": 75
+    },
+    "prediction": "Обе забьют - Да",
+    "odds": 1.6,
+    "comment": "Комментарий к прогнозу",
+    "source": "Sports Analytics Pro"
+  },
+  {
+    "id": 1790052070134,
     "eventName": "Шанхайские Драконы — Автомобилист",
     "discipline": "Хоккей",
     "tournament": "Чемпионат",
@@ -112,7 +112,7 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1790035070810,
+    "id": 1790052070135,
     "eventName": "Динамо Москва — Барыс",
     "discipline": "Хоккей",
     "tournament": "Чемпионат",
@@ -128,7 +128,7 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1790035070811,
+    "id": 1790052070136,
     "eventName": "Адмирал — Локомотив",
     "discipline": "Хоккей",
     "tournament": "Чемпионат",
@@ -144,19 +144,19 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1790035070812,
-    "eventName": "Португалия — Уэльс",
+    "id": 1790052070137,
+    "eventName": "Бавария Мюнхен Ж — Манчестер Сити Ж",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
     "expert": {
-      "name": "Павел Кириченко",
-      "avatar": "https://static-uploads.prod.bookmaker-ratings.ru/2023/11/Kirichenko.png?width=60",
+      "name": "Герман Германн",
+      "avatar": "https://s3-static-prod.storage.yandexcloud.net/2026/09/1000002590-rb-webp-71556f886f67-d9ff0625908e.webp",
       "status": "expert",
-      "winRate": 78
+      "winRate": 81
     },
-    "prediction": "Угловые Ф1(-1.5)",
-    "odds": 1.78,
-    "comment": "Португалия и Уэльс сыграют 24 сентября в рамках Лиги Наций УЕФА. Предлагаю здесь рассмотреть ставку на угловые, как кажется, в этом рынке есть перспективный вариант. Сборная Уэльса выиграла по угловым семь последних матчей, но важен контекст. В большинстве случае Уэльс был фаворитом. Против Португалии победа Уэльса котируется коэффициентом 14 ! На выезде против такого соперника наверняка Уэльс будет много обороняться. Если взять последние вочемь гостевых матчей, где победа Уэльса котировалась от трех и выше, то в 8/8 случаев по угловым эта сборная проигрывала. В 7/8 матчах фавориты пробивали фору -1,5 по угловым. По-моему, выбор ставки на фоне таких цифр вполне отчетливо вырисовывается.",
+    "prediction": "Тотал (2.5) Б",
+    "odds": 1.4,
+    "comment": "Комментарий к прогнозу",
     "source": "Sports Analytics Pro"
   }
 ]
