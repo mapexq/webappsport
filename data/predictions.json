@@ -1,38 +1,70 @@
 [
   {
-    "id": 1790087558260,
-    "eventName": "Матч",
+    "id": 1790102353173,
+    "eventName": "Нидерланды — Германия",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
     "expert": {
-      "name": "Звезда Москва",
-      "avatar": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=100&h=100&fit=crop",
+      "name": "Akhmad Akhokhov",
+      "avatar": "https://static-uploads.prod.bookmaker-ratings.ru/2026/09/92cb4f89-a73a-4f52-89fc-c576b8f32734-rb-webp-6aa94cdf063ac-6aa94cdf0e926.webp?width=60",
       "status": "expert",
-      "winRate": 88
+      "winRate": 73
     },
-    "prediction": "Тотал (5) Б",
-    "odds": 1.92,
+    "prediction": "Тотал больше (3)",
+    "odds": 1.79,
+    "comment": "Думаю обе забьют, и тотал 2,5 больше либо тотал 3больше",
+    "source": "Sports Analytics Pro"
+  },
+  {
+    "id": 1790102353174,
+    "eventName": "Сербия — Греция",
+    "discipline": "Футбол",
+    "tournament": "Чемпионат",
+    "expert": {
+      "name": "Akhmad Akhokhov",
+      "avatar": "https://static-uploads.prod.bookmaker-ratings.ru/2026/09/92cb4f89-a73a-4f52-89fc-c576b8f32734-rb-webp-6aa94cdf063ac-6aa94cdf0e926.webp?width=60",
+      "status": "expert",
+      "winRate": 73
+    },
+    "prediction": "Тотал меньше (2.5)",
+    "odds": 1.71,
+    "comment": "Обе команды в очных встречах мало забивали, и думаю и этот матч не станет исключением",
+    "source": "Sports Analytics Pro"
+  },
+  {
+    "id": 1790102353175,
+    "eventName": "Норвегия — Дания",
+    "discipline": "Футбол",
+    "tournament": "Чемпионат",
+    "expert": {
+      "name": "Akhmad Akhokhov",
+      "avatar": "https://static-uploads.prod.bookmaker-ratings.ru/2026/09/92cb4f89-a73a-4f52-89fc-c576b8f32734-rb-webp-6aa94cdf063ac-6aa94cdf0e926.webp?width=60",
+      "status": "expert",
+      "winRate": 73
+    },
+    "prediction": "Тотал больше (2.5)",
+    "odds": 1.73,
     "comment": "Комментарий к прогнозу",
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1790087558261,
-    "eventName": "Матч",
+    "id": 1790102353176,
+    "eventName": "Португалия — Уэльс",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
     "expert": {
-      "name": "Шанхайские Драконы",
-      "avatar": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=100&h=100&fit=crop",
+      "name": "Akhmad Akhokhov",
+      "avatar": "https://static-uploads.prod.bookmaker-ratings.ru/2026/09/92cb4f89-a73a-4f52-89fc-c576b8f32734-rb-webp-6aa94cdf063ac-6aa94cdf0e926.webp?width=60",
       "status": "expert",
-      "winRate": 69
+      "winRate": 73
     },
-    "prediction": "Тотал (5.5) Б",
-    "odds": 1.93,
-    "comment": "Комментарий к прогнозу",
+    "prediction": "Ф1(-1.5)",
+    "odds": 1.6,
+    "comment": "Португальцы по составу сильнее Уэльса, и думаю что минусовая фора должна зайти",
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1790087558262,
+    "id": 1790102353177,
     "eventName": "Матч",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -48,71 +80,55 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1790087558263,
-    "eventName": "Звезда Москва — Челмет",
+    "id": 1790102353178,
+    "eventName": "Рейнджерс — Айлендерс",
     "discipline": "Хоккей",
-    "tournament": "Чемпионат",
-    "expert": {
-      "name": "Andrey Agapov",
-      "avatar": "https://bookmaker-ratings.ru/static/images/badges/forecaster-letter.svg?v=30092024",
-      "status": "expert",
-      "winRate": 79
-    },
-    "prediction": "Тотал (5) Б",
-    "odds": 1.92,
-    "comment": "Матчи между этими командами, проходчт с обилием щабитыз шайб",
-    "source": "Sports Analytics Pro"
-  },
-  {
-    "id": 1790087558264,
-    "eventName": "Торпедо — Авангард",
-    "discipline": "Хоккей",
-    "tournament": "Чемпионат",
-    "expert": {
-      "name": "Евгений Поморов",
-      "avatar": "https://static-uploads.prod.bookmaker-ratings.ru/2023/09/Corsi.png?width=60",
-      "status": "expert",
-      "winRate": 74
-    },
-    "prediction": "Тотал (5) М",
-    "odds": 1.84,
-    "comment": "На новой Volga Арене, местное Торпедо примет омский Авангард. Обе команды в текущем сезоне ставят высокие задачи, поэтому основное внимание главные тренеры уделяют правильной игре в обороне, так как это основное, для успешного прохождения по лестнице плей-офф. У Авангард по-прежнему в лазарете находятся лидеры команды - Майкл Маклауд, Дамир Шарипзянов, Николай Прохоркин, Максим Лажуа. В воротах у обоих коллективов сверхнадежные вратари - Денис Костин у хозяев и Никита Серебряков у гостей. Скачай приложение РБ и получай Push-уведомления о прогнозах выбранных экспертов Скачай мобильное приложение Рейтинг Букмекеров и мгновенно получай Push-уведомления о новых прогнозах выбранных экспертов Скачай мобильное приложение по ссылке или QR-коду и мгновенно получай Push-уведомления о новых прогнозах выбранных экспертов",
-    "source": "Sports Analytics Pro"
-  },
-  {
-    "id": 1790087558265,
-    "eventName": "Шанхайские Драконы — Автомобилист",
-    "discipline": "Хоккей",
-    "tournament": "Чемпионат",
-    "expert": {
-      "name": "Дмитрий Ставкер",
-      "avatar": "https://static-uploads.prod.bookmaker-ratings.ru/2026/09/E6898A2B-D81C-453F-BA63-50EFF1445CE3-rb-webp-6aab8f3f00116-6aab8f3f03ee0.webp?width=60",
-      "status": "expert",
-      "winRate": 85
-    },
-    "prediction": "Тотал (5.5) Б",
-    "odds": 1.93,
-    "comment": "Комментарий к прогнозу",
-    "source": "Sports Analytics Pro"
-  },
-  {
-    "id": 1790087558266,
-    "eventName": "Таппара — Кярпят",
-    "discipline": "Хоккей",
-    "tournament": "Чемпионат",
+    "tournament": "НХЛ",
     "expert": {
       "name": "Fyodor Mironov",
       "avatar": "https://bookmaker-ratings.ru/static/images/badges/novice-letter.svg?v=30092024",
       "status": "expert",
       "winRate": 89
     },
-    "prediction": "Тотал (7.5) Б",
+    "prediction": "Ничья",
     "odds": 4.1,
-    "comment": "Йокерит и в одного этот тотал пробьет ,там атака супер",
+    "comment": "Комментарий к прогнозу",
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1790087558267,
+    "id": 1790102353179,
+    "eventName": "Труро Сити — Мертхир Таун",
+    "discipline": "Футбол",
+    "tournament": "Чемпионат",
+    "expert": {
+      "name": "Леня Дудкин",
+      "avatar": "https://s3-static-prod.storage.yandexcloud.net/2026/09/2026-09-2217-58-47-rb-webp-631ca690866c-ad5c3f47a518.webp",
+      "status": "expert",
+      "winRate": 74
+    },
+    "prediction": "Победа 1",
+    "odds": 1.81,
+    "comment": "Комментарий к прогнозу",
+    "source": "Sports Analytics Pro"
+  },
+  {
+    "id": 1790102353180,
+    "eventName": "Мирра Андреева — Александра Саснович",
+    "discipline": "Футбол",
+    "tournament": "Чемпионат",
+    "expert": {
+      "name": "Мирра Андреева",
+      "avatar": "https://static-uploads.prod.bookmaker-ratings.ru/2026/08/logo-rb-webp-6a79ca6c62514-6a79ca6cb2edd.webp?width=60",
+      "status": "expert",
+      "winRate": 85
+    },
+    "prediction": "Эйсы Ф1 (0)",
+    "odds": 1.63,
+    "comment": "Смотрим статистику выступления участниц предстоящего матча на харде за последний год. Мирра Андреева в среднем за гейм выполняет 0,26 эйса, при этом от своих соперниц пропускает с частотой 0,16 эйса за гейм. Александра Саснович делает 0,26 эйса за гейм, а пропускает 0,28 эйса за гейм. Как видите, силы соперниц на своей подаче равны, зато у российской теннисистки есть существенное преимущество на приеме. За время своей профессиональной карьеры теннисистки играли друг против друга только один раз. Матч состоялся в 2024 году на грунте. Тогда Андреева победила по эйсам с минимальным отрывом 1-0. Однако замечу, что выполнять подачи навылет сложнее, чем на харде. Так что ставим на нулевую фору по эйсам в пользу Мирры Андреевой. Скачай приложение РБ и получай Push-уведомления о прогнозах выбранных экспертов Скачай мобильное приложение Рейтинг Букмекеров и мгновенно получай Push-уведомления о новых прогнозах выбранных экспертов Скачай мобильное приложение по ссылке или QR-коду и мгновенно получай Push-уведомления о новых прогнозах выбранных экспертов",
+    "source": "Sports Analytics Pro"
+  },
+  {
+    "id": 1790102353181,
     "eventName": "Кобрелоа — Кокимбо Унидо",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -128,34 +144,18 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1790087558268,
-    "eventName": "АКС Тыргу — Муреш - КС Динамо Бухарест",
-    "discipline": "Футбол",
+    "id": 1790102353182,
+    "eventName": "Питтсбург — Детройт",
+    "discipline": "Хоккей",
     "tournament": "Чемпионат",
     "expert": {
-      "name": "Герман Германн",
-      "avatar": "https://s3-static-prod.storage.yandexcloud.net/2026/09/1000002590-rb-webp-71556f886f67-d9ff0625908e.webp",
-      "status": "expert",
-      "winRate": 81
-    },
-    "prediction": "Тотал (2.5) Б",
-    "odds": 1.26,
-    "comment": "Комментарий к прогнозу",
-    "source": "Sports Analytics Pro"
-  },
-  {
-    "id": 1790087558269,
-    "eventName": "Матч",
-    "discipline": "Футбол",
-    "tournament": "Чемпионат",
-    "expert": {
-      "name": "Андрей Westone",
+      "name": "Fyodor Mironov",
       "avatar": "https://bookmaker-ratings.ru/static/images/badges/novice-letter.svg?v=30092024",
       "status": "expert",
-      "winRate": 82
+      "winRate": 89
     },
-    "prediction": "Обе забьют - Да",
-    "odds": 1.33,
+    "prediction": "Победа 2",
+    "odds": 3.3,
     "comment": "Комментарий к прогнозу",
     "source": "Sports Analytics Pro"
   }
