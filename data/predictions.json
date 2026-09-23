@@ -1,6 +1,6 @@
 [
   {
-    "id": 1790193824665,
+    "id": 1790206209672,
     "eventName": "Норвегия — Дания",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -16,7 +16,7 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1790193824667,
+    "id": 1790206209673,
     "eventName": "Америка Кали — Агилас Дорадас",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -32,8 +32,8 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1790193824668,
-    "eventName": "Сербия — Греция",
+    "id": 1790206209674,
+    "eventName": "Южная Корея — Эквадор",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
     "expert": {
@@ -42,45 +42,13 @@
       "status": "expert",
       "winRate": 73
     },
-    "prediction": "Тотал меньше (2.5)",
-    "odds": 1.71,
-    "comment": "Обе команды в очных встречах мало забивали, и думаю и этот матч не станет исключением",
+    "prediction": "Обе забьют (Да)",
+    "odds": 1.87,
+    "comment": "Корейцы провалились на чемпионате мира, и пора начинать путь свой заново, думаю обменяются голами",
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1790193824669,
-    "eventName": "Матч",
-    "discipline": "Футбол",
-    "tournament": "Чемпионат",
-    "expert": {
-      "name": "Ак Барс",
-      "avatar": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=100&h=100&fit=crop",
-      "status": "expert",
-      "winRate": 68
-    },
-    "prediction": "Тотал (5) М",
-    "odds": 1.82,
-    "comment": "Комментарий к прогнозу",
-    "source": "Sports Analytics Pro"
-  },
-  {
-    "id": 1790193824670,
-    "eventName": "Матч",
-    "discipline": "Футбол",
-    "tournament": "Чемпионат",
-    "expert": {
-      "name": "Тотал Норвегия",
-      "avatar": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=100&h=100&fit=crop",
-      "status": "expert",
-      "winRate": 89
-    },
-    "prediction": "Тотал Норвегия больше (1.5)",
-    "odds": 1.7,
-    "comment": "Комментарий к прогнозу",
-    "source": "Sports Analytics Pro"
-  },
-  {
-    "id": 1790193824671,
+    "id": 1790206209675,
     "eventName": "Матч",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -96,7 +64,23 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1790193824672,
+    "id": 1790206209676,
+    "eventName": "Матч",
+    "discipline": "Футбол",
+    "tournament": "Чемпионат",
+    "expert": {
+      "name": "Тотал Норвегия",
+      "avatar": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=100&h=100&fit=crop",
+      "status": "expert",
+      "winRate": 89
+    },
+    "prediction": "Тотал Норвегия больше (1.5)",
+    "odds": 1.7,
+    "comment": "Комментарий к прогнозу",
+    "source": "Sports Analytics Pro"
+  },
+  {
+    "id": 1790206209677,
     "eventName": "Матч",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -112,8 +96,40 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1790193824673,
-    "eventName": "Сибирь — Ак Барс",
+    "id": 1790206209678,
+    "eventName": "Матч",
+    "discipline": "Футбол",
+    "tournament": "Чемпионат",
+    "expert": {
+      "name": "Южная Корея",
+      "avatar": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=100&h=100&fit=crop",
+      "status": "expert",
+      "winRate": 76
+    },
+    "prediction": "Обе забьют (Да)",
+    "odds": 1.87,
+    "comment": "Комментарий к прогнозу",
+    "source": "Sports Analytics Pro"
+  },
+  {
+    "id": 1790206209679,
+    "eventName": "Косово — Ирландия",
+    "discipline": "Футбол",
+    "tournament": "Чемпионат",
+    "expert": {
+      "name": "Дмитрий Васин",
+      "avatar": "https://bookmaker-ratings.ru/static/images/badges/novice-letter.svg?v=30092024",
+      "status": "expert",
+      "winRate": 71
+    },
+    "prediction": "Тотал (2) Б",
+    "odds": 1.71,
+    "comment": "У Косово сейчас есть хорошие аргументы впереди: команда забила 11 голов в последних шести матчах, а дома получает серьёзную поддержку трибун. При этом в обороне у хозяев произошли изменения, которые могут сказаться на сыгранности. У Ирландии тоже есть проблемы с составом — в частности, не сыграет Нэйтан Коллинз. Это особенно важно на фоне возвращения Ведата Мурики, который способен создавать давление на оборону соперника. Поэтому здесь вижу вполне конкретный сценарий: обе команды получают свои моменты, и матч может перейти в открытую игру после первого гола.",
+    "source": "Sports Analytics Pro"
+  },
+  {
+    "id": 1790206209680,
+    "eventName": "Динамо Москва — Динамо Минск",
     "discipline": "Хоккей",
     "tournament": "Чемпионат",
     "expert": {
@@ -122,30 +138,14 @@
       "status": "expert",
       "winRate": 85
     },
-    "prediction": "Тотал (5) М",
-    "odds": 1.82,
-    "comment": "Проверю тотал меньше 5, тк обе команды играют не особо быстрый хоккей",
+    "prediction": "Тотал (5.5) М",
+    "odds": 1.65,
+    "comment": "Скачай приложение РБ и получай Push-уведомления о прогнозах выбранных экспертов Скачай мобильное приложение Рейтинг Букмекеров и мгновенно получай Push-уведомления о новых прогнозах выбранных экспертов Скачай мобильное приложение по ссылке или QR-коду и мгновенно получай Push-уведомления о новых прогнозах выбранных экспертов",
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1790193824674,
-    "eventName": "Торпедо — Сочи",
-    "discipline": "Хоккей",
-    "tournament": "Чемпионат",
-    "expert": {
-      "name": "Андрей Шакуров",
-      "avatar": "https://bookmaker-ratings.ru/static/images/badges/novice-letter.svg?v=30092024",
-      "status": "expert",
-      "winRate": 72
-    },
-    "prediction": "Фора 1 (-1.5)",
-    "odds": 1.9,
-    "comment": "Фора первой команды поставлю на предстоящей поединок по хоккею",
-    "source": "Sports Analytics Pro"
-  },
-  {
-    "id": 1790193824675,
-    "eventName": "Австрия — Израиль",
+    "id": 1790206209681,
+    "eventName": "Япония — Уругвай",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
     "expert": {
@@ -155,7 +155,7 @@
       "winRate": 81
     },
     "prediction": "Обе забьют - Да",
-    "odds": 1.68,
+    "odds": 1.93,
     "comment": "Комментарий к прогнозу",
     "source": "Sports Analytics Pro"
   }
