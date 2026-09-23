@@ -1,22 +1,6 @@
 [
   {
-    "id": 1790102353173,
-    "eventName": "Нидерланды — Германия",
-    "discipline": "Футбол",
-    "tournament": "Чемпионат",
-    "expert": {
-      "name": "Akhmad Akhokhov",
-      "avatar": "https://static-uploads.prod.bookmaker-ratings.ru/2026/09/92cb4f89-a73a-4f52-89fc-c576b8f32734-rb-webp-6aa94cdf063ac-6aa94cdf0e926.webp?width=60",
-      "status": "expert",
-      "winRate": 73
-    },
-    "prediction": "Тотал больше (3)",
-    "odds": 1.79,
-    "comment": "Думаю обе забьют, и тотал 2,5 больше либо тотал 3больше",
-    "source": "Sports Analytics Pro"
-  },
-  {
-    "id": 1790102353174,
+    "id": 1790122311573,
     "eventName": "Сербия — Греция",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -32,87 +16,103 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1790102353175,
-    "eventName": "Норвегия — Дания",
-    "discipline": "Футбол",
-    "tournament": "Чемпионат",
-    "expert": {
-      "name": "Akhmad Akhokhov",
-      "avatar": "https://static-uploads.prod.bookmaker-ratings.ru/2026/09/92cb4f89-a73a-4f52-89fc-c576b8f32734-rb-webp-6aa94cdf063ac-6aa94cdf0e926.webp?width=60",
-      "status": "expert",
-      "winRate": 73
-    },
-    "prediction": "Тотал больше (2.5)",
-    "odds": 1.73,
-    "comment": "Комментарий к прогнозу",
-    "source": "Sports Analytics Pro"
-  },
-  {
-    "id": 1790102353176,
-    "eventName": "Португалия — Уэльс",
-    "discipline": "Футбол",
-    "tournament": "Чемпионат",
-    "expert": {
-      "name": "Akhmad Akhokhov",
-      "avatar": "https://static-uploads.prod.bookmaker-ratings.ru/2026/09/92cb4f89-a73a-4f52-89fc-c576b8f32734-rb-webp-6aa94cdf063ac-6aa94cdf0e926.webp?width=60",
-      "status": "expert",
-      "winRate": 73
-    },
-    "prediction": "Ф1(-1.5)",
-    "odds": 1.6,
-    "comment": "Португальцы по составу сильнее Уэльса, и думаю что минусовая фора должна зайти",
-    "source": "Sports Analytics Pro"
-  },
-  {
-    "id": 1790102353177,
+    "id": 1790122311574,
     "eventName": "Матч",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
     "expert": {
-      "name": "Кокимбо Унидо",
+      "name": "Кашима Антлерс",
       "avatar": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=100&h=100&fit=crop",
       "status": "expert",
-      "winRate": 73
+      "winRate": 82
     },
-    "prediction": "Тотал (2.5) Б",
-    "odds": 2.01,
+    "prediction": "Тотал (3) Б",
+    "odds": 1.95,
     "comment": "Комментарий к прогнозу",
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1790102353178,
-    "eventName": "Рейнджерс — Айлендерс",
-    "discipline": "Хоккей",
-    "tournament": "НХЛ",
-    "expert": {
-      "name": "Fyodor Mironov",
-      "avatar": "https://bookmaker-ratings.ru/static/images/badges/novice-letter.svg?v=30092024",
-      "status": "expert",
-      "winRate": 89
-    },
-    "prediction": "Ничья",
-    "odds": 4.1,
-    "comment": "Комментарий к прогнозу",
-    "source": "Sports Analytics Pro"
-  },
-  {
-    "id": 1790102353179,
-    "eventName": "Труро Сити — Мертхир Таун",
+    "id": 1790122311575,
+    "eventName": "Матч",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
     "expert": {
-      "name": "Леня Дудкин",
-      "avatar": "https://s3-static-prod.storage.yandexcloud.net/2026/09/2026-09-2217-58-47-rb-webp-631ca690866c-ad5c3f47a518.webp",
+      "name": "Салават Юлаев",
+      "avatar": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=100&h=100&fit=crop",
       "status": "expert",
-      "winRate": 74
+      "winRate": 76
     },
-    "prediction": "Победа 1",
-    "odds": 1.81,
+    "prediction": "Фора 2 (0)",
+    "odds": 1.55,
     "comment": "Комментарий к прогнозу",
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1790102353180,
+    "id": 1790122311576,
+    "eventName": "Матч",
+    "discipline": "Футбол",
+    "tournament": "Чемпионат",
+    "expert": {
+      "name": "Гамба Осака",
+      "avatar": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=100&h=100&fit=crop",
+      "status": "expert",
+      "winRate": 69
+    },
+    "prediction": "Тотал (2.5) Б (жёлтые карточки)",
+    "odds": 1.99,
+    "comment": "Комментарий к прогнозу",
+    "source": "Sports Analytics Pro"
+  },
+  {
+    "id": 1790122311577,
+    "eventName": "Матч",
+    "discipline": "Футбол",
+    "tournament": "Чемпионат",
+    "expert": {
+      "name": "Виссел Кобе",
+      "avatar": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=100&h=100&fit=crop",
+      "status": "expert",
+      "winRate": 72
+    },
+    "prediction": "Индивидуальный тотал 2 Больше (1.5) (жёлтые карточки)",
+    "odds": 2.02,
+    "comment": "Комментарий к прогнозу",
+    "source": "Sports Analytics Pro"
+  },
+  {
+    "id": 1790122311578,
+    "eventName": "Матч",
+    "discipline": "Футбол",
+    "tournament": "Чемпионат",
+    "expert": {
+      "name": "Киото Санга",
+      "avatar": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=100&h=100&fit=crop",
+      "status": "expert",
+      "winRate": 71
+    },
+    "prediction": "Индивидуальный тотал 2 Больше (1)",
+    "odds": 2.2,
+    "comment": "Комментарий к прогнозу",
+    "source": "Sports Analytics Pro"
+  },
+  {
+    "id": 1790122311579,
+    "eventName": "Матч",
+    "discipline": "Футбол",
+    "tournament": "Чемпионат",
+    "expert": {
+      "name": "Bet Tennis",
+      "avatar": "https://s3-static-prod.storage.yandexcloud.net/2026/09/photo2026-09-2015-19-53-rb-webp-b975e4287159-41fc2506eb01.webp",
+      "status": "expert",
+      "winRate": 82
+    },
+    "prediction": "Тотал (23.5) М (геймы)",
+    "odds": 1.71,
+    "comment": "Комментарий к прогнозу",
+    "source": "Sports Analytics Pro"
+  },
+  {
+    "id": 1790122311580,
     "eventName": "Мирра Андреева — Александра Саснович",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -128,35 +128,35 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1790102353181,
-    "eventName": "Кобрелоа — Кокимбо Унидо",
+    "id": 1790122311581,
+    "eventName": "Кашима Антлерс — Вентфорет",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
     "expert": {
-      "name": "Владислав Софронов",
+      "name": "Светлана За",
       "avatar": "https://bookmaker-ratings.ru/static/images/badges/novice-letter.svg?v=30092024",
       "status": "expert",
-      "winRate": 71
+      "winRate": 73
     },
-    "prediction": "Тотал (2.5) Б",
-    "odds": 2.01,
-    "comment": "Кобрелоа - команда Чемпионата Чили Примера В, занимающая на данный момент 2-ю строчку с хорошим показателем забитых мячей (42 гола за 24 матча). Кокимбо Унидо - типичный середнячок Примера-Дивизиона. Разница забитых и пропущенных мячей за 23 матча 31:32. Считаю, что команды обменяются голами и на этом не остановятся.",
+    "prediction": "Тотал (3) Б",
+    "odds": 1.95,
+    "comment": "Касима на выезде в последнем матче отгрузили Кавасаки три, Кофу из второго дивизиона",
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1790102353182,
-    "eventName": "Питтсбург — Детройт",
-    "discipline": "Хоккей",
+    "id": 1790122311582,
+    "eventName": "Се Симабукуро — Уго Гастон",
+    "discipline": "Футбол",
     "tournament": "Чемпионат",
     "expert": {
-      "name": "Fyodor Mironov",
-      "avatar": "https://bookmaker-ratings.ru/static/images/badges/novice-letter.svg?v=30092024",
+      "name": "Павел Кириченко",
+      "avatar": "https://static-uploads.prod.bookmaker-ratings.ru/2023/11/Kirichenko.png?width=60",
       "status": "expert",
-      "winRate": 89
+      "winRate": 78
     },
-    "prediction": "Победа 2",
-    "odds": 3.3,
-    "comment": "Комментарий к прогнозу",
+    "prediction": "Тотал тайбрейков Меньше (0.5)",
+    "odds": 1.5,
+    "comment": "Се Симабукуро и Уго Гастон встретятся в первом круге турнира АТР в Ханчжоу. Гастон обладает слабой подачей, играет очень нестабильный и зачастую качельные матчи. Когда на корте такой игрок, то стабильных холдов подач ждать странно. Симабукуро в этом компоненте более стабилен, но японец тоже не может похвастать слишком серьезным преимуществом от подачи. Считаю, что линия на тоталы на этот матч не совсем корректная и ближе к игре коэффициенты на два предложенных выбора будут котироваться заметно ниже.",
     "source": "Sports Analytics Pro"
   }
 ]
