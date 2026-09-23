@@ -1,6 +1,6 @@
 [
   {
-    "id": 1790142128906,
+    "id": 1790161855326,
     "eventName": "Матч",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -16,55 +16,23 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1790142128908,
+    "id": 1790161855328,
     "eventName": "Матч",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
     "expert": {
-      "name": "Кашима Антлерс",
+      "name": "Металлург Новокузнецк",
       "avatar": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=100&h=100&fit=crop",
       "status": "expert",
-      "winRate": 82
+      "winRate": 68
     },
-    "prediction": "Тотал (3) Б",
-    "odds": 1.95,
+    "prediction": "Тотал (4.5) Б",
+    "odds": 1.78,
     "comment": "Комментарий к прогнозу",
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1790142128909,
-    "eventName": "Матч",
-    "discipline": "Футбол",
-    "tournament": "Чемпионат",
-    "expert": {
-      "name": "Киото Санга",
-      "avatar": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=100&h=100&fit=crop",
-      "status": "expert",
-      "winRate": 71
-    },
-    "prediction": "Тотал (1.5) Б",
-    "odds": 1.23,
-    "comment": "Комментарий к прогнозу",
-    "source": "Sports Analytics Pro"
-  },
-  {
-    "id": 1790142128910,
-    "eventName": "Матч",
-    "discipline": "Футбол",
-    "tournament": "Чемпионат",
-    "expert": {
-      "name": "Касива Рейсол",
-      "avatar": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=100&h=100&fit=crop",
-      "status": "expert",
-      "winRate": 89
-    },
-    "prediction": "Тотал (2.5) Б",
-    "odds": 1.4,
-    "comment": "Комментарий к прогнозу",
-    "source": "Sports Analytics Pro"
-  },
-  {
-    "id": 1790142128911,
+    "id": 1790161855329,
     "eventName": "Матч",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -74,13 +42,77 @@
       "status": "expert",
       "winRate": 81
     },
-    "prediction": "Обе забьют - Нет",
-    "odds": 1.6,
+    "prediction": "Тотал (2.5) Б",
+    "odds": 2.35,
     "comment": "Комментарий к прогнозу",
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1790142128912,
+    "id": 1790161855330,
+    "eventName": "Матч",
+    "discipline": "Футбол",
+    "tournament": "Чемпионат",
+    "expert": {
+      "name": "Салават Юлаев",
+      "avatar": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=100&h=100&fit=crop",
+      "status": "expert",
+      "winRate": 76
+    },
+    "prediction": "Фора 2 (0)",
+    "odds": 1.55,
+    "comment": "Комментарий к прогнозу",
+    "source": "Sports Analytics Pro"
+  },
+  {
+    "id": 1790161855331,
+    "eventName": "Матч",
+    "discipline": "Футбол",
+    "tournament": "Чемпионат",
+    "expert": {
+      "name": "Бирмингем Легион",
+      "avatar": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=100&h=100&fit=crop",
+      "status": "expert",
+      "winRate": 82
+    },
+    "prediction": "Тотал (2.5) Б",
+    "odds": 1.48,
+    "comment": "Комментарий к прогнозу",
+    "source": "Sports Analytics Pro"
+  },
+  {
+    "id": 1790161855332,
+    "eventName": "Матч",
+    "discipline": "Футбол",
+    "tournament": "Чемпионат",
+    "expert": {
+      "name": "Унион Ла",
+      "avatar": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=100&h=100&fit=crop",
+      "status": "expert",
+      "winRate": 86
+    },
+    "prediction": "Тотал (2.5) Б",
+    "odds": 1.91,
+    "comment": "Комментарий к прогнозу",
+    "source": "Sports Analytics Pro"
+  },
+  {
+    "id": 1790161855333,
+    "eventName": "Мамонты Югры — Красноярские Рыси",
+    "discipline": "Хоккей",
+    "tournament": "Чемпионат",
+    "expert": {
+      "name": "Мамонты Югры",
+      "avatar": "https://s3-static-prod.storage.yandexcloud.net/2026/09/2026-09-2313-18-10-rb-webp-520777485b88-c9159ea8dad0.webp",
+      "status": "expert",
+      "winRate": 74
+    },
+    "prediction": "Победа 1",
+    "odds": 1.4,
+    "comment": "Комментарий к прогнозу",
+    "source": "Sports Analytics Pro"
+  },
+  {
+    "id": 1790161855334,
     "eventName": "Ауд — Хеверле Лёвен Ж - Рома Ж",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -92,71 +124,39 @@
     },
     "prediction": "Тотал 1-го тайма (1) Б",
     "odds": 1.56,
-    "comment": "Не забили хотя бы 1 гол Ауд-Хеверле Левен лишь в 1/8 последних домашних матчах ЛЧ, а Рома лишь в 3/19 последних выездных матчах ЛЧ.",
+    "comment": "Не забили хотя бы 1 гол Ауд-Хеверле Левен лишь в 1/8 последних домашних матчах ЛЧ, а Рома лишь в 3/19 последних выездных матчах ЛЧ. Скачай приложение РБ и получай Push-уведомления о прогнозах выбранных экспертов Скачай мобильное приложение Рейтинг Букмекеров и мгновенно получай Push-уведомления о новых прогнозах выбранных экспертов Скачай мобильное приложение по ссылке или QR-коду и мгновенно получай Push-уведомления о новых прогнозах выбранных экспертов",
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1790142128913,
-    "eventName": "Мирра Андреева — Александра Саснович",
-    "discipline": "Футбол",
+    "id": 1790161855335,
+    "eventName": "Металлург Новокузнецк — Зауралье",
+    "discipline": "Хоккей",
     "tournament": "Чемпионат",
     "expert": {
-      "name": "Мирра Андреева",
-      "avatar": "https://static-uploads.prod.bookmaker-ratings.ru/2026/08/logo-rb-webp-6a79ca6c62514-6a79ca6cb2edd.webp?width=60",
+      "name": "Anar Namazov",
+      "avatar": "https://bookmaker-ratings.ru/static/images/badges/novice-letter.svg?v=30092024",
       "status": "expert",
-      "winRate": 85
+      "winRate": 78
     },
-    "prediction": "Эйсы Ф1 (0)",
-    "odds": 1.63,
-    "comment": "Смотрим статистику выступления участниц предстоящего матча на харде за последний год. Мирра Андреева в среднем за гейм выполняет 0,26 эйса, при этом от своих соперниц пропускает с частотой 0,16 эйса за гейм. Александра Саснович делает 0,26 эйса за гейм, а пропускает 0,28 эйса за гейм. Как видите, силы соперниц на своей подаче равны, зато у российской теннисистки есть существенное преимущество на приеме. За время своей профессиональной карьеры теннисистки играли друг против друга только один раз. Матч состоялся в 2024 году на грунте. Тогда Андреева победила по эйсам с минимальным отрывом 1-0. Однако замечу, что выполнять подачи навылет сложнее, чем на харде. Так что ставим на нулевую фору по эйсам в пользу Мирры Андреевой.",
+    "prediction": "Тотал (4.5) Б",
+    "odds": 1.78,
+    "comment": "Комментарий к прогнозу",
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1790142128914,
+    "id": 1790161855336,
     "eventName": "Матч",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
     "expert": {
-      "name": "Bet Tennis",
-      "avatar": "https://s3-static-prod.storage.yandexcloud.net/2026/09/photo2026-09-2015-19-53-rb-webp-b975e4287159-41fc2506eb01.webp",
+      "name": "Андрей Westone",
+      "avatar": "https://bookmaker-ratings.ru/static/images/badges/novice-letter.svg?v=30092024",
       "status": "expert",
       "winRate": 82
     },
-    "prediction": "Тотал (24.5) М (геймы)",
-    "odds": 1.74,
-    "comment": "бк уже начал закладывать больше вероятность. к тому-же 19-22 гейма отличный расклад",
-    "source": "Sports Analytics Pro"
-  },
-  {
-    "id": 1790142128915,
-    "eventName": "Кашима Антлерс — Вентфорет",
-    "discipline": "Футбол",
-    "tournament": "Чемпионат",
-    "expert": {
-      "name": "Светлана За",
-      "avatar": "https://bookmaker-ratings.ru/static/images/badges/novice-letter.svg?v=30092024",
-      "status": "expert",
-      "winRate": 73
-    },
-    "prediction": "Тотал (3) Б",
-    "odds": 1.95,
-    "comment": "Касима на выезде в последнем матче отгрузили Кавасаки три, Кофу из второго дивизиона",
-    "source": "Sports Analytics Pro"
-  },
-  {
-    "id": 1790142128916,
-    "eventName": "Серветт Ж — Лион Ж",
-    "discipline": "Футбол",
-    "tournament": "Чемпионат",
-    "expert": {
-      "name": "Артур Галкин",
-      "avatar": "https://bookmaker-ratings.ru/static/images/badges/forecaster-letter.svg?v=30092024",
-      "status": "expert",
-      "winRate": 68
-    },
-    "prediction": "Фора 1 (+5)",
-    "odds": 1.5,
-    "comment": "Ожидаю, что Серветт не развалится, как французские середняки, которых разгромил Лион в начале этого сезона.",
+    "prediction": "Фора 2 (-1.5)",
+    "odds": 1.71,
+    "comment": "Краснодар с легкостью пройдет рубин и отгрузит минимум 3 мяча",
     "source": "Sports Analytics Pro"
   }
 ]
