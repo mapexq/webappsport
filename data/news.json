@@ -1,5 +1,61 @@
 [
   {
+    "id": "75392284e49045be",
+    "title": "Команды Клоппа и Хави сыграли вничью в дебютном матче во главе сборных",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/0/03/347902810125030.jpeg",
+    "teaser": "Команды Клоппа и Хави сыграли вничью в дебютном матче во главе сборных",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6ab57c499a79477fe2364171",
+    "publishedAt": "2026-09-24T20:59:48.000Z",
+    "createdAt": "2026-09-24T22:09:56.035Z",
+    "updatedAt": "2026-09-24T22:09:56.035Z"
+  },
+  {
+    "id": "1f7cbdc72d8bc875",
+    "title": "Athletic узнал об отмене Nike съемки с обладателем «Золотого мяча»",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/5/73/347902750734735.jpeg",
+    "teaser": "Athletic узнал об отмене Nike съемки с обладателем «Золотого мяча»",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6ab568389a79470e57b564a8",
+    "publishedAt": "2026-09-24T19:58:37.000Z",
+    "createdAt": "2026-09-24T22:09:56.999Z",
+    "updatedAt": "2026-09-24T22:09:56.999Z"
+  },
+  {
+    "id": "616ce2d872c01ad1",
+    "title": "Московское «Динамо» победило в овертайме, сравняв на последних секундах",
+    "sport": "Хоккей",
+    "category": "Хоккей",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/1/89/347902774824891.jpeg",
+    "teaser": "Московское «Динамо» победило в овертайме, сравняв на последних секундах",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6ab570e09a794728ff4a05d0",
+    "publishedAt": "2026-09-24T19:51:49.000Z",
+    "createdAt": "2026-09-24T22:09:57.912Z",
+    "updatedAt": "2026-09-24T22:09:57.912Z"
+  },
+  {
+    "id": "26b0a7032b5be6a8",
+    "title": "The Ring узнал, что бой Фьюри — Джошуа будет за освобожденный Усиком пояс",
+    "sport": "Единоборства",
+    "category": "Единоборства",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/1/81/347902757057811.png",
+    "teaser": "The Ring узнал, что бой Фьюри — Джошуа будет за освобожденный Усиком пояс",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6ab569929a7947415416ecef",
+    "publishedAt": "2026-09-24T18:52:41.000Z",
+    "createdAt": "2026-09-24T22:09:58.879Z",
+    "updatedAt": "2026-09-24T22:09:58.879Z"
+  },
+  {
     "id": "e7e7b3f269595650",
     "title": "Молодежка «Балтики» забила гол, вбросив мяч после кульбита из аута",
     "sport": "Футбол",
@@ -10,8 +66,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6ab561da9a7947fb53d34b68",
     "publishedAt": "2026-09-24T18:11:13.000Z",
-    "createdAt": "2026-09-24T18:55:37.425Z",
-    "updatedAt": "2026-09-24T18:55:37.425Z"
+    "createdAt": "2026-09-24T22:09:59.851Z",
+    "updatedAt": "2026-09-24T22:09:59.851Z"
   },
   {
     "id": "68ab7fccfd36e3d3",
@@ -24,22 +80,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6ab55b509a79473fa73961df",
     "publishedAt": "2026-09-24T17:44:18.000Z",
-    "createdAt": "2026-09-24T18:55:36.427Z",
-    "updatedAt": "2026-09-24T18:55:36.427Z"
-  },
-  {
-    "id": "27351cda2b3fafc4",
-    "title": "Россиянка победила украинку в финале чемпионата Европы по боксу",
-    "sport": "Единоборства",
-    "category": "Единоборства",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/3/28/347902685299283.png",
-    "teaser": "Россиянка победила украинку в финале чемпионата Европы по боксу",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6ab553679a7947ce79cd1ac8",
-    "publishedAt": "2026-09-24T17:08:17.000Z",
-    "createdAt": "2026-09-24T18:55:44.335Z",
-    "updatedAt": "2026-09-24T18:55:44.335Z"
+    "createdAt": "2026-09-24T22:10:00.813Z",
+    "updatedAt": "2026-09-24T22:10:00.813Z"
   },
   {
     "id": "ec3c7a9a0b90406b",
@@ -52,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6ab549b19a794775ed93bf65",
     "publishedAt": "2026-09-24T16:55:56.000Z",
-    "createdAt": "2026-09-24T18:55:38.391Z",
-    "updatedAt": "2026-09-24T18:55:38.391Z"
+    "createdAt": "2026-09-24T22:10:01.796Z",
+    "updatedAt": "2026-09-24T22:10:01.796Z"
   },
   {
     "id": "b84cec395cbd8ab5",
@@ -66,50 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6ab54e949a7947e4141ab808",
     "publishedAt": "2026-09-24T16:48:36.000Z",
-    "createdAt": "2026-09-24T18:55:39.527Z",
-    "updatedAt": "2026-09-24T18:55:39.527Z"
-  },
-  {
-    "id": "c5f854bfe15bd5a0",
-    "title": "Потерявший отца игрок НХЛ Кузьменко прилетит в Россию",
-    "sport": "Хоккей",
-    "category": "Хоккей",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/3/05/347902655722053.jpeg",
-    "teaser": "Потерявший отца игрок НХЛ Кузьменко прилетит в Россию",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6ab543bf9a7947f5dc0528cc",
-    "publishedAt": "2026-09-24T16:05:49.000Z",
-    "createdAt": "2026-09-24T18:55:45.409Z",
-    "updatedAt": "2026-09-24T18:55:45.409Z"
-  },
-  {
-    "id": "31b8eb7c0cf6175f",
-    "title": "Овечкин провел первую полноценную тренировку после травмы",
-    "sport": "Хоккей",
-    "category": "Хоккей",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/2/00/347902629559002.jpeg",
-    "teaser": "Овечкин провел первую полноценную тренировку после травмы",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6ab53ea19a7947813306199b",
-    "publishedAt": "2026-09-24T15:44:40.000Z",
-    "createdAt": "2026-09-24T18:55:40.585Z",
-    "updatedAt": "2026-09-24T18:55:40.585Z"
-  },
-  {
-    "id": "4217bf6da047fb13",
-    "title": "Euractiv узнал о планах ЕС затруднить возвращение российских спортсменов",
-    "sport": "Другое",
-    "category": "Другие",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/0/14/347902623063140.jpeg",
-    "teaser": "Euractiv узнал о планах ЕС затруднить возвращение российских спортсменов",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6ab5379f9a794721c1448dc0",
-    "publishedAt": "2026-09-24T15:19:39.000Z",
-    "createdAt": "2026-09-24T18:55:46.489Z",
-    "updatedAt": "2026-09-24T18:55:46.489Z"
+    "createdAt": "2026-09-24T22:10:04.854Z",
+    "updatedAt": "2026-09-24T22:10:04.854Z"
   },
   {
     "id": "143d3d570fb3c66e",
@@ -122,8 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6ab406179a7947151327ddaf",
     "publishedAt": "2026-09-24T05:15:00.000Z",
-    "createdAt": "2026-09-24T18:55:41.646Z",
-    "updatedAt": "2026-09-24T18:55:41.646Z"
+    "createdAt": "2026-09-24T22:10:02.826Z",
+    "updatedAt": "2026-09-24T22:10:02.826Z"
   },
   {
     "id": "01bf58a2ca887618",
@@ -136,7 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6ab3f3939a7947503930b221",
     "publishedAt": "2026-09-24T04:00:02.000Z",
-    "createdAt": "2026-09-24T18:55:42.721Z",
-    "updatedAt": "2026-09-24T18:55:42.721Z"
+    "createdAt": "2026-09-24T22:10:03.856Z",
+    "updatedAt": "2026-09-24T22:10:03.856Z"
   }
 ]
