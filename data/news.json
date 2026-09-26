@@ -1,5 +1,75 @@
 [
   {
+    "id": "7fcb0e4c44ae4419",
+    "title": "В Москве прошел прощальный матч экс-футболиста ЦСКА Вагнера Лава",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/4/96/347904489731964.jpeg",
+    "teaser": "В Москве прошел прощальный матч экс-футболиста ЦСКА Вагнера Лава",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6ab814259a7947936290c9e4",
+    "publishedAt": "2026-09-26T18:55:43.000Z",
+    "createdAt": "2026-09-26T19:43:21.110Z",
+    "updatedAt": "2026-09-26T19:43:21.110Z"
+  },
+  {
+    "id": "6d3d9f9e3b418662",
+    "title": "Павел Колобков заявил, что шахматный мир соскучился по России",
+    "sport": "Другое",
+    "category": "Другие",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/2/85/347904474824852.jpeg",
+    "teaser": "Павел Колобков заявил, что шахматный мир соскучился по России",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6ab80f4c9a7947936290c9d9",
+    "publishedAt": "2026-09-26T18:40:24.000Z",
+    "createdAt": "2026-09-26T19:43:23.105Z",
+    "updatedAt": "2026-09-26T19:43:23.105Z"
+  },
+  {
+    "id": "46b7a97311854ba6",
+    "title": "Роберто Карлос заявил, что лишился заработанных за карьеру €160 млн",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/0/14/347904433292140.jpeg",
+    "teaser": "Роберто Карлос заявил, что лишился заработанных за карьеру €160 млн",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6ab7ff059a7947e715631c00",
+    "publishedAt": "2026-09-26T17:34:26.000Z",
+    "createdAt": "2026-09-26T19:43:22.135Z",
+    "updatedAt": "2026-09-26T19:43:22.135Z"
+  },
+  {
+    "id": "630468c26aa0769e",
+    "title": "Мбаппе избежал серьезной травмы колена",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/0/67/347904425866670.jpeg",
+    "teaser": "Мбаппе избежал серьезной травмы колена",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6ab7fc279a7947254e0c7254",
+    "publishedAt": "2026-09-26T17:16:25.000Z",
+    "createdAt": "2026-09-26T19:43:26.382Z",
+    "updatedAt": "2026-09-26T19:43:26.382Z"
+  },
+  {
+    "id": "f79fc494a601ac2c",
+    "title": "Российские волейбольные клубы допустили к еврокубкам с сезона 2027/28",
+    "sport": "Другое",
+    "category": "Другие",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/5/50/347904416722505.jpeg",
+    "teaser": "Российские волейбольные клубы допустили к еврокубкам с сезона 2027/28",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6ab7f89c9a79472d61ec128f",
+    "publishedAt": "2026-09-26T17:05:29.000Z",
+    "createdAt": "2026-09-26T19:43:27.455Z",
+    "updatedAt": "2026-09-26T19:43:27.455Z"
+  },
+  {
     "id": "fc5e921e004fdd72",
     "title": "Победа Расселла в Баку вошла в топ-10 самых близких финишей в истории F1",
     "sport": "Другое",
@@ -10,8 +80,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6ab7f4259a794765a32ab17a",
     "publishedAt": "2026-09-26T16:44:03.000Z",
-    "createdAt": "2026-09-26T16:58:59.249Z",
-    "updatedAt": "2026-09-26T16:58:59.249Z"
+    "createdAt": "2026-09-26T19:43:28.514Z",
+    "updatedAt": "2026-09-26T19:43:28.514Z"
   },
   {
     "id": "44823607ae343ecf",
@@ -24,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6ab7edbd9a794743f705aaae",
     "publishedAt": "2026-09-26T16:19:32.000Z",
-    "createdAt": "2026-09-26T16:59:00.186Z",
-    "updatedAt": "2026-09-26T16:59:00.186Z"
+    "createdAt": "2026-09-26T19:43:29.617Z",
+    "updatedAt": "2026-09-26T19:43:29.617Z"
   },
   {
     "id": "eb7657490535d64b",
@@ -38,8 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6ab3b1719a794749ab4fa81f",
     "publishedAt": "2026-09-26T15:56:08.000Z",
-    "createdAt": "2026-09-26T16:59:04.321Z",
-    "updatedAt": "2026-09-26T16:59:04.321Z"
+    "createdAt": "2026-09-26T19:43:25.269Z",
+    "updatedAt": "2026-09-26T19:43:25.269Z"
   },
   {
     "id": "02365104a8170748",
@@ -52,64 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6ab7e7e69a7947ac7b5a79c3",
     "publishedAt": "2026-09-26T15:49:21.000Z",
-    "createdAt": "2026-09-26T16:59:01.233Z",
-    "updatedAt": "2026-09-26T16:59:01.233Z"
-  },
-  {
-    "id": "99800ebbcd6ed42f",
-    "title": "Сборная Ирландии решила не бойкотировать матч против Израиля в Лиге наций",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/1/10/347904334699101.jpeg",
-    "teaser": "Сборная Ирландии решила не бойкотировать матч против Израиля в Лиге наций",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6ab7d5f09a7947a76887cb4f",
-    "publishedAt": "2026-09-26T14:47:29.000Z",
-    "createdAt": "2026-09-26T16:59:02.279Z",
-    "updatedAt": "2026-09-26T16:59:02.279Z"
-  },
-  {
-    "id": "a4e06fb3ae180d57",
-    "title": "Бывшего министра спорта России избрали в руководство FIDE",
-    "sport": "Другое",
-    "category": "Другие",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/8/07/347904245250078.jpeg",
-    "teaser": "Бывшего министра спорта России избрали в руководство FIDE",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6ab7b5759a79476acff3a9ed",
-    "publishedAt": "2026-09-26T14:33:59.000Z",
-    "createdAt": "2026-09-26T16:59:05.360Z",
-    "updatedAt": "2026-09-26T16:59:05.360Z"
-  },
-  {
-    "id": "2e30d7b8222170b2",
-    "title": "Новый глава FIDE ответил, как будет решать вопрос с отстранением России",
-    "sport": "Другое",
-    "category": "Другие",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/2/07/347904315598072.jpeg",
-    "teaser": "Новый глава FIDE ответил, как будет решать вопрос с отстранением России",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6ab7d0fc9a7947d097f9e65a",
-    "publishedAt": "2026-09-26T14:14:28.000Z",
-    "createdAt": "2026-09-26T16:59:06.403Z",
-    "updatedAt": "2026-09-26T16:59:06.403Z"
-  },
-  {
-    "id": "fed6b79296622329",
-    "title": "«Металлург» победил «Ак Барс» и вышел в лидеры Восточной конференции КХЛ",
-    "sport": "Хоккей",
-    "category": "Хоккей",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/3/83/347904297991833.jpeg",
-    "teaser": "«Металлург» победил «Ак Барс» и вышел в лидеры Восточной конференции КХЛ",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6ab7ca359a7947d097f9e654",
-    "publishedAt": "2026-09-26T13:44:20.000Z",
-    "createdAt": "2026-09-26T16:59:07.407Z",
-    "updatedAt": "2026-09-26T16:59:07.407Z"
+    "createdAt": "2026-09-26T19:43:30.589Z",
+    "updatedAt": "2026-09-26T19:43:30.589Z"
   },
   {
     "id": "cfca029f99c9b1f7",
@@ -122,21 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6ab797679a7947254e0c71e9",
     "publishedAt": "2026-09-26T13:30:32.000Z",
-    "createdAt": "2026-09-26T16:59:03.324Z",
-    "updatedAt": "2026-09-26T16:59:03.324Z"
-  },
-  {
-    "id": "1039d25e6e1358d6",
-    "title": "Медведев седьмой раз в сезоне вышел в четвертьфинал турнира ATP",
-    "sport": "Теннис",
-    "category": "Теннис",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/6/05/347904288944056.jpeg",
-    "teaser": "Медведев седьмой раз в сезоне вышел в четвертьфинал турнира ATP",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6ab7c6a99a7947e06f2f4d1f",
-    "publishedAt": "2026-09-26T13:26:33.000Z",
-    "createdAt": "2026-09-26T16:59:08.459Z",
-    "updatedAt": "2026-09-26T16:59:08.459Z"
+    "createdAt": "2026-09-26T19:43:24.216Z",
+    "updatedAt": "2026-09-26T19:43:24.216Z"
   }
 ]
