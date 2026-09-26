@@ -1,6 +1,6 @@
 [
   {
-    "id": 1790451794668,
+    "id": 1790462077303,
     "eventName": "Германия — Греция",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -16,7 +16,7 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1790451794669,
+    "id": 1790462077304,
     "eventName": "Сербия — Нидерланды",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -32,23 +32,7 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1790451794670,
-    "eventName": "США — Перу",
-    "discipline": "Футбол",
-    "tournament": "Чемпионат",
-    "expert": {
-      "name": "Akhmad Akhokhov",
-      "avatar": "https://static-uploads.prod.bookmaker-ratings.ru/2026/09/92cb4f89-a73a-4f52-89fc-c576b8f32734-rb-webp-6aa94cdf063ac-6aa94cdf0e926.webp?width=60",
-      "status": "expert",
-      "winRate": 73
-    },
-    "prediction": "Ф1(-1)",
-    "odds": 1.88,
-    "comment": "Американцы впечатлили на домашнем мундиале, вполне вероятно что сумеют выиграть у перуанцев",
-    "source": "Sports Analytics Pro"
-  },
-  {
-    "id": 1790451794671,
+    "id": 1790462077305,
     "eventName": "Матч",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -64,23 +48,23 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1790451794672,
-    "eventName": "Матч",
-    "discipline": "Футбол",
+    "id": 1790462077306,
+    "eventName": "Барыс — СКА",
+    "discipline": "Хоккей",
     "tournament": "Чемпионат",
     "expert": {
-      "name": "Сан Паоло",
-      "avatar": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=100&h=100&fit=crop",
+      "name": "Александр Чистов",
+      "avatar": "https://static-uploads.prod.bookmaker-ratings.ru/2026/09/1f226c6f-c85f-43be-aafc-00c350f1adce-rb-webp-6a9d9703d8344-6a9d9703e3249.webp?width=60",
       "status": "expert",
-      "winRate": 80
+      "winRate": 86
     },
-    "prediction": "Тотал (2.5) Б",
-    "odds": 2.1,
-    "comment": "Комментарий к прогнозу",
+    "prediction": "Фора 2 (-1)",
+    "odds": 2.45,
+    "comment": "Думаю завтра будет унижение первого легионерского звена Барыски , слишком нос они задрали ) Скачай приложение РБ и получай Push-уведомления о прогнозах выбранных экспертов Скачай мобильное приложение Рейтинг Букмекеров и мгновенно получай Push-уведомления о новых прогнозах выбранных экспертов Скачай мобильное приложение по ссылке или QR-коду и мгновенно получай Push-уведомления о новых прогнозах выбранных экспертов",
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1790451794673,
+    "id": 1790462077307,
     "eventName": "Норвегия — Португалия",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
