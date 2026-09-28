@@ -1,6 +1,6 @@
 [
   {
-    "id": 1790546186593,
+    "id": 1790555388846,
     "eventName": "Турция — Италия",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -16,23 +16,23 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1790546186594,
-    "eventName": "Матч",
+    "id": 1790555388847,
+    "eventName": "Грузия — Украина",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
     "expert": {
-      "name": "Клуб Депортес",
-      "avatar": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=100&h=100&fit=crop",
+      "name": "Polina Saraeva",
+      "avatar": "https://bookmaker-ratings.ru/static/images/badges/novice-letter.svg?v=30092024",
       "status": "expert",
-      "winRate": 77
+      "winRate": 68
     },
-    "prediction": "Тотал (2) Б",
-    "odds": 1.45,
-    "comment": "Комментарий к прогнозу",
+    "prediction": "Победа 1",
+    "odds": 2.7,
+    "comment": "Украина подустала в связи с событиями всем известно какими",
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1790546186595,
+    "id": 1790555388848,
     "eventName": "Испания — Хорватия",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
