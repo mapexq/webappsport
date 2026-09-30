@@ -1,6 +1,6 @@
 [
   {
-    "id": 1790714124660,
+    "id": 1790727160755,
     "eventName": "США — Чили",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -16,39 +16,7 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1790714124661,
-    "eventName": "Матч",
-    "discipline": "Футбол",
-    "tournament": "Чемпионат",
-    "expert": {
-      "name": "Салават Юлаев",
-      "avatar": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=100&h=100&fit=crop",
-      "status": "expert",
-      "winRate": 76
-    },
-    "prediction": "Индивидуальный тотал 2 Меньше (4.5)",
-    "odds": 1.25,
-    "comment": "Комментарий к прогнозу",
-    "source": "Sports Analytics Pro"
-  },
-  {
-    "id": 1790714124662,
-    "eventName": "Матч",
-    "discipline": "Футбол",
-    "tournament": "Чемпионат",
-    "expert": {
-      "name": "Тотал Перу",
-      "avatar": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=100&h=100&fit=crop",
-      "status": "expert",
-      "winRate": 82
-    },
-    "prediction": "Тотал Перу больше (0.5)",
-    "odds": 1.87,
-    "comment": "Комментарий к прогнозу",
-    "source": "Sports Analytics Pro"
-  },
-  {
-    "id": 1790714124663,
+    "id": 1790727160756,
     "eventName": "Матч",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -64,7 +32,39 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1790714124664,
+    "id": 1790727160757,
+    "eventName": "Матч",
+    "discipline": "Футбол",
+    "tournament": "Чемпионат",
+    "expert": {
+      "name": "Салават Юлаев",
+      "avatar": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=100&h=100&fit=crop",
+      "status": "expert",
+      "winRate": 76
+    },
+    "prediction": "Индивидуальный тотал 2 Меньше (4.5)",
+    "odds": 1.25,
+    "comment": "Комментарий к прогнозу",
+    "source": "Sports Analytics Pro"
+  },
+  {
+    "id": 1790727160758,
+    "eventName": "Матч",
+    "discipline": "Футбол",
+    "tournament": "Чемпионат",
+    "expert": {
+      "name": "Тотал Перу",
+      "avatar": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=100&h=100&fit=crop",
+      "status": "expert",
+      "winRate": 82
+    },
+    "prediction": "Тотал Перу больше (0.5)",
+    "odds": 1.87,
+    "comment": "Комментарий к прогнозу",
+    "source": "Sports Analytics Pro"
+  },
+  {
+    "id": 1790727160759,
     "eventName": "Дарья Видманова — Мария Тимофеева",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -80,7 +80,23 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1790714124665,
+    "id": 1790727160760,
+    "eventName": "Вегас — Чикаго",
+    "discipline": "Хоккей",
+    "tournament": "НХЛ",
+    "expert": {
+      "name": "Александр Сергеевич",
+      "avatar": "https://bookmaker-ratings.ru/static/images/badges/novice-letter.svg?v=30092024",
+      "status": "expert",
+      "winRate": 82
+    },
+    "prediction": "Победа 2",
+    "odds": 4.2,
+    "comment": "Скачай приложение РБ и получай Push-уведомления о прогнозах выбранных экспертов Скачай мобильное приложение Рейтинг Букмекеров и мгновенно получай Push-уведомления о новых прогнозах выбранных экспертов Скачай мобильное приложение по ссылке или QR-коду и мгновенно получай Push-уведомления о новых прогнозах выбранных экспертов",
+    "source": "Sports Analytics Pro"
+  },
+  {
+    "id": 1790727160761,
     "eventName": "Панатинаикос — АСВЕЛ",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -96,23 +112,7 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1790714124666,
-    "eventName": "Вегас — Чикаго",
-    "discipline": "Хоккей",
-    "tournament": "НХЛ",
-    "expert": {
-      "name": "Александр Сергеевич",
-      "avatar": "https://bookmaker-ratings.ru/static/images/badges/novice-letter.svg?v=30092024",
-      "status": "expert",
-      "winRate": 82
-    },
-    "prediction": "Победа 2",
-    "odds": 4.2,
-    "comment": "Комментарий к прогнозу",
-    "source": "Sports Analytics Pro"
-  },
-  {
-    "id": 1790714124667,
+    "id": 1790727160762,
     "eventName": "Маккаби — Бешикташ",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
