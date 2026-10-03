@@ -1,5 +1,75 @@
 [
   {
+    "id": "9c8988c888a41f39",
+    "title": "Трехкратному олимпийскому чемпиону лыжнику Нисканену диагностировали рак",
+    "sport": "Другое",
+    "category": "Другие",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/6/93/347910513203936.jpeg",
+    "teaser": "Трехкратному олимпийскому чемпиону лыжнику Нисканену диагностировали рак",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6ac146199a794784e78d5d41",
+    "publishedAt": "2026-10-03T18:26:50.000Z",
+    "createdAt": "2026-10-03T20:51:14.622Z",
+    "updatedAt": "2026-10-03T20:51:14.622Z"
+  },
+  {
+    "id": "2ff13c47024fc194",
+    "title": "Сборная Англии нанесла Хорватии крупнейшее поражение в ее истории",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/1/67/347910494304671.jpeg",
+    "teaser": "Сборная Англии нанесла Хорватии крупнейшее поражение в ее истории",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6ac13e929a79474ae468082b",
+    "publishedAt": "2026-10-03T17:56:20.000Z",
+    "createdAt": "2026-10-03T20:51:13.782Z",
+    "updatedAt": "2026-10-03T20:51:13.782Z"
+  },
+  {
+    "id": "191e9548015108e3",
+    "title": "Сборная России по футболу забила шесть голов Намибии в Екатеринбурге",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/6/90/347910465447906.jpeg",
+    "teaser": "Сборная России по футболу забила шесть голов Намибии в Екатеринбурге",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6ac133679a794788b37a73a4",
+    "publishedAt": "2026-10-03T17:38:22.000Z",
+    "createdAt": "2026-10-03T20:51:15.570Z",
+    "updatedAt": "2026-10-03T20:51:15.570Z"
+  },
+  {
+    "id": "e76069d604aacb57",
+    "title": "Петросян назвала волшебством свой чистый прокат на турнире в Грузии",
+    "sport": "Другое",
+    "category": "Фигурное катание",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/7/61/347910478263617.jpeg",
+    "teaser": "Петросян назвала волшебством свой чистый прокат на турнире в Грузии",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6ac138599a7947757ac7ca66",
+    "publishedAt": "2026-10-03T17:28:27.000Z",
+    "createdAt": "2026-10-03T20:51:16.625Z",
+    "updatedAt": "2026-10-03T20:51:16.625Z"
+  },
+  {
+    "id": "583011a653f5c9b1",
+    "title": "Чемпионка мира оценила прокат Петросян на первом турнире без Тутберидзе",
+    "sport": "Другое",
+    "category": "Фигурное катание",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/6/34/347841191298346.svg",
+    "teaser": "Чемпионка мира оценила прокат Петросян на первом турнире без Тутберидзе",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6ac1312d9a7947a8f0c83d6b",
+    "publishedAt": "2026-10-03T17:23:44.000Z",
+    "createdAt": "2026-10-03T20:51:18.390Z",
+    "updatedAt": "2026-10-03T20:51:18.390Z"
+  },
+  {
     "id": "578e19c9a580c63f",
     "title": "ЦСКА выиграл восьмой матч подряд в КХЛ, победив «Динамо» по буллитам",
     "sport": "Хоккей",
@@ -10,8 +80,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6ac1292f9a7947702a6dc65d",
     "publishedAt": "2026-10-03T16:36:16.000Z",
-    "createdAt": "2026-10-03T17:07:28.936Z",
-    "updatedAt": "2026-10-03T17:07:28.936Z"
+    "createdAt": "2026-10-03T20:51:19.227Z",
+    "updatedAt": "2026-10-03T20:51:19.227Z"
   },
   {
     "id": "dbfbe271ce50ca58",
@@ -24,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6ac11c7c9a79475731c9ade4",
     "publishedAt": "2026-10-03T15:59:54.000Z",
-    "createdAt": "2026-10-03T17:07:30.895Z",
-    "updatedAt": "2026-10-03T17:07:30.895Z"
+    "createdAt": "2026-10-03T20:51:21.158Z",
+    "updatedAt": "2026-10-03T20:51:21.158Z"
   },
   {
     "id": "e2d3963e9aad91a7",
@@ -38,8 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6ac11ffe9a794765c0c0b0fb",
     "publishedAt": "2026-10-03T15:53:25.000Z",
-    "createdAt": "2026-10-03T17:07:29.823Z",
-    "updatedAt": "2026-10-03T17:07:29.823Z"
+    "createdAt": "2026-10-03T20:51:20.169Z",
+    "updatedAt": "2026-10-03T20:51:20.169Z"
   },
   {
     "id": "61f4e0ddb1045c9b",
@@ -52,8 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6ac114fa9a7947813ca05af0",
     "publishedAt": "2026-10-03T14:54:23.000Z",
-    "createdAt": "2026-10-03T17:07:31.852Z",
-    "updatedAt": "2026-10-03T17:07:31.852Z"
+    "createdAt": "2026-10-03T20:51:22.226Z",
+    "updatedAt": "2026-10-03T20:51:22.226Z"
   },
   {
     "id": "63e30b68ba40bda4",
@@ -66,77 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6ac10ecb9a79475401a55aa7",
     "publishedAt": "2026-10-03T14:21:00.000Z",
-    "createdAt": "2026-10-03T17:07:32.953Z",
-    "updatedAt": "2026-10-03T17:07:32.953Z"
-  },
-  {
-    "id": "a5ae05a52dfd6171",
-    "title": "A Bola узнала о согласии тренера на примирительную встречу с Роналду",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/8/79/347910362712798.jpeg",
-    "teaser": "A Bola узнала о согласии тренера на примирительную встречу с Роналду",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6ac10b359a79475401a55a9d",
-    "publishedAt": "2026-10-03T14:14:23.000Z",
-    "createdAt": "2026-10-03T17:07:33.945Z",
-    "updatedAt": "2026-10-03T17:07:33.945Z"
-  },
-  {
-    "id": "ecddd1f5c5090f32",
-    "title": "Даниил Медведев впервые с января 2025 года вернется в топ-5 рейтинга ATP",
-    "sport": "Теннис",
-    "category": "Теннис",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/0/34/347910328993340.jpeg",
-    "teaser": "Даниил Медведев впервые с января 2025 года вернется в топ-5 рейтинга ATP",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6ac0fe159a794730b0fc796c",
-    "publishedAt": "2026-10-03T13:15:23.000Z",
-    "createdAt": "2026-10-03T17:07:34.891Z",
-    "updatedAt": "2026-10-03T17:07:34.891Z"
-  },
-  {
-    "id": "3ac85fe51540497b",
-    "title": "Первая ракетка мира среди юниорок побила рекорд Мирры Андреевой в Пекине",
-    "sport": "Теннис",
-    "category": "Теннис",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/7/60/347910318106607.jpeg",
-    "teaser": "Первая ракетка мира среди юниорок побила рекорд Мирры Андреевой в Пекине",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6ac0f9e39a79476d34be6069",
-    "publishedAt": "2026-10-03T13:02:11.000Z",
-    "createdAt": "2026-10-03T17:07:35.890Z",
-    "updatedAt": "2026-10-03T17:07:35.890Z"
-  },
-  {
-    "id": "8ba282f9ec460754",
-    "title": "Призер юниорских чемпионатов мира по армрестлингу умер в 19 лет",
-    "sport": "Другое",
-    "category": "Другие",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/5/95/347910301543955.jpeg",
-    "teaser": "Призер юниорских чемпионатов мира по армрестлингу умер в 19 лет",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6ac0f2fe9a794748117908f9",
-    "publishedAt": "2026-10-03T12:28:38.000Z",
-    "createdAt": "2026-10-03T17:07:37.824Z",
-    "updatedAt": "2026-10-03T17:07:37.824Z"
-  },
-  {
-    "id": "c71f70e8babc91b6",
-    "title": "Фигуристы Мишина и Галлямов заняли второе место на турнире ISU в Грузии",
-    "sport": "Другое",
-    "category": "Фигурное катание",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/5/54/347910292962545.jpeg",
-    "teaser": "Фигуристы Мишина и Галлямов заняли второе место на турнире ISU в Грузии",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6ac0eba69a79475401a55a61",
-    "publishedAt": "2026-10-03T12:16:47.000Z",
-    "createdAt": "2026-10-03T17:07:36.890Z",
-    "updatedAt": "2026-10-03T17:07:36.890Z"
+    "createdAt": "2026-10-03T20:51:23.160Z",
+    "updatedAt": "2026-10-03T20:51:23.160Z"
   }
 ]
