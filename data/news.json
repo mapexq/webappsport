@@ -1,5 +1,89 @@
 [
   {
+    "id": "79c48a13e24d1866",
+    "title": "Российскому бойцу сломали челюсть на турнире UFC",
+    "sport": "Единоборства",
+    "category": "Единоборства",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/8/35/347911127844358.png",
+    "teaser": "Российскому бойцу сломали челюсть на турнире UFC",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6ac232399a794784e78d5d7f",
+    "publishedAt": "2026-10-04T11:40:32.000Z",
+    "createdAt": "2026-10-04T12:05:07.623Z",
+    "updatedAt": "2026-10-04T12:05:07.623Z"
+  },
+  {
+    "id": "05531497e6440ab3",
+    "title": "Даниил Медведев вышел в полуфинал на втором турнире ATP подряд",
+    "sport": "Теннис",
+    "category": "Теннис",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/7/41/347911055583417.jpeg",
+    "teaser": "Даниил Медведев вышел в полуфинал на втором турнире ATP подряд",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6ac21a069a7947757ac7caaa",
+    "publishedAt": "2026-10-04T10:45:35.000Z",
+    "createdAt": "2026-10-04T12:05:08.853Z",
+    "updatedAt": "2026-10-04T12:05:08.853Z"
+  },
+  {
+    "id": "236f6f7e1079a710",
+    "title": "Ферстаппен вырвал у лидера «Формулы-1» первую победу в сезоне",
+    "sport": "Другое",
+    "category": "Формула-1",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/2/17/347911096446172.jpeg",
+    "teaser": "Ферстаппен вырвал у лидера «Формулы-1» первую победу в сезоне",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6ac219ab9a7947757ac7caa7",
+    "publishedAt": "2026-10-04T10:29:43.000Z",
+    "createdAt": "2026-10-04T12:05:10.659Z",
+    "updatedAt": "2026-10-04T12:05:10.659Z"
+  },
+  {
+    "id": "1afdc4df6f664a7a",
+    "title": "Евгений Малкин повторил 58-летнее достижение Горди Хоу в НХЛ",
+    "sport": "Хоккей",
+    "category": "Хоккей",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/6/20/347911081762206.jpeg",
+    "teaser": "Евгений Малкин повторил 58-летнее достижение Горди Хоу в НХЛ",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6ac224219a794723f5ddfa56",
+    "publishedAt": "2026-10-04T10:15:53.000Z",
+    "createdAt": "2026-10-04T12:05:09.821Z",
+    "updatedAt": "2026-10-04T12:05:09.821Z"
+  },
+  {
+    "id": "2c425cfe01bceb02",
+    "title": "Российский вратарь сделал 37 сейвов и стал лучшим игроком дня в НХЛ",
+    "sport": "Хоккей",
+    "category": "Хоккей",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/2/42/347911059850422.jpeg",
+    "teaser": "Российский вратарь сделал 37 сейвов и стал лучшим игроком дня в НХЛ",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6ac21b229a794746e8508a11",
+    "publishedAt": "2026-10-04T09:42:22.000Z",
+    "createdAt": "2026-10-04T12:05:11.678Z",
+    "updatedAt": "2026-10-04T12:05:11.678Z"
+  },
+  {
+    "id": "b284e75a34000285",
+    "title": "Рублев не смог выйти в полуфинал крупного турнира в Пекине",
+    "sport": "Теннис",
+    "category": "Теннис",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/9/01/347911045646019.jpeg",
+    "teaser": "Рублев не смог выйти в полуфинал крупного турнира в Пекине",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6ac216099a79472e8a098ae1",
+    "publishedAt": "2026-10-04T09:15:39.000Z",
+    "createdAt": "2026-10-04T12:05:12.856Z",
+    "updatedAt": "2026-10-04T12:05:12.856Z"
+  },
+  {
     "id": "9c8988c888a41f39",
     "title": "Трехкратному олимпийскому чемпиону лыжнику Нисканену диагностировали рак",
     "sport": "Другое",
@@ -10,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6ac146199a794784e78d5d41",
     "publishedAt": "2026-10-03T18:26:50.000Z",
-    "createdAt": "2026-10-04T05:15:54.101Z",
-    "updatedAt": "2026-10-04T05:15:54.101Z"
+    "createdAt": "2026-10-04T12:05:15.055Z",
+    "updatedAt": "2026-10-04T12:05:15.055Z"
   },
   {
     "id": "2ff13c47024fc194",
@@ -24,8 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6ac13e929a79474ae468082b",
     "publishedAt": "2026-10-03T17:56:20.000Z",
-    "createdAt": "2026-10-04T05:15:53.066Z",
-    "updatedAt": "2026-10-04T05:15:53.066Z"
+    "createdAt": "2026-10-04T12:05:13.936Z",
+    "updatedAt": "2026-10-04T12:05:13.936Z"
   },
   {
     "id": "191e9548015108e3",
@@ -38,8 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6ac133679a794788b37a73a4",
     "publishedAt": "2026-10-03T17:38:22.000Z",
-    "createdAt": "2026-10-04T05:15:55.262Z",
-    "updatedAt": "2026-10-04T05:15:55.262Z"
+    "createdAt": "2026-10-04T12:05:16.169Z",
+    "updatedAt": "2026-10-04T12:05:16.169Z"
   },
   {
     "id": "e76069d604aacb57",
@@ -52,91 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6ac138599a7947757ac7ca66",
     "publishedAt": "2026-10-03T17:28:27.000Z",
-    "createdAt": "2026-10-04T05:15:56.290Z",
-    "updatedAt": "2026-10-04T05:15:56.290Z"
-  },
-  {
-    "id": "583011a653f5c9b1",
-    "title": "Чемпионка мира оценила прокат Петросян на первом турнире без Тутберидзе",
-    "sport": "Другое",
-    "category": "Фигурное катание",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/6/34/347841191298346.svg",
-    "teaser": "Чемпионка мира оценила прокат Петросян на первом турнире без Тутберидзе",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6ac1312d9a7947a8f0c83d6b",
-    "publishedAt": "2026-10-03T17:23:44.000Z",
-    "createdAt": "2026-10-04T05:15:58.249Z",
-    "updatedAt": "2026-10-04T05:15:58.249Z"
-  },
-  {
-    "id": "578e19c9a580c63f",
-    "title": "ЦСКА выиграл восьмой матч подряд в КХЛ, победив «Динамо» по буллитам",
-    "sport": "Хоккей",
-    "category": "Хоккей",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/6/61/347910439466616.jpeg",
-    "teaser": "ЦСКА выиграл восьмой матч подряд в КХЛ, победив «Динамо» по буллитам",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6ac1292f9a7947702a6dc65d",
-    "publishedAt": "2026-10-03T16:36:16.000Z",
-    "createdAt": "2026-10-04T05:15:59.341Z",
-    "updatedAt": "2026-10-04T05:15:59.341Z"
-  },
-  {
-    "id": "dbfbe271ce50ca58",
-    "title": "Сборная Бразилии с капитаном «Зенита» в составе разгромила Индию",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/8/72/347910421405728.jpeg",
-    "teaser": "Сборная Бразилии с капитаном «Зенита» в составе разгромила Индию",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6ac11c7c9a79475731c9ade4",
-    "publishedAt": "2026-10-03T15:59:54.000Z",
-    "createdAt": "2026-10-04T05:16:01.945Z",
-    "updatedAt": "2026-10-04T05:16:01.945Z"
-  },
-  {
-    "id": "e2d3963e9aad91a7",
-    "title": "Петросян завоевала серебро на первом турнире после ухода от Тутберидзе",
-    "sport": "Другое",
-    "category": "Фигурное катание",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/7/84/347910416355847.jpeg",
-    "teaser": "Петросян завоевала серебро на первом турнире после ухода от Тутберидзе",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6ac11ffe9a794765c0c0b0fb",
-    "publishedAt": "2026-10-03T15:53:25.000Z",
-    "createdAt": "2026-10-04T05:16:00.528Z",
-    "updatedAt": "2026-10-04T05:16:00.528Z"
-  },
-  {
-    "id": "61f4e0ddb1045c9b",
-    "title": "Рыбакина сенсационно проиграла сменившей гражданство россиянке в Пекине",
-    "sport": "Теннис",
-    "category": "Теннис",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/7/28/347910387816287.jpeg",
-    "teaser": "Рыбакина сенсационно проиграла сменившей гражданство россиянке в Пекине",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6ac114fa9a7947813ca05af0",
-    "publishedAt": "2026-10-03T14:54:23.000Z",
-    "createdAt": "2026-10-04T05:16:03.049Z",
-    "updatedAt": "2026-10-04T05:16:03.049Z"
-  },
-  {
-    "id": "63e30b68ba40bda4",
-    "title": "Стал известен стартовый состав сборной России на матч с Намибией",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/8/01/347910373844018.jpeg",
-    "teaser": "Стал известен стартовый состав сборной России на матч с Намибией",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6ac10ecb9a79475401a55aa7",
-    "publishedAt": "2026-10-03T14:21:00.000Z",
-    "createdAt": "2026-10-04T05:16:04.149Z",
-    "updatedAt": "2026-10-04T05:16:04.149Z"
+    "createdAt": "2026-10-04T12:05:17.236Z",
+    "updatedAt": "2026-10-04T12:05:17.236Z"
   }
 ]
