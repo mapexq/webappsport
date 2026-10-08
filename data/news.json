@@ -1,5 +1,75 @@
 [
   {
+    "id": "11e9bbe22c937d75",
+    "title": "Российский фигурист превзошел мировой рекорд среди юниоров",
+    "sport": "Другое",
+    "category": "Фигурное катание",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/5/39/347914461886395.jpeg",
+    "teaser": "Российский фигурист превзошел мировой рекорд среди юниоров",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6ac749749a7947f910f82b1b",
+    "publishedAt": "2026-10-08T08:16:22.000Z",
+    "createdAt": "2026-10-08T08:39:44.822Z",
+    "updatedAt": "2026-10-08T08:39:44.822Z"
+  },
+  {
+    "id": "8602349d3efb4809",
+    "title": "На ринге в Мексике умер судья после запрещенного приема рестлера",
+    "sport": "Другое",
+    "category": "Другие",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/2/61/877914476002612.jpeg",
+    "teaser": "На ринге в Мексике умер судья после запрещенного приема рестлера",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6ac7421b9a7947b2a629ae84",
+    "publishedAt": "2026-10-08T07:47:15.000Z",
+    "createdAt": "2026-10-08T08:39:46.544Z",
+    "updatedAt": "2026-10-08T08:39:46.544Z"
+  },
+  {
+    "id": "337f9ac1a9a84e80",
+    "title": "Тренер Бенина рассказал о неприятном моменте после матча с Месси",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/9/57/347914427932579.jpeg",
+    "teaser": "Тренер Бенина рассказал о неприятном моменте после матча с Месси",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6ac73a319a79473db699be12",
+    "publishedAt": "2026-10-08T07:38:22.000Z",
+    "createdAt": "2026-10-08T08:39:49.480Z",
+    "updatedAt": "2026-10-08T08:39:49.480Z"
+  },
+  {
+    "id": "9548cfe1b1f1893d",
+    "title": "Овечкин продлил безголевую серию до трех матчей в НХЛ",
+    "sport": "Хоккей",
+    "category": "Хоккей",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/5/49/347914408794495.jpeg",
+    "teaser": "Овечкин продлил безголевую серию до трех матчей в НХЛ",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6ac733799a7947f910f82ad5",
+    "publishedAt": "2026-10-08T07:08:36.000Z",
+    "createdAt": "2026-10-08T08:39:51.217Z",
+    "updatedAt": "2026-10-08T08:39:51.217Z"
+  },
+  {
+    "id": "fab1e50e0f47203c",
+    "title": "Как футболист из Алжира стал лауреатом Нобелевской премии",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/6/13/347913886812136.jpeg",
+    "teaser": "Как футболист из Алжира стал лауреатом Нобелевской премии",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6ac4de2d9a7947183066565f",
+    "publishedAt": "2026-10-08T04:30:25.000Z",
+    "createdAt": "2026-10-08T08:39:47.625Z",
+    "updatedAt": "2026-10-08T08:39:47.625Z"
+  },
+  {
     "id": "b85aa2742b74e6e4",
     "title": "Роналду выразил уважение Месси после его прощального матча за Аргентину",
     "sport": "Футбол",
@@ -10,8 +80,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6ac69a699a7947f598530613",
     "publishedAt": "2026-10-07T20:00:07.000Z",
-    "createdAt": "2026-10-08T01:39:54.306Z",
-    "updatedAt": "2026-10-08T01:39:54.306Z"
+    "createdAt": "2026-10-08T08:39:53.273Z",
+    "updatedAt": "2026-10-08T08:39:53.273Z"
   },
   {
     "id": "0191a42bbc672cac",
@@ -24,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6ac695359a7947cd206c3cdd",
     "publishedAt": "2026-10-07T19:30:49.000Z",
-    "createdAt": "2026-10-08T01:39:53.306Z",
-    "updatedAt": "2026-10-08T01:39:53.306Z"
+    "createdAt": "2026-10-08T08:39:52.243Z",
+    "updatedAt": "2026-10-08T08:39:52.243Z"
   },
   {
     "id": "f4e8c5b925cc969a",
@@ -38,8 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6ac68fb89a794791c7d2399d",
     "publishedAt": "2026-10-07T18:52:41.000Z",
-    "createdAt": "2026-10-08T01:39:55.353Z",
-    "updatedAt": "2026-10-08T01:39:55.353Z"
+    "createdAt": "2026-10-08T08:39:54.257Z",
+    "updatedAt": "2026-10-08T08:39:54.257Z"
   },
   {
     "id": "9bbc8a65e59eb878",
@@ -52,8 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6ac6890e9a79470cf377024e",
     "publishedAt": "2026-10-07T18:33:14.000Z",
-    "createdAt": "2026-10-08T01:39:56.387Z",
-    "updatedAt": "2026-10-08T01:39:56.387Z"
+    "createdAt": "2026-10-08T08:39:55.237Z",
+    "updatedAt": "2026-10-08T08:39:55.237Z"
   },
   {
     "id": "5c153f240eb2c082",
@@ -66,77 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6ac6841c9a7947226168a4a7",
     "publishedAt": "2026-10-07T17:59:00.000Z",
-    "createdAt": "2026-10-08T01:39:57.398Z",
-    "updatedAt": "2026-10-08T01:39:57.398Z"
-  },
-  {
-    "id": "47a9d6df6a35c051",
-    "title": "Блогерша сжульничала на Берлинском марафоне, использовав велосипед",
-    "sport": "Другое",
-    "category": "Другие",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/9/11/347913919927119.jpeg",
-    "teaser": "Блогерша сжульничала на Берлинском марафоне, использовав велосипед",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6ac678e89a7947a9d4bdad0f",
-    "publishedAt": "2026-10-07T17:11:18.000Z",
-    "createdAt": "2026-10-08T01:39:58.539Z",
-    "updatedAt": "2026-10-08T01:39:58.539Z"
-  },
-  {
-    "id": "122cbb082c64e4ea",
-    "title": "Призер Олимпийских игр Владимир Морозов стал отцом",
-    "sport": "Другое",
-    "category": "Фигурное катание",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/0/51/347913917695510.jpeg",
-    "teaser": "Призер Олимпийских игр Владимир Морозов стал отцом",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6ac673fa9a794732053fd76f",
-    "publishedAt": "2026-10-07T17:04:51.000Z",
-    "createdAt": "2026-10-08T01:39:59.576Z",
-    "updatedAt": "2026-10-08T01:39:59.576Z"
-  },
-  {
-    "id": "503f9a8cd5a0c7e6",
-    "title": "Лидер КХЛ всухую выиграл первый матч после отстранения главного тренера",
-    "sport": "Хоккей",
-    "category": "Хоккей",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/5/26/347913894960265.jpeg",
-    "teaser": "Лидер КХЛ всухую выиграл первый матч после отстранения главного тренера",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6ac66c069a79474e3030a93b",
-    "publishedAt": "2026-10-07T16:28:09.000Z",
-    "createdAt": "2026-10-08T01:40:00.786Z",
-    "updatedAt": "2026-10-08T01:40:00.786Z"
-  },
-  {
-    "id": "7600becca075d125",
-    "title": "Бывшая волейболистка сборной Италии умерла в 35 лет",
-    "sport": "Другое",
-    "category": "Другие",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/4/96/347913880711964.jpeg",
-    "teaser": "Бывшая волейболистка сборной Италии умерла в 35 лет",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6ac6696a9a79474e3030a92c",
-    "publishedAt": "2026-10-07T16:03:48.000Z",
-    "createdAt": "2026-10-08T01:40:02.157Z",
-    "updatedAt": "2026-10-08T01:40:02.157Z"
-  },
-  {
-    "id": "31a4d1036278d4b0",
-    "title": "Капитан «Локомотива» фразой «всем тяжело» оценил провальный старт в РПЛ",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/5/62/347913879162625.jpeg",
-    "teaser": "Капитан «Локомотива» фразой «всем тяжело» оценил провальный старт в РПЛ",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6ac664e69a794703b10d34c8",
-    "publishedAt": "2026-10-07T15:58:31.000Z",
-    "createdAt": "2026-10-08T01:40:03.179Z",
-    "updatedAt": "2026-10-08T01:40:03.179Z"
+    "createdAt": "2026-10-08T08:39:56.267Z",
+    "updatedAt": "2026-10-08T08:39:56.267Z"
   }
 ]
