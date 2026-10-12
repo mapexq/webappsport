@@ -1,54 +1,54 @@
 [
   {
-    "id": 1791788909135,
+    "id": 1791826652783,
     "eventName": "Матч",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
     "expert": {
-      "name": "Салават Юлаев",
+      "name": "Кува Джавийя",
       "avatar": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=100&h=100&fit=crop",
       "status": "expert",
-      "winRate": 76
+      "winRate": 75
     },
-    "prediction": "Обе забьют - Да",
-    "odds": 1.11,
+    "prediction": "Фора 2 (-1)",
+    "odds": 1.73,
     "comment": "Комментарий к прогнозу",
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1791788909137,
+    "id": 1791826652784,
     "eventName": "Матч",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
     "expert": {
-      "name": "Левый Берег",
+      "name": "Челленджер Мужчины",
       "avatar": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=100&h=100&fit=crop",
       "status": "expert",
-      "winRate": 80
+      "winRate": 85
     },
-    "prediction": "Обе забьют - Да",
-    "odds": 1.74,
+    "prediction": "Ф1(+5.5)",
+    "odds": 1.65,
     "comment": "Комментарий к прогнозу",
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1791788909138,
+    "id": 1791826652785,
     "eventName": "Матч",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
     "expert": {
-      "name": "Велес Сарсфилд",
+      "name": "Лига Чемпионов",
       "avatar": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=100&h=100&fit=crop",
       "status": "expert",
-      "winRate": 71
+      "winRate": 86
     },
-    "prediction": "Обе забьют - Нет",
-    "odds": 1.64,
+    "prediction": "П2 и обе забьют",
+    "odds": 1.87,
     "comment": "Комментарий к прогнозу",
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1791788909139,
+    "id": 1791826652786,
     "eventName": "Матч",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -64,39 +64,71 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1791788909140,
+    "id": 1791826652787,
     "eventName": "Матч",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
     "expert": {
-      "name": "Ак Барс",
+      "name": "Велес Сарсфилд",
       "avatar": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=100&h=100&fit=crop",
       "status": "expert",
-      "winRate": 68
+      "winRate": 71
     },
-    "prediction": "Обе забьют - Да",
-    "odds": 1.15,
+    "prediction": "Обе забьют - Нет",
+    "odds": 1.64,
     "comment": "Комментарий к прогнозу",
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1791788909141,
-    "eventName": "Торино — Удинезе",
+    "id": 1791826652788,
+    "eventName": "Матч",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
     "expert": {
-      "name": "Алим Калибатов",
-      "avatar": "https://static-uploads.prod.bookmaker-ratings.ru/2026/04/3dcfa3e614753a9566b9342464293-rb-webp-69d34c667554e-69d34c667cd17.webp?width=60",
+      "name": "Сабах Баку",
+      "avatar": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=100&h=100&fit=crop",
       "status": "expert",
-      "winRate": 73
+      "winRate": 71
     },
     "prediction": "Обе забьют - Да",
-    "odds": 1.85,
-    "comment": "Обе команды имеют по 4 очка в турнирной таблице. По силе команды в данный момент довольно равны, \"Торино\" переживает перестройку состава, \"Удинезе\" неплохо стартовал, но потом скатился. Думаю, что обоим клубам сегодня нужна будет только победа, вижу в таком матче голы с обоих сторон. ОЗ за 1.85.",
+    "odds": 1.56,
+    "comment": "Комментарий к прогнозу",
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1791788909142,
+    "id": 1791826652789,
+    "eventName": "Леванте — Севилья",
+    "discipline": "Футбол",
+    "tournament": "Чемпионат",
+    "expert": {
+      "name": "АБАлександр Базуев",
+      "avatar": "https://bookmaker-ratings.ru/static/images/badges/novice-letter.svg?v=30092024",
+      "status": "expert",
+      "winRate": 77
+    },
+    "prediction": "Обе забьют - Да",
+    "odds": 1.87,
+    "comment": "Комментарий к прогнозу",
+    "source": "Sports Analytics Pro"
+  },
+  {
+    "id": 1791826652790,
+    "eventName": "ЛАСК — Ливерпуль",
+    "discipline": "Футбол",
+    "tournament": "Чемпионат",
+    "expert": {
+      "name": "Артем Слицкий",
+      "avatar": "https://bookmaker-ratings.ru/static/images/badges/expert-letter.svg?v=30092024",
+      "status": "expert",
+      "winRate": 80
+    },
+    "prediction": "ИТМ2 (2,5)",
+    "odds": 1.88,
+    "comment": "В обычной ситуации в матче ЛАСК — «Ливерпуль» не было бы сомнений в фаворите, но переполненный лазарет мерсисайдцев заставляет осторожнее относиться к прогнозу. В выходные «Ливерпуль» уступил «Манчестер Сити» со счётом 0:3. При этом Гакпо, Исак и Собослаи не сыграли, а до спорного удаления мерсисайдцы выглядели неплохо. Без этого трио команде не хватает атакующей мощи. Есть надежда, что Собослаи восстановится: его повреждение описывали скорее как мышечную усталость. У Исака и Гакпо тоже не самые серьёзные проблемы, но их участие менее вероятно. От того, кто из лидеров успеет вернуться, во многом зависит исход встречи. ЛАСК входит в топ-3 чемпионата Австрии, но не выигрывает с начала сентября. После паузы команда уступила дома лидеру первенства «Рапиду» (0:2). В обычных условиях австрийцам было бы сложно конкурировать с «Ливерпулем», однако сейчас англичане вряд ли смогут показать максимум в атаке. Моя ставка — индивидуальный тотал «Ливерпуля» меньше 2,5 гола за коэффициент 1,88. Даже победив, мерсисайдцы, на мой взгляд, вряд ли забьют больше двух мячей.",
+    "source": "Sports Analytics Pro"
+  },
+  {
+    "id": 1791826652791,
     "eventName": "АЗ Пичерно АСД — Козенца",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -112,51 +144,19 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1791788909143,
-    "eventName": "ХК Норильск — Молот",
-    "discipline": "Хоккей",
-    "tournament": "Чемпионат",
-    "expert": {
-      "name": "МАМИХАИЛ АЛИКИН",
-      "avatar": "https://bookmaker-ratings.ru/static/images/badges/novice-letter.svg?v=30092024",
-      "status": "expert",
-      "winRate": 78
-    },
-    "prediction": "Обе забьют - Да",
-    "odds": 1.17,
-    "comment": "Комментарий к прогнозу",
-    "source": "Sports Analytics Pro"
-  },
-  {
-    "id": 1791788909144,
-    "eventName": "Салават Юлаев — Нефтехимик",
-    "discipline": "Хоккей",
-    "tournament": "Чемпионат",
-    "expert": {
-      "name": "МАМИХАИЛ АЛИКИН",
-      "avatar": "https://bookmaker-ratings.ru/static/images/badges/novice-letter.svg?v=30092024",
-      "status": "expert",
-      "winRate": 78
-    },
-    "prediction": "Обе забьют - Да",
-    "odds": 1.11,
-    "comment": "Средне играют, но большая вероятность что бить будут обе, смотрим",
-    "source": "Sports Analytics Pro"
-  },
-  {
-    "id": 1791788909145,
-    "eventName": "Левый Берег Киев — Заря",
+    "id": 1791826652792,
+    "eventName": "Торино — Удинезе",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
     "expert": {
-      "name": "МАМИХАИЛ АЛИКИН",
-      "avatar": "https://bookmaker-ratings.ru/static/images/badges/novice-letter.svg?v=30092024",
+      "name": "Алим Калибатов",
+      "avatar": "https://static-uploads.prod.bookmaker-ratings.ru/2026/04/3dcfa3e614753a9566b9342464293-rb-webp-69d34c667554e-69d34c667cd17.webp?width=60",
       "status": "expert",
-      "winRate": 78
+      "winRate": 73
     },
     "prediction": "Обе забьют - Да",
-    "odds": 1.74,
-    "comment": "Тут должны забить обе, эти команды ранее обе били нормально",
+    "odds": 1.85,
+    "comment": "Обе команды имеют по 4 очка в турнирной таблице. По силе команды в данный момент довольно равны, \"Торино\" переживает перестройку состава, \"Удинезе\" неплохо стартовал, но потом скатился. Думаю, что обоим клубам сегодня нужна будет только победа, вижу в таком матче голы с обоих сторон. ОЗ за 1.85.",
     "source": "Sports Analytics Pro"
   }
 ]
