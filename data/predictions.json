@@ -1,38 +1,38 @@
 [
   {
-    "id": 1791764495949,
+    "id": 1791788909135,
     "eventName": "Матч",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
     "expert": {
-      "name": "Индепендьенте Авельянеда",
+      "name": "Салават Юлаев",
       "avatar": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=100&h=100&fit=crop",
       "status": "expert",
-      "winRate": 81
+      "winRate": 76
     },
     "prediction": "Обе забьют - Да",
-    "odds": 1.96,
+    "odds": 1.11,
     "comment": "Комментарий к прогнозу",
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1791764495950,
+    "id": 1791788909137,
     "eventName": "Матч",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
     "expert": {
-      "name": "Денвер Наггетс",
+      "name": "Левый Берег",
       "avatar": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=100&h=100&fit=crop",
       "status": "expert",
       "winRate": 80
     },
-    "prediction": "Тотал (233.5) Б",
-    "odds": 1.86,
+    "prediction": "Обе забьют - Да",
+    "odds": 1.74,
     "comment": "Комментарий к прогнозу",
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1791764495951,
+    "id": 1791788909138,
     "eventName": "Матч",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -48,40 +48,72 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1791764495952,
+    "id": 1791788909139,
     "eventName": "Матч",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
     "expert": {
-      "name": "Ботафого Рио",
+      "name": "Бремптон Баттальон",
       "avatar": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=100&h=100&fit=crop",
       "status": "expert",
-      "winRate": 86
+      "winRate": 87
     },
-    "prediction": "Тотал (2.5) Б",
-    "odds": 1.75,
+    "prediction": "Обе забьют - Да",
+    "odds": 1.05,
     "comment": "Комментарий к прогнозу",
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1791764495953,
-    "eventName": "Тальерес — КА Индепендьенте Авельянеда",
+    "id": 1791788909140,
+    "eventName": "Матч",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
     "expert": {
-      "name": "Akhmad Akhokhov",
-      "avatar": "https://static-uploads.prod.bookmaker-ratings.ru/2026/09/92cb4f89-a73a-4f52-89fc-c576b8f32734-rb-webp-6aa94cdf063ac-6aa94cdf0e926.webp?width=60",
+      "name": "Ак Барс",
+      "avatar": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=100&h=100&fit=crop",
+      "status": "expert",
+      "winRate": 68
+    },
+    "prediction": "Обе забьют - Да",
+    "odds": 1.15,
+    "comment": "Комментарий к прогнозу",
+    "source": "Sports Analytics Pro"
+  },
+  {
+    "id": 1791788909141,
+    "eventName": "Торино — Удинезе",
+    "discipline": "Футбол",
+    "tournament": "Чемпионат",
+    "expert": {
+      "name": "Алим Калибатов",
+      "avatar": "https://static-uploads.prod.bookmaker-ratings.ru/2026/04/3dcfa3e614753a9566b9342464293-rb-webp-69d34c667554e-69d34c667cd17.webp?width=60",
       "status": "expert",
       "winRate": 73
     },
     "prediction": "Обе забьют - Да",
-    "odds": 1.96,
+    "odds": 1.85,
+    "comment": "Обе команды имеют по 4 очка в турнирной таблице. По силе команды в данный момент довольно равны, \"Торино\" переживает перестройку состава, \"Удинезе\" неплохо стартовал, но потом скатился. Думаю, что обоим клубам сегодня нужна будет только победа, вижу в таком матче голы с обоих сторон. ОЗ за 1.85.",
+    "source": "Sports Analytics Pro"
+  },
+  {
+    "id": 1791788909142,
+    "eventName": "АЗ Пичерно АСД — Козенца",
+    "discipline": "Футбол",
+    "tournament": "Чемпионат",
+    "expert": {
+      "name": "ВЖВита Журенко",
+      "avatar": "https://bookmaker-ratings.ru/static/images/badges/forecaster-letter.svg?v=30092024",
+      "status": "expert",
+      "winRate": 87
+    },
+    "prediction": "Обе забьют - Да",
+    "odds": 1.8,
     "comment": "Комментарий к прогнозу",
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1791764495954,
-    "eventName": "Амур — Лада",
+    "id": 1791788909143,
+    "eventName": "ХК Норильск — Молот",
     "discipline": "Хоккей",
     "tournament": "Чемпионат",
     "expert": {
@@ -90,73 +122,41 @@
       "status": "expert",
       "winRate": 78
     },
-    "prediction": "Обе забьют - Нет",
-    "odds": 4.55,
-    "comment": "Часто бывало что они обе не бьют, берёшь оз а они не бьют ,поэтому думаю что тут обе не забьют",
+    "prediction": "Обе забьют - Да",
+    "odds": 1.17,
+    "comment": "Комментарий к прогнозу",
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1791764495955,
-    "eventName": "Торино — Удинезе",
-    "discipline": "Футбол",
+    "id": 1791788909144,
+    "eventName": "Салават Юлаев — Нефтехимик",
+    "discipline": "Хоккей",
     "tournament": "Чемпионат",
     "expert": {
-      "name": "Александр Трибуш",
-      "avatar": "https://bookmaker-ratings.ru/static/images/badges/author-letter.svg?v=30092024",
-      "status": "expert",
-      "winRate": 76
-    },
-    "prediction": "ИТБ 2 (1,5)",
-    "odds": 2.9,
-    "comment": "Команды идентично начали сезон и в пяти турах чемпионата набрали по пять очков, проиграв по три раза. В личных встречах «Торино» и «Удинезе» тоже нестабильны и обмениваются победами. Поэтому рискованно ставить на исход или фору, лучше переключиться на голы. «Удинезе» удивительно много забивает в гостях. В семи из восьми прошлых выездных встреч клуб отличился минимум дважды, а четыре раза даже трижды. А суммарно в восьми этих матчах «Удинезе» закатил 18 мячей — 2,25 в среднем за игру. Поэтому проверяем продолжение тренда и берем индивидуальный тотал «Удинезе» больше (1,5) по высокому кэфу 2,90. К тому же ставка зашла и в обеих личных играх против «Торино» в прошлом сезоне.",
-    "source": "Sports Analytics Pro"
-  },
-  {
-    "id": 1791764495956,
-    "eventName": "Галатасарай — Барселона",
-    "discipline": "Футбол",
-    "tournament": "Чемпионат",
-    "expert": {
-      "name": "АНАндрей Нестеров",
+      "name": "МАМИХАИЛ АЛИКИН",
       "avatar": "https://bookmaker-ratings.ru/static/images/badges/novice-letter.svg?v=30092024",
       "status": "expert",
-      "winRate": 88
+      "winRate": 78
     },
     "prediction": "Обе забьют - Да",
-    "odds": 1.4,
-    "comment": "Ну здесь донельзя очевидно. Домашние турки, Барса без Рафиньи на выезде, тяжёлые 2-3 Барсы.",
+    "odds": 1.11,
+    "comment": "Средне играют, но большая вероятность что бить будут обе, смотрим",
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1791764495957,
-    "eventName": "Викинг — Бавария",
+    "id": 1791788909145,
+    "eventName": "Левый Берег Киев — Заря",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
     "expert": {
-      "name": "АНАндрей Нестеров",
+      "name": "МАМИХАИЛ АЛИКИН",
       "avatar": "https://bookmaker-ratings.ru/static/images/badges/novice-letter.svg?v=30092024",
       "status": "expert",
-      "winRate": 88
+      "winRate": 78
     },
     "prediction": "Обе забьют - Да",
-    "odds": 1.7,
-    "comment": "Выездная Бавария в этом сезоне пока не блещет и постоянно пропускает. А тут норвежцы со своими полями, климатом и сумасшедшей атакой.",
-    "source": "Sports Analytics Pro"
-  },
-  {
-    "id": 1791764495958,
-    "eventName": "Ланус — Велес Сарсфилд",
-    "discipline": "Футбол",
-    "tournament": "Чемпионат",
-    "expert": {
-      "name": "Akhmad Akhokhov",
-      "avatar": "https://static-uploads.prod.bookmaker-ratings.ru/2026/09/92cb4f89-a73a-4f52-89fc-c576b8f32734-rb-webp-6aa94cdf063ac-6aa94cdf0e926.webp?width=60",
-      "status": "expert",
-      "winRate": 73
-    },
-    "prediction": "Обе забьют - Нет",
-    "odds": 1.64,
-    "comment": "Обе команды не так часто радуют обменами голами в матчах",
+    "odds": 1.74,
+    "comment": "Тут должны забить обе, эти команды ранее обе били нормально",
     "source": "Sports Analytics Pro"
   }
 ]
