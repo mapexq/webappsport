@@ -1,5 +1,61 @@
 [
   {
+    "id": "1227f00a96ed0743",
+    "title": "Молодая российская звезда оформил первый дубль в НХЛ",
+    "sport": "Хоккей",
+    "category": "Хоккей",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/4/66/807919612631664.jpeg",
+    "teaser": "Молодая российская звезда оформил первый дубль в НХЛ",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6acf22f0d9a42caea732ef08",
+    "publishedAt": "2026-10-14T07:15:38.000Z",
+    "createdAt": "2026-10-14T07:20:15.834Z",
+    "updatedAt": "2026-10-14T07:20:15.834Z"
+  },
+  {
+    "id": "77e9dc78eee99b59",
+    "title": "Какие клубы пострадали от махинаций «Манчестер Сити»",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/3/48/347919012054483.jpeg",
+    "teaser": "Какие клубы пострадали от махинаций «Манчестер Сити»",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6ace0a5e9a79475373839015",
+    "publishedAt": "2026-10-14T07:05:15.000Z",
+    "createdAt": "2026-10-14T07:20:14.850Z",
+    "updatedAt": "2026-10-14T07:20:14.850Z"
+  },
+  {
+    "id": "c1f29dbd8fcd7ffb",
+    "title": "Овечкин провел невзрачный матч в «особом месте» и удостоился оваций",
+    "sport": "Хоккей",
+    "category": "Хоккей",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/5/52/207919579577525.jpeg",
+    "teaser": "Овечкин провел невзрачный матч в «особом месте» и удостоился оваций",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6acf150a9a79470ad36c2b47",
+    "publishedAt": "2026-10-14T06:16:07.000Z",
+    "createdAt": "2026-10-14T07:20:17.794Z",
+    "updatedAt": "2026-10-14T07:20:17.794Z"
+  },
+  {
+    "id": "dc3ddca573643cc7",
+    "title": "Как Батраков забил «Барселоне» и прервал засуху россиян в Лиге чемпионов",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/0/12/547919260600120.jpeg",
+    "teaser": "Как Батраков забил «Барселоне» и прервал засуху россиян в Лиге чемпионов",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6ace97e9fb33bfd64108410e",
+    "publishedAt": "2026-10-13T21:54:28.000Z",
+    "createdAt": "2026-10-14T07:20:18.823Z",
+    "updatedAt": "2026-10-14T07:20:18.823Z"
+  },
+  {
     "id": "efe89cb57e0af2d0",
     "title": "Кто из россиян забивал «Барселоне» в еврокубках",
     "sport": "Футбол",
@@ -10,8 +66,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6ace8feabea8e919a6aaaae5",
     "publishedAt": "2026-10-13T21:03:17.000Z",
-    "createdAt": "2026-10-14T01:00:47.071Z",
-    "updatedAt": "2026-10-14T01:00:47.071Z"
+    "createdAt": "2026-10-14T07:20:19.876Z",
+    "updatedAt": "2026-10-14T07:20:19.876Z"
   },
   {
     "id": "c737ea91f010de03",
@@ -24,8 +80,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6ace93aa12b78451786d128e",
     "publishedAt": "2026-10-13T21:00:08.000Z",
-    "createdAt": "2026-10-14T01:00:47.958Z",
-    "updatedAt": "2026-10-14T01:00:47.958Z"
+    "createdAt": "2026-10-14T07:20:20.951Z",
+    "updatedAt": "2026-10-14T07:20:20.951Z"
   },
   {
     "id": "44e9284f6f5e2d40",
@@ -38,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6ace861595107cc57c004ee8",
     "publishedAt": "2026-10-13T20:07:31.000Z",
-    "createdAt": "2026-10-14T01:00:49.794Z",
-    "updatedAt": "2026-10-14T01:00:49.794Z"
+    "createdAt": "2026-10-14T07:20:23.129Z",
+    "updatedAt": "2026-10-14T07:20:23.129Z"
   },
   {
     "id": "f138c16c484afa17",
@@ -52,8 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6ace8258ebee8e3e297b1aa3",
     "publishedAt": "2026-10-13T19:42:06.000Z",
-    "createdAt": "2026-10-14T01:00:51.686Z",
-    "updatedAt": "2026-10-14T01:00:51.686Z"
+    "createdAt": "2026-10-14T07:20:25.398Z",
+    "updatedAt": "2026-10-14T07:20:25.398Z"
   },
   {
     "id": "a3f1988cd9db00a5",
@@ -66,8 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6ace3d54085244354f8d4943",
     "publishedAt": "2026-10-13T19:39:27.000Z",
-    "createdAt": "2026-10-14T01:00:48.846Z",
-    "updatedAt": "2026-10-14T01:00:48.846Z"
+    "createdAt": "2026-10-14T07:20:22.099Z",
+    "updatedAt": "2026-10-14T07:20:22.099Z"
   },
   {
     "id": "583e539d5cf6611c",
@@ -80,63 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6ace71fcebee8e3e297b1a21",
     "publishedAt": "2026-10-13T18:13:27.000Z",
-    "createdAt": "2026-10-14T01:00:50.747Z",
-    "updatedAt": "2026-10-14T01:00:50.747Z"
-  },
-  {
-    "id": "1ac90e940c212e0c",
-    "title": "«Локомотив» проиграл четвертый матч подряд в Кубке России",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/2/36/027919131955362.jpeg",
-    "teaser": "«Локомотив» проиграл четвертый матч подряд в Кубке России",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6ace6c28914c79f40946ddd9",
-    "publishedAt": "2026-10-13T18:02:55.000Z",
-    "createdAt": "2026-10-14T01:00:52.668Z",
-    "updatedAt": "2026-10-14T01:00:52.668Z"
-  },
-  {
-    "id": "41aa0e0ed60a06ba",
-    "title": "Посол России назвал отказ в визах гимнасткам попыткой ослабить сборную",
-    "sport": "Другое",
-    "category": "Другие",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/9/06/287919119364069.jpeg",
-    "teaser": "Посол России назвал отказ в визах гимнасткам попыткой ослабить сборную",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6ace66feebee8e3e297b1a0b",
-    "publishedAt": "2026-10-13T17:33:50.000Z",
-    "createdAt": "2026-10-14T01:00:53.582Z",
-    "updatedAt": "2026-10-14T01:00:53.582Z"
-  },
-  {
-    "id": "bbbdee0de42dad0a",
-    "title": "Мельникова фразой «хочется заплакать» отреагировала на отказ в визах к ЧМ",
-    "sport": "Другое",
-    "category": "Другие",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/2/79/827919093288792.jpeg",
-    "teaser": "Мельникова фразой «хочется заплакать» отреагировала на отказ в визах к ЧМ",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6ace5898ab19f0c1a1abe37b",
-    "publishedAt": "2026-10-13T17:07:37.000Z",
-    "createdAt": "2026-10-14T01:00:54.496Z",
-    "updatedAt": "2026-10-14T01:00:54.496Z"
-  },
-  {
-    "id": "64a788f6ea4c42c5",
-    "title": "Трусова назвала Этери Тутберидзе сильным авторитетом",
-    "sport": "Другое",
-    "category": "Фигурное катание",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/3/10/827919065557103.jpeg",
-    "teaser": "Трусова назвала Этери Тутберидзе сильным авторитетом",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6ace529e1d8fda4febca117c",
-    "publishedAt": "2026-10-13T16:13:22.000Z",
-    "createdAt": "2026-10-14T01:00:55.470Z",
-    "updatedAt": "2026-10-14T01:00:55.470Z"
+    "createdAt": "2026-10-14T07:20:24.263Z",
+    "updatedAt": "2026-10-14T07:20:24.263Z"
   }
 ]
