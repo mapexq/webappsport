@@ -1,5 +1,75 @@
 [
   {
+    "id": "b48e7b6801db56ef",
+    "title": "ПСЖ с Сафоновым обыграл «Манчестер Сити», несмотря на дубль Холанда",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/4/89/347920109223894.jpeg",
+    "teaser": "ПСЖ с Сафоновым обыграл «Манчестер Сити», несмотря на дубль Холанда",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6acfdcdc9a79479d4a85fa7f",
+    "publishedAt": "2026-10-14T21:26:46.000Z",
+    "createdAt": "2026-10-14T22:08:29.942Z",
+    "updatedAt": "2026-10-14T22:08:29.942Z"
+  },
+  {
+    "id": "c3f18f5f7ae91530",
+    "title": "ЦСКА разгромил «Ростов» в Кубке России, забив три гола за",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/6/58/347920071126586.jpeg",
+    "teaser": "ЦСКА разгромил «Ростов» в Кубке России, забив три гола за",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6acfcdca9a7947553f0275ba",
+    "publishedAt": "2026-10-14T20:22:03.000Z",
+    "createdAt": "2026-10-14T22:08:31.254Z",
+    "updatedAt": "2026-10-14T22:08:31.254Z"
+  },
+  {
+    "id": "1d0717fb6b469d0b",
+    "title": "Мбаппе побил исторический рекорд Месси в Лиге чемпионов",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/3/23/347920059044233.jpeg",
+    "teaser": "Мбаппе побил исторический рекорд Месси в Лиге чемпионов",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6acfd4179a7947f956f901c8",
+    "publishedAt": "2026-10-14T19:40:35.000Z",
+    "createdAt": "2026-10-14T22:08:32.310Z",
+    "updatedAt": "2026-10-14T22:08:32.310Z"
+  },
+  {
+    "id": "ac06b8ba9dfd9f2b",
+    "title": "Купленный «Ливерпулем» за €125 млн игрок сделал хет-трик в Лиге чемпионов",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/4/28/347920027132284.jpeg",
+    "teaser": "Купленный «Ливерпулем» за €125 млн игрок сделал хет-трик в Лиге чемпионов",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6acfca699a794757b480e34e",
+    "publishedAt": "2026-10-14T18:59:15.000Z",
+    "createdAt": "2026-10-14T22:08:33.289Z",
+    "updatedAt": "2026-10-14T22:08:33.289Z"
+  },
+  {
+    "id": "0a07c38e7af8fa50",
+    "title": "Дернувший за волосы соперника Винисиус пропустит четыре матча Ла Лиги",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/6/71/347920011905716.jpeg",
+    "teaser": "Дернувший за волосы соперника Винисиус пропустит четыре матча Ла Лиги",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6acfc03a9a7947f956f901bc",
+    "publishedAt": "2026-10-14T18:37:08.000Z",
+    "createdAt": "2026-10-14T22:08:34.361Z",
+    "updatedAt": "2026-10-14T22:08:34.361Z"
+  },
+  {
     "id": "3ed44d90e26f5bbf",
     "title": "Матвей Сафонов выйдет в стартовом составе ПСЖ против «Манчестер Сити»",
     "sport": "Футбол",
@@ -10,8 +80,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6acfc3839a79471dd6f415f0",
     "publishedAt": "2026-10-14T18:15:14.000Z",
-    "createdAt": "2026-10-14T18:24:45.247Z",
-    "updatedAt": "2026-10-14T18:24:45.247Z"
+    "createdAt": "2026-10-14T22:08:35.545Z",
+    "updatedAt": "2026-10-14T22:08:35.545Z"
   },
   {
     "id": "232e18afcb5c7693",
@@ -24,22 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6acfb7e79a7947cf0861658e",
     "publishedAt": "2026-10-14T17:46:32.000Z",
-    "createdAt": "2026-10-14T18:24:46.343Z",
-    "updatedAt": "2026-10-14T18:24:46.343Z"
-  },
-  {
-    "id": "1acc79546e0d1aab",
-    "title": "FIS допустила лучшую лыжницу Кубка России и чемпионов мира в сноуборде",
-    "sport": "Другое",
-    "category": "Другие",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/4/15/347919954328154.png",
-    "teaser": "FIS допустила лучшую лыжницу Кубка России и чемпионов мира в сноуборде",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6acfadfb9a7947db2c8eea5d",
-    "publishedAt": "2026-10-14T16:50:18.000Z",
-    "createdAt": "2026-10-14T18:24:49.748Z",
-    "updatedAt": "2026-10-14T18:24:49.748Z"
+    "createdAt": "2026-10-14T22:08:36.590Z",
+    "updatedAt": "2026-10-14T22:08:36.590Z"
   },
   {
     "id": "5910dcc9bb486c07",
@@ -52,8 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6acfa5cb9a7947f956f90166",
     "publishedAt": "2026-10-14T16:24:42.000Z",
-    "createdAt": "2026-10-14T18:24:47.478Z",
-    "updatedAt": "2026-10-14T18:24:47.478Z"
+    "createdAt": "2026-10-14T22:08:37.636Z",
+    "updatedAt": "2026-10-14T22:08:37.636Z"
   },
   {
     "id": "c48770070199c552",
@@ -66,64 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6acf9e299a79470ca5a8f9d5",
     "publishedAt": "2026-10-14T16:00:23.000Z",
-    "createdAt": "2026-10-14T18:24:48.616Z",
-    "updatedAt": "2026-10-14T18:24:48.616Z"
-  },
-  {
-    "id": "26d5dcbd205618f9",
-    "title": "«Балтика» обыграла «Крылья Советов» в матче Кубка России с Fan ID",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/9/08/347919910349089.jpeg",
-    "teaser": "«Балтика» обыграла «Крылья Советов» в матче Кубка России с Fan ID",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6acf96559a794735560880db",
-    "publishedAt": "2026-10-14T15:33:00.000Z",
-    "createdAt": "2026-10-14T18:24:52.034Z",
-    "updatedAt": "2026-10-14T18:24:52.034Z"
-  },
-  {
-    "id": "da19469bd8e73580",
-    "title": "Косторная вернулась к тренировкам после операции на плече",
-    "sport": "Другое",
-    "category": "Фигурное катание",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/8/81/637919894740818.jpeg",
-    "teaser": "Косторная вернулась к тренировкам после операции на плече",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6acf9474c2c051d439ceded6",
-    "publishedAt": "2026-10-14T14:58:16.000Z",
-    "createdAt": "2026-10-14T18:24:55.194Z",
-    "updatedAt": "2026-10-14T18:24:55.194Z"
-  },
-  {
-    "id": "1f289cab04da96ef",
-    "title": "World Gymnastics выразила сожаление из-за отказа в визах россиянкам на ЧМ",
-    "sport": "Другое",
-    "category": "Другие",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/4/09/807919858295094.jpeg",
-    "teaser": "World Gymnastics выразила сожаление из-за отказа в визах россиянкам на ЧМ",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6acf833fc2c051d439cede76",
-    "publishedAt": "2026-10-14T14:38:22.000Z",
-    "createdAt": "2026-10-14T18:24:56.319Z",
-    "updatedAt": "2026-10-14T18:24:56.319Z"
-  },
-  {
-    "id": "72d346eb550e2f2e",
-    "title": "Регулятор сообщил о финансовой катастрофе английского футбола",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/3/77/347919762939773.jpeg",
-    "teaser": "Регулятор сообщил о финансовой катастрофе английского футбола",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6acf4bff9a79478b0415e306",
-    "publishedAt": "2026-10-14T11:05:09.000Z",
-    "createdAt": "2026-10-14T18:24:54.072Z",
-    "updatedAt": "2026-10-14T18:24:54.072Z"
+    "createdAt": "2026-10-14T22:08:39.723Z",
+    "updatedAt": "2026-10-14T22:08:39.723Z"
   },
   {
     "id": "91699a19bd20195c",
@@ -136,7 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6acf20fd9a794740abfffadf",
     "publishedAt": "2026-10-14T08:44:40.000Z",
-    "createdAt": "2026-10-14T18:24:50.871Z",
-    "updatedAt": "2026-10-14T18:24:50.871Z"
+    "createdAt": "2026-10-14T22:08:38.680Z",
+    "updatedAt": "2026-10-14T22:08:38.680Z"
   }
 ]
