@@ -1,6 +1,38 @@
 [
   {
-    "id": 1792069983243,
+    "id": 1792087630328,
+    "eventName": "Матч",
+    "discipline": "Футбол",
+    "tournament": "Чемпионат",
+    "expert": {
+      "name": "Линкольн Ред",
+      "avatar": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=100&h=100&fit=crop",
+      "status": "expert",
+      "winRate": 75
+    },
+    "prediction": "Удары от ворот Ф2(-5)",
+    "odds": 1.87,
+    "comment": "Комментарий к прогнозу",
+    "source": "Sports Analytics Pro"
+  },
+  {
+    "id": 1792087630329,
+    "eventName": "Матч",
+    "discipline": "Футбол",
+    "tournament": "Чемпионат",
+    "expert": {
+      "name": "Эсгрима Ла",
+      "avatar": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=100&h=100&fit=crop",
+      "status": "expert",
+      "winRate": 70
+    },
+    "prediction": "Обе забьют - Да",
+    "odds": 2.01,
+    "comment": "Комментарий к прогнозу",
+    "source": "Sports Analytics Pro"
+  },
+  {
+    "id": 1792087630330,
     "eventName": "Матч",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -16,7 +48,7 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1792069983244,
+    "id": 1792087630331,
     "eventName": "Матч",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -32,39 +64,71 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1792069983245,
-    "eventName": "Лех — Байер",
+    "id": 1792087630332,
+    "eventName": "Матч",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
     "expert": {
-      "name": "МОМаксим Олегович",
-      "avatar": "https://bookmaker-ratings.ru/static/images/badges/forecaster-letter.svg?v=30092024",
+      "name": "Хелмонд Спорт",
+      "avatar": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=100&h=100&fit=crop",
       "status": "expert",
-      "winRate": 73
+      "winRate": 88
     },
-    "prediction": "Фора 2 (-1)",
-    "odds": 1.91,
-    "comment": "Разница в классе очень большая , даже при ротации , должна быть победа уверенная",
-    "source": "Sports Analytics Pro"
-  },
-  {
-    "id": 1792069983246,
-    "eventName": "ЦСКА София — АС Монако",
-    "discipline": "Футбол",
-    "tournament": "Чемпионат",
-    "expert": {
-      "name": "ВЖВита Журенко",
-      "avatar": "https://bookmaker-ratings.ru/static/images/badges/forecaster-letter.svg?v=30092024",
-      "status": "expert",
-      "winRate": 87
-    },
-    "prediction": "Обе забьют - Да",
-    "odds": 1.77,
+    "prediction": "Тотал (2.5) Б",
+    "odds": 1.39,
     "comment": "Комментарий к прогнозу",
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1792069983247,
+    "id": 1792087630333,
+    "eventName": "Матч",
+    "discipline": "Футбол",
+    "tournament": "Чемпионат",
+    "expert": {
+      "name": "Хоув Альбион",
+      "avatar": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=100&h=100&fit=crop",
+      "status": "expert",
+      "winRate": 79
+    },
+    "prediction": "1-й тайм - Ф1 (-1,5)",
+    "odds": 1.72,
+    "comment": "Комментарий к прогнозу",
+    "source": "Sports Analytics Pro"
+  },
+  {
+    "id": 1792087630334,
+    "eventName": "Бранн — Линкольн",
+    "discipline": "Футбол",
+    "tournament": "Чемпионат",
+    "expert": {
+      "name": "Павел Кириченко",
+      "avatar": "https://bookmaker-ratings.ru/static/images/badges/expert-letter.svg?v=30092024",
+      "status": "expert",
+      "winRate": 78
+    },
+    "prediction": "Удары от ворот Ф2(-5)",
+    "odds": 1.87,
+    "comment": "«Бранн» примет «Линкольн» сегодня в рамках Лиги Конференций. \n«Линкольн», напомню, это клуб из Гибралтара. Уровень сборной знаком по матчам Лиги Наций и отборам на крупные турниры. Уровень клуба в целом сопоставим. «Бранн» явный фаворит, победа которого котируется не более чем за 1,15. От норвежской команды можно ожидать давление на протяжении всей игры. Вряд ли забитый мяч так изменит картину на поле, что гости станут атаковать больше, а хозяева станут оборонять преимущество. Всё-таки разница в классе очень велика. От теории к голым цифрам: в прошлом и нынешнем сезоне в еврокубковых матчах на выезде фора -5 по ударам от ворот на «Линкольн» пробивалась в 9/10 случаев. А средняя разница составляет 8,2 удара от ворот (4,3 - 12,5).",
+    "source": "Sports Analytics Pro"
+  },
+  {
+    "id": 1792087630335,
+    "eventName": "Уракан — Химнасия и Эсгрима Ла-Плата",
+    "discipline": "Футбол",
+    "tournament": "Чемпионат",
+    "expert": {
+      "name": "Akhmad Akhokhov",
+      "avatar": "https://static-uploads.prod.bookmaker-ratings.ru/2026/09/92cb4f89-a73a-4f52-89fc-c576b8f32734-rb-webp-6aa94cdf063ac-6aa94cdf0e926.webp?width=60",
+      "status": "expert",
+      "winRate": 73
+    },
+    "prediction": "Обе забьют - Да",
+    "odds": 2.01,
+    "comment": "Комментарий к прогнозу",
+    "source": "Sports Analytics Pro"
+  },
+  {
+    "id": 1792087630336,
     "eventName": "Валенсия — Маккаби",
     "discipline": "Баскетбол",
     "tournament": "НБА",
@@ -80,7 +144,7 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1792069983248,
+    "id": 1792087630337,
     "eventName": "Борнмут — Штурм",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
