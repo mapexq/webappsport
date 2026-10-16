@@ -1,5 +1,61 @@
 [
   {
+    "id": "dda5ff7dc8dcc6b5",
+    "title": "Московское «Динамо» потерпело восьмое поражение за девять матчей КХЛ",
+    "sport": "Хоккей",
+    "category": "Хоккей",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/3/84/487921762192843.jpeg",
+    "teaser": "Московское «Динамо» потерпело восьмое поражение за девять матчей КХЛ",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6ad26d73cbdde5c8485e773c",
+    "publishedAt": "2026-10-16T19:09:18.000Z",
+    "createdAt": "2026-10-16T20:46:20.634Z",
+    "updatedAt": "2026-10-16T20:46:20.634Z"
+  },
+  {
+    "id": "72cfdb58ed6768fe",
+    "title": "Игрок «Барселоны» Френки де Йонг восстановился после разрыва связок",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/9/94/487921748670949.jpeg",
+    "teaser": "Игрок «Барселоны» Френки де Йонг восстановился после разрыва связок",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6ad266f84b01699d737a2f28",
+    "publishedAt": "2026-10-16T19:02:58.000Z",
+    "createdAt": "2026-10-16T20:46:21.771Z",
+    "updatedAt": "2026-10-16T20:46:21.771Z"
+  },
+  {
+    "id": "4d1af4b039a92a0a",
+    "title": "Джокович впервые за 15 лет выступит на турнире в Базеле",
+    "sport": "Теннис",
+    "category": "Теннис",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/3/94/847921711979943.jpeg",
+    "teaser": "Джокович впервые за 15 лет выступит на турнире в Базеле",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6ad25825cea7d599fa996ef3",
+    "publishedAt": "2026-10-16T17:37:48.000Z",
+    "createdAt": "2026-10-16T20:46:22.675Z",
+    "updatedAt": "2026-10-16T20:46:22.675Z"
+  },
+  {
+    "id": "71ff41774691fdce",
+    "title": "«Авангард» с хет-триком второй раз в сезоне КХЛ обыграл «Автомобилист»",
+    "sport": "Хоккей",
+    "category": "Хоккей",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/4/49/107921672110494.jpeg",
+    "teaser": "«Авангард» с хет-триком второй раз в сезоне КХЛ обыграл «Автомобилист»",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6ad24b1e4a61116d578c2664",
+    "publishedAt": "2026-10-16T16:24:16.000Z",
+    "createdAt": "2026-10-16T20:46:23.731Z",
+    "updatedAt": "2026-10-16T20:46:23.731Z"
+  },
+  {
     "id": "e22adb461cec8c32",
     "title": "AS узнало, что «Реал» договорился о продлении контракта с Беллингемом",
     "sport": "Футбол",
@@ -10,8 +66,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6ad242bc7bfe5dbe1b87b9af",
     "publishedAt": "2026-10-16T16:09:47.000Z",
-    "createdAt": "2026-10-16T17:14:55.032Z",
-    "updatedAt": "2026-10-16T17:14:55.032Z"
+    "createdAt": "2026-10-16T20:46:24.851Z",
+    "updatedAt": "2026-10-16T20:46:24.851Z"
   },
   {
     "id": "109c922a0dc5c7a8",
@@ -24,8 +80,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6ad242dc45f669b92aae3ccf",
     "publishedAt": "2026-10-16T15:59:35.000Z",
-    "createdAt": "2026-10-16T17:14:55.931Z",
-    "updatedAt": "2026-10-16T17:14:55.931Z"
+    "createdAt": "2026-10-16T20:46:25.962Z",
+    "updatedAt": "2026-10-16T20:46:25.962Z"
   },
   {
     "id": "f5feba44cf134206",
@@ -38,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6ad239394a61116d578c262e",
     "publishedAt": "2026-10-16T15:20:36.000Z",
-    "createdAt": "2026-10-16T17:14:56.892Z",
-    "updatedAt": "2026-10-16T17:14:56.892Z"
+    "createdAt": "2026-10-16T20:46:27.101Z",
+    "updatedAt": "2026-10-16T20:46:27.101Z"
   },
   {
     "id": "f027384893512ae7",
@@ -52,8 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6ad2309d3ccf4c597e73c1b6",
     "publishedAt": "2026-10-16T14:41:21.000Z",
-    "createdAt": "2026-10-16T17:14:57.900Z",
-    "updatedAt": "2026-10-16T17:14:57.900Z"
+    "createdAt": "2026-10-16T20:46:28.216Z",
+    "updatedAt": "2026-10-16T20:46:28.216Z"
   },
   {
     "id": "a489b5c9c68bcdaf",
@@ -66,8 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6ad2235334c88d2e008c3d8d",
     "publishedAt": "2026-10-16T13:52:25.000Z",
-    "createdAt": "2026-10-16T17:14:58.800Z",
-    "updatedAt": "2026-10-16T17:14:58.800Z"
+    "createdAt": "2026-10-16T20:46:29.356Z",
+    "updatedAt": "2026-10-16T20:46:29.356Z"
   },
   {
     "id": "1bfb0da730690f0b",
@@ -80,63 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6ad21cecc69ebebcfba1ea84",
     "publishedAt": "2026-10-16T13:23:10.000Z",
-    "createdAt": "2026-10-16T17:14:59.799Z",
-    "updatedAt": "2026-10-16T17:14:59.799Z"
-  },
-  {
-    "id": "9dc695dd21d2d4e4",
-    "title": "Медведев вышел в полуфинал «Мастерс» в Шанхае",
-    "sport": "Теннис",
-    "category": "Теннис",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/2/18/337921508474182.jpeg",
-    "teaser": "Медведев вышел в полуфинал «Мастерс» в Шанхае",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6ad2082f62ba15e8852d5acf",
-    "publishedAt": "2026-10-16T12:22:39.000Z",
-    "createdAt": "2026-10-16T17:15:00.751Z",
-    "updatedAt": "2026-10-16T17:15:00.751Z"
-  },
-  {
-    "id": "afe7b0d7f35dcfe7",
-    "title": "Футболист ЦСКА побил рекорд Молодежной лиги, который держался 18 лет",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/4/34/927921524832344.jpeg",
-    "teaser": "Футболист ЦСКА побил рекорд Молодежной лиги, который держался 18 лет",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6ad2113acf7509c3df3df18b",
-    "publishedAt": "2026-10-16T12:18:45.000Z",
-    "createdAt": "2026-10-16T17:15:01.753Z",
-    "updatedAt": "2026-10-16T17:15:01.753Z"
-  },
-  {
-    "id": "70368ccce23c3867",
-    "title": "Глава World Gymnastics заявил о негативном влиянии из-за отказа россиянам",
-    "sport": "Другое",
-    "category": "Другие",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/0/07/987921488076070.jpeg",
-    "teaser": "Глава World Gymnastics заявил о негативном влиянии из-за отказа россиянам",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6ad2024c67acb5ead7d80e89",
-    "publishedAt": "2026-10-16T11:57:48.000Z",
-    "createdAt": "2026-10-16T17:15:02.760Z",
-    "updatedAt": "2026-10-16T17:15:02.760Z"
-  },
-  {
-    "id": "fff65734406a7b86",
-    "title": "В отеле российских гимнастов в Голландии сработала пожарная сигнализация",
-    "sport": "Другое",
-    "category": "Другие",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/4/03/217921453240034.jpeg",
-    "teaser": "В отеле российских гимнастов в Голландии сработала пожарная сигнализация",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6ad1f725bb8a749d539ca491",
-    "publishedAt": "2026-10-16T10:38:07.000Z",
-    "createdAt": "2026-10-16T17:15:03.780Z",
-    "updatedAt": "2026-10-16T17:15:03.780Z"
+    "createdAt": "2026-10-16T20:46:30.503Z",
+    "updatedAt": "2026-10-16T20:46:30.503Z"
   }
 ]
