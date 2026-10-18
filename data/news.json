@@ -1,5 +1,75 @@
 [
   {
+    "id": "e1711677d1334853",
+    "title": "Месси забил два гола клубу Миранчука и установил новый рекорд MLS",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/4/97/237923174147974.jpeg",
+    "teaser": "Месси забил два гола клубу Миранчука и установил новый рекорд MLS",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6ad497b8711a4d25208281db",
+    "publishedAt": "2026-10-18T10:08:38.000Z",
+    "createdAt": "2026-10-18T10:43:06.252Z",
+    "updatedAt": "2026-10-18T10:43:06.252Z"
+  },
+  {
+    "id": "413ba9e1591f6869",
+    "title": "Российский рекордсмен быстрее всех забил 50 голов в клубе НХЛ за 12 лет",
+    "sport": "Хоккей",
+    "category": "Хоккей",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/4/56/097923162121564.jpeg",
+    "teaser": "Российский рекордсмен быстрее всех забил 50 голов в клубе НХЛ за 12 лет",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6ad49313ae0abdefbadf4659",
+    "publishedAt": "2026-10-18T09:53:35.000Z",
+    "createdAt": "2026-10-18T10:43:07.309Z",
+    "updatedAt": "2026-10-18T10:43:07.309Z"
+  },
+  {
+    "id": "95057d8692a02123",
+    "title": "Екатерину Гамову включили в Международный зал славы волейбола",
+    "sport": "Другое",
+    "category": "Другие",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/7/66/097923149776667.png",
+    "teaser": "Екатерину Гамову включили в Международный зал славы волейбола",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6ad48bcf53ea10ee386f45d4",
+    "publishedAt": "2026-10-18T09:30:07.000Z",
+    "createdAt": "2026-10-18T10:43:08.441Z",
+    "updatedAt": "2026-10-18T10:43:08.441Z"
+  },
+  {
+    "id": "f7afc1fc5921ff36",
+    "title": "Лидер КХЛ уволил главного тренера из-за конфликта с игроками",
+    "sport": "Хоккей",
+    "category": "Хоккей",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/6/34/347841191298346.svg",
+    "teaser": "Лидер КХЛ уволил главного тренера из-за конфликта с игроками",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6ad4710d17f5720b26953846",
+    "publishedAt": "2026-10-18T07:13:38.000Z",
+    "createdAt": "2026-10-18T10:43:11.931Z",
+    "updatedAt": "2026-10-18T10:43:11.931Z"
+  },
+  {
+    "id": "69ec3effa2948c42",
+    "title": "Умер Русский Тайсон. Чем был известен российский боксер",
+    "sport": "Единоборства",
+    "category": "Единоборства",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/3/96/097922422350963.jpeg",
+    "teaser": "Умер Русский Тайсон. Чем был известен российский боксер",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6ad36552914c79f40946de44",
+    "publishedAt": "2026-10-17T21:01:27.000Z",
+    "createdAt": "2026-10-18T10:43:09.951Z",
+    "updatedAt": "2026-10-18T10:43:09.951Z"
+  },
+  {
     "id": "916f240918d5c763",
     "title": "«Краснодар» продлил серию без побед в РПЛ до пяти матчей",
     "sport": "Футбол",
@@ -10,8 +80,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6ad3b4bf6930dce2d397163b",
     "publishedAt": "2026-10-17T18:42:50.000Z",
-    "createdAt": "2026-10-18T05:36:22.372Z",
-    "updatedAt": "2026-10-18T05:36:22.372Z"
+    "createdAt": "2026-10-18T10:43:13.086Z",
+    "updatedAt": "2026-10-18T10:43:13.086Z"
   },
   {
     "id": "e5de0c5fc54052ab",
@@ -24,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6ad3a4546b9da3050bb32808",
     "publishedAt": "2026-10-17T18:41:20.000Z",
-    "createdAt": "2026-10-18T05:36:23.388Z",
-    "updatedAt": "2026-10-18T05:36:23.388Z"
+    "createdAt": "2026-10-18T10:43:14.225Z",
+    "updatedAt": "2026-10-18T10:43:14.225Z"
   },
   {
     "id": "e883621cb5639ded",
@@ -38,8 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6ad3a9050181bcdfac902042",
     "publishedAt": "2026-10-17T17:45:15.000Z",
-    "createdAt": "2026-10-18T05:36:24.408Z",
-    "updatedAt": "2026-10-18T05:36:24.408Z"
+    "createdAt": "2026-10-18T10:43:16.489Z",
+    "updatedAt": "2026-10-18T10:43:16.489Z"
   },
   {
     "id": "421d892ffba0f62e",
@@ -52,22 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6ad3a5b992d9064d6f44a484",
     "publishedAt": "2026-10-17T17:11:58.000Z",
-    "createdAt": "2026-10-18T05:36:25.346Z",
-    "updatedAt": "2026-10-18T05:36:25.346Z"
-  },
-  {
-    "id": "059b6fffe568022a",
-    "title": "Экс-тренер России сообщил о выборе Малкиным менее выгодного контракта НХЛ",
-    "sport": "Хоккей",
-    "category": "Хоккей",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/2/97/807922499202972.jpeg",
-    "teaser": "Экс-тренер России сообщил о выборе Малкиным менее выгодного контракта НХЛ",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6ad38cda8e6ccdd52d5aefda",
-    "publishedAt": "2026-10-17T16:12:45.000Z",
-    "createdAt": "2026-10-18T05:36:27.607Z",
-    "updatedAt": "2026-10-18T05:36:27.607Z"
+    "createdAt": "2026-10-18T10:43:15.332Z",
+    "updatedAt": "2026-10-18T10:43:15.332Z"
   },
   {
     "id": "3080e252597685ad",
@@ -80,63 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6ad38a060aed6d0c65dcaa0c",
     "publishedAt": "2026-10-17T15:34:20.000Z",
-    "createdAt": "2026-10-18T05:36:26.576Z",
-    "updatedAt": "2026-10-18T05:36:26.576Z"
-  },
-  {
-    "id": "01756053d1651c17",
-    "title": "Россиянин Корнев завоевал «Тройную корону» на Кубке мира по плаванию",
-    "sport": "Другое",
-    "category": "Другие",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/7/65/347922471240657.jpeg",
-    "teaser": "Россиянин Корнев завоевал «Тройную корону» на Кубке мира по плаванию",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6ad384d3087ac9dd313f0ede",
-    "publishedAt": "2026-10-17T14:46:37.000Z",
-    "createdAt": "2026-10-18T05:36:28.608Z",
-    "updatedAt": "2026-10-18T05:36:28.608Z"
-  },
-  {
-    "id": "a4115239b64e5dfa",
-    "title": "Чемпиона мира по футболу унесли на носилках во время матча АПЛ",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/8/37/867922437050378.jpeg",
-    "teaser": "Чемпиона мира по футболу унесли на носилках во время матча АПЛ",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6ad3768dc7d012aeaa871eab",
-    "publishedAt": "2026-10-17T13:57:00.000Z",
-    "createdAt": "2026-10-18T05:36:30.253Z",
-    "updatedAt": "2026-10-18T05:36:30.253Z"
-  },
-  {
-    "id": "8a9f97507b061b37",
-    "title": "Медведев не смог выйти в финал «Мастерс» в Шанхае",
-    "sport": "Теннис",
-    "category": "Теннис",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/3/82/057922406208823.jpeg",
-    "teaser": "Медведев не смог выйти в финал «Мастерс» в Шанхае",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6ad369150aed6d0c65dca9f3",
-    "publishedAt": "2026-10-17T13:19:28.000Z",
-    "createdAt": "2026-10-18T05:36:32.306Z",
-    "updatedAt": "2026-10-18T05:36:32.306Z"
-  },
-  {
-    "id": "22c6af6a849f3aff",
-    "title": "Один из худших клубов РПЛ прервал рекордную серию без побед в чемпионате",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/2/28/077922398045282.jpeg",
-    "teaser": "Один из худших клубов РПЛ прервал рекордную серию без побед в чемпионате",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6ad3681d14d7ccaafcae0ac1",
-    "publishedAt": "2026-10-17T13:10:35.000Z",
-    "createdAt": "2026-10-18T05:36:31.285Z",
-    "updatedAt": "2026-10-18T05:36:31.285Z"
+    "createdAt": "2026-10-18T10:43:17.598Z",
+    "updatedAt": "2026-10-18T10:43:17.598Z"
   }
 ]
