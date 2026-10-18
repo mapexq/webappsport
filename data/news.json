@@ -1,5 +1,33 @@
 [
   {
+    "id": "87a3bb17c11d3f97",
+    "title": "В чемпионате Англии забили гол с самой дальней дистанции за девять лет",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/5/02/987923494553025.jpeg",
+    "teaser": "В чемпионате Англии забили гол с самой дальней дистанции за девять лет",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6ad514e54fec30b0862b1b61",
+    "publishedAt": "2026-10-18T19:05:09.000Z",
+    "createdAt": "2026-10-18T20:23:44.772Z",
+    "updatedAt": "2026-10-18T20:23:44.772Z"
+  },
+  {
+    "id": "fc5a94b16646fb14",
+    "title": "McLaren продаст пять болидов, которыми управляли чемпионы F1 и Брэд Питт",
+    "sport": "Другое",
+    "category": "Формула-1",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/7/38/677923469643387.jpeg",
+    "teaser": "McLaren продаст пять болидов, которыми управляли чемпионы F1 и Брэд Питт",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6ad50ad79992ed97d58791b6",
+    "publishedAt": "2026-10-18T18:35:05.000Z",
+    "createdAt": "2026-10-18T20:23:43.704Z",
+    "updatedAt": "2026-10-18T20:23:43.704Z"
+  },
+  {
     "id": "f3fe0a6b5af91c8e",
     "title": "«Спартак» одержал самую крупную победу в сезоне РПЛ",
     "sport": "Футбол",
@@ -10,8 +38,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6ad5038f4b9446647dc53d05",
     "publishedAt": "2026-10-18T17:53:22.000Z",
-    "createdAt": "2026-10-18T17:55:44.396Z",
-    "updatedAt": "2026-10-18T17:55:44.396Z"
+    "createdAt": "2026-10-18T20:23:42.567Z",
+    "updatedAt": "2026-10-18T20:23:42.567Z"
   },
   {
     "id": "46d82832e0cf03b6",
@@ -24,8 +52,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6ad4fde64b9446647dc53d01",
     "publishedAt": "2026-10-18T17:34:14.000Z",
-    "createdAt": "2026-10-18T17:55:46.393Z",
-    "updatedAt": "2026-10-18T17:55:46.393Z"
+    "createdAt": "2026-10-18T20:23:49.179Z",
+    "updatedAt": "2026-10-18T20:23:49.179Z"
   },
   {
     "id": "b317521e35fcb3d6",
@@ -38,22 +66,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6ad4f7aa9f67ca48c407033d",
     "publishedAt": "2026-10-18T16:59:09.000Z",
-    "createdAt": "2026-10-18T17:55:45.306Z",
-    "updatedAt": "2026-10-18T17:55:45.306Z"
-  },
-  {
-    "id": "2a36b613684bbd11",
-    "title": "Россиянка впервые взяла золото чемпионата Европы по настольному теннису",
-    "sport": "Другое",
-    "category": "Другие",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/6/78/117923408106786.png",
-    "teaser": "Россиянка впервые взяла золото чемпионата Европы по настольному теннису",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6ad4eff198dce37ae8c96bbb",
-    "publishedAt": "2026-10-18T16:32:39.000Z",
-    "createdAt": "2026-10-18T17:55:53.437Z",
-    "updatedAt": "2026-10-18T17:55:53.437Z"
+    "createdAt": "2026-10-18T20:23:45.892Z",
+    "updatedAt": "2026-10-18T20:23:45.892Z"
   },
   {
     "id": "25231cf5157432af",
@@ -66,8 +80,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6ad4eb3cba49aad68c4b32d9",
     "publishedAt": "2026-10-18T16:09:36.000Z",
-    "createdAt": "2026-10-18T17:55:47.420Z",
-    "updatedAt": "2026-10-18T17:55:47.420Z"
+    "createdAt": "2026-10-18T20:23:50.178Z",
+    "updatedAt": "2026-10-18T20:23:50.178Z"
   },
   {
     "id": "e51f0cff519cbcd4",
@@ -80,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6ad4e5394b9446647dc53ce3",
     "publishedAt": "2026-10-18T15:41:05.000Z",
-    "createdAt": "2026-10-18T17:55:50.481Z",
-    "updatedAt": "2026-10-18T17:55:50.481Z"
+    "createdAt": "2026-10-18T20:23:51.179Z",
+    "updatedAt": "2026-10-18T20:23:51.179Z"
   },
   {
     "id": "5a07082db70b8c52",
@@ -94,8 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6ad4e0cf4fec30b0862b1b03",
     "publishedAt": "2026-10-18T15:20:44.000Z",
-    "createdAt": "2026-10-18T17:55:48.437Z",
-    "updatedAt": "2026-10-18T17:55:48.437Z"
+    "createdAt": "2026-10-18T20:23:47.008Z",
+    "updatedAt": "2026-10-18T20:23:47.008Z"
   },
   {
     "id": "cd549d973afbf477",
@@ -108,22 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6ad4d13f9f67ca48c407032c",
     "publishedAt": "2026-10-18T14:24:21.000Z",
-    "createdAt": "2026-10-18T17:55:51.497Z",
-    "updatedAt": "2026-10-18T17:55:51.497Z"
-  },
-  {
-    "id": "809d7be07cac99a8",
-    "title": "Полицейский бросил прогибом участника драки на турнире UFC в Канаде",
-    "sport": "Единоборства",
-    "category": "Единоборства",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/1/34/127923277930341.jpeg",
-    "teaser": "Полицейский бросил прогибом участника драки на турнире UFC в Канаде",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6ad4bb1d9180bc6765bdb41d",
-    "publishedAt": "2026-10-18T12:50:11.000Z",
-    "createdAt": "2026-10-18T17:55:52.524Z",
-    "updatedAt": "2026-10-18T17:55:52.524Z"
+    "createdAt": "2026-10-18T20:23:52.239Z",
+    "updatedAt": "2026-10-18T20:23:52.239Z"
   },
   {
     "id": "69ec3effa2948c42",
@@ -136,7 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6ad36552914c79f40946de44",
     "publishedAt": "2026-10-17T21:01:27.000Z",
-    "createdAt": "2026-10-18T17:55:49.456Z",
-    "updatedAt": "2026-10-18T17:55:49.456Z"
+    "createdAt": "2026-10-18T20:23:48.164Z",
+    "updatedAt": "2026-10-18T20:23:48.164Z"
   }
 ]
