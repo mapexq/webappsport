@@ -1,6 +1,38 @@
 [
   {
-    "id": 1792624042080,
+    "id": 1792642041923,
+    "eventName": "Матч",
+    "discipline": "Футбол",
+    "tournament": "Чемпионат",
+    "expert": {
+      "name": "Кристал Пэлэс",
+      "avatar": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=100&h=100&fit=crop",
+      "status": "expert",
+      "winRate": 77
+    },
+    "prediction": "Обе забьют (Да)",
+    "odds": 1.45,
+    "comment": "Комментарий к прогнозу",
+    "source": "Sports Analytics Pro"
+  },
+  {
+    "id": 1792642041925,
+    "eventName": "Матч",
+    "discipline": "Футбол",
+    "tournament": "Чемпионат",
+    "expert": {
+      "name": "Олимпик Марсель",
+      "avatar": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=100&h=100&fit=crop",
+      "status": "expert",
+      "winRate": 87
+    },
+    "prediction": "Обе забьют — нет",
+    "odds": 2.2,
+    "comment": "Комментарий к прогнозу",
+    "source": "Sports Analytics Pro"
+  },
+  {
+    "id": 1792642041926,
     "eventName": "Матч",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -16,23 +48,7 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1792624042081,
-    "eventName": "Матч",
-    "discipline": "Футбол",
-    "tournament": "Чемпионат",
-    "expert": {
-      "name": "Лига Конференций",
-      "avatar": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=100&h=100&fit=crop",
-      "status": "expert",
-      "winRate": 71
-    },
-    "prediction": "Обе забьют — да",
-    "odds": 1.95,
-    "comment": "Комментарий к прогнозу",
-    "source": "Sports Analytics Pro"
-  },
-  {
-    "id": 1792624042082,
+    "id": 1792642041927,
     "eventName": "Матч",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -48,87 +64,39 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1792624042083,
+    "id": 1792642041928,
     "eventName": "Матч",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
     "expert": {
-      "name": "Майами Хит",
+      "name": "Персик Кедири",
       "avatar": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=100&h=100&fit=crop",
       "status": "expert",
-      "winRate": 70
+      "winRate": 76
     },
-    "prediction": "П1 с ОТ",
-    "odds": 1.83,
+    "prediction": "Индивидуальный тотал «ПСС Слеман» больше (1)",
+    "odds": 2,
     "comment": "Комментарий к прогнозу",
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1792624042084,
+    "id": 1792642041929,
     "eventName": "Матч",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
     "expert": {
-      "name": "Црвена Звезда",
-      "avatar": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=100&h=100&fit=crop",
-      "status": "expert",
-      "winRate": 71
-    },
-    "prediction": "П2 и ТМ (174,5)",
-    "odds": 2.75,
-    "comment": "Комментарий к прогнозу",
-    "source": "Sports Analytics Pro"
-  },
-  {
-    "id": 1792624042085,
-    "eventName": "Матч",
-    "discipline": "Футбол",
-    "tournament": "Чемпионат",
-    "expert": {
-      "name": "Лига Конференций",
-      "avatar": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=100&h=100&fit=crop",
-      "status": "expert",
-      "winRate": 71
-    },
-    "prediction": "ИТБ 2 (1,5)",
-    "odds": 2.4,
-    "comment": "Комментарий к прогнозу",
-    "source": "Sports Analytics Pro"
-  },
-  {
-    "id": 1792624042086,
-    "eventName": "Матч",
-    "discipline": "Футбол",
-    "tournament": "Чемпионат",
-    "expert": {
-      "name": "Анджелес Лейкерс",
-      "avatar": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=100&h=100&fit=crop",
-      "status": "expert",
-      "winRate": 72
-    },
-    "prediction": "П1 и ИТМ1 (123,5)",
-    "odds": 2.77,
-    "comment": "Комментарий к прогнозу",
-    "source": "Sports Analytics Pro"
-  },
-  {
-    "id": 1792624042087,
-    "eventName": "Матч",
-    "discipline": "Футбол",
-    "tournament": "Чемпионат",
-    "expert": {
-      "name": "Кристал Пэлэс",
+      "name": "Лига Европы",
       "avatar": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=100&h=100&fit=crop",
       "status": "expert",
       "winRate": 77
     },
-    "prediction": "обе забьют и ТБ (2,5)",
-    "odds": 1.85,
+    "prediction": "Ф2 (-1,5)",
+    "odds": 1.6,
     "comment": "Комментарий к прогнозу",
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1792624042088,
+    "id": 1792642041930,
     "eventName": "Матч",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -144,19 +112,51 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1792624042090,
-    "eventName": "Анадолу Эфес — Бешикташ",
-    "discipline": "Баскетбол",
-    "tournament": "НБА",
+    "id": 1792642041931,
+    "eventName": "Матч",
+    "discipline": "Футбол",
+    "tournament": "Чемпионат",
     "expert": {
-      "name": "Юрий Тимофеев",
-      "avatar": "https://bookmaker-ratings.ru/static/images/badges/author-letter.svg?v=30092024",
+      "name": "Црвена Звезда",
+      "avatar": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=100&h=100&fit=crop",
       "status": "expert",
-      "winRate": 83
+      "winRate": 71
     },
-    "prediction": "Ф2 (+5)",
-    "odds": 1.83,
-    "comment": "«Анадолу Эфес» пытается справиться с потерей Майка Джеймса, но Кэмерон Пейн не всегда выручает. Тем не менее в минувшем матче Евролиги на выезде стамбульцы сумели справиться с «Жальгирисом», но затем уступили в чемпионате Турции. С атакой у «Анадолу» не все хорошо — 16-е место с показателем в 82 очка против 3-й атаки у «Бешикташа» (93,2). Поэтому Пабло Ласо все больше смещает акцент в игре в сторону защиты, а там ситуация чуть лучше — 6-е место (85 очков). «Анадолу» прервал серию из 3 поражений в Евролиге, но дома в прошлых двух матчах победил однажды, хотя в атаке был хорош, но это все случилось до травмы Майка Джеймса. «Бешикташ» уверенно чередует победы и поражения. С атакой у гостей все отлично, и именно дальняя стрельба, которая по точности 2-я в Евролиге, помогла в последнем матче перед своими фанами остановить «Баварию». В гостях «Бешикташ» не безнадежен — 2 победы в 3 матчах при очень приличной атаке — 94,5 очка за матч, хотя с защитой и там все грустно. У «Бешикташа» 17-я защита, которая в среднем пропускает по 92,5 очка, но против «Анадолу Эфеса» вряд ли стоит ждать запредельную результативность. Букмекеры понимают стиль игры «Эфеса», поэтому тотал выставляется не очень высокий, как для резвости гостей, а вот серьезная недооценка «Бешикташа» удивляет. Победу выездной команды с Ф2 (+5) можно взять за 1,83. Победа «Бешикташа» при ТБ (162,5) предлагается за безумные 3,77. Хотя можно гостей взять и с Ф2 (+6,5) при Тотале 174,5, но тут из-за бережливости хозяев больше напрашивается низ. В целом плюсовая фора на гостей — вариант рабочий. Скачай приложение РБ и получай Push-уведомления о прогнозах выбранных экспертов Скачай мобильное приложение Рейтинг Букмекеров и мгновенно получай Push-уведомления о новых прогнозах выбранных экспертов Скачай мобильное приложение по ссылке или QR-коду и мгновенно получай Push-уведомления о новых прогнозах выбранных экспертов",
+    "prediction": "П2 и ТМ (174,5)",
+    "odds": 2.75,
+    "comment": "Комментарий к прогнозу",
+    "source": "Sports Analytics Pro"
+  },
+  {
+    "id": 1792642041932,
+    "eventName": "Матч",
+    "discipline": "Футбол",
+    "tournament": "Чемпионат",
+    "expert": {
+      "name": "Лига Конференций",
+      "avatar": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=100&h=100&fit=crop",
+      "status": "expert",
+      "winRate": 71
+    },
+    "prediction": "Обе забьют — да",
+    "odds": 1.95,
+    "comment": "Комментарий к прогнозу",
+    "source": "Sports Analytics Pro"
+  },
+  {
+    "id": 1792642041933,
+    "eventName": "Матч",
+    "discipline": "Футбол",
+    "tournament": "Чемпионат",
+    "expert": {
+      "name": "Лига Конференций",
+      "avatar": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=100&h=100&fit=crop",
+      "status": "expert",
+      "winRate": 71
+    },
+    "prediction": "ИТБ 2 (1,5)",
+    "odds": 2.4,
+    "comment": "Комментарий к прогнозу",
     "source": "Sports Analytics Pro"
   }
 ]
