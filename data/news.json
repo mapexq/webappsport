@@ -1,5 +1,89 @@
 [
   {
+    "id": "d49b72b15a2f9359",
+    "title": "Китайский пловец побил мировой рекорд на дистанции 50 м на спине",
+    "sport": "Другое",
+    "category": "Другие",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/0/99/047928620700990.jpeg",
+    "teaser": "Китайский пловец побил мировой рекорд на дистанции 50 м на спине",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6adce73354a9542694922454",
+    "publishedAt": "2026-10-24T17:21:25.000Z",
+    "createdAt": "2026-10-24T17:59:59.793Z",
+    "updatedAt": "2026-10-24T17:59:59.793Z"
+  },
+  {
+    "id": "34471233703d71ee",
+    "title": "Российские фигуристы впервые за пять выступили на этапе Гран-при ISU",
+    "sport": "Другое",
+    "category": "Фигурное катание",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/6/03/967928608387036.jpeg",
+    "teaser": "Российские фигуристы впервые за пять выступили на этапе Гран-при ISU",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6adce2073137bb8105aac59a",
+    "publishedAt": "2026-10-24T17:11:03.000Z",
+    "createdAt": "2026-10-24T17:59:58.796Z",
+    "updatedAt": "2026-10-24T17:59:58.796Z"
+  },
+  {
+    "id": "d76a157fe5dabc0f",
+    "title": "Внука диктатора Иди Амина лишили боксерской медали за запрещенный удар",
+    "sport": "Единоборства",
+    "category": "Единоборства",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/6/50/517928593187506.jpeg",
+    "teaser": "Внука диктатора Иди Амина лишили боксерской медали за запрещенный удар",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6adcdc959a6736607dca5871",
+    "publishedAt": "2026-10-24T16:48:59.000Z",
+    "createdAt": "2026-10-24T18:00:00.914Z",
+    "updatedAt": "2026-10-24T18:00:00.914Z"
+  },
+  {
+    "id": "f4b331d5c3e4dd64",
+    "title": "«Крылья Советов» нанесли «Рубину» третье подряд поражение в РПЛ",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/7/80/307928586120807.jpeg",
+    "teaser": "«Крылья Советов» нанесли «Рубину» третье подряд поражение в РПЛ",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6ace789c227fa3d262f2b8cf",
+    "publishedAt": "2026-10-24T16:15:28.000Z",
+    "createdAt": "2026-10-24T18:00:02.037Z",
+    "updatedAt": "2026-10-24T18:00:02.037Z"
+  },
+  {
+    "id": "0af85d17d3d07470",
+    "title": "Экс-чемпион ACA Вагаев выиграл второй за три месяца бой в UFC",
+    "sport": "Единоборства",
+    "category": "Единоборства",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/3/64/307928554062643.jpeg",
+    "teaser": "Экс-чемпион ACA Вагаев выиграл второй за три месяца бой в UFC",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6acf8fb2dc8803018721f281",
+    "publishedAt": "2026-10-24T15:42:48.000Z",
+    "createdAt": "2026-10-24T18:00:03.164Z",
+    "updatedAt": "2026-10-24T18:00:03.164Z"
+  },
+  {
+    "id": "70578f9e91c9c60b",
+    "title": "Судья травмировал бойца после его победы на турнире по ММА в Южной Корее",
+    "sport": "Единоборства",
+    "category": "Единоборства",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/3/90/307928534041903.jpeg",
+    "teaser": "Судья травмировал бойца после его победы на турнире по ММА в Южной Корее",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6adcc54e9a6736607dca5833",
+    "publishedAt": "2026-10-24T15:07:07.000Z",
+    "createdAt": "2026-10-24T18:00:04.643Z",
+    "updatedAt": "2026-10-24T18:00:04.643Z"
+  },
+  {
     "id": "4229e81b6b302942",
     "title": "Дочь Тутберидзе впервые завоевала медаль на этапе Гран-при ISU",
     "sport": "Другое",
@@ -10,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6ad352476930dce2d3971616",
     "publishedAt": "2026-10-24T14:11:04.000Z",
-    "createdAt": "2026-10-24T14:23:04.783Z",
-    "updatedAt": "2026-10-24T14:23:04.783Z"
+    "createdAt": "2026-10-24T18:00:05.729Z",
+    "updatedAt": "2026-10-24T18:00:05.729Z"
   },
   {
     "id": "7d91114b0a43ea30",
@@ -24,8 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6ad7d0da9a7947349cd2ae06",
     "publishedAt": "2026-10-24T13:59:16.000Z",
-    "createdAt": "2026-10-24T14:23:05.762Z",
-    "updatedAt": "2026-10-24T14:23:05.762Z"
+    "createdAt": "2026-10-24T18:00:06.838Z",
+    "updatedAt": "2026-10-24T18:00:06.838Z"
   },
   {
     "id": "3a98f64807e340af",
@@ -38,8 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6adcb2533c765fe671670db3",
     "publishedAt": "2026-10-24T13:50:27.000Z",
-    "createdAt": "2026-10-24T14:23:06.800Z",
-    "updatedAt": "2026-10-24T14:23:06.800Z"
+    "createdAt": "2026-10-24T18:00:07.922Z",
+    "updatedAt": "2026-10-24T18:00:07.922Z"
   },
   {
     "id": "fae5f09401d33ad1",
@@ -52,91 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6acddbd5ef402648397549d4",
     "publishedAt": "2026-10-24T13:24:29.000Z",
-    "createdAt": "2026-10-24T14:23:07.793Z",
-    "updatedAt": "2026-10-24T14:23:07.793Z"
-  },
-  {
-    "id": "b7cccb957eda8db8",
-    "title": "11-летняя британка побила 38-летний рекорд Юдит Полгар в шахматах",
-    "sport": "Другое",
-    "category": "Другие",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/9/73/617928450677739.jpeg",
-    "teaser": "11-летняя британка побила 38-летний рекорд Юдит Полгар в шахматах",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6aabe2f39a794776cade964b",
-    "publishedAt": "2026-10-24T12:48:48.000Z",
-    "createdAt": "2026-10-24T14:23:08.776Z",
-    "updatedAt": "2026-10-24T14:23:08.776Z"
-  },
-  {
-    "id": "19cb5eec279709dd",
-    "title": "Фигурист Гуменник выиграл короткую программу на этапе Гран-при России",
-    "sport": "Другое",
-    "category": "Фигурное катание",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/3/74/397928441400743.jpeg",
-    "teaser": "Фигурист Гуменник выиграл короткую программу на этапе Гран-при России",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6adca12a678a187a77afd6ff",
-    "publishedAt": "2026-10-24T12:21:16.000Z",
-    "createdAt": "2026-10-24T14:23:09.804Z",
-    "updatedAt": "2026-10-24T14:23:09.804Z"
-  },
-  {
-    "id": "283e9186d498994d",
-    "title": "В Софии застрелили вице-президента Болгарского олимпийского комитета",
-    "sport": "Другое",
-    "category": "Другие",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/7/69/467928431866697.jpeg",
-    "teaser": "В Софии застрелили вице-президента Болгарского олимпийского комитета",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6adc9c65514b1a2457c9c25d",
-    "publishedAt": "2026-10-24T12:18:30.000Z",
-    "createdAt": "2026-10-24T14:23:11.053Z",
-    "updatedAt": "2026-10-24T14:23:11.053Z"
-  },
-  {
-    "id": "6c55d899d2ae215c",
-    "title": "Лидирующее в РПЛ «Динамо» проиграло впервые за 10 матчей",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/7/33/467928416429337.jpeg",
-    "teaser": "Лидирующее в РПЛ «Динамо» проиграло впервые за 10 матчей",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6adc975b3c765fe671670d8a",
-    "publishedAt": "2026-10-24T11:42:17.000Z",
-    "createdAt": "2026-10-24T14:23:12.680Z",
-    "updatedAt": "2026-10-24T14:23:12.680Z"
-  },
-  {
-    "id": "37c5ff5418ce8e54",
-    "title": "Россиянка проиграла Рыбакиной в полуфинале крупного турнира WTA в Китае",
-    "sport": "Теннис",
-    "category": "Теннис",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/4/21/477928405951214.jpeg",
-    "teaser": "Россиянка проиграла Рыбакиной в полуфинале крупного турнира WTA в Китае",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6acfdd3a9a79479d4a85fa81",
-    "publishedAt": "2026-10-24T11:30:30.000Z",
-    "createdAt": "2026-10-24T14:23:14.609Z",
-    "updatedAt": "2026-10-24T14:23:14.609Z"
-  },
-  {
-    "id": "aadd0756e92102a3",
-    "title": "Россия с победы 12:0 стартовала на первом с 2022 года турнире ФИФА",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/6/02/617928413097026.jpeg",
-    "teaser": "Россия с победы 12:0 стартовала на первом с 2022 года турнире ФИФА",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6adc94dbb2f610bd273aa6ad",
-    "publishedAt": "2026-10-24T11:26:24.000Z",
-    "createdAt": "2026-10-24T14:23:13.702Z",
-    "updatedAt": "2026-10-24T14:23:13.702Z"
+    "createdAt": "2026-10-24T18:00:09.013Z",
+    "updatedAt": "2026-10-24T18:00:09.013Z"
   }
 ]
