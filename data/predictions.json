@@ -1,22 +1,6 @@
 [
   {
-    "id": 1792937528221,
-    "eventName": "Матч",
-    "discipline": "Футбол",
-    "tournament": "Чемпионат",
-    "expert": {
-      "name": "Хамрун Спартанс",
-      "avatar": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=100&h=100&fit=crop",
-      "status": "expert",
-      "winRate": 89
-    },
-    "prediction": "Тотал (2.5) Б",
-    "odds": 2.05,
-    "comment": "Комментарий к прогнозу",
-    "source": "Sports Analytics Pro"
-  },
-  {
-    "id": 1792937528223,
+    "id": 1792952216073,
     "eventName": "Матч",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -32,71 +16,71 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1792937528224,
-    "eventName": "Барселона — Реал Мадрид",
+    "id": 1792952216074,
+    "eventName": "Матч",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
     "expert": {
-      "name": "Alex-vasilev Типстеров",
-      "avatar": "https://s3-static-prod.storage.yandexcloud.net/2026/09/rb-webp-bc33230e0c06-3a36a8c38d4b.webp",
+      "name": "Борац Земун",
+      "avatar": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=100&h=100&fit=crop",
       "status": "expert",
-      "winRate": 70
+      "winRate": 87
     },
-    "prediction": "Обе забьют - Да",
-    "odds": 1.28,
-    "comment": "Кэф мал, но надо брать. Крайне редко матчи проходят без голов в обе стороны.",
-    "source": "Sports Analytics Pro"
-  },
-  {
-    "id": 1792937528225,
-    "eventName": "Сельта — Бетис",
-    "discipline": "Футбол",
-    "tournament": "Чемпионат",
-    "expert": {
-      "name": "АШАлександр Швецов",
-      "avatar": "https://bookmaker-ratings.ru/static/images/badges/novice-letter.svg?v=30092024",
-      "status": "expert",
-      "winRate": 89
-    },
-    "prediction": "Обе забьют - Да",
-    "odds": 1.62,
-    "comment": "Опять же статистика очных игр говорит нам о стабильности взятия ворот друг друга. Скачай приложение РБ и получай Push-уведомления о прогнозах выбранных экспертов Скачай мобильное приложение Рейтинг Букмекеров и мгновенно получай Push-уведомления о новых прогнозах выбранных экспертов Скачай мобильное приложение по ссылке или QR-коду и мгновенно получай Push-уведомления о новых прогнозах выбранных экспертов",
-    "source": "Sports Analytics Pro"
-  },
-  {
-    "id": 1792937528226,
-    "eventName": "Фрайбург — Бавария",
-    "discipline": "Футбол",
-    "tournament": "Чемпионат",
-    "expert": {
-      "name": "Максим Олегович",
-      "avatar": "https://s3-static-prod.storage.yandexcloud.net/uploads/2026/10/2107-rb-webp-f24dc4f5e73c-8f77050ebab8.webp",
-      "status": "expert",
-      "winRate": 83
-    },
-    "prediction": "Победа 2",
-    "odds": 1.5,
-    "comment": "Фрайбург как бы не был хорош, но он не сможет одолеть Баварию",
-    "source": "Sports Analytics Pro"
-  },
-  {
-    "id": 1792937528227,
-    "eventName": "Реал Сосьедад — Леванте",
-    "discipline": "Футбол",
-    "tournament": "Чемпионат",
-    "expert": {
-      "name": "Александр Чистов",
-      "avatar": "https://static-uploads.prod.bookmaker-ratings.ru/2026/09/1f226c6f-c85f-43be-aafc-00c350f1adce-rb-webp-6a9d9703d8344-6a9d9703e3249.webp?width=60",
-      "status": "expert",
-      "winRate": 86
-    },
-    "prediction": "Фора 1 (-1)",
-    "odds": 1.91,
+    "prediction": "Тотал (168.5) М",
+    "odds": 1.65,
     "comment": "Комментарий к прогнозу",
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1792937528228,
+    "id": 1792952216075,
+    "eventName": "Матч",
+    "discipline": "Футбол",
+    "tournament": "Чемпионат",
+    "expert": {
+      "name": "Ла Лига",
+      "avatar": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=100&h=100&fit=crop",
+      "status": "expert",
+      "winRate": 77
+    },
+    "prediction": "П1 и ИТБ1 (1,5)",
+    "odds": 1.73,
+    "comment": "Комментарий к прогнозу",
+    "source": "Sports Analytics Pro"
+  },
+  {
+    "id": 1792952216076,
+    "eventName": "Матч",
+    "discipline": "Футбол",
+    "tournament": "Чемпионат",
+    "expert": {
+      "name": "Юта Джаз",
+      "avatar": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=100&h=100&fit=crop",
+      "status": "expert",
+      "winRate": 71
+    },
+    "prediction": "ТБ (67,5) самой результативной четверти",
+    "odds": 1.85,
+    "comment": "Комментарий к прогнозу",
+    "source": "Sports Analytics Pro"
+  },
+  {
+    "id": 1792952216077,
+    "eventName": "Моюка Учижима — Элизе Мертенс",
+    "discipline": "Футбол",
+    "tournament": "Чемпионат",
+    "expert": {
+      "name": "profibets profibets",
+      "avatar": "https://bookmaker-ratings.ru/static/images/badges/expert-letter.svg?v=30092024",
+      "status": "expert",
+      "winRate": 70
+    },
+    "prediction": "Эйсы П2",
+    "odds": 1.6,
+    "comment": "Смотрим статистику выступления участниц предстоящего матча на открытом харде за последний год. Моюка Учижима в среднем за гейм выполняет 0,27 эйса, при этом от своих соперниц пропускает с частотой 0,20 эйса за гейм. Элизе Мертенс делает 0,41 эйса за гейм, а пропускает 0,26 эйса за гейм. Как видите, у Мертенс есть преимущество на своей подаче, а на приеме чужой цифры лучше у Учижимы. За время своей профессиональной карьеры теннисистки играли друг против друга два раза. Оба матча состоялись на открытом харде. В 2026 году по итогам двух сетов Мертенс победила по эйсам 2-0. В 2022 году после трех сетов счет был 2-1 в пользу бельгийской теннисистки. Так что ставим на победу Мертенс по эйсам.",
+    "source": "Sports Analytics Pro"
+  },
+  {
+    "id": 1792952216078,
     "eventName": "Филадельфия — Детройт",
     "discipline": "Баскетбол",
     "tournament": "НБА",
@@ -112,7 +96,23 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1792937528229,
+    "id": 1792952216079,
+    "eventName": "ПСЖ — Лион",
+    "discipline": "Футбол",
+    "tournament": "Чемпионат",
+    "expert": {
+      "name": "Александр Трибуш",
+      "avatar": "https://bookmaker-ratings.ru/static/images/badges/author-letter.svg?v=30092024",
+      "status": "expert",
+      "winRate": 76
+    },
+    "prediction": "П1 и обе забьют — да",
+    "odds": 2.4,
+    "comment": "Ждем очередную результативную игру от «ПСЖ», который набрал ход и победил в семи матчах подряд. Причем парижане на эмоциональном подъеме после матчей Лиги чемпионов, где на выезде сокрушили «Манчестер Сити» (4:2) и дома разобрались с «Барсой» (4:2). У «ПСЖ» нет проблем и в личных встречах против «Лиона»: девять побед на дистанции 12 игр. В то же время между собой «ПСЖ» и «Лион» играют результативно — во всех семи последних личных матчах зашла ставка на ТБ (2,5) через обе забьют. Тренд на верха с голами от обеих команд сработал и в девяти из десяти прошлых встреч парижан во всех турнирах. Вывод: ставим на победу «ПСЖ» и обе забьют по высокому кэфу 2,40. В победе фаворитов в текущей форме можно не сомневаться, но свой гол лионцы закатят. К тому же вместе с матчами прошлого сезона «Лион» отличился в 17 из 20 предыдущих игр. А в таблице чемпионата клуб идет в группе лидеров с 14 очками в семи турах.",
+    "source": "Sports Analytics Pro"
+  },
+  {
+    "id": 1792952216080,
     "eventName": "Спортинг — Академика де Визеу",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -128,18 +128,34 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1792937528230,
-    "eventName": "Санта Клара — Бенфика",
+    "id": 1792952216081,
+    "eventName": "Барселона — Реал Мадрид",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
     "expert": {
-      "name": "МВМарат Вазыхов",
-      "avatar": "https://bookmaker-ratings.ru/static/images/badges/forecaster-letter.svg?v=30092024",
+      "name": "Alex-vasilev Типстеров",
+      "avatar": "https://s3-static-prod.storage.yandexcloud.net/2026/09/rb-webp-bc33230e0c06-3a36a8c38d4b.webp",
       "status": "expert",
-      "winRate": 73
+      "winRate": 70
+    },
+    "prediction": "Обе забьют - Да",
+    "odds": 1.28,
+    "comment": "Кэф мал, но надо брать. Крайне редко матчи проходят без голов в обе стороны.",
+    "source": "Sports Analytics Pro"
+  },
+  {
+    "id": 1792952216082,
+    "eventName": "Удинезе — Милан",
+    "discipline": "Футбол",
+    "tournament": "Чемпионат",
+    "expert": {
+      "name": "СССаша Сан",
+      "avatar": "https://bookmaker-ratings.ru/static/images/badges/novice-letter.svg?v=30092024",
+      "status": "expert",
+      "winRate": 81
     },
     "prediction": "Победа 2",
-    "odds": 1.4,
+    "odds": 1.83,
     "comment": "Комментарий к прогнозу",
     "source": "Sports Analytics Pro"
   }
