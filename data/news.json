@@ -1,5 +1,47 @@
 [
   {
+    "id": "e86b36d7c2940197",
+    "title": "Сборная России разгромила третьего соперника на турнире ФИФА",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/6/87/817929531630876.jpeg",
+    "teaser": "Сборная России разгромила третьего соперника на турнире ФИФА",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6ade453124639466d2c1ebac",
+    "publishedAt": "2026-10-25T18:40:42.000Z",
+    "createdAt": "2026-10-25T21:34:10.964Z",
+    "updatedAt": "2026-10-25T21:34:10.964Z"
+  },
+  {
+    "id": "a3dd33ff9386fef5",
+    "title": "Эстония допустила отказ от Олимпиады при участии России",
+    "sport": "Другое",
+    "category": "Другие",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/4/67/547929506062674.png",
+    "teaser": "Эстония допустила отказ от Олимпиады при участии России",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6ade357fb245c5ca57c56579",
+    "publishedAt": "2026-10-25T18:31:45.000Z",
+    "createdAt": "2026-10-25T21:34:07.697Z",
+    "updatedAt": "2026-10-25T21:34:07.697Z"
+  },
+  {
+    "id": "b3ea914569985959",
+    "title": "Турнирная таблица РПЛ сезона 2026/27",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/9/41/347876034918419.jpeg",
+    "teaser": "Турнирная таблица РПЛ сезона 2026/27",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a8ca6c89a79470ae5977622",
+    "publishedAt": "2026-10-25T18:27:23.000Z",
+    "createdAt": "2026-10-25T21:34:09.900Z",
+    "updatedAt": "2026-10-25T21:34:09.900Z"
+  },
+  {
     "id": "14cbc9223fe9a173",
     "title": "«Зенит» забил два пенальти из трех и впервые с августа стал лидером РПЛ",
     "sport": "Футбол",
@@ -10,8 +52,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6ade39ca2e5168021553c930",
     "publishedAt": "2026-10-25T17:34:59.000Z",
-    "createdAt": "2026-10-25T18:17:02.384Z",
-    "updatedAt": "2026-10-25T18:17:02.384Z"
+    "createdAt": "2026-10-25T21:34:06.612Z",
+    "updatedAt": "2026-10-25T21:34:06.612Z"
   },
   {
     "id": "901f02d28e80142e",
@@ -24,8 +66,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6ade33da77e4c3b35f98c068",
     "publishedAt": "2026-10-25T17:13:21.000Z",
-    "createdAt": "2026-10-25T18:17:04.304Z",
-    "updatedAt": "2026-10-25T18:17:04.304Z"
+    "createdAt": "2026-10-25T21:34:12.084Z",
+    "updatedAt": "2026-10-25T21:34:12.084Z"
   },
   {
     "id": "4956c94164f767b2",
@@ -38,8 +80,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6ade30818d20d09be42d576e",
     "publishedAt": "2026-10-25T16:51:59.000Z",
-    "createdAt": "2026-10-25T18:17:03.376Z",
-    "updatedAt": "2026-10-25T18:17:03.376Z"
+    "createdAt": "2026-10-25T21:34:08.736Z",
+    "updatedAt": "2026-10-25T21:34:08.736Z"
   },
   {
     "id": "71f760cb17e98bbf",
@@ -52,22 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6ade2c341211d48caedd39e7",
     "publishedAt": "2026-10-25T16:33:38.000Z",
-    "createdAt": "2026-10-25T18:17:05.256Z",
-    "updatedAt": "2026-10-25T18:17:05.256Z"
-  },
-  {
-    "id": "5b548feacf1d8809",
-    "title": "Российский гимнаст взял бронзу на чемпионате мира",
-    "sport": "Другое",
-    "category": "Другие",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/8/69/117929433706698.jpeg",
-    "teaser": "Российский гимнаст взял бронзу на чемпионате мира",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6ade24d8c700cc1593f3b038",
-    "publishedAt": "2026-10-25T15:59:57.000Z",
-    "createdAt": "2026-10-25T18:17:09.146Z",
-    "updatedAt": "2026-10-25T18:17:09.146Z"
+    "createdAt": "2026-10-25T21:34:13.127Z",
+    "updatedAt": "2026-10-25T21:34:13.127Z"
   },
   {
     "id": "98905e03701f0ce6",
@@ -80,36 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6ade19a0327b4539ab2e0dcf",
     "publishedAt": "2026-10-25T15:51:01.000Z",
-    "createdAt": "2026-10-25T18:17:07.070Z",
-    "updatedAt": "2026-10-25T18:17:07.070Z"
-  },
-  {
-    "id": "cf0ac50de4c3eb0c",
-    "title": "У «Реала» заболел основной вратарь перед «Эль-Класико» с «Барселоной»",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/2/11/227929427668112.jpeg",
-    "teaser": "У «Реала» заболел основной вратарь перед «Эль-Класико» с «Барселоной»",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6ade20f04b44a612e73286c4",
-    "publishedAt": "2026-10-25T15:42:20.000Z",
-    "createdAt": "2026-10-25T18:17:10.100Z",
-    "updatedAt": "2026-10-25T18:17:10.100Z"
-  },
-  {
-    "id": "217d8feac2e8ede1",
-    "title": "ЦСКА победил «Спартак» благодаря самому быстрому голу с 2017 года",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/1/89/717929402389891.png",
-    "teaser": "ЦСКА победил «Спартак» благодаря самому быстрому голу с 2017 года",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6ade168524639466d2c1eb98",
-    "publishedAt": "2026-10-25T15:14:36.000Z",
-    "createdAt": "2026-10-25T18:17:11.961Z",
-    "updatedAt": "2026-10-25T18:17:11.961Z"
+    "createdAt": "2026-10-25T21:34:14.971Z",
+    "updatedAt": "2026-10-25T21:34:14.971Z"
   },
   {
     "id": "5a234e2a6316d3fe",
@@ -122,8 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6addf781338b07ca32bb9851",
     "publishedAt": "2026-10-25T14:22:28.000Z",
-    "createdAt": "2026-10-25T18:17:08.101Z",
-    "updatedAt": "2026-10-25T18:17:08.101Z"
+    "createdAt": "2026-10-25T21:34:16.133Z",
+    "updatedAt": "2026-10-25T21:34:16.133Z"
   },
   {
     "id": "ab25fbf95f55b681",
@@ -136,7 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6adcee359763119ca5baa20f",
     "publishedAt": "2026-10-25T10:36:26.000Z",
-    "createdAt": "2026-10-25T18:17:11.168Z",
-    "updatedAt": "2026-10-25T18:17:11.168Z"
+    "createdAt": "2026-10-25T21:34:17.486Z",
+    "updatedAt": "2026-10-25T21:34:17.486Z"
   }
 ]
