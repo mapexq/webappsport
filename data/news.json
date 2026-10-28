@@ -1,5 +1,75 @@
 [
   {
+    "id": "a351e35a48fe1bf1",
+    "title": "«Спартак» вышел в плей-офф «пути РПЛ» Кубка России",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/0/81/887932151254810.png",
+    "teaser": "«Спартак» вышел в плей-офф «пути РПЛ» Кубка России",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6ae24a5f14c09959e6e06c1b",
+    "publishedAt": "2026-10-28T19:36:26.000Z",
+    "createdAt": "2026-10-28T23:02:19.391Z",
+    "updatedAt": "2026-10-28T23:02:19.392Z"
+  },
+  {
+    "id": "b70c8b9b035051d3",
+    "title": "Роналду выиграл голосование болельщиков за «Золотой мяч всех времен»",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/3/83/177932142509833.jpeg",
+    "teaser": "Роналду выиграл голосование болельщиков за «Золотой мяч всех времен»",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6ae24531491c573610b4f0f4",
+    "publishedAt": "2026-10-28T19:13:09.000Z",
+    "createdAt": "2026-10-28T23:02:18.358Z",
+    "updatedAt": "2026-10-28T23:02:18.358Z"
+  },
+  {
+    "id": "daeb7a266d7c4c7d",
+    "title": "Финалист Кубка Гагарина проиграл шестой домашний матч подряд",
+    "sport": "Хоккей",
+    "category": "Хоккей",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/0/08/587932122111080.png",
+    "teaser": "Финалист Кубка Гагарина проиграл шестой домашний матч подряд",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6ae23d6e851df3abcceffe4f",
+    "publishedAt": "2026-10-28T18:46:50.000Z",
+    "createdAt": "2026-10-28T23:02:21.372Z",
+    "updatedAt": "2026-10-28T23:02:21.372Z"
+  },
+  {
+    "id": "d5633d4e83e506ea",
+    "title": "«Ростов» одержал крупнейшую победу в сезоне",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/9/13/777932100097139.jpeg",
+    "teaser": "«Ростов» одержал крупнейшую победу в сезоне",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6ae232899532a8518b5155a2",
+    "publishedAt": "2026-10-28T18:01:06.000Z",
+    "createdAt": "2026-10-28T23:02:22.421Z",
+    "updatedAt": "2026-10-28T23:02:22.421Z"
+  },
+  {
+    "id": "ee37e4c7be604e74",
+    "title": "Неймара дисквалифицировали за прикрытый рукой рот во время спора",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/0/46/627932067462460.jpeg",
+    "teaser": "Неймара дисквалифицировали за прикрытый рукой рот во время спора",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6ae229884f91972b351993a4",
+    "publishedAt": "2026-10-28T17:19:07.000Z",
+    "createdAt": "2026-10-28T23:02:20.388Z",
+    "updatedAt": "2026-10-28T23:02:20.388Z"
+  },
+  {
     "id": "43f496601a776455",
     "title": "Собиравшийся уйти из F1 Серхио Перес продлил контракт с худшей командой",
     "sport": "Другое",
@@ -10,8 +80,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6ae221720aec7c2ab63c8e92",
     "publishedAt": "2026-10-28T16:43:33.000Z",
-    "createdAt": "2026-10-28T18:11:13.918Z",
-    "updatedAt": "2026-10-28T18:11:13.918Z"
+    "createdAt": "2026-10-28T23:02:24.382Z",
+    "updatedAt": "2026-10-28T23:02:24.382Z"
   },
   {
     "id": "95876df6be7df95f",
@@ -24,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6ae21a0fa750277e380c167d",
     "publishedAt": "2026-10-28T16:23:06.000Z",
-    "createdAt": "2026-10-28T18:11:12.804Z",
-    "updatedAt": "2026-10-28T18:11:12.804Z"
+    "createdAt": "2026-10-28T23:02:23.403Z",
+    "updatedAt": "2026-10-28T23:02:23.403Z"
   },
   {
     "id": "c5b5c572cc451dd1",
@@ -38,8 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6ae214d41be9cac5082f2801",
     "publishedAt": "2026-10-28T15:53:54.000Z",
-    "createdAt": "2026-10-28T18:11:15.129Z",
-    "updatedAt": "2026-10-28T18:11:15.129Z"
+    "createdAt": "2026-10-28T23:02:25.521Z",
+    "updatedAt": "2026-10-28T23:02:25.521Z"
   },
   {
     "id": "7740fffcb8e5f6af",
@@ -52,8 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6ae2028c64c3f24d4d1fc2f1",
     "publishedAt": "2026-10-28T14:39:22.000Z",
-    "createdAt": "2026-10-28T18:11:17.302Z",
-    "updatedAt": "2026-10-28T18:11:17.302Z"
+    "createdAt": "2026-10-28T23:02:27.602Z",
+    "updatedAt": "2026-10-28T23:02:27.602Z"
   },
   {
     "id": "19ab8cd166a391f9",
@@ -66,77 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6ae1f8c12febbe2c144b1fcc",
     "publishedAt": "2026-10-28T14:19:39.000Z",
-    "createdAt": "2026-10-28T18:11:16.210Z",
-    "updatedAt": "2026-10-28T18:11:16.210Z"
-  },
-  {
-    "id": "8e8883bfbd1cf981",
-    "title": "Умер участник хоккейной суперсерии Канада — СССР Андре Лакруа",
-    "sport": "Хоккей",
-    "category": "Хоккей",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/7/50/617931924814507.png",
-    "teaser": "Умер участник хоккейной суперсерии Канада — СССР Андре Лакруа",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6ae1ef86a56fdbb69253e087",
-    "publishedAt": "2026-10-28T13:08:00.000Z",
-    "createdAt": "2026-10-28T18:11:18.408Z",
-    "updatedAt": "2026-10-28T18:11:18.408Z"
-  },
-  {
-    "id": "e8cad5021cd16d03",
-    "title": "В Кубке Испании отменили 24 матча из-за железнодорожной катастрофы",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/7/94/657931901359947.png",
-    "teaser": "В Кубке Испании отменили 24 матча из-за железнодорожной катастрофы",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6ae1e3b12c13e017553ee4e1",
-    "publishedAt": "2026-10-28T12:46:57.000Z",
-    "createdAt": "2026-10-28T18:11:19.502Z",
-    "updatedAt": "2026-10-28T18:11:19.502Z"
-  },
-  {
-    "id": "081afb40bb3d9d9b",
-    "title": "Россия выбыла из борьбы за чемпионство на первом с 2022 года турнире ФИФА",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/5/33/817931874436335.jpeg",
-    "teaser": "Россия выбыла из борьбы за чемпионство на первом с 2022 года турнире ФИФА",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6ae1de26891614ddb862599f",
-    "publishedAt": "2026-10-28T11:59:45.000Z",
-    "createdAt": "2026-10-28T18:11:20.432Z",
-    "updatedAt": "2026-10-28T18:11:20.432Z"
-  },
-  {
-    "id": "18456dff17334cf6",
-    "title": "Легенда «Ливерпуля» возглавил «Фенербахче» перед матчем двух команд в ЛЧ",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/6/14/277931835731146.png",
-    "teaser": "Легенда «Ливерпуля» возглавил «Фенербахче» перед матчем двух команд в ЛЧ",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6ae1cefa7f0c486e87792bf3",
-    "publishedAt": "2026-10-28T11:38:44.000Z",
-    "createdAt": "2026-10-28T18:11:21.546Z",
-    "updatedAt": "2026-10-28T18:11:21.546Z"
-  },
-  {
-    "id": "12489040b5896de6",
-    "title": "Лучший новичок НХЛ первым в истории турнира отыграл все овертайма",
-    "sport": "Хоккей",
-    "category": "Хоккей",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/7/87/557931836925877.jpeg",
-    "teaser": "Лучший новичок НХЛ первым в истории турнира отыграл все овертайма",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6ae1cf73b7cfe4a5fb8a4475",
-    "publishedAt": "2026-10-28T10:54:48.000Z",
-    "createdAt": "2026-10-28T18:11:22.620Z",
-    "updatedAt": "2026-10-28T18:11:22.620Z"
+    "createdAt": "2026-10-28T23:02:26.506Z",
+    "updatedAt": "2026-10-28T23:02:26.506Z"
   }
 ]
