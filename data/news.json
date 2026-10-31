@@ -1,5 +1,89 @@
 [
   {
+    "id": "89399b4877006a8c",
+    "title": "«Краснодар» проиграл дебютанту РПЛ и продлил серию без побед до 7 матчей",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/8/27/857934711929278.jpeg",
+    "teaser": "«Краснодар» проиграл дебютанту РПЛ и продлил серию без побед до 7 матчей",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6ae632be05248f5986c38e57",
+    "publishedAt": "2026-10-31T18:48:54.000Z",
+    "createdAt": "2026-10-31T19:49:09.461Z",
+    "updatedAt": "2026-10-31T19:49:09.461Z"
+  },
+  {
+    "id": "d270142d212f2925",
+    "title": "Черчесов ответил на вопрос о возможной отставке из «Ахмата»",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/0/76/477934703795760.jpeg",
+    "teaser": "Черчесов ответил на вопрос о возможной отставке из «Ахмата»",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6ae62f6e953c6c91ec614602",
+    "publishedAt": "2026-10-31T18:23:26.000Z",
+    "createdAt": "2026-10-31T19:49:10.463Z",
+    "updatedAt": "2026-10-31T19:49:10.463Z"
+  },
+  {
+    "id": "7868a2f06f09adce",
+    "title": "«Манчестер Сити» впервые за год проиграл два подряд матча в АПЛ",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/3/82/357934662998823.jpeg",
+    "teaser": "«Манчестер Сити» впервые за год проиграл два подряд матча в АПЛ",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6ae61f83b0c86d0c7dc0cc2f",
+    "publishedAt": "2026-10-31T17:11:33.000Z",
+    "createdAt": "2026-10-31T19:49:12.518Z",
+    "updatedAt": "2026-10-31T19:49:12.518Z"
+  },
+  {
+    "id": "45743aa5eb9ec12d",
+    "title": "Агент Кучерова заявил, что хоккеист не будет бойкотировать матчи «Тампы»",
+    "sport": "Хоккей",
+    "category": "Хоккей",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/3/48/857934652002483.jpeg",
+    "teaser": "Агент Кучерова заявил, что хоккеист не будет бойкотировать матчи «Тампы»",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6ae61b54d8edc07a79bde7e6",
+    "publishedAt": "2026-10-31T17:01:38.000Z",
+    "createdAt": "2026-10-31T19:49:11.493Z",
+    "updatedAt": "2026-10-31T19:49:11.493Z"
+  },
+  {
+    "id": "ec61d42740a82611",
+    "title": "«Динамо» обыграло «Ахмат» и вышло в лидеры РПЛ",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/8/70/867934639896708.jpeg",
+    "teaser": "«Динамо» обыграло «Ахмат» и вышло в лидеры РПЛ",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6ae61503391af178364d5493",
+    "publishedAt": "2026-10-31T16:25:56.000Z",
+    "createdAt": "2026-10-31T19:49:13.696Z",
+    "updatedAt": "2026-10-31T19:49:13.696Z"
+  },
+  {
+    "id": "2f1e9ac088a9714f",
+    "title": "Даниил Медведев проиграл Алькарасу в полуфинале крупного турнира в Вене",
+    "sport": "Теннис",
+    "category": "Теннис",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/5/59/827934616659595.jpeg",
+    "teaser": "Даниил Медведев проиграл Алькарасу в полуфинале крупного турнира в Вене",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6ae60b8276ddd207a528d80d",
+    "publishedAt": "2026-10-31T15:54:19.000Z",
+    "createdAt": "2026-10-31T19:49:14.731Z",
+    "updatedAt": "2026-10-31T19:49:14.731Z"
+  },
+  {
     "id": "a099643f46b5b33c",
     "title": "Лыжница Степанова объяснила решение подать заявку на нейтральный статус",
     "sport": "Другое",
@@ -10,22 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6ae608ad200c69d0bbbeab9f",
     "publishedAt": "2026-10-31T15:37:15.000Z",
-    "createdAt": "2026-10-31T15:39:43.380Z",
-    "updatedAt": "2026-10-31T15:39:43.380Z"
-  },
-  {
-    "id": "d27faa2d603d3a9d",
-    "title": "В России пройдет турнир по паделу с призом в €150 тыс. за первое место",
-    "sport": "Другое",
-    "category": "Другие",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/1/90/807934592937901.jpeg",
-    "teaser": "В России пройдет турнир по паделу с призом в €150 тыс. за первое место",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6ae6044c200c69d0bbbeab8d",
-    "publishedAt": "2026-10-31T15:24:44.000Z",
-    "createdAt": "2026-10-31T15:39:47.722Z",
-    "updatedAt": "2026-10-31T15:39:47.722Z"
+    "createdAt": "2026-10-31T19:49:15.826Z",
+    "updatedAt": "2026-10-31T19:49:15.826Z"
   },
   {
     "id": "9758fee56398f293",
@@ -38,8 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6ae5ff1192af5cacf0b4ac3d",
     "publishedAt": "2026-10-31T15:03:19.000Z",
-    "createdAt": "2026-10-31T15:39:44.412Z",
-    "updatedAt": "2026-10-31T15:39:44.412Z"
+    "createdAt": "2026-10-31T19:49:16.862Z",
+    "updatedAt": "2026-10-31T19:49:16.862Z"
   },
   {
     "id": "ad7546abdb40cf84",
@@ -52,8 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6ae5fad23022fe4e6f7137a6",
     "publishedAt": "2026-10-31T14:40:32.000Z",
-    "createdAt": "2026-10-31T15:39:45.493Z",
-    "updatedAt": "2026-10-31T15:39:45.493Z"
+    "createdAt": "2026-10-31T19:49:17.922Z",
+    "updatedAt": "2026-10-31T19:49:17.922Z"
   },
   {
     "id": "a2fa2bdef8a34c63",
@@ -66,77 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6ae5f623b0c86d0c7dc0cbff",
     "publishedAt": "2026-10-31T14:22:04.000Z",
-    "createdAt": "2026-10-31T15:39:46.648Z",
-    "updatedAt": "2026-10-31T15:39:46.648Z"
-  },
-  {
-    "id": "1b4f11be6468042f",
-    "title": "«Рубин» после смены тренера прервал шестиматчевую серию без побед в РПЛ",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/1/51/927934563573511.jpeg",
-    "teaser": "«Рубин» после смены тренера прервал шестиматчевую серию без побед в РПЛ",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6ae5f780b0c86d0c7dc0cc01",
-    "publishedAt": "2026-10-31T14:16:15.000Z",
-    "createdAt": "2026-10-31T15:39:48.863Z",
-    "updatedAt": "2026-10-31T15:39:48.863Z"
-  },
-  {
-    "id": "fd0d44d9200241e7",
-    "title": "Российский тяжеловес проиграл в первом за 13 лет финале ЧМ по борьбе",
-    "sport": "Другое",
-    "category": "Другие",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/8/44/727934538856448.jpeg",
-    "teaser": "Российский тяжеловес проиграл в первом за 13 лет финале ЧМ по борьбе",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6adf9fa73a2b75d3479b2790",
-    "publishedAt": "2026-10-31T13:51:54.000Z",
-    "createdAt": "2026-10-31T15:39:51.074Z",
-    "updatedAt": "2026-10-31T15:39:51.074Z"
-  },
-  {
-    "id": "13606ccd14f0ba92",
-    "title": "Российский олимпийский чемпион сенсационно проиграл в финале ЧМ по борьбе",
-    "sport": "Другое",
-    "category": "Другие",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/5/25/767934500374255.jpeg",
-    "teaser": "Российский олимпийский чемпион сенсационно проиграл в финале ЧМ по борьбе",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6adf97fc3a2b75d3479b278a",
-    "publishedAt": "2026-10-31T13:29:48.000Z",
-    "createdAt": "2026-10-31T15:39:49.945Z",
-    "updatedAt": "2026-10-31T15:39:49.945Z"
-  },
-  {
-    "id": "57bad7e351b04641",
-    "title": "Член совета IIHF заявил, что Россия должна заменить Украину на ЧМ-2027",
-    "sport": "Хоккей",
-    "category": "Хоккей",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/2/56/657934518481562.jpeg",
-    "teaser": "Член совета IIHF заявил, что Россия должна заменить Украину на ЧМ-2027",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6adf9be76060172ca811d398",
-    "publishedAt": "2026-10-31T13:13:27.000Z",
-    "createdAt": "2026-10-31T15:39:52.236Z",
-    "updatedAt": "2026-10-31T15:39:52.236Z"
-  },
-  {
-    "id": "b58ded65191abfa2",
-    "title": "Лыжница Степанова передумала и решила подать заявку на нейтральный статус",
-    "sport": "Другое",
-    "category": "Другие",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/3/01/477934472830013.jpeg",
-    "teaser": "Лыжница Степанова передумала и решила подать заявку на нейтральный статус",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6ade4f230302065ce563fee7",
-    "publishedAt": "2026-10-31T11:56:34.000Z",
-    "createdAt": "2026-10-31T15:39:53.338Z",
-    "updatedAt": "2026-10-31T15:39:53.338Z"
+    "createdAt": "2026-10-31T19:49:19.134Z",
+    "updatedAt": "2026-10-31T19:49:19.134Z"
   }
 ]
