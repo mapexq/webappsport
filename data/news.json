@@ -1,5 +1,75 @@
 [
   {
+    "id": "1aad638ed50770df",
+    "title": "НХЛ назвала двух россиян и Макдэвида звездами октября",
+    "sport": "Хоккей",
+    "category": "Хоккей",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/3/44/197935616975443.png",
+    "teaser": "НХЛ назвала двух россиян и Макдэвида звездами октября",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6ae7941ff4af6a6dff2182ef",
+    "publishedAt": "2026-11-01T19:47:12.000Z",
+    "createdAt": "2026-11-01T22:38:54.565Z",
+    "updatedAt": "2026-11-01T22:38:54.565Z"
+  },
+  {
+    "id": "67d3e64fac167259",
+    "title": "Турнирная таблица РПЛ сезона 2026/27",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/9/41/347876034918419.jpeg",
+    "teaser": "Турнирная таблица РПЛ сезона 2026/27",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a8ca6c89a79470ae5977622",
+    "publishedAt": "2026-11-01T19:31:11.000Z",
+    "createdAt": "2026-11-01T22:38:59.158Z",
+    "updatedAt": "2026-11-01T22:38:59.158Z"
+  },
+  {
+    "id": "4c3d69fbcc42a96b",
+    "title": "Конор Макгрегор анонсировал уход из ММА",
+    "sport": "Единоборства",
+    "category": "Единоборства",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/6/89/107935602822896.png",
+    "teaser": "Конор Макгрегор анонсировал уход из ММА",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6ae78b0a98193d61caf9e70d",
+    "publishedAt": "2026-11-01T19:15:29.000Z",
+    "createdAt": "2026-11-01T22:38:56.916Z",
+    "updatedAt": "2026-11-01T22:38:56.916Z"
+  },
+  {
+    "id": "414a809801dff06d",
+    "title": "«Спартак» одержал крупнейшую победу над «Локомотивом» в РПЛ",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/0/94/987935589783940.png",
+    "teaser": "«Спартак» одержал крупнейшую победу над «Локомотивом» в РПЛ",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6ae785c2458ce32e70db76e1",
+    "publishedAt": "2026-11-01T18:50:16.000Z",
+    "createdAt": "2026-11-01T22:38:57.984Z",
+    "updatedAt": "2026-11-01T22:38:57.984Z"
+  },
+  {
+    "id": "c9a91abfe508436c",
+    "title": "Рекордный гол Хаверца принес «Арсеналу» победу над «Ливерпулем»",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/9/73/477935569407739.png",
+    "teaser": "Рекордный гол Хаверца принес «Арсеналу» победу над «Ливерпулем»",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6ae78189c8461490c3283e2d",
+    "publishedAt": "2026-11-01T18:29:16.000Z",
+    "createdAt": "2026-11-01T22:39:01.446Z",
+    "updatedAt": "2026-11-01T22:39:01.446Z"
+  },
+  {
     "id": "7bc0ed6a840561aa",
     "title": "Лидирующего в НХЛ по удалениям россиянина оштрафовали на $5 тыс",
     "sport": "Хоккей",
@@ -10,22 +80,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6ae772f918fb8fbe04727ae5",
     "publishedAt": "2026-11-01T17:52:58.000Z",
-    "createdAt": "2026-11-01T18:22:31.400Z",
-    "updatedAt": "2026-11-01T18:22:31.400Z"
-  },
-  {
-    "id": "87e3412e924bbbbc",
-    "title": "«Балтика» впервые с августа победила в РПЛ",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/3/89/197935513953893.jpeg",
-    "teaser": "«Балтика» впервые с августа победила в РПЛ",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6ae769b16b514a72023eaf4d",
-    "publishedAt": "2026-11-01T17:01:31.000Z",
-    "createdAt": "2026-11-01T18:22:34.429Z",
-    "updatedAt": "2026-11-01T18:22:34.429Z"
+    "createdAt": "2026-11-01T22:39:00.329Z",
+    "updatedAt": "2026-11-01T22:39:00.329Z"
   },
   {
     "id": "aa3c1b8659811028",
@@ -38,64 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6ae76451ed0a2bda6d0b8da0",
     "publishedAt": "2026-11-01T16:56:29.000Z",
-    "createdAt": "2026-11-01T18:22:32.458Z",
-    "updatedAt": "2026-11-01T18:22:32.458Z"
-  },
-  {
-    "id": "96123e06d2407e15",
-    "title": "Обидчик Медведева Алькарас взял титул на крупном турнире ATP в Вене",
-    "sport": "Теннис",
-    "category": "Теннис",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/4/50/557935518671504.png",
-    "teaser": "Обидчик Медведева Алькарас взял титул на крупном турнире ATP в Вене",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6ae76c5e67da0aeda7ed7988",
-    "publishedAt": "2026-11-01T16:55:20.000Z",
-    "createdAt": "2026-11-01T18:22:35.431Z",
-    "updatedAt": "2026-11-01T18:22:35.431Z"
-  },
-  {
-    "id": "cfa47ca89b83d0f1",
-    "title": "Россия с четырьмя золотыми медалями стала третьей в зачете ЧМ по борьбе",
-    "sport": "Единоборства",
-    "category": "Единоборства",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/9/83/347935479633839.png",
-    "teaser": "Россия с четырьмя золотыми медалями стала третьей в зачете ЧМ по борьбе",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6ae75e706b514a72023eaf42",
-    "publishedAt": "2026-11-01T16:04:16.000Z",
-    "createdAt": "2026-11-01T18:22:36.423Z",
-    "updatedAt": "2026-11-01T18:22:36.423Z"
-  },
-  {
-    "id": "9aa3df0ef55fa9de",
-    "title": "Худшая команда РПЛ назвала нового главного тренера",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/2/80/177935474766802.png",
-    "teaser": "Худшая команда РПЛ назвала нового главного тренера",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6ae759ee1dfdf0fb94e2bcf6",
-    "publishedAt": "2026-11-01T15:38:41.000Z",
-    "createdAt": "2026-11-01T18:22:39.422Z",
-    "updatedAt": "2026-11-01T18:22:39.422Z"
-  },
-  {
-    "id": "6429d7320f678bc9",
-    "title": "Российский борец победил американца в схватке за золото чемпионата мира",
-    "sport": "Единоборства",
-    "category": "Единоборства",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/8/95/297935443308958.png",
-    "teaser": "Российский борец победил американца в схватке за золото чемпионата мира",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6ae74f8576ddd207a528d836",
-    "publishedAt": "2026-11-01T14:49:51.000Z",
-    "createdAt": "2026-11-01T18:22:40.459Z",
-    "updatedAt": "2026-11-01T18:22:40.459Z"
+    "createdAt": "2026-11-01T22:39:02.735Z",
+    "updatedAt": "2026-11-01T22:39:02.735Z"
   },
   {
     "id": "04cfa06e09d76071",
@@ -108,8 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6ae72c4005248f5986c38f5f",
     "publishedAt": "2026-11-01T14:19:58.000Z",
-    "createdAt": "2026-11-01T18:22:33.431Z",
-    "updatedAt": "2026-11-01T18:22:33.431Z"
+    "createdAt": "2026-11-01T22:38:55.791Z",
+    "updatedAt": "2026-11-01T22:38:55.791Z"
   },
   {
     "id": "474fbf0175dc1ad3",
@@ -122,8 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6ae5c87c87a8dbd418dd4fd3",
     "publishedAt": "2026-11-01T00:04:13.000Z",
-    "createdAt": "2026-11-01T18:22:37.430Z",
-    "updatedAt": "2026-11-01T18:22:37.430Z"
+    "createdAt": "2026-11-01T22:39:03.872Z",
+    "updatedAt": "2026-11-01T22:39:03.872Z"
   },
   {
     "id": "9d5c6bfcf28edbae",
@@ -136,7 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6ae5c6ca391af178364d543e",
     "publishedAt": "2026-10-31T21:04:07.000Z",
-    "createdAt": "2026-11-01T18:22:38.426Z",
-    "updatedAt": "2026-11-01T18:22:38.426Z"
+    "createdAt": "2026-11-01T22:39:05.048Z",
+    "updatedAt": "2026-11-01T22:39:05.048Z"
   }
 ]
