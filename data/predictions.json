@@ -1,22 +1,22 @@
 [
   {
-    "id": 1793585616441,
+    "id": 1793616398025,
     "eventName": "Матч",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
     "expert": {
-      "name": "Сантос Лагуна",
+      "name": "Портленд Тимберс",
       "avatar": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=100&h=100&fit=crop",
       "status": "expert",
-      "winRate": 81
+      "winRate": 87
     },
-    "prediction": "Х",
-    "odds": 4,
+    "prediction": "Тотал больше (3)",
+    "odds": 1.94,
     "comment": "Комментарий к прогнозу",
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1793585616442,
+    "id": 1793616398027,
     "eventName": "Матч",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -32,119 +32,55 @@
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1793585616443,
+    "id": 1793616398028,
     "eventName": "Матч",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
     "expert": {
-      "name": "Голден Стэйт",
+      "name": "Депортиво Ла",
       "avatar": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=100&h=100&fit=crop",
       "status": "expert",
-      "winRate": 89
+      "winRate": 69
     },
-    "prediction": "1Х",
-    "odds": 1.63,
+    "prediction": "ТМ (0,5) в первом тайме",
+    "odds": 2.5,
     "comment": "Комментарий к прогнозу",
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1793585616444,
+    "id": 1793616398029,
     "eventName": "Матч",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
     "expert": {
-      "name": "Инглэнд Революшн",
+      "name": "Астон Вилла",
       "avatar": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=100&h=100&fit=crop",
       "status": "expert",
       "winRate": 80
     },
-    "prediction": "Фора 1 (+1)",
-    "odds": 1.38,
+    "prediction": "Индивидуальный тотал 2 Больше (1)",
+    "odds": 2,
     "comment": "Комментарий к прогнозу",
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1793585616446,
-    "eventName": "Матч",
+    "id": 1793616398030,
+    "eventName": "Заря — Эпицентр",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
     "expert": {
-      "name": "Бейкерсфилд Кондорс",
-      "avatar": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=100&h=100&fit=crop",
+      "name": "ОПОлег Пимченков",
+      "avatar": "https://bookmaker-ratings.ru/static/images/badges/novice-letter.svg?v=30092024",
       "status": "expert",
-      "winRate": 74
+      "winRate": 78
     },
-    "prediction": "Тотал (6) Б",
-    "odds": 1.82,
+    "prediction": "Победа 1",
+    "odds": 2.04,
     "comment": "Комментарий к прогнозу",
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1793585616447,
-    "eventName": "Матч",
-    "discipline": "Футбол",
-    "tournament": "Чемпионат",
-    "expert": {
-      "name": "Уэнатчи Уайлд",
-      "avatar": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=100&h=100&fit=crop",
-      "status": "expert",
-      "winRate": 85
-    },
-    "prediction": "Тотал (6) Б",
-    "odds": 1.82,
-    "comment": "Комментарий к прогнозу",
-    "source": "Sports Analytics Pro"
-  },
-  {
-    "id": 1793585616448,
-    "eventName": "Матч",
-    "discipline": "Футбол",
-    "tournament": "Чемпионат",
-    "expert": {
-      "name": "Эдмонтон Ойл",
-      "avatar": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=100&h=100&fit=crop",
-      "status": "expert",
-      "winRate": 73
-    },
-    "prediction": "Тотал (6) Б",
-    "odds": 1.5,
-    "comment": "Комментарий к прогнозу",
-    "source": "Sports Analytics Pro"
-  },
-  {
-    "id": 1793585616449,
-    "eventName": "Матч",
-    "discipline": "Футбол",
-    "tournament": "Чемпионат",
-    "expert": {
-      "name": "Ошава Дженералз",
-      "avatar": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=100&h=100&fit=crop",
-      "status": "expert",
-      "winRate": 83
-    },
-    "prediction": "Тотал (6) Б",
-    "odds": 1.76,
-    "comment": "Комментарий к прогнозу",
-    "source": "Sports Analytics Pro"
-  },
-  {
-    "id": 1793585616450,
-    "eventName": "Матч",
-    "discipline": "Футбол",
-    "tournament": "Чемпионат",
-    "expert": {
-      "name": "Круз Азуль",
-      "avatar": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=100&h=100&fit=crop",
-      "status": "expert",
-      "winRate": 83
-    },
-    "prediction": "П1",
-    "odds": 1.76,
-    "comment": "Комментарий к прогнозу",
-    "source": "Sports Analytics Pro"
-  },
-  {
-    "id": 1793585616451,
+    "id": 1793616398031,
     "eventName": "Мананчая Савангкаев — Маи Хонтама",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -157,6 +93,38 @@
     "prediction": "Эйсы Ф1 (0)",
     "odds": 1.54,
     "comment": "Смотрим статистику выступления участниц предстоящего матча на открытом харде за последний год. Мананчая Савангкаев в среднем за гейм выполняет 0,18 эйса, при этом от своих соперниц пропускает с частотой 0,21 эйса за гейм. Маи Хонтама делает 0,07 эйса за гейм, а пропускает 0,21 эйса за гейм. Как видите, у Савангкаев есть преимущество на своей подаче, а на приеме чужой цифры соперниц равны. За время своей профессиональной карьеры теннисистки ни разу не играли друг против друга. Смотрим результаты матчей против общих соперниц на открытом харде за последний год. Таких поединков было много, поэтому ограничусь общим выводом: в подавляющем большинстве случаев по эйсам преимущество было у Савангкаев.",
+    "source": "Sports Analytics Pro"
+  },
+  {
+    "id": 1793616398032,
+    "eventName": "Депортиво — Осасуна",
+    "discipline": "Футбол",
+    "tournament": "Чемпионат",
+    "expert": {
+      "name": "Александр Трибуш",
+      "avatar": "https://bookmaker-ratings.ru/static/images/badges/author-letter.svg?v=30092024",
+      "status": "expert",
+      "winRate": 76
+    },
+    "prediction": "ТМ (0,5) в первом тайме",
+    "odds": 2.5,
+    "comment": "После удачного старта сезона оба клуба растеряли форму и резко сбавили ход. «Депортиво» не побеждает уже в шести турах, а «Осасуна» проиграла в пяти из семи последних матчей. В игре между такими нестабильными командами рискованно ставить на исход, при этом просматривается ставка на первый тайм. И «Депортиво», и «Осасуна» с трудом вкатываются в матчи и редко забивают быстрые голы. «Депортиво» не отличается в первой половине в шести турах подряд. А «Осасуна» забила до перерыва всего в шести из 23 предыдущих игр чемпионата, причем в гостях не отличается в первом тайме уже в шести матчах. Есть смысл поставить на тотал меньше (0,5) в первой половине по кэфу 2,50 — обе команды совсем неубедительны на старте встреч.",
+    "source": "Sports Analytics Pro"
+  },
+  {
+    "id": 1793616398033,
+    "eventName": "Манчестер Юнайтед — Рома",
+    "discipline": "Футбол",
+    "tournament": "Чемпионат",
+    "expert": {
+      "name": "ОКОлег Корзин",
+      "avatar": "https://bookmaker-ratings.ru/static/images/badges/novice-letter.svg?v=30092024",
+      "status": "expert",
+      "winRate": 87
+    },
+    "prediction": "Фора 2 (0)",
+    "odds": 2.07,
+    "comment": "Манчестер Юнайтед в кризисе и поэтому ставлю на Рому",
     "source": "Sports Analytics Pro"
   }
 ]
