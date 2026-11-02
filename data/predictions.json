@@ -1,102 +1,150 @@
 [
   {
-    "id": 1793572727494,
+    "id": 1793585616441,
     "eventName": "Матч",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
     "expert": {
-      "name": "Ниагара Айс",
+      "name": "Сантос Лагуна",
       "avatar": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=100&h=100&fit=crop",
       "status": "expert",
-      "winRate": 70
+      "winRate": 81
     },
-    "prediction": "Тотал (6) Б",
-    "odds": 1.72,
+    "prediction": "Х",
+    "odds": 4,
     "comment": "Комментарий к прогнозу",
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1793572727495,
+    "id": 1793585616442,
     "eventName": "Матч",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
     "expert": {
-      "name": "Астон Вилла",
-      "avatar": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=100&h=100&fit=crop",
-      "status": "expert",
-      "winRate": 80
-    },
-    "prediction": "Индивидуальный тотал 2 Больше (1)",
-    "odds": 2,
-    "comment": "Комментарий к прогнозу",
-    "source": "Sports Analytics Pro"
-  },
-  {
-    "id": 1793572727496,
-    "eventName": "Матч",
-    "discipline": "Футбол",
-    "tournament": "Чемпионат",
-    "expert": {
-      "name": "Волна Ковернино",
-      "avatar": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=100&h=100&fit=crop",
-      "status": "expert",
-      "winRate": 89
-    },
-    "prediction": "Фора «Волны» (+1,5)",
-    "odds": 1.8,
-    "comment": "Комментарий к прогнозу",
-    "source": "Sports Analytics Pro"
-  },
-  {
-    "id": 1793572727497,
-    "eventName": "Матч",
-    "discipline": "Футбол",
-    "tournament": "Чемпионат",
-    "expert": {
-      "name": "Атлетик Бильбао",
+      "name": "Крылья Советов",
       "avatar": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=100&h=100&fit=crop",
       "status": "expert",
       "winRate": 83
     },
-    "prediction": "Ф2 (0) в первом тайме",
-    "odds": 2.3,
+    "prediction": "ИТ2 2-3 гола",
+    "odds": 2.05,
     "comment": "Комментарий к прогнозу",
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1793572727498,
+    "id": 1793585616443,
     "eventName": "Матч",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
     "expert": {
-      "name": "Мари Грейхаундз",
+      "name": "Голден Стэйт",
       "avatar": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=100&h=100&fit=crop",
       "status": "expert",
-      "winRate": 79
+      "winRate": 89
     },
-    "prediction": "Тотал (6) Б",
-    "odds": 1.67,
+    "prediction": "1Х",
+    "odds": 1.63,
     "comment": "Комментарий к прогнозу",
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1793572727499,
+    "id": 1793585616444,
     "eventName": "Матч",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
     "expert": {
-      "name": "Калгари Хитмен",
+      "name": "Инглэнд Революшн",
+      "avatar": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=100&h=100&fit=crop",
+      "status": "expert",
+      "winRate": 80
+    },
+    "prediction": "Фора 1 (+1)",
+    "odds": 1.38,
+    "comment": "Комментарий к прогнозу",
+    "source": "Sports Analytics Pro"
+  },
+  {
+    "id": 1793585616446,
+    "eventName": "Матч",
+    "discipline": "Футбол",
+    "tournament": "Чемпионат",
+    "expert": {
+      "name": "Бейкерсфилд Кондорс",
+      "avatar": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=100&h=100&fit=crop",
+      "status": "expert",
+      "winRate": 74
+    },
+    "prediction": "Тотал (6) Б",
+    "odds": 1.82,
+    "comment": "Комментарий к прогнозу",
+    "source": "Sports Analytics Pro"
+  },
+  {
+    "id": 1793585616447,
+    "eventName": "Матч",
+    "discipline": "Футбол",
+    "tournament": "Чемпионат",
+    "expert": {
+      "name": "Уэнатчи Уайлд",
+      "avatar": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=100&h=100&fit=crop",
+      "status": "expert",
+      "winRate": 85
+    },
+    "prediction": "Тотал (6) Б",
+    "odds": 1.82,
+    "comment": "Комментарий к прогнозу",
+    "source": "Sports Analytics Pro"
+  },
+  {
+    "id": 1793585616448,
+    "eventName": "Матч",
+    "discipline": "Футбол",
+    "tournament": "Чемпионат",
+    "expert": {
+      "name": "Эдмонтон Ойл",
       "avatar": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=100&h=100&fit=crop",
       "status": "expert",
       "winRate": 73
     },
-    "prediction": "П1",
-    "odds": 1.73,
+    "prediction": "Тотал (6) Б",
+    "odds": 1.5,
     "comment": "Комментарий к прогнозу",
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1793572727500,
+    "id": 1793585616449,
+    "eventName": "Матч",
+    "discipline": "Футбол",
+    "tournament": "Чемпионат",
+    "expert": {
+      "name": "Ошава Дженералз",
+      "avatar": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=100&h=100&fit=crop",
+      "status": "expert",
+      "winRate": 83
+    },
+    "prediction": "Тотал (6) Б",
+    "odds": 1.76,
+    "comment": "Комментарий к прогнозу",
+    "source": "Sports Analytics Pro"
+  },
+  {
+    "id": 1793585616450,
+    "eventName": "Матч",
+    "discipline": "Футбол",
+    "tournament": "Чемпионат",
+    "expert": {
+      "name": "Круз Азуль",
+      "avatar": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=100&h=100&fit=crop",
+      "status": "expert",
+      "winRate": 83
+    },
+    "prediction": "П1",
+    "odds": 1.76,
+    "comment": "Комментарий к прогнозу",
+    "source": "Sports Analytics Pro"
+  },
+  {
+    "id": 1793585616451,
     "eventName": "Мананчая Савангкаев — Маи Хонтама",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -109,22 +157,6 @@
     "prediction": "Эйсы Ф1 (0)",
     "odds": 1.54,
     "comment": "Смотрим статистику выступления участниц предстоящего матча на открытом харде за последний год. Мананчая Савангкаев в среднем за гейм выполняет 0,18 эйса, при этом от своих соперниц пропускает с частотой 0,21 эйса за гейм. Маи Хонтама делает 0,07 эйса за гейм, а пропускает 0,21 эйса за гейм. Как видите, у Савангкаев есть преимущество на своей подаче, а на приеме чужой цифры соперниц равны. За время своей профессиональной карьеры теннисистки ни разу не играли друг против друга. Смотрим результаты матчей против общих соперниц на открытом харде за последний год. Таких поединков было много, поэтому ограничусь общим выводом: в подавляющем большинстве случаев по эйсам преимущество было у Савангкаев.",
-    "source": "Sports Analytics Pro"
-  },
-  {
-    "id": 1793572727501,
-    "eventName": "Атлетик — Реал Сосьедад",
-    "discipline": "Футбол",
-    "tournament": "Чемпионат",
-    "expert": {
-      "name": "Александр Трибуш",
-      "avatar": "https://bookmaker-ratings.ru/static/images/badges/author-letter.svg?v=30092024",
-      "status": "expert",
-      "winRate": 76
-    },
-    "prediction": "Ф2 (0) в первом тайме",
-    "odds": 2.3,
-    "comment": "И «Бильбао», и «Сосьедад» сейчас очень стабильны и почти не проигрывают. В личных встречах тоже нет явного преимущества какой-то из команд. В то же время клубы показывают противоположные тренды результативности: «Атлетик» играет низа, «Сосьедад» — верха. Зато просматривается хороший вариант на первый тайм. «Бильбао» с трудом вкатывается в матчи и забил до перерыва всего в трех из 14 предыдущих игр, при этом шесть раз проиграл первую половину. В свою очередь, «Сосьеадад» отличился в первом тайме в 11 из 16 последних матчей. А в пяти из шести прошлых встреч клуб лидировал к перерыву, причем в четырех случаях успел закатить два мяча. Хозяева идут фаворитами в линии, то есть выгодна ставка на победу гостей с форой (0) в первом тайме по высокому кэфу 2,30. К тому же «Атлетик» не вел в счете к перерыву ни в одном из шести последних матчей против «Сосьедада».",
     "source": "Sports Analytics Pro"
   }
 ]
