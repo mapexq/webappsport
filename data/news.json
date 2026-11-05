@@ -1,5 +1,75 @@
 [
   {
+    "id": "a77a31536f42f0c7",
+    "title": "На футболиста «Ньюкасла» вызвали полицию из-за лука и стрел",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/6/57/847939189440576.jpeg",
+    "teaser": "На футболиста «Ньюкасла» вызвали полицию из-за лука и стрел",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6aed0458b2becba06fa61686",
+    "publishedAt": "2026-11-05T23:01:20.000Z",
+    "createdAt": "2026-11-05T23:59:08.185Z",
+    "updatedAt": "2026-11-05T23:59:08.185Z"
+  },
+  {
+    "id": "991167939c2444e9",
+    "title": "Польша выступила против возвращения России в мировой",
+    "sport": "Хоккей",
+    "category": "Хоккей",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/4/40/687939165296404.jpeg",
+    "teaser": "Польша выступила против возвращения России в мировой",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6aecf68d83bfdcb472f57851",
+    "publishedAt": "2026-11-05T22:25:48.000Z",
+    "createdAt": "2026-11-05T23:59:09.302Z",
+    "updatedAt": "2026-11-05T23:59:09.302Z"
+  },
+  {
+    "id": "c144d551158757e6",
+    "title": "В ФХР заявили, что решение о допуске россиян не подлежит обжалованию",
+    "sport": "Хоккей",
+    "category": "Хоккей",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/3/55/417939077751553.jpeg",
+    "teaser": "В ФХР заявили, что решение о допуске россиян не подлежит обжалованию",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6aecd5da85e6ccdb62110146",
+    "publishedAt": "2026-11-05T19:50:16.000Z",
+    "createdAt": "2026-11-05T23:59:11.629Z",
+    "updatedAt": "2026-11-05T23:59:11.629Z"
+  },
+  {
+    "id": "0d30e0462b3820c0",
+    "title": "«Динамо» без главного тренера продлило серию побед в КХЛ до трех матчей",
+    "sport": "Хоккей",
+    "category": "Хоккей",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/3/24/097939045159243.png",
+    "teaser": "«Динамо» без главного тренера продлило серию побед в КХЛ до трех матчей",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6aeccec109ac0753dba331b9",
+    "publishedAt": "2026-11-05T19:05:43.000Z",
+    "createdAt": "2026-11-05T23:59:12.739Z",
+    "updatedAt": "2026-11-05T23:59:12.739Z"
+  },
+  {
+    "id": "2a631c0f12822d65",
+    "title": "В команде Фьюри ответили на слухи о риске срыва боя с Джошуа из-за травмы",
+    "sport": "Единоборства",
+    "category": "Единоборства",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/3/04/127939033118043.png",
+    "teaser": "В команде Фьюри ответили на слухи о риске срыва боя с Джошуа из-за травмы",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6aecca8174c95f96467ffcee",
+    "publishedAt": "2026-11-05T18:41:07.000Z",
+    "createdAt": "2026-11-05T23:59:13.840Z",
+    "updatedAt": "2026-11-05T23:59:13.840Z"
+  },
+  {
     "id": "e71f22b6d0421653",
     "title": "Роналду откажется от прощального матча за сборную из-за ссоры с тренером",
     "sport": "Футбол",
@@ -10,8 +80,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6aecbaff405b7921eb711e08",
     "publishedAt": "2026-11-05T18:01:13.000Z",
-    "createdAt": "2026-11-05T18:36:18.626Z",
-    "updatedAt": "2026-11-05T18:36:18.626Z"
+    "createdAt": "2026-11-05T23:59:14.983Z",
+    "updatedAt": "2026-11-05T23:59:14.983Z"
   },
   {
     "id": "ed7ebd7f497c9708",
@@ -24,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6aecbbae946952c5e21a608e",
     "publishedAt": "2026-11-05T17:46:31.000Z",
-    "createdAt": "2026-11-05T18:36:19.818Z",
-    "updatedAt": "2026-11-05T18:36:19.818Z"
+    "createdAt": "2026-11-05T23:59:10.423Z",
+    "updatedAt": "2026-11-05T23:59:10.423Z"
   },
   {
     "id": "c3eb5017364675ea",
@@ -38,36 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6aecb169a04c65b7b4e88dfa",
     "publishedAt": "2026-11-05T16:56:11.000Z",
-    "createdAt": "2026-11-05T18:36:20.775Z",
-    "updatedAt": "2026-11-05T18:36:20.775Z"
-  },
-  {
-    "id": "2530dcc579c95a9c",
-    "title": "«Авангард» прервал победную серию ЦСКА благодаря экс-игроку москвичей",
-    "sport": "Хоккей",
-    "category": "Хоккей",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/5/06/417938961951065.png",
-    "teaser": "«Авангард» прервал победную серию ЦСКА благодаря экс-игроку москвичей",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6aecab4aab22e2e51780748e",
-    "publishedAt": "2026-11-05T16:36:35.000Z",
-    "createdAt": "2026-11-05T18:36:24.569Z",
-    "updatedAt": "2026-11-05T18:36:24.569Z"
-  },
-  {
-    "id": "02c35ce779587aa6",
-    "title": "Третью российскую фигуристку пригласили выступить на Гран-при ISU",
-    "sport": "Другое",
-    "category": "Фигурное катание",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/8/97/887938945822978.png",
-    "teaser": "Третью российскую фигуристку пригласили выступить на Гран-при ISU",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6aeca6a709ac0753dba33196",
-    "publishedAt": "2026-11-05T16:06:39.000Z",
-    "createdAt": "2026-11-05T18:36:21.710Z",
-    "updatedAt": "2026-11-05T18:36:21.710Z"
+    "createdAt": "2026-11-05T23:59:17.373Z",
+    "updatedAt": "2026-11-05T23:59:17.373Z"
   },
   {
     "id": "89fb340ed8240204",
@@ -80,50 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6aec9d3c19338dd0d684b760",
     "publishedAt": "2026-11-05T15:41:13.000Z",
-    "createdAt": "2026-11-05T18:36:22.650Z",
-    "updatedAt": "2026-11-05T18:36:22.650Z"
-  },
-  {
-    "id": "74abf56322ab1a63",
-    "title": "Батраков проиграл в голосовании на приз игроку недели в Лиге чемпионов",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/2/76/567938906733762.png",
-    "teaser": "Батраков проиграл в голосовании на приз игроку недели в Лиге чемпионов",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6aec9416cb0b73b917dfcfab",
-    "publishedAt": "2026-11-05T15:01:30.000Z",
-    "createdAt": "2026-11-05T18:36:25.452Z",
-    "updatedAt": "2026-11-05T18:36:25.452Z"
-  },
-  {
-    "id": "027f7a5b022cfe62",
-    "title": "A Bola узнала, что Роналду не уведомил тренера об уходе из сборной",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/3/54/037938890719543.jpeg",
-    "teaser": "A Bola узнала, что Роналду не уведомил тренера об уходе из сборной",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6aec92e51b2b2ead74f0fafa",
-    "publishedAt": "2026-11-05T15:00:07.000Z",
-    "createdAt": "2026-11-05T18:36:26.452Z",
-    "updatedAt": "2026-11-05T18:36:26.452Z"
-  },
-  {
-    "id": "5eaa4e4aefd0bdd3",
-    "title": "Фигуристку отвезли в больницу после падения на юниорском Гран-при",
-    "sport": "Другое",
-    "category": "Фигурное катание",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/6/97/937938884368976.png",
-    "teaser": "Фигуристку отвезли в больницу после падения на юниорском Гран-при",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6aec8dd480cea29216e6f2b2",
-    "publishedAt": "2026-11-05T14:34:33.000Z",
-    "createdAt": "2026-11-05T18:36:27.451Z",
-    "updatedAt": "2026-11-05T18:36:27.451Z"
+    "createdAt": "2026-11-05T23:59:18.611Z",
+    "updatedAt": "2026-11-05T23:59:18.611Z"
   },
   {
     "id": "e65145c579fd7e13",
@@ -136,7 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6aec5c1285847a59544a5535",
     "publishedAt": "2026-11-05T13:50:32.000Z",
-    "createdAt": "2026-11-05T18:36:23.559Z",
-    "updatedAt": "2026-11-05T18:36:23.559Z"
+    "createdAt": "2026-11-05T23:59:16.123Z",
+    "updatedAt": "2026-11-05T23:59:16.123Z"
   }
 ]
