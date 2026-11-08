@@ -1,5 +1,89 @@
 [
   {
+    "id": "3d66eb32849d95c7",
+    "title": "Турнирная таблица РПЛ сезона 2026/27",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/9/41/347876034918419.jpeg",
+    "teaser": "Турнирная таблица РПЛ сезона 2026/27",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6a8ca6c89a79470ae5977622",
+    "publishedAt": "2026-11-08T19:55:47.000Z",
+    "createdAt": "2026-11-08T21:02:40.760Z",
+    "updatedAt": "2026-11-08T21:02:40.760Z"
+  },
+  {
+    "id": "bde2d18c908e32f4",
+    "title": "Mercedes впервые за пять лет выиграл Кубок конструкторов «Формулы-1»",
+    "sport": "Другое",
+    "category": "Формула-1",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/3/50/487941645728503.png",
+    "teaser": "Mercedes впервые за пять лет выиграл Кубок конструкторов «Формулы-1»",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6af0c391a2468d088b8a1d71",
+    "publishedAt": "2026-11-08T19:05:13.000Z",
+    "createdAt": "2026-11-08T21:02:43.944Z",
+    "updatedAt": "2026-11-08T21:02:43.944Z"
+  },
+  {
+    "id": "bc51f7ae156f00d7",
+    "title": "Антонелли не попал в призеры первой гонки F1 после завоевания чемпионства",
+    "sport": "Другое",
+    "category": "Формула-1",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/3/00/467941628296003.png",
+    "teaser": "Антонелли не попал в призеры первой гонки F1 после завоевания чемпионства",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6af0be662c019b5bf0738699",
+    "publishedAt": "2026-11-08T18:52:28.000Z",
+    "createdAt": "2026-11-08T21:02:39.687Z",
+    "updatedAt": "2026-11-08T21:02:39.687Z"
+  },
+  {
+    "id": "fb01b88c2f956ae2",
+    "title": "Алькарас повторил достижение Надаля и Джоковича по победам на «Мастерс»",
+    "sport": "Теннис",
+    "category": "Теннис",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/3/95/837941603023953.png",
+    "teaser": "Алькарас повторил достижение Надаля и Джоковича по победам на «Мастерс»",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6af0aabb836318e6dcdc32bd",
+    "publishedAt": "2026-11-08T18:04:36.000Z",
+    "createdAt": "2026-11-08T21:02:42.888Z",
+    "updatedAt": "2026-11-08T21:02:42.888Z"
+  },
+  {
+    "id": "88650855545d6435",
+    "title": "«Зенит» упустил победу над «Ростовом», но сохранил лидерство в РПЛ",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/7/24/467941587516247.jpeg",
+    "teaser": "«Зенит» упустил победу над «Ростовом», но сохранил лидерство в РПЛ",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6af0afe7c1dd2a539182451e",
+    "publishedAt": "2026-11-08T17:37:27.000Z",
+    "createdAt": "2026-11-08T21:02:41.820Z",
+    "updatedAt": "2026-11-08T21:02:41.820Z"
+  },
+  {
+    "id": "2743f8175729ec34",
+    "title": "Рапиристка принесла России шестое золото юношеской Олимпиады",
+    "sport": "Другое",
+    "category": "Другие",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/6/13/137941574474136.png",
+    "teaser": "Рапиристка принесла России шестое золото юношеской Олимпиады",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6af0ab0d0a246f462992d7b6",
+    "publishedAt": "2026-11-08T17:17:19.000Z",
+    "createdAt": "2026-11-08T21:02:46.025Z",
+    "updatedAt": "2026-11-08T21:02:46.025Z"
+  },
+  {
     "id": "858b4ba62f5de82d",
     "title": "Олимпийский чемпион побил рекорд клуба КХЛ через после перехода",
     "sport": "Хоккей",
@@ -10,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6af09b025b114771fd2e0796",
     "publishedAt": "2026-11-08T16:53:04.000Z",
-    "createdAt": "2026-11-08T16:57:41.198Z",
-    "updatedAt": "2026-11-08T16:57:41.198Z"
+    "createdAt": "2026-11-08T21:02:47.080Z",
+    "updatedAt": "2026-11-08T21:02:47.080Z"
   },
   {
     "id": "e7a90a1cade58d51",
@@ -24,22 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6af08e050a246f462992d79e",
     "publishedAt": "2026-11-08T15:49:11.000Z",
-    "createdAt": "2026-11-08T16:57:44.448Z",
-    "updatedAt": "2026-11-08T16:57:44.448Z"
-  },
-  {
-    "id": "c9eade28b0e74748",
-    "title": "Вратарь «Баварии» Нойер выбыл минимум на полтора месяца из-за травмы",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/8/19/827941503378198.jpeg",
-    "teaser": "Вратарь «Баварии» Нойер выбыл минимум на полтора месяца из-за травмы",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6af08efb06ff112d6db18ed7",
-    "publishedAt": "2026-11-08T15:31:29.000Z",
-    "createdAt": "2026-11-08T16:57:45.497Z",
-    "updatedAt": "2026-11-08T16:57:45.497Z"
+    "createdAt": "2026-11-08T21:02:50.058Z",
+    "updatedAt": "2026-11-08T21:02:50.058Z"
   },
   {
     "id": "a17935faecb66313",
@@ -52,78 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6af08ecdf07a758c7ac38b39",
     "publishedAt": "2026-11-08T15:17:24.000Z",
-    "createdAt": "2026-11-08T16:57:42.385Z",
-    "updatedAt": "2026-11-08T16:57:42.385Z"
-  },
-  {
-    "id": "32afe66716130f68",
-    "title": "Российского главу Европейской федерации стрельбы отстранили на три года",
-    "sport": "Другое",
-    "category": "Другие",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/2/47/657941483137472.png",
-    "teaser": "Российского главу Европейской федерации стрельбы отстранили на три года",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6af07e52836318e6dcdc3291",
-    "publishedAt": "2026-11-08T14:53:24.000Z",
-    "createdAt": "2026-11-08T16:57:49.446Z",
-    "updatedAt": "2026-11-08T16:57:49.446Z"
-  },
-  {
-    "id": "23be8c478fafc0ac",
-    "title": "Игрок «Локомотива» ударил в лицо соперника на рукопожатии после матча КХЛ",
-    "sport": "Хоккей",
-    "category": "Хоккей",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/5/96/827941469763965.jpeg",
-    "teaser": "Игрок «Локомотива» ударил в лицо соперника на рукопожатии после матча КХЛ",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6af07f9edf854767d37cc73d",
-    "publishedAt": "2026-11-08T14:15:33.000Z",
-    "createdAt": "2026-11-08T16:57:46.672Z",
-    "updatedAt": "2026-11-08T16:57:46.672Z"
-  },
-  {
-    "id": "57bfb0d46dc1041e",
-    "title": "Петросян упала на дорожке шагов и не попала в призеры этапа Гран-при",
-    "sport": "Другое",
-    "category": "Фигурное катание",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/8/43/097941446631438.png",
-    "teaser": "Петросян упала на дорожке шагов и не попала в призеры этапа Гран-при",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6af0731ff07a758c7ac38b20",
-    "publishedAt": "2026-11-08T13:49:04.000Z",
-    "createdAt": "2026-11-08T16:57:50.607Z",
-    "updatedAt": "2026-11-08T16:57:50.607Z"
-  },
-  {
-    "id": "e86f33e70f40b1c6",
-    "title": "Российский баскетболист «Зенита» забил ЦСКА от своей штрафной под сирену",
-    "sport": "Баскетбол",
-    "category": "Баскетбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/3/59/207941434722593.png",
-    "teaser": "Российский баскетболист «Зенита» забил ЦСКА от своей штрафной под сирену",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6af074935b114771fd2e0743",
-    "publishedAt": "2026-11-08T13:28:37.000Z",
-    "createdAt": "2026-11-08T16:57:51.790Z",
-    "updatedAt": "2026-11-08T16:57:51.790Z"
-  },
-  {
-    "id": "fb51a431b4ff164d",
-    "title": "«Оренбург» после удаления двух игроков впервые с сентября проиграл в РПЛ",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/0/87/347941417577870.png",
-    "teaser": "«Оренбург» после удаления двух игроков впервые с сентября проиграл в РПЛ",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6af06d318575a3c3c097c576",
-    "publishedAt": "2026-11-08T13:01:07.000Z",
-    "createdAt": "2026-11-08T16:57:52.944Z",
-    "updatedAt": "2026-11-08T16:57:52.944Z"
+    "createdAt": "2026-11-08T21:02:44.971Z",
+    "updatedAt": "2026-11-08T21:02:44.971Z"
   },
   {
     "id": "4cfd4a5725360a80",
@@ -136,7 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6ae9d9090dbbc5bef01651ec",
     "publishedAt": "2026-11-08T05:02:38.000Z",
-    "createdAt": "2026-11-08T16:57:47.903Z",
-    "updatedAt": "2026-11-08T16:57:47.903Z"
+    "createdAt": "2026-11-08T21:02:48.122Z",
+    "updatedAt": "2026-11-08T21:02:48.122Z"
   }
 ]
