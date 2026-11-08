@@ -1,5 +1,75 @@
 [
   {
+    "id": "0b674bdbdf8beb3b",
+    "title": "Месси первым в истории MLS выиграл «Золотую бутсу» дважды подряд",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/9/07/107941274455079.jpeg",
+    "teaser": "Месси первым в истории MLS выиграл «Золотую бутсу» дважды подряд",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6af032fde6da72e1de7dca1e",
+    "publishedAt": "2026-11-08T08:56:51.000Z",
+    "createdAt": "2026-11-08T10:00:44.161Z",
+    "updatedAt": "2026-11-08T10:00:44.161Z"
+  },
+  {
+    "id": "8a40fcbf72ec8a9d",
+    "title": "Малкин вошел в топ-20 лучших бомбардиров в истории НХЛ",
+    "sport": "Хоккей",
+    "category": "Хоккей",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/7/65/387941253075657.jpeg",
+    "teaser": "Малкин вошел в топ-20 лучших бомбардиров в истории НХЛ",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6af02d2af07a758c7ac38ac7",
+    "publishedAt": "2026-11-08T08:23:07.000Z",
+    "createdAt": "2026-11-08T10:00:45.172Z",
+    "updatedAt": "2026-11-08T10:00:45.172Z"
+  },
+  {
+    "id": "c2c854bebdce0853",
+    "title": "Российский фигурист завоевал серебро на этапе Гран-при ISU в Китае",
+    "sport": "Другое",
+    "category": "Другие",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/7/78/107941261634787.jpeg",
+    "teaser": "Российский фигурист завоевал серебро на этапе Гран-при ISU в Китае",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6af020e88575a3c3c097c54c",
+    "publishedAt": "2026-11-08T07:51:56.000Z",
+    "createdAt": "2026-11-08T10:00:47.057Z",
+    "updatedAt": "2026-11-08T10:00:47.057Z"
+  },
+  {
+    "id": "eac38c24fd0b72ed",
+    "title": "Россияне завоевали золото ЧМ по прыжкам на батуте",
+    "sport": "Другое",
+    "category": "Другие",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/6/34/347841191298346.svg",
+    "teaser": "Россияне завоевали золото ЧМ по прыжкам на батуте",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6af002c35b114771fd2e06f9",
+    "publishedAt": "2026-11-08T05:32:26.000Z",
+    "createdAt": "2026-11-08T10:00:50.012Z",
+    "updatedAt": "2026-11-08T10:00:50.012Z"
+  },
+  {
+    "id": "4cfd4a5725360a80",
+    "title": "Мирра Андреева дебютирует на главном турнире WTA. Каковы шансы россиянки",
+    "sport": "Теннис",
+    "category": "Теннис",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/5/59/777937928979595.jpeg",
+    "teaser": "Мирра Андреева дебютирует на главном турнире WTA. Каковы шансы россиянки",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6ae9d9090dbbc5bef01651ec",
+    "publishedAt": "2026-11-08T05:02:38.000Z",
+    "createdAt": "2026-11-08T10:00:46.200Z",
+    "updatedAt": "2026-11-08T10:00:46.200Z"
+  },
+  {
     "id": "61801b918b0d4440",
     "title": "Овечкин третий раз в карьере не забил в десяти матчах подряд в НХЛ",
     "sport": "Хоккей",
@@ -10,8 +80,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6aef81213993aeaad62451a9",
     "publishedAt": "2026-11-07T20:13:24.000Z",
-    "createdAt": "2026-11-08T02:11:27.478Z",
-    "updatedAt": "2026-11-08T02:11:27.479Z"
+    "createdAt": "2026-11-08T10:00:48.121Z",
+    "updatedAt": "2026-11-08T10:00:48.121Z"
   },
   {
     "id": "fa52c1d62e7541be",
@@ -24,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6aef7bffc74320943ee65c91",
     "publishedAt": "2026-11-07T19:36:21.000Z",
-    "createdAt": "2026-11-08T02:11:28.603Z",
-    "updatedAt": "2026-11-08T02:11:28.603Z"
+    "createdAt": "2026-11-08T10:00:52.148Z",
+    "updatedAt": "2026-11-08T10:00:52.148Z"
   },
   {
     "id": "72f718c265303268",
@@ -38,8 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6aef6752e6803857c9e78aa4",
     "publishedAt": "2026-11-07T18:27:15.000Z",
-    "createdAt": "2026-11-08T02:11:29.693Z",
-    "updatedAt": "2026-11-08T02:11:29.693Z"
+    "createdAt": "2026-11-08T10:00:53.211Z",
+    "updatedAt": "2026-11-08T10:00:53.211Z"
   },
   {
     "id": "34bf700c2cc81782",
@@ -52,78 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6aef6345e1de3648a1ea986f",
     "publishedAt": "2026-11-07T17:57:46.000Z",
-    "createdAt": "2026-11-08T02:11:31.897Z",
-    "updatedAt": "2026-11-08T02:11:31.897Z"
-  },
-  {
-    "id": "b1a34d8cfe9da748",
-    "title": "Авиакомпания вывела из продажи место 7C в честь Криштиану Роналду",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/8/45/577940711495458.jpeg",
-    "teaser": "Авиакомпания вывела из продажи место 7C в честь Криштиану Роналду",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6aef5a4fe6803857c9e78a91",
-    "publishedAt": "2026-11-07T17:16:53.000Z",
-    "createdAt": "2026-11-08T02:11:34.123Z",
-    "updatedAt": "2026-11-08T02:11:34.123Z"
-  },
-  {
-    "id": "92a1b4d8b56620ac",
-    "title": "Сборная России по дзюдо впервые за семь лет победила на командном ЧЕ",
-    "sport": "Другое",
-    "category": "Другие",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/9/30/697940706391309.jpeg",
-    "teaser": "Сборная России по дзюдо впервые за семь лет победила на командном ЧЕ",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6aef58384902b142a4c7c034",
-    "publishedAt": "2026-11-07T17:03:06.000Z",
-    "createdAt": "2026-11-08T02:11:32.997Z",
-    "updatedAt": "2026-11-08T02:11:32.997Z"
-  },
-  {
-    "id": "b8377a08e666397f",
-    "title": "Московское «Динамо» третий раз в сезоне КХЛ проиграло «Торпедо»",
-    "sport": "Хоккей",
-    "category": "Хоккей",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/9/30/387940686281309.jpeg",
-    "teaser": "Московское «Динамо» третий раз в сезоне КХЛ проиграло «Торпедо»",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6aef50599e543f790d79c9a5",
-    "publishedAt": "2026-11-07T16:29:12.000Z",
-    "createdAt": "2026-11-08T02:11:35.291Z",
-    "updatedAt": "2026-11-08T02:11:35.291Z"
-  },
-  {
-    "id": "2fde28623a269c63",
-    "title": "Российская теннисистка проиграла в полуфинале турнира WTA в Индии",
-    "sport": "Теннис",
-    "category": "Теннис",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/0/74/537940640211740.jpeg",
-    "teaser": "Российская теннисистка проиграла в полуфинале турнира WTA в Индии",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6aef3df6bd610e42ee88439e",
-    "publishedAt": "2026-11-07T16:19:37.000Z",
-    "createdAt": "2026-11-08T02:11:37.572Z",
-    "updatedAt": "2026-11-08T02:11:37.572Z"
-  },
-  {
-    "id": "fae2b25514a7ede4",
-    "title": "«Торпедо» выиграло первый матч на новом стадионе имени Эдуарда Стрельцова",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/1/68/577940662969681.jpeg",
-    "teaser": "«Торпедо» выиграло первый матч на новом стадионе имени Эдуарда Стрельцова",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6aef474341e5f9432396d6cc",
-    "publishedAt": "2026-11-07T15:59:19.000Z",
-    "createdAt": "2026-11-08T02:11:36.431Z",
-    "updatedAt": "2026-11-08T02:11:36.431Z"
+    "createdAt": "2026-11-08T10:00:54.286Z",
+    "updatedAt": "2026-11-08T10:00:54.286Z"
   },
   {
     "id": "efbb6e3f355f2b8e",
@@ -136,7 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6aeef42bffababcec205e15b",
     "publishedAt": "2026-11-07T13:27:13.000Z",
-    "createdAt": "2026-11-08T02:11:30.725Z",
-    "updatedAt": "2026-11-08T02:11:30.725Z"
+    "createdAt": "2026-11-08T10:00:51.086Z",
+    "updatedAt": "2026-11-08T10:00:51.086Z"
   }
 ]
