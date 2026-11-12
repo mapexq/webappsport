@@ -1,0 +1,83 @@
+{
+  "version": 1,
+  "last_updated": "2026-11-12",
+  "instructions": "Загрузите этот файл в ваш публичный GitHub репозиторий (например, в ветку main). При изменении ссылок в GitHub они автоматически обновятся в приложении при следующем запуске или при обновлении экрана (pull-to-refresh).",
+  "platforms": {
+    "WINLINE": {
+      "name": "WINLINE",
+      "url": "https://youstavka.ru/go/winline-bonus",
+      "review_url": "https://youstavka.ru/bookmakers/winline/"
+    },
+    "FONBET": {
+      "name": "FONBET",
+      "url": "https://youstavka.ru/go/fonbet-bonus",
+      "review_url": "https://youstavka.ru/bookmakers/fonbet/"
+    },
+    "BETBOOM": {
+      "name": "BETBOOM",
+      "url": "https://youstavka.ru/go/betboom-bonus",
+      "review_url": "https://youstavka.ru/bookmakers/betboom/"
+    },
+    "PARI": {
+      "name": "PARI",
+      "url": "https://youstavka.ru/go/pari-bonus",
+      "review_url": "https://youstavka.ru/bookmakers/pari/"
+    },
+    "ЛИГА СТАВОК": {
+      "name": "ЛИГА СТАВОК",
+      "url": "https://youstavka.ru/go/liga-stavok-bonus",
+      "review_url": "https://youstavka.ru/bookmakers/liga-stavok/"
+    },
+    "24BET": {
+      "name": "24BET",
+      "url": "https://youstavka.ru/go/24bet-bonus",
+      "review_url": "https://youstavka.ru/bookmakers/24bet/"
+    },
+    "BETTERY": {
+      "name": "BETTERY",
+      "url": "https://youstavka.ru/go/bettery-bonus",
+      "review_url": "https://youstavka.ru/bookmakers/bettery/"
+    },
+    "LEON": {
+      "name": "LEON",
+      "url": "https://youstavka.ru/go/leon-bonus",
+      "review_url": "https://youstavka.ru/bookmakers/leon/"
+    },
+    "OLIMPBET": {
+      "name": "OLIMPBET",
+      "url": "https://youstavka.ru/go/olimpbet-bonus",
+      "review_url": "https://youstavka.ru/bookmakers/olimpbet/"
+    },
+    "МАРАФОН": {
+      "name": "МАРАФОН",
+      "url": "https://youstavka.ru/go/marathon-bonus",
+      "review_url": "https://youstavka.ru/bookmakers/marathon/"
+    },
+    "БАЛТБЕТ": {
+      "name": "БАЛТБЕТ",
+      "url": "https://youstavka.ru/go/baltbet-bonus",
+      "review_url": "https://youstavka.ru/bookmakers/baltbet/"
+    },
+    "ZENIT": {
+      "name": "ZENIT",
+      "url": "https://youstavka.ru/go/zenit-bonus",
+      "review_url": "https://youstavka.ru/bookmakers/zenit/"
+    },
+    "БЕТСИТИ": {
+      "name": "БЕТСИТИ",
+      "url": "https://youstavka.ru/go/betcity-bonus",
+      "review_url": "https://youstavka.ru/bookmakers/betcity/"
+    },
+    "БЕТ-М": {
+      "name": "БЕТ-М",
+      "url": "https://youstavka.ru/go/bet-m-bonus",
+      "review_url": "https://youstavka.ru/bookmakers/bet-m/"
+    },
+    "СПОРТБЕТ": {
+      "name": "СПОРТБЕТ",
+      "url": "https://youstavka.ru/go/sportbet-bonus",
+      "review_url": "https://youstavka.ru/bookmakers/sportbet/"
+    }
+  }
+}
+
