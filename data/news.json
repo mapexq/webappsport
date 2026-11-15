@@ -1,5 +1,89 @@
 [
   {
+    "id": "4d1aefccad6e909e",
+    "title": "ФХР и ОКР обратятся в МОК из-за недопуска россиян до МЧМ",
+    "sport": "Хоккей",
+    "category": "Хоккей",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/2/91/947947672410912.png",
+    "teaser": "ФХР и ОКР обратятся в МОК из-за недопуска россиян до МЧМ",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6af9f2d8e6a766084d3951f6",
+    "publishedAt": "2026-11-15T18:15:50.000Z",
+    "createdAt": "2026-11-15T21:34:24.936Z",
+    "updatedAt": "2026-11-15T21:34:24.936Z"
+  },
+  {
+    "id": "738862c9115dc6e9",
+    "title": "Непомнящий и Карлсен сыграли вничью на шахматном турнире в Будапеште",
+    "sport": "Другое",
+    "category": "Другие",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/7/15/667947635932157.jpeg",
+    "teaser": "Непомнящий и Карлсен сыграли вничью на шахматном турнире в Будапеште",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6af9e5678ca78b70d16892a3",
+    "publishedAt": "2026-11-15T18:06:40.000Z",
+    "createdAt": "2026-11-15T21:34:25.989Z",
+    "updatedAt": "2026-11-15T21:34:25.989Z"
+  },
+  {
+    "id": "78a042a1e46211dc",
+    "title": "IIHF не допустила сборную России к молодежному ЧМ в Канаде",
+    "sport": "Хоккей",
+    "category": "Хоккей",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/9/08/797947668948089.jpeg",
+    "teaser": "IIHF не допустила сборную России к молодежному ЧМ в Канаде",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6af9ef83b18dd4bb640ed54e",
+    "publishedAt": "2026-11-15T17:49:42.000Z",
+    "createdAt": "2026-11-15T21:34:23.052Z",
+    "updatedAt": "2026-11-15T21:34:23.052Z"
+  },
+  {
+    "id": "71cb40de3abad63a",
+    "title": "«Зенит» разгромил клуб Салаха в товарищеском матче в Санкт-Петербурге",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/3/40/667947593994403.jpeg",
+    "teaser": "«Зенит» разгромил клуб Салаха в товарищеском матче в Санкт-Петербурге",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6af9d7a8fd09cb5fe3763cbb",
+    "publishedAt": "2026-11-15T16:35:53.000Z",
+    "createdAt": "2026-11-15T21:34:26.979Z",
+    "updatedAt": "2026-11-15T21:34:26.979Z"
+  },
+  {
+    "id": "4f7aed889ff6cca4",
+    "title": "Зверев одержал первую победу в статусе первой ракетки мира",
+    "sport": "Теннис",
+    "category": "Теннис",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/1/50/627947576100501.jpeg",
+    "teaser": "Зверев одержал первую победу в статусе первой ракетки мира",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6af9d391938cd0f57ef525a1",
+    "publishedAt": "2026-11-15T16:18:37.000Z",
+    "createdAt": "2026-11-15T21:34:28.103Z",
+    "updatedAt": "2026-11-15T21:34:28.103Z"
+  },
+  {
+    "id": "2e22e4a488dbdb5e",
+    "title": "«Мисс Германия — 2022» из России дебютировала в профессиональном боксе",
+    "sport": "Единоборства",
+    "category": "Единоборства",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/5/48/477947572501485.jpeg",
+    "teaser": "«Мисс Германия — 2022» из России дебютировала в профессиональном боксе",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6af9cdb1288c43bfcc42208f",
+    "publishedAt": "2026-11-15T16:12:26.000Z",
+    "createdAt": "2026-11-15T21:34:29.067Z",
+    "updatedAt": "2026-11-15T21:34:29.067Z"
+  },
+  {
     "id": "789c2fe2f8563b84",
     "title": "Хет-трик лучшего бомбардира сезона принес «Барысу» победу в матче КХЛ",
     "sport": "Хоккей",
@@ -10,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6af9c46d783d9d339b4772a4",
     "publishedAt": "2026-11-15T15:08:01.000Z",
-    "createdAt": "2026-11-15T16:16:40.211Z",
-    "updatedAt": "2026-11-15T16:16:40.211Z"
+    "createdAt": "2026-11-15T21:34:30.330Z",
+    "updatedAt": "2026-11-15T21:34:30.330Z"
   },
   {
     "id": "e9bf20b5a03e40b5",
@@ -24,8 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6af9b43d783d9d339b47728b",
     "publishedAt": "2026-11-15T14:02:04.000Z",
-    "createdAt": "2026-11-15T16:16:41.796Z",
-    "updatedAt": "2026-11-15T16:16:41.796Z"
+    "createdAt": "2026-11-15T21:34:31.387Z",
+    "updatedAt": "2026-11-15T21:34:31.387Z"
   },
   {
     "id": "5a2bbf014be98432",
@@ -38,8 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6af9a24d10835517270a8da7",
     "publishedAt": "2026-11-15T13:31:05.000Z",
-    "createdAt": "2026-11-15T16:16:42.816Z",
-    "updatedAt": "2026-11-15T16:16:42.816Z"
+    "createdAt": "2026-11-15T21:34:32.438Z",
+    "updatedAt": "2026-11-15T21:34:32.438Z"
   },
   {
     "id": "b13c2a0a426540a7",
@@ -52,91 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6af9a90a288c43bfcc42206f",
     "publishedAt": "2026-11-15T13:01:35.000Z",
-    "createdAt": "2026-11-15T16:16:43.952Z",
-    "updatedAt": "2026-11-15T16:16:43.952Z"
-  },
-  {
-    "id": "ebc34df7d7c81ade",
-    "title": "Коростелев стал четвертым в гонке на 10 км на турнире FIS в Финляндии",
-    "sport": "Другое",
-    "category": "Другие",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/3/47/797947423191473.jpeg",
-    "teaser": "Коростелев стал четвертым в гонке на 10 км на турнире FIS в Финляндии",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6af995438ca78b70d168928c",
-    "publishedAt": "2026-11-15T11:43:14.000Z",
-    "createdAt": "2026-11-15T16:16:45.029Z",
-    "updatedAt": "2026-11-15T16:16:45.029Z"
-  },
-  {
-    "id": "a4b80a8d746b7d49",
-    "title": "Россиянин стал звездой дня НХЛ после исторического достижения в клубе",
-    "sport": "Хоккей",
-    "category": "Хоккей",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/1/86/797947401090861.jpeg",
-    "teaser": "Россиянин стал звездой дня НХЛ после исторического достижения в клубе",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6af989a050aa0db81cd830b6",
-    "publishedAt": "2026-11-15T11:12:49.000Z",
-    "createdAt": "2026-11-15T16:16:46.134Z",
-    "updatedAt": "2026-11-15T16:16:46.134Z"
-  },
-  {
-    "id": "388bde3683066e49",
-    "title": "Панарин пропустил матч НХЛ из-за смерти деда",
-    "sport": "Хоккей",
-    "category": "Хоккей",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/7/56/547947382823567.jpeg",
-    "teaser": "Панарин пропустил матч НХЛ из-за смерти деда",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6af9846fd6d055496f775282",
-    "publishedAt": "2026-11-15T10:29:55.000Z",
-    "createdAt": "2026-11-15T16:16:47.194Z",
-    "updatedAt": "2026-11-15T16:16:47.194Z"
-  },
-  {
-    "id": "a560af4e7f4805e5",
-    "title": "Медведев вернется на Итоговый турнир ATP. Каковы шансы россиянина",
-    "sport": "Теннис",
-    "category": "Теннис",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/3/02/557943998599023.jpeg",
-    "teaser": "Медведев вернется на Итоговый турнир ATP. Каковы шансы россиянина",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6af452532d53b30e427b4aab",
-    "publishedAt": "2026-11-15T05:31:06.000Z",
-    "createdAt": "2026-11-15T16:16:48.390Z",
-    "updatedAt": "2026-11-15T16:16:48.390Z"
-  },
-  {
-    "id": "ed785c43c2eeb639",
-    "title": "Немков проиграл первый бой за 10 лет и лишился титула PFL в тяжелом весе",
-    "sport": "Единоборства",
-    "category": "Единоборства",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/3/16/717946805452163.jpeg",
-    "teaser": "Немков проиграл первый бой за 10 лет и лишился титула PFL в тяжелом весе",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6af8a9cfd5ed8db687222c1e",
-    "publishedAt": "2026-11-14T22:12:09.000Z",
-    "createdAt": "2026-11-15T16:16:49.464Z",
-    "updatedAt": "2026-11-15T16:16:49.464Z"
-  },
-  {
-    "id": "294a5fbc99186f01",
-    "title": "Андреева первой из россиянок за 14 лет вышла в финал главного турнира WTA",
-    "sport": "Теннис",
-    "category": "Теннис",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/8/22/917946795561228.jpeg",
-    "teaser": "Андреева первой из россиянок за 14 лет вышла в финал главного турнира WTA",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6af8a2cfc8a1bac0e8b2a0da",
-    "publishedAt": "2026-11-14T21:43:34.000Z",
-    "createdAt": "2026-11-15T16:16:50.456Z",
-    "updatedAt": "2026-11-15T16:16:50.456Z"
+    "createdAt": "2026-11-15T21:34:33.767Z",
+    "updatedAt": "2026-11-15T21:34:33.767Z"
   }
 ]
