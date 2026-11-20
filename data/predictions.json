@@ -1,34 +1,66 @@
 [
   {
-    "id": 1795122931479,
-    "eventName": "Тампа — Бэй - Эдмонтон",
-    "discipline": "Хоккей",
-    "tournament": "НХЛ",
+    "id": 1795143238841,
+    "eventName": "Матч",
+    "discipline": "Футбол",
+    "tournament": "Чемпионат",
     "expert": {
-      "name": "Иван вазенмиллер",
-      "avatar": "https://static-uploads.prod.bookmaker-ratings.ru/2021/11/rhQrE9r64OY.png?width=60",
+      "name": "Саут Мельбурн",
+      "avatar": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=100&h=100&fit=crop",
       "status": "expert",
-      "winRate": 89
+      "winRate": 73
     },
-    "prediction": "Победа 1",
+    "prediction": "Тотал (10.5) Б (угловые)",
     "odds": 2.13,
-    "comment": "В этом сезоне ещё ни разу гости не проигрывали а основу, а Тампа дома и осень сильна, вполне способны нанести первое поражение Эдмонтона в гостях",
+    "comment": "Комментарий к прогнозу",
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1795122931481,
-    "eventName": "Вегас — Даллас",
-    "discipline": "Хоккей",
-    "tournament": "НХЛ",
+    "id": 1795143238842,
+    "eventName": "Матч",
+    "discipline": "Футбол",
+    "tournament": "Чемпионат",
     "expert": {
-      "name": "Johnny Depp",
-      "avatar": "https://static-uploads.prod.bookmaker-ratings.ru/uploads/2026/11/smolovfyodor11-rb-webp-7a8df8f4d563-8b4ac82a5ff1.webp?width=60",
+      "name": "Крылья Советов",
+      "avatar": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=100&h=100&fit=crop",
       "status": "expert",
-      "winRate": 77
+      "winRate": 83
     },
-    "prediction": "Фора 1 (0)",
-    "odds": 2.02,
-    "comment": "Наиболее интересным и валуйным вариантом для повторной встречи соперников в Лас-Вегасе выглядит итоговая победа «Далласа» с учетом овертайма и буллитов за коэффициент около 2.02–2.06 или «Даллас» не проиграет в основное время (Х2) за 1.64.",
+    "prediction": "1Х",
+    "odds": 1.25,
+    "comment": "Комментарий к прогнозу",
+    "source": "Sports Analytics Pro"
+  },
+  {
+    "id": 1795143238843,
+    "eventName": "Матч",
+    "discipline": "Футбол",
+    "tournament": "Чемпионат",
+    "expert": {
+      "name": "Касива Рейсол",
+      "avatar": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=100&h=100&fit=crop",
+      "status": "expert",
+      "winRate": 89
+    },
+    "prediction": "Индивидуальный тотал 1 Больше (1.5)",
+    "odds": 1.48,
+    "comment": "Комментарий к прогнозу",
+    "source": "Sports Analytics Pro"
+  },
+  {
+    "id": 1795143238844,
+    "eventName": "Матч",
+    "discipline": "Футбол",
+    "tournament": "Чемпионат",
+    "expert": {
+      "name": "Глория Быстрица",
+      "avatar": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=100&h=100&fit=crop",
+      "status": "expert",
+      "winRate": 82
+    },
+    "prediction": "Тотал (2.5) Б",
+    "odds": 1.85,
+    "comment": "Комментарий к прогнозу",
     "source": "Sports Analytics Pro"
   }
 ]
