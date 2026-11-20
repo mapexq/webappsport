@@ -1,22 +1,6 @@
 [
   {
-    "id": 1795143238841,
-    "eventName": "Матч",
-    "discipline": "Футбол",
-    "tournament": "Чемпионат",
-    "expert": {
-      "name": "Саут Мельбурн",
-      "avatar": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=100&h=100&fit=crop",
-      "status": "expert",
-      "winRate": 73
-    },
-    "prediction": "Тотал (10.5) Б (угловые)",
-    "odds": 2.13,
-    "comment": "Комментарий к прогнозу",
-    "source": "Sports Analytics Pro"
-  },
-  {
-    "id": 1795143238842,
+    "id": 1795172946691,
     "eventName": "Матч",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -26,41 +10,89 @@
       "status": "expert",
       "winRate": 83
     },
-    "prediction": "1Х",
-    "odds": 1.25,
+    "prediction": "Тотал (2) Б",
+    "odds": 1.61,
     "comment": "Комментарий к прогнозу",
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1795143238843,
+    "id": 1795172946692,
     "eventName": "Матч",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
     "expert": {
-      "name": "Касива Рейсол",
+      "name": "Шанхайские Драконы",
       "avatar": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=100&h=100&fit=crop",
+      "status": "expert",
+      "winRate": 69
+    },
+    "prediction": "Тотал (5) М",
+    "odds": 1.78,
+    "comment": "Комментарий к прогнозу",
+    "source": "Sports Analytics Pro"
+  },
+  {
+    "id": 1795172946693,
+    "eventName": "Матч",
+    "discipline": "Футбол",
+    "tournament": "Чемпионат",
+    "expert": {
+      "name": "Атлетик Бильбао",
+      "avatar": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=100&h=100&fit=crop",
+      "status": "expert",
+      "winRate": 83
+    },
+    "prediction": "Фора 2 (+1.5)",
+    "odds": 1.58,
+    "comment": "Комментарий к прогнозу",
+    "source": "Sports Analytics Pro"
+  },
+  {
+    "id": 1795172946694,
+    "eventName": "Сибирь — Автомобилист",
+    "discipline": "Хоккей",
+    "tournament": "Чемпионат",
+    "expert": {
+      "name": "АБАнтон Быков",
+      "avatar": "https://bookmaker-ratings.ru/static/images/badges/novice-letter.svg?v=18112026",
+      "status": "expert",
+      "winRate": 73
+    },
+    "prediction": "Победа 2",
+    "odds": 2.05,
+    "comment": "Немного аналитики, немного статистики, очень много чуйки",
+    "source": "Sports Analytics Pro"
+  },
+  {
+    "id": 1795172946695,
+    "eventName": "Труа — Гавр",
+    "discipline": "Футбол",
+    "tournament": "Чемпионат",
+    "expert": {
+      "name": "АШАнтоха Шило",
+      "avatar": "https://bookmaker-ratings.ru/static/images/badges/novice-letter.svg?v=18112026",
+      "status": "expert",
+      "winRate": 75
+    },
+    "prediction": "Победа 1",
+    "odds": 2.25,
+    "comment": "Комментарий к прогнозу",
+    "source": "Sports Analytics Pro"
+  },
+  {
+    "id": 1795172946696,
+    "eventName": "Бавария — Кёльн",
+    "discipline": "Футбол",
+    "tournament": "Чемпионат",
+    "expert": {
+      "name": "Олег Задонский",
+      "avatar": "https://static-uploads.prod.bookmaker-ratings.ru/uploads/2026/10/img-20260823-wa0014-rb-webp-bbaaffbd250e-19eb7f644aaf.webp?width=60",
       "status": "expert",
       "winRate": 89
     },
-    "prediction": "Индивидуальный тотал 1 Больше (1.5)",
-    "odds": 1.48,
-    "comment": "Комментарий к прогнозу",
-    "source": "Sports Analytics Pro"
-  },
-  {
-    "id": 1795143238844,
-    "eventName": "Матч",
-    "discipline": "Футбол",
-    "tournament": "Чемпионат",
-    "expert": {
-      "name": "Глория Быстрица",
-      "avatar": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=100&h=100&fit=crop",
-      "status": "expert",
-      "winRate": 82
-    },
-    "prediction": "Тотал (2.5) Б",
-    "odds": 1.85,
-    "comment": "Комментарий к прогнозу",
+    "prediction": "Обе забьют - Нет",
+    "odds": 2,
+    "comment": "В Мюнхене лидер чемпионата Бавария открывает очередной тур Бундеслиги против идущего 15-м Кельна! Разница очевидна, вопрос только сколько забьют соперники! Мое видение, что Бавария одержит победу и не пропустит!",
     "source": "Sports Analytics Pro"
   }
 ]
