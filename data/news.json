@@ -1,5 +1,61 @@
 [
   {
+    "id": "a16b29acf263fb24",
+    "title": "ЦСКА впервые в сезоне РПЛ проиграл домашний матч",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/4/30/277952854717304.jpeg",
+    "teaser": "ЦСКА впервые в сезоне РПЛ проиграл домашний матч",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6b01e193ff6c6a5945244fff",
+    "publishedAt": "2026-11-21T18:41:36.000Z",
+    "createdAt": "2026-11-21T22:56:36.064Z",
+    "updatedAt": "2026-11-21T22:56:36.064Z"
+  },
+  {
+    "id": "3137507f7abd1a90",
+    "title": "FIBA оставила в силе отстранение российских сборных",
+    "sport": "Баскетбол",
+    "category": "Баскетбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/6/75/607952836002756.jpeg",
+    "teaser": "FIBA оставила в силе отстранение российских сборных",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6b01da622d0d7dd08f09b105",
+    "publishedAt": "2026-11-21T17:58:00.000Z",
+    "createdAt": "2026-11-21T22:56:38.372Z",
+    "updatedAt": "2026-11-21T22:56:38.372Z"
+  },
+  {
+    "id": "760229ad2ee36bfa",
+    "title": "«Зенит» впервые за 17 лет проиграл четыре матча за первый круг в РПЛ",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/7/98/607952830238987.jpeg",
+    "teaser": "«Зенит» впервые за 17 лет проиграл четыре матча за первый круг в РПЛ",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6b01d7dc2d0d7dd08f09b0fa",
+    "publishedAt": "2026-11-21T17:49:59.000Z",
+    "createdAt": "2026-11-21T22:56:37.265Z",
+    "updatedAt": "2026-11-21T22:56:37.265Z"
+  },
+  {
+    "id": "c0941dafa1719c6c",
+    "title": "Российские дзюдоисты побили рекорд по золотым медалям на юниорском ЧМ",
+    "sport": "Другое",
+    "category": "Другие",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/5/34/567952824622345.jpeg",
+    "teaser": "Российские дзюдоисты побили рекорд по золотым медалям на юниорском ЧМ",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6b01d5ae61e012c7d6842d9c",
+    "publishedAt": "2026-11-21T17:38:28.000Z",
+    "createdAt": "2026-11-21T22:56:40.637Z",
+    "updatedAt": "2026-11-21T22:56:40.637Z"
+  },
+  {
     "id": "9a38fed0434cee14",
     "title": "«Зенит» проиграл впервые с сентября, пропустив три гола от «Рубина»",
     "sport": "Футбол",
@@ -10,8 +66,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6b01be32a73d819ec2a5ad2b",
     "publishedAt": "2026-11-21T16:28:06.000Z",
-    "createdAt": "2026-11-21T17:14:15.743Z",
-    "updatedAt": "2026-11-21T17:14:15.743Z"
+    "createdAt": "2026-11-21T22:56:39.500Z",
+    "updatedAt": "2026-11-21T22:56:39.500Z"
   },
   {
     "id": "7c1c3c093ddc35d3",
@@ -24,8 +80,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6b01bfda90970fd12214d678",
     "publishedAt": "2026-11-21T16:06:52.000Z",
-    "createdAt": "2026-11-21T17:14:16.894Z",
-    "updatedAt": "2026-11-21T17:14:16.894Z"
+    "createdAt": "2026-11-21T22:56:41.740Z",
+    "updatedAt": "2026-11-21T22:56:41.740Z"
   },
   {
     "id": "2eb54e24754db29a",
@@ -38,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6b01b85841879c59d0adf318",
     "publishedAt": "2026-11-21T15:54:52.000Z",
-    "createdAt": "2026-11-21T17:14:17.935Z",
-    "updatedAt": "2026-11-21T17:14:17.935Z"
+    "createdAt": "2026-11-21T22:56:42.936Z",
+    "updatedAt": "2026-11-21T22:56:42.936Z"
   },
   {
     "id": "670eb7314371bb9e",
@@ -52,8 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6b01b790f2283431340e4d6e",
     "publishedAt": "2026-11-21T15:44:50.000Z",
-    "createdAt": "2026-11-21T17:14:18.984Z",
-    "updatedAt": "2026-11-21T17:14:18.984Z"
+    "createdAt": "2026-11-21T22:56:44.067Z",
+    "updatedAt": "2026-11-21T22:56:44.067Z"
   },
   {
     "id": "250a00c7cfad9aaa",
@@ -66,8 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6b01ac0730fc0ace39ee5f40",
     "publishedAt": "2026-11-21T14:54:32.000Z",
-    "createdAt": "2026-11-21T17:14:21.045Z",
-    "updatedAt": "2026-11-21T17:14:21.045Z"
+    "createdAt": "2026-11-21T22:56:46.391Z",
+    "updatedAt": "2026-11-21T22:56:46.391Z"
   },
   {
     "id": "727385ffeb6ab0a1",
@@ -80,63 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6b01a64ab843c1d94f726db9",
     "publishedAt": "2026-11-21T14:27:51.000Z",
-    "createdAt": "2026-11-21T17:14:20.050Z",
-    "updatedAt": "2026-11-21T17:14:20.050Z"
-  },
-  {
-    "id": "776f77aa1d644df4",
-    "title": "Худший клуб РПЛ в матче с «Акроном» одержал вторую победу в сезоне",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/2/12/037952697180122.jpeg",
-    "teaser": "Худший клуб РПЛ в матче с «Акроном» одержал вторую победу в сезоне",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6b01a40e374a8a9ce3094d94",
-    "publishedAt": "2026-11-21T14:13:17.000Z",
-    "createdAt": "2026-11-21T17:14:22.129Z",
-    "updatedAt": "2026-11-21T17:14:22.129Z"
-  },
-  {
-    "id": "c0ffaa870c2bed78",
-    "title": "Российских фигуристов не пустят на турнир серии «Челленджер» в Варшаве",
-    "sport": "Другое",
-    "category": "Фигурное катание",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/4/92/227952689580924.jpeg",
-    "teaser": "Российских фигуристов не пустят на турнир серии «Челленджер» в Варшаве",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6b01a119573c7abe61d5c891",
-    "publishedAt": "2026-11-21T13:58:40.000Z",
-    "createdAt": "2026-11-21T17:14:23.133Z",
-    "updatedAt": "2026-11-21T17:14:23.133Z"
-  },
-  {
-    "id": "0351587cef830cdc",
-    "title": "Обладатель «Золотого мяча» Кейн перенес операцию после разрыва связок",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/1/66/637952670241661.jpeg",
-    "teaser": "Обладатель «Золотого мяча» Кейн перенес операцию после разрыва связок",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6b0199a1d20f5e42334e64fe",
-    "publishedAt": "2026-11-21T13:29:17.000Z",
-    "createdAt": "2026-11-21T17:14:24.164Z",
-    "updatedAt": "2026-11-21T17:14:24.164Z"
-  },
-  {
-    "id": "367c74591ed3cdff",
-    "title": "Рафаэля Надаля избрали в совет директоров мадридского «Реала»",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/7/39/037952658997397.jpeg",
-    "teaser": "Рафаэля Надаля избрали в совет директоров мадридского «Реала»",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6b019532512ded13a84178cd",
-    "publishedAt": "2026-11-21T13:04:25.000Z",
-    "createdAt": "2026-11-21T17:14:25.211Z",
-    "updatedAt": "2026-11-21T17:14:25.211Z"
+    "createdAt": "2026-11-21T22:56:45.278Z",
+    "updatedAt": "2026-11-21T22:56:45.278Z"
   }
 ]
