@@ -1,6 +1,6 @@
 [
   {
-    "id": 1795668501860,
+    "id": 1795704709831,
     "eventName": "Матч",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -10,29 +10,13 @@
       "status": "expert",
       "winRate": 78
     },
-    "prediction": "Обе забьют - Нет",
-    "odds": 1.9,
+    "prediction": "П1",
+    "odds": 1.46,
     "comment": "Комментарий к прогнозу",
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1795668501862,
-    "eventName": "Матч",
-    "discipline": "Футбол",
-    "tournament": "Чемпионат",
-    "expert": {
-      "name": "Лига Европы",
-      "avatar": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=100&h=100&fit=crop",
-      "status": "expert",
-      "winRate": 77
-    },
-    "prediction": "ТМ (3,5)",
-    "odds": 1.85,
-    "comment": "Комментарий к прогнозу",
-    "source": "Sports Analytics Pro"
-  },
-  {
-    "id": 1795668501863,
+    "id": 1795704709833,
     "eventName": "Матч",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
@@ -42,57 +26,89 @@
       "status": "expert",
       "winRate": 77
     },
-    "prediction": "1-й гол - «Кристал Пэлас»",
-    "odds": 1.71,
+    "prediction": "Тотал (8.5) Б (угловые)",
+    "odds": 1.52,
     "comment": "Комментарий к прогнозу",
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1795668501864,
-    "eventName": "Нижний Новгород — Текстильщик",
+    "id": 1795704709834,
+    "eventName": "Матч",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
     "expert": {
-      "name": "Константин Куприянов",
-      "avatar": "https://static-uploads.prod.bookmaker-ratings.ru/uploads/2026/11/7612-rb-webp-1e385dabac61-685249799f7d.webp?width=60",
+      "name": "Нижний Новгород",
+      "avatar": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=100&h=100&fit=crop",
       "status": "expert",
-      "winRate": 70
+      "winRate": 83
     },
-    "prediction": "Победа 1",
-    "odds": 1.17,
-    "comment": "Ну тут и говорить нечего! Безоговорочный лидер, против мертвого Камышина!",
+    "prediction": "Фора 1 (-2)",
+    "odds": 1.78,
+    "comment": "Комментарий к прогнозу",
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1795668501865,
+    "id": 1795704709835,
     "eventName": "Динамо Москва — Факел Воронеж",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
     "expert": {
-      "name": "Алекс Перейра",
-      "avatar": "https://static-uploads.prod.bookmaker-ratings.ru/2020/02/d35ae775-f558-488a-b5d9-91cad392ca83.png?width=60",
+      "name": "АQАлександр Qucher",
+      "avatar": "https://bookmaker-ratings.ru/static/images/badges/forecaster-letter.svg?v=18112026",
       "status": "expert",
       "winRate": 79
     },
-    "prediction": "Обе забьют - Нет",
-    "odds": 1.9,
-    "comment": "Всем добрый день. Матч на кубок фонбет. Динамо обеспечело себе выход в плейофф. Факел есстевенно тоже после поражения Ахмата, но в пути регионов. Будут здесь отталкиваться от игры Воронежцов. В кубке забивают очень мало, плюс игра без мотивации. Думаю приедут с мыслями в голове на Спартак, с кем придётся сразиться в чемпионате Рпл. Динамо же набрало неплохой ход и проведут последний матч в этом году на своём стадионе и им нужно будет порадовать болельщиков. Жду сухой игры и не вижу гола в Факела в этом матче.",
+    "prediction": "П1",
+    "odds": 1.46,
+    "comment": "Динамо нужна эта победа,я думаю будет не мало голов",
     "source": "Sports Analytics Pro"
   },
   {
-    "id": 1795668501866,
-    "eventName": "Хоффенхайм — Штурм",
+    "id": 1795704709836,
+    "eventName": "Спартак Москва — ЦСКА",
+    "discipline": "Хоккей",
+    "tournament": "Чемпионат",
+    "expert": {
+      "name": "АААртур Афонин",
+      "avatar": "https://bookmaker-ratings.ru/static/images/badges/novice-letter.svg?v=18112026",
+      "status": "expert",
+      "winRate": 89
+    },
+    "prediction": "Победа 2",
+    "odds": 1.93,
+    "comment": "Комментарий к прогнозу",
+    "source": "Sports Analytics Pro"
+  },
+  {
+    "id": 1795704709837,
+    "eventName": "Олимпиакос — Милан",
     "discipline": "Футбол",
     "tournament": "Чемпионат",
     "expert": {
-      "name": "Александр Трибуш",
-      "avatar": "https://static-uploads.prod.bookmaker-ratings.ru/2024/03/1-16.png?width=60",
+      "name": "АБАлександр Белов",
+      "avatar": "https://bookmaker-ratings.ru/static/images/badges/forecaster-letter.svg?v=18112026",
+      "status": "expert",
+      "winRate": 68
+    },
+    "prediction": "Обе забьют - Нет",
+    "odds": 2.16,
+    "comment": "Игры без размена голами прошли в 3 из 4 матчей Олимпиакоса в нынешнем розыгрыше ЛЕ, а у итальянцев прошли все 4 игры ОЗ-нет. Следует учесть, что у греков одна из лучших оборон турнира (пропустили пока единожды).",
+    "source": "Sports Analytics Pro"
+  },
+  {
+    "id": 1795704709838,
+    "eventName": "Нижний Новгород — Текстильщик",
+    "discipline": "Футбол",
+    "tournament": "Чемпионат",
+    "expert": {
+      "name": "Александр Базуев",
+      "avatar": "https://static-uploads.prod.bookmaker-ratings.ru/uploads/2026/11/img1816-rb-webp-71d03875561d-c33a00d1e034.webp?width=60",
       "status": "expert",
       "winRate": 76
     },
-    "prediction": "ТМ (3,5)",
-    "odds": 1.85,
-    "comment": "В четырех турах общего этапа «Хоффенхайм» и «Штурм» набрали по шесть очков и занимают соседние позиции в турнирной таблице. А в национальных чемпионатах обе команды сейчас нестабильны. Лучше не ставить на исход в игре между клубами в такой форме со схожими турнирными задачами, зато можно переключиться на тотал. Букмекеры уверены в результативном матче, хотя не стоит ждать много голов. Во всех восьми прошлых встречах «Хоффенхайма» зашла ставка на ТМ 3,5. Не больше трех мячей было и в 15 из 17 предыдущих игр «Штурма» в еврокубках. Поэтому просматривается ставка на тотал меньше 3,5 по привлекательному кэфу 1,85.",
+    "prediction": "Фора 1 (-2)",
+    "odds": 1.78,
+    "comment": "✅Нижегородцы не сбавляют темп,должны рвать аутсайдеров☘️",
     "source": "Sports Analytics Pro"
   }
 ]
