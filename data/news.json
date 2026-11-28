@@ -1,5 +1,75 @@
 [
   {
+    "id": "bde2b82ad6051ebb",
+    "title": "Российский боксер проиграл впервые в карьере в чемпионском бою IBF",
+    "sport": "Единоборства",
+    "category": "Единоборства",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/6/29/977958059032296.jpeg",
+    "teaser": "Российский боксер проиграл впервые в карьере в чемпионском бою IBF",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6b09d259c7c952f0aaa46ed1",
+    "publishedAt": "2026-11-27T19:06:07.000Z",
+    "createdAt": "2026-11-28T01:21:42.964Z",
+    "updatedAt": "2026-11-28T01:21:42.964Z"
+  },
+  {
+    "id": "d188fbdc88828677",
+    "title": "СКА впервые за пять лет проиграл «Барысу» в КХЛ",
+    "sport": "Хоккей",
+    "category": "Хоккей",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/2/64/757958040168642.jpeg",
+    "teaser": "СКА впервые за пять лет проиграл «Барысу» в КХЛ",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6b09cb01b77c1b7b821d3b9c",
+    "publishedAt": "2026-11-27T18:51:15.000Z",
+    "createdAt": "2026-11-28T01:21:44.983Z",
+    "updatedAt": "2026-11-28T01:21:44.983Z"
+  },
+  {
+    "id": "821e86a20ce9bf69",
+    "title": "Клуб НХЛ отстранил от матчей рекордсмена сборной России",
+    "sport": "Хоккей",
+    "category": "Хоккей",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/7/11/897958046016117.jpeg",
+    "teaser": "Клуб НХЛ отстранил от матчей рекордсмена сборной России",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6b09cd8dd8e4dc3823d31501",
+    "publishedAt": "2026-11-27T18:45:52.000Z",
+    "createdAt": "2026-11-28T01:21:44.003Z",
+    "updatedAt": "2026-11-28T01:21:44.003Z"
+  },
+  {
+    "id": "6f161876d4445178",
+    "title": "Массовая драка фанатов произошла во время матча «Торпедо» в Первой лиге",
+    "sport": "Футбол",
+    "category": "Футбол",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/0/02/707958036884020.jpeg",
+    "teaser": "Массовая драка фанатов произошла во время матча «Торпедо» в Первой лиге",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6b09c8e738ef3b65fb2e4dec",
+    "publishedAt": "2026-11-27T18:20:16.000Z",
+    "createdAt": "2026-11-28T01:21:45.965Z",
+    "updatedAt": "2026-11-28T01:21:45.965Z"
+  },
+  {
+    "id": "97f7a5ae3a99f050",
+    "title": "Кто из политиков увлекся паделом",
+    "sport": "Другое",
+    "category": "Другие",
+    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/9/57/227948739791579.jpeg",
+    "teaser": "Кто из политиков увлекся паделом",
+    "fullContent": "",
+    "sourceName": "РБК Спорт",
+    "sourceUrl": "https://sportrbc.ru/news/6afb84693b706872624a36ed",
+    "publishedAt": "2026-11-27T18:00:37.000Z",
+    "createdAt": "2026-11-28T01:21:50.283Z",
+    "updatedAt": "2026-11-28T01:21:50.283Z"
+  },
+  {
     "id": "9ff89b6bcfd239c2",
     "title": "Клуб НХЛ отдал 19-летнего россиянина в аренду в московское «Динамо»",
     "sport": "Хоккей",
@@ -10,8 +80,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6b09c0fdc17330ad4b614936",
     "publishedAt": "2026-11-27T17:49:16.000Z",
-    "createdAt": "2026-11-27T17:58:43.713Z",
-    "updatedAt": "2026-11-27T17:58:43.713Z"
+    "createdAt": "2026-11-28T01:21:47.008Z",
+    "updatedAt": "2026-11-28T01:21:47.008Z"
   },
   {
     "id": "ba2eb572e25a9eca",
@@ -24,8 +94,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6b09b3d8f4d5345623db4fa8",
     "publishedAt": "2026-11-27T17:02:19.000Z",
-    "createdAt": "2026-11-27T17:58:44.754Z",
-    "updatedAt": "2026-11-27T17:58:44.754Z"
+    "createdAt": "2026-11-28T01:21:48.397Z",
+    "updatedAt": "2026-11-28T01:21:48.397Z"
   },
   {
     "id": "7e0a5d45339288f8",
@@ -38,8 +108,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6b09b06de9cc5208cbb7ded1",
     "publishedAt": "2026-11-27T16:39:00.000Z",
-    "createdAt": "2026-11-27T17:58:45.804Z",
-    "updatedAt": "2026-11-27T17:58:45.804Z"
+    "createdAt": "2026-11-28T01:21:51.270Z",
+    "updatedAt": "2026-11-28T01:21:51.270Z"
   },
   {
     "id": "adebdc7c541d27a0",
@@ -52,36 +122,8 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6b09ad14b92f4bb38fbb6b21",
     "publishedAt": "2026-11-27T16:26:17.000Z",
-    "createdAt": "2026-11-27T17:58:46.860Z",
-    "updatedAt": "2026-11-27T17:58:46.860Z"
-  },
-  {
-    "id": "f600c8bee495abe3",
-    "title": "УЕФА начал расследование после беспорядков на матче «Бешикташа» в Батуми",
-    "sport": "Футбол",
-    "category": "Футбол",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/5/36/427957934095365.jpeg",
-    "teaser": "УЕФА начал расследование после беспорядков на матче «Бешикташа» в Батуми",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6b09a1a4ebf1249c67529eb5",
-    "publishedAt": "2026-11-27T15:46:54.000Z",
-    "createdAt": "2026-11-27T17:58:50.742Z",
-    "updatedAt": "2026-11-27T17:58:50.742Z"
-  },
-  {
-    "id": "72f546acd554c450",
-    "title": "Шведская лыжница осудила освистывание россиянки Терентьевой на этапе КМ",
-    "sport": "Другое",
-    "category": "Другие",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/2/53/627957914121532.jpeg",
-    "teaser": "Шведская лыжница осудила освистывание россиянки Терентьевой на этапе КМ",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6b09954724e14361686bba84",
-    "publishedAt": "2026-11-27T15:26:09.000Z",
-    "createdAt": "2026-11-27T17:58:49.697Z",
-    "updatedAt": "2026-11-27T17:58:49.697Z"
+    "createdAt": "2026-11-28T01:21:52.322Z",
+    "updatedAt": "2026-11-28T01:21:52.322Z"
   },
   {
     "id": "f153cbca840597a4",
@@ -94,49 +136,7 @@
     "sourceName": "РБК Спорт",
     "sourceUrl": "https://sportrbc.ru/news/6b099a719cc234c71f8a317e",
     "publishedAt": "2026-11-27T15:18:23.000Z",
-    "createdAt": "2026-11-27T17:58:48.712Z",
-    "updatedAt": "2026-11-27T17:58:48.712Z"
-  },
-  {
-    "id": "1a3d7c2dae61c493",
-    "title": "Тайсона Фьюри допустили к бою с Джошуа после новости о шизофрении",
-    "sport": "Единоборства",
-    "category": "Единоборства",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/4/87/447957865730874.jpeg",
-    "teaser": "Тайсона Фьюри допустили к бою с Джошуа после новости о шизофрении",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6b0986e2c9336c11aa213e29",
-    "publishedAt": "2026-11-27T14:28:32.000Z",
-    "createdAt": "2026-11-27T17:58:51.731Z",
-    "updatedAt": "2026-11-27T17:58:51.731Z"
-  },
-  {
-    "id": "84b492a8aa3fb0c6",
-    "title": "Вяльбе назвала подвигом результат лыжницы Терентьевой на старте КМ",
-    "sport": "Другое",
-    "category": "Другие",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/4/28/377957842611284.jpeg",
-    "teaser": "Вяльбе назвала подвигом результат лыжницы Терентьевой на старте КМ",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6b097d33d148e7329dae9b9a",
-    "publishedAt": "2026-11-27T13:22:19.000Z",
-    "createdAt": "2026-11-27T17:58:52.679Z",
-    "updatedAt": "2026-11-27T17:58:52.679Z"
-  },
-  {
-    "id": "36c6903f5ca01020",
-    "title": "Лыжник Коростелев стал десятым в первой гонке нового сезона Кубка мира",
-    "sport": "Другое",
-    "category": "Другие",
-    "imageUrl": "https://s0.rbk.ru/v6_top_pics/media/img/5/19/717957840942195.jpeg",
-    "teaser": "Лыжник Коростелев стал десятым в первой гонке нового сезона Кубка мира",
-    "fullContent": "",
-    "sourceName": "РБК Спорт",
-    "sourceUrl": "https://sportrbc.ru/news/6b097d6ef45f8e3d1b17eea7",
-    "publishedAt": "2026-11-27T13:07:15.000Z",
-    "createdAt": "2026-11-27T17:58:53.668Z",
-    "updatedAt": "2026-11-27T17:58:53.668Z"
+    "createdAt": "2026-11-28T01:21:54.193Z",
+    "updatedAt": "2026-11-28T01:21:54.193Z"
   }
 ]
